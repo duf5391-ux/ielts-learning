@@ -1,0 +1,19 @@
+{
+  "name": "IELTS 四科学习册",
+  "short_name": "雅思学习册",
+  "lang": "zh-CN",
+  "id": "./",
+  "start_url": "./index.html#study",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f7f7f2",
+  "theme_color": "#356c57",
+  "icons": [
+    {
+      "src": "app-icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}

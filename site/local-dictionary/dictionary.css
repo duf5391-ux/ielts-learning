@@ -1,0 +1,12 @@
+.dictionary-entry{border-bottom:1px solid #d9e1d5;padding:12px 0;overflow-wrap:anywhere}
+.dictionary-entry h4{margin:0;font-size:19px;color:#204c42}
+.dictionary-entry p{margin:7px 0}
+.dictionary-meaning{white-space:pre-line;line-height:1.8}
+.dictionary-meta{font-size:13px;color:#596b60}
+.dictionary-online{margin-top:16px;font-size:13px}
+.dictionary-online summary{cursor:pointer}
+.local-dictionary-entry{padding:18px 20px;margin:0 0 22px;background:#edf3e7;border:1px solid #d2decc;border-radius:12px}
+.local-dictionary-entry p{margin:0 0 10px}
+.local-dictionary-entry button,.local-dictionary-entry a{display:inline-block;margin:3px 10px 3px 0}
+#lookup-result h4{margin:14px 0 4px}
+#lookup-result .dictionary-entry h4{font-size:17px;margin:0}

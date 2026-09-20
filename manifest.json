@@ -1,0 +1,5117 @@
+{
+  "source_html_sha256": "dc3e6e39ab1bf2155069f92d6fe952733b9b044684a02d81d7f426578578938a",
+  "published_html_sha256": "213a5af0f39be02966bea80e27f7d1c6752f7dd952575fc075dfa4eff1121db8",
+  "save_fields": 3353,
+  "published_files": 1020,
+  "total_bytes": 263421077,
+  "html_pages_checked": 10,
+  "scripts_syntax_checked": 33,
+  "dictionary": {
+    "lossless": true,
+    "shards": 702,
+    "original_bytes": 84040395,
+    "compressed_bytes": 25395316
+  },
+  "files": [
+    {
+      "path": "_headers",
+      "bytes": 126,
+      "sha256": "3f0981a0eef611802ea5e611b93db7df7f7b5e948b6076a454389d9c8ad0464f"
+    },
+    {
+      "path": "app-icon.svg",
+      "bytes": 346,
+      "sha256": "a7b84c59c74a8869c6607b04f2bbc557ea74db623f5615865052703024b2c409"
+    },
+    {
+      "path": "assets/text-questions/bricks.png",
+      "bytes": 250591,
+      "sha256": "d1971a6149d18c265d3563273a57afd0ab20853688cd8bffb6adf02bb6519893"
+    },
+    {
+      "path": "assets/text-questions/further-education.png",
+      "bytes": 46759,
+      "sha256": "b275911c721cefa3b58c974ed7273d1b73d15da0d3d65226531f2e29a44addd9"
+    },
+    {
+      "path": "assets/text-questions/us-jobs.png",
+      "bytes": 142353,
+      "sha256": "585d52dd9f666f294a84e8058f3a9152549e5ab568e9b45389ea524e72774c07"
+    },
+    {
+      "path": "case-assets/official-diagram-original.png",
+      "bytes": 82776,
+      "sha256": "885344e7f452918d71a02a542113fca1e34e8b3c565d847c41e474b110bae706"
+    },
+    {
+      "path": "case-assets/official-table-original.png",
+      "bytes": 74606,
+      "sha256": "44aeb61d37e39d5b01e88298b3aa224cb27aea0a9eaef44672e6527aab9671db"
+    },
+    {
+      "path": "case-assets/reading-gap-academic-health-short-answer.pdf",
+      "bytes": 83425,
+      "sha256": "aac14357846fb69542aca17e8a6a87fdf2a573bd02ef9452fc49569be11bb7ff"
+    },
+    {
+      "path": "case-assets/reading-gap-origins-birds-answers.pdf",
+      "bytes": 17153,
+      "sha256": "ff2ae0d1666da88fd52496b79d1e0f9f0587375e729ff23c78a28c3175e0fb6b"
+    },
+    {
+      "path": "case-assets/reading-gap-origins-birds-original.html",
+      "bytes": 6064,
+      "sha256": "badd555ef8d88bd51c18b5530ff7840357557e0225b60398193d3b26e4081e6d"
+    },
+    {
+      "path": "case-assets/reading-official-cambridge-zip-115012_Academic_Reading_sample_task_-_Diagram_label_completion__2_.pdf",
+      "bytes": 60506,
+      "sha256": "6f381ee14d77b4dd888492450187c11a1e50bfbdb73cf5e31eaa6841d5a19742"
+    },
+    {
+      "path": "case-assets/reading-official-cambridge-zip-115018_Academic_Reading_sample_task_-_Table_completion__2_.pdf",
+      "bytes": 59045,
+      "sha256": "a2e1e00fed9ba7249f4db1ea0f229993d20878d1b328319d9a22d2910e734b52"
+    },
+    {
+      "path": "case-assets/reading-official-cambridge-zip-115026_General_Training_Reading_sample_task_-_Short-answer_questions.pdf",
+      "bytes": 18313,
+      "sha256": "ddfc3cdb80e887c74dae3f512b629e3d7199c9a1c9837840dfd0a35309c7bb77"
+    },
+    {
+      "path": "case-assets/reading-official-dung-beetles-diagram.png",
+      "bytes": 73157,
+      "sha256": "3e2d47573aa371bddd4cf63f56d60fe97aa6ee51f1c877f10d0545c4655e16f9"
+    },
+    {
+      "path": "case-assets/reading-official-dung-beetles.pdf",
+      "bytes": 60506,
+      "sha256": "6f381ee14d77b4dd888492450187c11a1e50bfbdb73cf5e31eaa6841d5a19742"
+    },
+    {
+      "path": "case-assets/writing-bicycle-4.png",
+      "bytes": 94966,
+      "sha256": "e84a51a952bb3e8e177bf9f4d0c4f372435e9b57c81b0df4a039d6ff0465c253"
+    },
+    {
+      "path": "case-assets/writing-c21-30.png",
+      "bytes": 294328,
+      "sha256": "a9ad3c6c080bffd1b394673374986ed1b21f4224ca1fd1e0195adeec2c687305"
+    },
+    {
+      "path": "case-assets/writing-c21-52.png",
+      "bytes": 651896,
+      "sha256": "dd07aa55ef44d6d5f30d51fe959e9db34e62a08e4ec740c36c159640d9543515"
+    },
+    {
+      "path": "case-assets/writing-c21-73.png",
+      "bytes": 457413,
+      "sha256": "87c3c1f1eba1eed14171f8b7cbf7cd19192c8088f8316eebb2bd6dced0916ff7"
+    },
+    {
+      "path": "case-assets/writing-c21-95.png",
+      "bytes": 617143,
+      "sha256": "5491ad40a281729ae627b65505a610e0b6439dc8d0a11c6c8cc63c889df7d045"
+    },
+    {
+      "path": "case-assets/writing-official-3.png",
+      "bytes": 29906,
+      "sha256": "38fb0031617562090337c94dce3387eb7b8075cf609885b72e573ab1ef850b4e"
+    },
+    {
+      "path": "case-assets/writing-official-4.png",
+      "bytes": 234691,
+      "sha256": "ad5c816eca1e1d225c9781e190c537566d3669441afe8954dc976842a7c3a41f"
+    },
+    {
+      "path": "case-assets/writing-official-5.png",
+      "bytes": 758205,
+      "sha256": "4ef86a6fd4a1c117a385e1cfd40ac1e530b8b1f2fe83fec6d929e40287c7134e"
+    },
+    {
+      "path": "case-assets/writing-official-elder-care.pdf",
+      "bytes": 11134,
+      "sha256": "89aaee37c110e038fa1676636d33127d4d09f4ee3f47573bf086e3030d5fec07"
+    },
+    {
+      "path": "case-assets/writing-official-large-print.pdf",
+      "bytes": 228255,
+      "sha256": "63da18c3c3e5d70058552a7f9319b3984b8700eda9bc2ab4e687c898ea4a9651"
+    },
+    {
+      "path": "case-assets/writing-official-sample-tasks-2023.pdf",
+      "bytes": 1496682,
+      "sha256": "f9b5b43fbb3f070741f970ecf2adbfaaef8b2f520eb5e2d350bae39557b1c7af"
+    },
+    {
+      "path": "case-assets/writing-official-transport.pdf",
+      "bytes": 11299,
+      "sha256": "517ed812097338f32583a3ebe16d447cf9a85ea90409f4469ef2a1dcb1618f18"
+    },
+    {
+      "path": "index.html",
+      "bytes": 14887979,
+      "sha256": "213a5af0f39be02966bea80e27f7d1c6752f7dd952575fc075dfa4eff1121db8"
+    },
+    {
+      "path": "learning-assets/c21-page-17.png",
+      "bytes": 629123,
+      "sha256": "e53faf8c5b1bc8ce7ab81058c93ee3f8b4718dcade4bfda995b2023c68b7e221"
+    },
+    {
+      "path": "learning-assets/c21-page-18.png",
+      "bytes": 955156,
+      "sha256": "bd8fe9931793ae7c64c2b6e9982d9f6ea24d8c0599b87aea14cf6b3717067236"
+    },
+    {
+      "path": "learning-assets/c21-page-19.png",
+      "bytes": 328684,
+      "sha256": "ef104b81fb2a9c4b62d96dc37f1b48d8166ccb1e9152149aab39a4bc6286ffb7"
+    },
+    {
+      "path": "learning-assets/c21-page-20.png",
+      "bytes": 307570,
+      "sha256": "71fdc0ce0ec437c579d59aebfc11f57720a26225fd4577e895b942010c4687d3"
+    },
+    {
+      "path": "learning-assets/c21-page-21.png",
+      "bytes": 733660,
+      "sha256": "830043dcb73232fbc018e3678a2f672f949e2e5e4ea108a0d025396277c0bec8"
+    },
+    {
+      "path": "learning-assets/c21-page-22.png",
+      "bytes": 764301,
+      "sha256": "a6af242a0dd4a2c829bede3a64261942675401ab5c97b90998039c9a039cedcb"
+    },
+    {
+      "path": "learning-assets/c21-page-23.png",
+      "bytes": 149599,
+      "sha256": "ec2a855e508c4ed482e23647714e95954062f2317a013c8b3fb7303d7e68066a"
+    },
+    {
+      "path": "learning-assets/c21-page-24.png",
+      "bytes": 313072,
+      "sha256": "f59c976e705b5fdcd5a9c540b86488129d20e82d964f52b4b75ac80e9f38eb64"
+    },
+    {
+      "path": "learning-assets/c21-page-25.png",
+      "bytes": 256824,
+      "sha256": "81f5223cafc59e7856304d9564ac1d836a38a1c09c11b572889ecfd422cb8230"
+    },
+    {
+      "path": "learning-assets/c21-page-26.png",
+      "bytes": 849549,
+      "sha256": "e7036e57be6f3dade07dccc554db1426819396ad8f76430a255722f55cf0386c"
+    },
+    {
+      "path": "learning-assets/c21-page-27.png",
+      "bytes": 652996,
+      "sha256": "e79944ee65d11d7a0af53915111055dd8ab302bfd249625867da2fef96b2c1ef"
+    },
+    {
+      "path": "learning-assets/c21-page-28.png",
+      "bytes": 435091,
+      "sha256": "db086a07d6dcb41f3f82da6c939c8f2d9b6b5bd616e88f96c819b48e32baaa5e"
+    },
+    {
+      "path": "learning-assets/c21-page-29.png",
+      "bytes": 439180,
+      "sha256": "a57936c17fad320818229c10d775bed282df85452762e93ad03e6e89b74866cd"
+    },
+    {
+      "path": "learning-assets/c21-page-30.png",
+      "bytes": 298299,
+      "sha256": "8894648bcf9816acbe7f3dfc46597c7043e983c9c0676ee0ef54a01c4e4d3e42"
+    },
+    {
+      "path": "learning-assets/c21-page-31.png",
+      "bytes": 137900,
+      "sha256": "5c6d5d0619079b7580afe99445f17e7cb49e385b707c8a2bde1151036bc85c57"
+    },
+    {
+      "path": "learning-assets/inspera-browser-figure-flowchart.svg",
+      "bytes": 5762,
+      "sha256": "b7d8745792c33fe07c7e1e20f1a86230c74078168dba86248e5dbdbe3deeedd9"
+    },
+    {
+      "path": "learning-assets/inspera-browser-figure-map.svg",
+      "bytes": 248051,
+      "sha256": "62172c803dde2f72e2819b83377167c9aa56e7ffbeed156a1dbbd7ab38e22f76"
+    },
+    {
+      "path": "local-dictionary/dictionary-engine.js",
+      "bytes": 19813,
+      "sha256": "e7f28f76d3709df0ca2322883a4a4bac132184675620562c0d41891566d59fff"
+    },
+    {
+      "path": "local-dictionary/dictionary-manifest.js",
+      "bytes": 11584,
+      "sha256": "4d443c3a0d4520ae24cb9a83657ccb30805612c71e974635385a4f93e00d6783"
+    },
+    {
+      "path": "local-dictionary/dictionary-ui.js",
+      "bytes": 3789,
+      "sha256": "bd9b9c7b0f361a8d0c136b407efb0868e5579ae3009c75d16e2b9327e4576aef"
+    },
+    {
+      "path": "local-dictionary/dictionary.css",
+      "bytes": 746,
+      "sha256": "854afff7a1777b8f734d5c6801cbbfc1dd8956fc0994b6561d63ff5056f699fc"
+    },
+    {
+      "path": "local-dictionary/LICENSE",
+      "bytes": 1063,
+      "sha256": "f8552dd246f61a4e064569eae6194a01c6b3d63b03bf27c6ca863593c549ed0f"
+    },
+    {
+      "path": "local-dictionary/shards/__.json.gz.bin",
+      "bytes": 2599,
+      "sha256": "019d79e352006f232e8affe0fbf25616db840ebc36d6750cca0289ba3a70b188"
+    },
+    {
+      "path": "local-dictionary/shards/a_.json.gz.bin",
+      "bytes": 1140,
+      "sha256": "9402d1288852ea4d819cb5d4dc5864a0ee51cd4e895ebc2ee3719a1098e1c84d"
+    },
+    {
+      "path": "local-dictionary/shards/aa.json.gz.bin",
+      "bytes": 8995,
+      "sha256": "adbb53b5d591fdf51911a4f2588fa53780aae24815ef369846954597ebfc8d0d"
+    },
+    {
+      "path": "local-dictionary/shards/ab.json.gz.bin",
+      "bytes": 90080,
+      "sha256": "930382898f61a816f151b2b056fffbd0d0f1f3ef7441fc9535fe2410d30df526"
+    },
+    {
+      "path": "local-dictionary/shards/ac.json.gz.bin",
+      "bytes": 190013,
+      "sha256": "9a15abf568ba1516ff7557666447b99be215ecc50096f438ca1ec02a9598babc"
+    },
+    {
+      "path": "local-dictionary/shards/ad.json.gz.bin",
+      "bytes": 117178,
+      "sha256": "0b90ee0a5a5cfb9c6bd57075f293c84a6eca1e64d67c4696b6c2109f36d19848"
+    },
+    {
+      "path": "local-dictionary/shards/ae.json.gz.bin",
+      "bytes": 34321,
+      "sha256": "47a7344c9522f248642475fdbea382fc462790cad6afb34e370ae81134778540"
+    },
+    {
+      "path": "local-dictionary/shards/af.json.gz.bin",
+      "bytes": 37152,
+      "sha256": "51f658709089923e33ed2f667cbb33d5a5934eee13770b4be038bbbdcdb83d7d"
+    },
+    {
+      "path": "local-dictionary/shards/ag.json.gz.bin",
+      "bytes": 53661,
+      "sha256": "3adfa77d0402beddee36897770a57247b7aec08bd9881178fa98a18c43bfe8e1"
+    },
+    {
+      "path": "local-dictionary/shards/ah.json.gz.bin",
+      "bytes": 8316,
+      "sha256": "bac79c782e65c8f0c21bef304c6a6ebde255e78b2079d063c2670376b8885767"
+    },
+    {
+      "path": "local-dictionary/shards/ai.json.gz.bin",
+      "bytes": 47959,
+      "sha256": "e3b4f4bb354766fa99d251f09e0a111bdb57a2d1153f165cccd12213c43101ad"
+    },
+    {
+      "path": "local-dictionary/shards/aj.json.gz.bin",
+      "bytes": 2920,
+      "sha256": "ec1834738529b67d9a1b802ee0d6c7b89eacfce51ad7eb64a87ad2a4f9d9de5a"
+    },
+    {
+      "path": "local-dictionary/shards/ak.json.gz.bin",
+      "bytes": 7633,
+      "sha256": "1b542e2d5ba5a876f936fa0ca6720118faf775b3a4ce6d11c56e205682185a6d"
+    },
+    {
+      "path": "local-dictionary/shards/al.json.gz.bin",
+      "bytes": 204877,
+      "sha256": "df71246fd716b58ba43b3ff5f437aa1a242710f7381c427c7cc19a5dea06e9ed"
+    },
+    {
+      "path": "local-dictionary/shards/am.json.gz.bin",
+      "bytes": 118051,
+      "sha256": "dd03ca7b49b2132fa27dbec4c9e03987c70797f9e0132433362a29e377ee8e26"
+    },
+    {
+      "path": "local-dictionary/shards/an.json.gz.bin",
+      "bytes": 275995,
+      "sha256": "d00df8e176ba570e2daeafe81915297d914bd549872d677816b6415dd96f0c62"
+    },
+    {
+      "path": "local-dictionary/shards/ao.json.gz.bin",
+      "bytes": 5011,
+      "sha256": "5d5b270f1fbf909c1bfeb13d8c65f045ccb241b92ace1f63e4d6507fee0ca178"
+    },
+    {
+      "path": "local-dictionary/shards/ap.json.gz.bin",
+      "bytes": 98455,
+      "sha256": "2698eced3c8acf5b04a2902499fa099b7208a64e755fafff826382d3f5a6c564"
+    },
+    {
+      "path": "local-dictionary/shards/aq.json.gz.bin",
+      "bytes": 10958,
+      "sha256": "effe8e2c34c86dbc4cddc086847b0031030e15b9f9d622324e8c6b1fbcb9a144"
+    },
+    {
+      "path": "local-dictionary/shards/ar.json.gz.bin",
+      "bytes": 177924,
+      "sha256": "60b06676a9e8b8449b25f0e47b182c9b56982f9cae25083e7dc55ba360fb45bf"
+    },
+    {
+      "path": "local-dictionary/shards/as.json.gz.bin",
+      "bytes": 124620,
+      "sha256": "7f75a29e46aa321acf107713435a98f8c762a03659993cf05a7e7037383251d6"
+    },
+    {
+      "path": "local-dictionary/shards/at.json.gz.bin",
+      "bytes": 77028,
+      "sha256": "3c15b726a4d1a0a22f1d84892a75a0cbec7b7f0ff675ea39d54fb68d0a5a64c4"
+    },
+    {
+      "path": "local-dictionary/shards/au.json.gz.bin",
+      "bytes": 102535,
+      "sha256": "8040cd7a27f3eab22f9ff296955ed8f87b2682ad37bcb76dee14322d10f57259"
+    },
+    {
+      "path": "local-dictionary/shards/av.json.gz.bin",
+      "bytes": 29083,
+      "sha256": "bd76d5ee5d642caa8bdb1fdb1dfb55dde68096d01b1d6c41b483fdf9fd8c9a8c"
+    },
+    {
+      "path": "local-dictionary/shards/aw.json.gz.bin",
+      "bytes": 9853,
+      "sha256": "4d520f1134ca35d677b2542bd6479cada5b47386e14375dcdfd2c04dc96c2d50"
+    },
+    {
+      "path": "local-dictionary/shards/ax.json.gz.bin",
+      "bytes": 10290,
+      "sha256": "2a03e8c94aa10416310a8f0ad7853b6c94c1186a08c01e989e083848ccd7be10"
+    },
+    {
+      "path": "local-dictionary/shards/ay.json.gz.bin",
+      "bytes": 5294,
+      "sha256": "c765c59ab49db1341e194b7c15df46bc5005231004170d668af2d002162e3b2a"
+    },
+    {
+      "path": "local-dictionary/shards/az.json.gz.bin",
+      "bytes": 14577,
+      "sha256": "c3536beead82124a8d364d7b4cef17e4bbdfec4663169c2e3ed6755f4b11abfb"
+    },
+    {
+      "path": "local-dictionary/shards/b_.json.gz.bin",
+      "bytes": 405,
+      "sha256": "5ac0b7913c4369ae37c6ce11290d22338e31fe0119ed1f2035ddc611f78f3038"
+    },
+    {
+      "path": "local-dictionary/shards/ba.json.gz.bin",
+      "bytes": 323602,
+      "sha256": "bb525573bf9791b43f999dc615b289805a16cbcededbc5910bbd579651d842df"
+    },
+    {
+      "path": "local-dictionary/shards/bb.json.gz.bin",
+      "bytes": 1744,
+      "sha256": "ac9d7dbd0bfacabf4256215ffae436975c2331d66fd38c9df55d4184c5146bf8"
+    },
+    {
+      "path": "local-dictionary/shards/bc.json.gz.bin",
+      "bytes": 3090,
+      "sha256": "316a8d2e4706de29a76364927c5070edb430b0654c6d557dda3574b365b07ef7"
+    },
+    {
+      "path": "local-dictionary/shards/bd.json.gz.bin",
+      "bytes": 2047,
+      "sha256": "08977722353d2251cdfc574d0384d9afd01ef2b3094fd1b61765fab6821e0d4a"
+    },
+    {
+      "path": "local-dictionary/shards/be.json.gz.bin",
+      "bytes": 275827,
+      "sha256": "12f94cf03f05f838e379142f4a7e1de58a71aa12666758f85095a72cdd1482b4"
+    },
+    {
+      "path": "local-dictionary/shards/bf.json.gz.bin",
+      "bytes": 1424,
+      "sha256": "b103a8c0232a9bf8b3dd589e4864323f2b45b38f166f5cde9d936f34f7160c5e"
+    },
+    {
+      "path": "local-dictionary/shards/bg.json.gz.bin",
+      "bytes": 816,
+      "sha256": "9d0c6aebe017f62cd003e970368b58a1e8380c32921ebdeff709eaf95360124e"
+    },
+    {
+      "path": "local-dictionary/shards/bh.json.gz.bin",
+      "bytes": 3735,
+      "sha256": "94376342848626f8b1ca958e699709de3505c852f0547aaf5f49b09ec69644cc"
+    },
+    {
+      "path": "local-dictionary/shards/bi.json.gz.bin",
+      "bytes": 166594,
+      "sha256": "923ec5d9d91464147853656ffdc37d606f4daf3fd16edc9dc2aa1af698605eff"
+    },
+    {
+      "path": "local-dictionary/shards/bj.json.gz.bin",
+      "bytes": 1266,
+      "sha256": "ff0e9670b49bbc96e49e261cf13047e94fbdc68348ffc1814f8904612e5f07cd"
+    },
+    {
+      "path": "local-dictionary/shards/bk.json.gz.bin",
+      "bytes": 572,
+      "sha256": "3ccd5ea40444d799da6e37514f84ec3940e1cb2ab4b31a5edf8bdb1e7a3a3aad"
+    },
+    {
+      "path": "local-dictionary/shards/bl.json.gz.bin",
+      "bytes": 137603,
+      "sha256": "79f3a924d4cd8bc43a7fd7e765fc65ece62d948287de05942bb43d29c57e6152"
+    },
+    {
+      "path": "local-dictionary/shards/bm.json.gz.bin",
+      "bytes": 2444,
+      "sha256": "b40f3bf90727cee5e89f2b7ebeadb6dc1cc48493f4afc1ce622cf0dd1a1c2f23"
+    },
+    {
+      "path": "local-dictionary/shards/bn.json.gz.bin",
+      "bytes": 1353,
+      "sha256": "49ef96942a10a984f25ad2c4d8ec3216fea8112c1ec91ba04b1316c02890246d"
+    },
+    {
+      "path": "local-dictionary/shards/bo.json.gz.bin",
+      "bytes": 190423,
+      "sha256": "f82a33673a6f935f6134edd5e1d4e5fa757237c6bdb332a466e7faecb51a8c60"
+    },
+    {
+      "path": "local-dictionary/shards/bp.json.gz.bin",
+      "bytes": 2184,
+      "sha256": "f80f2d10ae47de54e0d10ff4e7f52399cd6791a327080adfdbdf14c99c82f4fe"
+    },
+    {
+      "path": "local-dictionary/shards/bq.json.gz.bin",
+      "bytes": 173,
+      "sha256": "a738fa6f3b8bfd254d74c5c8e74ae1c15e86c4589bb419ed86129c023759181f"
+    },
+    {
+      "path": "local-dictionary/shards/br.json.gz.bin",
+      "bytes": 199968,
+      "sha256": "78c1307936dddc824aaa4b07a6613bbd7cc788688998290b3dc489e5915d129a"
+    },
+    {
+      "path": "local-dictionary/shards/bs.json.gz.bin",
+      "bytes": 3722,
+      "sha256": "f19e342bd0a21d1902c09e0a73dfb7f65742023690c4951bdb35ef4447ec0c76"
+    },
+    {
+      "path": "local-dictionary/shards/bt.json.gz.bin",
+      "bytes": 2067,
+      "sha256": "f3dda196d1cb2644e646d25fcfde9783408ee51b28ec3389db5bd9e6badcdc13"
+    },
+    {
+      "path": "local-dictionary/shards/bu.json.gz.bin",
+      "bytes": 164784,
+      "sha256": "0598ae012ba254e9208bf7ff693f6c4262b4776ad5feb685fb04563aa9cc808b"
+    },
+    {
+      "path": "local-dictionary/shards/bv.json.gz.bin",
+      "bytes": 937,
+      "sha256": "14b14b011cb786b7c4d314617fd3a87ef236b8ebfd290f82d372499f4d9ad43d"
+    },
+    {
+      "path": "local-dictionary/shards/bw.json.gz.bin",
+      "bytes": 1348,
+      "sha256": "710bc24782826e820cdbfcd5b9dd5dc6f6977d79f34c0330e8252f12de7dc957"
+    },
+    {
+      "path": "local-dictionary/shards/bx.json.gz.bin",
+      "bytes": 331,
+      "sha256": "56f1dea25f77bfc5f905e15c40c8c60085a665a93af49b237073c95d8d0ea3ff"
+    },
+    {
+      "path": "local-dictionary/shards/by.json.gz.bin",
+      "bytes": 18574,
+      "sha256": "c079734697907197964d30fe595726d65269fcc04d53f0e7143eec2e416c5fe4"
+    },
+    {
+      "path": "local-dictionary/shards/bz.json.gz.bin",
+      "bytes": 430,
+      "sha256": "e0198c28c842a66b20ddabb6e206482cf6fbd3403ac5dbef40db55b2393f213a"
+    },
+    {
+      "path": "local-dictionary/shards/c_.json.gz.bin",
+      "bytes": 774,
+      "sha256": "4becde75d7fbe5a4e6b1cc5aa6cae6eaef7dbe0765af32c2f83ac3c69eb410d8"
+    },
+    {
+      "path": "local-dictionary/shards/ca.json.gz.bin",
+      "bytes": 463207,
+      "sha256": "afff9c900c26ab7a8de5ea8d701f264ca8727bfa4bee39c64cbc1e572515e0e3"
+    },
+    {
+      "path": "local-dictionary/shards/cb.json.gz.bin",
+      "bytes": 3181,
+      "sha256": "bc342feef341f9a413f3694460b742f21e499ad2159fea919341ae40c14a94df"
+    },
+    {
+      "path": "local-dictionary/shards/cc.json.gz.bin",
+      "bytes": 5772,
+      "sha256": "0f06054f19d8e3127aa6eebde1812f7c6062b549acc8de262b2840ede23bff53"
+    },
+    {
+      "path": "local-dictionary/shards/cd.json.gz.bin",
+      "bytes": 4765,
+      "sha256": "2aff183a13a2c66038e02af5e78806e00b2dbd2c8cb20194503c4dd23fca719c"
+    },
+    {
+      "path": "local-dictionary/shards/ce.json.gz.bin",
+      "bytes": 112741,
+      "sha256": "ea86d343388f70b238a456e4fcc28d228ebdfdfdcb541c399b74ffcefa81d77d"
+    },
+    {
+      "path": "local-dictionary/shards/cf.json.gz.bin",
+      "bytes": 2952,
+      "sha256": "2985a13c17bcb2370e4c21dac5a4164fbb7240da325d35e0225498f30344942e"
+    },
+    {
+      "path": "local-dictionary/shards/cg.json.gz.bin",
+      "bytes": 1882,
+      "sha256": "edee98fe193c2af356d0a948b9bdc8a1527bd6889ee323a0568f2cff54a69698"
+    },
+    {
+      "path": "local-dictionary/shards/ch.json.gz.bin",
+      "bytes": 336505,
+      "sha256": "be4465617f62311b67d411c29fb4cadf727f8294d11df6b01d279b77b97606f2"
+    },
+    {
+      "path": "local-dictionary/shards/ci.json.gz.bin",
+      "bytes": 76754,
+      "sha256": "f6a910ebc3f1b57bb3107d7d64f454603e130476b8c07065615ae32aff17b686"
+    },
+    {
+      "path": "local-dictionary/shards/cj.json.gz.bin",
+      "bytes": 515,
+      "sha256": "34802f72b536ef89e54b672922b094b8a46a0b50be9134e5d6c7bc542816bc72"
+    },
+    {
+      "path": "local-dictionary/shards/ck.json.gz.bin",
+      "bytes": 970,
+      "sha256": "0ba87230d31df62eea18fc8d7e721705905320715f91e6bd215f5a5dcb812ef9"
+    },
+    {
+      "path": "local-dictionary/shards/cl.json.gz.bin",
+      "bytes": 142126,
+      "sha256": "538b55264c6811d51a8896312fa166730fa96851bb42a39b33c1bcebd3af61b9"
+    },
+    {
+      "path": "local-dictionary/shards/cm.json.gz.bin",
+      "bytes": 4022,
+      "sha256": "478383d9bc7f81d021142eb58719e5d5062bf8c61d77cb3095d65283c3683631"
+    },
+    {
+      "path": "local-dictionary/shards/cn.json.gz.bin",
+      "bytes": 4399,
+      "sha256": "27557554b4fb88fc4153250c25e55b2cff384051634c64312ba27814580c27e7"
+    },
+    {
+      "path": "local-dictionary/shards/co.json.gz.bin",
+      "bytes": 815445,
+      "sha256": "14c960fd87386e4cf8fcad8ee7d2ad598e2e93ac1c09f4ddf58a7822fa511411"
+    },
+    {
+      "path": "local-dictionary/shards/cp.json.gz.bin",
+      "bytes": 4791,
+      "sha256": "a166e32078a2e0ed69ebb9ba269babfd1e4f9587e93fb49ff6994029f411f21a"
+    },
+    {
+      "path": "local-dictionary/shards/cq.json.gz.bin",
+      "bytes": 440,
+      "sha256": "d91a18ba082292e968e3cb5f0031222b0608bab9fd026bb2e99667a6e8ecaa05"
+    },
+    {
+      "path": "local-dictionary/shards/cr.json.gz.bin",
+      "bytes": 190044,
+      "sha256": "22ae096e8a5a6ca417030edd04361778ab8f6583d56e930845bb33091df91e8a"
+    },
+    {
+      "path": "local-dictionary/shards/cs.json.gz.bin",
+      "bytes": 6294,
+      "sha256": "4e801df10d24f5025f70d0d57df21d1923a11c52e72f92a23951a342b1a6ddeb"
+    },
+    {
+      "path": "local-dictionary/shards/ct.json.gz.bin",
+      "bytes": 4605,
+      "sha256": "45f247add78135d930b9049f3a35daa46d514cb5313f74a1892553b8915787d1"
+    },
+    {
+      "path": "local-dictionary/shards/cu.json.gz.bin",
+      "bytes": 106551,
+      "sha256": "ee76aab2197aafed874114070f2969bc6c97f6b607f10966f2afcb0cab0e1d40"
+    },
+    {
+      "path": "local-dictionary/shards/cv.json.gz.bin",
+      "bytes": 2036,
+      "sha256": "175a0fbcf0b26fbfba4115da459212dd5e91781bfb13e5d5942be9da4ebdc8fd"
+    },
+    {
+      "path": "local-dictionary/shards/cw.json.gz.bin",
+      "bytes": 1436,
+      "sha256": "ff552655f95c0167f1fb02316547a149ae60a6539d105019be05c940a1cae3ac"
+    },
+    {
+      "path": "local-dictionary/shards/cx.json.gz.bin",
+      "bytes": 850,
+      "sha256": "e16675bf1dbe8db5840ead5bebf5dfe57d68b55f617ea12702e72d649ace7f0a"
+    },
+    {
+      "path": "local-dictionary/shards/cy.json.gz.bin",
+      "bytes": 64446,
+      "sha256": "cc18fc262aed340b0a0b0d6cb30bf609f0fd05c8ca0b3b157b228534cd8ba028"
+    },
+    {
+      "path": "local-dictionary/shards/cz.json.gz.bin",
+      "bytes": 2673,
+      "sha256": "0e663818157e1b4bf28ca04feaf94e791f375e2fd3ecb38e5565320500e7e9f5"
+    },
+    {
+      "path": "local-dictionary/shards/d_.json.gz.bin",
+      "bytes": 461,
+      "sha256": "0f849904b1d2cd4a11de9c3284829225b29070ab1573480212751bdce657c203"
+    },
+    {
+      "path": "local-dictionary/shards/da.json.gz.bin",
+      "bytes": 106007,
+      "sha256": "241a29034958cd8b0d93c052277a81b8b98bfee56c1e752bc9b9209421452960"
+    },
+    {
+      "path": "local-dictionary/shards/db.json.gz.bin",
+      "bytes": 2348,
+      "sha256": "85011f625200cb62b3577978589155cdcab04facd76c1705ab48d24941553741"
+    },
+    {
+      "path": "local-dictionary/shards/dc.json.gz.bin",
+      "bytes": 3722,
+      "sha256": "84f73c2b46971b7c462a1cb2d6abcfc1da91b49145c4a65390b3fb0087d13595"
+    },
+    {
+      "path": "local-dictionary/shards/dd.json.gz.bin",
+      "bytes": 2143,
+      "sha256": "683a53b42be2ad180e604105cac1c0f0deabdb9a3ddaf6d2a2eddc898870f7d9"
+    },
+    {
+      "path": "local-dictionary/shards/de.json.gz.bin",
+      "bytes": 414627,
+      "sha256": "da034d665ab13e387f8fdaaaab1abd615fa0bb5e9935236118838dfc76d9fb5a"
+    },
+    {
+      "path": "local-dictionary/shards/df.json.gz.bin",
+      "bytes": 1863,
+      "sha256": "15b6e9cf5a7dc6c9290780010919bd3bf75c2c50c7d3e345cf344923a1166d91"
+    },
+    {
+      "path": "local-dictionary/shards/dg.json.gz.bin",
+      "bytes": 1138,
+      "sha256": "b041c59266224bf51212d681b29c00aaed75c1382a49d0c3add0cc83459e584e"
+    },
+    {
+      "path": "local-dictionary/shards/dh.json.gz.bin",
+      "bytes": 3439,
+      "sha256": "ba59ff7fcbb476282cbafdb83a71f4b1c4e46de64b66acd4cde5c1e327790be6"
+    },
+    {
+      "path": "local-dictionary/shards/di.json.gz.bin",
+      "bytes": 392970,
+      "sha256": "4b2b51dfd70b03a251c0d82a7cfaf11b1d8b5672fb48dbe7cb0dfb1d0b508d77"
+    },
+    {
+      "path": "local-dictionary/shards/dj.json.gz.bin",
+      "bytes": 2421,
+      "sha256": "990679726f791cf4fe3dd85df825999e592de491a1aea95242271ba24f4435a3"
+    },
+    {
+      "path": "local-dictionary/shards/dk.json.gz.bin",
+      "bytes": 699,
+      "sha256": "8af5dc1f009f0bcf6d08086f76e6a5f30ad771333488ee8a39912bbdb7b636fa"
+    },
+    {
+      "path": "local-dictionary/shards/dl.json.gz.bin",
+      "bytes": 2529,
+      "sha256": "30ee557dc27a745fcfd6ad32fd3efbc7f42024e10573e2c5cf66b4383b159913"
+    },
+    {
+      "path": "local-dictionary/shards/dm.json.gz.bin",
+      "bytes": 3057,
+      "sha256": "bbd8455eb8cee9ecd6d8ebb1159bc464f799bf2d76cf81960e94d6019b545abb"
+    },
+    {
+      "path": "local-dictionary/shards/dn.json.gz.bin",
+      "bytes": 2658,
+      "sha256": "f069772931749d9fe74234aef7c6f1577db19480b409b866f16cd36c873c44fe"
+    },
+    {
+      "path": "local-dictionary/shards/do.json.gz.bin",
+      "bytes": 152871,
+      "sha256": "6c689458678fe46709b2d7ea15f44a2b8e41b4d7b03ab513d58ddb231117fbac"
+    },
+    {
+      "path": "local-dictionary/shards/dp.json.gz.bin",
+      "bytes": 2238,
+      "sha256": "61ca0c9feee7e69b0b98a37f9c1dc262347a9914e629e88bab906be7a3a82b0a"
+    },
+    {
+      "path": "local-dictionary/shards/dq.json.gz.bin",
+      "bytes": 304,
+      "sha256": "381f9b2376df43bf158fad1c689c20663da5ac2f8051af88ad570f9fff99a877"
+    },
+    {
+      "path": "local-dictionary/shards/dr.json.gz.bin",
+      "bytes": 102226,
+      "sha256": "02a13cd62c978e8d288ea12130118c4166cebc8a842270c228a81337f11dee50"
+    },
+    {
+      "path": "local-dictionary/shards/ds.json.gz.bin",
+      "bytes": 2953,
+      "sha256": "8e26113acc58c816fcc469d29a8970d453d43c5464f3e3541ab0b4d3b1ea78c6"
+    },
+    {
+      "path": "local-dictionary/shards/dt.json.gz.bin",
+      "bytes": 2029,
+      "sha256": "8ec3e486759f5d93e907582a32a7d16841185eed9efc6920aa9523acc3ae92c0"
+    },
+    {
+      "path": "local-dictionary/shards/du.json.gz.bin",
+      "bytes": 77107,
+      "sha256": "6c4789d8a13c1552d824a944e1181a708fe82e6ca80ae10cea7b26486a085717"
+    },
+    {
+      "path": "local-dictionary/shards/dv.json.gz.bin",
+      "bytes": 1961,
+      "sha256": "a7a05ec59dcd1896b9c339c5661de9fed92055497173e182f6f4b1101f1dcc1e"
+    },
+    {
+      "path": "local-dictionary/shards/dw.json.gz.bin",
+      "bytes": 5158,
+      "sha256": "70c1de9fc8930f8b4b28246a35c4b2f0ca8fdbb03809fa9a53dcc68f32e0a831"
+    },
+    {
+      "path": "local-dictionary/shards/dx.json.gz.bin",
+      "bytes": 507,
+      "sha256": "f34cf43eb66a232dc159908c4c43769a265c2eeeec8cbf64533a15cfff941caa"
+    },
+    {
+      "path": "local-dictionary/shards/dy.json.gz.bin",
+      "bytes": 26328,
+      "sha256": "314baa8c2ba9ff03e2e0f93afa0b5b0ffb11002dedd4bd00093b247c412ba0b2"
+    },
+    {
+      "path": "local-dictionary/shards/dz.json.gz.bin",
+      "bytes": 612,
+      "sha256": "26e5da0986f7cd5ae66eee358ee7b6f08456d5e690364069b0ba6605293b5408"
+    },
+    {
+      "path": "local-dictionary/shards/e_.json.gz.bin",
+      "bytes": 560,
+      "sha256": "23211eb05ad1117e006d5ebfcebe86aa457024f83acb088b7885630c96480734"
+    },
+    {
+      "path": "local-dictionary/shards/ea.json.gz.bin",
+      "bytes": 36861,
+      "sha256": "f00640d6b68440f2c6869491985fe1f35191ce336ed20dad9781b268128e4bad"
+    },
+    {
+      "path": "local-dictionary/shards/eb.json.gz.bin",
+      "bytes": 8257,
+      "sha256": "e84fa567729a3d2a29f4b0b8e5838c6a4fca9870da0350a64384b6bf31b0747b"
+    },
+    {
+      "path": "local-dictionary/shards/ec.json.gz.bin",
+      "bytes": 44789,
+      "sha256": "4515537af71a4ee041631be4891d1b63f4abf739027b039913215ef1c931f576"
+    },
+    {
+      "path": "local-dictionary/shards/ed.json.gz.bin",
+      "bytes": 27222,
+      "sha256": "afab348f52da2012c72cc3ef3d1a64714204f4618b860bc9836a79c6f152780a"
+    },
+    {
+      "path": "local-dictionary/shards/ee.json.gz.bin",
+      "bytes": 4354,
+      "sha256": "d3bd80bb9dd1c581bb8ba8a2def1d7c22cd6ee56e4f88fd5b9043fc7189b6577"
+    },
+    {
+      "path": "local-dictionary/shards/ef.json.gz.bin",
+      "bytes": 15562,
+      "sha256": "b5a7e8c08b0676070458f1b37aa4b0c39ac4528835abec834fb946128620e058"
+    },
+    {
+      "path": "local-dictionary/shards/eg.json.gz.bin",
+      "bytes": 12335,
+      "sha256": "bc741ad967dcc945f2b4f4ff52d34c1452b02de48b228d764f3cd36a2f067258"
+    },
+    {
+      "path": "local-dictionary/shards/eh.json.gz.bin",
+      "bytes": 3400,
+      "sha256": "179530315a7680a94c10d7b5f9b0d425c63b62c8fbcd6c96fc2859b99466ef39"
+    },
+    {
+      "path": "local-dictionary/shards/ei.json.gz.bin",
+      "bytes": 12971,
+      "sha256": "390a103b6b1c2fcaa7ae075bd2749cd815e0469bd553168810cd8071a95a5fa5"
+    },
+    {
+      "path": "local-dictionary/shards/ej.json.gz.bin",
+      "bytes": 2971,
+      "sha256": "e89aef90e7fc55161c2d1fe5a024086c87004e71fff5d10d8e4d555922d55f86"
+    },
+    {
+      "path": "local-dictionary/shards/ek.json.gz.bin",
+      "bytes": 2610,
+      "sha256": "9c76b1a255e9319f48ad99ec9dba94301424eaad2275ac113da08703dcbe7b09"
+    },
+    {
+      "path": "local-dictionary/shards/el.json.gz.bin",
+      "bytes": 105174,
+      "sha256": "cf66e8824deeb8cd81cd148943fe24a15b710b00948e87f3af7500977172740c"
+    },
+    {
+      "path": "local-dictionary/shards/em.json.gz.bin",
+      "bytes": 66723,
+      "sha256": "6fa4c97b06d5be5ab8464f9befc009168c6e59bccf7e054c7b61417d6879be44"
+    },
+    {
+      "path": "local-dictionary/shards/en.json.gz.bin",
+      "bytes": 150253,
+      "sha256": "48e18e5079127f029f9accbf4dbf7200c4c106d3da22052c6be80c32fa5f8546"
+    },
+    {
+      "path": "local-dictionary/shards/eo.json.gz.bin",
+      "bytes": 5575,
+      "sha256": "23f1b1f160114c7204141ea2ba84215e394a3aeb5e1fb40e7824c032b0a65efa"
+    },
+    {
+      "path": "local-dictionary/shards/ep.json.gz.bin",
+      "bytes": 55452,
+      "sha256": "780890bb3fde12f2f345b6422b92789756ce2fe7641052ff1eb19c8cf4abf43e"
+    },
+    {
+      "path": "local-dictionary/shards/eq.json.gz.bin",
+      "bytes": 24375,
+      "sha256": "cc4b564b663827664fc424b894fcd2d27e6ad83cfb38549641bd931fe34dcde4"
+    },
+    {
+      "path": "local-dictionary/shards/er.json.gz.bin",
+      "bytes": 50473,
+      "sha256": "3b288e1a5b1298c8996f4081ac250fb8cbcdc4d900c8c4330550a3da295d2777"
+    },
+    {
+      "path": "local-dictionary/shards/es.json.gz.bin",
+      "bytes": 50563,
+      "sha256": "2aabf0e6aa82c4a0ad5733e909f024f66f620dc877b7d8f43a88a534e63e2391"
+    },
+    {
+      "path": "local-dictionary/shards/et.json.gz.bin",
+      "bytes": 36534,
+      "sha256": "08f78323aa2cbccabf04688095b6a9e37cda5f8ba6d8e9a3829d93adcbc6aa40"
+    },
+    {
+      "path": "local-dictionary/shards/eu.json.gz.bin",
+      "bytes": 42748,
+      "sha256": "81665c9939bbe1eee245490659dd68f02b1a74e6b1b62c967bf06c0e0690eb46"
+    },
+    {
+      "path": "local-dictionary/shards/ev.json.gz.bin",
+      "bytes": 32788,
+      "sha256": "6600d279b57dc54c8d2c0a555e00739bbc0b8ab7cd1ecb0388f0323a76193de4"
+    },
+    {
+      "path": "local-dictionary/shards/ew.json.gz.bin",
+      "bytes": 3080,
+      "sha256": "422b1cbe849d099369f050922d97857d786217a060820a35bc9d410295d05420"
+    },
+    {
+      "path": "local-dictionary/shards/ex.json.gz.bin",
+      "bytes": 175130,
+      "sha256": "93941e8e67deda4eac167fee0a7e51ccc063db7bacdd138d435c3b6a5f35898f"
+    },
+    {
+      "path": "local-dictionary/shards/ey.json.gz.bin",
+      "bytes": 11334,
+      "sha256": "7f3f5e453bb5ba91c8808969230ecfa9a7fc98eda9b58fb87211466c4ba3ff43"
+    },
+    {
+      "path": "local-dictionary/shards/ez.json.gz.bin",
+      "bytes": 1394,
+      "sha256": "ec92550ae845f791c4973f0e02eaf73ded94738b61238e625124aacd80330d03"
+    },
+    {
+      "path": "local-dictionary/shards/f_.json.gz.bin",
+      "bytes": 1245,
+      "sha256": "cd7c94e9c71389e7e23b284b8d4e6abf819f4c5d47dfb70cbfee4493bdc3e7b0"
+    },
+    {
+      "path": "local-dictionary/shards/fa.json.gz.bin",
+      "bytes": 176440,
+      "sha256": "892238c0e8307a0de73d961e7e1f939e587b235bfb5ec2dba1fc7092adec139c"
+    },
+    {
+      "path": "local-dictionary/shards/fb.json.gz.bin",
+      "bytes": 1232,
+      "sha256": "58fdf937551238996b22dc4df03c03b776c59a2af6f288e6a364917cca067b6e"
+    },
+    {
+      "path": "local-dictionary/shards/fc.json.gz.bin",
+      "bytes": 2310,
+      "sha256": "f659c55c2221a81944a58fc6f9b12f53aee3a4b2dd9d7ae64ae2ddfc95f18cec"
+    },
+    {
+      "path": "local-dictionary/shards/fd.json.gz.bin",
+      "bytes": 2310,
+      "sha256": "b1edb2fd8a89f7b2d66c53ec3623010cb248a13cfcb853093111e03e37b70f79"
+    },
+    {
+      "path": "local-dictionary/shards/fe.json.gz.bin",
+      "bytes": 102573,
+      "sha256": "dc990c02a1d9a2172cb91e2b819d96d1807d4e95c5f3c2216dc2ede0134c50ea"
+    },
+    {
+      "path": "local-dictionary/shards/ff.json.gz.bin",
+      "bytes": 1319,
+      "sha256": "508ae74fa81ce7d2650f55c812407e22653302cb855bbc634e032c910fc5e57a"
+    },
+    {
+      "path": "local-dictionary/shards/fg.json.gz.bin",
+      "bytes": 792,
+      "sha256": "fdabab741189d0aadb3584f4989ef702a8fa2ce9e1881d90fd04678d6f432836"
+    },
+    {
+      "path": "local-dictionary/shards/fh.json.gz.bin",
+      "bytes": 1121,
+      "sha256": "5d288191629c6b18524b80ac4e494b03c9342f2feb84d3da774a073da2f3e3aa"
+    },
+    {
+      "path": "local-dictionary/shards/fi.json.gz.bin",
+      "bytes": 171172,
+      "sha256": "b2f7b163226aa0c5c7df75312122107f06b08854035b8b3dd762f7961c97e0a6"
+    },
+    {
+      "path": "local-dictionary/shards/fj.json.gz.bin",
+      "bytes": 482,
+      "sha256": "e5b992c187a4369ea5262f07b5df4c417629044142876b97656f2cb971dade6b"
+    },
+    {
+      "path": "local-dictionary/shards/fk.json.gz.bin",
+      "bytes": 132,
+      "sha256": "3755aa1de01c395cacdd39de229536fa3b6245e0a515fcdd995384a373d35767"
+    },
+    {
+      "path": "local-dictionary/shards/fl.json.gz.bin",
+      "bytes": 152517,
+      "sha256": "d1b59f7b6e2b48056dbf31b0af44f378ad1839f4e7cd53884b1f645b249819ed"
+    },
+    {
+      "path": "local-dictionary/shards/fm.json.gz.bin",
+      "bytes": 1972,
+      "sha256": "f87dc9ec196db6290a3528ac087e14044602a6ccf128cd84796566abffecd013"
+    },
+    {
+      "path": "local-dictionary/shards/fn.json.gz.bin",
+      "bytes": 1357,
+      "sha256": "49e3e6808c2eca5b012314896ed503ee41ab541f1d5d9035ef42f2fc2a100c71"
+    },
+    {
+      "path": "local-dictionary/shards/fo.json.gz.bin",
+      "bytes": 172972,
+      "sha256": "f937b55a8a2ce15207b7a6fc2b28d8c9f89281728193abaac489f541a952344c"
+    },
+    {
+      "path": "local-dictionary/shards/fp.json.gz.bin",
+      "bytes": 1469,
+      "sha256": "365cd67a40b5f9b180aff7b8a54ed6b7cdf80538af5552ac3df2bdbcf98a8bfd"
+    },
+    {
+      "path": "local-dictionary/shards/fq.json.gz.bin",
+      "bytes": 287,
+      "sha256": "b78339a748f933a907d9d599361b6c63977c8c1675ca081b021963f32ffbe5f3"
+    },
+    {
+      "path": "local-dictionary/shards/fr.json.gz.bin",
+      "bytes": 140089,
+      "sha256": "4f201a9307529f54a5a9a679df938959e5017e8351ff8cf6e25cb3591a87324f"
+    },
+    {
+      "path": "local-dictionary/shards/fs.json.gz.bin",
+      "bytes": 3184,
+      "sha256": "d7f8c82c63539001eac1df1248a9037a56ff78cfce475cc2a0324a53bfd4341c"
+    },
+    {
+      "path": "local-dictionary/shards/ft.json.gz.bin",
+      "bytes": 2455,
+      "sha256": "f79722fd07f45fd673609c330cf7aa975f3cb94d730aa21fc3c91ba5ea8ff835"
+    },
+    {
+      "path": "local-dictionary/shards/fu.json.gz.bin",
+      "bytes": 88728,
+      "sha256": "8f927e7158385980588e7d212d5f5116c316d3666da7ca38e4897991551ca757"
+    },
+    {
+      "path": "local-dictionary/shards/fv.json.gz.bin",
+      "bytes": 510,
+      "sha256": "a8ea8669c1ef705742fa750bf4847cb7e90ffabcffea01fd47dadb5ffd782d0b"
+    },
+    {
+      "path": "local-dictionary/shards/fw.json.gz.bin",
+      "bytes": 970,
+      "sha256": "5e6bf80b57b2ce0f54c2baab80e33bc091c9b147b96079bd51b2957b115db9c4"
+    },
+    {
+      "path": "local-dictionary/shards/fx.json.gz.bin",
+      "bytes": 254,
+      "sha256": "bf2b354839d3422604471285a8840d6ea15ace77f5af8158709049359d6b8c86"
+    },
+    {
+      "path": "local-dictionary/shards/fy.json.gz.bin",
+      "bytes": 1803,
+      "sha256": "1b448503ad1d9dd0fb5120b6151591c25d03f12b666cbf121ae4bb2828e5493e"
+    },
+    {
+      "path": "local-dictionary/shards/fz.json.gz.bin",
+      "bytes": 191,
+      "sha256": "71ef47615ea0f12fefb3833206afd152d1be60dcd341d0c16a286028ef1adfb5"
+    },
+    {
+      "path": "local-dictionary/shards/g_.json.gz.bin",
+      "bytes": 915,
+      "sha256": "5d638442bfd2f2182896e96a431de09263af716cbbaac9243225d9e27cd894c7"
+    },
+    {
+      "path": "local-dictionary/shards/ga.json.gz.bin",
+      "bytes": 152463,
+      "sha256": "e8069d9c6c8a9222f066ba3cd32e0ae154aff841bdd8bffc950e2c4d72f5fb2a"
+    },
+    {
+      "path": "local-dictionary/shards/gb.json.gz.bin",
+      "bytes": 1580,
+      "sha256": "8086e1e55b726bb175776305e10b3613db0d99cf1ce3aeb319c6cf605d726398"
+    },
+    {
+      "path": "local-dictionary/shards/gc.json.gz.bin",
+      "bytes": 2000,
+      "sha256": "ed8f71297f4bf83a28a64e2ab70a587fe88748d42d3d24c70e0b3bdc411ff6a6"
+    },
+    {
+      "path": "local-dictionary/shards/gd.json.gz.bin",
+      "bytes": 1685,
+      "sha256": "1f4e42f7c16c6c526e38e29d9ad1c622e5b53e6ebfa52a80661eb4e9b04bd309"
+    },
+    {
+      "path": "local-dictionary/shards/ge.json.gz.bin",
+      "bytes": 171406,
+      "sha256": "0b3b6c6fbcc8d9fd20287aa41814003b70c7ffcabbd0d897869b7b3cdea9a7e8"
+    },
+    {
+      "path": "local-dictionary/shards/gf.json.gz.bin",
+      "bytes": 1143,
+      "sha256": "51dbdd709c7721b847147852c2bb0ca5b8f15a6be7c57c05a6fc68a16425961d"
+    },
+    {
+      "path": "local-dictionary/shards/gg.json.gz.bin",
+      "bytes": 803,
+      "sha256": "38aa7a7fb47650b52e0a4f02d9561418d77e5b401bcdf94408ebcbb9738c5347"
+    },
+    {
+      "path": "local-dictionary/shards/gh.json.gz.bin",
+      "bytes": 7801,
+      "sha256": "3ff7955caa15bb2c18586f58e38b7963e0586dec671b55b6a562b6c75151fddf"
+    },
+    {
+      "path": "local-dictionary/shards/gi.json.gz.bin",
+      "bytes": 63254,
+      "sha256": "27ff704e85fcfff2f6c33ce818c05d20bf5c6b4e64ee794ff9b30f0a2ac58e81"
+    },
+    {
+      "path": "local-dictionary/shards/gj.json.gz.bin",
+      "bytes": 488,
+      "sha256": "f1d352dedccf9f2530e6f21be68faffd536b5c6a118ec9987758dd5abdd70b9b"
+    },
+    {
+      "path": "local-dictionary/shards/gk.json.gz.bin",
+      "bytes": 392,
+      "sha256": "ea8fddd0e87477db13d63f69d6d663c8fcdbc6a22c5c433e99cc1468ec5f483a"
+    },
+    {
+      "path": "local-dictionary/shards/gl.json.gz.bin",
+      "bytes": 85131,
+      "sha256": "f61540c0f5318c8c6d5aae7d036ad0ff845b2caae30f92cf51148596546f4b67"
+    },
+    {
+      "path": "local-dictionary/shards/gm.json.gz.bin",
+      "bytes": 2036,
+      "sha256": "2ce70564110655acf1432a684fdb25b763ffbe8d7014a8cef73a6b654ed71a35"
+    },
+    {
+      "path": "local-dictionary/shards/gn.json.gz.bin",
+      "bytes": 8105,
+      "sha256": "a9e89a06aa4849ae68caa19736e9e2dd268dff948b568fd9bd6f81350d77dd4e"
+    },
+    {
+      "path": "local-dictionary/shards/go.json.gz.bin",
+      "bytes": 113115,
+      "sha256": "d7e904fcf11a22337d2cd462e0b39af1d46e8203bbb57f1864656d0e6154d672"
+    },
+    {
+      "path": "local-dictionary/shards/gp.json.gz.bin",
+      "bytes": 2394,
+      "sha256": "43e6d787565730c5d5989774adee2c7603eddee13ded225fde1114220894c994"
+    },
+    {
+      "path": "local-dictionary/shards/gq.json.gz.bin",
+      "bytes": 150,
+      "sha256": "b7bfd341109bdef73caa9e691b7572a958cae49699af8755761ba872a2247ba5"
+    },
+    {
+      "path": "local-dictionary/shards/gr.json.gz.bin",
+      "bytes": 177043,
+      "sha256": "e47dcea41a9fba33c8a27b3adba58f122a7fef65e5d2f47f5f3b0af56d3930bc"
+    },
+    {
+      "path": "local-dictionary/shards/gs.json.gz.bin",
+      "bytes": 3432,
+      "sha256": "fd08290aed1384b7cb90a463a69e5d74cc7f7381bfbbcf1f0098ef94a4211c65"
+    },
+    {
+      "path": "local-dictionary/shards/gt.json.gz.bin",
+      "bytes": 1921,
+      "sha256": "85915448fba3dc133c650107b6b93822d7ac1f71392c26e05c9a95cea578d5eb"
+    },
+    {
+      "path": "local-dictionary/shards/gu.json.gz.bin",
+      "bytes": 73032,
+      "sha256": "fe3d12ca2164447b75f44314c11cfb6ea4ea270e736aba0b01c7b66148a3b78d"
+    },
+    {
+      "path": "local-dictionary/shards/gv.json.gz.bin",
+      "bytes": 517,
+      "sha256": "f0bd28028b00890c53e25b8295996e7781a8949806e902e7cfc2e5a22f0e3fd4"
+    },
+    {
+      "path": "local-dictionary/shards/gw.json.gz.bin",
+      "bytes": 1965,
+      "sha256": "5646c23d66d23c1470c1097180e7483f8a8602f74aff5ecf55f75f59c3ade1d9"
+    },
+    {
+      "path": "local-dictionary/shards/gx.json.gz.bin",
+      "bytes": 198,
+      "sha256": "f45f9d39829211507affc4d5e192b407aa4790a2740c22f7944d3c92d82cf5eb"
+    },
+    {
+      "path": "local-dictionary/shards/gy.json.gz.bin",
+      "bytes": 18931,
+      "sha256": "1dff5894dfa72398c4ecd0ebe7b4c470ed0aab35dfc6b39e5ec838a35d728de5"
+    },
+    {
+      "path": "local-dictionary/shards/gz.json.gz.bin",
+      "bytes": 290,
+      "sha256": "c93eed6ded749138a6c4afcf54e47b90f24d44ad1020e15fad552c49a5fc12c3"
+    },
+    {
+      "path": "local-dictionary/shards/h_.json.gz.bin",
+      "bytes": 557,
+      "sha256": "63667ba2af06315aed368ed4336866b75a094c122fb18e7abc6862c4e71449a3"
+    },
+    {
+      "path": "local-dictionary/shards/ha.json.gz.bin",
+      "bytes": 242493,
+      "sha256": "c3ba4c4bae48a3afa766ffc63c1a19b12dbffdd058ed368df8758ddaf98a19c5"
+    },
+    {
+      "path": "local-dictionary/shards/hb.json.gz.bin",
+      "bytes": 1681,
+      "sha256": "a413a272278cd5e1794d7cad3b649bebd061403e050d6b1ed16e8df4825775b8"
+    },
+    {
+      "path": "local-dictionary/shards/hc.json.gz.bin",
+      "bytes": 1753,
+      "sha256": "eee5738661c78d45dd11c7a19390316e8ea12090d8f2f110f1186651b67c00b8"
+    },
+    {
+      "path": "local-dictionary/shards/hd.json.gz.bin",
+      "bytes": 2002,
+      "sha256": "68f1943402b31cede93f28365c2b488a3ebecebb9aa1678001ef4f8d11423c48"
+    },
+    {
+      "path": "local-dictionary/shards/he.json.gz.bin",
+      "bytes": 245508,
+      "sha256": "3642dfa162a545b58d670726935932c30545da17c0e34cfc9503d5f8b9071afb"
+    },
+    {
+      "path": "local-dictionary/shards/hf.json.gz.bin",
+      "bytes": 944,
+      "sha256": "4fc94bb30e747e949b99497204e92497836a12d136a4a59c82539ee5dff0ffd7"
+    },
+    {
+      "path": "local-dictionary/shards/hg.json.gz.bin",
+      "bytes": 981,
+      "sha256": "2f133c45ebeab4c371f7925aa90c3e197a67945198e5c909edd2428824c2e28f"
+    },
+    {
+      "path": "local-dictionary/shards/hh.json.gz.bin",
+      "bytes": 1054,
+      "sha256": "6736411b784c44cd82a97079e44f6ef3d86beda5de5984920bf7f1956a4d85ec"
+    },
+    {
+      "path": "local-dictionary/shards/hi.json.gz.bin",
+      "bytes": 100453,
+      "sha256": "5279d3a058dcb4dc701e972954aa73510463100970299c3516b3f3853b5cdbae"
+    },
+    {
+      "path": "local-dictionary/shards/hj.json.gz.bin",
+      "bytes": 371,
+      "sha256": "320a83fae237204ae417f95e0a95fe3da6c8389f69a6b65e5281bd54c28b863a"
+    },
+    {
+      "path": "local-dictionary/shards/hk.json.gz.bin",
+      "bytes": 665,
+      "sha256": "eb3d68264e72cf5aefa44d583d5f95e5165b9e63e32c3e26611e721ede0e2f62"
+    },
+    {
+      "path": "local-dictionary/shards/hl.json.gz.bin",
+      "bytes": 1277,
+      "sha256": "89cc7c1383a8587e9e963d4d1d5010904125055e8e2077295535f6cd33fdfa40"
+    },
+    {
+      "path": "local-dictionary/shards/hm.json.gz.bin",
+      "bytes": 2053,
+      "sha256": "3ceb397b6b520e6dc26da9bdce63d2c0f531afe44c8ecf4980240f6767568ca3"
+    },
+    {
+      "path": "local-dictionary/shards/hn.json.gz.bin",
+      "bytes": 1102,
+      "sha256": "8d73672223ff252ca0e8a88384dbd9f4f02db43a8723c601c96e0fcb09a234bc"
+    },
+    {
+      "path": "local-dictionary/shards/ho.json.gz.bin",
+      "bytes": 203783,
+      "sha256": "e83414e3abf0822544b826496096c2b2c6ef7037e93b6de72251fd849382b12f"
+    },
+    {
+      "path": "local-dictionary/shards/hp.json.gz.bin",
+      "bytes": 2083,
+      "sha256": "7529f64cbc548af0141742a788c88e8a64dc0fcbb0c3d46299c6f4c938a8843d"
+    },
+    {
+      "path": "local-dictionary/shards/hq.json.gz.bin",
+      "bytes": 385,
+      "sha256": "a8be6831d0854cd4e03386a8c88ebb0a2b4037390aeaf5593ac4af4c11685e13"
+    },
+    {
+      "path": "local-dictionary/shards/hr.json.gz.bin",
+      "bytes": 2384,
+      "sha256": "dfde83b094e4d032dbe9760405e86da638ed0adfb555ef70562d24ee81274f51"
+    },
+    {
+      "path": "local-dictionary/shards/hs.json.gz.bin",
+      "bytes": 3424,
+      "sha256": "d4390ca9b5287fe2b06db25c789ba519324c70785b38ccc9ec0945270c5fb405"
+    },
+    {
+      "path": "local-dictionary/shards/ht.json.gz.bin",
+      "bytes": 2140,
+      "sha256": "dcebb1b51d1b89cd25eb25e8227ea8e52e81d28f2b96ba0c8a288282bfda345e"
+    },
+    {
+      "path": "local-dictionary/shards/hu.json.gz.bin",
+      "bytes": 59335,
+      "sha256": "01a010afef67c45ba090f0e2f825e1d16944c93c93cc69cfd0cf34d4d8944da5"
+    },
+    {
+      "path": "local-dictionary/shards/hv.json.gz.bin",
+      "bytes": 916,
+      "sha256": "5e93cadced5cb42d3343aa699ff7c4c0bfef16d86d3619f11740728f05a34867"
+    },
+    {
+      "path": "local-dictionary/shards/hw.json.gz.bin",
+      "bytes": 780,
+      "sha256": "bd2cd1bce0c56d46c5b9a22dc2239aa4f44535cfc1d55dce7fe54343010d800c"
+    },
+    {
+      "path": "local-dictionary/shards/hx.json.gz.bin",
+      "bytes": 203,
+      "sha256": "c5d9ff4d66b6d0f129a9a59356503a9681931bfc0a736c8e4398bf3b3f278303"
+    },
+    {
+      "path": "local-dictionary/shards/hy.json.gz.bin",
+      "bytes": 157420,
+      "sha256": "ff224ac3fcfdc9d98a42a493f6af682c6677b79e69add08fa06dabc64275af8f"
+    },
+    {
+      "path": "local-dictionary/shards/hz.json.gz.bin",
+      "bytes": 249,
+      "sha256": "14b17f2d0deb9db94395855f547cbe79f768f8daeff5453ce79c7900417d6b55"
+    },
+    {
+      "path": "local-dictionary/shards/i_.json.gz.bin",
+      "bytes": 245,
+      "sha256": "d34214c2d3d7d0163fd2a3ba548ef964caa66475fc288bc3b5493a81268d0e53"
+    },
+    {
+      "path": "local-dictionary/shards/ia.json.gz.bin",
+      "bytes": 6492,
+      "sha256": "32a84a1b6e43317a9bffaf6e4646dbeb0b94081082b25a2a19f62f3533d0a76f"
+    },
+    {
+      "path": "local-dictionary/shards/ib.json.gz.bin",
+      "bytes": 5548,
+      "sha256": "abdba360a525c07256e01b5acb3e8cb695c1649f37a4ca68980c4ff00e728629"
+    },
+    {
+      "path": "local-dictionary/shards/ic.json.gz.bin",
+      "bytes": 23659,
+      "sha256": "d01ca8b2682bb101ab083e59432d3f77097ff424dcc47ef80ae957c7d88bd390"
+    },
+    {
+      "path": "local-dictionary/shards/id.json.gz.bin",
+      "bytes": 27353,
+      "sha256": "6ab8ff77972d90df4368f465a52306d846bc32017cb02f5a4a8c198e840742c9"
+    },
+    {
+      "path": "local-dictionary/shards/ie.json.gz.bin",
+      "bytes": 2654,
+      "sha256": "1a040f7996a1922d3030c3de06ca473053e9aa59b575af53b9b1ffc1a6747b1b"
+    },
+    {
+      "path": "local-dictionary/shards/if.json.gz.bin",
+      "bytes": 5000,
+      "sha256": "6eaff9036350e4ed1d38d962964e5473e52fd0dbc70253935737b8fffc79aa58"
+    },
+    {
+      "path": "local-dictionary/shards/ig.json.gz.bin",
+      "bytes": 9356,
+      "sha256": "9313453bd2fb146eb34953bdf4cc4b0d7c96fe0e1280ce218f0dc4248d3c7c9f"
+    },
+    {
+      "path": "local-dictionary/shards/ih.json.gz.bin",
+      "bytes": 2528,
+      "sha256": "5c4b25cc19ac7809c4a448002a9aa042e366d9d315611f4d5df788a4b1e500b6"
+    },
+    {
+      "path": "local-dictionary/shards/ii.json.gz.bin",
+      "bytes": 3166,
+      "sha256": "fc2041da3409db4854d256f055f2a37e7533080c56ca7e14f61dedce25dbd190"
+    },
+    {
+      "path": "local-dictionary/shards/ij.json.gz.bin",
+      "bytes": 1138,
+      "sha256": "0d7d2727adb8ec3e1b08a6f78f3fabc1ae51987f56211db540befc7ea8586efd"
+    },
+    {
+      "path": "local-dictionary/shards/ik.json.gz.bin",
+      "bytes": 2155,
+      "sha256": "b73cb64470f8f2eab7a3f4ef7ae72005d511547253d1ba46bafec8bad00a6711"
+    },
+    {
+      "path": "local-dictionary/shards/il.json.gz.bin",
+      "bytes": 25956,
+      "sha256": "d5e5b586431914ff680596c3ae2c4ac0205f6876241ab676730107324bc4607d"
+    },
+    {
+      "path": "local-dictionary/shards/im.json.gz.bin",
+      "bytes": 94401,
+      "sha256": "326b2ded7b09117f996b63459df279ffdb65156c60463bcc292f90df6dceb473"
+    },
+    {
+      "path": "local-dictionary/shards/in.json.gz.bin",
+      "bytes": 525177,
+      "sha256": "bdb1ec5b9f13006700a24a242f446bbf191a99d05c31f2e1ad623ec7e5f6b218"
+    },
+    {
+      "path": "local-dictionary/shards/io.json.gz.bin",
+      "bytes": 19563,
+      "sha256": "d6d25c6063df9e93043f45735a0ed8ab306375415eb9415ca6c6c409d8db38ee"
+    },
+    {
+      "path": "local-dictionary/shards/ip.json.gz.bin",
+      "bytes": 7759,
+      "sha256": "9aec13cd9fa768f66be6f05806327dd869405b60814e50e525842c62ee11b7dd"
+    },
+    {
+      "path": "local-dictionary/shards/iq.json.gz.bin",
+      "bytes": 756,
+      "sha256": "b58cd8db067608e887c1833f00b39f77b8120c1fe40dda0bf7804ec5371068bd"
+    },
+    {
+      "path": "local-dictionary/shards/ir.json.gz.bin",
+      "bytes": 38044,
+      "sha256": "71b93783d0cc148083812c35d67474d3c126f8529e074886beed63f11506f567"
+    },
+    {
+      "path": "local-dictionary/shards/is.json.gz.bin",
+      "bytes": 72462,
+      "sha256": "3f568444212e53e49d61008afd27931bd0fe70dfa77a2fcc1b0da377ed0c2745"
+    },
+    {
+      "path": "local-dictionary/shards/it.json.gz.bin",
+      "bytes": 16200,
+      "sha256": "2c5694d2dc4e8dbd0a21bbc9f445f2235d2791b11456647ab1a78f9186bfef32"
+    },
+    {
+      "path": "local-dictionary/shards/iu.json.gz.bin",
+      "bytes": 1439,
+      "sha256": "31f0e358fbe9cb03e75da4dd8c35f424d6d9b8ffb1148701ef262083ff97d66d"
+    },
+    {
+      "path": "local-dictionary/shards/iv.json.gz.bin",
+      "bytes": 5547,
+      "sha256": "9c077d4bee0aad14d34d9e28700602d5094db5886e61ceb72835e054300ab55f"
+    },
+    {
+      "path": "local-dictionary/shards/iw.json.gz.bin",
+      "bytes": 2730,
+      "sha256": "82a4585e3c649d99b6e4da67a4b822f94c87059dde5a3caa26fd145f421d088b"
+    },
+    {
+      "path": "local-dictionary/shards/ix.json.gz.bin",
+      "bytes": 1563,
+      "sha256": "999bf759791087b8935fef6d52d052270b5707804c2f296f9460631ca39c0c97"
+    },
+    {
+      "path": "local-dictionary/shards/iy.json.gz.bin",
+      "bytes": 726,
+      "sha256": "7b0827d37cc175d805002279123fde3d1bd07e7fe403e7b83eb87a8c1dd00cc1"
+    },
+    {
+      "path": "local-dictionary/shards/iz.json.gz.bin",
+      "bytes": 1837,
+      "sha256": "b86a6b67fabfe0b1d13b6a5ca76a1b6733116538de214b4e092967594e3ae7da"
+    },
+    {
+      "path": "local-dictionary/shards/j_.json.gz.bin",
+      "bytes": 198,
+      "sha256": "ba1506de215ca234b252632f0bdd69e42f6b58e894da0dc786836ff08d175177"
+    },
+    {
+      "path": "local-dictionary/shards/ja.json.gz.bin",
+      "bytes": 62945,
+      "sha256": "326879bd1ac5c226ada12031a80616b966dc3facd1a63423bea61c13c827e737"
+    },
+    {
+      "path": "local-dictionary/shards/jb.json.gz.bin",
+      "bytes": 825,
+      "sha256": "17147d8aae208947ec421cf48aa3a1715e5e83db63fac2d65c5bf3da5ab70908"
+    },
+    {
+      "path": "local-dictionary/shards/jc.json.gz.bin",
+      "bytes": 1477,
+      "sha256": "4bd4246f6b1b0f18c4acc42bd98beb8e71add513c569c2e6e591bc1c014d5292"
+    },
+    {
+      "path": "local-dictionary/shards/jd.json.gz.bin",
+      "bytes": 1010,
+      "sha256": "3b6ec0ac55a7b2df9eb5cd39584c5f4fe80657250fe74903b9e146ed444e3faf"
+    },
+    {
+      "path": "local-dictionary/shards/je.json.gz.bin",
+      "bytes": 34071,
+      "sha256": "9411d4707597779711cc049dda414c54e76a87d9b0412e86bc7698c3a38a609c"
+    },
+    {
+      "path": "local-dictionary/shards/jf.json.gz.bin",
+      "bytes": 638,
+      "sha256": "b8de9bcb4225724010b16f3df0ff74e723ee04c90cdb9fd7dcb272fa54e4d487"
+    },
+    {
+      "path": "local-dictionary/shards/jg.json.gz.bin",
+      "bytes": 165,
+      "sha256": "b7adff2e9b0855e0be6c5feb4ce759805449ddb5a030734303dd62dc9cbdc366"
+    },
+    {
+      "path": "local-dictionary/shards/jh.json.gz.bin",
+      "bytes": 775,
+      "sha256": "48ad2e5fb522204e7f0bb75f996b4aa7d2e4f2cac44a996cb6e8b2836da3e44e"
+    },
+    {
+      "path": "local-dictionary/shards/ji.json.gz.bin",
+      "bytes": 13418,
+      "sha256": "5a5dea4640715cf928b5c3bb2f42d8a52863105bcfab78ad54fb0d6515156bad"
+    },
+    {
+      "path": "local-dictionary/shards/jj.json.gz.bin",
+      "bytes": 323,
+      "sha256": "6912e5e1a27ac103d5c5bc8b81e6b8566a92040af142747646d8b71b39c85c86"
+    },
+    {
+      "path": "local-dictionary/shards/jk.json.gz.bin",
+      "bytes": 314,
+      "sha256": "048545d6b15f1a83497c2e7eff5c3a95bdb6b5e354a392accb9f0511ea8963d0"
+    },
+    {
+      "path": "local-dictionary/shards/jl.json.gz.bin",
+      "bytes": 606,
+      "sha256": "1d0a130ba19971c5530d9b218b25529ecd49e46d8f52805092f0212fdce50c9b"
+    },
+    {
+      "path": "local-dictionary/shards/jm.json.gz.bin",
+      "bytes": 1089,
+      "sha256": "56727988da7396721592609d5124430da7db747ae613752128ebd399280a40ba"
+    },
+    {
+      "path": "local-dictionary/shards/jn.json.gz.bin",
+      "bytes": 650,
+      "sha256": "7bc4c0d614afe8dd3a1911fc124a7cf1c563411f8bde9bcfda874c528473ad85"
+    },
+    {
+      "path": "local-dictionary/shards/jo.json.gz.bin",
+      "bytes": 56471,
+      "sha256": "db574876510a0ef94571f1a7e51e95236f1b7b93a29539d73a413c74de018d21"
+    },
+    {
+      "path": "local-dictionary/shards/jp.json.gz.bin",
+      "bytes": 974,
+      "sha256": "9cca58eba18f3d6b7d1d2b1f38a3c6e2178f10e887f30aca8902a80dc54415ba"
+    },
+    {
+      "path": "local-dictionary/shards/jq.json.gz.bin",
+      "bytes": 146,
+      "sha256": "010ded04c8bc9ef8d87a9f006a894cfca0427de7f6d2ea6b75779be5f7480609"
+    },
+    {
+      "path": "local-dictionary/shards/jr.json.gz.bin",
+      "bytes": 936,
+      "sha256": "cb92b16ac062ae3837c9c7aac1a65659269dc37fe23cf9bcef56c16c6d113dfd"
+    },
+    {
+      "path": "local-dictionary/shards/js.json.gz.bin",
+      "bytes": 1426,
+      "sha256": "239e7ec1dcc269e954a5132b46d1f70de8fe54028abb98c664f35f50afc13d66"
+    },
+    {
+      "path": "local-dictionary/shards/jt.json.gz.bin",
+      "bytes": 965,
+      "sha256": "4bd5a7466074e5116a145d1a2b947f7d3fe3f8eb6cac4639b811fd5cd435bf90"
+    },
+    {
+      "path": "local-dictionary/shards/ju.json.gz.bin",
+      "bytes": 53183,
+      "sha256": "4d5ab0c82b59efa8a1006e9cf02e5e10d239fe240406e8f4e128549ba1b5fc2d"
+    },
+    {
+      "path": "local-dictionary/shards/jv.json.gz.bin",
+      "bytes": 481,
+      "sha256": "4e6b96136c0445817501a78b4d35f587b84c95feb45dfa2791c6d8ed93ad51f5"
+    },
+    {
+      "path": "local-dictionary/shards/jw.json.gz.bin",
+      "bytes": 336,
+      "sha256": "1d31e6e56c227d42dd2d779770995b4dcb5bb01df2286e9aa0bfb8ab1d1c7c43"
+    },
+    {
+      "path": "local-dictionary/shards/jx.json.gz.bin",
+      "bytes": 154,
+      "sha256": "dd431c6a5adbe87ad9803454793f97ca04a346256d0bd902fb5e62f08d750948"
+    },
+    {
+      "path": "local-dictionary/shards/jy.json.gz.bin",
+      "bytes": 504,
+      "sha256": "b8f63079b86af78be645fa8875263d9a0848d4642659170d9fb15ea7a48561a4"
+    },
+    {
+      "path": "local-dictionary/shards/jz.json.gz.bin",
+      "bytes": 234,
+      "sha256": "5956377c2788bc9d2d67e0fc21b0bfade932d07aecfd007a2917dd99c207a6a4"
+    },
+    {
+      "path": "local-dictionary/shards/k_.json.gz.bin",
+      "bytes": 507,
+      "sha256": "0211a8ad7a1bb4b00b6732cc49f9feeb79819f70fcebbb7f7036522c21403b61"
+    },
+    {
+      "path": "local-dictionary/shards/ka.json.gz.bin",
+      "bytes": 55760,
+      "sha256": "a13cc37ba8648eb2ad6ec1054dc16a332b6f0382e3ec6cda1eb2be9a9868bcbf"
+    },
+    {
+      "path": "local-dictionary/shards/kb.json.gz.bin",
+      "bytes": 929,
+      "sha256": "7fd8d4ddd8072155d19d231702c27a5acc68bb07aaccbcd20081dd2a4e8b3c00"
+    },
+    {
+      "path": "local-dictionary/shards/kc.json.gz.bin",
+      "bytes": 795,
+      "sha256": "61266284f335c5d1f8bf70bd0622a1a95a204ce8c12f96f98b71b30f45aee007"
+    },
+    {
+      "path": "local-dictionary/shards/kd.json.gz.bin",
+      "bytes": 663,
+      "sha256": "c3e96cbe0e1214bf672ff5bcd720174c085326ce8af1e43b0ab24454496e272e"
+    },
+    {
+      "path": "local-dictionary/shards/ke.json.gz.bin",
+      "bytes": 67723,
+      "sha256": "eb60a0ae7ed31a059bb8a98912fc59d4d5beed27a345a00f7e4c3e0ef77ef790"
+    },
+    {
+      "path": "local-dictionary/shards/kf.json.gz.bin",
+      "bytes": 528,
+      "sha256": "604c06b580d52ab12fcfb91a2e7f84ed759fe9ccdd2785491cbaff8585353ebc"
+    },
+    {
+      "path": "local-dictionary/shards/kg.json.gz.bin",
+      "bytes": 796,
+      "sha256": "77a552eb6dd73d4e8edae135a44c246cd8b237e27c59a02483c9d6167d2984fb"
+    },
+    {
+      "path": "local-dictionary/shards/kh.json.gz.bin",
+      "bytes": 7265,
+      "sha256": "babd8a87a659c1e2383a9979b996fd159986bd302c66640a18d0b783a1c51460"
+    },
+    {
+      "path": "local-dictionary/shards/ki.json.gz.bin",
+      "bytes": 66583,
+      "sha256": "248bf596708e97da9c21d1551c5ae1c03b814c86fd06db0645804f5e940581f5"
+    },
+    {
+      "path": "local-dictionary/shards/kj.json.gz.bin",
+      "bytes": 672,
+      "sha256": "f8e4addf3c6443cc790c73250e9923bda217f81d60294f8e9efc683cf32a327b"
+    },
+    {
+      "path": "local-dictionary/shards/kk.json.gz.bin",
+      "bytes": 426,
+      "sha256": "2dbf2405847986b5bf6e9f94f3c1aa3e8f99a17206d9cd8af223b0ff195d3b7a"
+    },
+    {
+      "path": "local-dictionary/shards/kl.json.gz.bin",
+      "bytes": 11714,
+      "sha256": "681574b604c12dbabf26a8093c9409ffb8c859534d9ac9b92229cac79bc78250"
+    },
+    {
+      "path": "local-dictionary/shards/km.json.gz.bin",
+      "bytes": 886,
+      "sha256": "8c29dd8846de5d1a900c68334a58f8730438649c256cc787bea165e265666c52"
+    },
+    {
+      "path": "local-dictionary/shards/kn.json.gz.bin",
+      "bytes": 30701,
+      "sha256": "55af583ffec150a46a055205cb3bbdbc00eaae0b325412c7b8dc2d25684f3fb3"
+    },
+    {
+      "path": "local-dictionary/shards/ko.json.gz.bin",
+      "bytes": 32730,
+      "sha256": "f2969043f3c0463c36a7f6d7c0a086e0c62c4c4c6fdb4d9f35e1a1a8d89e1c49"
+    },
+    {
+      "path": "local-dictionary/shards/kp.json.gz.bin",
+      "bytes": 1766,
+      "sha256": "f8e3f8c793ee66d949ae1b5981b2d0d405b5c227736db4eb3400f2a2818483e1"
+    },
+    {
+      "path": "local-dictionary/shards/kq.json.gz.bin",
+      "bytes": 169,
+      "sha256": "7ad0532578b3cb7452a83c303479c6b85f804c0cda23654ccc509ea99963a049"
+    },
+    {
+      "path": "local-dictionary/shards/kr.json.gz.bin",
+      "bytes": 16586,
+      "sha256": "5b80737d9ff5866156c1929f0cf2c07de2ca4a9d18ac3bc360e7c82833c9a001"
+    },
+    {
+      "path": "local-dictionary/shards/ks.json.gz.bin",
+      "bytes": 1576,
+      "sha256": "813bdd48f191b3aa63046df00aeb5daf60f5982c9415d8dbfc521f03e728832f"
+    },
+    {
+      "path": "local-dictionary/shards/kt.json.gz.bin",
+      "bytes": 1596,
+      "sha256": "bc10080d59d367e166062f49aedd533188604effa33ceb2711c71585cbd97945"
+    },
+    {
+      "path": "local-dictionary/shards/ku.json.gz.bin",
+      "bytes": 16917,
+      "sha256": "82178421583b61a1b8ae7dc1f3235bab8d4ad8fe913fc22c8ed7bdb2f1834b56"
+    },
+    {
+      "path": "local-dictionary/shards/kv.json.gz.bin",
+      "bytes": 1342,
+      "sha256": "d746cb4c8f64d6353c63ef31d32fc72ab1ebe603e63988b6ec09ed2ef43cad16"
+    },
+    {
+      "path": "local-dictionary/shards/kw.json.gz.bin",
+      "bytes": 2637,
+      "sha256": "b47bbf7aafdc5d9c1a078ca3bbb28b0708e5d50745676a1acfde52025937bc08"
+    },
+    {
+      "path": "local-dictionary/shards/kx.json.gz.bin",
+      "bytes": 266,
+      "sha256": "51543e62303098cf50e7f681105083180d65da2b754a69eb21d63401cf822aa4"
+    },
+    {
+      "path": "local-dictionary/shards/ky.json.gz.bin",
+      "bytes": 5570,
+      "sha256": "7c002fb6c33bacb759423cb56d284536906b9e2ebbd9b61973e5870ad045d3f5"
+    },
+    {
+      "path": "local-dictionary/shards/kz.json.gz.bin",
+      "bytes": 210,
+      "sha256": "67876be8cd146bb6646c2c94a3b65db85e29b37238f1050b17b7bfcd1d4ad951"
+    },
+    {
+      "path": "local-dictionary/shards/l_.json.gz.bin",
+      "bytes": 489,
+      "sha256": "8592d1294556bc71e474582567f064e6494c3989dfddecf10f99190d1dfa1cc1"
+    },
+    {
+      "path": "local-dictionary/shards/la.json.gz.bin",
+      "bytes": 236839,
+      "sha256": "118402d02f27bf838256e5b0ec84111dd179695df0a3882b185cef20e5de2f9e"
+    },
+    {
+      "path": "local-dictionary/shards/lb.json.gz.bin",
+      "bytes": 1919,
+      "sha256": "5fde0d8a1d17ff09d78f8bcf27bde2c914b504823aeb46dc084f511361853c11"
+    },
+    {
+      "path": "local-dictionary/shards/lc.json.gz.bin",
+      "bytes": 2285,
+      "sha256": "d0e66ea0583aadc91f36dbc79f33e29ba710476f6492a6a292ecbe67639d0e62"
+    },
+    {
+      "path": "local-dictionary/shards/ld.json.gz.bin",
+      "bytes": 2051,
+      "sha256": "76a6895a6917f5b3669a24e9b2a6b885fbc72c442510fa363d27ca58f0968e63"
+    },
+    {
+      "path": "local-dictionary/shards/le.json.gz.bin",
+      "bytes": 177508,
+      "sha256": "8d39614c00a14876d7ec8a48064e071e8d9bbf1b7eb46c08fd32061921e0232e"
+    },
+    {
+      "path": "local-dictionary/shards/lf.json.gz.bin",
+      "bytes": 968,
+      "sha256": "8807ee57b64410334e10b3997c00d79e0d46e509f5871eed08b3404da2031e06"
+    },
+    {
+      "path": "local-dictionary/shards/lg.json.gz.bin",
+      "bytes": 1539,
+      "sha256": "37c0c9a1d5e3b992b0968ed90467b64a09a97b7692967e86acfae27b437b111f"
+    },
+    {
+      "path": "local-dictionary/shards/lh.json.gz.bin",
+      "bytes": 1613,
+      "sha256": "4c4fcbeb2c0c3ebbd6cf23b029e5b65d0c21410b38a68eecbe1ae77815eb1260"
+    },
+    {
+      "path": "local-dictionary/shards/li.json.gz.bin",
+      "bytes": 233035,
+      "sha256": "4bbbb8781fbb49c061107057a72324139016c1b893c1aa6033ef2690d06afb58"
+    },
+    {
+      "path": "local-dictionary/shards/lj.json.gz.bin",
+      "bytes": 560,
+      "sha256": "39c7d0f55b3d77048d9da36bee488429886548d16e6852638ade3f05aa3b4944"
+    },
+    {
+      "path": "local-dictionary/shards/lk.json.gz.bin",
+      "bytes": 233,
+      "sha256": "dfaaa8eaae8366bf98a784653ddc45fb576351303a7747afd6b776c588864051"
+    },
+    {
+      "path": "local-dictionary/shards/ll.json.gz.bin",
+      "bytes": 3687,
+      "sha256": "2092611f853666db8d67696e22f7eb3aead603c9f6ecad51ebf9b9dd2a42a24c"
+    },
+    {
+      "path": "local-dictionary/shards/lm.json.gz.bin",
+      "bytes": 1527,
+      "sha256": "07bd3c5e6fa73c1f190c8142794efe062a2e9c5568c6ce8335e475b5ea9a311a"
+    },
+    {
+      "path": "local-dictionary/shards/ln.json.gz.bin",
+      "bytes": 1493,
+      "sha256": "0a7feeba801c58090b897955c3ac0f733f8e4b2a591ecb7bedd206743e25f509"
+    },
+    {
+      "path": "local-dictionary/shards/lo.json.gz.bin",
+      "bytes": 173759,
+      "sha256": "bd1f3eaca19ce21e66bbbe8cc4e5f4f6a96ff59e2df31f5f1f1252e9f3613cb3"
+    },
+    {
+      "path": "local-dictionary/shards/lp.json.gz.bin",
+      "bytes": 1667,
+      "sha256": "beff06fdab1e620a3e02dc13447b068072b9c3a95540b0fe397e349a9be415e8"
+    },
+    {
+      "path": "local-dictionary/shards/lq.json.gz.bin",
+      "bytes": 572,
+      "sha256": "f1cf710b007f2f9cfd47bae4ccfdc4b26d5529eca66426de9835ffa90d29cb7f"
+    },
+    {
+      "path": "local-dictionary/shards/lr.json.gz.bin",
+      "bytes": 1465,
+      "sha256": "43b19df40b9358c0c9b9cf5356f6966889dcfb4628df300b07a04e02fe4eb20e"
+    },
+    {
+      "path": "local-dictionary/shards/ls.json.gz.bin",
+      "bytes": 2565,
+      "sha256": "3483adb72d3e63a7cc0c0ecc3bebcca2d55ef629aca05325d46d74df67b6f427"
+    },
+    {
+      "path": "local-dictionary/shards/lt.json.gz.bin",
+      "bytes": 1789,
+      "sha256": "60163e6ffad14fa1ddd3edb0496ee116107f3a33e4f43b79a2215dc75bd2cf49"
+    },
+    {
+      "path": "local-dictionary/shards/lu.json.gz.bin",
+      "bytes": 62214,
+      "sha256": "218bf47b545c150eeb6c097717c525f2b547381f38f9f1ffbf51cfb9dd34da11"
+    },
+    {
+      "path": "local-dictionary/shards/lv.json.gz.bin",
+      "bytes": 1428,
+      "sha256": "addf60290a94131ab76946b2a94bedd60284d0ffbeb352480f22bfc119581824"
+    },
+    {
+      "path": "local-dictionary/shards/lw.json.gz.bin",
+      "bytes": 832,
+      "sha256": "1959285b35ae4c3fbff1d3e70c27ee2fcacace32d551705a7628f1a2ed522a83"
+    },
+    {
+      "path": "local-dictionary/shards/lx.json.gz.bin",
+      "bytes": 624,
+      "sha256": "ced71b9ee18d9f942195376f49f8dac307531bb89da10d05f032464744eef7fd"
+    },
+    {
+      "path": "local-dictionary/shards/ly.json.gz.bin",
+      "bytes": 30479,
+      "sha256": "be511672285d849a17436f31f513c8c6ea242360a4dd68fe8873211b26eab5cb"
+    },
+    {
+      "path": "local-dictionary/shards/lz.json.gz.bin",
+      "bytes": 353,
+      "sha256": "50ae06534f189fbc01f0a120494c26cddbcecef2f7cec48e555e6738aed5c3b2"
+    },
+    {
+      "path": "local-dictionary/shards/m_.json.gz.bin",
+      "bytes": 565,
+      "sha256": "eef6d541a39fe75eb79c9010aaf1dc8eed853f9cf4be5976c8204a1d6ee17464"
+    },
+    {
+      "path": "local-dictionary/shards/ma.json.gz.bin",
+      "bytes": 451914,
+      "sha256": "f493b83b6616de44ef4423235c6c9bfbced8d57b96149073a4b73da29856d780"
+    },
+    {
+      "path": "local-dictionary/shards/mb.json.gz.bin",
+      "bytes": 3482,
+      "sha256": "da842fb70ce927cde9c802105dece6ff490862159be07d91c33eb115996ac65a"
+    },
+    {
+      "path": "local-dictionary/shards/mc.json.gz.bin",
+      "bytes": 20024,
+      "sha256": "4bc1595cd7c32cc901842970164c79f4afe6906b94381caf0c72dc8a913a723a"
+    },
+    {
+      "path": "local-dictionary/shards/md.json.gz.bin",
+      "bytes": 2996,
+      "sha256": "e6ed64a6cea40ab09bdb1273f4d58273ff4caca6e0778b9580606b4cd56f4d79"
+    },
+    {
+      "path": "local-dictionary/shards/me.json.gz.bin",
+      "bytes": 301059,
+      "sha256": "9b6157036e0be01b06cdaeb97a542e1952cd23e3e2e0c9ee54229a0eb13e49a0"
+    },
+    {
+      "path": "local-dictionary/shards/mf.json.gz.bin",
+      "bytes": 1948,
+      "sha256": "1790ddaa96b15c60a9a79e1f1ee9b099205c166de73c1597944b9259f9756190"
+    },
+    {
+      "path": "local-dictionary/shards/mg.json.gz.bin",
+      "bytes": 1677,
+      "sha256": "d1221498937ffb855f9b38aef2af8e2014ef83b03c76d70455b017c36e2d4e51"
+    },
+    {
+      "path": "local-dictionary/shards/mh.json.gz.bin",
+      "bytes": 1172,
+      "sha256": "52a404b78beed636af724b382b80577287ab8d79b5025e1d335cbd9782862358"
+    },
+    {
+      "path": "local-dictionary/shards/mi.json.gz.bin",
+      "bytes": 251920,
+      "sha256": "c3c21e48f05159c8f8a8ef5a8c21aa259b1f87d3b2a8188b47d146c2b31f413d"
+    },
+    {
+      "path": "local-dictionary/shards/mj.json.gz.bin",
+      "bytes": 574,
+      "sha256": "37ac97af8b678b1126039417b48838f239d767119248ad5f1c2d6d4ce17b6261"
+    },
+    {
+      "path": "local-dictionary/shards/mk.json.gz.bin",
+      "bytes": 862,
+      "sha256": "3bb1644e2ebedfb4117c0a0cfedd1aea7f7291f838d4c8abb3d227c785cb1b4d"
+    },
+    {
+      "path": "local-dictionary/shards/ml.json.gz.bin",
+      "bytes": 5029,
+      "sha256": "be6c540edca601455c6ea50f93f2ccd0de58c5731699986246c5360ad63f81dc"
+    },
+    {
+      "path": "local-dictionary/shards/mm.json.gz.bin",
+      "bytes": 2940,
+      "sha256": "08ed2c67a279ddf6388f9ec84d1f57cf0c9babcb55e4b67c4eff34475e4c77b5"
+    },
+    {
+      "path": "local-dictionary/shards/mn.json.gz.bin",
+      "bytes": 2611,
+      "sha256": "559712e38a948abd45d147311c53e91f8d058528484a6b839b4a30bcdef0a4bb"
+    },
+    {
+      "path": "local-dictionary/shards/mo.json.gz.bin",
+      "bytes": 260443,
+      "sha256": "91bf3d919524c2953ea23397ad6efc968bc31edc1f5b7acd0c1f94fc4a382870"
+    },
+    {
+      "path": "local-dictionary/shards/mp.json.gz.bin",
+      "bytes": 3045,
+      "sha256": "baa7f5c66c24f1fe96fdeb69cf7a04783af247f770e4b743ec2a1bb4363d363e"
+    },
+    {
+      "path": "local-dictionary/shards/mq.json.gz.bin",
+      "bytes": 320,
+      "sha256": "decb87f85f1f647e2cd6ab03e35f423290871ba20799ac78f822aed14e27d917"
+    },
+    {
+      "path": "local-dictionary/shards/mr.json.gz.bin",
+      "bytes": 3339,
+      "sha256": "f10203b59ccfc98d2467fc6b6ebe006e5d4db5918a559b38b7df6f304f86db72"
+    },
+    {
+      "path": "local-dictionary/shards/ms.json.gz.bin",
+      "bytes": 5391,
+      "sha256": "ce4c4505d6918a6de72aa4f2bd839d158bcdcbb7411ffa12452fc5654464ebd1"
+    },
+    {
+      "path": "local-dictionary/shards/mt.json.gz.bin",
+      "bytes": 3185,
+      "sha256": "039906dbb6269e29cbffcbe3c4bfb5a7c41ea86cd5663a5e6962c43406a2e126"
+    },
+    {
+      "path": "local-dictionary/shards/mu.json.gz.bin",
+      "bytes": 144573,
+      "sha256": "30119e3504b8f990d9ead62ad98c62b0d2af073c637505a9bce90ecf89f7e52d"
+    },
+    {
+      "path": "local-dictionary/shards/mv.json.gz.bin",
+      "bytes": 1275,
+      "sha256": "9c439f3e42c26422a0487f27fe13d56062b30572ba67095db174197439de7405"
+    },
+    {
+      "path": "local-dictionary/shards/mw.json.gz.bin",
+      "bytes": 1812,
+      "sha256": "bbc13ee78ea426a58a0a78d4733d046fb818e185fd6b4d1aef0a95ecb186e686"
+    },
+    {
+      "path": "local-dictionary/shards/mx.json.gz.bin",
+      "bytes": 333,
+      "sha256": "374a85890717162ff6742a626ba12461d62b3348289a6118f3e26e90703d4296"
+    },
+    {
+      "path": "local-dictionary/shards/my.json.gz.bin",
+      "bytes": 46241,
+      "sha256": "5fc7cc68760c5f1a088268703802cd86234fd908ae640668fa4aa7a1b907b718"
+    },
+    {
+      "path": "local-dictionary/shards/mz.json.gz.bin",
+      "bytes": 364,
+      "sha256": "634dbd878dca1fd3d51ea98ddae2938a24f4cd6edc88b7b769c336334d85b695"
+    },
+    {
+      "path": "local-dictionary/shards/n_.json.gz.bin",
+      "bytes": 344,
+      "sha256": "1dc16851c545aa6cd370ab34738a89a9e3b295fdd60f38552058f562e7fdf2fb"
+    },
+    {
+      "path": "local-dictionary/shards/na.json.gz.bin",
+      "bytes": 116367,
+      "sha256": "e2367cfde2a477fb532af9a2c1e4e10f859fa7e8696c0920ed48f7d3611e7819"
+    },
+    {
+      "path": "local-dictionary/shards/nb.json.gz.bin",
+      "bytes": 3015,
+      "sha256": "a8f1683d4786fe0c2c4a0e5f06f20099e0ce8fc5ababe708c794054deda4c62d"
+    },
+    {
+      "path": "local-dictionary/shards/nc.json.gz.bin",
+      "bytes": 6122,
+      "sha256": "5bdbb60da9af78004c0e6ef2df4cf5728e25610d90853273a31c8a6ff73d339b"
+    },
+    {
+      "path": "local-dictionary/shards/nd.json.gz.bin",
+      "bytes": 2811,
+      "sha256": "3f10920d603518c0cdbe9321e0d5546a8594d1dd6e75ce925e0f2e1c478a1258"
+    },
+    {
+      "path": "local-dictionary/shards/ne.json.gz.bin",
+      "bytes": 172286,
+      "sha256": "3af2b05061be1811450652a21021fb2b27bcf1d9a8229607cefbbf2398c46f5c"
+    },
+    {
+      "path": "local-dictionary/shards/nf.json.gz.bin",
+      "bytes": 2326,
+      "sha256": "124d9c0e2b2b10a9ae3e94ae4ae02bfc48232cd403c1cb310441734586849f42"
+    },
+    {
+      "path": "local-dictionary/shards/ng.json.gz.bin",
+      "bytes": 3031,
+      "sha256": "5d142a24518fc33a4563ca73eb9a376b392ebe7b72e8ae3846e02e6026b774ef"
+    },
+    {
+      "path": "local-dictionary/shards/nh.json.gz.bin",
+      "bytes": 2144,
+      "sha256": "055573a5bd9e1ba48e3d0bfa47f1e76ee6414eb732bf1b6d5499c075968ee397"
+    },
+    {
+      "path": "local-dictionary/shards/ni.json.gz.bin",
+      "bytes": 78711,
+      "sha256": "3b4ae52e8a462e6ffea1ed7f26716f791765384c81b6bd8ff13063d5910d4aff"
+    },
+    {
+      "path": "local-dictionary/shards/nj.json.gz.bin",
+      "bytes": 620,
+      "sha256": "fb3ad265878250f065e8095862a218bd1f6bcdf86df88a17971ecfbac2371a00"
+    },
+    {
+      "path": "local-dictionary/shards/nk.json.gz.bin",
+      "bytes": 828,
+      "sha256": "f684caea769f8b705c789bf0301de919402269ec9f9587b24eca6a2f05920848"
+    },
+    {
+      "path": "local-dictionary/shards/nl.json.gz.bin",
+      "bytes": 1753,
+      "sha256": "4a03b9edd36cd29c9ba9811b8656c996a3133975b7f31e81e7431b0336395936"
+    },
+    {
+      "path": "local-dictionary/shards/nm.json.gz.bin",
+      "bytes": 2535,
+      "sha256": "582ff4be78cbe509a761ce6346639ae8be66430cda997471d46ab065d22f9591"
+    },
+    {
+      "path": "local-dictionary/shards/nn.json.gz.bin",
+      "bytes": 2360,
+      "sha256": "1f629c8c66d25fdcb78c702da2edf5fb2b64a138266d5650506b48e48b1b7e00"
+    },
+    {
+      "path": "local-dictionary/shards/no.json.gz.bin",
+      "bytes": 203681,
+      "sha256": "9f234aba210bf2992d6bcb83702f8aa0204c5032fee1789a0b6b55deb367face"
+    },
+    {
+      "path": "local-dictionary/shards/np.json.gz.bin",
+      "bytes": 3994,
+      "sha256": "265d645798465d692ab936fa52fca75f07ff8a4539768cf710f34057dcc59309"
+    },
+    {
+      "path": "local-dictionary/shards/nq.json.gz.bin",
+      "bytes": 123,
+      "sha256": "5f51bbca837674703ae1e5846b225ed99b2ce1db696e8f5c4c38c53366e1ad34"
+    },
+    {
+      "path": "local-dictionary/shards/nr.json.gz.bin",
+      "bytes": 2368,
+      "sha256": "cfe88f0b4394e2ac87a08e3556b6ac8bbb53cc35dda40dd95559c2c9e2c50b8d"
+    },
+    {
+      "path": "local-dictionary/shards/ns.json.gz.bin",
+      "bytes": 4685,
+      "sha256": "34cf30a9cf8a7d07ee0afc3a9089513a27257967db60fcf6d944b73c60c81a72"
+    },
+    {
+      "path": "local-dictionary/shards/nt.json.gz.bin",
+      "bytes": 2720,
+      "sha256": "4332ae6073a88e71bb7127477a9688e2c386c0545f770fdbc5b064a75ad078d4"
+    },
+    {
+      "path": "local-dictionary/shards/nu.json.gz.bin",
+      "bytes": 51451,
+      "sha256": "c3d9e810ef5e3543c20a91609263847bff32c2c97a9e883bd4fcc20fd74de91e"
+    },
+    {
+      "path": "local-dictionary/shards/nv.json.gz.bin",
+      "bytes": 1221,
+      "sha256": "8e70b503a6c23d3b3b07d7d09c9382f5073b0438192c54c4d5b39a7b0d845785"
+    },
+    {
+      "path": "local-dictionary/shards/nw.json.gz.bin",
+      "bytes": 1562,
+      "sha256": "6164a4f4b672919f5b2a1b1a95465e47e3735d97992c086a2636078685cf114c"
+    },
+    {
+      "path": "local-dictionary/shards/nx.json.gz.bin",
+      "bytes": 220,
+      "sha256": "97d388e0e5665c90a9d2e773c718dca84b7cd0b74adb6fa335c524257b4c4935"
+    },
+    {
+      "path": "local-dictionary/shards/ny.json.gz.bin",
+      "bytes": 9702,
+      "sha256": "34da015c2df1fbf14b2ecbc9aabf7f1b35213d637c1deab2d2d35100bb40d50c"
+    },
+    {
+      "path": "local-dictionary/shards/nz.json.gz.bin",
+      "bytes": 370,
+      "sha256": "97304e9f836597513cd776471004d1e15578f7758dfb67d76348218bd9d71167"
+    },
+    {
+      "path": "local-dictionary/shards/o_.json.gz.bin",
+      "bytes": 626,
+      "sha256": "6410633d03231e05c08fd84f1ef9dd7563ae6212b0ab23cf99ab4b6792ec2a74"
+    },
+    {
+      "path": "local-dictionary/shards/oa.json.gz.bin",
+      "bytes": 6950,
+      "sha256": "214623c407ceee7077b052925566802dce08298c4caeb30a424232d1f2430feb"
+    },
+    {
+      "path": "local-dictionary/shards/ob.json.gz.bin",
+      "bytes": 42339,
+      "sha256": "5dd97b8149da353a072e15e7e8011a693d610d39ce0f8b43d9129a912869365a"
+    },
+    {
+      "path": "local-dictionary/shards/oc.json.gz.bin",
+      "bytes": 31559,
+      "sha256": "eb08bc292ab519bf4a40a698b63135f2d598fc303d83a3989cb15d5808c82809"
+    },
+    {
+      "path": "local-dictionary/shards/od.json.gz.bin",
+      "bytes": 14070,
+      "sha256": "f6231cc8e2d303e1f0bcb6f2afa336187c055b3bebecceffb0709b4631425dc4"
+    },
+    {
+      "path": "local-dictionary/shards/oe.json.gz.bin",
+      "bytes": 7432,
+      "sha256": "c1b780249cb0c455877a44cb6ccec8c840bf1e2be95458f295605324525b4b21"
+    },
+    {
+      "path": "local-dictionary/shards/of.json.gz.bin",
+      "bytes": 35401,
+      "sha256": "d5b688dfeeabe9ec3561d873139024758e59057b5a738b1c416b4e92ad3fe569"
+    },
+    {
+      "path": "local-dictionary/shards/og.json.gz.bin",
+      "bytes": 4133,
+      "sha256": "f3517cf29579344ff7623ac4ddfbb2973890c94799b48233c247dfd3b4aaad31"
+    },
+    {
+      "path": "local-dictionary/shards/oh.json.gz.bin",
+      "bytes": 4697,
+      "sha256": "ae628de888b2a03d278b27044f1c33b8aab93d3c0a8756e7730834bb2494d30d"
+    },
+    {
+      "path": "local-dictionary/shards/oi.json.gz.bin",
+      "bytes": 18904,
+      "sha256": "d442f80e6031f7326a8bcd791a54663c54497cb30f9d0b550274ef24cefe73c3"
+    },
+    {
+      "path": "local-dictionary/shards/oj.json.gz.bin",
+      "bytes": 948,
+      "sha256": "2234d548cb4fad43f96b262aca8e024a0f1ca688c774604248e0ea5cbc3e24a1"
+    },
+    {
+      "path": "local-dictionary/shards/ok.json.gz.bin",
+      "bytes": 4265,
+      "sha256": "8488b7b02ec9ea0dc695fbba16c1cf2497c6454f85eeeb2fc024af06ddb933e6"
+    },
+    {
+      "path": "local-dictionary/shards/ol.json.gz.bin",
+      "bytes": 34695,
+      "sha256": "304eb09df7ef0da7d7005bba8dd3027af8b63a3882078a3bf80b7ab0ab908865"
+    },
+    {
+      "path": "local-dictionary/shards/om.json.gz.bin",
+      "bytes": 16150,
+      "sha256": "55111be356ae336bd87ad386b83c4f6849bf9e74b156ad9f4f424eef64ecc77d"
+    },
+    {
+      "path": "local-dictionary/shards/on.json.gz.bin",
+      "bytes": 51789,
+      "sha256": "d0242f51faf554e8a6e8504c2c4efcc3b6cc49c1425d9cc3266282afa6ff7fda"
+    },
+    {
+      "path": "local-dictionary/shards/oo.json.gz.bin",
+      "bytes": 8872,
+      "sha256": "b2ec654b24ad720560184e519f10b725798f75ceb076dbfabea558fb69287768"
+    },
+    {
+      "path": "local-dictionary/shards/op.json.gz.bin",
+      "bytes": 72782,
+      "sha256": "e5bd61ece0386f3adf62c8bf3354bd95a194fe4f18c534429c7e6f1804f9e3b9"
+    },
+    {
+      "path": "local-dictionary/shards/oq.json.gz.bin",
+      "bytes": 428,
+      "sha256": "312dfd0dc868977ad0adaa08f8b466dabe43496b2047573db41e3f4c3023f3e4"
+    },
+    {
+      "path": "local-dictionary/shards/or.json.gz.bin",
+      "bytes": 96786,
+      "sha256": "eb36b41733ce46cfdb3f115e77aafeb7f5aa438ad17949279198e263fc40a3f8"
+    },
+    {
+      "path": "local-dictionary/shards/os.json.gz.bin",
+      "bytes": 39438,
+      "sha256": "9f0a4e6ba89f74c45d94a729a607cb73e4dbee46b69103ff053d33453629fd53"
+    },
+    {
+      "path": "local-dictionary/shards/ot.json.gz.bin",
+      "bytes": 13807,
+      "sha256": "6d23442aac4f2adb7fe92ed790aa169d267cbbc865ed090d91fc4bdfb695ce70"
+    },
+    {
+      "path": "local-dictionary/shards/ou.json.gz.bin",
+      "bytes": 57272,
+      "sha256": "1e7f236f4556674f38b8bbd7e1fa86c3944ebc990b3aeecefe4a3b4fe0720e24"
+    },
+    {
+      "path": "local-dictionary/shards/ov.json.gz.bin",
+      "bytes": 93314,
+      "sha256": "ce67a139d89ca3d9fe578fb8af0a8a92abac5b46f21d39dd95e6bf706c438e20"
+    },
+    {
+      "path": "local-dictionary/shards/ow.json.gz.bin",
+      "bytes": 7171,
+      "sha256": "18fada0147c222df1570853b85f3a7f2533e917579dffe0c33ca750564d5f354"
+    },
+    {
+      "path": "local-dictionary/shards/ox.json.gz.bin",
+      "bytes": 28188,
+      "sha256": "a42c4484b01d92f27750ca6055dfd993192ff5cc511aebc42030e70e95a43818"
+    },
+    {
+      "path": "local-dictionary/shards/oy.json.gz.bin",
+      "bytes": 2499,
+      "sha256": "8e8fbf7d515ea5fe60c7eb2ffcc821f1a8579ffae23fb93c1e4a0ccd6f7ff016"
+    },
+    {
+      "path": "local-dictionary/shards/oz.json.gz.bin",
+      "bytes": 3824,
+      "sha256": "c73bee5526481b3683b093c2ce76e95dab8b5c9ace96ad206da7a89e9fc14883"
+    },
+    {
+      "path": "local-dictionary/shards/p_.json.gz.bin",
+      "bytes": 393,
+      "sha256": "406961e5a7a6a0448a08637abd5704679c8b22516b35cd412151d7203cf780f1"
+    },
+    {
+      "path": "local-dictionary/shards/pa.json.gz.bin",
+      "bytes": 373826,
+      "sha256": "b2593793f0a024ba01facd73842d5828c9b9f760895582936f70994b8b61894f"
+    },
+    {
+      "path": "local-dictionary/shards/pb.json.gz.bin",
+      "bytes": 2743,
+      "sha256": "460028dbcf0b4d47c4a93e084705ebc0c314079c8eb6b7e073a341f7ecda1956"
+    },
+    {
+      "path": "local-dictionary/shards/pc.json.gz.bin",
+      "bytes": 4797,
+      "sha256": "de650aadd5f632fdfdacbd7f680c41c03a487d288e871f494b76c8065035decd"
+    },
+    {
+      "path": "local-dictionary/shards/pd.json.gz.bin",
+      "bytes": 2540,
+      "sha256": "5b3b660e016bc271eaa96be7cf0929ee39c859a8479318a399d05022baa2023c"
+    },
+    {
+      "path": "local-dictionary/shards/pe.json.gz.bin",
+      "bytes": 272689,
+      "sha256": "bfebf67a0699a03c520de642f04b719296c9ff7f27decbcacc4eff7e0549d0c4"
+    },
+    {
+      "path": "local-dictionary/shards/pf.json.gz.bin",
+      "bytes": 3946,
+      "sha256": "eb20dd584da5c750998d048eaaef08b21d3e069cc7614dadd4d93d3cc610a760"
+    },
+    {
+      "path": "local-dictionary/shards/pg.json.gz.bin",
+      "bytes": 1695,
+      "sha256": "f16ad6bf0fb4ebcee4586b6f56132953065c18339de5f5f6f96531dd6a5c52d2"
+    },
+    {
+      "path": "local-dictionary/shards/ph.json.gz.bin",
+      "bytes": 164176,
+      "sha256": "0e2b5618737323d523478009d965de6506774ec4fe7dccbe0eb1d377e34f8ca7"
+    },
+    {
+      "path": "local-dictionary/shards/pi.json.gz.bin",
+      "bytes": 149391,
+      "sha256": "e378c41d2636c6c7f8a5b5dd2d220bd6f9df1e5d3386eb2b8ea94189f553e2de"
+    },
+    {
+      "path": "local-dictionary/shards/pj.json.gz.bin",
+      "bytes": 509,
+      "sha256": "4a334eb34a87cc5f1a55bd433e04407fc472757716ed3cceb0224e068e7cc7f7"
+    },
+    {
+      "path": "local-dictionary/shards/pk.json.gz.bin",
+      "bytes": 1133,
+      "sha256": "77fec35946c4c3e89f1d38e714b01405b278d2f66f1ca8a0668ecd86239d79c9"
+    },
+    {
+      "path": "local-dictionary/shards/pl.json.gz.bin",
+      "bytes": 148992,
+      "sha256": "3f6a771e65f0a088077cc55a5fccdb660b29a81838929cdf2a57cd9e22529bdc"
+    },
+    {
+      "path": "local-dictionary/shards/pm.json.gz.bin",
+      "bytes": 2772,
+      "sha256": "2e02359ae9c2b426c61eb9851adbe895d57cdad9713336b5b0205c911db5391e"
+    },
+    {
+      "path": "local-dictionary/shards/pn.json.gz.bin",
+      "bytes": 14256,
+      "sha256": "ae9052ed36eb1ce297583093e513fe5e08e9013fe402b2442042eb9ca90c4be3"
+    },
+    {
+      "path": "local-dictionary/shards/po.json.gz.bin",
+      "bytes": 294431,
+      "sha256": "825b8d9ee5eb393abe0c9e6b376c528bea97175c1ea2e4dee60379977700d915"
+    },
+    {
+      "path": "local-dictionary/shards/pp.json.gz.bin",
+      "bytes": 3385,
+      "sha256": "6c56f87584f26fc928e2b410fad9e317690c3e31f452f6e371d51a1526d1269c"
+    },
+    {
+      "path": "local-dictionary/shards/pq.json.gz.bin",
+      "bytes": 536,
+      "sha256": "69b79274d79ace9906a8d9711a0ed9e71200653ef0bea6b76d06139819ba1a22"
+    },
+    {
+      "path": "local-dictionary/shards/pr.json.gz.bin",
+      "bytes": 439569,
+      "sha256": "8ca50ceb7ab3152964f6cd3dbf75007fda4b2afd714b983b414f8998a09eba9b"
+    },
+    {
+      "path": "local-dictionary/shards/ps.json.gz.bin",
+      "bytes": 55399,
+      "sha256": "2d16eb6bbc51b2ab4fe97f471c6e0d049efe0aa636d9f0178255f4a780bfddfd"
+    },
+    {
+      "path": "local-dictionary/shards/pt.json.gz.bin",
+      "bytes": 13016,
+      "sha256": "b7531e6a6fad64cf8c0032e0172613964c7aec7ee6bb97709e39c063a0a1399a"
+    },
+    {
+      "path": "local-dictionary/shards/pu.json.gz.bin",
+      "bytes": 128440,
+      "sha256": "0b547265a90adfe9f8bae9cc755f39bce5827eff68c9f50e71d9f146225a978f"
+    },
+    {
+      "path": "local-dictionary/shards/pv.json.gz.bin",
+      "bytes": 1520,
+      "sha256": "fc2a8a6c91ad2952b96746071aa37eaa18e4a92bf6258cfa942fe10d30fe9012"
+    },
+    {
+      "path": "local-dictionary/shards/pw.json.gz.bin",
+      "bytes": 1758,
+      "sha256": "a3001e5852211f5d76be6afe136373b42e7f227b3c3c7b24c98e428fa8ccd45e"
+    },
+    {
+      "path": "local-dictionary/shards/px.json.gz.bin",
+      "bytes": 601,
+      "sha256": "f0cd14841d26f219a6e9e17f68764c452b8846a4f0afffac605cdf59f3a9d74c"
+    },
+    {
+      "path": "local-dictionary/shards/py.json.gz.bin",
+      "bytes": 39266,
+      "sha256": "88bc2de6b9b3036e6492e6841070201d20f0285507b8d4d1484af54e72ee3dbf"
+    },
+    {
+      "path": "local-dictionary/shards/pz.json.gz.bin",
+      "bytes": 320,
+      "sha256": "1ea84e64b597c3ec4d2d6743167f7f78ed61b9e1a2c2e3491f5aa3a5c0e797a9"
+    },
+    {
+      "path": "local-dictionary/shards/q_.json.gz.bin",
+      "bytes": 248,
+      "sha256": "25bdd07356440395f39c1cc18caf9acbe30c47e0525292a1c84e1ec8e26d3b53"
+    },
+    {
+      "path": "local-dictionary/shards/qa.json.gz.bin",
+      "bytes": 2563,
+      "sha256": "fc3f14692819a85ba8fab973589cac9e4d7f310b271d0a53d0d0594f54aa8291"
+    },
+    {
+      "path": "local-dictionary/shards/qb.json.gz.bin",
+      "bytes": 678,
+      "sha256": "3efc2df4c1cd0136dc34422b320dc2b19c377b61f11e7639a7a8fa3a141006ba"
+    },
+    {
+      "path": "local-dictionary/shards/qc.json.gz.bin",
+      "bytes": 1068,
+      "sha256": "3e0bf1215c8c946056eb503175e2d4698a621fdbb80400be7407ccae664b7e52"
+    },
+    {
+      "path": "local-dictionary/shards/qd.json.gz.bin",
+      "bytes": 564,
+      "sha256": "d7303ed31407a4a83b5d2813eadc906e527facdf17d65259451fa6342b9928a1"
+    },
+    {
+      "path": "local-dictionary/shards/qe.json.gz.bin",
+      "bytes": 643,
+      "sha256": "5ab72618335743116f9c55f4d58075f3aad7a3ac8ae716090b548fde3eca0162"
+    },
+    {
+      "path": "local-dictionary/shards/qf.json.gz.bin",
+      "bytes": 785,
+      "sha256": "125ec09c52fe4a884657c98e88adf90e4a06da884789f22f333fa3681e43f625"
+    },
+    {
+      "path": "local-dictionary/shards/qg.json.gz.bin",
+      "bytes": 307,
+      "sha256": "0430521cd2d571f6154594511b74df99bcad3b014c2fdc1102ecb2760bf9b7a4"
+    },
+    {
+      "path": "local-dictionary/shards/qh.json.gz.bin",
+      "bytes": 186,
+      "sha256": "fa23ac2fb92295e6109ca295e51fe9dbb83c80b76ca2bf24eb7e3345b66e71cc"
+    },
+    {
+      "path": "local-dictionary/shards/qi.json.gz.bin",
+      "bytes": 2366,
+      "sha256": "4d62121052c9a5917a4b458ef5d46e272b87b90685904840792f4d4b70b8ce1c"
+    },
+    {
+      "path": "local-dictionary/shards/qj.json.gz.bin",
+      "bytes": 196,
+      "sha256": "322d01e296e7c614f8cca522b75bdd4aae2bfaa93ebe86b48434831818a29fd0"
+    },
+    {
+      "path": "local-dictionary/shards/qk.json.gz.bin",
+      "bytes": 118,
+      "sha256": "21f5234dd2ebda784ebd9786a968d5837f2ebede2157b693ff6dc4fc096ec635"
+    },
+    {
+      "path": "local-dictionary/shards/ql.json.gz.bin",
+      "bytes": 413,
+      "sha256": "179fe060fc4fb4fed25e4c843cb3a5188980ed4eab145c2004c6b91e89aa7cc2"
+    },
+    {
+      "path": "local-dictionary/shards/qm.json.gz.bin",
+      "bytes": 615,
+      "sha256": "c3ab0672c87f05a7173105c7b8b4aeeb20541d435d27f1d4b5c960a5fa6e74dc"
+    },
+    {
+      "path": "local-dictionary/shards/qn.json.gz.bin",
+      "bytes": 548,
+      "sha256": "8712c810385333fced133678e41fcd2344cf53893234a9c954a4a724d65df302"
+    },
+    {
+      "path": "local-dictionary/shards/qo.json.gz.bin",
+      "bytes": 694,
+      "sha256": "ee197f05d4a46bfe44a068caa0079a35cd506601d1a3e603cd9fbcb153f9f925"
+    },
+    {
+      "path": "local-dictionary/shards/qp.json.gz.bin",
+      "bytes": 1107,
+      "sha256": "141d74ecc1df7a1353778bd6086a97f646fcd0370ea5cf318a1e7c6dc6ad1334"
+    },
+    {
+      "path": "local-dictionary/shards/qq.json.gz.bin",
+      "bytes": 552,
+      "sha256": "539c77732b49a08fe4d786997a1a1fcb41c53a38b1c9753b952f349f2b3edd6c"
+    },
+    {
+      "path": "local-dictionary/shards/qr.json.gz.bin",
+      "bytes": 587,
+      "sha256": "9b3aa35fd1f72ba4f0e2c8bf0aea21a8499f9ba26a46eafbd94cf8c65c594e68"
+    },
+    {
+      "path": "local-dictionary/shards/qs.json.gz.bin",
+      "bytes": 934,
+      "sha256": "69a4962b250462af631cd9913a9c453832ee821bbe37de71397739df6d660cdb"
+    },
+    {
+      "path": "local-dictionary/shards/qt.json.gz.bin",
+      "bytes": 811,
+      "sha256": "02025ba5535aca2e28b5c5884f12362da92672a06f5200c56678ba7b9d49c127"
+    },
+    {
+      "path": "local-dictionary/shards/qu.json.gz.bin",
+      "bytes": 118745,
+      "sha256": "22173b2a2649a44bf5537d7078311fc9ab5cde3d2419c88038a90a8446cd1801"
+    },
+    {
+      "path": "local-dictionary/shards/qv.json.gz.bin",
+      "bytes": 446,
+      "sha256": "30d2ab5083907e195f3d73d384bbac075b8dcdcd40c884fb3a18d07eab494144"
+    },
+    {
+      "path": "local-dictionary/shards/qw.json.gz.bin",
+      "bytes": 2155,
+      "sha256": "7ef2886f6cb66331b1d79163a97d2c6c107449e43d42680f26eb3709e1948ed6"
+    },
+    {
+      "path": "local-dictionary/shards/qx.json.gz.bin",
+      "bytes": 220,
+      "sha256": "7c55cce0d7e368490501a5ec69b960d1e6b83c01db08090a65b517a5180c262b"
+    },
+    {
+      "path": "local-dictionary/shards/qy.json.gz.bin",
+      "bytes": 301,
+      "sha256": "6a714bc5e545aa4079e516d4f56219df2ac4fff0cbe9bfb6c78765976d26adf8"
+    },
+    {
+      "path": "local-dictionary/shards/qz.json.gz.bin",
+      "bytes": 118,
+      "sha256": "c43159929c49e7ea9750960d0c4d76970bc5399c0797c0d5b6ebf13cf74c05b1"
+    },
+    {
+      "path": "local-dictionary/shards/r_.json.gz.bin",
+      "bytes": 450,
+      "sha256": "40ea55009e9fc9a0b8bbc26da32156967a2f6be319e5b027e756f91015a0cab6"
+    },
+    {
+      "path": "local-dictionary/shards/ra.json.gz.bin",
+      "bytes": 184157,
+      "sha256": "29d267669e21825d9095a2391112b5b2dc13b77183bb24f1fe6cfc1dbe82f10d"
+    },
+    {
+      "path": "local-dictionary/shards/rb.json.gz.bin",
+      "bytes": 1729,
+      "sha256": "a3ec067d56bbba1b67cae6a85755718795fe8d636bce82f174ec2dc292237678"
+    },
+    {
+      "path": "local-dictionary/shards/rc.json.gz.bin",
+      "bytes": 2605,
+      "sha256": "9e54c3886203fbdb2c62bf0f0dbae675c2e773d0422542d8cff5bf332efd83f0"
+    },
+    {
+      "path": "local-dictionary/shards/rd.json.gz.bin",
+      "bytes": 1470,
+      "sha256": "07222a461609846a0ecd1483d8d81811a6747941deb6bce8d34c1fb7e6b8f107"
+    },
+    {
+      "path": "local-dictionary/shards/re.json.gz.bin",
+      "bytes": 565747,
+      "sha256": "073240f779be41966b80850543957b07ece5a38b714733436945cab21707454f"
+    },
+    {
+      "path": "local-dictionary/shards/rf.json.gz.bin",
+      "bytes": 2403,
+      "sha256": "b829f03970ad9c38cd4c041912e6a3deb9817b1e333285de96e24359322b6d56"
+    },
+    {
+      "path": "local-dictionary/shards/rg.json.gz.bin",
+      "bytes": 985,
+      "sha256": "fcbe6c118984b124831496bef6f3e51fb17a0aebabbdd39ab863c6717f5d4899"
+    },
+    {
+      "path": "local-dictionary/shards/rh.json.gz.bin",
+      "bytes": 42369,
+      "sha256": "6449649dd6e2976beea87ca08748cae6f6e90fb7142d7862ba5adeef433d2ec6"
+    },
+    {
+      "path": "local-dictionary/shards/ri.json.gz.bin",
+      "bytes": 96111,
+      "sha256": "5a10d2ebb9e6a75117635f14b8d320091a57557243145f33eed322caa29ad42e"
+    },
+    {
+      "path": "local-dictionary/shards/rj.json.gz.bin",
+      "bytes": 419,
+      "sha256": "4f984a616710771c7cf97816ec55b53edba0edfc22e344d910882a16709eb867"
+    },
+    {
+      "path": "local-dictionary/shards/rk.json.gz.bin",
+      "bytes": 566,
+      "sha256": "6619e8fed972f507249fab5fd1b44eea421d589db63c5be82f0bb95cfdf9a373"
+    },
+    {
+      "path": "local-dictionary/shards/rl.json.gz.bin",
+      "bytes": 1273,
+      "sha256": "eead0fef90ee71aacd40dd151d170f6e553014fed93b691b2e32d6de6c6b753c"
+    },
+    {
+      "path": "local-dictionary/shards/rm.json.gz.bin",
+      "bytes": 1783,
+      "sha256": "390c9b49e527d41889dd3dc21df57f154cceaa4a357f719180e7ceaabbe86d93"
+    },
+    {
+      "path": "local-dictionary/shards/rn.json.gz.bin",
+      "bytes": 1607,
+      "sha256": "fc54bf4c68c67ffbd4cc86ed09c4041cfd7a6b51333a406dcb6aa565814bebb4"
+    },
+    {
+      "path": "local-dictionary/shards/ro.json.gz.bin",
+      "bytes": 155626,
+      "sha256": "65d41a43c81a3642c8e34cbe667f608303ad7562f1881998c0e9d88f9943f260"
+    },
+    {
+      "path": "local-dictionary/shards/rp.json.gz.bin",
+      "bytes": 1752,
+      "sha256": "abde75bc9f09feea8901389ad2f66435bafebf3c9a47282552b00de63be332bb"
+    },
+    {
+      "path": "local-dictionary/shards/rq.json.gz.bin",
+      "bytes": 135,
+      "sha256": "e5a10d3d0feff56144fe915c56999f265fce3dcc37c1e8f3e9026afa650a5d8b"
+    },
+    {
+      "path": "local-dictionary/shards/rr.json.gz.bin",
+      "bytes": 1564,
+      "sha256": "79ba5516d0142290129dfa7d2eeae15eb4c8e97c272bd077fa9352a08d66a31c"
+    },
+    {
+      "path": "local-dictionary/shards/rs.json.gz.bin",
+      "bytes": 2924,
+      "sha256": "24caa53c1fc5f881a1899ae2cfb38474e66023cade380d6b9237a9a22aececee"
+    },
+    {
+      "path": "local-dictionary/shards/rt.json.gz.bin",
+      "bytes": 2718,
+      "sha256": "8ab92c780ee704803b915200c9145636d9ba19ae173a05882d58c495df4bdd9b"
+    },
+    {
+      "path": "local-dictionary/shards/ru.json.gz.bin",
+      "bytes": 82463,
+      "sha256": "997bc742d3cad027f6108fa5afed0584bf06035eef556915cde81d6ca59efb7d"
+    },
+    {
+      "path": "local-dictionary/shards/rv.json.gz.bin",
+      "bytes": 755,
+      "sha256": "d4e65a6314c7b46e4ad321dbd89e0b24a44e744d221b3042dbf63ba19396cc70"
+    },
+    {
+      "path": "local-dictionary/shards/rw.json.gz.bin",
+      "bytes": 1468,
+      "sha256": "122f90f5ca432164222c6713397ec474b44ed563c984b253d798136b4ee6d18a"
+    },
+    {
+      "path": "local-dictionary/shards/rx.json.gz.bin",
+      "bytes": 284,
+      "sha256": "0df6b838a5f84a3c5e45b39f7cc95a6c5ceee7938772aaff7a48932cc82dba56"
+    },
+    {
+      "path": "local-dictionary/shards/ry.json.gz.bin",
+      "bytes": 4034,
+      "sha256": "8feb8d708b0b69b27e8d4be41aab81ba3f165c516c908d3b5e0c7ac04f7b8d7c"
+    },
+    {
+      "path": "local-dictionary/shards/rz.json.gz.bin",
+      "bytes": 328,
+      "sha256": "295779d6b2e3177063c7887cc4bd9520a951a7cc6ed2f9791128cb16dbce6f7a"
+    },
+    {
+      "path": "local-dictionary/shards/s_.json.gz.bin",
+      "bytes": 562,
+      "sha256": "d69776715d01c0675cbf987e0210d2c6226d4420ec015364136bd7f8934fe4ce"
+    },
+    {
+      "path": "local-dictionary/shards/sa.json.gz.bin",
+      "bytes": 233963,
+      "sha256": "9913832ce09e60ce8ae910b0daaeacb84263744cbbd094b9cd51d6894c5f3612"
+    },
+    {
+      "path": "local-dictionary/shards/sb.json.gz.bin",
+      "bytes": 2911,
+      "sha256": "9a3bc732ed1099e0f3d6501a2e3b312773f9a21292ee9a649d0d2fc6dce2c97e"
+    },
+    {
+      "path": "local-dictionary/shards/sc.json.gz.bin",
+      "bytes": 183386,
+      "sha256": "41132f00963c9487a7c9f6ec2ed5855bacdd8f9cf9b86079b1204543183964be"
+    },
+    {
+      "path": "local-dictionary/shards/sd.json.gz.bin",
+      "bytes": 2619,
+      "sha256": "7b2fb8ed530c71485fe25036514389183281d6bbb93b42c4c4eb2abc6391e5c2"
+    },
+    {
+      "path": "local-dictionary/shards/se.json.gz.bin",
+      "bytes": 327210,
+      "sha256": "150cbc8760aa4e1451c91025419b010a47a602bde0ddd9a171584df9f5397fb3"
+    },
+    {
+      "path": "local-dictionary/shards/sf.json.gz.bin",
+      "bytes": 3033,
+      "sha256": "76037e6c5b5d2f45e04ba41c61b83273859219d1fdfcb3df0d13b29957df55a9"
+    },
+    {
+      "path": "local-dictionary/shards/sg.json.gz.bin",
+      "bytes": 1761,
+      "sha256": "0684534d3f812d0ca925d09274f2bd67a53e0a574446ee99ae4ac3aee0ddc491"
+    },
+    {
+      "path": "local-dictionary/shards/sh.json.gz.bin",
+      "bytes": 181572,
+      "sha256": "9ecf0377d065ee8bd57e50e4bd91b6a219a5e6d36a773d41c4c2fac346ec5d54"
+    },
+    {
+      "path": "local-dictionary/shards/si.json.gz.bin",
+      "bytes": 180356,
+      "sha256": "e671d95899997b62407f83121676f62a2cf04ad6504c0a5f3630338a8c91ce00"
+    },
+    {
+      "path": "local-dictionary/shards/sj.json.gz.bin",
+      "bytes": 1109,
+      "sha256": "56f67ad9c68f13f3fb3d268b1d15475b1e5f445accbd49a4f621f2a676f45d56"
+    },
+    {
+      "path": "local-dictionary/shards/sk.json.gz.bin",
+      "bytes": 39534,
+      "sha256": "40c371d84cd05d5ecca2b791365b370e5acee767be7b582777e68ff19837fde0"
+    },
+    {
+      "path": "local-dictionary/shards/sl.json.gz.bin",
+      "bytes": 72538,
+      "sha256": "290af3609f58532331b0e8b2abb1966e16f6af30a7c841945294fe7dc4670a93"
+    },
+    {
+      "path": "local-dictionary/shards/sm.json.gz.bin",
+      "bytes": 41733,
+      "sha256": "0ec9605e8d1a43a9bece2812bfc9e13a59e8e9f5db80d9951c2d9f35f8a72558"
+    },
+    {
+      "path": "local-dictionary/shards/sn.json.gz.bin",
+      "bytes": 41939,
+      "sha256": "c89154521de1e32ef3aa84b7626c5007f218ae4b557fadb58e0580addb4a556c"
+    },
+    {
+      "path": "local-dictionary/shards/so.json.gz.bin",
+      "bytes": 165246,
+      "sha256": "9a29e41a6391e223686fd71da0cdbc531b6ae5268d1618668ae2d1c4d1664c94"
+    },
+    {
+      "path": "local-dictionary/shards/sp.json.gz.bin",
+      "bytes": 234688,
+      "sha256": "7e635a581b11047e797a7a977928765367478ac2beba66d4850faab8986557f1"
+    },
+    {
+      "path": "local-dictionary/shards/sq.json.gz.bin",
+      "bytes": 24338,
+      "sha256": "e69816b2663adfdac68a13581a77ac645309f474fc0ff9c7c8599fcb16e9dddc"
+    },
+    {
+      "path": "local-dictionary/shards/sr.json.gz.bin",
+      "bytes": 4177,
+      "sha256": "65c9c6c6164d4622f0cd163a72f7d62c8b5fb675cc4d2f748c0ea18abd9a10e0"
+    },
+    {
+      "path": "local-dictionary/shards/ss.json.gz.bin",
+      "bytes": 5260,
+      "sha256": "40228496fe0b087fd7f012da68e7c4d6a742fbff3e3c4c740db01c25a0ed4c35"
+    },
+    {
+      "path": "local-dictionary/shards/st.json.gz.bin",
+      "bytes": 412251,
+      "sha256": "7a4f67730e80662e833b0b34bb94171624ed4b6dd56879a1640c37a9855f346a"
+    },
+    {
+      "path": "local-dictionary/shards/su.json.gz.bin",
+      "bytes": 305232,
+      "sha256": "541a70e000db369ce91f2181ac37266dcda9320b54211eb23b13e995add4fea8"
+    },
+    {
+      "path": "local-dictionary/shards/sv.json.gz.bin",
+      "bytes": 3463,
+      "sha256": "c7607f07612050ac455f36cda2871f68337adeaa6f053a7fcb893483f409c029"
+    },
+    {
+      "path": "local-dictionary/shards/sw.json.gz.bin",
+      "bytes": 59624,
+      "sha256": "86e086de6480b7ae85b9c2818d6ab415bb151f1d5978913373a3c25cb6fc28fe"
+    },
+    {
+      "path": "local-dictionary/shards/sx.json.gz.bin",
+      "bytes": 454,
+      "sha256": "92bf3a278c21b633663369daf1a5ad93965f1a675a8ad6198d5ee1e8580b627a"
+    },
+    {
+      "path": "local-dictionary/shards/sy.json.gz.bin",
+      "bytes": 79881,
+      "sha256": "c15e1fb7dfcd0886f2a853a3b07a0488c015d0278e8ed5940c91da916a387d81"
+    },
+    {
+      "path": "local-dictionary/shards/sz.json.gz.bin",
+      "bytes": 1433,
+      "sha256": "b0f423135a297c53221fbb26a40b76177fbfc717c8c10bbbb87bb28da6580f36"
+    },
+    {
+      "path": "local-dictionary/shards/t_.json.gz.bin",
+      "bytes": 394,
+      "sha256": "bb72c6870e46d89743200c1128b444f71980b4694801ab0249eac1eec2cdbc02"
+    },
+    {
+      "path": "local-dictionary/shards/ta.json.gz.bin",
+      "bytes": 182066,
+      "sha256": "6b1f417fd169607b422d12c159719a002accd41fe45d0e60240196d9945cd2a7"
+    },
+    {
+      "path": "local-dictionary/shards/tb.json.gz.bin",
+      "bytes": 2927,
+      "sha256": "7226df017655825c1e1028a18240b6b5c124a39d2267d2fbdfd5e9a2217f895b"
+    },
+    {
+      "path": "local-dictionary/shards/tc.json.gz.bin",
+      "bytes": 3289,
+      "sha256": "56531caf7de0ba5ff507c69093a7641533d4940e49139b2d0662432b7b72e1a1"
+    },
+    {
+      "path": "local-dictionary/shards/td.json.gz.bin",
+      "bytes": 1577,
+      "sha256": "4599c1a725c376c49ed053d74b86decf0b5ba17851d8d93cda441641c588b4f0"
+    },
+    {
+      "path": "local-dictionary/shards/te.json.gz.bin",
+      "bytes": 204639,
+      "sha256": "4e03a24e2801522aa7bdb603bb43550d035fc014127d5eb03cf2aca036b27d77"
+    },
+    {
+      "path": "local-dictionary/shards/tf.json.gz.bin",
+      "bytes": 1138,
+      "sha256": "10fa2b4791273ab6adfaae6047e8561f63f93ee1960d6d183f6cab438f237648"
+    },
+    {
+      "path": "local-dictionary/shards/tg.json.gz.bin",
+      "bytes": 952,
+      "sha256": "b18427e16d86d24bd8e19d60da363d028cdb183d4421e654002f33626a6ccb57"
+    },
+    {
+      "path": "local-dictionary/shards/th.json.gz.bin",
+      "bytes": 215479,
+      "sha256": "a125abefa138eb4686a83328106f8d6f3cbad454f4dd40dd73275bb6bf2f7c76"
+    },
+    {
+      "path": "local-dictionary/shards/ti.json.gz.bin",
+      "bytes": 91855,
+      "sha256": "20aa6afcbb63e4b04053886234f7432be240b7daaf0965bb7241a0ac3823251c"
+    },
+    {
+      "path": "local-dictionary/shards/tj.json.gz.bin",
+      "bytes": 1037,
+      "sha256": "bab4ad8e13fd5a932ef6a6f091da51a9eec19412a4a53361049af1f44184b880"
+    },
+    {
+      "path": "local-dictionary/shards/tk.json.gz.bin",
+      "bytes": 809,
+      "sha256": "9d80120e15a39d82977a3d439fbfc9b3168165311a4e6323c5cb1aaf2361687d"
+    },
+    {
+      "path": "local-dictionary/shards/tl.json.gz.bin",
+      "bytes": 2308,
+      "sha256": "72965a994eae20eb51bc149fd8b78a219058fff4e6a1969aaef3619585b5c5dc"
+    },
+    {
+      "path": "local-dictionary/shards/tm.json.gz.bin",
+      "bytes": 2090,
+      "sha256": "0a7202ab4e53bde08e98b1a25d9883926711abec45ed3635a2695701e1e54cfc"
+    },
+    {
+      "path": "local-dictionary/shards/tn.json.gz.bin",
+      "bytes": 1505,
+      "sha256": "1350220510795fda281827ebab77b6f7dc82bfe99039802d7d1483f011ca08a8"
+    },
+    {
+      "path": "local-dictionary/shards/to.json.gz.bin",
+      "bytes": 161108,
+      "sha256": "30fdaa61d98d11ca76ed225d48b20c5c63a259c4fed909bcfe765d8b9833aacc"
+    },
+    {
+      "path": "local-dictionary/shards/tp.json.gz.bin",
+      "bytes": 2368,
+      "sha256": "291a0e20232c23095ee94631f599d70ed3fd481901e02bbfaf4b042ea2dbc39d"
+    },
+    {
+      "path": "local-dictionary/shards/tq.json.gz.bin",
+      "bytes": 322,
+      "sha256": "c9e05b202d4988a278bedc5790da015eb66d708c67843bd6639cc638f832947b"
+    },
+    {
+      "path": "local-dictionary/shards/tr.json.gz.bin",
+      "bytes": 320228,
+      "sha256": "3ef55ecb0b9d826484f96af17204b1e533f8904ae6077f67c5895b9305af61b2"
+    },
+    {
+      "path": "local-dictionary/shards/ts.json.gz.bin",
+      "bytes": 8049,
+      "sha256": "4bf923745fcf8896a23376131a511444b7ceeed46f0f77841850f1fd6a4af02a"
+    },
+    {
+      "path": "local-dictionary/shards/tt.json.gz.bin",
+      "bytes": 1827,
+      "sha256": "329d01898c726aa83e447b2c7c5efec47b4513bf985fd3acadf68eb19f060e50"
+    },
+    {
+      "path": "local-dictionary/shards/tu.json.gz.bin",
+      "bytes": 87942,
+      "sha256": "4810e3eb0b46320dec8cf5d68270e2f1e9309269763ea11b4aa5eeada36e2b44"
+    },
+    {
+      "path": "local-dictionary/shards/tv.json.gz.bin",
+      "bytes": 2554,
+      "sha256": "ed25d273f359530177b2faa0f7643fd6154ac588ed3a00fb3b69643cf85b45ec"
+    },
+    {
+      "path": "local-dictionary/shards/tw.json.gz.bin",
+      "bytes": 33596,
+      "sha256": "481a05963d1f5e54cd9020174990734704b20dc3f6acd340debd148ea898db42"
+    },
+    {
+      "path": "local-dictionary/shards/tx.json.gz.bin",
+      "bytes": 499,
+      "sha256": "0b77619307ca7eb012a14108e768594b2ce882b0c6994c595ed280c235a1f6d7"
+    },
+    {
+      "path": "local-dictionary/shards/ty.json.gz.bin",
+      "bytes": 25661,
+      "sha256": "a1020966445a9b0955f97fcdf4c3584a7475c036703f8073f5927fae9512b3b6"
+    },
+    {
+      "path": "local-dictionary/shards/tz.json.gz.bin",
+      "bytes": 1220,
+      "sha256": "b19c1fb424a085c37ce6bad8458740785f6f2e298b3156a0439ce3d244f4c5a0"
+    },
+    {
+      "path": "local-dictionary/shards/u_.json.gz.bin",
+      "bytes": 369,
+      "sha256": "eb6ec11658fe6ce1e5c8859247d141114c16708260a0b50e3331907d149ff596"
+    },
+    {
+      "path": "local-dictionary/shards/ua.json.gz.bin",
+      "bytes": 1521,
+      "sha256": "5b31c583019d2476bdbd4e0e9412a17a069768d1d21b7a7fc6f7e424c9d0b851"
+    },
+    {
+      "path": "local-dictionary/shards/ub.json.gz.bin",
+      "bytes": 4012,
+      "sha256": "9c79d34622f00d4f8be4ecbdf05ec0cba6165de68175ee33020fcf2dc3f9c00e"
+    },
+    {
+      "path": "local-dictionary/shards/uc.json.gz.bin",
+      "bytes": 2257,
+      "sha256": "f35c4016585e9a40b314fac5102a40a3b91ad7dc1861d108e3bd48f866fdb9d3"
+    },
+    {
+      "path": "local-dictionary/shards/ud.json.gz.bin",
+      "bytes": 2729,
+      "sha256": "a544634ff1bc777f3ec771bcf7ce987607d23d506756ecc58d4175cd7ec89a60"
+    },
+    {
+      "path": "local-dictionary/shards/ue.json.gz.bin",
+      "bytes": 781,
+      "sha256": "6eb64c7fbd97dae2324497ddf0050b52b227ec3a3d30a8536efce9f3783b9b1a"
+    },
+    {
+      "path": "local-dictionary/shards/uf.json.gz.bin",
+      "bytes": 1968,
+      "sha256": "79b6bfdab8e6922fcefc3aed14112660354d03fc02a64ca0c1fe340d072eec40"
+    },
+    {
+      "path": "local-dictionary/shards/ug.json.gz.bin",
+      "bytes": 4810,
+      "sha256": "33ce184917a1e6d9b8380eed22ca6aa1833950b2b0a7e940777c0abace2bdbf6"
+    },
+    {
+      "path": "local-dictionary/shards/uh.json.gz.bin",
+      "bytes": 1711,
+      "sha256": "a48a53cc7764adba4ec88a6e5664a1ef84d2f803d39f598e4f065c39ef041a75"
+    },
+    {
+      "path": "local-dictionary/shards/ui.json.gz.bin",
+      "bytes": 1440,
+      "sha256": "2dbe968bca43985f5cf60a7e90b0084536cbea37c47c0bb12002a3c19e465b6b"
+    },
+    {
+      "path": "local-dictionary/shards/uj.json.gz.bin",
+      "bytes": 576,
+      "sha256": "899617169224a70ad5b85e52e9cadd8335b56b52c678cc50c7b021c4159aeba0"
+    },
+    {
+      "path": "local-dictionary/shards/uk.json.gz.bin",
+      "bytes": 1544,
+      "sha256": "7585d652173741a8ffb462f9e2b76b98bd3a702677ced518f5db5a6a57e8f2fc"
+    },
+    {
+      "path": "local-dictionary/shards/ul.json.gz.bin",
+      "bytes": 27819,
+      "sha256": "94a306bce1ee1ca422263c58fb8ffbffeb66d9b643c17c78ed86275c7d182d6d"
+    },
+    {
+      "path": "local-dictionary/shards/um.json.gz.bin",
+      "bytes": 9857,
+      "sha256": "739e2656532869c5b22794c961f34f3beb353c2064b593ad42a5de81ff2ad2e6"
+    },
+    {
+      "path": "local-dictionary/shards/un.json.gz.bin",
+      "bytes": 294805,
+      "sha256": "508d80782350f4c9ba8e8043d4b8d929e9020ead7354a17c4bcc0296ac86feae"
+    },
+    {
+      "path": "local-dictionary/shards/uo.json.gz.bin",
+      "bytes": 641,
+      "sha256": "738f2d1c11e915f94333d5c657a1900743230754bde4ca1b3ad63b9b32a10f1b"
+    },
+    {
+      "path": "local-dictionary/shards/up.json.gz.bin",
+      "bytes": 31585,
+      "sha256": "ed79a9e8066296fc37eee2c629b003299a966a27662164f00177627f1f2b3410"
+    },
+    {
+      "path": "local-dictionary/shards/uq.json.gz.bin",
+      "bytes": 191,
+      "sha256": "cac48ff6e929a61f45b0c55fde5293f6d85b6711c21ddb8921928cef34f61566"
+    },
+    {
+      "path": "local-dictionary/shards/ur.json.gz.bin",
+      "bytes": 40512,
+      "sha256": "1c986e6f8041f5439c99aa6420db4e253128bae3b914bfe981f13e7806d9ed5c"
+    },
+    {
+      "path": "local-dictionary/shards/us.json.gz.bin",
+      "bytes": 18580,
+      "sha256": "3a4ae6410cdce2266bf45fdbd5237a0ac86b5b83fcaa8886151154eaaa25ba04"
+    },
+    {
+      "path": "local-dictionary/shards/ut.json.gz.bin",
+      "bytes": 13621,
+      "sha256": "f3b50b4b9ad393fbc426e03aca479cdbc510ff9f534d99e5f8fd6bab8153ab76"
+    },
+    {
+      "path": "local-dictionary/shards/uu.json.gz.bin",
+      "bytes": 773,
+      "sha256": "cf8ae8d417d2937d3311b1d2e55843a424ef3cb03ab472c53f5b83170bb8b310"
+    },
+    {
+      "path": "local-dictionary/shards/uv.json.gz.bin",
+      "bytes": 2879,
+      "sha256": "ba0c6c8e58b7e09e47c813f086a4b55d177e0c6cec2085becd910263ee298906"
+    },
+    {
+      "path": "local-dictionary/shards/uw.json.gz.bin",
+      "bytes": 981,
+      "sha256": "3d9dc35ef81d38755c210b1b5452ddecf0946d346fcdc91698d5b39f93f3c697"
+    },
+    {
+      "path": "local-dictionary/shards/ux.json.gz.bin",
+      "bytes": 929,
+      "sha256": "9ed360cf67c05e214b04bc16a5c5a4d5f8f9274bec6923c520685b9a9331588f"
+    },
+    {
+      "path": "local-dictionary/shards/uy.json.gz.bin",
+      "bytes": 540,
+      "sha256": "575c5798621d06634330f7a0392387f3ab85e6fcab280a67dc88094788be9a27"
+    },
+    {
+      "path": "local-dictionary/shards/uz.json.gz.bin",
+      "bytes": 868,
+      "sha256": "1bc6c72775a23c2c267d8c4f560df6022bb9b40a4b081e5b73617b46d4b6e517"
+    },
+    {
+      "path": "local-dictionary/shards/v_.json.gz.bin",
+      "bytes": 568,
+      "sha256": "42f6b1b51287436a4b00e5736b34905aa8b922b0372cf3d8a69567d648d4d43a"
+    },
+    {
+      "path": "local-dictionary/shards/va.json.gz.bin",
+      "bytes": 101710,
+      "sha256": "910d3f94c6c9f2b0b0e37e71b788037b7f341813045537551eb1ef5c7e362f8a"
+    },
+    {
+      "path": "local-dictionary/shards/vb.json.gz.bin",
+      "bytes": 873,
+      "sha256": "5371ce39ec96255d8b6b51d18cb84f653ed73bd6cd7668398236643218340f7d"
+    },
+    {
+      "path": "local-dictionary/shards/vc.json.gz.bin",
+      "bytes": 1530,
+      "sha256": "e62e25c82aa61cabd781af3b48a3e714c30919fbd1b8704be42e2d8d54b43ef5"
+    },
+    {
+      "path": "local-dictionary/shards/vd.json.gz.bin",
+      "bytes": 1086,
+      "sha256": "3ce9b869f8f18e1451ed364e2c22436643aa7570af3aac01c6287aaf0d90fb94"
+    },
+    {
+      "path": "local-dictionary/shards/ve.json.gz.bin",
+      "bytes": 109435,
+      "sha256": "793aacb96ce4205c2f5aa9cdb68cfe7fb76cd41705c142cc24c29fb31f5f9248"
+    },
+    {
+      "path": "local-dictionary/shards/vf.json.gz.bin",
+      "bytes": 983,
+      "sha256": "899432fbaf893e18d04f814e39fa8c5b9d97124b3d8fcf2c87feaa11bfd08ec2"
+    },
+    {
+      "path": "local-dictionary/shards/vg.json.gz.bin",
+      "bytes": 419,
+      "sha256": "6672180fe66f9be87baacbd12285e5c8288d617d9ce7e729e70963435ea11db9"
+    },
+    {
+      "path": "local-dictionary/shards/vh.json.gz.bin",
+      "bytes": 707,
+      "sha256": "d49a8b80c414b7d4729f4f1b9c7aa8647e42b8382018e31ac923e7523209aec3"
+    },
+    {
+      "path": "local-dictionary/shards/vi.json.gz.bin",
+      "bytes": 114793,
+      "sha256": "97c10dfe4104da067365683f04d44678cacd14b4e3d5a95094e00abcc43f9f3a"
+    },
+    {
+      "path": "local-dictionary/shards/vj.json.gz.bin",
+      "bytes": 342,
+      "sha256": "3365a0e93ebc09dd7727d90f1a336ec967c82cbc3a463c73eb7cb4759f92900f"
+    },
+    {
+      "path": "local-dictionary/shards/vk.json.gz.bin",
+      "bytes": 134,
+      "sha256": "47f92fed129ca0fbe5f908a6968fa3ceba8e2be1915660a72c513f71207dd40e"
+    },
+    {
+      "path": "local-dictionary/shards/vl.json.gz.bin",
+      "bytes": 2687,
+      "sha256": "58463ffbdd42fb814723f7786abbd814e5361a1c757b11a447e8ece7b0111a90"
+    },
+    {
+      "path": "local-dictionary/shards/vm.json.gz.bin",
+      "bytes": 955,
+      "sha256": "e00a99ff4dc8613c889ee1d013aca8f06724957d4e089a9ddb018127740a9f75"
+    },
+    {
+      "path": "local-dictionary/shards/vn.json.gz.bin",
+      "bytes": 637,
+      "sha256": "545d4f16fc4c7332e05721d505bb1b304be77349a68e72e6269798d0cae5c42d"
+    },
+    {
+      "path": "local-dictionary/shards/vo.json.gz.bin",
+      "bytes": 49951,
+      "sha256": "e6a40ded171ff7d8359a84352259f2094dfa369e7bf4722d801e37e1f40b7173"
+    },
+    {
+      "path": "local-dictionary/shards/vp.json.gz.bin",
+      "bytes": 831,
+      "sha256": "8fae813654d4b8d8f158dcd7c91dfe98b7ca0cc97478ab03010ae477d0ca1a68"
+    },
+    {
+      "path": "local-dictionary/shards/vq.json.gz.bin",
+      "bytes": 166,
+      "sha256": "3b8a31950139837bffe2c273d2560fbe02d7464544b1d530f6c1118d4a249bff"
+    },
+    {
+      "path": "local-dictionary/shards/vr.json.gz.bin",
+      "bytes": 1941,
+      "sha256": "ebc218df2cff518f823856c772d2f521e542e2f35e67f5046786a23bafcda8fa"
+    },
+    {
+      "path": "local-dictionary/shards/vs.json.gz.bin",
+      "bytes": 2244,
+      "sha256": "625fe5626730c53472b82a3510c757dc9dcb2de8f949f771464be2d12410dd1e"
+    },
+    {
+      "path": "local-dictionary/shards/vt.json.gz.bin",
+      "bytes": 1285,
+      "sha256": "6c33aa7aaee1c82a308866fd528a06e32c52d79aef6b519386c2655037d9c792"
+    },
+    {
+      "path": "local-dictionary/shards/vu.json.gz.bin",
+      "bytes": 7703,
+      "sha256": "63148cd8309b38e63a3171b65399143e7ee7fcdbdd377c6d3fbaf325b1399a16"
+    },
+    {
+      "path": "local-dictionary/shards/vv.json.gz.bin",
+      "bytes": 778,
+      "sha256": "2680ab11b00f8f0c9ddd8aa5f5e513c25d5ea573f328ee7d6cd684a56c43ff35"
+    },
+    {
+      "path": "local-dictionary/shards/vw.json.gz.bin",
+      "bytes": 444,
+      "sha256": "27e1044289ae004f06e26a6a0620901acb801989098dd87883cd7125622d21af"
+    },
+    {
+      "path": "local-dictionary/shards/vx.json.gz.bin",
+      "bytes": 179,
+      "sha256": "35f3d66971c451cd800755fd93dfd5f26d7a560abd49348527c41448127f74b5"
+    },
+    {
+      "path": "local-dictionary/shards/vy.json.gz.bin",
+      "bytes": 2643,
+      "sha256": "be4abbb93992ded48ff456e4b5711f62ccad8a25ebe1b5f143c4e8446e6e9433"
+    },
+    {
+      "path": "local-dictionary/shards/vz.json.gz.bin",
+      "bytes": 194,
+      "sha256": "03e5a5e44e12234b1fff38792ce4f914ab868438700c950c38adf6ebc67a62d9"
+    },
+    {
+      "path": "local-dictionary/shards/w_.json.gz.bin",
+      "bytes": 300,
+      "sha256": "274baa791f156fb57bbb65056722a41f2a1e8fce4880db9518a9b536a97f98ae"
+    },
+    {
+      "path": "local-dictionary/shards/wa.json.gz.bin",
+      "bytes": 149449,
+      "sha256": "d3723a5b90f74b82811f264f523b232f8f1df0c09b1d023a720f2a4ae9ee7e2a"
+    },
+    {
+      "path": "local-dictionary/shards/wb.json.gz.bin",
+      "bytes": 1104,
+      "sha256": "b054612ee3100605f751da44131975cdf4edaa6c9b4a5ee20968301ea226437e"
+    },
+    {
+      "path": "local-dictionary/shards/wc.json.gz.bin",
+      "bytes": 1712,
+      "sha256": "0f8201ce37e68930fe0b00be5f015eed1337d0d5fb61ce3f052f71a6bb851d99"
+    },
+    {
+      "path": "local-dictionary/shards/wd.json.gz.bin",
+      "bytes": 684,
+      "sha256": "51a722fd8f2b3091f57bdfa5ffa0c0ffe91ded907c0278d20e9d92ef02e42d5c"
+    },
+    {
+      "path": "local-dictionary/shards/we.json.gz.bin",
+      "bytes": 89916,
+      "sha256": "4416232aa589a3046e49b19a8a0488d400d56c53d7cea549baf572a9e6698471"
+    },
+    {
+      "path": "local-dictionary/shards/wf.json.gz.bin",
+      "bytes": 1063,
+      "sha256": "154ac0df6cb9beca0f5355f31b19f36a9a20c0a73b8ab36dbdb676d7176d5315"
+    },
+    {
+      "path": "local-dictionary/shards/wg.json.gz.bin",
+      "bytes": 568,
+      "sha256": "b920684902538999f857fe339c442825644442951057f630467c83c7da477022"
+    },
+    {
+      "path": "local-dictionary/shards/wh.json.gz.bin",
+      "bytes": 77846,
+      "sha256": "f8a2532dbce5835027a647a8ceaddd6a13a41f46595ac84442f5e81e4028f90e"
+    },
+    {
+      "path": "local-dictionary/shards/wi.json.gz.bin",
+      "bytes": 117884,
+      "sha256": "bb39c51452786c019670723292710c4da4ef50fbb4adba0d6aa39e94f85243f0"
+    },
+    {
+      "path": "local-dictionary/shards/wj.json.gz.bin",
+      "bytes": 276,
+      "sha256": "a9df5fd7b2373d7a2d8a4bbf9d47ef712793dd16dac3e070e18b12d0116325f4"
+    },
+    {
+      "path": "local-dictionary/shards/wk.json.gz.bin",
+      "bytes": 607,
+      "sha256": "4cf5fadf89afbd754076243899e222877995d01e64aa37253f83e3e494c59612"
+    },
+    {
+      "path": "local-dictionary/shards/wl.json.gz.bin",
+      "bytes": 1081,
+      "sha256": "308414ca3fe40bb8d4e02d9b332a598359a961559cb781784cbffa4790e15f9c"
+    },
+    {
+      "path": "local-dictionary/shards/wm.json.gz.bin",
+      "bytes": 1550,
+      "sha256": "c6bdd51f94533493cfdb9c1f838a6c27b5b9124bf14f4692cef3d513dc31bcac"
+    },
+    {
+      "path": "local-dictionary/shards/wn.json.gz.bin",
+      "bytes": 762,
+      "sha256": "3fbc626bdac0bae82c6ed667c3b5073a9895297ee454487b036ee8927364ec44"
+    },
+    {
+      "path": "local-dictionary/shards/wo.json.gz.bin",
+      "bytes": 77999,
+      "sha256": "1bd879b4c1577722d4b46facc9a14f8ac7981f4f81bc68ca02ac4973de9c27f9"
+    },
+    {
+      "path": "local-dictionary/shards/wp.json.gz.bin",
+      "bytes": 1491,
+      "sha256": "5f9fc27a7a2c513a927b79ba82e389cefa21a3b206fa6b35fd318c17db5727c0"
+    },
+    {
+      "path": "local-dictionary/shards/wq.json.gz.bin",
+      "bytes": 201,
+      "sha256": "9baf59d39e70cd7db6b29db2ddce5d560b164eafb74a2c3741ee739298c1e6da"
+    },
+    {
+      "path": "local-dictionary/shards/wr.json.gz.bin",
+      "bytes": 26434,
+      "sha256": "b1cd548ed008c6939997db138a1f552a897ab3196e6f92a0756c84dcee22c464"
+    },
+    {
+      "path": "local-dictionary/shards/ws.json.gz.bin",
+      "bytes": 2045,
+      "sha256": "7a3d211d65ba30bd5a2753afe08b0122561a41f33d6de16538bb4e3638355938"
+    },
+    {
+      "path": "local-dictionary/shards/wt.json.gz.bin",
+      "bytes": 1176,
+      "sha256": "41063532fa61312c1efa6cc11b2a722090eddbff23d3ae3a611723f5c6c23650"
+    },
+    {
+      "path": "local-dictionary/shards/wu.json.gz.bin",
+      "bytes": 3545,
+      "sha256": "435b5e8f88a36c5e2ca757e133f7cec1cb39005feb03c1b12172a188e10d75c0"
+    },
+    {
+      "path": "local-dictionary/shards/wv.json.gz.bin",
+      "bytes": 552,
+      "sha256": "ca7295e5d259f1252bf32aa8d573ca7ae7dd2e7ab543ce24dd8a4afedf5e982e"
+    },
+    {
+      "path": "local-dictionary/shards/ww.json.gz.bin",
+      "bytes": 1221,
+      "sha256": "01e60f5bea0528774f9ba5f2e15e17c51b23308fbfd30034c3b55db5bf492971"
+    },
+    {
+      "path": "local-dictionary/shards/wx.json.gz.bin",
+      "bytes": 232,
+      "sha256": "9fa375028c1d05430b62b892d128c4bdbe179a2525f4265c61edeb4259a95952"
+    },
+    {
+      "path": "local-dictionary/shards/wy.json.gz.bin",
+      "bytes": 4245,
+      "sha256": "983eae8cd4e6138e6ea96afe3341c00b4e7024ad87f41736bf27f1345817b8f6"
+    },
+    {
+      "path": "local-dictionary/shards/wz.json.gz.bin",
+      "bytes": 212,
+      "sha256": "21585978e4518282de23418914d771fd608e9db4f35ec9fd785b310220145a1b"
+    },
+    {
+      "path": "local-dictionary/shards/x_.json.gz.bin",
+      "bytes": 449,
+      "sha256": "ebba19a796a8ee1d2759e87fffcf94c3b2c7b8fb2d7bf9ae483f13ba9431aa63"
+    },
+    {
+      "path": "local-dictionary/shards/xa.json.gz.bin",
+      "bytes": 12249,
+      "sha256": "b35fc797e36372f14e8cd22bbbe8cf6eddf4fbc062dc604168eb50932067b294"
+    },
+    {
+      "path": "local-dictionary/shards/xb.json.gz.bin",
+      "bytes": 2373,
+      "sha256": "2e6903990064d1ec4ba6fd035a3db17f161e3a8127ddbe3cea0dc2b93316417b"
+    },
+    {
+      "path": "local-dictionary/shards/xc.json.gz.bin",
+      "bytes": 1677,
+      "sha256": "c850dd6891ab61523e24197f3b5e8c9aa3b9767aafcd5f74037ef98ae4b1600d"
+    },
+    {
+      "path": "local-dictionary/shards/xd.json.gz.bin",
+      "bytes": 701,
+      "sha256": "6440d222c1e90e585adbe0fdf119c29a7f8ac18481c24641bc986c50ca38070e"
+    },
+    {
+      "path": "local-dictionary/shards/xe.json.gz.bin",
+      "bytes": 14651,
+      "sha256": "2ce9be165da7d2715f7d865a98815c4a9572fb9c201e0d8a89de59053a528ea1"
+    },
+    {
+      "path": "local-dictionary/shards/xf.json.gz.bin",
+      "bytes": 935,
+      "sha256": "ba652b3c5608907fb7e8ee1f506e5a1a7202efd9c4efba5c72b0ab953703159f"
+    },
+    {
+      "path": "local-dictionary/shards/xg.json.gz.bin",
+      "bytes": 391,
+      "sha256": "c0ddd42e3acb75e7b2bfea3d360a22359c5600dca42c7d2d5ccbb424a9a237dc"
+    },
+    {
+      "path": "local-dictionary/shards/xh.json.gz.bin",
+      "bytes": 595,
+      "sha256": "7b369becddb9b0d20284d52a1fe52ff7454b853327923f167496c441131fcb1d"
+    },
+    {
+      "path": "local-dictionary/shards/xi.json.gz.bin",
+      "bytes": 5684,
+      "sha256": "98f451ec3925dd8035121397c68789df8ebd206c1dedcda21018ebd33c5f8742"
+    },
+    {
+      "path": "local-dictionary/shards/xj.json.gz.bin",
+      "bytes": 704,
+      "sha256": "e913f480d7369b3d75143f42756f5180df3fc32202924822e0f5f87383c5ea5d"
+    },
+    {
+      "path": "local-dictionary/shards/xk.json.gz.bin",
+      "bytes": 503,
+      "sha256": "215cabbd88b6947c13e3f41cae35f8f55d061f373d7c065accc0106384d862c8"
+    },
+    {
+      "path": "local-dictionary/shards/xl.json.gz.bin",
+      "bytes": 1025,
+      "sha256": "849ced8e7383eeb5a42e115095add73cd35f14abb732155916d60187bb33e2bc"
+    },
+    {
+      "path": "local-dictionary/shards/xm.json.gz.bin",
+      "bytes": 846,
+      "sha256": "5032ac470564c956a8c977ec1490d97b2ef0327f24eb15053217d6d70ad3a05c"
+    },
+    {
+      "path": "local-dictionary/shards/xn.json.gz.bin",
+      "bytes": 343,
+      "sha256": "fb6a555877e5d7ac4acb07f0f6049bc0ba7456906851a58dd9503fe82bbce3ee"
+    },
+    {
+      "path": "local-dictionary/shards/xo.json.gz.bin",
+      "bytes": 1590,
+      "sha256": "cbf05f7bd94869505ed1aecf4f268e8e22888d0b4b2d68bbf66e572168e298aa"
+    },
+    {
+      "path": "local-dictionary/shards/xp.json.gz.bin",
+      "bytes": 1582,
+      "sha256": "1c6849b8ead18d7158101e1ebb64b3051c65bfe6c86af5df7c4b39c3bb9387ee"
+    },
+    {
+      "path": "local-dictionary/shards/xq.json.gz.bin",
+      "bytes": 155,
+      "sha256": "3166b6c60bfbe18cf6a84e489e24f195e61a83a06e1d6749e2b66fc7592a3a9f"
+    },
+    {
+      "path": "local-dictionary/shards/xr.json.gz.bin",
+      "bytes": 4111,
+      "sha256": "f1eeefb69cec512ee1b2a90d0098805c24c856ee047b28691c8f7078ad5a81a5"
+    },
+    {
+      "path": "local-dictionary/shards/xs.json.gz.bin",
+      "bytes": 987,
+      "sha256": "b5f1206fb372277e157769c8a22ae55bbedcd87489da6e24a0a7c47c343a5ec3"
+    },
+    {
+      "path": "local-dictionary/shards/xt.json.gz.bin",
+      "bytes": 1309,
+      "sha256": "ff279eb6bed3e11d572c60ef009100241f15654e752c5d09c6c2c61edd4b34f4"
+    },
+    {
+      "path": "local-dictionary/shards/xu.json.gz.bin",
+      "bytes": 446,
+      "sha256": "6775425c207c2b7722f445e805f4af13299ba9c6e50d235526295125acd9f3e9"
+    },
+    {
+      "path": "local-dictionary/shards/xv.json.gz.bin",
+      "bytes": 648,
+      "sha256": "433fefb2d82c39d20b3057459083e2fae1de5873758773fb9963739afe44f58c"
+    },
+    {
+      "path": "local-dictionary/shards/xw.json.gz.bin",
+      "bytes": 292,
+      "sha256": "aa94a9ba6476827f9fe70d5724051bce0790ae176c9f59761a34a3ad94bf6138"
+    },
+    {
+      "path": "local-dictionary/shards/xx.json.gz.bin",
+      "bytes": 1358,
+      "sha256": "2e5b5d22e8a75e0ce684b9d827be78f6196d01f770abcd2deb66d6e95d14ceaa"
+    },
+    {
+      "path": "local-dictionary/shards/xy.json.gz.bin",
+      "bytes": 7823,
+      "sha256": "8ac3ef30807b6f1465e003da239b9e79f5d8a659dc84cd11b450a879d6c5cb04"
+    },
+    {
+      "path": "local-dictionary/shards/xz.json.gz.bin",
+      "bytes": 381,
+      "sha256": "828c02262610acb9240ecbc105de12e3c3940edf9c93e3eb3eb92af3d1a0ca7c"
+    },
+    {
+      "path": "local-dictionary/shards/y_.json.gz.bin",
+      "bytes": 520,
+      "sha256": "dcfe48f3d8ab05eefe136920cf36ce130365f1d023133239bef06335b245f0eb"
+    },
+    {
+      "path": "local-dictionary/shards/ya.json.gz.bin",
+      "bytes": 23797,
+      "sha256": "178890344b35a49b28a30c4e14dab8aa984571d43df0be48f2109287ec29d10f"
+    },
+    {
+      "path": "local-dictionary/shards/yb.json.gz.bin",
+      "bytes": 565,
+      "sha256": "770e4e75ab5f42923d088e306f7c1832be77c989a181a5f7ad7a073bff8faaa4"
+    },
+    {
+      "path": "local-dictionary/shards/yc.json.gz.bin",
+      "bytes": 732,
+      "sha256": "711d8b490f4f298790cf491417a6a1b243b3d6273da1db42007e8b699cb4f995"
+    },
+    {
+      "path": "local-dictionary/shards/yd.json.gz.bin",
+      "bytes": 621,
+      "sha256": "1289e1c6648535f2210662c4d75cd6034491c0449f36accc7ab56b00c890ed8a"
+    },
+    {
+      "path": "local-dictionary/shards/ye.json.gz.bin",
+      "bytes": 23368,
+      "sha256": "9481ebd41860d60cbca620dc0e8a3ad19038e4befadef4ce5efbb266c8e46a33"
+    },
+    {
+      "path": "local-dictionary/shards/yf.json.gz.bin",
+      "bytes": 418,
+      "sha256": "02078e49ba2322e11487eb62895bc3c5d20b37013a0f8d99e11923c222d9ceac"
+    },
+    {
+      "path": "local-dictionary/shards/yg.json.gz.bin",
+      "bytes": 483,
+      "sha256": "2c1b80ebf72cb8d87e2052074f589da2792572e9bf4e4979f8bb0ae6c2548820"
+    },
+    {
+      "path": "local-dictionary/shards/yh.json.gz.bin",
+      "bytes": 460,
+      "sha256": "6e0067b4f12bd847f32bab82dbe920d99038e86767b12a5791cad15c4c883b78"
+    },
+    {
+      "path": "local-dictionary/shards/yi.json.gz.bin",
+      "bytes": 5643,
+      "sha256": "08cca054c4325711d1937ef7f3d82a68d880b023696f5b4274e52630d7b0f7e4"
+    },
+    {
+      "path": "local-dictionary/shards/yj.json.gz.bin",
+      "bytes": 204,
+      "sha256": "397a07953c6a627d8c2cb254358c9ad999dbba7b9add5f9587babb6b96e7d54b"
+    },
+    {
+      "path": "local-dictionary/shards/yk.json.gz.bin",
+      "bytes": 226,
+      "sha256": "3e0147bbc94076e317ae1b1a76d89960b42725e7205f86effd87e317c29804e2"
+    },
+    {
+      "path": "local-dictionary/shards/yl.json.gz.bin",
+      "bytes": 991,
+      "sha256": "9de9d8708c66d524e4284b78d3c069c3b1bd758aa692ee2e8c2402128552e072"
+    },
+    {
+      "path": "local-dictionary/shards/ym.json.gz.bin",
+      "bytes": 746,
+      "sha256": "cb697799661dc1ae5279b4089fe2471b0ac01c75332ce883328ed55175ccffd4"
+    },
+    {
+      "path": "local-dictionary/shards/yn.json.gz.bin",
+      "bytes": 512,
+      "sha256": "c7dda74e1dde9f3c29c2a31f3e23e25a18b18fb8e91f8122848ab7faa7b2e43e"
+    },
+    {
+      "path": "local-dictionary/shards/yo.json.gz.bin",
+      "bytes": 24810,
+      "sha256": "90a303c9b975ef402c942b0a20cf1990eed00b03681240fce980bd3c028cffb7"
+    },
+    {
+      "path": "local-dictionary/shards/yp.json.gz.bin",
+      "bytes": 1144,
+      "sha256": "82f0e117dba95997ada6d113c409e862dd3852b54ad65e6b2a5ba9326f3fdfaa"
+    },
+    {
+      "path": "local-dictionary/shards/yq.json.gz.bin",
+      "bytes": 170,
+      "sha256": "8033ff49086137497dd3a6e3042b2946585bb049dbed797c5961eca11ec98bb5"
+    },
+    {
+      "path": "local-dictionary/shards/yr.json.gz.bin",
+      "bytes": 560,
+      "sha256": "247d0006196ce28b39286b6fb260c8a57f6f2f27ac4c78100d8088b73ce14e7d"
+    },
+    {
+      "path": "local-dictionary/shards/ys.json.gz.bin",
+      "bytes": 1051,
+      "sha256": "013dfeff2ea0dec635c8ff7d7fa5f30df2d61bd059aa91bb2a981bcf78d1ce0f"
+    },
+    {
+      "path": "local-dictionary/shards/yt.json.gz.bin",
+      "bytes": 2039,
+      "sha256": "2870b32ea8a9f68b61494eebdb566957eb432af6bffe6ebc4919871957cf22ac"
+    },
+    {
+      "path": "local-dictionary/shards/yu.json.gz.bin",
+      "bytes": 8401,
+      "sha256": "7912d73600b8401d1e328324b7f9b34714f36ec0b1dde7d942883855e5a2c403"
+    },
+    {
+      "path": "local-dictionary/shards/yv.json.gz.bin",
+      "bytes": 673,
+      "sha256": "fee7074e3620ea0316761d179c1786409941c2cbc422c22c90c80c2e16c67668"
+    },
+    {
+      "path": "local-dictionary/shards/yw.json.gz.bin",
+      "bytes": 596,
+      "sha256": "7b5893fe2c7768f299db041be1ab9b32b11843c29b178dfeb5f5a4307acab4a0"
+    },
+    {
+      "path": "local-dictionary/shards/yx.json.gz.bin",
+      "bytes": 144,
+      "sha256": "a3a1f7e08f67ea8a11b1a497f4484572dfc0be9df619e8d59cce07c1733fc216"
+    },
+    {
+      "path": "local-dictionary/shards/yy.json.gz.bin",
+      "bytes": 238,
+      "sha256": "de478e23623ffa4d960933c6884ae24e169b0d507229c8b71c7f1d1aac47421c"
+    },
+    {
+      "path": "local-dictionary/shards/yz.json.gz.bin",
+      "bytes": 498,
+      "sha256": "545d74c75adfa89c22e89714987beec2096c773e544c71a839a637b49de6aae5"
+    },
+    {
+      "path": "local-dictionary/shards/z_.json.gz.bin",
+      "bytes": 336,
+      "sha256": "1d729b81c47aeea8357f412eeb13a3d0c2eae9c8525eb11b6a0e73b6b8ff2061"
+    },
+    {
+      "path": "local-dictionary/shards/za.json.gz.bin",
+      "bytes": 19028,
+      "sha256": "1ba5d022fcbce07539e113187ebe5374343dba24ce8b9c46066261df95e66dd4"
+    },
+    {
+      "path": "local-dictionary/shards/zb.json.gz.bin",
+      "bytes": 502,
+      "sha256": "7b252affa56b256e478b260bac9c1462c13c402718a1af48c7365f8be78069c0"
+    },
+    {
+      "path": "local-dictionary/shards/zc.json.gz.bin",
+      "bytes": 559,
+      "sha256": "eef0248e01c8ba171fd22d4c0fa2d32df63aad5e9bcdd84c3d379b5bc14a1ed7"
+    },
+    {
+      "path": "local-dictionary/shards/zd.json.gz.bin",
+      "bytes": 498,
+      "sha256": "b8d4cf87ca74278373be48ef16a33f470b3204e2618e678b52f09e0134189851"
+    },
+    {
+      "path": "local-dictionary/shards/ze.json.gz.bin",
+      "bytes": 21981,
+      "sha256": "6844f8a96cfc41d2269f4f085e5e41d66e43616f0e63695cc3d0a7292b7d986f"
+    },
+    {
+      "path": "local-dictionary/shards/zf.json.gz.bin",
+      "bytes": 197,
+      "sha256": "4bf92ed2eebc885154de897edf14e3a4b012f7d7f994396ee006955eee3d661b"
+    },
+    {
+      "path": "local-dictionary/shards/zg.json.gz.bin",
+      "bytes": 170,
+      "sha256": "ee9d22ef591568ec499c13539aea6c5cf5b61819655b0ac2bd30e807ac1e9bc7"
+    },
+    {
+      "path": "local-dictionary/shards/zh.json.gz.bin",
+      "bytes": 1789,
+      "sha256": "296df12c17189394c1a4042305f9199f7e79324948ae2556378d364f31ce7190"
+    },
+    {
+      "path": "local-dictionary/shards/zi.json.gz.bin",
+      "bytes": 20686,
+      "sha256": "ee0c483c698c380d93f348296eb122b174f3cd8227abb7202cb143618c92f06d"
+    },
+    {
+      "path": "local-dictionary/shards/zj.json.gz.bin",
+      "bytes": 320,
+      "sha256": "c33ecb01d3d9683475ca152d0026caf76d6425a03249ebc4f8bd9f468a4ef519"
+    },
+    {
+      "path": "local-dictionary/shards/zk.json.gz.bin",
+      "bytes": 147,
+      "sha256": "8fc67d05a2181c84f3cc12f7e2a0bebe20280f268026ca814a9279118832adfc"
+    },
+    {
+      "path": "local-dictionary/shards/zl.json.gz.bin",
+      "bytes": 484,
+      "sha256": "1682720027d5a46d19f25abc0e6bd0ecdc44f7cb806171ae6ff76efe477df9c4"
+    },
+    {
+      "path": "local-dictionary/shards/zm.json.gz.bin",
+      "bytes": 528,
+      "sha256": "28c6b781eb2485e87a5e59bdd2b651b851e088655a55c3e3f21ed063f394c66b"
+    },
+    {
+      "path": "local-dictionary/shards/zn.json.gz.bin",
+      "bytes": 360,
+      "sha256": "9afaf24781ff8a2223460567bd88c80af5aa1b36006d3e7e3e3be2e962e26817"
+    },
+    {
+      "path": "local-dictionary/shards/zo.json.gz.bin",
+      "bytes": 27277,
+      "sha256": "bc165fd581e6221b9d9313befc056052322f80e123659c7d2d81b0fd972dae6d"
+    },
+    {
+      "path": "local-dictionary/shards/zp.json.gz.bin",
+      "bytes": 675,
+      "sha256": "3ec3fbd3236b0a490e482ee815af4394ca82b3544cf661f4e07f85f688c3332e"
+    },
+    {
+      "path": "local-dictionary/shards/zr.json.gz.bin",
+      "bytes": 505,
+      "sha256": "2d5c7059e3d3dfc02a0feb156b57712e2145aa9b35c0fbeb55ff154029e69978"
+    },
+    {
+      "path": "local-dictionary/shards/zs.json.gz.bin",
+      "bytes": 926,
+      "sha256": "479b5917c236dc020347cf5b067ec8a582486c49decb99af5e37dce45c884545"
+    },
+    {
+      "path": "local-dictionary/shards/zt.json.gz.bin",
+      "bytes": 402,
+      "sha256": "3b6283d93539c2cd4aa160bf2f681476cddddf9fcc3158a4c5315f9fa4f9d04b"
+    },
+    {
+      "path": "local-dictionary/shards/zu.json.gz.bin",
+      "bytes": 6732,
+      "sha256": "98e5bb39a5f1b231836e2aadc6512b64cc9cf34d17ee0b615ae588ac5922b2fc"
+    },
+    {
+      "path": "local-dictionary/shards/zv.json.gz.bin",
+      "bytes": 358,
+      "sha256": "57e535c04e7fb692bb482c21758d154ee87841ea2280ebb8522d83b7a65c40a4"
+    },
+    {
+      "path": "local-dictionary/shards/zw.json.gz.bin",
+      "bytes": 1462,
+      "sha256": "3c8a06e02ae13fad0ba739111411a4a8b3bb90729b46399d6de5dfb2964cc00d"
+    },
+    {
+      "path": "local-dictionary/shards/zx.json.gz.bin",
+      "bytes": 334,
+      "sha256": "99000fa56e226f32bdddfd35277244c55bbc6181e14b682f42d133e496132403"
+    },
+    {
+      "path": "local-dictionary/shards/zy.json.gz.bin",
+      "bytes": 8671,
+      "sha256": "2a56a48bebe423071d5f9aa5afb4bac3409d650981ae6ce4f8658e6f70dbb19f"
+    },
+    {
+      "path": "local-dictionary/shards/zz.json.gz.bin",
+      "bytes": 345,
+      "sha256": "7edef0d83bdb830700b783b3f18da7d56046694bdf8127f1eb952fe68f9c1a23"
+    },
+    {
+      "path": "local-dictionary/SOURCE.md",
+      "bytes": 791,
+      "sha256": "c4528bd35f5b8617428daef64a5ef89c0e50dfd2806bd0fdf716ed473b0f1d8f"
+    },
+    {
+      "path": "robots.txt",
+      "bytes": 28,
+      "sha256": "a8f31103361fca68bef71fc69cff844b7c23bd3d64d2b872d74690cbda656bfc"
+    },
+    {
+      "path": "selection-tools.css",
+      "bytes": 3442,
+      "sha256": "7a21e5e54603f54d9794925d39658af1249fa5dcada641637538b1747ce158af"
+    },
+    {
+      "path": "site.webmanifest",
+      "bytes": 400,
+      "sha256": "403e5560a6901acae171117e405cb25f2a99be10f40636f0addf0d98c59ac4c4"
+    },
+    {
+      "path": "vocabulary-review.css",
+      "bytes": 4227,
+      "sha256": "e351401ddb56ada193e8c5a4d4a01c4374edce3ab63026455846fddebd8227ca"
+    },
+    {
+      "path": "原始参考/0112c71b-2b576094-LearnEnglish-Speaking-B2-Discussing-advantages-and-disadvantages.pdf",
+      "bytes": 89202,
+      "sha256": "4bd0e138fdf93727b77d1af7700b4500ac46b7dd62538185a4363a94cae1e118"
+    },
+    {
+      "path": "原始参考/04f17772-cambridge-research-notes68.pdf",
+      "bytes": 3696375,
+      "sha256": "0ac0ffcd1c8958fdfa1d47f8a8b9b73eb86aa9d1e61a6ca0fcd61d14a698888f"
+    },
+    {
+      "path": "原始参考/153e493c-listening-115008.txt",
+      "bytes": 1135,
+      "sha256": "682fc2ca425a6ddd73ef504f1b7c49c6a84b8adbeb76e1debafb477f73ae0d12"
+    },
+    {
+      "path": "原始参考/188a4619-ielts-academic-reading-access-arrangement-modified-large-print-text-booklet.pdf",
+      "bytes": 135896,
+      "sha256": "2ba2d0da08ff8b8230872044358ab4cf221916df276f11c5a7c52f08b3ca29ef"
+    },
+    {
+      "path": "原始参考/2106ed93-17836703-speaking_part_3_overview_and_practice_.pdf",
+      "bytes": 290633,
+      "sha256": "8bcb1e066e2cdac62ef5407c0040d5ca6d1ae3be128d541d89008d6506b3595a"
+    },
+    {
+      "path": "原始参考/237b7194-hwatai-cambridge7-sample.pdf",
+      "bytes": 182573,
+      "sha256": "e67d1dbd493235c0894164535c8d2e42e251325fc22f988f64153eb84987b76c"
+    },
+    {
+      "path": "原始参考/2539b427-older-workers-student.pdf",
+      "bytes": 236318,
+      "sha256": "0df2386d62e08450ef65152c7dce72ee5afd5d39b41e5b764a22c3264c7fac57"
+    },
+    {
+      "path": "原始参考/2c976e31-bec3ddb1-LearnEnglish-Listening-B1-A-phone-call-from-a-customer.pdf",
+      "bytes": 83815,
+      "sha256": "d54d69632fbc144191a38bb492cb5e832c398e4c4f2fb11bdd74c08e1a0e017f"
+    },
+    {
+      "path": "原始参考/2d327ea9-official-task1a-comparison.pdf",
+      "bytes": 171801,
+      "sha256": "2e94cefebf91756df5fb7e5a3a5bf46c86c137b5025cc17ad7c537799c0955af"
+    },
+    {
+      "path": "原始参考/326008c2-idp-31.pdf",
+      "bytes": 55969,
+      "sha256": "d9a3d8545dd8e2896b2242e8319c6c5ffd5db1aac63e46ac7548c6b02aaf9e77"
+    },
+    {
+      "path": "原始参考/32f690b4-ielts-writing-key-assessment-criteria.pdf",
+      "bytes": 141957,
+      "sha256": "5e46074fab056620861710ba77fe6e8d183a9403a70b5228e00b96ef7e94422e"
+    },
+    {
+      "path": "原始参考/3cd100d3-C21-T1-Task1-response-and-comment.pdf",
+      "bytes": 619011,
+      "sha256": "bfdeb27964fe27fc36c356fd93c2c141b7fce8f1c4610dd13bb84a78ff0d66ad"
+    },
+    {
+      "path": "原始参考/3d19fa7a-listening-115005.txt",
+      "bytes": 2050,
+      "sha256": "23b5ec04bd5dde5682a4a1c85cc57916c50a52efce6607da89b1ed807119cfd3"
+    },
+    {
+      "path": "原始参考/45fe3e97-C21-T2-Task1-response-and-comment.pdf",
+      "bytes": 426796,
+      "sha256": "3923a9937a4b2d41341be0f92663a2e7d132f6a29392c00b2688fd880e2bc035"
+    },
+    {
+      "path": "原始参考/5441af04-91349570-speaking_part_1_developing_fluency_and_coherence_.pdf",
+      "bytes": 224698,
+      "sha256": "06ca6a2156f4d28b8d471c9f60c8c81c467d3ba87556954ff085295a8b4eb76d"
+    },
+    {
+      "path": "原始参考/5856a161-idp-29.pdf",
+      "bytes": 26424,
+      "sha256": "6c3607577908b01c7a701be44bb53542bbac3fc3af6132bac2237a8f187e5d42"
+    },
+    {
+      "path": "原始参考/5a330b83-listening-115010.txt",
+      "bytes": 1821,
+      "sha256": "2a0f60d494d912c4cb1668610ed221181289d090268ee2893819182e01b7a159"
+    },
+    {
+      "path": "原始参考/608874aa-listening-115010.png",
+      "bytes": 70060,
+      "sha256": "9ee7575746566a3379ded1b93460adecb0dced8e34977330418450151ae547e4"
+    },
+    {
+      "path": "原始参考/62ae7f61-52ed5765-LearnEnglish-Listening-B1-Meeting-an-old-friend.pdf",
+      "bytes": 74265,
+      "sha256": "e7235eb9770c3c0021fd0f3b322a0a732f80785c9b2a10bfcdb9dca9df518267"
+    },
+    {
+      "path": "原始参考/6c68dcc0-cambridge-zip-115051_Speaking_sample_task_-_Part_2_transcript.pdf",
+      "bytes": 11087,
+      "sha256": "d5c6400cc3a5327f9383fd5492bbcd4a3b878369bfa7c55bac85dd5814128fd1"
+    },
+    {
+      "path": "原始参考/77d2edb5-ielts-modified-academic-1.pdf",
+      "bytes": 113771,
+      "sha256": "28fa7dcce21c63594380c2fa7cc39cfe7672a9f456314dc618e41aa55d07eeae"
+    },
+    {
+      "path": "原始参考/7918ea4d-cambridge-zip-115008_Listening_sample_task_-_Multiple_choice.pdf",
+      "bytes": 16268,
+      "sha256": "80040489f9ff66cc1c4ab53722fac43066a7fb6b31bf55e49e1d0333e17df41d"
+    },
+    {
+      "path": "原始参考/7a2e8056-official-sample-idp-29-source-pages.pdf",
+      "bytes": 9170,
+      "sha256": "e873819859a5e9ea769108210c2e68b3879c98d30714f7252eaa980748e411fc"
+    },
+    {
+      "path": "原始参考/7aa23867-answer-key-01.pdf",
+      "bytes": 224827,
+      "sha256": "b0a2961d385760d2a0961016482e362d533fd1662aef086f6b1537c8a9cdfba1"
+    },
+    {
+      "path": "原始参考/7b07467c-cambridge-zip-115049_IELTS_Speaking_Sample_Part_2_Recording.mp3",
+      "bytes": 762402,
+      "sha256": "eb0f9fcc788b670d6e93a16f2431324cc034d59a1c0f5b00f36291c5d4f5092d"
+    },
+    {
+      "path": "原始参考/7e143401-416268a0-LE_listening_B1_A_phone_call_from_a_customer.mp3",
+      "bytes": 2048409,
+      "sha256": "6d3bb79dc87292f883ebe00284620db70892fc2e35cb5bdfe9ac52f50f18b67e"
+    },
+    {
+      "path": "原始参考/825804b6-listening-115008.txt",
+      "bytes": 121,
+      "sha256": "4c8a23bfdcc707090405b23202f48f8e7f379f270c09dc519b1ee991167574b3"
+    },
+    {
+      "path": "原始参考/82c03e0f-official-task2b-outweigh.pdf",
+      "bytes": 170098,
+      "sha256": "257432435749388b730ea3bb76ff960f8a25e3a4fddc7492bbc4ca849d08c040"
+    },
+    {
+      "path": "原始参考/86b51fb5-listening-115005.txt",
+      "bytes": 612,
+      "sha256": "51e2d9a13d09f571a428e43ffdc0f8e5c71327671d61726d73d511c12106432a"
+    },
+    {
+      "path": "原始参考/8860177f-C21-T2-Task1-question.pdf",
+      "bytes": 186979,
+      "sha256": "78cb1ede787bc6d52b2291db96eaa3e3e6be1a786b9cf25066ef13b68514dadf"
+    },
+    {
+      "path": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf",
+      "bytes": 24075631,
+      "sha256": "2867d9247d16e21276501ecdd1d5baaacd64bd111e450ae353be7e331ccb3131"
+    },
+    {
+      "path": "原始参考/914c8d84-ielts-speaking-band-descriptors.pdf",
+      "bytes": 91142,
+      "sha256": "8f8f556a64da18eefdcd68bb6addcc261f0299d72e0461bcf9a2c1d2a5b9c56b"
+    },
+    {
+      "path": "原始参考/93022ace-C21-T2-Task2-response-and-comment.pdf",
+      "bytes": 712994,
+      "sha256": "d54fa283505fcde0b5eabcf5c13fd6db2821862b87ed5cb7c73e1df540467ef4"
+    },
+    {
+      "path": "原始参考/9464a2d7-5bfdf909-writing_task_2_developing_paragraphs.pdf",
+      "bytes": 288993,
+      "sha256": "27e90c086727e88f7b06035e7faebfae91ff52aea7a2f46bf11bee36f50e63e4"
+    },
+    {
+      "path": "原始参考/967b0405-bf171ce7-academic_writing_task_1_grammatical_structures_for_describing_diagrams.pdf",
+      "bytes": 472145,
+      "sha256": "c4469dbb245402b16bba285d4b4161e0f9b5c7d40517f05a7d221c21b3c421de"
+    },
+    {
+      "path": "原始参考/99437c83-hwatai-cambridge10-sample.pdf",
+      "bytes": 280535,
+      "sha256": "f885242a5c7789b6843bcf5276ee2304559cb8c56199cb408914982f19cc61a0"
+    },
+    {
+      "path": "原始参考/a30888bb-listening-115010.txt",
+      "bytes": 193,
+      "sha256": "d8a0b16535761c2eda42156d1938e7555fc7b7696c3127dd8b7652c1634a3e5d"
+    },
+    {
+      "path": "原始参考/a4540c18-0bf3495a-academic_writing_task_1_writing_the_overview.pdf",
+      "bytes": 419299,
+      "sha256": "323bc9669d994752643290409a25b6754d64ce309235e9af6ad4a1302993861a"
+    },
+    {
+      "path": "原始参考/a4eb2b3b-C21-T1-Task1-question.pdf",
+      "bytes": 194272,
+      "sha256": "5c26368350b63defe9ca6fe5d3a5a5bd35438845e1cf702bca8cde501e966c6b"
+    },
+    {
+      "path": "原始参考/ad0a33c0-hwatai-cambridge6-sample.pdf",
+      "bytes": 183816,
+      "sha256": "52b3086afbe948f3e352e05b721276c42d350cf400ae84ed4b331bd357831f56"
+    },
+    {
+      "path": "原始参考/b09e5747-miles-student.pdf",
+      "bytes": 235072,
+      "sha256": "8458e19720763a6aa1f833064baa514018dd7cd0c530621b936a4e4de56dabd6"
+    },
+    {
+      "path": "原始参考/b929185f-ielts-modified-academic-1-source-pages.pdf",
+      "bytes": 51473,
+      "sha256": "bae978a8eb66578db447b4f4bc60b0f56cd9bacd1d50b3ff794eca5be82490d3"
+    },
+    {
+      "path": "原始参考/bb61bf2b-recording-4.mp3",
+      "bytes": 549410,
+      "sha256": "db6763292844abf87be657a6297fdfcd654a40f2dd3771e75359640769b20113"
+    },
+    {
+      "path": "原始参考/bc92ca24-official-task2a-opinion.pdf",
+      "bytes": 163266,
+      "sha256": "427457a1ecce6bf9221a88be9cf47c9f91d5e3be445e9256edcfacb490a06a96"
+    },
+    {
+      "path": "原始参考/beeea772-older-workers-answer-key.pdf",
+      "bytes": 91679,
+      "sha256": "8e7a503fdda39259e80fe230f37d3c41c67e512d1fc06be97424609ff8029150"
+    },
+    {
+      "path": "原始参考/c31e6351-recording-2.mp3",
+      "bytes": 401954,
+      "sha256": "40c2ea200f4c1fe2bbd1f2a6510fa7700a4fc44ab498f73b5c346108f912f864"
+    },
+    {
+      "path": "原始参考/c91877df-C21-T2-Task2-question.pdf",
+      "bytes": 161196,
+      "sha256": "4bc81f46c61426621585b0f5de64b3e6b8f6eb4e79f0f9d6410b032a1d309b37"
+    },
+    {
+      "path": "原始参考/d04994b0-hwatai-cambridge8-sample.pdf",
+      "bytes": 208815,
+      "sha256": "f734ab04383561c877e45d009dd583592a9000458f7571f363a1b97d478dd22c"
+    },
+    {
+      "path": "原始参考/d2810144-ielts-speaking-key-assessment-criteria.pdf",
+      "bytes": 111379,
+      "sha256": "791ba8a492178da2ffd39b1b17f74bb4a0c66b83fc5fe5d43b84e433828e64b4"
+    },
+    {
+      "path": "原始参考/d46f0518-official-task1c-bricks.pdf",
+      "bytes": 211973,
+      "sha256": "4a5f0eb1522c090a47518c9f5bd02ee44fe99201bccb23c8740a1367e7dc831d"
+    },
+    {
+      "path": "原始参考/d88d54dd-recording-1.mp3",
+      "bytes": 1221172,
+      "sha256": "9d796f2edcb8df33da4d83593189ce3b5e099423326bca33e140526fbed032ff"
+    },
+    {
+      "path": "原始参考/d8a488dc-ielts-writing-band-descriptors.pdf",
+      "bytes": 141876,
+      "sha256": "e3c88943ef92d98988ce4db454fd7fa8d8435f0b25e9ec667e3720a5c1168d1b"
+    },
+    {
+      "path": "原始参考/dfacdd41-cambridge-classroom-reading-3.pdf",
+      "bytes": 83425,
+      "sha256": "aac14357846fb69542aca17e8a6a87fdf2a573bd02ef9452fc49569be11bb7ff"
+    },
+    {
+      "path": "原始参考/e0428977-hwatai-cambridge5-sample.pdf",
+      "bytes": 212824,
+      "sha256": "e7583d19e869313e9d9ed775c122cad57d00640b9c34f610590cf58a6c54f221"
+    },
+    {
+      "path": "原始参考/e885c438-miles-teacher-feedback.pdf",
+      "bytes": 186616,
+      "sha256": "f1e34f77cdba35c148d06eac2ade30a521cbdb85e589ff5cf5a1252528eb769e"
+    },
+    {
+      "path": "原始参考/ec598fcf-inspera-response-3.txt",
+      "bytes": 54132,
+      "sha256": "5ca736505545c30ede753975ca720ae6c27ca5e7176306d954a1409297784656"
+    },
+    {
+      "path": "原始参考/ef4571d3-99acb260-LearnEnglish-Listening-B2-Office-party-planning.pdf",
+      "bytes": 84258,
+      "sha256": "42250c642df5a3217f8daab1220fbd142e11aa714a319d81e9f6cb9177ae0308"
+    },
+    {
+      "path": "原始参考/f8184cf8-hwatai-cambridge7-sample-source-pages.pdf",
+      "bytes": 89126,
+      "sha256": "1b531fd75b095b0bd7cfb4886c4d2093ba148279d82d311a6a7e0ca3d818c2ae"
+    },
+    {
+      "path": "原始参考/precise-listening-part-4-questions.html",
+      "bytes": 3753,
+      "sha256": "c23cb791f187b9bb8406ff2c1e04c12815e6c338e53e8787d14cbfd6b20ea0b8"
+    },
+    {
+      "path": "原始参考/precise-official-listening-full.mp3",
+      "bytes": 24925666,
+      "sha256": "d45e0ea90377ee336783279c8ac8a9edf48e291097f46c3691b4ebb385c9ec07"
+    },
+    {
+      "path": "原始参考/precise-recording-3.mp3",
+      "bytes": 573986,
+      "sha256": "f5576323792a9f48838e496f882aeefd7ad662de2ecfed42d81235a2b716a4bc"
+    },
+    {
+      "path": "原始参考/support-0e37fcad-cambridge-zip-115026_General_Training_Reading_sample_task_-_Short-answer_questions.pdf",
+      "bytes": 18313,
+      "sha256": "ddfc3cdb80e887c74dae3f512b629e3d7199c9a1c9837840dfd0a35309c7bb77"
+    },
+    {
+      "path": "原始参考/support-1627493a-cambridge-zip-115041_Speaking_sample_task_-_Part_1.pdf",
+      "bytes": 20998,
+      "sha256": "8eae7671abbe14938226e7c5226392d55f2e19924d0854736728023f80c6b349"
+    },
+    {
+      "path": "原始参考/support-1fc83602-current-official-support-12.pdf",
+      "bytes": 40257,
+      "sha256": "9b72a3e2abb1733817649a32adb14886aafe0d0f0c9ae0510866133046f039a3"
+    },
+    {
+      "path": "原始参考/support-248185c4-cambridge-zip-115016_Academic_Reading_sample_task_-_Matching_headings__2_.pdf",
+      "bytes": 26424,
+      "sha256": "6c3607577908b01c7a701be44bb53542bbac3fc3af6132bac2237a8f187e5d42"
+    },
+    {
+      "path": "原始参考/support-26a8963b-cambridge-zip-115057_Speaking_sample_task_-_Part_3_transcript.pdf",
+      "bytes": 12701,
+      "sha256": "bfcb257b1ffd925de7e56b2857f871653886c77d22e11dc57cc926c80c5bd827"
+    },
+    {
+      "path": "原始参考/support-2e9c2a8e-cambridge-zip-115047_Speaking_sample_task_-_Part_2.pdf",
+      "bytes": 20085,
+      "sha256": "ca817282a8b972ed56b156db372b3227872caa9e3e164f20f65a123f65ebaf15"
+    },
+    {
+      "path": "原始参考/support-45086163-cambridge-zip-115053_Speaking_sample_task_-_Part_3.pdf",
+      "bytes": 18323,
+      "sha256": "d3950dfc4b2d804d55869fc94532996127d0d3db7d0b7e42e6c0c23254f463d0"
+    },
+    {
+      "path": "原始参考/support-4bb3e3ea-cambridge-zip-115025_General_Training_Reading_sample_task_-_Sentence_completion.pdf",
+      "bytes": 19267,
+      "sha256": "94afe474d24da4d2ce432ae9d6dd7b8764077f27aade037f9d2b7063815df1a5"
+    },
+    {
+      "path": "原始参考/support-50078fae-cambridge-zip-115010_Listening_sample_task_-_Sentence_completion.pdf",
+      "bytes": 17315,
+      "sha256": "9efdfa258ff405ca1fac71fdf46468d8cc2f71e9673ca6fb1da3923dbc4dbe56"
+    },
+    {
+      "path": "原始参考/support-5ba9c814-part-3-AILI30064EVO_ib-2.txt",
+      "bytes": 599,
+      "sha256": "913ffe763ff0c39aadafd3eb0262dd989c4e263307cba90c036305b43ede0f46"
+    },
+    {
+      "path": "原始参考/support-c970341e-cambridge-zip-115024_General_Training_Reading_sample_task_-_Multiple_choice.pdf",
+      "bytes": 24436,
+      "sha256": "72c5008fbef84e3d5c28c1ca87be47a7175f4a0fd72a81533a59f6c73479e0d8"
+    },
+    {
+      "path": "原始参考/support-cb76d836-cambridge-zip-115011_Listening_sample_task_-_Short-answer_questions.pdf",
+      "bytes": 24731,
+      "sha256": "117f8bc27865512b36d16ef5d7ffab67c3658d518a3f1b9627581f16e011317e"
+    },
+    {
+      "path": "原始参考/support-cdf9a9d6-cambridge-zip-115005_Listening_sample_task_-_Form_completion.pdf",
+      "bytes": 59389,
+      "sha256": "8dae2b793ce9c0968ad22b060adcbbbe4477019984fa8264db5e498cef547506"
+    },
+    {
+      "path": "原始参考/support-db152507-cambridge-zip-115045_Speaking_sample_task_-_Part_1_transcript.pdf",
+      "bytes": 12410,
+      "sha256": "dd6183b308377989d3435888261f40bc13119726160a7967d20a546994d07161"
+    },
+    {
+      "path": "原始参考/support-e8b979a4-cambridge-zip-115008_Listening_sample_task_-_Multiple_choice.pdf",
+      "bytes": 16268,
+      "sha256": "80040489f9ff66cc1c4ab53722fac43066a7fb6b31bf55e49e1d0333e17df41d"
+    },
+    {
+      "path": "原始参考/support-fc920067-cambridge-zip-115020_General_Training_Reading_sample_task_-_Identifying_information.pdf",
+      "bytes": 99260,
+      "sha256": "dfef705c722ac56846a76af2955a8aff2888b0e0643e3a93c9337162db6baf81"
+    },
+    {
+      "path": "原始参考/support-fd6132a8-current-official-support-11.pdf",
+      "bytes": 92066,
+      "sha256": "44604f2647ae202439b605b05ad13b5e8d6143a53e6ecd5c0612cf00261d3ee7"
+    },
+    {
+      "path": "参考册-完成后再看.pdf",
+      "bytes": 705608,
+      "sha256": "f824ef843b3a3316d753479882ab32190868f251767f1fcda99febd99f5e7384"
+    },
+    {
+      "path": "学习册-打印版.pdf",
+      "bytes": 4340619,
+      "sha256": "3b8d7a64ee79b2f2e3d226a7bc1f095556ed5cf95f80fdf3af952b442d035575"
+    },
+    {
+      "path": "完整词汇来源库.html",
+      "bytes": 6188026,
+      "sha256": "75f36a81e8686312f75d2cbd44cacb7a01b2c8ff1c0f34545d7db3204b07a360"
+    },
+    {
+      "path": "开始学习.html",
+      "bytes": 212,
+      "sha256": "a75e55432ea02a8517f0cfa83ff97abe02443a74b5b2ef46a486dde82cb5d1b7"
+    },
+    {
+      "path": "扩展资料/03019936-LE_listening_B1_Meeting_an_old_friend.mp3",
+      "bytes": 2024637,
+      "sha256": "e094f473e1dec12d3215b5835adf095dc431a6144eea1d291f6aa0a58b88c4ce"
+    },
+    {
+      "path": "扩展资料/043b93eb-LearnEnglish-Listening-B1_An-introduction-to-a-lecture.pdf",
+      "bytes": 85661,
+      "sha256": "32b91ddcebe2d4c2c990bd2359bab8b081a819cd5f916e237ff7bbb109bb9810"
+    },
+    {
+      "path": "扩展资料/08b80125-reading_short_answer_questions_.pdf",
+      "bytes": 292972,
+      "sha256": "7d19ade86e3169c50645d3318a2348e39ca55077323bac459c77a8d46fc91abc"
+    },
+    {
+      "path": "扩展资料/0a4381e7-LearnEnglish-Writing-B1-New-Years-resolution.pdf",
+      "bytes": 97855,
+      "sha256": "559671f7872e471aea069099eb049fb35254a6739f0867329e3c57235c0a97d1"
+    },
+    {
+      "path": "扩展资料/0bf3495a-academic_writing_task_1_writing_the_overview.pdf",
+      "bytes": 419299,
+      "sha256": "323bc9669d994752643290409a25b6754d64ce309235e9af6ad4a1302993861a"
+    },
+    {
+      "path": "扩展资料/0c4b9a1a-LearnEnglish-Writing-B1-A-thank-you-message.pdf",
+      "bytes": 91641,
+      "sha256": "0763ed1532371eb64aaae02cf9e869def08491a64da4829b55e3f685e1271484"
+    },
+    {
+      "path": "扩展资料/13dff8ca-speaking_part_1_question_making_.pdf",
+      "bytes": 137941,
+      "sha256": "ab59f55cece2e23e56390b72a55506d3063a978ea3da89ac823851b7b3b00983"
+    },
+    {
+      "path": "扩展资料/15edc8cd-LearnEnglish-Reading-B1-A-conference-programme.pdf",
+      "bytes": 119249,
+      "sha256": "2744c66ae7d73e464360ab4cba7a5b2467e6088954e1152ea59d7e64463b6a33"
+    },
+    {
+      "path": "扩展资料/17836703-speaking_part_3_overview_and_practice_.pdf",
+      "bytes": 290633,
+      "sha256": "8bcb1e066e2cdac62ef5407c0040d5ca6d1ae3be128d541d89008d6506b3595a"
+    },
+    {
+      "path": "扩展资料/1b7e9fed-LearnEnglish-Reading-B1-Encyclopedia-entry.pdf",
+      "bytes": 142887,
+      "sha256": "a1361ad6a7deb8479725d401a6ae039dea27124410a98fc318dff98de46bf451"
+    },
+    {
+      "path": "扩展资料/1dd6cfeb-ielts-listening-computer-delivered-multiple-choice-more-than-one-answer-transcript.pdf",
+      "bytes": 78147,
+      "sha256": "bfa1893bf49529365a471e60f13982b7f11b90c225e4021511b8be920199cdaa"
+    },
+    {
+      "path": "扩展资料/2026-09-16-resource-audio/161f1f20-043b93eb-LearnEnglish-Listening-B1_An-introduction-to-a-lecture.pdf",
+      "bytes": 85661,
+      "sha256": "32b91ddcebe2d4c2c990bd2359bab8b081a819cd5f916e237ff7bbb109bb9810"
+    },
+    {
+      "path": "扩展资料/2026-09-16-resource-audio/2224043f-4b345c07-LE_listening_B1_An_introduction_to_a_lecture.mp3",
+      "bytes": 2948432,
+      "sha256": "cc92446df94c56f63c54fa026f65dcbeb53b5b40da43838e5088a668f9cb4cac"
+    },
+    {
+      "path": "扩展资料/2026-09-16-resource-audio/360d2d65-48058dc8-LE_listening_B1_Arriving_late_to_class.mp3",
+      "bytes": 2019883,
+      "sha256": "50cb15dfff85ff6b72d3eddd5bcb5b2672f439ea16385ede59a12cfb63522fd6"
+    },
+    {
+      "path": "扩展资料/2026-09-16-resource-audio/6c062050-dd0f6bb9-LearnEnglish-Listening-B1-Arriving-late-to_class.pdf",
+      "bytes": 80319,
+      "sha256": "3be9d3263129d296c3b67c3c20b38da0dc89ef220544b184543ba59065dd9dd2"
+    },
+    {
+      "path": "扩展资料/2026-09-16-resource-audio/a7e18a16-4c87696e-LE_listening_B1_A_weather_forecast.mp3",
+      "bytes": 1803014,
+      "sha256": "90720bd4f5cdbb640c1297aafd02bcd90bed26965009d4063abbb7a9132e9c92"
+    },
+    {
+      "path": "扩展资料/2026-09-16-resource-audio/c2159644-49206872-LearnEnglish-Listening-B1-A-team-meeting-about-diversity.pdf",
+      "bytes": 81037,
+      "sha256": "62d3c4fbf648957ea2b54f14247b01bf78470f9980d7906619e33eca94b4ca90"
+    },
+    {
+      "path": "扩展资料/2026-09-16-resource-audio/c396bd9c-aeff8f08-LearnEnglish-Listening-B1-A-weather-forecast.pdf",
+      "bytes": 76490,
+      "sha256": "9e072f2f028247ecc67e9e8550f43952d204d9d8176cfbae728a7d8aa18cc125"
+    },
+    {
+      "path": "扩展资料/2026-09-16-resource-audio/db869dd3-bfdbdf7e-LE_listening_B1_Team_meeting_about_diversity.mp3",
+      "bytes": 2478123,
+      "sha256": "64ac14d0a4ba4fc206066c44c499036fbc3c4c6a55ccd51828a44b325fcccaec"
+    },
+    {
+      "path": "扩展资料/23b7fe11-LE_listening_B2_Digital_detox_podcast.mp3",
+      "bytes": 4237574,
+      "sha256": "dafdabf692f40f29df8a860821a24bcf4c12928e42f2c8793cbe682e306d5616"
+    },
+    {
+      "path": "扩展资料/25400682-LearnEnglish-Listening-B2-Joining-a-gym.pdf",
+      "bytes": 80954,
+      "sha256": "5ce1f507afaf7cc14aff9d2eada2bbc05030b1c7cd6d312a6936dfa965458bff"
+    },
+    {
+      "path": "扩展资料/262419db-academic_writing_task_1_describing_data_and_making_approximations.pdf",
+      "bytes": 287389,
+      "sha256": "b8214017f3b0520ded4141db8aa283e106f44d278b02f364ff89eb727240da03"
+    },
+    {
+      "path": "扩展资料/2720212e-general_training_reading.pdf",
+      "bytes": 322634,
+      "sha256": "620ae69a2db2f355b147f3a6e0cd598c6025b55e170d26c9be9ef4e16d1bf4a8"
+    },
+    {
+      "path": "扩展资料/2932f39c-LearnEnglish-Listening-B2-Business-news.pdf",
+      "bytes": 90044,
+      "sha256": "a59784eb4fdf8a76ee732876bcd934ade41e3436391b69184b51c8003e807794"
+    },
+    {
+      "path": "扩展资料/2b576094-LearnEnglish-Speaking-B2-Discussing-advantages-and-disadvantages.pdf",
+      "bytes": 89202,
+      "sha256": "4bd0e138fdf93727b77d1af7700b4500ac46b7dd62538185a4363a94cae1e118"
+    },
+    {
+      "path": "扩展资料/2bc3bb1b-ielts-academic-reading-computer-delivered-matching-sentence-endings-answer-key.pdf",
+      "bytes": 17456,
+      "sha256": "3e18dbd4561db3c261810263c4cc1642f92d6b34e4a4c2a70b032611ad2b0400"
+    },
+    {
+      "path": "扩展资料/2d48b78e-LearnEnglish-Writing-B2-A-CV.pdf",
+      "bytes": 85729,
+      "sha256": "c496b74358af7cb2c84d67a0c4ddd1233c7903d6e35d12cc83c9093ff39c2fc4"
+    },
+    {
+      "path": "扩展资料/2d620443-LearnEnglish-Reading-B2-The-Buy-Nothing-movement.pdf",
+      "bytes": 83217,
+      "sha256": "e76c773498fe6a4ad3f428e7695521cd92e241ff988f6df9019889258bf6135d"
+    },
+    {
+      "path": "扩展资料/2d6514a8-LearnEnglish-Listening-B2-Creating-a-study-group.pdf",
+      "bytes": 94844,
+      "sha256": "8d7498c5a92cb5407f54d75b980088983eda4c8a50f46d53ea06a3e9728db9ba"
+    },
+    {
+      "path": "扩展资料/2e5d2674-LE_listening_B1_An_interview_about_listening_skills.mp3",
+      "bytes": 2675609,
+      "sha256": "bac018103ca35d9601ece644e3f61495ab5da6b3521cae8e3ed31a5120d6108f"
+    },
+    {
+      "path": "扩展资料/308975af-LearnEnglish-Writing-B1-A-class-forum.pdf",
+      "bytes": 90847,
+      "sha256": "5592bbbab36b92663dd700409656051839f205b31be492530f24d7e188de8657"
+    },
+    {
+      "path": "扩展资料/3286d21d-academic_writing_task_1_developing_range_of_grammatical_structures_and_lexis.pdf",
+      "bytes": 263339,
+      "sha256": "0674cec35e337f4404a87b63e54534d794dbb58f674c5ccd59aab9e223d61cd6"
+    },
+    {
+      "path": "扩展资料/34c99613-LearnEnglish-Speaking-B1-Agreeing-and-disagreeing.pdf",
+      "bytes": 94716,
+      "sha256": "1277d3a4de31c759305131d23cd01b8cc9159d6ae57f90e18747cad77496da9f"
+    },
+    {
+      "path": "扩展资料/39aa361b-LearnEnglish-Listening-B1-An-interview-about-listening-skills.pdf",
+      "bytes": 81258,
+      "sha256": "e8a116027409f2ab83e54900cf9feedcf45ed07273c500642107bbcae40f765f"
+    },
+    {
+      "path": "扩展资料/3a2cd94f-LearnEnglish-Reading-B1-Robot-teachers.pdf",
+      "bytes": 60420,
+      "sha256": "65a06bbeae4ec664db2af84863293274c46552dec9431c22ed77a85d5fff6781"
+    },
+    {
+      "path": "扩展资料/3b7be685-LE_listening_B2_Talking_about_rumours.mp3",
+      "bytes": 2776912,
+      "sha256": "5448834b603c50ddb7d37a3d57db4558bea58e4e6dae730399aea016decec486"
+    },
+    {
+      "path": "扩展资料/3c0d7da5-LE_listening_B1_Student_discussion.mp3",
+      "bytes": 2577232,
+      "sha256": "b9f443095dc7c2cb4f19ebb8c3db14bc9d44b81b327e020c54b48d8ba92523eb"
+    },
+    {
+      "path": "扩展资料/3d60240c-ielts-academic-reading-computer-delivered-table-completion-answer-key.pdf",
+      "bytes": 16841,
+      "sha256": "117bf361f022c5a8a894a1d23683e3ebe3587e5888aaf263888bd605d6678ecb"
+    },
+    {
+      "path": "扩展资料/3dea662f-LearnEnglish-Speaking-B1-Asking-a-favour.pdf",
+      "bytes": 128536,
+      "sha256": "37c61bdc1a62efff2dbcefc96f1ef56b71db976b3b3cf58ae08390c34cecfced"
+    },
+    {
+      "path": "扩展资料/410c68e1-LearnEnglish-Speaking-B2-Challenging-someones-ideas.pdf",
+      "bytes": 120663,
+      "sha256": "b8e1a22150900b0c03802b92ab41c195fdda21dfce07a206d1bb9f4f55a4d6ea"
+    },
+    {
+      "path": "扩展资料/416268a0-LE_listening_B1_A_phone_call_from_a_customer.mp3",
+      "bytes": 2048409,
+      "sha256": "6d3bb79dc87292f883ebe00284620db70892fc2e35cb5bdfe9ac52f50f18b67e"
+    },
+    {
+      "path": "扩展资料/41d7a6a7-LearnEnglish-Writing-B1-An-email-to-invite-someone-to-a-job-interview.pdf",
+      "bytes": 105185,
+      "sha256": "e1c92b3b440580edc5e773548f55fe633b96c20d5dfd18aecc12f29b674b8b3c"
+    },
+    {
+      "path": "扩展资料/4722e75b-LearnEnglish-Reading-B2-Star-Wars-and-the-hero-myth.pdf",
+      "bytes": 92744,
+      "sha256": "d489e554ebda9a950370bf7e244fc8a36b887503dc526cd4e171fc1cecd43790"
+    },
+    {
+      "path": "扩展资料/48058dc8-LE_listening_B1_Arriving_late_to_class.mp3",
+      "bytes": 2019883,
+      "sha256": "50cb15dfff85ff6b72d3eddd5bcb5b2672f439ea16385ede59a12cfb63522fd6"
+    },
+    {
+      "path": "扩展资料/49206872-LearnEnglish-Listening-B1-A-team-meeting-about-diversity.pdf",
+      "bytes": 81037,
+      "sha256": "62d3c4fbf648957ea2b54f14247b01bf78470f9980d7906619e33eca94b4ca90"
+    },
+    {
+      "path": "扩展资料/4b345c07-LE_listening_B1_An_introduction_to_a_lecture.mp3",
+      "bytes": 2948432,
+      "sha256": "cc92446df94c56f63c54fa026f65dcbeb53b5b40da43838e5088a668f9cb4cac"
+    },
+    {
+      "path": "扩展资料/4c87696e-LE_listening_B1_A_weather_forecast.mp3",
+      "bytes": 1803014,
+      "sha256": "90720bd4f5cdbb640c1297aafd02bcd90bed26965009d4063abbb7a9132e9c92"
+    },
+    {
+      "path": "扩展资料/4efea992-LearnEnglish-Listening-B2-Getting-advice.pdf",
+      "bytes": 88009,
+      "sha256": "59a8ba29058cc70e462f40a831369fee49dc44d099917a3631237f6fb363c513"
+    },
+    {
+      "path": "扩展资料/504b6868-LE_listening_B2_Joining_a_gym.mp3",
+      "bytes": 2526763,
+      "sha256": "6c0561fa993c527255d9524b9210594830481d9fec1477a7570d3df9b658c5e4"
+    },
+    {
+      "path": "扩展资料/5224fa20-ielts-listening-computer-delivered-table-completion-answer-key.pdf",
+      "bytes": 26474,
+      "sha256": "a72ed93f37b0015ef6efd634dbe8c701e9fd2837b6fe742245865f22403c4a03"
+    },
+    {
+      "path": "扩展资料/52a87cbc-LearnEnglish-Writing-B2-An-informal-email-to-a-friend.pdf",
+      "bytes": 96270,
+      "sha256": "36567c0cc28d4f63e776ce69629c81588d4b5a84b5a9f08d9cd684d3d8aa8d6d"
+    },
+    {
+      "path": "扩展资料/52ed5765-LearnEnglish-Listening-B1-Meeting-an-old-friend.pdf",
+      "bytes": 74265,
+      "sha256": "e7235eb9770c3c0021fd0f3b322a0a732f80785c9b2a10bfcdb9dca9df518267"
+    },
+    {
+      "path": "扩展资料/535e42bd-LearnEnglish-Speaking-B2-Giving-advice.pdf",
+      "bytes": 95692,
+      "sha256": "5c69ada885373fa41184234eea8ee496f9d3b33333b0d0231e622de5ee75a163"
+    },
+    {
+      "path": "扩展资料/544cfb33-speaking_part_1_test_familiarisation_and_lexical_resource_.pdf",
+      "bytes": 288365,
+      "sha256": "98f16ea6b3effd978cd3f2bc9b319a97ee7487e7253ebca926198990d27fbf55"
+    },
+    {
+      "path": "扩展资料/5454522b-LearnEnglish-Writing-B1-A-restaurant-review.pdf",
+      "bytes": 107419,
+      "sha256": "d3e9b44f35290f21dc08dafc0ddf54d22384b257485bc4a63320d5d0d478c033"
+    },
+    {
+      "path": "扩展资料/57369e4a-LearnEnglish-Listening-B1-A-studentdiscussion.pdf",
+      "bytes": 84384,
+      "sha256": "d6f2255222a480d1a437786eb98ce5365d2c2a53c4ddffc19b2d34293955f817"
+    },
+    {
+      "path": "扩展资料/58e00e31-speaking_part_2_using_ppf_strategy_.pdf",
+      "bytes": 245698,
+      "sha256": "debbcba7af232a514d9c5064fb5bebc8b51c05687fb71b332829060878ac86a5"
+    },
+    {
+      "path": "扩展资料/5a41fe9a-LearnEnglish-Reading-B2-The-sharing-economy.pdf",
+      "bytes": 102626,
+      "sha256": "62c4b395edb2517964aa957cb8deb80de6b8e0549a3f980ec499c9d98bce9c70"
+    },
+    {
+      "path": "扩展资料/5b3d8f47-LE_listening_B2_A_design_presentation.mp3",
+      "bytes": 2568454,
+      "sha256": "24eb51b3403b009206dab6bdf50f3629cd8bbae8e4fa601ac987d4e960044584"
+    },
+    {
+      "path": "扩展资料/5b3eca29-reading_matching_features_.pdf",
+      "bytes": 314094,
+      "sha256": "48b1209201f65128358d30a6658b962a065a6a65095f2157a81eeefa239d9d4c"
+    },
+    {
+      "path": "扩展资料/5bfdf909-writing_task_2_developing_paragraphs.pdf",
+      "bytes": 288993,
+      "sha256": "27e90c086727e88f7b06035e7faebfae91ff52aea7a2f46bf11bee36f50e63e4"
+    },
+    {
+      "path": "扩展资料/5dc8c49e-ielts-listening-computer-delivered-multiple-choice-one-answer-answer-key.pdf",
+      "bytes": 24374,
+      "sha256": "3d81cac5ce6d2e07b586d148d2821013f8d0c72136c048f2eee846a62e577acc"
+    },
+    {
+      "path": "扩展资料/5eaec7c4-listening_part_4_keeping_up_with_the_speaker.pdf",
+      "bytes": 364039,
+      "sha256": "3943f601630b10d20248dca4b07cf50850ed4e487d40d54d02e6f36f2f33f88a"
+    },
+    {
+      "path": "扩展资料/5eca07d6-LearnEnglish-Speaking-B2-Persuading-someone-to-do-something.pdf",
+      "bytes": 93289,
+      "sha256": "a2728d93f397f8995f63d7e7cb0b8594c6c88809d6294fdf4be6b7bdd36979a0"
+    },
+    {
+      "path": "扩展资料/601608c4-ielts-academic-writing-example-responses-to-parts-1-and-2-with-band-scores-and-examiner-comments.pdf",
+      "bytes": 492279,
+      "sha256": "cb320fda1d1eb3311900747a856c6c01520203357b1951be466dcac7f2ee9e72"
+    },
+    {
+      "path": "扩展资料/609824ad-writing_task_2_problems_and_solutions_.pdf",
+      "bytes": 317376,
+      "sha256": "26b2516d21ab293691d1f22d606830fddb71f3e80f0e5a060b9b6d7552cd0207"
+    },
+    {
+      "path": "扩展资料/61df3c4c-LearnEnglish-Reading-B1-The-Martian-a-book-review.pdf",
+      "bytes": 71022,
+      "sha256": "0ea812c0d1617b53bc306c525a90f945dd75acb36a3430263ddf42d969f8817a"
+    },
+    {
+      "path": "扩展资料/62457f96-LearnEnglish-Speaking-B2-Dealing-with-a-problem.pdf",
+      "bytes": 105501,
+      "sha256": "7d73d003d5c88d012755ace2ff453352a8accc7f029f09a4bcf0a99c02715c65"
+    },
+    {
+      "path": "扩展资料/6390472b-ielts-listening-computer-delivered-multiple-choice-more-than-one-answer-answer-key.pdf",
+      "bytes": 22881,
+      "sha256": "71a140235562071d1d1c98c2de8206abd8637e8428c95601bad4ad979b1e5300"
+    },
+    {
+      "path": "扩展资料/6513b91d-LearnEnglish-Reading-B1-Digital-habits-across_generations.pdf",
+      "bytes": 84982,
+      "sha256": "e148f382ac8ca555d97e049e82d3e50f2c91f429b84e447f70c8c17170bc7d25"
+    },
+    {
+      "path": "扩展资料/6927b494-LearnEnglish-Reading-B2-A-short-story-extract.pdf",
+      "bytes": 86943,
+      "sha256": "76ec704564c9f1c0c5b54ec13e7267c42a6c84aa73d6593289c68337c7456105"
+    },
+    {
+      "path": "扩展资料/6a40727a-reading_tfng_.pdf",
+      "bytes": 388521,
+      "sha256": "5872f7e8129f809a9fd301873e7a81de1ec3c8e0f30febf06549f2cbae0f7c8e"
+    },
+    {
+      "path": "扩展资料/6c4038fd-LearnEnglish-Writing-B2-A-covering-email.pdf",
+      "bytes": 75157,
+      "sha256": "9b66f6101e7d5126c75cd31689d846b26c656a477ee7d396a0bb1d854cde5a12"
+    },
+    {
+      "path": "扩展资料/6dad14a8-LearnEnglish-Speaking-B1-Responding-to-news.pdf",
+      "bytes": 90849,
+      "sha256": "e3ee4090f5dfc951ac38e7fb5101ced3e90e795fd7c668306abc6daf550625af"
+    },
+    {
+      "path": "扩展资料/6dc62215-LearnEnglish-Writing-B2-A-report-on-working-abroad.pdf",
+      "bytes": 94605,
+      "sha256": "d9959af57a89413acdcd6325c9786e887d4d53c04661e8549e820b6926083333"
+    },
+    {
+      "path": "扩展资料/6fbbfe42-LearnEnglish-Writing-B1-Describing-charts.pdf",
+      "bytes": 202056,
+      "sha256": "f58c3b9ba07208dc91c480040f7bdeed917b2a472b2e2fee30ce90902863ea89"
+    },
+    {
+      "path": "扩展资料/712f4a25-listening_part_3_matching-classifying_questions_.pdf",
+      "bytes": 212005,
+      "sha256": "ff5f86be15aec75b3518533b13e2ade7425cd8a6f24c20bd2dd67d15c56d0840"
+    },
+    {
+      "path": "扩展资料/77877e68-LE_listening_B2_A_talk_about_motivation.mp3",
+      "bytes": 3309392,
+      "sha256": "83f407bd77f4a2014243cb9eb506f3973f4e7fa5da73fb83efab83f65dbf8f10"
+    },
+    {
+      "path": "扩展资料/77fb7e5d-LearnEnglish-Reading-B2_Work-life-balance.pdf",
+      "bytes": 129381,
+      "sha256": "1471955e5a425fa9e23d2ac59a8a4da60631038ccb5596e1a56e162f3d74d6b9"
+    },
+    {
+      "path": "扩展资料/79bb71ad-LE_listening_B2_A_business_interview.mp3",
+      "bytes": 2921369,
+      "sha256": "b3e1921dfcabf6d3d1354790179709218797b806664468dbd6db41a2bc99a6cf"
+    },
+    {
+      "path": "扩展资料/7b05059d-ielts-listening-computer-delivered-plan-map-diagram-labelling-answer-key.pdf",
+      "bytes": 21412,
+      "sha256": "89f190a6979e56641e0ba577278c0b44e948e63cfedcb02585abc7bb6b99ec11"
+    },
+    {
+      "path": "扩展资料/7b12357f-speaking_part_2_improving_grammatical_range_and_accuracy_.pdf",
+      "bytes": 250771,
+      "sha256": "6f56c87fc8c27d0730cc60f0f66c6c047129b317ec63da13a632d3f26bb9fc7f"
+    },
+    {
+      "path": "扩展资料/7dea36dc-ielts-listening-computer-delivered-table-completion-transcript.pdf",
+      "bytes": 30822,
+      "sha256": "45c5eb831de4d1f069bb4c19a59fb66f085c827d0325faeafadb7b8d877d4116"
+    },
+    {
+      "path": "扩展资料/7e2efdd7-speaking_part_1_grammatical_range_and_accuracy_and_lexical_resource.pdf",
+      "bytes": 215235,
+      "sha256": "efcc82eb17519ffdbf4a6c214b65da932a0906815a821a1080a7e6d796b2b934"
+    },
+    {
+      "path": "扩展资料/820bfd06-ielts-academic-reading-computer-delivered-summary-completion-selecting-words-from-text-answer-key.pdf",
+      "bytes": 17450,
+      "sha256": "9a3f5a0ed57690b4e972bf1730fd74a3276eda3cab9f5398103e5a66a5101707"
+    },
+    {
+      "path": "扩展资料/821930ea-LearnEnglish-Reading-B1-The-legend-of-fairies.pdf",
+      "bytes": 68391,
+      "sha256": "efa0247db7475e129b349501c7b61afc76e54879f8cef4aeb4d9a47f1322a411"
+    },
+    {
+      "path": "扩展资料/88455cd2-ielts-academic-reading-computer-delivered-sentence-completion-answer-key.pdf",
+      "bytes": 17153,
+      "sha256": "ff2ae0d1666da88fd52496b79d1e0f9f0587375e729ff23c78a28c3175e0fb6b"
+    },
+    {
+      "path": "扩展资料/8983f35e-LearnEnglish-Reading-B2-An-email-from-a-friend.pdf",
+      "bytes": 113496,
+      "sha256": "a90093e02c850e8a47f28bd75ce56c9dc1ebc45aed45ddea66875982990b7b97"
+    },
+    {
+      "path": "扩展资料/8b36dc81-LearnEnglish-Reading-B2-Why-bridges-collapse.pdf",
+      "bytes": 89798,
+      "sha256": "db7a70e3c2303eef308ed75407a0eb07dd08331ad3e163deaab8f73d3a92e589"
+    },
+    {
+      "path": "扩展资料/8b768370-listening_part_2_short_answer_questions.pdf",
+      "bytes": 181407,
+      "sha256": "0062747012bf2e40e88f025dd3adfa4ed0b7828fdc481b1f3cb40453e9684fba"
+    },
+    {
+      "path": "扩展资料/8e24b966-LearnEnglish-Writing-B2-A-summary-of-a-line-graph.pdf",
+      "bytes": 158496,
+      "sha256": "9afaa5f9a447f1206a5b60b0aecbed7fd8702233873197e1750126cfd8ced201"
+    },
+    {
+      "path": "扩展资料/91349570-speaking_part_1_developing_fluency_and_coherence_.pdf",
+      "bytes": 224698,
+      "sha256": "06ca6a2156f4d28b8d471c9f60c8c81c467d3ba87556954ff085295a8b4eb76d"
+    },
+    {
+      "path": "扩展资料/91d21472-LearnEnglish-Writing-B1-A-professional-profile.pdf",
+      "bytes": 89359,
+      "sha256": "64033b8e28efe85baa9f7716ab5056fb2573637af553c6ce0492d1e302b32cb6"
+    },
+    {
+      "path": "扩展资料/91d76179-LearnEnglish-Writing-B1-A-report-on-a-student-meeting.pdf",
+      "bytes": 101914,
+      "sha256": "d202684e69d49aed75ab6eda0a433bb2b6c9ab056a0b8079282c1463f691ba12"
+    },
+    {
+      "path": "扩展资料/91f2dcff-LearnEnglish-Writing-B2-A-letter-complaint.pdf",
+      "bytes": 102601,
+      "sha256": "ff5097c0787a450bfc56991996fd4f95af58d8857271684ee192667e2c43850d"
+    },
+    {
+      "path": "扩展资料/92b34e06-reading_matching_headings_.pdf",
+      "bytes": 349257,
+      "sha256": "de03024fd4f7f21647c4e86b613a364346238172e870b41eccf3a7e7c6fb64e8"
+    },
+    {
+      "path": "扩展资料/95cd2ca7-LearnEnglish-Writing-B1-An-email-to-explain-an-accomodation-problem.pdf",
+      "bytes": 103940,
+      "sha256": "b475a2c9934d1f396ec165a4e0df5d42f5f4ff05319f9cbe7ac4e929df256039"
+    },
+    {
+      "path": "扩展资料/96663332-LearnEnglish-Reading-B1-Innovation-in-business.pdf",
+      "bytes": 64881,
+      "sha256": "e7319f652c9b1c198487daafe007fa625320dc19b7f167541fd67678d0f4d9ae"
+    },
+    {
+      "path": "扩展资料/972bc936-listening_part_3_sentence_completion.pdf",
+      "bytes": 235558,
+      "sha256": "b3661ed00e99108b6c2c7a0018dcdc5e29c58173e62e0814f7eec2b87c4517cc"
+    },
+    {
+      "path": "扩展资料/9783940f-LearnEnglish-Reading-B2-A-Plastic-Ocean-a-film-review.pdf",
+      "bytes": 89911,
+      "sha256": "f5e4312432b3a778ba46939efec634e34b29c0899a276bb02738227f997e32db"
+    },
+    {
+      "path": "扩展资料/98395bde-ielts-listening-computer-delivered-multiple-choice-one-answer-transcript.pdf",
+      "bytes": 83711,
+      "sha256": "704d73593ccfc19540f02f63f98d6ab2d2445a91468e11228e8e468753a0e668"
+    },
+    {
+      "path": "扩展资料/98941fb5-LE_listening_B1_Work_life_balance.mp3",
+      "bytes": 2510672,
+      "sha256": "8224bcba876608f7fbd348a5639d387e8798633677ab68fb50d0020d1d61ddb6"
+    },
+    {
+      "path": "扩展资料/99acb260-LearnEnglish-Listening-B2-Office-party-planning.pdf",
+      "bytes": 84258,
+      "sha256": "42250c642df5a3217f8daab1220fbd142e11aa714a319d81e9f6cb9177ae0308"
+    },
+    {
+      "path": "扩展资料/9a019312-writing_task_2_essay_structure_and_writing_an_introduction.pdf",
+      "bytes": 307410,
+      "sha256": "e9143a099bceb72a782693162eda61fcf2f08b11fe8c5e28ed155589b600ef05"
+    },
+    {
+      "path": "扩展资料/9b624ab4-LearnEnglish-Writing-B1-An-email-giving-holiday-advice.pdf",
+      "bytes": 107493,
+      "sha256": "588de73aaf33adf74bd20edc5bd553621cdbb28877431a1c8f7cf0f829babf95"
+    },
+    {
+      "path": "扩展资料/9dc90b6d-LE_listening_B1_At_the_chemist.mp3",
+      "bytes": 1370740,
+      "sha256": "23cbd9f1b0c1562105b3c24aee7154529541fe95bcd09970d5339b037acd3142"
+    },
+    {
+      "path": "扩展资料/9f880bfd-listening_part_4_note_taking_in_lectures.pdf",
+      "bytes": 407599,
+      "sha256": "4b96fbaa06abaf4d53dc8391787a59a2c596dcdb4822fd5a8279728f2d3401ba"
+    },
+    {
+      "path": "扩展资料/a27643bf-LearnEnglish-Writing-B2-An-email-to-request-time-off.pdf",
+      "bytes": 100918,
+      "sha256": "b154b08bc4a3d657669c394a35b801756ba71ad6932c7b1d81a5ead20db42cfe"
+    },
+    {
+      "path": "扩展资料/a3ce0454-LearnEnglish-Speaking-B1-Meeting-face-to-face.pdf",
+      "bytes": 99762,
+      "sha256": "3ca232b8974a8360a23e7fb3691af27fc7d4dff2e87a3928968c86730557ef7e"
+    },
+    {
+      "path": "扩展资料/a4a78da4-ielts-listening-computer-delivered-sentence-completion-transcript.pdf",
+      "bytes": 36914,
+      "sha256": "94e31f903ad391b7f22b6ee35fc5c040e53451efea9233d71cb2d685f0b27ed8"
+    },
+    {
+      "path": "扩展资料/a5a8f6b2-LearnEnglish-Reading-B2-Millennials-in-the-workplace.pdf",
+      "bytes": 96902,
+      "sha256": "dc38d02813fe2acbdf2c3a1501fb4c6d98c0febcc0e40ff628ddab51f80ec1bb"
+    },
+    {
+      "path": "扩展资料/a5c6807c-LearnEnglish-Reading-B1-Social-media-influencers.pdf",
+      "bytes": 65040,
+      "sha256": "72d3f461400d45b8816b15e5d3349cc4d788b9aad7f0423058f89a9858a56539"
+    },
+    {
+      "path": "扩展资料/a60e65c3-LearnEnglish-Reading-B2-Instant-messages.pdf",
+      "bytes": 132137,
+      "sha256": "a44b11a904342d85e559b9098e507c3a219a17962cf96e5474fc301d47595de7"
+    },
+    {
+      "path": "扩展资料/a840be5a-ielts-academic-reading-computer-delivered-multiple-choice-more-than-one-answer-answer-key.pdf",
+      "bytes": 21301,
+      "sha256": "c020b41b7a11d84b9fe81eede01d8dffb7acc1d8b6cff42241cc9da22ef4c0bb"
+    },
+    {
+      "path": "扩展资料/a877c606-LearnEnglish-Listening-B2-A-business-interview.pdf",
+      "bytes": 82422,
+      "sha256": "92daf728aceb4c97d2191bb6193d4a2c96dc9ff2d43f2f68ca34eaa9b4ba9ad7"
+    },
+    {
+      "path": "扩展资料/ab21dd63-LE_listening_B2_Creating_a_study_group.mp3",
+      "bytes": 2480683,
+      "sha256": "aeb999ea65bed608f8b4b9b4f893bc343b152eb90ab9f0881ca3cc8e4d47ae03"
+    },
+    {
+      "path": "扩展资料/ada533fc-LearnEnglish-Reading-B1-A-travel-guide.pdf",
+      "bytes": 68401,
+      "sha256": "bf10685bd8de9432b32afe60a9b924d82ab7c16428f2be50ae4f3542db309866"
+    },
+    {
+      "path": "扩展资料/aeff8f08-LearnEnglish-Listening-B1-A-weather-forecast.pdf",
+      "bytes": 76490,
+      "sha256": "9e072f2f028247ecc67e9e8550f43952d204d9d8176cfbae728a7d8aa18cc125"
+    },
+    {
+      "path": "扩展资料/b03c7907-LE_listening_B2_Getting_advice.mp3",
+      "bytes": 3261849,
+      "sha256": "9cd3f703975b8c04ff77ac71a076e6276d0404371d085006ed80ea744b466b9b"
+    },
+    {
+      "path": "扩展资料/b1058867-ielts-academic-reading-computer-delivered-note-completion-answer-key.pdf",
+      "bytes": 20917,
+      "sha256": "ea1cb74903509aa2c5e98824a89b5c377242ca550ac38c4d007dcd6d25c39985"
+    },
+    {
+      "path": "扩展资料/b1b5176d-LearnEnglish-Writing-B2-An-opinion-essay.pdf",
+      "bytes": 96744,
+      "sha256": "112928cd2c63c1dd072e260cb41f8a7a922f51ce96f6660a5ef9ff4ec74929fd"
+    },
+    {
+      "path": "扩展资料/b1d516bf-LearnEnglish-Reading-B2-Cultural-expectations-and-leadership.pdf",
+      "bytes": 88544,
+      "sha256": "dccd0c22596f7c2259cb4715e5b4c5685687b2f88bcdd59de72734e6eca6f1a4"
+    },
+    {
+      "path": "扩展资料/b6abbd83-reading_developing_reading_skills.pdf",
+      "bytes": 311571,
+      "sha256": "a4294b8af9ee9a83c3bde34fcc2eb6ba02f4d495de6df56a7e1bc937eab97759"
+    },
+    {
+      "path": "扩展资料/b73813e4-LearnEnglish-Reading-B2-Asteroids.pdf",
+      "bytes": 88848,
+      "sha256": "43622f4ec3ff507ff647ac9b560b11fdc4f07c02809d67509cdf4c45c5783e5c"
+    },
+    {
+      "path": "扩展资料/bbbe011d-LearnEnglish-Reading-B1-A-flyer-for-a-gym.pdf",
+      "bytes": 88485,
+      "sha256": "33dd2c64a21cbeeecf90724ad97510a46705353f126fad3301623c5250cb75f7"
+    },
+    {
+      "path": "扩展资料/bd156b1d-LearnEnglish-Listening-B2-A-talk-about-motivation.pdf",
+      "bytes": 83415,
+      "sha256": "1a9b4d999375a57c6c485102fe26a2dee834ddb299614c328bfa0c6d07884f46"
+    },
+    {
+      "path": "扩展资料/bdb1a412-LearnEnglish-Listening-B1-Work-life-balance.pdf",
+      "bytes": 94852,
+      "sha256": "f5330f4e599f8efc504d7d0c15b80ee26c44862364512570a2b635c8763d25cb"
+    },
+    {
+      "path": "扩展资料/be541bbd-LearnEnglish-Writing-B2-An-advert.pdf",
+      "bytes": 107245,
+      "sha256": "c1ec4937f81f0da10d797c553af7520f469baa68d759d20b277fb051ead0a7ed"
+    },
+    {
+      "path": "扩展资料/bec3ddb1-LearnEnglish-Listening-B1-A-phone-call-from-a-customer.pdf",
+      "bytes": 83815,
+      "sha256": "d54d69632fbc144191a38bb492cb5e832c398e4c4f2fb11bdd74c08e1a0e017f"
+    },
+    {
+      "path": "扩展资料/bf171ce7-academic_writing_task_1_grammatical_structures_for_describing_diagrams.pdf",
+      "bytes": 472145,
+      "sha256": "c4469dbb245402b16bba285d4b4161e0f9b5c7d40517f05a7d221c21b3c421de"
+    },
+    {
+      "path": "扩展资料/bf3ada29-LE_listening_B1_Making_a_decision.mp3",
+      "bytes": 2931974,
+      "sha256": "8656b31c459af7b1f82a8bcbc2dd655743ec12d68823c659a02b0a1bf6c1d37f"
+    },
+    {
+      "path": "扩展资料/bfdbdf7e-LE_listening_B1_Team_meeting_about_diversity.mp3",
+      "bytes": 2478123,
+      "sha256": "64ac14d0a4ba4fc206066c44c499036fbc3c4c6a55ccd51828a44b325fcccaec"
+    },
+    {
+      "path": "扩展资料/c06aa8b4-ielts-listening-computer-delivered-short-answer-answer-key.pdf",
+      "bytes": 22348,
+      "sha256": "32cbd7fe1c53482966a67be0b6883424734814be5fc190e966cdd6079fca72df"
+    },
+    {
+      "path": "扩展资料/c18b990b-LE_listening_B2_Business_news.mp3",
+      "bytes": 2448866,
+      "sha256": "b83922a9edfee2676901e927777281221cfde9a1ef684c1c9b72d8e9ff0792b9"
+    },
+    {
+      "path": "扩展资料/c27509bb-LearnEnglish-Listening-B1-At-the-chemist.pdf",
+      "bytes": 81134,
+      "sha256": "97e87e4f4755e94809c6c4c9d06eb264e0bf16302b43593550d1af87528bab56"
+    },
+    {
+      "path": "扩展资料/c2804774-listening_part_1_form_completion_and_multiple_choice_questions.pdf",
+      "bytes": 376059,
+      "sha256": "5dbbacffb3bdf1d8fe8ee27cea8282e03dd5709ca3ccf2bb59f55215106b7fb8"
+    },
+    {
+      "path": "扩展资料/c78a2e06-LearnEnglish-Writing-B2-Comparing-two-charts.pdf",
+      "bytes": 218245,
+      "sha256": "b409b75cb1004c8c2194415d850f070d49a14486211f4971fef2be5e66a0d5c4"
+    },
+    {
+      "path": "扩展资料/c7ca5608-LearnEnglish-Listening-B1-Chatting-about-a-series.pdf",
+      "bytes": 85256,
+      "sha256": "d51ef7bf369e4601ab171253b015f8f1930905df8fa9041f880b68c73e5d223d"
+    },
+    {
+      "path": "扩展资料/c888e25d-LearnEnglish-Speaking-B1-Keeping-a-conversation-going.pdf",
+      "bytes": 97767,
+      "sha256": "9b1291115734bb276425905973e8bfd53869856c1e38cbe2d868bb2787c654eb"
+    },
+    {
+      "path": "扩展资料/cadad0b3-LearnEnglish-Writing-B2-An-email-to-your-professor.pdf",
+      "bytes": 102528,
+      "sha256": "63290316c54905db0accc5c575d62becbfa0fe1b842f888ca94c3718208e4453"
+    },
+    {
+      "path": "扩展资料/cf2a3677-reading_completion_questions_.pdf",
+      "bytes": 334860,
+      "sha256": "28b1b4959300f587fd2ef4877cb23b11eabf88310b1a0edb18c888614841025c"
+    },
+    {
+      "path": "扩展资料/d0d9ca19-LE_listening_B2_Office_party_planning.mp3",
+      "bytes": 2959769,
+      "sha256": "c22e9b1674832932a36d5be7047409d71339e5dea27d0ec176c092320b9f3b89"
+    },
+    {
+      "path": "扩展资料/d120f6cf-ielts-academic-reading-computer-delivered-summary-completion-selecting-from-list-of-words-or-phrases-answer-key.pdf",
+      "bytes": 18343,
+      "sha256": "dea7f5d3a88a0e999226685987b6cd2c9c0a01a8e980d171b29399b2ba969dea"
+    },
+    {
+      "path": "扩展资料/d12bb0dc-LearnEnglish-Reading-B1-An-email-request-for-help.pdf",
+      "bytes": 73569,
+      "sha256": "7202270a5a609a35d6d7bdb6954dffb3f9a63918767ed28f177129af63d0f9c4"
+    },
+    {
+      "path": "扩展资料/d4a8597c-LearnEnglish-Listening-B2-Talking-about-rumours.pdf",
+      "bytes": 82087,
+      "sha256": "05eae4a9f1dddaea591843f3c5f8befc6a6e50d40d11c6d96c505d1f7edc3631"
+    },
+    {
+      "path": "扩展资料/d63be4ef-LearnEnglish-Listening-B2-A-design-presentation.pdf",
+      "bytes": 80396,
+      "sha256": "6a4a046f5715d24c4c3a2052d1a47945a769d5eca211d8cc9d2a08306f179f7f"
+    },
+    {
+      "path": "扩展资料/d80f42d4-LearnEnglish-Writing-B2-Giving-instructions-by-email.pdf",
+      "bytes": 97549,
+      "sha256": "3f681b4bb3e86dbee0faf990ea5d08d51351fd80fc6e832d2c419d8036f14fc1"
+    },
+    {
+      "path": "扩展资料/da35bdfd-LE_listening_B2_A_lecture_about_an_experiment.mp3",
+      "bytes": 2708523,
+      "sha256": "f79c2016d76c2ec2a332d5e88b350286cc1358a54ff3e410b6519d3a23d1f220"
+    },
+    {
+      "path": "扩展资料/db4ac5d7-LE_listening_B1_Chatting_about_a_series.mp3",
+      "bytes": 2541392,
+      "sha256": "43e97fd4ccea29109726b268510cfaaf70eb431b2863ec42305477a27dd55597"
+    },
+    {
+      "path": "扩展资料/dbee824d-LearnEnglish-Reading-B1-How-to-spot-fake-news.pdf",
+      "bytes": 64421,
+      "sha256": "6ef4bcd116322c5f1619a104094f61bff8d788bf32c89e372e6e26d6a3083955"
+    },
+    {
+      "path": "扩展资料/dcc6057a-LearnEnglish-Writing-B1-Reflective-writing.pdf",
+      "bytes": 99836,
+      "sha256": "dc292fdcd2c0f3ec0198c4cc775cfaa8fa3bcae99e08202dcf08d9241a370395"
+    },
+    {
+      "path": "扩展资料/dd0f6bb9-LearnEnglish-Listening-B1-Arriving-late-to_class.pdf",
+      "bytes": 80319,
+      "sha256": "3be9d3263129d296c3b67c3c20b38da0dc89ef220544b184543ba59065dd9dd2"
+    },
+    {
+      "path": "扩展资料/df9e3f23-LearnEnglish-Listening-B2-A-lecture-about-an-experiment.pdf",
+      "bytes": 81318,
+      "sha256": "ca5ab0aee37142d587edc2573266ea43568b2ee429b689fe092cbbf94f14e1eb"
+    },
+    {
+      "path": "扩展资料/e71cc3f6-LearnEnglish-Listening-B2-A-digital-detox-podcast.pdf",
+      "bytes": 105056,
+      "sha256": "d4011e0479fbdf0b1db3d5eb880452112cd128b97971130d8a48b7709622a81d"
+    },
+    {
+      "path": "扩展资料/eae9ab16-listening_part_1_matching_features_.pdf",
+      "bytes": 278785,
+      "sha256": "65f442a362fa139134a5ce13f91380390e62d0bf1c6c272ed1184a3b250086fb"
+    },
+    {
+      "path": "扩展资料/eba989da-LearnEnglish-Reading-B1-Planning-an-event.pdf",
+      "bytes": 93346,
+      "sha256": "87c3e0c5eda0bac4381bfab778d44a275eb68a5e56878de4a14ed412d782be94"
+    },
+    {
+      "path": "扩展资料/eccebfae-ielts-listening-computer-delivered-sentence-completion-answer-key.pdf",
+      "bytes": 30272,
+      "sha256": "bb67c254372c85f9f09760da5d5c2d8f4033ea4613883af9ee3bbb0d115f491f"
+    },
+    {
+      "path": "扩展资料/f376af17-ielts-academic-reading-computer-delivered-identifying-information-true-flase-not-given-answer-key.pdf",
+      "bytes": 16972,
+      "sha256": "8b6d70fdc1c939b0190351824f461143225fb40a21f0c401e2a765565c191613"
+    },
+    {
+      "path": "扩展资料/f466609f-LearnEnglish-Writing-B1-Describing-a-bar-chart.pdf",
+      "bytes": 214097,
+      "sha256": "84326531145d44d35dcc22d2731daa3c7d214dbc3d75c68d083a8328ced3ed3a"
+    },
+    {
+      "path": "扩展资料/f5fb21e7-writing_task_2_developing_arguments_.pdf",
+      "bytes": 236446,
+      "sha256": "fd5da7bc7e0185f6dfbab29c3b8fb1d697610dbba2aa53d58bf6bd11ae1c6c1c"
+    },
+    {
+      "path": "扩展资料/f8166f02-speaking_part_2_improving_lexical_resource_.pdf",
+      "bytes": 567631,
+      "sha256": "04627a8c78e75aa7c545c6e16ae21b9dc155b2bd4fc9cfa8864e4b0f5acd79c0"
+    },
+    {
+      "path": "扩展资料/f8dd66e9-LearnEnglish-Listening-B2-Film-reviews.pdf",
+      "bytes": 87888,
+      "sha256": "5754cabe2b499196cfda4633b80a9a4c5eb1c8413f5ffb6f54ddf02744203adc"
+    },
+    {
+      "path": "扩展资料/faaa66f8-LearnEnglish-Listening-B1-Making-a-decision.pdf",
+      "bytes": 91356,
+      "sha256": "8f919673d2f707893ad106379e0fd4e0bca371e900cf63e8721fe9e2011ae31c"
+    },
+    {
+      "path": "扩展资料/fbeb5f19-speaking_part_3_using_linking_devices_.pdf",
+      "bytes": 246793,
+      "sha256": "69fc3cac20635d57a7dc6dd67c7d03b067b527b77da17cf55eefdd9832356d92"
+    },
+    {
+      "path": "扩展资料/fd9ebd12-LE_listening_B2_Film_reviews.mp3",
+      "bytes": 2626237,
+      "sha256": "a75d87e86d87ed7eeb12efcce5aa9f6d3e907b413d91aa078da7232cf42756cc"
+    },
+    {
+      "path": "扩展资料/fe9dd0d8-ielts-speaking-sample-tasks-2023.pdf",
+      "bytes": 1338248,
+      "sha256": "70e542190a0628cb387e9f94ddc5750e4d647b876c2d3b85fcfab90ec4295096"
+    },
+    {
+      "path": "扩展资料/ff0a628e-listening_part_2_table_and_note_completion_.pdf",
+      "bytes": 340458,
+      "sha256": "a39e14fa67edbdc38ec2932dbf17fde8d83c81bea2e70b4a06f351f93a1cf3a4"
+    },
+    {
+      "path": "扩展资料目录.html",
+      "bytes": 60789,
+      "sha256": "52b0a6f6f7424695f2fe44855c9708107ecb6b99760f40b592f6ea32c577b65e"
+    },
+    {
+      "path": "新增资料-词汇表示例.tsv",
+      "bytes": 151,
+      "sha256": "585da5e53ae16233ecd7e6a6da5a5a2e71af5f7ad1f8c8faddcc71c01db100c3"
+    },
+    {
+      "path": "新增资料-资料包示例.json",
+      "bytes": 335,
+      "sha256": "e0653cf0fc3681c7f333dbe8ccafc40f5ee817a5d9332f9f527ebd418a31eaec"
+    },
+    {
+      "path": "本地词典.html",
+      "bytes": 2223,
+      "sha256": "3bc043eaa91b03ffbd3d5d7814d971fc25673837f75c93ee9a6fafa4f45b8f26"
+    },
+    {
+      "path": "机经资料/jijing-20260920/ieltsa/assets/494b5ff8b614-2026-sep-hf-1.mp3",
+      "bytes": 17713258,
+      "sha256": "8d23516b24f116d6536469ebe57dd2bfe4712934b21af843abae79f0276aac63"
+    },
+    {
+      "path": "机经资料/jijing-20260920/index.html",
+      "bytes": 1369,
+      "sha256": "c74c142e4ab1cc61aa79e08f157478080f6fb964725225ab8ce0c76f8215a08b"
+    },
+    {
+      "path": "机经资料/jijing-20260920/writing-task2.html",
+      "bytes": 3691,
+      "sha256": "9aeea0f5807f276e475d17d5ff09fae5bc7faed06f3ec3a3e624dd0422ccddbd"
+    },
+    {
+      "path": "背景读本-话题与常用表达.pdf",
+      "bytes": 909560,
+      "sha256": "9c43872932c5a85572dd4e1447d331a7021476ca6a5883b82f333405c7553917"
+    },
+    {
+      "path": "词汇数据/Cambridge-B1-vocabulary-2025.pdf",
+      "bytes": 864462,
+      "sha256": "df5e3c31bb26205c2cfc2e7a94a0171d4f4769d5c1e42a3615fe6aa1b5fdab29"
+    },
+    {
+      "path": "词汇数据/oxford-core-index.json",
+      "bytes": 1301485,
+      "sha256": "bd6040f6e70c2a36b063b3967b397f16b7f98d0636308d1b9c7dabea76e07c00"
+    },
+    {
+      "path": "词汇数据/完整词表来源记录.json",
+      "bytes": 11706117,
+      "sha256": "c1c716fda20b29b3591c00ce59e4dee02cf54f76236a10e7d2645c15a4d8dadc"
+    },
+    {
+      "path": "词汇数据/词频完整数据.json",
+      "bytes": 2950000,
+      "sha256": "0f6e6c18770480f76256bdcc3d27f306af9da7f16575369a9f241f5247d82c08"
+    },
+    {
+      "path": "词频与原文证据.html",
+      "bytes": 2955584,
+      "sha256": "c55f5647aa31a71d180f9d059a9f635f479404f26101a97eea7069a4932ca5c6"
+    },
+    {
+      "path": "话题词汇表.tsv",
+      "bytes": 424865,
+      "sha256": "944d77df4c1a4fffb4259837cf59dd283dec1ef7ad8ad5bfcd8558e11ec1de01"
+    }
+  ]
+}
