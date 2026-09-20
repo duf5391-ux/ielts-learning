@@ -1,6 +1,6 @@
 # IELTS 学习册网页发布仓库
 
-**当前为 GitHub Pages 迁移候选，尚未上线。** 预期仓库为 `gvgokok/ielts-learning`；启用 Pages 并完成首次成功部署后，预期网址为 [IELTS 学习册](https://gvgokok.github.io/ielts-learning/)。实际发布结果以 GitHub Actions 的部署输出为准。
+**当前为 GitHub Pages 迁移候选，尚未上线。** 预期仓库为 `duf5391-ux/ielts-learning`；启用 Pages 并完成首次成功部署后，预期网址为 [IELTS 学习册](https://duf5391-ux.github.io/ielts-learning/)。实际发布结果以 GitHub Actions 的部署输出为准。
 
 本仓库保存从本地正式学习册生成的静态发布副本。内容维护在原学习工作区完成，再生成到隔离的 `site/` 目录；本仓库不承担账号服务或学习记录云同步。
 
