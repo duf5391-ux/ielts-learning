@@ -1,6 +1,6 @@
 # IELTS 学习册网页发布仓库
 
-**当前为 GitHub Pages 迁移候选，尚未上线。** 预期仓库为 `duf5391-ux/ielts-learning`；启用 Pages 并完成首次成功部署后，预期网址为 [IELTS 学习册](https://duf5391-ux.github.io/ielts-learning/)。实际发布结果以 GitHub Actions 的部署输出为准。
+**网站已上线：**[IELTS 学习册](https://duf5391-ux.github.io/ielts-learning/)。本站使用 `duf5391-ux/ielts-learning` 的 GitHub Actions 自动部署；首次成功发布于2026年9月21日（北京时间）。后续发布结果以仓库 Actions 的对应提交状态为准。
 
 本仓库保存从本地正式学习册生成的静态发布副本。内容维护在原学习工作区完成，再生成到隔离的 `site/` 目录；本仓库不承担账号服务或学习记录云同步。
 
@@ -21,7 +21,9 @@ python3 validate.py
 
 Windows 中也可使用已安装的 Python 运行 `python validate.py`。校验失败时应修复发布副本并重新生成清单，再提交更新。
 
-首次发布需要在仓库 **Settings → Pages → Build and deployment → Source** 选择 **GitHub Actions**。工作流随后会在推送到 `main` 时自动运行，也可在 Actions 页面通过 **Run workflow** 手动运行。工作流先运行 `validate.py`，通过后只上传 `site/`，再发布到 `github-pages` 环境。配置方式见 [GitHub 官方 Pages 工作流文档](https://docs.github.com/en/pages/getting-started-with-github-pages/using-custom-workflows-with-github-pages)。
+仓库 Pages 已配置为 **GitHub Actions**。工作流在推送到 `main` 时自动运行，也可在 Actions 页面通过 **Run workflow** 手动运行。工作流先运行 `validate.py`，通过后只上传 `site/`，再发布到 `github-pages` 环境。配置方式见 [GitHub 官方 Pages 工作流文档](https://docs.github.com/en/pages/getting-started-with-github-pages/using-custom-workflows-with-github-pages)。
+
+本地维护工作区提供 `publish_github.ps1`，一次执行当前正式册构建、完整性校验、提交、推送，并等待该提交的 Actions 成功。该脚本留在本地维护工作区，不随网页公开发布。
 
 ## 网址与学习记录
 
