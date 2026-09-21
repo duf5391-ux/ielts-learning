@@ -1,0 +1,845 @@
+{
+  "date": "2026-09-16",
+  "units": [
+    {
+      "id": "tech-read-chart",
+      "anchor": "writing1-tech-read-chart",
+      "section": "writing1",
+      "title": "读图起手：对象、单位、时间与比较口径",
+      "minutes": 12,
+      "purpose": "看见折线、柱状或饼图时，先读清图在衡量什么，再选语言。适用于 Academic Writing Task 1。",
+      "steps": [
+        "用一句中文回答：谁／什么指标、在哪里、哪个时间段。标题给主题，横纵轴和图例给变量。",
+        "核对单位与基数：人数、百分比、吨还是千吨？百分比的分母是什么群体？不同图的单位或分母不同，先分别理解。",
+        "判断是跨时间变化还是同一时点比较。前者可以写 rose / fell；后者通常写 higher / lower，不能把两个类别误读为先后。",
+        "沿每条线读起点、终点、最高最低及重要转折，再横向比较类别。仅有离散年份时，不推断点与点之间的精确路径。",
+        "写前留下三个笔记：一条整体特征、一个主要对比、两组支持数据。笔记用于组织思路，成文仍用完整段落。"
+      ],
+      "example_md": "**通勤方式占比（%）**：城市 L 的通勤者，每年各类别合计 100%。\n\n| 年份 | 公共交通 | 汽车 | 骑行 |\n|---|---:|---:|---:|\n| 2010 | 30 | 60 | 10 |\n| 2015 | 35 | 50 | 15 |\n| 2020 | 40 | 40 | 20 |\n| 2025 | 45 | 30 | 25 |\n\nThe chart compares the proportions of commuters using three forms of transport in city L between 2010 and 2025.",
+      "explanation": "主语是通勤者的比例，不是车辆数，也不是出行总次数。2020 年公共交通和汽车相等；到 2025 年公共交通最高。数据只显示占比，不能据此断言骑行总人数增加了多少。",
+      "pitfalls": [
+        "看到线就写“波动”：图中公共交通四个观察点持续上升，没有反复升降。",
+        "把百分比写成人数，或给没有原因的图补“因为票价下降”。",
+        "把 2020 年的相等写成全程相同。"
+      ],
+      "practice_md": "纠正两句话，并说明各自错在哪里：\n\n1. The number of cyclists was 25 in 2025.\n2. Public transport increased from 30% to 45% because fares became cheaper.",
+      "answer_md": "1. **Cycling accounted for 25% of commuters in 2025.** 25 是百分比；图没有给出骑行人数。\n2. **The share of commuters using public transport rose from 30% in 2010 to 45% in 2025.** 补清指标与时间，删除图中未给出的票价原因。\n\n可接受同义写法；检查对象、单位与事实是否保持一致。",
+      "transfer": "换成一个只有 2025 年数据的柱状图，写一句类别比较；不要使用 rose 或 fell。",
+      "source_ids": [
+        "ielts-writing",
+        "idp-focus"
+      ],
+      "figure": "commuting",
+      "worked_example": {
+        "title": "完整参考范文：通勤方式的变化",
+        "prompt_md": "The line graph shows the percentages of commuters using public transport, cars and bicycles in city L between 2010 and 2025. Summarise the information by selecting and reporting the main features, and make comparisons where relevant. Write at least 150 words.\n\n| 年份 | Public transport | Car | Cycling |\n|---|---:|---:|---:|\n| 2010 | 30% | 60% | 10% |\n| 2015 | 35% | 50% | 15% |\n| 2020 | 40% | 40% | 20% |\n| 2025 | 45% | 30% | 25% |",
+        "answer_title": "参考范文：先概括方向，再比较主要数据",
+        "answer_md": "The line graph compares the proportions of commuters who used public transport, cars and bicycles in city L from 2010 to 2025.\n\nOverall, the shares of public transport and cycling increased, whereas the proportion of car users declined. Cars were the most common choice at the beginning, but public transport had become the largest category by 2025.\n\nIn 2010, cars accounted for 60% of commuters, twice the figure for public transport and six times that for cycling. The share of car users then fell to 50% in 2015 and 40% in 2020, when it was equal to the proportion using public transport. By 2025, the car figure had dropped to 30%, half its initial level.\n\nPublic transport rose from 30% to 45% over the period, while cycling increased from 10% to 25%. Both categories gained 15 percentage points, with increases of five points between each pair of years shown. Public transport remained more common than cycling throughout, and its share was 20 percentage points higher in every year displayed.",
+        "explanations": [
+          {
+            "quote": "Overall, the shares of public transport and cycling increased, whereas the proportion of car users declined.",
+            "evidence": "2010→2025：公共交通30%→45%；骑行10%→25%；汽车60%→30%。",
+            "explanation": "这是概览句：用两升一下降的关系覆盖三个类别，先让读者掌握总体走势。whereas连接相反方向；写的是份额，未擅自推断通勤人数。"
+          },
+          {
+            "quote": "The share of car users then fell to 50% in 2015 and 40% in 2020, when it was equal to the proportion using public transport.",
+            "evidence": "汽车2015年50%、2020年40%；公共交通2020年也是40%。",
+            "explanation": "这一句既给汽车下降过程的中间数据，也指出2020年的重要相等点。when明确限定相等发生的年份，避免把一个时点扩大成全程相同。"
+          },
+          {
+            "quote": "Both categories gained 15 percentage points, with increases of five points between each pair of years shown.",
+            "evidence": "公共交通30、35、40、45%；骑行10、15、20、25%；各相邻观察年份均增加5个百分点。",
+            "explanation": "把走势相同的两个类别合并比较，减少逐数罗列。15是百分比差，因此用percentage points；years shown只声称图上观察点之间的变化，不声称掌握逐年精确数据。"
+          },
+          {
+            "quote": "Public transport remained more common than cycling throughout, and its share was 20 percentage points higher in every year displayed.",
+            "evidence": "30−10、35−15、40−20、45−25均等于20个百分点。",
+            "explanation": "指出两条增长线之间保持不变的差距，是有证据的横向比较。every year displayed将判断限定在图中显示的四个年份。"
+          }
+        ],
+        "contrasts": [
+          {
+            "wrong": "The number of cyclists increased by 15% because cycling became cheaper.",
+            "better": "The share of commuters cycling rose from 10% in 2010 to 25% in 2025, an increase of 15 percentage points.",
+            "why": "图给占比而非人数；25%−10%是15个百分点，相对增幅其实是150%；图也没有价格原因。改句同时修正对象、单位和图外推断。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "tech-overview",
+      "anchor": "writing1-tech-overview",
+      "section": "writing1",
+      "title": "从读图到 Overview：抓整体、分组、选证据",
+      "minutes": 15,
+      "purpose": "解决“每个数字都写了，却没有重点”。把概览与细节的工作分清，再组织段落。",
+      "steps": [
+        "先遮住细小数字，用中文概括总体方向、主导类别或明显例外。概览要让读者知道这张图最值得注意的关系。",
+        "回图验证概览：是否漏了重要类别？“全部上涨”“始终最高”需要每个相关点都支持。",
+        "给细节分组：相同走势放一起，反向走势另组；静态图可按高低类别分组。分组应服务比较，不强求固定两组。",
+        "每条重要判断后选有代表性的数字，包括起终点、交叉点或峰值；不必逐格抄写。",
+        "多图题先概括各图，再找可比较的共同对象。百分比与总量可以并列描述，不能不核对分母就直接相减。"
+      ],
+      "example_md": "看本单元通勤图：2010 → 2025 年，公共交通 30% → 45%，汽车 60% → 30%，骑行 10% → 25%。\n\n**概览**：Overall, public transport and cycling gained a larger share of commuters, while car use declined. Public transport was the largest category by the end of the period.\n\n**细节分组笔记**：\n- 汽车：60% → 30%，由最高降至第二。\n- 两种增长方式：公共交通 30% → 45%；骑行 10% → 25%；两者均增加 15 个百分点。\n\n**比较句**：The shares for public transport and cycling each rose by 15 percentage points, reaching 45% and 25% respectively.",
+      "explanation": "概览选择变化方向和终点排名；比较句再用数字支撑。respectively 要和前面两个类别的顺序对应。这是一个可用组织方式，段数、概览位置和句数都不必机械固定。",
+      "pitfalls": [
+        "把 overview 写成“The chart shows some changes”，没有实际特征。",
+        "概览列满数字，细节段再次照抄，却没有分组比较。",
+        "只挑最大值而漏掉反向趋势；混合图只描述其中一张。"
+      ],
+      "practice_md": "另一个练习表：A 服务用户 2015 年 20 千、2025 年 40 千；B 为 30 千、60 千；C 为 50 千、45 千。\n\n1. 写一句 overview。\n2. A 与 B 是“增加量相同”还是“增长比例相同”？写一句比较。\n3. “All three services became more popular.” 能成立吗？",
+      "answer_md": "1. **Overall, user numbers increased for A and B but fell slightly for C, with B becoming the largest service in 2025.** 同时涵盖方向和排名变化。\n2. **Both A and B doubled their user numbers, although B recorded a larger absolute increase.** A 增 20 千，B 增 30 千；两者均增长 100%，绝对增加量不同。\n3. 不能：C 从 50 千降至 45 千。且 popular 最好落实为已知的 user numbers，避免扩大含义。",
+      "transfer": "在下一张图旁各写一行“整体关系”和“支持数字”；写完检查每个数字是否服务一个判断。",
+      "source_ids": [
+        "ielts-writing-resources",
+        "idp-focus"
+      ],
+      "figure": "commuting",
+      "worked_example": {
+        "title": "示范答案：概览与支持段各自写什么",
+        "prompt_md": "根据本单元通勤图写一段overview，再用一个细节段比较公共交通与骑行。此处练习的是段落功能，不是一篇完整Task 1作文。\n\n| 年份 | 公共交通 | 汽车 | 骑行 |\n|---|---:|---:|---:|\n| 2010 | 30% | 60% | 10% |\n| 2015 | 35% | 50% | 15% |\n| 2020 | 40% | 40% | 20% |\n| 2025 | 45% | 30% | 25% |",
+        "answer_title": "示范答案：一段概览＋一段细节",
+        "answer_md": "Overall, public transport and cycling gained a larger share of commuters, while car use declined. Public transport overtook cars to become the largest category by 2025, although cycling remained the least common of the three options.\n\nPublic transport accounted for 30% of commuters in 2010, compared with 10% for cycling. These figures increased to 35% and 15% respectively in 2015, before reaching 45% and 25% in 2025. The two categories therefore recorded the same increase of 15 percentage points over the whole period, and the gap between them remained at 20 points in each year shown.",
+        "explanations": [
+          {
+            "quote": "Overall, public transport and cycling gained a larger share of commuters, while car use declined.",
+            "evidence": "公共交通30%→45%，骑行10%→25%，汽车60%→30%。",
+            "explanation": "概览先概括三类方向，不塞入所有数据。它回答“整张图主要发生了什么”，不是重复题目里的城市和年份。"
+          },
+          {
+            "quote": "Public transport overtook cars to become the largest category by 2025, although cycling remained the least common of the three options.",
+            "evidence": "2010年汽车60%高于公共交通30%；2025年公共交通45%高于汽车30%和骑行25%。骑行在四个年份都是最低值。",
+            "explanation": "补充排名转换和一个持续特征，让overview不仅有升降。by 2025表示截至该年已超过，未捏造2020至2025之间的精确超越日期。"
+          },
+          {
+            "quote": "These figures increased to 35% and 15% respectively in 2015, before reaching 45% and 25% in 2025.",
+            "evidence": "2015年公共交通35%、骑行15%；2025年公共交通45%、骑行25%。",
+            "explanation": "细节段给实际数字，支持增长判断。respectively沿用前句的公共交通、骑行顺序，不能颠倒对应关系。"
+          },
+          {
+            "quote": "The two categories therefore recorded the same increase of 15 percentage points over the whole period, and the gap between them remained at 20 points in each year shown.",
+            "evidence": "45−30=15，25−10=15；各年公共交通占比减骑行占比均为20个百分点。",
+            "explanation": "在数字后说明比较关系，读者不用自己算。这里相同的是百分点增加量，不是相对增长率。"
+          }
+        ],
+        "contrasts": [
+          {
+            "wrong": "Overall, there were many changes in transport, and the figures were different.",
+            "better": "Overall, the shares of public transport and cycling increased, while the share of car use fell.",
+            "why": "错句没有交代具体特点，几乎适用于任何图。改句点明哪些类别怎样变化，才能实际承担概览的功能。"
+          },
+          {
+            "wrong": "Public transport and cycling had the same percentage growth.",
+            "better": "Public transport and cycling both increased by 15 percentage points.",
+            "why": "公共交通的相对增幅为15÷30=50%，骑行为15÷10=150%；相同的是占比之差。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "tech-precision",
+      "anchor": "writing1-tech-precision",
+      "section": "writing1",
+      "title": "数据表达：百分点、倍数、近似值与静态比较",
+      "minutes": 12,
+      "purpose": "用准确的短句表达比较，避免高级词掩盖单位和算术错误。",
+      "steps": [
+        "先写最朴素的数值关系：A 从什么到什么，或同一年 A 比 B 高多少。确认无误再改写。",
+        "比例相减得到百分点：20% → 30% 是增加 10 percentage points；相对增长为 (30−20)÷20 = 50%。",
+        "数量翻倍用 doubled 或 twice as many / much as。避免含义可能模糊的“two times higher”。",
+        "近似值用 about / approximately；just under 表示略低，just over 表示略高。没有精确标签时，不编小数。",
+        "复核 from、to、by：from 起点，to 终点，by 变化量。静态比较使用 higher / lower / accounted for，不暗示时间变化。"
+      ],
+      "example_md": "**同一年的图书馆借阅构成**：纸书 60%，电子书 25%，有声书 15%。\n\nPrinted books accounted for 60% of loans, compared with 25% for e-books.\n\n**跨年份变化**：会员数 2,000 → 3,000。\n\nMembership rose by 1,000 to 3,000. / Membership increased by 50%.\n\n**比例变化**：电子书占比 20% → 30%。\n\nThe share of e-book loans increased by 10 percentage points.",
+      "explanation": "同一年三类借阅构成合计 100%，可以比较占比；不能说有声书“跌至”15%。20% 到 30% 的百分点差与相对增幅不是同一概念，写 from ... to ... 也能清楚避免混淆。",
+      "pitfalls": [
+        "把 by 30% 当成 to 30%。",
+        "把份额上涨理解为人数必然上涨：总基数可能变化。",
+        "用 dramatically 描述每个小变化；优先给读者具体数值。"
+      ],
+      "practice_md": "1. 某比例从 40% 变成 50%，分别计算百分点变化与相对增幅。\n2. 某年 A 有 80 辆车，B 有 40 辆。写一句无歧义倍数比较。\n3. 柱高略低于 70，缺少精确标注。选择：a) 69.37；b) just under 70。",
+      "answer_md": "1. **增加 10 个百分点；相对增长 25%。** (50−40)÷40 = 0.25。\n2. **A had twice as many vehicles as B.** 80÷40 = 2，as many 对应可数复数 vehicles。\n3. **b)** 图的精度不足以支持 69.37。",
+      "transfer": "从自己的一段 Task 1 中找出所有数字，逐一对上原图的单位、年份和类别；只改最先发现的一处。",
+      "source_ids": [
+        "idp-focus",
+        "ielts-writing"
+      ],
+      "figure": null,
+      "worked_example": {
+        "title": "示范答案：把数值关系写成准确比较句",
+        "prompt_md": "按以下独立数据写完整比较句；这些是短句练习，不构成一篇Task 1范文。\n\n- 同年借阅构成：纸书60%、电子书25%、有声书15%。\n- 会员人数：2,000→3,000。\n- 电子书借阅占比：20%→30%。\n- 同年车辆数：A有80辆，B有40辆。\n- 另一柱形图：柱高略低于70，未标精确数字。",
+        "answer_title": "可直接采用的比较句与计算依据",
+        "answer_md": "1. Printed books accounted for 60% of loans, compared with 25% for e-books and 15% for audiobooks.\n2. The share of printed books was 35 percentage points higher than that of e-books.\n3. Membership rose from 2,000 to 3,000, an increase of 1,000, or 50%.\n4. The proportion of e-book loans increased from 20% to 30%, a rise of 10 percentage points.\n5. Relative to its initial level, the proportion of e-book loans increased by 50%.\n6. A had twice as many vehicles as B, with 80 compared with 40.\n7. The figure stood at just under 70.",
+        "explanations": [
+          {
+            "quote": "Printed books accounted for 60% of loans, compared with 25% for e-books and 15% for audiobooks.",
+            "evidence": "同一时点三类占比60%、25%、15%，总和100%。",
+            "explanation": "accounted for说明构成，compared with呈现同年类别差异。没有时间变化，因此不用rose或fell。"
+          },
+          {
+            "quote": "Membership rose from 2,000 to 3,000, an increase of 1,000, or 50%.",
+            "evidence": "终值3,000−初值2,000=1,000；1,000÷2,000=50%。",
+            "explanation": "from和to分别给起终值，后半句同时报告增加人数与相对增幅。or表示同一增长的两种计量，不是两个可能答案。"
+          },
+          {
+            "quote": "The proportion of e-book loans increased from 20% to 30%, a rise of 10 percentage points.",
+            "evidence": "30%−20%=10个百分点。",
+            "explanation": "百分比相减用percentage points。也可以只写from 20% to 30%，已经准确，不必每次都额外计算。"
+          },
+          {
+            "quote": "Relative to its initial level, the proportion of e-book loans increased by 50%.",
+            "evidence": "(30−20)÷20=50%。",
+            "explanation": "relative to its initial level明确以初始比例为基准；这一句与上句兼容，50%的相对增长不等于增加50个百分点。"
+          },
+          {
+            "quote": "A had twice as many vehicles as B, with 80 compared with 40.",
+            "evidence": "80÷40=2。",
+            "explanation": "twice as many ... as清楚表示A是B的两倍；many搭配可数复数vehicles，后面数值给出验证。"
+          },
+          {
+            "quote": "The figure stood at just under 70.",
+            "evidence": "柱高略低于70，没有精确标签。",
+            "explanation": "just under保留略低于这一关系，并与图的读数精度相符；不能凭估计补成69.37。"
+          }
+        ],
+        "contrasts": [
+          {
+            "wrong": "Membership increased to 1,000.",
+            "better": "Membership increased by 1,000 to 3,000.",
+            "why": "1,000是变化量，3,000才是终值；by回答增加多少，to回答达到多少。"
+          },
+          {
+            "wrong": "The proportion of e-book loans rose by 10% from 20% to 30%.",
+            "better": "The proportion of e-book loans rose by 10 percentage points, from 20% to 30%.",
+            "why": "原句把百分点差写成相对百分比增长；改句单位与算式一致。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "tech-process",
+      "anchor": "writing1-tech-process",
+      "section": "writing1",
+      "title": "流程图专项：起终点、分支与主被动",
+      "minutes": 15,
+      "purpose": "把图中的箭头变成清楚的过程描述，区分先后、并行、条件与循环。",
+      "steps": [
+        "找到输入、输出和箭头方向，先判断是有终点的流程还是回到起点的循环。",
+        "逐个框写“对象＋动作”。先看箭头关系，再考虑合并阶段；不要为了凑固定阶段数把分支写成连续步骤。",
+        "概览交代过程的大方向和主要阶段；若阶段边界明确，可说明数量，但数量不是必须背出的句式。",
+        "物品接受处理时常用 is sorted / is packed；对象自己变化时可用 water evaporates。不要把每个动词都强改为被动。",
+        "细节段按图的关系展开：after / once 表先后，while 可表并行，if 表条件。只写图中展示的工序和条件。"
+      ],
+      "example_md": "**纸张回收流程**：废纸收集 → 分类 → 分为“可用纸”和“不适用材料”；可用纸 → 制浆 → 压制、干燥 → 再生纸，不适用材料 → 移出流程。\n\nOverall, waste paper is collected and sorted before the usable material is processed into recycled paper. Unsuitable material is removed after sorting.\n\nAfter the paper is sorted, unsuitable material is removed. The usable paper is then turned into pulp, which is pressed and dried.",
+      "explanation": "分类后有两个去向，不是“不适用材料也进入制浆”。is removed 描述接受处理，which 指向 pulp。概览交代输入、输出和分支，没有添加温度、成本或环保效果。",
+      "pitfalls": [
+        "只数框，不读箭头，把两条分支强行串起来。",
+        "擅自加入图中没有的加热温度、处理时间或机器名称。",
+        "The water is evaporated 与 water evaporates 一概互换：要看图是在描述外力处理还是自然变化。"
+      ],
+      "practice_md": "1. 纠正：After unsuitable material is removed, it is turned into pulp.\n2. 给“水蒸发 → 云形成 → 降水 → 水回到湖泊”的循环写一句概览。\n3. 本单元回收图能否写“the process takes two days”？",
+      "answer_md": "1. **After unsuitable material is removed, the usable paper is turned into pulp.** 原句 it 紧接 unsuitable material，指代造成事实错误。\n2. **Overall, water moves through a cycle of evaporation, cloud formation and precipitation before returning to the lake.** 准确表达回到起点。\n3. 不能。图中没有时长，不能用常识补上。",
+      "transfer": "选一个流程图，只用箭头和动词先口述一遍；每遇分支就说清哪一部分进入哪条路径。",
+      "source_ids": [
+        "idp-focus",
+        "ielts-writing-resources"
+      ],
+      "figure": "process",
+      "worked_example": {
+        "title": "完整参考范文：废纸回收流程",
+        "prompt_md": "The diagram shows a process for recycling waste paper. Summarise the information by selecting and reporting the main features, and make comparisons where relevant. Write at least 150 words.\n\n图示关系：Collect waste paper → Sort；分类后，Unsuitable material → Remove rejects；Usable paper → Make pulp → Press and dry → Recycled paper。",
+        "answer_title": "参考范文：把分支和先后写清楚",
+        "answer_md": "The diagram illustrates how waste paper is processed to produce recycled paper. It shows the main stages from the collection of the waste material to the production of the finished paper.\n\nOverall, the process involves collecting and sorting waste paper before converting the usable material into pulp. This is subsequently pressed and dried to obtain recycled paper. Unsuitable material follows a separate route and is removed after sorting.\n\nAt the beginning of the process, waste paper is collected and then sent for sorting. At this point, the material is divided into two groups according to whether it can be used. The unsuitable material is removed from the process, while the usable paper continues to the next stage.\n\nThe usable paper is then made into pulp. After this conversion, the pulp passes to the pressing and drying stage, which is shown as a single step in the diagram. Recycled paper is the final output of this sequence. The rejected material does not proceed to these later production stages.",
+        "explanations": [
+          {
+            "quote": "Unsuitable material follows a separate route and is removed after sorting.",
+            "evidence": "Sort之后有一条Unsuitable material支线，终点为Remove rejects。",
+            "explanation": "概览直接交代分支，防止把图误写成全部材料依次经过所有步骤。after sorting对应分支出现的位置。"
+          },
+          {
+            "quote": "At the beginning of the process, waste paper is collected and then sent for sorting.",
+            "evidence": "起点Collect waste paper，经箭头指向Sort。",
+            "explanation": "用then将两个阶段按箭头顺序连接。is collected让受处理的废纸作主语，不必编造由谁收集或使用什么车辆。"
+          },
+          {
+            "quote": "The unsuitable material is removed from the process, while the usable paper continues to the next stage.",
+            "evidence": "分类后的两个去向：不适用材料移除；可用纸进入Make pulp。",
+            "explanation": "while对照两个去向，重复明确材料名称，避免用it时把“不适用材料”误指为继续制浆的对象。这里不声称两条支路耗时相同。"
+          },
+          {
+            "quote": "After this conversion, the pulp passes to the pressing and drying stage, which is shown as a single step in the diagram.",
+            "evidence": "Make pulp之后直接连到一个标为Press and dry的框。",
+            "explanation": "顺着箭头写浆料后续处理，并按图把压制、干燥作为同框阶段描述；不添加设备、温度或处理时长。"
+          }
+        ],
+        "contrasts": [
+          {
+            "wrong": "After unsuitable material is removed, it is made into pulp and dried for two days.",
+            "better": "After unsuitable material is removed, the usable paper is made into pulp and then pressed and dried.",
+            "why": "错句it容易指向被移除的不适用材料，且凭空添加两天时长；改句明确对象并保留图上的加工阶段。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "tech-maps",
+      "anchor": "writing1-tech-maps",
+      "section": "writing1",
+      "title": "地图专项：位置锚点、变化分类与规划时态",
+      "minutes": 15,
+      "purpose": "比较地图时围绕“哪里发生了什么变化”组织语言，处理保留、迁移、替换与扩建。",
+      "steps": [
+        "先读年份及图例。区分两个已发生的年份与未来规划，规划不能写成已经完成。",
+        "选不变锚点，例如入口、主路、河流；核对北箭头。无指北标记时可用 left / right 或 next to 等相对位置。",
+        "把变化分为保留、增加、移除、替换、迁移和扩建。没有“迁移”证据时，不仅凭两个相似名称就认定同一建筑搬走。",
+        "概览概括整体布局或功能的主要改变；细节按区域、路线或变化类型分组，并补充重要的不变设施。",
+        "用具体动词及位置：was replaced by、was added to the east of、remained unchanged。不要推测开发原因或擅自评价“更好”。"
+      ],
+      "example_md": "**社区中心平面图**：2010 年，北侧依次是阅览室、办公室；南侧是花园与入口。2025 年，北侧阅览室位置改为咖啡区，办公室保留；南侧花园改为学习室，入口保留。\n\nOverall, the centre gained a café and a study room, while the office and entrance remained in the same positions.\n\nThe reading room in the north-west was replaced by a café. A study room was built on the site of the former garden in the south-west.",
+      "explanation": "先看同一位置前后的用途，再使用 replaced。这里有北箭头，所以 north-west 有依据。图只显示用途改变，不能推出办公人数增加或访客更满意。",
+      "pitfalls": [
+        "把“被替换”写反：A was replaced by B 表示 B 成为新设施。",
+        "把 planned / proposed 地图统一写成一般过去时。",
+        "逐图各写一遍但不连接同一位置的前后变化。"
+      ],
+      "practice_md": "1. 2030 年规划拟把停车场改为运动场；今天仍是停车场。改写：The car park was replaced by a sports court in 2030.\n2. 写一句本图中未改变的设施。\n3. 本图能否推出“The centre became more popular”？",
+      "answer_md": "1. **The car park is planned to be replaced by a sports court in 2030.** 这是规划，不是已发生的事实。\n2. **The office in the north-east remained unchanged.** 位置与用途均保持一致；入口也可作答。\n3. 不能。图中没有人流或满意度数据。",
+      "transfer": "给下一组地图每个变化点标一个动词，再按区域口述；最后检查是否把“新建”与“迁移”混淆。",
+      "source_ids": [
+        "idp-focus",
+        "ielts-writing-resources"
+      ],
+      "figure": "maps",
+      "worked_example": {
+        "title": "完整参考范文：社区中心前后布局",
+        "prompt_md": "The plans show a community centre in 2010 and 2025. Summarise the information by selecting and reporting the main features, and make comparisons where relevant. Write at least 150 words.\n\n北箭头向上。2010年：西北Reading room、东北Office、西南Garden、东南Entrance。2025年：西北Café、东北Office、西南Study room、东南Entrance。",
+        "answer_title": "参考范文：按区域写改变与保留",
+        "answer_md": "The two plans compare the layout of a community centre in 2010 and 2025. They show the facilities in four parts of the site, with north indicated at the top of each plan.\n\nOverall, the western side of the centre changed substantially, with a café and a study room replacing the reading room and garden respectively. By contrast, the office and entrance on the eastern side remained in their original positions.\n\nIn 2010, the reading room occupied the north-western part of the site, immediately to the west of the office. By 2025, this space had become a café, while the office was still located in the north-east. Thus, the two northern areas continued to lie next to each other, but the function of the western one had changed.\n\nA similar replacement occurred in the southern part of the centre. The garden in the south-west was replaced by a study room, situated to the west of the entrance. The entrance itself remained in the south-east, below the office, in both years.",
+        "explanations": [
+          {
+            "quote": "Overall, the western side of the centre changed substantially, with a café and a study room replacing the reading room and garden respectively.",
+            "evidence": "西北Reading room→Café；西南Garden→Study room。两处变化都在西侧。",
+            "explanation": "概览按位置合并两处用途变化。respectively对应咖啡区替换阅览室、学习室替换花园，不能调换替换对象。"
+          },
+          {
+            "quote": "By contrast, the office and entrance on the eastern side remained in their original positions.",
+            "evidence": "两年均为东北Office、东南Entrance。",
+            "explanation": "把重要的不变内容纳入概览，与西侧变化形成清楚对比。原图只支持位置和标签不变，不推断员工人数或入口宽度。"
+          },
+          {
+            "quote": "By 2025, this space had become a café, while the office was still located in the north-east.",
+            "evidence": "2025年西北格为Café，东北格仍为Office。",
+            "explanation": "this space回指前句西北阅览室所在空间；by 2025表示图示截至该年已改变，不编造具体施工年份。"
+          },
+          {
+            "quote": "The garden in the south-west was replaced by a study room, situated to the west of the entrance.",
+            "evidence": "西南格Garden→Study room；Entrance在右侧东南格。",
+            "explanation": "was replaced by明确旧设施变成新设施，后半句利用未移动的入口作位置锚点。南、西等方向来自图中北箭头。"
+          }
+        ],
+        "contrasts": [
+          {
+            "wrong": "The study room was replaced by a garden, making the centre more popular.",
+            "better": "The garden was replaced by a study room in the south-west of the centre.",
+            "why": "错句把变化方向写反，又添加图中没有的人气结果。改句恢复2010→2025的前后关系，只报告用途和位置。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "tech-locate",
+      "anchor": "reading-tech-locate",
+      "section": "reading",
+      "title": "阅读起手：略读地图、扫读定位、精读证据",
+      "minutes": 12,
+      "purpose": "解决全文逐词翻译和只找相同词两个常见问题，让不同读法各司其职。",
+      "steps": [
+        "先读题目指令与任务目标：找主旨、找细节，还是判断观点？据此决定阅读深度。",
+        "略读标题与各段，给每段记一个短功能标签，例如“问题”“试验方法”“结果限制”。首尾句常有线索，但要看中间是否转折。",
+        "用题干里的名称、年份、独特术语扫读定位；普通词要准备同义表达和词形变化，不只寻找原词。",
+        "找到候选位置后放慢速度，读完整句及必要的前后句；追清代词、比较对象、否定和条件。",
+        "选答案后指出“题目哪一部分被哪条证据支持”。定位只能找到候选段，精读才完成判断。"
+      ],
+      "example_md": "**A** A city library extended its evening opening hours in March. Managers wanted to make the building easier to use after work.\n\n**B** A survey in June found that evening visits had risen. However, weekend attendance had not changed.\n\n**C** Staff warned that the survey covered only one branch, so its findings might not apply to the whole city.\n\n题目：Which paragraph mentions a limitation of the evidence?",
+      "explanation": "段落地图：A 改变及目的；B 结果；C 限制。limitation 不在原文，但 only one branch 和 might not apply 表示证据适用范围有限，答案是 C。不是见到 survey 就选 B。",
+      "pitfalls": [
+        "每个生词都停下来查，导致忘记整段关系。",
+        "看见同义词就立即答题，忽略后面的 however。",
+        "把一套“先读题／先读文”变成所有题型唯一程序；应看自己的理解负担与任务。"
+      ],
+      "practice_md": "1. 哪段给出改变开放时间的目的？\n2. 判断：The longer opening hours increased weekend attendance.（TRUE / FALSE / NOT GIVEN）\n3. 写出第 2 题必须精读的短句。",
+      "answer_md": "1. **A**。wanted to ... 表达目的。\n2. **FALSE**。B 明确说周末到访人数没有变化，与题干“增加”相反。\n3. **weekend attendance had not changed**。不能把 evening visits 的增长移用到周末。",
+      "transfer": "下一篇先给每段写不超过一句话的功能标签，再做三题；复盘哪一题卡在定位、哪一题卡在精读。",
+      "source_ids": [
+        "bc-reading-lessons",
+        "ielts-reading"
+      ],
+      "figure": null,
+      "worked_example": {
+        "title": "完整示范：同一段短文，先定位再核对证据",
+        "prompt_md": "**A** A city library extended its evening opening hours in March. Managers wanted to make the building easier to use after work.\n\n**B** A survey in June found that evening visits had risen. However, weekend attendance had not changed.\n\n**C** Staff warned that the survey covered only one branch, so its findings might not apply to the whole city.\n\n**第 1–3 题：信息匹配。** Write the correct letter, A, B or C. **You may use any letter more than once.**\n\n1. Which paragraph mentions a limitation of the evidence?\n2. Which paragraph explains the purpose of changing the opening hours?\n3. Which paragraph contrasts a rise in one type of visit with no change in another?\n\n**第 4 题：信息判断。** Write TRUE if the statement agrees with the passage, FALSE if it contradicts the passage, or NOT GIVEN if the passage does not provide enough information.\n\n4. The June survey reported an increase in weekend attendance.",
+        "answer_title": "标准答案与定位过程",
+        "answer_md": "**1. C**\n\n**2. A**\n\n**3. B**\n\n**4. FALSE**\n\n先用 A「改变与目的」、B「两类结果」、C「适用范围」建立段落地图。题干中的 limitation、purpose、contrasts 不必逐字出现在短文中；选项必须由整句意思支持。",
+        "explanations": [
+          {
+            "quote": "1. C",
+            "evidence": "the survey covered only one branch, so its findings might not apply to the whole city",
+            "explanation": "题干要找 evidence 的 limitation。only one branch 限制样本覆盖范围，might not apply to the whole city 限制结论的适用范围，两者都落在 C。B 虽有 survey 一词，却只报告结果，不指出证据的限制。"
+          },
+          {
+            "quote": "2. A",
+            "evidence": "Managers wanted to make the building easier to use after work.",
+            "explanation": "题干问改变开放时间的目的。wanted to 引出管理者想实现的结果：方便下班后使用。B 的 evening visits had risen 是后来观察到的结果，不能替代“当初为什么改”的证据。"
+          },
+          {
+            "quote": "3. B",
+            "evidence": "evening visits had risen. However, weekend attendance had not changed.",
+            "explanation": "题干要求同时满足“某类增加”和“另一类不变”。had risen 对应 a rise，had not changed 对应 no change；However 把 evening 与 weekend 两类访问作对照。只读前半句会漏掉题目的比较条件。"
+          },
+          {
+            "quote": "4. FALSE",
+            "evidence": "weekend attendance had not changed",
+            "explanation": "题干的主体是 weekend attendance，主张是 an increase。原文对同一主体明确说没有变化，因此是相反，而非信息缺失。evening visits 的上升不能移用到 weekend attendance。"
+          }
+        ],
+        "contrasts": [
+          {
+            "wrong": "第 1 题选 B：因为 B 有 survey。",
+            "better": "第 1 题选 C：only one branch 与 might not apply 表达研究限制。",
+            "why": "survey 只能定位到研究相关内容；题干真正要找的是 limitation 这一信息关系，必须读到对覆盖范围的限制才算完成定位。"
+          },
+          {
+            "wrong": "第 4 题填 TRUE：开放更久后 visits 增加了。",
+            "better": "第 4 题填 FALSE：weekend attendance had not changed。",
+            "why": "答案要对齐题干的周末到访人数；evening visits 与 weekend attendance 是不同的比较对象。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "tech-judgement",
+      "anchor": "reading-tech-judgement",
+      "section": "reading",
+      "title": "判断题专项：TRUE／FALSE／NOT GIVEN 与观点归属",
+      "minutes": 15,
+      "purpose": "用证据关系区分相反与缺失，防止常识、绝对词和人物观点干扰。",
+      "steps": [
+        "先确认答题体系：信息题用 TRUE / FALSE / NOT GIVEN；作者观点题用 YES / NO / NOT GIVEN，照题目要求填写。",
+        "把陈述拆成主体、动作、时间、范围与比较条件。only、all、some、before、more than 都可能影响整体真假。",
+        "找到涉及同一主体的相关段落，读前后句。作者转述某人的话，不自动等于作者赞成。",
+        "原文支持完整陈述才判 TRUE / YES；明确与其中的关键主张矛盾判 FALSE / NO；缺少所需信息、无法支持或推翻则判 NOT GIVEN。",
+        "对 NOT GIVEN 写出“缺的是哪一项关系”，而非仅写“没找到词”。对 FALSE 写出双方相反的内容。"
+      ],
+      "example_md": "The museum opened in 2012. Entry is free for children under twelve. Adult visitors pay a fee. The director hopes to extend free entry to students next year.\n\n- The museum opened before 2015. → **TRUE**：2012 早于 2015。\n- All visitors can enter without paying. → **FALSE**：成人需要付费。\n- Students currently pay less than other adults. → **NOT GIVEN**：只说了未来希望，未比较现行学生票与成人票。",
+      "explanation": "绝对词只是检查线索，不自动意味着 FALSE。All visitors 若得到原文完整支持也可为 TRUE。未说明的信息可能与现实常识一致，仍不能靠常识作答。",
+      "pitfalls": [
+        "原文没有逐字出现题干，就选 NOT GIVEN。",
+        "原文只说 some 就认定不是 all：some 本身不一定排除 all，必须看有无明确反证。",
+        "把研究人员、批评者与作者的立场混为一谈。"
+      ],
+      "practice_md": "原文：Some planners claim that taller buildings always improve city life. I disagree: in areas with poor transport, they can make congestion worse.\n\n按作者观点回答 YES / NO / NOT GIVEN：\n1. Taller buildings always improve city life.\n2. Taller buildings may worsen traffic in some places.\n3. Improving public transport is cheaper than limiting building height.",
+      "answer_md": "1. **NO**。作者 I disagree 明确反对，并给出反例。\n2. **YES**。can make congestion worse 与 may worsen traffic 对应，in areas with poor transport 限定了范围。\n3. **NOT GIVEN**。没有比较两种措施的成本。此处题型要求 YES / NO，不能写 TRUE / FALSE。",
+      "transfer": "选一道错题，写三行：题干主张、原文证据、相同／相反／缺失的关系。只背答案无法检查推理。",
+      "source_ids": [
+        "ielts-reading",
+        "bc-reading-lessons"
+      ],
+      "figure": null,
+      "worked_example": {
+        "title": "完整示范：反证、信息缺失与作者立场",
+        "prompt_md": "**短文一 · Museum admission**\n\nThe museum opened in 2012. Entry is free for children under twelve. Adult visitors pay a fee. The director hopes to extend free entry to students next year.\n\n**第 1–3 题：判断短文中的信息。** Write TRUE if the statement agrees with the information, FALSE if it contradicts the information, or NOT GIVEN if there is not enough information.\n\n1. The museum opened before 2015.\n2. All visitors can enter without paying.\n3. Students currently pay less than other adults.\n\n**短文二 · Building height（以第一人称表达作者观点）**\n\nSome planners claim that taller buildings always improve city life. I disagree: in areas with poor transport, they can make congestion worse.\n\n**第 4–6 题：判断是否符合作者观点。** Write YES if the statement agrees with the writer's views, NO if it contradicts the writer's views, or NOT GIVEN if it is impossible to tell what the writer thinks.\n\n4. Taller buildings always improve city life.\n5. Taller buildings may worsen traffic in some places.\n6. Improving public transport is cheaper than limiting building height.",
+        "answer_title": "标准答案：先分题型，再判证据关系",
+        "answer_md": "**1. TRUE**\n\n**2. FALSE**\n\n**3. NOT GIVEN**\n\n**4. NO**\n\n**5. YES**\n\n**6. NOT GIVEN**\n\n第 1–3 题填写 TRUE / FALSE / NOT GIVEN；第 4–6 题填写 YES / NO / NOT GIVEN。FALSE / NO 需要明确反证；NOT GIVEN 要说清缺了什么信息，不能只说“没有一样的词”。",
+        "explanations": [
+          {
+            "quote": "1. TRUE",
+            "evidence": "The museum opened in 2012.",
+            "explanation": "2012 早于 2015，直接支持 opened before 2015。原文没有 before 这个词不影响判断；日期的关系已经完整支持题干。"
+          },
+          {
+            "quote": "2. FALSE",
+            "evidence": "Adult visitors pay a fee.",
+            "explanation": "All visitors 声称每位访客都免票，成人需要付费提供了明确反例。答案为 FALSE 的依据是成人付费这条反证，不是仅因为题干出现 all。"
+          },
+          {
+            "quote": "3. NOT GIVEN",
+            "evidence": "The director hopes to extend free entry to students next year.",
+            "explanation": "题干比较学生与其他成人的现行票价，原文只说未来希望给学生免票。学生现在可能付全价，也可能已有折扣；没有当前票价比较，不能证明 pay less，也不能证明相反。"
+          },
+          {
+            "quote": "4. NO",
+            "evidence": "Some planners claim that taller buildings always improve city life. I disagree: in areas with poor transport, they can make congestion worse.",
+            "explanation": "第一句是 Some planners 的观点，随后 I disagree 明确给出作者反对立场。题干问作者是否认同 always improve，作者给出了交通较差地区可能更拥堵的反例，因此填 NO。"
+          },
+          {
+            "quote": "5. YES",
+            "evidence": "in areas with poor transport, they can make congestion worse",
+            "explanation": "they 指 taller buildings；can make congestion worse 对应 may worsen traffic。in areas with poor transport 给出特定地区，支持 some places，没有把部分地区扩大成所有地区。"
+          },
+          {
+            "quote": "6. NOT GIVEN",
+            "evidence": "in areas with poor transport, they can make congestion worse",
+            "explanation": "这一相关句只谈高楼在交通较差地区对拥堵的影响；短文没有给出改善公共交通与限制建筑高度的成本，更没有两者谁便宜的比较。缺的是费用关系，不能根据现实经验判断。"
+          }
+        ],
+        "contrasts": [
+          {
+            "wrong": "第 3 题填 FALSE：学生现在还没有免费。",
+            "better": "第 3 题填 NOT GIVEN：现行学生票与成人票的高低关系未说明。",
+            "why": "“未免费”并不等于“没有折扣”；pay less 不是 enter free，题干比较关系缺失时不能当作反证。"
+          },
+          {
+            "wrong": "第 4 题填 YES：首句说高楼 always improve city life。",
+            "better": "第 4 题填 NO：首句归属于 planners，作者用 I disagree 反对。",
+            "why": "观点题必须追踪谁在说话，不能把作者引用的他人观点直接算作作者立场。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "tech-headings",
+      "anchor": "reading-tech-headings",
+      "section": "reading",
+      "title": "标题匹配：段落主旨与例子分开",
+      "minutes": 12,
+      "purpose": "从段落在做什么出发选标题，避免被同词与单个例子吸引。",
+      "steps": [
+        "略读整段，用自己的话写“主题＋本段关于它的主要意思”。先形成短标签，再比较标题。",
+        "识别段落功能：提出问题、解释原因、比较方案、评价结果。标题不仅要主题相同，还要涵盖这一功能。",
+        "留意 but / however / instead 等转折：段首可能只提供背景，中后段才落到作者重点。",
+        "两项难分时逐一检查范围：哪一个只覆盖一个例子？哪一个扩大到全文或加入未说的因果？",
+        "核对题目要求的段落与标题编号。不要重复使用同一标题；有些标题会闲置。"
+      ],
+      "example_md": "Early roof gardens were praised for their appearance. Their main value in dense cities, however, is now seen as environmental. Plants can reduce roof temperatures, and the soil can hold some rainwater. These effects help buildings manage heat and runoff.\n\n标题：\ni. The visual design of roof gardens\nii. Environmental benefits of roof gardens\niii. The cost of constructing roof gardens\n\n答案：**ii**。",
+      "explanation": "appearance 是背景；however 后面明确转向环境作用，降温和蓄水都是支撑例子。i 只对应首句，不概括整段；iii 没有成本信息。主旨句可能在开头、结尾或段中，不能只读第一句。",
+      "pitfalls": [
+        "标题里有原文词就选，忽略该词在段落只是一个例子。",
+        "把解释“为什么”误配成说明“如何操作”。",
+        "先选标题再强行把所有句子解释成支持它。"
+      ],
+      "practice_md": "The first repair café attracted few visitors. Organisers then moved it next to the weekly market and advertised short demonstrations. Attendance increased within a month, suggesting that location and visibility mattered more than the original team had expected.\n\n选最合适标题：\ni. Why repair cafés use expensive tools\nii. Changes that improved participation\niii. The history of the weekly market\n\n再用中文写一句段落主旨。",
+      "answer_md": "**ii**。本段讲搬位置和增加展示后，参与人数提高。可概括为“提升可见度与调整位置改善了参与情况”。\n\ni 的工具成本没有出现；iii 的 market 是新位置的背景，不是本段在讲市场历史。",
+      "transfer": "下次遇两项犹豫时，写出每个标题覆盖了哪几句；只有一句例子支持的选项需要警惕。",
+      "source_ids": [
+        "cambridge-headings",
+        "bc-reading-lessons"
+      ],
+      "figure": null,
+      "worked_example": {
+        "title": "完整示范：主旨覆盖整段，关键词只作线索",
+        "prompt_md": "**Paragraph A**\n\nEarly roof gardens were praised for their appearance. Their main value in dense cities, however, is now seen as environmental. Plants can reduce roof temperatures, and the soil can hold some rainwater. These effects help buildings manage heat and runoff.\n\n**Paragraph B**\n\nThe first repair café attracted few visitors. Organisers then moved it next to the weekly market and advertised short demonstrations. Attendance increased within a month, suggesting that location and visibility mattered more than the original team had expected.\n\n**Choose the correct heading for each paragraph from the list below.** Write the correct number, i–iv. **Do not use any heading more than once. Two headings will not be used.**\n\ni. The visual design of roof gardens\nii. Environmental benefits of roof gardens\niii. Why repair cafés need expensive tools\niv. Changes that improved participation\n\n1. Paragraph A: ______\n2. Paragraph B: ______",
+        "answer_title": "标准答案与标题排除",
+        "answer_md": "**1. ii** — Environmental benefits of roof gardens\n\n**2. iv** — Changes that improved participation\n\nA 的主旨可先概括成“屋顶花园帮助调节热量和雨水”；B 可概括成“改变地点与宣传方式后，参与人数增加”。再将这个整段概括与标题核对。",
+        "explanations": [
+          {
+            "quote": "1. ii",
+            "evidence": "Their main value in dense cities, however, is now seen as environmental.",
+            "explanation": "however 把重点从外观转向环境价值。后面的 reduce roof temperatures 和 hold some rainwater 分别给出降温、蓄水两项支持，ii 同时涵盖两项；i 只对应开头的外观背景，无法覆盖主体内容。"
+          },
+          {
+            "quote": "2. iv",
+            "evidence": "Attendance increased within a month, suggesting that location and visibility mattered more than the original team had expected.",
+            "explanation": "本段先说参加者少，再说搬到市场旁并宣传演示，最后说到访增加；iv 概括的是“采取变化后参与改善”这一整段关系。iii 虽与 repair café 主题相关，但文中没有工具价格，也没有解释为何需要昂贵工具。"
+          }
+        ],
+        "contrasts": [
+          {
+            "wrong": "第 1 题选 i，因为首句提到 appearance。",
+            "better": "第 1 题选 ii，因为 however 后解释了降温与蓄水这两项环境益处。",
+            "why": "首句在提供背景，标题应覆盖转折后的主要论述；只对应一个背景词的标题不等于整段主旨。"
+          },
+          {
+            "wrong": "第 2 题选 iii，因为标题里也有 repair cafés。",
+            "better": "第 2 题选 iv：搬位置、做宣传之后 attendance increased。",
+            "why": "同主题不足以支持标题，标题中的核心关系也必须出现；expensive tools 的成本与必要性都没有证据。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "tech-matching",
+      "anchor": "reading-tech-matching",
+      "section": "reading",
+      "title": "信息与人物匹配：找细节、追踪归属",
+      "minutes": 15,
+      "purpose": "分清“哪段含这个信息”与“谁提出这个观点”，建立能重复使用的定位笔记。",
+      "steps": [
+        "信息匹配先圈任务类型：例子、原因、对比、时间变化或研究限制。它找具体信息，不要求是整段主旨。",
+        "给段落记简短内容索引；一道题未定位时先保留候选，后续读段落时再顺带验证。不要假设题号总按原文顺序。",
+        "人物／特征匹配先定位姓名或类别，再找其观点。圈 said / argued / disagreed / supported 以及 he / she / they 的所指。",
+        "区分“被某人提到”与“被某人赞成”：同一句可能引用别人的主张后反驳。",
+        "核对选项能否重复：只有指令允许时才复用；每题仍需独立证据，不按配对数量猜剩余答案。"
+      ],
+      "example_md": "**A** Lin argued that shorter bus routes would be easier to run reliably. Patel questioned this view, warning that passengers might need to change buses more often.\n\n**B** Morgan supported Patel's concern but suggested testing the plan on one route before rejecting it. Lin agreed that a trial would be useful.\n\n人物：L = Lin；P = Patel；M = Morgan。可重复使用。\n\n谁最先提出换乘次数可能增加？→ **P**。谁建议先在一条线路上试行？→ **M**。",
+      "explanation": "Patel 的观点在 A 中紧接 Lin，却由 Patel 自己提出。B 中 supported Patel’s concern 表示 Morgan 支持这一担忧，后半句才是 Morgan 的试行建议。Lin 赞同试行，不等于最先提出它。",
+      "pitfalls": [
+        "定位到姓名后，只读最近一个名词。",
+        "信息匹配选段落主旨最接近的项，却没找到要求的具体例子。",
+        "把所有匹配都当成一对一；忽略“可重复”指令。"
+      ],
+      "practice_md": "用以上 A / B 两段作答（段落可重复）：\n1. 哪段明确描述乘客可能需要增加换乘次数这一不利影响？\n2. 哪段建议进行小范围试验？\n\n再答人物题：谁既支持他人的担忧，又提出试验方案？L / P / M。",
+      "answer_md": "1. **A**：换乘可能增多是方案的不利影响。\n2. **B**：testing the plan on one route 是小范围试验。\n3. **M**：Morgan 同时做了 supported ... 和 suggested ... 两件事，需核对整个陈述。",
+      "transfer": "下一次把“人物—主张—态度”写成三列表，只摘一行关键词，然后回原文确认代词。",
+      "source_ids": [
+        "ielts-reading",
+        "bc-reading-lessons"
+      ],
+      "figure": null,
+      "worked_example": {
+        "title": "完整示范：同意、反对与首先提出要分开",
+        "prompt_md": "**A** Lin argued that shorter bus routes would be easier to run reliably. Patel questioned this view, warning that passengers might need to change buses more often.\n\n**B** Morgan supported Patel's concern but suggested testing the plan on one route before rejecting it. Lin agreed that a trial would be useful.\n\n**Match each statement with the correct person.** Write L, P or M. **You may use any letter more than once.** “首先提出”只按本短文描述的讨论顺序判断。\n\nL = Lin\nP = Patel\nM = Morgan\n\n1. Argued that shorter routes could make services more reliable.\n2. First warned that the plan might require passengers to make more transfers.\n3. First proposed trying the plan on a single route.\n4. Supported shorter routes and later agreed that a trial would be useful.",
+        "answer_title": "标准答案与人物归属",
+        "answer_md": "**1. L**\n\n**2. P**\n\n**3. M**\n\n**4. L**\n\n人物笔记：Lin 提出稳定运营的好处，后来同意试行；Patel 提出换乘增加的担忧；Morgan 支持这一担忧，同时先提出单线路试行。第 1、4 题可以重复使用 L，因为指令明确允许。",
+        "explanations": [
+          {
+            "quote": "1. L",
+            "evidence": "Lin argued that shorter bus routes would be easier to run reliably.",
+            "explanation": "题干 make services more reliable 对应 easier to run reliably，argued 的主语是 Lin。Patel 随后 questioned this view，表示质疑这个观点，不能因出现在同段就归给 Patel。"
+          },
+          {
+            "quote": "2. P",
+            "evidence": "Patel questioned this view, warning that passengers might need to change buses more often.",
+            "explanation": "make more transfers 对应 change buses more often，warning 的行为归属于 Patel。Morgan 后来 supported Patel's concern，是赞同已经提出的担忧；题干中的 First 排除了把后来的支持者当成最先提出者。"
+          },
+          {
+            "quote": "3. M",
+            "evidence": "Morgan supported Patel's concern but suggested testing the plan on one route before rejecting it.",
+            "explanation": "trying the plan on a single route 对应 testing the plan on one route，suggested 的主语是 Morgan。后句 Lin agreed 只是同意这个建议，不能替代 first proposed。"
+          },
+          {
+            "quote": "4. L",
+            "evidence": "Lin agreed that a trial would be useful.",
+            "explanation": "这题有两个条件，需要跨句合并：A 的 Lin argued 支持短线路的可靠性，B 的 Lin agreed 表示同意试行。Morgan 虽提议试行，却没有说短线路能更可靠，不能满足完整陈述。"
+          }
+        ],
+        "contrasts": [
+          {
+            "wrong": "第 3 题选 L：Lin 说 trial would be useful。",
+            "better": "第 3 题选 M：Morgan suggested testing the plan on one route。",
+            "why": "first proposed 要找率先提出方案的人；agreed 表示赞同已经提出的建议，不是提出方案。"
+          },
+          {
+            "wrong": "第 4 题改选 M，因为 L 已经在第 1 题用过。",
+            "better": "第 4 题仍选 L，分别核对支持短线路和后来同意试行两条证据。",
+            "why": "本题明确允许复用人物选项，不能靠一人只能用一次的假设分配答案。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "tech-completion",
+      "anchor": "reading-tech-completion",
+      "section": "reading",
+      "title": "填空专项：字数、词性、原词与语义",
+      "minutes": 12,
+      "purpose": "适用于句子、摘要、笔记、表格及流程填空；按各题指令控制答案形式。",
+      "steps": [
+        "先确定答案来自原文还是给定词库，允许多少词、是否允许数字。每个空都重新核对限制。",
+        "读空格左右，预测语法位置与语义类别，例如可数名词、材料名或动作；预测只缩小范围，不能凭语法猜答案。",
+        "找整句意思的同义表达。摘要可能重组原文顺序；句子填空通常按原文顺序，不能把该规则套到所有填空。",
+        "从规定位置取词，保留需要的形式；原文取词题不要自行换成同义词或增添冠词。词库题按指令写词或字母。",
+        "把答案放回题目检查：语义、搭配、单复数、拼写、字数都成立吗？多词短语不等于可以随意删到只剩核心词。"
+      ],
+      "example_md": "The boxes were lined with recycled paper to protect the glass bottles. Each shipment contained twelve boxes.\n\nChoose **NO MORE THAN TWO WORDS** from the passage for each answer.\n\n1. The lining material was ______.\n2. The containers held ______.\n\n答案：1 **recycled paper**；2 **glass bottles**。",
+      "explanation": "lining material 与 lined with 对应；containers 在题中指 boxes。recycled paper 是完整材料名，glass bottles 给出具体内容物。不能写 a recycled paper，也不能把 bottles 改成单数 bottle。",
+      "pitfalls": [
+        "字数限制允许两个词就每空硬填两个；有时一个词已经足够。",
+        "把 NO MORE THAN TWO WORDS 当成“两个词再加一个数字”，数字是否允许需看完整指令。",
+        "按语法猜出正确概念，却写了原文没有的同义词。"
+      ],
+      "practice_md": "原文：The sensor is powered by solar energy. It sends readings every six hours. Its outer case is made of stainless steel.\n\nChoose **NO MORE THAN TWO WORDS** from the passage for each answer.\n1. Power source: ______\n2. Interval between transmissions: ______\n3. Case material: ______",
+      "answer_md": "1. **solar energy**：is powered by 表示能源来源。\n2. **six hours**：两词；every 已由 Interval between 的题意表达，无须再抄。\n3. **stainless steel**：made of 对应材料。\n\nevery six hours 是三词，超过限制；只写 six 会丢失时长单位。",
+      "transfer": "给下一次三个填空分别写一个检查标签：“字数”“原词”“语法”；错题记录哪一步没过。",
+      "source_ids": [
+        "ielts-reading",
+        "bc-reading-lessons"
+      ],
+      "figure": null,
+      "worked_example": {
+        "title": "完整示范：把原文答案放回空格检查",
+        "prompt_md": "**Packaging glass bottles**\n\nThe boxes were lined with recycled paper to protect the glass bottles. Each shipment contained twelve boxes. Before loading, staff checked every lid.\n\n**Complete the sentences below. Choose NO MORE THAN TWO WORDS from the passage for each answer.** 使用原文用词；填完整的材料或物品名称，不加题面已有的词。\n\n1. Recycled ______ was used to line the boxes.\n2. The lining protected the ______ inside the boxes.\n3. A shipment contained ______ boxes.\n4. Before the boxes were loaded, staff checked every ______.",
+        "answer_title": "标准答案、完整句与字数检查",
+        "answer_md": "**1. paper**（1 词）\n\n完整句：Recycled **paper** was used to line the boxes.\n\n**2. glass bottles**（2 词）\n\n完整句：The lining protected the **glass bottles** inside the boxes.\n\n**3. twelve**（1 词）\n\n完整句：A shipment contained **twelve** boxes.\n\n**4. lid**（1 词）\n\n完整句：Before the boxes were loaded, staff checked every **lid**.\n\n两词是上限，不是每空必须填两词。先找到原文完整短语，再扣除题面已经给出的 recycled、boxes、every 等词。",
+        "explanations": [
+          {
+            "quote": "1. paper",
+            "evidence": "The boxes were lined with recycled paper",
+            "explanation": "原文 lined with recycled paper 表明衬垫材料是再生纸。题面已给 Recycled，空内只需 paper；再抄 recycled paper 会形成 Recycled recycled paper，虽然两词未超限，整句仍错。"
+          },
+          {
+            "quote": "2. glass bottles",
+            "evidence": "to protect the glass bottles",
+            "explanation": "题干 protected the 问受到保护的物品，原文直接给出 glass bottles。两词完整保留物品名称，且 the 已在空格前；不能把 the 一并抄入，也不能把 bottles 改成原文没有的单数 bottle。"
+          },
+          {
+            "quote": "3. twelve",
+            "evidence": "Each shipment contained twelve boxes.",
+            "explanation": "题面已给 boxes，需要填数量。twelve 是原文中的一个词，放入后得到 twelve boxes；本题按原文词语取答案，不必改写成数字 12。填 twelve boxes 会把 boxes 重复两次。"
+          },
+          {
+            "quote": "4. lid",
+            "evidence": "Before loading, staff checked every lid.",
+            "explanation": "Before the boxes were loaded 与 Before loading 对应。题面 every 后需要原文的单数 lid；不能因前面 boxes 是复数，就把本空写成 lids。"
+          }
+        ],
+        "contrasts": [
+          {
+            "wrong": "第 1 空填 recycled paper。",
+            "better": "第 1 空填 paper。",
+            "why": "把答案放回句子就会看见 Recycled recycled paper 的重复；字数合规只是必要条件，还要检查题面已给词。"
+          },
+          {
+            "wrong": "第 2 空填 the glass bottles。",
+            "better": "第 2 空填 glass bottles。",
+            "why": "the glass bottles 是 3 词，超过 2 词限制，而且空格前已经有 the；删除重复冠词后语义与语法都成立。"
+          },
+          {
+            "wrong": "第 4 空填 lids。",
+            "better": "第 4 空填 lid。",
+            "why": "原文是 every lid，every 后跟单数可数名词；要保留答案在原文中的词形。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "tech-diagram",
+      "anchor": "reading-tech-diagram",
+      "section": "reading",
+      "title": "阅读图示标注：把原文位置关系落到图上",
+      "minutes": 15,
+      "purpose": "Reading diagram-label completion 是依据阅读文章给图中部件填标签；这里不需要写 Task 1 图表报告。",
+      "steps": [
+        "先看指令、图的标题、已有标签和箭头端点：每个空究竟指向容器、管道、材料还是出口？",
+        "用已有标签和部件功能定位原文相关段落；图能帮助理解结构，答案仍需由文字提供。",
+        "追踪位置与连接词：above / below、inside / outside、at the base、leads to、passes through。结合箭头与指代重建路径。",
+        "逐一把文字描述对应到具体部件。空号不一定与原文顺序一致，不要靠从上到下顺序猜。",
+        "按字数限制填原词或按题给选项作答，再查拼写与箭头落点。认识装置不代表可以用课外名称替代文章用词。"
+      ],
+      "example_md": "**Rain collector**\n\nRainwater enters a wide funnel at the top. It then passes through a mesh filter, which removes leaves. Below the filter is a storage tank. A narrow outlet pipe carries water from the base of the tank to a measuring cup.\n\n看本单元示意图。引线指向各部件；measuring cup 已给出，不需要填写。\n\nChoose **NO MORE THAN TWO WORDS** from the passage for each answer.\n\n1. 图顶端漏斗形部件：______\n2. 漏斗下方横向网层：______\n3. 网层下方储水部件：______\n4. 储水部件底部通向杯子的管道：______",
+      "explanation": "funnel 是顶部入口，mesh filter 对应去除树叶的网层，storage tank 位于它下面，outlet pipe 从底部通向量杯。below 和 from the base of ... to ... 同时提供位置与连接证据。先自行尝试，再展开答案。",
+      "pitfalls": [
+        "根据常识把 funnel 写成 roof，把 mesh filter 换成文章没有的 screen。",
+        "把第 4 空指向的管道误看成已经标出的量杯。",
+        "以为图号顺序保证等于原文顺序；必须核对描述与箭头。"
+      ],
+      "practice_md": "先完成上方 1–4，再答两个检查问题：\n\n5. “Which part removes leaves?” 答案是什么？\n6. 若第 4 空写成 narrow outlet pipe，为什么不合要求？",
+      "answer_md": "1. **funnel**；2. **mesh filter**；3. **storage tank**；4. **outlet pipe**。\n\n1 对应 at the top；2 对应 removes leaves；3 对应 Below the filter；4 对应 from the base ... to a measuring cup。\n\n5. **mesh filter**。which 指向它，功能也能帮助定位。\n6. **narrow outlet pipe** 有三个词，超过两词限制；当前短文也没有 narrow 这个修饰词。填写原文的 **outlet pipe**，既对应管道，又符合两词上限。",
+      "transfer": "找下一道图示标注，先指着每个箭头说“我要找什么”，再到文中圈一条位置关系；两者对不上就继续核对。",
+      "source_ids": [
+        "cambridge-diagram",
+        "ielts-reading"
+      ],
+      "figure": "collector",
+      "worked_example": {
+        "title": "完整示范：沿水流核对四个部件",
+        "prompt_md": "**Rain collector**\n\nRainwater enters the funnel at the top. It then passes through a mesh filter, which removes leaves. Below the filter is a storage tank. An outlet pipe carries water from the base of the tank to a measuring cup.\n\n看本单元的 Rain collector 示意图。measuring cup 已有标签，不需要填写。\n\n**Complete labels 1–4. Choose NO MORE THAN TWO WORDS from the passage for each answer.** 填完整部件名称，不抄冠词。\n\n1. 引线指向顶端的漏斗形入口：______\n2. 引线指向漏斗下方的横向网层：______\n3. 引线指向网层下方的储水部件：______\n4. 引线指向从储水部件底部通往杯子的管道：______",
+        "answer_title": "标准答案与文字—图形对应",
+        "answer_md": "**1. funnel**（1 词）\n\n**2. mesh filter**（2 词）\n\n**3. storage tank**（2 词）\n\n**4. outlet pipe**（2 词）\n\n核对路线：funnel → mesh filter → storage tank → outlet pipe → measuring cup。最后的 measuring cup 是已给标签，不能填到指向管道的第 4 空。",
+        "explanations": [
+          {
+            "quote": "1. funnel",
+            "evidence": "Rainwater enters the funnel at the top.",
+            "explanation": "第 1 根引线指向顶部入口；enters 给出进水功能，at the top 给出位置，共同对应 funnel。答案取自短文中的部件名称，不能用课外猜出的 roof 或 collector 代替。"
+          },
+          {
+            "quote": "2. mesh filter",
+            "evidence": "It then passes through a mesh filter, which removes leaves.",
+            "explanation": "It 指雨水；then 说明水流经过顶部入口后的下一步。which removes leaves 指 mesh filter 的过滤作用，与图中横向网层对应，完整两词恰好符合上限。"
+          },
+          {
+            "quote": "3. storage tank",
+            "evidence": "Below the filter is a storage tank.",
+            "explanation": "Below the filter 明确把储水部件放在滤网下面，对应第 3 根引线。第 2 空的 filter 与第 3 空的 tank 不能只靠相邻位置互换；要同时核对上下关系和部件名称。"
+          },
+          {
+            "quote": "4. outlet pipe",
+            "evidence": "An outlet pipe carries water from the base of the tank to a measuring cup.",
+            "explanation": "from the base of the tank to a measuring cup 给出管道的起点与终点。第 4 根引线指向连接两者的管道，所以填 outlet pipe；measuring cup 是管道通往的容器，不是管道本身。"
+          }
+        ],
+        "contrasts": [
+          {
+            "wrong": "第 4 空填 measuring cup。",
+            "better": "第 4 空填 outlet pipe。",
+            "why": "题目引线指向管道；原文 carries water from ... to ... 的主语是 outlet pipe，measuring cup 只是终点。"
+          },
+          {
+            "wrong": "第 2 空填 screen。",
+            "better": "第 2 空填 mesh filter。",
+            "why": "即使 screen 在常识上可描述网层，本题要求从原文取词；短文实际使用的是 mesh filter。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "tech-choices-review",
+      "anchor": "reading-tech-choices-review",
+      "section": "reading",
+      "title": "选择题与限时复盘：判断整句、控制卡题",
+      "minutes": 15,
+      "purpose": "排除“词相同但意思不对”的选项，并把错题归因转成下一次练习动作。",
+      "steps": [
+        "读清问的是原因、目的、结果还是作者态度，并检查选一个还是多个答案。",
+        "定位后先用自己的话回答问题，再比较选项；检查每个选项的主体、范围、时间和因果。",
+        "给干扰项标理由：与原文矛盾、只说对一半、主题有关但未回答问题、原文未提。不能只写“感觉不对”。",
+        "限时训练可先给三篇各约 18 分钟、留约 6 分钟检查，按篇幅与强弱调整；这是练习起点，不是每题强制秒数。卡住且没有新证据时先标记后回看。",
+        "复盘先不看答案重读定位段，再核对解释。记录错误属于找不到位置、同义替换、逻辑范围、题意或拼写；下一次只选一类重点修。"
+      ],
+      "example_md": "The trial reduced energy use in the test building. Because the study lasted only two weeks, the researchers said it was too early to estimate annual savings.\n\nWhy did the researchers avoid estimating annual savings?\n\nA. Energy use increased during the trial.\nB. The observation period was too short.\nC. The building was larger than expected.\nD. The equipment was too expensive.\n\n答案：**B**。",
+      "explanation": "because 引出原因，only two weeks 与 observation period was too short 对应。A 与 reduced 相反；C、D 都没提。研究取得短期结果，与不能可靠估计年度节省量可以同时成立。",
+      "pitfalls": [
+        "选项提到 energy 就认为答到题；先看问题问什么关系。",
+        "把所有阅读题都当顺序题：不同题型的顺序规律不同。",
+        "重复做熟题后正确率升高，就认为陌生文章已经同等提高。"
+      ],
+      "practice_md": "原文：Visitors preferred the audio guide because it let them explore at their own pace. Some still asked staff for directions.\n\n1. Why was the audio guide preferred?\nA. It was free. B. It allowed flexible pacing. C. It replaced all staff. D. It contained more facts.\n\n2. “No visitor needed staff assistance.” 与原文是什么关系？\n3. 如果你选了 C，下次做选择题要增加哪一步？",
+      "answer_md": "1. **B**：at their own pace 表示按自己的节奏。\n2. **相反**：some ... asked staff for directions 明确存在仍需帮助的人。\n3. 检查选项的范围词 all，以及后句是否构成反例。不能由“喜欢导览”扩大成“不再需要任何员工”。\n\n阅读整场为 60 分钟、40 题；最后检查要覆盖未答项、选项数量及填空限制。分段耗时与调整方法请记在笔记中，下一次用未看过的短文验证。",
+      "transfer": "复盘后另找一段未见短文，用相同技巧做两题；把“熟题修正”和“新材料应用”分别记下。",
+      "source_ids": [
+        "ielts-reading",
+        "bc-reading-lessons"
+      ],
+      "figure": null,
+      "worked_example": {
+        "title": "完整示范：每个选项都要回答题目所问的关系",
+        "prompt_md": "**Passage A · Energy trial**\n\nThe trial reduced energy use in the test building. Because the study lasted only two weeks, the researchers said it was too early to estimate annual savings.\n\n**Passage B · Museum audio guide**\n\nVisitors preferred the audio guide because it let them explore at their own pace. Some still asked staff for directions.\n\n**Questions 1–2: Choose ONE letter, A, B, C or D, for each question.**\n\n1. Why did the researchers avoid estimating annual savings?\n\nA. Energy use increased during the trial.\nB. The observation period was too short.\nC. The building was larger than expected.\nD. The equipment was too expensive.\n\n2. Why did visitors prefer the audio guide?\n\nA. It was free.\nB. It allowed flexible pacing.\nC. It replaced all staff assistance.\nD. It contained more facts.\n\n**Question 3: Choose TWO letters, A–E.** 两个字母顺序不限。\n\n3. Which TWO statements are supported by Passage B?\n\nA. Visitors could decide how quickly to explore.\nB. No visitor asked staff for help.\nC. Some visitors asked staff how to find their way.\nD. The audio guide cost less than other guides.\nE. Every visitor completed the visit in the same amount of time.",
+        "answer_title": "标准答案与逐项排除",
+        "answer_md": "**1. B** — The observation period was too short.\n\n**2. B** — It allowed flexible pacing.\n\n**3. A and C** — 两个字母顺序不限。\n\n第 1、2 题各选一个字母；第 3 题必须选两个。做题时先用中文形成答案：“研究时间太短”“可以按自己的节奏”，再对照英文选项，减少被原文同词带走的机会。",
+        "explanations": [
+          {
+            "quote": "1. B",
+            "evidence": "Because the study lasted only two weeks, the researchers said it was too early to estimate annual savings.",
+            "explanation": "问题问不估算年度节省量的原因，Because 后的 only two weeks 对应 observation period was too short。A 的 increased 与前句 reduced 相反；C 的建筑大小、D 的设备价格都未提及。短期用能减少并不保证已经能估算全年结果。"
+          },
+          {
+            "quote": "2. B",
+            "evidence": "Visitors preferred the audio guide because it let them explore at their own pace.",
+            "explanation": "because 明确连接“喜欢导览”与“按自己节奏探索”，at their own pace 对应 flexible pacing。A 的免费与 D 的更多事实没有出现；C 的替代全部员工协助还被后句 Some still asked staff for directions 反驳。"
+          },
+          {
+            "quote": "3. A and C",
+            "evidence": "Visitors preferred the audio guide because it let them explore at their own pace. Some still asked staff for directions.",
+            "explanation": "A 的 decide how quickly 对应 at their own pace；C 的 how to find their way 对应 for directions。B 的 No visitor 与 Some 相反；D 没有价格比较；E 的 Every visitor ... same amount of time 没有证据，自主控制节奏也不等于所有人的总时长相同。"
+          }
+        ],
+        "contrasts": [
+          {
+            "wrong": "第 1 题选 A：A 和短文都提到 energy use。",
+            "better": "第 1 题选 B：Because ... only two weeks 解释了不能估算年度结果的原因。",
+            "why": "A 不仅把 reduced 写反，也没有回答原因；必须同时核对选项事实与题目要求的关系。"
+          },
+          {
+            "wrong": "第 2 题选 C：有语音导览，所以不用员工帮助了。",
+            "better": "第 2 题选 B：at their own pace；并用 Some still asked staff for directions 排除 C。",
+            "why": "C 添加了 all staff assistance 的绝对范围，原文明确保留了仍需问路的人，不能把“喜欢导览”扩成“取代全部协助”。"
+          },
+          {
+            "wrong": "第 3 题只填 A。",
+            "better": "第 3 题填 A and C。",
+            "why": "本题指令要求两个字母，第二句独立支持 C；找到一个正确选项后还需检查是否已满足选项数量。"
+          }
+        ]
+      }
+    }
+  ]
+}

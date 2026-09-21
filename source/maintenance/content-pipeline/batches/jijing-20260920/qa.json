@@ -1,0 +1,84 @@
+{
+  "candidate": "C:\\Users\\Admin1\\Documents\\ChatGPT\\ielts\\content-pipeline\\batches\\jijing-20260920\\stage\\candidate.html",
+  "baseline": "C:\\Users\\Admin1\\Documents\\ChatGPT\\ielts\\content-pipeline\\batches\\jijing-20260920\\stage\\baseline.html",
+  "sha256": "dc3e6e39ab1bf2155069f92d6fe952733b9b044684a02d81d7f426578578938a",
+  "baselineSHA256": "4beef1251a9ce6ee00ebcca59f604fc47d09b2bc5a7aa37b2668533f6946449d",
+  "method": "Actual candidate core and navigation scripts in the existing Node/linkedom harness with isolated synthetic localStorage. No real browser, layout, audio playback or user data. Read-only input files.",
+  "checks": [
+    {
+      "name": "Every old save key and DOM ID survives; all candidate keys and IDs are unique",
+      "status": "pass",
+      "detail": {
+        "data-save": {
+          "before": 3330,
+          "after": 3353
+        },
+        "id": {
+          "before": 1222,
+          "after": 1226
+        }
+      }
+    },
+    {
+      "name": "Daily feature boundary blocks and state field remain byte-identical",
+      "status": "pass"
+    },
+    {
+      "name": "Existing navigation records and media references remain unchanged",
+      "status": "pass"
+    },
+    {
+      "name": "New project refers to real versioned batch units, with actual answer fields",
+      "status": "pass",
+      "detail": {
+        "project": "jijing-202609-v1",
+        "units": [
+          "pr-jijing-202609-listening-01-v1",
+          "pr-jijing-202609-reading-01-v1"
+        ]
+      }
+    },
+    {
+      "name": "Candidate core and navigation scripts boot with isolated storage",
+      "status": "pass",
+      "detail": {
+        "userStorageRead": false,
+        "syntheticStorage": true,
+        "harness": "qa_navigation_ui_final.cjs"
+      }
+    },
+    {
+      "name": "Whole-package project and every new unit route to visible content and its category",
+      "status": "pass"
+    },
+    {
+      "name": "Blank attempts keep answers hidden; entering answers persists under the original recorder",
+      "status": "pass",
+      "detail": {
+        "gates": 2,
+        "savedAnswers": 23
+      }
+    },
+    {
+      "name": "Checking captures an immutable first attempt and reveals answer content",
+      "status": "pass",
+      "detail": {
+        "firstAttempts": 2
+      }
+    },
+    {
+      "name": "Reload restores new drafts, original answers, first attempts and resume navigation",
+      "status": "pass",
+      "detail": {
+        "restoredAnswers": 23,
+        "resume": "pr-jijing-202609-reading-01-v1"
+      }
+    },
+    {
+      "name": "QA did not mutate either input file",
+      "status": "pass"
+    }
+  ],
+  "passed": 10,
+  "total": 10
+}

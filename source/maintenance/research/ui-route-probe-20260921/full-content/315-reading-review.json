@@ -1,0 +1,262 @@
+{
+  "requested": "reading-review",
+  "from": [
+    "页面链接"
+  ],
+  "actual": "#reading-review",
+  "checkedAt": "2026-09-21T12:54:55.746Z",
+  "title": "学习 / 阅读 / 阅读 · 从原题开始学 · IELTS",
+  "label": "学习 / 阅读 / 阅读 · 从原题开始学",
+  "panel": "reading",
+  "contentRoot": "reading-review",
+  "headings": [
+    {
+      "tag": "H2",
+      "text": "先做简短迁移",
+      "visible": true
+    },
+    {
+      "tag": "H2",
+      "text": "后续一次陌生原题检查",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "阅读复习补充：更换原文复核同一答题动作",
+      "visible": true
+    }
+  ],
+  "controls": [
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "可选：换一道题再试",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "完成后核对",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "Rags to Riches 原文",
+      "label": "",
+      "href": "原始参考/b929185f-ielts-modified-academic-1-source-pages.pdf",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "相关练习",
+      "label": "",
+      "href": "原始参考/77d2edb5-ielts-modified-academic-1.pdf",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "本次新任务作答／录音文件名；先作答，再打开页内核对。",
+      "href": null,
+      "save": "reading-review-answer",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "Do animals dream?｜章鱼行为与研究边界",
+      "label": "",
+      "href": "#reading-case-rd-c21-dreams-2",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "Mapungubwe｜贸易、器物与衰落",
+      "label": "",
+      "href": "#reading-case-rd-c21-mapungubwe-2",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "Artificial Intelligence｜部署边界、医疗与司法案例",
+      "label": "",
+      "href": "#reading-case-rd-c21-ai-3",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "Cambridge IELTS 21 Academic · Test 2 · PDF 40 页",
+      "label": "",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=40",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "Cambridge IELTS 21 Academic · Test 2 · PDF 121 页",
+      "label": "",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=121",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "Cambridge IELTS 21 Academic · Test 2 · PDF 44 页",
+      "label": "",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=44",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "Cambridge IELTS 21 Academic · Test 2 · PDF 47 页",
+      "label": "",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=47",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "练原题：Do animals dream?｜章鱼行为与研究边界",
+      "label": "",
+      "href": "#reading-case-rd-c21-dreams-2",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "练原题：Mapungubwe｜贸易、器物与衰落",
+      "label": "",
+      "href": "#reading-case-rd-c21-mapungubwe-2",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "练原题：Artificial Intelligence｜部署边界、医疗与司法案例",
+      "label": "",
+      "href": "#reading-case-rd-c21-ai-3",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    }
+  ],
+  "visibleText": "可选：换一道题再试\n\n下次先关掉参考，完成图书馆情境三道判断和一句培训用法回忆，约 3—5 分钟。后续另一个阅读时段再用尚未练过的 Rags to Riches 第 1—6 题检查判断方法，替换原定阅读任务。熟题和新题分开记录，不把单题组结果换算 band。\n\n先做简短迁移\n\n以下是工作区控制练习，不是 IELTS 真题，不并入真题库或阅读词频。先答题，核对区后看。\n\n情境：Mira supported the new library and helped raise money for it. The library opened in May.\n\n按本段信息判断：\n\nMira opposed the creation of the library.\nVisitors were pleased with the library.\nMira helped raise funds for the library.\n\n再用上次的目标结构表达“这一培训计划侧重新员工的需要”。标记独立 / 提示后 / 合法替代表达 / 尚未成功。\n\n只有四个短任务，约 3—5 分钟。它检验窄范围理解和提取，不是完整阅读能力测试。\n\n完成后核对\n后续一次陌生原题检查\n\n在下一个阅读日，若尚未看过这篇材料，可选大字版样题 Rags to Riches 原文与相关练习，先做第 1—6 题的判断任务。它用于窄范围迁移检查；大字版排版及单题型结果不用于换算完整 Reading band。若已经看过或做过，另选训练目录中未练过且答案可靠的判断题，不重复充作“陌生检查”。\n\n如果看过题目、原文或答案，请选另一份材料做初测。熟悉的材料可继续用于学习和复盘。\n\n先独立作答；完成后从判断题中选两个代表性问题，观察能否区分：找到信息 / 理解信息 / 判断题干与信息关系。按原题的 TRUE/FALSE 或 YES/NO 标签作答，不能自行互换。\n\n这次原题训练替代当天计划中的一篇阅读，不额外叠加。如果文章难度、话题或题型不同，要一并记录；不把两篇原始正确率的差异全部归因于本章方法。\n\n本次新任务作答／录音文件名；先作答，再打开页内核对。\n阅读复习补充：更换原文复核同一答题动作\n\n本次补充可以配合原有复习记录使用，另外加入可查证的独立真题。先选择一组尚未完成的原文，完整作答并写出每题证据；提交后再打开答案与精读。重复打开同一片段用于复习，不计成新增材料。\n\n判断题复核：animals dream Q9＝FALSE，Costello像被predator攻击，不是主动hunting；AI Q38＝NO，often overlooked反驳always taken into account。两题共同检验“角色反转”和“绝对量词”，各自保留原情境。\n\n填空/多选复核：Mapungubwe Q24＝bodies，因为elongated修饰bodies而short修饰limbs；Q20–21＝B和D，分别来自royal burial site和另一王国Great Zimbabwe采用同样装饰法。复习记录写成“误选原因→原句证据→下次检查动作”，不要只写“粗心”。\n\n继续做原题片段：Do animals dream?｜章鱼行为与研究边界 · Mapungubwe｜贸易、器物与衰落 · Artificial Intelligence｜部署边界、医疗与司法案例\n\nCambridge IELTS 21 Academic · Test 2 · PDF 40 页\n\nCambridge IELTS 21 Academic · Test 2 · PDF 121 页\n\nCambridge IELTS 21 Academic · Test 2 · PDF 44 页\n\nCambridge IELTS 21 Academic · Test 2 · PDF 47 页\n\n练原题：Do animals dream?｜章鱼行为与研究边界\n练原题：Mapungubwe｜贸易、器物与衰落\n练原题：Artificial Intelligence｜部署边界、医疗与司法案例",
+  "allContent": "可选：换一道题再试下次先关掉参考，完成图书馆情境三道判断和一句培训用法回忆，约 3—5 分钟。后续另一个阅读时段再用尚未练过的 Rags to Riches 第 1—6 题检查判断方法，替换原定阅读任务。熟题和新题分开记录，不把单题组结果换算 band。先做简短迁移\n以下是工作区控制练习，不是 IELTS 真题，不并入真题库或阅读词频。先答题，核对区后看。\n情境：Mira supported the new library and helped raise money for it. The library opened in May.\n按本段信息判断：\n\nMira opposed the creation of the library.\nVisitors were pleased with the library.\nMira helped raise funds for the library.\n\n再用上次的目标结构表达“这一培训计划侧重新员工的需要”。标记独立 / 提示后 / 合法替代表达 / 尚未成功。\n只有四个短任务，约 3—5 分钟。它检验窄范围理解和提取，不是完整阅读能力测试。\n\n完成后核对\n\nFALSE：支持与反对矛盾。\nNOT GIVEN：这段文字没有说明访客反应，不能推定满意或不满意。\nTRUE：raise money 与 raise funds 在此情境都表示筹款；题干没有多加本人直接捐款的主张。\n\n表达参考：The training programme is geared towards the needs of new employees. is designed to meet… 也可以表达成功，目标结构另记。\n\n后续一次陌生原题检查\n在下一个阅读日，若尚未看过这篇材料，可选大字版样题 Rags to Riches 原文与相关练习，先做第 1—6 题的判断任务。它用于窄范围迁移检查；大字版排版及单题型结果不用于换算完整 Reading band。若已经看过或做过，另选训练目录中未练过且答案可靠的判断题，不重复充作“陌生检查”。\n如果看过题目、原文或答案，请选另一份材料做初测。熟悉的材料可继续用于学习和复盘。\n先独立作答；完成后从判断题中选两个代表性问题，观察能否区分：找到信息 / 理解信息 / 判断题干与信息关系。按原题的 TRUE/FALSE 或 YES/NO 标签作答，不能自行互换。\n这次原题训练替代当天计划中的一篇阅读，不额外叠加。如果文章难度、话题或题型不同，要一并记录；不把两篇原始正确率的差异全部归因于本章方法。本次新任务作答／录音文件名；先作答，再打开页内核对。阅读复习补充：更换原文复核同一答题动作本次补充可以配合原有复习记录使用，另外加入可查证的独立真题。先选择一组尚未完成的原文，完整作答并写出每题证据；提交后再打开答案与精读。重复打开同一片段用于复习，不计成新增材料。判断题复核：animals dream Q9＝FALSE，Costello像被predator攻击，不是主动hunting；AI Q38＝NO，often overlooked反驳always taken into account。两题共同检验“角色反转”和“绝对量词”，各自保留原情境。填空/多选复核：Mapungubwe Q24＝bodies，因为elongated修饰bodies而short修饰limbs；Q20–21＝B和D，分别来自royal burial site和另一王国Great Zimbabwe采用同样装饰法。复习记录写成“误选原因→原句证据→下次检查动作”，不要只写“粗心”。继续做原题片段：Do animals dream?｜章鱼行为与研究边界 · Mapungubwe｜贸易、器物与衰落 · Artificial Intelligence｜部署边界、医疗与司法案例Cambridge IELTS 21 Academic · Test 2 · PDF 40 页Cambridge IELTS 21 Academic · Test 2 · PDF 121 页Cambridge IELTS 21 Academic · Test 2 · PDF 44 页Cambridge IELTS 21 Academic · Test 2 · PDF 47 页练原题：Do animals dream?｜章鱼行为与研究边界练原题：Mapungubwe｜贸易、器物与衰落练原题：Artificial Intelligence｜部署边界、医疗与司法案例",
+  "links": [
+    {
+      "text": "Rags to Riches 原文",
+      "href": "原始参考/b929185f-ielts-modified-academic-1-source-pages.pdf"
+    },
+    {
+      "text": "相关练习",
+      "href": "原始参考/77d2edb5-ielts-modified-academic-1.pdf"
+    },
+    {
+      "text": "Do animals dream?｜章鱼行为与研究边界",
+      "href": "#reading-case-rd-c21-dreams-2"
+    },
+    {
+      "text": "Mapungubwe｜贸易、器物与衰落",
+      "href": "#reading-case-rd-c21-mapungubwe-2"
+    },
+    {
+      "text": "Artificial Intelligence｜部署边界、医疗与司法案例",
+      "href": "#reading-case-rd-c21-ai-3"
+    },
+    {
+      "text": "Cambridge IELTS 21 Academic · Test 2 · PDF 40 页",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=40"
+    },
+    {
+      "text": "Cambridge IELTS 21 Academic · Test 2 · PDF 121 页",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=121"
+    },
+    {
+      "text": "Cambridge IELTS 21 Academic · Test 2 · PDF 44 页",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=44"
+    },
+    {
+      "text": "Cambridge IELTS 21 Academic · Test 2 · PDF 47 页",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=47"
+    },
+    {
+      "text": "练原题：Do animals dream?｜章鱼行为与研究边界",
+      "href": "#reading-case-rd-c21-dreams-2"
+    },
+    {
+      "text": "练原题：Mapungubwe｜贸易、器物与衰落",
+      "href": "#reading-case-rd-c21-mapungubwe-2"
+    },
+    {
+      "text": "练原题：Artificial Intelligence｜部署边界、医疗与司法案例",
+      "href": "#reading-case-rd-c21-ai-3"
+    }
+  ],
+  "details": [
+    {
+      "id": "",
+      "title": "完成后核对",
+      "open": false,
+      "visible": true
+    }
+  ],
+  "saveFields": [
+    "reading-review-answer"
+  ],
+  "images": [],
+  "audio": [],
+  "viewport": 1440,
+  "documentWidth": 1440
+}

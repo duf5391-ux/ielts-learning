@@ -1,0 +1,36 @@
+.case-bank{margin:28px 0;padding:26px;border:1px solid var(--line,#d9ded4);border-radius:12px;background:#f8f9f5;color:var(--ink,#22312e)}
+.case-bank h2,.case-bank h3,.case-bank h4{color:var(--green,#204c42)}
+.case-bank-intro,.case-meta,.case-source,.case-progress,.case-status{font-size:13px;line-height:1.8;color:var(--muted,#65726c)}
+.case-toolbar{display:grid;grid-template-columns:minmax(180px,1fr) auto auto;gap:10px;margin:18px 0}
+.case-toolbar input,.case-toolbar select,.case-bank textarea,.case-bank input[type=text]{box-sizing:border-box;max-width:100%;border:1px solid #bbc9c0;border-radius:6px;background:white;color:#22312e;padding:10px 12px;font:inherit}
+.case-toolbar label{display:flex;gap:7px;align-items:center;font-size:13px}
+.case-bank button{padding:10px 16px;border:1px solid #315e4f;border-radius:6px;background:#315e4f;color:#fff;cursor:pointer;font:inherit}
+.case-bank button:disabled{opacity:.65;cursor:default}
+.case-types{display:flex;gap:7px;flex-wrap:wrap;margin:14px 0}
+.case-types button{background:white;color:#315e4f;padding:6px 10px;font-size:12px}
+.case-types button[aria-pressed=true]{background:#315e4f;color:white}
+.exam-case{margin:14px 0;background:white;border:1px solid #d7dfd8;border-radius:8px;overflow:hidden;scroll-margin-top:65px}
+.exam-case>summary{padding:17px 20px;cursor:pointer;color:#22312e;line-height:1.7}
+.exam-case>summary strong{font-size:17px;margin-right:8px}
+.exam-case>summary .case-meta{display:block;padding-left:17px}
+.exam-case[open]>summary{border-bottom:1px solid #d7dfd8;background:#edf3ed}
+.case-body{padding:20px 24px}
+.case-passage{max-width:780px;margin:20px auto;font:17px/1.95 Georgia,'Times New Roman',serif;color:#23332c}
+.case-paragraph-label{font:600 12px/1.6 sans-serif;color:#6b776e;margin-right:9px}
+.case-passage p{margin:0 0 20px}
+.case-question{padding:14px 0;border-top:1px solid #e5e9e2}
+.case-question p{line-height:1.85}
+.case-question label{display:block;font-size:13px;color:#65726c;margin-top:8px}
+.case-question input{display:block;width:100%;margin-top:5px}
+.case-body textarea{display:block;width:100%;min-height:130px;line-height:1.85;margin:8px 0 14px;resize:vertical}
+.case-task{padding:15px 18px;background:#f4f6f0;border-left:3px solid #9cae9f;line-height:1.9;margin:14px 0}
+.case-figure{display:block;max-width:100%;height:auto;max-height:680px;object-fit:contain;margin:20px auto}
+.case-feedback{margin-top:24px;padding-top:20px;border-top:2px solid #b3c5b8;line-height:1.9}
+.case-feedback blockquote{margin:12px 0;padding:12px 18px;background:#f4f6f0;border-left:3px solid #a7bfae;font:16px/1.9 Georgia,'Times New Roman',serif}
+.case-answer-row{padding:12px 0;border-bottom:1px solid #e2e8df}
+.case-model p{font:17px/1.95 Georgia,'Times New Roman',serif}
+.case-study-links{display:flex;flex-wrap:wrap;gap:8px;margin:15px 0}.case-study-links a{font-size:13px;padding:6px 10px;background:#edf3ed;border:1px solid #b9cabd;border-radius:5px}
+.case-source a,.case-study-links a{overflow-wrap:anywhere}.case-bank [hidden]{display:none!important}
+.remediation-source,.retained-records{margin:15px 0;padding:12px 16px;border:1px solid #d9e1d7;border-radius:6px;background:#f5f7f1;line-height:1.8}
+.authentic-supplement{margin:20px 0;padding:20px;border-left:3px solid #88a592;background:#f4f7f0;color:#22312e}.authentic-supplement h4{color:#315e4f}
+@media(max-width:700px){.case-bank{padding:15px;margin:20px 0}.case-toolbar{grid-template-columns:1fr}.case-body{padding:15px}.exam-case>summary{padding:13px}.case-passage{font-size:16px;line-height:1.85}.case-bank button{max-width:100%}.case-types{gap:6px}.case-types button{padding:5px 8px}.case-task{padding:12px}.authentic-supplement{padding:13px}}

@@ -1,0 +1,710 @@
+{
+  "requested": "ww-cafe",
+  "from": [
+    "页面链接"
+  ],
+  "actual": "#ww-cafe",
+  "checkedAt": "2026-09-21T12:55:20.077Z",
+  "title": "写作工作台 · IELTS",
+  "label": "写作工作台",
+  "panel": "writing-workbench",
+  "contentRoot": "ww-cafe",
+  "headings": [
+    {
+      "tag": "H2",
+      "text": "学院咖啡厅改造",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "01 / 审题与提纲",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "02 / 留下自己的首稿",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "03 / 四维检查与修订",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "任务完成 / 回应 · TA / TR",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "组织与衔接 · CC",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "词汇使用 · LR",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "语法范围与准确性 · GRA",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "04 / 只练一个动作，再换题检查",
+      "visible": true
+    }
+  ],
+  "controls": [
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "01 审题",
+      "label": "",
+      "href": "#ww-cafe-plan",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "02 首稿",
+      "label": "",
+      "href": "#ww-cafe-draft",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "03 检查与修订",
+      "label": "",
+      "href": "#ww-cafe-review",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "04 再练",
+      "label": "",
+      "href": "#ww-cafe-next",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "Cambridge IELTS 21 Academic · Test 2 · Task 1",
+      "label": "",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=52",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "打开原有局部练习与参考",
+      "label": "",
+      "href": "#pr-writing1-cafe",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "回到本科学习",
+      "label": "",
+      "href": "#writing1",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "两张图的时间关系与场所用途是什么？",
+      "href": null,
+      "save": "ww-cafe-plan-1",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "Overview：最显著的整体布局变化有哪些？",
+      "href": null,
+      "save": "ww-cafe-plan-2",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "细节组 A：选一个区域，记录新增、移除或搬迁的设施。",
+      "href": null,
+      "save": "ww-cafe-plan-3",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "细节组 B：另一地区怎样变化？哪些设施保持原位？",
+      "href": null,
+      "save": "ww-cafe-plan-4",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "需要提示：看一种审题与展开方法",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "checkbox",
+      "text": "",
+      "label": "以前写过这题 / 看过答案",
+      "href": null,
+      "save": "ww-cafe-seen-before",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "checkbox",
+      "text": "",
+      "label": "本次参考过提示、词典或范例",
+      "href": null,
+      "save": "ww-cafe-used-help",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "开始 20 分钟",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "重置计时",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "hidden",
+      "text": "",
+      "label": "",
+      "href": null,
+      "save": "ww-cafe-timer",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "hidden",
+      "text": "",
+      "label": "",
+      "href": null,
+      "save": "ww-cafe-first-at",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "首稿 · 保留后锁定，修改在下方进行",
+      "href": null,
+      "save": "ww-cafe-first",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "保留首稿，开始修订",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SELECT",
+      "id": "",
+      "type": "select-one",
+      "text": "尚未检查\n发现问题，待修订\n已核对并处理\n仍不确定",
+      "label": "检查结果\n尚未检查\n发现问题，待修订\n已核对并处理\n仍不确定",
+      "href": null,
+      "save": "ww-cafe-check-task",
+      "visible": true,
+      "disabled": false,
+      "required": false,
+      "options": [
+        {
+          "value": "unreviewed",
+          "label": "尚未检查"
+        },
+        {
+          "value": "needs-work",
+          "label": "发现问题，待修订"
+        },
+        {
+          "value": "checked",
+          "label": "已核对并处理"
+        },
+        {
+          "value": "uncertain",
+          "label": "仍不确定"
+        }
+      ]
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "证据：摘一句原文 → 问题 / 判断依据 → 怎样改",
+      "href": null,
+      "save": "ww-cafe-evidence-task",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SELECT",
+      "id": "",
+      "type": "select-one",
+      "text": "尚未检查\n发现问题，待修订\n已核对并处理\n仍不确定",
+      "label": "检查结果\n尚未检查\n发现问题，待修订\n已核对并处理\n仍不确定",
+      "href": null,
+      "save": "ww-cafe-check-coherence",
+      "visible": true,
+      "disabled": false,
+      "required": false,
+      "options": [
+        {
+          "value": "unreviewed",
+          "label": "尚未检查"
+        },
+        {
+          "value": "needs-work",
+          "label": "发现问题，待修订"
+        },
+        {
+          "value": "checked",
+          "label": "已核对并处理"
+        },
+        {
+          "value": "uncertain",
+          "label": "仍不确定"
+        }
+      ]
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "证据：摘一句原文 → 问题 / 判断依据 → 怎样改",
+      "href": null,
+      "save": "ww-cafe-evidence-coherence",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SELECT",
+      "id": "",
+      "type": "select-one",
+      "text": "尚未检查\n发现问题，待修订\n已核对并处理\n仍不确定",
+      "label": "检查结果\n尚未检查\n发现问题，待修订\n已核对并处理\n仍不确定",
+      "href": null,
+      "save": "ww-cafe-check-lexical",
+      "visible": true,
+      "disabled": false,
+      "required": false,
+      "options": [
+        {
+          "value": "unreviewed",
+          "label": "尚未检查"
+        },
+        {
+          "value": "needs-work",
+          "label": "发现问题，待修订"
+        },
+        {
+          "value": "checked",
+          "label": "已核对并处理"
+        },
+        {
+          "value": "uncertain",
+          "label": "仍不确定"
+        }
+      ]
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "证据：摘一句原文 → 问题 / 判断依据 → 怎样改",
+      "href": null,
+      "save": "ww-cafe-evidence-lexical",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SELECT",
+      "id": "",
+      "type": "select-one",
+      "text": "尚未检查\n发现问题，待修订\n已核对并处理\n仍不确定",
+      "label": "检查结果\n尚未检查\n发现问题，待修订\n已核对并处理\n仍不确定",
+      "href": null,
+      "save": "ww-cafe-check-grammar",
+      "visible": true,
+      "disabled": false,
+      "required": false,
+      "options": [
+        {
+          "value": "unreviewed",
+          "label": "尚未检查"
+        },
+        {
+          "value": "needs-work",
+          "label": "发现问题，待修订"
+        },
+        {
+          "value": "checked",
+          "label": "已核对并处理"
+        },
+        {
+          "value": "uncertain",
+          "label": "仍不确定"
+        }
+      ]
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "证据：摘一句原文 → 问题 / 判断依据 → 怎样改",
+      "href": null,
+      "save": "ww-cafe-evidence-grammar",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "修订稿 · 与首稿分开保存",
+      "href": null,
+      "save": "ww-cafe-revision",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "另存本次修订版本",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "导出本题作答与反馈请求",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "这次最重要的修改：原来是什么、为什么改、现在怎样更清楚？",
+      "href": null,
+      "save": "ww-cafe-reason",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "hidden",
+      "text": "",
+      "label": "",
+      "href": null,
+      "save": "ww-cafe-versions",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "查看已保留的修订版本",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "我的局部练习",
+      "href": null,
+      "save": "ww-cafe-micro",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "展开参考与核对方法",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SELECT",
+      "id": "",
+      "type": "select-one",
+      "text": "回应题目 / 概览\n组织与展开\n词汇与搭配\n句子与语法\n换题独立检查",
+      "label": "下次优先处理\n回应题目 / 概览\n组织与展开\n词汇与搭配\n句子与语法\n换题独立检查",
+      "href": null,
+      "save": "ww-cafe-next-focus",
+      "visible": true,
+      "disabled": false,
+      "required": false,
+      "options": [
+        {
+          "value": "task",
+          "label": "回应题目 / 概览"
+        },
+        {
+          "value": "coherence",
+          "label": "组织与展开"
+        },
+        {
+          "value": "lexical",
+          "label": "词汇与搭配"
+        },
+        {
+          "value": "grammar",
+          "label": "句子与语法"
+        },
+        {
+          "value": "transfer",
+          "label": "换题独立检查"
+        }
+      ]
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "date",
+      "text": "",
+      "label": "计划复查日期",
+      "href": null,
+      "save": "ww-cafe-next-date",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "下一次具体做什么？到什么状态算完成？",
+      "href": null,
+      "save": "ww-cafe-next-note",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "打开下一题 →",
+      "label": "",
+      "href": "#ww-jobs",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    }
+  ],
+  "visibleText": "Task 1 · 平面图\n学院咖啡厅改造\n\n用空间分组呈现变化，避免逐项罗列\n\n01 审题\n02 首稿\n03 检查与修订\n04 再练\n01 / 审题与提纲\nThe plans show a college café before its redesign and at present.\n\n题意沿用现有练习文字；正式题面、图示与完整要求以原件为准。Cambridge IELTS 21 Academic · Test 2 · Task 1\n\n打开原有局部练习与参考\n回到本科学习\n\n用自己的话概括与比较图示，至少 150 词，建议约 20 分钟。 可直接开始首稿；提纲为可选准备。\n\n两张图的时间关系与场所用途是什么？\nOverview：最显著的整体布局变化有哪些？\n细节组 A：选一个区域，记录新增、移除或搬迁的设施。\n细节组 B：另一地区怎样变化？哪些设施保持原位？\n需要提示：看一种审题与展开方法\n02 / 留下自己的首稿\n 以前写过这题 / 看过答案\n 本次参考过提示、词典或范例\n20:00\n开始 20 分钟\n重置计时\n到时保留输入，刷新后继续计时。\n首稿 · 保留后锁定，修改在下方进行\n0 词（估算） · 距建议最低字数还差 150 词\n保留首稿，开始修订\n03 / 四维检查与修订\n\n先找一个最影响表达的问题，摘出自己的句子，再修改。检查结果是你的判断，不会换算 band。\n\n任务完成 / 回应 · TA / TR\n\n概览是否概括主要特征？细节是否准确且覆盖关键比较？有没有写图中没有的原因？\n\n检查结果\n尚未检查\n发现问题，待修订\n已核对并处理\n仍不确定\n证据：摘一句原文 → 问题 / 判断依据 → 怎样改\n组织与衔接 · CC\n\n每段是否承担清楚的功能？句子之间关系是否真实？代词指向是否明确？不要只统计连接词。\n\n检查结果\n尚未检查\n发现问题，待修订\n已核对并处理\n仍不确定\n证据：摘一句原文 → 问题 / 判断依据 → 怎样改\n词汇使用 · LR\n\n关键词含义、搭配与拼写是否准确？替换词是否保留原意？优先修正用错的词。\n\n检查结果\n尚未检查\n发现问题，待修订\n已核对并处理\n仍不确定\n证据：摘一句原文 → 问题 / 判断依据 → 怎样改\n语法范围与准确性 · GRA\n\n时态、主谓、冠词与标点是否正确？复杂句是否表达需要的关系？检查一条复杂句与一条简单句。\n\n检查结果\n尚未检查\n发现问题，待修订\n已核对并处理\n仍不确定\n证据：摘一句原文 → 问题 / 判断依据 → 怎样改\n修订稿 · 与首稿分开保存\n0 词（估算） · 距建议最低字数还差 150 词\n另存本次修订版本\n导出本题作答与反馈请求\n这次最重要的修改：原来是什么、为什么改、现在怎样更清楚？\n查看已保留的修订版本\n04 / 只练一个动作，再换题检查\n\n从原图找一处确定的改动，分别记录旧位置、新位置，再写一句比较；另写一句总览。\n\n我的局部练习\n展开参考与核对方法\n下次优先处理\n回应题目 / 概览\n组织与展开\n词汇与搭配\n句子与语法\n换题独立检查\n计划复查日期\n重看原图，在不列细节数字的情况下写两句概览，再逐项核对是否概括主要特征。\n下一次具体做什么？到什么状态算完成？\n\n换到就业折线图，只写一条静态比较和一条动态变化，检查是否能正确切换表达。 打开下一题 →\n\n同题修订属于熟题练习；新题是否真的未见，请按自己的接触情况记录。",
+  "allContent": "\nTask 1 · 平面图学院咖啡厅改造用空间分组呈现变化，避免逐项罗列\n01 审题02 首稿03 检查与修订04 再练\n01 / 审题与提纲The plans show a college café before its redesign and at present.\n题意沿用现有练习文字；正式题面、图示与完整要求以原件为准。Cambridge IELTS 21 Academic · Test 2 · Task 1\n打开原有局部练习与参考回到本科学习\n用自己的话概括与比较图示，至少 150 词，建议约 20 分钟。 可直接开始首稿；提纲为可选准备。\n两张图的时间关系与场所用途是什么？Overview：最显著的整体布局变化有哪些？细节组 A：选一个区域，记录新增、移除或搬迁的设施。细节组 B：另一地区怎样变化？哪些设施保持原位？\n需要提示：看一种审题与展开方法先在原图核对每个设施的旧位置和新位置，再选择按区域或按功能分段。只有旧设施消失、同处出现新设施，才使用 replaced by；设施仍在但改到别处，用 relocated 或 moved。图未给出方位标时，用 to the left of、near the entrance 等实际可见参照，不自行指定东西南北。The seating area has been relocated closer to the entrance.这只是“设施搬迁”的表达示范，并非对本题图面的事实断言。写进作文前，必须核对图中是否真的同时显示搬迁与靠近入口。以上为本地教学示范，不是官方范文或评分。\n\n02 / 留下自己的首稿 以前写过这题 / 看过答案 本次参考过提示、词典或范例\n20:00开始 20 分钟重置计时到时保留输入，刷新后继续计时。\n首稿 · 保留后锁定，修改在下方进行\n0 词（估算） · 距建议最低字数还差 150 词保留首稿，开始修订\n\n03 / 四维检查与修订先找一个最影响表达的问题，摘出自己的句子，再修改。检查结果是你的判断，不会换算 band。任务完成 / 回应 · TA / TR概览是否概括主要特征？细节是否准确且覆盖关键比较？有没有写图中没有的原因？检查结果尚未检查发现问题，待修订已核对并处理仍不确定证据：摘一句原文 → 问题 / 判断依据 → 怎样改组织与衔接 · CC每段是否承担清楚的功能？句子之间关系是否真实？代词指向是否明确？不要只统计连接词。检查结果尚未检查发现问题，待修订已核对并处理仍不确定证据：摘一句原文 → 问题 / 判断依据 → 怎样改词汇使用 · LR关键词含义、搭配与拼写是否准确？替换词是否保留原意？优先修正用错的词。检查结果尚未检查发现问题，待修订已核对并处理仍不确定证据：摘一句原文 → 问题 / 判断依据 → 怎样改语法范围与准确性 · GRA时态、主谓、冠词与标点是否正确？复杂句是否表达需要的关系？检查一条复杂句与一条简单句。检查结果尚未检查发现问题，待修订已核对并处理仍不确定证据：摘一句原文 → 问题 / 判断依据 → 怎样改\n修订稿 · 与首稿分开保存\n0 词（估算） · 距建议最低字数还差 150 词另存本次修订版本导出本题作答与反馈请求\n这次最重要的修改：原来是什么、为什么改、现在怎样更清楚？\n查看已保留的修订版本尚未另存修订版本。当前修订稿仍会自动保存。\n04 / 只练一个动作，再换题检查从原图找一处确定的改动，分别记录旧位置、新位置，再写一句比较；另写一句总览。我的局部练习\n展开参考与核对方法核对标准：两个位置都有原图依据；变化动词与图相符；总览概括整体变化，不只重复某一个设施名称。本题没有唯一写法，返回原图逐项核对。参考为编写内容；有其他准确且满足要求的表达。\n下次优先处理回应题目 / 概览组织与展开词汇与搭配句子与语法换题独立检查计划复查日期\n重看原图，在不列细节数字的情况下写两句概览，再逐项核对是否概括主要特征。下一次具体做什么？到什么状态算完成？\n换到就业折线图，只写一条静态比较和一条动态变化，检查是否能正确切换表达。 打开下一题 →\n同题修订属于熟题练习；新题是否真的未见，请按自己的接触情况记录。",
+  "links": [
+    {
+      "text": "01 审题",
+      "href": "#ww-cafe-plan"
+    },
+    {
+      "text": "02 首稿",
+      "href": "#ww-cafe-draft"
+    },
+    {
+      "text": "03 检查与修订",
+      "href": "#ww-cafe-review"
+    },
+    {
+      "text": "04 再练",
+      "href": "#ww-cafe-next"
+    },
+    {
+      "text": "Cambridge IELTS 21 Academic · Test 2 · Task 1",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=52"
+    },
+    {
+      "text": "打开原有局部练习与参考",
+      "href": "#pr-writing1-cafe"
+    },
+    {
+      "text": "回到本科学习",
+      "href": "#writing1"
+    },
+    {
+      "text": "打开下一题 →",
+      "href": "#ww-jobs"
+    }
+  ],
+  "details": [
+    {
+      "id": "",
+      "title": "需要提示：看一种审题与展开方法",
+      "open": false,
+      "visible": true
+    },
+    {
+      "id": "",
+      "title": "查看已保留的修订版本",
+      "open": false,
+      "visible": true
+    },
+    {
+      "id": "",
+      "title": "展开参考与核对方法",
+      "open": false,
+      "visible": true
+    }
+  ],
+  "saveFields": [
+    "ww-cafe-plan-1",
+    "ww-cafe-plan-2",
+    "ww-cafe-plan-3",
+    "ww-cafe-plan-4",
+    "ww-cafe-seen-before",
+    "ww-cafe-used-help",
+    "ww-cafe-timer",
+    "ww-cafe-first-at",
+    "ww-cafe-first",
+    "ww-cafe-check-task",
+    "ww-cafe-evidence-task",
+    "ww-cafe-check-coherence",
+    "ww-cafe-evidence-coherence",
+    "ww-cafe-check-lexical",
+    "ww-cafe-evidence-lexical",
+    "ww-cafe-check-grammar",
+    "ww-cafe-evidence-grammar",
+    "ww-cafe-revision",
+    "ww-cafe-reason",
+    "ww-cafe-versions",
+    "ww-cafe-micro",
+    "ww-cafe-next-focus",
+    "ww-cafe-next-date",
+    "ww-cafe-next-note"
+  ],
+  "images": [
+    {
+      "src": "case-assets/writing-c21-52.png",
+      "alt": "学院咖啡厅改造前后的原始平面图",
+      "visible": true,
+      "complete": false,
+      "width": 1400
+    }
+  ],
+  "audio": [],
+  "viewport": 1440,
+  "documentWidth": 1440
+}

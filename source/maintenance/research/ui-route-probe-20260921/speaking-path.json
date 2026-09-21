@@ -1,0 +1,1076 @@
+{
+  "results": [
+    {
+      "requested": "speaking-first",
+      "kind": "before-first-save",
+      "actual": "#speaking-first",
+      "title": "学习 / 口语 / 口语 · 从原题开始学 · IELTS",
+      "topLabel": "学习 / 口语 / 口语 · 从原题开始学",
+      "activeNav": [
+        {
+          "go": "study",
+          "label": "学习"
+        }
+      ],
+      "panels": [
+        {
+          "id": "speaking",
+          "owner": "study",
+          "title": "口语",
+          "x": 18,
+          "y": -18,
+          "w": 354,
+          "h": 2014
+        }
+      ],
+      "headings": [
+        {
+          "tag": "H2",
+          "text": "先做自己的答案",
+          "x": 18,
+          "y": 163,
+          "w": 354,
+          "h": 33
+        },
+        {
+          "tag": "H3",
+          "text": "重要物品 · 口语 Part 2",
+          "x": 34,
+          "y": 344,
+          "w": 322,
+          "h": 29
+        },
+        {
+          "tag": "H3",
+          "text": "我的首次作答",
+          "x": 39,
+          "y": 1315,
+          "w": 312,
+          "h": 24
+        },
+        {
+          "tag": "H2",
+          "text": "A. 熟题与同题追问分开记",
+          "x": 38,
+          "y": 2218,
+          "w": 314,
+          "h": 30
+        },
+        {
+          "tag": "H2",
+          "text": "B. 一个新追问",
+          "x": 38,
+          "y": 2573,
+          "w": 314,
+          "h": 30
+        },
+        {
+          "tag": "H2",
+          "text": "C. 换到另一个语境的短表达",
+          "x": 38,
+          "y": 2897,
+          "w": 314,
+          "h": 30
+        },
+        {
+          "tag": "H2",
+          "text": "后续完整口语检查",
+          "x": 38,
+          "y": 3270,
+          "w": 314,
+          "h": 30
+        }
+      ],
+      "controls": [
+        {
+          "tag": "A",
+          "id": "",
+          "text": "← 学习 / 口语",
+          "href": "#study-speaking-list",
+          "disabled": false,
+          "x": 18,
+          "y": -18,
+          "w": 88,
+          "h": 24
+        },
+        {
+          "tag": "SUMMARY",
+          "id": "",
+          "text": "查看原图 · 1 页",
+          "href": null,
+          "disabled": false,
+          "x": 34,
+          "y": 1199,
+          "w": 322,
+          "h": 54
+        },
+        {
+          "tag": "SELECT",
+          "id": "",
+          "text": "首次独立\n学习后应用／已看背景\n见过材料／熟题\n使用提示",
+          "href": null,
+          "disabled": false,
+          "x": 39,
+          "y": 1381,
+          "w": 150,
+          "h": 37
+        },
+        {
+          "tag": "INPUT",
+          "id": "",
+          "text": "",
+          "href": null,
+          "disabled": false,
+          "x": 201,
+          "y": 1381,
+          "w": 150,
+          "h": 39
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "开始录音",
+          "href": null,
+          "disabled": false,
+          "x": 39,
+          "y": 1493,
+          "w": 78,
+          "h": 41
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "结束并保留",
+          "href": null,
+          "disabled": true,
+          "x": 121,
+          "y": 1493,
+          "w": 89,
+          "h": 41
+        },
+        {
+          "tag": "INPUT",
+          "id": "",
+          "text": "",
+          "href": null,
+          "disabled": false,
+          "x": 39,
+          "y": 1578,
+          "w": 312,
+          "h": 20
+        },
+        {
+          "tag": "TEXTAREA",
+          "id": "",
+          "text": "",
+          "href": null,
+          "disabled": false,
+          "x": 39,
+          "y": 1679,
+          "w": 312,
+          "h": 78
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "保存首次作答，进入学习",
+          "href": null,
+          "disabled": false,
+          "x": 39,
+          "y": 1781,
+          "w": 312,
+          "h": 45
+        },
+        {
+          "tag": "SUMMARY",
+          "id": "",
+          "text": "可选：换一道题再试",
+          "href": null,
+          "disabled": false,
+          "x": 38,
+          "y": 1920,
+          "w": 314,
+          "h": 56
+        },
+        {
+          "tag": "SUMMARY",
+          "id": "",
+          "text": "",
+          "href": null,
+          "disabled": false,
+          "x": 52,
+          "y": 2689,
+          "w": 286,
+          "h": 56
+        },
+        {
+          "tag": "SUMMARY",
+          "id": "",
+          "text": "",
+          "href": null,
+          "disabled": false,
+          "x": 52,
+          "y": 3183,
+          "w": 286,
+          "h": 56
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "",
+          "href": "https://ielts.org/take-a-test/test-types/ielts-academic-test/ielts-academic-format-speaking",
+          "disabled": false,
+          "x": 226,
+          "y": 3344,
+          "w": 78,
+          "h": 17
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "",
+          "href": null,
+          "disabled": false,
+          "x": 38,
+          "y": 4024,
+          "w": 78,
+          "h": 41
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "",
+          "href": null,
+          "disabled": true,
+          "x": 120,
+          "y": 4024,
+          "w": 89,
+          "h": 41
+        },
+        {
+          "tag": "INPUT",
+          "id": "",
+          "text": "",
+          "href": null,
+          "disabled": false,
+          "x": 38,
+          "y": 4109,
+          "w": 314,
+          "h": 20
+        },
+        {
+          "tag": "TEXTAREA",
+          "id": "",
+          "text": "",
+          "href": null,
+          "disabled": false,
+          "x": 38,
+          "y": 4210,
+          "w": 314,
+          "h": 194
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "",
+          "href": "原始参考/support-2e9c2a8e-cambridge-zip-115047_Speaking_sample_task_-_Part_2.pdf#page=1",
+          "disabled": false,
+          "x": 124,
+          "y": 6307,
+          "w": 165,
+          "h": 19
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "",
+          "href": "原始参考/6c68dcc0-cambridge-zip-115051_Speaking_sample_task_-_Part_2_transcript.pdf#page=1",
+          "disabled": false,
+          "x": 54,
+          "y": 6333,
+          "w": 179,
+          "h": 19
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "",
+          "href": "原始参考/support-2e9c2a8e-cambridge-zip-115047_Speaking_sample_task_-_Part_2.pdf#page=1",
+          "disabled": false,
+          "x": 71,
+          "y": 6387,
+          "w": 165,
+          "h": 19
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "",
+          "href": "原始参考/6c68dcc0-cambridge-zip-115051_Speaking_sample_task_-_Part_2_transcript.pdf#page=1",
+          "disabled": false,
+          "x": 71,
+          "y": 6453,
+          "w": 179,
+          "h": 19
+        }
+      ],
+      "hiddenVisible": [],
+      "bodyWidth": 390,
+      "viewport": 390,
+      "scrollY": 198,
+      "visibleText": "← 学习 / 口语\n口语 · 从原题开始学\n0% · 0 / 0 完成\n先做自己的答案\n\n先只看Part 2 重要物品题卡，确认录音能收音后，给自己一分钟准备并记少量关键词，随后实际说 1—2 分钟，到两分钟停止。先不看或听示例，不先写完整稿；提前结束也保留原音，注明是否练过题目及实际时长。\n\n重要物品 · 口语 Part 2\nPart 2 – Individual long turn\nCandidate Task Card\n\nDescribe something you own which is very important to you.\n\nYou should say:\n\nwhere you got it from\nhow long you have had it\nwhat you use it for\n\nand explain why it is important to you.\n\nYou will have to talk about the topic for 1 to 2 minutes.\n\nYou have one minute to think about what you’re going to say.\n\nYou can make some notes to help you if you wish.\n\nRounding off questions\nIs it valuable in terms of money?\nWould it be easy to replace?\n查看原图 · 1 页\n我的首次作答\n本次条件\n首次独立\n学习后应用／已看背景\n见过材料／熟题\n使用提示\n实际用时（分钟）\n\n准备 1 分钟，随后说 1–2 分钟。点击录音会请求麦克风权限；也可以用自己的录音器。\n\n开始录音结束并保留\n或载入已有录音\n\n录音请单独下载保存；文字导出不包含音频。\n\n录音文件名、实际时长或原稿保存位置\n保存首次作答，进入学习\n\n首次稿尚未保存。\n\n可选：换一道题再试",
+      "overflow": []
+    },
+    {
+      "requested": "speaking-first",
+      "kind": "after-first-save",
+      "actual": "#speaking-first",
+      "title": "学习 / 口语 / 口语 · 从原题开始学 · IELTS",
+      "topLabel": "学习 / 口语 / 口语 · 从原题开始学",
+      "activeNav": [
+        {
+          "go": "study",
+          "label": "学习"
+        }
+      ],
+      "panels": [
+        {
+          "id": "speaking",
+          "owner": "study",
+          "title": "口语",
+          "x": 18,
+          "y": -1828,
+          "w": 354,
+          "h": 3828
+        }
+      ],
+      "headings": [
+        {
+          "tag": "H2",
+          "text": "先做自己的答案",
+          "x": 18,
+          "y": -1647,
+          "w": 354,
+          "h": 33
+        },
+        {
+          "tag": "H3",
+          "text": "重要物品 · 口语 Part 2",
+          "x": 34,
+          "y": -1466,
+          "w": 322,
+          "h": 29
+        },
+        {
+          "tag": "H3",
+          "text": "我的首次作答",
+          "x": 39,
+          "y": -495,
+          "w": 312,
+          "h": 24
+        },
+        {
+          "tag": "H2",
+          "text": "从这份答案开始学",
+          "x": 39,
+          "y": 129,
+          "w": 312,
+          "h": 33
+        },
+        {
+          "tag": "H2",
+          "text": "先回听自己的声音",
+          "x": 39,
+          "y": 333,
+          "w": 312,
+          "h": 33
+        },
+        {
+          "tag": "H3",
+          "text": "我的练习与修订",
+          "x": 58,
+          "y": 568,
+          "w": 274,
+          "h": 30
+        },
+        {
+          "tag": "H2",
+          "text": "一条具体反馈可以怎样给",
+          "x": 38,
+          "y": 2062,
+          "w": 314,
+          "h": 30
+        },
+        {
+          "tag": "H3",
+          "text": "如果首答暂时组织不出：可选的短讲支架",
+          "x": 38,
+          "y": 2577,
+          "w": 314,
+          "h": 26
+        },
+        {
+          "tag": "H2",
+          "text": "两个可选结构",
+          "x": 38,
+          "y": 2860,
+          "w": 314,
+          "h": 30
+        },
+        {
+          "tag": "H2",
+          "text": "自己说过后，再听真实样例",
+          "x": 38,
+          "y": 3429,
+          "w": 314,
+          "h": 30
+        },
+        {
+          "tag": "H2",
+          "text": "与正式口语评价的关系",
+          "x": 38,
+          "y": 3876,
+          "w": 314,
+          "h": 30
+        },
+        {
+          "tag": "H2",
+          "text": "A. 熟题与同题追问分开记",
+          "x": 38,
+          "y": 2222,
+          "w": 314,
+          "h": 30
+        },
+        {
+          "tag": "H2",
+          "text": "B. 一个新追问",
+          "x": 38,
+          "y": 2577,
+          "w": 314,
+          "h": 30
+        },
+        {
+          "tag": "H2",
+          "text": "C. 换到另一个语境的短表达",
+          "x": 38,
+          "y": 2902,
+          "w": 314,
+          "h": 30
+        },
+        {
+          "tag": "H2",
+          "text": "后续完整口语检查",
+          "x": 38,
+          "y": 3274,
+          "w": 314,
+          "h": 30
+        }
+      ],
+      "controls": [
+        {
+          "tag": "A",
+          "id": "",
+          "text": "← 学习 / 口语",
+          "href": "#study-speaking-list",
+          "disabled": false,
+          "x": 18,
+          "y": -1828,
+          "w": 88,
+          "h": 24
+        },
+        {
+          "tag": "SUMMARY",
+          "id": "",
+          "text": "查看原图 · 1 页",
+          "href": null,
+          "disabled": false,
+          "x": 34,
+          "y": -611,
+          "w": 322,
+          "h": 54
+        },
+        {
+          "tag": "SELECT",
+          "id": "",
+          "text": "首次独立\n学习后应用／已看背景\n见过材料／熟题\n使用提示",
+          "href": null,
+          "disabled": true,
+          "x": 39,
+          "y": -429,
+          "w": 150,
+          "h": 37
+        },
+        {
+          "tag": "INPUT",
+          "id": "",
+          "text": "",
+          "href": null,
+          "disabled": false,
+          "x": 201,
+          "y": -429,
+          "w": 150,
+          "h": 39
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "开始录音",
+          "href": null,
+          "disabled": false,
+          "x": 39,
+          "y": -317,
+          "w": 78,
+          "h": 41
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "结束并保留",
+          "href": null,
+          "disabled": true,
+          "x": 121,
+          "y": -317,
+          "w": 89,
+          "h": 41
+        },
+        {
+          "tag": "INPUT",
+          "id": "",
+          "text": "",
+          "href": null,
+          "disabled": false,
+          "x": 39,
+          "y": -232,
+          "w": 312,
+          "h": 20
+        },
+        {
+          "tag": "TEXTAREA",
+          "id": "",
+          "text": "",
+          "href": null,
+          "disabled": false,
+          "x": 39,
+          "y": -131,
+          "w": 312,
+          "h": 78
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "首次作答已保留",
+          "href": null,
+          "disabled": true,
+          "x": 39,
+          "y": -29,
+          "w": 312,
+          "h": 45
+        },
+        {
+          "tag": "TEXTAREA",
+          "id": "",
+          "text": "",
+          "href": null,
+          "disabled": false,
+          "x": 58,
+          "y": 711,
+          "w": 274,
+          "h": 101
+        },
+        {
+          "tag": "TEXTAREA",
+          "id": "",
+          "text": "",
+          "href": null,
+          "disabled": false,
+          "x": 58,
+          "y": 886,
+          "w": 274,
+          "h": 101
+        },
+        {
+          "tag": "TEXTAREA",
+          "id": "",
+          "text": "",
+          "href": null,
+          "disabled": false,
+          "x": 58,
+          "y": 1082,
+          "w": 274,
+          "h": 101
+        },
+        {
+          "tag": "TEXTAREA",
+          "id": "",
+          "text": "",
+          "href": null,
+          "disabled": false,
+          "x": 58,
+          "y": 1277,
+          "w": 274,
+          "h": 101
+        },
+        {
+          "tag": "TEXTAREA",
+          "id": "",
+          "text": "",
+          "href": null,
+          "disabled": false,
+          "x": 58,
+          "y": 1452,
+          "w": 274,
+          "h": 217
+        },
+        {
+          "tag": "SUMMARY",
+          "id": "",
+          "text": "完成后核对 · 答案、讲解与可接受表达",
+          "href": null,
+          "disabled": false,
+          "x": 38,
+          "y": 1806,
+          "w": 314,
+          "h": 56
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "",
+          "href": "原始参考/7b07467c-cambridge-zip-115049_IELTS_Speaking_Sample_Part_2_Recording.mp3",
+          "disabled": false,
+          "x": 38,
+          "y": 3542,
+          "w": 88,
+          "h": 17
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "",
+          "href": "原始参考/6c68dcc0-cambridge-zip-115051_Speaking_sample_task_-_Part_2_transcript.pdf",
+          "disabled": false,
+          "x": 137,
+          "y": 3542,
+          "w": 39,
+          "h": 17
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "",
+          "href": "原始参考/d2810144-ielts-speaking-key-assessment-criteria.pdf",
+          "disabled": false,
+          "x": 90,
+          "y": 3925,
+          "w": 78,
+          "h": 17
+        },
+        {
+          "tag": "TEXTAREA",
+          "id": "",
+          "text": "",
+          "href": null,
+          "disabled": false,
+          "x": 38,
+          "y": 4272,
+          "w": 314,
+          "h": 101
+        },
+        {
+          "tag": "SUMMARY",
+          "id": "",
+          "text": "可选：换一道题再试",
+          "href": null,
+          "disabled": false,
+          "x": 38,
+          "y": 1924,
+          "w": 314,
+          "h": 56
+        },
+        {
+          "tag": "SUMMARY",
+          "id": "",
+          "text": "",
+          "href": null,
+          "disabled": false,
+          "x": 52,
+          "y": 2693,
+          "w": 286,
+          "h": 56
+        },
+        {
+          "tag": "SUMMARY",
+          "id": "",
+          "text": "",
+          "href": null,
+          "disabled": false,
+          "x": 52,
+          "y": 3187,
+          "w": 286,
+          "h": 56
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "",
+          "href": "https://ielts.org/take-a-test/test-types/ielts-academic-test/ielts-academic-format-speaking",
+          "disabled": false,
+          "x": 226,
+          "y": 3348,
+          "w": 78,
+          "h": 17
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "",
+          "href": null,
+          "disabled": false,
+          "x": 38,
+          "y": 4028,
+          "w": 78,
+          "h": 41
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "",
+          "href": null,
+          "disabled": true,
+          "x": 120,
+          "y": 4028,
+          "w": 89,
+          "h": 41
+        },
+        {
+          "tag": "INPUT",
+          "id": "",
+          "text": "",
+          "href": null,
+          "disabled": false,
+          "x": 38,
+          "y": 4113,
+          "w": 314,
+          "h": 20
+        },
+        {
+          "tag": "TEXTAREA",
+          "id": "",
+          "text": "",
+          "href": null,
+          "disabled": false,
+          "x": 38,
+          "y": 4214,
+          "w": 314,
+          "h": 194
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "",
+          "href": "原始参考/support-2e9c2a8e-cambridge-zip-115047_Speaking_sample_task_-_Part_2.pdf#page=1",
+          "disabled": false,
+          "x": 124,
+          "y": 6311,
+          "w": 165,
+          "h": 19
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "",
+          "href": "原始参考/6c68dcc0-cambridge-zip-115051_Speaking_sample_task_-_Part_2_transcript.pdf#page=1",
+          "disabled": false,
+          "x": 54,
+          "y": 6337,
+          "w": 179,
+          "h": 19
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "",
+          "href": "原始参考/support-2e9c2a8e-cambridge-zip-115047_Speaking_sample_task_-_Part_2.pdf#page=1",
+          "disabled": false,
+          "x": 71,
+          "y": 6391,
+          "w": 165,
+          "h": 19
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "",
+          "href": "原始参考/6c68dcc0-cambridge-zip-115051_Speaking_sample_task_-_Part_2_transcript.pdf#page=1",
+          "disabled": false,
+          "x": 71,
+          "y": 6457,
+          "w": 179,
+          "h": 19
+        }
+      ],
+      "hiddenVisible": [],
+      "bodyWidth": 390,
+      "viewport": 390,
+      "scrollY": 2008,
+      "visibleText": "← 学习 / 口语\n口语 · 从原题开始学\n0% · 0 / 0 完成\n先做自己的答案\n\n先只看Part 2 重要物品题卡，确认录音能收音后，给自己一分钟准备并记少量关键词，随后实际说 1—2 分钟，到两分钟停止。先不看或听示例，不先写完整稿；提前结束也保留原音，注明是否练过题目及实际时长。\n\n重要物品 · 口语 Part 2\nPart 2 – Individual long turn\nCandidate Task Card\n\nDescribe something you own which is very important to you.\n\nYou should say:\n\nwhere you got it from\nhow long you have had it\nwhat you use it for\n\nand explain why it is important to you.\n\nYou will have to talk about the topic for 1 to 2 minutes.\n\nYou have one minute to think about what you’re going to say.\n\nYou can make some notes to help you if you wish.\n\nRounding off questions\nIs it valuable in terms of money?\nWould it be easy to replace?\n查看原图 · 1 页\n我的首次作答\n本次条件\n首次独立\n学习后应用／已看背景\n见过材料／熟题\n使用提示\n实际用时（分钟）\n\n准备 1 分钟，随后说 1–2 分钟。点击录音会请求麦克风权限；也可以用自己的录音器。\n\n开始录音结束并保留\n或载入已有录音\n\n录音请单独下载保存；文字导出不包含音频。\n\n录音文件名、实际时长或原稿保存位置\n首次作答已保留\n\n原稿已独立保存。请在下方练习区修订，重要答案及时导出。\n\n从这份答案开始学\n\n首答保存后回听，只选一个最影响理解的问题：内容未说具体、表达卡住，或某段声音难懂。再打开相应帮助，用自己的意思修复并另存重答，注明提示条件。暂时组织不出时可用本章短讲支架替换这一轮修复；发音问题必须听声音，不能凭稿件判断。\n\n先回听自己的声音\n\n选一处实际发生的问题：没有解释清楚重要性、时间关系含糊、找词阻断表达，或某段声音难懂。先记时间点和原本想表达的意思，再打开参考选一种修复方法。\n\n一次只修一处。若需要句型或关键词支持，如实标记；修改稿不替代自己的下一次开口。\n\n我的练习与修订\n\n以下属于教学支持后的使用，和首次答案分开。\n\n作答后复盘：首答录音保存在哪里，准备与实际讲话各多久？题目是否见过、有没有关键词或其他提示？\n声音证据：选一个录音位置，写下实际说出的片段和需要修的一处问题；原因拿不准就记待核验。\n有提示口头练习：按需要从 have had ... for/since ... 或 mean a lot to ... 中选一个，用自己的物品说一句并录下；合法替代同样可用。\n重答记录：新录音在哪里，这一处是否说清？注明关键词支持、看过示例或无提示；用法标 K／R／N，熟题重答与新追问分开。\n保留自己的意思，在这里写修订稿或修复后的片段。\n完成后核对 · 答案、讲解与可接受表达\n可选：换一道题再试",
+      "overflow": []
+    },
+    {
+      "requested": "test-speaking",
+      "kind": "test-started",
+      "actual": "#test-speaking",
+      "title": "口语整科测试 · IELTS",
+      "topLabel": "口语整科测试",
+      "activeNav": [
+        {
+          "go": "tests",
+          "label": "测试"
+        }
+      ],
+      "panels": [
+        {
+          "id": "test-speaking",
+          "owner": "tests",
+          "title": "口语整科测试",
+          "x": 18,
+          "y": 180,
+          "w": 354,
+          "h": 4147
+        }
+      ],
+      "headings": [
+        {
+          "tag": "H1",
+          "text": "口语整科测试",
+          "x": 18,
+          "y": 226,
+          "w": 354,
+          "h": 36
+        },
+        {
+          "tag": "H2",
+          "text": "Part 1",
+          "x": 18,
+          "y": 598,
+          "w": 354,
+          "h": 35
+        },
+        {
+          "tag": "H2",
+          "text": "Part 2",
+          "x": 18,
+          "y": 1942,
+          "w": 354,
+          "h": 35
+        },
+        {
+          "tag": "H2",
+          "text": "Part 3",
+          "x": 18,
+          "y": 3353,
+          "w": 354,
+          "h": 35
+        }
+      ],
+      "controls": [
+        {
+          "tag": "A",
+          "id": "",
+          "text": "← 全部测试",
+          "href": "#tests",
+          "disabled": false,
+          "x": 18,
+          "y": 194,
+          "w": 74,
+          "h": 19
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "继续本次",
+          "href": null,
+          "disabled": false,
+          "x": 88,
+          "y": 438,
+          "w": 86,
+          "h": 44
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "提交本次作答",
+          "href": null,
+          "disabled": false,
+          "x": 182,
+          "y": 438,
+          "w": 112,
+          "h": 44
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "开始录音",
+          "href": null,
+          "disabled": false,
+          "x": 18,
+          "y": 1721,
+          "w": 78,
+          "h": 41
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "结束录音",
+          "href": null,
+          "disabled": true,
+          "x": 100,
+          "y": 1721,
+          "w": 78,
+          "h": 41
+        },
+        {
+          "tag": "INPUT",
+          "id": "",
+          "text": "",
+          "href": null,
+          "disabled": false,
+          "x": 18,
+          "y": 1776,
+          "w": 354,
+          "h": 20
+        },
+        {
+          "tag": "INPUT",
+          "id": "",
+          "text": "",
+          "href": null,
+          "disabled": false,
+          "x": 18,
+          "y": 1863,
+          "w": 163,
+          "h": 30
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "开始录音",
+          "href": null,
+          "disabled": false,
+          "x": 18,
+          "y": 3132,
+          "w": 78,
+          "h": 41
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "结束录音",
+          "href": null,
+          "disabled": true,
+          "x": 100,
+          "y": 3132,
+          "w": 78,
+          "h": 41
+        },
+        {
+          "tag": "INPUT",
+          "id": "",
+          "text": "",
+          "href": null,
+          "disabled": false,
+          "x": 18,
+          "y": 3188,
+          "w": 354,
+          "h": 20
+        },
+        {
+          "tag": "INPUT",
+          "id": "",
+          "text": "",
+          "href": null,
+          "disabled": false,
+          "x": 18,
+          "y": 3275,
+          "w": 163,
+          "h": 30
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "开始录音",
+          "href": null,
+          "disabled": false,
+          "x": 18,
+          "y": 4066,
+          "w": 78,
+          "h": 41
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "结束录音",
+          "href": null,
+          "disabled": true,
+          "x": 100,
+          "y": 4066,
+          "w": 78,
+          "h": 41
+        },
+        {
+          "tag": "INPUT",
+          "id": "",
+          "text": "",
+          "href": null,
+          "disabled": false,
+          "x": 18,
+          "y": 4121,
+          "w": 354,
+          "h": 20
+        },
+        {
+          "tag": "INPUT",
+          "id": "",
+          "text": "",
+          "href": null,
+          "disabled": false,
+          "x": 18,
+          "y": 4208,
+          "w": 163,
+          "h": 30
+        },
+        {
+          "tag": "SUMMARY",
+          "id": "",
+          "text": "以往作答 · 0 次",
+          "href": null,
+          "disabled": false,
+          "x": 32,
+          "y": 4267,
+          "w": 326,
+          "h": 59
+        }
+      ],
+      "hiddenVisible": [],
+      "bodyWidth": 390,
+      "viewport": 390,
+      "scrollY": 0,
+      "visibleText": "← 全部测试\n口语整科测试\n\nPart 1 + Part 2 + Part 3\n\nCambridge 官方公开样题组合。Part 2 准备 1 分钟、说 1–2 分钟；本地自练按 11–14 分钟安排。\n\n14:00\n继续本次\n提交本次作答\n0% · 0 / 3 已作答\nPart 1\n0% · 0 / 1 已作答\nSpeaking sample task – Part 1\nPart 1 Introduction and interview\n\n[This part of the test begins with the examiner introducing himself or herself and\nchecking the candidate’s identification. It then continues as an interview.]\n\n\nLet’s talk about your home town or village.\n\n• What kind of place is it?\n• What’s the most interesting part of your town/village?\n• What kind of jobs do the people in your town/village do?\n• Would you say it’s a good place to live? (Why?)\n\n\n\nLet’s move on to talk about accommodation.\n\n• Tell me about the kind of accommodation you live in?\n• How long have you lived there?\n• What do you like about living there?\n• What sort of accommodation would you most like to live in?\n\n\n开始录音结束录音载入录音 \n\n结束后请下载录音；文字备份不包含声音。\n\nPart 1 录音文件名（或记录未能作答的位置）\nPart 2\n0% · 0 / 1 已作答\nSpeaking sample task – Part 2\nPart 2 – Individual long turn\n\n\nCandidate Task Card\n\nDescribe something you own which is very important to you.\n\nYou should say:\n\nwhere you got it from\nhow long you have had it\nwhat you use it for\n\nand explain why it is important to you.\n\n\nYou will have to talk about the topic for 1 to 2 minutes.\nYou have one minute to think about what you're going to say.\nYou can make some notes to help you if you wish.\n\n\n\nRounding off questions\n\n• Is it valuable in terms of money?\n• Would it be easy to replace?\n\n\n开始录音结束录音载入录音 \n\n结束后请下载录音；文字备份不包含声音。\n\nPart 2 录音文件名（或记录未能作答的位置）\nPart 3\n0% · 0 / 1 已作答\nSpeaking sample task – Part 3\nPart 3 – Two-way discussion\n\n\nLet’s consider first of all how people’s values have changed.\n\n• What kind of things give status to people in your country?\n• Have things changed since your parents’ time?\n\nFinally, let’s talk about the role of advertising.\n\n• Do you think advertising influences what people buy?\n\n\n开始录音结束录音载入录音 \n\n结束后请下载录音；文字备份不包含声音。\n\nPart 3 录音文件名（或记录未能作答的位置）\n以往作答 · 0 次",
+      "overflow": []
+    }
+  ],
+  "checks": [
+    {
+      "name": "口语首次作答保存与进入学习",
+      "actual": "#speaking-first",
+      "visibleText": "← 学习 / 口语\n口语 · 从原题开始学\n0% · 0 / 0 完成\n先做自己的答案\n\n先只看Part 2 重要物品题卡，确认录音能收音后，给自己一分钟准备并记少量关键词，随后实际说 1—2 分钟，到两分钟停止。先不看或听示例，不先写完整稿；提前结束也保留原音，注明是否练过题目及实际时长。\n\n重要物品 · 口语 Part 2\nPart 2 – Individual long turn\nCandidate Task Card\n\nDescribe something you own which is very important to you.\n\nYou should say:\n\nwhere you got it from\nhow long you have had it\nwhat you use it for\n\nand explain why it is important to you.\n\nYou will have to talk about the topic for 1 to 2 minutes.\n\nYou have one minute to think about what you’re going to say.\n\nYou can make some notes to help you if you wish.\n\nRounding off questions\nIs it valuable in terms of money?\nWould it be easy to replace?\n查看原图 · 1 页\n我的首次作答\n本次条件\n首次独立\n学习后应用／已看背景\n见过材料／熟题\n使用提示\n实际用时（分钟）\n\n准备 1 分钟，随后说 1–2 分钟。点击录音会请求麦克风权限；也可以用自己的录音器。\n\n开始录音结束并保留\n或载入已有录音\n\n录音请单独下载保存；文字导出不包含音频。\n\n录音文件名、实际时长或原稿保存位置\n首次作答已保留\n\n原稿已独立保存。请在下方练习区修订，重要答案及时导出。\n\n从这份答案开始学\n\n首答保存后回听，只选一个最影响理解的问题：内容未说具体、表达卡住，或某段声音难懂。再打开相应帮助，用自己的意思修复并另存重答，注明提示条件。暂时组织不出时可用本章短讲支架替换这一轮修复；发音问题必须听声音，不能凭稿件判断。\n\n先回听自己的声音\n\n选一处实际发生的问题：没有解释清楚重要性、时间关系含糊、找词阻断表达，或某段声音难懂。先记时间点和原本想表达的意思，再打开参考选一种修复方法。\n\n一次只修一处。若需要句型或关键词支持，如实标记；修改稿不替代自己的下一次开口。\n\n我的练习与修订\n\n以下属于教学支持后的使用，和首次答案分开。\n\n作答后复盘：首答录音保存在哪里，准备与实际讲话各多久？题目是否见过、有没有关键词或其他提示？\n声音证据：选一个录音位置，写下实际说出的片段和需要修的一处问题；原因拿不准就记待核验。\n有提示口头练习：按需要从 have had ... for/since ... 或 mean a lot to ... 中选一个，用自己的物品说一句并录下；合法替代同样可用。\n重答记录：新录音在哪里，这一处是否说清？注明关键词支持、看过示例或无提示；用法标 K／R／N，熟题重答与新追问分开。\n保留自己的意思，在这里写修订稿或修复后的片段。\n完成后核对 · 答案、讲解与可接受表达\n可选：换一道题再试"
+    },
+    {
+      "name": "口语整科测试开始后的动作",
+      "recorders": 3,
+      "audioInputs": 3,
+      "text": "← 全部测试\n口语整科测试\n\nPart 1 + Part 2 + Part 3\n\nCambridge 官方公开样题组合。Part 2 准备 1 分钟、说 1–2 分钟；本地自练按 11–14 分钟安排。\n\n14:00\n继续本次\n提交本次作答\n0% · 0 / 3 已作答\nPart 1\n0% · 0 / 1 已作答\nSpeaking sample task – Part 1\nPart 1 Introduction and interview\n\n[This part of the test begins with the examiner introducing himself or herself and\nchecking the candidate’s identification. It then continues as an interview.]\n\n\nLet’s talk about your home town or village.\n\n• What kind of place is it?\n• What’s the most interesting part of your town/village?\n• What kind of jobs do the people in your town/village do?\n• Would you say it’s a good place to live? (Why?)\n\n\n\nLet’s move on to talk about accommodation.\n\n• Tell me about the kind of accommodation you live in?\n• How long have you lived there?\n• What do you like about living there?\n• What sort of accommodation would you most like to live in?\n\n\n开始录音结束录音载入录音 \n\n结束后请下载录音；文字备份不包含声音。\n\nPart 1 录音文件名（或记录未能作答的位置）\nPart 2\n0% · 0 / 1 已作答\nSpeaking sample task – Part 2\nPart 2 – Individual long turn\n\n\nCandidate Task Card\n\nDescribe something you own which is very important to you.\n\nYou should say:\n\nwhere you got it from\nhow long you have had it\nwhat you use it for\n\nand explain why it is important to you.\n\n\nYou will have to talk about the topic for 1 to 2 minutes.\nYou have one minute to think about what you're going to say.\nYou can make some notes to help you if you wish.\n\n\n\nRounding off questions\n\n• Is it valuable in terms of money?\n• Would it be easy to replace?\n\n\n开始录音结束录音载入录音 \n\n结束后请下载录音；文字备份不包含声音。\n\nPart 2 录音文件名（或记录未能作答的位置）\nPart 3\n0% · 0 / 1 已作答\nSpeaking sample task – Part 3\nPart 3 – Two-way discussion\n\n\nLet’s consider first of all how people’s values have changed.\n\n• What kind of things give status to people in your country?\n• Have things changed since your parents’ time?\n\nFinally, let’s talk about the role of advertising.\n\n• Do you think advertising influences what people buy?\n\n\n开始录音结束录音载入录音 \n\n结束后请下载录音；文字备份不包含声音。\n\nPart 3 录音文件名（或记录未能作答的位置）\n以往作答 · 0 次"
+    }
+  ],
+  "errors": []
+}

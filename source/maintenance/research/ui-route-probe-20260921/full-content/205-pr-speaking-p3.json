@@ -1,0 +1,128 @@
+{
+  "requested": "pr-speaking-p3",
+  "from": [
+    "内容单元",
+    "页面链接"
+  ],
+  "actual": "#pr-speaking-p3",
+  "checkedAt": "2026-09-21T12:53:04.941Z",
+  "title": "练习 / 口语 / Speaking Part 3 体育中的竞争与参与 · IELTS",
+  "label": "练习 / 口语 / Speaking Part 3 体育中的竞争与参与",
+  "panel": "practice-speaking",
+  "contentRoot": "pr-speaking-p3",
+  "headings": [],
+  "controls": [
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "Speaking Part 3 体育中的竞争与参与",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "开始录音",
+      "label": "",
+      "href": null,
+      "record": "pr-speaking-p3",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "结束录音",
+      "label": "",
+      "href": null,
+      "stop": "pr-speaking-p3",
+      "visible": true,
+      "disabled": true,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "下载录音",
+      "label": "",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "AUDIO",
+      "id": "",
+      "text": "",
+      "label": "",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "file",
+      "text": "",
+      "label": "载入录音",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "录音文件名 / 要点",
+      "href": null,
+      "save": "pr-speaking-p3-record-note",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "Cambridge IELTS 21 Academic · Test 4 · 物理页97 / 印刷页96",
+      "label": "",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=97",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    }
+  ],
+  "visibleText": "Speaking Part 3 体育中的竞争与参与\n0% · 0 / 0 完成\n\n依次口头回答。\n\nHow important is it to be very competitive at sport?\n\nWhy do some people think that taking part in sport is more important than winning?\n\n开始录音结束录音\n载入录音\n\n录音需单独下载保存。\n\n录音文件名 / 要点\n\n选材来源 · Cambridge IELTS 21 Academic · Test 4 · 物理页97 / 印刷页96",
+  "allContent": "Speaking Part 3 体育中的竞争与参与0% · 0 / 0 完成依次口头回答。How important is it to be very competitive at sport?Why do some people think that taking part in sport is more important than winning?开始录音结束录音下载录音载入录音 录音需单独下载保存。录音文件名 / 要点选材来源 · Cambridge IELTS 21 Academic · Test 4 · 物理页97 / 印刷页96",
+  "links": [
+    {
+      "text": "Cambridge IELTS 21 Academic · Test 4 · 物理页97 / 印刷页96",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=97"
+    }
+  ],
+  "details": [],
+  "saveFields": [
+    "pr-speaking-p3-record-note"
+  ],
+  "images": [],
+  "audio": [
+    {
+      "src": null,
+      "sources": [],
+      "visible": false,
+      "controls": true
+    }
+  ],
+  "viewport": 1440,
+  "documentWidth": 1440
+}

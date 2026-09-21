@@ -1,0 +1,429 @@
+{
+  "requested": "writing2-text-family-wealth",
+  "from": [
+    "页面链接"
+  ],
+  "actual": "#writing2-text-family-wealth",
+  "checkedAt": "2026-09-21T12:54:39.510Z",
+  "title": "学习 / 写作 · Task 2 / 观点题：把立场变成能解释的理由 · IELTS",
+  "label": "学习 / 写作 · Task 2 / 观点题：把立场变成能解释的理由",
+  "panel": "writing2",
+  "contentRoot": "learn-writing2_position_mechanism",
+  "headings": [
+    {
+      "tag": "H3",
+      "text": "先找要判断的完整主张",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "把理由推进一步",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "家庭经济与成年生活 · Task 2",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "WRITING TASK 2",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "留下本单元首稿",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "核对依据，再修订",
+      "visible": false
+    },
+    {
+      "tag": "H3",
+      "text": "检查你的理由是否真的支持立场",
+      "visible": false
+    },
+    {
+      "tag": "H3",
+      "text": "换个情境再用一次",
+      "visible": false
+    },
+    {
+      "tag": "H3",
+      "text": "同题官方考生样本 · Band 8.5 · 2A Script C",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "用原题练这一题型",
+      "visible": true
+    }
+  ],
+  "controls": [
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "01\n观点题：把立场变成能解释的理由\n学会回答同意到什么程度，并通过具体机制支持立场，避免只贴赞成或反对的标签。\n约 20 分钟",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "查看原图 · 1 页",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "我的答案／口语录音文件与简记",
+      "href": null,
+      "save": "enrich-writing2_position_mechanism-answer",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "checkbox",
+      "text": "",
+      "label": "",
+      "href": null,
+      "save": "enrich-writing2_position_mechanism-frozen",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "text",
+      "text": "",
+      "label": "",
+      "href": null,
+      "save": "enrich-writing2_position_mechanism-saved-at",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "保留首稿，打开反馈",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "修订：哪里变了，为什么",
+      "href": null,
+      "save": "enrich-writing2_position_mechanism-revision",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "可选：记录或再练一次",
+      "label": "",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "迁移答案／隔日回忆记录",
+      "href": null,
+      "save": "enrich-writing2_position_mechanism-transfer",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "可选：记录或再练一次",
+      "label": "",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SELECT",
+      "id": "",
+      "type": "select-one",
+      "text": "请选择内容或语境没理解词义或声音没认出词汇选择／搭配不稳证据、逻辑或展开不足语法或句子组织问题暂时独立完成，隔天再检验",
+      "label": "这次最需要补什么？请选择内容或语境没理解词义或声音没认出词汇选择／搭配不稳证据、逻辑或展开不足语法或句子组织问题暂时独立完成，隔天再检验",
+      "href": null,
+      "save": "enrich-writing2_position_mechanism-diagnosis",
+      "visible": false,
+      "disabled": false,
+      "required": false,
+      "options": [
+        {
+          "value": "",
+          "label": "请选择"
+        },
+        {
+          "value": "内容或语境没理解",
+          "label": "内容或语境没理解"
+        },
+        {
+          "value": "词义或声音没认出",
+          "label": "词义或声音没认出"
+        },
+        {
+          "value": "词汇选择／搭配不稳",
+          "label": "词汇选择／搭配不稳"
+        },
+        {
+          "value": "证据、逻辑或展开不足",
+          "label": "证据、逻辑或展开不足"
+        },
+        {
+          "value": "语法或句子组织问题",
+          "label": "语法或句子组织问题"
+        },
+        {
+          "value": "暂时独立完成，隔天再检验",
+          "label": "暂时独立完成，隔天再检验"
+        }
+      ]
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "配套材料",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "",
+      "label": "",
+      "href": "原始参考/bc92ca24-official-task2a-opinion.pdf",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "",
+      "label": "",
+      "href": "https://ielts.org/cdn/Sample-tests/ielts-academic-writing-sample-tasks-2023.pdf",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "",
+      "label": "",
+      "href": "https://ielts.org/news-and-insights/ielts-writing-task-2-how-to-understand-ielts-question-prompts",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "",
+      "label": "",
+      "href": "原始参考/9464a2d7-5bfdf909-writing_task_2_developing_paragraphs.pdf",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "",
+      "label": "",
+      "href": "https://takeielts.britishcouncil.org/sites/default/files/2026-06/writing_task_2_developing_paragraphs.pdf",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "官方作答 · 第21页",
+      "label": "",
+      "href": "case-assets/writing-official-sample-tasks-2023.pdf#page=21",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "考官评语 · 第22页",
+      "label": "",
+      "href": "case-assets/writing-official-sample-tasks-2023.pdf#page=22",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "官方在线原件",
+      "label": "",
+      "href": "https://ielts.org/cdn/Sample-tests/ielts-academic-writing-sample-tasks-2023.pdf#page=21",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "家庭财富与成年问题应对：避免绝对化",
+      "label": "",
+      "href": "#writing2-case-wc-official-wealth",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "高层住宅是否是城市住房的最佳方案",
+      "label": "",
+      "href": "#writing2-case-wc-c21-t1-homes",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    }
+  ],
+  "visibleText": "01\n观点题：把立场变成能解释的理由\n学会回答同意到什么程度，并通过具体机制支持立场，避免只贴赞成或反对的标签。\n约 20 分钟\n0% · 0 / 1 完成\n先找要判断的完整主张\n\n这道题不是泛谈“钱重要吗”，也不是只介绍贫富差异。它提出了一个比较：不富裕家庭的孩子是否比富裕家庭的孩子更能应对成年生活的问题；你要说明同意到什么程度。可以赞同、反对或有限度赞同，关键是解释清楚判断范围，并保持全文一致。\n\n把理由推进一步\n\nThey learn useful skills 太宽泛，读者还不知道是什么技能、怎样学到、为何与成年后的问题有关。可以选一条关系展开：有机会做决定→尝试计划有限资源→逐渐学会处理类似问题。它是一种可能的机制，不能证明所有低收入家庭的孩子都更独立。\n\n教学局部示范，非范文：\n\nA child who helps plan a weekly budget may learn to compare needs and make choices. This experience can be useful later, when the person has to manage their own income. However, children in wealthy families can also learn these skills if they are given responsibility.\n\n这里用 may / can 保留条件，用最后一句检验“收入本身是否决定能力”。你也可以支持其他有根据的立场，不必复制这段观点。举例可以是合理的假设或相关个人经历，不需要编造研究、调查比例或“专家说”。\n\n可用的两个表达是 take responsibility for ...（为某事负责）和 learn to manage ...（学会管理某物）。例如 Teenagers can take responsibility for planning a small event. 不要求两项都用，更不因词块数量给分。\n\n完整 Task 2 至少 250 词，并需回应整道题。本次是观点与一段理由的学习后应用；没有指定万能段数。\n\n家庭经济与成年生活 · Task 2\nWRITING TASK 2\n\nYou should spend about 40 minutes on this task.\n\nWrite about the following topic:\n\nChildren who are brought up in families that do not have large amounts of money are better prepared to deal with the problems of adult life than children brought up by wealthy parents.\n\nTo what extent do you agree or disagree with this opinion?\n\nGive reasons for your answer and include any relevant examples from your own knowledge or experience.\n\nWrite at least 250 words.\n\n查看原图 · 1 页\n留下本单元首稿\n\n本单元先学再用；不记为未见初测。口语可使用原章节录音器，或自行录音并记文件名。\n\n就上方题目，先用一句英文说明你同意到什么程度，再写约 70–100 词支持其中一个理由。段落要说清：什么经历可能培养什么能力、为什么与成年问题有关，以及这个判断是否有条件。允许你选与示范不同的立场和例子，不必逐项套句。先保存，再看反馈。最后另记一条有提示复盘：我的理由是在解释家庭收入本身，还是收入可能带来的某种经历？\n\n我的答案／口语录音文件与简记\n保留首稿，打开反馈\n\n先写下自己的答案。\n\n配套材料\n同题官方考生样本 · Band 8.5 · 2A Script C\n\n优先对照这份同题官方考生稿及考官评语；分数仅属于该原稿。本地参考段落仍为原创教学示范。\n\n官方作答 · 第21页考官评语 · 第22页官方在线原件\n\n标出立场与支持关系，再与自己的主体段比较；注意高分考评也指出局部泛化。\n\n用原题练这一题型\n家庭财富与成年问题应对：避免绝对化\n高层住宅是否是城市住房的最佳方案",
+  "allContent": "01观点题：把立场变成能解释的理由学会回答同意到什么程度，并通过具体机制支持立场，避免只贴赞成或反对的标签。约 20 分钟0% · 0 / 1 完成先找要判断的完整主张\n这道题不是泛谈“钱重要吗”，也不是只介绍贫富差异。它提出了一个比较：不富裕家庭的孩子是否比富裕家庭的孩子更能应对成年生活的问题；你要说明同意到什么程度。可以赞同、反对或有限度赞同，关键是解释清楚判断范围，并保持全文一致。\n把理由推进一步\nThey learn useful skills 太宽泛，读者还不知道是什么技能、怎样学到、为何与成年后的问题有关。可以选一条关系展开：有机会做决定→尝试计划有限资源→逐渐学会处理类似问题。它是一种可能的机制，不能证明所有低收入家庭的孩子都更独立。\n教学局部示范，非范文：\n\nA child who helps plan a weekly budget may learn to compare needs and make choices. This experience can be useful later, when the person has to manage their own income. However, children in wealthy families can also learn these skills if they are given responsibility.\n\n这里用 may / can 保留条件，用最后一句检验“收入本身是否决定能力”。你也可以支持其他有根据的立场，不必复制这段观点。举例可以是合理的假设或相关个人经历，不需要编造研究、调查比例或“专家说”。\n可用的两个表达是 take responsibility for ...（为某事负责）和 learn to manage ...（学会管理某物）。例如 Teenagers can take responsibility for planning a small event. 不要求两项都用，更不因词块数量给分。\n完整 Task 2 至少 250 词，并需回应整道题。本次是观点与一段理由的学习后应用；没有指定万能段数。家庭经济与成年生活 · Task 2WRITING TASK 2You should spend about 40 minutes on this task.Write about the following topic:Children who are brought up in families that do not have large amounts of money are better prepared to deal with the problems of adult life than children brought up by wealthy parents.To what extent do you agree or disagree with this opinion?Give reasons for your answer and include any relevant examples from your own knowledge or experience.Write at least 250 words.查看原图 · 1 页练习题：家庭经济条件与成年后应对问题的能力；注意题目要求同意到什么程度。留下本单元首稿本单元先学再用；不记为未见初测。口语可使用原章节录音器，或自行录音并记文件名。就上方题目，先用一句英文说明你同意到什么程度，再写约 70–100 词支持其中一个理由。段落要说清：什么经历可能培养什么能力、为什么与成年问题有关，以及这个判断是否有条件。允许你选与示范不同的立场和例子，不必逐项套句。先保存，再看反馈。最后另记一条有提示复盘：我的理由是在解释家庭收入本身，还是收入可能带来的某种经历？我的答案／口语录音文件与简记保留首稿，打开反馈先写下自己的答案。核对依据，再修订检查你的理由是否真的支持立场\n如果立场说“收入不是决定因素”，段落可以解释责任练习、父母支持或做决定的机会怎样影响能力；应说明富裕家庭也可能提供这些条件。若立场说“我部分同意”，就需明确你赞同的范围，不能一会儿写必然更好、一会儿又完全否认比较。合理但不同的立场均可接受。\n教学一种回答，非唯一正确观点：\n\nI do not think family income alone determines how well children will deal with adult problems. What may matter more is whether they have opportunities to make decisions. For example, a teenager who plans transport and spending for a family trip has to compare options and stay within a budget. Such practice can develop useful skills, whether the family is wealthy or not. Parents who solve every small problem for their children may give them fewer chances to practise these decisions.\n\n示范中的旅行是举例，不是已经发生的调查结果。最后一句进一步说明机会差异，仍与开头的判断相关。若你的回答只有 poor children are stronger，应补具体能力和形成过程，并收紧对整个群体的绝对判断；若举例很好但没解释它为什么支持立场，就补这条关系。\n语言上，take responsibility for planning 和 learn to manage money 都是可用结构；be responsible for ...、practise making decisions 等准确替代也可接受。只挑一条论证断点或最妨碍意思的表达修订，不从这一小段预测整篇分数。修订：哪里变了，为什么换个情境再用一次新情境再用——练习：Some people believe that young adults who live away from their parents become more responsible than those who continue to live with their families. To what extent do you agree or disagree? 写一个明确立场和约 60–90 词的理由。这次分析的是居住安排，不要沿用家庭贫富作为主要解释。完成后自检：你说清了哪一种实际责任或经历，以及为什么同住的人也可能或不可能得到这种练习吗？熟题重写另存，不能代替这个换情境任务。可选：记录或再练一次迁移答案／隔日回忆记录可选：记录或再练一次这次最需要补什么？请选择内容或语境没理解词义或声音没认出词汇选择／搭配不稳证据、逻辑或展开不足语法或句子组织问题暂时独立完成，隔天再检验配套材料Academic Writing 样题包：Task 2A（原包第 6 页）Academic Writing 样题包：Task 2A（原包第 6 页）IELTS：如何理解 Task 2 题目要求段落展开教案（本地全文核读）段落展开教案（本地全文核读）同题官方考生样本 · Band 8.5 · 2A Script C优先对照这份同题官方考生稿及考官评语；分数仅属于该原稿。本地参考段落仍为原创教学示范。官方作答 · 第21页考官评语 · 第22页官方在线原件标出立场与支持关系，再与自己的主体段比较；注意高分考评也指出局部泛化。用原题练这一题型家庭财富与成年问题应对：避免绝对化高层住宅是否是城市住房的最佳方案",
+  "links": [
+    {
+      "text": "Academic Writing 样题包：Task 2A（原包第 6 页）",
+      "href": "原始参考/bc92ca24-official-task2a-opinion.pdf"
+    },
+    {
+      "text": "Academic Writing 样题包：Task 2A（原包第 6 页）",
+      "href": "https://ielts.org/cdn/Sample-tests/ielts-academic-writing-sample-tasks-2023.pdf"
+    },
+    {
+      "text": "IELTS：如何理解 Task 2 题目要求",
+      "href": "https://ielts.org/news-and-insights/ielts-writing-task-2-how-to-understand-ielts-question-prompts"
+    },
+    {
+      "text": "段落展开教案（本地全文核读）",
+      "href": "原始参考/9464a2d7-5bfdf909-writing_task_2_developing_paragraphs.pdf"
+    },
+    {
+      "text": "段落展开教案（本地全文核读）",
+      "href": "https://takeielts.britishcouncil.org/sites/default/files/2026-06/writing_task_2_developing_paragraphs.pdf"
+    },
+    {
+      "text": "官方作答 · 第21页",
+      "href": "case-assets/writing-official-sample-tasks-2023.pdf#page=21"
+    },
+    {
+      "text": "考官评语 · 第22页",
+      "href": "case-assets/writing-official-sample-tasks-2023.pdf#page=22"
+    },
+    {
+      "text": "官方在线原件",
+      "href": "https://ielts.org/cdn/Sample-tests/ielts-academic-writing-sample-tasks-2023.pdf#page=21"
+    },
+    {
+      "text": "家庭财富与成年问题应对：避免绝对化",
+      "href": "#writing2-case-wc-official-wealth"
+    },
+    {
+      "text": "高层住宅是否是城市住房的最佳方案",
+      "href": "#writing2-case-wc-c21-t1-homes"
+    }
+  ],
+  "details": [
+    {
+      "id": "",
+      "title": "查看原图 · 1 页",
+      "open": false,
+      "visible": true
+    },
+    {
+      "id": "",
+      "title": "可选：记录或再练一次",
+      "open": false,
+      "visible": false
+    },
+    {
+      "id": "",
+      "title": "可选：记录或再练一次",
+      "open": false,
+      "visible": false
+    },
+    {
+      "id": "",
+      "title": "配套材料",
+      "open": false,
+      "visible": true
+    }
+  ],
+  "saveFields": [
+    "enrich-writing2_position_mechanism-answer",
+    "enrich-writing2_position_mechanism-frozen",
+    "enrich-writing2_position_mechanism-saved-at",
+    "enrich-writing2_position_mechanism-revision",
+    "enrich-writing2_position_mechanism-transfer",
+    "enrich-writing2_position_mechanism-diagnosis"
+  ],
+  "images": [
+    {
+      "src": "assets/deferred-media/57f65808cad33b173a333432.png",
+      "alt": "官方原题：家庭经济条件与成年后应对问题的能力；注意题目要求同意到什么程度。",
+      "visible": false,
+      "complete": false,
+      "width": 0
+    }
+  ],
+  "audio": [],
+  "viewport": 1440,
+  "documentWidth": 1440
+}

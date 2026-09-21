@@ -1,0 +1,407 @@
+{
+  "method": "faster-whisper tiny.en CPU int8; no supplied transcript or initial prompt; first 400 seconds",
+  "source": "C:\\Users\\Admin1\\Documents\\ChatGPT\\ielts\\downloads\\jijing-20260920\\ieltsa\\assets\\494b5ff8b614-2026-sep-hf-1.mp3",
+  "duration": 1476.049,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 10.0,
+      "text": " Part 1. You will hear two former school friends discussing a job as a cabin crew attendant."
+    },
+    {
+      "start": 10.0,
+      "end": 14.0,
+      "text": " First, you have some time to look at questions one to five."
+    },
+    {
+      "start": 30.0,
+      "end": 44.0,
+      "text": " Now listen carefully and answer questions one to five."
+    },
+    {
+      "start": 44.0,
+      "end": 45.0,
+      "text": " Hello."
+    },
+    {
+      "start": 45.0,
+      "end": 48.0,
+      "text": " Oh, hello."
+    },
+    {
+      "start": 48.0,
+      "end": 51.0,
+      "text": " This is Ellie Fisher."
+    },
+    {
+      "start": 51.0,
+      "end": 53.0,
+      "text": " We were at school together."
+    },
+    {
+      "start": 53.0,
+      "end": 55.0,
+      "text": " Oh, hi, Ellie."
+    },
+    {
+      "start": 55.0,
+      "end": 56.0,
+      "text": " How are you?"
+    },
+    {
+      "start": 56.0,
+      "end": 58.0,
+      "text": " What are you doing these days?"
+    },
+    {
+      "start": 58.0,
+      "end": 64.52,
+      "text": " Well, actually, I'm looking for a job and I was wondering about applying to an airline."
+    },
+    {
+      "start": 64.52,
+      "end": 66.72,
+      "text": " You know, looking after the passengers."
+    },
+    {
+      "start": 66.72,
+      "end": 69.76,
+      "text": " And I heard you're doing something like that."
+    },
+    {
+      "start": 69.76,
+      "end": 72.96000000000001,
+      "text": " Yeah, I'm working as a cabin crew attendant."
+    },
+    {
+      "start": 72.96000000000001,
+      "end": 73.96000000000001,
+      "text": " Right."
+    },
+    {
+      "start": 73.96000000000001,
+      "end": 76.88,
+      "text": " So what does that involve?"
+    },
+    {
+      "start": 76.88,
+      "end": 82.56,
+      "text": " Well, you might have to give them the initial safety demonstration before takeoff, for example."
+    },
+    {
+      "start": 82.56,
+      "end": 85.92,
+      "text": " You've probably seen that when you've made a journey by air?"
+    },
+    {
+      "start": 85.92,
+      "end": 92.92,
+      "text": " actually, I've never flown. But I'd love to. That's why I'd like a job with an airline."
+    },
+    {
+      "start": 92.92,
+      "end": 98.04,
+      "text": " Alright, and during the flight you'd also be going round to see if anyone wants to buy"
+    },
+    {
+      "start": 98.04,
+      "end": 104.48,
+      "text": " anything. So I'd be dealing with money. That's right, you'd be responsible for that."
+    },
+    {
+      "start": 104.48,
+      "end": 110.4,
+      "text": " And then of course you'd be serving meals and snacks and things. Okay, so can anyone"
+    },
+    {
+      "start": 110.4,
+      "end": 119.4,
+      "text": " Well, there are certain requirements. You must be at least 19 years old and there's also a minimum height that's 168 centimeters."
+    },
+    {
+      "start": 119.4,
+      "end": 122.4,
+      "text": " That's to make sure you can reach the higher covers in the plane."
+    },
+    {
+      "start": 122.4,
+      "end": 130.4,
+      "text": " Right. I'm 169 centimeters I think. What about qualifications?"
+    },
+    {
+      "start": 130.4,
+      "end": 136.4,
+      "text": " You need to show that you have a good level of English that's written and spoken and also maths."
+    },
+    {
+      "start": 136.4,
+      "end": 141.4,
+      "text": " OK. Well, I pass my exams in both those subjects, fortunately."
+    },
+    {
+      "start": 141.4,
+      "end": 144.4,
+      "text": " And it's an advantage if you can speak another language,"
+    },
+    {
+      "start": 144.4,
+      "end": 147.4,
+      "text": " although for cabin crew it's not essential."
+    },
+    {
+      "start": 147.4,
+      "end": 149.4,
+      "text": " I can speak Spanish."
+    },
+    {
+      "start": 149.4,
+      "end": 152.4,
+      "text": " I did that at school until I was 16."
+    },
+    {
+      "start": 152.4,
+      "end": 154.4,
+      "text": " Excellent. That'll be very useful."
+    },
+    {
+      "start": 154.4,
+      "end": 159.4,
+      "text": " And I'm pretty fit. I don't have any medical problems."
+    },
+    {
+      "start": 159.4,
+      "end": 162.4,
+      "text": " OK. Oh. And can you swim?"
+    },
+    {
+      "start": 162.4,
+      "end": 163.4,
+      "text": " Yes."
+    },
+    {
+      "start": 163.4,
+      "end": 170.4,
+      "text": " because that's another requirement."
+    },
+    {
+      "start": 193.4,
+      "end": 209.24,
+      "text": " Now listen, and answer questions, 6 to 10."
+    },
+    {
+      "start": 209.24,
+      "end": 213.68,
+      "text": " Now if you're accepted, you'll get a six week training course."
+    },
+    {
+      "start": 213.68,
+      "end": 214.68,
+      "text": " Right."
+    },
+    {
+      "start": 214.68,
+      "end": 218.96,
+      "text": " So that'll cover all aspects of the job, all the basic things you need to know, and"
+    },
+    {
+      "start": 218.96,
+      "end": 223.36,
+      "text": " And then some special things, like what action to take if a passenger suddenly has some"
+    },
+    {
+      "start": 223.36,
+      "end": 225.96,
+      "text": " sort of illness while you're in the air, for example."
+    },
+    {
+      "start": 225.96,
+      "end": 226.96,
+      "text": " Right."
+    },
+    {
+      "start": 226.96,
+      "end": 230.96,
+      "text": " I suppose you can't always count on a doctor being on board."
+    },
+    {
+      "start": 230.96,
+      "end": 231.96,
+      "text": " No."
+    },
+    {
+      "start": 231.96,
+      "end": 236.12,
+      "text": " And then you'll have to do a lot of work during the training on becoming aware of the variety"
+    },
+    {
+      "start": 236.12,
+      "end": 240.36,
+      "text": " of cultures that your passengers may come from, and the implications of that."
+    },
+    {
+      "start": 240.36,
+      "end": 242.36,
+      "text": " That's really interesting, actually."
+    },
+    {
+      "start": 242.36,
+      "end": 243.36,
+      "text": " Okay."
+    },
+    {
+      "start": 243.36,
+      "end": 246.96,
+      "text": " Well, I definitely like to apply."
+    },
+    {
+      "start": 246.96,
+      "end": 250.32000000000002,
+      "text": " Um, what airline do you actually work for?"
+    },
+    {
+      "start": 250.32000000000002,
+      "end": 253.04000000000002,
+      "text": " It's a small airline called you're on to us."
+    },
+    {
+      "start": 253.04000000000002,
+      "end": 260.16,
+      "text": " That's E, U, R-O-N-T-A-S."
+    },
+    {
+      "start": 260.16,
+      "end": 263.12,
+      "text": " Is that N or N in the middle?"
+    },
+    {
+      "start": 263.12,
+      "end": 264.64,
+      "text": " N for November."
+    },
+    {
+      "start": 264.64,
+      "end": 265.52,
+      "text": " OK."
+    },
+    {
+      "start": 265.52,
+      "end": 267.2,
+      "text": " They're good people to work for."
+    },
+    {
+      "start": 267.2,
+      "end": 268.88,
+      "text": " Have a look at their website."
+    },
+    {
+      "start": 268.88,
+      "end": 271.76,
+      "text": " You can download the application form from there."
+    },
+    {
+      "start": 271.76,
+      "end": 276.64,
+      "text": " Right. I don't have much in the way of experience though."
+    },
+    {
+      "start": 276.64,
+      "end": 279.44,
+      "text": " Well, what have you done since leaving school?"
+    },
+    {
+      "start": 279.44,
+      "end": 284.56,
+      "text": " I worked in a supermarket for a bit on the information desk."
+    },
+    {
+      "start": 284.56,
+      "end": 287.52,
+      "text": " I was helping deal with queries from customers."
+    },
+    {
+      "start": 287.52,
+      "end": 289.03999999999996,
+      "text": " OK, put that down."
+    },
+    {
+      "start": 289.03999999999996,
+      "end": 292.24,
+      "text": " That's one of the most important aspects of the job, in fact."
+    },
+    {
+      "start": 292.24,
+      "end": 293.76,
+      "text": " All right."
+    },
+    {
+      "start": 293.76,
+      "end": 299.59999999999997,
+      "text": " And last year, I also did some voluntary work as part of a team."
+    },
+    {
+      "start": 299.59999999999997,
+      "end": 301.36,
+      "text": " Should I put that down too?"
+    },
+    {
+      "start": 301.36,
+      "end": 304.08,
+      "text": " Of course, that's something else they'll be looking for,"
+    },
+    {
+      "start": 304.08,
+      "end": 305.91999999999996,
+      "text": " being able to work with others."
+    },
+    {
+      "start": 305.92,
+      "end": 306.92,
+      "text": " Right!"
+    },
+    {
+      "start": 306.92,
+      "end": 313.92,
+      "text": " And a lot of airlines expect you to pay for your own uniform, but the good thing about this airline is that they provide it for you."
+    },
+    {
+      "start": 313.92,
+      "end": 314.92,
+      "text": " Great!"
+    },
+    {
+      "start": 314.92,
+      "end": 317.92,
+      "text": " Well, thanks so much Greg, I really..."
+    },
+    {
+      "start": 320.92,
+      "end": 323.92,
+      "text": " That is the end of section 1."
+    },
+    {
+      "start": 323.92,
+      "end": 327.92,
+      "text": " You'll now have half a minute to check your answers."
+    },
+    {
+      "start": 335.92,
+      "end": 363.32,
+      "text": " You will hear an accommodation agent"
+    },
+    {
+      "start": 363.32,
+      "end": 369.32,
+      "text": " Here in a accommodation agent, telling a student about different accommodation options."
+    },
+    {
+      "start": 369.32,
+      "end": 375.96,
+      "text": " First, you have some time to look at questions 11 to 14 on page 3."
+    },
+    {
+      "start": 393.32,
+      "end": 400.32,
+      "text": " Now listen carefully and answer questions 11 to 14."
+    }
+  ]
+}

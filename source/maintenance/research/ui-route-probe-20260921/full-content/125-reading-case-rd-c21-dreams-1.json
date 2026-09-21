@@ -1,0 +1,236 @@
+{
+  "requested": "reading-case-rd-c21-dreams-1",
+  "from": [
+    "内容单元",
+    "页面链接",
+    "每日安排目标"
+  ],
+  "actual": "#reading-case-rd-c21-dreams-1",
+  "checkedAt": "2026-09-21T12:52:01.266Z",
+  "title": "练习 / 阅读 / Do animals dream?｜跨物种睡眠研究 · IELTS",
+  "label": "练习 / 阅读 / Do animals dream?｜跨物种睡眠研究",
+  "panel": "practice-reading",
+  "contentRoot": "reading-case-rd-c21-dreams-1",
+  "headings": [
+    {
+      "tag": "H3",
+      "text": "对照答案，回到证据",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "原文第1段",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "原文第2段",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "原文第3段",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "原文第4段",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "词语与搭配",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "句子精读",
+      "visible": false
+    }
+  ],
+  "controls": [
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "Do animals dream?｜跨物种睡眠研究未作答\n表格填空 · 4 段 · 355 词 · 5 题 · 同篇原文另有裁切",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "Cambridge IELTS 21 Academic",
+      "label": "",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=39",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "case-rd-c21-dreams-1-q1",
+      "type": "text",
+      "text": "",
+      "label": "第 1 题作答",
+      "href": null,
+      "save": "case-rd-c21-dreams-1-q1",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "case-rd-c21-dreams-1-q2",
+      "type": "text",
+      "text": "",
+      "label": "第 2 题作答",
+      "href": null,
+      "save": "case-rd-c21-dreams-1-q2",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "case-rd-c21-dreams-1-q3",
+      "type": "text",
+      "text": "",
+      "label": "第 3 题作答",
+      "href": null,
+      "save": "case-rd-c21-dreams-1-q3",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "case-rd-c21-dreams-1-q4",
+      "type": "text",
+      "text": "",
+      "label": "第 4 题作答",
+      "href": null,
+      "save": "case-rd-c21-dreams-1-q4",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "case-rd-c21-dreams-1-q5",
+      "type": "text",
+      "text": "",
+      "label": "第 5 题作答",
+      "href": null,
+      "save": "case-rd-c21-dreams-1-q5",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "checkbox",
+      "text": "",
+      "label": "",
+      "href": null,
+      "save": "case-rd-c21-dreams-1-done",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "hidden",
+      "text": "",
+      "label": "",
+      "href": null,
+      "save": "case-rd-c21-dreams-1-saved-at",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "保留作答，查看答案",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "核对原答案页",
+      "label": "",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=121",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "case-rd-c21-dreams-1-revision",
+      "type": "textarea",
+      "text": "",
+      "label": "我的修订／证据笔记",
+      "href": null,
+      "save": "case-rd-c21-dreams-1-revision",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "材料精读 · 内容与词句",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    }
+  ],
+  "visibleText": "Do animals dream?｜跨物种睡眠研究未作答\n表格填空 · 4 段 · 355 词 · 5 题 · 同篇原文另有裁切\n0% · 0 / 1 完成\n\n真题 · Cambridge IELTS 21 Academic · PDF 第 39 页\n\nComplete the table below. Choose ONE WORD ONLY from the passage for each answer. 各行研究结果与评论合并为可输入题面，物种及原空号保留。\n\n原文第1段Studies using electrodes attached to the heads of sleepers have shown that when we sleep, we do so in two ways that alternate throughout the night. The first is rapid eye movement (REM) or active sleep. During this stage our eyes move, even though our eyelids are closed. Our muscles also twitch slightly, though they are largely paralysed so we don't hurt ourselves. In contrast, we also engage in non-REM sleep, during which we barely move at all. Most dream states, and certainly those with the most vivid dreams, happen during REM sleep.\n\n原文第2段There's some evidence that other mammals may also dream. For example, researchers compared the brain patterns of rats running through a maze when awake with their brain patterns during REM sleep. They found the patterns were very similar and concluded that the sleeping rats were dreaming about going through the maze.\n\n原文第3段But finding evidence of dreaming in non-mammals has proved more difficult. Their brains are very different from those of humans, and it can often be difficult to record their activity while they are sleeping. Recently, however, researchers succeeded in recording brain activity in sleeping pigeons. As in mammals, the recordings revealed both REM and non-REM sleep. Intriguingly, REM sleep activity was high in brain regions involved in processing visual information, especially images related to physical activities such as flying, which suggests that this may possibly be what the pigeons were dreaming about.\n\n原文第4段That said, dreaming and REM sleep are unlikely to be universal in the animal kingdom. For example, sponges don't have brains, so they lack the machinery for dreaming. There are also some animals with unusual sleep patterns. These include whales and dolphins, which do not shut down their entire brain when they sleep, but only half of it, keeping the rest awake. They also show no sign of REM sleep, suggesting that they may only experience non-REM dreams, which are less vivid. This is surprising because we tend to think of whales and dolphins as having complex inner lives. It's thought that they don't experience REM sleep because during REM sleep animals are more vulnerable to extremes of temperature.\n\n1. Research into sleep and dreaming — 1 __________: similar brain patterns were observed when active and sleeping; indicative of dreaming\n\n第 1 题作答\n\n2. Pigeons: when sleeping, pigeons displayed activity in parts of the brain that deal with 2 __________ input; may have been dreaming of flying\n\n第 2 题作答\n\n3. Whales and dolphins: still have 3 __________ their brain awake when they sleep\n\n第 3 题作答\n\n4. Whales and dolphins: don't experience REM sleep, as this could affect their sensitivity to 4 __________\n\n第 4 题作答\n\n5. Whales and dolphins: their dreams are probably not very 5 __________\n\n第 5 题作答\n保留作答，查看答案\n\n先作答；不确定的题也可记录判断与疑点。\n\n材料精读 · 内容与词句",
+  "allContent": "Do animals dream?｜跨物种睡眠研究未作答表格填空 · 4 段 · 355 词 · 5 题 · 同篇原文另有裁切0% · 0 / 1 完成真题 · Cambridge IELTS 21 Academic · PDF 第 39 页Complete the table below. Choose ONE WORD ONLY from the passage for each answer. 各行研究结果与评论合并为可输入题面，物种及原空号保留。原文第1段Studies using electrodes attached to the heads of sleepers have shown that when we sleep, we do so in two ways that alternate throughout the night. The first is rapid eye movement (REM) or active sleep. During this stage our eyes move, even though our eyelids are closed. Our muscles also twitch slightly, though they are largely paralysed so we don't hurt ourselves. In contrast, we also engage in non-REM sleep, during which we barely move at all. Most dream states, and certainly those with the most vivid dreams, happen during REM sleep.原文第2段There's some evidence that other mammals may also dream. For example, researchers compared the brain patterns of rats running through a maze when awake with their brain patterns during REM sleep. They found the patterns were very similar and concluded that the sleeping rats were dreaming about going through the maze.原文第3段But finding evidence of dreaming in non-mammals has proved more difficult. Their brains are very different from those of humans, and it can often be difficult to record their activity while they are sleeping. Recently, however, researchers succeeded in recording brain activity in sleeping pigeons. As in mammals, the recordings revealed both REM and non-REM sleep. Intriguingly, REM sleep activity was high in brain regions involved in processing visual information, especially images related to physical activities such as flying, which suggests that this may possibly be what the pigeons were dreaming about.原文第4段That said, dreaming and REM sleep are unlikely to be universal in the animal kingdom. For example, sponges don't have brains, so they lack the machinery for dreaming. There are also some animals with unusual sleep patterns. These include whales and dolphins, which do not shut down their entire brain when they sleep, but only half of it, keeping the rest awake. They also show no sign of REM sleep, suggesting that they may only experience non-REM dreams, which are less vivid. This is surprising because we tend to think of whales and dolphins as having complex inner lives. It's thought that they don't experience REM sleep because during REM sleep animals are more vulnerable to extremes of temperature.1. Research into sleep and dreaming — 1 __________: similar brain patterns were observed when active and sleeping; indicative of dreaming第 1 题作答2. Pigeons: when sleeping, pigeons displayed activity in parts of the brain that deal with 2 __________ input; may have been dreaming of flying第 2 题作答3. Whales and dolphins: still have 3 __________ their brain awake when they sleep第 3 题作答4. Whales and dolphins: don't experience REM sleep, as this could affect their sensitivity to 4 __________第 4 题作答5. Whales and dolphins: their dreams are probably not very 5 __________第 5 题作答保留作答，查看答案先作答；不确定的题也可记录判断与疑点。对照答案，回到证据第 1 题 · rats表格此行要求动物类别；清醒走迷宫与REM睡眠对比的是rats。the brain patterns of rats running through a maze when awake with their brain patterns during REM sleep第 2 题 · visualinput对应information；空前deal with与processing相对应，所需形容词为visual。brain regions involved in processing visual information第 3 题 · half只关闭一半，所以另一半保持清醒。句子逻辑转换但数值不变。only half of it, keeping the rest awake第 4 题 · temperature原因落在末句；temperature而不是前文machinery或lives。during REM sleep animals are more vulnerable to extremes of temperature第 5 题 · vividless vivid改写为not very vivid；保持形容词词性。non-REM dreams, which are less vivid核对原答案页我的修订／证据笔记材料精读 · 内容与词句作者从人类的两种睡眠状态出发，逐步追问其他动物是否也做梦。脑活动记录提供了跨物种比较的线索，但动物无法直接报告梦境，所以观察到的睡眠特征与对主观体验的推测始终需要区分。原文第1段Studies using electrodes attached to the heads of sleepers have shown that when we sleep, we do so in two ways that alternate throughout the night. The first is rapid eye movement (REM) or active sleep. During this stage our eyes move, even though our eyelids are closed. Our muscles also twitch slightly, though they are largely paralysed so we don't hurt ourselves. In contrast, we also engage in non-REM sleep, during which we barely move at all. Most dream states, and certainly those with the most vivid dreams, happen during REM sleep.电极研究表明，人的睡眠在快速眼动与非快速眼动状态之间交替。快速眼动时眼球活动、肌肉可能轻微抽动，但大部分肌肉受到抑制；非快速眼动时身体几乎不动。多数梦境，尤其生动的梦，与快速眼动睡眠相连。本段提供后文比较动物的基础，但most没有把全部梦境都限定在一种状态。原文第2段There's some evidence that other mammals may also dream. For example, researchers compared the brain patterns of rats running through a maze when awake with their brain patterns during REM sleep. They found the patterns were very similar and concluded that the sleeping rats were dreaming about going through the maze.研究者比较老鼠清醒走迷宫时和快速眼动睡眠中的脑活动，发现两者相似，因此推测老鼠可能在梦中重现走迷宫的经历。这里先有脑活动模式的观察，再有对梦内容的解释；开头some evidence和may保留了动物内在体验无法直接验证的限制。原文第3段But finding evidence of dreaming in non-mammals has proved more difficult. Their brains are very different from those of humans, and it can often be difficult to record their activity while they are sleeping. Recently, however, researchers succeeded in recording brain activity in sleeping pigeons. As in mammals, the recordings revealed both REM and non-REM sleep. Intriguingly, REM sleep activity was high in brain regions involved in processing visual information, especially images related to physical activities such as flying, which suggests that this may possibly be what the pigeons were dreaming about.研究非哺乳动物更困难，因为脑结构不同，睡眠中的脑活动也更难记录。鸽子的记录显示两类睡眠状态，并且快速眼动时视觉信息处理区域较活跃，特别涉及飞行等身体活动的影像。作者因此提出可能与相应梦境有关，但suggests、may和possibly层层保留推测，不能直接写成研究人员看到了鸽子的梦。原文第4段That said, dreaming and REM sleep are unlikely to be universal in the animal kingdom. For example, sponges don't have brains, so they lack the machinery for dreaming. There are also some animals with unusual sleep patterns. These include whales and dolphins, which do not shut down their entire brain when they sleep, but only half of it, keeping the rest awake. They also show no sign of REM sleep, suggesting that they may only experience non-REM dreams, which are less vivid. This is surprising because we tend to think of whales and dolphins as having complex inner lives. It's thought that they don't experience REM sleep because during REM sleep animals are more vulnerable to extremes of temperature.That said转向适用范围：梦和快速眼动不太可能遍布所有动物。海绵没有大脑；鲸与海豚只让半侧大脑进入睡眠，文中说它们没有快速眼动睡眠迹象，进而推测可能只有较不生动的非快速眼动梦。末句以It's thought提出一种温度脆弱性的解释，属于学术推测，不是确定且唯一的原因。词语与搭配alternate throughout the night整夜交替出现alternate表示两种状态轮流变化，throughout覆盖整个夜间；不意味着只切换一次。the most vivid dreams最鲜明生动的梦境vivid描述体验或画面鲜明，不等于这些梦更真实地反映外部世界。recording brain activity记录脑活动指获取神经活动数据，不能等同于直接读取一段完整主观体验。complex inner lives复杂的内在精神生活inner lives涉及感受、记忆等内在体验；文中是人类对鲸与海豚的通常认识，而非本文逐一证实的内容。more vulnerable to extremes of temperature更容易受到极端温度影响vulnerable to后接潜在威胁；more比较的是不同睡眠状态中的脆弱程度。句子精读Intriguingly, REM sleep activity was high in brain regions involved in processing visual information, especially images related to physical activities such as flying, which suggests that this may possibly be what the pigeons were dreaming about.有趣的是，快速眼动睡眠期间，与处理视觉信息有关的脑区活动较强，尤其涉及飞行等身体活动的影像；这提示，鸽子当时可能梦到的正是这些内容。involved in...是过去分词短语修饰brain regions；related to...修饰images；such as flying给出身体活动的例子。which承接前面整个观察，this指相关视觉和身体活动内容。suggests、may possibly都说明从脑活动到梦内容是推断，what...是表语从句，表示鸽子梦到的内容。These include whales and dolphins, which do not shut down their entire brain when they sleep, but only half of it, keeping the rest awake.这类动物包括鲸和海豚，它们睡觉时并不会让整个大脑都停止清醒活动，而是只让其中一半进入睡眠，让剩下的一半保持清醒。These指上文具有特殊睡眠模式的动物。which引导补充说明鲸和海豚的从句；not...but...纠正范围，从整个大脑缩小到半个。it指brain，the rest指另一半；keeping...说明与此同时保持的状态。shut down在这里是通俗叙述，不能机械理解为生理活动完全归零。读完讲解，可以把原文连起来再读一次；想保留的词句可使用已有收藏功能。",
+  "links": [
+    {
+      "text": "Cambridge IELTS 21 Academic",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=39"
+    },
+    {
+      "text": "核对原答案页",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=121"
+    }
+  ],
+  "details": [
+    {
+      "id": "material-reading-rd-c21-dreams-1",
+      "title": "材料精读 · 内容与词句",
+      "open": false,
+      "visible": true
+    }
+  ],
+  "saveFields": [
+    "case-rd-c21-dreams-1-q1",
+    "case-rd-c21-dreams-1-q2",
+    "case-rd-c21-dreams-1-q3",
+    "case-rd-c21-dreams-1-q4",
+    "case-rd-c21-dreams-1-q5",
+    "case-rd-c21-dreams-1-done",
+    "case-rd-c21-dreams-1-saved-at",
+    "case-rd-c21-dreams-1-revision"
+  ],
+  "images": [],
+  "audio": [],
+  "viewport": 1440,
+  "documentWidth": 1440
+}

@@ -1,0 +1,237 @@
+{
+  "requested": "material-reading-rd-c21-davies-2",
+  "from": [
+    "页面链接",
+    "每日安排目标"
+  ],
+  "actual": "#material-reading-rd-c21-davies-2",
+  "checkedAt": "2026-09-21T12:54:57.407Z",
+  "title": "练习 / 阅读 / The Davies Sisters｜印象派转向与战时收藏 · IELTS",
+  "label": "练习 / 阅读 / The Davies Sisters｜印象派转向与战时收藏",
+  "panel": "practice-reading",
+  "contentRoot": "reading-case-rd-c21-davies-2",
+  "headings": [
+    {
+      "tag": "H3",
+      "text": "对照答案，回到证据",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "原文第5段",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "原文第6段",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "原文第7段",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "词语与搭配",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "句子精读",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "这篇材料里可用于写作的表达",
+      "visible": true
+    }
+  ],
+  "controls": [
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "The Davies Sisters｜印象派转向与战时收藏未作答\n笔记填空 / 事实判断 TFNG · 3 段 · 268 词 · 4 题 · 同篇原文另有裁切",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "Cambridge IELTS 21 Academic",
+      "label": "",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=18",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "case-rd-c21-davies-2-q1",
+      "type": "text",
+      "text": "",
+      "label": "第 5 题作答",
+      "href": null,
+      "save": "case-rd-c21-davies-2-q1",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "case-rd-c21-davies-2-q2",
+      "type": "text",
+      "text": "",
+      "label": "第 6 题作答",
+      "href": null,
+      "save": "case-rd-c21-davies-2-q2",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "case-rd-c21-davies-2-q3",
+      "type": "text",
+      "text": "",
+      "label": "第 10 题作答",
+      "href": null,
+      "save": "case-rd-c21-davies-2-q3",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "case-rd-c21-davies-2-q4",
+      "type": "text",
+      "text": "",
+      "label": "第 11 题作答",
+      "href": null,
+      "save": "case-rd-c21-davies-2-q4",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "checkbox",
+      "text": "",
+      "label": "",
+      "href": null,
+      "save": "case-rd-c21-davies-2-done",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "hidden",
+      "text": "",
+      "label": "",
+      "href": null,
+      "save": "case-rd-c21-davies-2-saved-at",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "保留作答，查看答案",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "核对原答案页",
+      "label": "",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=119",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "case-rd-c21-davies-2-revision",
+      "type": "textarea",
+      "text": "",
+      "label": "我的修订／证据笔记",
+      "href": null,
+      "save": "case-rd-c21-davies-2-revision",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "材料精读 · 内容与词句",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "用于写作：题目要求讨论剧院和影院的经济、文化价值；此表达适合展开剧院支持当地艺术生产和创作者交流的文化作用。",
+      "label": "",
+      "href": "#writing-prep-wc-c21-t2-entertainment-from-rd-c21-davies-2",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    }
+  ],
+  "visibleText": "The Davies Sisters｜印象派转向与战时收藏未作答\n笔记填空 / 事实判断 TFNG · 3 段 · 268 词 · 4 题 · 同篇原文另有裁切\n0% · 0 / 1 完成\n\n真题 · Cambridge IELTS 21 Academic · PDF 第 18 页\n\nQ5–6：Choose ONE WORD ONLY from the passage. Q10–11：TRUE / FALSE / NOT GIVEN。\n\n原文第5段However, it was only a few years before their collecting took a new direction and they turned to the work of the French Impressionists***. We know that Hugh Blaker, as a champion of contemporary French art had a hand in the decision, and we know also that they would have seen examples on their various trips to Paris. Whatever the precise reason for this change, their first purchases of Impressionist art, made in October 1912, were scenes of Venice by the French artist Claude Monet. Over the next 12 years, the sisters amassed the bulk of their Impressionist collection, including six further works by Monet, two more by Manet, and three by Renoir, including his well-known painting La Parisienne.\n\n原文第6段The First World War (1914-1918) played a part in the development of the sisters' collection. Their initial response to the war effort was to finance the safe passage of artists from occupied Belgium to Wales, as a humanitarian act, but also with the hope of establishing a vibrant artists' community in the area. Later in the conflict, both sisters decided to volunteer at a canteen for troops at Troyes, in northern France; Gwendoline in 1916, followed by Margaret in 1917.\n\n原文第7段It was tedious and distressing work, which would have a permanent effect on Gwendoline's health. Yet on one of numerous trips to nearby Paris, she visited the Bernheim-Jeune Gallery. Here she acquired two works by Cézanne - Provençal Landscape and The François Zola Dam. The paintings were shipped directly to Bath, England, where they became the first works by Cézanne to go on display in a public gallery in Britain.\n\n*** Impressionist: an artist with a style of painting that developed in France in the late 1800s by Renoir, including his well-known painting La Parisienne\n\n原页文字提示：脚注引文保留原页；其后半句涉及 Renoir 作品，属于来源编辑瑕疵，不要把整条脚注当作英语完整定义范例。这里的 Impressionist 指印象派画家。\n\n5. the first Impressionist paintings they bought showed places in 5 __________\n\n第 5 题作答\n\n6. they worked in a 6 __________ for soldiers in France\n\n第 6 题作答\n\n10. Hugh Blaker opposed the Davies sisters' decision to buy art by French Impressionists.\n\n第 10 题作答\n\n11. The exhibition of Cézanne paintings at the Bath gallery was very popular with the public.\n\n第 11 题作答\n保留作答，查看答案\n\n先作答；不确定的题也可记录判断与疑点。\n\n材料精读 · 内容与词句\n\n姐妹的收藏逐渐转向法国印象派。文章承认影响因素存在，却没有把转向归结为一个已确定的原因；随后把战争中的救助、志愿服务和购画经历交织起来，展示私人行动如何最终进入公共文化生活。\n\n原文第5段\nHowever, it was only a few years before their collecting took a new direction and they turned to the work of the French Impressionists***. We know that Hugh Blaker, as a champion of contemporary French art had a hand in the decision, and we know also that they would have seen examples on their various trips to Paris. Whatever the precise reason for this change, their first purchases of Impressionist art, made in October 1912, were scenes of Venice by the French artist Claude Monet. Over the next 12 years, the sisters amassed the bulk of their Impressionist collection, including six further works by Monet, two more by Manet, and three by Renoir, including his well-known painting La Parisienne.\n\n收藏方向改变后，姐妹开始购入法国印象派作品。支持当代法国艺术的Hugh Blaker参与了这个决定，她们在巴黎旅行时也应当接触过相关作品，但作者没有断言某一个因素就是决定性原因。1912年她们购入莫奈的威尼斯风景，之后12年形成了印象派收藏的主体。the bulk强调大部分藏品在这一时期积累。\n\n原文第6段\nThe First World War (1914-1918) played a part in the development of the sisters' collection. Their initial response to the war effort was to finance the safe passage of artists from occupied Belgium to Wales, as a humanitarian act, but also with the hope of establishing a vibrant artists' community in the area. Later in the conflict, both sisters decided to volunteer at a canteen for troops at Troyes, in northern France; Gwendoline in 1916, followed by Margaret in 1917.\n\n第一次世界大战也影响了她们的收藏经历。她们起初出钱帮助被占领比利时的艺术家安全来到威尔士，这既出于人道关怀，也带有发展当地艺术家社群的愿望。后来两人先后到法国为部队食堂做志愿服务。本段把文化理想放在战争救助的现实行动中，而不是只讲艺术市场。\n\n原文第7段\nIt was tedious and distressing work, which would have a permanent effect on Gwendoline's health. Yet on one of numerous trips to nearby Paris, she visited the Bernheim-Jeune Gallery. Here she acquired two works by Cézanne - Provençal Landscape and The François Zola Dam. The paintings were shipped directly to Bath, England, where they became the first works by Cézanne to go on display in a public gallery in Britain.\n\n食堂工作单调又令人痛苦，并对格温多琳的健康产生了持久影响。即使如此，她仍在赴巴黎期间参观画廊并购买塞尚的两幅画。这些作品被直接运往英国巴斯，成为英国公共画廊首次展出的塞尚作品。最后一句将个人购藏的故事转向公众能够接触艺术的变化。\n\n词语与搭配\ntook a new direction\n\n转向新的方向\n\n主语可以是事业、研究或活动的发展；这里的collecting指持续的收藏实践发生变化。\n\nhad a hand in the decision\n\n参与或影响了这个决定\n\nhave a hand in不表示独自决定；文中同时承认旅行见闻等可能影响。\n\na vibrant artists' community\n\n一个充满活力的艺术家社群\n\nvibrant强调活跃、有创造力；artists'是复数所有格，community指艺术家相互联系形成的群体，不只是建筑或展馆。\n\ngo on display in a public gallery\n\n开始在公共画廊展出\n\ngo on display强调从未展出到展出的状态变化，public gallery使私人收藏与公共接触联系起来。\n\n句子精读\nWhatever the precise reason for this change, their first purchases of Impressionist art, made in October 1912, were scenes of Venice by the French artist Claude Monet.\n\n无论这一变化的确切原因是什么，她们于1912年10月首次购入的印象派作品，都是法国画家克洛德·莫奈描绘威尼斯的风景画。\n\nWhatever the precise reason是省略了may have been一类成分的让步结构，表示不论原因如何。主干是their first purchases were scenes of Venice；made in October 1912是过去分词短语，补充购入时间；by...说明作者。this change指收藏转向印象派，日期、描绘对象与作者属于不同层面的信息。\n\nTheir initial response to the war effort was to finance the safe passage of artists from occupied Belgium to Wales, as a humanitarian act, but also with the hope of establishing a vibrant artists' community in the area.\n\n她们最初对战时行动的回应，是资助艺术家从被占领的比利时安全前往威尔士；这是一项人道行动，同时也寄托着在当地建立活跃艺术家社群的希望。\n\n主干是Their initial response was to finance...，不定式说明具体行动。from...to...标明迁移起止地。as a humanitarian act与with the hope of...并列说明两层动机，but also在这里补充文化愿景而非否定人道目的。the area指威尔士当地；hope表明愿望，不能直接当成已经实现的结果。\n\n这篇材料里可用于写作的表达\na vibrant artists' community\n\n一个充满活力的艺术家社群\n\n适合与support、sustain、help build搭配，讨论实体文化空间如何为创作者提供交流和演出机会。这里借用表达描述一种可能作用，不把文中救助艺术家的历史直接当成剧院效果的证据。\n\n用于写作：题目要求讨论剧院和影院的经济、文化价值；此表达适合展开剧院支持当地艺术生产和创作者交流的文化作用。\n\n读完讲解，可以把原文连起来再读一次；想保留的词句可使用已有收藏功能。",
+  "allContent": "The Davies Sisters｜印象派转向与战时收藏未作答笔记填空 / 事实判断 TFNG · 3 段 · 268 词 · 4 题 · 同篇原文另有裁切0% · 0 / 1 完成真题 · Cambridge IELTS 21 Academic · PDF 第 18 页Q5–6：Choose ONE WORD ONLY from the passage. Q10–11：TRUE / FALSE / NOT GIVEN。原文第5段However, it was only a few years before their collecting took a new direction and they turned to the work of the French Impressionists***. We know that Hugh Blaker, as a champion of contemporary French art had a hand in the decision, and we know also that they would have seen examples on their various trips to Paris. Whatever the precise reason for this change, their first purchases of Impressionist art, made in October 1912, were scenes of Venice by the French artist Claude Monet. Over the next 12 years, the sisters amassed the bulk of their Impressionist collection, including six further works by Monet, two more by Manet, and three by Renoir, including his well-known painting La Parisienne.原文第6段The First World War (1914-1918) played a part in the development of the sisters' collection. Their initial response to the war effort was to finance the safe passage of artists from occupied Belgium to Wales, as a humanitarian act, but also with the hope of establishing a vibrant artists' community in the area. Later in the conflict, both sisters decided to volunteer at a canteen for troops at Troyes, in northern France; Gwendoline in 1916, followed by Margaret in 1917.原文第7段It was tedious and distressing work, which would have a permanent effect on Gwendoline's health. Yet on one of numerous trips to nearby Paris, she visited the Bernheim-Jeune Gallery. Here she acquired two works by Cézanne - Provençal Landscape and The François Zola Dam. The paintings were shipped directly to Bath, England, where they became the first works by Cézanne to go on display in a public gallery in Britain.*** Impressionist: an artist with a style of painting that developed in France in the late 1800s by Renoir, including his well-known painting La Parisienne原页文字提示：脚注引文保留原页；其后半句涉及 Renoir 作品，属于来源编辑瑕疵，不要把整条脚注当作英语完整定义范例。这里的 Impressionist 指印象派画家。5. the first Impressionist paintings they bought showed places in 5 __________第 5 题作答6. they worked in a 6 __________ for soldiers in France第 6 题作答10. Hugh Blaker opposed the Davies sisters' decision to buy art by French Impressionists.第 10 题作答11. The exhibition of Cézanne paintings at the Bath gallery was very popular with the public.第 11 题作答保留作答，查看答案先作答；不确定的题也可记录判断与疑点。对照答案，回到证据第 5 题 · Venice题干问画中的地点，不是买画地点；Paris是干扰信息。their first purchases of Impressionist art, made in October 1912, were scenes of Venice第 6 题 · canteensoldiers对应troops；a后填地点canteen，不能答城市Troyes。both sisters decided to volunteer at a canteen for troops at Troyes第 10 题 · FALSEchampion与had a hand in说明支持并参与，和opposed相反，属于明确反证。Hugh Blaker, as a champion of contemporary French art had a hand in the decision第 11 题 · NOT GIVEN原文只确认首次公开展出，没有观众反响或人数。全文也未提供其受欢迎程度；first与popular不可互换。the first works by Cézanne to go on display in a public gallery in Britain核对原答案页我的修订／证据笔记材料精读 · 内容与词句姐妹的收藏逐渐转向法国印象派。文章承认影响因素存在，却没有把转向归结为一个已确定的原因；随后把战争中的救助、志愿服务和购画经历交织起来，展示私人行动如何最终进入公共文化生活。原文第5段However, it was only a few years before their collecting took a new direction and they turned to the work of the French Impressionists***. We know that Hugh Blaker, as a champion of contemporary French art had a hand in the decision, and we know also that they would have seen examples on their various trips to Paris. Whatever the precise reason for this change, their first purchases of Impressionist art, made in October 1912, were scenes of Venice by the French artist Claude Monet. Over the next 12 years, the sisters amassed the bulk of their Impressionist collection, including six further works by Monet, two more by Manet, and three by Renoir, including his well-known painting La Parisienne.收藏方向改变后，姐妹开始购入法国印象派作品。支持当代法国艺术的Hugh Blaker参与了这个决定，她们在巴黎旅行时也应当接触过相关作品，但作者没有断言某一个因素就是决定性原因。1912年她们购入莫奈的威尼斯风景，之后12年形成了印象派收藏的主体。the bulk强调大部分藏品在这一时期积累。原文第6段The First World War (1914-1918) played a part in the development of the sisters' collection. Their initial response to the war effort was to finance the safe passage of artists from occupied Belgium to Wales, as a humanitarian act, but also with the hope of establishing a vibrant artists' community in the area. Later in the conflict, both sisters decided to volunteer at a canteen for troops at Troyes, in northern France; Gwendoline in 1916, followed by Margaret in 1917.第一次世界大战也影响了她们的收藏经历。她们起初出钱帮助被占领比利时的艺术家安全来到威尔士，这既出于人道关怀，也带有发展当地艺术家社群的愿望。后来两人先后到法国为部队食堂做志愿服务。本段把文化理想放在战争救助的现实行动中，而不是只讲艺术市场。原文第7段It was tedious and distressing work, which would have a permanent effect on Gwendoline's health. Yet on one of numerous trips to nearby Paris, she visited the Bernheim-Jeune Gallery. Here she acquired two works by Cézanne - Provençal Landscape and The François Zola Dam. The paintings were shipped directly to Bath, England, where they became the first works by Cézanne to go on display in a public gallery in Britain.食堂工作单调又令人痛苦，并对格温多琳的健康产生了持久影响。即使如此，她仍在赴巴黎期间参观画廊并购买塞尚的两幅画。这些作品被直接运往英国巴斯，成为英国公共画廊首次展出的塞尚作品。最后一句将个人购藏的故事转向公众能够接触艺术的变化。词语与搭配took a new direction转向新的方向主语可以是事业、研究或活动的发展；这里的collecting指持续的收藏实践发生变化。had a hand in the decision参与或影响了这个决定have a hand in不表示独自决定；文中同时承认旅行见闻等可能影响。a vibrant artists' community一个充满活力的艺术家社群vibrant强调活跃、有创造力；artists'是复数所有格，community指艺术家相互联系形成的群体，不只是建筑或展馆。go on display in a public gallery开始在公共画廊展出go on display强调从未展出到展出的状态变化，public gallery使私人收藏与公共接触联系起来。句子精读Whatever the precise reason for this change, their first purchases of Impressionist art, made in October 1912, were scenes of Venice by the French artist Claude Monet.无论这一变化的确切原因是什么，她们于1912年10月首次购入的印象派作品，都是法国画家克洛德·莫奈描绘威尼斯的风景画。Whatever the precise reason是省略了may have been一类成分的让步结构，表示不论原因如何。主干是their first purchases were scenes of Venice；made in October 1912是过去分词短语，补充购入时间；by...说明作者。this change指收藏转向印象派，日期、描绘对象与作者属于不同层面的信息。Their initial response to the war effort was to finance the safe passage of artists from occupied Belgium to Wales, as a humanitarian act, but also with the hope of establishing a vibrant artists' community in the area.她们最初对战时行动的回应，是资助艺术家从被占领的比利时安全前往威尔士；这是一项人道行动，同时也寄托着在当地建立活跃艺术家社群的希望。主干是Their initial response was to finance...，不定式说明具体行动。from...to...标明迁移起止地。as a humanitarian act与with the hope of...并列说明两层动机，but also在这里补充文化愿景而非否定人道目的。the area指威尔士当地；hope表明愿望，不能直接当成已经实现的结果。这篇材料里可用于写作的表达a vibrant artists' community一个充满活力的艺术家社群适合与support、sustain、help build搭配，讨论实体文化空间如何为创作者提供交流和演出机会。这里借用表达描述一种可能作用，不把文中救助艺术家的历史直接当成剧院效果的证据。用于写作：题目要求讨论剧院和影院的经济、文化价值；此表达适合展开剧院支持当地艺术生产和创作者交流的文化作用。读完讲解，可以把原文连起来再读一次；想保留的词句可使用已有收藏功能。",
+  "links": [
+    {
+      "text": "Cambridge IELTS 21 Academic",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=18"
+    },
+    {
+      "text": "核对原答案页",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=119"
+    },
+    {
+      "text": "用于写作：题目要求讨论剧院和影院的经济、文化价值；此表达适合展开剧院支持当地艺术生产和创作者交流的文化作用。",
+      "href": "#writing-prep-wc-c21-t2-entertainment-from-rd-c21-davies-2"
+    }
+  ],
+  "details": [
+    {
+      "id": "material-reading-rd-c21-davies-2",
+      "title": "材料精读 · 内容与词句",
+      "open": true,
+      "visible": true
+    }
+  ],
+  "saveFields": [
+    "case-rd-c21-davies-2-q1",
+    "case-rd-c21-davies-2-q2",
+    "case-rd-c21-davies-2-q3",
+    "case-rd-c21-davies-2-q4",
+    "case-rd-c21-davies-2-done",
+    "case-rd-c21-davies-2-saved-at",
+    "case-rd-c21-davies-2-revision"
+  ],
+  "images": [],
+  "audio": [],
+  "viewport": 1440,
+  "documentWidth": 1440
+}

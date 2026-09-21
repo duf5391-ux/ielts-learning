@@ -1,0 +1,68 @@
+{
+  "source": "C:\\Users\\Admin1\\Documents\\ChatGPT\\ielts\\content-pipeline\\mobile-media-20260921\\开始学习.html",
+  "baseline": "C:\\Users\\Admin1\\Documents\\Codex\\2026-09-12\\referenced-chatgpt-conversation-this-is-an\\outputs\\IELTS-四科学习册\\开始学习.html",
+  "sha256": "7ea735c348907a20b6b808ee403423aea263c29811071067ddca41fa85bfce44",
+  "method": "Actual candidate core, navigation, vocabulary, learning and selected daily controllers in Node/linkedom. Synthetic records, controlled rAF and idle fallback queues; no real browser, layout, timing claim or user data.",
+  "checks": [
+    {
+      "name": "All 3353 save controls, content IDs and fixed daily/health/concurrency blocks survive",
+      "status": "pass",
+      "detail": {
+        "saveFields": 3353
+      }
+    },
+    {
+      "name": "Every inline executable script parses",
+      "status": "pass",
+      "detail": {
+        "scripts": 25
+      }
+    },
+    {
+      "name": "Startup paints the active catalog once and leaves hidden unit progress unbuilt",
+      "status": "pass"
+    },
+    {
+      "name": "Input is persisted synchronously and updates only the related word/score counter",
+      "status": "pass"
+    },
+    {
+      "name": "One input burst schedules one frame per progress controller and retains every test part",
+      "status": "pass"
+    },
+    {
+      "name": "Unit deep links, visible progress and category return reflect saved values",
+      "status": "pass"
+    },
+    {
+      "name": "Answer gates preserve required answers, saved first attempts, revisions and save-failure lock",
+      "status": "pass",
+      "detail": {
+        "requiredAnswers": 13
+      }
+    },
+    {
+      "name": "Vocabulary index yields between batches, direct route waits, pagination mutates at most two pages",
+      "status": "pass",
+      "detail": {
+        "indexFrames": 22,
+        "pageSize": 25,
+        "nextPageHiddenWrites": 50
+      }
+    },
+    {
+      "name": "Independent remote fields are merged; conflicting same-field writes retain the remote value",
+      "status": "pass"
+    },
+    {
+      "name": "Daily route start, pause and reload retain their original saved record",
+      "status": "pass"
+    },
+    {
+      "name": "Input files are unchanged by isolated validation",
+      "status": "pass"
+    }
+  ],
+  "passed": 11,
+  "total": 11
+}

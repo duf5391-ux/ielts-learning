@@ -1,0 +1,146 @@
+{
+  "requested": "vocabulary-review",
+  "from": [
+    "页面链接"
+  ],
+  "actual": "#vocabulary-review",
+  "checkedAt": "2026-09-21T12:54:10.849Z",
+  "title": "学习记录与备份 · IELTS",
+  "label": "学习记录与备份",
+  "panel": "records",
+  "contentRoot": "vocabulary-review",
+  "headings": [
+    {
+      "tag": "H2",
+      "text": "我的单词表",
+      "visible": true
+    }
+  ],
+  "controls": [
+    {
+      "tag": "SELECT",
+      "id": "vr-mode",
+      "type": "select-one",
+      "text": "看英文 · 回忆意思\n看释义 · 拼写词语",
+      "label": "复习方式",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false,
+      "options": [
+        {
+          "value": "recall",
+          "label": "看英文 · 回忆意思"
+        },
+        {
+          "value": "spelling",
+          "label": "看释义 · 拼写词语"
+        }
+      ]
+    },
+    {
+      "tag": "BUTTON",
+      "id": "vr-start",
+      "type": "button",
+      "text": "开始今日复习",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": true,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "vr-practice-all",
+      "type": "button",
+      "text": "加练全部收藏",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": true,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "查看单词表 · 0 个词与词组",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "vr-search",
+      "type": "search",
+      "text": "",
+      "label": "搜索收藏的词语",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SELECT",
+      "id": "vr-filter",
+      "type": "select-one",
+      "text": "全部收藏\n现在该复习\n还未复习\n稍后复习",
+      "label": "单词表范围",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false,
+      "options": [
+        {
+          "value": "all",
+          "label": "全部收藏"
+        },
+        {
+          "value": "due",
+          "label": "现在该复习"
+        },
+        {
+          "value": "new",
+          "label": "还未复习"
+        },
+        {
+          "value": "later",
+          "label": "稍后复习"
+        }
+      ]
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "复习如何安排？",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    }
+  ],
+  "visibleText": "MY VOCABULARY\n\n我的单词表\n\n把查过的词与词组收藏起来，连同原句和搭配一起复习。\n\n0\n已收藏\n0\n现在可复习\n0\n未开始\n看英文 · 回忆意思\n看释义 · 拼写词语\n开始今日复习\n加练全部收藏\n\n查看单词表 · 0 个词与词组\n全部收藏\n现在该复习\n还未复习\n稍后复习\n\n查词后点“收藏到单词表”，或者选中正文词组后收藏。\n\n复习如何安排？",
+  "allContent": "MY VOCABULARY我的单词表把查过的词与词组收藏起来，连同原句和搭配一起复习。0已收藏0现在可复习0未开始看英文 · 回忆意思看释义 · 拼写词语开始今日复习加练全部收藏查看单词表 · 0 个词与词组全部收藏现在该复习还未复习稍后复习查词后点“收藏到单词表”，或者选中正文词组后收藏。复习如何安排？看英文回忆时，可以直接点“不会／模糊／会”，释义和原句按需查看。独立回忆后的“会”：下次在 1、3、7、14、30、60 天后逐步安排；模糊：1 天后；不会：10 分钟后。看过提示后的自评仍会记录，但不会增加独立回忆连续次数。单词表上的快捷自评只标记现在的感觉，不算完成复习，也不改到期时间。拼写仍需先尝试，拼错或查看答案后不能记为独立拼对。单次自评不代表已经掌握。收藏、原句、自填释义、每次复习和拼写答案均包含在“备份学习记录”及“导出查词记录”中。取消收藏只移出复习队列，查询和复习历史继续保留。",
+  "links": [],
+  "details": [
+    {
+      "id": "",
+      "title": "查看单词表 · 0 个词与词组",
+      "open": true,
+      "visible": true
+    },
+    {
+      "id": "",
+      "title": "复习如何安排？",
+      "open": false,
+      "visible": true
+    }
+  ],
+  "saveFields": [],
+  "images": [],
+  "audio": [],
+  "viewport": 1440,
+  "documentWidth": 1440
+}

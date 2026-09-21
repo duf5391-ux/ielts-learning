@@ -1,0 +1,254 @@
+{
+  "requested": "reading-case-rd-c21-t4-hyacinth-biogas",
+  "from": [
+    "内容单元",
+    "页面链接",
+    "每日安排目标"
+  ],
+  "actual": "#reading-case-rd-c21-t4-hyacinth-biogas",
+  "checkedAt": "2026-09-21T12:52:17.468Z",
+  "title": "练习 / 阅读 / Water hyacinth · 沼气流程、收益与价格障碍 · IELTS",
+  "label": "练习 / 阅读 / Water hyacinth · 沼气流程、收益与价格障碍",
+  "panel": "practice-reading",
+  "contentRoot": "reading-case-rd-c21-t4-hyacinth-biogas",
+  "headings": [
+    {
+      "tag": "H3",
+      "text": "对照答案，回到证据",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "原文片段 · 1",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "原文片段 · 2",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "原文片段 · 3",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "原文片段 · 4",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "原文片段 · 5",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "词语与搭配",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "句子精读",
+      "visible": false
+    }
+  ],
+  "controls": [
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "Water hyacinth · 沼气流程、收益与价格障碍未作答\n流程图填空 / 笔记填空 · 5 段 · 345 词 · 6 题 · 同篇原文另有裁切",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "Cambridge IELTS 21 Academic",
+      "label": "",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=83",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "case-rd-c21-t4-hyacinth-biogas-q1",
+      "type": "text",
+      "text": "",
+      "label": "第 8 题作答",
+      "href": null,
+      "save": "case-rd-c21-t4-hyacinth-biogas-q1",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "case-rd-c21-t4-hyacinth-biogas-q2",
+      "type": "text",
+      "text": "",
+      "label": "第 9 题作答",
+      "href": null,
+      "save": "case-rd-c21-t4-hyacinth-biogas-q2",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "case-rd-c21-t4-hyacinth-biogas-q3",
+      "type": "text",
+      "text": "",
+      "label": "第 10 题作答",
+      "href": null,
+      "save": "case-rd-c21-t4-hyacinth-biogas-q3",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "case-rd-c21-t4-hyacinth-biogas-q4",
+      "type": "text",
+      "text": "",
+      "label": "第 11 题作答",
+      "href": null,
+      "save": "case-rd-c21-t4-hyacinth-biogas-q4",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "case-rd-c21-t4-hyacinth-biogas-q5",
+      "type": "text",
+      "text": "",
+      "label": "第 12 题作答",
+      "href": null,
+      "save": "case-rd-c21-t4-hyacinth-biogas-q5",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "case-rd-c21-t4-hyacinth-biogas-q6",
+      "type": "text",
+      "text": "",
+      "label": "第 13 题作答",
+      "href": null,
+      "save": "case-rd-c21-t4-hyacinth-biogas-q6",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "checkbox",
+      "text": "",
+      "label": "",
+      "href": null,
+      "save": "case-rd-c21-t4-hyacinth-biogas-done",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "hidden",
+      "text": "",
+      "label": "",
+      "href": null,
+      "save": "case-rd-c21-t4-hyacinth-biogas-saved-at",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "保留作答，查看答案",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "核对原答案页",
+      "label": "",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=125",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "case-rd-c21-t4-hyacinth-biogas-revision",
+      "type": "textarea",
+      "text": "",
+      "label": "我的修订／证据笔记",
+      "href": null,
+      "save": "case-rd-c21-t4-hyacinth-biogas-revision",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "材料精读 · 内容与词句",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    }
+  ],
+  "visibleText": "Water hyacinth · 沼气流程、收益与价格障碍未作答\n流程图填空 / 笔记填空 · 5 段 · 345 词 · 6 题 · 同篇原文另有裁切\n0% · 0 / 1 完成\n\n真题 · Cambridge IELTS 21 Academic · PDF 第 83 页\n\n按原题号作答。保留考试原文与题目难度；以下是连续原段裁切，未改写原文。\n\n原第6–10段连续裁切。原流程最后一步为“Then use the gas for cooking as well as making water fit for human consumption”，与片段purifying water对应，未另造步骤。\n\n原文片段 · 1In 2018, the technology came to a village on the shore of Lake Victoria, called Dunga. The project promised a two-for-one solution to the dual menaces of the water hyacinth and dependence on firewood. The community received a pair of donated biogas digesters - machines that would transform a mix of water hyacinth and cow dung into biogas for cooking.\n\n原文片段 · 2The digesters work a bit like a stomach. The mixture goes in one end - think of it as a mouth - and over the next 20 to 30 days, it goes through a fermentation process and breaks down, giving off gas that comes out the other end. From there, the clean burning gas is passed through pipes to the point of use, just like traditional domestic gas. In Dunga, the machines produce enough gas to serve about 60% of the village's population. It is used in domestic stoves and for other household tasks such as purifying water and incubating chicks.\n\n原文片段 · 3The project is testing whether biogas can provide an effective alternative to firewood and charcoal in rural Kenyan communities. Results indicate that the programme seems to be working. The women who smoke the lake fish are already getting sick less often. Besides, they don't have to devote a lot of time every day to gathering firewood, which is a great relief. As a result, they're able to make more money for their families from other enterprises.\n\n原文片段 · 4Kanyiva Muindi is an epidemiologist and air pollution research fellow at the African Population and Health Research Centre in Nairobi. She says families who switch to the smokeless cooking method could expect fewer respiratory diseases. Women, young girls and children are particularly vulnerable because they are the ones who cook in the kitchen or outside over fires.\n\n原文片段 · 5How much better the biogas stoves will be for the community's health still needs more research, says Dominic Kahumbu Wanjihia, Biogas International's chief executive. But unless the price of the machines drops, it's pretty clear that most communities will never be able to afford any, since they sell for about $750.\n\n8. First, place water hyacinth together with some ______ into a digester\n\nComplete the flow-chart below. Choose NO MORE THAN TWO WORDS from the passage for each answer. Generating biogas for domestic use in Dunga.\n\n第 8 题作答\n\n9. Leave the mixture until the ______ is completed\n\nComplete the flow-chart below. Choose NO MORE THAN TWO WORDS from the passage for each answer. Generating biogas for domestic use in Dunga.\n\n第 9 题作答\n\n10. Capture the gas emitted by the digester and use ______ to transport it to individual homes\n\nComplete the flow-chart below. Choose NO MORE THAN TWO WORDS from the passage for each answer. Generating biogas for domestic use in Dunga.\n\n第 10 题作答\n\n11. no need for them to spend so much ______ collecting fuel\n\nComplete the notes below. Choose ONE WORD ONLY from the passage for each answer.\n\n第 11 题作答\n\n12. they can focus on different tasks that bring in ______\n\nComplete the notes below. Choose ONE WORD ONLY from the passage for each answer.\n\n第 12 题作答\n\n13. the ______ of the digesters is beyond the reach of most villages\n\nComplete the notes below. Choose ONE WORD ONLY from the passage for each answer.\n\n第 13 题作答\n保留作答，查看答案\n\n先作答；不确定的题也可记录判断与疑点。\n\n材料精读 · 内容与词句",
+  "allContent": "Water hyacinth · 沼气流程、收益与价格障碍未作答流程图填空 / 笔记填空 · 5 段 · 345 词 · 6 题 · 同篇原文另有裁切0% · 0 / 1 完成真题 · Cambridge IELTS 21 Academic · PDF 第 83 页按原题号作答。保留考试原文与题目难度；以下是连续原段裁切，未改写原文。原第6–10段连续裁切。原流程最后一步为“Then use the gas for cooking as well as making water fit for human consumption”，与片段purifying water对应，未另造步骤。原文片段 · 1In 2018, the technology came to a village on the shore of Lake Victoria, called Dunga. The project promised a two-for-one solution to the dual menaces of the water hyacinth and dependence on firewood. The community received a pair of donated biogas digesters - machines that would transform a mix of water hyacinth and cow dung into biogas for cooking.原文片段 · 2The digesters work a bit like a stomach. The mixture goes in one end - think of it as a mouth - and over the next 20 to 30 days, it goes through a fermentation process and breaks down, giving off gas that comes out the other end. From there, the clean burning gas is passed through pipes to the point of use, just like traditional domestic gas. In Dunga, the machines produce enough gas to serve about 60% of the village's population. It is used in domestic stoves and for other household tasks such as purifying water and incubating chicks.原文片段 · 3The project is testing whether biogas can provide an effective alternative to firewood and charcoal in rural Kenyan communities. Results indicate that the programme seems to be working. The women who smoke the lake fish are already getting sick less often. Besides, they don't have to devote a lot of time every day to gathering firewood, which is a great relief. As a result, they're able to make more money for their families from other enterprises.原文片段 · 4Kanyiva Muindi is an epidemiologist and air pollution research fellow at the African Population and Health Research Centre in Nairobi. She says families who switch to the smokeless cooking method could expect fewer respiratory diseases. Women, young girls and children are particularly vulnerable because they are the ones who cook in the kitchen or outside over fires.原文片段 · 5How much better the biogas stoves will be for the community's health still needs more research, says Dominic Kahumbu Wanjihia, Biogas International's chief executive. But unless the price of the machines drops, it's pretty clear that most communities will never be able to afford any, since they sell for about $750.8. First, place water hyacinth together with some ______ into a digesterComplete the flow-chart below. Choose NO MORE THAN TWO WORDS from the passage for each answer. Generating biogas for domestic use in Dunga.第 8 题作答9. Leave the mixture until the ______ is completedComplete the flow-chart below. Choose NO MORE THAN TWO WORDS from the passage for each answer. Generating biogas for domestic use in Dunga.第 9 题作答10. Capture the gas emitted by the digester and use ______ to transport it to individual homesComplete the flow-chart below. Choose NO MORE THAN TWO WORDS from the passage for each answer. Generating biogas for domestic use in Dunga.第 10 题作答11. no need for them to spend so much ______ collecting fuelComplete the notes below. Choose ONE WORD ONLY from the passage for each answer.第 11 题作答12. they can focus on different tasks that bring in ______Complete the notes below. Choose ONE WORD ONLY from the passage for each answer.第 12 题作答13. the ______ of the digesters is beyond the reach of most villagesComplete the notes below. Choose ONE WORD ONLY from the passage for each answer.第 13 题作答保留作答，查看答案先作答；不确定的题也可记录判断与疑点。对照答案，回到证据第 8 题 · cow dung本村digester混入cow dung，两词；不能因前文另有chicken manure实验就换材料。a mix of water hyacinth and cow dung into biogas for cooking第 9 题 · fermentation / fermentation process题面until ... completed对应经过发酵阶段；官方答案接受fermentation或fermentation process，均不超过两词。over the next 20 to 30 days, it goes through a fermentation process and breaks down第 10 题 · pipes填运送管道pipes，不填终点homes或燃气本身。流程终点还包括做饭和净水。the clean burning gas is passed through pipes to the point of use第 11 题 · timespend ... collecting与devote ... to gathering对应；空格是节省的time。they don't have to devote a lot of time every day to gathering firewood第 12 题 · moneydifferent tasks对应other enterprises；bring in对应make money。they're able to make more money for their families from other enterprises第 13 题 · pricebeyond the reach意为负担不起，与unless price drops的条件对应；题目一词，不能填750 dollars。unless the price of the machines drops ... most communities will never be able to afford any核对原答案页我的修订／证据笔记材料精读 · 内容与词句Dunga 的项目把水葫芦和牛粪转成沼气，同时尝试减少水生植物危害与柴火依赖。文章交代运作过程和初步生活变化，也保留健康效果仍需研究、设备成本阻碍推广两项限制。原文片段 · 1In 2018, the technology came to a village on the shore of Lake Victoria, called Dunga. The project promised a two-for-one solution to the dual menaces of the water hyacinth and dependence on firewood. The community received a pair of donated biogas digesters - machines that would transform a mix of water hyacinth and cow dung into biogas for cooking.2018年，当地收到两台捐赠的沼气消化装置，原料是水葫芦与牛粪的混合物。two-for-one 指一项方案同时面对两个问题：植物堵水与燃料依赖。promised 表示项目提出的承诺或前景，不代表每一方面成效已完全实现。原文片段 · 2The digesters work a bit like a stomach. The mixture goes in one end - think of it as a mouth - and over the next 20 to 30 days, it goes through a fermentation process and breaks down, giving off gas that comes out the other end. From there, the clean burning gas is passed through pipes to the point of use, just like traditional domestic gas. In Dunga, the machines produce enough gas to serve about 60% of the village's population. It is used in domestic stoves and for other household tasks such as purifying water and incubating chicks.胃和嘴的比喻帮助理解装置：混合物进入后，在20至30天里发酵分解，释放的气体经管道送往使用处。原文说供应量可覆盖村庄约60%人口，并举出做饭、净水及孵小鸡用途。It 在末句指沼气，而非消化装置本体。原文片段 · 3The project is testing whether biogas can provide an effective alternative to firewood and charcoal in rural Kenyan communities. Results indicate that the programme seems to be working. The women who smoke the lake fish are already getting sick less often. Besides, they don't have to devote a lot of time every day to gathering firewood, which is a great relief. As a result, they're able to make more money for their families from other enterprises.作者描述初步变化：熏鱼女性生病次数减少，也节省了每天拾柴的时间，从而有机会经营其他生计。seems to be working 保留观察的初步性。经济收益不只是买燃料花费改变，还包括时间被释放后可以投入其他活动。原文片段 · 4Kanyiva Muindi is an epidemiologist and air pollution research fellow at the African Population and Health Research Centre in Nairobi. She says families who switch to the smokeless cooking method could expect fewer respiratory diseases. Women, young girls and children are particularly vulnerable because they are the ones who cook in the kitchen or outside over fires.研究人员认为，改用无烟烹饪的家庭有望减少呼吸系统疾病；妇女、女孩和儿童因经常在炉火旁做饭而更易受影响。because 把脆弱性与接触环境相连，并非声称这些群体生理上必然更弱。could expect 是预期而非效果保证。原文片段 · 5How much better the biogas stoves will be for the community's health still needs more research, says Dominic Kahumbu Wanjihia, Biogas International's chief executive. But unless the price of the machines drops, it's pretty clear that most communities will never be able to afford any, since they sell for about $750.文章最后主动收紧结论：社区健康改善究竟多大还需更多研究。与此同时，约750美元的售价使多数社区难以负担，除非价格下降。技术能工作、能改善生活与能被广泛购买，是三个不同的问题；捐赠试点不自动证明商业推广可行。词语与搭配a two-for-one solution同时解决两个问题的方案two-for-one 借用日常促销表达，这里指一种技术有两个预期用途，不是实际购买折扣。goes through a fermentation process经历发酵过程go through 表示经历某过程；这里的主语是进入装置的混合原料。provide an effective alternative to为……提供有效替代alternative to 后接被替代的方式；effective 需要具体效果支持，不能仅表示更新颖。devote a lot of time every day to gathering firewood每天花大量时间收集柴火devote time to 后用名词或动名词，to gathering 中的 to 是介词。句子精读The mixture goes in one end - think of it as a mouth - and over the next 20 to 30 days, it goes through a fermentation process and breaks down, giving off gas that comes out the other end.混合物从一端进入——可以把这一端想成嘴——随后在20至30天里经历发酵并分解，释放出的气体从另一端排出。破折号中的话是帮助理解的插入比喻。前一个 it 指入口，后一个 it 指 mixture；要依据各自语境区分。giving off 表示分解时释放气体，that comes out 修饰 gas，交代气体的流向。But unless the price of the machines drops, it's pretty clear that most communities will never be able to afford any, since they sell for about $750.但除非这些机器降价，否则很明显，多数社区将无力购买，因为它们的售价约为750美元。unless 表示只有价格下降才可能改变后面的负担问题。any 省略了 machines，they 也回指设备。since 在这里解释原因而非表示自某时以来；never 带出受访者对当前价格障碍的强烈判断。读完讲解，可以把原文连起来再读一次；想保留的词句可使用已有收藏功能。",
+  "links": [
+    {
+      "text": "Cambridge IELTS 21 Academic",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=83"
+    },
+    {
+      "text": "核对原答案页",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=125"
+    }
+  ],
+  "details": [
+    {
+      "id": "material-reading-rd-c21-t4-hyacinth-biogas",
+      "title": "材料精读 · 内容与词句",
+      "open": false,
+      "visible": true
+    }
+  ],
+  "saveFields": [
+    "case-rd-c21-t4-hyacinth-biogas-q1",
+    "case-rd-c21-t4-hyacinth-biogas-q2",
+    "case-rd-c21-t4-hyacinth-biogas-q3",
+    "case-rd-c21-t4-hyacinth-biogas-q4",
+    "case-rd-c21-t4-hyacinth-biogas-q5",
+    "case-rd-c21-t4-hyacinth-biogas-q6",
+    "case-rd-c21-t4-hyacinth-biogas-done",
+    "case-rd-c21-t4-hyacinth-biogas-saved-at",
+    "case-rd-c21-t4-hyacinth-biogas-revision"
+  ],
+  "images": [],
+  "audio": [],
+  "viewport": 1440,
+  "documentWidth": 1440
+}

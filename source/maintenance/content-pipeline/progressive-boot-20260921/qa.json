@@ -1,0 +1,59 @@
+{
+  "source": "C:\\Users\\Admin1\\Documents\\ChatGPT\\ielts\\content-pipeline\\progressive-boot-20260921\\source.html",
+  "sourceSha256": "7ea735c348907a20b6b808ee403423aea263c29811071067ddca41fa85bfce44",
+  "entrySha256": "f5eedbc537283fd4edb1a36782e98559ed776e62ba38d87eeec833ad932761c7",
+  "environment": "Node/linkedom, isolated synthetic execution hooks (not a real browser)",
+  "status": "pass",
+  "checks": [
+    {
+      "name": "Build is a byte-exact reassembly of the supplied source",
+      "status": "pass",
+      "detail": {
+        "fields": 3353,
+        "sourceBytes": 3978782,
+        "entryBytes": 138993,
+        "packs": 31,
+        "operations": 396
+      }
+    },
+    {
+      "name": "Real loader assembles identical DOM and preserves deep link before ordered one-time activation",
+      "status": "pass",
+      "detail": {
+        "controllers": 27,
+        "fields": 3353,
+        "deepLink": "#pr-jijing-202609-reading-01-v1",
+        "allBodyContentIdentical": true
+      }
+    },
+    {
+      "name": "Early entry selection queues a route without early controller activation",
+      "status": "pass",
+      "detail": {
+        "route": "#guide"
+      }
+    },
+    {
+      "name": "Corrupt or mixed-version content leaves a readable retry state and runs no controllers",
+      "status": "pass",
+      "detail": {
+        "controllers": 0,
+        "retryVisible": true
+      }
+    },
+    {
+      "name": "An inline controller exception stops initialization and does not mark the page ready",
+      "status": "pass",
+      "detail": {
+        "stoppedAfterControllers": 2
+      }
+    },
+    {
+      "name": "An external dictionary script failure stops dependent controllers",
+      "status": "pass",
+      "detail": {
+        "stoppedAfterControllers": 7
+      }
+    }
+  ]
+}

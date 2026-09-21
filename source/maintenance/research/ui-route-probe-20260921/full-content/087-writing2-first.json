@@ -1,0 +1,151 @@
+{
+  "requested": "writing2-first",
+  "from": [
+    "内容单元",
+    "页面链接"
+  ],
+  "actual": "#writing2-first",
+  "checkedAt": "2026-09-21T12:51:32.638Z",
+  "title": "学习 / 写作 · Task 2 / 写作 · Task 2 · 从原题开始学 · IELTS",
+  "label": "学习 / 写作 · Task 2 / 写作 · Task 2 · 从原题开始学",
+  "panel": "writing2",
+  "contentRoot": "writing2-first",
+  "headings": [
+    {
+      "tag": "H2",
+      "text": "先做自己的答案",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "数字时代的剧院与影院 · Task 2",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "WRITING TASK 2",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "我的首次作答",
+      "visible": true
+    }
+  ],
+  "controls": [
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "开始 40 分钟计时",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "查看原图 · 1 页",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SELECT",
+      "id": "",
+      "type": "select-one",
+      "text": "首次独立\n学习后应用／已看背景\n见过材料／熟题\n使用提示",
+      "label": "本次条件\n首次独立\n学习后应用／已看背景\n见过材料／熟题\n使用提示",
+      "href": null,
+      "save": "writing2-condition",
+      "visible": true,
+      "disabled": false,
+      "required": false,
+      "options": [
+        {
+          "value": "首次独立",
+          "label": "首次独立"
+        },
+        {
+          "value": "学习后应用／已看背景",
+          "label": "学习后应用／已看背景"
+        },
+        {
+          "value": "见过材料／熟题",
+          "label": "见过材料／熟题"
+        },
+        {
+          "value": "使用提示",
+          "label": "使用提示"
+        }
+      ]
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "number",
+      "text": "",
+      "label": "实际用时（分钟）",
+      "href": null,
+      "save": "writing2-minutes",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "在这里写完整初稿；提交后原稿保留，修订另写。",
+      "href": null,
+      "save": "writing2-essay",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "保存首次作答，进入学习",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    }
+  ],
+  "visibleText": "0% · 0 / 1 完成\n先做自己的答案\n\n只打开 C21 Test 2 Task 2 原题，按题目要求独立完成文章，约 40 分钟、至少 250 词。暂不展开教学和考生样本，到 40 分钟保存首次稿，追加用时另记；见过题目、答案或讲解请如实注明。\n\n开始 40 分钟计时\n40:00\n到时保留答案；继续写的部分另记。\n数字时代的剧院与影院 · Task 2\nWRITING TASK 2\n\nYou should spend about 40 minutes on this task.\n\nWrite about the following topic:\n\nSome people say that in the digital age, theatres and cinemas are no longer important as people can watch all the entertainment they want online. Others argue that theatres and cinemas are still important both economically and culturally.\n\nDiscuss both these views and give your own opinion.\n\nGive reasons for your answer and include any relevant examples from your own knowledge or experience.\n\nWrite at least 250 words.\n\n查看原图 · 1 页\n我的首次作答\n本次条件\n首次独立\n学习后应用／已看背景\n见过材料／熟题\n使用提示\n实际用时（分钟）\n在这里写完整初稿；提交后原稿保留，修订另写。\n\n0 词（空白分隔计数）\n\n保存首次作答，进入学习\n\n首次稿尚未保存。",
+  "allContent": "0% · 0 / 1 完成先做自己的答案只打开 C21 Test 2 Task 2 原题，按题目要求独立完成文章，约 40 分钟、至少 250 词。暂不展开教学和考生样本，到 40 分钟保存首次稿，追加用时另记；见过题目、答案或讲解请如实注明。开始 40 分钟计时40:00到时保留答案；继续写的部分另记。数字时代的剧院与影院 · Task 2WRITING TASK 2You should spend about 40 minutes on this task.Write about the following topic:Some people say that in the digital age, theatres and cinemas are no longer important as people can watch all the entertainment they want online. Others argue that theatres and cinemas are still important both economically and culturally.Discuss both these views and give your own opinion.Give reasons for your answer and include any relevant examples from your own knowledge or experience.Write at least 250 words.查看原图 · 1 页Cambridge 21 · Test 2 Task 2 · 原题我的首次作答本次条件首次独立学习后应用／已看背景见过材料／熟题使用提示实际用时（分钟）在这里写完整初稿；提交后原稿保留，修订另写。0 词（空白分隔计数）保存首次作答，进入学习首次稿尚未保存。",
+  "links": [],
+  "details": [
+    {
+      "id": "",
+      "title": "查看原图 · 1 页",
+      "open": false,
+      "visible": true
+    }
+  ],
+  "saveFields": [
+    "writing2-condition",
+    "writing2-minutes",
+    "writing2-essay"
+  ],
+  "images": [
+    {
+      "src": "assets/deferred-media/ce92c481950a411e786f35a4.png",
+      "alt": "Cambridge 21 · Test 2 Task 2 · 原题",
+      "visible": false,
+      "complete": false,
+      "width": 0
+    }
+  ],
+  "audio": [],
+  "viewport": 1440,
+  "documentWidth": 1440
+}

@@ -1,0 +1,74 @@
+#background .background-library{max-width:1120px;margin:0 auto}
+#background>.chapter-head{max-width:1120px;margin:0 auto 24px}
+.background-library-intro{font-size:14px;color:var(--muted);line-height:1.9;margin-bottom:20px}
+.background-library-tools{padding:20px;background:#fff;border:1px solid var(--line);border-radius:10px;margin-bottom:22px}
+.background-library-tools label{display:block;font-size:12px;color:var(--muted);margin-bottom:8px}
+#background-search{width:100%;padding:12px 14px;border:1px solid #bfcbbf;border-radius:6px;font:15px/1.5 inherit;background:#fcfdf9;color:var(--ink)}
+.background-filters{display:flex;gap:8px;flex-wrap:wrap;margin-top:14px}
+.background-filters button{border:1px solid var(--line);background:#fff;color:var(--ink);font-size:13px;padding:8px 14px;border-radius:6px}
+.background-filters button[aria-pressed=true]{background:#315a4d;color:#fff;border-color:#315a4d}
+.background-library-count{font-size:12px;color:var(--muted);margin:16px 0}
+.background-library .topic-grid{grid-template-columns:repeat(3,minmax(0,1fr));gap:16px}
+.background-library .topic-tile{background:#fff;border:1px solid var(--line);min-height:210px;padding:22px;color:var(--ink);display:flex;flex-direction:column;gap:12px;text-decoration:none}
+.background-library .topic-tile[hidden]{display:none!important}
+.background-library .topic-tile:hover{border-color:#87a99a;background:#fcfdf9}
+.background-library .topic-tile-top{font-size:11px;letter-spacing:0;color:var(--muted)}
+.background-library .topic-read-label{font-size:11px}
+.background-library .topic-tile h3{font-size:21px;margin:0;line-height:1.6;font-weight:600;color:var(--ink)}
+.background-library .topic-tile.is-updated h3{color:var(--green,#204c42)}
+.background-library .topic-tile>p{font-size:13px;line-height:1.8;color:var(--muted);margin:0;flex:1}
+.background-library .tile-terms{font:12px/1.7 'Segoe UI','Microsoft YaHei',sans-serif;color:#536b60;margin:0;padding:0}
+.background-library-footer{display:flex;gap:18px;flex-wrap:wrap;font-size:12px;margin:26px 0}
+.background-reader{max-width:940px!important;padding:30px 36px 40px!important;color:var(--ink);scroll-margin-top:88px}
+.background-reader>.reader-toolbar{font-size:12px;margin-bottom:26px}
+.background-reader>.reader-toolbar .read-toggle{font-size:12px}
+.background-reader>h2{font-size:28px!important;font-weight:600!important;line-height:1.55!important;margin:12px 0}
+.background-reader.is-updated>h2{color:var(--green,#204c42)!important}
+.background-reader>.orientation{font-size:15px;line-height:1.9;color:#586c62}
+.background-reader>.background-read-meta{color:var(--muted);font-size:12px;margin:10px 0 20px}
+.background-reader .enrichment-body{padding:0;max-width:none}
+.background-reader .background-lesson{font-size:16px;line-height:1.95;color:var(--ink)}
+.background-reader .background-lesson p{font-size:16px;margin:16px 0}
+.background-reader .background-lesson li{font-size:15px;line-height:1.95;margin:9px 0}
+.background-reader .background-lesson h3{font-size:21px;line-height:1.6;margin:32px 0 14px;padding-top:18px;border-top:1px solid var(--line);color:#294b40}
+.background-reader .background-lesson h3:first-child{margin-top:0;padding-top:0;border:0}
+.background-reader .background-lesson h4{font-size:16px;line-height:1.7;color:#294b40}
+.background-reader .learning-english,.background-reader .input-reading{font:19px/1.95 Georgia,'Times New Roman',serif!important;background:#f6f8f2;padding:20px 24px;border-radius:7px;margin:18px 0;color:#24382f}
+.background-reader .background-lesson table{display:table;width:100%;font-size:14px;table-layout:auto;border-collapse:collapse;overflow:visible}
+.background-reader .background-lesson td,.background-reader .background-lesson th{min-width:0!important;vertical-align:top;padding:12px;font-size:14px;white-space:normal;overflow-wrap:break-word}
+.background-reader .background-lesson th{font-size:12px;background:#edf2e9}
+.background-reader .background-outcomes{background:#f5f7f0;border:1px solid var(--line);border-radius:8px;padding:16px 20px;margin:22px 0;color:var(--ink)}
+.background-outcomes>strong{font-size:14px;color:#315748}
+.background-outcomes ul{margin:8px 0 0;padding-left:20px}
+.background-outcomes li{font-size:14px;line-height:1.8;margin:5px 0}
+.background-outline{display:flex;gap:8px;flex-wrap:wrap;margin:20px 0 28px}
+.background-outline button{background:#fff;border:1px solid var(--line);color:#486354;font-size:12px;padding:7px 10px;border-radius:5px}
+.background-reader h3,.background-reader h4{scroll-margin-top:92px}
+.background-reader .background-recall,.background-reader .background-material{border:1px solid var(--line);border-radius:8px;padding:16px 20px;margin:26px 0;background:#fff}
+.background-reader .background-recall>summary,.background-reader .background-material>summary{font-size:15px;font-weight:600;color:#315748;cursor:pointer}
+.background-reader .enrichment-attempt{margin-top:14px;border-top:0}
+.background-reader .reader-bottom{border-top:1px solid var(--line);margin-top:30px;padding-top:20px;font-size:13px}
+.background-reader .authentic-content{padding:0}
+.background-reader .authentic-content blockquote{font:19px/1.95 Georgia,'Times New Roman',serif;color:var(--ink)}
+@media(max-width:1050px){.background-library .topic-grid{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media(max-width:600px){
+ .background-library .topic-grid{grid-template-columns:1fr}
+ .background-library .topic-tile{min-height:0;padding:20px}
+ .background-library .topic-tile h3{font-size:21px}
+ .background-library-tools{padding:16px}
+ .background-reader{padding:22px 18px!important}
+ .background-reader>h2{font-size:24px!important}
+ .background-reader>.reader-toolbar{align-items:flex-start;gap:12px;font-size:11px}
+ .background-reader>.reader-toolbar .read-toggle{font-size:11px;flex-shrink:0}
+ .background-reader .background-lesson p,.background-reader .background-lesson li{font-size:15px}
+ .background-reader .learning-english,.background-reader .input-reading{font-size:18px!important;padding:17px}
+ .background-reader .background-lesson h3{font-size:20px}
+ .background-reader .background-outcomes,.background-reader .background-recall,.background-reader .background-material{padding:14px}
+ .background-reader .background-lesson table,.background-reader .background-lesson tbody{display:block;width:100%;border:0;overflow:visible}
+ .background-reader .background-lesson thead{display:none}
+ .background-reader .background-lesson tr{display:block;margin:0 0 14px;padding:10px 12px;border:1px solid var(--line);border-radius:6px}
+ .background-reader .background-lesson td{display:block;width:auto;min-width:0!important;padding:6px 0;border:0;font-size:14px}
+ .background-reader .background-lesson td:first-child{font-size:16px;font-weight:600}
+ .background-reader .background-lesson td:nth-child(2)::before,.background-reader .background-lesson td:nth-child(3)::before{content:none}
+ .background-reader .background-lesson td[data-column-label]:not(:first-child)::before{content:attr(data-column-label) '：';font-weight:600}
+}

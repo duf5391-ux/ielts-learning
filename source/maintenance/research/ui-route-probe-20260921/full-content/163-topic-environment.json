@@ -1,0 +1,496 @@
+{
+  "requested": "topic-environment",
+  "from": [
+    "内容单元",
+    "页面链接"
+  ],
+  "actual": "#topic-environment",
+  "checkedAt": "2026-09-21T12:52:30.914Z",
+  "title": "练习 / 阅读 / 环境保护：威胁之间的关系 · IELTS",
+  "label": "练习 / 阅读 / 环境保护：威胁之间的关系",
+  "panel": "practice-reading",
+  "contentRoot": "topic-environment",
+  "headings": [
+    {
+      "tag": "H2",
+      "text": "环境保护：威胁之间的关系",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "赛加羚羊：适应、威胁与保护",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "原文 · 印刷页60",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "原文 · 印刷页61",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "原题 · 印刷页62",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "原题 · 印刷页63",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "答案与证据解释",
+      "visible": false
+    }
+  ],
+  "controls": [
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "完成后核对答案与解释",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "",
+      "label": "",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=61",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "",
+      "label": "",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=63",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "",
+      "label": "",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=123",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "",
+      "label": "",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=61",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "",
+      "label": "",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=63",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "",
+      "label": "",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=123",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "Q1\n暂时不会",
+      "href": null,
+      "save": "practice-topic-environment-q1",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "暂时不会",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "Q2\n暂时不会",
+      "href": null,
+      "save": "practice-topic-environment-q2",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "暂时不会",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "Q3\n暂时不会",
+      "href": null,
+      "save": "practice-topic-environment-q3",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "暂时不会",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "Q4\n暂时不会",
+      "href": null,
+      "save": "practice-topic-environment-q4",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "暂时不会",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "Q5\n暂时不会",
+      "href": null,
+      "save": "practice-topic-environment-q5",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "暂时不会",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "Q6\n暂时不会",
+      "href": null,
+      "save": "practice-topic-environment-q6",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "暂时不会",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "Q7\n暂时不会",
+      "href": null,
+      "save": "practice-topic-environment-q7",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "暂时不会",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "Q8\n暂时不会",
+      "href": null,
+      "save": "practice-topic-environment-q8",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "暂时不会",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "Q9\n暂时不会",
+      "href": null,
+      "save": "practice-topic-environment-q9",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "暂时不会",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "Q10\n暂时不会",
+      "href": null,
+      "save": "practice-topic-environment-q10",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "暂时不会",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "Q11\n暂时不会",
+      "href": null,
+      "save": "practice-topic-environment-q11",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "暂时不会",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "Q12\n暂时不会",
+      "href": null,
+      "save": "practice-topic-environment-q12",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "暂时不会",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "Q13\n暂时不会",
+      "href": null,
+      "save": "practice-topic-environment-q13",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "暂时不会",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "checkbox",
+      "text": "",
+      "label": "已读过这段背景",
+      "href": null,
+      "save": "topic-read-environment",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    }
+  ],
+  "visibleText": "0% · 0 / 13 完成\n环境保护：威胁之间的关系\n\n把偷猎、栖地丧失、疾病、气候变化分开，Q4–7对应不同名词，不能用笼统environment代替全部。\n\n赛加羚羊：适应、威胁与保护\n\n先读这一组完整原文页，再完成对应原题。以下时代、数量与观点均按考试文章语境理解。\n\n原文 · 印刷页60\n\nREADING PASSAGE 1\n\nYou should spend about 20 minutes on Questions 1-13, which are based on Passage 1 below.\n\nSaving the saiga\n\nThe saiga, a species of antelope native to Central Asia, once roamed the vast grasslands of this region in enormous herds, many millions strong. Regrettably, such spectacular sights are a thing of the past. Today, the saiga is largely confined to a single country: Kazakhstan. This country is estimated to be home to well over 90% of the global saiga population, with Russia, Mongolia and Uzbekistan accounting for the rest.\n\nThe saiga is perfectly adapted to the tough conditions of the remote wilderness of the steppes of Central Asia. One such adaptation is its bizarre bulbous nose, which enables the animal to survive the extreme seasonal temperature swings of the region. The swollen nostrils of the nose serve several purposes: they filter out dust and cool the blood during hot, dry summers, and they warm the cold air before it enters the saiga's lungs in winter. Other seasonal adaptations include a heavy winter coat that the saiga sheds when the weather warms up.\n\nDespite these superb adaptations to harsh conditions, the saiga has no defence against the threats posed by humans. It was almost driven to extinction by hunters in the 19th century. Legal protection ensured its survival for a while, and numbers steadily recovered throughout most of the 20th century. But the respite was only temporary. In the ten years following the break-up of the former Soviet Union in 1991, over 95% of the global population was lost - one of the fastest examples of species loss ever recorded for a mammal.\n\nThe dramatic decline during this decade was due to illegal poaching on an industrial scale. Male saiga are a particular target, because their horns are highly prized by traditional medicine practitioners. Poaching reached epidemic levels after misguided conservationists tried to relieve the pressure on threatened African rhinos by actively encouraging the use of saiga horns in traditional medicine as an alternative to those of rhinos. Male saiga were almost wiped out, leading to a population crash from which the species has been struggling to recover ever since.\n\nAnother threat to the survival of the saiga is loss of habitat, as a result of agricultural expansion and human settlement. Physical barriers such as railways, pipelines and fences can block the seasonal migration routes of this transboundary species. In the worst cases, herds may starve to death after being trapped.\n\n原文 · 印刷页61\n\nThen there is the risk of disease. In 2015, an outbreak of haemorrhagic septicaemia, caused by the normally harmless bacterium Pasteurella multocida, killed over 75% of the global adult saiga population in just three weeks. In 2017, 60% of the Mongolian saiga population - a subspecies found nowhere else in the world - was killed by a virus that spilled over from livestock. These so-called mass mortality events represent an unpredictable and serious threat to the species.\n\nClimate change poses a further threat. Although well adapted to cold winters and hot summers, saiga struggle to cope with temperature extremes and unpredictable fluctuations in climate. Experts believe that unusually warm weather may have triggered the 2015 mass mortality event. The steppe region has also become increasingly arid in recent years, and many of the smaller streams that the species normally depended on have dried up and vanished.\n\nRecent efforts to save the saiga have been spearheaded by the Altyn Dala Conservation Initiative, a project led by the Association for the Conservation of Biodiversity of Kazakhstan, working in partnership with the Kazakh government's Committee for Forestry and Wildlife, Frankfurt Zoological Society and Fauna and Flora, an international conservation charity. Its purpose is to protect and restore Kazakhstan's steppe, semi-desert and desert ecosystems and the many species they support, including the critically endangered saiga. In 2022 the United Nations recognised the initiative as a World Restoration Flagship project, an accolade reserved for the ten best examples of large-scale ecosystem restoration around the globe.\n\nSo, how many saiga are there now? By 2000, the global saiga population had hit an all­ time low of just 21,000 individuals. There was some recovery in the first decade of the new millennium but this was then crushed by devastating mass mortality events that saw the loss of hundreds of thousands of the species. But thanks to the intervention of the Altyn Dala Conservation Initiative, the most recent episodes in the ongoing story of the saiga have been relatively uplifting. Three years ago, the Ustyurt Plateau population in Kazakhstan experienced its largest mass birth of saiga calves in many years. An aerial census two years ago recorded an estimated 842,000 saiga across Kazakhstan as a whole, and according to an aerial survey earlier this year, the saiga population in Kazakhstan now exceeds 1.9 million. The world's strangest-looking antelope remains critically endangered, but the direction of travel is positive.\n\n原题 · 印刷页62\n\nTest 3\n\nQuestions 1-7\n\nComplete the notes below.\n\nChoose ONE WORD ONLY from the passage for each answer.\n\nWrite your answers in boxes 1-7 on your answer sheet.\n\nThe saiga\n\nAdaptations • has a large bulbous nose with swollen nostrils that keep 1 ..................................... out\n\nlower the temperature of its 2 ..................................... in summer\n\nwarm the air entering its lungs in winter\n\n• grows a thick 3 ..................................... in winter, which it loses in spring\n\nReasons for population decline • poaching, especially for the 4 ..................................... of male saiga\n\n• expansion of farms and settlements, causing reduction in the size of the saiga's 5 .................................... .\n\nloss of access to the 6 ..................................... which they use for migration\n\n• various forms of disease, leading to mass mortality events • climate change, causing the disappearance of 7 ..................................... which the saiga relied on\n\n原题 · 印刷页63\n\nQuestions 8-13\n\nDo the following statements agree with the information given in Reading Passage 1?\n\nIn boxes 8-13 on your answer sheet, write\n\nTRUE FALSE NOT GIVEN\n\nif the statement agrees with the information if the statement contradicts the information if there is no information on this\n\n8 Today, numbers of saiga are distributed evenly across four nations in Central Asia: Kazakhstan, Russia, Mongolia and Uzbekistan.\n\n9 For most of the 20th century, the population of saiga were falling.\n\n10 Efforts to protect rhinos in Africa had a significant effect on saiga populations.\n\n11 Unpredictable fluctuations in climate are threatening the wildlife of Central Asia more than in other parts of the world.\n\n12 The Altyn Dala Conservation Initiative was formed for the benefit of a number of different animals.\n\n13 The Altyn Dala Conservation Initiative's recognition as a World Restoration Flagship project attracted additional international funding for the scheme.\n\n113 p. 1221 63\n\n完成后核对答案与解释\nQ1\n暂时不会\nQ2\n暂时不会\nQ3\n暂时不会\nQ4\n暂时不会\nQ5\n暂时不会\nQ6\n暂时不会\nQ7\n暂时不会\nQ8\n暂时不会\nQ9\n暂时不会\nQ10\n暂时不会\nQ11\n暂时不会\nQ12\n暂时不会\nQ13\n暂时不会\n\n本单元的学习记录\n\n已读过这段背景",
+  "allContent": "0% · 0 / 13 完成环境保护：威胁之间的关系把偷猎、栖地丧失、疾病、气候变化分开，Q4–7对应不同名词，不能用笼统environment代替全部。赛加羚羊：适应、威胁与保护先读这一组完整原文页，再完成对应原题。以下时代、数量与观点均按考试文章语境理解。原文 · 印刷页60READING PASSAGE 1You should spend about 20 minutes on Questions 1-13, which are based on Passage 1 below.Saving the saigaThe saiga, a species of antelope native to Central Asia, once roamed the vast grasslands of this region in enormous herds, many millions strong. Regrettably, such spectacular sights are a thing of the past. Today, the saiga is largely confined to a single country: Kazakhstan. This country is estimated to be home to well over 90% of the global saiga population, with Russia, Mongolia and Uzbekistan accounting for the rest.The saiga is perfectly adapted to the tough conditions of the remote wilderness of the steppes of Central Asia. One such adaptation is its bizarre bulbous nose, which enables the animal to survive the extreme seasonal temperature swings of the region. The swollen nostrils of the nose serve several purposes: they filter out dust and cool the blood during hot, dry summers, and they warm the cold air before it enters the saiga's lungs in winter. Other seasonal adaptations include a heavy winter coat that the saiga sheds when the weather warms up.Despite these superb adaptations to harsh conditions, the saiga has no defence against the threats posed by humans. It was almost driven to extinction by hunters in the 19th century. Legal protection ensured its survival for a while, and numbers steadily recovered throughout most of the 20th century. But the respite was only temporary. In the ten years following the break-up of the former Soviet Union in 1991, over 95% of the global population was lost - one of the fastest examples of species loss ever recorded for a mammal.The dramatic decline during this decade was due to illegal poaching on an industrial scale. Male saiga are a particular target, because their horns are highly prized by traditional medicine practitioners. Poaching reached epidemic levels after misguided conservationists tried to relieve the pressure on threatened African rhinos by actively encouraging the use of saiga horns in traditional medicine as an alternative to those of rhinos. Male saiga were almost wiped out, leading to a population crash from which the species has been struggling to recover ever since.Another threat to the survival of the saiga is loss of habitat, as a result of agricultural expansion and human settlement. Physical barriers such as railways, pipelines and fences can block the seasonal migration routes of this transboundary species. In the worst cases, herds may starve to death after being trapped.原文 · 印刷页61Then there is the risk of disease. In 2015, an outbreak of haemorrhagic septicaemia, caused by the normally harmless bacterium Pasteurella multocida, killed over 75% of the global adult saiga population in just three weeks. In 2017, 60% of the Mongolian saiga population - a subspecies found nowhere else in the world - was killed by a virus that spilled over from livestock. These so-called mass mortality events represent an unpredictable and serious threat to the species.Climate change poses a further threat. Although well adapted to cold winters and hot summers, saiga struggle to cope with temperature extremes and unpredictable fluctuations in climate. Experts believe that unusually warm weather may have triggered the 2015 mass mortality event. The steppe region has also become increasingly arid in recent years, and many of the smaller streams that the species normally depended on have dried up and vanished.Recent efforts to save the saiga have been spearheaded by the Altyn Dala Conservation Initiative, a project led by the Association for the Conservation of Biodiversity of Kazakhstan, working in partnership with the Kazakh government's Committee for Forestry and Wildlife, Frankfurt Zoological Society and Fauna and Flora, an international conservation charity. Its purpose is to protect and restore Kazakhstan's steppe, semi-desert and desert ecosystems and the many species they support, including the critically endangered saiga. In 2022 the United Nations recognised the initiative as a World Restoration Flagship project, an accolade reserved for the ten best examples of large-scale ecosystem restoration around the globe.So, how many saiga are there now? By 2000, the global saiga population had hit an all­ time low of just 21,000 individuals. There was some recovery in the first decade of the new millennium but this was then crushed by devastating mass mortality events that saw the loss of hundreds of thousands of the species. But thanks to the intervention of the Altyn Dala Conservation Initiative, the most recent episodes in the ongoing story of the saiga have been relatively uplifting. Three years ago, the Ustyurt Plateau population in Kazakhstan experienced its largest mass birth of saiga calves in many years. An aerial census two years ago recorded an estimated 842,000 saiga across Kazakhstan as a whole, and according to an aerial survey earlier this year, the saiga population in Kazakhstan now exceeds 1.9 million. The world's strangest-looking antelope remains critically endangered, but the direction of travel is positive.原题 · 印刷页62Test 3Questions 1-7Complete the notes below.Choose ONE WORD ONLY from the passage for each answer.Write your answers in boxes 1-7 on your answer sheet.The saigaAdaptations • has a large bulbous nose with swollen nostrils that keep 1 ..................................... outlower the temperature of its 2 ..................................... in summerwarm the air entering its lungs in winter• grows a thick 3 ..................................... in winter, which it loses in springReasons for population decline • poaching, especially for the 4 ..................................... of male saiga• expansion of farms and settlements, causing reduction in the size of the saiga's 5 .................................... .loss of access to the 6 ..................................... which they use for migration• various forms of disease, leading to mass mortality events • climate change, causing the disappearance of 7 ..................................... which the saiga relied on原题 · 印刷页63Questions 8-13Do the following statements agree with the information given in Reading Passage 1?In boxes 8-13 on your answer sheet, writeTRUE FALSE NOT GIVENif the statement agrees with the information if the statement contradicts the information if there is no information on this8 Today, numbers of saiga are distributed evenly across four nations in Central Asia: Kazakhstan, Russia, Mongolia and Uzbekistan.9 For most of the 20th century, the population of saiga were falling.10 Efforts to protect rhinos in Africa had a significant effect on saiga populations.11 Unpredictable fluctuations in climate are threatening the wildlife of Central Asia more than in other parts of the world.12 The Altyn Dala Conservation Initiative was formed for the benefit of a number of different animals.13 The Altyn Dala Conservation Initiative's recognition as a World Restoration Flagship project attracted additional international funding for the scheme.113 p. 1221 63完成后核对答案与解释答案与证据解释Q1–7 dust/blood/coat/horns/habitat/routes/streams：鼻孔过滤尘土、冷却血液，冬毛适应温度；偷猎为角，农业和定居挤占栖息地、屏障挡迁徙路线，干旱使溪流消失。Q8 FALSE：90%以上在哈萨克斯坦，不是四国均匀；Q9 FALSE：20世纪多数时候数量恢复；Q10 TRUE：鼓励用赛加角代替犀牛角反而造成灾难；Q11 NOT GIVEN：没有跨地区严重程度比较；Q12 TRUE：项目保护生态系统及其中许多物种；Q13 NOT GIVEN：联合国认可不等于已说明新增资金。不要把考试文本的now数量移植成当前统计。完整原件：Cambridge IELTS 21 Academic · Test 3 · 物理页61 / 印刷页60；Cambridge IELTS 21 Academic · Test 3 · 物理页63 / 印刷页62；Cambridge IELTS 21 Academic · Test 3 · 物理页123 / 印刷页122Cambridge IELTS 21 Academic · Test 3 · 物理页61 / 印刷页60Cambridge IELTS 21 Academic · Test 3 · 物理页63 / 印刷页62Cambridge IELTS 21 Academic · Test 3 · 物理页123 / 印刷页122Q1暂时不会Q2暂时不会Q3暂时不会Q4暂时不会Q5暂时不会Q6暂时不会Q7暂时不会Q8暂时不会Q9暂时不会Q10暂时不会Q11暂时不会Q12暂时不会Q13暂时不会本单元的学习记录 已读过这段背景",
+  "links": [
+    {
+      "text": "Cambridge IELTS 21 Academic · Test 3 · 物理页61 / 印刷页60",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=61"
+    },
+    {
+      "text": "Cambridge IELTS 21 Academic · Test 3 · 物理页63 / 印刷页62",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=63"
+    },
+    {
+      "text": "Cambridge IELTS 21 Academic · Test 3 · 物理页123 / 印刷页122",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=123"
+    },
+    {
+      "text": "Cambridge IELTS 21 Academic · Test 3 · 物理页61 / 印刷页60",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=61"
+    },
+    {
+      "text": "Cambridge IELTS 21 Academic · Test 3 · 物理页63 / 印刷页62",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=63"
+    },
+    {
+      "text": "Cambridge IELTS 21 Academic · Test 3 · 物理页123 / 印刷页122",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=123"
+    }
+  ],
+  "details": [
+    {
+      "id": "answer-check-34",
+      "title": "完成后核对答案与解释",
+      "open": false,
+      "answerGate": "[\"practice-topic-environment-q1\", \"practice-topic-environment-q2\", \"practice-topic-environment-q3\", \"practice-topic-environment-q4\", \"practice-topic-environment-q5\", \"practice-topic-environment-q6\", \"practice-topic-environment-q7\", \"practice-topic-environment-q8\", \"practice-topic-environment-q9\", \"practice-topic-environment-q10\", \"practice-topic-environment-q11\", \"practice-topic-environment-q12\", \"practice-topic-environment-q13\"]",
+      "visible": true
+    }
+  ],
+  "saveFields": [
+    "practice-topic-environment-q1",
+    "practice-topic-environment-q2",
+    "practice-topic-environment-q3",
+    "practice-topic-environment-q4",
+    "practice-topic-environment-q5",
+    "practice-topic-environment-q6",
+    "practice-topic-environment-q7",
+    "practice-topic-environment-q8",
+    "practice-topic-environment-q9",
+    "practice-topic-environment-q10",
+    "practice-topic-environment-q11",
+    "practice-topic-environment-q12",
+    "practice-topic-environment-q13",
+    "topic-read-environment"
+  ],
+  "images": [],
+  "audio": [],
+  "viewport": 1440,
+  "documentWidth": 1440
+}

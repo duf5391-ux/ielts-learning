@@ -1,0 +1,296 @@
+{
+  "requested": "reading-case-rd-c21-t3-saiga-adaptation",
+  "from": [
+    "内容单元",
+    "每日安排目标"
+  ],
+  "actual": "#reading-case-rd-c21-t3-saiga-adaptation",
+  "checkedAt": "2026-09-21T12:52:11.299Z",
+  "title": "练习 / 阅读 / Saving the saiga · 生存适应与早期数量变化 · IELTS",
+  "label": "练习 / 阅读 / Saving the saiga · 生存适应与早期数量变化",
+  "panel": "practice-reading",
+  "contentRoot": "reading-case-rd-c21-t3-saiga-adaptation",
+  "headings": [
+    {
+      "tag": "H3",
+      "text": "对照答案，回到证据",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "原文片段 · 1",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "原文片段 · 2",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "原文片段 · 3",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "原文片段 · 4",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "词语与搭配",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "句子精读",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "这篇材料里可用于写作的表达",
+      "visible": false
+    }
+  ],
+  "controls": [
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "Saving the saiga · 生存适应与早期数量变化未作答\n笔记填空 / 事实判断 TFNG · 4 段 · 340 词 · 7 题 · 同篇原文另有裁切",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "Cambridge IELTS 21 Academic",
+      "label": "",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=61",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "case-rd-c21-t3-saiga-adaptation-q1",
+      "type": "text",
+      "text": "",
+      "label": "第 1 题作答",
+      "href": null,
+      "save": "case-rd-c21-t3-saiga-adaptation-q1",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "case-rd-c21-t3-saiga-adaptation-q2",
+      "type": "text",
+      "text": "",
+      "label": "第 2 题作答",
+      "href": null,
+      "save": "case-rd-c21-t3-saiga-adaptation-q2",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "case-rd-c21-t3-saiga-adaptation-q3",
+      "type": "text",
+      "text": "",
+      "label": "第 3 题作答",
+      "href": null,
+      "save": "case-rd-c21-t3-saiga-adaptation-q3",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "case-rd-c21-t3-saiga-adaptation-q4",
+      "type": "text",
+      "text": "",
+      "label": "第 4 题作答",
+      "href": null,
+      "save": "case-rd-c21-t3-saiga-adaptation-q4",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "case-rd-c21-t3-saiga-adaptation-q5",
+      "type": "text",
+      "text": "",
+      "label": "第 8 题作答",
+      "href": null,
+      "save": "case-rd-c21-t3-saiga-adaptation-q5",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "case-rd-c21-t3-saiga-adaptation-q6",
+      "type": "text",
+      "text": "",
+      "label": "第 9 题作答",
+      "href": null,
+      "save": "case-rd-c21-t3-saiga-adaptation-q6",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "case-rd-c21-t3-saiga-adaptation-q7",
+      "type": "text",
+      "text": "",
+      "label": "第 10 题作答",
+      "href": null,
+      "save": "case-rd-c21-t3-saiga-adaptation-q7",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "checkbox",
+      "text": "",
+      "label": "",
+      "href": null,
+      "save": "case-rd-c21-t3-saiga-adaptation-done",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "hidden",
+      "text": "",
+      "label": "",
+      "href": null,
+      "save": "case-rd-c21-t3-saiga-adaptation-saved-at",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "保留作答，查看答案",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "核对原答案页",
+      "label": "",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=123",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "case-rd-c21-t3-saiga-adaptation-revision",
+      "type": "textarea",
+      "text": "",
+      "label": "我的修订／证据笔记",
+      "href": null,
+      "save": "case-rd-c21-t3-saiga-adaptation-revision",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "材料精读 · 内容与词句",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "",
+      "label": "",
+      "href": "#writing-prep-wc-bc-overfishing-from-rd-c21-t3-saiga-adaptation",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "",
+      "label": "",
+      "href": "#writing-prep-wc-bc-overfishing-from-rd-c21-t3-saiga-adaptation",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    }
+  ],
+  "visibleText": "Saving the saiga · 生存适应与早期数量变化未作答\n笔记填空 / 事实判断 TFNG · 4 段 · 340 词 · 7 题 · 同篇原文另有裁切\n0% · 0 / 1 完成\n\n真题 · Cambridge IELTS 21 Academic · PDF 第 61 页\n\n按原题号作答。保留考试原文与题目难度；以下是连续原段裁切，未改写原文。\n\n数字和相对时间均保留原考试文章语境；同篇其他裁切不另计为一篇原文。\n\n原文片段 · 1The saiga, a species of antelope native to Central Asia, once roamed the vast grasslands of this region in enormous herds, many millions strong. Regrettably, such spectacular sights are a thing of the past. Today, the saiga is largely confined to a single country: Kazakhstan. This country is estimated to be home to well over 90% of the global saiga population, with Russia, Mongolia and Uzbekistan accounting for the rest.\n\n原文片段 · 2The saiga is perfectly adapted to the tough conditions of the remote wilderness of the steppes of Central Asia. One such adaptation is its bizarre bulbous nose, which enables the animal to survive the extreme seasonal temperature swings of the region. The swollen nostrils of the nose serve several purposes: they filter out dust and cool the blood during hot, dry summers, and they warm the cold air before it enters the saiga's lungs in winter. Other seasonal adaptations include a heavy winter coat that the saiga sheds when the weather warms up.\n\n原文片段 · 3Despite these superb adaptations to harsh conditions, the saiga has no defence against the threats posed by humans. It was almost driven to extinction by hunters in the 19th century. Legal protection ensured its survival for a while, and numbers steadily recovered throughout most of the 20th century. But the respite was only temporary. In the ten years following the break-up of the former Soviet Union in 1991, over 95% of the global population was lost - one of the fastest examples of species loss ever recorded for a mammal.\n\n原文片段 · 4The dramatic decline during this decade was due to illegal poaching on an industrial scale. Male saiga are a particular target, because their horns are highly prized by traditional medicine practitioners. Poaching reached epidemic levels after misguided conservationists tried to relieve the pressure on threatened African rhinos by actively encouraging the use of saiga horns in traditional medicine as an alternative to those of rhinos. Male saiga were almost wiped out, leading to a population crash from which the species has been struggling to recover ever since.\n\n1. has a large bulbous nose with swollen nostrils that keep ______ out\n\nComplete the notes below. Choose ONE WORD ONLY from the passage for each answer.\n\n第 1 题作答\n\n2. lower the temperature of its ______ in summer\n\nComplete the notes below. Choose ONE WORD ONLY from the passage for each answer.\n\n第 2 题作答\n\n3. grows a thick ______ in winter, which it loses in spring\n\nComplete the notes below. Choose ONE WORD ONLY from the passage for each answer.\n\n第 3 题作答\n\n4. poaching, especially for the ______ of male saiga\n\nComplete the notes below. Choose ONE WORD ONLY from the passage for each answer.\n\n第 4 题作答\n\n8. Today, numbers of saiga are distributed evenly across four nations in Central Asia: Kazakhstan, Russia, Mongolia and Uzbekistan.\n\nDo the following statements agree with the information given in the reading passage? Write TRUE, FALSE or NOT GIVEN.\n\n第 8 题作答\n\n9. For most of the 20th century, the population of saiga were falling.\n\nDo the following statements agree with the information given in the reading passage? Write TRUE, FALSE or NOT GIVEN.\n\n第 9 题作答\n\n10. Efforts to protect rhinos in Africa had a significant effect on saiga populations.\n\nDo the following statements agree with the information given in the reading passage? Write TRUE, FALSE or NOT GIVEN.\n\n第 10 题作答\n保留作答，查看答案\n\n先作答；不确定的题也可记录判断与疑点。\n\n材料精读 · 内容与词句",
+  "allContent": "Saving the saiga · 生存适应与早期数量变化未作答笔记填空 / 事实判断 TFNG · 4 段 · 340 词 · 7 题 · 同篇原文另有裁切0% · 0 / 1 完成真题 · Cambridge IELTS 21 Academic · PDF 第 61 页按原题号作答。保留考试原文与题目难度；以下是连续原段裁切，未改写原文。数字和相对时间均保留原考试文章语境；同篇其他裁切不另计为一篇原文。原文片段 · 1The saiga, a species of antelope native to Central Asia, once roamed the vast grasslands of this region in enormous herds, many millions strong. Regrettably, such spectacular sights are a thing of the past. Today, the saiga is largely confined to a single country: Kazakhstan. This country is estimated to be home to well over 90% of the global saiga population, with Russia, Mongolia and Uzbekistan accounting for the rest.原文片段 · 2The saiga is perfectly adapted to the tough conditions of the remote wilderness of the steppes of Central Asia. One such adaptation is its bizarre bulbous nose, which enables the animal to survive the extreme seasonal temperature swings of the region. The swollen nostrils of the nose serve several purposes: they filter out dust and cool the blood during hot, dry summers, and they warm the cold air before it enters the saiga's lungs in winter. Other seasonal adaptations include a heavy winter coat that the saiga sheds when the weather warms up.原文片段 · 3Despite these superb adaptations to harsh conditions, the saiga has no defence against the threats posed by humans. It was almost driven to extinction by hunters in the 19th century. Legal protection ensured its survival for a while, and numbers steadily recovered throughout most of the 20th century. But the respite was only temporary. In the ten years following the break-up of the former Soviet Union in 1991, over 95% of the global population was lost - one of the fastest examples of species loss ever recorded for a mammal.原文片段 · 4The dramatic decline during this decade was due to illegal poaching on an industrial scale. Male saiga are a particular target, because their horns are highly prized by traditional medicine practitioners. Poaching reached epidemic levels after misguided conservationists tried to relieve the pressure on threatened African rhinos by actively encouraging the use of saiga horns in traditional medicine as an alternative to those of rhinos. Male saiga were almost wiped out, leading to a population crash from which the species has been struggling to recover ever since.1. has a large bulbous nose with swollen nostrils that keep ______ outComplete the notes below. Choose ONE WORD ONLY from the passage for each answer.第 1 题作答2. lower the temperature of its ______ in summerComplete the notes below. Choose ONE WORD ONLY from the passage for each answer.第 2 题作答3. grows a thick ______ in winter, which it loses in springComplete the notes below. Choose ONE WORD ONLY from the passage for each answer.第 3 题作答4. poaching, especially for the ______ of male saigaComplete the notes below. Choose ONE WORD ONLY from the passage for each answer.第 4 题作答8. Today, numbers of saiga are distributed evenly across four nations in Central Asia: Kazakhstan, Russia, Mongolia and Uzbekistan.Do the following statements agree with the information given in the reading passage? Write TRUE, FALSE or NOT GIVEN.第 8 题作答9. For most of the 20th century, the population of saiga were falling.Do the following statements agree with the information given in the reading passage? Write TRUE, FALSE or NOT GIVEN.第 9 题作答10. Efforts to protect rhinos in Africa had a significant effect on saiga populations.Do the following statements agree with the information given in the reading passage? Write TRUE, FALSE or NOT GIVEN.第 10 题作答保留作答，查看答案先作答；不确定的题也可记录判断与疑点。对照答案，回到证据第 1 题 · dustkeep out把filter out改述为阻挡进入；原文dust是名词，满足一词。they filter out dust第 2 题 · bloodlower the temperature of对应cool；被降温的是blood，不能填空气。cool the blood during hot, dry summers第 3 题 · coatthick对应heavy；loses对应sheds，空格是毛被coat。a heavy winter coat that the saiga sheds when the weather warms up第 4 题 · hornspoaching目的与because后的价值原因对应；须保留复数horns。Male saiga are a particular target, because their horns are highly prized第 8 题 · FALSE四国被提到不等于平均分布。超过90%在一国直接反驳evenly。Kazakhstan ... well over 90% of the global saiga population第 9 题 · FALSE时间范围完全对应most of the 20th century，方向却是recovered而非falling。numbers steadily recovered throughout most of the 20th century第 10 题 · TRUE保护犀牛的替代用角倡议→雄性赛加几乎被捕尽→种群崩溃；effect不一定是正面效果。encouraging the use of saiga horns ... as an alternative to those of rhinos. Male saiga were almost wiped out核对原答案页我的修订／证据笔记材料精读 · 内容与词句文章把赛加羚羊适应自然环境的能力与抵御人为威胁的无力并置：鼻腔、季节性毛被能应对草原气候，却无法阻止猎杀。随后追溯数量恢复又崩溃的历史，并解释一项保护犀牛的倡议怎样把捕猎压力转移给了赛加。原文片段 · 1The saiga, a species of antelope native to Central Asia, once roamed the vast grasslands of this region in enormous herds, many millions strong. Regrettably, such spectacular sights are a thing of the past. Today, the saiga is largely confined to a single country: Kazakhstan. This country is estimated to be home to well over 90% of the global saiga population, with Russia, Mongolia and Uzbekistan accounting for the rest.先从过去数以百万计的大群迁徙写到文章叙述时数量集中于哈萨克斯坦，形成鲜明反差。native to 说明物种原产地；largely 和 well over 90% 表示高度集中，却不是其余国家已完全没有赛加。this country 指哈萨克斯坦，the rest 指全球种群中剩下的部分。原文片段 · 2The saiga is perfectly adapted to the tough conditions of the remote wilderness of the steppes of Central Asia. One such adaptation is its bizarre bulbous nose, which enables the animal to survive the extreme seasonal temperature swings of the region. The swollen nostrils of the nose serve several purposes: they filter out dust and cool the blood during hot, dry summers, and they warm the cold air before it enters the saiga's lungs in winter. Other seasonal adaptations include a heavy winter coat that the saiga sheds when the weather warms up.大鼻子看起来奇特，却承担实用功能：夏季过滤尘土并为血液降温，冬季预热进入肺部的空气。冬毛则随着天气转暖脱落。两类例子共同说明适应是器官结构与季节变化的配合；extreme seasonal temperature swings 指季节之间很大的温差。原文片段 · 3Despite these superb adaptations to harsh conditions, the saiga has no defence against the threats posed by humans. It was almost driven to extinction by hunters in the 19th century. Legal protection ensured its survival for a while, and numbers steadily recovered throughout most of the 20th century. But the respite was only temporary. In the ten years following the break-up of the former Soviet Union in 1991, over 95% of the global population was lost - one of the fastest examples of species loss ever recorded for a mammal.Despite 把话题从自然适应转到人为威胁。19世纪猎杀几乎使它灭绝，法律保护曾带来20世纪大部分时期的恢复；但1991年之后的十年里，全球数量又损失超过95%。respite 是暂时喘息，不意味着危险从此消失。这里的时间与数量属于原文历史叙述。原文片段 · 4The dramatic decline during this decade was due to illegal poaching on an industrial scale. Male saiga are a particular target, because their horns are highly prized by traditional medicine practitioners. Poaching reached epidemic levels after misguided conservationists tried to relieve the pressure on threatened African rhinos by actively encouraging the use of saiga horns in traditional medicine as an alternative to those of rhinos. Male saiga were almost wiped out, leading to a population crash from which the species has been struggling to recover ever since.本段解释上段所说的骤减：偷猎规模极大，雄性因角的市场价值成为主要对象。一些保护者曾鼓励用赛加角替代犀牛角，结果压力转移到另一个物种。misguided 评价的是这种判断失误；雄性几近消失进一步造成种群崩溃，文中没有把善意等同于有效保护。词语与搭配a thing of the past已成为过去的景象或事物原文说的是庞大兽群的壮观景象，不是在说赛加这个物种已经灭绝。is largely confined to主要局限于be confined to 后接地区或范围；largely 保留例外，准确表达分布集中。on an industrial scale以工业化般的巨大规模修饰偷猎规模，强调组织化、数量大，并非说偷猎本身属于合法工业。relieve the pressure on减轻……承受的压力原文是减轻犀牛遭捕猎的压力；可接 species、resources 等压力承受对象。句子精读This country is estimated to be home to well over 90% of the global saiga population, with Russia, Mongolia and Uzbekistan accounting for the rest.据估计，全球远超90%的赛加羚羊生活在这个国家，其余分布在俄罗斯、蒙古和乌兹别克斯坦。This country 回指哈萨克斯坦。is estimated to 表示这是估算；be home to 表示是某物的生活地。with 引出补充情况，accounting for 的主语是后面列出的三国；the rest 是剩余种群。Male saiga were almost wiped out, leading to a population crash from which the species has been struggling to recover ever since.雄性赛加几乎被捕杀殆尽，造成种群数量暴跌，而这个物种自那以后一直艰难地恢复。leading to 表示前面事件带来的结果。from which 中 which 指 a population crash，recover from 表示从打击中恢复。has been struggling 和 ever since 共同突出恢复过程延续到作者叙述时仍未结束。这篇材料里可用于写作的表达on an industrial scale以极大的、工业化的规模适合描述技术与设备使资源开采规模扩大；不能把所有小型经营都称为 industrial scale。用于写作：过度捕捞题讨论捕捞能力与生态压力，大型船舶造成的规模效应与原文大规模猎杀直接相关。relieve the pressure on减轻……所承受的压力说明措施帮助哪个对象；on 后接鱼群、生态系统等，随后解释压力怎样减少。用于写作：直接用于过度捕捞的措施段，把休渔与鱼群恢复相连；不套用赛加保护倡议的历史结果。读完讲解，可以把原文连起来再读一次；想保留的词句可使用已有收藏功能。",
+  "links": [
+    {
+      "text": "Cambridge IELTS 21 Academic",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=61"
+    },
+    {
+      "text": "核对原答案页",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=123"
+    },
+    {
+      "text": "用于写作：过度捕捞题讨论捕捞能力与生态压力，大型船舶造成的规模效应与原文大规模猎杀直接相关。",
+      "href": "#writing-prep-wc-bc-overfishing-from-rd-c21-t3-saiga-adaptation"
+    },
+    {
+      "text": "用于写作：直接用于过度捕捞的措施段，把休渔与鱼群恢复相连；不套用赛加保护倡议的历史结果。",
+      "href": "#writing-prep-wc-bc-overfishing-from-rd-c21-t3-saiga-adaptation"
+    }
+  ],
+  "details": [
+    {
+      "id": "material-reading-rd-c21-t3-saiga-adaptation",
+      "title": "材料精读 · 内容与词句",
+      "open": false,
+      "visible": true
+    }
+  ],
+  "saveFields": [
+    "case-rd-c21-t3-saiga-adaptation-q1",
+    "case-rd-c21-t3-saiga-adaptation-q2",
+    "case-rd-c21-t3-saiga-adaptation-q3",
+    "case-rd-c21-t3-saiga-adaptation-q4",
+    "case-rd-c21-t3-saiga-adaptation-q5",
+    "case-rd-c21-t3-saiga-adaptation-q6",
+    "case-rd-c21-t3-saiga-adaptation-q7",
+    "case-rd-c21-t3-saiga-adaptation-done",
+    "case-rd-c21-t3-saiga-adaptation-saved-at",
+    "case-rd-c21-t3-saiga-adaptation-revision"
+  ],
+  "images": [],
+  "audio": [],
+  "viewport": 1440,
+  "documentWidth": 1440
+}

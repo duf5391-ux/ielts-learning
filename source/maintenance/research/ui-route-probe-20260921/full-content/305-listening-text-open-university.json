@@ -1,0 +1,113 @@
+{
+  "requested": "listening-text-open-university",
+  "from": [
+    "页面链接"
+  ],
+  "actual": "#listening-text-open-university",
+  "checkedAt": "2026-09-21T12:54:44.881Z",
+  "title": "听力 · IELTS",
+  "label": "听力",
+  "panel": "listening",
+  "contentRoot": "listening-text-open-university",
+  "headings": [
+    {
+      "tag": "H3",
+      "text": "开放大学 · 听力 27–30 题",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "SECTION 3 · Questions 27–30",
+      "visible": true
+    }
+  ],
+  "controls": [
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "text",
+      "text": "",
+      "label": "第27题答案",
+      "href": null,
+      "save": "listening-review-q1",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "text",
+      "text": "",
+      "label": "第28题答案",
+      "href": null,
+      "save": "listening-review-q2",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "text",
+      "text": "",
+      "label": "第29题答案",
+      "href": null,
+      "save": "listening-review-q3",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "text",
+      "text": "",
+      "label": "第30题答案",
+      "href": null,
+      "save": "listening-review-q4",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "查看原图 · 1 页",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    }
+  ],
+  "visibleText": "开放大学 · 听力 27–30 题\nSECTION 3 · Questions 27–30\n\nComplete the sentences below.\n\nWrite NO MORE THAN TWO WORDS for each answer.\n\nStudying with the Open University demanded a great deal of \n27\n.\n\nStudying and working at the same time improved Rachel’s \n28\n skills.\n\nIt was helpful that the course was structured in \n29\n.\n\nShe enjoyed meeting other students at \n30\n.\n\n查看原图 · 1 页",
+  "allContent": "开放大学 · 听力 27–30 题SECTION 3 · Questions 27–30Complete the sentences below.Write NO MORE THAN TWO WORDS for each answer.Studying with the Open University demanded a great deal of 27.Studying and working at the same time improved Rachel’s 28 skills.It was helpful that the course was structured in 29.She enjoyed meeting other students at 30.查看原图 · 1 页新的题组 · 115010 · 原题 27–30 · 每空不超过两个词",
+  "links": [],
+  "details": [
+    {
+      "id": "",
+      "title": "查看原图 · 1 页",
+      "open": false,
+      "visible": true
+    }
+  ],
+  "saveFields": [
+    "listening-review-q1",
+    "listening-review-q2",
+    "listening-review-q3",
+    "listening-review-q4"
+  ],
+  "images": [
+    {
+      "src": "assets/deferred-media/9ee7575746566a3379ded1b9.png",
+      "alt": "新的官方题组 · 115010 · 原题 27–30 · 每空不超过两个词",
+      "visible": false,
+      "complete": false,
+      "width": 0
+    }
+  ],
+  "audio": [],
+  "viewport": 1440,
+  "documentWidth": 1440
+}

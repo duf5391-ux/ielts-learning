@@ -1,0 +1,35 @@
+/* Keep the existing warm paper/green design, with one unobstructed action area. */
+body.nav-open #daily-study-dock,body.nav-open #energy-reminder{display:none!important}
+body.hs-dock-visible #energy-reminder{display:none!important}
+body.ds-dock-active main{padding-bottom:var(--hs-dock-space,240px)!important}
+.ds-dialog{overscroll-behavior:contain}
+.hs-rest-status{font-size:13px;line-height:1.6;margin:8px 0 0;color:#35533f}
+.hs-rest-clock{font:500 13px/1.5 'Segoe UI',sans-serif;font-variant-numeric:tabular-nums;color:#526849}
+.hs-rest-clock:empty{display:none}
+body.health-resting .ds-dock .ds-dock-time{display:none}
+#hs-details{display:none}
+#hs-rest,#hs-finish{min-height:44px}
+.ds-dock button,.ds-dock a{touch-action:manipulation}
+.ds-dock{bottom:max(12px,env(safe-area-inset-bottom))}
+@media(max-width:520px){
+  .ds-dock{padding:12px 13px;gap:6px;bottom:max(8px,env(safe-area-inset-bottom));width:calc(100vw - 20px)}
+  .ds-dock:not(.hs-expanded) .ds-dock-instruction,.ds-dock:not(.hs-expanded) [data-hs-secondary]{display:none!important}
+  #hs-details{display:inline-flex;align-items:center;justify-content:center}
+  .ds-dock .ds-dock-actions{gap:6px}
+  .ds-dock .ds-dock-actions button,.ds-dock .ds-dock-actions a{min-height:44px;font-size:12px;padding:8px 10px}
+  .ds-dock .ds-dock-actions .ds-primary{margin-left:auto}
+  .ds-dock .ds-dock-time{font-size:11px;flex-basis:100%;line-height:1.3}
+  .ds-dock-label{font-size:11px;margin-bottom:3px}
+  .ds-dock-title{font-size:14px;line-height:1.5;margin-bottom:2px}
+  .ds-dock-instruction{max-height:min(22vh,150px);font-size:13px;line-height:1.65;overscroll-behavior:contain}
+  .hs-rest-status{font-size:12px;margin-top:4px}
+  .hs-rest-clock{font-size:12px}
+  .workspace-topbar{display:grid;grid-template-columns:32px minmax(0,1fr) auto;grid-template-rows:auto auto;height:auto;min-height:61px;padding:8px 14px 6px;gap:2px 10px}
+  .workspace-topbar .mobile-menu{grid-column:1;grid-row:1}
+  .workspace-topbar .breadcrumb{grid-column:2;grid-row:1;min-width:0}
+  .workspace-topbar #current-page-label{max-width:100%}
+  .workspace-topbar .topbar-actions,.workspace-topbar .save-indicator{display:contents}
+  .workspace-topbar .save-indicator>i{display:none}
+  .workspace-topbar #lookup-open{grid-column:3;grid-row:1}
+  .workspace-topbar #save-status{grid-column:2 / 4;grid-row:2;font-size:10px!important;line-height:1.5;overflow-wrap:anywhere}
+}

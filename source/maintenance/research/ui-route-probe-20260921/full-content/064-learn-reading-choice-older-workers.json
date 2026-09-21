@@ -1,0 +1,432 @@
+{
+  "requested": "learn-reading-choice-older-workers",
+  "from": [
+    "内容单元"
+  ],
+  "actual": "#learn-reading-choice-older-workers",
+  "checkedAt": "2026-09-21T12:51:14.724Z",
+  "title": "学习 / 阅读 / 单选题：Older workers 中的条件、范围与替换表达 · IELTS",
+  "label": "学习 / 阅读 / 单选题：Older workers 中的条件、范围与替换表达",
+  "panel": "reading",
+  "contentRoot": "learn-reading-choice-older-workers",
+  "headings": [
+    {
+      "tag": "H3",
+      "text": "先确定问题问什么",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "检查整个选项的条件",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "短示范",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "原题应用",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "Older workers · 单项选择",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "Questions 1–4",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "留下本单元首稿",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "核对依据，再修订",
+      "visible": false
+    },
+    {
+      "tag": "H3",
+      "text": "示范",
+      "visible": false
+    },
+    {
+      "tag": "H3",
+      "text": "四题",
+      "visible": false
+    },
+    {
+      "tag": "H3",
+      "text": "换个情境再用一次",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "Older workers：薪资条件与两种继续工作的动机",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "Older workers：薪资条件与两种继续工作的动机",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "原题选项",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "原题答案与具体证据",
+      "visible": false
+    }
+  ],
+  "controls": [
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "02\n单选题：Older workers 中的条件、范围与替换表达\n用四道单选练习排除“词相同、意思却扩大了”的选项。材料是练习题节选，适合专项练习，不代表一套完整阅读测评。\n约 22 分钟",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "查看原图 · 2 页",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "我的答案／口语录音文件与简记",
+      "href": null,
+      "save": "enrich-reading-choice-older-workers-answer",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "checkbox",
+      "text": "",
+      "label": "",
+      "href": null,
+      "save": "enrich-reading-choice-older-workers-frozen",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "text",
+      "text": "",
+      "label": "",
+      "href": null,
+      "save": "enrich-reading-choice-older-workers-saved-at",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "保留首稿，打开反馈",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "打开独立答案页，原 PDF 第 29 页",
+      "label": "",
+      "href": "原始参考/beeea772-older-workers-answer-key.pdf",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "修订：哪里变了，为什么",
+      "href": null,
+      "save": "enrich-reading-choice-older-workers-revision",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "可选：记录或再练一次",
+      "label": "",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "迁移答案／隔日回忆记录",
+      "href": null,
+      "save": "enrich-reading-choice-older-workers-transfer",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "可选：记录或再练一次",
+      "label": "",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SELECT",
+      "id": "",
+      "type": "select-one",
+      "text": "请选择内容或语境没理解词义或声音没认出词汇选择／搭配不稳证据、逻辑或展开不足语法或句子组织问题暂时独立完成，隔天再检验",
+      "label": "这次最需要补什么？请选择内容或语境没理解词义或声音没认出词汇选择／搭配不稳证据、逻辑或展开不足语法或句子组织问题暂时独立完成，隔天再检验",
+      "href": null,
+      "save": "enrich-reading-choice-older-workers-diagnosis",
+      "visible": false,
+      "disabled": false,
+      "required": false,
+      "options": [
+        {
+          "value": "",
+          "label": "请选择"
+        },
+        {
+          "value": "内容或语境没理解",
+          "label": "内容或语境没理解"
+        },
+        {
+          "value": "词义或声音没认出",
+          "label": "词义或声音没认出"
+        },
+        {
+          "value": "词汇选择／搭配不稳",
+          "label": "词汇选择／搭配不稳"
+        },
+        {
+          "value": "证据、逻辑或展开不足",
+          "label": "证据、逻辑或展开不足"
+        },
+        {
+          "value": "语法或句子组织问题",
+          "label": "语法或句子组织问题"
+        },
+        {
+          "value": "暂时独立完成，隔天再检验",
+          "label": "暂时独立完成，隔天再检验"
+        }
+      ]
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "原文与答案详解",
+      "label": "",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "IELTS.org Academic Reading Sample Tasks 2023 · Older workers · Q1–4",
+      "label": "",
+      "href": "原始参考/2539b427-older-workers-student.pdf#page=1",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "原答案",
+      "label": "",
+      "href": "原始参考/beeea772-older-workers-answer-key.pdf#page=1",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "练原题：Older workers：薪资条件与两种继续工作的动机",
+      "label": "",
+      "href": "#reading-case-rd-official-older-workers",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "配套材料",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "",
+      "label": "",
+      "href": "原始参考/2539b427-older-workers-student.pdf",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "",
+      "label": "",
+      "href": "https://ielts.org/cdn/Sample-tests/ielts-academic-reading-sample-tasks-2023.pdf",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "",
+      "label": "",
+      "href": "https://ielts.org/take-a-test/test-types/ielts-academic-test/ielts-academic-format-reading",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    }
+  ],
+  "visibleText": "02\n单选题：Older workers 中的条件、范围与替换表达\n用四道单选练习排除“词相同、意思却扩大了”的选项。材料是练习题节选，适合专项练习，不代表一套完整阅读测评。\n约 22 分钟\n0% · 0 / 1 完成\n先确定问题问什么\n\n这组题每题选 A–D 中一个答案。其他选择题可能要求选多个，必须以题面为准。现行说明中，选择题的问题顺序与相关信息在文中出现的顺序一致；这能帮助定位，不能代替证据。\n\n把题干中的对象和动作圈出来：问公司可以考虑的做法、某计划的用途、某类工作的吸引力，还是研究表明什么？定位后读完整句，以及解释它的相邻句。不要看到一个词就停。\n\n检查整个选项的条件\n\n用“对象＋行为＋程度／时间”核对选项。例如有截止年龄的合同，不支持“想工作多久都可以”；部分人的行为，不支持所有人；在某国开展的研究，不等于某事起源于该国。正确选项常用不同词表达原文，错误选项也可能复制原文词语。\n\n短示范\n\n“The town introduced a free shuttle bus for hospital visitors. It runs on weekday mornings only, and passengers must book a seat in advance.”\n\nWhich statement is supported? A. The bus runs throughout every day. B. Visitors can use the bus without booking. C. Visitors may take a free bus on weekday mornings after booking. D. The service is limited to hospital staff.\n\n这是本学习册条件核对示范，不是真题。给正确选项标出它保留的三个条件，再写出一个错误选项改错的地方。\n\n原题应用\n\n下方第一张原页是完整提供的样题节选，第二张是四道题。按题目顺序定位，每题写证据段落号，再给一个最有迷惑性的错误选项标注：与文中矛盾／未提及／把范围扩大。不要用你对退休或创业的常识替文本作答。\n\nOlder workers · 单项选择\n\n[Note: This is an extract from a Part 1 text about older people in the workforce.]\n\nThe general assumption is that older workers are paid more in spite of, rather than because of, their productivity. That might partly explain why, when employers are under pressure to cut costs, they persuade a 55-year old to take early retirement. Take away seniority-based pay scales, and older workers may become a much more attractive employment proposition. But most employers and many workers are uncomfortable with the idea of reducing someone’s pay in later life – although manual workers on piece-rates often earn less as they get older. So retaining the services of older workers may mean employing them in different ways.\n\nOne innovation was devised by IBM Belgium. Faced with the need to cut staff costs, and having decided to concentrate cuts on 55 to 60-year olds, IBM set up a separate company called Skill Team, which re-employed any of the early retired who wanted to go on working up to the age of 60. An employee who joined Skill Team at the age of 55 on a five-year contract would work for 58% of his time, over the full period, for 88% of his last IBM salary. The company offered services to IBM, thus allowing it to retain access to some of the intellectual capital it would otherwise have lost.\n\nThe best way to tempt the old to go on working may be to build on such ‘bridge’ jobs: part-time or temporary employment that creates a more gradual transition from full-time work to retirement. Studies have found that, in the United States, nearly half of all men and women who had been in full-time jobs in middle age moved into such ‘bridge’ jobs at the end of their working lives. In general, it is the best-paid and worst-paid who carry on working. There seem to be two very different types of bridge job-holder – those who continue working because they have to and those who continue working because they want to, even though they could afford to retire.\n\nIf the job market grows more flexible, the old may find more jobs that suit them. Often, they will be self-employed. Sometimes, they may start their own businesses: a study by David Storey of Warwick University found that in Britain 70% of businesses started by people over 55 survived, compared with an overall national average of only 19%. But whatever pattern of employment they choose, in the coming years the skills of these ‘grey workers’ will have to be increasingly acknowledged and rewarded.\n\nQuestions 1–4\n\nChoose the correct letter, A, B, C or D.\n\nWrite the correct letter in boxes 1-4 on your answer sheet.\n\n1 In paragraph one, the writer suggests that companies could consider\n\nabolishing pay schemes that are based on age.\navoiding pay that is based on piece-rates.\nincreasing pay for older workers.\nequipping older workers with new skills.\n\n2 Skill Team is an example of a company which\n\noffers older workers increases in salary.\nallows people to continue working for as long as they want.\nallows the expertise of older workers to be put to use.\ntreats older and younger workers equally.\n\n3 According to the writer, ‘bridge’ jobs\n\ntend to attract people in middle-salary ranges.\nare better paid than some full-time jobs.\noriginated in the United States.\nappeal to distinct groups of older workers.\n\n4 David Storey’s study found that\n\npeople demand more from their work as they get older.\nolder people are good at running their own businesses.\nan increasing number of old people are self-employed.\nfew young people have their own businesses.\n查看原图 · 2 页\n留下本单元首稿\n\n本单元先学再用；不记为未见初测。口语可使用原章节录音器，或自行录音并记文件名。\n\n学习后首次应用｜建议 9 分钟。提交：示范＝＿＿＿＿，保留的条件＝＿＿＿＿；原题 1＝＿＿＿＿，证据在第＿＿＿＿段；2＝＿＿＿＿；3＝＿＿＿＿；4＝＿＿＿＿。每题补一句证据概括，并选一个错误选项说明为何不成立。记录用时与未答数，保存后再看反馈。\n\n我的答案／口语录音文件与简记\n保留首稿，打开反馈\n\n先写下自己的答案。\n\n配套材料",
+  "allContent": "02单选题：Older workers 中的条件、范围与替换表达用四道单选练习排除“词相同、意思却扩大了”的选项。材料是练习题节选，适合专项练习，不代表一套完整阅读测评。约 22 分钟0% · 0 / 1 完成先确定问题问什么\n这组题每题选 A–D 中一个答案。其他选择题可能要求选多个，必须以题面为准。现行说明中，选择题的问题顺序与相关信息在文中出现的顺序一致；这能帮助定位，不能代替证据。\n把题干中的对象和动作圈出来：问公司可以考虑的做法、某计划的用途、某类工作的吸引力，还是研究表明什么？定位后读完整句，以及解释它的相邻句。不要看到一个词就停。\n检查整个选项的条件\n用“对象＋行为＋程度／时间”核对选项。例如有截止年龄的合同，不支持“想工作多久都可以”；部分人的行为，不支持所有人；在某国开展的研究，不等于某事起源于该国。正确选项常用不同词表达原文，错误选项也可能复制原文词语。\n短示范\n“The town introduced a free shuttle bus for hospital visitors. It runs on weekday mornings only, and passengers must book a seat in advance.”\nWhich statement is supported? A. The bus runs throughout every day. B. Visitors can use the bus without booking. C. Visitors may take a free bus on weekday mornings after booking. D. The service is limited to hospital staff.\n这是本学习册条件核对示范，不是真题。给正确选项标出它保留的三个条件，再写出一个错误选项改错的地方。\n原题应用\n下方第一张原页是完整提供的样题节选，第二张是四道题。按题目顺序定位，每题写证据段落号，再给一个最有迷惑性的错误选项标注：与文中矛盾／未提及／把范围扩大。不要用你对退休或创业的常识替文本作答。Older workers · 单项选择[Note: This is an extract from a Part 1 text about older people in the workforce.]The general assumption is that older workers are paid more in spite of, rather than because of, their productivity. That might partly explain why, when employers are under pressure to cut costs, they persuade a 55-year old to take early retirement. Take away seniority-based pay scales, and older workers may become a much more attractive employment proposition. But most employers and many workers are uncomfortable with the idea of reducing someone’s pay in later life – although manual workers on piece-rates often earn less as they get older. So retaining the services of older workers may mean employing them in different ways.One innovation was devised by IBM Belgium. Faced with the need to cut staff costs, and having decided to concentrate cuts on 55 to 60-year olds, IBM set up a separate company called Skill Team, which re-employed any of the early retired who wanted to go on working up to the age of 60. An employee who joined Skill Team at the age of 55 on a five-year contract would work for 58% of his time, over the full period, for 88% of his last IBM salary. The company offered services to IBM, thus allowing it to retain access to some of the intellectual capital it would otherwise have lost.The best way to tempt the old to go on working may be to build on such ‘bridge’ jobs: part-time or temporary employment that creates a more gradual transition from full-time work to retirement. Studies have found that, in the United States, nearly half of all men and women who had been in full-time jobs in middle age moved into such ‘bridge’ jobs at the end of their working lives. In general, it is the best-paid and worst-paid who carry on working. There seem to be two very different types of bridge job-holder – those who continue working because they have to and those who continue working because they want to, even though they could afford to retire.If the job market grows more flexible, the old may find more jobs that suit them. Often, they will be self-employed. Sometimes, they may start their own businesses: a study by David Storey of Warwick University found that in Britain 70% of businesses started by people over 55 survived, compared with an overall national average of only 19%. But whatever pattern of employment they choose, in the coming years the skills of these ‘grey workers’ will have to be increasingly acknowledged and rewarded.Questions 1–4Choose the correct letter, A, B, C or D.Write the correct letter in boxes 1-4 on your answer sheet.1 In paragraph one, the writer suggests that companies could considerabolishing pay schemes that are based on age.avoiding pay that is based on piece-rates.increasing pay for older workers.equipping older workers with new skills.2 Skill Team is an example of a company whichoffers older workers increases in salary.allows people to continue working for as long as they want.allows the expertise of older workers to be put to use.treats older and younger workers equally.3 According to the writer, ‘bridge’ jobstend to attract people in middle-salary ranges.are better paid than some full-time jobs.originated in the United States.appeal to distinct groups of older workers.4 David Storey’s study found thatpeople demand more from their work as they get older.older people are good at running their own businesses.an increasing number of old people are self-employed.few young people have their own businesses.查看原图 · 2 页Older workers 学生材料Older workers 学生材料留下本单元首稿本单元先学再用；不记为未见初测。口语可使用原章节录音器，或自行录音并记文件名。学习后首次应用｜建议 9 分钟。提交：示范＝＿＿＿＿，保留的条件＝＿＿＿＿；原题 1＝＿＿＿＿，证据在第＿＿＿＿段；2＝＿＿＿＿；3＝＿＿＿＿；4＝＿＿＿＿。每题补一句证据概括，并选一个错误选项说明为何不成立。记录用时与未答数，保存后再看反馈。我的答案／口语录音文件与简记保留首稿，打开反馈先写下自己的答案。核对依据，再修订示范\n选 C，同时保留免费、工作日上午、提前预约三个条件。A 扩大时间，B 删除预约要求，D 把服务对象从访客换成工作人员。\n四题\n1＝A。第一段提出可以去掉按年资增长的工资制度，让雇用年长员工更有吸引力。B 不是文中提议，C 与降低成本的讨论方向不符，D 不是该段回答的问题。\n2＝C。Skill Team 的安排让公司继续使用年长员工已有的知识与经验。88% 的原工资不支持“增加薪水”；合同和退休年龄有边界，不支持想留多久就留多久；文中也没有以年轻和年长员工待遇平等作为计划目的。\n3＝D。文中区分高薪与低薪群体，并说明有人需要收入、有人即使有能力退休仍想工作。地点是美国不等于 bridge jobs 起源于美国；文中也没有给出此类工作普遍比全职工资高的依据。\n4＝B。研究所引的企业存续比例支持年长创业者有经营能力。存续比例不是创业人数的增长率，也不证明年轻人很少创业，更不能推广为年长者在任何情况下都更优秀。\n打开独立答案页，原 PDF 第 29 页。记录正确数／4；若答案碰巧选对却不能说明证据，另标“证据不稳”。四道已教学样题不能换算整科 band。修订：哪里变了，为什么换个情境再用一次隔日 5 分钟：不看选项，用中文回答两个问题：Skill Team 对 IBM 的用途是什么？为什么高薪者和低薪者都可能继续工作？随后从原文找一处限制条件，用自己的英语写一句保留该条件的改述。不要把例子中的历史数字写成当下事实。可选：记录或再练一次迁移答案／隔日回忆记录可选：记录或再练一次这次最需要补什么？请选择内容或语境没理解词义或声音没认出词汇选择／搭配不稳证据、逻辑或展开不足语法或句子组织问题暂时独立完成，隔天再检验原文与答案详解Older workers：薪资条件与两种继续工作的动机Older workers：薪资条件与两种继续工作的动机下面可以对照完整原文和对应题目学习。1 The general assumption is that older workers are paid more in spite of, rather than because of, their productivity. That might partly explain why, when employers are under pressure to cut costs, they persuade a 55-year old to take early retirement. Take away seniority-based pay scales, and older workers may become a much more attractive employment proposition. But most employers and many workers are uncomfortable with the idea of reducing someone’s pay in later life – although manual workers on piece-rates often earn less as they get older. So retaining the services of older workers may mean employing them in different ways.2 One innovation was devised by IBM Belgium. Faced with the need to cut staff costs, and having decided to concentrate cuts on 55 to 60-year olds, IBM set up a separate company called Skill Team, which re-employed any of the early retired who wanted to go on working up to the age of 60. An employee who joined Skill Team at the age of 55 on a five-year contract would work for 58% of his time, over the full period, for 88% of his last IBM salary. The company offered services to IBM, thus allowing it to retain access to some of the intellectual capital it would otherwise have lost.3 The best way to tempt the old to go on working may be to build on such ‘bridge’ jobs: part- time or temporary employment that creates a more gradual transition from full-time work to retirement. Studies have found that, in the United States, nearly half of all men and women who had been in full-time jobs in middle age moved into such ‘bridge’ jobs at the end of their working lives. In general, it is the best-paid and worst-paid who carry on working. There seem to be two very different types of bridge job-holder – those who continue working because they have to and those who continue working because they want to, even though they could afford to retire.4 If the job market grows more flexible, the old may find more jobs that suit them. Often, they will be self-employed. Sometimes, they may start their own businesses: a study by David Storey of Warwick University found that in Britain 70% of businesses started by people over 55 survived, compared with an overall national average of only 19%. But whatever pattern of employment they choose, in the coming years the skills of these ‘grey workers’ will have to be increasingly acknowledged and rewarded.原题选项A abolishing pay schemes that are based on age.；B avoiding pay that is based on piece-rates.；C increasing pay for older workers.；D equipping older workers with new skills.A offers older workers increases in salary.；B allows people to continue working for as long as they want.；C allows the expertise of older workers to be put to use.；D treats older and younger workers equally.A tend to attract people in middle-salary ranges.；B are better paid than some full-time jobs.；C originated in the United States.；D appeal to distinct groups of older workers.A people demand more from their work as they get older.；B older people are good at running their own businesses.；C an increasing number of old people are self-employed.；D few young people have their own businesses.原题答案与具体证据Q1 In paragraph one, the writer suggests that companies could consider：A。建议取消按资历定薪的制度。piece-rates只用作反例，不是作者建议废除它。Take away seniority-based pay scales, and older workers may become a much more attractive employment proposition.Q2 Skill Team is an example of a company which：C。保留经验和知识正对应expertise。88%不是加薪，工作到60岁不是想多久就多久。thus allowing it to retain access to some of the intellectual capital it would otherwise have lost.Q3 According to the writer, ‘bridge’ jobs：D。两类人的动机不同，D概括distinct groups。美国研究发生地不能推出起源于美国，最佳和最差薪酬者也不等于中间薪资。those who continue working because they have to and those who continue working because they want toQ4 David Storey’s study found that：B。较高企业存活比例支持经营表现，未给自雇人数随时间增多趋势或年轻人拥有企业的比例。70% of businesses started by people over 55 survived, compared with an overall national average of only 19%.IELTS.org Academic Reading Sample Tasks 2023 · Older workers · Q1–4原答案练原题：Older workers：薪资条件与两种继续工作的动机配套材料2023 阅读样题（学生第 27–28 页，答案第 29 页）2023 阅读样题（学生第 27–28 页，答案第 29 页）IELTS 阅读题型规则：Multiple choice",
+  "links": [
+    {
+      "text": "打开独立答案页，原 PDF 第 29 页",
+      "href": "原始参考/beeea772-older-workers-answer-key.pdf"
+    },
+    {
+      "text": "IELTS.org Academic Reading Sample Tasks 2023 · Older workers · Q1–4",
+      "href": "原始参考/2539b427-older-workers-student.pdf#page=1"
+    },
+    {
+      "text": "原答案",
+      "href": "原始参考/beeea772-older-workers-answer-key.pdf#page=1"
+    },
+    {
+      "text": "练原题：Older workers：薪资条件与两种继续工作的动机",
+      "href": "#reading-case-rd-official-older-workers"
+    },
+    {
+      "text": "2023 阅读样题（学生第 27–28 页，答案第 29 页）",
+      "href": "原始参考/2539b427-older-workers-student.pdf"
+    },
+    {
+      "text": "2023 阅读样题（学生第 27–28 页，答案第 29 页）",
+      "href": "https://ielts.org/cdn/Sample-tests/ielts-academic-reading-sample-tasks-2023.pdf"
+    },
+    {
+      "text": "IELTS 阅读题型规则：Multiple choice",
+      "href": "https://ielts.org/take-a-test/test-types/ielts-academic-test/ielts-academic-format-reading"
+    }
+  ],
+  "details": [
+    {
+      "id": "",
+      "title": "查看原图 · 2 页",
+      "open": false,
+      "visible": true
+    },
+    {
+      "id": "",
+      "title": "可选：记录或再练一次",
+      "open": false,
+      "visible": false
+    },
+    {
+      "id": "",
+      "title": "可选：记录或再练一次",
+      "open": false,
+      "visible": false
+    },
+    {
+      "id": "",
+      "title": "原文与答案详解",
+      "open": false,
+      "visible": false
+    },
+    {
+      "id": "",
+      "title": "配套材料",
+      "open": false,
+      "visible": true
+    }
+  ],
+  "saveFields": [
+    "enrich-reading-choice-older-workers-answer",
+    "enrich-reading-choice-older-workers-frozen",
+    "enrich-reading-choice-older-workers-saved-at",
+    "enrich-reading-choice-older-workers-revision",
+    "enrich-reading-choice-older-workers-transfer",
+    "enrich-reading-choice-older-workers-diagnosis"
+  ],
+  "images": [
+    {
+      "src": "assets/deferred-media/52869fd84bcce5d02839e9fa.png",
+      "alt": "Older workers 学生材料：原 PDF 第 27 页",
+      "visible": false,
+      "complete": false,
+      "width": 0
+    },
+    {
+      "src": "assets/deferred-media/9d8f10911daa5dbe5f5ba009.png",
+      "alt": "Older workers 学生材料：原 PDF 第 28 页",
+      "visible": false,
+      "complete": false,
+      "width": 0
+    }
+  ],
+  "audio": [],
+  "viewport": 1440,
+  "documentWidth": 1440
+}

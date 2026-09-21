@@ -1,0 +1,166 @@
+{
+  "requested": "writing1-tech-read-chart",
+  "from": [
+    "内容单元",
+    "页面链接"
+  ],
+  "actual": "#writing1-tech-read-chart",
+  "checkedAt": "2026-09-21T12:51:22.149Z",
+  "title": "学习 / 写作 · Task 1 / 读图起手：用真实就业图核对对象、单位与时间 · IELTS",
+  "label": "学习 / 写作 · Task 1 / 读图起手：用真实就业图核对对象、单位与时间",
+  "panel": "writing1",
+  "contentRoot": "writing1-tech-read-chart",
+  "headings": [],
+  "controls": [
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "读图起手：用真实就业图核对对象、单位与时间",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "美国四行业就业：峰值、交叉与最终排名",
+      "label": "",
+      "href": "#writing1-case-wc-c21-t1-jobs",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "自行车使用率：年龄比较与百分点差",
+      "label": "",
+      "href": "#writing1-case-wc-official-bicycle",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "Cambridge IELTS 21 Academic · Test 1 · Task 1 · PDF 30 页",
+      "label": "",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=30",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "IELTS Academic Writing — modified large print · Task 1 · PDF 4 页",
+      "label": "",
+      "href": "case-assets/writing-official-large-print.pdf#page=4",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "练原题：美国四行业就业：峰值、交叉与最终排名",
+      "label": "",
+      "href": "#writing1-case-wc-c21-t1-jobs",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "练原题：自行车使用率：年龄比较与百分点差",
+      "label": "",
+      "href": "#writing1-case-wc-official-bicycle",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "checkbox",
+      "text": "",
+      "label": "我已学习本单元",
+      "href": null,
+      "save": "resource-learned-tech-read-chart",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "checkbox",
+      "text": "",
+      "label": "加入我的复习",
+      "href": null,
+      "save": "resource-review-tech-read-chart",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "我的练习答案／证据／下次要改的一步（可留空）",
+      "href": null,
+      "save": "resource-note-tech-read-chart",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    }
+  ],
+  "visibleText": "读图起手：用真实就业图核对对象、单位与时间\n0% · 0 / 1 完成\n\n先读剑桥21 Test 1 的就业原图。题干的对象是美国四个行业的 number of jobs，纵轴是 millions，横轴是1960、1980、2000、2020。三个信息决定你只能描述“岗位数随时间变化”，不能写工资、人数占比或失业率。\n\n核对答案：制造业1960年为15 million，1980年20 million，2000年约17 million，2020年13 million。因此“Manufacturing employment declined throughout the period”不成立：它先升后降。可改成：Manufacturing employment rose from 15 million in 1960 to a peak of 20 million in 1980, before falling to 13 million by 2020.\n\n把同一读图动作迁移到官方自行车表格：该表只给June 2011一个时点，行是年龄组，列是male/female。51.3%是0–9岁男性组的骑车比例，不是所有骑车者中男孩占51.3%。年龄组差异也不能当成同一批人多年后的变化。\n\n本题先答四项再写：①量的名称是什么？②单位是什么？③横轴是时间还是类别？④能比较的分母是否相同？核对答案分别为就业图的jobs / millions / 时间 / 同一单位岗位数；自行车表为participation / % / 年龄类别 / 各年龄与性别组内部比例。\n\n对应原题练习：美国四行业就业：峰值、交叉与最终排名 · 自行车使用率：年龄比较与百分点差\n\nCambridge IELTS 21 Academic · Test 1 · Task 1 · PDF 30 页\n\nIELTS Academic Writing — modified large print · Task 1 · PDF 4 页\n\n练原题：美国四行业就业：峰值、交叉与最终排名\n练原题：自行车使用率：年龄比较与百分点差\n\n本单元的学习记录\n\n 我已学习本单元 加入我的复习\n我的练习答案／证据／下次要改的一步（可留空）",
+  "allContent": "读图起手：用真实就业图核对对象、单位与时间0% · 0 / 1 完成\n先读剑桥21 Test 1 的就业原图。题干的对象是美国四个行业的 number of jobs，纵轴是 millions，横轴是1960、1980、2000、2020。三个信息决定你只能描述“岗位数随时间变化”，不能写工资、人数占比或失业率。\n核对答案：制造业1960年为15 million，1980年20 million，2000年约17 million，2020年13 million。因此“Manufacturing employment declined throughout the period”不成立：它先升后降。可改成：Manufacturing employment rose from 15 million in 1960 to a peak of 20 million in 1980, before falling to 13 million by 2020.\n把同一读图动作迁移到官方自行车表格：该表只给June 2011一个时点，行是年龄组，列是male/female。51.3%是0–9岁男性组的骑车比例，不是所有骑车者中男孩占51.3%。年龄组差异也不能当成同一批人多年后的变化。\n本题先答四项再写：①量的名称是什么？②单位是什么？③横轴是时间还是类别？④能比较的分母是否相同？核对答案分别为就业图的jobs / millions / 时间 / 同一单位岗位数；自行车表为participation / % / 年龄类别 / 各年龄与性别组内部比例。\n对应原题练习：美国四行业就业：峰值、交叉与最终排名 · 自行车使用率：年龄比较与百分点差Cambridge IELTS 21 Academic · Test 1 · Task 1 · PDF 30 页IELTS Academic Writing — modified large print · Task 1 · PDF 4 页练原题：美国四行业就业：峰值、交叉与最终排名练原题：自行车使用率：年龄比较与百分点差本单元的学习记录 我已学习本单元 加入我的复习我的练习答案／证据／下次要改的一步（可留空）",
+  "links": [
+    {
+      "text": "美国四行业就业：峰值、交叉与最终排名",
+      "href": "#writing1-case-wc-c21-t1-jobs"
+    },
+    {
+      "text": "自行车使用率：年龄比较与百分点差",
+      "href": "#writing1-case-wc-official-bicycle"
+    },
+    {
+      "text": "Cambridge IELTS 21 Academic · Test 1 · Task 1 · PDF 30 页",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=30"
+    },
+    {
+      "text": "IELTS Academic Writing — modified large print · Task 1 · PDF 4 页",
+      "href": "case-assets/writing-official-large-print.pdf#page=4"
+    },
+    {
+      "text": "练原题：美国四行业就业：峰值、交叉与最终排名",
+      "href": "#writing1-case-wc-c21-t1-jobs"
+    },
+    {
+      "text": "练原题：自行车使用率：年龄比较与百分点差",
+      "href": "#writing1-case-wc-official-bicycle"
+    }
+  ],
+  "details": [],
+  "saveFields": [
+    "resource-learned-tech-read-chart",
+    "resource-review-tech-read-chart",
+    "resource-note-tech-read-chart"
+  ],
+  "images": [],
+  "audio": [],
+  "viewport": 1440,
+  "documentWidth": 1440
+}

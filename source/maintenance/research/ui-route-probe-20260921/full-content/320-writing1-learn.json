@@ -1,0 +1,142 @@
+{
+  "requested": "writing1-learn",
+  "from": [
+    "页面链接"
+  ],
+  "actual": "#writing1-learn",
+  "checkedAt": "2026-09-21T12:54:59.859Z",
+  "title": "学习 / 写作 · Task 1 / 写作 · Task 1 · 从原题开始学 · IELTS",
+  "label": "学习 / 写作 · Task 1 / 写作 · Task 1 · 从原题开始学",
+  "panel": "writing1",
+  "contentRoot": "writing1-learn",
+  "headings": [
+    {
+      "tag": "H2",
+      "text": "从这份答案开始学",
+      "visible": false
+    },
+    {
+      "tag": "H2",
+      "text": "第二次：只修两个关键问题",
+      "visible": false
+    },
+    {
+      "tag": "H3",
+      "text": "我的练习与修订",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "用原题练这一题型",
+      "visible": false
+    }
+  ],
+  "controls": [
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "参考与反馈页",
+      "label": "",
+      "href": "#writing1-feedback",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "作答后复盘：原稿中哪一句最需要修？它涉及的对象、单位、时间和比较关系分别是什么？",
+      "href": null,
+      "save": "writing1-practice0",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "作答后复盘：我选了哪两条信息概括全图？它们怎样覆盖主要趋势或重要比较？看过提示请注明。",
+      "href": null,
+      "save": "writing1-practice1",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "有提示用法练习：从本章原图任务中选一句，用 increase by/to 或 overtake 表达准确的数量关系；也可用合法替代表达，不必同时练完。",
+      "href": null,
+      "save": "writing1-practice2",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "修订记录：保留原句与改句，说明本次只修了什么；注明独立修改、看提示后修改或参考表达后修改。",
+      "href": null,
+      "save": "writing1-practice3",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "保留自己的意思，在这里写修订稿或修复后的片段。",
+      "href": null,
+      "save": "writing1-revision",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "美国四行业就业：峰值、交叉与最终排名",
+      "label": "",
+      "href": "#writing1-case-wc-c21-t1-jobs",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    }
+  ],
+  "visibleText": "从这份答案开始学保留原稿后，先选一个最影响读者理解的问题：概述选材，或一处数量关系。对照原图核实对象、单位、时间和比较，再看相关教学，只修改对应的概述或细节句段；使用自己的措辞，不整段覆盖为参考答案。第二次：只修两个关键问题\n建议预留约 25—35 分钟，可另一天完成。时间是试学预算，按任务理解、修订完成情况和可持续投入调整。\n先选信息，约 5 分钟。可以用中文回答，避免英语表达掩盖图表理解。\n\n哪两个行业在这段时期整体上升？哪个行业整体下降？\n制造业是否一直下降？哪一年出现峰值？\n图表开始和结束时，处于最高位置的行业有什么变化？\n给全图选两条最重要的信息：写哪两条、为什么足以概括？不要逐年抄全部数据。\n\n再练表达，约 10 分钟。以下是围绕原图设计的教学题，不是 Cambridge 原题，也不据此换算 IELTS band。允许多种正确写法。\n\n看制造业的曲线，表达“在 1980 年达到约两千万的峰值”。不指定必须用哪个动词。\n表达制造业从 1960 年到 1980 年增加了多少，以及增加到多少。写两句并说明两句数字为什么不同。\n修正一句错误句：The amount of manufacturing jobs increased to five million between 1960 and 1980. 保留“增加的幅度约为五百万”这个意思。\n写一句比较 1960 年与 2020 年行业相对位置变化的话。可以使用简单词，不要求高级词。\n\nUnfamiliar vocabulary usage，约 5 分钟。\novertake：超过原先领先的人或事物。过去式 overtook，过去分词 overtaken。\n\n根据原图表达：到 2020 年，零售业和医疗行业的岗位数量超过了制造业。\n再用这个词表达：在一个情境中，线上销售在 2024 年超过门店销售。这里的销售情境是教学迁移题，不是来自真题的数据。\n标记：以前会用 K / 认识但很少用 R / 本次新学 N。如果你不用这个词也能准确表达，另记“替代表达成功”，不判整个表达失败。\n\n本页已经给出目标词及词形，这里观察的是提示下能否组织准确的表达；无提示提取另放到隔日检查，不与本次混计。\n最后只修改原稿中的概述及一个细节段。打开参考与反馈页核对事实、用法和可接受变体，再用自己的话修改。不要把参考答案整段覆盖到原稿上。我的练习与修订以下属于教学支持后的使用，和首次答案分开。作答后复盘：原稿中哪一句最需要修？它涉及的对象、单位、时间和比较关系分别是什么？作答后复盘：我选了哪两条信息概括全图？它们怎样覆盖主要趋势或重要比较？看过提示请注明。有提示用法练习：从本章原图任务中选一句，用 increase by/to 或 overtake 表达准确的数量关系；也可用合法替代表达，不必同时练完。修订记录：保留原句与改句，说明本次只修了什么；注明独立修改、看提示后修改或参考表达后修改。保留自己的意思，在这里写修订稿或修复后的片段。用原题练这一题型美国四行业就业：峰值、交叉与最终排名",
+  "allContent": "从这份答案开始学保留原稿后，先选一个最影响读者理解的问题：概述选材，或一处数量关系。对照原图核实对象、单位、时间和比较，再看相关教学，只修改对应的概述或细节句段；使用自己的措辞，不整段覆盖为参考答案。第二次：只修两个关键问题\n建议预留约 25—35 分钟，可另一天完成。时间是试学预算，按任务理解、修订完成情况和可持续投入调整。\n先选信息，约 5 分钟。可以用中文回答，避免英语表达掩盖图表理解。\n\n哪两个行业在这段时期整体上升？哪个行业整体下降？\n制造业是否一直下降？哪一年出现峰值？\n图表开始和结束时，处于最高位置的行业有什么变化？\n给全图选两条最重要的信息：写哪两条、为什么足以概括？不要逐年抄全部数据。\n\n再练表达，约 10 分钟。以下是围绕原图设计的教学题，不是 Cambridge 原题，也不据此换算 IELTS band。允许多种正确写法。\n\n看制造业的曲线，表达“在 1980 年达到约两千万的峰值”。不指定必须用哪个动词。\n表达制造业从 1960 年到 1980 年增加了多少，以及增加到多少。写两句并说明两句数字为什么不同。\n修正一句错误句：The amount of manufacturing jobs increased to five million between 1960 and 1980. 保留“增加的幅度约为五百万”这个意思。\n写一句比较 1960 年与 2020 年行业相对位置变化的话。可以使用简单词，不要求高级词。\n\nUnfamiliar vocabulary usage，约 5 分钟。\novertake：超过原先领先的人或事物。过去式 overtook，过去分词 overtaken。\n\n根据原图表达：到 2020 年，零售业和医疗行业的岗位数量超过了制造业。\n再用这个词表达：在一个情境中，线上销售在 2024 年超过门店销售。这里的销售情境是教学迁移题，不是来自真题的数据。\n标记：以前会用 K / 认识但很少用 R / 本次新学 N。如果你不用这个词也能准确表达，另记“替代表达成功”，不判整个表达失败。\n\n本页已经给出目标词及词形，这里观察的是提示下能否组织准确的表达；无提示提取另放到隔日检查，不与本次混计。\n最后只修改原稿中的概述及一个细节段。打开参考与反馈页核对事实、用法和可接受变体，再用自己的话修改。不要把参考答案整段覆盖到原稿上。我的练习与修订以下属于教学支持后的使用，和首次答案分开。作答后复盘：原稿中哪一句最需要修？它涉及的对象、单位、时间和比较关系分别是什么？作答后复盘：我选了哪两条信息概括全图？它们怎样覆盖主要趋势或重要比较？看过提示请注明。有提示用法练习：从本章原图任务中选一句，用 increase by/to 或 overtake 表达准确的数量关系；也可用合法替代表达，不必同时练完。修订记录：保留原句与改句，说明本次只修了什么；注明独立修改、看提示后修改或参考表达后修改。保留自己的意思，在这里写修订稿或修复后的片段。用原题练这一题型美国四行业就业：峰值、交叉与最终排名",
+  "links": [
+    {
+      "text": "参考与反馈页",
+      "href": "#writing1-feedback"
+    },
+    {
+      "text": "美国四行业就业：峰值、交叉与最终排名",
+      "href": "#writing1-case-wc-c21-t1-jobs"
+    }
+  ],
+  "details": [],
+  "saveFields": [
+    "writing1-practice0",
+    "writing1-practice1",
+    "writing1-practice2",
+    "writing1-practice3",
+    "writing1-revision"
+  ],
+  "images": [],
+  "audio": [],
+  "viewport": 1440,
+  "documentWidth": 1440
+}

@@ -1,0 +1,414 @@
+{
+  "requested": "writing2-text-tourism",
+  "from": [
+    "页面链接"
+  ],
+  "actual": "#writing2-text-tourism",
+  "checkedAt": "2026-09-21T12:54:40.500Z",
+  "title": "学习 / 写作 · Task 2 / 利弊权衡：说明为什么一边更重要 · IELTS",
+  "label": "学习 / 写作 · Task 2 / 利弊权衡：说明为什么一边更重要",
+  "panel": "writing2",
+  "contentRoot": "learn-writing2_weigh_consequences",
+  "headings": [
+    {
+      "tag": "H3",
+      "text": "Outweigh 要求一个比较后的判断",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "比较后果，而不是数理由",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "国际旅游利弊 · Task 2",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "WRITING TASK 2",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "留下本单元首稿",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "核对依据，再修订",
+      "visible": false
+    },
+    {
+      "tag": "H3",
+      "text": "看有没有真正发生比较",
+      "visible": false
+    },
+    {
+      "tag": "H3",
+      "text": "换个情境再用一次",
+      "visible": false
+    },
+    {
+      "tag": "H3",
+      "text": "同题官方考生样本 · Band 7.5 · 2B Script B",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "用原题练这一题型",
+      "visible": true
+    }
+  ],
+  "controls": [
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "02\n利弊权衡：说明为什么一边更重要\n学会回应 outweigh：既识别收益与代价，又说明你怎样比较它们的重要程度。\n约 20 分钟",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "查看原图 · 1 页",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "我的答案／口语录音文件与简记",
+      "href": null,
+      "save": "enrich-writing2_weigh_consequences-answer",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "checkbox",
+      "text": "",
+      "label": "",
+      "href": null,
+      "save": "enrich-writing2_weigh_consequences-frozen",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "text",
+      "text": "",
+      "label": "",
+      "href": null,
+      "save": "enrich-writing2_weigh_consequences-saved-at",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "保留首稿，打开反馈",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "修订：哪里变了，为什么",
+      "href": null,
+      "save": "enrich-writing2_weigh_consequences-revision",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "可选：记录或再练一次",
+      "label": "",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "迁移答案／隔日回忆记录",
+      "href": null,
+      "save": "enrich-writing2_weigh_consequences-transfer",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "可选：记录或再练一次",
+      "label": "",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SELECT",
+      "id": "",
+      "type": "select-one",
+      "text": "请选择内容或语境没理解词义或声音没认出词汇选择／搭配不稳证据、逻辑或展开不足语法或句子组织问题暂时独立完成，隔天再检验",
+      "label": "这次最需要补什么？请选择内容或语境没理解词义或声音没认出词汇选择／搭配不稳证据、逻辑或展开不足语法或句子组织问题暂时独立完成，隔天再检验",
+      "href": null,
+      "save": "enrich-writing2_weigh_consequences-diagnosis",
+      "visible": false,
+      "disabled": false,
+      "required": false,
+      "options": [
+        {
+          "value": "",
+          "label": "请选择"
+        },
+        {
+          "value": "内容或语境没理解",
+          "label": "内容或语境没理解"
+        },
+        {
+          "value": "词义或声音没认出",
+          "label": "词义或声音没认出"
+        },
+        {
+          "value": "词汇选择／搭配不稳",
+          "label": "词汇选择／搭配不稳"
+        },
+        {
+          "value": "证据、逻辑或展开不足",
+          "label": "证据、逻辑或展开不足"
+        },
+        {
+          "value": "语法或句子组织问题",
+          "label": "语法或句子组织问题"
+        },
+        {
+          "value": "暂时独立完成，隔天再检验",
+          "label": "暂时独立完成，隔天再检验"
+        }
+      ]
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "配套材料",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "",
+      "label": "",
+      "href": "原始参考/82c03e0f-official-task2b-outweigh.pdf",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "",
+      "label": "",
+      "href": "https://ielts.org/cdn/Sample-tests/ielts-academic-writing-sample-tasks-2023.pdf",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "",
+      "label": "",
+      "href": "https://ielts.org/news-and-insights/ielts-writing-task-2-how-to-understand-ielts-question-prompts",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "",
+      "label": "",
+      "href": "https://ielts.org/take-a-test/test-types/ielts-academic-test/ielts-academic-format-writing",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "官方作答 · 第25页",
+      "label": "",
+      "href": "case-assets/writing-official-sample-tasks-2023.pdf#page=25",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "考官评语 · 第26页",
+      "label": "",
+      "href": "case-assets/writing-official-sample-tasks-2023.pdf#page=26",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "官方在线原件",
+      "label": "",
+      "href": "https://ielts.org/cdn/Sample-tests/ielts-academic-writing-sample-tasks-2023.pdf#page=25",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "国际旅游：经济收益与社区成本如何比较",
+      "label": "",
+      "href": "#writing2-case-wc-official-tourism",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "本科海外学习或实习：收益能否超过代价",
+      "label": "",
+      "href": "#writing2-case-wc-c21-t3-placement",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    }
+  ],
+  "visibleText": "02\n利弊权衡：说明为什么一边更重要\n学会回应 outweigh：既识别收益与代价，又说明你怎样比较它们的重要程度。\n约 20 分钟\n0% · 0 / 1 完成\nOutweigh 要求一个比较后的判断\n\n题目提到国际旅游带来的收益，以及对当地居民和环境的担忧，随后问弊是否大于利。只列 jobs, money, pollution, crowds 没有回答谁更重要；只写解决方案，也没有完成这个判断。你需要解释两面，并说明自己的权衡。\n\n比较后果，而不是数理由\n\n可以考虑受影响的人、后果持续多久、是否容易修复、是否有实际条件减少损害。它们是帮助思考的角度，不是每篇必填的四格模板。例如，短期收入与长期资源损害之间的关系，比“我写了三个优点、两个缺点”更能支持结论。\n\n教学短示范，只演示条件关系：\n\nTourism can provide income for local businesses. However, if visitor numbers exceed the capacity of a small town's transport system, residents may face daily delays. Whether the benefits are greater depends partly on how well the town can manage this pressure.\n\n这段先给收益，再解释具体代价，但它还没有充分完成整篇立场：作者最终仍需说明自己对题目总体的判断，不能全文停在 it depends。不同结论都可能成立，只要理由与结论一致。不要把示范假设写成某个真实城市已经发生的事实。\n\n两个具体表达：provide income for local businesses、put pressure on local services。它们应连接到清楚的主体和后果；不是写上就获得词汇分。正式 Task 2 至少 250 词，本次仅练一个权衡段落。\n\n国际旅游利弊 · Task 2\nWRITING TASK 2\n\nYou should spend about 40 minutes on this task.\n\nWrite about the following topic:\n\nInternational tourism has brought enormous benefit to many places. At the same time, there is concern about its impact on local inhabitants and the environment.\n\nDo the disadvantages of international tourism outweigh the advantages?\n\nGive reasons for your answer and include any relevant examples from your own knowledge or experience.\n\nWrite at least 250 words.\n\n查看原图 · 1 页\n留下本单元首稿\n\n本单元先学再用；不记为未见初测。口语可使用原章节录音器，或自行录音并记文件名。\n\n就上方国际旅游题，写约 80–110 词的局部回答：先说明你是否认为弊大于利，再展开一项具体收益和一项具体代价，解释你为什么认为其中一项更重要。可以有条件，但不要只写 depends on the situation 就结束。先保存初稿，再看反馈。最后另记一条有提示复盘：我的比较依据是＿＿＿＿，而不只是论点的数量。\n\n我的答案／口语录音文件与简记\n保留首稿，打开反馈\n\n先写下自己的答案。\n\n配套材料\n同题官方考生样本 · Band 7.5 · 2B Script B\n\n优先对照这份同题官方考生稿及考官评语；分数仅属于该原稿。本地参考段落仍为原创教学示范。\n\n官方作答 · 第25页考官评语 · 第26页官方在线原件\n\n分别追踪收益、代价和权衡；重点检查提出措施是否替代了对利弊的回答。\n\n用原题练这一题型\n国际旅游：经济收益与社区成本如何比较\n本科海外学习或实习：收益能否超过代价",
+  "allContent": "02利弊权衡：说明为什么一边更重要学会回应 outweigh：既识别收益与代价，又说明你怎样比较它们的重要程度。约 20 分钟0% · 0 / 1 完成Outweigh 要求一个比较后的判断\n题目提到国际旅游带来的收益，以及对当地居民和环境的担忧，随后问弊是否大于利。只列 jobs, money, pollution, crowds 没有回答谁更重要；只写解决方案，也没有完成这个判断。你需要解释两面，并说明自己的权衡。\n比较后果，而不是数理由\n可以考虑受影响的人、后果持续多久、是否容易修复、是否有实际条件减少损害。它们是帮助思考的角度，不是每篇必填的四格模板。例如，短期收入与长期资源损害之间的关系，比“我写了三个优点、两个缺点”更能支持结论。\n教学短示范，只演示条件关系：\n\nTourism can provide income for local businesses. However, if visitor numbers exceed the capacity of a small town's transport system, residents may face daily delays. Whether the benefits are greater depends partly on how well the town can manage this pressure.\n\n这段先给收益，再解释具体代价，但它还没有充分完成整篇立场：作者最终仍需说明自己对题目总体的判断，不能全文停在 it depends。不同结论都可能成立，只要理由与结论一致。不要把示范假设写成某个真实城市已经发生的事实。\n两个具体表达：provide income for local businesses、put pressure on local services。它们应连接到清楚的主体和后果；不是写上就获得词汇分。正式 Task 2 至少 250 词，本次仅练一个权衡段落。国际旅游利弊 · Task 2WRITING TASK 2You should spend about 40 minutes on this task.Write about the following topic:International tourism has brought enormous benefit to many places. At the same time, there is concern about its impact on local inhabitants and the environment.Do the disadvantages of international tourism outweigh the advantages?Give reasons for your answer and include any relevant examples from your own knowledge or experience.Write at least 250 words.查看原图 · 1 页练习题：国际旅游给地方带来收益，也引发居民与环境方面的担忧；判断弊是否大于利。留下本单元首稿本单元先学再用；不记为未见初测。口语可使用原章节录音器，或自行录音并记文件名。就上方国际旅游题，写约 80–110 词的局部回答：先说明你是否认为弊大于利，再展开一项具体收益和一项具体代价，解释你为什么认为其中一项更重要。可以有条件，但不要只写 depends on the situation 就结束。先保存初稿，再看反馈。最后另记一条有提示复盘：我的比较依据是＿＿＿＿，而不只是论点的数量。我的答案／口语录音文件与简记保留首稿，打开反馈先写下自己的答案。核对依据，再修订看有没有真正发生比较\n答案可以认为弊更大，也可以认为利更大。关键不是与示范站同一边，而是：收益和代价都得到解释，且你说清为什么它们的分量不同。例如，“收益能支持居民长期就业，而部分拥堵可通过交通安排减轻”是在比较持续性与可管理性；仍需要谨慎说明它所依赖的条件。\n教学一种回答，非唯一范文：\n\nI do not think the disadvantages of international tourism necessarily outweigh its benefits. Visitors can provide income for local shops and support jobs that residents need throughout the year. Large crowds may put pressure on transport and public spaces, but these problems can sometimes be reduced by limiting visitor numbers in busy areas. I would therefore give greater weight to the benefits where local authorities can manage those pressures. If serious damage is allowed to continue, however, the same judgement would be harder to defend.\n\n这段有明确倾向，也说明了管理条件。它不是证明所有旅游目的地都如此，也不是一篇完整的 250 词作文。若你认为长期环境损害更重要，同样可以论证；要解释受损对象与难以恢复的原因，而不是只写 the environment is important。\n常见断点有三种：写了两张清单却没权衡；提出改善措施却没说明措施怎样影响利弊判断；开头说弊更大，结尾却毫无解释地说利更大。优先修一条断点。benefits outweigh the costs 与 the advantages are more significant 等准确表达都可接受，不按固定模板或句数评分。修订：哪里变了，为什么换个情境再用一次新情境再用——练习：一座城市考虑把商业街改为步行区。可能的收益是行人有更多活动空间，可能的代价是商店送货更不方便。写约 60–90 词判断利是否大于弊，解释你怎样比较两种后果。可以提出一个明确条件，但不要编造营业额或事故统计，也不要把全部篇幅写成解决方案。完成后自检：是否说明谁受到影响、为什么某一后果更值得重视，以及结论与理由是否一致？这是新的政策情境，不是旅游段落的背诵检查。可选：记录或再练一次迁移答案／隔日回忆记录可选：记录或再练一次这次最需要补什么？请选择内容或语境没理解词义或声音没认出词汇选择／搭配不稳证据、逻辑或展开不足语法或句子组织问题暂时独立完成，隔天再检验配套材料Academic Writing 样题包：Task 2B（原包第 7 页）Academic Writing 样题包：Task 2B（原包第 7 页）IELTS：如何理解 Task 2 题目要求（含旅游利弊例）IELTS Academic Writing 格式与要求同题官方考生样本 · Band 7.5 · 2B Script B优先对照这份同题官方考生稿及考官评语；分数仅属于该原稿。本地参考段落仍为原创教学示范。官方作答 · 第25页考官评语 · 第26页官方在线原件分别追踪收益、代价和权衡；重点检查提出措施是否替代了对利弊的回答。用原题练这一题型国际旅游：经济收益与社区成本如何比较本科海外学习或实习：收益能否超过代价",
+  "links": [
+    {
+      "text": "Academic Writing 样题包：Task 2B（原包第 7 页）",
+      "href": "原始参考/82c03e0f-official-task2b-outweigh.pdf"
+    },
+    {
+      "text": "Academic Writing 样题包：Task 2B（原包第 7 页）",
+      "href": "https://ielts.org/cdn/Sample-tests/ielts-academic-writing-sample-tasks-2023.pdf"
+    },
+    {
+      "text": "IELTS：如何理解 Task 2 题目要求（含旅游利弊例）",
+      "href": "https://ielts.org/news-and-insights/ielts-writing-task-2-how-to-understand-ielts-question-prompts"
+    },
+    {
+      "text": "IELTS Academic Writing 格式与要求",
+      "href": "https://ielts.org/take-a-test/test-types/ielts-academic-test/ielts-academic-format-writing"
+    },
+    {
+      "text": "官方作答 · 第25页",
+      "href": "case-assets/writing-official-sample-tasks-2023.pdf#page=25"
+    },
+    {
+      "text": "考官评语 · 第26页",
+      "href": "case-assets/writing-official-sample-tasks-2023.pdf#page=26"
+    },
+    {
+      "text": "官方在线原件",
+      "href": "https://ielts.org/cdn/Sample-tests/ielts-academic-writing-sample-tasks-2023.pdf#page=25"
+    },
+    {
+      "text": "国际旅游：经济收益与社区成本如何比较",
+      "href": "#writing2-case-wc-official-tourism"
+    },
+    {
+      "text": "本科海外学习或实习：收益能否超过代价",
+      "href": "#writing2-case-wc-c21-t3-placement"
+    }
+  ],
+  "details": [
+    {
+      "id": "",
+      "title": "查看原图 · 1 页",
+      "open": false,
+      "visible": true
+    },
+    {
+      "id": "",
+      "title": "可选：记录或再练一次",
+      "open": false,
+      "visible": false
+    },
+    {
+      "id": "",
+      "title": "可选：记录或再练一次",
+      "open": false,
+      "visible": false
+    },
+    {
+      "id": "",
+      "title": "配套材料",
+      "open": false,
+      "visible": true
+    }
+  ],
+  "saveFields": [
+    "enrich-writing2_weigh_consequences-answer",
+    "enrich-writing2_weigh_consequences-frozen",
+    "enrich-writing2_weigh_consequences-saved-at",
+    "enrich-writing2_weigh_consequences-revision",
+    "enrich-writing2_weigh_consequences-transfer",
+    "enrich-writing2_weigh_consequences-diagnosis"
+  ],
+  "images": [
+    {
+      "src": "assets/deferred-media/9aac9793ee2445128997f68c.png",
+      "alt": "官方原题：国际旅游给地方带来收益，也引发居民与环境方面的担忧；判断弊是否大于利。",
+      "visible": false,
+      "complete": false,
+      "width": 0
+    }
+  ],
+  "audio": [],
+  "viewport": 1440,
+  "documentWidth": 1440
+}

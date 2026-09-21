@@ -1,0 +1,150 @@
+{
+  "requested": "writing2-case-wc-official-eldercare",
+  "from": [
+    "内容单元"
+  ],
+  "actual": "#writing2-case-wc-official-eldercare",
+  "checkedAt": "2026-09-21T12:52:55.144Z",
+  "title": "练习 / 写作 · Task 2 / 老年照护费用：政府与家庭如何分担 · IELTS",
+  "label": "练习 / 写作 · Task 2 / 老年照护费用：政府与家庭如何分担",
+  "panel": "practice-writing2",
+  "contentRoot": "writing2-case-wc-official-eldercare",
+  "headings": [
+    {
+      "tag": "H4",
+      "text": "本次写作任务",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "对照答案，回到证据",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "参考写法",
+      "visible": false
+    },
+    {
+      "tag": "H3",
+      "text": "答后精读",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "篇章结构",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "词语与搭配",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "句子精读",
+      "visible": false
+    }
+  ],
+  "controls": [
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "老年照护费用：政府与家庭如何分担未作答\n观点选择 · 原题拆段写作 · 参考段落与逐段讲解",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "Cambridge / IELTS General Training Writing sample task",
+      "label": "",
+      "href": "case-assets/writing-official-elder-care.pdf#page=1",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "case-wc-official-eldercare-answer",
+      "type": "textarea",
+      "text": "",
+      "label": "我的段落",
+      "href": null,
+      "save": "case-wc-official-eldercare-answer",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "checkbox",
+      "text": "",
+      "label": "",
+      "href": null,
+      "save": "case-wc-official-eldercare-done",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "hidden",
+      "text": "",
+      "label": "",
+      "href": null,
+      "save": "case-wc-official-eldercare-saved-at",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "保留作答，查看答案",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "case-wc-official-eldercare-revision",
+      "type": "textarea",
+      "text": "",
+      "label": "我的修订／证据笔记",
+      "href": null,
+      "save": "case-wc-official-eldercare-revision",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    }
+  ],
+  "visibleText": "老年照护费用：政府与家庭如何分担未作答\n观点选择 · 原题拆段写作 · 参考段落与逐段讲解\n0% · 0 / 1 完成\n\n官方样题 · Cambridge / IELTS General Training Writing sample task · PDF 第 1 页\n\nIn Britain, when someone gets old they often go to live in a home with other old people where there are nurses to look after them. Sometimes the government has to pay for this care. Who do you think should pay for this care, the government or the family?\n\n本次写作任务\n\n写两个主体段，约170–210词。提出明确分担原则，再解释家庭在何种条件下出资；原题是GT官方Task2，论证训练可迁移到Academic，但不得伪标Academic真题。\n\n我的段落\n\n0 词\n\n保留作答，查看答案\n\n先作答；不确定的题也可记录判断与疑点。",
+  "allContent": "老年照护费用：政府与家庭如何分担未作答观点选择 · 原题拆段写作 · 参考段落与逐段讲解0% · 0 / 1 完成官方样题 · Cambridge / IELTS General Training Writing sample task · PDF 第 1 页In Britain, when someone gets old they often go to live in a home with other old people where there are nurses to look after them. Sometimes the government has to pay for this care. Who do you think should pay for this care, the government or the family?本次写作任务写两个主体段，约170–210词。提出明确分担原则，再解释家庭在何种条件下出资；原题是GT官方Task2，论证训练可迁移到Academic，但不得伪标Academic真题。我的段落0 词保留作答，查看答案先作答；不确定的题也可记录判断与疑点。对照答案，回到证据参考写法下列段落为针对原题编写的参考写法，用于对照内容和表达；写作没有唯一标准答案。The government should guarantee essential care for older people who cannot afford it. The need for nursing support may arise independently of how carefully a person has saved, and the cost can exceed an ordinary household’s resources. If access depends entirely on family payments, an older person with poor relatives or no close family could be left without adequate help. Public funding can establish a minimum standard of care and spread this financial risk across society. This is a stronger basis for essential support than making each family bear an unpredictable burden alone.Families can reasonably contribute when they have sufficient resources, but the contribution should depend on their means. Requiring the same payment from a low-income household and a wealthy one would be unfair and might damage the care of other dependants. A means-tested arrangement could protect essential living costs while asking those able to afford additional support to share the expense. Families may also choose to pay for optional facilities beyond the publicly funded minimum. My view is therefore that the state should secure access to necessary care, with family contributions supplementing that guarantee rather than determining whether care is available at all.原题问谁付钱，答案用政府保障底线、家庭按能力补充的可操作原则回应。没有将“照顾亲人是美德”当成费用分担的全部论据；讨论的是资源、风险和公平。明确来源为GT官方样题；并非声称这是Academic考试题。答后精读篇章结构公共保障理由：风险不可预测、家庭资源不均。按支付能力限定家庭责任，最后重新给出明确分担立场。词语与搭配depend on their means：means指经济能力。a minimum standard of care：基本保障而非无限开支。supplementing that guarantee：补充而非取代公共保障。句子精读If access depends entirely on family payments, ... → 把公平风险与支付规则直接相连。... rather than determining whether care is available at all → 结尾强调家庭收入不应决定基本照护资格。我的修订／证据笔记",
+  "links": [
+    {
+      "text": "Cambridge / IELTS General Training Writing sample task",
+      "href": "case-assets/writing-official-elder-care.pdf#page=1"
+    }
+  ],
+  "details": [],
+  "saveFields": [
+    "case-wc-official-eldercare-answer",
+    "case-wc-official-eldercare-done",
+    "case-wc-official-eldercare-saved-at",
+    "case-wc-official-eldercare-revision"
+  ],
+  "images": [],
+  "audio": [],
+  "viewport": 1440,
+  "documentWidth": 1440
+}

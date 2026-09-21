@@ -1,0 +1,280 @@
+{
+  "requested": "writing2-case-wc-official-tourism",
+  "from": [
+    "内容单元",
+    "页面链接",
+    "每日安排目标"
+  ],
+  "actual": "#writing2-case-wc-official-tourism",
+  "checkedAt": "2026-09-21T12:52:52.781Z",
+  "title": "练习 / 写作 · Task 2 / 国际旅游：经济收益与社区成本如何比较 · IELTS",
+  "label": "练习 / 写作 · Task 2 / 国际旅游：经济收益与社区成本如何比较",
+  "panel": "practice-writing2",
+  "contentRoot": "writing2-case-wc-official-tourism",
+  "headings": [
+    {
+      "tag": "H3",
+      "text": "写作前置 · 文中表达",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "noise from aircraft",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "placed too much stress on local resources",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "本次写作任务",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "对照答案，回到证据",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "参考写法",
+      "visible": false
+    },
+    {
+      "tag": "H3",
+      "text": "答后精读",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "篇章结构",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "词语与搭配",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "句子精读",
+      "visible": false
+    },
+    {
+      "tag": "H3",
+      "text": "同题官方考生样本 · Band 7.5 · 2B Script B",
+      "visible": true
+    }
+  ],
+  "controls": [
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "国际旅游：经济收益与社区成本如何比较未作答\n利弊权衡 · 原题拆段写作 · 参考段落与逐段讲解",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "IELTS Academic Writing Sample Tasks (2023)",
+      "label": "",
+      "href": "case-assets/writing-official-sample-tasks-2023.pdf#page=7",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "Why we need silence｜噪声风险与城市降噪",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "",
+      "label": "",
+      "href": "#material-reading-rd-c21-silence-1",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "Mapungubwe｜贸易、器物与衰落",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "",
+      "label": "",
+      "href": "#material-reading-rd-c21-mapungubwe-2",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "case-wc-official-tourism-answer",
+      "type": "textarea",
+      "text": "",
+      "label": "我的段落",
+      "href": null,
+      "save": "case-wc-official-tourism-answer",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "checkbox",
+      "text": "",
+      "label": "",
+      "href": null,
+      "save": "case-wc-official-tourism-done",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "hidden",
+      "text": "",
+      "label": "",
+      "href": null,
+      "save": "case-wc-official-tourism-saved-at",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "保留作答，查看答案",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "case-wc-official-tourism-revision",
+      "type": "textarea",
+      "text": "",
+      "label": "我的修订／证据笔记",
+      "href": null,
+      "save": "case-wc-official-tourism-revision",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "官方作答 · 第25页",
+      "label": "",
+      "href": "case-assets/writing-official-sample-tasks-2023.pdf#page=25",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "考官评语 · 第26页",
+      "label": "",
+      "href": "case-assets/writing-official-sample-tasks-2023.pdf#page=26",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "官方在线原件",
+      "label": "",
+      "href": "https://ielts.org/cdn/Sample-tests/ielts-academic-writing-sample-tasks-2023.pdf#page=25",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    }
+  ],
+  "visibleText": "国际旅游：经济收益与社区成本如何比较未作答\n利弊权衡 · 原题拆段写作 · 参考段落与逐段讲解\n0% · 0 / 1 完成\n\n官方样题 · IELTS Academic Writing Sample Tasks (2023) · PDF 第 7 页\n\n写作前置 · 文中表达\n\n下面的表达来自阅读材料，例句按本题语境编写。展开相关材料即可查看。\n\nWhy we need silence｜噪声风险与城市降噪\nMapungubwe｜贸易、器物与衰落\n\nInternational tourism has brought enormous benefit to many places. At the same time, there is concern about its impact on local inhabitants and the environment. Do the disadvantages of international tourism outweigh the advantages?\n\n本次写作任务\n\n写两个主体段，约180–220词；同时覆盖local inhabitants与environment。结尾必须比较影响而非只说“都有优缺点”；不杜撰游客比例或经济统计。\n\n我的段落\n\n0 词\n\n保留作答，查看答案\n\n先作答；不确定的题也可记录判断与疑点。\n\n同题官方考生样本 · Band 7.5 · 2B Script B\n\n优先对照这份同题官方考生稿及考官评语；分数仅属于该原稿。本地参考段落仍为原创教学示范。\n\n官方作答 · 第25页考官评语 · 第26页官方在线原件\n\n分别追踪收益、代价和权衡；重点检查提出措施是否替代了对利弊的回答。",
+  "allContent": "国际旅游：经济收益与社区成本如何比较未作答利弊权衡 · 原题拆段写作 · 参考段落与逐段讲解0% · 0 / 1 完成官方样题 · IELTS Academic Writing Sample Tasks (2023) · PDF 第 7 页写作前置 · 文中表达下面的表达来自阅读材料，例句按本题语境编写。展开相关材料即可查看。Why we need silence｜噪声风险与城市降噪noise from aircraft飞机产生的噪声可用于旅游活动对机场附近居民的影响，须说明航班增长这一具体联系；不能把所有旅游目的地的主要问题一律写成航空噪声。本题例句 · 编写示范Where tourism leads to more frequent flights, noise from aircraft may become an additional burden for residents near airports.题目明确要求考虑旅游对当地居民与环境的影响；条件句把表达限定在航空活动增长的目的地。回到这份材料的精读Mapungubwe｜贸易、器物与衰落placed too much stress on local resources给当地资源带来过大压力可根据句子时态改为place或places，保留place stress on的搭配。谈旅游时应具体说明水、土地或公共设施等资源，不能把古代王国衰落直接当作现代旅游的实证。本题例句 · 编写示范Uncontrolled growth in visitor numbers could place too much stress on local resources, especially water supplies during the dry season.题目讨论旅游对当地环境与居民的代价；资源压力能够具体解释游客增长可能产生的成本。回到这份材料的精读International tourism has brought enormous benefit to many places. At the same time, there is concern about its impact on local inhabitants and the environment. Do the disadvantages of international tourism outweigh the advantages?本次写作任务写两个主体段，约180–220词；同时覆盖local inhabitants与environment。结尾必须比较影响而非只说“都有优缺点”；不杜撰游客比例或经济统计。我的段落0 词保留作答，查看答案先作答；不确定的题也可记录判断与疑点。对照答案，回到证据参考写法下列段落为针对原题编写的参考写法，用于对照内容和表达；写作没有唯一标准答案。International tourism can provide substantial benefits when visitors spend money in local businesses. Hotels, restaurants and transport operators need staff, and smaller enterprises can earn income from guiding, food or crafts. This can be especially valuable in places with few alternative sources of employment. Visitor interest may also give a community an incentive to maintain historic buildings and cultural activities. These benefits are strongest when local residents own businesses or obtain secure jobs, rather than when most revenue leaves the destination through external companies.The costs can nevertheless outweigh those gains where visitor numbers exceed a place’s capacity. Housing converted into short-term accommodation may become less available to residents, while crowded streets and heavy demand for water can disrupt everyday life. Natural sites can also be damaged if waste and access are poorly managed. Unlike an extra sale in a restaurant, the loss of affordable housing or a fragile habitat may be difficult to reverse. I therefore judge the balance to depend on how tourism is controlled: unmanaged expansion can produce greater harm, whereas limits on pressure and a fair local share of income can preserve its advantages.收益讲清谁拿到收入；成本区分居民住房/公共资源与自然环境。比较标准是影响是否可逆以及承载能力，而非无依据地宣布旅游总是坏。结尾提供明确的条件性判断：unmanaged expansion时坏处可能更大；管理有效时能保留优势。答后精读篇章结构收入机制—就业—文化维护—收益归属条件。居民与环境成本—可逆性比较—条件性权衡结论。词语与搭配exceed a place’s capacity：把过量客流与损害联系。a fair local share of income：对应第一段收益归属。difficult to reverse：权衡的重要性而非数点。句子精读Housing converted into short-term accommodation ... → converted into是后置修饰housing，不是一个新的谓语。Unlike an extra sale ..., the loss ... may be difficult to reverse. → 比较收益与损失的不同性质。我的修订／证据笔记同题官方考生样本 · Band 7.5 · 2B Script B优先对照这份同题官方考生稿及考官评语；分数仅属于该原稿。本地参考段落仍为原创教学示范。官方作答 · 第25页考官评语 · 第26页官方在线原件分别追踪收益、代价和权衡；重点检查提出措施是否替代了对利弊的回答。",
+  "links": [
+    {
+      "text": "IELTS Academic Writing Sample Tasks (2023)",
+      "href": "case-assets/writing-official-sample-tasks-2023.pdf#page=7"
+    },
+    {
+      "text": "回到这份材料的精读",
+      "href": "#material-reading-rd-c21-silence-1"
+    },
+    {
+      "text": "回到这份材料的精读",
+      "href": "#material-reading-rd-c21-mapungubwe-2"
+    },
+    {
+      "text": "官方作答 · 第25页",
+      "href": "case-assets/writing-official-sample-tasks-2023.pdf#page=25"
+    },
+    {
+      "text": "考官评语 · 第26页",
+      "href": "case-assets/writing-official-sample-tasks-2023.pdf#page=26"
+    },
+    {
+      "text": "官方在线原件",
+      "href": "https://ielts.org/cdn/Sample-tests/ielts-academic-writing-sample-tasks-2023.pdf#page=25"
+    }
+  ],
+  "details": [
+    {
+      "id": "writing-prep-wc-official-tourism-from-rd-c21-silence-1",
+      "title": "Why we need silence｜噪声风险与城市降噪",
+      "open": false,
+      "visible": true
+    },
+    {
+      "id": "writing-prep-wc-official-tourism-from-rd-c21-mapungubwe-2",
+      "title": "Mapungubwe｜贸易、器物与衰落",
+      "open": false,
+      "visible": true
+    }
+  ],
+  "saveFields": [
+    "case-wc-official-tourism-answer",
+    "case-wc-official-tourism-done",
+    "case-wc-official-tourism-saved-at",
+    "case-wc-official-tourism-revision"
+  ],
+  "images": [],
+  "audio": [],
+  "viewport": 1440,
+  "documentWidth": 1440
+}

@@ -1,0 +1,287 @@
+{
+  "tech-locate": {
+    "title": "完整示范：同一段短文，先定位再核对证据",
+    "prompt_md": "**A** A city library extended its evening opening hours in March. Managers wanted to make the building easier to use after work.\n\n**B** A survey in June found that evening visits had risen. However, weekend attendance had not changed.\n\n**C** Staff warned that the survey covered only one branch, so its findings might not apply to the whole city.\n\n**第 1–3 题：信息匹配。** Write the correct letter, A, B or C. **You may use any letter more than once.**\n\n1. Which paragraph mentions a limitation of the evidence?\n2. Which paragraph explains the purpose of changing the opening hours?\n3. Which paragraph contrasts a rise in one type of visit with no change in another?\n\n**第 4 题：信息判断。** Write TRUE if the statement agrees with the passage, FALSE if it contradicts the passage, or NOT GIVEN if the passage does not provide enough information.\n\n4. The June survey reported an increase in weekend attendance.",
+    "answer_title": "标准答案与定位过程",
+    "answer_md": "**1. C**\n\n**2. A**\n\n**3. B**\n\n**4. FALSE**\n\n先用 A「改变与目的」、B「两类结果」、C「适用范围」建立段落地图。题干中的 limitation、purpose、contrasts 不必逐字出现在短文中；选项必须由整句意思支持。",
+    "explanations": [
+      {
+        "quote": "1. C",
+        "evidence": "the survey covered only one branch, so its findings might not apply to the whole city",
+        "explanation": "题干要找 evidence 的 limitation。only one branch 限制样本覆盖范围，might not apply to the whole city 限制结论的适用范围，两者都落在 C。B 虽有 survey 一词，却只报告结果，不指出证据的限制。"
+      },
+      {
+        "quote": "2. A",
+        "evidence": "Managers wanted to make the building easier to use after work.",
+        "explanation": "题干问改变开放时间的目的。wanted to 引出管理者想实现的结果：方便下班后使用。B 的 evening visits had risen 是后来观察到的结果，不能替代“当初为什么改”的证据。"
+      },
+      {
+        "quote": "3. B",
+        "evidence": "evening visits had risen. However, weekend attendance had not changed.",
+        "explanation": "题干要求同时满足“某类增加”和“另一类不变”。had risen 对应 a rise，had not changed 对应 no change；However 把 evening 与 weekend 两类访问作对照。只读前半句会漏掉题目的比较条件。"
+      },
+      {
+        "quote": "4. FALSE",
+        "evidence": "weekend attendance had not changed",
+        "explanation": "题干的主体是 weekend attendance，主张是 an increase。原文对同一主体明确说没有变化，因此是相反，而非信息缺失。evening visits 的上升不能移用到 weekend attendance。"
+      }
+    ],
+    "contrasts": [
+      {
+        "wrong": "第 1 题选 B：因为 B 有 survey。",
+        "better": "第 1 题选 C：only one branch 与 might not apply 表达研究限制。",
+        "why": "survey 只能定位到研究相关内容；题干真正要找的是 limitation 这一信息关系，必须读到对覆盖范围的限制才算完成定位。"
+      },
+      {
+        "wrong": "第 4 题填 TRUE：开放更久后 visits 增加了。",
+        "better": "第 4 题填 FALSE：weekend attendance had not changed。",
+        "why": "答案要对齐题干的周末到访人数；evening visits 与 weekend attendance 是不同的比较对象。"
+      }
+    ]
+  },
+  "tech-judgement": {
+    "title": "完整示范：反证、信息缺失与作者立场",
+    "prompt_md": "**短文一 · Museum admission**\n\nThe museum opened in 2012. Entry is free for children under twelve. Adult visitors pay a fee. The director hopes to extend free entry to students next year.\n\n**第 1–3 题：判断短文中的信息。** Write TRUE if the statement agrees with the information, FALSE if it contradicts the information, or NOT GIVEN if there is not enough information.\n\n1. The museum opened before 2015.\n2. All visitors can enter without paying.\n3. Students currently pay less than other adults.\n\n**短文二 · Building height（以第一人称表达作者观点）**\n\nSome planners claim that taller buildings always improve city life. I disagree: in areas with poor transport, they can make congestion worse.\n\n**第 4–6 题：判断是否符合作者观点。** Write YES if the statement agrees with the writer's views, NO if it contradicts the writer's views, or NOT GIVEN if it is impossible to tell what the writer thinks.\n\n4. Taller buildings always improve city life.\n5. Taller buildings may worsen traffic in some places.\n6. Improving public transport is cheaper than limiting building height.",
+    "answer_title": "标准答案：先分题型，再判证据关系",
+    "answer_md": "**1. TRUE**\n\n**2. FALSE**\n\n**3. NOT GIVEN**\n\n**4. NO**\n\n**5. YES**\n\n**6. NOT GIVEN**\n\n第 1–3 题填写 TRUE / FALSE / NOT GIVEN；第 4–6 题填写 YES / NO / NOT GIVEN。FALSE / NO 需要明确反证；NOT GIVEN 要说清缺了什么信息，不能只说“没有一样的词”。",
+    "explanations": [
+      {
+        "quote": "1. TRUE",
+        "evidence": "The museum opened in 2012.",
+        "explanation": "2012 早于 2015，直接支持 opened before 2015。原文没有 before 这个词不影响判断；日期的关系已经完整支持题干。"
+      },
+      {
+        "quote": "2. FALSE",
+        "evidence": "Adult visitors pay a fee.",
+        "explanation": "All visitors 声称每位访客都免票，成人需要付费提供了明确反例。答案为 FALSE 的依据是成人付费这条反证，不是仅因为题干出现 all。"
+      },
+      {
+        "quote": "3. NOT GIVEN",
+        "evidence": "The director hopes to extend free entry to students next year.",
+        "explanation": "题干比较学生与其他成人的现行票价，原文只说未来希望给学生免票。学生现在可能付全价，也可能已有折扣；没有当前票价比较，不能证明 pay less，也不能证明相反。"
+      },
+      {
+        "quote": "4. NO",
+        "evidence": "Some planners claim that taller buildings always improve city life. I disagree: in areas with poor transport, they can make congestion worse.",
+        "explanation": "第一句是 Some planners 的观点，随后 I disagree 明确给出作者反对立场。题干问作者是否认同 always improve，作者给出了交通较差地区可能更拥堵的反例，因此填 NO。"
+      },
+      {
+        "quote": "5. YES",
+        "evidence": "in areas with poor transport, they can make congestion worse",
+        "explanation": "they 指 taller buildings；can make congestion worse 对应 may worsen traffic。in areas with poor transport 给出特定地区，支持 some places，没有把部分地区扩大成所有地区。"
+      },
+      {
+        "quote": "6. NOT GIVEN",
+        "evidence": "in areas with poor transport, they can make congestion worse",
+        "explanation": "这一相关句只谈高楼在交通较差地区对拥堵的影响；短文没有给出改善公共交通与限制建筑高度的成本，更没有两者谁便宜的比较。缺的是费用关系，不能根据现实经验判断。"
+      }
+    ],
+    "contrasts": [
+      {
+        "wrong": "第 3 题填 FALSE：学生现在还没有免费。",
+        "better": "第 3 题填 NOT GIVEN：现行学生票与成人票的高低关系未说明。",
+        "why": "“未免费”并不等于“没有折扣”；pay less 不是 enter free，题干比较关系缺失时不能当作反证。"
+      },
+      {
+        "wrong": "第 4 题填 YES：首句说高楼 always improve city life。",
+        "better": "第 4 题填 NO：首句归属于 planners，作者用 I disagree 反对。",
+        "why": "观点题必须追踪谁在说话，不能把作者引用的他人观点直接算作作者立场。"
+      }
+    ]
+  },
+  "tech-headings": {
+    "title": "完整示范：主旨覆盖整段，关键词只作线索",
+    "prompt_md": "**Paragraph A**\n\nEarly roof gardens were praised for their appearance. Their main value in dense cities, however, is now seen as environmental. Plants can reduce roof temperatures, and the soil can hold some rainwater. These effects help buildings manage heat and runoff.\n\n**Paragraph B**\n\nThe first repair café attracted few visitors. Organisers then moved it next to the weekly market and advertised short demonstrations. Attendance increased within a month, suggesting that location and visibility mattered more than the original team had expected.\n\n**Choose the correct heading for each paragraph from the list below.** Write the correct number, i–iv. **Do not use any heading more than once. Two headings will not be used.**\n\ni. The visual design of roof gardens\nii. Environmental benefits of roof gardens\niii. Why repair cafés need expensive tools\niv. Changes that improved participation\n\n1. Paragraph A: ______\n2. Paragraph B: ______",
+    "answer_title": "标准答案与标题排除",
+    "answer_md": "**1. ii** — Environmental benefits of roof gardens\n\n**2. iv** — Changes that improved participation\n\nA 的主旨可先概括成“屋顶花园帮助调节热量和雨水”；B 可概括成“改变地点与宣传方式后，参与人数增加”。再将这个整段概括与标题核对。",
+    "explanations": [
+      {
+        "quote": "1. ii",
+        "evidence": "Their main value in dense cities, however, is now seen as environmental.",
+        "explanation": "however 把重点从外观转向环境价值。后面的 reduce roof temperatures 和 hold some rainwater 分别给出降温、蓄水两项支持，ii 同时涵盖两项；i 只对应开头的外观背景，无法覆盖主体内容。"
+      },
+      {
+        "quote": "2. iv",
+        "evidence": "Attendance increased within a month, suggesting that location and visibility mattered more than the original team had expected.",
+        "explanation": "本段先说参加者少，再说搬到市场旁并宣传演示，最后说到访增加；iv 概括的是“采取变化后参与改善”这一整段关系。iii 虽与 repair café 主题相关，但文中没有工具价格，也没有解释为何需要昂贵工具。"
+      }
+    ],
+    "contrasts": [
+      {
+        "wrong": "第 1 题选 i，因为首句提到 appearance。",
+        "better": "第 1 题选 ii，因为 however 后解释了降温与蓄水这两项环境益处。",
+        "why": "首句在提供背景，标题应覆盖转折后的主要论述；只对应一个背景词的标题不等于整段主旨。"
+      },
+      {
+        "wrong": "第 2 题选 iii，因为标题里也有 repair cafés。",
+        "better": "第 2 题选 iv：搬位置、做宣传之后 attendance increased。",
+        "why": "同主题不足以支持标题，标题中的核心关系也必须出现；expensive tools 的成本与必要性都没有证据。"
+      }
+    ]
+  },
+  "tech-matching": {
+    "title": "完整示范：同意、反对与首先提出要分开",
+    "prompt_md": "**A** Lin argued that shorter bus routes would be easier to run reliably. Patel questioned this view, warning that passengers might need to change buses more often.\n\n**B** Morgan supported Patel's concern but suggested testing the plan on one route before rejecting it. Lin agreed that a trial would be useful.\n\n**Match each statement with the correct person.** Write L, P or M. **You may use any letter more than once.** “首先提出”只按本短文描述的讨论顺序判断。\n\nL = Lin\nP = Patel\nM = Morgan\n\n1. Argued that shorter routes could make services more reliable.\n2. First warned that the plan might require passengers to make more transfers.\n3. First proposed trying the plan on a single route.\n4. Supported shorter routes and later agreed that a trial would be useful.",
+    "answer_title": "标准答案与人物归属",
+    "answer_md": "**1. L**\n\n**2. P**\n\n**3. M**\n\n**4. L**\n\n人物笔记：Lin 提出稳定运营的好处，后来同意试行；Patel 提出换乘增加的担忧；Morgan 支持这一担忧，同时先提出单线路试行。第 1、4 题可以重复使用 L，因为指令明确允许。",
+    "explanations": [
+      {
+        "quote": "1. L",
+        "evidence": "Lin argued that shorter bus routes would be easier to run reliably.",
+        "explanation": "题干 make services more reliable 对应 easier to run reliably，argued 的主语是 Lin。Patel 随后 questioned this view，表示质疑这个观点，不能因出现在同段就归给 Patel。"
+      },
+      {
+        "quote": "2. P",
+        "evidence": "Patel questioned this view, warning that passengers might need to change buses more often.",
+        "explanation": "make more transfers 对应 change buses more often，warning 的行为归属于 Patel。Morgan 后来 supported Patel's concern，是赞同已经提出的担忧；题干中的 First 排除了把后来的支持者当成最先提出者。"
+      },
+      {
+        "quote": "3. M",
+        "evidence": "Morgan supported Patel's concern but suggested testing the plan on one route before rejecting it.",
+        "explanation": "trying the plan on a single route 对应 testing the plan on one route，suggested 的主语是 Morgan。后句 Lin agreed 只是同意这个建议，不能替代 first proposed。"
+      },
+        {
+        "quote": "4. L",
+        "evidence": "Lin agreed that a trial would be useful.",
+        "explanation": "这题有两个条件，需要跨句合并：A 的 Lin argued 支持短线路的可靠性，B 的 Lin agreed 表示同意试行。Morgan 虽提议试行，却没有说短线路能更可靠，不能满足完整陈述。"
+      }
+    ],
+    "contrasts": [
+      {
+        "wrong": "第 3 题选 L：Lin 说 trial would be useful。",
+        "better": "第 3 题选 M：Morgan suggested testing the plan on one route。",
+        "why": "first proposed 要找率先提出方案的人；agreed 表示赞同已经提出的建议，不是提出方案。"
+      },
+      {
+        "wrong": "第 4 题改选 M，因为 L 已经在第 1 题用过。",
+        "better": "第 4 题仍选 L，分别核对支持短线路和后来同意试行两条证据。",
+        "why": "本题明确允许复用人物选项，不能靠一人只能用一次的假设分配答案。"
+      }
+    ]
+  },
+  "tech-completion": {
+    "title": "完整示范：把原文答案放回空格检查",
+    "prompt_md": "**Packaging glass bottles**\n\nThe boxes were lined with recycled paper to protect the glass bottles. Each shipment contained twelve boxes. Before loading, staff checked every lid.\n\n**Complete the sentences below. Choose NO MORE THAN TWO WORDS from the passage for each answer.** 使用原文用词；填完整的材料或物品名称，不加题面已有的词。\n\n1. Recycled ______ was used to line the boxes.\n2. The lining protected the ______ inside the boxes.\n3. A shipment contained ______ boxes.\n4. Before the boxes were loaded, staff checked every ______.",
+    "answer_title": "标准答案、完整句与字数检查",
+    "answer_md": "**1. paper**（1 词）\n\n完整句：Recycled **paper** was used to line the boxes.\n\n**2. glass bottles**（2 词）\n\n完整句：The lining protected the **glass bottles** inside the boxes.\n\n**3. twelve**（1 词）\n\n完整句：A shipment contained **twelve** boxes.\n\n**4. lid**（1 词）\n\n完整句：Before the boxes were loaded, staff checked every **lid**.\n\n两词是上限，不是每空必须填两词。先找到原文完整短语，再扣除题面已经给出的 recycled、boxes、every 等词。",
+    "explanations": [
+      {
+        "quote": "1. paper",
+        "evidence": "The boxes were lined with recycled paper",
+        "explanation": "原文 lined with recycled paper 表明衬垫材料是再生纸。题面已给 Recycled，空内只需 paper；再抄 recycled paper 会形成 Recycled recycled paper，虽然两词未超限，整句仍错。"
+      },
+      {
+        "quote": "2. glass bottles",
+        "evidence": "to protect the glass bottles",
+        "explanation": "题干 protected the 问受到保护的物品，原文直接给出 glass bottles。两词完整保留物品名称，且 the 已在空格前；不能把 the 一并抄入，也不能把 bottles 改成原文没有的单数 bottle。"
+      },
+      {
+        "quote": "3. twelve",
+        "evidence": "Each shipment contained twelve boxes.",
+        "explanation": "题面已给 boxes，需要填数量。twelve 是原文中的一个词，放入后得到 twelve boxes；本题按原文词语取答案，不必改写成数字 12。填 twelve boxes 会把 boxes 重复两次。"
+      },
+      {
+        "quote": "4. lid",
+        "evidence": "Before loading, staff checked every lid.",
+        "explanation": "Before the boxes were loaded 与 Before loading 对应。题面 every 后需要原文的单数 lid；不能因前面 boxes 是复数，就把本空写成 lids。"
+      }
+    ],
+    "contrasts": [
+      {
+        "wrong": "第 1 空填 recycled paper。",
+        "better": "第 1 空填 paper。",
+        "why": "把答案放回句子就会看见 Recycled recycled paper 的重复；字数合规只是必要条件，还要检查题面已给词。"
+      },
+      {
+        "wrong": "第 2 空填 the glass bottles。",
+        "better": "第 2 空填 glass bottles。",
+        "why": "the glass bottles 是 3 词，超过 2 词限制，而且空格前已经有 the；删除重复冠词后语义与语法都成立。"
+      },
+      {
+        "wrong": "第 4 空填 lids。",
+        "better": "第 4 空填 lid。",
+        "why": "原文是 every lid，every 后跟单数可数名词；要保留答案在原文中的词形。"
+      }
+    ]
+  },
+  "tech-diagram": {
+    "title": "完整示范：沿水流核对四个部件",
+    "prompt_md": "**Rain collector**\n\nRainwater enters the funnel at the top. It then passes through a mesh filter, which removes leaves. Below the filter is a storage tank. An outlet pipe carries water from the base of the tank to a measuring cup.\n\n看本单元的 Rain collector 示意图。measuring cup 已有标签，不需要填写。\n\n**Complete labels 1–4. Choose NO MORE THAN TWO WORDS from the passage for each answer.** 填完整部件名称，不抄冠词。\n\n1. 引线指向顶端的漏斗形入口：______\n2. 引线指向漏斗下方的横向网层：______\n3. 引线指向网层下方的储水部件：______\n4. 引线指向从储水部件底部通往杯子的管道：______",
+    "answer_title": "标准答案与文字—图形对应",
+    "answer_md": "**1. funnel**（1 词）\n\n**2. mesh filter**（2 词）\n\n**3. storage tank**（2 词）\n\n**4. outlet pipe**（2 词）\n\n核对路线：funnel → mesh filter → storage tank → outlet pipe → measuring cup。最后的 measuring cup 是已给标签，不能填到指向管道的第 4 空。",
+    "explanations": [
+      {
+        "quote": "1. funnel",
+        "evidence": "Rainwater enters the funnel at the top.",
+        "explanation": "第 1 根引线指向顶部入口；enters 给出进水功能，at the top 给出位置，共同对应 funnel。答案取自短文中的部件名称，不能用课外猜出的 roof 或 collector 代替。"
+      },
+      {
+        "quote": "2. mesh filter",
+        "evidence": "It then passes through a mesh filter, which removes leaves.",
+        "explanation": "It 指雨水；then 说明水流经过顶部入口后的下一步。which removes leaves 指 mesh filter 的过滤作用，与图中横向网层对应，完整两词恰好符合上限。"
+      },
+      {
+        "quote": "3. storage tank",
+        "evidence": "Below the filter is a storage tank.",
+        "explanation": "Below the filter 明确把储水部件放在滤网下面，对应第 3 根引线。第 2 空的 filter 与第 3 空的 tank 不能只靠相邻位置互换；要同时核对上下关系和部件名称。"
+      },
+      {
+        "quote": "4. outlet pipe",
+        "evidence": "An outlet pipe carries water from the base of the tank to a measuring cup.",
+        "explanation": "from the base of the tank to a measuring cup 给出管道的起点与终点。第 4 根引线指向连接两者的管道，所以填 outlet pipe；measuring cup 是管道通往的容器，不是管道本身。"
+      }
+    ],
+    "contrasts": [
+      {
+        "wrong": "第 4 空填 measuring cup。",
+        "better": "第 4 空填 outlet pipe。",
+        "why": "题目引线指向管道；原文 carries water from ... to ... 的主语是 outlet pipe，measuring cup 只是终点。"
+      },
+      {
+        "wrong": "第 2 空填 screen。",
+        "better": "第 2 空填 mesh filter。",
+        "why": "即使 screen 在常识上可描述网层，本题要求从原文取词；短文实际使用的是 mesh filter。"
+      }
+    ]
+  },
+  "tech-choices-review": {
+    "title": "完整示范：每个选项都要回答题目所问的关系",
+    "prompt_md": "**Passage A · Energy trial**\n\nThe trial reduced energy use in the test building. Because the study lasted only two weeks, the researchers said it was too early to estimate annual savings.\n\n**Passage B · Museum audio guide**\n\nVisitors preferred the audio guide because it let them explore at their own pace. Some still asked staff for directions.\n\n**Questions 1–2: Choose ONE letter, A, B, C or D, for each question.**\n\n1. Why did the researchers avoid estimating annual savings?\n\nA. Energy use increased during the trial.\nB. The observation period was too short.\nC. The building was larger than expected.\nD. The equipment was too expensive.\n\n2. Why did visitors prefer the audio guide?\n\nA. It was free.\nB. It allowed flexible pacing.\nC. It replaced all staff assistance.\nD. It contained more facts.\n\n**Question 3: Choose TWO letters, A–E.** 两个字母顺序不限。\n\n3. Which TWO statements are supported by Passage B?\n\nA. Visitors could decide how quickly to explore.\nB. No visitor asked staff for help.\nC. Some visitors asked staff how to find their way.\nD. The audio guide cost less than other guides.\nE. Every visitor completed the visit in the same amount of time.",
+    "answer_title": "标准答案与逐项排除",
+    "answer_md": "**1. B** — The observation period was too short.\n\n**2. B** — It allowed flexible pacing.\n\n**3. A and C** — 两个字母顺序不限。\n\n第 1、2 题各选一个字母；第 3 题必须选两个。做题时先用中文形成答案：“研究时间太短”“可以按自己的节奏”，再对照英文选项，减少被原文同词带走的机会。",
+    "explanations": [
+      {
+        "quote": "1. B",
+        "evidence": "Because the study lasted only two weeks, the researchers said it was too early to estimate annual savings.",
+        "explanation": "问题问不估算年度节省量的原因，Because 后的 only two weeks 对应 observation period was too short。A 的 increased 与前句 reduced 相反；C 的建筑大小、D 的设备价格都未提及。短期用能减少并不保证已经能估算全年结果。"
+      },
+      {
+        "quote": "2. B",
+        "evidence": "Visitors preferred the audio guide because it let them explore at their own pace.",
+        "explanation": "because 明确连接“喜欢导览”与“按自己节奏探索”，at their own pace 对应 flexible pacing。A 的免费与 D 的更多事实没有出现；C 的替代全部员工协助还被后句 Some still asked staff for directions 反驳。"
+      },
+      {
+        "quote": "3. A and C",
+        "evidence": "Visitors preferred the audio guide because it let them explore at their own pace. Some still asked staff for directions.",
+        "explanation": "A 的 decide how quickly 对应 at their own pace；C 的 how to find their way 对应 for directions。B 的 No visitor 与 Some 相反；D 没有价格比较；E 的 Every visitor ... same amount of time 没有证据，自主控制节奏也不等于所有人的总时长相同。"
+      }
+    ],
+    "contrasts": [
+      {
+        "wrong": "第 1 题选 A：A 和短文都提到 energy use。",
+        "better": "第 1 题选 B：Because ... only two weeks 解释了不能估算年度结果的原因。",
+        "why": "A 不仅把 reduced 写反，也没有回答原因；必须同时核对选项事实与题目要求的关系。"
+      },
+      {
+        "wrong": "第 2 题选 C：有语音导览，所以不用员工帮助了。",
+        "better": "第 2 题选 B：at their own pace；并用 Some still asked staff for directions 排除 C。",
+        "why": "C 添加了 all staff assistance 的绝对范围，原文明确保留了仍需问路的人，不能把“喜欢导览”扩成“取代全部协助”。"
+      },
+      {
+        "wrong": "第 3 题只填 A。",
+        "better": "第 3 题填 A and C。",
+        "why": "本题指令要求两个字母，第二句独立支持 C；找到一个正确选项后还需检查是否已满足选项数量。"
+      }
+    ]
+  }
+}

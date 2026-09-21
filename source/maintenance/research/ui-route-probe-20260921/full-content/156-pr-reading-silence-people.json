@@ -1,0 +1,250 @@
+{
+  "requested": "pr-reading-silence-people",
+  "from": [
+    "内容单元",
+    "页面链接"
+  ],
+  "actual": "#pr-reading-silence-people",
+  "checkedAt": "2026-09-21T12:52:25.375Z",
+  "title": "练习 / 阅读 / 阅读 · 人物匹配 Why we need silence · IELTS",
+  "label": "练习 / 阅读 / 阅读 · 人物匹配 Why we need silence",
+  "panel": "practice-reading",
+  "contentRoot": "pr-reading-silence-people",
+  "headings": [
+    {
+      "tag": "H4",
+      "text": "这份材料的精读",
+      "visible": true
+    }
+  ],
+  "controls": [
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "阅读 · 人物匹配 Why we need silence",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "作答 1\n暂时不会",
+      "href": null,
+      "save": "pr-reading-silence-people-22",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "暂时不会",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "作答 2\n暂时不会",
+      "href": null,
+      "save": "pr-reading-silence-people-25",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "暂时不会",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "作答 3\n暂时不会",
+      "href": null,
+      "save": "pr-reading-silence-people-26",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "暂时不会",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "答案",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "再练一次",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "",
+      "href": null,
+      "save": "pr-reading-silence-people-another",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "",
+      "label": "",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "",
+      "label": "",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "Cambridge IELTS 21 Academic",
+      "label": "",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=21",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "Why we need silence｜噪声风险与城市降噪",
+      "label": "",
+      "href": "#material-reading-rd-c21-silence-1",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "Why we need silence｜漂浮舱的两项实验",
+      "label": "",
+      "href": "#material-reading-rd-c21-silence-2",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "Why we need silence｜主动安静与短时收益",
+      "label": "",
+      "href": "#material-reading-rd-c21-silence-3",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    }
+  ],
+  "visibleText": "阅读 · 人物匹配 Why we need silence\n0% · 0 / 3 完成\n\nMatch each statement with the correct person, A–D. You may use any letter more than once.\n\nB The World Health Organization has recently designated excessive noise as an 'underestimated threat' to public health, and has said that people living in cities such as Mumbai, Tokyo and Buenos Aires are being exposed to far more than the recommended 40 decibels of noise at night. A report from the European Environment Agency concluded that noise was an ongoing and widespread issue in Europe, with at least 1 in 5 people consistently exposed to levels considered harmful to health. 'There are no \"earlids\" that can protect your brain from noise,' says Nick Antonio, an acoustic consultant who has contributed to the British and international standards for noise.\n\nC The good news is that several cities have been working to turn the volume down. One of the first to do so was London. 'By providing recommendations for quieter buses, reducing noise from roads and also controlling noise from aircraft, they were able to make the city quieter,' says Antonio. Other cities have introduced noise-reducing road coatings, for instance, alongside greenery that muffles sound. Some solutions are more specific: Washington DC's ban on petrol-powered leaf blowers came into effect recently, while in New York City, legislation has been approved to fine people who modify their vehicles to make them noisier. 'People are seeing the benefits of these more quiet environments in their cities,' Antonio says. 'I expect we will see much more of this in the future.'\n\nD Researchers are also seeking to understand what aspects of silent experiences are most beneficial to our health. One of the best-researched is the flotation tank: a lightproof, soundproof tank of salt water in which a person floats as a form of deep relaxation. While some people experience altered perception in the tanks, involving subtle humming sounds and visual effects, these effects are benign and do not detract from the benefits of the experience, says Justin Feinstein, a clinical neuropsychologist. 'When you don't have external sensory stimuli coming in, the brain tries to fill the void to make sense of this dark and silent world,' he explains. 'In these tanks, some people can even hear the sound of their eyes blinking,' says Feinstein. 'But it is the ability to focus on the breath that helps people reach a relaxed or meditative state.'\n\nF Neurobiologist Tai Dotan Ben-Soussan is also an advocate of silence as a therapy. 'When we find ways to be quiet, we are not only quiet in our environment, but quiet in our inner selves,' she explains. 'This allows us to be more aware of what is happening around us and what the situation may require from us so we can provide [a more] adequate response.'\n\nNot everyone will benefit from silence to the same extent, but Ben-Soussan says one characteristic is key: the person must need to want to engage in the experience. 'We see from animal models and human studies that volition and intentionality is important,' she says. 'When people do not want silence, it can be very distressing.'\n\nG Eric Pfeifer, a psychotherapy researcher, also concedes that some people may not benefit from silence, particularly those who are in a heightened state of stress. 'People in these states may not be able to relax or calm down in a silent condition,' he says. Professional guidance can be useful, he adds, allowing people to approach silence slowly so that they can gradually enjoy the benefits. And Pfeifer is convinced that silence is more attainable in everyday life than people think. First, complete silence isn't necessary. In a recent study, he found that participants reported more relaxation and less boredom when they sat quietly in an outdoor garden compared with a completely silent room. Second, Pfeifer believes we don't need a lot of silence to gain benefits. 'You don't need to spend hours in silence,' he says. 'It is likely better to have more frequency of silence for a few minutes at a time than a longer period of silence only once a week. Just finding those places in your daily life where you can find some silence ... can make a big difference.'\n\nIt is unpleasant and upsetting for people to be placed in a silent environment against their will.\n\nA Nick Antonio\nB Justin Feinstein\nC Tai Dotan Ben-Soussan\nD Eric Pfeifer\n作答 1\n暂时不会\n\nEven a short amount of silent time can have a positive impact.\n\nA Nick Antonio\nB Justin Feinstein\nC Tai Dotan Ben-Soussan\nD Eric Pfeifer\n作答 2\n暂时不会\n\nExternal and internal quietness makes us more conscious of events occurring in our surroundings and helps us react appropriately to these events.\n\nA Nick Antonio\nB Justin Feinstein\nC Tai Dotan Ben-Soussan\nD Eric Pfeifer\n作答 3\n暂时不会\n答案\n再练一次\n\n选材来源 · Cambridge IELTS 21 Academic\n\n这份材料的精读\n\nWhy we need silence｜噪声风险与城市降噪 · Why we need silence｜漂浮舱的两项实验 · Why we need silence｜主动安静与短时收益",
+  "allContent": "阅读 · 人物匹配 Why we need silence0% · 0 / 3 完成Match each statement with the correct person, A–D. You may use any letter more than once.B The World Health Organization has recently designated excessive noise as an 'underestimated threat' to public health, and has said that people living in cities such as Mumbai, Tokyo and Buenos Aires are being exposed to far more than the recommended 40 decibels of noise at night. A report from the European Environment Agency concluded that noise was an ongoing and widespread issue in Europe, with at least 1 in 5 people consistently exposed to levels considered harmful to health. 'There are no \"earlids\" that can protect your brain from noise,' says Nick Antonio, an acoustic consultant who has contributed to the British and international standards for noise.C The good news is that several cities have been working to turn the volume down. One of the first to do so was London. 'By providing recommendations for quieter buses, reducing noise from roads and also controlling noise from aircraft, they were able to make the city quieter,' says Antonio. Other cities have introduced noise-reducing road coatings, for instance, alongside greenery that muffles sound. Some solutions are more specific: Washington DC's ban on petrol-powered leaf blowers came into effect recently, while in New York City, legislation has been approved to fine people who modify their vehicles to make them noisier. 'People are seeing the benefits of these more quiet environments in their cities,' Antonio says. 'I expect we will see much more of this in the future.'D Researchers are also seeking to understand what aspects of silent experiences are most beneficial to our health. One of the best-researched is the flotation tank: a lightproof, soundproof tank of salt water in which a person floats as a form of deep relaxation. While some people experience altered perception in the tanks, involving subtle humming sounds and visual effects, these effects are benign and do not detract from the benefits of the experience, says Justin Feinstein, a clinical neuropsychologist. 'When you don't have external sensory stimuli coming in, the brain tries to fill the void to make sense of this dark and silent world,' he explains. 'In these tanks, some people can even hear the sound of their eyes blinking,' says Feinstein. 'But it is the ability to focus on the breath that helps people reach a relaxed or meditative state.'F Neurobiologist Tai Dotan Ben-Soussan is also an advocate of silence as a therapy. 'When we find ways to be quiet, we are not only quiet in our environment, but quiet in our inner selves,' she explains. 'This allows us to be more aware of what is happening around us and what the situation may require from us so we can provide [a more] adequate response.'Not everyone will benefit from silence to the same extent, but Ben-Soussan says one characteristic is key: the person must need to want to engage in the experience. 'We see from animal models and human studies that volition and intentionality is important,' she says. 'When people do not want silence, it can be very distressing.'G Eric Pfeifer, a psychotherapy researcher, also concedes that some people may not benefit from silence, particularly those who are in a heightened state of stress. 'People in these states may not be able to relax or calm down in a silent condition,' he says. Professional guidance can be useful, he adds, allowing people to approach silence slowly so that they can gradually enjoy the benefits. And Pfeifer is convinced that silence is more attainable in everyday life than people think. First, complete silence isn't necessary. In a recent study, he found that participants reported more relaxation and less boredom when they sat quietly in an outdoor garden compared with a completely silent room. Second, Pfeifer believes we don't need a lot of silence to gain benefits. 'You don't need to spend hours in silence,' he says. 'It is likely better to have more frequency of silence for a few minutes at a time than a longer period of silence only once a week. Just finding those places in your daily life where you can find some silence ... can make a big difference.'It is unpleasant and upsetting for people to be placed in a silent environment against their will.A Nick AntonioB Justin FeinsteinC Tai Dotan Ben-SoussanD Eric Pfeifer作答 1暂时不会Even a short amount of silent time can have a positive impact.A Nick AntonioB Justin FeinsteinC Tai Dotan Ben-SoussanD Eric Pfeifer作答 2暂时不会External and internal quietness makes us more conscious of events occurring in our surroundings and helps us react appropriately to these events.A Nick AntonioB Justin FeinsteinC Tai Dotan Ben-SoussanD Eric Pfeifer作答 3暂时不会答案Q22 C；Q25 D；Q26 C再练一次Match the statement with the correct person, A–C.Dr Lin argues that an outdoor session works best when participants choose to attend. Dr Shah agrees that outdoor sessions can help, but says their benefits need not depend on a long visit. Dr Hall finds that participants notice more details outside, although she has not tested whether attendance should be voluntary.A Dr LinB Dr ShahC Dr HallA brief outdoor session may be beneficial.作答暂时不会答案B选材来源 · Cambridge IELTS 21 Academic这份材料的精读Why we need silence｜噪声风险与城市降噪 · Why we need silence｜漂浮舱的两项实验 · Why we need silence｜主动安静与短时收益",
+  "links": [
+    {
+      "text": "Cambridge IELTS 21 Academic",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=21"
+    },
+    {
+      "text": "Why we need silence｜噪声风险与城市降噪",
+      "href": "#material-reading-rd-c21-silence-1"
+    },
+    {
+      "text": "Why we need silence｜漂浮舱的两项实验",
+      "href": "#material-reading-rd-c21-silence-2"
+    },
+    {
+      "text": "Why we need silence｜主动安静与短时收益",
+      "href": "#material-reading-rd-c21-silence-3"
+    }
+  ],
+  "details": [
+    {
+      "id": "answer-check-23",
+      "title": "答案",
+      "open": false,
+      "answerGate": "[\"pr-reading-silence-people-22\", \"pr-reading-silence-people-25\", \"pr-reading-silence-people-26\"]",
+      "visible": true
+    },
+    {
+      "id": "",
+      "title": "再练一次",
+      "open": false,
+      "visible": true
+    },
+    {
+      "id": "answer-check-24",
+      "title": "答案",
+      "open": false,
+      "answerGate": "[\"pr-reading-silence-people-another\"]",
+      "visible": false
+    }
+  ],
+  "saveFields": [
+    "pr-reading-silence-people-22",
+    "pr-reading-silence-people-25",
+    "pr-reading-silence-people-26",
+    "pr-reading-silence-people-another"
+  ],
+  "images": [],
+  "audio": [],
+  "viewport": 1440,
+  "documentWidth": 1440
+}

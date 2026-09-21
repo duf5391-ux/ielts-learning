@@ -1,0 +1,129 @@
+{
+  "requested": "pr-speaking-p2",
+  "from": [
+    "内容单元",
+    "页面链接",
+    "每日安排目标"
+  ],
+  "actual": "#pr-speaking-p2",
+  "checkedAt": "2026-09-21T12:53:04.122Z",
+  "title": "练习 / 口语 / Speaking Part 2 一个有竞争心的人 · IELTS",
+  "label": "练习 / 口语 / Speaking Part 2 一个有竞争心的人",
+  "panel": "practice-speaking",
+  "contentRoot": "pr-speaking-p2",
+  "headings": [],
+  "controls": [
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "Speaking Part 2 一个有竞争心的人",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "开始录音",
+      "label": "",
+      "href": null,
+      "record": "pr-speaking-p2",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "结束录音",
+      "label": "",
+      "href": null,
+      "stop": "pr-speaking-p2",
+      "visible": true,
+      "disabled": true,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "下载录音",
+      "label": "",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "AUDIO",
+      "id": "",
+      "text": "",
+      "label": "",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "file",
+      "text": "",
+      "label": "载入录音",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "录音文件名 / 要点",
+      "href": null,
+      "save": "pr-speaking-p2-record-note",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "Cambridge IELTS 21 Academic · Test 4 · 物理页97 / 印刷页96",
+      "label": "",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=97",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    }
+  ],
+  "visibleText": "Speaking Part 2 一个有竞争心的人\n0% · 0 / 0 完成\n\n准备 1 分钟，然后连续说 1–2 分钟。\n\nDescribe a person you know who is very competitive.\n\nYou should say:\n\nwho this person is\n\nwhat this person is competitive about\n\nhow successful this person is\n\nand explain why you think this person is so competitive.\n\n开始作答。\n\n开始录音结束录音\n载入录音\n\n录音需单独下载保存。\n\n录音文件名 / 要点\n\n选材来源 · Cambridge IELTS 21 Academic · Test 4 · 物理页97 / 印刷页96",
+  "allContent": "Speaking Part 2 一个有竞争心的人0% · 0 / 0 完成准备 1 分钟，然后连续说 1–2 分钟。Describe a person you know who is very competitive.You should say:who this person iswhat this person is competitive abouthow successful this person isand explain why you think this person is so competitive.开始作答。开始录音结束录音下载录音载入录音 录音需单独下载保存。录音文件名 / 要点选材来源 · Cambridge IELTS 21 Academic · Test 4 · 物理页97 / 印刷页96",
+  "links": [
+    {
+      "text": "Cambridge IELTS 21 Academic · Test 4 · 物理页97 / 印刷页96",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=97"
+    }
+  ],
+  "details": [],
+  "saveFields": [
+    "pr-speaking-p2-record-note"
+  ],
+  "images": [],
+  "audio": [
+    {
+      "src": null,
+      "sources": [],
+      "visible": false,
+      "controls": true
+    }
+  ],
+  "viewport": 1440,
+  "documentWidth": 1440
+}

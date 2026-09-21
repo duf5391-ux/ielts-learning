@@ -1,0 +1,268 @@
+{
+  "baselineSHA256": "3b4ee9cdce99f45a6819818095b55067e928120448cc66401b3545ae92ae8acf",
+  "browser": "Headless Edge 153.0.4234.48",
+  "viewport": {
+    "width": 390,
+    "height": 844
+  },
+  "userProfileUsed": false,
+  "remoteNetworkBlocked": true,
+  "results": [
+    {
+      "hash": "study",
+      "width": 390,
+      "scrollWidth": 390,
+      "bodyClass": "ds-enabled",
+      "topbar": {
+        "left": 0,
+        "right": 390,
+        "top": 0,
+        "bottom": 61,
+        "width": 390,
+        "height": 61,
+        "display": "flex",
+        "visibility": "visible",
+        "transform": "none",
+        "zIndex": "4"
+      },
+      "actions": {
+        "left": 232,
+        "right": 372,
+        "top": 13.796875,
+        "bottom": 46.1875,
+        "width": 140,
+        "height": 32.390625,
+        "display": "flex",
+        "visibility": "visible",
+        "transform": "none",
+        "zIndex": "auto"
+      },
+      "saveIndicator": {
+        "left": 232,
+        "right": 372,
+        "top": 13.796875,
+        "bottom": 46.1875,
+        "width": 140,
+        "height": 32.390625,
+        "display": "flex",
+        "visibility": "visible",
+        "transform": "none",
+        "zIndex": "auto"
+      },
+      "sidebar": {
+        "left": -244,
+        "right": 0,
+        "top": 0,
+        "bottom": 844,
+        "width": 244,
+        "height": 844,
+        "display": "flex",
+        "visibility": "visible",
+        "transform": "matrix(1, 0, 0, 1, -244, 0)",
+        "zIndex": "12"
+      },
+      "wide": [],
+      "buttons": [
+        {
+          "id": "",
+          "label": "学习",
+          "aria": null
+        },
+        {
+          "id": "",
+          "label": "练习",
+          "aria": null
+        },
+        {
+          "id": "",
+          "label": "测试",
+          "aria": null
+        },
+        {
+          "id": "",
+          "label": "工作区",
+          "aria": null
+        },
+        {
+          "id": "mobile-menu",
+          "label": "☰",
+          "aria": "打开导航"
+        },
+        {
+          "id": "lookup-open",
+          "label": "查词",
+          "aria": null
+        },
+        {
+          "id": "energy-start",
+          "label": "开始这一段",
+          "aria": null
+        }
+      ]
+    },
+    {
+      "hash": "pr-reading-davies-statements",
+      "width": 390,
+      "scrollWidth": 402,
+      "bodyClass": "ds-enabled",
+      "topbar": {
+        "left": 0,
+        "right": 390,
+        "top": 0,
+        "bottom": 61,
+        "width": 390,
+        "height": 61,
+        "display": "flex",
+        "visibility": "visible",
+        "transform": "none",
+        "zIndex": "4"
+      },
+      "actions": {
+        "left": 324.65625,
+        "right": 401.65625,
+        "top": -44.765625,
+        "bottom": 104.765625,
+        "width": 77,
+        "height": 149.53125,
+        "display": "flex",
+        "visibility": "visible",
+        "transform": "none",
+        "zIndex": "auto"
+      },
+      "saveIndicator": {
+        "left": 324.65625,
+        "right": 401.65625,
+        "top": -44.765625,
+        "bottom": 104.765625,
+        "width": 77,
+        "height": 149.53125,
+        "display": "flex",
+        "visibility": "visible",
+        "transform": "none",
+        "zIndex": "auto"
+      },
+      "sidebar": {
+        "left": -244,
+        "right": 0,
+        "top": 0,
+        "bottom": 844,
+        "width": 244,
+        "height": 844,
+        "display": "flex",
+        "visibility": "visible",
+        "transform": "matrix(1, 0, 0, 1, -244, 0)",
+        "zIndex": "12"
+      },
+      "wide": [
+        {
+          "tag": "DIV",
+          "id": "",
+          "cl": "topbar-actions",
+          "left": 324.65625,
+          "right": 401.65625,
+          "top": -44.765625,
+          "bottom": 104.765625,
+          "width": 77,
+          "height": 149.53125,
+          "display": "flex",
+          "visibility": "visible",
+          "transform": "none",
+          "zIndex": "auto"
+        },
+        {
+          "tag": "SPAN",
+          "id": "",
+          "cl": "save-indicator",
+          "left": 324.65625,
+          "right": 401.65625,
+          "top": -44.765625,
+          "bottom": 104.765625,
+          "width": 77,
+          "height": 149.53125,
+          "display": "flex",
+          "visibility": "visible",
+          "transform": "none",
+          "zIndex": "auto"
+        },
+        {
+          "tag": "BUTTON",
+          "id": "lookup-open",
+          "cl": "",
+          "left": 356.65625,
+          "right": 396.65625,
+          "top": 13.796875,
+          "bottom": 46.1875,
+          "width": 40,
+          "height": 32.390625,
+          "display": "block",
+          "visibility": "visible",
+          "transform": "none",
+          "zIndex": "auto"
+        }
+      ],
+      "buttons": [
+        {
+          "id": "",
+          "label": "学习",
+          "aria": null
+        },
+        {
+          "id": "",
+          "label": "练习",
+          "aria": null
+        },
+        {
+          "id": "",
+          "label": "测试",
+          "aria": null
+        },
+        {
+          "id": "",
+          "label": "工作区",
+          "aria": null
+        },
+        {
+          "id": "mobile-menu",
+          "label": "☰",
+          "aria": "打开导航"
+        },
+        {
+          "id": "lookup-open",
+          "label": "查词",
+          "aria": null
+        },
+        {
+          "id": "energy-start",
+          "label": "开始这一段",
+          "aria": null
+        },
+        {
+          "id": "",
+          "label": "暂时不会",
+          "aria": null
+        },
+        {
+          "id": "",
+          "label": "暂时不会",
+          "aria": null
+        },
+        {
+          "id": "",
+          "label": "暂时不会",
+          "aria": null
+        }
+      ]
+    },
+    {
+      "drawerOpen": {
+        "bodyClass": "ds-enabled nav-open",
+        "sidebar": {
+          "left": 0,
+          "right": 244,
+          "width": 244,
+          "transform": "matrix(1, 0, 0, 1, 0, 0)"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "published_sha256": "dc3e6e39ab1bf2155069f92d6fe952733b9b044684a02d81d7f426578578938a",
+  "old_save_fields": 3330,
+  "new_save_fields": 23,
+  "total_save_fields": 3353,
+  "isolated_checks": [
+    10,
+    10
+  ],
+  "browser_checks": 7,
+  "browser_errors": [],
+  "post_copy_local_links": [
+    {
+      "source": "机经资料\\jijing-20260920\\index.html",
+      "href": "../../开始学习.html#pr-jijing-202609-listening-01-v1",
+      "status": "pass"
+    },
+    {
+      "source": "机经资料\\jijing-20260920\\index.html",
+      "href": "../../开始学习.html#pr-jijing-202609-reading-01-v1",
+      "status": "pass"
+    },
+    {
+      "source": "机经资料\\jijing-20260920\\index.html",
+      "href": "writing-task2.html",
+      "status": "pass"
+    },
+    {
+      "source": "机经资料\\jijing-20260920\\writing-task2.html",
+      "href": "index.html",
+      "status": "pass"
+    }
+  ],
+  "asset_sha256_verified": true,
+  "backup_sha256_verified": true,
+  "user_browser_storage_accessed": false
+}

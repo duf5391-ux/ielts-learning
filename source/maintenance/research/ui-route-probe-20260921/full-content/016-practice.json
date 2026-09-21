@@ -1,0 +1,236 @@
+{
+  "requested": "practice",
+  "from": [
+    "主面板",
+    "页面链接",
+    "导航按钮"
+  ],
+  "actual": "#practice",
+  "checkedAt": "2026-09-21T12:50:39.661Z",
+  "title": "练习 · IELTS",
+  "label": "练习",
+  "panel": "practice",
+  "contentRoot": "practice",
+  "headings": [
+    {
+      "tag": "H1",
+      "text": "练习",
+      "visible": true
+    },
+    {
+      "tag": "H2",
+      "text": "听力",
+      "visible": true
+    },
+    {
+      "tag": "H2",
+      "text": "阅读",
+      "visible": true
+    },
+    {
+      "tag": "H2",
+      "text": "写作",
+      "visible": true
+    },
+    {
+      "tag": "H2",
+      "text": "口语",
+      "visible": true
+    }
+  ],
+  "controls": [
+    {
+      "tag": "SELECT",
+      "id": "la-practice-skill",
+      "type": "select-one",
+      "text": "全部写作Task 1Task 2",
+      "label": "写作类型全部写作Task 1Task 2",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false,
+      "options": [
+        {
+          "value": "",
+          "label": "全部写作"
+        },
+        {
+          "value": "writing1",
+          "label": "Task 1"
+        },
+        {
+          "value": "writing2",
+          "label": "Task 2"
+        }
+      ]
+    },
+    {
+      "tag": "SELECT",
+      "id": "la-practice-topic",
+      "type": "select-one",
+      "text": "全部健康与消费城市与交通家庭与关系工作与生活教育与学习旅行与地方环境与自然科技通用",
+      "label": "话题全部健康与消费城市与交通家庭与关系工作与生活教育与学习旅行与地方环境与自然科技通用",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false,
+      "options": [
+        {
+          "value": "",
+          "label": "全部"
+        },
+        {
+          "value": "健康与消费",
+          "label": "健康与消费"
+        },
+        {
+          "value": "城市与交通",
+          "label": "城市与交通"
+        },
+        {
+          "value": "家庭与关系",
+          "label": "家庭与关系"
+        },
+        {
+          "value": "工作与生活",
+          "label": "工作与生活"
+        },
+        {
+          "value": "教育与学习",
+          "label": "教育与学习"
+        },
+        {
+          "value": "旅行与地方",
+          "label": "旅行与地方"
+        },
+        {
+          "value": "环境与自然",
+          "label": "环境与自然"
+        },
+        {
+          "value": "科技",
+          "label": "科技"
+        },
+        {
+          "value": "通用",
+          "label": "通用"
+        }
+      ]
+    },
+    {
+      "tag": "SELECT",
+      "id": "la-practice-part",
+      "type": "select-one",
+      "text": "全部",
+      "label": "Part全部",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false,
+      "options": [
+        {
+          "value": "",
+          "label": "全部"
+        }
+      ]
+    },
+    {
+      "tag": "SELECT",
+      "id": "la-practice-type",
+      "type": "select-one",
+      "text": "全部",
+      "label": "题型／内容全部",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false,
+      "options": [
+        {
+          "value": "",
+          "label": "全部"
+        }
+      ]
+    },
+    {
+      "tag": "INPUT",
+      "id": "la-practice-search",
+      "type": "search",
+      "text": "",
+      "label": "内容或题型",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "进入听力 →",
+      "label": "",
+      "href": "#practice-listening-list",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "进入阅读 →",
+      "label": "",
+      "href": "#practice-reading-list",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "进入写作 →",
+      "label": "",
+      "href": "#practice-writing-list",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "进入口语 →",
+      "label": "",
+      "href": "#practice-speaking-list",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    }
+  ],
+  "visibleText": "练习\n\n先选一科，再按话题、题型或 Part 找练习。\n\nLISTENING\n\n听力\n\n10 项练习\n\n0% · 0 / 10 单元\n进入听力 →\n\nREADING\n\n阅读\n\n56 项练习\n\n0% · 0 / 56 单元\n进入阅读 →\n\nWRITING\n\n写作\n\n31 项练习\n\n0% · 0 / 31 单元\n进入写作 →\n\nSPEAKING\n\n口语\n\n3 项练习\n\n0% · 0 / 3 单元\n进入口语 →",
+  "allContent": "IELTS / MY STUDY练习先选一科，再按话题、题型或 Part 找练习。0% · 0 / 100 单元写作类型全部写作Task 1Task 2话题全部健康与消费城市与交通家庭与关系工作与生活教育与学习旅行与地方环境与自然科技通用100 项内容Part全部题型／内容全部内容或题型LISTENING听力10 项练习0% · 0 / 10 单元进入听力 →READING阅读56 项练习0% · 0 / 56 单元进入阅读 →WRITING写作31 项练习0% · 0 / 31 单元进入写作 →SPEAKING口语3 项练习0% · 0 / 3 单元进入口语 →",
+  "links": [
+    {
+      "text": "进入听力 →",
+      "href": "#practice-listening-list"
+    },
+    {
+      "text": "进入阅读 →",
+      "href": "#practice-reading-list"
+    },
+    {
+      "text": "进入写作 →",
+      "href": "#practice-writing-list"
+    },
+    {
+      "text": "进入口语 →",
+      "href": "#practice-speaking-list"
+    }
+  ],
+  "details": [],
+  "saveFields": [],
+  "images": [],
+  "audio": [],
+  "viewport": 1440,
+  "documentWidth": 1440
+}

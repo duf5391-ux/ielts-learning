@@ -1,0 +1,108 @@
+{
+  "audited_on": "2026-09-16",
+  "snapshot": "扩充前独立审查；本报告不代表后续已修复结果",
+  "source": "C:/Users/Admin1/Documents/Codex/2026-09-12/referenced-chatgpt-conversation-this-is-an/outputs/IELTS-四科学习册/开始学习.html",
+  "scope": "12 个主板块、配套数据、8 个本地 HTML 页面；静态内容与本地链接检查；没有把每个词条要求为独立课程，也未要求先实现自动批改或排课。",
+  "inventory": {
+    "panels": ["background", "vocabulary", "guide", "plan", "records", "library", "reading", "writing1", "writing2", "listening", "speaking", "materials"],
+    "base_chapters": 5,
+    "enrichment_units": 26,
+    "enrichment_by_panel": {"background": 4, "vocabulary": 12, "reading": 2, "listening": 2, "writing1": 2, "writing2": 2, "speaking": 2},
+    "base_background_topics": 8,
+    "personal_contexts": 6,
+    "authentic_background_excerpts": 12,
+    "vocabulary_topics": 30,
+    "vocabulary_entries": 1000,
+    "base_topic_ids": ["topic-education", "topic-work", "topic-technology", "topic-cities", "topic-environment", "topic-health", "topic-culture", "topic-everyday"],
+    "personal_topic_ids": ["topic-personal-home_neighbourhood", "topic-personal-relationships", "topic-personal-daily_choices", "topic-personal-interests_skills", "topic-personal-experiences_changes", "topic-personal-places_weather"],
+    "existing_extra_background_ids": ["background_family_children", "background_food_consumption", "background_travel_tourism", "background_media_advertising"]
+  },
+  "findings": [
+    {
+      "id": "F01", "priority": "high", "panel": "background", "anchor": "topic-coverage",
+      "kind": "explicit_content_gap",
+      "evidence": "犯罪与惩罚、政府、社会：后续独立背景；当前没有对应完整背景章。太空尚无独立读本，不能直接套环保观点。",
+      "finding": "这四个方向在可见目录中承诺覆盖，却只有分类提示，属于真实的内容缺口。",
+      "repair": "各加一篇完整双语背景、概念区别、可复用搭配与例句、学习后练习、解释及新情境再用；来源与新增日期显著标出，新内容标红。"
+    },
+    {
+      "id": "F02", "priority": "high", "panel": "speaking", "kind": "recency_gap",
+      "evidence": "现有 Part 2 是官方公开物品题，Part 1/3 补充为自编教学；未设 2026 年 9—12 月当季回忆题专题。背景页明确未把题名带 2026 的补充资料当作已核验当季真题。",
+      "finding": "用户要求以近期题库为主，但没有按近期题目组织的可直接学习专题。已有 Cambridge 21 阅读、写作与原文读本不能弥补口语当季题目入口。",
+      "repair": "建立近期口语专题与来源日期，区分考生回忆、官方样题和教学自编；每题包含审题、内容展开、自然短示例、表达与新追问。没有公开依据时不得标保证命中或官方当季题库。"
+    },
+    {
+      "id": "F03", "priority": "medium", "panel": "speaking", "kind": "deferred_resource_selection",
+      "evidence": "后续完整口语检查要求从本地训练资料选择确实未准备过的任务组合，但没有提供一套可以直接开始的完整 Part 1—3 组合。",
+      "finding": "练习步骤完整，后续资源选择仍交给学习者；不是录音器空壳，但缺少具体可用题组。",
+      "repair": "至少提供一套明确题面及计时顺序的完整自练组合，并另给新话题组合；说明自练形式，保留旧题复习与新题首答区分。"
+    },
+    {
+      "id": "F04", "priority": "medium", "panel": "reading", "kind": "coverage_and_transfer_gap",
+      "evidence": "原章含 13 题填空与判断；新增 2 单元为标题匹配及单选。两单元的隔日再用仍回到 Miles Davis 和 Older workers 同文。",
+      "finding": "已有单元有实质教学、题面和逐题解释，不能称空课程；信息匹配、匹配特征等仍无独立教学单元，新增两类题型也没有配套未见短文的同型检查。",
+      "repair": "补充题型时配真实完整题面或明确标注的自编短文，以及逐题证据、干扰项解释；同文复习之外给新的可核对材料。"
+    },
+    {
+      "id": "F05", "priority": "medium", "panel": "listening", "kind": "coverage_gap",
+      "evidence": "原章是货运表 8 题，后续有新官方录音；补充 2 单元为保险单选和 B1 客服电话。主章深入修复集中于第 8 题。",
+      "finding": "音频、题目、稿和答案已配套，不是空板块；地图、匹配及多说话人学术讨论等方向尚无本页独立教学单元。",
+      "repair": "扩充资源以可播放原音、题面、文字稿、答案解释为基本配套；不能将没有原音的脚本默读称作听力测试。逐句试听与时间轴可随后补，不阻塞已配套资源。"
+    },
+    {
+      "id": "F06", "priority": "medium", "panel": "writing1", "kind": "coverage_gap",
+      "evidence": "已有 C21 就业折线图完整写作章，官方柱状图及制砖流程图的局部单元；咖啡馆地图只在迁移阶段要求概述并链接考生答卷评语。",
+      "finding": "已开发三种教学入口；地图仍以检查任务为主，饼图、混合图等没有独立教学。",
+      "repair": "新增地图或混合数据完整单元：信息选择、概述、关键比较、可接受示例、常见误读、新材料检查。不要因局部练习不足 150 词就说该局部练习是半成品。"
+    },
+    {
+      "id": "F07", "priority": "medium", "panel": "writing2", "kind": "coverage_gap",
+      "evidence": "已有讨论双方与立场的 C21 文化娱乐整篇章，以及观点比较、旅游利弊两个局部单元；新情境为在家工作与办公室协作。",
+      "finding": "已有教学、可接受理由、修订与迁移；原因/问题解决、双问题等尚无独立单元，话题覆盖仍窄。",
+      "repair": "按近期有来源的议题扩展，不只给标题：完整审题义务、论证机制、短示范及解释、练习、修订标准和新情境。"
+    },
+    {
+      "id": "F08", "priority": "high", "panel": "reading", "kind": "resource_exposure_conflict",
+      "evidence": "reading 写 Test 2 优先留作完整基线候选、Test 3 留下一轮完整检查；background-authentic-excerpts.json 已展示 C21 T2 P3 Artificial Intelligence、T3 P1 Saving the saiga、T3 P2 The problems of getting around the city of Dar es Salaam 的原文摘录。",
+      "finding": "读过这些摘录的学习者已部分见过候选试卷内容，不能再将对应阅读卷全部记为未见基线。",
+      "repair": "修改资源选择说明：看过摘录标部分见过/学习后应用；用确实未触达的题组作新题检查。既有原文资源可以继续使用。"
+    },
+    {
+      "id": "F09", "priority": "medium", "panel": "guide", "kind": "stale_inventory",
+      "evidence": "首页仍突出 8 主题、6 个人语境、24 词、20 用法，并另写 26 个补充单元；records 使用 14 语境基数。",
+      "finding": "已有 30 话题千词与 12 篇原文摘录不明显，新一轮资源加入后静态数量及 topic-coverage 旧缺口会更不一致。",
+      "repair": "同步资源数量和具体导航入口；区分基础读本、原文摘录、话题词库和新增课程，避免合并成不清楚的总话题数。"
+    }
+  ],
+  "panel_review": [
+    {"id":"background","status":"已有完整读本与4个练习单元，明确缺4类独立背景","findings":["F01","F02","F08"]},
+    {"id":"vocabulary","status":"词库可用：30话题1000词条、24核心词、20用法、12补充搭配单元；不要求每一词条变课程","findings":[],"next":"把新题专题链接到已有词库，保留新学与复习两种入口；无需先完成算法。"},
+    {"id":"guide","status":"入口可用，需同步资源数量与新增入口","findings":["F09"]},
+    {"id":"plan","status":"有首轮实际时段安排；自动批改排课明确属于备课草案，不在本轮资源扩充阻塞项","findings":[],"next":"每日可先少量复习再学新内容，不把扩充资源全部自动加成每日作业。"},
+    {"id":"records","status":"首稿/修订/迁移、查词记录、导出备份已提供；空记录是初始状态，不是内容半成品","findings":["F09"]},
+    {"id":"library","status":"配套PDF、音频、反馈、原始参考入口可用；静态本地链接无缺失","findings":[]},
+    {"id":"reading","status":"原章和2专项单元均有教学、练习、反馈；新题型与未见资源仍可扩展","findings":["F04","F08"]},
+    {"id":"writing1","status":"原章及柱状图、流程图单元完整；地图局部与其他图型教学可扩展","findings":["F06"]},
+    {"id":"writing2","status":"原章及观点、利弊单元完整；更多任务类型与近期话题待补","findings":["F07"]},
+    {"id":"listening","status":"原音题面稿答案均有；新增题型与声音层教学范围可扩展","findings":["F05"]},
+    {"id":"speaking","status":"P1/P3局部与P2物品章可学；缺近期专题及直接可用完整组合","findings":["F02","F03"]},
+    {"id":"materials","status":"TXT/Markdown/TSV/JSON导入、预览、保存、导出已明确；空列表及示例文件是正常工具状态","findings":[]}
+  ],
+  "not_classified_as_unfinished": [
+    "已提供完整中英背景与搭配的阅读型话题，不因没有强制交作业而被判不完整。",
+    "词典/词库条目不是每词一课；1000条词库不应机械生成1000份作业。",
+    "数据初始化的0、尚未作答、空资料列表不是缺教材。",
+    "备课记录中的自动批改/排课草案已明示设计状态，本轮不用先实现。",
+    "未逐句试听/没有时间轴是真实审查边界，不等于已有原音及配套题面不可使用。",
+    "官方旧样题和Cambridge旧卷可以作为技能教学材料，但不能仅因最近核验就称作当季题库。"
+  ],
+  "local_link_check": {
+    "html_pages": 8,
+    "all_href_src": 2710,
+    "local_href_src": 489,
+    "missing_files": 0,
+    "missing_anchors": 0,
+    "details": "local-link-audit.json",
+    "limitation": "检查静态 href/src 和 HTML 锚点；未运行浏览器验证动态链接，也未验证外部网址在线状态。"
+  }
+}

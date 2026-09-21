@@ -1,0 +1,368 @@
+{
+  "units": [
+    {
+      "id": "pr-listening-p1",
+      "section": "listening",
+      "part": "Listening Part 1",
+      "title": "货物运输",
+      "source": {
+        "title": "Cambridge · Listening sample task · Multiple choice · Questions 9–10",
+        "url": "https://www.cambridgeenglish.org/exams-and-tests/ielts/preparation/",
+        "path": "原始参考/support-e8b979a4-cambridge-zip-115008_Listening_sample_task_-_Multiple_choice.pdf",
+        "page": 1,
+        "kind": "official-sample"
+      },
+      "originNote": "",
+      "context": [
+        "Questions 9–10"
+      ],
+      "instructions": "Choose the correct letter, A, B or C.",
+      "prompt": "A customer is arranging to send a large box overseas.",
+      "questions": [
+        {
+          "id": "9",
+          "prompt": "Type of insurance chosen",
+          "options": [
+            {
+              "id": "A",
+              "text": "Economy"
+            },
+            {
+              "id": "B",
+              "text": "Standard"
+            },
+            {
+              "id": "C",
+              "text": "Premium"
+            }
+          ]
+        },
+        {
+          "id": "10",
+          "prompt": "Customer wants goods delivered to",
+          "options": [
+            {
+              "id": "A",
+              "text": "port"
+            },
+            {
+              "id": "B",
+              "text": "home"
+            },
+            {
+              "id": "C",
+              "text": "depot"
+            }
+          ]
+        }
+      ],
+      "reference": "9 C; 10 A.",
+      "reasoning": [],
+      "pitfalls": [],
+      "sourceCaseIds": [
+        "support-listening-insurance"
+      ],
+      "challengeMechanism": "A rejected past experience mentions Economy; the final decision is stated by relative coverage rather than option name. Three delivery locations are all heard.",
+      "audio": {
+        "src": "原始参考/c31e6351-recording-2.mp3",
+        "title": "Recording 2 · Questions 9–10"
+      },
+      "transcript": "Listening sample task – Multiple choice (to be used with IELTS Listening Recording 2) Tapescript for IELTS Listening Recording 2 (A customer has been arranging with a shipping agent to send a large box overseas. This is the last part of the conversation.) A OK right. Now obviously insurance is an important thing to consider and our companies are able to offer very good rates in a number of different all-inclusive packages. B Sorry, could you explain a bit more? A Yes, sorry, um. There’s really three rates according to quality of insurance cover – there’s the highest comprehensive cover which is Premium rate, then there’s standard rate and then there’s economy rate. That one will only cover the cost of the contents second hand. B Oh I’ve been stung before with economy insurance so I’ll go for the highest. A Mh’hm and can I just check would you want home delivery or to a local depot or would you want to pick it up at the nearest port? B The port’d be fine – I’ve got transport that end. A Fine and will you be paying by credit card? B Can I pay by cheque?"
+    },
+    {
+      "id": "pr-listening-p2",
+      "section": "listening",
+      "part": "Listening Part 2",
+      "title": "社区活动",
+      "source": {
+        "title": "Cambridge · Listening sample task · Short-answer questions · Questions 11–16",
+        "url": "https://www.cambridgeenglish.org/exams-and-tests/ielts/preparation/",
+        "path": "原始参考/support-cb76d836-cambridge-zip-115011_Listening_sample_task_-_Short-answer_questions.pdf",
+        "page": 1,
+        "kind": "official-sample"
+      },
+      "originNote": "",
+      "context": [
+        "Questions 11–16"
+      ],
+      "instructions": "Write NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer.",
+      "prompt": "You will hear an extract from a talk given to a group who are going to stay in the UK.",
+      "questions": [
+        {
+          "id": "11",
+          "prompt": "What TWO factors can make social contact in a foreign country difficult? — First answer"
+        },
+        {
+          "id": "12",
+          "prompt": "What TWO factors can make social contact in a foreign country difficult? — Second answer"
+        },
+        {
+          "id": "13",
+          "prompt": "Which types of community group does the speaker give examples of? — theatre; ______; ______ (first blank)"
+        },
+        {
+          "id": "14",
+          "prompt": "Which types of community group does the speaker give examples of? — theatre; ______; ______ (second blank)"
+        },
+        {
+          "id": "15",
+          "prompt": "In which TWO places can information about community activities be found? — First answer"
+        },
+        {
+          "id": "16",
+          "prompt": "In which TWO places can information about community activities be found? — Second answer"
+        }
+      ],
+      "reference": "11–12 language; customs (in either order). 13–14 music (groups); local history (groups) (in either order). 15–16 (the) (public) library/libraries; (the) town hall (in either order).",
+      "reasoning": [],
+      "pitfalls": [],
+      "sourceCaseIds": [
+        "support-listening-social"
+      ],
+      "challengeMechanism": "Additive not just...but; distinguish examples of groups from roles within theatre and places supplying information; theatre already supplied.",
+      "audio": {
+        "src": "原始参考/precise-recording-3.mp3",
+        "title": "Recording 3 · Questions 11–16"
+      },
+      "transcript": "Listening sample task – Short-answer questions (to be used with IELTS Listening Recording 3) Tapescript You will hear an extract from a talk given to a group who are going to stay in the UK. Good evening, and welcome to the British Council. My name is John Parker and I’ve been asked to talk to you briefly about certain aspects of life in the UK before you actually go there. So I'm going to talk first about the best ways of making social contacts there. Now you might be wondering why it should be necessary. After all, we meet people all the time. But when you’re living in a foreign country it can be more difficult, not just because of the language, but because customs may be different. If you’re going to work in the UK you will probably be living in private accommodation, so it won’t be quite so easy to meet people. But there are still things that you can do to help yourself. First of all, you can get involved in activities in your local community, join a group of some kind. For example, you’ll probably find that there are theatre groups who might be looking for actors, set designers and so on, or if you play an instrument you could join music groups in your area. Or if you like the idea of finding out about local history there’ll be a group for that too. These are just examples. And the best places to get information about things like this are either the town hall or the public library. Libraries in the UK perform quite a broad range of functions nowadays – they’re not just confined to lending books, although that’s their main role of course."
+    },
+    {
+      "id": "pr-listening-p3",
+      "section": "listening",
+      "part": "Listening Part 3",
+      "title": "远程学习",
+      "source": {
+        "title": "Cambridge · Listening sample task · Sentence completion · Questions 27–30",
+        "url": "https://www.cambridgeenglish.org/exams-and-tests/ielts/preparation/",
+        "path": "原始参考/support-50078fae-cambridge-zip-115010_Listening_sample_task_-_Sentence_completion.pdf",
+        "page": 1,
+        "kind": "official-sample"
+      },
+      "originNote": "",
+      "context": [
+        "Questions 27–30"
+      ],
+      "instructions": "Write NO MORE THAN TWO WORDS for each answer.",
+      "prompt": "Rachel and Paul are discussing studying with the Open University.",
+      "questions": [
+        {
+          "id": "27",
+          "prompt": "Studying with the Open University demanded a great deal of ______."
+        },
+        {
+          "id": "28",
+          "prompt": "Studying and working at the same time improved Rachel’s ______ skills."
+        },
+        {
+          "id": "29",
+          "prompt": "It was helpful that the course was structured in ______."
+        },
+        {
+          "id": "30",
+          "prompt": "She enjoyed meeting other students at ______."
+        }
+      ],
+      "reference": "27 motivation; 28 time management / time-management; 29 modules; 30 summer school(s).",
+      "reasoning": [],
+      "pitfalls": [],
+      "sourceCaseIds": [
+        "support-listening-open-university"
+      ],
+      "challengeMechanism": "Different speakers and purposes: Rachel studied with full-time work while Paul intends part-time work; course units versus degree length; home study versus summer-school meeting.",
+      "audio": {
+        "src": "原始参考/bb61bf2b-recording-4.mp3",
+        "title": "Recording 4 · Questions 27–30"
+      },
+      "transcript": "Listening sample task – Sentence completion (to be used with IELTS Listening Recording 4) Tapescript for IELTS Listening Recording 4 Two friends, Rachel and Paul, are discussing studying with the Open University. Rachel has already done a course at the university, but Paul has not. The extract relating to these questions comes from the last part of the recording. Paul The other thing I wanted to ask you was, did you find it hard, studying with the Open University? Rachel You mean, because you’re studying on your own, most of the time? Paul Mm. Rachel Well it took me a while to get used to it. I found I needed to maintain a high level of motivation, because it’s so different from school. There’s no-one saying, ‘Why haven’t you written your assignment yet?' and that sort of thing. Paul Oh dear. Rachel You’ll learn it, Paul. Another thing was that I got very good at time management because I had to fit time for studying round a full-time job. Paul Well I’m hoping to change to working part-time, so that’ll help. Rachel What makes it easier is that the degree is made up of modules, so you can take time off between them if you need to. It isn’t like a traditional three-or four-year course, where you’ve got to do the whole thing of it in one go. Paul That’s good, because I’d like to spend six months travelling next year. Rachel Huh, it’s all right for some. Then even though you’re mostly studying at home, remember you’ve got tutors to help you, and from time to time there are summer schools. They usually last a week. They’re great, because you meet all the other people struggling with the same things as you. I’ve made some really good friends that way. Paul Sounds good. So how do I apply?"
+    },
+    {
+      "id": "pr-listening-p4",
+      "section": "listening",
+      "part": "Listening Part 4",
+      "title": "学习研究",
+      "source": {
+        "title": "IELTS · Learner Persistence · Questions 33–37",
+        "url": "https://ielts.org/take-a-test/preparation-resources/sample-test-questions/academic-test",
+        "path": "原始参考/precise-listening-part-4-questions.html",
+        "kind": "official-sample"
+      },
+      "originNote": "",
+      "context": [
+        "Research findings · Questions 33–37"
+      ],
+      "instructions": "播放整卷原音中的 Part 4，完成第 33–37 题。Write ONE WORD ONLY for each answer.",
+      "prompt": "Complete the research findings below.",
+      "questions": [
+        {
+          "id": "33",
+          "prompt": "First level of importance · Personal Characteristics: Enjoyment of a ______"
+        },
+        {
+          "id": "34",
+          "prompt": "Second level of importance · Social and Environmental Factors: Positive experiences at ______"
+        },
+        {
+          "id": "35",
+          "prompt": "Second level of importance · Other Factors: Good ______"
+        },
+        {
+          "id": "36",
+          "prompt": "Second level of importance · Personal Characteristics: Many ______ in daily life"
+        },
+        {
+          "id": "37",
+          "prompt": "Third level of importance · Social and Environmental Factors: Good interaction with the ______"
+        }
+      ],
+      "reference": "33 challenge; 34 school; 35 health; 36 interests; 37 tutor / tutors.",
+      "reasoning": [],
+      "pitfalls": [],
+      "sourceCaseIds": [],
+      "challengeMechanism": "Three categories crossed with three importance levels, in continuous academic monologue; success contrasted with grades; tutor relationships distinguished from family support.",
+      "audio": {
+        "src": "原始参考/precise-official-listening-full.mp3",
+        "title": "IELTS 整卷原音 · Part 4 · Questions 33–37",
+        "segment": "Part 4 · Learner Persistence · research findings · Questions 33–37",
+        "duration": 1778.393438
+      },
+      "transcript": "Sample Listening Table Completion Recording Transcript You will hear part of a talk about research into ‘learner persistence’ given by a university lecturer to her colleagues. The second section of my questionnaire looked at learner persistence under three main headings: social and environmental factors, other factors, and intrinsic or personal characteristics. I identified three levels of importance for each of these. At the first level – those points identified by participants as most important in learner persistence – for social factors, many respondents said how crucial it had been to have good support, though there was no one specific source; it could be family or friends. As regards other factors, students are heartened not so much by high grades but by what they regard as success in study. And for personal characteristics, many respondents reported that they took pleasure in challenge and that this was regarded as very significant. At the second level of importance, in the first category , a sizeable percentage talked about the fact that they had enjoyed themselves in school as an important social factor. In the second column, other f actors, a number of people said that what was of most importance was decent health – this had a fairl y strong influence on their persistence in their studies. And then under the heading of personal characteristics , there were quite a large percentage of respondents who mentioned they felt it was important to have lots of interests in their everyday li ves. This gave them a depth and sense of perspective which less persistent learners might lack. And then onto the third level. Under s ocial factors, several respondents talked about good relationships with their t utors. For other factors, they mentioned lack or absence of any problems in their families. A nd finally under column three , they identified an ability to juggle several roles – what we might call their capacity for multi-tasking.",
+      "verification": {
+        "audioPairing": "Official cached full-demo metadata content item 128122089 includes ILI40154PT as Part 4. MP3 present and earlier browser metadata duration 1778.393438. No independently verified timestamp, therefore none supplied.",
+        "questions": "Official QTI ILI40154PT_ib-2. Table cells linearised with original row and column labels retained.",
+        "answers": "batch-03/answers/official-answer-mapping.json maps standalone official key 1–5 to full-demo 33–37.",
+        "sourceRechecked": "IELTS official academic sample page visited 2026-09-19; confirms Part 4 learner-persistence task.",
+        "transcriptDisplay": "Keep hidden until answer submission."
+      }
+    },
+    {
+      "id": "pr-speaking-p1",
+      "section": "speaking",
+      "part": "Speaking Part 1",
+      "title": "购物与储蓄",
+      "source": {
+        "title": "Cambridge IELTS 21 Academic · Test 3 · 物理页75 / 印刷页74",
+        "path": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf",
+        "page": 75,
+        "kind": "user-provided-exam-material"
+      },
+      "originNote": "",
+      "context": [],
+      "instructions": "依次口头回答。",
+      "prompt": "",
+      "questions": [
+        {
+          "id": "1",
+          "prompt": "When you go shopping, do you usually pay for things by cash or by card?"
+        },
+        {
+          "id": "2",
+          "prompt": "Have you ever spent money on something you didn't need?"
+        },
+        {
+          "id": "3",
+          "prompt": "Are you generally careful about how much money you spend?"
+        },
+        {
+          "id": "4",
+          "prompt": "How important is it to you to save money for the future?"
+        }
+      ],
+      "reference": "I usually pay by card because I don't like carrying a lot of cash. It's also easier to check what I've spent afterwards. I still keep a little cash with me in case a shop's card machine isn't working.\n\nYes, I once bought a pair of trainers mainly because they were on sale. I already had a similar pair, so I hardly wore the new ones. It wasn't a disaster, but it did make me stop and think before buying something just because the price looks attractive.\n\nGenerally, yes. I compare prices before buying anything expensive, and I check my spending at the end of each month. I don't plan every small purchase, though. If I can afford a coffee with a friend, I don't want to turn it into a complicated decision.\n\nIt's quite important to me because having some savings makes unexpected expenses less stressful. I try to put a little aside when I get paid. I don't always save the same amount, but having the habit matters more to me than reaching a perfect figure every month.",
+      "reasoning": [],
+      "pitfalls": [],
+      "sourceCaseIds": [
+        "support-speaking-c21-t3-p1-shopping",
+        "support-speaking-c21-t3-p1-saving"
+      ],
+      "challengeMechanism": "Habit versus a single past event; unnecessary purchase contrasted with usual care; degrees of importance and future intention.",
+      "recordingRecommended": true,
+      "referenceType": "原创参考作答；无唯一答案"
+    },
+    {
+      "id": "pr-speaking-p2",
+      "section": "speaking",
+      "part": "Speaking Part 2",
+      "title": "一个有竞争心的人",
+      "source": {
+        "title": "Cambridge IELTS 21 Academic · Test 4 · 物理页97 / 印刷页96",
+        "path": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf",
+        "page": 97,
+        "kind": "user-provided-exam-material"
+      },
+      "originNote": "",
+      "context": [
+        "You should say:",
+        "who this person is",
+        "what this person is competitive about",
+        "how successful this person is",
+        "and explain why you think this person is so competitive."
+      ],
+      "instructions": "准备 1 分钟，然后连续说 1–2 分钟。",
+      "prompt": "Describe a person you know who is very competitive.",
+      "questions": [
+        {
+          "id": "1",
+          "prompt": "开始作答。"
+        }
+      ],
+      "reference": "I'd like to describe a friend I met at university. We used to play badminton together, and he was much more competitive about it than anyone else in our group. Even during a casual game, he remembered the score carefully and tried to work out why he had lost a point.\n\nHe wasn't the best player when we first met, but he practised regularly and gradually started winning more matches. One year he reached the final of a small competition organised by our club. He didn't win, but he was pleased that the extra practice had made a difference.\n\nI think his competitiveness comes from wanting to see measurable progress. He likes having a clear target, and a match gives him immediate feedback. He can get frustrated with himself, although he usually congratulates the other player afterwards. That's why I enjoy playing with him: he takes the game seriously without treating his opponent badly. I wouldn't claim to know everything that motivates him, but improvement seems more important to him than showing off.",
+      "reasoning": [],
+      "pitfalls": [],
+      "sourceCaseIds": [
+        "support-speaking-c21-t4-p2-competitive"
+      ],
+      "challengeMechanism": "Sustain one coherent person description while covering domain, success, and an inferred motive; concrete event evidence rather than repeated trait adjectives.",
+      "recordingRecommended": true,
+      "referenceType": "原创参考作答；无唯一答案"
+    },
+    {
+      "id": "pr-speaking-p3",
+      "section": "speaking",
+      "part": "Speaking Part 3",
+      "title": "体育中的竞争与参与",
+      "source": {
+        "title": "Cambridge IELTS 21 Academic · Test 4 · 物理页97 / 印刷页96",
+        "path": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf",
+        "page": 97,
+        "kind": "user-provided-exam-material"
+      },
+      "originNote": "",
+      "context": [],
+      "instructions": "依次口头回答。",
+      "prompt": "",
+      "questions": [
+        {
+          "id": "1",
+          "prompt": "How important is it to be very competitive at sport?"
+        },
+        {
+          "id": "2",
+          "prompt": "Why do some people think that taking part in sport is more important than winning?"
+        }
+      ],
+      "reference": "It depends on the purpose. For professional athletes, a strong desire to compete may help them keep training when progress is slow. In a casual game with friends, however, enjoying the activity and playing fairly may matter more than the result. Being competitive becomes a problem if it encourages someone to ignore rules or injuries.\n\nPeople who value participation often focus on the benefits that continue after a match ends, such as exercise, friendships and learning to work with others. Only one team can win, but both teams can gain those benefits. That is especially relevant when children are just starting a sport.",
+      "reasoning": [],
+      "pitfalls": [],
+      "sourceCaseIds": [
+        "support-speaking-c21-t4-p3-sport"
+      ],
+      "challengeMechanism": "Evaluate competitive drive across recreational and professional contexts; explain a position without treating participation and winning as mutually exclusive; qualification and counterexample possible.",
+      "recordingRecommended": true,
+      "referenceType": "原创参考作答；无唯一答案"
+    }
+  ],
+  "assetCopies": [
+    {
+      "source": "C:\\Users\\Admin1\\Documents\\Codex\\2026-09-12\\referenced-chatgpt-conversation-this-is-an\\outputs\\materials-library\\listening-audit-2026-09-14\\audio\\recording-3.mp3",
+      "destination": "原始参考/precise-recording-3.mp3"
+    },
+    {
+      "source": "C:\\Users\\Admin1\\Documents\\Codex\\2026-09-12\\referenced-chatgpt-conversation-this-is-an\\outputs\\materials-library\\expansion-2026-09-14\\inspera-media-128122089.mp3",
+      "destination": "原始参考/precise-official-listening-full.mp3"
+    },
+    {
+      "source": "C:\\Users\\Admin1\\Documents\\Codex\\2026-09-12\\referenced-chatgpt-conversation-this-is-an\\outputs\\materials-library\\listening-audit-2026-09-14\\batch-03\\questions\\part-4.html",
+      "destination": "原始参考/precise-listening-part-4-questions.html"
+    }
+  ]
+}

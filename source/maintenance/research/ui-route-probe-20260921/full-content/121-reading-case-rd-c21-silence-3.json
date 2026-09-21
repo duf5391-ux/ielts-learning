@@ -1,0 +1,223 @@
+{
+  "requested": "reading-case-rd-c21-silence-3",
+  "from": [
+    "内容单元",
+    "页面链接",
+    "每日安排目标"
+  ],
+  "actual": "#reading-case-rd-c21-silence-3",
+  "checkedAt": "2026-09-21T12:51:58.221Z",
+  "title": "练习 / 阅读 / Why we need silence｜主动安静与短时收益 · IELTS",
+  "label": "练习 / 阅读 / Why we need silence｜主动安静与短时收益",
+  "panel": "practice-reading",
+  "contentRoot": "reading-case-rd-c21-silence-3",
+  "headings": [
+    {
+      "tag": "H4",
+      "text": "共用选项 · 原题 22、25、26",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "对照答案，回到证据",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "F（第一段）",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "F（第二段）",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "G",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "词语与搭配",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "句子精读",
+      "visible": false
+    }
+  ],
+  "controls": [
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "Why we need silence｜主动安静与短时收益未作答\n段落信息匹配 / 人物／特征匹配 · 3 段 · 304 词 · 4 题 · 同篇原文另有裁切",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "Cambridge IELTS 21 Academic",
+      "label": "",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=22",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "case-rd-c21-silence-3-q1",
+      "type": "text",
+      "text": "",
+      "label": "第 17 题作答",
+      "href": null,
+      "save": "case-rd-c21-silence-3-q1",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "case-rd-c21-silence-3-q2",
+      "type": "text",
+      "text": "",
+      "label": "第 22 题作答",
+      "href": null,
+      "save": "case-rd-c21-silence-3-q2",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "case-rd-c21-silence-3-q3",
+      "type": "text",
+      "text": "",
+      "label": "第 25 题作答",
+      "href": null,
+      "save": "case-rd-c21-silence-3-q3",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "case-rd-c21-silence-3-q4",
+      "type": "text",
+      "text": "",
+      "label": "第 26 题作答",
+      "href": null,
+      "save": "case-rd-c21-silence-3-q4",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "checkbox",
+      "text": "",
+      "label": "",
+      "href": null,
+      "save": "case-rd-c21-silence-3-done",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "hidden",
+      "text": "",
+      "label": "",
+      "href": null,
+      "save": "case-rd-c21-silence-3-saved-at",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "保留作答，查看答案",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "核对原答案页",
+      "label": "",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=119",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "case-rd-c21-silence-3-revision",
+      "type": "textarea",
+      "text": "",
+      "label": "我的修订／证据笔记",
+      "href": null,
+      "save": "case-rd-c21-silence-3-revision",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "材料精读 · 内容与词句",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    }
+  ],
+  "visibleText": "Why we need silence｜主动安静与短时收益未作答\n段落信息匹配 / 人物／特征匹配 · 3 段 · 304 词 · 4 题 · 同篇原文另有裁切\n0% · 0 / 1 完成\n\n真题 · Cambridge IELTS 21 Academic · PDF 第 22 页\n\nQ17：Which section A–G contains the information? Q22/25/26：Match statements with people A–D. You may use any letter more than once.\n\nF（第一段）F Neurobiologist Tai Dotan Ben-Soussan is also an advocate of silence as a therapy. 'When we find ways to be quiet, we are not only quiet in our environment, but quiet in our inner selves,' she explains. 'This allows us to be more aware of what is happening around us and what the situation may require from us so we can provide [a more] adequate response.'\n\nF（第二段）Not everyone will benefit from silence to the same extent, but Ben-Soussan says one characteristic is key: the person must need to want to engage in the experience. 'We see from animal models and human studies that volition and intentionality is important,' she says. 'When people do not want silence, it can be very distressing.'\n\nGEric Pfeifer, a psychotherapy researcher, also concedes that some people may not benefit from silence, particularly those who are in a heightened state of stress. 'People in these states may not be able to relax or calm down in a silent condition,' he says. Professional guidance can be useful, he adds, allowing people to approach silence slowly so that they can gradually enjoy the benefits. And Pfeifer is convinced that silence is more attainable in everyday life than people think. First, complete silence isn't necessary. In a recent study, he found that participants reported more relaxation and less boredom when they sat quietly in an outdoor garden compared with a completely silent room. Second, Pfeifer believes we don't need a lot of silence to gain benefits. 'You don't need to spend hours in silence,' he says. 'It is likely better to have more frequency of silence for a few minutes at a time than a longer period of silence only once a week. Just finding those places in your daily life where you can find some silence ... can make a big difference.'\n\n共用选项 · 原题 22、25、26\nA Nick Antonio\nB Justin Feinstein\nC Tai Dotan Ben-Soussan\nD Eric Pfeifer\n\n17. evidence that a relatively quiet environment can be more beneficial than a totally silent one\n\nA\nB\nC\nD\nE\nF\nG\n第 17 题作答\n\n22. It is unpleasant and upsetting for people to be placed in a silent environment against their will.\n\n第 22 题作答\n\n25. Even a short amount of silent time can have a positive impact.\n\n第 25 题作答\n\n26. External and internal quietness makes us more conscious of events occurring in our surroundings and helps us react appropriately to these events.\n\n第 26 题作答\n保留作答，查看答案\n\n先作答；不确定的题也可记录判断与疑点。\n\n材料精读 · 内容与词句",
+  "allContent": "Why we need silence｜主动安静与短时收益未作答段落信息匹配 / 人物／特征匹配 · 3 段 · 304 词 · 4 题 · 同篇原文另有裁切0% · 0 / 1 完成真题 · Cambridge IELTS 21 Academic · PDF 第 22 页Q17：Which section A–G contains the information? Q22/25/26：Match statements with people A–D. You may use any letter more than once.F（第一段）F Neurobiologist Tai Dotan Ben-Soussan is also an advocate of silence as a therapy. 'When we find ways to be quiet, we are not only quiet in our environment, but quiet in our inner selves,' she explains. 'This allows us to be more aware of what is happening around us and what the situation may require from us so we can provide [a more] adequate response.'F（第二段）Not everyone will benefit from silence to the same extent, but Ben-Soussan says one characteristic is key: the person must need to want to engage in the experience. 'We see from animal models and human studies that volition and intentionality is important,' she says. 'When people do not want silence, it can be very distressing.'GEric Pfeifer, a psychotherapy researcher, also concedes that some people may not benefit from silence, particularly those who are in a heightened state of stress. 'People in these states may not be able to relax or calm down in a silent condition,' he says. Professional guidance can be useful, he adds, allowing people to approach silence slowly so that they can gradually enjoy the benefits. And Pfeifer is convinced that silence is more attainable in everyday life than people think. First, complete silence isn't necessary. In a recent study, he found that participants reported more relaxation and less boredom when they sat quietly in an outdoor garden compared with a completely silent room. Second, Pfeifer believes we don't need a lot of silence to gain benefits. 'You don't need to spend hours in silence,' he says. 'It is likely better to have more frequency of silence for a few minutes at a time than a longer period of silence only once a week. Just finding those places in your daily life where you can find some silence ... can make a big difference.'共用选项 · 原题 22、25、26A Nick AntonioB Justin FeinsteinC Tai Dotan Ben-SoussanD Eric Pfeifer17. evidence that a relatively quiet environment can be more beneficial than a totally silent oneABCDEFG第 17 题作答22. It is unpleasant and upsetting for people to be placed in a silent environment against their will.第 22 题作答25. Even a short amount of silent time can have a positive impact.第 25 题作答26. External and internal quietness makes us more conscious of events occurring in our surroundings and helps us react appropriately to these events.第 26 题作答保留作答，查看答案先作答；不确定的题也可记录判断与疑点。对照答案，回到证据第 17 题 · G必须有两种环境的比较；G中花园与完全静音房间的结果符合题干。more relaxation and less boredom when they sat quietly in an outdoor garden compared with a completely silent room第 22 题 · CF第二段Ben-Soussan把自愿性列为前提，against their will对应do not want。When people do not want silence, it can be very distressing.第 25 题 · DG的Pfeifer明确说几分钟、高频也有益，不要求一次持续数小时。Just finding those places in your daily life where you can find some silence ... can make a big difference.第 26 题 · CF第一段Ben-Soussan提到外部与内在安静，进而更好回应环境。more aware of what is happening around us and what the situation may require from us核对原答案页我的修订／证据笔记材料精读 · 内容与词句安静在这里不是越彻底、越久就越好。文章强调个人意愿、当前心理状态和适应过程，再把理想化的绝对无声，转化为日常中较容易获得的短暂安静。F（第一段）F Neurobiologist Tai Dotan Ben-Soussan is also an advocate of silence as a therapy. 'When we find ways to be quiet, we are not only quiet in our environment, but quiet in our inner selves,' she explains. 'This allows us to be more aware of what is happening around us and what the situation may require from us so we can provide [a more] adequate response.'Ben-Soussan把安静区分为外部环境的安静与内在状态的安静。她认为后者可以帮助人更清楚地觉察周围情况，并作出合宜反应。This承接这种内外安静的状态，而不是单指没有任何声音；本段呈现的是她对安静作用的解释。F（第二段）Not everyone will benefit from silence to the same extent, but Ben-Soussan says one characteristic is key: the person must need to want to engage in the experience. 'We see from animal models and human studies that volition and intentionality is important,' she says. 'When people do not want silence, it can be very distressing.'文章马上加入限制：不同人的获益程度不一样，而且主动愿意参与体验很重要。volition与intentionality指个人的意愿和有意识的参与。如果一个人并不想处于安静之中，这种情境反而可能令人痛苦。因此，安静不能被当成不顾意愿、对所有人都适用的要求。GG Eric Pfeifer, a psychotherapy researcher, also concedes that some people may not benefit from silence, particularly those who are in a heightened state of stress. 'People in these states may not be able to relax or calm down in a silent condition,' he says. Professional guidance can be useful, he adds, allowing people to approach silence slowly so that they can gradually enjoy the benefits. And Pfeifer is convinced that silence is more attainable in everyday life than people think. First, complete silence isn't necessary. In a recent study, he found that participants reported more relaxation and less boredom when they sat quietly in an outdoor garden compared with a completely silent room. Second, Pfeifer believes we don't need a lot of silence to gain benefits. 'You don't need to spend hours in silence,' he says. 'It is likely better to have more frequency of silence for a few minutes at a time than a longer period of silence only once a week. Just finding those places in your daily life where you can find some silence ... can make a big difference.'Pfeifer进一步指出，高度紧张的人有时无法在安静环境中放松，专业指导可以帮助其逐渐适应。他随后提出两个让安静更可获得的想法：不必绝对无声，研究参与者在安静花园中比完全无声的房间更放松、较少无聊；也不必每次持续很久。他倾向于频繁短时的安静，但原文用likely表达判断，并未给出对所有人有效的固定时长处方。词语与搭配to the same extent达到相同程度用于比较程度；Not everyone...to the same extent表示人与人之间有差异，不是所有人完全没有益处。engage in the experience参与并投入这种体验engage in后接活动或过程；此处强调主动愿意参与，而不只是身体置于安静房间。a heightened state of stress一种压力升高、紧张加剧的状态heightened修饰state所指的程度，描述当时状态，不能直接给某人贴上永久性标签。a few minutes at a time每次几分钟at a time说明单次持续长度，与一周只进行一次但时间很长相对照。句子精读Professional guidance can be useful, he adds, allowing people to approach silence slowly so that they can gradually enjoy the benefits.他补充说，专业指导可能有所帮助，让人慢慢接近和适应安静，从而逐渐享受到其中的益处。he adds是插入的转述语，he指Pfeifer。allowing...补充说明专业指导如何起作用；so that连接渐进适应与预期收益。can be useful表示可能有帮助，slowly与gradually共同强调过程，而非立即强迫人进入完全无声的状态。In a recent study, he found that participants reported more relaxation and less boredom when they sat quietly in an outdoor garden compared with a completely silent room.在近期的一项研究中，他发现参与者报告说，相比待在完全无声的房间里，安静地坐在室外花园中会让他们更放松，也更少感到无聊。found后的that从句说明研究发现，reported提醒这是参与者报告的体验。when从句描述花园条件，compared with引出对比的房间条件。more relaxation与less boredom是两个并列变化；recent以原文写作时点为参照，句子没有宣称花园对每个人或每种健康状况都更有效。读完讲解，可以把原文连起来再读一次；想保留的词句可使用已有收藏功能。",
+  "links": [
+    {
+      "text": "Cambridge IELTS 21 Academic",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=22"
+    },
+    {
+      "text": "核对原答案页",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=119"
+    }
+  ],
+  "details": [
+    {
+      "id": "material-reading-rd-c21-silence-3",
+      "title": "材料精读 · 内容与词句",
+      "open": false,
+      "visible": true
+    }
+  ],
+  "saveFields": [
+    "case-rd-c21-silence-3-q1",
+    "case-rd-c21-silence-3-q2",
+    "case-rd-c21-silence-3-q3",
+    "case-rd-c21-silence-3-q4",
+    "case-rd-c21-silence-3-done",
+    "case-rd-c21-silence-3-saved-at",
+    "case-rd-c21-silence-3-revision"
+  ],
+  "images": [],
+  "audio": [],
+  "viewport": 1440,
+  "documentWidth": 1440
+}

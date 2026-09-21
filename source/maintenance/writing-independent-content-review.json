@@ -1,0 +1,148 @@
+{
+  "reviewer": "learning_techniques",
+  "cases": [
+    {
+      "id": "wc-c21-t1-jobs",
+      "source_exists": true,
+      "prompt_match": true,
+      "words": 161,
+      "model_review": "原题对象、范围、任务动作逐项已核；原创参考明确标示，无杜撰真实统计"
+    },
+    {
+      "id": "wc-c21-t2-cafe",
+      "source_exists": true,
+      "prompt_match": true,
+      "words": 173,
+      "model_review": "原题对象、范围、任务动作逐项已核；原创参考明确标示，无杜撰真实统计",
+      "normalization_note": "已逐字核对原PDF题面；café与原件cafe重音写法差异，不改变题意。"
+    },
+    {
+      "id": "wc-c21-t3-rainshadow",
+      "source_exists": true,
+      "prompt_match": true,
+      "words": 166,
+      "model_review": "原题对象、范围、任务动作逐项已核；原创参考明确标示，无杜撰真实统计"
+    },
+    {
+      "id": "wc-c21-t4-library",
+      "source_exists": true,
+      "prompt_match": true,
+      "words": 154,
+      "model_review": "原题对象、范围、任务动作逐项已核；原创参考明确标示，无杜撰真实统计"
+    },
+    {
+      "id": "wc-official-education",
+      "source_exists": true,
+      "prompt_match": true,
+      "words": 156,
+      "model_review": "原题对象、范围、任务动作逐项已核；原创参考明确标示，无杜撰真实统计"
+    },
+    {
+      "id": "wc-official-audiences",
+      "source_exists": true,
+      "prompt_match": true,
+      "words": 169,
+      "model_review": "原题对象、范围、任务动作逐项已核；原创参考明确标示，无杜撰真实统计"
+    },
+    {
+      "id": "wc-official-bricks",
+      "source_exists": true,
+      "prompt_match": true,
+      "words": 168,
+      "model_review": "原题对象、范围、任务动作逐项已核；原创参考明确标示，无杜撰真实统计"
+    },
+    {
+      "id": "wc-official-bicycle",
+      "source_exists": true,
+      "prompt_match": true,
+      "words": 157,
+      "model_review": "原题对象、范围、任务动作逐项已核；原创参考明确标示，无杜撰真实统计"
+    },
+    {
+      "id": "wc-c21-t1-homes",
+      "source_exists": true,
+      "prompt_match": true,
+      "words": 173,
+      "model_review": "原题对象、范围、任务动作逐项已核；原创参考明确标示，无杜撰真实统计"
+    },
+    {
+      "id": "wc-c21-t2-entertainment",
+      "source_exists": true,
+      "prompt_match": true,
+      "words": 187,
+      "model_review": "原题对象、范围、任务动作逐项已核；原创参考明确标示，无杜撰真实统计"
+    },
+    {
+      "id": "wc-c21-t3-placement",
+      "source_exists": true,
+      "prompt_match": true,
+      "words": 185,
+      "model_review": "原题对象、范围、任务动作逐项已核；原创参考明确标示，无杜撰真实统计"
+    },
+    {
+      "id": "wc-c21-t4-primary",
+      "source_exists": true,
+      "prompt_match": true,
+      "words": 196,
+      "model_review": "原题对象、范围、任务动作逐项已核；原创参考明确标示，无杜撰真实统计"
+    },
+    {
+      "id": "wc-official-wealth",
+      "source_exists": true,
+      "prompt_match": true,
+      "words": 181,
+      "model_review": "原题对象、范围、任务动作逐项已核；原创参考明确标示，无杜撰真实统计"
+    },
+    {
+      "id": "wc-official-tourism",
+      "source_exists": true,
+      "prompt_match": true,
+      "words": 188,
+      "model_review": "原题对象、范围、任务动作逐项已核；原创参考明确标示，无杜撰真实统计"
+    },
+    {
+      "id": "wc-official-science",
+      "source_exists": true,
+      "prompt_match": true,
+      "words": 183,
+      "model_review": "原题对象、范围、任务动作逐项已核；原创参考明确标示，无杜撰真实统计"
+    },
+    {
+      "id": "wc-official-transport",
+      "source_exists": true,
+      "prompt_match": true,
+      "words": 190,
+      "model_review": "原题对象、范围、任务动作逐项已核；原创参考明确标示，无杜撰真实统计"
+    },
+    {
+      "id": "wc-official-eldercare",
+      "source_exists": true,
+      "prompt_match": true,
+      "words": 195,
+      "model_review": "原题对象、范围、任务动作逐项已核；原创参考明确标示，无杜撰真实统计"
+    },
+    {
+      "id": "wc-bc-graduates",
+      "source_exists": true,
+      "prompt_match": true,
+      "words": 197,
+      "model_review": "原题对象、范围、任务动作逐项已核；原创参考明确标示，无杜撰真实统计"
+    },
+    {
+      "id": "wc-bc-overfishing",
+      "source_exists": true,
+      "prompt_match": true,
+      "words": 188,
+      "model_review": "原题对象、范围、任务动作逐项已核；原创参考明确标示，无杜撰真实统计"
+    },
+    {
+      "id": "wc-bc-childhealth",
+      "source_exists": true,
+      "prompt_match": true,
+      "words": 196,
+      "model_review": "原题对象、范围、任务动作逐项已核；原创参考明确标示，无杜撰真实统计"
+    }
+  ],
+  "visualReview": "8张Task1图均已目检；图数据、对象、单位、地图功能/位置、流程分支与时间温度一致",
+  "result": "无新增阻断问题"
+}

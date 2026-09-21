@@ -1,0 +1,72 @@
+[
+  {
+    "targetSelector": ".enrichment-unit[data-enrichment=\"writing1_compare_groups\"]",
+    "caseIds": [
+      "wc-official-education"
+    ]
+  },
+  {
+    "targetSelector": ".enrichment-unit[data-enrichment=\"writing1_process_branches\"]",
+    "caseIds": [
+      "wc-official-bricks",
+      "wc-c21-t3-rainshadow"
+    ]
+  },
+  {
+    "targetSelector": ".enrichment-unit[data-enrichment=\"writing2_position_mechanism\"]",
+    "caseIds": [
+      "wc-official-wealth",
+      "wc-c21-t1-homes"
+    ]
+  },
+  {
+    "targetSelector": ".enrichment-unit[data-enrichment=\"writing2_weigh_consequences\"]",
+    "caseIds": [
+      "wc-official-tourism",
+      "wc-c21-t3-placement"
+    ]
+  },
+  {
+    "targetSelector": "#reading-tech-matching",
+    "caseIds": [
+      "rd-c21-t3-past-discoveries",
+      "rd-c21-t3-past-preconceptions"
+    ]
+  },
+  {
+    "targetSelector": "#reading-tech-choices-review",
+    "caseIds": [
+      "rd-c21-mapungubwe-2"
+    ]
+  },
+  {
+    "targetSelector": "#reading-tech-completion",
+    "caseIds": [
+      "rd-c21-t4-hyacinth-biogas",
+      "rd-gap-birds-sentence-history",
+      "rd-gap-birds-sentence-debate",
+      "rd-gap-academic-short-answer-health"
+    ]
+  },
+  {
+    "targetSelector": "#reading-learn",
+    "caseIds": [
+      "rd-c21-davies-1",
+      "rd-c21-davies-2",
+      "rd-c21-davies-3"
+    ]
+  },
+  {
+    "targetSelector": "#writing1-learn",
+    "caseIds": [
+      "wc-c21-t1-jobs"
+    ]
+  },
+  {
+    "targetSelector": "#writing2-learn",
+    "caseIds": [
+      "wc-c21-t2-entertainment",
+      "wc-c21-t4-primary"
+    ]
+  }
+]

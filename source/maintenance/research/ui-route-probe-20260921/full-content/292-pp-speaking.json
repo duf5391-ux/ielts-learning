@@ -1,0 +1,397 @@
+{
+  "requested": "pp-speaking",
+  "from": [
+    "页面链接"
+  ],
+  "actual": "#pp-speaking",
+  "checkedAt": "2026-09-21T12:54:33.106Z",
+  "title": "口语练习 · IELTS",
+  "label": "口语练习",
+  "panel": "practice-speaking",
+  "contentRoot": "pp-speaking",
+  "headings": [
+    {
+      "tag": "H2",
+      "text": "练习",
+      "visible": true
+    }
+  ],
+  "controls": [
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "Speaking Part 1",
+      "label": "",
+      "href": "#pr-speaking-p1",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "Speaking Part 2",
+      "label": "",
+      "href": "#pr-speaking-p2",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "Speaking Part 3",
+      "label": "",
+      "href": "#pr-speaking-p3",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "Speaking Part 1 购物与储蓄",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "开始录音",
+      "label": "",
+      "href": null,
+      "record": "pr-speaking-p1",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "结束录音",
+      "label": "",
+      "href": null,
+      "stop": "pr-speaking-p1",
+      "visible": true,
+      "disabled": true,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "下载录音",
+      "label": "",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "AUDIO",
+      "id": "",
+      "text": "",
+      "label": "",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "file",
+      "text": "",
+      "label": "载入录音",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "录音文件名 / 要点",
+      "href": null,
+      "save": "pr-speaking-p1-record-note",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "Cambridge IELTS 21 Academic · Test 3 · 物理页75 / 印刷页74",
+      "label": "",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=75",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "Speaking Part 2 一个有竞争心的人",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "开始录音",
+      "label": "",
+      "href": null,
+      "record": "pr-speaking-p2",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "结束录音",
+      "label": "",
+      "href": null,
+      "stop": "pr-speaking-p2",
+      "visible": true,
+      "disabled": true,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "下载录音",
+      "label": "",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "AUDIO",
+      "id": "",
+      "text": "",
+      "label": "",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "file",
+      "text": "",
+      "label": "载入录音",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "录音文件名 / 要点",
+      "href": null,
+      "save": "pr-speaking-p2-record-note",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "Cambridge IELTS 21 Academic · Test 4 · 物理页97 / 印刷页96",
+      "label": "",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=97",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "Speaking Part 3 体育中的竞争与参与",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "开始录音",
+      "label": "",
+      "href": null,
+      "record": "pr-speaking-p3",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "结束录音",
+      "label": "",
+      "href": null,
+      "stop": "pr-speaking-p3",
+      "visible": true,
+      "disabled": true,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "下载录音",
+      "label": "",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "AUDIO",
+      "id": "",
+      "text": "",
+      "label": "",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "file",
+      "text": "",
+      "label": "载入录音",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "录音文件名 / 要点",
+      "href": null,
+      "save": "pr-speaking-p3-record-note",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "Cambridge IELTS 21 Academic · Test 4 · 物理页97 / 印刷页96",
+      "label": "",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=97",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    }
+  ],
+  "visibleText": "练习\nSpeaking Part 1\nSpeaking Part 2\nSpeaking Part 3\nSpeaking Part 1 购物与储蓄\n0% · 0 / 0 完成\n\n依次口头回答。\n\nWhen you go shopping, do you usually pay for things by cash or by card?\n\nHave you ever spent money on something you didn't need?\n\nAre you generally careful about how much money you spend?\n\nHow important is it to you to save money for the future?\n\n开始录音结束录音\n载入录音\n\n录音需单独下载保存。\n\n录音文件名 / 要点\n\n选材来源 · Cambridge IELTS 21 Academic · Test 3 · 物理页75 / 印刷页74\n\nSpeaking Part 2 一个有竞争心的人\n0% · 0 / 0 完成\n\n准备 1 分钟，然后连续说 1–2 分钟。\n\nDescribe a person you know who is very competitive.\n\nYou should say:\n\nwho this person is\n\nwhat this person is competitive about\n\nhow successful this person is\n\nand explain why you think this person is so competitive.\n\n开始作答。\n\n开始录音结束录音\n载入录音\n\n录音需单独下载保存。\n\n录音文件名 / 要点\n\n选材来源 · Cambridge IELTS 21 Academic · Test 4 · 物理页97 / 印刷页96\n\nSpeaking Part 3 体育中的竞争与参与\n0% · 0 / 0 完成\n\n依次口头回答。\n\nHow important is it to be very competitive at sport?\n\nWhy do some people think that taking part in sport is more important than winning?\n\n开始录音结束录音\n载入录音\n\n录音需单独下载保存。\n\n录音文件名 / 要点\n\n选材来源 · Cambridge IELTS 21 Academic · Test 4 · 物理页97 / 印刷页96",
+  "allContent": "练习Speaking Part 1Speaking Part 2Speaking Part 3Speaking Part 1 购物与储蓄0% · 0 / 0 完成依次口头回答。When you go shopping, do you usually pay for things by cash or by card?Have you ever spent money on something you didn't need?Are you generally careful about how much money you spend?How important is it to you to save money for the future?开始录音结束录音下载录音载入录音 录音需单独下载保存。录音文件名 / 要点选材来源 · Cambridge IELTS 21 Academic · Test 3 · 物理页75 / 印刷页74Speaking Part 2 一个有竞争心的人0% · 0 / 0 完成准备 1 分钟，然后连续说 1–2 分钟。Describe a person you know who is very competitive.You should say:who this person iswhat this person is competitive abouthow successful this person isand explain why you think this person is so competitive.开始作答。开始录音结束录音下载录音载入录音 录音需单独下载保存。录音文件名 / 要点选材来源 · Cambridge IELTS 21 Academic · Test 4 · 物理页97 / 印刷页96Speaking Part 3 体育中的竞争与参与0% · 0 / 0 完成依次口头回答。How important is it to be very competitive at sport?Why do some people think that taking part in sport is more important than winning?开始录音结束录音下载录音载入录音 录音需单独下载保存。录音文件名 / 要点选材来源 · Cambridge IELTS 21 Academic · Test 4 · 物理页97 / 印刷页96",
+  "links": [
+    {
+      "text": "Speaking Part 1",
+      "href": "#pr-speaking-p1"
+    },
+    {
+      "text": "Speaking Part 2",
+      "href": "#pr-speaking-p2"
+    },
+    {
+      "text": "Speaking Part 3",
+      "href": "#pr-speaking-p3"
+    },
+    {
+      "text": "Cambridge IELTS 21 Academic · Test 3 · 物理页75 / 印刷页74",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=75"
+    },
+    {
+      "text": "Cambridge IELTS 21 Academic · Test 4 · 物理页97 / 印刷页96",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=97"
+    },
+    {
+      "text": "Cambridge IELTS 21 Academic · Test 4 · 物理页97 / 印刷页96",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=97"
+    }
+  ],
+  "details": [
+    {
+      "id": "pr-speaking-p1",
+      "title": "Speaking Part 1 购物与储蓄",
+      "open": true,
+      "visible": true
+    },
+    {
+      "id": "pr-speaking-p2",
+      "title": "Speaking Part 2 一个有竞争心的人",
+      "open": true,
+      "visible": true
+    },
+    {
+      "id": "pr-speaking-p3",
+      "title": "Speaking Part 3 体育中的竞争与参与",
+      "open": true,
+      "visible": true
+    }
+  ],
+  "saveFields": [
+    "pr-speaking-p1-record-note",
+    "pr-speaking-p2-record-note",
+    "pr-speaking-p3-record-note"
+  ],
+  "images": [],
+  "audio": [
+    {
+      "src": null,
+      "sources": [],
+      "visible": false,
+      "controls": true
+    },
+    {
+      "src": null,
+      "sources": [],
+      "visible": false,
+      "controls": true
+    },
+    {
+      "src": null,
+      "sources": [],
+      "visible": false,
+      "controls": true
+    }
+  ],
+  "viewport": 1440,
+  "documentWidth": 1440
+}

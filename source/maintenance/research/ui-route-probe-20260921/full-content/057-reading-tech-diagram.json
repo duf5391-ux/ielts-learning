@@ -1,0 +1,189 @@
+{
+  "requested": "reading-tech-diagram",
+  "from": [
+    "内容单元",
+    "页面链接"
+  ],
+  "actual": "#reading-tech-diagram",
+  "checkedAt": "2026-09-21T12:51:09.565Z",
+  "title": "学习 / 阅读 / 图示标注：官方蜣螂隧道原图中的深度与形状 · IELTS",
+  "label": "学习 / 阅读 / 图示标注：官方蜣螂隧道原图中的深度与形状",
+  "panel": "reading",
+  "contentRoot": "reading-tech-diagram",
+  "headings": [],
+  "controls": [
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "图示标注：官方蜣螂隧道原图中的深度与形状",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "打开三段完整原文",
+      "label": "",
+      "href": "case-assets/reading-official-dung-beetles.pdf#page=1",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "核对官方答案页",
+      "label": "",
+      "href": "case-assets/reading-official-dung-beetles.pdf#page=3",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "蜣螂隧道：原文、原图与图示标注",
+      "label": "",
+      "href": "#reading-case-rd-official-diagram",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "IELTS官方Academic Reading Diagram label completion：原文第1页",
+      "label": "",
+      "href": "case-assets/reading-official-dung-beetles.pdf#page=1",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "IELTS官方蜣螂隧道原图与Q6–8，第2页",
+      "label": "",
+      "href": "case-assets/reading-official-dung-beetles.pdf#page=2",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "IELTS官方蜣螂隧道Q6–8标准答案，第3页",
+      "label": "",
+      "href": "case-assets/reading-official-dung-beetles.pdf#page=3",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "练原题：蜣螂隧道：用深度和形状读图",
+      "label": "",
+      "href": "#reading-case-rd-official-diagram",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "checkbox",
+      "text": "",
+      "label": "我已学习本单元",
+      "href": null,
+      "save": "resource-learned-tech-diagram",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "checkbox",
+      "text": "",
+      "label": "加入我的复习",
+      "href": null,
+      "save": "resource-review-tech-diagram",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "我的练习答案／证据／下次要改的一步（可留空）",
+      "href": null,
+      "save": "resource-note-tech-diagram",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    }
+  ],
+  "visibleText": "图示标注：官方蜣螂隧道原图中的深度与形状\n0% · 0 / 1 完成\n\n本示范使用IELTS官方图示标注样题的原文和原图，题号Q6–8不改。先看纵轴是距地表的近似深度cm，再看各隧道的深浅和腔室形态。按题目词框选择名称，不能自行写“20 cm”等深度替代物种。\n\n官方原题第2页：保留原图、题号、刻度与所有候选。\n\n原文第二段明确：Some large species originating from France excavate tunnels to a depth of approximately 30 cm below the dung pat. 又说Spanish species的隧道最浅；South African beetles dig narrow tunnels of approximately 20 cm below the surface of the pat. 图上Q7最深约30 cm，Q8最浅，Q6约20 cm。因此官方答案为Q6 South African；Q7 French；Q8 Spanish。\n\n同段还描述South African ball roller在表面切球、滚走并附在植物基部。这是词框中的干扰项：虽然也有South African，但ball roller的动作和图中地下隧道不符。答后把每种名称同时连到“深度＋形状＋位置”，避免只认一个相同地名。打开三段完整原文；核对官方答案页。\n\n继续做原題片段：蜣螂隧道：原文、原图与图示标注\n\nIELTS官方Academic Reading Diagram label completion：原文第1页\n\nIELTS官方蜣螂隧道原图与Q6–8，第2页\n\nIELTS官方蜣螂隧道Q6–8标准答案，第3页\n\n练原题：蜣螂隧道：用深度和形状读图\n\n本单元的学习记录\n\n 我已学习本单元 加入我的复习\n我的练习答案／证据／下次要改的一步（可留空）",
+  "allContent": "图示标注：官方蜣螂隧道原图中的深度与形状0% · 0 / 1 完成本示范使用IELTS官方图示标注样题的原文和原图，题号Q6–8不改。先看纵轴是距地表的近似深度cm，再看各隧道的深浅和腔室形态。按题目词框选择名称，不能自行写“20 cm”等深度替代物种。官方原题第2页：保留原图、题号、刻度与所有候选。原文第二段明确：Some large species originating from France excavate tunnels to a depth of approximately 30 cm below the dung pat. 又说Spanish species的隧道最浅；South African beetles dig narrow tunnels of approximately 20 cm below the surface of the pat. 图上Q7最深约30 cm，Q8最浅，Q6约20 cm。因此官方答案为Q6 South African；Q7 French；Q8 Spanish。同段还描述South African ball roller在表面切球、滚走并附在植物基部。这是词框中的干扰项：虽然也有South African，但ball roller的动作和图中地下隧道不符。答后把每种名称同时连到“深度＋形状＋位置”，避免只认一个相同地名。打开三段完整原文；核对官方答案页。继续做原題片段：蜣螂隧道：原文、原图与图示标注IELTS官方Academic Reading Diagram label completion：原文第1页IELTS官方蜣螂隧道原图与Q6–8，第2页IELTS官方蜣螂隧道Q6–8标准答案，第3页练原题：蜣螂隧道：用深度和形状读图本单元的学习记录 我已学习本单元 加入我的复习我的练习答案／证据／下次要改的一步（可留空）",
+  "links": [
+    {
+      "text": "打开三段完整原文",
+      "href": "case-assets/reading-official-dung-beetles.pdf#page=1"
+    },
+    {
+      "text": "核对官方答案页",
+      "href": "case-assets/reading-official-dung-beetles.pdf#page=3"
+    },
+    {
+      "text": "蜣螂隧道：原文、原图与图示标注",
+      "href": "#reading-case-rd-official-diagram"
+    },
+    {
+      "text": "IELTS官方Academic Reading Diagram label completion：原文第1页",
+      "href": "case-assets/reading-official-dung-beetles.pdf#page=1"
+    },
+    {
+      "text": "IELTS官方蜣螂隧道原图与Q6–8，第2页",
+      "href": "case-assets/reading-official-dung-beetles.pdf#page=2"
+    },
+    {
+      "text": "IELTS官方蜣螂隧道Q6–8标准答案，第3页",
+      "href": "case-assets/reading-official-dung-beetles.pdf#page=3"
+    },
+    {
+      "text": "练原题：蜣螂隧道：用深度和形状读图",
+      "href": "#reading-case-rd-official-diagram"
+    }
+  ],
+  "details": [],
+  "saveFields": [
+    "resource-learned-tech-diagram",
+    "resource-review-tech-diagram",
+    "resource-note-tech-diagram"
+  ],
+  "images": [
+    {
+      "src": "case-assets/reading-official-dung-beetles-diagram.png",
+      "alt": "官方蜣螂隧道图与完整词框，原题6至8",
+      "visible": true,
+      "complete": false,
+      "width": 0
+    }
+  ],
+  "audio": [],
+  "viewport": 1440,
+  "documentWidth": 1440
+}

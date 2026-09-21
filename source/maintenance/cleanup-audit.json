@@ -1,0 +1,69 @@
+{
+  "backup": "C:\\Users\\Admin1\\Documents\\ChatGPT\\ielts\\backups\\cleanup-companion-20260916-185944",
+  "files": [
+    {
+      "file": "C:\\Users\\Admin1\\Documents\\Codex\\2026-09-12\\referenced-chatgpt-conversation-this-is-an\\outputs\\IELTS-四科学习册\\完整词汇来源库.html",
+      "local_links_preserved": 2,
+      "audio_preserved": 0,
+      "scripts": [
+        "C:\\Users\\Admin1\\Documents\\ChatGPT\\ielts\\cleanup-companion-script-0-0.js"
+      ],
+      "remaining_metadata_visible": []
+    },
+    {
+      "file": "C:\\Users\\Admin1\\Documents\\Codex\\2026-09-12\\referenced-chatgpt-conversation-this-is-an\\outputs\\IELTS-四科学习册\\词频与原文证据.html",
+      "local_links_preserved": 2,
+      "audio_preserved": 0,
+      "scripts": [
+        "C:\\Users\\Admin1\\Documents\\ChatGPT\\ielts\\cleanup-companion-script-1-0.js"
+      ],
+      "remaining_metadata_visible": []
+    },
+    {
+      "file": "C:\\Users\\Admin1\\Documents\\Codex\\2026-09-12\\referenced-chatgpt-conversation-this-is-an\\outputs\\IELTS-四科学习册\\扩展资料目录.html",
+      "local_links_preserved": 136,
+      "audio_preserved": 24,
+      "scripts": [
+        "C:\\Users\\Admin1\\Documents\\ChatGPT\\ielts\\cleanup-companion-script-2-0.js"
+      ],
+      "remaining_metadata_visible": []
+    }
+  ],
+  "main_page_recommendations": {
+    "remove": [
+      "details.tv-source",
+      "details.enrichment-sources",
+      "p.enrichment-origin",
+      "details whose direct summary is 资源出处与原件 / 话题来源与核验说明",
+      "resource-update source registration detail blocks"
+    ],
+    "rewrite": [
+      ".res-meta: retain teaching content type, remove provenance and verification process",
+      ".authentic-content > p.small: retain article title or useful page locator only",
+      ".res-badge: retain date and content type only"
+    ],
+    "preserve": [
+      "income/risk/material source wording in teaching",
+      "reading evidence and answer explanations",
+      "practice conditions and review metadata"
+    ]
+  },
+  "render_qa": [
+    {
+      "index": 0,
+      "initialCount": "30369 条词条（库内共 30369 条）",
+      "sourceFilters": 13,
+      "unitFilters": 8
+    },
+    {
+      "index": 1,
+      "initialCount": "23 篇正文 · 8879 统计词 · 2205 个匹配词形",
+      "groups": [
+        "通用英语阅读",
+        "通用英语听力",
+        "练习原文"
+      ],
+      "snippets": 74
+    }
+  ]
+}

@@ -1,0 +1,363 @@
+{
+  "requested": "listening-new-new-listening-weather-table",
+  "from": [
+    "内容单元",
+    "页面链接"
+  ],
+  "actual": "#listening-new-new-listening-weather-table",
+  "checkedAt": "2026-09-21T12:51:18.016Z",
+  "title": "学习 / 听力 / 天气播报：地区、时间与例外条件 · IELTS",
+  "label": "学习 / 听力 / 天气播报：地区、时间与例外条件",
+  "panel": "listening",
+  "contentRoot": "listening-new-new-listening-weather-table",
+  "headings": [
+    {
+      "tag": "H3",
+      "text": "让每一条信息同时有地点和时间",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "用转折更新状态",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "对话示范",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "用法与易错",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "clear up",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "isolated showers",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "throughout the day",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "make way for",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "听后练习",
+      "visible": true
+    }
+  ],
+  "controls": [
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "新增 天气播报：地区、时间与例外条件",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "AUDIO",
+      "id": "",
+      "text": "",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "第 1 题\n暂时不会",
+      "href": null,
+      "save": "lesson-listening-weather-table-q1",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "暂时不会",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "第 2 题\n暂时不会",
+      "href": null,
+      "save": "lesson-listening-weather-table-q2",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "暂时不会",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "第 3 题\n暂时不会",
+      "href": null,
+      "save": "lesson-listening-weather-table-q3",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "暂时不会",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "第 4 题\n暂时不会",
+      "href": null,
+      "save": "lesson-listening-weather-table-q4",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "暂时不会",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "第 5 题\n暂时不会",
+      "href": null,
+      "save": "lesson-listening-weather-table-q5",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "暂时不会",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "第 6 题\n暂时不会",
+      "href": null,
+      "save": "lesson-listening-weather-table-q6",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "暂时不会",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "查看参考与解释",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "复习选项：简短再用",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "checkbox",
+      "text": "",
+      "label": "我已读过讲解",
+      "href": null,
+      "save": "resource-learned-new-listening-weather-table",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "checkbox",
+      "text": "",
+      "label": "加入我的复习",
+      "href": null,
+      "save": "resource-review-new-listening-weather-table",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "我的新表达／本次复习记录（可留空）",
+      "href": null,
+      "save": "resource-note-new-listening-weather-table",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "配套材料",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "",
+      "label": "",
+      "href": "https://learnenglish.britishcouncil.org/free-resources/listening/b1/weather-forecast",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "",
+      "label": "",
+      "href": "%E6%89%A9%E5%B1%95%E8%B5%84%E6%96%99/2026-09-16-resource-audio/c396bd9c-aeff8f08-LearnEnglish-Listening-B1-A-weather-forecast.pdf",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    }
+  ],
+  "visibleText": "新增 天气播报：地区、时间与例外条件\n0% · 0 / 6 练习已作答\n\n新增\n\n让每一条信息同时有地点和时间\n\n天气播报不是一串形容词。建立“地点｜时间｜天气／数值”三列，听到新的地名就换行。north-west 与整个 north 不完全相同；today 与 by the weekend 也不是同一个时间窗口。\n\n用转折更新状态\n\nalready cleared、will clear、will remain 表示不同时间关系。一个地方早上有雨而午后转晴并不矛盾。特别留意 escape、elsewhere、at least 这类范围或例外信号。\n\n对话示范\n\n“Rain will reach the western hills tonight. The coast, however, will remain dry until morning.”\n可以记成 hills／tonight／rain；coast／until morning／dry，而不是写“今晚所有地方下雨”。原音数字只代表课程内的预报，不作为现实天气服务。\n\n听力音频 · A weather forecast\n\n用法与易错\nclear up\n\n天气转晴／某问题澄清\n\nThe weather should clear up by late afternoon.\n\n易错：天气语境是变晴；不要机械理解成打扫。\n\nisolated showers\n\n局部零星阵雨\n\nThere may be isolated showers near the hills.\n\n易错：isolated 限定分布；不能改述成持续、普遍降雨。\n\nthroughout the day\n\n在整天期间\n\nLight rain continued throughout the day.\n\n易错：throughout 强调遍及某时间段；不等于 by the end of。\n\nmake way for\n\n让位于／被随后事物替代\n\nThe morning mist made way for sunshine.\n\n易错：made way for sunshine 不表示阳光造成雾。\n\n听后练习\n\n听原音，填写以下信息表。可以先用中文，不限制词数。\n1. Leeds 今天余下时间及今晚：雷暴，还是毛毛雨／小雨？\n2. 接近 Wales 的一些地方今天可能出现什么？\n3. 播报中本周较高气温给出的具体范围是多少度？\n4. 雨最迟会在什么时候抵达 south coast？\n5. 周末大约多少度？\n6. 改写句子而不扩大范围：A few western villages may have showers.（使用 some 与 might）\n\n第 1 题\n暂时不会\n第 2 题\n暂时不会\n第 3 题\n暂时不会\n第 4 题\n暂时不会\n第 5 题\n暂时不会\n第 6 题\n暂时不会\n查看参考与解释\n复习选项：简短再用\n 我已读过讲解\n 加入我的复习\n我的新表达／本次复习记录（可留空）\n配套材料",
+  "allContent": "新增 天气播报：地区、时间与例外条件0% · 0 / 6 练习已作答新增让每一条信息同时有地点和时间\n天气播报不是一串形容词。建立“地点｜时间｜天气／数值”三列，听到新的地名就换行。north-west 与整个 north 不完全相同；today 与 by the weekend 也不是同一个时间窗口。\n用转折更新状态\nalready cleared、will clear、will remain 表示不同时间关系。一个地方早上有雨而午后转晴并不矛盾。特别留意 escape、elsewhere、at least 这类范围或例外信号。\n对话示范\n“Rain will reach the western hills tonight. The coast, however, will remain dry until morning.”\n可以记成 hills／tonight／rain；coast／until morning／dry，而不是写“今晚所有地方下雨”。原音数字只代表课程内的预报，不作为现实天气服务。听力音频 · A weather forecast用法与易错clear up天气转晴／某问题澄清The weather should clear up by late afternoon.易错：天气语境是变晴；不要机械理解成打扫。isolated showers局部零星阵雨There may be isolated showers near the hills.易错：isolated 限定分布；不能改述成持续、普遍降雨。throughout the day在整天期间Light rain continued throughout the day.易错：throughout 强调遍及某时间段；不等于 by the end of。make way for让位于／被随后事物替代The morning mist made way for sunshine.易错：made way for sunshine 不表示阳光造成雾。听后练习听原音，填写以下信息表。可以先用中文，不限制词数。\n1. Leeds 今天余下时间及今晚：雷暴，还是毛毛雨／小雨？\n2. 接近 Wales 的一些地方今天可能出现什么？\n3. 播报中本周较高气温给出的具体范围是多少度？\n4. 雨最迟会在什么时候抵达 south coast？\n5. 周末大约多少度？\n6. 改写句子而不扩大范围：A few western villages may have showers.（使用 some 与 might）第 1 题暂时不会第 2 题暂时不会第 3 题暂时不会第 4 题暂时不会第 5 题暂时不会第 6 题暂时不会查看参考与解释1＝毛毛雨／小雨。播报特意把 Leeds 与会有雷暴的地点区分。\n2＝局部雾。是靠近 Wales 的一些地方，不能扩成所有地区全天有雾。\n3＝29–30 度。后文还用较宽泛的高二十多到三十出头概括本周热度；此题问明确报出的范围。\n4＝最迟周六下午。原文 by Saturday afternoon 给出截止时间；不能据此断定恰好在下午抵达。\n5＝约 21 度。比本周较热时段低，但播报仍称温暖。\n6＝Some western villages might have showers. 保留部分地点和可能性。写 All villages will have rain 就同时扩大了范围、提高了确定性。\n错因优先标“地点串行／时间串行／程度变强／数值没听清”。只重听一个最不稳的格子即可。复习选项：简短再用用 3 分钟凭记忆说一条带地点和时间的预报，再用 clear up 与 make way for 各造一句。可以跳过数值复测并进入新资源。 我已读过讲解 加入我的复习我的新表达／本次复习记录（可留空）配套材料· A weather forecast配套原课程 PDF（题目、文字稿及答案）",
+  "links": [
+    {
+      "text": "· A weather forecast",
+      "href": "https://learnenglish.britishcouncil.org/free-resources/listening/b1/weather-forecast"
+    },
+    {
+      "text": "配套原课程 PDF（题目、文字稿及答案）",
+      "href": "%E6%89%A9%E5%B1%95%E8%B5%84%E6%96%99/2026-09-16-resource-audio/c396bd9c-aeff8f08-LearnEnglish-Listening-B1-A-weather-forecast.pdf"
+    }
+  ],
+  "details": [
+    {
+      "id": "check-listening-weather-table",
+      "title": "查看参考与解释",
+      "open": false,
+      "answerGate": "[\"lesson-listening-weather-table-q1\", \"lesson-listening-weather-table-q2\", \"lesson-listening-weather-table-q3\", \"lesson-listening-weather-table-q4\", \"lesson-listening-weather-table-q5\", \"lesson-listening-weather-table-q6\"]",
+      "visible": true
+    },
+    {
+      "id": "",
+      "title": "复习选项：简短再用",
+      "open": false,
+      "visible": true
+    },
+    {
+      "id": "",
+      "title": "配套材料",
+      "open": false,
+      "visible": true
+    }
+  ],
+  "saveFields": [
+    "lesson-listening-weather-table-q1",
+    "lesson-listening-weather-table-q2",
+    "lesson-listening-weather-table-q3",
+    "lesson-listening-weather-table-q4",
+    "lesson-listening-weather-table-q5",
+    "lesson-listening-weather-table-q6",
+    "resource-learned-new-listening-weather-table",
+    "resource-review-new-listening-weather-table",
+    "resource-note-new-listening-weather-table"
+  ],
+  "images": [],
+  "audio": [
+    {
+      "src": "%E6%89%A9%E5%B1%95%E8%B5%84%E6%96%99/2026-09-16-resource-audio/a7e18a16-4c87696e-LE_listening_B1_A_weather_forecast.mp3",
+      "sources": [],
+      "visible": true,
+      "controls": true
+    }
+  ],
+  "viewport": 1440,
+  "documentWidth": 1440
+}

@@ -1,0 +1,237 @@
+{
+  "requested": "material-reading-rd-c21-t3-past-art",
+  "from": [
+    "每日安排目标"
+  ],
+  "actual": "#material-reading-rd-c21-t3-past-art",
+  "checkedAt": "2026-09-21T12:56:11.076Z",
+  "title": "练习 / 阅读 / Rethinking the Past · 艺术年代、研究争议与脑容量 · IELTS",
+  "label": "练习 / 阅读 / Rethinking the Past · 艺术年代、研究争议与脑容量",
+  "panel": "practice-reading",
+  "contentRoot": "reading-case-rd-c21-t3-past-art",
+  "headings": [
+    {
+      "tag": "H3",
+      "text": "对照答案，回到证据",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "原文片段 · 1",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "原文片段 · 2",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "词语与搭配",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "句子精读",
+      "visible": true
+    }
+  ],
+  "controls": [
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "Rethinking the Past · 艺术年代、研究争议与脑容量未作答\n观点判断 YNNG · 2 段 · 292 词 · 6 题 · 同篇原文另有裁切",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "Cambridge IELTS 21 Academic",
+      "label": "",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=69",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "case-rd-c21-t3-past-art-q1",
+      "type": "text",
+      "text": "",
+      "label": "第 35 题作答",
+      "href": null,
+      "save": "case-rd-c21-t3-past-art-q1",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "case-rd-c21-t3-past-art-q2",
+      "type": "text",
+      "text": "",
+      "label": "第 36 题作答",
+      "href": null,
+      "save": "case-rd-c21-t3-past-art-q2",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "case-rd-c21-t3-past-art-q3",
+      "type": "text",
+      "text": "",
+      "label": "第 37 题作答",
+      "href": null,
+      "save": "case-rd-c21-t3-past-art-q3",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "case-rd-c21-t3-past-art-q4",
+      "type": "text",
+      "text": "",
+      "label": "第 38 题作答",
+      "href": null,
+      "save": "case-rd-c21-t3-past-art-q4",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "case-rd-c21-t3-past-art-q5",
+      "type": "text",
+      "text": "",
+      "label": "第 39 题作答",
+      "href": null,
+      "save": "case-rd-c21-t3-past-art-q5",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "case-rd-c21-t3-past-art-q6",
+      "type": "text",
+      "text": "",
+      "label": "第 40 题作答",
+      "href": null,
+      "save": "case-rd-c21-t3-past-art-q6",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "checkbox",
+      "text": "",
+      "label": "",
+      "href": null,
+      "save": "case-rd-c21-t3-past-art-done",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "hidden",
+      "text": "",
+      "label": "",
+      "href": null,
+      "save": "case-rd-c21-t3-past-art-saved-at",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "保留作答，查看答案",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "核对原答案页",
+      "label": "",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=123",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "case-rd-c21-t3-past-art-revision",
+      "type": "textarea",
+      "text": "",
+      "label": "我的修订／证据笔记",
+      "href": null,
+      "save": "case-rd-c21-t3-past-art-revision",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "材料精读 · 内容与词句",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    }
+  ],
+  "visibleText": "Rethinking the Past · 艺术年代、研究争议与脑容量未作答\n观点判断 YNNG · 2 段 · 292 词 · 6 题 · 同篇原文另有裁切\n0% · 0 / 1 完成\n\n真题 · Cambridge IELTS 21 Academic · PDF 第 69, 70 页\n\n按原题号作答。保留考试原文与题目难度；以下是连续原段裁切，未改写原文。\n\n保留原第4–5段；第5段跨PDF69–70页已按原句接合，不增删论证。NG已核对整篇文章。\n\n原文片段 · 1Art also seems to have been invented by older hominins. We have had evidence for a long time now that Neanderthals painted on cave walls. Even earlier species, such as Homo erectus, may also have made art, for example by engraving patterns on shells. By far the most contentious claim in this area is that Homo naledi made art. H. naledi lived around 250,000 years ago, making it a contemporary of our species. However, it had quite a small brain, typical of older hominins - and was therefore, according to palaeoanthropological dogma, incapable of complex behaviours. Nevertheless, in the Rising Star cave system in South Africa where the H. naledi remains were found, researchers have found what seem to be etchings - resembling rudimentary artwork- on the cave walls, though these have yet to be firmly dated.\n\n原文片段 · 2To say these claims about H. naledi are controversial is to understate the situation. Many experts say the evidence presented so far is completely inadequate to support them. The dispute has only been heightened by the way the results were released, in a non-traditional journal that publishes peer reviews publicly alongside the paper. My views on the H. naledi controversy are complicated. I do think more evidence is needed: in particular with regard to the dating of the etchings. At the same time, I think the species' small brains are a distraction. Palaeoanthropologists got fixated on brain size because it was what they could see: if what you have is skeletons, then all you know about brains are their shapes and sizes. But other properties, such as the brain's internal wiring, are surely equally important and may explain how a species like H. naledi might have been capable of complex behaviours, despite their small brains.\n\n35. It seems likely that the Neanderthals' cave paintings were the first examples of artwork ever created.\n\nDo the following statements agree with the views/claims of the writer? Write YES, NO or NOT GIVEN.\n\n第 35 题作答\n\n36. It is very rare to find prehistoric artwork carved onto shells.\n\nDo the following statements agree with the views/claims of the writer? Write YES, NO or NOT GIVEN.\n\n第 36 题作答\n\n37. The methods which the researchers used to examine the Rising Star cave system were rather unconventional.\n\nDo the following statements agree with the views/claims of the writer? Write YES, NO or NOT GIVEN.\n\n第 37 题作答\n\n38. It is unclear how old the etchings in the Rising Star cave system are.\n\nDo the following statements agree with the views/claims of the writer? Write YES, NO or NOT GIVEN.\n\n第 38 题作答\n\n39. The means used to publicise the findings from the Rising Star cave system added to the controversy that surrounds them.\n\nDo the following statements agree with the views/claims of the writer? Write YES, NO or NOT GIVEN.\n\n第 39 题作答\n\n40. The size of H. naledi brains is a key factor in the question of whether these hominins were able to produce art.\n\nDo the following statements agree with the views/claims of the writer? Write YES, NO or NOT GIVEN.\n\n第 40 题作答\n保留作答，查看答案\n\n先作答；不确定的题也可记录判断与疑点。\n\n材料精读 · 内容与词句\n\n作者讨论早期人族艺术的证据及 Homo naledi 争议，既要求刻痕年代得到更可靠确认，也反对只凭脑容量判断复杂行为能力。核心张力是证据需要加强，但评估证据的既有框架本身也值得反思。\n\n原文片段 · 1\nArt also seems to have been invented by older hominins. We have had evidence for a long time now that Neanderthals painted on cave walls. Even earlier species, such as Homo erectus, may also have made art, for example by engraving patterns on shells. By far the most contentious claim in this area is that Homo naledi made art. H. naledi lived around 250,000 years ago, making it a contemporary of our species. However, it had quite a small brain, typical of older hominins - and was therefore, according to palaeoanthropological dogma, incapable of complex behaviours. Nevertheless, in the Rising Star cave system in South Africa where the H. naledi remains were found, researchers have found what seem to be etchings - resembling rudimentary artwork- on the cave walls, though these have yet to be firmly dated.\n\n对不同物种的证据强度并不相同：尼安德特人壁画已有证据，更早物种制作艺术则以 may 表示可能。关于 Homo naledi 的说法争议最大，因为传统观点把小脑容量与无法进行复杂行为联系起来；洞壁刻痕看似艺术，但仍没有确定年代。contemporary 指与现代人这一物种在时间上并存。\n\n原文片段 · 2\nTo say these claims about H. naledi are controversial is to understate the situation. Many experts say the evidence presented so far is completely inadequate to support them. The dispute has only been heightened by the way the results were released, in a non-traditional journal that publishes peer reviews publicly alongside the paper. My views on the H. naledi controversy are complicated. I do think more evidence is needed: in particular with regard to the dating of the etchings. At the same time, I think the species' small brains are a distraction. Palaeoanthropologists got fixated on brain size because it was what they could see: if what you have is skeletons, then all you know about brains are their shapes and sizes. But other properties, such as the brain's internal wiring, are surely equally important and may explain how a species like H. naledi might have been capable of complex behaviours, despite their small brains.\n\n争论既涉及证据是否足够，也受到公开同行评议这一发表方式的影响。作者承认需要更强的年代证据，却认为脑容量争论容易分散注意力：骨骼让研究者容易看到形状和大小，内部连接等重要特征反而难以直接得知。最后提出可能解释，没有宣告已经证实 Homo naledi 会创作艺术。\n\n词语与搭配\nhave yet to be firmly dated\n\n尚未得到可靠断代\n\nhave yet to 表示某事截至叙述时尚未完成；dated 在考古语境中指确定年代。\n\nthe evidence presented so far\n\n迄今提出的证据\n\nso far 将判断限定在目前可获得的材料，保留以后出现新证据的可能。\n\nwith regard to\n\n关于，就……而言\n\n原文把需要更多证据的范围收窄到刻痕年代，而不是笼统否定全部发现。\n\ngot fixated on brain size\n\n过于执着于脑容量\n\nfixated on 带有注意力被单一因素占据的意味，是作者对研究倾向的批评。\n\n句子精读\nPalaeoanthropologists got fixated on brain size because it was what they could see: if what you have is skeletons, then all you know about brains are their shapes and sizes.\n\n古人类学家过于执着于脑容量，因为这是他们能观察到的东西：如果手头只有骨骼，那么对大脑所能知道的也就只有形状和大小。\n\nbecause 解释注意力集中于脑容量的原因。冒号后用 if 条件句展开限制；what you have 作主语，all you know about brains 表示所知的全部内容。这里说的是材料可见性如何影响研究视角。\n\nBut other properties, such as the brain's internal wiring, are surely equally important and may explain how a species like H. naledi might have been capable of complex behaviours, despite their small brains.\n\n但其他特征，例如大脑内部的连接方式，想必也同样重要，并且可能解释像 Homo naledi 这样的物种为何虽脑容量较小，却仍可能具备复杂行为能力。\n\nsuch as 插入具体特征，how 从句作 explain 的宾语。may explain 与 might have been 都保留可能性；despite 引出小脑容量这一看似相反的条件。surely 显示作者的判断语气，不把后面的推测变成定论。\n\n读完讲解，可以把原文连起来再读一次；想保留的词句可使用已有收藏功能。",
+  "allContent": "Rethinking the Past · 艺术年代、研究争议与脑容量未作答观点判断 YNNG · 2 段 · 292 词 · 6 题 · 同篇原文另有裁切0% · 0 / 1 完成真题 · Cambridge IELTS 21 Academic · PDF 第 69, 70 页按原题号作答。保留考试原文与题目难度；以下是连续原段裁切，未改写原文。保留原第4–5段；第5段跨PDF69–70页已按原句接合，不增删论证。NG已核对整篇文章。原文片段 · 1Art also seems to have been invented by older hominins. We have had evidence for a long time now that Neanderthals painted on cave walls. Even earlier species, such as Homo erectus, may also have made art, for example by engraving patterns on shells. By far the most contentious claim in this area is that Homo naledi made art. H. naledi lived around 250,000 years ago, making it a contemporary of our species. However, it had quite a small brain, typical of older hominins - and was therefore, according to palaeoanthropological dogma, incapable of complex behaviours. Nevertheless, in the Rising Star cave system in South Africa where the H. naledi remains were found, researchers have found what seem to be etchings - resembling rudimentary artwork- on the cave walls, though these have yet to be firmly dated.原文片段 · 2To say these claims about H. naledi are controversial is to understate the situation. Many experts say the evidence presented so far is completely inadequate to support them. The dispute has only been heightened by the way the results were released, in a non-traditional journal that publishes peer reviews publicly alongside the paper. My views on the H. naledi controversy are complicated. I do think more evidence is needed: in particular with regard to the dating of the etchings. At the same time, I think the species' small brains are a distraction. Palaeoanthropologists got fixated on brain size because it was what they could see: if what you have is skeletons, then all you know about brains are their shapes and sizes. But other properties, such as the brain's internal wiring, are surely equally important and may explain how a species like H. naledi might have been capable of complex behaviours, despite their small brains.35. It seems likely that the Neanderthals' cave paintings were the first examples of artwork ever created.Do the following statements agree with the views/claims of the writer? Write YES, NO or NOT GIVEN.第 35 题作答36. It is very rare to find prehistoric artwork carved onto shells.Do the following statements agree with the views/claims of the writer? Write YES, NO or NOT GIVEN.第 36 题作答37. The methods which the researchers used to examine the Rising Star cave system were rather unconventional.Do the following statements agree with the views/claims of the writer? Write YES, NO or NOT GIVEN.第 37 题作答38. It is unclear how old the etchings in the Rising Star cave system are.Do the following statements agree with the views/claims of the writer? Write YES, NO or NOT GIVEN.第 38 题作答39. The means used to publicise the findings from the Rising Star cave system added to the controversy that surrounds them.Do the following statements agree with the views/claims of the writer? Write YES, NO or NOT GIVEN.第 39 题作答40. The size of H. naledi brains is a key factor in the question of whether these hominins were able to produce art.Do the following statements agree with the views/claims of the writer? Write YES, NO or NOT GIVEN.第 40 题作答保留作答，查看答案先作答；不确定的题也可记录判断与疑点。对照答案，回到证据第 35 题 · NOEven earlier直接给出更早物种可能作画的证据，反驳尼安德特人必为最早的倾向判断。Even earlier species, such as Homo erectus, may also have made art第 36 题 · NOT GIVEN原文只举贝壳刻纹这一例子，全文没有very rare的频率判断。may also have made art, for example by engraving patterns on shells第 37 题 · NOT GIVENnon-traditional修饰发表结果的期刊，不是考察洞穴的方法；全文未评价实地研究方法是否反常。the way the results were released, in a non-traditional journal第 38 题 · YEShave yet to be firmly dated表示尚未可靠定年，正好支持unclear how old。these have yet to be firmly dated ... more evidence is needed ... dating of the etchings第 39 题 · YESpublicise findings对应results released；added to controversy对应dispute heightened。The dispute has only been heightened by the way the results were released第 40 题 · NO该题问作者观点，不是前人dogma。作者明确把小脑容量称为干扰焦点，不能把先引述的旧教条当作者结论。I think the species' small brains are a distraction ... internal wiring ... equally important核对原答案页我的修订／证据笔记材料精读 · 内容与词句作者讨论早期人族艺术的证据及 Homo naledi 争议，既要求刻痕年代得到更可靠确认，也反对只凭脑容量判断复杂行为能力。核心张力是证据需要加强，但评估证据的既有框架本身也值得反思。原文片段 · 1Art also seems to have been invented by older hominins. We have had evidence for a long time now that Neanderthals painted on cave walls. Even earlier species, such as Homo erectus, may also have made art, for example by engraving patterns on shells. By far the most contentious claim in this area is that Homo naledi made art. H. naledi lived around 250,000 years ago, making it a contemporary of our species. However, it had quite a small brain, typical of older hominins - and was therefore, according to palaeoanthropological dogma, incapable of complex behaviours. Nevertheless, in the Rising Star cave system in South Africa where the H. naledi remains were found, researchers have found what seem to be etchings - resembling rudimentary artwork- on the cave walls, though these have yet to be firmly dated.对不同物种的证据强度并不相同：尼安德特人壁画已有证据，更早物种制作艺术则以 may 表示可能。关于 Homo naledi 的说法争议最大，因为传统观点把小脑容量与无法进行复杂行为联系起来；洞壁刻痕看似艺术，但仍没有确定年代。contemporary 指与现代人这一物种在时间上并存。原文片段 · 2To say these claims about H. naledi are controversial is to understate the situation. Many experts say the evidence presented so far is completely inadequate to support them. The dispute has only been heightened by the way the results were released, in a non-traditional journal that publishes peer reviews publicly alongside the paper. My views on the H. naledi controversy are complicated. I do think more evidence is needed: in particular with regard to the dating of the etchings. At the same time, I think the species' small brains are a distraction. Palaeoanthropologists got fixated on brain size because it was what they could see: if what you have is skeletons, then all you know about brains are their shapes and sizes. But other properties, such as the brain's internal wiring, are surely equally important and may explain how a species like H. naledi might have been capable of complex behaviours, despite their small brains.争论既涉及证据是否足够，也受到公开同行评议这一发表方式的影响。作者承认需要更强的年代证据，却认为脑容量争论容易分散注意力：骨骼让研究者容易看到形状和大小，内部连接等重要特征反而难以直接得知。最后提出可能解释，没有宣告已经证实 Homo naledi 会创作艺术。词语与搭配have yet to be firmly dated尚未得到可靠断代have yet to 表示某事截至叙述时尚未完成；dated 在考古语境中指确定年代。the evidence presented so far迄今提出的证据so far 将判断限定在目前可获得的材料，保留以后出现新证据的可能。with regard to关于，就……而言原文把需要更多证据的范围收窄到刻痕年代，而不是笼统否定全部发现。got fixated on brain size过于执着于脑容量fixated on 带有注意力被单一因素占据的意味，是作者对研究倾向的批评。句子精读Palaeoanthropologists got fixated on brain size because it was what they could see: if what you have is skeletons, then all you know about brains are their shapes and sizes.古人类学家过于执着于脑容量，因为这是他们能观察到的东西：如果手头只有骨骼，那么对大脑所能知道的也就只有形状和大小。because 解释注意力集中于脑容量的原因。冒号后用 if 条件句展开限制；what you have 作主语，all you know about brains 表示所知的全部内容。这里说的是材料可见性如何影响研究视角。But other properties, such as the brain's internal wiring, are surely equally important and may explain how a species like H. naledi might have been capable of complex behaviours, despite their small brains.但其他特征，例如大脑内部的连接方式，想必也同样重要，并且可能解释像 Homo naledi 这样的物种为何虽脑容量较小，却仍可能具备复杂行为能力。such as 插入具体特征，how 从句作 explain 的宾语。may explain 与 might have been 都保留可能性；despite 引出小脑容量这一看似相反的条件。surely 显示作者的判断语气，不把后面的推测变成定论。读完讲解，可以把原文连起来再读一次；想保留的词句可使用已有收藏功能。",
+  "links": [
+    {
+      "text": "Cambridge IELTS 21 Academic",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=69"
+    },
+    {
+      "text": "核对原答案页",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=123"
+    }
+  ],
+  "details": [
+    {
+      "id": "material-reading-rd-c21-t3-past-art",
+      "title": "材料精读 · 内容与词句",
+      "open": true,
+      "visible": true
+    }
+  ],
+  "saveFields": [
+    "case-rd-c21-t3-past-art-q1",
+    "case-rd-c21-t3-past-art-q2",
+    "case-rd-c21-t3-past-art-q3",
+    "case-rd-c21-t3-past-art-q4",
+    "case-rd-c21-t3-past-art-q5",
+    "case-rd-c21-t3-past-art-q6",
+    "case-rd-c21-t3-past-art-done",
+    "case-rd-c21-t3-past-art-saved-at",
+    "case-rd-c21-t3-past-art-revision"
+  ],
+  "images": [],
+  "audio": [],
+  "viewport": 1440,
+  "documentWidth": 1440
+}

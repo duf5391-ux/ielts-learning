@@ -1,0 +1,151 @@
+{
+  "requested": "writing2-case-wc-bc-graduates",
+  "from": [
+    "内容单元",
+    "页面链接"
+  ],
+  "actual": "#writing2-case-wc-bc-graduates",
+  "checkedAt": "2026-09-21T12:52:55.907Z",
+  "title": "练习 / 写作 · Task 2 / 高学历毕业生失业：原因和措施一一对应 · IELTS",
+  "label": "练习 / 写作 · Task 2 / 高学历毕业生失业：原因和措施一一对应",
+  "panel": "practice-writing2",
+  "contentRoot": "writing2-case-wc-bc-graduates",
+  "headings": [
+    {
+      "tag": "H4",
+      "text": "本次写作任务",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "对照答案，回到证据",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "参考写法",
+      "visible": false
+    },
+    {
+      "tag": "H3",
+      "text": "答后精读",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "篇章结构",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "词语与搭配",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "句子精读",
+      "visible": false
+    }
+  ],
+  "controls": [
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "高学历毕业生失业：原因和措施一一对应未作答\n原因与措施 · 原题拆段写作 · 参考段落与逐段讲解",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "British Council — Writing Task 2: Developing paragraphs",
+      "label": "",
+      "href": "原始参考/9464a2d7-5bfdf909-writing_task_2_developing_paragraphs.pdf#page=10",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "case-wc-bc-graduates-answer",
+      "type": "textarea",
+      "text": "",
+      "label": "我的段落",
+      "href": null,
+      "save": "case-wc-bc-graduates-answer",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "checkbox",
+      "text": "",
+      "label": "",
+      "href": null,
+      "save": "case-wc-bc-graduates-done",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "hidden",
+      "text": "",
+      "label": "",
+      "href": null,
+      "save": "case-wc-bc-graduates-saved-at",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "保留作答，查看答案",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "case-wc-bc-graduates-revision",
+      "type": "textarea",
+      "text": "",
+      "label": "我的修订／证据笔记",
+      "href": null,
+      "save": "case-wc-bc-graduates-revision",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    }
+  ],
+  "visibleText": "高学历毕业生失业：原因和措施一一对应未作答\n原因与措施 · 原题拆段写作 · 参考段落与逐段讲解\n0% · 0 / 1 完成\n\n官方教辅 · British Council — Writing Task 2: Developing paragraphs · PDF 第 10 页\n\nIn many countries today there are many highly qualified graduates without employment. What factors may have caused this situation and what, in your opinion, can/should be done about it?\n\n本次写作任务\n\n写两个主体段，约180–220词：第一段构造两个具体原因，第二段让措施分别对应。原题来自官方IELTS教学材料，保持考试任务，不降低难度；不照抄教辅的示范立场。\n\n我的段落\n\n0 词\n\n保留作答，查看答案\n\n先作答；不确定的题也可记录判断与疑点。",
+  "allContent": "高学历毕业生失业：原因和措施一一对应未作答原因与措施 · 原题拆段写作 · 参考段落与逐段讲解0% · 0 / 1 完成官方教辅 · British Council — Writing Task 2: Developing paragraphs · PDF 第 10 页In many countries today there are many highly qualified graduates without employment. What factors may have caused this situation and what, in your opinion, can/should be done about it?本次写作任务写两个主体段，约180–220词：第一段构造两个具体原因，第二段让措施分别对应。原题来自官方IELTS教学材料，保持考试任务，不降低难度；不照抄教辅的示范立场。我的段落0 词保留作答，查看答案先作答；不确定的题也可记录判断与疑点。对照答案，回到证据参考写法下列段落为针对原题编写的参考写法，用于对照内容和表达；写作没有唯一标准答案。One reason qualified graduates may struggle to find employment is a mismatch between their education and the requirements of available jobs. A degree can provide substantial theoretical knowledge without giving students enough experience of applying it in a workplace. Employers may consequently hesitate to recruit applicants who need extensive practical training. A second difficulty arises when many students enter the same popular fields while local vacancies are concentrated elsewhere. In that situation, even capable candidates can compete for a limited number of positions, and the possession of a qualification alone does not create demand for their skills.Universities and employers should address the first problem through relevant placements and jointly designed practical projects. These would allow students to demonstrate their abilities and help firms assess potential recruits before offering permanent work. To reduce the second mismatch, students need clearer information about employment patterns and opportunities beyond the most familiar occupations. Careers services could support applications across related industries, while flexible retraining programmes could help graduates acquire additional skills. These measures cannot guarantee a job for every individual, but they respond directly to the gaps in experience and information rather than simply encouraging everyone to obtain another degree.真实题干来自BC教辅第10页；参考论证是重新编写并标明，不冒充官方范文。原因1缺应用经验→实习/实际项目；原因2热门专业与空缺错配→就业信息/跨行业申请/补充培训。最后承认措施边界，避免“政府增加工作岗位”这种无机制口号。答后精读篇章结构两个原因分别说明为什么学历不自动转化为就业。依次给出对应措施、作用机制和可实现边界。词语与搭配a mismatch between ... and ...：明确错配双方。demonstrate their abilities：解释实习为何帮助招聘。respond directly to the gaps ...：回扣原因而不是另起政策话题。句子精读In that situation, even capable candidates can compete for a limited number of positions ... → even强调个人能力不足不是唯一原因。These measures cannot guarantee ... but they respond ... → 承认边界仍支持措施相关性。我的修订／证据笔记",
+  "links": [
+    {
+      "text": "British Council — Writing Task 2: Developing paragraphs",
+      "href": "原始参考/9464a2d7-5bfdf909-writing_task_2_developing_paragraphs.pdf#page=10"
+    }
+  ],
+  "details": [],
+  "saveFields": [
+    "case-wc-bc-graduates-answer",
+    "case-wc-bc-graduates-done",
+    "case-wc-bc-graduates-saved-at",
+    "case-wc-bc-graduates-revision"
+  ],
+  "images": [],
+  "audio": [],
+  "viewport": 1440,
+  "documentWidth": 1440
+}

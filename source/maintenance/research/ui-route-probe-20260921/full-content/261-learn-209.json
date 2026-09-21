@@ -1,0 +1,57 @@
+{
+  "requested": "learn-209",
+  "from": [
+    "内容单元"
+  ],
+  "actual": "#learn-209",
+  "checkedAt": "2026-09-21T12:53:47.396Z",
+  "title": "学习 / 词汇 / technology · IELTS",
+  "label": "学习 / 词汇 / technology",
+  "panel": "vocabulary",
+  "contentRoot": "learn-209",
+  "headings": [
+    {
+      "tag": "H3",
+      "text": "technology",
+      "visible": true
+    }
+  ],
+  "controls": [
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "checkbox",
+      "text": "",
+      "label": "收藏 technology",
+      "href": null,
+      "save": "vocab-saved-word-technology",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "checkbox",
+      "text": "",
+      "label": "我已看过本单元",
+      "href": null,
+      "save": "learning-read-learn-209",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    }
+  ],
+  "visibleText": "0% · 0 / 1 完成\n☆\ntechnology\n\n技术；技术手段\n\ndigital technology / adopt new technology\n\nNew technology is useful only if people can learn to use it effectively.\n\n新技术只有在人们能够有效使用时才能发挥作用。\n\ntechnology 常作概括性不可数名词；具体多种技术才可能用 technologies。\n\n我已看过本单元",
+  "allContent": "0% · 0 / 1 完成☆technology技术；技术手段digital technology / adopt new technologyNew technology is useful only if people can learn to use it effectively.新技术只有在人们能够有效使用时才能发挥作用。technology 常作概括性不可数名词；具体多种技术才可能用 technologies。 我已看过本单元",
+  "links": [],
+  "details": [],
+  "saveFields": [
+    "vocab-saved-word-technology",
+    "learning-read-learn-209"
+  ],
+  "images": [],
+  "audio": [],
+  "viewport": 1440,
+  "documentWidth": 1440
+}

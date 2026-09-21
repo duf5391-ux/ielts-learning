@@ -1,0 +1,168 @@
+{
+  "id": "pr-jijing-202609-reading-01-v1",
+  "title": "罐头食品简史 · A Brief History Of Canned Food",
+  "skill": "reading",
+  "part": "Passage 1",
+  "sourceUrl": "https://ieltsactualtests.com/zh/reading/2026-sep-hf-1",
+  "sourceNature": "Ieltsa标为2026年9月的考生回忆及材料收集整理；非官方IELTS资料，不能据此认定为官方原题。具体考场、考试日期与原卷完整性未核实。本unit从该站第一篇Passage 1抽取并整理为独立13题练习；答后精读与中文解析由助手编写。",
+  "minutes": 20,
+  "contextParagraphs": [
+    "In 1795, the French government had a problem: they faced the fact that it is not easy to win battles abroad when your soldiers are hungry and malnourished. That year they established a 12,000-franc prize for whoever could find a way to preserve food – from milk and meat to fruits and vegetables. French chef Nicolas Appert took more than a decade to develop a process that involved cooking food in glass jars and then using seals made of cork to make them airtight. In 1810, he published a book whose title translates as “The art of preserving all animal and vegetable substances for several years”, and collected his prize money. Appert’s achievement didn’t escape the notice of British merchant and inventor Peter Durand, who applied for a British patent later that year. Durand used techniques similar to Appert’s, although he adapted the model to include the use of tin vessels as well as glass jars.",
+    "Following these discoveries, canned food was initially produced for soldiers and explorers. But even after people became aware of the existence of bacteria in the late 19th century, canning companies couldn’t work out exactly why some of their tins turned bad. And even into the 20th century, newspapers were full of accounts not only of food poisoning but also of cases of the fatal disease botulism resulting from people eating canned food. For that reason, many continued to look upon canned food with suspicion and fear.",
+    "The US food manufacturer, The Heinz Company, realized bad cans were bad for business. From the 1890s to 1920s, the company insisted on weekly manicures for its canning-factory workers to ensure that any bacteria beneath employees’ fingernails stayed out of the food. Heinz employees were required to shower and change their clothing regularly. In an era when food-factory hygiene was not universally adopted, what might have been considered a nuisance by workers was at least good for consumers.",
+    "Some canning companies killed bacteria with chemical additives such as sodium benzoate, which is still used today in canned food, and formaldehydes, which are now known to cause cancer. Some of the larger canning companies, such as Heinz, Libby, and Campbell’s, installed expensive steam-retort technology developed in the 1870s. Steam retorts worked like steam engines, using pressure to raise canning temperatures high enough to make food safe. Yet some batches of cans, even when made with this advanced technique, would explode after months on the shelf, while the contents of other cans might mysteriously sour. Smaller canning manufacturers relied on the open kettle method and they had even less consistent results.",
+    "US canning companies eventually banded together to discover the scientific principles affecting the canning process. In 1913, they launched the Research Laboratory of the National Canners Association in order to look into the elusive bacteriology responsible for all manner of spoiled canned food. The research done by the laboratory in the decades that followed helped resolve the problem of spoiled food and led to improved flavor, color, nutritional value, and texture.",
+    "Before this time, canning companies had discovered through trial and error that the best way to avoid bad cans was to cook food at high temperatures for long periods, an approach that sacrificed flavor. “Food safety and palatability were often at cross-purposes,” remarks food historian Gabriella Petrick. For string beans, for instance, long cooking times in hot water leach out the green color, creating an unattractive grayish-toned bean. The addition of salt was one technique employed in the early 20th century to prevent this happening, thereby maintaining the visual appeal of the product and restoring a certain amount of taste.",
+    "One of the major canning innovations of the 20th century was the development of aseptic processing. This technique, which involves sterilizing the container separately from the food, was invented in Switzerland in the 1960s for processing milk, but is now used widely for canned tomatoes and many juices. Small volumes of food are heated to a precise temperature and for a precise time in order to avoid overcooking and preserve color and nutrients, explains food scientist Philip Nelson, who won the 2007 World Food Prize in recognition of his research on making aseptic processing workable on a large industrial scale.",
+    "Today, despite all the modern alternatives, Appert’s technology still reigns supreme for long-term storage. More than two centuries on, the simple can is still the best solution for the safe and effective preservation of a wide range of foodstuffs worldwide.",
+    "open kettle method: food is cooked in a covered container and then poured while hot into sterile jars."
+  ],
+  "instructions": "阅读本文后完成13题。第1–8题按原文词填写空格；这是补充练习说明，原卷统一作答说明及字数限制未核实。第9–13题选择TRUE（与原文一致）、FALSE（与原文矛盾）或NOT GIVEN（原文未提供相关信息）。完成后可在同一材料查看答案和答后精读。",
+  "questions": [
+    {
+      "id": "q1",
+      "prompt": "French government needs supply of preserved food to feed the nation’s ____."
+    },
+    {
+      "id": "q2",
+      "prompt": "Appert preserves food in glass jars – using ____."
+    },
+    {
+      "id": "q3",
+      "prompt": "Durand adapts Appert’s process for containers made of ____."
+    },
+    {
+      "id": "q4",
+      "prompt": "Development of steam-retort technology in which ____ helps achieve high temperature."
+    },
+    {
+      "id": "q5",
+      "prompt": "Heinz company introduces regulations to reduce risk of ____ entering the product."
+    },
+    {
+      "id": "q6",
+      "prompt": "Companies from across the US set up an organisation for the purpose of ____."
+    },
+    {
+      "id": "q7",
+      "prompt": "Technology developed for use with ____ is adapted for the sterilisation of cans."
+    },
+    {
+      "id": "q8",
+      "prompt": "____ was used in 20th century to avoid loss of colour during cooking process."
+    },
+    {
+      "id": "q9",
+      "prompt": "Peter Durand based his food preservation methods on a process that had recently won a cash prize from the French government.",
+      "options": [
+        "TRUE",
+        "FALSE",
+        "NOT GIVEN"
+      ]
+    },
+    {
+      "id": "q10",
+      "prompt": "The first canned food products were aimed at the general public.",
+      "options": [
+        "TRUE",
+        "FALSE",
+        "NOT GIVEN"
+      ]
+    },
+    {
+      "id": "q11",
+      "prompt": "Canned food producers often denied responsibility for cases of food poisoning.",
+      "options": [
+        "TRUE",
+        "FALSE",
+        "NOT GIVEN"
+      ]
+    },
+    {
+      "id": "q12",
+      "prompt": "The Heinz Company’s regulations regarding employees’ personal hygiene led to an increase in sales of their products.",
+      "options": [
+        "TRUE",
+        "FALSE",
+        "NOT GIVEN"
+      ]
+    },
+    {
+      "id": "q13",
+      "prompt": "The use of chemical additives was abandoned following the adoption of steam techniques.",
+      "options": [
+        "TRUE",
+        "FALSE",
+        "NOT GIVEN"
+      ]
+    }
+  ],
+  "answers": [
+    {
+      "id": "q1",
+      "answer": "soldiers",
+      "explanation": "第1段：法国政府希望解决士兵在外作战时饥饿和营养不良的问题，所以这里指士兵。"
+    },
+    {
+      "id": "q2",
+      "answer": "cork",
+      "explanation": "第1段：Appert用玻璃罐装食物，再以软木制作密封件，使容器不透气。"
+    },
+    {
+      "id": "q3",
+      "answer": "tin",
+      "explanation": "第1段末：Durand沿用并扩展Appert的方法，将锡制容器也纳入使用。"
+    },
+    {
+      "id": "q4",
+      "answer": "pressure",
+      "explanation": "第4段：蒸汽加压杀菌设备通过压力提高罐装处理温度。"
+    },
+    {
+      "id": "q5",
+      "answer": "bacteria",
+      "explanation": "第3段：指甲清洁、洗澡和更衣等要求，是为防止细菌进入食品。"
+    },
+    {
+      "id": "q6",
+      "answer": "research",
+      "explanation": "第5段：厂家联合设立研究实验室，研究导致食品腐败的细菌及加工原理。"
+    },
+    {
+      "id": "q7",
+      "answer": "milk",
+      "explanation": "第7段：无菌加工最初用于处理牛奶，后来扩展到番茄罐头和果汁。它的关键是将容器与食物分别杀菌。"
+    },
+    {
+      "id": "q8",
+      "answer": "salt",
+      "explanation": "第6段：盐被用于减轻烹煮时的褪色，维持食品外观，并恢复一定味道。"
+    },
+    {
+      "id": "q9",
+      "answer": "TRUE",
+      "explanation": "第1段支持此说法：Appert于1810年领奖；Durand注意到其成果，并于同年申请专利，采用相似技术。"
+    },
+    {
+      "id": "q10",
+      "answer": "FALSE",
+      "explanation": "第2段说最初的罐头供应士兵和探险者，与面向普通大众的说法相反。"
+    },
+    {
+      "id": "q11",
+      "answer": "NOT GIVEN",
+      "explanation": "文章谈到食品中毒报道与公众疑虑，但没有交代厂商是否否认责任。"
+    },
+    {
+      "id": "q12",
+      "answer": "NOT GIVEN",
+      "explanation": "第3段说卫生要求对消费者有益，没有提供这些规定是否带来销量增长的信息。"
+    },
+    {
+      "id": "q13",
+      "answer": "FALSE",
+      "explanation": "第4段说苯甲酸钠至今仍被用于罐头，因此不能说采用蒸汽技术之后就放弃了化学添加剂。"
+    }
+  ],
+  "closeReadingHtml": "<h3>这篇文章真正讲的是怎样的变化</h3>\n<p>罐头的历史不是“发明了密封罐，就从此安全”的直线进步。全文依次处理三个问题：怎样让食物放得久，怎样让它安全，以及怎样在保证安全时保住味道、颜色和营养。</p>\n<p>回到第1段，战争中的补给需求促成了保存技术：Appert用玻璃罐与软木密封；Durand再把容器材料扩展到锡罐。两人的关系是继承后改进，不能读成各自独立发明了同一种方法。</p>\n<p>第2—5段的重心转到安全。人们知道细菌存在，并不等于已经知道怎样稳定控制每一批罐头的质量。工人卫生、化学添加剂、高温高压设备解决的是不同环节；即使装了先进设备，仍有罐头变质。因此，厂商后来联合建立实验室，研究究竟是什么导致腐败。注意：文章说卫生规定对消费者有益，没有说销售额因此增加。</p>\n<p>第6—7段进一步追问：安全了，是否还好吃？长时间高温处理能降低变质风险，却会损害风味和颜色。无菌加工的改进是把食物与容器分开杀菌，并精确控制食物受热的量、温度和时长。第8段由此回到开头：保存技术持续改进，而罐头这一基本方案仍然重要。</p>\n<h3>从文中带走的词块</h3>\n<ul><li><strong>preserve</strong>：在本篇指保存食物、延长可储存时间；不只等于把东西放进冰箱。</li><li><strong>airtight</strong>：不透气的，描述密封后的状态。第1段的软木承担密封作用。</li><li><strong>look upon</strong>：把某事看作、以某种态度看待。第2段接的是人们对罐头的怀疑与恐惧。</li><li><strong>trial and error</strong>：反复尝试，失败后再调整。第6段强调系统研究之前，厂家靠试错摸索办法。</li><li><strong>at cross-purposes</strong>：方向相冲突。放在本篇，指保证安全的处理可能损害可口程度，不是说两个人在争吵。</li><li><strong>leach out</strong>：因液体作用而浸出。第6段用它解释久煮为什么让豆类失去绿色。</li><li><strong>in recognition of</strong>：作为对某项贡献的认可。第7段讲获奖理由，认可的是把技术变成可大规模应用的工艺。</li></ul>\n<h3>两处长句，读懂关系再回到原文</h3>\n<p><strong>第3段末句：时代背景 → 工人的感受 → 消费者的收益。</strong> 句首先限定背景：那时食品工厂并非普遍执行卫生规范。主语是一个整体，指“可能被工人视为麻烦的那些要求”；后面才给出作者的判断：这些要求至少对消费者有利。“至少”保留了工人可能觉得麻烦的视角；作者没有据此声称每个相关者都获益，也没有补出销售数据。</p>\n<p><strong>第6段首句：经验结论 → 具体办法 → 代价。</strong> 主干是厂家通过试错发现了一个办法。接下来的内容说明这个办法是长时间高温烹煮。逗号后的补充再评价整个办法：它牺牲了味道。最后的修饰指向整种处理方式，不只指前面某一个温度或某一段时间。</p>\n<h3>指代与转折怎样把篇章连起来</h3>\n<ul><li>第2段开头“这些发现”承接第1段的保存方法及容器改进；后面的“因此”则承接中毒和疾病报道，解释公众为什么害怕。</li><li>第4段讲先进设备后出现转折：技术先进仍未保证所有批次安全。接着写小厂更不稳定，把下一段联合研究的必要性铺出来。</li><li>第6段“在此之前”回指上一段描述的实验室研究阶段；它不是把叙事突然拉回1795年。</li><li>第7段“这种技术”承接无菌加工。核心关系是食物与容器分别杀菌；不要把它误读成只把空罐加热。</li></ul>\n<p>读完后回到同一篇原文，再看第4、6、7段：同样是加热，为什么会先解决一个问题，又产生另一个问题？本文给出的解释就是安全、风味与加工控制之间的关系。这里不要求额外测试或写笔记；想以后再看，可收藏自己需要的词句。</p>"
+}

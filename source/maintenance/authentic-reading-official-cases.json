@@ -1,0 +1,868 @@
+{
+  "date": "2026-09-19",
+  "cases": [
+    {
+      "id": "rd-official-miles-1",
+      "skill": "reading",
+      "title": "Miles Davis：独特音色、双重教育与音乐遗产",
+      "source": {
+        "id": "1aebaeefcff3",
+        "title": "British Council · Academic Practice Test 2 · Miles Davis · Q14–19",
+        "originalUnit": "British Council · Academic Practice Test 2 · Miles Davis · Q14–19",
+        "path": "原始参考/b09e5747-miles-student.pdf",
+        "page": [
+          1,
+          2
+        ],
+        "answerPage": 2,
+        "answerPath": "原始参考/e885c438-miles-teacher-feedback.pdf",
+        "kind": "官方样题"
+      },
+      "questionTypes": [
+        "matching-headings"
+      ],
+      "instructions": "Choose the correct heading for each paragraph from the list of headings. Write the correct Roman numeral, i–ix. 本组保留原题号；同一标题不可重复使用。",
+      "paragraphs": [
+        {
+          "label": "A",
+          "text": "At the age of thirteen, Miles Davis was given his first trumpet, lessons were arranged with a local trumpet player, and a musical odyssey began. These early lessons, paid for and supported by his father, had a profound effect on shaping Davis’ signature sound. Whereas most trumpeters of the era favoured the use of vibrato (a wobbly quiver in pitch inflected in the instrument’s tone), Davis was taught to play with a long, straight tone, a preference his instructor reportedly drilled into the young trumpeter with a rap on the knuckles every time Davis began using vibrato. This clear, distinctive style never left Davis. He continued playing with it for the rest of his career, once remarking, ‘If I can’t get that sound, I can’t play anything.’"
+        },
+        {
+          "label": "B",
+          "text": "Having graduated from high school in 1944, Davis moved to New York City, where he continued his musical education both in the clubs and in the classroom. His enrolment in the prestigious Julliard School of Music was short-lived, however – he soon dropped out, criticising what he perceived as an over-emphasis on the classical European repertoire and a neglect of jazz. Davis did later acknowledge, however, that this time at the school was invaluable in terms of developing his trumpet-playing technique and giving him a solid grounding in music theory. Much of his early training took place in the form of jam sessions and performances in the clubs of 52nd Street, where he played alongside both up- and-coming and established members of the jazz pantheon such as Coleman Hawkins, Eddie ‘Lockjaw’ Davis, and Thelonious Monk."
+        },
+        {
+          "label": "C",
+          "text": "In the late 1940s, Davis collaborated with nine other instrumentalists, including a French horn and a tuba player, to produce The Birth of Cool, an album now renowned for the inchoate sounds of what would later become known as ‘cool’ jazz. In contrast to popular jazz styles of the day, which featured rapid, rollicking beats, shrieking vocals, and short, sharp horn blasts, Davis’ album was the forerunner of a different kind of sound – thin, light horn-playing, hushed drums and a more restrained, formal arrangement. Although it received little acclaim at the time (the liner notes to one of Davis’ later recordings call it a ‘spectacular failure’), in hindsight The Birth of Cool has become recognised as a pivotal moment in jazz history, cementing – alongside his 1958 recording, Kind of Blue – Davis’ legacy as one of the most innovative musicians of his era."
+        }
+      ],
+      "questions": [
+        {
+          "number": 14,
+          "prompt": "Paragraph A",
+          "answer": "viii",
+          "evidence": "These early lessons, paid for and supported by his father, had a profound effect on shaping Davis’ signature sound.",
+          "explanation": "父亲和13岁是背景，核心是独特的straight tone及其终身保留，故v childhood太宽且偏离主旨。",
+          "options": {
+            "i": "A legacy is established",
+            "ii": "Formal education unhelpful",
+            "iii": "An education in two parts",
+            "iv": "Branching out in new directions",
+            "v": "Childhood and family life",
+            "vi": "Change necessary to stay creative",
+            "vii": "Conflicted opinions over Davis’ earlier work",
+            "viii": "Davis’ unique style of trumpet playing",
+            "ix": "Personal and professional struggles"
+          }
+        },
+        {
+          "number": 15,
+          "prompt": "Paragraph B",
+          "answer": "iii",
+          "evidence": "he continued his musical education both in the clubs and in the classroom.",
+          "explanation": "课堂与俱乐部是两部分。虽然退学并批评学校，后来仍承认理论与技巧训练有价值，不能选ii。",
+          "options": {
+            "i": "A legacy is established",
+            "ii": "Formal education unhelpful",
+            "iii": "An education in two parts",
+            "iv": "Branching out in new directions",
+            "v": "Childhood and family life",
+            "vi": "Change necessary to stay creative",
+            "vii": "Conflicted opinions over Davis’ earlier work",
+            "viii": "Davis’ unique style of trumpet playing",
+            "ix": "Personal and professional struggles"
+          }
+        },
+        {
+          "number": 16,
+          "prompt": "Paragraph C",
+          "answer": "i",
+          "evidence": "Davis’ legacy as one of the most innovative musicians of his era.",
+          "explanation": "先写创新风格，再写当时失败、后来历史认可，段落落点是确立legacy，不是只谈当时意见分歧。",
+          "options": {
+            "i": "A legacy is established",
+            "ii": "Formal education unhelpful",
+            "iii": "An education in two parts",
+            "iv": "Branching out in new directions",
+            "v": "Childhood and family life",
+            "vi": "Change necessary to stay creative",
+            "vii": "Conflicted opinions over Davis’ earlier work",
+            "viii": "Davis’ unique style of trumpet playing",
+            "ix": "Personal and professional struggles"
+          }
+        }
+      ],
+      "intensive": {
+        "structure": [
+          "这三段沿着音色形成、学习经历和录音创作展开，解释戴维斯的独特风格怎样产生，以及一部当时反响冷淡的作品如何在后来获得历史地位。个人风格、不同学习环境与作品接受史是相互关联的三条线。",
+          "A：A段从十三岁获得小号写起。父亲资助的课程塑造了他的标志性音色：当时许多演奏者偏爱颤音，他的老师却训练他保持悠长、平直的音。后来的自述表明，这种音色成为他认同自身演奏的基础。原文描述老师敲打指关节的做法，是人物经历，不是认可这种教学方式。",
+          "B：B段把音乐教育分为学校课堂和俱乐部两种环境。戴维斯不满学校偏重欧洲古典曲目、忽视爵士，因而退学；但他后来仍肯定学校对小号技巧和乐理基础的帮助。与新秀和成名乐手同台的经历，则提供了课堂之外的实践。两种学习来源并非互相排斥。",
+          "C：C段将前面的个人风格推进到合作录音。他与其他乐器演奏者创造了较轻、克制、编排更正式的声音，与当时流行的急促节拍和强烈音响形成对照。作品当时缺少赞誉，后来却被视为爵士史的重要转折。in hindsight明确区分当时反响与后来的评价。"
+        ],
+        "phrases": [
+          {
+            "phrase": "had a profound effect on",
+            "meaning": "对……产生深远影响",
+            "explanation": "have an effect on后接受到影响的人、事或过程；profound强调影响深而持久，此处具体指早期课程塑造音色。"
+          },
+          {
+            "phrase": "a solid grounding in music theory",
+            "meaning": "扎实的乐理基础",
+            "explanation": "grounding表示作为后续学习或实践基础的知识训练，常与in搭配；不是地面或被禁足的意思。"
+          },
+          {
+            "phrase": "In contrast to",
+            "meaning": "与……形成对照",
+            "explanation": "后接名词性成分，此处引出当时流行爵士与新录音在声音上的差异，不表示其中一方天然更好。"
+          },
+          {
+            "phrase": "in hindsight",
+            "meaning": "事后回看；从后来的认识看",
+            "explanation": "用于区分经历发生时与后来回顾时的理解；不能把后来获得的评价写成当时已经普遍接受。"
+          }
+        ],
+        "sentences": [
+          {
+            "text": "Whereas most trumpeters of the era favoured the use of vibrato (a wobbly quiver in pitch inflected in the instrument’s tone), Davis was taught to play with a long, straight tone, a preference his instructor reportedly drilled into the young trumpeter with a rap on the knuckles every time Davis began using vibrato.",
+            "translation": "当时大多数小号演奏者喜欢运用颤音，即乐器音色中音高的颤动；戴维斯却被教导使用悠长、平直的音。据说，每当他开始使用颤音时，老师就敲一下他的指关节，以此把这种偏好灌输给他。",
+            "explanation": "Whereas引出对照；括号解释vibrato。a preference补充说明前面的演奏取向，his instructor reportedly drilled into...说明训练方式；reportedly表明这一细节来自转述。every time引出每次发生的情形。"
+          },
+          {
+            "text": "Davis did later acknowledge, however, that this time at the school was invaluable in terms of developing his trumpet-playing technique and giving him a solid grounding in music theory.",
+            "translation": "不过，戴维斯后来确实承认，在这所学校的经历对发展他的小号演奏技巧、打下扎实的乐理基础非常宝贵。",
+            "explanation": "did强调他确实作过这一肯定；that引出承认的内容。in terms of后面developing和giving并列，指出两方面价值。this time指在学校学习的这段经历，不能因他退学就把学校贡献一并否定。"
+          }
+        ]
+      },
+      "wordCount": 403,
+      "status": "达标",
+      "verified": {
+        "source": "完整原材料、原题和答案页已逐项读取",
+        "answer": "答案与原件核对；证据取自展示片段"
+      },
+      "materialReadingRef": "rd-official-miles-1"
+    },
+    {
+      "id": "rd-official-miles-2",
+      "skill": "reading",
+      "title": "Miles Davis：困境、跨界与创造力",
+      "source": {
+        "id": "1aebaeefcff3",
+        "title": "British Council · Academic Practice Test 2 · Miles Davis · Q14–19",
+        "originalUnit": "British Council · Academic Practice Test 2 · Miles Davis · Q14–19",
+        "path": "原始参考/b09e5747-miles-student.pdf",
+        "page": [
+          1,
+          2
+        ],
+        "answerPage": 2,
+        "answerPath": "原始参考/e885c438-miles-teacher-feedback.pdf",
+        "kind": "官方样题"
+      },
+      "questionTypes": [
+        "matching-headings"
+      ],
+      "instructions": "Choose the correct heading for each paragraph from the list of headings. Write the correct Roman numeral, i–ix. 本组保留原题号；同一标题不可重复使用。",
+      "paragraphs": [
+        {
+          "label": "D",
+          "text": "Though Davis’ trumpet playing may have sounded effortless and breezy, this ease rarely carried over into the rest of his life. The early 1950s, in particular, were a time of great personal turmoil. After returning from a stint in Paris, Davis suffered from prolonged depression, which he attributed to the unravelling of a number of relationships, including his romance with a French actress and some musical partnerships that ruptured as a result of creative disputes. Davis was also frustrated by his perception that he had been overlooked by the music critics, who were hailing the success of his collaborators and descendants in the ‘cool’ tradition, such as Gerry Mulligan and Dave Brubeck, but who afforded him little credit for introducing the cool sound in the first place."
+        },
+        {
+          "label": "E",
+          "text": "In the latter decades of his career, Davis broke out of exclusive jazz settings and began to diversify his output across a range of musical styles. In the 1960s, he was influenced by early funk performers such as Sly and the Family Stone, which then expanded into the jazz-rock fusion genre – of which he was a frontrunner – in the 1970s. Electronic recording effects and electric instruments were incorporated into his sound. By the 1980s, Davis was pushing the boundaries further, covering pop anthems such as Cyndi Lauper’s Time After Time and Michael Jackson’s Human Nature, dabbling in hip hop, and even appearing in some movies."
+        },
+        {
+          "label": "F",
+          "text": "Not everyone was supportive of Davis’ change of tune. Compared to the recordings of his early career, universally applauded as linchpins of the jazz oeuvre, trumpeter Wynston Marsalis derided his fusion work as being ‘not true jazz’, and pianist Bill Evans denounced the ‘corrupting influence’ of record companies, noting that rock and pop ‘draw wider audiences’. In the face of this criticism Davis remained defiant, commenting that his earlier recordings were part of a moment in time that he had no ‘feel’ for any more. He firmly believed that remaining stylistically inert would have hampered his ability to develop new ways of producing music. From this perspective, Davis’ continual revamping of genre was not merely a rebellion, but an evolution, a necessary path that allowed him to release his full musical potential."
+        }
+      ],
+      "questions": [
+        {
+          "number": 17,
+          "prompt": "Paragraph D",
+          "answer": "ix",
+          "evidence": "his romance with a French actress and some musical partnerships that ruptured as a result of creative disputes.",
+          "explanation": "关系破裂属个人困境，音乐合作冲突和被评论家忽视属职业困境，两半共同满足ix。",
+          "options": {
+            "i": "A legacy is established",
+            "ii": "Formal education unhelpful",
+            "iii": "An education in two parts",
+            "iv": "Branching out in new directions",
+            "v": "Childhood and family life",
+            "vi": "Change necessary to stay creative",
+            "vii": "Conflicted opinions over Davis’ earlier work",
+            "viii": "Davis’ unique style of trumpet playing",
+            "ix": "Personal and professional struggles"
+          }
+        },
+        {
+          "number": 18,
+          "prompt": "Paragraph E",
+          "answer": "iv",
+          "evidence": "began to diversify his output across a range of musical styles.",
+          "explanation": "funk→fusion→pop→hip hop是扩展音乐方向，年份本身不是主旨。",
+          "options": {
+            "i": "A legacy is established",
+            "ii": "Formal education unhelpful",
+            "iii": "An education in two parts",
+            "iv": "Branching out in new directions",
+            "v": "Childhood and family life",
+            "vi": "Change necessary to stay creative",
+            "vii": "Conflicted opinions over Davis’ earlier work",
+            "viii": "Davis’ unique style of trumpet playing",
+            "ix": "Personal and professional struggles"
+          }
+        },
+        {
+          "number": 19,
+          "prompt": "Paragraph F",
+          "answer": "vi",
+          "evidence": "remaining stylistically inert would have hampered his ability to develop new ways of producing music.",
+          "explanation": "批评是引入，末句说明变化释放音乐潜能；重点是为何必须变化而非只列别人不赞成。",
+          "options": {
+            "i": "A legacy is established",
+            "ii": "Formal education unhelpful",
+            "iii": "An education in two parts",
+            "iv": "Branching out in new directions",
+            "v": "Childhood and family life",
+            "vi": "Change necessary to stay creative",
+            "vii": "Conflicted opinions over Davis’ earlier work",
+            "viii": "Davis’ unique style of trumpet playing",
+            "ix": "Personal and professional struggles"
+          }
+        }
+      ],
+      "intensive": {
+        "structure": [
+          "这三段把听起来轻松的音乐与并不轻松的人生并置，继而写风格跨界引起的争论。结尾从戴维斯自己的创作观解释变化：继续发展对他比维持旧风格更重要。",
+          "D：D段先区分演奏给人的轻松感与个人生活。文中把五十年代初的抑郁与人际、合作关系破裂联系起来，同时交代他认为评论界忽视了自己的贡献。which he attributed to与his perception都保留了当事人的解释和感受，不能改写成已经独立证实的全部成因。",
+          "E：E段按年代呈现创作范围的扩展：放克影响、爵士与摇滚融合、电子效果和电声乐器，随后涉及流行歌曲、嘻哈和电影。diversify不是放弃音乐，而是让创作跨越更多风格。段落为下一段的批评提供具体背景。",
+          "F：F段呈现对跨界的不同判断：有人认为融合不是真正的爵士，也有人把变化归因于唱片公司的商业影响。戴维斯则说，早期作品属于自己已没有同样感受的过去；原地不动会限制创作。结尾的From this perspective限定了“演进而非仅仅叛逆”这一评价的观察角度。"
+        ],
+        "phrases": [
+          {
+            "phrase": "carried over into",
+            "meaning": "延续到；影响到另一领域",
+            "explanation": "carry over强调一种状态从原来的范围延伸出去；此处否定音乐的轻松感同样存在于他的生活中。"
+          },
+          {
+            "phrase": "diversify his output",
+            "meaning": "使自己的作品类型多样化",
+            "explanation": "output在此指创作产出；diversify强调种类和方向增加，不等于每种尝试都得到肯定。"
+          },
+          {
+            "phrase": "draw wider audiences",
+            "meaning": "吸引范围更广的观众",
+            "explanation": "draw在此是吸引；wider侧重覆盖面更广，不能据此推断作品艺术价值高低。"
+          },
+          {
+            "phrase": "In the face of this criticism",
+            "meaning": "面对这些批评",
+            "explanation": "in the face of可接困难、反对等；this criticism回指对跨界作品及商业影响的批评。"
+          }
+        ],
+        "sentences": [
+          {
+            "text": "Though Davis’ trumpet playing may have sounded effortless and breezy, this ease rarely carried over into the rest of his life.",
+            "translation": "虽然戴维斯的小号演奏可能听起来轻松自在，但这种轻松感很少延续到他生活的其他方面。",
+            "explanation": "Though引出让步；may have sounded描述听众可能获得的听觉印象，而非断言演奏过程毫不费力。this ease承接effortless and breezy的感受，rarely限制延续发生的频率。"
+          },
+          {
+            "text": "He firmly believed that remaining stylistically inert would have hampered his ability to develop new ways of producing music.",
+            "translation": "他坚信，如果风格一直停滞不变，就会妨碍他发展新的音乐创作方式。",
+            "explanation": "He指戴维斯。remaining stylistically inert是动名词结构，充当宾语从句的主语；would have hampered表达他对未选择的停滞状态的判断。句子陈述他的信念，不是关于所有艺术家的普遍定律。"
+          }
+        ]
+      },
+      "wordCount": 364,
+      "status": "达标",
+      "verified": {
+        "source": "完整原材料、原题和答案页已逐项读取",
+        "answer": "答案与原件核对；证据取自展示片段"
+      },
+      "materialReadingRef": "rd-official-miles-2"
+    },
+    {
+      "id": "rd-official-older-workers",
+      "skill": "reading",
+      "title": "Older workers：薪资条件与两种继续工作的动机",
+      "source": {
+        "id": "5d91c80ff06f",
+        "title": "IELTS.org Academic Reading Sample Tasks 2023 · Older workers · Q1–4",
+        "originalUnit": "IELTS.org Academic Reading Sample Tasks 2023 · Older workers · Q1–4",
+        "path": "原始参考/2539b427-older-workers-student.pdf",
+        "page": [
+          1,
+          2
+        ],
+        "answerPage": 1,
+        "answerPath": "原始参考/beeea772-older-workers-answer-key.pdf",
+        "kind": "官方样题"
+      },
+      "questionTypes": [
+        "multiple-choice"
+      ],
+      "instructions": "Choose the correct letter, A, B, C or D. Write the correct letter in boxes 1–4.",
+      "paragraphs": [
+        {
+          "label": "1",
+          "text": "The general assumption is that older workers are paid more in spite of, rather than because of, their productivity. That might partly explain why, when employers are under pressure to cut costs, they persuade a 55-year old to take early retirement. Take away seniority-based pay scales, and older workers may become a much more attractive employment proposition. But most employers and many workers are uncomfortable with the idea of reducing someone’s pay in later life – although manual workers on piece-rates often earn less as they get older. So retaining the services of older workers may mean employing them in different ways."
+        },
+        {
+          "label": "2",
+          "text": "One innovation was devised by IBM Belgium. Faced with the need to cut staff costs, and having decided to concentrate cuts on 55 to 60-year olds, IBM set up a separate company called Skill Team, which re-employed any of the early retired who wanted to go on working up to the age of 60. An employee who joined Skill Team at the age of 55 on a five-year contract would work for 58% of his time, over the full period, for 88% of his last IBM salary. The company offered services to IBM, thus allowing it to retain access to some of the intellectual capital it would otherwise have lost."
+        },
+        {
+          "label": "3",
+          "text": "The best way to tempt the old to go on working may be to build on such ‘bridge’ jobs: part- time or temporary employment that creates a more gradual transition from full-time work to retirement. Studies have found that, in the United States, nearly half of all men and women who had been in full-time jobs in middle age moved into such ‘bridge’ jobs at the end of their working lives. In general, it is the best-paid and worst-paid who carry on working. There seem to be two very different types of bridge job-holder – those who continue working because they have to and those who continue working because they want to, even though they could afford to retire."
+        },
+        {
+          "label": "4",
+          "text": "If the job market grows more flexible, the old may find more jobs that suit them. Often, they will be self-employed. Sometimes, they may start their own businesses: a study by David Storey of Warwick University found that in Britain 70% of businesses started by people over 55 survived, compared with an overall national average of only 19%. But whatever pattern of employment they choose, in the coming years the skills of these ‘grey workers’ will have to be increasingly acknowledged and rewarded."
+        }
+      ],
+      "questions": [
+        {
+          "number": 1,
+          "prompt": "In paragraph one, the writer suggests that companies could consider",
+          "answer": "A",
+          "evidence": "Take away seniority-based pay scales, and older workers may become a much more attractive employment proposition.",
+          "explanation": "建议取消按资历定薪的制度。piece-rates只用作反例，不是作者建议废除它。",
+          "options": {
+            "A": "abolishing pay schemes that are based on age.",
+            "B": "avoiding pay that is based on piece-rates.",
+            "C": "increasing pay for older workers.",
+            "D": "equipping older workers with new skills."
+          }
+        },
+        {
+          "number": 2,
+          "prompt": "Skill Team is an example of a company which",
+          "answer": "C",
+          "evidence": "thus allowing it to retain access to some of the intellectual capital it would otherwise have lost.",
+          "explanation": "保留经验和知识正对应expertise。88%不是加薪，工作到60岁不是想多久就多久。",
+          "options": {
+            "A": "offers older workers increases in salary.",
+            "B": "allows people to continue working for as long as they want.",
+            "C": "allows the expertise of older workers to be put to use.",
+            "D": "treats older and younger workers equally."
+          }
+        },
+        {
+          "number": 3,
+          "prompt": "According to the writer, ‘bridge’ jobs",
+          "answer": "D",
+          "evidence": "those who continue working because they have to and those who continue working because they want to",
+          "explanation": "两类人的动机不同，D概括distinct groups。美国研究发生地不能推出起源于美国，最佳和最差薪酬者也不等于中间薪资。",
+          "options": {
+            "A": "tend to attract people in middle-salary ranges.",
+            "B": "are better paid than some full-time jobs.",
+            "C": "originated in the United States.",
+            "D": "appeal to distinct groups of older workers."
+          }
+        },
+        {
+          "number": 4,
+          "prompt": "David Storey’s study found that",
+          "answer": "B",
+          "evidence": "70% of businesses started by people over 55 survived, compared with an overall national average of only 19%.",
+          "explanation": "较高企业存活比例支持经营表现，未给自雇人数随时间增多趋势或年轻人拥有企业的比例。",
+          "options": {
+            "A": "people demand more from their work as they get older.",
+            "B": "older people are good at running their own businesses.",
+            "C": "an increasing number of old people are self-employed.",
+            "D": "few young people have their own businesses."
+          }
+        }
+      ],
+      "intensive": {
+        "structure": [
+          "文章讨论怎样保留年长劳动者的经验。先提出薪资和成本之间的矛盾，再用公司安排说明替代雇用方式，随后解释渐进退休的不同动机，最后展望更灵活的就业形式。文中的研究数字属于材料所述研究，不能外推为当前各国的普遍比例。",
+          "1：第1段先报告一种常见假设：年长者收入较高未必由生产率解释。might partly把它限制为雇主推动提前退休的部分可能原因。取消按资历加薪或降低晚年薪酬并非没有阻力，因此段末转向改变雇用方式，而不是简单地要求降薪。",
+          "2：第2段以IBM Belgium的Skill Team安排具体化这种改变：部分提前退休者通过另设公司继续工作；文中五年合同的58%工时和88%原薪酬是这一安排的条件。服务继续提供给IBM，使它保留本来可能流失的知识经验。",
+          "3：第3段把个案扩展到“桥梁工作”，即帮助人从全职工作逐步过渡到退休的兼职或临时工作。继续工作的人包括收入较高和较低的两端，背后可能分别是愿意工作和必须维持收入；两者不能混为同一种选择。",
+          "4：第4段用条件句讨论更灵活的市场可能带来的机会，包括自雇和创业。英国特定研究中的企业存活比例用于支撑年长创业者可能拥有的能力，不等于他们在所有条件下都更成功。结尾强调无论采用何种形式，其技能都需要被承认并获得回报。"
+        ],
+        "phrases": [
+          {
+            "phrase": "under pressure to cut costs",
+            "meaning": "承受削减成本的压力",
+            "explanation": "under pressure to后接动作，说明压力指向什么；不等于已经完成削减。"
+          },
+          {
+            "phrase": "retain access to",
+            "meaning": "保留获得或使用……的渠道",
+            "explanation": "retain强调继续拥有；文中指IBM仍能利用原员工的知识，不是把这些人视作公司所有物。"
+          },
+          {
+            "phrase": "a more gradual transition",
+            "meaning": "更为逐步的过渡",
+            "explanation": "transition常与from...to...连接起点和终点；gradual描述过程速度，不自动等于对每个人都更合适。"
+          },
+          {
+            "phrase": "could afford to retire",
+            "meaning": "在经济上能够承担退休",
+            "explanation": "afford to指具备承受某种选择的资源；此处与因经济需要必须继续工作的人形成区别。"
+          }
+        ],
+        "sentences": [
+          {
+            "text": "Faced with the need to cut staff costs, and having decided to concentrate cuts on 55 to 60-year olds, IBM set up a separate company called Skill Team, which re-employed any of the early retired who wanted to go on working up to the age of 60.",
+            "translation": "IBM面对削减员工成本的需要，并且已经决定把削减集中在55至60岁员工身上，于是设立了名为Skill Team的独立公司，重新雇用那些提前退休后仍希望继续工作到60岁的人。",
+            "explanation": "Faced with...和having decided...共同补充IBM的背景，后者表示先作出的决定；which指Skill Team。who限定愿意继续工作的提前退休者，并非所有提前退休员工都会自动加入。"
+          },
+          {
+            "text": "There seem to be two very different types of bridge job-holder – those who continue working because they have to and those who continue working because they want to, even though they could afford to retire.",
+            "translation": "桥梁工作从业者似乎有两种很不相同的类型：一类因为不得不工作而继续，另一类即使经济上能够退休，也因为自己愿意而继续工作。",
+            "explanation": "There seem to be保留概括的审慎程度；两个those who...并列。have to与want to区分必要性和意愿，even though引出第二类人的让步条件。"
+          }
+        ]
+      },
+      "wordCount": 412,
+      "status": "达标",
+      "verified": {
+        "source": "完整原材料、原题和答案页已逐项读取",
+        "answer": "答案与原件核对；证据取自展示片段"
+      },
+      "materialReadingRef": "rd-official-older-workers"
+    },
+    {
+      "id": "rd-official-diagram",
+      "skill": "reading",
+      "title": "蜣螂隧道：用深度和形状读图",
+      "source": {
+        "id": "59530422732f",
+        "title": "Cambridge Academic Reading official sample · Dung beetles",
+        "originalUnit": "Cambridge Academic Reading official sample · Dung beetles",
+        "path": "case-assets/reading-official-cambridge-zip-115012_Academic_Reading_sample_task_-_Diagram_label_completion__2_.pdf",
+        "page": [
+          1,
+          2
+        ],
+        "answerPage": 3,
+        "kind": "官方样题"
+      },
+      "questionTypes": [
+        "diagram-label-completion"
+      ],
+      "instructions": "Label the tunnels on the diagram below using words from the box. Write your answers in boxes 6–8. 按原图位置作答，词框完整保留。",
+      "paragraphs": [
+        {
+          "label": "1",
+          "text": "Introducing dung beetles into a pasture is a simple process: approximately 1,500 beetles are released, a handful at a time, into fresh cow pats in the cow pasture. The beetles immediately disappear beneath the pats digging and tunnelling and, if they successfully adapt to their new environment, soon become a permanent, self-sustaining part of the local ecology. In time they multiply and within three or four years the benefits to the pasture are obvious."
+        },
+        {
+          "label": "2",
+          "text": "Dung beetles work from the inside of the pat so they are sheltered from predators such as birds and foxes. Most species burrow into the soil and bury dung in tunnels directly underneath the pats, which are hollowed out from within. Some large species originating from France excavate tunnels to a depth of approximately 30 cm below the dung pat. These beetles make sausage-shaped brood chambers along the tunnels. The shallowest tunnels belong to a much smaller Spanish species that buries dung in chambers that hang like fruit from the branches of a pear tree. South African beetles dig narrow tunnels of approximately 20 cm below the surface of the pat. Some surface-dwelling beetles, including a South African species, cut perfectly-shaped balls from the pat, which are rolled away and attached to the bases of plants."
+        },
+        {
+          "label": "3",
+          "text": "For maximum dung burial in spring, summer and autumn, farmers require a variety of species with overlapping periods of activity. In the cooler environments of the state of Victoria, the large French species (2.5 cms long), is matched with smaller (half this size), temperate-climate Spanish species. The former are slow to recover from the winter cold and produce only one or two generations of offspring from late spring until autumn. The latter, which multiply rapidly in early spring, produce two to five generations annually. The South African ball-rolling species, being a sub-tropical beetle, prefers the climate of northern and coastal New South Wales where it commonly works with the South African tunneling species. In warmer climates, many species are active for longer periods of the year."
+        }
+      ],
+      "questions": [
+        {
+          "number": 6,
+          "prompt": "原图标号6所指隧道的种类",
+          "answer": "South African",
+          "evidence": "South African beetles dig narrow tunnels of approximately 20 cm below the surface of the pat.",
+          "explanation": "左侧隧道约20cm，匹配South African；ball roller把球滚离粪堆，不能因同国别选它。",
+          "options": [
+            "French",
+            "Spanish",
+            "Mediterranean",
+            "South African",
+            "Australian native",
+            "South African ball roller"
+          ]
+        },
+        {
+          "number": 7,
+          "prompt": "原图标号7所指隧道的种类",
+          "answer": "French",
+          "evidence": "Some large species originating from France excavate tunnels to a depth of approximately 30 cm below the dung pat.",
+          "explanation": "中间最深约30cm，与French对应，sausage-shaped chambers补充形状证据。",
+          "options": [
+            "French",
+            "Spanish",
+            "Mediterranean",
+            "South African",
+            "Australian native",
+            "South African ball roller"
+          ]
+        },
+        {
+          "number": 8,
+          "prompt": "原图标号8所指隧道的种类",
+          "answer": "Spanish",
+          "evidence": "The shallowest tunnels belong to a much smaller Spanish species",
+          "explanation": "右侧最浅且分叉如梨树，matching shallowest；不是用甲虫体长当隧道深度。",
+          "options": [
+            "French",
+            "Spanish",
+            "Mediterranean",
+            "South African",
+            "Australian native",
+            "South African ball roller"
+          ]
+        }
+      ],
+      "intensive": {
+        "structure": [
+          "这段材料先写蜣螂如何被引入牧场，再从地下隧道、育幼室和滚粪球的位置解释不同工作方式，最后把物种差异联系到季节配合。理解重点是条件、空间关系和形态之间的联系。",
+          "1：第1段说明引入过程及建立种群的条件：把甲虫少量分批放入新鲜牛粪后，它们会向下挖掘；只有成功适应新环境，才会形成能自行维持的本地生态组成。三四年后收益明显是文中描述的时间尺度，不能略去适应条件。",
+          "2：第2段从共同的遮蔽位置写到不同物种的挖掘形态：法国种向下挖约30厘米并形成香肠状育幼室；西班牙种较浅，育幼室如树枝上悬挂的果实；南非种既有挖窄隧道的，也有把粪球滚离粪堆并固定在植物基部的。文中的形状比喻帮助理解位置，不表示真的长成果实。",
+          "3：第3段说明农民为什么需要活动期重叠的多种甲虫：法国种从冬季恢复较慢，西班牙种早春繁殖较快，二者配合可延长处理粪便的季节覆盖；亚热带的南非滚粪球种适应较暖区域。former和latter分别回指前面的法国种与西班牙种。"
+        ],
+        "phrases": [
+          {
+            "phrase": "adapt to their new environment",
+            "meaning": "适应它们的新环境",
+            "explanation": "adapt to后接名词性环境；这里是种群能否建立的条件，而不是释放后必然成功。"
+          },
+          {
+            "phrase": "a permanent, self-sustaining part",
+            "meaning": "一个长期存在、能自行维持的组成部分",
+            "explanation": "self-sustaining指能够维持自身延续；不能由此推出对生态的一切影响都无须观察。"
+          },
+          {
+            "phrase": "to a depth of approximately 30 cm",
+            "meaning": "达到约30厘米的深度",
+            "explanation": "to a depth of表示向下到达的深度；approximately保留近似性，文中起算位置是牛粪堆之下。"
+          },
+          {
+            "phrase": "overlapping periods of activity",
+            "meaning": "相互重叠的活动期",
+            "explanation": "overlapping表示时间有交集，不表示所有物种全年同时活动。"
+          }
+        ],
+        "sentences": [
+          {
+            "text": "The beetles immediately disappear beneath the pats digging and tunnelling and, if they successfully adapt to their new environment, soon become a permanent, self-sustaining part of the local ecology.",
+            "translation": "甲虫立即钻到牛粪堆下面挖掘、开辟隧道；如果成功适应新环境，它们很快就会成为当地生态中长期存在、能够自行维持的一部分。",
+            "explanation": "digging and tunnelling补充甲虫钻入后进行的动作；if从句限定后面的become。they两次都指引入的甲虫，不能把“立刻钻入”与“长期建立种群”当成同一时间、同一确定程度的结果。"
+          },
+          {
+            "text": "The latter, which multiply rapidly in early spring, produce two to five generations annually.",
+            "translation": "后者，也就是西班牙物种，在早春迅速繁殖，每年产生两至五代后代。",
+            "explanation": "The latter回指与法国种并列的西班牙种；which从句补充早春繁殖快的特点。annually修饰一年内产生的代数，不是说每次繁殖都产生两至五代。"
+          }
+        ]
+      },
+      "wordCount": 338,
+      "status": "达标",
+      "verified": {
+        "source": "完整原材料、原题和答案页已逐项读取",
+        "answer": "答案与原件核对；证据取自展示片段"
+      },
+      "contextNote": "原官方样题完整保留连续三段，图示与下一组表格为同篇材料的不同正式题组，不计作两篇独立原文。",
+      "image": "case-assets/official-diagram-original.png",
+      "footnotes": [
+        "原题 Glossary：dung — the droppings or excreta of animals",
+        "原题 Glossary：cow pats — droppings of cows"
+      ],
+      "materialReadingRef": "rd-official-diagram"
+    },
+    {
+      "id": "rd-official-table",
+      "skill": "reading",
+      "title": "蜣螂物种：沿表格列名核对信息",
+      "source": {
+        "id": "74f556cf213e",
+        "title": "Cambridge Academic Reading official sample · Dung beetles",
+        "originalUnit": "Cambridge Academic Reading official sample · Dung beetles",
+        "path": "case-assets/reading-official-cambridge-zip-115018_Academic_Reading_sample_task_-_Table_completion__2_.pdf",
+        "page": [
+          1,
+          2
+        ],
+        "answerPage": 3,
+        "kind": "官方样题"
+      },
+      "questionTypes": [
+        "table-completion"
+      ],
+      "instructions": "Complete the table below. Choose NO MORE THAN THREE WORDS from the passage for each answer. Write your answers in boxes 9–13. 原表保留行列及已给数据。",
+      "paragraphs": [
+        {
+          "label": "1",
+          "text": "Introducing dung beetles into a pasture is a simple process: approximately 1,500 beetles are released, a handful at a time, into fresh cow pats in the cow pasture. The beetles immediately disappear beneath the pats digging and tunnelling and, if they successfully adapt to their new environment, soon become a permanent, self-sustaining part of the local ecology. In time they multiply and within three or four years the benefits to the pasture are obvious."
+        },
+        {
+          "label": "2",
+          "text": "Dung beetles work from the inside of the pat so they are sheltered from predators such as birds and foxes. Most species burrow into the soil and bury dung in tunnels directly underneath the pats, which are hollowed out from within. Some large species originating from France excavate tunnels to a depth of approximately 30 cm below the dung pat. These beetles make sausage-shaped brood chambers along the tunnels. The shallowest tunnels belong to a much smaller Spanish species that buries dung in chambers that hang like fruit from the branches of a pear tree. South African beetles dig narrow tunnels of approximately 20 cm below the surface of the pat. Some surface-dwelling beetles, including a South African species, cut perfectly-shaped balls from the pat, which are rolled away and attached to the bases of plants."
+        },
+        {
+          "label": "3",
+          "text": "For maximum dung burial in spring, summer and autumn, farmers require a variety of species with overlapping periods of activity. In the cooler environments of the state of Victoria, the large French species (2.5 cms long), is matched with smaller (half this size), temperate-climate Spanish species. The former are slow to recover from the winter cold and produce only one or two generations of offspring from late spring until autumn. The latter, which multiply rapidly in early spring, produce two to five generations annually. The South African ball-rolling species, being a sub-tropical beetle, prefers the climate of northern and coastal New South Wales where it commonly works with the South African tunneling species. In warmer climates, many species are active for longer periods of the year."
+        }
+      ],
+      "questions": [
+        {
+          "number": 9,
+          "prompt": "Spanish → Preferred climate → 9 …",
+          "answer": "temperate",
+          "evidence": "temperate-climate Spanish species",
+          "explanation": "Spanish行气候列；cool在示例French行，不能横向抄错。"
+        },
+        {
+          "number": 10,
+          "prompt": "Spanish → Start of active period → 10 …",
+          "answer": "early spring",
+          "evidence": "The latter, which multiply rapidly in early spring",
+          "explanation": "latter回指Spanish，不是French的late spring。"
+        },
+        {
+          "number": 11,
+          "prompt": "Spanish → Number of generations per year → 11 …",
+          "answer": [
+            "two to five",
+            "2-5"
+          ],
+          "evidence": "produce two to five generations annually",
+          "explanation": "annually对应per year，不能填French的一到两代；两种写法来自原答案。"
+        },
+        {
+          "number": 12,
+          "prompt": "South African ball roller → Preferred climate → 12 …",
+          "answer": "sub-tropical",
+          "evidence": "The South African ball-rolling species, being a sub-tropical beetle",
+          "explanation": "气候不是地点，northern/coastal New South Wales是分布地区，不符合列名。"
+        },
+        {
+          "number": 13,
+          "prompt": "South African ball roller → Complementary species → 13 …",
+          "answer": [
+            "South African tunneling",
+            "South African tunnelling"
+          ],
+          "evidence": "it commonly works with the South African tunneling species",
+          "explanation": "works with对应complementary；必须写区分tunneling，不能只写South African。"
+        }
+      ],
+      "intensive": {
+        "structure": [
+          "这段材料围绕蜣螂在牧场中的作用展开。大小、隧道形状、繁殖速度与活动季节共同解释不同物种为何能够配合；这些特点必须放回各自物种和气候条件中理解。",
+          "1：第1段说明引入过程及建立种群的条件：把甲虫少量分批放入新鲜牛粪后，它们会向下挖掘；只有成功适应新环境，才会形成能自行维持的本地生态组成。三四年后收益明显是文中描述的时间尺度，不能略去适应条件。",
+          "2：第2段从共同的遮蔽位置写到不同物种的挖掘形态：法国种向下挖约30厘米并形成香肠状育幼室；西班牙种较浅，育幼室如树枝上悬挂的果实；南非种既有挖窄隧道的，也有把粪球滚离粪堆并固定在植物基部的。文中的形状比喻帮助理解位置，不表示真的长成果实。",
+          "3：第3段说明农民为什么需要活动期重叠的多种甲虫：法国种从冬季恢复较慢，西班牙种早春繁殖较快，二者配合可延长处理粪便的季节覆盖；亚热带的南非滚粪球种适应较暖区域。former和latter分别回指前面的法国种与西班牙种。"
+        ],
+        "phrases": [
+          {
+            "phrase": "adapt to their new environment",
+            "meaning": "适应它们的新环境",
+            "explanation": "adapt to后接名词性环境；这里是种群能否建立的条件，而不是释放后必然成功。"
+          },
+          {
+            "phrase": "a permanent, self-sustaining part",
+            "meaning": "一个长期存在、能自行维持的组成部分",
+            "explanation": "self-sustaining指能够维持自身延续；不能由此推出对生态的一切影响都无须观察。"
+          },
+          {
+            "phrase": "to a depth of approximately 30 cm",
+            "meaning": "达到约30厘米的深度",
+            "explanation": "to a depth of表示向下到达的深度；approximately保留近似性，文中起算位置是牛粪堆之下。"
+          },
+          {
+            "phrase": "overlapping periods of activity",
+            "meaning": "相互重叠的活动期",
+            "explanation": "overlapping表示时间有交集，不表示所有物种全年同时活动。"
+          }
+        ],
+        "sentences": [
+          {
+            "text": "The beetles immediately disappear beneath the pats digging and tunnelling and, if they successfully adapt to their new environment, soon become a permanent, self-sustaining part of the local ecology.",
+            "translation": "甲虫立即钻到牛粪堆下面挖掘、开辟隧道；如果成功适应新环境，它们很快就会成为当地生态中长期存在、能够自行维持的一部分。",
+            "explanation": "digging and tunnelling补充甲虫钻入后进行的动作；if从句限定后面的become。they两次都指引入的甲虫，不能把“立刻钻入”与“长期建立种群”当成同一时间、同一确定程度的结果。"
+          },
+          {
+            "text": "The latter, which multiply rapidly in early spring, produce two to five generations annually.",
+            "translation": "后者，也就是西班牙物种，在早春迅速繁殖，每年产生两至五代后代。",
+            "explanation": "The latter回指与法国种并列的西班牙种；which从句补充早春繁殖快的特点。annually修饰一年内产生的代数，不是说每次繁殖都产生两至五代。"
+          }
+        ]
+      },
+      "wordCount": 338,
+      "status": "达标",
+      "verified": {
+        "source": "完整原材料、原题和答案页已逐项读取",
+        "answer": "答案与原件核对；证据取自展示片段"
+      },
+      "image": "case-assets/official-table-original.png",
+      "contextNote": "与蜣螂图示组共用同一篇完整原文；这是原题Q9–13的另一种信息组织方式。",
+      "footnotes": [
+        "原题 Glossary：dung — the droppings or excreta of animals",
+        "原题 Glossary：cow pats — droppings of cows"
+      ],
+      "materialReadingRef": "rd-official-table"
+    },
+    {
+      "id": "rd-official-short-answer",
+      "skill": "reading",
+      "title": "产品召回：批次、退款与联系人",
+      "source": {
+        "id": "8c196c793635",
+        "title": "Cambridge General Training Reading official sample · Product return",
+        "originalUnit": "Cambridge General Training Reading official sample · Product return",
+        "path": "case-assets/reading-official-cambridge-zip-115026_General_Training_Reading_sample_task_-_Short-answer_questions.pdf",
+        "page": [
+          1
+        ],
+        "answerPage": 2,
+        "kind": "官方样题"
+      },
+      "questionTypes": [
+        "short-answer-questions"
+      ],
+      "instructions": "Answer the questions below. Choose NO MORE THAN THREE WORDS AND/OR A NUMBER from the text for each answer. Write your answers in boxes 4–8.",
+      "paragraphs": [
+        {
+          "label": "1",
+          "text": "Fancy Foods wishes to inform the public that pieces of metal have been found in some jars of Fancy Foods Chicken Curry (Spicy). The batches of the jars involved have numbers from J6617 to J6624. The batch number is printed on the bottom of each jar."
+        },
+        {
+          "label": "2",
+          "text": "If you have any jars with these batch numbers, please return them (preferably unopened) to the supermarket where you purchased them. You can also return them to the factory (Fancy Foods Retailers, Blacktown). Fancy Foods will pay $10 for each jar returned unopened and $5 for each jar already opened."
+        },
+        {
+          "label": "3",
+          "text": "No payment will be made for empty jars, which do not need to be returned. However, the Retailing Manager will be interested to hear from people who have consumed chicken curry from any of the above batch numbers. In particular, it will be helpful if they can give information about the place of purchase of the product."
+        },
+        {
+          "label": "4",
+          "text": "Jars of Fancy Foods Chicken Curry (Coconut) and Fancy Foods Chicken Curry (Mango) have not been affected and do not need to be returned. "
+        },
+        {
+          "label": "5",
+          "text": "Fancy Foods will pay a reward of $10,000 to $50,000 for information which leads to the conviction of any person found guilty of placing metal pieces in its products. If you have such information, please contact the Customer Relations Manager, Fancy Foods Retailers, Blacktown."
+        }
+      ],
+      "questions": [
+        {
+          "number": 4,
+          "prompt": "What has been found in some Fancy Foods products?",
+          "answer": "pieces of metal",
+          "evidence": "pieces of metal have been found in some jars",
+          "explanation": "问发现的异物，不问产品名称。三词恰好符合上限。"
+        },
+        {
+          "number": 5,
+          "prompt": "Where can you find the batch number on the jars?",
+          "answer": [
+            "the bottom",
+            "on the bottom"
+          ],
+          "evidence": "The batch number is printed on the bottom of each jar.",
+          "explanation": "是罐底，不是退货地点supermarket。"
+        },
+        {
+          "number": 6,
+          "prompt": "How much will you receive for an opened jar of contaminated Chicken Curry?",
+          "answer": "$5",
+          "evidence": "$10 for each jar returned unopened and $5 for each jar already opened.",
+          "explanation": "opened与unopened对应两种金额，empty则不给钱。"
+        },
+        {
+          "number": 7,
+          "prompt": "If you have eaten Chicken Curry from a jar with one of the batch numbers listed, whom should you contact?",
+          "answer": [
+            "Retailing Manager",
+            "the Retailing Manager"
+          ],
+          "evidence": "the Retailing Manager will be interested to hear from people who have consumed chicken curry",
+          "explanation": "吃过产品找Retailing Manager；提供谁投放金属的线索找Customer Relations Manager，勿交换两个身份。"
+        },
+        {
+          "number": 8,
+          "prompt": "What is the maximum reward Fancy Foods is offering for information about who contaminated their product?",
+          "answer": "$50,000",
+          "evidence": "a reward of $10,000 to $50,000",
+          "explanation": "maximum取区间上限，不能取首次看到的10,000。"
+        }
+      ],
+      "intensive": {
+        "structure": [
+          "这是一份按适用范围、退回处理、特殊情形和线索联络组织的产品召回告示。准确理解对象和条件，比把所有罐装咖喱视为同一种情况更重要。金额、产品名和联络人均属于本材料中的告示，不作为现实召回指引。",
+          "1：第1段交代发现问题的产品是Spicy口味的部分罐装咖喱，涉及批号J6617至J6624，批号位于罐底。some与明确批号把范围限定住，不能扩大到该品牌所有产品。",
+          "2：第2段说明持有这些批号产品的人可退到购买超市或工厂，preferably unopened表示最好未开封，并非已经开封就不能退。未开封每罐10美元、已开封每罐5美元是两个不同条件。",
+          "3：第3段单独处理已经吃完的情况：空罐不退款、也不必退回，但吃过有关批次产品的人仍可向零售经理提供信息，尤其是购买地点。没有退款不等于其反馈没有价值。",
+          "4：第4段明确Coconut和Mango两种口味未受影响，无须退回；这与第一段指定Spicy口味共同界定召回边界。",
+          "5：第5段转为征集导致涉案人员被定罪的线索，奖金范围与普通退货退款不同。此处联络的是客户关系经理，不能与前面接收已食用产品信息的零售经理混同。"
+        ],
+        "phrases": [
+          {
+            "phrase": "wishes to inform the public",
+            "meaning": "谨此告知公众",
+            "explanation": "正式告示中礼貌地引出通知内容；wish to并非表示消息还没有发生。"
+          },
+          {
+            "phrase": "preferably unopened",
+            "meaning": "最好尚未开封",
+            "explanation": "preferably表达优先选择，不是必须满足的绝对条件。"
+          },
+          {
+            "phrase": "the place of purchase",
+            "meaning": "购买地点",
+            "explanation": "purchase在这里是购买这一行为，place of说明行为发生地点。"
+          },
+          {
+            "phrase": "leads to the conviction",
+            "meaning": "促成定罪",
+            "explanation": "lead to后接名词；conviction此处是司法定罪，不是个人的坚定信念。"
+          }
+        ],
+        "sentences": [
+          {
+            "text": "If you have any jars with these batch numbers, please return them (preferably unopened) to the supermarket where you purchased them.",
+            "translation": "如果你持有任何标有这些批号的罐装产品，请把它们退回购买它们的超市，最好保持未开封状态。",
+            "explanation": "If从句限定指令适用的人；these batch numbers回指前段范围。them指相关罐装产品；where引出修饰the supermarket的地点关系。括号中的preferably是偏好条件。"
+          },
+          {
+            "text": "No payment will be made for empty jars, which do not need to be returned.",
+            "translation": "空罐不予退款，而且也无须退回。",
+            "explanation": "主句的被动语态把重点放在退款安排；which补充说明empty jars，do not need to表示没有退回的必要，不是禁止退回。两项安排只适用于空罐。"
+          }
+        ]
+      },
+      "wordCount": 223,
+      "status": "达标",
+      "verified": {
+        "source": "完整原材料、原题和答案页已逐项读取",
+        "answer": "答案与原件核对；证据取自展示片段"
+      },
+      "materialReadingRef": "rd-official-short-answer"
+    }
+  ],
+  "assetsToCopy": [
+    {
+      "source": "D:/Codex-IELTS-2026-09-14/expansion-2026-09-14/cambridge-zip-115012_Academic_Reading_sample_task_-_Diagram_label_completion__2_.pdf",
+      "target": "case-assets/reading-official-cambridge-zip-115012_Academic_Reading_sample_task_-_Diagram_label_completion__2_.pdf",
+      "sha256": "6f381ee14d77b4dd888492450187c11a1e50bfbdb73cf5e31eaa6841d5a19742"
+    },
+    {
+      "source": "C:/Users/Admin1/Documents/ChatGPT/ielts/official-diagram-original.png",
+      "target": "case-assets/official-diagram-original.png",
+      "sha256": "885344e7f452918d71a02a542113fca1e34e8b3c565d847c41e474b110bae706"
+    },
+    {
+      "source": "D:/Codex-IELTS-2026-09-14/expansion-2026-09-14/cambridge-zip-115018_Academic_Reading_sample_task_-_Table_completion__2_.pdf",
+      "target": "case-assets/reading-official-cambridge-zip-115018_Academic_Reading_sample_task_-_Table_completion__2_.pdf",
+      "sha256": "a2e1e00fed9ba7249f4db1ea0f229993d20878d1b328319d9a22d2910e734b52"
+    },
+    {
+      "source": "C:/Users/Admin1/Documents/ChatGPT/ielts/official-table-original.png",
+      "target": "case-assets/official-table-original.png",
+      "sha256": "44aeb61d37e39d5b01e88298b3aa224cb27aea0a9eaef44672e6527aab9671db"
+    },
+    {
+      "source": "D:/Codex-IELTS-2026-09-14/expansion-2026-09-14/cambridge-zip-115026_General_Training_Reading_sample_task_-_Short-answer_questions.pdf",
+      "target": "case-assets/reading-official-cambridge-zip-115026_General_Training_Reading_sample_task_-_Short-answer_questions.pdf",
+      "sha256": "ddfc3cdb80e887c74dae3f512b629e3d7199c9a1c9837840dfd0a35309c7bb77"
+    }
+  ],
+  "summary": {
+    "cases": 6,
+    "questions": 23
+  }
+}

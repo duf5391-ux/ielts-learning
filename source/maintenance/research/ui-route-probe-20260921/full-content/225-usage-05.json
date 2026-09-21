@@ -1,0 +1,237 @@
+{
+  "requested": "usage-05",
+  "from": [
+    "内容单元"
+  ],
+  "actual": "#usage-05",
+  "checkedAt": "2026-09-21T12:53:20.402Z",
+  "title": "学习 / 短语 / as a result · IELTS",
+  "label": "学习 / 短语 / as a result",
+  "panel": "phrases",
+  "contentRoot": "usage-05",
+  "headings": [
+    {
+      "tag": "H3",
+      "text": "as a result",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "先找原因，再接结果",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "as a result：结果须回指完整原因",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "as a result：结果须回指完整原因",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "城市公交：可达性、排队与实施问题",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "原文 · 印刷页64",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "原文 · 印刷页65",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "原题 · 印刷页66",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "原题 · 印刷页67",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "答案与证据解释",
+      "visible": true
+    }
+  ],
+  "controls": [
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "checkbox",
+      "text": "",
+      "label": "收藏 as a result",
+      "href": null,
+      "save": "vocab-saved-usage-as-a-result",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "原因 → 结果；我的判断\n暂时不会",
+      "href": null,
+      "save": "prereq-as-result",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "暂时不会",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "完成后核对",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "原文所在页",
+      "label": "",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=66",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "Cambridge IELTS 21 Academic · Test 3 · 物理页65 / 印刷页64",
+      "label": "",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=65",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "Cambridge IELTS 21 Academic · Test 3 · 物理页67 / 印刷页66",
+      "label": "",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=67",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "Cambridge IELTS 21 Academic · Test 3 · 物理页123 / 印刷页122",
+      "label": "",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=123",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "Cambridge IELTS 21 Academic · Test 3 · 物理页65 / 印刷页64",
+      "label": "",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=65",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "Cambridge IELTS 21 Academic · Test 3 · 物理页67 / 印刷页66",
+      "label": "",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=67",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "Cambridge IELTS 21 Academic · Test 3 · 物理页123 / 印刷页122",
+      "label": "",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=123",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    }
+  ],
+  "visibleText": "0% · 0 / 1 完成\n☆\nas a result\n\n把前面已说明的事情作为原因，引出其结果：因此／结果。\n\n原因句。As a result, + 结果句；也可放在句中，如 Costs rose as a result.。本卡不含后接 of 的结构。\n\n日常语境例句\n\nThe bus service became more reliable. As a result, fewer students arrived late.\n\n公交服务变得更可靠了。因此，迟到的学生减少了。\n\nas a result 后接结果；as a result of 后接原因名词或 doing。不要写 As a result the higher costs；可写 As a result of the higher costs, ...。不能只用一个逗号把两个独立句硬连在一起。\n\n先找原因，再接结果\n\n下方 Dar es Salaam 原文写到机器故障后改用纸票，入口没有扫描器，需要工作人员手工撕票：\n\nStaff stand by the gates and tear tickets as people enter. As a result, queues are considerable at peak times.\n\n先写出原因和结果各是什么；再判断：这句话能否只解释为“因为洪水，所以排队”？\n\n原因 → 结果；我的判断\n暂时不会\n完成后核对\n\n原文所在页\n\nas a result：结果须回指完整原因\nas a result：结果须回指完整原因\n\n第二页坏读卡器→纸票→无扫描器→人工撕票→高峰队列。As a result, queues are considerable at peak times回指这些票务问题，Q26 queues。不能仅因flood也出现，就说这句只表示洪水直接导致排队。\n\n城市公交：可达性、排队与实施问题\n\n先读这一组完整原文页，再完成对应原题。以下时代、数量与观点均按考试文章语境理解。\n\n原文 · 印刷页64\n\nREADING PASSAGE 2\n\nYou should spend about 20 minutes on Questions 14-26, which are based on Passage 2 below.\n\nThe problems of getting around the city of\n\nDar es Salaam\n\nDar es Salaam in Tanzania is one of the fastest growing cities in Africa. Its population has increased eightfold since 1980 and swells by half a million people every year. United Nations projections anticipate it will become a megacity within seven years as its population passes 10 million, reaching 13.4 million by 2035. Daniel Hoornweg for the Global Cities Institute forecasts the city could be home to an incredible 73.7 million people by 2100.\n\nToday, four out of five of its people live in single-storey informal settlements on the spreading edges of the city, where the journey to and from the centre regularly takes over two hours. It can be longer if rain turns the dirt roads to mud.\n\nEven in the middle of the day, traffic frequently slows to a stop without warning. It is not unusual for cars and minibuses to queue for 20 minutes at a key intersection. A single suburban rail line serves residents in a few areas to the south but is tiny in the context of the wider city. Outside the centre many rely on boda boda (motorbike taxis) to navigate the narrow side streets and potholed mud roads that make up much of the metropolis. Their safety record is scandalous.\n\nDar es Salaam's reliance on four arterial roads into the city is a legacy of the colonial government that planned the city at the start of the 20th century to cater for a population of 35,000. Most of the current growth is made up of young people arriving from the countryside to find work, and as the population has exploded, Dar es Salaam has grown around those four highways. Nearly all the expansion is happening on the periphery, and nearly all takes place informally without any agreed strategy.\n\nBut Dar es Salaam is pinning its hopes on a solution that could offer a different model for Africa's megacities, giving them an alternative to a future controlled by the private car. Unlike many cities on the continent, Dar es Salaam isn't trying to build a metro. It has chosen a less exciting but cheaper and more achievable method: the bus.\n\nThe DART bus rapid transit (BRT) system runs on bus lanes separated from other traffic, mostly in the middle of the road to reduce stoppages. Ticket purchase and control takes place at stations prior to boarding and the buses are step-free, which means the entire route is accessible to people using wheelchairs or who are travelling with baby buggies.\n\n原文 · 印刷页65\n\n'The new buses are much, much better,' says Paulas George, a young IT worker. He takes the bus every day and it has cut his journey time by two-thirds. He says it is not perfect, though, complaining that drivers often refuse to turn on the air conditioning to save fuel.\n\nThat is not the only problem. A shortage of buses after a serious flood at the main depot during the rainy season means the system is carrying 200,000 people a day - half the expected capacity. Smartcards can't be used as the mechanical readers aren't working either, forcing passengers to buy individual paper tickets for every journey. Each is printed with a scannable QR code, but there are no scanners. Staff stand by the gates and tear tickets as people enter. As a result, queues are considerable at peak times.\n\nMorogoro Road to the north-west of the city was phase I of the BRT project. Phases II and III will install bus lanes along Nyerere Road to the south-west and Kilwa Road to the south. Construction on both routes is due to start imminently. Phase IV, towards Bagamoyo in the north, is in the preliminary design stage. 'Much of the city will have access to a world-class transport system within the space of a few years,' says Chris Kost, the Africa director of ITDP (the Institute for Transportation and Development Policy). All phases are being planned to high standards and, once complete, a third of city residents will be within a short walk of the BRT network.\n\nThe ITDP regrets Africa's obsession with metros. 'With a metro, an international firm will often just parachute in its own system,' says Kost. 'Bus rapid transit allows existing stakeholders to get involved. That's what we did in Dar es Salaam and what we're planning in Nairobi, where the bus bodies will be built in the city and local operators will look after tickets, fare collection and IT ... Bus rapid transit has been transformational for Dar es Salaam. For millions of people in African cities, this is their best hope of ever being connected.'\n\n原题 · 印刷页66\n\nQuestions 14-18\n\nDo the following statements agree with the information given in Reading Passage 2?\n\nIn boxes 14-18 on your answer sheet, write\n\nTRUE FALSE NOT GIVEN\n\nif the statement agrees with the information if the statement contradicts the information if there is no information on this\n\n14 The population of Dar es Salaam is rising more rapidly than was previously predicted.\n\n15 Most of the residents of Dar es Salaam live in high-rise blocks on the edge of the city.\n\n16 Residents have been consulted about their views on the suburban rail line in Dar es Salaam.\n\n17 The majority of the present residential development in Dar es Salaam is unplanned.\n\n18 Dar es Salaam's authorities have decided to follow the public transport plan adopted by a large number of African cities.\n\n原题 · 印刷页67\n\nQuestions 19-26\n\nComplete the notes below.\n\nChoose ONE WORD ONLY from the passage for each answer.\n\nWrite your answers in boxes 19-26 on your answer sheet.\n\nDar es Salaam's DART Bus Rapid Transit system\n\nFeatures • the buses use designated 19 ..................................... to cut down on delays\n\n• passengers pay fares before 20 ................................... ..\n\n• passengers in 21 ..................................... can use every part of the system\n\nProblems • the temperature control is sometimes not activated in order to reduce 22 ..................................... use\n\n• insufficient number of vehicles are available due to the effects of a severe 23 .................................... .\n\n• passengers are unable to use 24 ..................................... because some equipment is out of action • tickets have to be checked manually at station 25 .................................... .\n\n• 26 ..................................... frequently build up during rush hours\n\np. 1221\n\n答案与证据解释\n\nQ14 NOT GIVEN：有多组增长预测，但没有实际比以前预测更快的比较；Q15 FALSE：single-storey与high-rise冲突；Q16 NOT GIVEN：没有铁路居民咨询；Q17 TRUE：without any agreed strategy说明无规划；Q18 FALSE：Unlike many cities说明并非照搬众多城市的地铁计划。Q19–26 lanes/boarding/wheelchairs/fuel/flood/smartcards/gates/queues。轮椅通达性来自step-free；停空调为了节油；洪水使车辆不足；读卡器与扫描器坏了导致人工检票和队列。好处与实施缺陷同时存在，不能只摘“公交更好”。\n\n完整原件：Cambridge IELTS 21 Academic · Test 3 · 物理页65 / 印刷页64；Cambridge IELTS 21 Academic · Test 3 · 物理页67 / 印刷页66；Cambridge IELTS 21 Academic · Test 3 · 物理页123 / 印刷页122\n\nCambridge IELTS 21 Academic · Test 3 · 物理页65 / 印刷页64\n\nCambridge IELTS 21 Academic · Test 3 · 物理页67 / 印刷页66\n\nCambridge IELTS 21 Academic · Test 3 · 物理页123 / 印刷页122",
+  "allContent": "0% · 0 / 1 完成☆as a result把前面已说明的事情作为原因，引出其结果：因此／结果。原因句。As a result, + 结果句；也可放在句中，如 Costs rose as a result.。本卡不含后接 of 的结构。日常语境例句The bus service became more reliable. As a result, fewer students arrived late.公交服务变得更可靠了。因此，迟到的学生减少了。as a result 后接结果；as a result of 后接原因名词或 doing。不要写 As a result the higher costs；可写 As a result of the higher costs, ...。不能只用一个逗号把两个独立句硬连在一起。先找原因，再接结果\n下方 Dar es Salaam 原文写到机器故障后改用纸票，入口没有扫描器，需要工作人员手工撕票：\nStaff stand by the gates and tear tickets as people enter. As a result, queues are considerable at peak times.\n先写出原因和结果各是什么；再判断：这句话能否只解释为“因为洪水，所以排队”？原因 → 结果；我的判断暂时不会完成后核对人工验票流程导致高峰时段较长的队列。As a result 回指前面的票务与验票问题，不能越过这一段具体机制，只抓较远处的洪水作直接原因。原题 Q26 的答案是 queues。原创再用：The ticket machines stopped working. As a result, staff had to check each ticket by hand. 后一句写结果；若用 as a result of，后面应接原因名词短语。原文所在页as a result：结果须回指完整原因as a result：结果须回指完整原因第二页坏读卡器→纸票→无扫描器→人工撕票→高峰队列。As a result, queues are considerable at peak times回指这些票务问题，Q26 queues。不能仅因flood也出现，就说这句只表示洪水直接导致排队。城市公交：可达性、排队与实施问题先读这一组完整原文页，再完成对应原题。以下时代、数量与观点均按考试文章语境理解。原文 · 印刷页64READING PASSAGE 2You should spend about 20 minutes on Questions 14-26, which are based on Passage 2 below.The problems of getting around the city ofDar es SalaamDar es Salaam in Tanzania is one of the fastest growing cities in Africa. Its population has increased eightfold since 1980 and swells by half a million people every year. United Nations projections anticipate it will become a megacity within seven years as its population passes 10 million, reaching 13.4 million by 2035. Daniel Hoornweg for the Global Cities Institute forecasts the city could be home to an incredible 73.7 million people by 2100.Today, four out of five of its people live in single-storey informal settlements on the spreading edges of the city, where the journey to and from the centre regularly takes over two hours. It can be longer if rain turns the dirt roads to mud.Even in the middle of the day, traffic frequently slows to a stop without warning. It is not unusual for cars and minibuses to queue for 20 minutes at a key intersection. A single suburban rail line serves residents in a few areas to the south but is tiny in the context of the wider city. Outside the centre many rely on boda boda (motorbike taxis) to navigate the narrow side streets and potholed mud roads that make up much of the metropolis. Their safety record is scandalous.Dar es Salaam's reliance on four arterial roads into the city is a legacy of the colonial government that planned the city at the start of the 20th century to cater for a population of 35,000. Most of the current growth is made up of young people arriving from the countryside to find work, and as the population has exploded, Dar es Salaam has grown around those four highways. Nearly all the expansion is happening on the periphery, and nearly all takes place informally without any agreed strategy.But Dar es Salaam is pinning its hopes on a solution that could offer a different model for Africa's megacities, giving them an alternative to a future controlled by the private car. Unlike many cities on the continent, Dar es Salaam isn't trying to build a metro. It has chosen a less exciting but cheaper and more achievable method: the bus.The DART bus rapid transit (BRT) system runs on bus lanes separated from other traffic, mostly in the middle of the road to reduce stoppages. Ticket purchase and control takes place at stations prior to boarding and the buses are step-free, which means the entire route is accessible to people using wheelchairs or who are travelling with baby buggies.原文 · 印刷页65'The new buses are much, much better,' says Paulas George, a young IT worker. He takes the bus every day and it has cut his journey time by two-thirds. He says it is not perfect, though, complaining that drivers often refuse to turn on the air conditioning to save fuel.That is not the only problem. A shortage of buses after a serious flood at the main depot during the rainy season means the system is carrying 200,000 people a day - half the expected capacity. Smartcards can't be used as the mechanical readers aren't working either, forcing passengers to buy individual paper tickets for every journey. Each is printed with a scannable QR code, but there are no scanners. Staff stand by the gates and tear tickets as people enter. As a result, queues are considerable at peak times.Morogoro Road to the north-west of the city was phase I of the BRT project. Phases II and III will install bus lanes along Nyerere Road to the south-west and Kilwa Road to the south. Construction on both routes is due to start imminently. Phase IV, towards Bagamoyo in the north, is in the preliminary design stage. 'Much of the city will have access to a world-class transport system within the space of a few years,' says Chris Kost, the Africa director of ITDP (the Institute for Transportation and Development Policy). All phases are being planned to high standards and, once complete, a third of city residents will be within a short walk of the BRT network.The ITDP regrets Africa's obsession with metros. 'With a metro, an international firm will often just parachute in its own system,' says Kost. 'Bus rapid transit allows existing stakeholders to get involved. That's what we did in Dar es Salaam and what we're planning in Nairobi, where the bus bodies will be built in the city and local operators will look after tickets, fare collection and IT ... Bus rapid transit has been transformational for Dar es Salaam. For millions of people in African cities, this is their best hope of ever being connected.'原题 · 印刷页66Questions 14-18Do the following statements agree with the information given in Reading Passage 2?In boxes 14-18 on your answer sheet, writeTRUE FALSE NOT GIVENif the statement agrees with the information if the statement contradicts the information if there is no information on this14 The population of Dar es Salaam is rising more rapidly than was previously predicted.15 Most of the residents of Dar es Salaam live in high-rise blocks on the edge of the city.16 Residents have been consulted about their views on the suburban rail line in Dar es Salaam.17 The majority of the present residential development in Dar es Salaam is unplanned.18 Dar es Salaam's authorities have decided to follow the public transport plan adopted by a large number of African cities.原题 · 印刷页67Questions 19-26Complete the notes below.Choose ONE WORD ONLY from the passage for each answer.Write your answers in boxes 19-26 on your answer sheet.Dar es Salaam's DART Bus Rapid Transit systemFeatures • the buses use designated 19 ..................................... to cut down on delays• passengers pay fares before 20 ................................... ..• passengers in 21 ..................................... can use every part of the systemProblems • the temperature control is sometimes not activated in order to reduce 22 ..................................... use• insufficient number of vehicles are available due to the effects of a severe 23 .................................... .• passengers are unable to use 24 ..................................... because some equipment is out of action • tickets have to be checked manually at station 25 .................................... .• 26 ..................................... frequently build up during rush hoursp. 1221答案与证据解释Q14 NOT GIVEN：有多组增长预测，但没有实际比以前预测更快的比较；Q15 FALSE：single-storey与high-rise冲突；Q16 NOT GIVEN：没有铁路居民咨询；Q17 TRUE：without any agreed strategy说明无规划；Q18 FALSE：Unlike many cities说明并非照搬众多城市的地铁计划。Q19–26 lanes/boarding/wheelchairs/fuel/flood/smartcards/gates/queues。轮椅通达性来自step-free；停空调为了节油；洪水使车辆不足；读卡器与扫描器坏了导致人工检票和队列。好处与实施缺陷同时存在，不能只摘“公交更好”。完整原件：Cambridge IELTS 21 Academic · Test 3 · 物理页65 / 印刷页64；Cambridge IELTS 21 Academic · Test 3 · 物理页67 / 印刷页66；Cambridge IELTS 21 Academic · Test 3 · 物理页123 / 印刷页122Cambridge IELTS 21 Academic · Test 3 · 物理页65 / 印刷页64Cambridge IELTS 21 Academic · Test 3 · 物理页67 / 印刷页66Cambridge IELTS 21 Academic · Test 3 · 物理页123 / 印刷页122",
+  "links": [
+    {
+      "text": "原文所在页",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=66"
+    },
+    {
+      "text": "Cambridge IELTS 21 Academic · Test 3 · 物理页65 / 印刷页64",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=65"
+    },
+    {
+      "text": "Cambridge IELTS 21 Academic · Test 3 · 物理页67 / 印刷页66",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=67"
+    },
+    {
+      "text": "Cambridge IELTS 21 Academic · Test 3 · 物理页123 / 印刷页122",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=123"
+    },
+    {
+      "text": "Cambridge IELTS 21 Academic · Test 3 · 物理页65 / 印刷页64",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=65"
+    },
+    {
+      "text": "Cambridge IELTS 21 Academic · Test 3 · 物理页67 / 印刷页66",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=67"
+    },
+    {
+      "text": "Cambridge IELTS 21 Academic · Test 3 · 物理页123 / 印刷页122",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=123"
+    }
+  ],
+  "details": [
+    {
+      "id": "answer-check-18",
+      "title": "完成后核对",
+      "open": false,
+      "answerGate": "[\"prereq-as-result\"]",
+      "visible": true
+    }
+  ],
+  "saveFields": [
+    "vocab-saved-usage-as-a-result",
+    "prereq-as-result"
+  ],
+  "images": [],
+  "audio": [],
+  "viewport": 1440,
+  "documentWidth": 1440
+}

@@ -1,0 +1,211 @@
+{
+  "requested": "topic-coverage",
+  "from": [
+    "页面链接"
+  ],
+  "actual": "#topic-coverage",
+  "checkedAt": "2026-09-21T12:54:07.905Z",
+  "title": "共用背景 · IELTS",
+  "label": "共用背景",
+  "panel": "background",
+  "contentRoot": "topic-coverage",
+  "headings": [
+    {
+      "tag": "H2",
+      "text": "从主题目录找到要补的背景",
+      "visible": false
+    }
+  ],
+  "controls": [
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "文化与休闲",
+      "label": "",
+      "href": "#topic-culture",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "工作与经济",
+      "label": "",
+      "href": "#topic-work",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "教育与技能",
+      "label": "",
+      "href": "#topic-education",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "环境与资源",
+      "label": "",
+      "href": "#topic-environment",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "太空与科研",
+      "label": "",
+      "href": "#topic-space",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "城市与交通",
+      "label": "",
+      "href": "#topic-cities",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "健康与生活",
+      "label": "",
+      "href": "#topic-health",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "日常生活与六段个人语境",
+      "label": "",
+      "href": "#topic-everyday",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "科技与变化",
+      "label": "",
+      "href": "#topic-technology",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "犯罪与惩罚",
+      "label": "",
+      "href": "#topic-crime",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "政府公共支出",
+      "label": "",
+      "href": "#topic-government",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "社会与代际",
+      "label": "",
+      "href": "#topic-society",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    }
+  ],
+  "visibleText": "从主题目录找到要补的背景补充资料中的类别从这里开始读还要留意什么艺术、媒体与广告、阅读文化与休闲体验与传播方式；广告还要分清告知与说服。商业与金钱、工作工作与经济费用、价值、岗位与工作条件；价格不能代替所有评价。沟通与性格、语言、教育教育与技能表达清晰、学习机会与反馈；能力需要具体表现。环境、太空探索环境与资源资源分配与公共投入；已补独立读本：太空与科研；不能直接套环保观点。住房与城市规划、交通、旅游城市与交通便利、容量、当地生活与访客需求；旅游另需考虑居民影响。健康、食物与饮食、运动健康与生活个人选择、可获得的服务与公共设施；避免未经支持的健康因果。家庭与儿童、休闲日常生活与六段个人语境照顾、共同活动、兴趣与生活安排；用具体事件说明关系。科技科技与变化工具做了什么、使用条件是什么、哪些人能够使用。犯罪与惩罚、政府、社会犯罪与惩罚 · 政府公共支出 · 社会与代际已补齐语境、概念、用法、示范与解释；均为原创基础教学。",
+  "allContent": "从主题目录找到要补的背景补充资料中的类别从这里开始读还要留意什么艺术、媒体与广告、阅读文化与休闲体验与传播方式；广告还要分清告知与说服。商业与金钱、工作工作与经济费用、价值、岗位与工作条件；价格不能代替所有评价。沟通与性格、语言、教育教育与技能表达清晰、学习机会与反馈；能力需要具体表现。环境、太空探索环境与资源资源分配与公共投入；已补独立读本：太空与科研；不能直接套环保观点。住房与城市规划、交通、旅游城市与交通便利、容量、当地生活与访客需求；旅游另需考虑居民影响。健康、食物与饮食、运动健康与生活个人选择、可获得的服务与公共设施；避免未经支持的健康因果。家庭与儿童、休闲日常生活与六段个人语境照顾、共同活动、兴趣与生活安排；用具体事件说明关系。科技科技与变化工具做了什么、使用条件是什么、哪些人能够使用。犯罪与惩罚、政府、社会犯罪与惩罚 · 政府公共支出 · 社会与代际已补齐语境、概念、用法、示范与解释；均为原创基础教学。",
+  "links": [
+    {
+      "text": "文化与休闲",
+      "href": "#topic-culture"
+    },
+    {
+      "text": "工作与经济",
+      "href": "#topic-work"
+    },
+    {
+      "text": "教育与技能",
+      "href": "#topic-education"
+    },
+    {
+      "text": "环境与资源",
+      "href": "#topic-environment"
+    },
+    {
+      "text": "太空与科研",
+      "href": "#topic-space"
+    },
+    {
+      "text": "城市与交通",
+      "href": "#topic-cities"
+    },
+    {
+      "text": "健康与生活",
+      "href": "#topic-health"
+    },
+    {
+      "text": "日常生活与六段个人语境",
+      "href": "#topic-everyday"
+    },
+    {
+      "text": "科技与变化",
+      "href": "#topic-technology"
+    },
+    {
+      "text": "犯罪与惩罚",
+      "href": "#topic-crime"
+    },
+    {
+      "text": "政府公共支出",
+      "href": "#topic-government"
+    },
+    {
+      "text": "社会与代际",
+      "href": "#topic-society"
+    }
+  ],
+  "details": [],
+  "saveFields": [],
+  "images": [],
+  "audio": [],
+  "viewport": 1440,
+  "documentWidth": 1440
+}

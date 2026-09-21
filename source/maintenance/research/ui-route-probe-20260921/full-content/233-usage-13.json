@@ -1,0 +1,73 @@
+{
+  "requested": "usage-13",
+  "from": [
+    "内容单元"
+  ],
+  "actual": "#usage-13",
+  "checkedAt": "2026-09-21T12:53:26.148Z",
+  "title": "学习 / 短语 / associated with · IELTS",
+  "label": "学习 / 短语 / associated with",
+  "panel": "phrases",
+  "contentRoot": "usage-13",
+  "headings": [
+    {
+      "tag": "H3",
+      "text": "associated with",
+      "visible": true
+    }
+  ],
+  "controls": [
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "checkbox",
+      "text": "",
+      "label": "收藏 associated with",
+      "href": null,
+      "save": "vocab-saved-usage-associated-with",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "Johnson's Dictionary",
+      "label": "",
+      "href": "原始参考/e0428977-hwatai-cambridge5-sample.pdf",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "checkbox",
+      "text": "",
+      "label": "我已看过本单元",
+      "href": null,
+      "save": "learning-read-usage-13",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    }
+  ],
+  "visibleText": "0% · 0 / 1 完成\n☆\nassociated with\n\n表示两件事有联系，或某事通常让人联想到另一事：与……有关。\n\nbe associated with + 名词／doing；risks associated with a policy；associate A with B 表示把 A 与 B 联系起来。\n\nthe rise of dictionaries is associated with the rise of the English middle class\n\n原文主句中的准确节选；它描述词典发展与社会变化的联系。\n\n原文：\n\nJohnson's Dictionary\n\n日常语境例句\n\nFor many students, group work is associated with sharing ideas and solving problems together.\n\n对很多学生来说，小组合作让人联想到分享想法、一起解决问题。\n\n关联不自动证明因果，不要把 is associated with 直接改写成 causes。with 是此结构常用介词，不能照中文随意改为 to。\n\n我已看过本单元",
+  "allContent": "0% · 0 / 1 完成☆associated with表示两件事有联系，或某事通常让人联想到另一事：与……有关。be associated with + 名词／doing；risks associated with a policy；associate A with B 表示把 A 与 B 联系起来。the rise of dictionaries is associated with the rise of the English middle class原文主句中的准确节选；它描述词典发展与社会变化的联系。原文：Johnson's Dictionary日常语境例句For many students, group work is associated with sharing ideas and solving problems together.对很多学生来说，小组合作让人联想到分享想法、一起解决问题。关联不自动证明因果，不要把 is associated with 直接改写成 causes。with 是此结构常用介词，不能照中文随意改为 to。 我已看过本单元",
+  "links": [
+    {
+      "text": "Johnson's Dictionary",
+      "href": "原始参考/e0428977-hwatai-cambridge5-sample.pdf"
+    }
+  ],
+  "details": [],
+  "saveFields": [
+    "vocab-saved-usage-associated-with",
+    "learning-read-usage-13"
+  ],
+  "images": [],
+  "audio": [],
+  "viewport": 1440,
+  "documentWidth": 1440
+}

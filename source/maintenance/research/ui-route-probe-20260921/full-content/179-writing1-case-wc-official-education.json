@@ -1,0 +1,174 @@
+{
+  "requested": "writing1-case-wc-official-education",
+  "from": [
+    "内容单元",
+    "页面链接"
+  ],
+  "actual": "#writing1-case-wc-official-education",
+  "checkedAt": "2026-09-21T12:52:43.398Z",
+  "title": "练习 / 写作 · Task 1 / 英国继续教育：人数与学习形式 · IELTS",
+  "label": "练习 / 写作 · Task 1 / 英国继续教育：人数与学习形式",
+  "panel": "practice-writing1",
+  "contentRoot": "writing1-case-wc-official-education",
+  "headings": [
+    {
+      "tag": "H4",
+      "text": "本次写作任务",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "对照答案，回到证据",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "参考写法",
+      "visible": false
+    },
+    {
+      "tag": "H3",
+      "text": "答后精读",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "篇章结构",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "词语与搭配",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "句子精读",
+      "visible": false
+    }
+  ],
+  "controls": [
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "英国继续教育：人数与学习形式未作答\n柱状图 · 原题拆段写作 · 参考段落与逐段讲解",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "IELTS Academic Writing Sample Tasks (2023)",
+      "label": "",
+      "href": "case-assets/writing-official-sample-tasks-2023.pdf#page=3",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "",
+      "label": "",
+      "href": "case-assets/writing-official-3.png",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "case-wc-official-education-answer",
+      "type": "textarea",
+      "text": "",
+      "label": "我的段落",
+      "href": null,
+      "save": "case-wc-official-education-answer",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "checkbox",
+      "text": "",
+      "label": "",
+      "href": null,
+      "save": "case-wc-official-education-done",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "hidden",
+      "text": "",
+      "label": "",
+      "href": null,
+      "save": "case-wc-official-education-saved-at",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "保留作答，查看答案",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "case-wc-official-education-revision",
+      "type": "textarea",
+      "text": "",
+      "label": "我的修订／证据笔记",
+      "href": null,
+      "save": "case-wc-official-education-revision",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    }
+  ],
+  "visibleText": "英国继续教育：人数与学习形式未作答\n柱状图 · 原题拆段写作 · 参考段落与逐段讲解\n0% · 0 / 1 完成\n\n官方样题 · IELTS Academic Writing Sample Tasks (2023) · PDF 第 3 页\n\nThe chart below shows the number of men and women in further education in Britain in three periods and whether they were studying full-time or part-time.\n\n点击图示可查看大图。\n本次写作任务\n\n写Overview及两个主体段（约150–180词）：按part-time/full-time分组，跨性别和年份作比较。纵轴是thousands，图上非刻度交点的数使用about。\n\n我的段落\n\n0 词\n\n保留作答，查看答案\n\n先作答；不确定的题也可记录判断与疑点。",
+  "allContent": "英国继续教育：人数与学习形式未作答柱状图 · 原题拆段写作 · 参考段落与逐段讲解0% · 0 / 1 完成官方样题 · IELTS Academic Writing Sample Tasks (2023) · PDF 第 3 页The chart below shows the number of men and women in further education in Britain in three periods and whether they were studying full-time or part-time.点击图示可查看大图。本次写作任务写Overview及两个主体段（约150–180词）：按part-time/full-time分组，跨性别和年份作比较。纵轴是thousands，图上非刻度交点的数使用about。我的段落0 词保留作答，查看答案先作答；不确定的题也可记录判断与疑点。对照答案，回到证据参考写法下列段落为针对原题编写的参考写法，用于对照内容和表达；写作没有唯一标准答案。Overall, part-time study was much more common than full-time study among both men and women in all three periods. Female participation increased in both modes, and by 1990/91 women outnumbered men in part-time education, while the numbers studying full-time were similar.About one million men studied part-time in 1970/71, compared with roughly 750,000 women. Male participation then declined to around 850,000 in 1980/81 before recovering to about 900,000 in 1990/91. The corresponding female figure rose steadily, reaching just over 800,000 in the middle period and approximately 1.1 million in the final one. Thus, the initial male lead was reversed by the end.Full-time numbers were considerably smaller. Around 100,000 men followed full-time courses in 1970/71, compared with fewer than 100,000 women. Both figures subsequently increased. Female full-time participation had moved above the male figure by 1980/81, and by 1990/91 the totals for the two sexes were both in the region of a quarter of a million.纵轴thousands：1000相当于1,000,000人；不能把灰柱1000写成1000人或1000%。灰柱part-time始终远高于黑柱full-time。男性part-time先降后回升，不能写三期持续上升。女性part-time最终约1.1 million高于男性约0.9 million；采用图形估读的约数，不把粗图假装精确调查数据。答后精读篇章结构Overview横跨两个性别和两种形式。主体一用part-time的起点差距、转折、终点反转构成比较链。主体二把较小的full-time群体集中处理。词语与搭配outnumbered men：人数超过男性，而非增长率超过男性。the corresponding female figure：省去重复part-time participation。in the region of a quarter of a million：粗图估读的稳妥表达。句子精读Male participation then declined ... before recovering ... → before后动名词标示先降后升。Thus, the initial male lead was reversed by the end. → 总结比较，不添加原因。我的修订／证据笔记",
+  "links": [
+    {
+      "text": "IELTS Academic Writing Sample Tasks (2023)",
+      "href": "case-assets/writing-official-sample-tasks-2023.pdf#page=3"
+    },
+    {
+      "text": "",
+      "href": "case-assets/writing-official-3.png"
+    }
+  ],
+  "details": [],
+  "saveFields": [
+    "case-wc-official-education-answer",
+    "case-wc-official-education-done",
+    "case-wc-official-education-saved-at",
+    "case-wc-official-education-revision"
+  ],
+  "images": [
+    {
+      "src": "case-assets/writing-official-3.png",
+      "alt": "英国继续教育：人数与学习形式 · 原题图示，点击查看大图",
+      "visible": true,
+      "complete": false,
+      "width": 0
+    }
+  ],
+  "audio": [],
+  "viewport": 1440,
+  "documentWidth": 1440
+}

@@ -1,0 +1,471 @@
+{
+  "requested": "reading-text-miles",
+  "from": [
+    "页面链接"
+  ],
+  "actual": "#reading-text-miles",
+  "checkedAt": "2026-09-21T12:54:34.134Z",
+  "title": "学习 / 阅读 / 标题匹配：用整段意思判断 Miles Davis 的人生阶段 · IELTS",
+  "label": "学习 / 阅读 / 标题匹配：用整段意思判断 Miles Davis 的人生阶段",
+  "panel": "reading",
+  "contentRoot": "learn-reading-headings-miles",
+  "headings": [
+    {
+      "tag": "H3",
+      "text": "标题覆盖的是整段",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "短示范：不要被第一句话吸走",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "应用到原题",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "Miles Davis · 标题匹配",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "Surveying the text",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "MILES DAVIS",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "Strategy for dealing with Matching Headings questions",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "List of Headings",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "留下本单元首稿",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "核对依据，再修订",
+      "visible": false
+    },
+    {
+      "tag": "H3",
+      "text": "示范",
+      "visible": false
+    },
+    {
+      "tag": "H3",
+      "text": "原题反馈",
+      "visible": false
+    },
+    {
+      "tag": "H3",
+      "text": "换个情境再用一次",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "Miles Davis：独特音色、双重教育与音乐遗产",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "Miles Davis：独特音色、双重教育与音乐遗产",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "原题选项",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "原题答案与具体证据",
+      "visible": false
+    }
+  ],
+  "controls": [
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "01\n标题匹配：用整段意思判断 Miles Davis 的人生阶段\n这一单元练主旨与支撑细节的区别。先学方法，再做六道原题；结果记录为学习后应用，不作未见基线，也不换算雅思分数。\n约 25 分钟",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "查看原图 · 4 页",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "我的答案／口语录音文件与简记",
+      "href": null,
+      "save": "enrich-reading-headings-miles-answer",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "checkbox",
+      "text": "",
+      "label": "",
+      "href": null,
+      "save": "enrich-reading-headings-miles-frozen",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "text",
+      "text": "",
+      "label": "",
+      "href": null,
+      "save": "enrich-reading-headings-miles-saved-at",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "保留首稿，打开反馈",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "教师反馈 PDF，原第 4–6 页",
+      "label": "",
+      "href": "原始参考/e885c438-miles-teacher-feedback.pdf",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "修订：哪里变了，为什么",
+      "href": null,
+      "save": "enrich-reading-headings-miles-revision",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "可选：记录或再练一次",
+      "label": "",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "迁移答案／隔日回忆记录",
+      "href": null,
+      "save": "enrich-reading-headings-miles-transfer",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "可选：记录或再练一次",
+      "label": "",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SELECT",
+      "id": "",
+      "type": "select-one",
+      "text": "请选择内容或语境没理解词义或声音没认出词汇选择／搭配不稳证据、逻辑或展开不足语法或句子组织问题暂时独立完成，隔天再检验",
+      "label": "这次最需要补什么？请选择内容或语境没理解词义或声音没认出词汇选择／搭配不稳证据、逻辑或展开不足语法或句子组织问题暂时独立完成，隔天再检验",
+      "href": null,
+      "save": "enrich-reading-headings-miles-diagnosis",
+      "visible": false,
+      "disabled": false,
+      "required": false,
+      "options": [
+        {
+          "value": "",
+          "label": "请选择"
+        },
+        {
+          "value": "内容或语境没理解",
+          "label": "内容或语境没理解"
+        },
+        {
+          "value": "词义或声音没认出",
+          "label": "词义或声音没认出"
+        },
+        {
+          "value": "词汇选择／搭配不稳",
+          "label": "词汇选择／搭配不稳"
+        },
+        {
+          "value": "证据、逻辑或展开不足",
+          "label": "证据、逻辑或展开不足"
+        },
+        {
+          "value": "语法或句子组织问题",
+          "label": "语法或句子组织问题"
+        },
+        {
+          "value": "暂时独立完成，隔天再检验",
+          "label": "暂时独立完成，隔天再检验"
+        }
+      ]
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "原文与答案详解",
+      "label": "",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "British Council · Academic Practice Test 2 · Miles Davis · Q14–19",
+      "label": "",
+      "href": "原始参考/b09e5747-miles-student.pdf#page=1",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "原答案",
+      "label": "",
+      "href": "原始参考/e885c438-miles-teacher-feedback.pdf#page=2",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "练原题：Miles Davis：独特音色、双重教育与音乐遗产",
+      "label": "",
+      "href": "#reading-case-rd-official-miles-1",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "配套材料",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "",
+      "label": "",
+      "href": "原始参考/b09e5747-miles-student.pdf",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "",
+      "label": "",
+      "href": "https://takeielts.britishcouncil.org/sites/default/files/2026-06/reading_matching_headings_.pdf",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "",
+      "label": "",
+      "href": "https://ielts.org/take-a-test/test-types/ielts-academic-test/ielts-academic-format-reading",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "",
+      "label": "",
+      "href": "https://ielts.org/news-and-insights/how-to-prepare-learners-for-matching-headings-task-on-the-ielts-reading-test",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    }
+  ],
+  "visibleText": "01\n标题匹配：用整段意思判断 Miles Davis 的人生阶段\n这一单元练主旨与支撑细节的区别。先学方法，再做六道原题；结果记录为学习后应用，不作未见基线，也不换算雅思分数。\n约 25 分钟\n0% · 0 / 1 完成\n标题覆盖的是整段\n\n标题匹配要求找段落的中心意思。细节信息匹配则是找某条信息出现在哪里，两者不能用同一套判断标准。现行标题匹配规则中，标题有多余项，一个标题不能重复使用；有的段落可能不设题或已作示例，按当前题面填写。\n\n先读标题，把它们压缩成中文意义：是在说一种风格、两条学习路径、困难，还是转向？再快速读段落，用一句话写出“谁／什么＋发生了什么＋这段主要在说明什么”。开头、转折和结尾往往有帮助，但首句可能只是引入故事，不能只凭首句选题。\n\n短示范：不要被第一句话吸走\n\n“Two years ago, the library bought twenty tablets. Staff then discovered that many visitors needed help filling in online forms. They introduced weekly support sessions, and attendance soon grew. The library now sees digital guidance as a central part of its service.”\n\n给这段选标题：①购买设备的费用；②图书馆服务重点的变化；③平板电脑的技术故障。先写一句段意，再选择。这个示范由本学习册编写，不是真题。\n\n应用到原题\n\n下面原页提供 Miles Davis 的 A–F 六段和九个标题。每段先写一个不超过 15 个中文字的主旨，再比较两个最接近的标题。问自己：这个标题能解释大部分句子吗？有没有把一件小事当整段主题？有没有把 earlier／later、肯定／批评或“只有一种”读错？\n\n原第 9 页还提供 A、B、D 的部分主题句作为课堂支架。如果使用了它们，在记录中写“用过提示”。不会的题可以留空并标问号，不必为六道题反复通读整篇。\n\nMiles Davis · 标题匹配\nSurveying the text\n\n1 Survey the following reading passage. (20 seconds)\n\nMILES DAVIS\n\nIcon and iconoclast¹\n\nA At the age of thirteen, Miles Davis was given his first trumpet, lessons were arranged with a local trumpet player, and a musical odyssey began. These early lessons, paid for and supported by his father, had a profound effect on shaping Davis’ signature sound. Whereas most trumpeters of the era favoured the use of vibrato (a wobbly quiver in pitch inflected in the instrument’s tone), Davis was taught to play with a long, straight tone, a preference his instructor reportedly drilled into the young trumpeter with a rap on the knuckles every time Davis began using vibrato. This clear, distinctive style never left Davis. He continued playing with it for the rest of his career, once remarking, ‘If I can’t get that sound, I can’t play anything.’\n\nB Having graduated from high school in 1944, Davis moved to New York City, where he continued his musical education both in the clubs and in the classroom. His enrolment in the prestigious Julliard School of Music was short-lived, however – he soon dropped out, criticising what he perceived as an over-emphasis on the classical European repertoire and a neglect of jazz. Davis did later acknowledge, however, that this time at the school was invaluable in terms of developing his trumpet-playing technique and giving him a solid grounding in music theory. Much of his early training took place in the form of jam sessions and performances in the clubs of 52nd Street, where he played alongside both up-and-coming and established members of the jazz pantheon such as Coleman Hawkins, Eddie ‘Lockjaw’ Davis, and Thelonious Monk.\n\nC In the late 1940s, Davis collaborated with nine other instrumentalists, including a French horn and a tuba player, to produce The Birth of Cool, an album now renowned for the inchoate sounds of what would later become known as ‘cool’ jazz. In contrast to popular jazz styles of the day, which featured rapid, rollicking beats, shrieking vocals, and short, sharp horn blasts, Davis’ album was the forerunner of a different kind of sound – thin, light horn-playing, hushed drums and a more restrained, formal arrangement. Although it received little acclaim at the time (the liner notes to one of Davis’ later recordings call it a ‘spectacular failure’), in hindsight The Birth of Cool has become recognised as a pivotal moment in jazz history, cementing – alongside his 1958 recording, Kind of Blue – Davis’ legacy as one of the most innovative musicians of his era.\n\nD Though Davis’ trumpet playing may have sounded effortless and breezy, this ease rarely carried over into the rest of his life. The early 1950s, in particular, were a time of great personal turmoil. After returning from a stint in Paris, Davis suffered from prolonged depression, which he attributed to the unravelling of a number of relationships, including his romance with a French actress and some musical partnerships that ruptured as a result of creative disputes. Davis was also frustrated by his perception that he had been overlooked by the music critics, who were hailing the success of his collaborators and descendants in the ‘cool’ tradition, such as Gerry Mulligan and Dave Brubeck, but who afforded him little credit for introducing the cool sound in the first place.\n\nE In the latter decades of his career, Davis broke out of exclusive jazz settings and began to diversify his output across a range of musical styles. In the 1960s, he was influenced by early funk performers such as Sly and the Family Stone, which then expanded into the jazz-rock fusion genre – of which he was a frontrunner – in the 1970s. Electronic recording effects and electric instruments were incorporated into his sound. By the 1980s, Davis was pushing the boundaries further, covering pop anthems such as Cyndi Lauper’s Time After Time and Michael Jackson’s Human Nature, dabbling in hip hop, and even appearing in some movies.\n\nF Not everyone was supportive of Davis’ change of tune. Compared to the recordings of his early career, universally applauded as linchpins of the jazz oeuvre, trumpeter Wynston Marsalis derided his fusion work as being ‘not true jazz’, and pianist Bill Evans denounced the ‘corrupting influence’ of record companies, noting that rock and pop ‘draw wider audiences’. In the face of this criticism Davis remained defiant, commenting that his earlier recordings were part of a moment in time that he had no ‘feel’ for any more. He firmly believed that remaining stylistically inert would have hampered his ability to develop new ways of producing music. From this perspective, Davis’ continual revamping of genre was not merely a rebellion, but an evolution, a necessary path that allowed him to release his full musical potential.\n\n¹ An iconoclast is somebody who challenges traditional beliefs or customs\n\n2 What do you expect the text to be about?\n\nInstructions on how to play a musical instrument\nAn autobiography of a famous musician\nA description of a journey\nStrategy for dealing with Matching Headings questions\n\n3 Skim read the first 4 paragraphs.\n\n4 With a partner, discuss what you think each paragraph is generally about. You can write your ideas in the margin next to paragraphs A-D.\n\n5 Read the headings below, underline any keywords.\n\nList of Headings\nA legacy is established\nFormal education unhelpful\nAn education in two parts\nBranching out in new directions\nChildhood and family life\nChange necessary to stay creative\nConflicted opinions over Davis’ earlier work\nDavis’ unique style of trumpet playing\nPersonal and professional struggles\n\n6 Work in pairs. Try to match the topic sentences from A,B and D to the headings. Discuss the questions below.\n\nA These early lessons, paid for and supported by his father, had a profound effect on shaping Davis’ signature sound.\n\nB Having graduated from high school in 1944, Davis moved to New York City, where he continued his musical education both in the clubs and in the classroom.\n\nD Though Davis’ trumpet playing may have sounded effortless and breezy, this ease rarely carried over into the rest of his life.\n\nDiscuss how you made your match – which keywords helped you?\nWhich ones were you sure of?\nWhich ones were you less sure of and need to read more?\nWere all of the topic sentences taken from the first line of the paragraphs?\n\n7 Put the following into a possible order to give you a strategy for dealing with Matching Headings questions.\n\nMake final choices as you read more of the text.\nSurvey the passage, titles, and diagrams.\nTry to match the keywords of the headings with the first/topic sentences.\nSkim the paragraphs, quickly reading first/topic sentences and final sentences to get an idea of what each paragraph is about.\nRead the headings, underlining keywords.\nBe careful when transferring answers, use the Roman numerals if provided (i-x).\nIf you can’t find a match, read the final sentence of the paragraph.\nEliminate any headings used as an example.\nIf you still can’t find a match, read the whole paragraph.\nRepeat for each paragraph or section.\n\nb) ______ ______ ______ ______ ______ ______ ______ ______ ______\n\n8 Write your answers to A, B and D. Use the strategy to answer the rest of the questions.\n\n14. Paragraph A ______\n15. Paragraph B ______\n16. Paragraph C ______\n17. Paragraph D ______\n18. Paragraph E ______\n19. Paragraph F ______\n查看原图 · 4 页\n留下本单元首稿\n\n本单元先学再用；不记为未见初测。口语可使用原章节录音器，或自行录音并记文件名。\n\n学习后首次应用｜建议 12 分钟。先完成示范，再做原第 10 页 Questions 14–19。提交格式：示范＝＿＿＿＿，段意＝＿＿＿＿；14/A＝＿＿＿＿，15/B＝＿＿＿＿，16/C＝＿＿＿＿，17/D＝＿＿＿＿，18/E＝＿＿＿＿，19/F＝＿＿＿＿。每段附一条段意；对两道最犹豫的题，写出被排除的标题和理由。最后记录用时、未答数、是否使用第 9 页提示。保存这次作答后再打开反馈。\n\n我的答案／口语录音文件与简记\n保留首稿，打开反馈\n\n先写下自己的答案。\n\n配套材料",
+  "allContent": "01标题匹配：用整段意思判断 Miles Davis 的人生阶段这一单元练主旨与支撑细节的区别。先学方法，再做六道原题；结果记录为学习后应用，不作未见基线，也不换算雅思分数。约 25 分钟0% · 0 / 1 完成标题覆盖的是整段\n标题匹配要求找段落的中心意思。细节信息匹配则是找某条信息出现在哪里，两者不能用同一套判断标准。现行标题匹配规则中，标题有多余项，一个标题不能重复使用；有的段落可能不设题或已作示例，按当前题面填写。\n先读标题，把它们压缩成中文意义：是在说一种风格、两条学习路径、困难，还是转向？再快速读段落，用一句话写出“谁／什么＋发生了什么＋这段主要在说明什么”。开头、转折和结尾往往有帮助，但首句可能只是引入故事，不能只凭首句选题。\n短示范：不要被第一句话吸走\n“Two years ago, the library bought twenty tablets. Staff then discovered that many visitors needed help filling in online forms. They introduced weekly support sessions, and attendance soon grew. The library now sees digital guidance as a central part of its service.”\n给这段选标题：①购买设备的费用；②图书馆服务重点的变化；③平板电脑的技术故障。先写一句段意，再选择。这个示范由本学习册编写，不是真题。\n应用到原题\n下面原页提供 Miles Davis 的 A–F 六段和九个标题。每段先写一个不超过 15 个中文字的主旨，再比较两个最接近的标题。问自己：这个标题能解释大部分句子吗？有没有把一件小事当整段主题？有没有把 earlier／later、肯定／批评或“只有一种”读错？\n原第 9 页还提供 A、B、D 的部分主题句作为课堂支架。如果使用了它们，在记录中写“用过提示”。不会的题可以留空并标问号，不必为六道题反复通读整篇。Miles Davis · 标题匹配Surveying the text1 Survey the following reading passage. (20 seconds)MILES DAVISIcon and iconoclast¹A  At the age of thirteen, Miles Davis was given his first trumpet, lessons were arranged with a local trumpet player, and a musical odyssey began. These early lessons, paid for and supported by his father, had a profound effect on shaping Davis’ signature sound. Whereas most trumpeters of the era favoured the use of vibrato (a wobbly quiver in pitch inflected in the instrument’s tone), Davis was taught to play with a long, straight tone, a preference his instructor reportedly drilled into the young trumpeter with a rap on the knuckles every time Davis began using vibrato. This clear, distinctive style never left Davis. He continued playing with it for the rest of his career, once remarking, ‘If I can’t get that sound, I can’t play anything.’B  Having graduated from high school in 1944, Davis moved to New York City, where he continued his musical education both in the clubs and in the classroom. His enrolment in the prestigious Julliard School of Music was short-lived, however – he soon dropped out, criticising what he perceived as an over-emphasis on the classical European repertoire and a neglect of jazz. Davis did later acknowledge, however, that this time at the school was invaluable in terms of developing his trumpet-playing technique and giving him a solid grounding in music theory. Much of his early training took place in the form of jam sessions and performances in the clubs of 52nd Street, where he played alongside both up-and-coming and established members of the jazz pantheon such as Coleman Hawkins, Eddie ‘Lockjaw’ Davis, and Thelonious Monk.C  In the late 1940s, Davis collaborated with nine other instrumentalists, including a French horn and a tuba player, to produce The Birth of Cool, an album now renowned for the inchoate sounds of what would later become known as ‘cool’ jazz. In contrast to popular jazz styles of the day, which featured rapid, rollicking beats, shrieking vocals, and short, sharp horn blasts, Davis’ album was the forerunner of a different kind of sound – thin, light horn-playing, hushed drums and a more restrained, formal arrangement. Although it received little acclaim at the time (the liner notes to one of Davis’ later recordings call it a ‘spectacular failure’), in hindsight The Birth of Cool has become recognised as a pivotal moment in jazz history, cementing – alongside his 1958 recording, Kind of Blue – Davis’ legacy as one of the most innovative musicians of his era.D  Though Davis’ trumpet playing may have sounded effortless and breezy, this ease rarely carried over into the rest of his life. The early 1950s, in particular, were a time of great personal turmoil. After returning from a stint in Paris, Davis suffered from prolonged depression, which he attributed to the unravelling of a number of relationships, including his romance with a French actress and some musical partnerships that ruptured as a result of creative disputes. Davis was also frustrated by his perception that he had been overlooked by the music critics, who were hailing the success of his collaborators and descendants in the ‘cool’ tradition, such as Gerry Mulligan and Dave Brubeck, but who afforded him little credit for introducing the cool sound in the first place.E  In the latter decades of his career, Davis broke out of exclusive jazz settings and began to diversify his output across a range of musical styles. In the 1960s, he was influenced by early funk performers such as Sly and the Family Stone, which then expanded into the jazz-rock fusion genre – of which he was a frontrunner – in the 1970s. Electronic recording effects and electric instruments were incorporated into his sound. By the 1980s, Davis was pushing the boundaries further, covering pop anthems such as Cyndi Lauper’s Time After Time and Michael Jackson’s Human Nature, dabbling in hip hop, and even appearing in some movies.F  Not everyone was supportive of Davis’ change of tune. Compared to the recordings of his early career, universally applauded as linchpins of the jazz oeuvre, trumpeter Wynston Marsalis derided his fusion work as being ‘not true jazz’, and pianist Bill Evans denounced the ‘corrupting influence’ of record companies, noting that rock and pop ‘draw wider audiences’. In the face of this criticism Davis remained defiant, commenting that his earlier recordings were part of a moment in time that he had no ‘feel’ for any more. He firmly believed that remaining stylistically inert would have hampered his ability to develop new ways of producing music. From this perspective, Davis’ continual revamping of genre was not merely a rebellion, but an evolution, a necessary path that allowed him to release his full musical potential.¹ An iconoclast is somebody who challenges traditional beliefs or customs2 What do you expect the text to be about?Instructions on how to play a musical instrumentAn autobiography of a famous musicianA description of a journeyStrategy for dealing with Matching Headings questions3 Skim read the first 4 paragraphs.4 With a partner, discuss what you think each paragraph is generally about. You can write your ideas in the margin next to paragraphs A-D.5 Read the headings below, underline any keywords.List of HeadingsA legacy is establishedFormal education unhelpfulAn education in two partsBranching out in new directionsChildhood and family lifeChange necessary to stay creativeConflicted opinions over Davis’ earlier workDavis’ unique style of trumpet playingPersonal and professional struggles6 Work in pairs. Try to match the topic sentences from A,B and D to the headings. Discuss the questions below.A  These early lessons, paid for and supported by his father, had a profound effect on shaping Davis’ signature sound.B  Having graduated from high school in 1944, Davis moved to New York City, where he continued his musical education both in the clubs and in the classroom.D  Though Davis’ trumpet playing may have sounded effortless and breezy, this ease rarely carried over into the rest of his life.Discuss how you made your match – which keywords helped you?Which ones were you sure of?Which ones were you less sure of and need to read more?Were all of the topic sentences taken from the first line of the paragraphs?7 Put the following into a possible order to give you a strategy for dealing with Matching Headings questions.Make final choices as you read more of the text.Survey the passage, titles, and diagrams.Try to match the keywords of the headings with the first/topic sentences.Skim the paragraphs, quickly reading first/topic sentences and final sentences to get an idea of what each paragraph is about.Read the headings, underlining keywords.Be careful when transferring answers, use the Roman numerals if provided (i-x).If you can’t find a match, read the final sentence of the paragraph.Eliminate any headings used as an example.If you still can’t find a match, read the whole paragraph.Repeat for each paragraph or section.b)  ______  ______  ______  ______  ______  ______  ______  ______  ______8 Write your answers to A, B and D. Use the strategy to answer the rest of the questions.14. Paragraph A ______15. Paragraph B ______16. Paragraph C ______17. Paragraph D ______18. Paragraph E ______19. Paragraph F ______查看原图 · 4 页Miles Davis 学生材料Miles Davis 学生材料Miles Davis 学生材料Miles Davis 学生材料留下本单元首稿本单元先学再用；不记为未见初测。口语可使用原章节录音器，或自行录音并记文件名。学习后首次应用｜建议 12 分钟。先完成示范，再做原第 10 页 Questions 14–19。提交格式：示范＝＿＿＿＿，段意＝＿＿＿＿；14/A＝＿＿＿＿，15/B＝＿＿＿＿，16/C＝＿＿＿＿，17/D＝＿＿＿＿，18/E＝＿＿＿＿，19/F＝＿＿＿＿。每段附一条段意；对两道最犹豫的题，写出被排除的标题和理由。最后记录用时、未答数、是否使用第 9 页提示。保存这次作答后再打开反馈。我的答案／口语录音文件与简记保留首稿，打开反馈先写下自己的答案。核对依据，再修订示范\n选②。购买平板只是故事起点，后面三句集中说明图书馆新增数字事务帮助，并把它变为服务重点。①把一个细节当主旨，③没有原文依据。\n原题反馈\n14 / A＝viii。段落虽然从十三岁获赠小号开始，主体解释 Davis 的独特音色与演奏方式；童年事件只是引入，不能选 v。\n15 / B＝iii。俱乐部实践和正规课堂共同构成他的音乐教育。退学和批评学校不能抹去他后来承认的理论、技术收获，因此 ii“正规教育没有帮助”过度概括。\n16 / C＝i。从作品起初反响有限，到后来被承认为创新、留下影响，重点是艺术地位与遗产的形成。\n17 / D＝ix。私人关系、身心状态与职业合作等困难同时出现，标题需要覆盖个人和职业两方面。\n18 / E＝iv。多种音乐风格以及其他艺术尝试体现向新方向拓展，不能只用其中一个例子概括全段。\n19 / F＝vi。批评意见是讨论背景，Davis 的回应把持续变化与创造力联系起来。vii 的 earlier work 与段中争议的时间范围不吻合。\n核对原页可打开 教师反馈 PDF，原第 4–6 页。六题答案位于原第 5 页。记录正确数／6，再给错题选一个主因：细节当主旨、覆盖范围不足、时间／态度读错、指代未解决。题量小且已经教学，不换算 band。修订：哪里变了，为什么换个情境再用一次隔日 5 分钟：盖住标题和反馈，任选 B、E 两段，分别写一句自己的主旨，再拟一个中文标题。随后打开原标题核对意义是否覆盖整段。最后说明“为什么 B 段不能只概括为学校没用”。这是同篇提取练习，不是新的未见测试。可选：记录或再练一次迁移答案／隔日回忆记录可选：记录或再练一次这次最需要补什么？请选择内容或语境没理解词义或声音没认出词汇选择／搭配不稳证据、逻辑或展开不足语法或句子组织问题暂时独立完成，隔天再检验原文与答案详解Miles Davis：独特音色、双重教育与音乐遗产Miles Davis：独特音色、双重教育与音乐遗产下面可以对照完整原文和对应题目学习。A At the age of thirteen, Miles Davis was given his first trumpet, lessons were arranged with a local trumpet player, and a musical odyssey began. These early lessons, paid for and supported by his father, had a profound effect on shaping Davis’ signature sound. Whereas most trumpeters of the era favoured the use of vibrato (a wobbly quiver in pitch inflected in the instrument’s tone), Davis was taught to play with a long, straight tone, a preference his instructor reportedly drilled into the young trumpeter with a rap on the knuckles every time Davis began using vibrato. This clear, distinctive style never left Davis. He continued playing with it for the rest of his career, once remarking, ‘If I can’t get that sound, I can’t play anything.’B Having graduated from high school in 1944, Davis moved to New York City, where he continued his musical education both in the clubs and in the classroom. His enrolment in the prestigious Julliard School of Music was short-lived, however – he soon dropped out, criticising what he perceived as an over-emphasis on the classical European repertoire and a neglect of jazz. Davis did later acknowledge, however, that this time at the school was invaluable in terms of developing his trumpet-playing technique and giving him a solid grounding in music theory. Much of his early training took place in the form of jam sessions and performances in the clubs of 52nd Street, where he played alongside both up- and-coming and established members of the jazz pantheon such as Coleman Hawkins, Eddie ‘Lockjaw’ Davis, and Thelonious Monk.C In the late 1940s, Davis collaborated with nine other instrumentalists, including a French horn and a tuba player, to produce The Birth of Cool, an album now renowned for the inchoate sounds of what would later become known as ‘cool’ jazz. In contrast to popular jazz styles of the day, which featured rapid, rollicking beats, shrieking vocals, and short, sharp horn blasts, Davis’ album was the forerunner of a different kind of sound – thin, light horn-playing, hushed drums and a more restrained, formal arrangement. Although it received little acclaim at the time (the liner notes to one of Davis’ later recordings call it a ‘spectacular failure’), in hindsight The Birth of Cool has become recognised as a pivotal moment in jazz history, cementing – alongside his 1958 recording, Kind of Blue – Davis’ legacy as one of the most innovative musicians of his era.原题选项i A legacy is established；ii Formal education unhelpful；iii An education in two parts；iv Branching out in new directions；v Childhood and family life；vi Change necessary to stay creative；vii Conflicted opinions over Davis’ earlier work；viii Davis’ unique style of trumpet playing；ix Personal and professional struggles原题答案与具体证据Q14 Paragraph A：viii。父亲和13岁是背景，核心是独特的straight tone及其终身保留，故v childhood太宽且偏离主旨。These early lessons, paid for and supported by his father, had a profound effect on shaping Davis’ signature sound.Q15 Paragraph B：iii。课堂与俱乐部是两部分。虽然退学并批评学校，后来仍承认理论与技巧训练有价值，不能选ii。he continued his musical education both in the clubs and in the classroom.Q16 Paragraph C：i。先写创新风格，再写当时失败、后来历史认可，段落落点是确立legacy，不是只谈当时意见分歧。Davis’ legacy as one of the most innovative musicians of his era.British Council · Academic Practice Test 2 · Miles Davis · Q14–19原答案练原题：Miles Davis：独特音色、双重教育与音乐遗产配套材料British Council：Matching headings 原教案（学生第 7–10 页，教师第 4–6 页）British Council：Matching headings 原教案（学生第 7–10 页，教师第 4–6 页）IELTS 阅读题型规则：Matching headingsIELTS：如何教授标题匹配",
+  "links": [
+    {
+      "text": "教师反馈 PDF，原第 4–6 页",
+      "href": "原始参考/e885c438-miles-teacher-feedback.pdf"
+    },
+    {
+      "text": "British Council · Academic Practice Test 2 · Miles Davis · Q14–19",
+      "href": "原始参考/b09e5747-miles-student.pdf#page=1"
+    },
+    {
+      "text": "原答案",
+      "href": "原始参考/e885c438-miles-teacher-feedback.pdf#page=2"
+    },
+    {
+      "text": "练原题：Miles Davis：独特音色、双重教育与音乐遗产",
+      "href": "#reading-case-rd-official-miles-1"
+    },
+    {
+      "text": "British Council：Matching headings 原教案（学生第 7–10 页，教师第 4–6 页）",
+      "href": "原始参考/b09e5747-miles-student.pdf"
+    },
+    {
+      "text": "British Council：Matching headings 原教案（学生第 7–10 页，教师第 4–6 页）",
+      "href": "https://takeielts.britishcouncil.org/sites/default/files/2026-06/reading_matching_headings_.pdf"
+    },
+    {
+      "text": "IELTS 阅读题型规则：Matching headings",
+      "href": "https://ielts.org/take-a-test/test-types/ielts-academic-test/ielts-academic-format-reading"
+    },
+    {
+      "text": "IELTS：如何教授标题匹配",
+      "href": "https://ielts.org/news-and-insights/how-to-prepare-learners-for-matching-headings-task-on-the-ielts-reading-test"
+    }
+  ],
+  "details": [
+    {
+      "id": "",
+      "title": "查看原图 · 4 页",
+      "open": false,
+      "visible": true
+    },
+    {
+      "id": "",
+      "title": "可选：记录或再练一次",
+      "open": false,
+      "visible": false
+    },
+    {
+      "id": "",
+      "title": "可选：记录或再练一次",
+      "open": false,
+      "visible": false
+    },
+    {
+      "id": "",
+      "title": "原文与答案详解",
+      "open": false,
+      "visible": false
+    },
+    {
+      "id": "",
+      "title": "配套材料",
+      "open": false,
+      "visible": true
+    }
+  ],
+  "saveFields": [
+    "enrich-reading-headings-miles-answer",
+    "enrich-reading-headings-miles-frozen",
+    "enrich-reading-headings-miles-saved-at",
+    "enrich-reading-headings-miles-revision",
+    "enrich-reading-headings-miles-transfer",
+    "enrich-reading-headings-miles-diagnosis"
+  ],
+  "images": [
+    {
+      "src": "assets/deferred-media/d9746a71e252bb0f8e733e35.png",
+      "alt": "Miles Davis 学生材料：原 PDF 第 7 页",
+      "visible": false,
+      "complete": false,
+      "width": 0
+    },
+    {
+      "src": "assets/deferred-media/d3afaafcc046eddb87d37fe1.png",
+      "alt": "Miles Davis 学生材料：原 PDF 第 8 页",
+      "visible": false,
+      "complete": false,
+      "width": 0
+    },
+    {
+      "src": "assets/deferred-media/560f129de235f1d4642914fe.png",
+      "alt": "Miles Davis 学生材料：原 PDF 第 9 页",
+      "visible": false,
+      "complete": false,
+      "width": 0
+    },
+    {
+      "src": "assets/deferred-media/d287da2fb560d3fed741eebf.png",
+      "alt": "Miles Davis 学生材料：原 PDF 第 10 页",
+      "visible": false,
+      "complete": false,
+      "width": 0
+    }
+  ],
+  "audio": [],
+  "viewport": 1440,
+  "documentWidth": 1440
+}

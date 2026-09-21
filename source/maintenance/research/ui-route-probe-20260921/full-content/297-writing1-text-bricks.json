@@ -1,0 +1,421 @@
+{
+  "requested": "writing1-text-bricks",
+  "from": [
+    "页面链接"
+  ],
+  "actual": "#writing1-text-bricks",
+  "checkedAt": "2026-09-21T12:54:37.648Z",
+  "title": "学习 / 写作 · Task 1 / 流程图：把顺序和替代路线说清楚 · IELTS",
+  "label": "学习 / 写作 · Task 1 / 流程图：把顺序和替代路线说清楚",
+  "panel": "writing1",
+  "contentRoot": "learn-writing1_process_branches",
+  "headings": [
+    {
+      "tag": "H3",
+      "text": "先读路线，再选语法",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "让读者知道：材料发生了什么",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "制砖流程 · Task 1",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "WRITING TASK 1",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "留下本单元首稿",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "核对依据，再修订",
+      "visible": false
+    },
+    {
+      "tag": "H3",
+      "text": "核对三件事情",
+      "visible": false
+    },
+    {
+      "tag": "H3",
+      "text": "换个情境再用一次",
+      "visible": false
+    },
+    {
+      "tag": "H3",
+      "text": "同题官方考生样本 · Band 8.5 · 1C Script C",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "用原题练这一题型",
+      "visible": true
+    }
+  ],
+  "controls": [
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "02\n流程图：把顺序和替代路线说清楚\n学会从流程图中区分连续步骤和可选路线，用清楚的动词说明材料经历了什么。\n约 20 分钟",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "查看原图 · 1 页",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "我的答案／口语录音文件与简记",
+      "href": null,
+      "save": "enrich-writing1_process_branches-answer",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "checkbox",
+      "text": "",
+      "label": "",
+      "href": null,
+      "save": "enrich-writing1_process_branches-frozen",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "text",
+      "text": "",
+      "label": "",
+      "href": null,
+      "save": "enrich-writing1_process_branches-saved-at",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "保留首稿，打开反馈",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "修订：哪里变了，为什么",
+      "href": null,
+      "save": "enrich-writing1_process_branches-revision",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "可选：记录或再练一次",
+      "label": "",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "迁移答案／隔日回忆记录",
+      "href": null,
+      "save": "enrich-writing1_process_branches-transfer",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "可选：记录或再练一次",
+      "label": "",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SELECT",
+      "id": "",
+      "type": "select-one",
+      "text": "请选择内容或语境没理解词义或声音没认出词汇选择／搭配不稳证据、逻辑或展开不足语法或句子组织问题暂时独立完成，隔天再检验",
+      "label": "这次最需要补什么？请选择内容或语境没理解词义或声音没认出词汇选择／搭配不稳证据、逻辑或展开不足语法或句子组织问题暂时独立完成，隔天再检验",
+      "href": null,
+      "save": "enrich-writing1_process_branches-diagnosis",
+      "visible": false,
+      "disabled": false,
+      "required": false,
+      "options": [
+        {
+          "value": "",
+          "label": "请选择"
+        },
+        {
+          "value": "内容或语境没理解",
+          "label": "内容或语境没理解"
+        },
+        {
+          "value": "词义或声音没认出",
+          "label": "词义或声音没认出"
+        },
+        {
+          "value": "词汇选择／搭配不稳",
+          "label": "词汇选择／搭配不稳"
+        },
+        {
+          "value": "证据、逻辑或展开不足",
+          "label": "证据、逻辑或展开不足"
+        },
+        {
+          "value": "语法或句子组织问题",
+          "label": "语法或句子组织问题"
+        },
+        {
+          "value": "暂时独立完成，隔天再检验",
+          "label": "暂时独立完成，隔天再检验"
+        }
+      ]
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "配套材料",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "",
+      "label": "",
+      "href": "原始参考/d46f0518-official-task1c-bricks.pdf",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "",
+      "label": "",
+      "href": "https://ielts.org/cdn/Sample-tests/ielts-academic-writing-sample-tasks-2023.pdf",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "",
+      "label": "",
+      "href": "原始参考/967b0405-bf171ce7-academic_writing_task_1_grammatical_structures_for_describing_diagrams.pdf",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "",
+      "label": "",
+      "href": "https://takeielts.britishcouncil.org/sites/default/files/2026-06/academic_writing_task_1_grammatical_structures_for_describing_diagrams.pdf",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "官方作答 · 第16页",
+      "label": "",
+      "href": "case-assets/writing-official-sample-tasks-2023.pdf#page=16",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "考官评语 · 第17页",
+      "label": "",
+      "href": "case-assets/writing-official-sample-tasks-2023.pdf#page=17",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "官方在线原件",
+      "label": "",
+      "href": "https://ielts.org/cdn/Sample-tests/ielts-academic-writing-sample-tasks-2023.pdf#page=16",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "制砖：并行成形路径与温度阶段",
+      "label": "",
+      "href": "#writing1-case-wc-official-bricks",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "雨影沙漠：越山前后的水分变化",
+      "label": "",
+      "href": "#writing1-case-wc-c21-t3-rainshadow",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    }
+  ],
+  "visibleText": "02\n流程图：把顺序和替代路线说清楚\n学会从流程图中区分连续步骤和可选路线，用清楚的动词说明材料经历了什么。\n约 20 分钟\n0% · 0 / 1 完成\n先读路线，再选语法\n\n流程图的首要问题是：什么东西，从哪里开始，怎样变成最终产物？这张图从挖掘黏土开始，以砖块包装和交付结束。你可以用一句概述说明这个起终点，再按路线写细节。不必争论必须数成几大步骤，重要的是覆盖关键阶段和关系。\n\n图中有两种成形方法：线切割和模具成形。这是一条分成两路、随后回到同一流程的关系。箭头不是让每块砖先经过模具，再经过线切割。either ... or ... 能帮助你表达替代；普通的 or 也可以。\n\n让读者知道：材料发生了什么\n\n教学开头片段：\n\nFirst, clay is dug from the ground and passed through a metal grid. It then moves over a roller before sand and water are added.\n\nclay is dug 把黏土放在句子中心；这里没有必要编出某位工人。被动语态适合材料处理，但不是每句必需：The bricks then enter a drying oven 也能清楚地描述移动。\n\n写温度和时间时，关系比词汇变化更重要。图中先经过中温窑，再经过高温窑，然后冷却；两个温区的数值范围有重叠也应照图准确报告，不自行“修正”图表。只有图中提供依据时才写目的或因果，不为展示 because 添加未标明的原理。\n\n本次只写中间阶段，练习先后与分支。它不是至少 150 词的完整 Task 1 答卷。\n\n制砖流程 · Task 1\nWRITING TASK 1\n\nYou should spend about 20 minutes on this task.\n\nThe diagram below shows the process by which bricks are manufactured for the building industry.\n\nSummarise the information by selecting and reporting the main features, and make comparisons where relevant.\n\nWrite at least 150 words.\n\nBrick Manufacturing. Digger, clay, metal grid, roller, sand + water, wire cutter or mould, bricks, drying oven 24–48 hrs, kiln moderate 200°C–980°C then high 870°C–1300°C, cooling chamber 48–72 hrs, packaging, delivery.\n查看原图 · 1 页\n留下本单元首稿\n\n本单元先学再用；不记为未见初测。口语可使用原章节录音器，或自行录音并记文件名。\n\n使用制砖图，写约 60–80 词描述：加入沙和水之后，砖怎样成形、干燥、加热。明确两种成形方法之间的关系，并准确写出干燥时间和两段温度。先保存初稿，再看解释。不必描写挖土、冷却、包装或交付，这只是局部应用。最后另记一条有提示复盘：我用＿＿＿＿表达两条替代路线。\n\n我的答案／口语录音文件与简记\n保留首稿，打开反馈\n\n先写下自己的答案。\n\n配套材料\n同题官方考生样本 · Band 8.5 · 1C Script C\n\n优先对照这份同题官方考生稿及考官评语；分数仅属于该原稿。本地参考段落仍为原创教学示范。\n\n官方作答 · 第16页考官评语 · 第17页官方在线原件\n\n先看原样本怎样概括关键阶段，再对照本地短段的分支、时长和温度；8.5仍有概述可改进处。\n\n用原题练这一题型\n制砖：并行成形路径与温度阶段\n雨影沙漠：越山前后的水分变化",
+  "allContent": "02流程图：把顺序和替代路线说清楚学会从流程图中区分连续步骤和可选路线，用清楚的动词说明材料经历了什么。约 20 分钟0% · 0 / 1 完成先读路线，再选语法\n流程图的首要问题是：什么东西，从哪里开始，怎样变成最终产物？这张图从挖掘黏土开始，以砖块包装和交付结束。你可以用一句概述说明这个起终点，再按路线写细节。不必争论必须数成几大步骤，重要的是覆盖关键阶段和关系。\n图中有两种成形方法：线切割和模具成形。这是一条分成两路、随后回到同一流程的关系。箭头不是让每块砖先经过模具，再经过线切割。either ... or ... 能帮助你表达替代；普通的 or 也可以。\n让读者知道：材料发生了什么\n教学开头片段：\n\nFirst, clay is dug from the ground and passed through a metal grid. It then moves over a roller before sand and water are added.\n\nclay is dug 把黏土放在句子中心；这里没有必要编出某位工人。被动语态适合材料处理，但不是每句必需：The bricks then enter a drying oven 也能清楚地描述移动。\n写温度和时间时，关系比词汇变化更重要。图中先经过中温窑，再经过高温窑，然后冷却；两个温区的数值范围有重叠也应照图准确报告，不自行“修正”图表。只有图中提供依据时才写目的或因果，不为展示 because 添加未标明的原理。\n本次只写中间阶段，练习先后与分支。它不是至少 150 词的完整 Task 1 答卷。制砖流程 · Task 1WRITING TASK 1You should spend about 20 minutes on this task.The diagram below shows the process by which bricks are manufactured for the building industry.Summarise the information by selecting and reporting the main features, and make comparisons where relevant.Write at least 150 words.Brick Manufacturing. Digger, clay, metal grid, roller, sand + water, wire cutter or mould, bricks, drying oven 24–48 hrs, kiln moderate 200°C–980°C then high 870°C–1300°C, cooling chamber 48–72 hrs, packaging, delivery.查看原图 · 1 页练习题：制砖流程。沿箭头识别先后，再找两种成形方式。留下本单元首稿本单元先学再用；不记为未见初测。口语可使用原章节录音器，或自行录音并记文件名。使用制砖图，写约 60–80 词描述：加入沙和水之后，砖怎样成形、干燥、加热。明确两种成形方法之间的关系，并准确写出干燥时间和两段温度。先保存初稿，再看解释。不必描写挖土、冷却、包装或交付，这只是局部应用。最后另记一条有提示复盘：我用＿＿＿＿表达两条替代路线。我的答案／口语录音文件与简记保留首稿，打开反馈先写下自己的答案。核对依据，再修订核对三件事情\n\n成形：可以使用模具，或用线切割，不能写成必经的先后两步。\n干燥：在烘干炉中 24–48 小时。\n加热：先中温 200–980°C，再高温 870–1300°C。图中其后的冷却是 48–72 小时，不能把冷却时间错放到干燥阶段。\n\n教学短示范，非唯一范文：\n\nAfter sand and water are added, the mixture is shaped into bricks, either in a mould or with a wire cutter. The bricks are then dried in an oven for 24 to 48 hours. Next, they are heated in a kiln, first at a moderate temperature of 200–980°C and then at a higher temperature of 870–1300°C.\n\n这里的 after、then 说明顺序，either ... or ... 说明分支。若你使用 Alternatively, ... 或准确的主动句，也可接受。不能因与示范词汇不同就判错。are drying 通常表示正在自行变干；若想强调处理过程，are dried 更直接，但应结合整句判断。\n选一处最有影响的问题修订：先修错误路线或数据，再修动词。这个片段的改善不能直接推定整篇 Task 1 或 Writing 分数提升。修订：哪里变了，为什么换个情境再用一次新情境再用——教学图书馆退书流程，非 IELTS 原题：归还图书→工作人员检查；状况良好的书直接上架，受损的书送去修补→修补完成后上架。写 3–4 句说明共同起点、分支条件和最终去向。不要添加图书消毒、罚款或其他未给出的步骤。完成后自检：是否让读者误以为每本书都必须修补？是否说明了两条路线最终都回到书架？这是新材料的条件分支，不是把制砖句子换几个名词。可选：记录或再练一次迁移答案／隔日回忆记录可选：记录或再练一次这次最需要补什么？请选择内容或语境没理解词义或声音没认出词汇选择／搭配不稳证据、逻辑或展开不足语法或句子组织问题暂时独立完成，隔天再检验配套材料Academic Writing 样题包：Task 1C（原包第 5 页）Academic Writing 样题包：Task 1C（原包第 5 页）图解语法教案（本地全文核读）图解语法教案（本地全文核读）同题官方考生样本 · Band 8.5 · 1C Script C优先对照这份同题官方考生稿及考官评语；分数仅属于该原稿。本地参考段落仍为原创教学示范。官方作答 · 第16页考官评语 · 第17页官方在线原件先看原样本怎样概括关键阶段，再对照本地短段的分支、时长和温度；8.5仍有概述可改进处。用原题练这一题型制砖：并行成形路径与温度阶段雨影沙漠：越山前后的水分变化",
+  "links": [
+    {
+      "text": "Academic Writing 样题包：Task 1C（原包第 5 页）",
+      "href": "原始参考/d46f0518-official-task1c-bricks.pdf"
+    },
+    {
+      "text": "Academic Writing 样题包：Task 1C（原包第 5 页）",
+      "href": "https://ielts.org/cdn/Sample-tests/ielts-academic-writing-sample-tasks-2023.pdf"
+    },
+    {
+      "text": "图解语法教案（本地全文核读）",
+      "href": "原始参考/967b0405-bf171ce7-academic_writing_task_1_grammatical_structures_for_describing_diagrams.pdf"
+    },
+    {
+      "text": "图解语法教案（本地全文核读）",
+      "href": "https://takeielts.britishcouncil.org/sites/default/files/2026-06/academic_writing_task_1_grammatical_structures_for_describing_diagrams.pdf"
+    },
+    {
+      "text": "官方作答 · 第16页",
+      "href": "case-assets/writing-official-sample-tasks-2023.pdf#page=16"
+    },
+    {
+      "text": "考官评语 · 第17页",
+      "href": "case-assets/writing-official-sample-tasks-2023.pdf#page=17"
+    },
+    {
+      "text": "官方在线原件",
+      "href": "https://ielts.org/cdn/Sample-tests/ielts-academic-writing-sample-tasks-2023.pdf#page=16"
+    },
+    {
+      "text": "制砖：并行成形路径与温度阶段",
+      "href": "#writing1-case-wc-official-bricks"
+    },
+    {
+      "text": "雨影沙漠：越山前后的水分变化",
+      "href": "#writing1-case-wc-c21-t3-rainshadow"
+    }
+  ],
+  "details": [
+    {
+      "id": "",
+      "title": "查看原图 · 1 页",
+      "open": false,
+      "visible": true
+    },
+    {
+      "id": "",
+      "title": "可选：记录或再练一次",
+      "open": false,
+      "visible": false
+    },
+    {
+      "id": "",
+      "title": "可选：记录或再练一次",
+      "open": false,
+      "visible": false
+    },
+    {
+      "id": "",
+      "title": "配套材料",
+      "open": false,
+      "visible": true
+    }
+  ],
+  "saveFields": [
+    "enrich-writing1_process_branches-answer",
+    "enrich-writing1_process_branches-frozen",
+    "enrich-writing1_process_branches-saved-at",
+    "enrich-writing1_process_branches-revision",
+    "enrich-writing1_process_branches-transfer",
+    "enrich-writing1_process_branches-diagnosis"
+  ],
+  "images": [
+    {
+      "src": "assets/text-questions/bricks.png",
+      "alt": "Brick Manufacturing. Digger, clay, metal grid, roller, sand + water, wire cutter or mould, bricks, drying oven 24–48 hrs, kiln moderate 200°C–980°C then high 870°C–1300°C, cooling chamber 48–72 hrs, packaging, delivery.",
+      "visible": true,
+      "complete": true,
+      "width": 625
+    },
+    {
+      "src": "assets/deferred-media/f7299d5bffdb6d1ba8a946be.png",
+      "alt": "官方原题：制砖流程。沿箭头识别先后，再找两种成形方式。",
+      "visible": false,
+      "complete": false,
+      "width": 0
+    }
+  ],
+  "audio": [],
+  "viewport": 1440,
+  "documentWidth": 1440
+}

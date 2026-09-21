@@ -1,0 +1,60 @@
+{
+  "requested": "topic-culture",
+  "from": [
+    "页面链接"
+  ],
+  "actual": "#topic-culture",
+  "checkedAt": "2026-09-21T12:54:06.883Z",
+  "title": "阅读练习 · IELTS",
+  "label": "阅读练习",
+  "panel": "practice-reading",
+  "contentRoot": "topic-culture",
+  "headings": [
+    {
+      "tag": "H2",
+      "text": "文化遗产：个人偏好与收藏选择",
+      "visible": true
+    }
+  ],
+  "controls": [
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "进入 The Davies Sisters 完整阅读练习 →",
+      "label": "",
+      "href": "#topic-society",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "checkbox",
+      "text": "",
+      "label": "已读过这段背景",
+      "href": null,
+      "save": "topic-read-culture",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    }
+  ],
+  "visibleText": "文化遗产：个人偏好与收藏选择\n\n这份收藏主题与“社会责任”使用同一篇文章、同一组题。进入 The Davies Sisters 完整阅读练习 →\n\n本单元的学习记录\n\n已读过这段背景",
+  "allContent": "文化遗产：个人偏好与收藏选择这份收藏主题与“社会责任”使用同一篇文章、同一组题。进入 The Davies Sisters 完整阅读练习 →本单元的学习记录 已读过这段背景",
+  "links": [
+    {
+      "text": "进入 The Davies Sisters 完整阅读练习 →",
+      "href": "#topic-society"
+    }
+  ],
+  "details": [],
+  "saveFields": [
+    "topic-read-culture"
+  ],
+  "images": [],
+  "audio": [],
+  "viewport": 1440,
+  "documentWidth": 1440
+}

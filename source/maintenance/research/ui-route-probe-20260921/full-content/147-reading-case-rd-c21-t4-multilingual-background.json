@@ -1,0 +1,312 @@
+{
+  "requested": "reading-case-rd-c21-t4-multilingual-background",
+  "from": [
+    "内容单元",
+    "每日安排目标"
+  ],
+  "actual": "#reading-case-rd-c21-t4-multilingual-background",
+  "checkedAt": "2026-09-21T12:52:18.249Z",
+  "title": "练习 / 阅读 / Multilingualism · 迁移背景与研究目标 · IELTS",
+  "label": "练习 / 阅读 / Multilingualism · 迁移背景与研究目标",
+  "panel": "practice-reading",
+  "contentRoot": "reading-case-rd-c21-t4-multilingual-background",
+  "headings": [
+    {
+      "tag": "H4",
+      "text": "共用选项 · 原题 14、15、16、17、18、19",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "对照答案，回到证据",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "原文片段 · 1",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "原文片段 · 2",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "原文片段 · 3",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "原文片段 · 4",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "词语与搭配",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "句子精读",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "这篇材料里可用于写作的表达",
+      "visible": false
+    }
+  ],
+  "controls": [
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "Multilingualism · 迁移背景与研究目标未作答\n摘要填空 / 观点判断 YNNG · 4 段 · 395 词 · 9 题 · 同篇原文另有裁切",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "Cambridge IELTS 21 Academic",
+      "label": "",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=86",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "case-rd-c21-t4-multilingual-background-q1",
+      "type": "text",
+      "text": "",
+      "label": "第 14 题作答",
+      "href": null,
+      "save": "case-rd-c21-t4-multilingual-background-q1",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "case-rd-c21-t4-multilingual-background-q2",
+      "type": "text",
+      "text": "",
+      "label": "第 15 题作答",
+      "href": null,
+      "save": "case-rd-c21-t4-multilingual-background-q2",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "case-rd-c21-t4-multilingual-background-q3",
+      "type": "text",
+      "text": "",
+      "label": "第 16 题作答",
+      "href": null,
+      "save": "case-rd-c21-t4-multilingual-background-q3",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "case-rd-c21-t4-multilingual-background-q4",
+      "type": "text",
+      "text": "",
+      "label": "第 17 题作答",
+      "href": null,
+      "save": "case-rd-c21-t4-multilingual-background-q4",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "case-rd-c21-t4-multilingual-background-q5",
+      "type": "text",
+      "text": "",
+      "label": "第 18 题作答",
+      "href": null,
+      "save": "case-rd-c21-t4-multilingual-background-q5",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "case-rd-c21-t4-multilingual-background-q6",
+      "type": "text",
+      "text": "",
+      "label": "第 19 题作答",
+      "href": null,
+      "save": "case-rd-c21-t4-multilingual-background-q6",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "case-rd-c21-t4-multilingual-background-q7",
+      "type": "text",
+      "text": "",
+      "label": "第 20 题作答",
+      "href": null,
+      "save": "case-rd-c21-t4-multilingual-background-q7",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "case-rd-c21-t4-multilingual-background-q8",
+      "type": "text",
+      "text": "",
+      "label": "第 21 题作答",
+      "href": null,
+      "save": "case-rd-c21-t4-multilingual-background-q8",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "case-rd-c21-t4-multilingual-background-q9",
+      "type": "text",
+      "text": "",
+      "label": "第 22 题作答",
+      "href": null,
+      "save": "case-rd-c21-t4-multilingual-background-q9",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "checkbox",
+      "text": "",
+      "label": "",
+      "href": null,
+      "save": "case-rd-c21-t4-multilingual-background-done",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "hidden",
+      "text": "",
+      "label": "",
+      "href": null,
+      "save": "case-rd-c21-t4-multilingual-background-saved-at",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "保留作答，查看答案",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "核对原答案页",
+      "label": "",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=125",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "case-rd-c21-t4-multilingual-background-revision",
+      "type": "textarea",
+      "text": "",
+      "label": "我的修订／证据笔记",
+      "href": null,
+      "save": "case-rd-c21-t4-multilingual-background-revision",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "材料精读 · 内容与词句",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "",
+      "label": "",
+      "href": "#writing-prep-wc-c21-t4-primary-from-rd-c21-t4-multilingual-background",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    }
+  ],
+  "visibleText": "Multilingualism · 迁移背景与研究目标未作答\n摘要填空 / 观点判断 YNNG · 4 段 · 395 词 · 9 题 · 同篇原文另有裁切\n0% · 0 / 1 完成\n\n真题 · Cambridge IELTS 21 Academic · PDF 第 86 页\n\n按原题号作答。保留考试原文与题目难度；以下是连续原段裁切，未改写原文。\n\n原第1–4段连续裁切；词表A–J保留原题所有选项，含OCR漏掉的I已按原选项和答案页恢复。NG21已核对完整文章。\n\n原文片段 · 1The crowded and bustling streets of Delhi teem with life. Stop to listen and, above the din of rickshaws and buses, you'll hear a multitude of languages, as more than 20 million people go about their daily lives. Many were born and raised here, and many millions more have recently made India's capital their home, having moved from surrounding neighbourhoods, cities and states or across the country, often in the hope of gaining better jobs and a better life. Some arrive speaking fluent Hindi, the dominant language in Delhi (and the official language of government), but many arrive speaking any number of India's 22 officially recognised languages, let alone the hundreds of regional languages in a country of more than 1.3 billion people.\n\n原文片段 · 2A team of researchers led by Professor Ianthi Tsimpli of Cambridge University is currently working on a project collecting data on 1,000 primary-age children in Delhi and the cities of Hyderabad and Bihar. The overriding aim of the four-year project, called 'Multilingualism and Multiliteracy', is to find out why in a country where multilingualism is so common (more than 255 million people in India speak at least two languages, and nearly 90 million speak three or more languages), the many benefits of speaking more than one language, observed in schools in Europe for instance, do not apply to many of India's schoolchildren.\n\n原文片段 · 3'Each year across India, 600,000 children are tested, and year after year over 50% of children in Standard 5 [ten-year-olds] cannot read a Standard 2 [seven-year-olds] task fluently, and just under 50% of them cannot solve a Standard 2 subtraction task,' says Tsimpli. She explains that low educational achievement can lead to many of these students dropping out of school - a problem disproportionately affecting female students.\n\n原文片段 · 4Tsimpli and her colleagues are investigating whether these low learning outcomes could be caused by an Indian school system where the language that children are taught in often differs from the language used at home. The research project, which focuses on 8 to 11-year old schoolchildren in rural and urban areas, collects data on whether the schoolchildren live in slum* or non-slum areas. Many of the children have moved from remote, rural areas to urban areas. They are so poor they have to live in slums and, as a result of migration, they may speak languages that are different from the regional language.\n\n共用选项 · 原题 14、15、16、17、18、19\nA. basic outlook\nB. employment opportunities\nC. wealthy visitors\nD. distant country\nE. primary objective\nF. similar advantages\nG. thriving economy\nH. nearby district\nI. dense population\nJ. new immigrants\n\n14. The city of Delhi has a ______ and as you walk through its streets you hear people speaking a variety of languages.\n\nComplete the summary using the list of words below. Write the correct letter for each answer.\n\n第 14 题作答\n\n15. Some of them have spent their entire life in Delhi, while others are ______.\n\nComplete the summary using the list of words below. Write the correct letter for each answer.\n\n第 15 题作答\n\n16. Whether they have come from a ______ or have travelled from the other side of India,\n\nComplete the summary using the list of words below. Write the correct letter for each answer.\n\n第 16 题作答\n\n17. they have all come in search of things such as improved ______.\n\nComplete the summary using the list of words below. Write the correct letter for each answer.\n\n第 17 题作答\n\n18. The ______ of the research is to discover why multilingual Indian schoolchildren do not experience\n\nComplete the summary using the list of words below. Write the correct letter for each answer.\n\n第 18 题作答\n\n19. ______ to those that multilingual schoolchildren in Europe experience.\n\nComplete the summary using the list of words below. Write the correct letter for each answer.\n\n第 19 题作答\n\n20. Ten-year-old Indian schoolchildren tend to perform better in literacy tests than in numeracy tests.\n\nDo the following statements agree with the views/claims of the writer? Write YES, NO or NOT GIVEN.\n\n第 20 题作答\n\n21. Tsimpli had problems convincing some female students to take part in the study.\n\nDo the following statements agree with the views/claims of the writer? Write YES, NO or NOT GIVEN.\n\n第 21 题作答\n\n22. Tsimpli and her team wanted to know if there is a connection between poor academic performance and being taught in an unfamiliar language.\n\nDo the following statements agree with the views/claims of the writer? Write YES, NO or NOT GIVEN.\n\n第 22 题作答\n保留作答，查看答案\n\n先作答；不确定的题也可记录判断与疑点。\n\n材料精读 · 内容与词句",
+  "allContent": "Multilingualism · 迁移背景与研究目标未作答摘要填空 / 观点判断 YNNG · 4 段 · 395 词 · 9 题 · 同篇原文另有裁切0% · 0 / 1 完成真题 · Cambridge IELTS 21 Academic · PDF 第 86 页按原题号作答。保留考试原文与题目难度；以下是连续原段裁切，未改写原文。原第1–4段连续裁切；词表A–J保留原题所有选项，含OCR漏掉的I已按原选项和答案页恢复。NG21已核对完整文章。原文片段 · 1The crowded and bustling streets of Delhi teem with life. Stop to listen and, above the din of rickshaws and buses, you'll hear a multitude of languages, as more than 20 million people go about their daily lives. Many were born and raised here, and many millions more have recently made India's capital their home, having moved from surrounding neighbourhoods, cities and states or across the country, often in the hope of gaining better jobs and a better life. Some arrive speaking fluent Hindi, the dominant language in Delhi (and the official language of government), but many arrive speaking any number of India's 22 officially recognised languages, let alone the hundreds of regional languages in a country of more than 1.3 billion people.原文片段 · 2A team of researchers led by Professor Ianthi Tsimpli of Cambridge University is currently working on a project collecting data on 1,000 primary-age children in Delhi and the cities of Hyderabad and Bihar. The overriding aim of the four-year project, called 'Multilingualism and Multiliteracy', is to find out why in a country where multilingualism is so common (more than 255 million people in India speak at least two languages, and nearly 90 million speak three or more languages), the many benefits of speaking more than one language, observed in schools in Europe for instance, do not apply to many of India's schoolchildren.原文片段 · 3'Each year across India, 600,000 children are tested, and year after year over 50% of children in Standard 5 [ten-year-olds] cannot read a Standard 2 [seven-year-olds] task fluently, and just under 50% of them cannot solve a Standard 2 subtraction task,' says Tsimpli. She explains that low educational achievement can lead to many of these students dropping out of school - a problem disproportionately affecting female students.原文片段 · 4Tsimpli and her colleagues are investigating whether these low learning outcomes could be caused by an Indian school system where the language that children are taught in often differs from the language used at home. The research project, which focuses on 8 to 11-year old schoolchildren in rural and urban areas, collects data on whether the schoolchildren live in slum* or non-slum areas. Many of the children have moved from remote, rural areas to urban areas. They are so poor they have to live in slums and, as a result of migration, they may speak languages that are different from the regional language.共用选项 · 原题 14、15、16、17、18、19A. basic outlookB. employment opportunitiesC. wealthy visitorsD. distant countryE. primary objectiveF. similar advantagesG. thriving economyH. nearby districtI. dense populationJ. new immigrants14. The city of Delhi has a ______ and as you walk through its streets you hear people speaking a variety of languages.Complete the summary using the list of words below. Write the correct letter for each answer.第 14 题作答15. Some of them have spent their entire life in Delhi, while others are ______.Complete the summary using the list of words below. Write the correct letter for each answer.第 15 题作答16. Whether they have come from a ______ or have travelled from the other side of India,Complete the summary using the list of words below. Write the correct letter for each answer.第 16 题作答17. they have all come in search of things such as improved ______.Complete the summary using the list of words below. Write the correct letter for each answer.第 17 题作答18. The ______ of the research is to discover why multilingual Indian schoolchildren do not experienceComplete the summary using the list of words below. Write the correct letter for each answer.第 18 题作答19. ______ to those that multilingual schoolchildren in Europe experience.Complete the summary using the list of words below. Write the correct letter for each answer.第 19 题作答20. Ten-year-old Indian schoolchildren tend to perform better in literacy tests than in numeracy tests.Do the following statements agree with the views/claims of the writer? Write YES, NO or NOT GIVEN.第 20 题作答21. Tsimpli had problems convincing some female students to take part in the study.Do the following statements agree with the views/claims of the writer? Write YES, NO or NOT GIVEN.第 21 题作答22. Tsimpli and her team wanted to know if there is a connection between poor academic performance and being taught in an unfamiliar language.Do the following statements agree with the views/claims of the writer? Write YES, NO or NOT GIVEN.第 22 题作答保留作答，查看答案先作答；不确定的题也可记录判断与疑点。对照答案，回到证据第 14 题 · Icrowded与2000多万人对应dense population；不是只因bustling就选thriving economy。The crowded and bustling streets of Delhi teem with life ... more than 20 million people第 15 题 · Jrecently迁入与new immigrants对应；不等于wealthy visitors短期游客。many millions more have recently made India’s capital their home, having moved from ...第 16 题 · Hsurrounding neighbourhoods对应nearby district，与other side形成近/远对照；原文不是移自国外。having moved from surrounding neighbourhoods, cities and states or across the country第 17 题 · Bbetter jobs对应employment opportunities；不要凭“更好生活”添富游客身份。often in the hope of gaining better jobs and a better life第 18 题 · Eoverriding aim同义于primary objective，句法也需要单数研究目标。The overriding aim of the four-year project ... is to find out why第 19 题 · Fbenefits对应advantages；研究问为何并未获得相似收益。the many benefits ... observed in schools in Europe ... do not apply to many of India’s schoolchildren第 20 题 · NO识字不达标超过50%，计算不达标略低于50%，方向与better in literacy相反；比较的是不能完成的比例。over 50% ... cannot read ... and just under 50% ... cannot solve ... subtraction第 21 题 · NOT GIVEN女生受退学影响更多不是难以说服参加研究；全文没有recruitment问题。low educational achievement ... dropping out of school ... disproportionately affecting female students第 22 题 · YES研究的问题正是低学习表现与教学/家庭语言不一致是否有关。investigating whether these low learning outcomes could be caused by ... language ... taught in often differs from ... used at home核对原答案页我的修订／证据笔记材料精读 · 内容与词句德里的语言多样性来自长期居住与人口迁移。研究关注一个表面矛盾：社会中多语现象普遍，一些学生却没有呈现其他教育环境里观察到的益处。文章把调查问题落到家庭语言、学校授课语言、贫困与学习环境之间的关系，而未先判定多语本身有害。原文片段 · 1The crowded and bustling streets of Delhi teem with life. Stop to listen and, above the din of rickshaws and buses, you'll hear a multitude of languages, as more than 20 million people go about their daily lives. Many were born and raised here, and many millions more have recently made India's capital their home, having moved from surrounding neighbourhoods, cities and states or across the country, often in the hope of gaining better jobs and a better life. Some arrive speaking fluent Hindi, the dominant language in Delhi (and the official language of government), but many arrive speaking any number of India's 22 officially recognised languages, let alone the hundreds of regional languages in a country of more than 1.3 billion people.繁忙街道的声音引出多语言共存，迁入者常怀着更好工作和生活的希望来到首都。有人熟练使用占主导地位的印地语，也有人主要使用其他官方或地区语言。let alone 强调官方语言数量之外还有更多地区语言；统计值与人口描述沿用原文时点。原文片段 · 2A team of researchers led by Professor Ianthi Tsimpli of Cambridge University is currently working on a project collecting data on 1,000 primary-age children in Delhi and the cities of Hyderabad and Bihar. The overriding aim of the four-year project, called 'Multilingualism and Multiliteracy', is to find out why in a country where multilingualism is so common (more than 255 million people in India speak at least two languages, and nearly 90 million speak three or more languages), the many benefits of speaking more than one language, observed in schools in Europe for instance, do not apply to many of India's schoolchildren.研究团队对千名小学年龄儿童收集资料，目标不是证明会多种语言一定有益或有害，而是理解为何在某些欧洲学校观察到的益处没有出现在许多印度学生身上。observed in schools in Europe 限定比较经验的来源，不能把它扩大为所有欧洲儿童的普遍结论。原文片段 · 3'Each year across India, 600,000 children are tested, and year after year over 50% of children in Standard 5 [ten-year-olds] cannot read a Standard 2 [seven-year-olds] task fluently, and just under 50% of them cannot solve a Standard 2 subtraction task,' says Tsimpli. She explains that low educational achievement can lead to many of these students dropping out of school - a problem disproportionately affecting female students.研究者引述重复出现的低学习表现：许多五年级儿童仍难以完成二年级阅读和减法任务。这里的比较体现学习进展不足，后果可能是辍学，且女生受到不成比例的影响。can lead to 是风险关系，不是说每个表现偏低的儿童都会离校。原文片段 · 4Tsimpli and her colleagues are investigating whether these low learning outcomes could be caused by an Indian school system where the language that children are taught in often differs from the language used at home. The research project, which focuses on 8 to 11-year old schoolchildren in rural and urban areas, collects data on whether the schoolchildren live in slum* or non-slum areas. Many of the children have moved from remote, rural areas to urban areas. They are so poor they have to live in slums and, as a result of migration, they may speak languages that are different from the regional language.研究进一步检查学校授课语言与家庭语言不同是否可能影响学习，同时记录城乡、住区和迁移背景。家庭贫困限制居住选择，迁移又可能造成儿童原有语言与迁入地语言不同。whether 和 could be caused 表示研究中的问题，不能直接改成已经确定的唯一原因。词语与搭配in the hope of gaining better jobs and a better life怀着获得更好工作与生活的希望in the hope of 后接动名词，表达迁移者的动机，不表示愿望必然实现。The overriding aim最主要的目标overriding 强调优先地位；原文用来概括项目需要回答的核心问题。low educational achievement较低的学习成就在文中由具体阅读与计算表现说明，不能直接等同于儿童智力较低。differs from the language used at home与家庭使用的语言不同differ from 比较两个明确对象，这里是学校教学语言和家庭语言。句子精读Tsimpli and her colleagues are investigating whether these low learning outcomes could be caused by an Indian school system where the language that children are taught in often differs from the language used at home.Tsimpli 和同事正在调查，这些较低的学习成果是否可能与印度学校的一种情况有关：儿童接受教学的语言常常不同于家里使用的语言。whether 从句是 investigating 的内容，could be caused 保留待验证的可能性。where 描述学校体系中的情况；that children are taught in 修饰 language，句末的 in 与该语言搭配，表示以某种语言授课。They are so poor they have to live in slums and, as a result of migration, they may speak languages that are different from the regional language.这些儿童的家庭十分贫困，以至于他们不得不住在贫民区；而且，由于迁移，他们使用的语言可能不同于当地的地区语言。They 回指从偏远农村迁往城市的许多儿童。so poor 后省略了 that，引出居住条件的结果。and 后另加迁移造成的语言差异，may 保留个体差别；贫困与语言差异不是完全相同的一个原因。这篇材料里可用于写作的表达differs from the language used at home与家庭语言不同适合解释某些儿童理解课堂内容时面临的额外要求，避免把语言差异等同于能力不足。用于写作：小学正式学习与游戏题关注课堂学习体验；可用来说明具体情境下游戏和实物活动怎样支持理解，不把游戏宣称为所有语言困难的解决方案。读完讲解，可以把原文连起来再读一次；想保留的词句可使用已有收藏功能。",
+  "links": [
+    {
+      "text": "Cambridge IELTS 21 Academic",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=86"
+    },
+    {
+      "text": "核对原答案页",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=125"
+    },
+    {
+      "text": "用于写作：小学正式学习与游戏题关注课堂学习体验；可用来说明具体情境下游戏和实物活动怎样支持理解，不把游戏宣称为所有语言困难的解决方案。",
+      "href": "#writing-prep-wc-c21-t4-primary-from-rd-c21-t4-multilingual-background"
+    }
+  ],
+  "details": [
+    {
+      "id": "material-reading-rd-c21-t4-multilingual-background",
+      "title": "材料精读 · 内容与词句",
+      "open": false,
+      "visible": true
+    }
+  ],
+  "saveFields": [
+    "case-rd-c21-t4-multilingual-background-q1",
+    "case-rd-c21-t4-multilingual-background-q2",
+    "case-rd-c21-t4-multilingual-background-q3",
+    "case-rd-c21-t4-multilingual-background-q4",
+    "case-rd-c21-t4-multilingual-background-q5",
+    "case-rd-c21-t4-multilingual-background-q6",
+    "case-rd-c21-t4-multilingual-background-q7",
+    "case-rd-c21-t4-multilingual-background-q8",
+    "case-rd-c21-t4-multilingual-background-q9",
+    "case-rd-c21-t4-multilingual-background-done",
+    "case-rd-c21-t4-multilingual-background-saved-at",
+    "case-rd-c21-t4-multilingual-background-revision"
+  ],
+  "images": [],
+  "audio": [],
+  "viewport": 1440,
+  "documentWidth": 1440
+}

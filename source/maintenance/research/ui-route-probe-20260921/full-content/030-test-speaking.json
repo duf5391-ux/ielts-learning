@@ -1,0 +1,357 @@
+{
+  "requested": "test-speaking",
+  "from": [
+    "主面板",
+    "页面链接"
+  ],
+  "actual": "#test-speaking",
+  "checkedAt": "2026-09-21T12:50:50.124Z",
+  "title": "口语整科测试 · IELTS",
+  "label": "口语整科测试",
+  "panel": "test-speaking",
+  "contentRoot": "test-speaking",
+  "headings": [
+    {
+      "tag": "H1",
+      "text": "口语整科测试",
+      "visible": true
+    },
+    {
+      "tag": "H2",
+      "text": "Part 1",
+      "visible": false
+    },
+    {
+      "tag": "H2",
+      "text": "Part 2",
+      "visible": false
+    },
+    {
+      "tag": "H2",
+      "text": "Part 3",
+      "visible": false
+    }
+  ],
+  "controls": [
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "← 全部测试",
+      "label": "",
+      "href": "#tests",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "开始本次测试",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "提交本次作答",
+      "label": "",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "再做一轮",
+      "label": "",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "开始录音",
+      "label": "",
+      "href": null,
+      "record": "full-test-speaking-1",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "结束录音",
+      "label": "",
+      "href": null,
+      "stop": "full-test-speaking-1",
+      "visible": false,
+      "disabled": true,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "下载录音",
+      "label": "",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "AUDIO",
+      "id": "",
+      "text": "",
+      "label": "",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "file",
+      "text": "",
+      "label": "载入录音",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "text",
+      "text": "",
+      "label": "Part 1 录音文件名（或记录未能作答的位置）",
+      "href": null,
+      "save": "full-test-speaking-1-record-note",
+      "test": "speaking",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "开始录音",
+      "label": "",
+      "href": null,
+      "record": "full-test-speaking-2",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "结束录音",
+      "label": "",
+      "href": null,
+      "stop": "full-test-speaking-2",
+      "visible": false,
+      "disabled": true,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "下载录音",
+      "label": "",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "AUDIO",
+      "id": "",
+      "text": "",
+      "label": "",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "file",
+      "text": "",
+      "label": "载入录音",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "text",
+      "text": "",
+      "label": "Part 2 录音文件名（或记录未能作答的位置）",
+      "href": null,
+      "save": "full-test-speaking-2-record-note",
+      "test": "speaking",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "开始录音",
+      "label": "",
+      "href": null,
+      "record": "full-test-speaking-3",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "结束录音",
+      "label": "",
+      "href": null,
+      "stop": "full-test-speaking-3",
+      "visible": false,
+      "disabled": true,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "下载录音",
+      "label": "",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "AUDIO",
+      "id": "",
+      "text": "",
+      "label": "",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "file",
+      "text": "",
+      "label": "载入录音",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "text",
+      "text": "",
+      "label": "Part 3 录音文件名（或记录未能作答的位置）",
+      "href": null,
+      "save": "full-test-speaking-3-record-note",
+      "test": "speaking",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "官方评分标准",
+      "label": "",
+      "href": "https://ielts.org/take-a-test/your-results/ielts-scoring-in-detail",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "以往作答 · 0 次",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    }
+  ],
+  "visibleText": "← 全部测试\n口语整科测试\n\nPart 1 + Part 2 + Part 3\n\nCambridge 官方公开样题组合。Part 2 准备 1 分钟、说 1–2 分钟；本地自练按 11–14 分钟安排。\n\n尚未开始\n开始本次测试\n0% · 0 / 3 已作答\n以往作答 · 0 次",
+  "allContent": "← 全部测试口语整科测试Part 1 + Part 2 + Part 3Cambridge 官方公开样题组合。Part 2 准备 1 分钟、说 1–2 分钟；本地自练按 11–14 分钟安排。尚未开始开始本次测试提交本次作答再做一轮0% · 0 / 3 已作答Part 10% · 0 / 1 已作答Speaking sample task – Part 1 \nPart 1 Introduction and interview  \n \n[This part of the test begins with the examiner introducing himself or herself and \nchecking the candidate’s identification. It then continues as an interview.] \n \n \nLet’s talk about your home town or village. \n \n• What kind of place is it? \n• What’s the most interesting part of your town/village? \n• What kind of jobs do the people in your town/village do? \n• Would you say it’s a good place to live? (Why?) \n \n \n \nLet’s move on to talk about accommodation. \n \n• Tell me about the kind of accommodation you live in? \n• How long have you lived there? \n• What do you like about living there? \n• What sort of accommodation would you most like to live in? \n \n 开始录音结束录音下载录音载入录音 结束后请下载录音；文字备份不包含声音。Part 1 录音文件名（或记录未能作答的位置）Part 20% · 0 / 1 已作答Speaking sample task – Part 2 \nPart 2 – Individual long turn \n \n \nCandidate Task Card  \n \nDescribe something you own which is very important to you.  \n \n You should say:  \n \n  where you got it from   \n      how long you have had it   \n      what you use it for  \n \nand explain why it is important to you.  \n \n \nYou will have to talk about the topic for 1 to 2 minutes.  \nYou have one minute to think about what you're going to say.  \nYou can make some notes to help you if you wish.  \n \n \n \nRounding off questions  \n \n• Is it valuable in terms of money?  \n• Would it be easy to replace?  \n \n 开始录音结束录音下载录音载入录音 结束后请下载录音；文字备份不包含声音。Part 2 录音文件名（或记录未能作答的位置）Part 30% · 0 / 1 已作答Speaking sample task – Part 3 \nPart 3 – Two-way discussion \n \n \nLet’s consider first of all how people’s values have changed. \n \n• What kind of things give status to people in your country? \n• Have things changed since your parents’ time? \n \nFinally, let’s talk about the role of advertising. \n \n• Do you think advertising influences what people buy? \n \n 开始录音结束录音下载录音载入录音 结束后请下载录音；文字备份不包含声音。Part 3 录音文件名（或记录未能作答的位置）回听时选一处停顿、一处重复表达和一处不清楚的发音来改进。完成录音不代表达到某个分数。官方评分标准以往作答 · 0 次",
+  "links": [
+    {
+      "text": "← 全部测试",
+      "href": "#tests"
+    },
+    {
+      "text": "官方评分标准",
+      "href": "https://ielts.org/take-a-test/your-results/ielts-scoring-in-detail"
+    }
+  ],
+  "details": [
+    {
+      "id": "",
+      "title": "以往作答 · 0 次",
+      "open": false,
+      "visible": true
+    }
+  ],
+  "saveFields": [
+    "full-test-speaking-1-record-note",
+    "full-test-speaking-2-record-note",
+    "full-test-speaking-3-record-note"
+  ],
+  "images": [],
+  "audio": [
+    {
+      "src": null,
+      "sources": [],
+      "visible": false,
+      "controls": true
+    },
+    {
+      "src": null,
+      "sources": [],
+      "visible": false,
+      "controls": true
+    },
+    {
+      "src": null,
+      "sources": [],
+      "visible": false,
+      "controls": true
+    }
+  ],
+  "viewport": 1440,
+  "documentWidth": 1440
+}

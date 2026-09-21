@@ -1,0 +1,133 @@
+{
+  "requested": "usage-14",
+  "from": [
+    "内容单元"
+  ],
+  "actual": "#usage-14",
+  "checkedAt": "2026-09-21T12:53:26.903Z",
+  "title": "学习 / 短语 / likely to · IELTS",
+  "label": "学习 / 短语 / likely to",
+  "panel": "phrases",
+  "contentRoot": "usage-14",
+  "headings": [
+    {
+      "tag": "H3",
+      "text": "likely to",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "likely to：概率表述与尚在试验的技术",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "likely to：概率表述与尚在试验的技术",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "能源与环境：产业陈述的范围",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "原材料 · 第1页",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "原材料 · 第2页",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "原题",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "原题",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "原答案",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "具体解释",
+      "visible": true
+    }
+  ],
+  "controls": [
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "checkbox",
+      "text": "",
+      "label": "收藏 likely to",
+      "href": null,
+      "save": "vocab-saved-usage-likely-to",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "能源与环境：产业陈述的范围 · 完整题面、原材料与答案",
+      "label": "",
+      "href": "原始参考/support-c970341e-cambridge-zip-115024_General_Training_Reading_sample_task_-_Multiple_choice.pdf#page=1",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "能源与环境：产业陈述的范围 · 完整题面、原材料与答案",
+      "label": "",
+      "href": "原始参考/support-c970341e-cambridge-zip-115024_General_Training_Reading_sample_task_-_Multiple_choice.pdf#page=1",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "checkbox",
+      "text": "",
+      "label": "我已看过本单元",
+      "href": null,
+      "save": "learning-read-usage-14",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    }
+  ],
+  "visibleText": "0% · 0 / 1 完成\n☆\nlikely to\n\n很可能／预计较可能发生某事，仍不是确定事实；比仅表示有可能的 possible 判断更强。more / less likely 则表示相对更可能／更不可能。\n\nbe likely to + 动词原形；be more / less likely to do；It is likely that + 完整句。\n\nTheir reasoning is that flight is most likely to have started from a tree-climbing ancestor, yet all the proposed dinosaurian ancestors were ground-dwellers.\n\n这是原文提出的一种推理，不应把 likely 所表达的可能性读成已证实事实。\n\n原文：\n\nThe origins of birds\n\n日常语境例句\n\nStudents are more likely to keep studying if the daily workload is manageable.\n\n如果每天的任务量能够承受，学生更可能坚持学习。\n\n不要漏 be，也不要写 likely doing。more likely 是相对更可能，不等于大多数必然如此；预测时保留原文的概率强弱。\n\nlikely to：概率表述与尚在试验的技术\nlikely to：概率表述与尚在试验的技术\n\n原文Efficiencies are likely to be improved dramatically，后接技术仍处pilot/demonstration阶段。Q3 B气化技术是研发方向，不应把likely改成has definitely；保留文中预测语气和历史语境。\n\n能源与环境：产业陈述的范围\n\n以下为正式样题原始材料。先按原题要求作答，再看原答案与对应解释；材料描述的是原文中的语境，不把历史数据当作当前事实。\n\n原材料 · 第1页\n\n[Note: This is an extract from a General Training Reading text on the subject of coal. The text preceding this extract catalogued the general belief that extracting and using coal is bad for the environment.]\n\nGreenhouse gases arise from a wide range of sources and their increasing concentration is largely related to the compound effects of increased population, improved living standards and changes in lifestyle. From a current base of 5 billion, the United Nations predicts that the global population may stabilise in the twenty-first century between 8 and 14 billion, with more than 90 per cent of the projected increase taking place in the world’s developing nations. The associated activities to support that growth, particularly to produce the required energy and food, will cause further increases in greenhouse gas emissions. The challenge, therefore, is to attain a sustainable balance between population, economic growth and the environment.\n\nThe major greenhouse gas emissions from human activities are carbon dioxide (CO2), methane and nitrous oxide. Chlorofluorocarbons (CFCs) are the only major contributor to the greenhouse effect that does not occur naturally, coming from such sources as refrigeration, plastics and manufacture. Coal’s total contribution to greenhouse gas emissions is thought to be about 18 per cent, with about half of this coming from electricity generation.\n\nThe worldwide coal industry allocates extensive resources to researching and developing new technologies and ways of capturing greenhouse gases. Efficiencies are likely to be improved dramatically, and hence CO2 emissions reduced, through combustion and gasification techniques which are now at pilot and demonstration stages.\n\nClean coal is another avenue for improving fuel conversion efficiency. Investigations are under way into super-clean coal (35 per cent ash) and ultraclean coal (less than 1 per cent ash). Super-clean coal has the potential to enhance the combustion efficiency of conventional pulverised fuel power plants. Ultraclean coal will enable coal to be used in advanced power systems such as coal-fired gas turbines which, when operated in combined cycle, have the potential to achieve much greater efficiencies.\n\nDefendants of mining point out that, environmentally, coal mining has two important factors in its favour. It makes only temporary use of the land and produces no toxic chemical wastes. By carefully preplanning projects, implementing pollution control measures, monitoring the effects of mining and rehabilitating mined areas, the coal industry minimises the impact on the neighbouring community, the immediate environment and long-term land capability.\n\n原页文字提示：原题引文保留原页拼写：Defendants of mining。这里语义上指采矿的支持者；自己的表达请用 defenders of mining，不把原题拼写当作推荐搭配。\n\n原材料 · 第2页\n\nDust levels are controlled by spraying roads and stockpiles, and water pollution is controlled by carefully separating clean water runoff from runoff which contains sediments or salt from mine workings. The latter is treated and reused for dust suppression. Noise is controlled by modifying equipment and by using insulation and sound enclosures around machinery.\n\nSince mining activities represent only a temporary use of the land, extensive rehabilitation measures are adopted to ensure that land capability after mining meets agreed and appropriate standards which, in some cases, are superior to the land’s pre-mining condition. Where the mining is underground, the surface area can be simultaneously used for forests, cattle grazing and crop raising, or even reservoirs and urban development, with little or no disruption to the existing land use. In all cases, mining is subject to stringent controls and approvals processes.\n\n原题\n\nQuestions 1 – 5\n\nChoose the correct letter, A, B, C or D.\n\nWrite your answers in boxes 1-5 on your answer sheet.\n\n1 The global increase in greenhouse gases has been attributed to\n\nA industrial pollution in developing countries. B coal mining and electricity generation. C reduced rainfall in many parts of the world. D trends in population and lifestyle.\n\n2 The proportion of all greenhouse gases created by coal is approximately\n\nA 14 per cent. B 18 per cent. C 27 per cent. D 90 per cent.\n\n3 Current research aims to increase the energy-producing efficiency of coal by\n\nA burning it at a lower temperature. B developing new gasification techniques. C extracting CO2 from it. D recycling greenhouse gases.\n\n4 Compared with ordinary coal, new, ‘clean’ coals may generate power\n\nA more cleanly and more efficiently. B more cleanly but less efficiently. C more cleanly but at higher cost. D more cleanly but much more slowly.\n\n5 To control dust at mine sites, mining companies often use\n\nA chemicals which may be toxic. B topsoil taken from the site before mining. C fresh water from nearby dams. D runoff water containing sediments.\n\n原题\n\nQuestion 6\n\nChoose the most suitable title for the text from the list below.\n\nWrite the correct letter, A, B, C or D, in box 6 on your answer sheet.\n\nA Pollution control in coal mining B The greenhouse effect C The coal industry and the environment D Sustainable population growth\n\n原答案\n\nAnswers\n\n1 D 2 B 3 B 4 A 5 D 6 C\n\n具体解释\n\nQ1 D：首段把温室气体增长关联人口、生活水平与生活方式；Q2 B：coal总贡献18%，其中约一半来自发电，不能把18%再随意换成题中其它数。Q3 B：燃烧与气化技术对应提高效率；Q4 A：clean煤更洁净且更高效；Q5 D：含沉淀物的径流水经处理后抑尘；Q6 C：全文讨论煤产业与环境，A只涵盖控制污染一部分。语境是原正式样题中的产业论述及历史预测，并非今日排放数据核验。\n\n完整原件：能源与环境：产业陈述的范围 · 完整题面、原材料与答案\n\n能源与环境：产业陈述的范围 · 完整题面、原材料与答案\n\n我已看过本单元",
+  "allContent": "0% · 0 / 1 完成☆likely to很可能／预计较可能发生某事，仍不是确定事实；比仅表示有可能的 possible 判断更强。more / less likely 则表示相对更可能／更不可能。be likely to + 动词原形；be more / less likely to do；It is likely that + 完整句。Their reasoning is that flight is most likely to have started from a tree-climbing ancestor, yet all the proposed dinosaurian ancestors were ground-dwellers.这是原文提出的一种推理，不应把 likely 所表达的可能性读成已证实事实。原文：The origins of birds日常语境例句Students are more likely to keep studying if the daily workload is manageable.如果每天的任务量能够承受，学生更可能坚持学习。不要漏 be，也不要写 likely doing。more likely 是相对更可能，不等于大多数必然如此；预测时保留原文的概率强弱。likely to：概率表述与尚在试验的技术likely to：概率表述与尚在试验的技术原文Efficiencies are likely to be improved dramatically，后接技术仍处pilot/demonstration阶段。Q3 B气化技术是研发方向，不应把likely改成has definitely；保留文中预测语气和历史语境。能源与环境：产业陈述的范围以下为正式样题原始材料。先按原题要求作答，再看原答案与对应解释；材料描述的是原文中的语境，不把历史数据当作当前事实。原材料 · 第1页[Note: This is an extract from a General Training Reading text on the subject of coal. The text preceding this extract catalogued the general belief that extracting and using coal is bad for the environment.]Greenhouse gases arise from a wide range of sources and their increasing concentration is largely related to the compound effects of increased population, improved living standards and changes in lifestyle. From a current base of 5 billion, the United Nations predicts that the global population may stabilise in the twenty-first century between 8 and 14 billion, with more than 90 per cent of the projected increase taking place in the world’s developing nations. The associated activities to support that growth, particularly to produce the required energy and food, will cause further increases in greenhouse gas emissions. The challenge, therefore, is to attain a sustainable balance between population, economic growth and the environment.The major greenhouse gas emissions from human activities are carbon dioxide (CO2), methane and nitrous oxide. Chlorofluorocarbons (CFCs) are the only major contributor to the greenhouse effect that does not occur naturally, coming from such sources as refrigeration, plastics and manufacture. Coal’s total contribution to greenhouse gas emissions is thought to be about 18 per cent, with about half of this coming from electricity generation.The worldwide coal industry allocates extensive resources to researching and developing new technologies and ways of capturing greenhouse gases. Efficiencies are likely to be improved dramatically, and hence CO2 emissions reduced, through combustion and gasification techniques which are now at pilot and demonstration stages.Clean coal is another avenue for improving fuel conversion efficiency. Investigations are under way into super-clean coal (35 per cent ash) and ultraclean coal (less than 1 per cent ash). Super-clean coal has the potential to enhance the combustion efficiency of conventional pulverised fuel power plants. Ultraclean coal will enable coal to be used in advanced power systems such as coal-fired gas turbines which, when operated in combined cycle, have the potential to achieve much greater efficiencies.Defendants of mining point out that, environmentally, coal mining has two important factors in its favour. It makes only temporary use of the land and produces no toxic chemical wastes. By carefully preplanning projects, implementing pollution control measures, monitoring the effects of mining and rehabilitating mined areas, the coal industry minimises the impact on the neighbouring community, the immediate environment and long-term land capability.原页文字提示：原题引文保留原页拼写：Defendants of mining。这里语义上指采矿的支持者；自己的表达请用 defenders of mining，不把原题拼写当作推荐搭配。原材料 · 第2页Dust levels are controlled by spraying roads and stockpiles, and water pollution is controlled by carefully separating clean water runoff from runoff which contains sediments or salt from mine workings. The latter is treated and reused for dust suppression. Noise is controlled by modifying equipment and by using insulation and sound enclosures around machinery.Since mining activities represent only a temporary use of the land, extensive rehabilitation measures are adopted to ensure that land capability after mining meets agreed and appropriate standards which, in some cases, are superior to the land’s pre-mining condition. Where the mining is underground, the surface area can be simultaneously used for forests, cattle grazing and crop raising, or even reservoirs and urban development, with little or no disruption to the existing land use. In all cases, mining is subject to stringent controls and approvals processes.原题Questions 1 – 5Choose the correct letter, A, B, C or D.Write your answers in boxes 1-5 on your answer sheet.1 The global increase in greenhouse gases has been attributed toA industrial pollution in developing countries. B coal mining and electricity generation. C reduced rainfall in many parts of the world. D trends in population and lifestyle.2 The proportion of all greenhouse gases created by coal is approximatelyA 14 per cent. B 18 per cent. C 27 per cent. D 90 per cent.3 Current research aims to increase the energy-producing efficiency of coal byA burning it at a lower temperature. B developing new gasification techniques. C extracting CO2 from it. D recycling greenhouse gases.4 Compared with ordinary coal, new, ‘clean’ coals may generate powerA more cleanly and more efficiently. B more cleanly but less efficiently. C more cleanly but at higher cost. D more cleanly but much more slowly.5 To control dust at mine sites, mining companies often useA chemicals which may be toxic. B topsoil taken from the site before mining. C fresh water from nearby dams. D runoff water containing sediments.原题Question 6Choose the most suitable title for the text from the list below.Write the correct letter, A, B, C or D, in box 6 on your answer sheet.A Pollution control in coal mining B The greenhouse effect C The coal industry and the environment D Sustainable population growth原答案Answers1 D 2 B 3 B 4 A 5 D 6 C具体解释Q1 D：首段把温室气体增长关联人口、生活水平与生活方式；Q2 B：coal总贡献18%，其中约一半来自发电，不能把18%再随意换成题中其它数。Q3 B：燃烧与气化技术对应提高效率；Q4 A：clean煤更洁净且更高效；Q5 D：含沉淀物的径流水经处理后抑尘；Q6 C：全文讨论煤产业与环境，A只涵盖控制污染一部分。语境是原正式样题中的产业论述及历史预测，并非今日排放数据核验。完整原件：能源与环境：产业陈述的范围 · 完整题面、原材料与答案能源与环境：产业陈述的范围 · 完整题面、原材料与答案 我已看过本单元",
+  "links": [
+    {
+      "text": "能源与环境：产业陈述的范围 · 完整题面、原材料与答案",
+      "href": "原始参考/support-c970341e-cambridge-zip-115024_General_Training_Reading_sample_task_-_Multiple_choice.pdf#page=1"
+    },
+    {
+      "text": "能源与环境：产业陈述的范围 · 完整题面、原材料与答案",
+      "href": "原始参考/support-c970341e-cambridge-zip-115024_General_Training_Reading_sample_task_-_Multiple_choice.pdf#page=1"
+    }
+  ],
+  "details": [],
+  "saveFields": [
+    "vocab-saved-usage-likely-to",
+    "learning-read-usage-14"
+  ],
+  "images": [],
+  "audio": [],
+  "viewport": 1440,
+  "documentWidth": 1440
+}

@@ -1,0 +1,312 @@
+{
+  "requested": "topic-education",
+  "from": [
+    "内容单元",
+    "页面链接",
+    "每日安排目标"
+  ],
+  "actual": "#topic-education",
+  "checkedAt": "2026-09-21T12:51:33.401Z",
+  "title": "学习 / 写作 · Task 2 / 教育：谁能学到，学什么，怎样学 · IELTS",
+  "label": "学习 / 写作 · Task 2 / 教育：谁能学到，学什么，怎样学",
+  "panel": "writing2",
+  "contentRoot": "topic-education",
+  "headings": [
+    {
+      "tag": "H2",
+      "text": "教育：谁能学到，学什么，怎样学",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "先分清三个概念",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "读一段背景英语",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "这个话题通常怎样展开",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "可以直接理解和借用的搭配",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "把教育概念用到具体问题里",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "正式题：小学课堂的正式学习与游戏",
+      "visible": true
+    }
+  ],
+  "controls": [
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "← 返回本科内容",
+      "label": "",
+      "href": "#study-writing-list",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "checkbox",
+      "text": "",
+      "label": "已读过这段背景",
+      "href": null,
+      "save": "topic-read-education",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "中文帮助理解",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "Plain English",
+      "label": "",
+      "href": "原始参考/ec598fcf-inspera-response-3.txt",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "阅读章",
+      "label": "",
+      "href": "#reading",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "听力章",
+      "label": "",
+      "href": "#listening",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "我的判断与理由\n暂时不会",
+      "href": null,
+      "save": "prereq-education-scenarios",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "暂时不会",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "完成后核对",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "两项要求 + 一个理由段\n暂时不会",
+      "href": null,
+      "save": "prereq-education-paragraph",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "暂时不会",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "完成后核对",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "完整题面",
+      "label": "",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=96",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "同题考生稿与评语（7.5 分）",
+      "label": "",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=139",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "续页评语",
+      "label": "",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=140",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "延伸阅读：Davies 姐妹的教育与收藏",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "",
+      "label": "",
+      "href": "#topic-society",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    }
+  ],
+  "visibleText": "0% · 0 / 3 完成\n← 返回本科内容\n已读过这段背景\n\nTOPIC 01\n\n教育：谁能学到，学什么，怎样学\n\n教育讨论常围绕三个问题：谁有机会接受教育，课程应包含什么，以及怎样判断学习成果。能进入学校，不等于能获得适合自己的帮助；考试成绩也只是学习表现的一部分。学术知识、实际技能和独立思考可以相互支持，不必选一个就放弃另一个。讨论统一课程与个别支持时，还要考虑教师时间、学生起点，以及学校能提供哪些资源。\n\n先分清三个概念\n概念\t它指什么\t不要混淆\naccess to education\t获得教育机会，包括能够入学、参与课程并使用必要的学习资源。\t有机会进入课程与实际学懂是两件事；提供一个学习名额并不自动解决时间、语言或学习支持问题。\npractical skills\t能够用于具体活动或解决实际问题的技能，例如操作工具、安排任务和处理信息。\t实际技能不只指手工或职业技术；它也可以用到学科知识，不能简单理解成与理论相反。\nequal opportunity\t让不同背景的学习者有公平参与和发展的机会。\t公平机会不一定意味着每个人得到完全相同的帮助；起点不同的人可能需要不同程度的支持。\n读一段背景英语\nA school has several purposes. It can introduce students to knowledge, help them develop useful skills and give them experience of working with others. These purposes do not always require separate lessons. A science project, for example, can involve reading, measuring and explaining a result to a partner. However, students may need different kinds of support to take part. One student may understand the subject but struggle with the language used in class. Another may need more time to practise a skill. A common curriculum can give a class shared goals, while additional support can help students work towards them. When discussing education, it is useful to consider both what schools expect and what learners need.\n中文帮助理解\n\n阅读例句\n\nThe campaigners argue that such language, whether spoken or written, should be replaced by clearer forms of expression.\n\n这篇阅读材料讨论清晰语言。它连接教育中的“理解与表达”，并非教育政策效果研究。\n\nPlain English\n这个话题通常怎样展开\n\n以下为教学归纳的讨论角度，不是考试频率排名或原题清单。\n\n课程应如何安排学科知识、实际技能与独立思考？（教学概括，非原题）\n统一的课程或考试怎样与不同学生的学习需要相配合？（教学概括，非原题）\n学校、家庭和个人可以分别提供哪些学习支持？（教学概括，非原题）\n可以直接理解和借用的搭配\n\n本组是教学选用搭配与例句，尚未逐组统计真题频率。\n\n搭配与意思\t放进句子里\nprovide access to education\n提供接受教育的机会\tEvening classes can provide access to education for people who work during the day.\ndevelop practical skills\n发展实际技能\tStudents can develop practical skills by planning and completing a group project.\nmeet learners' needs\n满足学习者的需要\tA course may need to offer different kinds of support to meet learners' needs.\nreceive feedback on\n获得针对某项表现或作品的反馈\tStudents receive feedback on their first draft before they revise it.\nput knowledge into practice\n将知识用于实际活动\tA design task gives students a chance to put their knowledge into practice.\n\n读过背景后，需要练习时再进入：阅读章 · 听力章。已读过原句或提示的任务，记为学习后应用。\n\n把教育概念用到具体问题里\n\n先用两个课堂情境检查理解，再看一道正式写作题怎样限定讨论范围。前两题是本册编写的理解练习。\n\n两名学生都能参加科学项目。甲会测量，但听不懂课堂指令；乙能理解指令，却需要练习测量。给两人同一份作业是否就满足了各自的学习需要？各写一种帮助，并说明帮助解决的困难。\n学校给所有学生安排相同的项目目标，同时为需要的学生提供双语词表和额外练习时间。这属于改变学习目标，还是改变参与方式？用 access to education 和 equal opportunity 解释：已有名额，还缺什么？\n我的判断与理由\n暂时不会\n完成后核对\n正式题：小学课堂的正式学习与游戏\n\nSome people argue that primary schools focus too much on formal learning.\nTo what extent do you agree with this opinion?\nHow important do you think it is for children to play as well as learn in the primary school classroom?\n\n原题要求说明理由并举相关例子，完整作文至少 250 词，建议 40 分钟。本次只练审题与一个理由段，不计作完成整篇作文。\n\n写出题目中的两项要求，并明确讨论对象与场景。\n设计一个课堂活动，说明孩子在其中学什么、怎样参与、为什么需要游戏。再补一句：什么情况下需要额外的学习支持？\n两项要求 + 一个理由段\n暂时不会\n完成后核对\n\n完整题面 · 同题考生稿与评语（7.5 分） · 续页评语\n\n延伸阅读：Davies 姐妹的教育与收藏",
+  "allContent": "0% · 0 / 3 完成← 返回本科内容 已读过这段背景TOPIC 01教育：谁能学到，学什么，怎样学教育讨论常围绕三个问题：谁有机会接受教育，课程应包含什么，以及怎样判断学习成果。能进入学校，不等于能获得适合自己的帮助；考试成绩也只是学习表现的一部分。学术知识、实际技能和独立思考可以相互支持，不必选一个就放弃另一个。讨论统一课程与个别支持时，还要考虑教师时间、学生起点，以及学校能提供哪些资源。先分清三个概念概念它指什么不要混淆access to education获得教育机会，包括能够入学、参与课程并使用必要的学习资源。有机会进入课程与实际学懂是两件事；提供一个学习名额并不自动解决时间、语言或学习支持问题。practical skills能够用于具体活动或解决实际问题的技能，例如操作工具、安排任务和处理信息。实际技能不只指手工或职业技术；它也可以用到学科知识，不能简单理解成与理论相反。equal opportunity让不同背景的学习者有公平参与和发展的机会。公平机会不一定意味着每个人得到完全相同的帮助；起点不同的人可能需要不同程度的支持。读一段背景英语A school has several purposes. It can introduce students to knowledge, help them develop useful skills and give them experience of working with others. These purposes do not always require separate lessons. A science project, for example, can involve reading, measuring and explaining a result to a partner. However, students may need different kinds of support to take part. One student may understand the subject but struggle with the language used in class. Another may need more time to practise a skill. A common curriculum can give a class shared goals, while additional support can help students work towards them. When discussing education, it is useful to consider both what schools expect and what learners need.中文帮助理解学校可以帮助学生获得知识、发展实用技能，也让他们学习与别人合作。这些目标可以出现在同一项活动里，例如科学项目既需要阅读和测量，也需要向同伴解释结果。但参与同一堂课的学生，困难可能不同：有人懂学科内容，却不熟悉课堂语言；有人需要更多练习时间。因此，共同课程可以提供共同目标，额外支持则帮助不同学生接近这些目标。讨论教育时，可以同时关注学校的要求与学习者的需要。阅读例句The campaigners argue that such language, whether spoken or written, should be replaced by clearer forms of expression.这篇阅读材料讨论清晰语言。它连接教育中的“理解与表达”，并非教育政策效果研究。Plain English这个话题通常怎样展开以下为教学归纳的讨论角度，不是考试频率排名或原题清单。课程应如何安排学科知识、实际技能与独立思考？（教学概括，非原题）统一的课程或考试怎样与不同学生的学习需要相配合？（教学概括，非原题）学校、家庭和个人可以分别提供哪些学习支持？（教学概括，非原题）可以直接理解和借用的搭配本组是教学选用搭配与例句，尚未逐组统计真题频率。搭配与意思放进句子里provide access to education提供接受教育的机会Evening classes can provide access to education for people who work during the day.develop practical skills发展实际技能Students can develop practical skills by planning and completing a group project.meet learners' needs满足学习者的需要A course may need to offer different kinds of support to meet learners' needs.receive feedback on获得针对某项表现或作品的反馈Students receive feedback on their first draft before they revise it.put knowledge into practice将知识用于实际活动A design task gives students a chance to put their knowledge into practice.读过背景后，需要练习时再进入：阅读章 · 听力章。已读过原句或提示的任务，记为学习后应用。把教育概念用到具体问题里\n先用两个课堂情境检查理解，再看一道正式写作题怎样限定讨论范围。前两题是本册编写的理解练习。\n两名学生都能参加科学项目。甲会测量，但听不懂课堂指令；乙能理解指令，却需要练习测量。给两人同一份作业是否就满足了各自的学习需要？各写一种帮助，并说明帮助解决的困难。\n学校给所有学生安排相同的项目目标，同时为需要的学生提供双语词表和额外练习时间。这属于改变学习目标，还是改变参与方式？用 access to education 和 equal opportunity 解释：已有名额，还缺什么？我的判断与理由暂时不会完成后核对① 甲需要理解指令的支持，例如关键术语表或一次演示；乙需要测量练习和反馈。两人都能入学，不代表都已获得适合的支持。② 目标相同，支持方式不同；平等机会可以通过不同帮助实现，不必把“公平”理解成每个人得到完全一样的东西。具体措施还受教师时间与可用资源限制。正式题：小学课堂的正式学习与游戏\nSome people argue that primary schools focus too much on formal learning.To what extent do you agree with this opinion?How important do you think it is for children to play as well as learn in the primary school classroom?\n原题要求说明理由并举相关例子，完整作文至少 250 词，建议 40 分钟。本次只练审题与一个理由段，不计作完成整篇作文。\n写出题目中的两项要求，并明确讨论对象与场景。设计一个课堂活动，说明孩子在其中学什么、怎样参与、为什么需要游戏。再补一句：什么情况下需要额外的学习支持？两项要求 + 一个理由段暂时不会完成后核对两项要求分别是：是否同意小学过于重视正式学习；游戏在小学课堂里有多重要。范围是小学课堂，不能只讨论大学就业或入学机会。\n原创示例：A simple shop game can help children practise addition while taking turns as customers and shopkeepers. They use numbers for a clear purpose and learn to cooperate. A child who struggles with the instructions may need a demonstration before joining in. 这里“游戏—计算与合作—示范支持”逐项对应 practical skills 和 learners’ needs；它是理由段示例，没有官方分数。\n打开同题考生稿：找出第 2 段支持正式学习的两点，以及第 3 段说明游戏价值的两点。再读评语，修改自己段落里最笼统的一句。\n核对：考生稿谈到纪律与尊重、考试检验学习；游戏段谈到社交与创造技能、减少无聊并激发长期学习兴趣。考官认可回应两问和相关展开，同时指出结论笼统、句首连接词过多，以及个别搭配错误。7.5 分属于这份考生原稿，并不说明其中每句话都值得照抄。完整题面 · 同题考生稿与评语（7.5 分） · 续页评语延伸阅读：Davies 姐妹的教育与收藏同话题的独立阅读题：社会责任：财富如何用于公共文化 →",
+  "links": [
+    {
+      "text": "← 返回本科内容",
+      "href": "#study-writing-list"
+    },
+    {
+      "text": "Plain English",
+      "href": "原始参考/ec598fcf-inspera-response-3.txt"
+    },
+    {
+      "text": "阅读章",
+      "href": "#reading"
+    },
+    {
+      "text": "听力章",
+      "href": "#listening"
+    },
+    {
+      "text": "完整题面",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=96"
+    },
+    {
+      "text": "同题考生稿与评语（7.5 分）",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=139"
+    },
+    {
+      "text": "续页评语",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=140"
+    },
+    {
+      "text": "社会责任：财富如何用于公共文化 →",
+      "href": "#topic-society"
+    }
+  ],
+  "details": [
+    {
+      "id": "",
+      "title": "中文帮助理解",
+      "open": false,
+      "visible": true
+    },
+    {
+      "id": "answer-check-2",
+      "title": "完成后核对",
+      "open": false,
+      "answerGate": "[\"prereq-education-scenarios\"]",
+      "visible": true
+    },
+    {
+      "id": "answer-check-3",
+      "title": "完成后核对",
+      "open": false,
+      "answerGate": "[\"prereq-education-paragraph\"]",
+      "visible": true
+    },
+    {
+      "id": "",
+      "title": "延伸阅读：Davies 姐妹的教育与收藏",
+      "open": false,
+      "visible": true
+    }
+  ],
+  "saveFields": [
+    "topic-read-education",
+    "prereq-education-scenarios",
+    "prereq-education-paragraph"
+  ],
+  "images": [],
+  "audio": [],
+  "viewport": 1440,
+  "documentWidth": 1440
+}

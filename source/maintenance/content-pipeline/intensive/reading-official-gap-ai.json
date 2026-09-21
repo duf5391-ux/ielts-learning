@@ -1,0 +1,815 @@
+{
+  "cases": [
+    {
+      "id": "rd-official-miles-1",
+      "overview": "这三段沿着音色形成、学习经历和录音创作展开，解释戴维斯的独特风格怎样产生，以及一部当时反响冷淡的作品如何在后来获得历史地位。个人风格、不同学习环境与作品接受史是相互关联的三条线。",
+      "paragraphs": [
+        {
+          "label": "A",
+          "explanation": "A段从十三岁获得小号写起。父亲资助的课程塑造了他的标志性音色：当时许多演奏者偏爱颤音，他的老师却训练他保持悠长、平直的音。后来的自述表明，这种音色成为他认同自身演奏的基础。原文描述老师敲打指关节的做法，是人物经历，不是认可这种教学方式。"
+        },
+        {
+          "label": "B",
+          "explanation": "B段把音乐教育分为学校课堂和俱乐部两种环境。戴维斯不满学校偏重欧洲古典曲目、忽视爵士，因而退学；但他后来仍肯定学校对小号技巧和乐理基础的帮助。与新秀和成名乐手同台的经历，则提供了课堂之外的实践。两种学习来源并非互相排斥。"
+        },
+        {
+          "label": "C",
+          "explanation": "C段将前面的个人风格推进到合作录音。他与其他乐器演奏者创造了较轻、克制、编排更正式的声音，与当时流行的急促节拍和强烈音响形成对照。作品当时缺少赞誉，后来却被视为爵士史的重要转折。in hindsight明确区分当时反响与后来的评价。"
+        }
+      ],
+      "phrases": [
+        {
+          "text": "had a profound effect on",
+          "meaning": "对……产生深远影响",
+          "usage": "have an effect on后接受到影响的人、事或过程；profound强调影响深而持久，此处具体指早期课程塑造音色。"
+        },
+        {
+          "text": "a solid grounding in music theory",
+          "meaning": "扎实的乐理基础",
+          "usage": "grounding表示作为后续学习或实践基础的知识训练，常与in搭配；不是地面或被禁足的意思。"
+        },
+        {
+          "text": "In contrast to",
+          "meaning": "与……形成对照",
+          "usage": "后接名词性成分，此处引出当时流行爵士与新录音在声音上的差异，不表示其中一方天然更好。"
+        },
+        {
+          "text": "in hindsight",
+          "meaning": "事后回看；从后来的认识看",
+          "usage": "用于区分经历发生时与后来回顾时的理解；不能把后来获得的评价写成当时已经普遍接受。"
+        }
+      ],
+      "sentences": [
+        {
+          "text": "Whereas most trumpeters of the era favoured the use of vibrato (a wobbly quiver in pitch inflected in the instrument’s tone), Davis was taught to play with a long, straight tone, a preference his instructor reportedly drilled into the young trumpeter with a rap on the knuckles every time Davis began using vibrato.",
+          "translation": "当时大多数小号演奏者喜欢运用颤音，即乐器音色中音高的颤动；戴维斯却被教导使用悠长、平直的音。据说，每当他开始使用颤音时，老师就敲一下他的指关节，以此把这种偏好灌输给他。",
+          "explanation": "Whereas引出对照；括号解释vibrato。a preference补充说明前面的演奏取向，his instructor reportedly drilled into...说明训练方式；reportedly表明这一细节来自转述。every time引出每次发生的情形。"
+        },
+        {
+          "text": "Davis did later acknowledge, however, that this time at the school was invaluable in terms of developing his trumpet-playing technique and giving him a solid grounding in music theory.",
+          "translation": "不过，戴维斯后来确实承认，在这所学校的经历对发展他的小号演奏技巧、打下扎实的乐理基础非常宝贵。",
+          "explanation": "did强调他确实作过这一肯定；that引出承认的内容。in terms of后面developing和giving并列，指出两方面价值。this time指在学校学习的这段经历，不能因他退学就把学校贡献一并否定。"
+        }
+      ],
+      "writing": [
+        {
+          "phrase": "a solid grounding in music theory",
+          "meaning": "扎实的乐理基础",
+          "usage": "可说明专业理论如何支持实践；不把理论学习与工作实习写成只能二选一。",
+          "matches": [
+            {
+              "caseId": "wc-c21-t3-placement",
+              "example": "Music students with a solid grounding in music theory may learn to apply it during a placement in a recording studio.",
+              "fit": "自编例句，适用于本科课程是否应包括实习：音乐专业作为具体例子，说明已有理论知识怎样在工作环境中应用；不代表所有专业都需要录音棚实习。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "rd-official-miles-2",
+      "overview": "这三段把听起来轻松的音乐与并不轻松的人生并置，继而写风格跨界引起的争论。结尾从戴维斯自己的创作观解释变化：继续发展对他比维持旧风格更重要。",
+      "paragraphs": [
+        {
+          "label": "D",
+          "explanation": "D段先区分演奏给人的轻松感与个人生活。文中把五十年代初的抑郁与人际、合作关系破裂联系起来，同时交代他认为评论界忽视了自己的贡献。which he attributed to与his perception都保留了当事人的解释和感受，不能改写成已经独立证实的全部成因。"
+        },
+        {
+          "label": "E",
+          "explanation": "E段按年代呈现创作范围的扩展：放克影响、爵士与摇滚融合、电子效果和电声乐器，随后涉及流行歌曲、嘻哈和电影。diversify不是放弃音乐，而是让创作跨越更多风格。段落为下一段的批评提供具体背景。"
+        },
+        {
+          "label": "F",
+          "explanation": "F段呈现对跨界的不同判断：有人认为融合不是真正的爵士，也有人把变化归因于唱片公司的商业影响。戴维斯则说，早期作品属于自己已没有同样感受的过去；原地不动会限制创作。结尾的From this perspective限定了“演进而非仅仅叛逆”这一评价的观察角度。"
+        }
+      ],
+      "phrases": [
+        {
+          "text": "carried over into",
+          "meaning": "延续到；影响到另一领域",
+          "usage": "carry over强调一种状态从原来的范围延伸出去；此处否定音乐的轻松感同样存在于他的生活中。"
+        },
+        {
+          "text": "diversify his output",
+          "meaning": "使自己的作品类型多样化",
+          "usage": "output在此指创作产出；diversify强调种类和方向增加，不等于每种尝试都得到肯定。"
+        },
+        {
+          "text": "draw wider audiences",
+          "meaning": "吸引范围更广的观众",
+          "usage": "draw在此是吸引；wider侧重覆盖面更广，不能据此推断作品艺术价值高低。"
+        },
+        {
+          "text": "In the face of this criticism",
+          "meaning": "面对这些批评",
+          "usage": "in the face of可接困难、反对等；this criticism回指对跨界作品及商业影响的批评。"
+        }
+      ],
+      "sentences": [
+        {
+          "text": "Though Davis’ trumpet playing may have sounded effortless and breezy, this ease rarely carried over into the rest of his life.",
+          "translation": "虽然戴维斯的小号演奏可能听起来轻松自在，但这种轻松感很少延续到他生活的其他方面。",
+          "explanation": "Though引出让步；may have sounded描述听众可能获得的听觉印象，而非断言演奏过程毫不费力。this ease承接effortless and breezy的感受，rarely限制延续发生的频率。"
+        },
+        {
+          "text": "He firmly believed that remaining stylistically inert would have hampered his ability to develop new ways of producing music.",
+          "translation": "他坚信，如果风格一直停滞不变，就会妨碍他发展新的音乐创作方式。",
+          "explanation": "He指戴维斯。remaining stylistically inert是动名词结构，充当宾语从句的主语；would have hampered表达他对未选择的停滞状态的判断。句子陈述他的信念，不是关于所有艺术家的普遍定律。"
+        }
+      ],
+      "writing": [
+        {
+          "phrase": "draw wider audiences",
+          "meaning": "吸引范围更广的观众",
+          "usage": "可具体说明线上娱乐的可达性；观众范围扩大不等于线下场所失去全部文化价值。",
+          "matches": [
+            {
+              "caseId": "wc-c21-t2-entertainment",
+              "example": "Online screenings can draw wider audiences than a small theatre can accommodate, especially when viewers live far from major cities.",
+              "fit": "自编例句，直接回应线上娱乐的覆盖范围优势；can和especially保留条件，也为讨论剧院独有的现场体验留下空间。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "rd-official-older-workers",
+      "overview": "文章讨论怎样保留年长劳动者的经验。先提出薪资和成本之间的矛盾，再用公司安排说明替代雇用方式，随后解释渐进退休的不同动机，最后展望更灵活的就业形式。文中的研究数字属于材料所述研究，不能外推为当前各国的普遍比例。",
+      "paragraphs": [
+        {
+          "label": "1",
+          "explanation": "第1段先报告一种常见假设：年长者收入较高未必由生产率解释。might partly把它限制为雇主推动提前退休的部分可能原因。取消按资历加薪或降低晚年薪酬并非没有阻力，因此段末转向改变雇用方式，而不是简单地要求降薪。"
+        },
+        {
+          "label": "2",
+          "explanation": "第2段以IBM Belgium的Skill Team安排具体化这种改变：部分提前退休者通过另设公司继续工作；文中五年合同的58%工时和88%原薪酬是这一安排的条件。服务继续提供给IBM，使它保留本来可能流失的知识经验。"
+        },
+        {
+          "label": "3",
+          "explanation": "第3段把个案扩展到“桥梁工作”，即帮助人从全职工作逐步过渡到退休的兼职或临时工作。继续工作的人包括收入较高和较低的两端，背后可能分别是愿意工作和必须维持收入；两者不能混为同一种选择。"
+        },
+        {
+          "label": "4",
+          "explanation": "第4段用条件句讨论更灵活的市场可能带来的机会，包括自雇和创业。英国特定研究中的企业存活比例用于支撑年长创业者可能拥有的能力，不等于他们在所有条件下都更成功。结尾强调无论采用何种形式，其技能都需要被承认并获得回报。"
+        }
+      ],
+      "phrases": [
+        {
+          "text": "under pressure to cut costs",
+          "meaning": "承受削减成本的压力",
+          "usage": "under pressure to后接动作，说明压力指向什么；不等于已经完成削减。"
+        },
+        {
+          "text": "retain access to",
+          "meaning": "保留获得或使用……的渠道",
+          "usage": "retain强调继续拥有；文中指IBM仍能利用原员工的知识，不是把这些人视作公司所有物。"
+        },
+        {
+          "text": "a more gradual transition",
+          "meaning": "更为逐步的过渡",
+          "usage": "transition常与from...to...连接起点和终点；gradual描述过程速度，不自动等于对每个人都更合适。"
+        },
+        {
+          "text": "could afford to retire",
+          "meaning": "在经济上能够承担退休",
+          "usage": "afford to指具备承受某种选择的资源；此处与因经济需要必须继续工作的人形成区别。"
+        }
+      ],
+      "sentences": [
+        {
+          "text": "Faced with the need to cut staff costs, and having decided to concentrate cuts on 55 to 60-year olds, IBM set up a separate company called Skill Team, which re-employed any of the early retired who wanted to go on working up to the age of 60.",
+          "translation": "IBM面对削减员工成本的需要，并且已经决定把削减集中在55至60岁员工身上，于是设立了名为Skill Team的独立公司，重新雇用那些提前退休后仍希望继续工作到60岁的人。",
+          "explanation": "Faced with...和having decided...共同补充IBM的背景，后者表示先作出的决定；which指Skill Team。who限定愿意继续工作的提前退休者，并非所有提前退休员工都会自动加入。"
+        },
+        {
+          "text": "There seem to be two very different types of bridge job-holder – those who continue working because they have to and those who continue working because they want to, even though they could afford to retire.",
+          "translation": "桥梁工作从业者似乎有两种很不相同的类型：一类因为不得不工作而继续，另一类即使经济上能够退休，也因为自己愿意而继续工作。",
+          "explanation": "There seem to be保留概括的审慎程度；两个those who...并列。have to与want to区分必要性和意愿，even though引出第二类人的让步条件。"
+        }
+      ],
+      "writing": [],
+      "noWritingMatchReason": "现有写作题中没有年长者就业、渐进退休或薪资制度这一具体议题；老年照护题讨论费用分担，毕业生题讨论高学历失业，不能仅因都涉及年龄或工作就把此处表达强行同步。"
+    },
+    {
+      "id": "rd-official-diagram",
+      "overview": "这段材料先写蜣螂如何被引入牧场，再从地下隧道、育幼室和滚粪球的位置解释不同工作方式，最后把物种差异联系到季节配合。理解重点是条件、空间关系和形态之间的联系。",
+      "paragraphs": [
+        {
+          "label": "1",
+          "explanation": "第1段说明引入过程及建立种群的条件：把甲虫少量分批放入新鲜牛粪后，它们会向下挖掘；只有成功适应新环境，才会形成能自行维持的本地生态组成。三四年后收益明显是文中描述的时间尺度，不能略去适应条件。"
+        },
+        {
+          "label": "2",
+          "explanation": "第2段从共同的遮蔽位置写到不同物种的挖掘形态：法国种向下挖约30厘米并形成香肠状育幼室；西班牙种较浅，育幼室如树枝上悬挂的果实；南非种既有挖窄隧道的，也有把粪球滚离粪堆并固定在植物基部的。文中的形状比喻帮助理解位置，不表示真的长成果实。"
+        },
+        {
+          "label": "3",
+          "explanation": "第3段说明农民为什么需要活动期重叠的多种甲虫：法国种从冬季恢复较慢，西班牙种早春繁殖较快，二者配合可延长处理粪便的季节覆盖；亚热带的南非滚粪球种适应较暖区域。former和latter分别回指前面的法国种与西班牙种。"
+        }
+      ],
+      "phrases": [
+        {
+          "text": "adapt to their new environment",
+          "meaning": "适应它们的新环境",
+          "usage": "adapt to后接名词性环境；这里是种群能否建立的条件，而不是释放后必然成功。"
+        },
+        {
+          "text": "a permanent, self-sustaining part",
+          "meaning": "一个长期存在、能自行维持的组成部分",
+          "usage": "self-sustaining指能够维持自身延续；不能由此推出对生态的一切影响都无须观察。"
+        },
+        {
+          "text": "to a depth of approximately 30 cm",
+          "meaning": "达到约30厘米的深度",
+          "usage": "to a depth of表示向下到达的深度；approximately保留近似性，文中起算位置是牛粪堆之下。"
+        },
+        {
+          "text": "overlapping periods of activity",
+          "meaning": "相互重叠的活动期",
+          "usage": "overlapping表示时间有交集，不表示所有物种全年同时活动。"
+        }
+      ],
+      "sentences": [
+        {
+          "text": "The beetles immediately disappear beneath the pats digging and tunnelling and, if they successfully adapt to their new environment, soon become a permanent, self-sustaining part of the local ecology.",
+          "translation": "甲虫立即钻到牛粪堆下面挖掘、开辟隧道；如果成功适应新环境，它们很快就会成为当地生态中长期存在、能够自行维持的一部分。",
+          "explanation": "digging and tunnelling补充甲虫钻入后进行的动作；if从句限定后面的become。they两次都指引入的甲虫，不能把“立刻钻入”与“长期建立种群”当成同一时间、同一确定程度的结果。"
+        },
+        {
+          "text": "The latter, which multiply rapidly in early spring, produce two to five generations annually.",
+          "translation": "后者，也就是西班牙物种，在早春迅速繁殖，每年产生两至五代后代。",
+          "explanation": "The latter回指与法国种并列的西班牙种；which从句补充早春繁殖快的特点。annually修饰一年内产生的代数，不是说每次繁殖都产生两至五代。"
+        }
+      ],
+      "writing": [],
+      "noWritingMatchReason": "现有写作题没有牧场粪便处理、物种引入或物种季节配合；Task 1虽含制砖和雨影流程，但本篇数量、深度和物种关系不属于那些图中的信息，通用空间表达本身不足以形成高拟合内容同步。"
+    },
+    {
+      "id": "rd-official-table",
+      "overview": "这段材料围绕蜣螂在牧场中的作用展开。大小、隧道形状、繁殖速度与活动季节共同解释不同物种为何能够配合；这些特点必须放回各自物种和气候条件中理解。",
+      "paragraphs": [
+        {
+          "label": "1",
+          "explanation": "第1段说明引入过程及建立种群的条件：把甲虫少量分批放入新鲜牛粪后，它们会向下挖掘；只有成功适应新环境，才会形成能自行维持的本地生态组成。三四年后收益明显是文中描述的时间尺度，不能略去适应条件。"
+        },
+        {
+          "label": "2",
+          "explanation": "第2段从共同的遮蔽位置写到不同物种的挖掘形态：法国种向下挖约30厘米并形成香肠状育幼室；西班牙种较浅，育幼室如树枝上悬挂的果实；南非种既有挖窄隧道的，也有把粪球滚离粪堆并固定在植物基部的。文中的形状比喻帮助理解位置，不表示真的长成果实。"
+        },
+        {
+          "label": "3",
+          "explanation": "第3段说明农民为什么需要活动期重叠的多种甲虫：法国种从冬季恢复较慢，西班牙种早春繁殖较快，二者配合可延长处理粪便的季节覆盖；亚热带的南非滚粪球种适应较暖区域。former和latter分别回指前面的法国种与西班牙种。"
+        }
+      ],
+      "phrases": [
+        {
+          "text": "adapt to their new environment",
+          "meaning": "适应它们的新环境",
+          "usage": "adapt to后接名词性环境；这里是种群能否建立的条件，而不是释放后必然成功。"
+        },
+        {
+          "text": "a permanent, self-sustaining part",
+          "meaning": "一个长期存在、能自行维持的组成部分",
+          "usage": "self-sustaining指能够维持自身延续；不能由此推出对生态的一切影响都无须观察。"
+        },
+        {
+          "text": "to a depth of approximately 30 cm",
+          "meaning": "达到约30厘米的深度",
+          "usage": "to a depth of表示向下到达的深度；approximately保留近似性，文中起算位置是牛粪堆之下。"
+        },
+        {
+          "text": "overlapping periods of activity",
+          "meaning": "相互重叠的活动期",
+          "usage": "overlapping表示时间有交集，不表示所有物种全年同时活动。"
+        }
+      ],
+      "sentences": [
+        {
+          "text": "The beetles immediately disappear beneath the pats digging and tunnelling and, if they successfully adapt to their new environment, soon become a permanent, self-sustaining part of the local ecology.",
+          "translation": "甲虫立即钻到牛粪堆下面挖掘、开辟隧道；如果成功适应新环境，它们很快就会成为当地生态中长期存在、能够自行维持的一部分。",
+          "explanation": "digging and tunnelling补充甲虫钻入后进行的动作；if从句限定后面的become。they两次都指引入的甲虫，不能把“立刻钻入”与“长期建立种群”当成同一时间、同一确定程度的结果。"
+        },
+        {
+          "text": "The latter, which multiply rapidly in early spring, produce two to five generations annually.",
+          "translation": "后者，也就是西班牙物种，在早春迅速繁殖，每年产生两至五代后代。",
+          "explanation": "The latter回指与法国种并列的西班牙种；which从句补充早春繁殖快的特点。annually修饰一年内产生的代数，不是说每次繁殖都产生两至五代。"
+        }
+      ],
+      "writing": [],
+      "noWritingMatchReason": "现有写作题没有牧场粪便处理、物种引入或物种季节配合；Task 1虽含制砖和雨影流程，但本篇数量、深度和物种关系不属于那些图中的信息，通用空间表达本身不足以形成高拟合内容同步。"
+    },
+    {
+      "id": "rd-official-short-answer",
+      "overview": "这是一份按适用范围、退回处理、特殊情形和线索联络组织的产品召回告示。准确理解对象和条件，比把所有罐装咖喱视为同一种情况更重要。金额、产品名和联络人均属于本材料中的告示，不作为现实召回指引。",
+      "paragraphs": [
+        {
+          "label": "1",
+          "explanation": "第1段交代发现问题的产品是Spicy口味的部分罐装咖喱，涉及批号J6617至J6624，批号位于罐底。some与明确批号把范围限定住，不能扩大到该品牌所有产品。"
+        },
+        {
+          "label": "2",
+          "explanation": "第2段说明持有这些批号产品的人可退到购买超市或工厂，preferably unopened表示最好未开封，并非已经开封就不能退。未开封每罐10美元、已开封每罐5美元是两个不同条件。"
+        },
+        {
+          "label": "3",
+          "explanation": "第3段单独处理已经吃完的情况：空罐不退款、也不必退回，但吃过有关批次产品的人仍可向零售经理提供信息，尤其是购买地点。没有退款不等于其反馈没有价值。"
+        },
+        {
+          "label": "4",
+          "explanation": "第4段明确Coconut和Mango两种口味未受影响，无须退回；这与第一段指定Spicy口味共同界定召回边界。"
+        },
+        {
+          "label": "5",
+          "explanation": "第5段转为征集导致涉案人员被定罪的线索，奖金范围与普通退货退款不同。此处联络的是客户关系经理，不能与前面接收已食用产品信息的零售经理混同。"
+        }
+      ],
+      "phrases": [
+        {
+          "text": "wishes to inform the public",
+          "meaning": "谨此告知公众",
+          "usage": "正式告示中礼貌地引出通知内容；wish to并非表示消息还没有发生。"
+        },
+        {
+          "text": "preferably unopened",
+          "meaning": "最好尚未开封",
+          "usage": "preferably表达优先选择，不是必须满足的绝对条件。"
+        },
+        {
+          "text": "the place of purchase",
+          "meaning": "购买地点",
+          "usage": "purchase在这里是购买这一行为，place of说明行为发生地点。"
+        },
+        {
+          "text": "leads to the conviction",
+          "meaning": "促成定罪",
+          "usage": "lead to后接名词；conviction此处是司法定罪，不是个人的坚定信念。"
+        }
+      ],
+      "sentences": [
+        {
+          "text": "If you have any jars with these batch numbers, please return them (preferably unopened) to the supermarket where you purchased them.",
+          "translation": "如果你持有任何标有这些批号的罐装产品，请把它们退回购买它们的超市，最好保持未开封状态。",
+          "explanation": "If从句限定指令适用的人；these batch numbers回指前段范围。them指相关罐装产品；where引出修饰the supermarket的地点关系。括号中的preferably是偏好条件。"
+        },
+        {
+          "text": "No payment will be made for empty jars, which do not need to be returned.",
+          "translation": "空罐不予退款，而且也无须退回。",
+          "explanation": "主句的被动语态把重点放在退款安排；which补充说明empty jars，do not need to表示没有退回的必要，不是禁止退回。两项安排只适用于空罐。"
+        }
+      ],
+      "writing": [],
+      "noWritingMatchReason": "本篇是有具体产品和批次条件的召回通知，现有Task 2没有产品安全责任、消费赔偿或商业通知题，Task 1也没有相应图表；不把告示套语当成通用议论文表达推荐。"
+    },
+    {
+      "id": "rd-gap-birds-sentence-history",
+      "overview": "三段按提出关联、否定关联、重新评价的顺序讲述鸟类与恐龙关系研究的变化。变化的关键是骨骼证据的解释，而不是简单的“旧学者对、新学者错”。阅读时要把当时的判断与后来材料所述发现区分开。",
+      "paragraphs": [
+        {
+          "label": "2",
+          "explanation": "第2段叙述赫胥黎从恐龙腿骨与鹌鹑骨骼的相似处受到启发，并把额外骨骼认作踝骨。According to some accounts把晚餐故事标为一些记载中的说法。他据两类骨骼形态相近推断关系密切，段落重点是比较解剖结构怎样促成一个解释。"
+        },
+        {
+          "label": "3",
+          "explanation": "第3段交代赫胥黎的观点为何一度失去支持：海尔曼认为某类恐龙没有锁骨，又认为这种特征不可能消失后再次演化出现，于是排除了它们作为鸟类祖先的可能。这里是在解释他的论证前提，不是在把“恐龙没有锁骨”继续当作事实。"
+        },
+        {
+          "label": "4",
+          "explanation": "第4段呈现后来对共同特征的重新识别，以及更多相关骨骼证据。缺失锁骨的问题被重新解释为当时化石不足、已发现标本遭到误认。up to 85表示后续工作记录的数量上限式表述，不是说每种恐龙与每种鸟都有完全相同的85项特征。"
+        }
+      ],
+      "phrases": [
+        {
+          "text": "fell out of favour",
+          "meaning": "失去支持；不再受到认可",
+          "usage": "描述某种观点在群体中的接受程度发生变化，不等于该观点已被最终证明错误。"
+        },
+        {
+          "text": "widely accepted",
+          "meaning": "被广泛接受",
+          "usage": "widely指接受范围广；广泛认可与证据充分、结论永远不变不是同一概念。"
+        },
+        {
+          "text": "caught the attention of the scientific community",
+          "meaning": "引起科学界注意",
+          "usage": "catch the attention of强调获得注意，尚不等于所有研究者完全赞成。"
+        },
+        {
+          "text": "the fossil evidence was somewhat lacking",
+          "meaning": "化石证据当时有些不足",
+          "usage": "somewhat表示程度上的保留；lacking指不足，不能扩大成完全没有任何化石。"
+        }
+      ],
+      "sentences": [
+        {
+          "text": "He knew he was dealing with the lower leg bone (tibia) of a meat-eating, two-legged dinosaur belonging to the classification known as theropods, but attached to the tibia was an unidentified extra bone.",
+          "translation": "他知道自己研究的是属于兽脚类的一种食肉、两足恐龙的胫骨，但胫骨上还连着一块身份不明的额外骨骼。",
+          "explanation": "He指赫胥黎；meat-eating和two-legged共同修饰dinosaur，belonging to...进一步交代分类。but之后使用倒装attached to the tibia was...，把附着位置置前，再引出那块骨骼。"
+        },
+        {
+          "text": "Unfortunately for Heilmann, the fossil evidence was somewhat lacking in his day, and the few furculae that had been found were misidentified, usually as belly ribs.",
+          "translation": "对海尔曼而言遗憾的是，他所处时代的化石证据有所不足，而且当时已经找到的少数叉骨也被误认，通常被当作腹肋。",
+          "explanation": "his day指海尔曼研究所处的时代；the few furculae中的that had been found限定此前发现的标本。had been found先于were misidentified所述误认过程的叙述位置，两个被动结构把注意力放在证据遭遇上。"
+        }
+      ],
+      "writing": [],
+      "noWritingMatchReason": "现有写作科研题讨论政府与私企的职责划分，而本篇讨论化石证据与历史学说的修正；不能因都涉及科学就假定能支持某种科研所有制。通用的观点变化表达已在本篇词块中解释，不另作高拟合同步。"
+    },
+    {
+      "id": "rd-gap-birds-sentence-debate",
+      "overview": "材料先交代不同阵营用什么解释飞行起源、看重哪些骨骼特征，再讨论兼有不同特征的化石，最后说明新增发现怎样连接更长的演化链。结尾仍保留seems和may，属于材料当时视角下的判断，不把它改写为无需条件的定论。",
+      "paragraphs": [
+        {
+          "label": "5",
+          "explanation": "第5段介绍反对者的树栖起源推理，以及支持者提出的树栖恐龙或地面追逐昆虫的可能解释。随后争论转向比较依据：反对者强调差异，支序分类法的支持者在文中强调保留下来的共同特征。could和most likely表明这里包含假设与可能性，不能把任何一幅起源场景写成已直接观察到的过程。"
+        },
+        {
+          "label": "6",
+          "explanation": "第6段写双方多数人承认始祖鸟与现代鸟类有祖先关系，同时列举长骨尾、牙齿与鸟样足部、叉骨等混合特征。羽毛保存状况影响了人们如何识别标本。文中以这些特征讨论归类边界，不能只看名字中的“鸟”就忽略其复杂性。"
+        },
+        {
+          "label": "7",
+          "explanation": "第7段沿两个方向补充过渡联系：一端是带鸟样特征的恐龙，另一端是仍保留恐龙特征的早期鸟类。中华龙鸟周围的绒状物在文中被认为可能是原始羽毛；Rahonavis则展示更接近鸟类却仍有独特爪子的组合。结尾的谨慎语气与前面持续积累的证据相呼应。"
+        }
+      ],
+      "phrases": [
+        {
+          "text": "two vocal opponents",
+          "meaning": "两位积极公开反对的人",
+          "usage": "vocal在此指公开、强烈地表达意见，不是专指嗓音特征。"
+        },
+        {
+          "text": "the features which persist",
+          "meaning": "持续保留下来的特征",
+          "usage": "persist强调特征经过时间仍然存在；which从句限定哪些特征承载相关信息。"
+        },
+        {
+          "text": "in spite of the fact that",
+          "meaning": "尽管存在……这一事实",
+          "usage": "引出完整从句，与前面的判断形成让步关系；不表示后面的事实被否认。"
+        },
+        {
+          "text": "thought to be primitive feathers",
+          "meaning": "被认为是原始羽毛",
+          "usage": "thought to be保留解释归属和不确定性，不能直接删去而写成毫无保留的鉴定。"
+        }
+      ],
+      "sentences": [
+        {
+          "text": "The 'birds-are-dinosaurs' supporters contend that, if clearly-preserved feathers had not been found alongside two of the seven Archaeopteryx specimens, it would probably have been identified as a small dinosaur.",
+          "translation": "支持“鸟类源自恐龙”观点的人认为，如果七个始祖鸟标本中的两个旁边没有发现保存清晰的羽毛，它很可能就会被认作一种小型恐龙。",
+          "explanation": "contend that引出这一派的判断；if...had not been found与would probably have been identified构成对过去情况的反事实设想。it指始祖鸟；probably保留可能性，句子不是说这些标本实际上都曾被误认。"
+        },
+        {
+          "text": "Over the last few decades several dinosaurs with bird-like features and primitive birds with dinosaur-like features have been found in several countries, connecting Archaeopteryx back to dinosaurs, and forwards to modern birds.",
+          "translation": "在此前几十年间，人们在几个国家发现了多种具有鸟样特征的恐龙，以及保留恐龙样特征的原始鸟类；这些发现把始祖鸟与更早的恐龙及更晚的现代鸟类联系起来。",
+          "explanation": "两个并列名词组dinosaurs with...与primitive birds with...共同作主语；have been found强调发现。connecting...补充这些发现形成的联系，back和forwards描述演化联系的两个方向，不是说始祖鸟个体向两个方向变化。"
+        }
+      ],
+      "writing": [],
+      "noWritingMatchReason": "现有写作题没有物种演化或科学分类争论；本篇的假设、让步与证据措辞有阅读价值，但仅凭句式通用不够形成具体写作题的高拟合内容。"
+    },
+    {
+      "id": "rd-gap-academic-short-answer-health",
+      "overview": "三段展示健康观念在材料中的历史扩展：从身体疾病扩展到身心与社会福祉，再从个人行为扩展到人们所处的社会、经济与环境条件。后一种视角补充个人行为和医疗的不足，并未说这些因素不再重要。",
+      "paragraphs": [
+        {
+          "label": "C",
+          "explanation": "C段引述世界卫生组织的健康定义，把健康理解为身体、心理、社会层面的整体福祉，而不仅是没有疾病。were seen和引文年份使这一段具有观念史性质；mind/body/spirit说明整体看待人的取向，不是在提供针对某种疾病的治疗方案。"
+        },
+        {
+          "label": "D",
+          "explanation": "D段叙述七十年代重视预防与个人生活方式的取向，包括吸烟、缺乏运动和饮食习惯。文中指出这种方式对不同群体的帮助并不相等：贫困、工作不稳定或难以控制生活条件的人受益有限。问题并非这些人不愿健康，而是方案忽略了影响选择的社会和环境条件。"
+        },
+        {
+          "label": "E",
+          "explanation": "E段进一步解释社会生态视角，把收入、住房、教育、资源与公平等纳入健康基础。While lifestyle factors still remain important明确保留生活方式的重要性。末尾强调社会、经济、环境条件彼此作用，不是把它们当成三项互不相关的清单；因此促进健康需要同时考虑这些联系。"
+        }
+      ],
+      "phrases": [
+        {
+          "text": "not merely the absence of disease",
+          "meaning": "不仅仅是没有疾病",
+          "usage": "not merely扩展定义而不是否定前项：没有疾病仍相关，但不是对健康的完整说明。"
+        },
+        {
+          "text": "maintain healthy behaviours and lifestyles",
+          "meaning": "维持有益健康的行为和生活方式",
+          "usage": "maintain强调持续维持；原文同时提醒，个人维持行为的能力受生活条件影响。"
+        },
+        {
+          "text": "the social and environmental conditions",
+          "meaning": "社会与环境条件",
+          "usage": "conditions在此是人生活的处境与条件，不是合同条款；需说清具体指收入、可达性或周边环境中的哪些因素。"
+        },
+        {
+          "text": "interacting and interdependent",
+          "meaning": "相互作用并且相互依赖",
+          "usage": "两个并列形容词说明因素间的关系；不是各因素可以分别处理而互不影响。"
+        }
+      ],
+      "sentences": [
+        {
+          "text": "While this individualistic healthy lifestyles approach to health worked for some (the wealthy members of society), people experiencing poverty, unemployment, underemployment or little control over the conditions of their daily lives benefited little from this approach.",
+          "translation": "虽然这种以个人健康生活方式为中心的做法对一些人——社会中的富裕成员——有效，但经历贫困、失业、就业不足，或很难掌控日常生活条件的人，从中获益很少。",
+          "explanation": "While引出让步，worked for some限制受益范围；people后面的experiencing...修饰处于多种不利处境的人。little指获益很少，不等于严格意义上的零收益；this approach回指强调个人生活方式的取向。"
+        },
+        {
+          "text": "Rather, they are interacting and interdependent, and it is the complex interrelationships between them which determine the conditions that promote health.",
+          "translation": "相反，这些条件彼此作用、相互依赖，决定有利于健康的条件的，是它们之间复杂的相互关系。",
+          "explanation": "Rather承接前一句，纠正把不同条件当作独立因素的理解；they和them指社会、经济与环境背景。it is...which...是强调结构，突出complex interrelationships，而不是只突出其中单个因素。"
+        }
+      ],
+      "writing": [
+        {
+          "phrase": "the social and environmental conditions",
+          "meaning": "社会与环境条件",
+          "usage": "适合说明健康行为受到可获得资源与生活环境的影响；必须接具体机制，不把抽象词组当成完整原因。",
+          "matches": [
+            {
+              "caseId": "wc-bc-childhealth",
+              "example": "Measures to reduce childhood obesity should address the social and environmental conditions that make nutritious food and safe places to play difficult to access.",
+              "fit": "自编例句，直接对应儿童肥胖的原因与措施：把食物和活动空间的可达性作为可以改善的具体条件，不把所有责任归于儿童个人。"
+            }
+          ]
+        },
+        {
+          "phrase": "maintain healthy behaviours and lifestyles",
+          "meaning": "维持有益健康的行为与生活方式",
+          "usage": "与提供条件和持续支持搭配；不承诺一项措施可以单独消除儿童肥胖。",
+          "matches": [
+            {
+              "caseId": "wc-bc-childhealth",
+              "example": "Schools can help children maintain healthy behaviours and lifestyles by providing regular opportunities for physical activity and nutritious meals.",
+              "fit": "自编例句，用学校可采取的具体支持回应儿童肥胖题的措施部分；can表示可能贡献，不宣称所有儿童会因此获得相同结果。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "rd-c21-ai-1",
+      "overview": "三段讨论人们如何想象AI：媒体渲染的未来图景，认为数据充足就能解决一切的心态，以及这种心态向政策圈的传播。作者承认技术机会，同时批评把机会扩大成万能承诺的思维。",
+      "paragraphs": [
+        {
+          "label": "原文第1段",
+          "explanation": "第1段写西方许多国家对AI未来的强烈情绪和追求轰动的新闻。could所列的是新闻谈论的潜在能力，you might think则描述只看标题可能形成的印象；不能把“渗透社会每一方面”读成作者已经确认的现状。"
+        },
+        {
+          "label": "原文第2段",
+          "explanation": "第2段先承认AI带来大量有前景的机会，再引出“AI万能解决论”。given enough data属于这一心态的信念前提，不是作者承诺数据足够便能解决全部问题。后半说明作者担忧的是忽视安全与制造不现实预期，批评对象是这种思维，而不是一概否定AI。"
+        },
+        {
+          "label": "原文第3段",
+          "explanation": "第3段从心态本身转向传播路径：技术圈的宣传进入政府官员和政策制定者的思考。钟摆比喻描述态度由“毁灭人类”转向“拯救人类”的另一个极端；dystopian和utopian分别标出极度悲观与理想化信念，不能当成作者对未来的两项预测。"
+        }
+      ],
+      "phrases": [
+        {
+          "text": "no shortage of",
+          "meaning": "大量；并不缺少",
+          "usage": "后接名词，强调数量充足。此处修饰sensationalist news，数量多并不等于内容可靠。"
+        },
+        {
+          "text": "a wealth of promising opportunities",
+          "meaning": "大量有前景的机会",
+          "usage": "a wealth of后接不可数或复数名词；promising表示值得期待，不表示成果已经兑现。"
+        },
+        {
+          "text": "given enough data",
+          "meaning": "在数据足够的条件下",
+          "usage": "given在此引出前提。整个条件位于被解释的信念之内，不能脱离上下文当成作者认可的规律。"
+        },
+        {
+          "text": "setting unrealistic expectations about",
+          "meaning": "对……设定不切实际的预期",
+          "usage": "set expectations about后面说明预期涉及什么；unrealistic批评的是与实际能力不相称的期望。"
+        },
+        {
+          "text": "The pendulum has swung",
+          "meaning": "钟摆已经摆向另一边；态度转向另一极端",
+          "usage": "这里是态度变化的比喻，from...to...指出两个极端，不描述机器性能的变化。"
+        }
+      ],
+      "sentences": [
+        {
+          "text": "While it is undeniable that AI has opened up a wealth of promising opportunities, it has also led to the emergence of a mindset that can be best described as 'AI solutionism'.",
+          "translation": "虽然不可否认AI已经打开了大量有前景的机会，但它也促成了一种心态的出现；这种心态最贴切的名称可以说是“AI万能解决论”。",
+          "explanation": "While表示让步；it is undeniable that...里的it是形式主语，that从句是所承认的内容。主句it has also led...中的it回指AI；that can be best described...修饰mindset，说明如何称呼这种心态。"
+        },
+        {
+          "text": "But, in fact, instead of supporting AI progress, this mindset actually jeopardises the value of machine intelligence by disregarding important AI safety principles and setting unrealistic expectations about what AI can really do for humanity.",
+          "translation": "但事实上，这种心态没有支持AI的发展，反而因为忽视重要的AI安全原则，并对AI实际能为人类做什么设定不现实的期望，而危及机器智能的价值。",
+          "explanation": "this mindset回指AI solutionism；instead of supporting与actually jeopardises构成对照。by后面disregarding和setting并列，说明造成风险的两种方式。what从句说明预期涉及的实际能力范围。"
+        }
+      ],
+      "writing": [
+        {
+          "phrase": "setting unrealistic expectations about",
+          "meaning": "对……设定不切实际的预期",
+          "usage": "可在avoid等动词后保留setting形式，具体说明期待的成果或时间；不把所有期待都说成不切实际。",
+          "matches": [
+            {
+              "caseId": "wc-official-science",
+              "example": "Governments should avoid setting unrealistic expectations about how quickly publicly funded research can produce practical benefits.",
+              "fit": "自编例句，贴合政府科研职责，说明资助研究时如何理解成果周期；并不据此推出应排除私营研究。"
+            }
+          ]
+        },
+        {
+          "phrase": "no shortage of",
+          "meaning": "大量；不缺",
+          "usage": "可以承认数字内容数量充足，再讨论数量之外的体验差异。",
+          "matches": [
+            {
+              "caseId": "wc-c21-t2-entertainment",
+              "example": "There is no shortage of films online, but access to a large catalogue does not reproduce the shared experience of a cinema.",
+              "fit": "自编例句，直接回应线上娱乐与影院价值：先承认线上内容丰富，再解释共同观看体验这一文化维度。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "rd-c21-ai-2",
+      "overview": "这三段把AI的宏大承诺拉回公共部门的实施条件。先写政治热情与实际复杂性的落差，再解释神经网络不自动带来结果，最后列出数据、组织流程与人才等条件。它讨论的是技术部署的能力边界，不是说所有政府永远不能使用AI。",
+      "paragraphs": [
+        {
+          "label": "原文第4段",
+          "explanation": "第4段写政府承诺支持国家AI项目，并争取在增长中的产业占据优势。While连接政治人物宣称的变革与作者指出的部署复杂性，重点在愿景与实施之间的距离。many限制为许多政治人物，不能扩大为全部。"
+        },
+        {
+          "label": "原文第5段",
+          "explanation": "第5段介绍神经网络对人脑结构的松散模拟，loosely和on a much smaller scale都限制类比程度。接着指出，把神经网络加入某个问题或政府系统，不会自动意味着找到解决方案或立即获得公平与包容。否定的是自动、即时的效果，而不是说相关技术毫无用途。"
+        },
+        {
+          "label": "原文第6段",
+          "explanation": "第6段把前段抽象的“复杂性”具体化：数据基础设施不足、资料仍离线、数字资料受行政流程阻碍、部门间访问需要权限，以及专业人才不足。typically、tend to和More often than not均表达常见倾向；Above all把人才放在作者强调的位置。"
+        }
+      ],
+      "phrases": [
+        {
+          "text": "pledge support to",
+          "meaning": "承诺支持……",
+          "usage": "pledge是作出承诺，不等于支持措施已经落实或取得成效。"
+        },
+        {
+          "text": "loosely modelled on",
+          "meaning": "对……作松散的模拟",
+          "usage": "be modelled on说明参考对象；loosely提示结构借鉴并不等于完整复制。"
+        },
+        {
+          "text": "appropriate data infrastructure",
+          "meaning": "合适的数据基础设施",
+          "usage": "infrastructure是支持工作运行的基础系统；appropriate强调要符合实际用途，不是设备越多越好。"
+        },
+        {
+          "text": "buried in bureaucracy",
+          "meaning": "受繁琐行政程序阻碍，难以实际获取或使用",
+          "usage": "buried是比喻，不表示资料真的埋在地下；需要结合数据访问的语境理解。"
+        },
+        {
+          "text": "reap the benefits of",
+          "meaning": "获得并享受到……的益处",
+          "usage": "reap本义是收获；这里强调实际取得利益，与仅宣布使用某项技术不同。"
+        }
+      ],
+      "sentences": [
+        {
+          "text": "While many politicians proclaim the transformative effects of the coming 'AI revolution', they fail to realise the complexity around deploying advanced machine learning systems in the real world.",
+          "translation": "虽然许多政治人物宣扬即将到来的“AI革命”的变革效果，他们却没有认识到在现实世界部署先进机器学习系统的复杂性。",
+          "explanation": "While建立让步与转折；they回指many politicians。around deploying中的deploying是动名词，说明复杂性围绕何种实际工作产生。coming指被宣称即将到来的变化，不表明相关结果已经实现。"
+        },
+        {
+          "text": "Above all, the public sector typically lacks the human talent with the right technological capabilities to fully reap the benefits of machine intelligence.",
+          "translation": "尤其重要的是，公共部门通常缺乏具备合适技术能力的人才，因而难以充分获得机器智能的益处。",
+          "explanation": "Above all标出作者特别强调的条件。with the right technological capabilities修饰human talent，to fully reap...说明所需能力服务的目标；typically保留“通常”的范围，不能去掉后写成所有公共部门都没有人才。"
+        }
+      ],
+      "writing": [
+        {
+          "phrase": "appropriate data infrastructure",
+          "meaning": "合适的数据基础设施",
+          "usage": "适合具体说明公共科研投入的基础条件；搭配provide或develop时仍需交代研究用途。",
+          "matches": [
+            {
+              "caseId": "wc-official-science",
+              "example": "Government funding can provide appropriate data infrastructure for long-term environmental research whose commercial returns are uncertain.",
+              "fit": "自编例句，贴合政府资助具有公共价值、商业回报不确定的科研，具体化资金可以支持什么；不是说科研只能由政府执行。"
+            }
+          ]
+        },
+        {
+          "phrase": "reap the benefits of",
+          "meaning": "实际获得……的益处",
+          "usage": "后接能够说明来源的资源、经验或合作成果，避免只写空泛的benefits。",
+          "matches": [
+            {
+              "caseId": "wc-official-science",
+              "example": "Public laboratories may reap the benefits of specialist knowledge held by private companies if they are allowed to collaborate.",
+              "fit": "自编例句，直接回应政府与私企研究是否应排他：用有条件的合作说明可以利用不同主体的专业知识。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "rd-c21-ai-3",
+      "overview": "后半篇从专家对宣传的批评转向安全、伦理与实际用途，再用医疗和司法例子说明部署限制，最后提出有选择地使用AI。作者要求把收益、潜在伤害和人的职责一并考虑，并未主张一律停止技术应用。具体项目经历均按本文叙述理解，不作为当前项目状态的独立核验。",
+      "paragraphs": [
+        {
+          "label": "原文第7段",
+          "explanation": "第7段承接前面关于实施困难的讨论，介绍两位研究者的观点：关注日常具体用途，并对广泛部署需要的时间保持现实认识。Brooks的引语谈“几乎所有创新”所需时间比想象长，不是说所有创新最终都会成功或永远无法部署。"
+        },
+        {
+          "label": "原文第8段",
+          "explanation": "第8段解释对抗性攻击及相关安全问题：恶意AI可能使另一系统作出错误预测。研究者据此警告，在缺乏适当安全标准与防御机制时不应贸然推广。Still将已有警告与安全仍常被忽视的情况并置。"
+        },
+        {
+          "label": "原文第9段",
+          "explanation": "第9段以“获得收益并减少潜在伤害”为目标，要求讨论AI在具体领域如何有意义地应用，同时考虑伦理和人们的不信任。meaningfully强调解决实际需要，而不是仅仅把技术放进某个场景。"
+        },
+        {
+          "label": "原文第10段",
+          "explanation": "第10段进一步强调认识能力边界与人仍应主导的地方。take a step back是暂退一步冷静审视的比喻；separate...from...要求区分实际能力与幻想，不是说AI完全没有能力。"
+        },
+        {
+          "label": "原文第11段",
+          "explanation": "第11段按本文叙述，以Watson肿瘤项目说明“设计上希望给出最佳建议”与“使用者实际建立信任”之间的距离。was meant to、developed to都表达目的，不能读成已经证实可靠。most hospitals where it was trialled限定为文中试用该项目的多数医院，不是所有医院或所有医疗AI。"
+        },
+        {
+          "label": "原文第12段",
+          "explanation": "第12段按本文叙述，写一个在美国法院辅助量刑的算法放大结构性种族歧视并被弃用的例子。该段具体说明技术建议可能带来的社会后果；不能从这一系统的经历推出所有司法算法都有同一结果。"
+        },
+        {
+          "label": "原文第13段",
+          "explanation": "第13段把前面的例子收束为选择使用范围的原则：技术本身不是使用理由，自动化也有成本，并非所有可以自动化的事都应该自动化。may not always与not every都是否定普遍保证，而不是断言AI在任何场景都无用。"
+        }
+      ],
+      "phrases": [
+        {
+          "text": "widely deployed",
+          "meaning": "得到广泛部署",
+          "usage": "deploy在技术语境中指投入使用；widely描述应用范围，不能与实验成功或刚开发出来混同。"
+        },
+        {
+          "text": "appropriate security standards",
+          "meaning": "适当的安全标准",
+          "usage": "appropriate强调与用途和风险相符的标准；有标准仍不自动意味着风险为零。"
+        },
+        {
+          "text": "minimise the potential harms",
+          "meaning": "尽量减少潜在伤害",
+          "usage": "minimise指尽量降低，potential表示可能发生；两者都不同于保证完全消除伤害。"
+        },
+        {
+          "text": "be aware of the limitations of",
+          "meaning": "认识到……的局限",
+          "usage": "limitations常接of说明对象；意识到局限可以帮助确定适用范围，不等于完全拒绝使用。"
+        },
+        {
+          "text": "simply for the sake of AI",
+          "meaning": "仅仅为了使用AI本身",
+          "usage": "for the sake of可表示目的或理由；simply在这里批评没有实际需要支撑的技术采用。"
+        }
+      ],
+      "sentences": [
+        {
+          "text": "If we are to reap the benefits and minimise the potential harms of AI, we must start thinking about how machine learning can be meaningfully applied to specific areas of government, business and society.",
+          "translation": "如果我们要获得AI的益处并尽量减少其潜在伤害，就必须开始思考机器学习怎样才能有意义地应用到政府、企业和社会的具体领域。",
+          "explanation": "If we are to...表达想实现的目标，must...提出作者认为必要的行动。reap与minimise并列，收益和伤害同时受到关注；how从句说明需要思考的是应用方式，specific areas限制讨论到具体领域。"
+        },
+        {
+          "text": "Using AI simply for the sake of AI may not always be productive or useful, and not every issue is best addressed by applying machine intelligence to it.",
+          "translation": "仅仅为了使用AI而使用AI，未必总是有成效或有用；也并非每个问题都最适合通过应用机器智能来处理。",
+          "explanation": "Using AI...是动名词主语；may not always保留“并非总是”的范围。not every issue是部分否定，不等于no issue。by applying...说明处理方式，it回指issue。"
+        }
+      ],
+      "writing": [
+        {
+          "phrase": "minimise the potential harms",
+          "meaning": "尽量减少潜在伤害",
+          "usage": "适合与审查、监管和试验条件相连；不能声称审查可以保证消除全部风险。",
+          "matches": [
+            {
+              "caseId": "wc-official-science",
+              "example": "Independent review can help both public and private laboratories minimise the potential harms of experimental treatments.",
+              "fit": "自编例句，直接回应科研应如何受到控制：提出可适用于公共和私营实验室的审查安排，不把监管等同于政府独占所有研究。"
+            }
+          ]
+        },
+        {
+          "phrase": "be aware of the limitations of",
+          "meaning": "认识到……的局限",
+          "usage": "后接具体技术或方法；认识边界服务于判断用途，避免演变成空泛反科技态度。",
+          "matches": [
+            {
+              "caseId": "wc-official-science",
+              "example": "Research regulators need to be aware of the limitations of a new technology before approving its wider use.",
+              "fit": "自编例句，贴合政府科研监督职责，把能力边界与是否批准扩大应用联系起来。"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

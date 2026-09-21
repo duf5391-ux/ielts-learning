@@ -1,0 +1,303 @@
+{
+  "items": [
+    {
+      "id": "ieltsa-writing-202609-1-2-reference-v1",
+      "sourceUrl": "https://ieltsactualtests.com/zh/writing/2026-09-1",
+      "sourceLocal": "pages/writing--2026-09-1.html",
+      "sourceNature": "来源网站标为9月回忆的写作题干，具体考场未独立确认",
+      "task": "Task 2",
+      "prompt": "Differences between countries become less evident each year. Nowadays, all over the world people share the same fashions, advertising, brands, eating habits and TV channels. Do the advantages outweigh the disadvantages?",
+      "status": "qualified_reference",
+      "readyForLearning": false,
+      "exam_word_limit": null,
+      "word_limit_note": "源页面未附要求，未补造原卷说明",
+      "modelAnswer": null,
+      "modelAnswerNote": "原页面无范文；不把“范文链接”算作已有答案",
+      "modifications": "仅提取题干并去除页面导航及导流，无原题文字改写。",
+      "issues": [],
+      "qualificationScope": "仅独立题干参考；不是完整学习活动、官方真题或已核验同场套卷",
+      "displayTitle": "全球文化趋同",
+      "difficulty": {
+        "level": 3,
+        "scaleMax": 5,
+        "label": "中等",
+        "dimensions": {
+          "题意约束": 3,
+          "论点展开": 3,
+          "组织负荷": 3
+        },
+        "reason": "需比较文化趋同的利弊并作出权衡，不能只列两边现象。",
+        "scope": "题干要求的编辑评估；仅参考题干",
+        "reviewedAt": "2026-09-21",
+        "officialBand": null,
+        "learnerMastery": null
+      }
+    },
+    {
+      "id": "ieltsa-writing-202609-2-2-reference-v1",
+      "sourceUrl": "https://ieltsactualtests.com/zh/writing/2026-09-2",
+      "sourceLocal": "pages/writing--2026-09-2.html",
+      "sourceNature": "来源网站标为9月回忆的写作题干，具体考场未独立确认",
+      "task": "Task 2",
+      "prompt": "Today more and more people like to go to untouched and unexplored natural places to travel. What are the advantages and disadvantages for these tourists and the countries?",
+      "status": "qualified_reference",
+      "readyForLearning": false,
+      "exam_word_limit": null,
+      "word_limit_note": "源页面未附要求，未补造原卷说明",
+      "modelAnswer": null,
+      "modelAnswerNote": "原页面无范文；不把“范文链接”算作已有答案",
+      "modifications": "仅提取题干并去除页面导航及导流，无原题文字改写。",
+      "issues": [],
+      "qualificationScope": "仅独立题干参考；不是完整学习活动、官方真题或已核验同场套卷",
+      "displayTitle": "偏远自然地区旅游",
+      "difficulty": {
+        "level": 4,
+        "scaleMax": 5,
+        "label": "较难",
+        "dimensions": {
+          "题意约束": 4,
+          "论点展开": 4,
+          "组织负荷": 4
+        },
+        "reason": "同时覆盖游客与目的地国家两类主体，各自利弊的组织负荷较高。",
+        "scope": "题干要求的编辑评估；仅参考题干",
+        "reviewedAt": "2026-09-21",
+        "officialBand": null,
+        "learnerMastery": null
+      }
+    },
+    {
+      "id": "ieltsa-writing-202609-3-2-reference-v1",
+      "sourceUrl": "https://ieltsactualtests.com/zh/writing/2026-09-3",
+      "sourceLocal": "pages/writing--2026-09-3.html",
+      "sourceNature": "来源网站标为9月回忆的写作题干，具体考场未独立确认",
+      "task": "Task 2",
+      "prompt": "Customers today need to face a lot of advertising from competing companies. To what extent are customers influenced by advertisements? What measures can be taken to protect these customers?",
+      "status": "qualified_reference",
+      "readyForLearning": false,
+      "exam_word_limit": null,
+      "word_limit_note": "源页面未附要求，未补造原卷说明",
+      "modelAnswer": null,
+      "modelAnswerNote": "原页面无范文；不把“范文链接”算作已有答案",
+      "modifications": "仅提取题干并去除页面导航及导流，无原题文字改写。",
+      "issues": [],
+      "qualificationScope": "仅独立题干参考；不是完整学习活动、官方真题或已核验同场套卷",
+      "displayTitle": "广告对消费者的影响",
+      "difficulty": {
+        "level": 4,
+        "scaleMax": 5,
+        "label": "较难",
+        "dimensions": {
+          "题意约束": 4,
+          "论点展开": 4,
+          "组织负荷": 4
+        },
+        "reason": "一问程度、一问保护措施，需把影响机制与措施对象说清楚。",
+        "scope": "题干要求的编辑评估；仅参考题干",
+        "reviewedAt": "2026-09-21",
+        "officialBand": null,
+        "learnerMastery": null
+      }
+    },
+    {
+      "id": "ieltsa-writing-202609-4-2-reference-v2",
+      "sourceUrl": "https://ieltsactualtests.com/zh/writing/2026-09-4",
+      "sourceLocal": "pages/writing--2026-09-4.html",
+      "sourceNature": "基于来源网站所称9月回忆题干的语言整理；具体考场未独立确认",
+      "task": "Task 2",
+      "prompt": "Children find it difficult to concentrate or pay attention at school. What are the reasons for this, and how can this problem be solved?",
+      "status": "qualified_reference",
+      "readyForLearning": false,
+      "exam_word_limit": null,
+      "word_limit_note": "源页面未附要求，未补造原卷说明",
+      "modelAnswer": null,
+      "modelAnswerNote": "原页面无范文；不把“范文链接”算作已有答案",
+      "modifications": "修复find it is difficult的句式和pay attention to school的搭配，明确为在校难以集中注意；保留原因与解决方案两问。原题保留于originalPrompt；整理版不是逐字原题。",
+      "issues": [],
+      "qualificationScope": "仅独立题干参考；不是完整学习活动、官方真题或已核验同场套卷",
+      "originalPrompt": "Children find it is difficult to concentrate on or pay attention to school. What are the reasons? How can we solve this problem?",
+      "rootReview": "Language correction required before release; revised as reference-v2.",
+      "displayTitle": "儿童在校注意力",
+      "difficulty": {
+        "level": 2,
+        "scaleMax": 5,
+        "label": "较易",
+        "dimensions": {
+          "题意约束": 2,
+          "论点展开": 2,
+          "组织负荷": 2
+        },
+        "reason": "熟悉的学校情境，需把具体原因与可实行的解决办法对应。",
+        "scope": "题干要求的编辑评估；仅参考题干",
+        "reviewedAt": "2026-09-21",
+        "officialBand": null,
+        "learnerMastery": null
+      }
+    },
+    {
+      "id": "ieltsa-writing-202609-5-2-reference-v1",
+      "sourceUrl": "https://ieltsactualtests.com/zh/writing/2026-09-5",
+      "sourceLocal": "pages/writing--2026-09-5.html",
+      "sourceNature": "来源网站标为9月回忆的写作题干，具体考场未独立确认",
+      "task": "Task 2",
+      "prompt": "Many school children dislike learning math. What are the reasons and what are the best ways to make them enjoy math?",
+      "status": "qualified_reference",
+      "readyForLearning": false,
+      "exam_word_limit": null,
+      "word_limit_note": "源页面未附要求，未补造原卷说明",
+      "modelAnswer": null,
+      "modelAnswerNote": "原页面无范文；不把“范文链接”算作已有答案",
+      "modifications": "仅提取题干并去除页面导航及导流，无原题文字改写。",
+      "issues": [],
+      "qualificationScope": "仅独立题干参考；不是完整学习活动、官方真题或已核验同场套卷",
+      "displayTitle": "儿童学习数学",
+      "difficulty": {
+        "level": 2,
+        "scaleMax": 5,
+        "label": "较易",
+        "dimensions": {
+          "题意约束": 2,
+          "论点展开": 2,
+          "组织负荷": 2
+        },
+        "reason": "熟悉的学习体验，需解释不喜欢的原因和促进兴趣的办法。",
+        "scope": "题干要求的编辑评估；仅参考题干",
+        "reviewedAt": "2026-09-21",
+        "officialBand": null,
+        "learnerMastery": null
+      }
+    },
+    {
+      "id": "ieltsa-writing-202609-6-2-reference-v1",
+      "sourceUrl": "https://ieltsactualtests.com/zh/writing/2026-09-6",
+      "sourceLocal": "pages/writing--2026-09-6.html",
+      "sourceNature": "来源网站标为9月回忆的写作题干，具体考场未独立确认",
+      "task": "Task 2",
+      "prompt": "Some people believe that schools are no longer necessary, because students can get so much information through the Internet, and study just as well at home. To what extent do you agree or disagree?",
+      "status": "qualified_reference",
+      "readyForLearning": false,
+      "exam_word_limit": null,
+      "word_limit_note": "源页面未附要求，未补造原卷说明",
+      "modelAnswer": null,
+      "modelAnswerNote": "原页面无范文；不把“范文链接”算作已有答案",
+      "modifications": "仅提取题干并去除页面导航及导流，无原题文字改写。",
+      "issues": [],
+      "qualificationScope": "仅独立题干参考；不是完整学习活动、官方真题或已核验同场套卷",
+      "displayTitle": "网络学习与学校",
+      "difficulty": {
+        "level": 3,
+        "scaleMax": 5,
+        "label": "中等",
+        "dimensions": {
+          "题意约束": 3,
+          "论点展开": 3,
+          "组织负荷": 3
+        },
+        "reason": "须区分获取信息与学校的其他功能，回应“不再必要”的较强主张。",
+        "scope": "题干要求的编辑评估；仅参考题干",
+        "reviewedAt": "2026-09-21",
+        "officialBand": null,
+        "learnerMastery": null
+      }
+    },
+    {
+      "id": "ieltsa-writing-202609-7-2-reference-v1",
+      "sourceUrl": "https://ieltsactualtests.com/zh/writing/2026-09-7",
+      "sourceLocal": "pages/writing--2026-09-7.html",
+      "sourceNature": "来源网站标为9月回忆的写作题干，具体考场未独立确认",
+      "task": "Task 2",
+      "prompt": "Some people think secondary school students should study international news as one of their subjects. Other people say this is a waste of valuable school time. Discuss both these views and give your own opinion.",
+      "status": "qualified_reference",
+      "readyForLearning": false,
+      "exam_word_limit": null,
+      "word_limit_note": "源页面未附要求，未补造原卷说明",
+      "modelAnswer": null,
+      "modelAnswerNote": "原页面无范文；不把“范文链接”算作已有答案",
+      "modifications": "仅提取题干并去除页面导航及导流，无原题文字改写。",
+      "issues": [],
+      "qualificationScope": "仅独立题干参考；不是完整学习活动、官方真题或已核验同场套卷",
+      "displayTitle": "中学国际新闻课程",
+      "difficulty": {
+        "level": 3,
+        "scaleMax": 5,
+        "label": "中等",
+        "dimensions": {
+          "题意约束": 3,
+          "论点展开": 3,
+          "组织负荷": 3
+        },
+        "reason": "两种看法与自身意见都要覆盖，说明课程机会成本。",
+        "scope": "题干要求的编辑评估；仅参考题干",
+        "reviewedAt": "2026-09-21",
+        "officialBand": null,
+        "learnerMastery": null
+      }
+    },
+    {
+      "id": "ieltsa-writing-202609-8-2-reference-v1",
+      "sourceUrl": "https://ieltsactualtests.com/zh/writing/2026-09-8",
+      "sourceLocal": "pages/writing--2026-09-8.html",
+      "sourceNature": "来源网站标为9月回忆的写作题干，具体考场未独立确认",
+      "task": "Task 2",
+      "prompt": "Some people say that the best way to improve road safety is to increase the minimum legal age for driving cars or riding motor bikes. To what extent do you agree or disagree?",
+      "status": "qualified_reference",
+      "readyForLearning": false,
+      "exam_word_limit": null,
+      "word_limit_note": "源页面未附要求，未补造原卷说明",
+      "modelAnswer": null,
+      "modelAnswerNote": "原页面无范文；不把“范文链接”算作已有答案",
+      "modifications": "仅提取题干并去除页面导航及导流，无原题文字改写。",
+      "issues": [],
+      "qualificationScope": "仅独立题干参考；不是完整学习活动、官方真题或已核验同场套卷",
+      "displayTitle": "驾驶最低年龄",
+      "difficulty": {
+        "level": 4,
+        "scaleMax": 5,
+        "label": "较难",
+        "dimensions": {
+          "题意约束": 4,
+          "论点展开": 4,
+          "组织负荷": 4
+        },
+        "reason": "“最好的办法”要求比较措施效果，不能只证明提高年龄有一点作用。",
+        "scope": "题干要求的编辑评估；仅参考题干",
+        "reviewedAt": "2026-09-21",
+        "officialBand": null,
+        "learnerMastery": null
+      }
+    },
+    {
+      "id": "ieltsa-writing-202609-10-2-reference-v1",
+      "sourceUrl": "https://ieltsactualtests.com/zh/writing/2026-09-10",
+      "sourceLocal": "pages/writing--2026-09-10.html",
+      "sourceNature": "来源网站标为9月回忆的写作题干，具体考场未独立确认",
+      "task": "Task 2",
+      "prompt": "An increasing number of people tend to live by themselves. What are the causes? Is it a positive or negative development?",
+      "status": "qualified_reference",
+      "readyForLearning": false,
+      "exam_word_limit": null,
+      "word_limit_note": "源页面未附要求，未补造原卷说明",
+      "modelAnswer": null,
+      "modelAnswerNote": "原页面无范文；不把“范文链接”算作已有答案",
+      "modifications": "仅提取题干并去除页面导航及导流，无原题文字改写。",
+      "issues": [],
+      "qualificationScope": "仅独立题干参考；不是完整学习活动、官方真题或已核验同场套卷",
+      "displayTitle": "独居趋势",
+      "difficulty": {
+        "level": 3,
+        "scaleMax": 5,
+        "label": "中等",
+        "dimensions": {
+          "题意约束": 3,
+          "论点展开": 3,
+          "组织负荷": 3
+        },
+        "reason": "同时解释独居的原因并评价趋势，避免把个人选择等同于统一社会结果。",
+        "scope": "题干要求的编辑评估；仅参考题干",
+        "reviewedAt": "2026-09-21",
+        "officialBand": null,
+        "learnerMastery": null
+      }
+    }
+  ]
+}

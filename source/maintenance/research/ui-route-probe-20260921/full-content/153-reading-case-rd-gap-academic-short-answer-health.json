@@ -1,0 +1,240 @@
+{
+  "requested": "reading-case-rd-gap-academic-short-answer-health",
+  "from": [
+    "内容单元",
+    "页面链接",
+    "每日安排目标"
+  ],
+  "actual": "#reading-case-rd-gap-academic-short-answer-health",
+  "checkedAt": "2026-09-21T12:52:23.069Z",
+  "title": "练习 / 阅读 / 健康观念变化：年份、十年与三大领域 · IELTS",
+  "label": "练习 / 阅读 / 健康观念变化：年份、十年与三大领域",
+  "panel": "practice-reading",
+  "contentRoot": "reading-case-rd-gap-academic-short-answer-health",
+  "headings": [
+    {
+      "tag": "H3",
+      "text": "对照答案，回到证据",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "C",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "D",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "E",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "词语与搭配",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "句子精读",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "这篇材料里可用于写作的表达",
+      "visible": false
+    }
+  ],
+  "controls": [
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "健康观念变化：年份、十年与三大领域未作答\n短答题 · 3 段 · 433 词 · 3 题",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "Cambridge IELTS Academic Reading Task Type 11 · Changing our Understanding of Health",
+      "label": "",
+      "href": "case-assets/reading-gap-academic-health-short-answer.pdf#page=4",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "case-rd-gap-academic-short-answer-health-q1",
+      "type": "text",
+      "text": "",
+      "label": "第 1 题作答",
+      "href": null,
+      "save": "case-rd-gap-academic-short-answer-health-q1",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "case-rd-gap-academic-short-answer-health-q2",
+      "type": "text",
+      "text": "",
+      "label": "第 2 题作答",
+      "href": null,
+      "save": "case-rd-gap-academic-short-answer-health-q2",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "case-rd-gap-academic-short-answer-health-q3",
+      "type": "text",
+      "text": "",
+      "label": "第 3 题作答",
+      "href": null,
+      "save": "case-rd-gap-academic-short-answer-health-q3",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "checkbox",
+      "text": "",
+      "label": "",
+      "href": null,
+      "save": "case-rd-gap-academic-short-answer-health-done",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "hidden",
+      "text": "",
+      "label": "",
+      "href": null,
+      "save": "case-rd-gap-academic-short-answer-health-saved-at",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "保留作答，查看答案",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "核对原答案页",
+      "label": "",
+      "href": "case-assets/reading-gap-academic-health-short-answer.pdf#page=2",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "case-rd-gap-academic-short-answer-health-revision",
+      "type": "textarea",
+      "text": "",
+      "label": "我的修订／证据笔记",
+      "href": null,
+      "save": "case-rd-gap-academic-short-answer-health-revision",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "材料精读 · 内容与词句",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "",
+      "label": "",
+      "href": "#writing-prep-wc-bc-childhealth-from-rd-gap-academic-short-answer-health",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "",
+      "label": "",
+      "href": "#writing-prep-wc-bc-childhealth-from-rd-gap-academic-short-answer-health",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    }
+  ],
+  "visibleText": "健康观念变化：年份、十年与三大领域未作答\n短答题 · 3 段 · 433 词 · 3 题\n0% · 0 / 1 完成\n\nAcademic官方教辅原任务 · Cambridge IELTS Academic Reading Task Type 11 · Changing our Understanding of Health · PDF 第 4, 5 页\n\nAnswer the questions below using NO MORE THAN THREE WORDS for each answer. Write your answers in boxes 1–3 on your answer sheet.\n\n原出版社Academic题型教学任务，原题与原教师答案均保留；不标为完整考场试卷。\n\nCIn the late 1940s the World Health Organisation challenged this physically and medically oriented view of health. They stated that \"health is a complete state of physical, mental and social well-being and is not merely the absence of disease\" (WHO, 1946). Health and the person were seen more holistically (mind/body/spirit) and not just in physical terms.\n\nDThe 1970s was a time of focusing on the prevention of disease and illness by emphasising the importance of the lifestyle and behaviour of the individual. Specific behaviours which were seen to increase risk of disease, such as smoking, lack of fitness and unhealthy eating habits, were targeted. Creating health meant providing not only medical health care, but health promotion programs and policies which would help people maintain healthy behaviours and lifestyles. While this individualistic healthy lifestyles approach to health worked for some (the wealthy members of society), people experiencing poverty, unemployment, underemployment or little control over the conditions of their daily lives benefited little from this approach. This was largely because both the healthy lifestyles approach and the medical approach to health largely ignored the social and environmental conditions affecting the health of people.\n\nEDuring the 1980s and 1990s there has been a growing swing away from seeing lifestyle risks as the root cause of poor health. While lifestyle factors still remain important, health is being viewed also in terms of the social, economic and environmental contexts in which people live. This broad approach to health is called the socio-ecological view of health. The broad socio-ecological view of health was endorsed at the first International Conference of Health Promotion held in 1986, Ottawa, Canada, where people from 38 countries agreed and declared that: \"The fundamental conditions and resources for health are peace, shelter, education, food, a viable income, a stable eco-system, sustainable resources, social justice and equity. Improvement in health requires a secure foundation in these basic requirements.\" (WHO, 1986) It is clear from this statement that the creation of health is about much more than encouraging healthy individual behaviours and lifestyles and providing appropriate medical care. Therefore, the creation of health must include addressing issues such as poverty, pollution, urbanisation, natural resource depletion, social alienation and poor working conditions. The social, economic and environmental contexts which contribute to the creation of heath do not operate separately or independently of each other. Rather, they are interacting and interdependent, and it is the complex interrelationships between them which determine the conditions that promote health. A broad socio-ecological view of health suggests that the promotion of health must include a strong social, economic and environmental focus.\n\n原页文字提示：原题引文保留原页的 creation of heath；上下文讨论健康，自己的表达请写 creation of health。\n\n1. In which year did the World Health Organisation define health in terms of mental, physical and social well-being?\n\n第 1 题作答\n\n2. Name the three broad areas which relate to people's health, according to the socio-ecological view of health.\n\n第 2 题作答\n\n3. During which decade were lifestyle risks seen as the major contributors to poor health?\n\n第 3 题作答\n保留作答，查看答案\n\n先作答；不确定的题也可记录判断与疑点。\n\n材料精读 · 内容与词句",
+  "allContent": "健康观念变化：年份、十年与三大领域未作答短答题 · 3 段 · 433 词 · 3 题0% · 0 / 1 完成Academic官方教辅原任务 · Cambridge IELTS Academic Reading Task Type 11 · Changing our Understanding of Health · PDF 第 4, 5 页Answer the questions below using NO MORE THAN THREE WORDS for each answer. Write your answers in boxes 1–3 on your answer sheet.原出版社Academic题型教学任务，原题与原教师答案均保留；不标为完整考场试卷。CIn the late 1940s the World Health Organisation challenged this physically and medically oriented view of health. They stated that \"health is a complete state of physical, mental and social well-being and is not merely the absence of disease\" (WHO, 1946). Health and the person were seen more holistically (mind/body/spirit) and not just in physical terms.DThe 1970s was a time of focusing on the prevention of disease and illness by emphasising the importance of the lifestyle and behaviour of the individual. Specific behaviours which were seen to increase risk of disease, such as smoking, lack of fitness and unhealthy eating habits, were targeted. Creating health meant providing not only medical health care, but health promotion programs and policies which would help people maintain healthy behaviours and lifestyles. While this individualistic healthy lifestyles approach to health worked for some (the wealthy members of society), people experiencing poverty, unemployment, underemployment or little control over the conditions of their daily lives benefited little from this approach. This was largely because both the healthy lifestyles approach and the medical approach to health largely ignored the social and environmental conditions affecting the health of people.EDuring the 1980s and 1990s there has been a growing swing away from seeing lifestyle risks as the root cause of poor health. While lifestyle factors still remain important, health is being viewed also in terms of the social, economic and environmental contexts in which people live. This broad approach to health is called the socio-ecological view of health. The broad socio-ecological view of health was endorsed at the first International Conference of Health Promotion held in 1986, Ottawa, Canada, where people from 38 countries agreed and declared that: \"The fundamental conditions and resources for health are peace, shelter, education, food, a viable income, a stable eco-system, sustainable resources, social justice and equity. Improvement in health requires a secure foundation in these basic requirements.\" (WHO, 1986) It is clear from this statement that the creation of health is about much more than encouraging healthy individual behaviours and lifestyles and providing appropriate medical care. Therefore, the creation of health must include addressing issues such as poverty, pollution, urbanisation, natural resource depletion, social alienation and poor working conditions. The social, economic and environmental contexts which contribute to the creation of heath do not operate separately or independently of each other. Rather, they are interacting and interdependent, and it is the complex interrelationships between them which determine the conditions that promote health. A broad socio-ecological view of health suggests that the promotion of health must include a strong social, economic and environmental focus.原页文字提示：原题引文保留原页的 creation of heath；上下文讨论健康，自己的表达请写 creation of health。1. In which year did the World Health Organisation define health in terms of mental, physical and social well-being?第 1 题作答2. Name the three broad areas which relate to people's health, according to the socio-ecological view of health.第 2 题作答3. During which decade were lifestyle risks seen as the major contributors to poor health?第 3 题作答保留作答，查看答案先作答；不确定的题也可记录判断与疑点。对照答案，回到证据第 1 题 · 1946in which year要精确年份1946，不是笼统late 1940s。完整定义用于定位。(WHO, 1946)第 2 题 · social, economic, environmentalsocio-ecological锁定E段，不能抄C段physical, mental, social。只列三个词，不额外加contexts。the social, economic and environmental contexts in which people live.第 3 题 · 1970s问十年阶段，1970s强调个体生活方式；1980s/1990s已转向更广条件，不能误取转向时间。The 1970s was a time of focusing on the prevention of disease and illness by emphasising the importance of the lifestyle and behaviour of the individual.核对原答案页我的修订／证据笔记材料精读 · 内容与词句三段展示健康观念在材料中的历史扩展：从身体疾病扩展到身心与社会福祉，再从个人行为扩展到人们所处的社会、经济与环境条件。后一种视角补充个人行为和医疗的不足，并未说这些因素不再重要。CIn the late 1940s the World Health Organisation challenged this physically and medically oriented view of health. They stated that \"health is a complete state of physical, mental and social well-being and is not merely the absence of disease\" (WHO, 1946). Health and the person were seen more holistically (mind/body/spirit) and not just in physical terms.C段引述世界卫生组织的健康定义，把健康理解为身体、心理、社会层面的整体福祉，而不仅是没有疾病。were seen和引文年份使这一段具有观念史性质；mind/body/spirit说明整体看待人的取向，不是在提供针对某种疾病的治疗方案。DThe 1970s was a time of focusing on the prevention of disease and illness by emphasising the importance of the lifestyle and behaviour of the individual. Specific behaviours which were seen to increase risk of disease, such as smoking, lack of fitness and unhealthy eating habits, were targeted. Creating health meant providing not only medical health care, but health promotion programs and policies which would help people maintain healthy behaviours and lifestyles. While this individualistic healthy lifestyles approach to health worked for some (the wealthy members of society), people experiencing poverty, unemployment, underemployment or little control over the conditions of their daily lives benefited little from this approach. This was largely because both the healthy lifestyles approach and the medical approach to health largely ignored the social and environmental conditions affecting the health of people.D段叙述七十年代重视预防与个人生活方式的取向，包括吸烟、缺乏运动和饮食习惯。文中指出这种方式对不同群体的帮助并不相等：贫困、工作不稳定或难以控制生活条件的人受益有限。问题并非这些人不愿健康，而是方案忽略了影响选择的社会和环境条件。EDuring the 1980s and 1990s there has been a growing swing away from seeing lifestyle risks as the root cause of poor health. While lifestyle factors still remain important, health is being viewed also in terms of the social, economic and environmental contexts in which people live. This broad approach to health is called the socio-ecological view of health. The broad socio-ecological view of health was endorsed at the first International Conference of Health Promotion held in 1986, Ottawa, Canada, where people from 38 countries agreed and declared that: \"The fundamental conditions and resources for health are peace, shelter, education, food, a viable income, a stable eco-system, sustainable resources, social justice and equity. Improvement in health requires a secure foundation in these basic requirements.\" (WHO, 1986) It is clear from this statement that the creation of health is about much more than encouraging healthy individual behaviours and lifestyles and providing appropriate medical care. Therefore, the creation of health must include addressing issues such as poverty, pollution, urbanisation, natural resource depletion, social alienation and poor working conditions. The social, economic and environmental contexts which contribute to the creation of heath do not operate separately or independently of each other. Rather, they are interacting and interdependent, and it is the complex interrelationships between them which determine the conditions that promote health. A broad socio-ecological view of health suggests that the promotion of health must include a strong social, economic and environmental focus.E段进一步解释社会生态视角，把收入、住房、教育、资源与公平等纳入健康基础。While lifestyle factors still remain important明确保留生活方式的重要性。末尾强调社会、经济、环境条件彼此作用，不是把它们当成三项互不相关的清单；因此促进健康需要同时考虑这些联系。词语与搭配not merely the absence of disease不仅仅是没有疾病not merely扩展定义而不是否定前项：没有疾病仍相关，但不是对健康的完整说明。maintain healthy behaviours and lifestyles维持有益健康的行为和生活方式maintain强调持续维持；原文同时提醒，个人维持行为的能力受生活条件影响。the social and environmental conditions社会与环境条件conditions在此是人生活的处境与条件，不是合同条款；需说清具体指收入、可达性或周边环境中的哪些因素。interacting and interdependent相互作用并且相互依赖两个并列形容词说明因素间的关系；不是各因素可以分别处理而互不影响。句子精读While this individualistic healthy lifestyles approach to health worked for some (the wealthy members of society), people experiencing poverty, unemployment, underemployment or little control over the conditions of their daily lives benefited little from this approach.虽然这种以个人健康生活方式为中心的做法对一些人——社会中的富裕成员——有效，但经历贫困、失业、就业不足，或很难掌控日常生活条件的人，从中获益很少。While引出让步，worked for some限制受益范围；people后面的experiencing...修饰处于多种不利处境的人。little指获益很少，不等于严格意义上的零收益；this approach回指强调个人生活方式的取向。Rather, they are interacting and interdependent, and it is the complex interrelationships between them which determine the conditions that promote health.相反，这些条件彼此作用、相互依赖，决定有利于健康的条件的，是它们之间复杂的相互关系。Rather承接前一句，纠正把不同条件当作独立因素的理解；they和them指社会、经济与环境背景。it is...which...是强调结构，突出complex interrelationships，而不是只突出其中单个因素。这篇材料里可用于写作的表达the social and environmental conditions社会与环境条件适合说明健康行为受到可获得资源与生活环境的影响；必须接具体机制，不把抽象词组当成完整原因。用于写作：自编例句，直接对应儿童肥胖的原因与措施：把食物和活动空间的可达性作为可以改善的具体条件，不把所有责任归于儿童个人。maintain healthy behaviours and lifestyles维持有益健康的行为与生活方式与提供条件和持续支持搭配；不承诺一项措施可以单独消除儿童肥胖。用于写作：自编例句，用学校可采取的具体支持回应儿童肥胖题的措施部分；can表示可能贡献，不宣称所有儿童会因此获得相同结果。读完讲解，可以把原文连起来再读一次；想保留的词句可使用已有收藏功能。",
+  "links": [
+    {
+      "text": "Cambridge IELTS Academic Reading Task Type 11 · Changing our Understanding of Health",
+      "href": "case-assets/reading-gap-academic-health-short-answer.pdf#page=4"
+    },
+    {
+      "text": "核对原答案页",
+      "href": "case-assets/reading-gap-academic-health-short-answer.pdf#page=2"
+    },
+    {
+      "text": "用于写作：自编例句，直接对应儿童肥胖的原因与措施：把食物和活动空间的可达性作为可以改善的具体条件，不把所有责任归于儿童个人。",
+      "href": "#writing-prep-wc-bc-childhealth-from-rd-gap-academic-short-answer-health"
+    },
+    {
+      "text": "用于写作：自编例句，用学校可采取的具体支持回应儿童肥胖题的措施部分；can表示可能贡献，不宣称所有儿童会因此获得相同结果。",
+      "href": "#writing-prep-wc-bc-childhealth-from-rd-gap-academic-short-answer-health"
+    }
+  ],
+  "details": [
+    {
+      "id": "material-reading-rd-gap-academic-short-answer-health",
+      "title": "材料精读 · 内容与词句",
+      "open": false,
+      "visible": true
+    }
+  ],
+  "saveFields": [
+    "case-rd-gap-academic-short-answer-health-q1",
+    "case-rd-gap-academic-short-answer-health-q2",
+    "case-rd-gap-academic-short-answer-health-q3",
+    "case-rd-gap-academic-short-answer-health-done",
+    "case-rd-gap-academic-short-answer-health-saved-at",
+    "case-rd-gap-academic-short-answer-health-revision"
+  ],
+  "images": [],
+  "audio": [],
+  "viewport": 1440,
+  "documentWidth": 1440
+}

@@ -1,0 +1,110 @@
+{
+  "requested": "writing1-feedback",
+  "from": [
+    "页面链接"
+  ],
+  "actual": "#writing1-feedback",
+  "checkedAt": "2026-09-21T12:55:00.457Z",
+  "title": "学习 / 写作 · Task 1 / 写作 · Task 1 · 从原题开始学 · IELTS",
+  "label": "学习 / 写作 · Task 1 / 写作 · Task 1 · 从原题开始学",
+  "panel": "writing1",
+  "contentRoot": "writing1-feedback",
+  "headings": [
+    {
+      "tag": "H2",
+      "text": "图表信息核对",
+      "visible": false
+    },
+    {
+      "tag": "H2",
+      "text": "数量与搭配",
+      "visible": false
+    },
+    {
+      "tag": "H2",
+      "text": "对照真实考生答卷",
+      "visible": false
+    }
+  ],
+  "controls": [
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "完成后核对 · 答案、讲解与可接受表达",
+      "label": "",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "学习页",
+      "label": "",
+      "href": "#writing1-first",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "原始折线图",
+      "label": "",
+      "href": "原始参考/a4eb2b3b-C21-T1-Task1-question.pdf",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "原书 5.5 分考生答卷与考官评语",
+      "label": "",
+      "href": "原始参考/3cd100d3-C21-T1-Task1-response-and-comment.pdf",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "记录一条证据：原来怎样写／说，为什么改，下次看什么。",
+      "href": null,
+      "save": "writing1-feedback-note",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    }
+  ],
+  "visibleText": "完成后核对 · 答案、讲解与可接受表达请先完成学习页。以下英文示例由本工作区编写，不是 Cambridge 范文，也没有分数。\n图表信息核对\n依据原始折线图：\n\n零售和医疗行业整体增加；农业整体减少。\n制造业从约 1,500 万升至 1980 年约 2,000 万的峰值，随后回落，2020 年约为 1,300 万。不能说全程下降。\n1960 年制造业最多；到 2020 年，零售和医疗行业都超过制造业，两者约为 1,600 万。\n\n图上的数值是近似读数，使用 approximately/about 不必被判成不精确。概述可以有不同选材，只要抓住主趋势和重要比较；不要求与下面示例逐字相同。\n概述示例：\n\nOverall, employment in retail and healthcare grew over the period, while agriculture lost jobs. Manufacturing was initially the largest sector by job count, but retail and healthcare had overtaken it by 2020.\n\n这两句概括方向与相对位置变化，没有逐年列数。原图统计岗位数，不把它改说成去重人数。另一种可接受组织是先说零售、医疗最终领先，再概括制造业先升后降以及农业减少。不要把“经济发生了变化”单独当作充分概述。\n数量与搭配\n修订前先核对四件事：主语是哪类行业或岗位，单位是否为“百万个岗位”，时间对应哪一年，比较是在说增量、终值还是相对位置。事实关系清楚后再选择句式，不能靠更复杂的表达补救读错图。\n\n\n\n表达目的\n可接受示例\n检查重点\n\n\n\n\n峰值\nManufacturing employment peaked at about 20 million in 1980. / The number of manufacturing jobs reached a peak of about 20 million in 1980.\npeak at / reach a peak of 均可；行业或岗位指代要清楚\n\n\n幅度\nThe number of manufacturing jobs increased by about five million between 1960 and 1980.\nby 后是增量\n\n\n终值\nThe number of manufacturing jobs increased to about 20 million in 1980.\nto 后是到达的数值\n\n\n超过\nBy 2020, retail and healthcare had overtaken manufacturing in terms of the number of jobs.\novertake 后直接接被超过者；超过的维度清楚\n\n\n\nnumber of jobs 适合可数岗位数。employment rose 也可自然表达，不要求每句重复 the number of。rise / grow / increase 在本图许多位置都可以使用，不能仅因参考答案用了其中一个而把其他词判错。\n错误句至少有两个要修的地方：amount of jobs → number of jobs；若表达增量五百万，to → by。只换词、不检查数字所指含义，仍未修好任务。\n新词迁移示例：Online sales overtook in-store sales in 2024. 若使用 exceeded 或 were higher than 且意义正确，算表达任务成功；目标词 overtake 的提取另行记录。这是情境，无实际销售数据含义。\n对照真实考生答卷\n打开原书 5.5 分考生答卷与考官评语。这是含错误的学习样本。\n原书评语指出其概述过于笼统，并漏掉制造业的峰值，也谈到词汇选择和语法控制。请在自己的原稿上分别找证据，不能因你也犯其中一个错误就自动给你 5.5。\n反馈记录建议：\n\n本次优先问题：＿＿＿＿。原稿证据：＿＿＿＿。它影响读者理解的方式：＿＿＿＿。我选择的修改：＿＿＿＿。下次陌生题要检查：＿＿＿＿。\n\n用词准确性、词汇范围、任务回应与组织需要一起看。局部修订是训练，不替代按照完整四项标准评阅整篇文章。记录一条证据：原来怎样写／说，为什么改，下次看什么。",
+  "allContent": "完成后核对 · 答案、讲解与可接受表达请先完成学习页。以下英文示例由本工作区编写，不是 Cambridge 范文，也没有分数。\n图表信息核对\n依据原始折线图：\n\n零售和医疗行业整体增加；农业整体减少。\n制造业从约 1,500 万升至 1980 年约 2,000 万的峰值，随后回落，2020 年约为 1,300 万。不能说全程下降。\n1960 年制造业最多；到 2020 年，零售和医疗行业都超过制造业，两者约为 1,600 万。\n\n图上的数值是近似读数，使用 approximately/about 不必被判成不精确。概述可以有不同选材，只要抓住主趋势和重要比较；不要求与下面示例逐字相同。\n概述示例：\n\nOverall, employment in retail and healthcare grew over the period, while agriculture lost jobs. Manufacturing was initially the largest sector by job count, but retail and healthcare had overtaken it by 2020.\n\n这两句概括方向与相对位置变化，没有逐年列数。原图统计岗位数，不把它改说成去重人数。另一种可接受组织是先说零售、医疗最终领先，再概括制造业先升后降以及农业减少。不要把“经济发生了变化”单独当作充分概述。\n数量与搭配\n修订前先核对四件事：主语是哪类行业或岗位，单位是否为“百万个岗位”，时间对应哪一年，比较是在说增量、终值还是相对位置。事实关系清楚后再选择句式，不能靠更复杂的表达补救读错图。\n\n\n\n表达目的\n可接受示例\n检查重点\n\n\n\n\n峰值\nManufacturing employment peaked at about 20 million in 1980. / The number of manufacturing jobs reached a peak of about 20 million in 1980.\npeak at / reach a peak of 均可；行业或岗位指代要清楚\n\n\n幅度\nThe number of manufacturing jobs increased by about five million between 1960 and 1980.\nby 后是增量\n\n\n终值\nThe number of manufacturing jobs increased to about 20 million in 1980.\nto 后是到达的数值\n\n\n超过\nBy 2020, retail and healthcare had overtaken manufacturing in terms of the number of jobs.\novertake 后直接接被超过者；超过的维度清楚\n\n\n\nnumber of jobs 适合可数岗位数。employment rose 也可自然表达，不要求每句重复 the number of。rise / grow / increase 在本图许多位置都可以使用，不能仅因参考答案用了其中一个而把其他词判错。\n错误句至少有两个要修的地方：amount of jobs → number of jobs；若表达增量五百万，to → by。只换词、不检查数字所指含义，仍未修好任务。\n新词迁移示例：Online sales overtook in-store sales in 2024. 若使用 exceeded 或 were higher than 且意义正确，算表达任务成功；目标词 overtake 的提取另行记录。这是情境，无实际销售数据含义。\n对照真实考生答卷\n打开原书 5.5 分考生答卷与考官评语。这是含错误的学习样本。\n原书评语指出其概述过于笼统，并漏掉制造业的峰值，也谈到词汇选择和语法控制。请在自己的原稿上分别找证据，不能因你也犯其中一个错误就自动给你 5.5。\n反馈记录建议：\n\n本次优先问题：＿＿＿＿。原稿证据：＿＿＿＿。它影响读者理解的方式：＿＿＿＿。我选择的修改：＿＿＿＿。下次陌生题要检查：＿＿＿＿。\n\n用词准确性、词汇范围、任务回应与组织需要一起看。局部修订是训练，不替代按照完整四项标准评阅整篇文章。记录一条证据：原来怎样写／说，为什么改，下次看什么。",
+  "links": [
+    {
+      "text": "学习页",
+      "href": "#writing1-first"
+    },
+    {
+      "text": "原始折线图",
+      "href": "原始参考/a4eb2b3b-C21-T1-Task1-question.pdf"
+    },
+    {
+      "text": "原书 5.5 分考生答卷与考官评语",
+      "href": "原始参考/3cd100d3-C21-T1-Task1-response-and-comment.pdf"
+    }
+  ],
+  "details": [],
+  "saveFields": [
+    "writing1-feedback-note"
+  ],
+  "images": [],
+  "audio": [],
+  "viewport": 1440,
+  "documentWidth": 1440
+}

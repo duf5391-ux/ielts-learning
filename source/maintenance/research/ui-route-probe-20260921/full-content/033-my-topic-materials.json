@@ -1,0 +1,76 @@
+{
+  "requested": "my-topic-materials",
+  "from": [
+    "主面板"
+  ],
+  "actual": "#my-topic-materials",
+  "checkedAt": "2026-09-21T12:50:51.859Z",
+  "title": "我的话题资料 · IELTS",
+  "label": "我的话题资料",
+  "panel": "my-topic-materials",
+  "contentRoot": "my-topic-materials",
+  "headings": [
+    {
+      "tag": "H2",
+      "text": "我的话题资料",
+      "visible": true
+    }
+  ],
+  "controls": [
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "← 返回共用背景",
+      "label": "",
+      "href": "#study-shared-list",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "管理我的资料 →",
+      "label": "",
+      "href": "#materials",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "添加内容 ＋",
+      "label": "",
+      "href": "#materials",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    }
+  ],
+  "visibleText": "← 返回共用背景\n管理我的资料 →\n我的话题资料\n添加内容 ＋\n\n有新的背景文章或话题笔记，可以通过“新增资料”直接加入。",
+  "allContent": "← 返回共用背景管理我的资料 →我的话题资料添加内容 ＋有新的背景文章或话题笔记，可以通过“新增资料”直接加入。",
+  "links": [
+    {
+      "text": "← 返回共用背景",
+      "href": "#study-shared-list"
+    },
+    {
+      "text": "管理我的资料 →",
+      "href": "#materials"
+    },
+    {
+      "text": "添加内容 ＋",
+      "href": "#materials"
+    }
+  ],
+  "details": [],
+  "saveFields": [],
+  "images": [],
+  "audio": [],
+  "viewport": 1440,
+  "documentWidth": 1440
+}

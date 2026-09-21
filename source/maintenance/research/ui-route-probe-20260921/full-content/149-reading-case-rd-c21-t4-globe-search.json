@@ -1,0 +1,305 @@
+{
+  "requested": "reading-case-rd-c21-t4-globe-search",
+  "from": [
+    "内容单元",
+    "每日安排目标"
+  ],
+  "actual": "#reading-case-rd-c21-t4-globe-search",
+  "checkedAt": "2026-09-21T12:52:19.758Z",
+  "title": "练习 / 阅读 / The Globemakers · 从生日礼物到制作难题 · IELTS",
+  "label": "练习 / 阅读 / The Globemakers · 从生日礼物到制作难题",
+  "panel": "practice-reading",
+  "contentRoot": "reading-case-rd-c21-t4-globe-search",
+  "headings": [
+    {
+      "tag": "H4",
+      "text": "共用选项 · 原题 27、28、29、30、31、32",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "对照答案，回到证据",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "原文片段 · 1",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "原文片段 · 2",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "原文片段 · 3",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "原文片段 · 4",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "词语与搭配",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "句子精读",
+      "visible": false
+    }
+  ],
+  "controls": [
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "The Globemakers · 从生日礼物到制作难题未作答\n摘要填空 / 观点判断 YNNG · 4 段 · 368 词 · 10 题 · 同篇原文另有裁切",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "Cambridge IELTS 21 Academic",
+      "label": "",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=90",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "case-rd-c21-t4-globe-search-q1",
+      "type": "text",
+      "text": "",
+      "label": "第 27 题作答",
+      "href": null,
+      "save": "case-rd-c21-t4-globe-search-q1",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "case-rd-c21-t4-globe-search-q2",
+      "type": "text",
+      "text": "",
+      "label": "第 28 题作答",
+      "href": null,
+      "save": "case-rd-c21-t4-globe-search-q2",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "case-rd-c21-t4-globe-search-q3",
+      "type": "text",
+      "text": "",
+      "label": "第 29 题作答",
+      "href": null,
+      "save": "case-rd-c21-t4-globe-search-q3",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "case-rd-c21-t4-globe-search-q4",
+      "type": "text",
+      "text": "",
+      "label": "第 30 题作答",
+      "href": null,
+      "save": "case-rd-c21-t4-globe-search-q4",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "case-rd-c21-t4-globe-search-q5",
+      "type": "text",
+      "text": "",
+      "label": "第 31 题作答",
+      "href": null,
+      "save": "case-rd-c21-t4-globe-search-q5",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "case-rd-c21-t4-globe-search-q6",
+      "type": "text",
+      "text": "",
+      "label": "第 32 题作答",
+      "href": null,
+      "save": "case-rd-c21-t4-globe-search-q6",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "case-rd-c21-t4-globe-search-q7",
+      "type": "text",
+      "text": "",
+      "label": "第 33 题作答",
+      "href": null,
+      "save": "case-rd-c21-t4-globe-search-q7",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "case-rd-c21-t4-globe-search-q8",
+      "type": "text",
+      "text": "",
+      "label": "第 34 题作答",
+      "href": null,
+      "save": "case-rd-c21-t4-globe-search-q8",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "case-rd-c21-t4-globe-search-q9",
+      "type": "text",
+      "text": "",
+      "label": "第 35 题作答",
+      "href": null,
+      "save": "case-rd-c21-t4-globe-search-q9",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "case-rd-c21-t4-globe-search-q10",
+      "type": "text",
+      "text": "",
+      "label": "第 36 题作答",
+      "href": null,
+      "save": "case-rd-c21-t4-globe-search-q10",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "checkbox",
+      "text": "",
+      "label": "",
+      "href": null,
+      "save": "case-rd-c21-t4-globe-search-done",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "hidden",
+      "text": "",
+      "label": "",
+      "href": null,
+      "save": "case-rd-c21-t4-globe-search-saved-at",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "保留作答，查看答案",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "核对原答案页",
+      "label": "",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=125",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "case-rd-c21-t4-globe-search-revision",
+      "type": "textarea",
+      "text": "",
+      "label": "我的修订／证据笔记",
+      "href": null,
+      "save": "case-rd-c21-t4-globe-search-revision",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "材料精读 · 内容与词句",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    }
+  ],
+  "visibleText": "The Globemakers · 从生日礼物到制作难题未作答\n摘要填空 / 观点判断 YNNG · 4 段 · 368 词 · 10 题 · 同篇原文另有裁切\n0% · 0 / 1 完成\n\n真题 · Cambridge IELTS 21 Academic · PDF 第 90 页\n\n按原题号作答。保留考试原文与题目难度；以下是连续原段裁切，未改写原文。\n\n开篇原第1–4段连续裁切，保留A–J完整词表。NG34/35已核对整篇，原文并未给柏拉图所受批评或最早地球仪的准确性评价。\n\n原文片段 · 1In 2008, Peter Bellerby, who lived in London, wanted to give his father a model globe for his eightieth birthday. What seemed simple enough to start with triggered an almost obsessive, decade-long journey, marked by a series of obstacles that would have deterred anyone less determined. It ended with his establishing the world's only bespoke globemaking company.\n\n原文片段 · 2The first surprise in The Globemakers, Bellerby's account of this impulsive enterprise, is that obtaining such a globe was not simply a matter of a quick online order and a repressed sigh at the shipping costs. After all, contrary to stubbornly held popular views of our ancestors' geographical ignorance, we have known that the world is spherical since at least the 6th century BCE. The ancient Greek philosopher Plato in his work Phaedo likened it to a leather ball, while the accolade of producing the first recorded globe goes to the ancient Greek philosopher Crates of Mallus, who is said to have made one in around 150 BCE. Surely, Bellerby reasoned, a good-quality globe wouldn't be difficult to find.\n\n原文片段 · 3Nearly two millennia later, however, it seemed that the art of globemaking had been largely forgotten. Bellerby came across shoddy commercial versions designed for school classrooms and genuine antiques in auction houses that would have bust his budget. Even his trips to Morocco and India, where surely the knowledge of artisan cartographers* had been preserved, drew a blank.\n\n原文片段 · 4Not one to be easily thwarted, Bellerby decided to make his own good-quality globe. In the process, almost everything that could possibly go wrong did so. Even the shape of the Earth posed a problem, as it is not quite a perfect sphere, but oblate (slightly flattened at the poles). Having decided to compromise and opt for two half-spherical pieces that could be fitted together, he was unable to discover anyone capable of casting moulds with sufficient accuracy to ensure that he would not be left with two half-spheres that were not quite the same circumference. Even after he eventually resolved this issue, extracting these from the moulds resulted in piles of cracked plaster of Paris** and clouds of choking dust in the workshop he had set up at the rear of his house.\n\n共用选项 · 原题 27、28、29、30、31、32\nA. educational use\nB. rare materials\nC. inferior makes\nD. product exchange\nE. necessary skills\nF. international markets\nG. challenging task\nH. memorable object\nI. internet purchase\nJ. numerous problems\n\n27. Peter Bellerby's plan to give his father a globe for his birthday was an unexpectedly ______\n\nComplete the summary using the list of words below. Write the correct letter for each answer.\n\n第 27 题作答\n\n28. for which he had to overcome ______.\n\nComplete the summary using the list of words below. Write the correct letter for each answer.\n\n第 28 题作答\n\n29. He soon learnt that a straightforward ______ would not be possible.\n\nComplete the summary using the list of words below. Write the correct letter for each answer.\n\n第 29 题作答\n\n30. Some ______ that had been intended for\n\nComplete the summary using the list of words below. Write the correct letter for each answer.\n\n第 30 题作答\n\n31. ______ were available, as were some expensive antique globes, but these were beyond his budget.\n\nComplete the summary using the list of words below. Write the correct letter for each answer.\n\n第 31 题作答\n\n32. He even travelled to places where people might still have the ______, but Bellerby could not find what he wanted.\n\nComplete the summary using the list of words below. Write the correct letter for each answer.\n\n第 32 题作答\n\n33. The assumption today that people in the past knew very little about geography is correct.\n\nDo the following statements agree with the views/claims of the writer? Write YES, NO or NOT GIVEN.\n\n第 33 题作答\n\n34. Plato was criticised for saying the world was shaped like a leather ball.\n\nDo the following statements agree with the views/claims of the writer? Write YES, NO or NOT GIVEN.\n\n第 34 题作答\n\n35. The globe made by Crates of Mallus was an accurate representation of the known world.\n\nDo the following statements agree with the views/claims of the writer? Write YES, NO or NOT GIVEN.\n\n第 35 题作答\n\n36. Bellerby assumed he would have few problems locating a well-made globe.\n\nDo the following statements agree with the views/claims of the writer? Write YES, NO or NOT GIVEN.\n\n第 36 题作答\n保留作答，查看答案\n\n先作答；不确定的题也可记录判断与疑点。\n\n材料精读 · 内容与词句",
+  "allContent": "The Globemakers · 从生日礼物到制作难题未作答摘要填空 / 观点判断 YNNG · 4 段 · 368 词 · 10 题 · 同篇原文另有裁切0% · 0 / 1 完成真题 · Cambridge IELTS 21 Academic · PDF 第 90 页按原题号作答。保留考试原文与题目难度；以下是连续原段裁切，未改写原文。开篇原第1–4段连续裁切，保留A–J完整词表。NG34/35已核对整篇，原文并未给柏拉图所受批评或最早地球仪的准确性评价。原文片段 · 1In 2008, Peter Bellerby, who lived in London, wanted to give his father a model globe for his eightieth birthday. What seemed simple enough to start with triggered an almost obsessive, decade-long journey, marked by a series of obstacles that would have deterred anyone less determined. It ended with his establishing the world's only bespoke globemaking company.原文片段 · 2The first surprise in The Globemakers, Bellerby's account of this impulsive enterprise, is that obtaining such a globe was not simply a matter of a quick online order and a repressed sigh at the shipping costs. After all, contrary to stubbornly held popular views of our ancestors' geographical ignorance, we have known that the world is spherical since at least the 6th century BCE. The ancient Greek philosopher Plato in his work Phaedo likened it to a leather ball, while the accolade of producing the first recorded globe goes to the ancient Greek philosopher Crates of Mallus, who is said to have made one in around 150 BCE. Surely, Bellerby reasoned, a good-quality globe wouldn't be difficult to find.原文片段 · 3Nearly two millennia later, however, it seemed that the art of globemaking had been largely forgotten. Bellerby came across shoddy commercial versions designed for school classrooms and genuine antiques in auction houses that would have bust his budget. Even his trips to Morocco and India, where surely the knowledge of artisan cartographers* had been preserved, drew a blank.原文片段 · 4Not one to be easily thwarted, Bellerby decided to make his own good-quality globe. In the process, almost everything that could possibly go wrong did so. Even the shape of the Earth posed a problem, as it is not quite a perfect sphere, but oblate (slightly flattened at the poles). Having decided to compromise and opt for two half-spherical pieces that could be fitted together, he was unable to discover anyone capable of casting moulds with sufficient accuracy to ensure that he would not be left with two half-spheres that were not quite the same circumference. Even after he eventually resolved this issue, extracting these from the moulds resulted in piles of cracked plaster of Paris** and clouds of choking dust in the workshop he had set up at the rear of his house.共用选项 · 原题 27、28、29、30、31、32A. educational useB. rare materialsC. inferior makesD. product exchangeE. necessary skillsF. international marketsG. challenging taskH. memorable objectI. internet purchaseJ. numerous problems27. Peter Bellerby's plan to give his father a globe for his birthday was an unexpectedly ______Complete the summary using the list of words below. Write the correct letter for each answer.第 27 题作答28. for which he had to overcome ______.Complete the summary using the list of words below. Write the correct letter for each answer.第 28 题作答29. He soon learnt that a straightforward ______ would not be possible.Complete the summary using the list of words below. Write the correct letter for each answer.第 29 题作答30. Some ______ that had been intended forComplete the summary using the list of words below. Write the correct letter for each answer.第 30 题作答31. ______ were available, as were some expensive antique globes, but these were beyond his budget.Complete the summary using the list of words below. Write the correct letter for each answer.第 31 题作答32. He even travelled to places where people might still have the ______, but Bellerby could not find what he wanted.Complete the summary using the list of words below. Write the correct letter for each answer.第 32 题作答33. The assumption today that people in the past knew very little about geography is correct.Do the following statements agree with the views/claims of the writer? Write YES, NO or NOT GIVEN.第 33 题作答34. Plato was criticised for saying the world was shaped like a leather ball.Do the following statements agree with the views/claims of the writer? Write YES, NO or NOT GIVEN.第 34 题作答35. The globe made by Crates of Mallus was an accurate representation of the known world.Do the following statements agree with the views/claims of the writer? Write YES, NO or NOT GIVEN.第 35 题作答36. Bellerby assumed he would have few problems locating a well-made globe.Do the following statements agree with the views/claims of the writer? Write YES, NO or NOT GIVEN.第 36 题作答保留作答，查看答案先作答；不确定的题也可记录判断与疑点。对照答案，回到证据第 27 题 · G本以为简单，实际历时多年且障碍多，对应challenging task。What seemed simple enough ... an almost obsessive, decade-long journey ... a series of obstacles第 28 题 · Ja series of obstacles对应numerous problems，不能把耗时本身填成物品。marked by a series of obstacles that would have deterred anyone less determined第 29 题 · Iquick online order对应internet purchase，词表I不能因OCR漏字母而漏选项。not simply a matter of a quick online order第 30 题 · Cshoddy与inferior同义，versions是产品makes。shoddy commercial versions designed for school classrooms第 31 题 · Aschool classrooms对应educational use；A说使用目的而不是材料。designed for school classrooms第 32 题 · E工匠知识的保存对应necessary skills；drew a blank说明找寻无结果。where surely the knowledge of artisan cartographers had been preserved, drew a blank第 33 题 · NOcontrary to明确否定流行的“祖先地理无知”假定。contrary to stubbornly held popular views of our ancestors' geographical ignorance, we have known that the world is spherical ...第 34 题 · NOT GIVEN只记载柏拉图比喻，没有别人批评这一观点的信息；全文也未给反应。Plato in his work Phaedo likened it to a leather ball第 35 题 · NOT GIVENfirst recorded说明最早记载，不评价精确度accurate；不能从奖誉推导准确。the accolade of producing the first recorded globe goes to ... Crates of Mallus第 36 题 · YESwould not be difficult直接对应few problems；实际后来遇到困难不改变起初假设。Surely, Bellerby reasoned, a good-quality globe wouldn't be difficult to find核对原答案页我的修订／证据笔记材料精读 · 内容与词句一次寻找生日礼物的行动变成漫长的制球事业。作者用地球仪的悠久历史衬托现实中高质量成品和工艺人才的难寻，再具体展示模具精度及脱模问题，让制作困难有可理解的物质细节。原文片段 · 1In 2008, Peter Bellerby, who lived in London, wanted to give his father a model globe for his eightieth birthday. What seemed simple enough to start with triggered an almost obsessive, decade-long journey, marked by a series of obstacles that would have deterred anyone less determined. It ended with his establishing the world's only bespoke globemaking company.2008年的最初目标只是给父亲八十岁生日买一个地球仪，后来却延伸成十年左右的执着探索和定制企业。what seemed simple 与 a series of obstacles 对照，把简单购买到复杂事业的反差放在开头；关于企业独特性的说法属于原文叙述。原文片段 · 2The first surprise in The Globemakers, Bellerby's account of this impulsive enterprise, is that obtaining such a globe was not simply a matter of a quick online order and a repressed sigh at the shipping costs. After all, contrary to stubbornly held popular views of our ancestors' geographical ignorance, we have known that the world is spherical since at least the 6th century BCE. The ancient Greek philosopher Plato in his work Phaedo likened it to a leather ball, while the accolade of producing the first recorded globe goes to the ancient Greek philosopher Crates of Mallus, who is said to have made one in around 150 BCE. Surely, Bellerby reasoned, a good-quality globe wouldn't be difficult to find.作者插入古代已知地球呈球形及早期地球仪的历史，是为了说明 Bellerby 为什么以为好地球仪应该不难找。who is said to have made 保留对历史记载的转述性质。Surely 呈现人物当时的想当然，后文将让这一期待落空。原文片段 · 3Nearly two millennia later, however, it seemed that the art of globemaking had been largely forgotten. Bellerby came across shoddy commercial versions designed for school classrooms and genuine antiques in auction houses that would have bust his budget. Even his trips to Morocco and India, where surely the knowledge of artisan cartographers* had been preserved, drew a blank.现成市场两端都不能满足需求：学校用商品粗糙，古董又超出预算。远赴摩洛哥和印度仍未找到所需帮助。drew a blank 表示一无所获；这里的 artisan cartographers 指具有地图制作手艺的人，不只是现代数字地图从业者。原文片段 · 4Not one to be easily thwarted, Bellerby decided to make his own good-quality globe. In the process, almost everything that could possibly go wrong did so. Even the shape of the Earth posed a problem, as it is not quite a perfect sphere, but oblate (slightly flattened at the poles). Having decided to compromise and opt for two half-spherical pieces that could be fitted together, he was unable to discover anyone capable of casting moulds with sufficient accuracy to ensure that he would not be left with two half-spheres that were not quite the same circumference. Even after he eventually resolved this issue, extracting these from the moulds resulted in piles of cracked plaster of Paris** and clouds of choking dust in the workshop he had set up at the rear of his house.自己制作后，困难从地球并非完美球体开始，一直延伸到两半球周长一致和完整脱模。他选择近似球形是一种折中，但即使解决模具精度，石膏仍会破裂并产生粉尘。段落强调设计决定、制作精度与材料操作是不同层面的难题。词语与搭配marked by a series of obstacles伴随一连串障碍marked by 概括过程的显著特征；需要后文具体事件支撑，不能只用来空泛说事情困难。contrary to stubbornly held popular views与人们固执持有的流行看法相反contrary to 引出认识反差；stubbornly held 带有评论者对观念不易改变的评价。drew a blank没有找到所需结果固定表达，描述寻找过程无果，语气较生动；不是画出空白图形。with sufficient accuracy具有足够精度原文指模具精度必须达到两半球周长相合的要求，sufficient 与具体用途有关。句子精读What seemed simple enough to start with triggered an almost obsessive, decade-long journey, marked by a series of obstacles that would have deterred anyone less determined.起初看似再简单不过的一件事，却开启了一段近乎执着、长达十年的探索，其间一连串的障碍足以让决心稍弱的人退缩。What 从句整体作主语，指寻找地球仪这件事。marked by 补充 journey 的特征；that would have deterred 修饰 obstacles，用假设语气反衬 Bellerby 的坚持，不是叙述另一个真实退缩者。Even after he eventually resolved this issue, extracting these from the moulds resulted in piles of cracked plaster of Paris** and clouds of choking dust in the workshop he had set up at the rear of his house.即使他终于解决了这个问题，把半球从模具中取出来时，仍在房屋后方自己搭建的工作间里留下成堆开裂的熟石膏和令人呛咳的粉尘。this issue 回指两半球尺寸精度不一致，these 指半球件。extracting these from the moulds 是动名词短语作主语。Even after 表明先前难题解决并不代表整个过程顺利；he had set up 修饰 workshop。星号沿用材料中的注释标记。读完讲解，可以把原文连起来再读一次；想保留的词句可使用已有收藏功能。",
+  "links": [
+    {
+      "text": "Cambridge IELTS 21 Academic",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=90"
+    },
+    {
+      "text": "核对原答案页",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=125"
+    }
+  ],
+  "details": [
+    {
+      "id": "material-reading-rd-c21-t4-globe-search",
+      "title": "材料精读 · 内容与词句",
+      "open": false,
+      "visible": true
+    }
+  ],
+  "saveFields": [
+    "case-rd-c21-t4-globe-search-q1",
+    "case-rd-c21-t4-globe-search-q2",
+    "case-rd-c21-t4-globe-search-q3",
+    "case-rd-c21-t4-globe-search-q4",
+    "case-rd-c21-t4-globe-search-q5",
+    "case-rd-c21-t4-globe-search-q6",
+    "case-rd-c21-t4-globe-search-q7",
+    "case-rd-c21-t4-globe-search-q8",
+    "case-rd-c21-t4-globe-search-q9",
+    "case-rd-c21-t4-globe-search-q10",
+    "case-rd-c21-t4-globe-search-done",
+    "case-rd-c21-t4-globe-search-saved-at",
+    "case-rd-c21-t4-globe-search-revision"
+  ],
+  "images": [],
+  "audio": [],
+  "viewport": 1440,
+  "documentWidth": 1440
+}

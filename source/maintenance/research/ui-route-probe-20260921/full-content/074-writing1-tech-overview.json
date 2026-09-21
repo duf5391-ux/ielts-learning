@@ -1,0 +1,166 @@
+{
+  "requested": "writing1-tech-overview",
+  "from": [
+    "内容单元",
+    "页面链接"
+  ],
+  "actual": "#writing1-tech-overview",
+  "checkedAt": "2026-09-21T12:51:22.924Z",
+  "title": "学习 / 写作 · Task 1 / Overview：用真实原图找全局关系，再选择证据 · IELTS",
+  "label": "学习 / 写作 · Task 1 / Overview：用真实原图找全局关系，再选择证据",
+  "panel": "writing1",
+  "contentRoot": "writing1-tech-overview",
+  "headings": [],
+  "controls": [
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "Overview：用真实原图找全局关系，再选择证据",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "图书馆用户与满意度：两图的不同分母",
+      "label": "",
+      "href": "#writing1-case-wc-c21-t4-library",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "广播与电视受众：同一天的双峰比较",
+      "label": "",
+      "href": "#writing1-case-wc-official-audiences",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "Cambridge IELTS 21 Academic · Test 4 · Task 1 · PDF 95 页",
+      "label": "",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=95",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "IELTS Academic Writing Sample Tasks (2023) · Task 1B · PDF 4 页",
+      "label": "",
+      "href": "case-assets/writing-official-sample-tasks-2023.pdf#page=4",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "练原题：图书馆用户与满意度：两图的不同分母",
+      "label": "",
+      "href": "#writing1-case-wc-c21-t4-library",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "练原题：广播与电视受众：同一天的双峰比较",
+      "label": "",
+      "href": "#writing1-case-wc-official-audiences",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "checkbox",
+      "text": "",
+      "label": "我已学习本单元",
+      "href": null,
+      "save": "resource-learned-tech-overview",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "checkbox",
+      "text": "",
+      "label": "加入我的复习",
+      "href": null,
+      "save": "resource-review-tech-overview",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "我的练习答案／证据／下次要改的一步（可留空）",
+      "href": null,
+      "save": "resource-note-tech-overview",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    }
+  ],
+  "visibleText": "Overview：用真实原图找全局关系，再选择证据\n0% · 0 / 1 完成\n\nOverview不是把几个最大数字连在一起。剑桥21图书馆题同时含“用户构成”和“服务满意度”，因此总览应覆盖两种信息。饼图最大项是全日制本科生44%，最小项是academic staff 7%；满意度里staff helpfulness最佳，journals与wi-fi负面反馈最多。\n\n可直接核对的参考总览：Overall, full-time undergraduates formed the largest group of library users, while academic staff accounted for the smallest share. Satisfaction was strongest for staff helpfulness, whereas journals and wi-fi attracted the highest proportions of dissatisfied responses.\n\n为什么不在总览里抄完所有数字？主体段才用95% very satisfied与20%/19% not satisfied证明判断。注意表格有三列：不能把“fairly satisfied”与“不满意”混在一起。\n\n再看官方广播/电视折线图。这里最值得写的不是起点都小，而是峰值时段错开、电视峰值更高。参考总览：Radio attracted its largest audience in the morning, while television viewing peaked in the evening. Television reached a substantially higher peak, and both audiences were small during the early hours.主体证据是广播约27%在早上8点附近，电视约45–47%在晚8点附近。先给关系，再用数据证明关系。\n\n对应原题练习：图书馆用户与满意度：两图的不同分母 · 广播与电视受众：同一天的双峰比较\n\nCambridge IELTS 21 Academic · Test 4 · Task 1 · PDF 95 页\n\nIELTS Academic Writing Sample Tasks (2023) · Task 1B · PDF 4 页\n\n练原题：图书馆用户与满意度：两图的不同分母\n练原题：广播与电视受众：同一天的双峰比较\n\n本单元的学习记录\n\n 我已学习本单元 加入我的复习\n我的练习答案／证据／下次要改的一步（可留空）",
+  "allContent": "Overview：用真实原图找全局关系，再选择证据0% · 0 / 1 完成\nOverview不是把几个最大数字连在一起。剑桥21图书馆题同时含“用户构成”和“服务满意度”，因此总览应覆盖两种信息。饼图最大项是全日制本科生44%，最小项是academic staff 7%；满意度里staff helpfulness最佳，journals与wi-fi负面反馈最多。\n可直接核对的参考总览：Overall, full-time undergraduates formed the largest group of library users, while academic staff accounted for the smallest share. Satisfaction was strongest for staff helpfulness, whereas journals and wi-fi attracted the highest proportions of dissatisfied responses.\n为什么不在总览里抄完所有数字？主体段才用95% very satisfied与20%/19% not satisfied证明判断。注意表格有三列：不能把“fairly satisfied”与“不满意”混在一起。\n再看官方广播/电视折线图。这里最值得写的不是起点都小，而是峰值时段错开、电视峰值更高。参考总览：Radio attracted its largest audience in the morning, while television viewing peaked in the evening. Television reached a substantially higher peak, and both audiences were small during the early hours.主体证据是广播约27%在早上8点附近，电视约45–47%在晚8点附近。先给关系，再用数据证明关系。\n对应原题练习：图书馆用户与满意度：两图的不同分母 · 广播与电视受众：同一天的双峰比较Cambridge IELTS 21 Academic · Test 4 · Task 1 · PDF 95 页IELTS Academic Writing Sample Tasks (2023) · Task 1B · PDF 4 页练原题：图书馆用户与满意度：两图的不同分母练原题：广播与电视受众：同一天的双峰比较本单元的学习记录 我已学习本单元 加入我的复习我的练习答案／证据／下次要改的一步（可留空）",
+  "links": [
+    {
+      "text": "图书馆用户与满意度：两图的不同分母",
+      "href": "#writing1-case-wc-c21-t4-library"
+    },
+    {
+      "text": "广播与电视受众：同一天的双峰比较",
+      "href": "#writing1-case-wc-official-audiences"
+    },
+    {
+      "text": "Cambridge IELTS 21 Academic · Test 4 · Task 1 · PDF 95 页",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=95"
+    },
+    {
+      "text": "IELTS Academic Writing Sample Tasks (2023) · Task 1B · PDF 4 页",
+      "href": "case-assets/writing-official-sample-tasks-2023.pdf#page=4"
+    },
+    {
+      "text": "练原题：图书馆用户与满意度：两图的不同分母",
+      "href": "#writing1-case-wc-c21-t4-library"
+    },
+    {
+      "text": "练原题：广播与电视受众：同一天的双峰比较",
+      "href": "#writing1-case-wc-official-audiences"
+    }
+  ],
+  "details": [],
+  "saveFields": [
+    "resource-learned-tech-overview",
+    "resource-review-tech-overview",
+    "resource-note-tech-overview"
+  ],
+  "images": [],
+  "audio": [],
+  "viewport": 1440,
+  "documentWidth": 1440
+}

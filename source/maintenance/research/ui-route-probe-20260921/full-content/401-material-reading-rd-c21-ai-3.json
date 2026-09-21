@@ -1,0 +1,303 @@
+{
+  "requested": "material-reading-rd-c21-ai-3",
+  "from": [
+    "页面链接",
+    "每日安排目标"
+  ],
+  "actual": "#material-reading-rd-c21-ai-3",
+  "checkedAt": "2026-09-21T12:56:01.363Z",
+  "title": "练习 / 阅读 / Artificial Intelligence｜部署边界、医疗与司法案例 · IELTS",
+  "label": "练习 / 阅读 / Artificial Intelligence｜部署边界、医疗与司法案例",
+  "panel": "practice-reading",
+  "contentRoot": "reading-case-rd-c21-ai-3",
+  "headings": [
+    {
+      "tag": "H4",
+      "text": "共用选项 · 原题 34、35",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "对照答案，回到证据",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "原文第7段",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "原文第8段",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "原文第9段",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "原文第10段",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "原文第11段",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "原文第12段",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "原文第13段",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "词语与搭配",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "句子精读",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "这篇材料里可用于写作的表达",
+      "visible": true
+    }
+  ],
+  "controls": [
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "Artificial Intelligence｜部署边界、医疗与司法案例未作答\n观点判断 YNNG / 选词摘要填空 · 7 段 · 446 词 · 6 题 · 同篇原文另有裁切",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "Cambridge IELTS 21 Academic",
+      "label": "",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=47",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "case-rd-c21-ai-3-q1",
+      "type": "text",
+      "text": "",
+      "label": "第 36 题作答",
+      "href": null,
+      "save": "case-rd-c21-ai-3-q1",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "case-rd-c21-ai-3-q2",
+      "type": "text",
+      "text": "",
+      "label": "第 37 题作答",
+      "href": null,
+      "save": "case-rd-c21-ai-3-q2",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "case-rd-c21-ai-3-q3",
+      "type": "text",
+      "text": "",
+      "label": "第 38 题作答",
+      "href": null,
+      "save": "case-rd-c21-ai-3-q3",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "case-rd-c21-ai-3-q4",
+      "type": "text",
+      "text": "",
+      "label": "第 39 题作答",
+      "href": null,
+      "save": "case-rd-c21-ai-3-q4",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "case-rd-c21-ai-3-q5",
+      "type": "text",
+      "text": "",
+      "label": "第 34 题作答",
+      "href": null,
+      "save": "case-rd-c21-ai-3-q5",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "case-rd-c21-ai-3-q6",
+      "type": "text",
+      "text": "",
+      "label": "第 35 题作答",
+      "href": null,
+      "save": "case-rd-c21-ai-3-q6",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "checkbox",
+      "text": "",
+      "label": "",
+      "href": null,
+      "save": "case-rd-c21-ai-3-done",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "hidden",
+      "text": "",
+      "label": "",
+      "href": null,
+      "save": "case-rd-c21-ai-3-saved-at",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "保留作答，查看答案",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "核对原答案页",
+      "label": "",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=121",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "case-rd-c21-ai-3-revision",
+      "type": "textarea",
+      "text": "",
+      "label": "我的修订／证据笔记",
+      "href": null,
+      "save": "case-rd-c21-ai-3-revision",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "材料精读 · 内容与词句",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "用于写作：自编例句，直接回应科研应如何受到控制：提出可适用于公共和私营实验室的审查安排，不把监管等同于政府独占所有研究。",
+      "label": "",
+      "href": "#writing-prep-wc-official-science-from-rd-c21-ai-3",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "用于写作：自编例句，贴合政府科研监督职责，把能力边界与是否批准扩大应用联系起来。",
+      "label": "",
+      "href": "#writing-prep-wc-official-science-from-rd-c21-ai-3",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    }
+  ],
+  "visibleText": "Artificial Intelligence｜部署边界、医疗与司法案例未作答\n观点判断 YNNG / 选词摘要填空 · 7 段 · 446 词 · 6 题 · 同篇原文另有裁切\n0% · 0 / 1 完成\n\n真题 · Cambridge IELTS 21 Academic · PDF 第 47 页\n\nQ36–39：YES / NO / NOT GIVEN。Q34–35：选词摘要填空，完整选项A–I保留。按原文顺序编排本段题组，原题号不变。全篇主旨Q40需阅读全文，未列入裁切。\n\n原文第7段For these reasons, the sensationalism over AI has attracted many critics. Stuart Russell, a professor of computer science at the University of California, Berkeley, has long advocated a more sensible and realistic approach that focuses on simple everyday applications of AI instead of the hypothetical takeover by super-intelligent robots. Similarly, Rodney Brooks, professor of robotics at Massachusetts Institute of Technology, writes that 'almost all innovations in robotics and AI take far, far, longer to be really widely deployed than people in the field and outside the field imagine'.\n\n原文第8段One of the many difficulties in deploying machine learning systems is that AI is extremely susceptible to adversarial attacks. This means that a malicious AI can target another AI to make it behave in a certain way, such as forcing it to make wrong predictions. Many researchers have warned against the rolling out of AI without appropriate security standards and defence mechanisms. Still, AI security remains an often overlooked topic when machine learning systems are installed.\n\n原文第9段If we are to reap the benefits and minimise the potential harms of AI, we must start thinking about how machine learning can be meaningfully applied to specific areas of government, business and society. This means we need to have a discussion about AI ethics and the distrust that many people have towards machine learning.\n\n原文第10段Most importantly, we need to be aware of the limitations of AI and where people still need to take the lead. Instead of painting an unrealistic picture of the power of AI, it is important to take a step back and separate the actual technological capabilities of AI from fantasy.\n\n原文第11段The medical profession has also recognised the drawbacks to AI. The IBM Watson for Oncology programme was a piece of AI that was meant to help doctors treat cancer. Even though it was developed to deliver the best recommendations, human experts found it hard to trust the machine. As a result, the AI programme was abandoned in most hospitals where it was trialled.\n\n原文第12段Similar difficulties arose in the legal domain when algorithms were used in courts in the US to sentence criminals. An algorithm calculated risk assessment scores and advised judges on the sentencing. The system was found to amplify structural racial discrimination and was later abandoned.\n\n原文第13段There are some crucial lessons here for everyone aiming to boost investments in national AI programmes. These examples demonstrate that there is no AI solution for everything. Using AI simply for the sake of AI may not always be productive or useful, and not every issue is best addressed by applying machine intelligence to it. All solutions come with a cost and not everything that can be automated should be.\n\n共用选项 · 原题 34、35\nA reliability\nB funding\nC skills\nD prejudices\nE computers\nF equality\nG framework\nH confidentiality\nI approval\n\n36. Stuart Russell's proposals regarding the use of AI are impractical.\n\n第 36 题作答\n\n37. Rodney Brooks' view has attracted unfair criticism from supporters of AI.\n\n第 37 题作答\n\n38. Nowadays, the need to protect AI systems is always taken into account when they are set up.\n\n第 38 题作答\n\n39. In order to benefit from AI and minimise the harms, we have to explore people's concerns about its use.\n\n第 39 题作答\n\n34. The medical profession experimented with an AI programme, but their experts had little faith in its 34 __________, and the programme was abandoned.\n\n第 34 题作答\n\n35. US courts also abandoned the use of algorithms when it was found that these reflected and magnified the existing 35 __________ within the legal profession.\n\n第 35 题作答\n保留作答，查看答案\n\n先作答；不确定的题也可记录判断与疑点。\n\n材料精读 · 内容与词句\n\n后半篇从专家对宣传的批评转向安全、伦理与实际用途，再用医疗和司法例子说明部署限制，最后提出有选择地使用AI。作者要求把收益、潜在伤害和人的职责一并考虑，并未主张一律停止技术应用。具体项目经历均按本文叙述理解，不作为当前项目状态的独立核验。\n\n原文第7段\nFor these reasons, the sensationalism over AI has attracted many critics. Stuart Russell, a professor of computer science at the University of California, Berkeley, has long advocated a more sensible and realistic approach that focuses on simple everyday applications of AI instead of the hypothetical takeover by super-intelligent robots. Similarly, Rodney Brooks, professor of robotics at Massachusetts Institute of Technology, writes that 'almost all innovations in robotics and AI take far, far, longer to be really widely deployed than people in the field and outside the field imagine'.\n\n第7段承接前面关于实施困难的讨论，介绍两位研究者的观点：关注日常具体用途，并对广泛部署需要的时间保持现实认识。Brooks的引语谈“几乎所有创新”所需时间比想象长，不是说所有创新最终都会成功或永远无法部署。\n\n原文第8段\nOne of the many difficulties in deploying machine learning systems is that AI is extremely susceptible to adversarial attacks. This means that a malicious AI can target another AI to make it behave in a certain way, such as forcing it to make wrong predictions. Many researchers have warned against the rolling out of AI without appropriate security standards and defence mechanisms. Still, AI security remains an often overlooked topic when machine learning systems are installed.\n\n第8段解释对抗性攻击及相关安全问题：恶意AI可能使另一系统作出错误预测。研究者据此警告，在缺乏适当安全标准与防御机制时不应贸然推广。Still将已有警告与安全仍常被忽视的情况并置。\n\n原文第9段\nIf we are to reap the benefits and minimise the potential harms of AI, we must start thinking about how machine learning can be meaningfully applied to specific areas of government, business and society. This means we need to have a discussion about AI ethics and the distrust that many people have towards machine learning.\n\n第9段以“获得收益并减少潜在伤害”为目标，要求讨论AI在具体领域如何有意义地应用，同时考虑伦理和人们的不信任。meaningfully强调解决实际需要，而不是仅仅把技术放进某个场景。\n\n原文第10段\nMost importantly, we need to be aware of the limitations of AI and where people still need to take the lead. Instead of painting an unrealistic picture of the power of AI, it is important to take a step back and separate the actual technological capabilities of AI from fantasy.\n\n第10段进一步强调认识能力边界与人仍应主导的地方。take a step back是暂退一步冷静审视的比喻；separate...from...要求区分实际能力与幻想，不是说AI完全没有能力。\n\n原文第11段\nThe medical profession has also recognised the drawbacks to AI. The IBM Watson for Oncology programme was a piece of AI that was meant to help doctors treat cancer. Even though it was developed to deliver the best recommendations, human experts found it hard to trust the machine. As a result, the AI programme was abandoned in most hospitals where it was trialled.\n\n第11段按本文叙述，以Watson肿瘤项目说明“设计上希望给出最佳建议”与“使用者实际建立信任”之间的距离。was meant to、developed to都表达目的，不能读成已经证实可靠。most hospitals where it was trialled限定为文中试用该项目的多数医院，不是所有医院或所有医疗AI。\n\n原文第12段\nSimilar difficulties arose in the legal domain when algorithms were used in courts in the US to sentence criminals. An algorithm calculated risk assessment scores and advised judges on the sentencing. The system was found to amplify structural racial discrimination and was later abandoned.\n\n第12段按本文叙述，写一个在美国法院辅助量刑的算法放大结构性种族歧视并被弃用的例子。该段具体说明技术建议可能带来的社会后果；不能从这一系统的经历推出所有司法算法都有同一结果。\n\n原文第13段\nThere are some crucial lessons here for everyone aiming to boost investments in national AI programmes. These examples demonstrate that there is no AI solution for everything. Using AI simply for the sake of AI may not always be productive or useful, and not every issue is best addressed by applying machine intelligence to it. All solutions come with a cost and not everything that can be automated should be.\n\n第13段把前面的例子收束为选择使用范围的原则：技术本身不是使用理由，自动化也有成本，并非所有可以自动化的事都应该自动化。may not always与not every都是否定普遍保证，而不是断言AI在任何场景都无用。\n\n词语与搭配\nwidely deployed\n\n得到广泛部署\n\ndeploy在技术语境中指投入使用；widely描述应用范围，不能与实验成功或刚开发出来混同。\n\nappropriate security standards\n\n适当的安全标准\n\nappropriate强调与用途和风险相符的标准；有标准仍不自动意味着风险为零。\n\nminimise the potential harms\n\n尽量减少潜在伤害\n\nminimise指尽量降低，potential表示可能发生；两者都不同于保证完全消除伤害。\n\nbe aware of the limitations of\n\n认识到……的局限\n\nlimitations常接of说明对象；意识到局限可以帮助确定适用范围，不等于完全拒绝使用。\n\nsimply for the sake of AI\n\n仅仅为了使用AI本身\n\nfor the sake of可表示目的或理由；simply在这里批评没有实际需要支撑的技术采用。\n\n句子精读\nIf we are to reap the benefits and minimise the potential harms of AI, we must start thinking about how machine learning can be meaningfully applied to specific areas of government, business and society.\n\n如果我们要获得AI的益处并尽量减少其潜在伤害，就必须开始思考机器学习怎样才能有意义地应用到政府、企业和社会的具体领域。\n\nIf we are to...表达想实现的目标，must...提出作者认为必要的行动。reap与minimise并列，收益和伤害同时受到关注；how从句说明需要思考的是应用方式，specific areas限制讨论到具体领域。\n\nUsing AI simply for the sake of AI may not always be productive or useful, and not every issue is best addressed by applying machine intelligence to it.\n\n仅仅为了使用AI而使用AI，未必总是有成效或有用；也并非每个问题都最适合通过应用机器智能来处理。\n\nUsing AI...是动名词主语；may not always保留“并非总是”的范围。not every issue是部分否定，不等于no issue。by applying...说明处理方式，it回指issue。\n\n这篇材料里可用于写作的表达\nminimise the potential harms\n\n尽量减少潜在伤害\n\n适合与审查、监管和试验条件相连；不能声称审查可以保证消除全部风险。\n\n用于写作：自编例句，直接回应科研应如何受到控制：提出可适用于公共和私营实验室的审查安排，不把监管等同于政府独占所有研究。\n\nbe aware of the limitations of\n\n认识到……的局限\n\n后接具体技术或方法；认识边界服务于判断用途，避免演变成空泛反科技态度。\n\n用于写作：自编例句，贴合政府科研监督职责，把能力边界与是否批准扩大应用联系起来。\n\n读完讲解，可以把原文连起来再读一次；想保留的词句可使用已有收藏功能。",
+  "allContent": "Artificial Intelligence｜部署边界、医疗与司法案例未作答观点判断 YNNG / 选词摘要填空 · 7 段 · 446 词 · 6 题 · 同篇原文另有裁切0% · 0 / 1 完成真题 · Cambridge IELTS 21 Academic · PDF 第 47 页Q36–39：YES / NO / NOT GIVEN。Q34–35：选词摘要填空，完整选项A–I保留。按原文顺序编排本段题组，原题号不变。全篇主旨Q40需阅读全文，未列入裁切。原文第7段For these reasons, the sensationalism over AI has attracted many critics. Stuart Russell, a professor of computer science at the University of California, Berkeley, has long advocated a more sensible and realistic approach that focuses on simple everyday applications of AI instead of the hypothetical takeover by super-intelligent robots. Similarly, Rodney Brooks, professor of robotics at Massachusetts Institute of Technology, writes that 'almost all innovations in robotics and AI take far, far, longer to be really widely deployed than people in the field and outside the field imagine'.原文第8段One of the many difficulties in deploying machine learning systems is that AI is extremely susceptible to adversarial attacks. This means that a malicious AI can target another AI to make it behave in a certain way, such as forcing it to make wrong predictions. Many researchers have warned against the rolling out of AI without appropriate security standards and defence mechanisms. Still, AI security remains an often overlooked topic when machine learning systems are installed.原文第9段If we are to reap the benefits and minimise the potential harms of AI, we must start thinking about how machine learning can be meaningfully applied to specific areas of government, business and society. This means we need to have a discussion about AI ethics and the distrust that many people have towards machine learning.原文第10段Most importantly, we need to be aware of the limitations of AI and where people still need to take the lead. Instead of painting an unrealistic picture of the power of AI, it is important to take a step back and separate the actual technological capabilities of AI from fantasy.原文第11段The medical profession has also recognised the drawbacks to AI. The IBM Watson for Oncology programme was a piece of AI that was meant to help doctors treat cancer. Even though it was developed to deliver the best recommendations, human experts found it hard to trust the machine. As a result, the AI programme was abandoned in most hospitals where it was trialled.原文第12段Similar difficulties arose in the legal domain when algorithms were used in courts in the US to sentence criminals. An algorithm calculated risk assessment scores and advised judges on the sentencing. The system was found to amplify structural racial discrimination and was later abandoned.原文第13段There are some crucial lessons here for everyone aiming to boost investments in national AI programmes. These examples demonstrate that there is no AI solution for everything. Using AI simply for the sake of AI may not always be productive or useful, and not every issue is best addressed by applying machine intelligence to it. All solutions come with a cost and not everything that can be automated should be.共用选项 · 原题 34、35A reliabilityB fundingC skillsD prejudicesE computersF equalityG frameworkH confidentialityI approval36. Stuart Russell's proposals regarding the use of AI are impractical.第 36 题作答37. Rodney Brooks' view has attracted unfair criticism from supporters of AI.第 37 题作答38. Nowadays, the need to protect AI systems is always taken into account when they are set up.第 38 题作答39. In order to benefit from AI and minimise the harms, we have to explore people's concerns about its use.第 39 题作答34. The medical profession experimented with an AI programme, but their experts had little faith in its 34 __________, and the programme was abandoned.第 34 题作答35. US courts also abandoned the use of algorithms when it was found that these reflected and magnified the existing 35 __________ within the legal profession.第 35 题作答保留作答，查看答案先作答；不确定的题也可记录判断与疑点。对照答案，回到证据第 36 题 · NO作者赞成sensible and realistic，明确与impractical相反；无需评价Russell现实成就。a more sensible and realistic approach that focuses on simple everyday applications of AI第 37 题 · NOT GIVEN全文只引用Brooks对部署耗时的判断，没有支持者如何回应他的观点，unfair更无依据。almost all innovations in robotics and AI take far, far, longer to be really widely deployed第 38 题 · NOoften overlooked直接反驳always taken into account；不是只缺少资料。AI security remains an often overlooked topic when machine learning systems are installed第 39 题 · YESconcerns概括ethics与distrust；need to have a discussion支持have to explore。we need to have a discussion about AI ethics and the distrust that many people have towards machine learning第 34 题 · Ahard to trust是对reliability的信任不足；不是缺钱funding。human experts found it hard to trust the machine第 35 题 · Damplify对应magnified，racial discrimination对应prejudices；没有说系统只缺技能。The system was found to amplify structural racial discrimination核对原答案页我的修订／证据笔记材料精读 · 内容与词句后半篇从专家对宣传的批评转向安全、伦理与实际用途，再用医疗和司法例子说明部署限制，最后提出有选择地使用AI。作者要求把收益、潜在伤害和人的职责一并考虑，并未主张一律停止技术应用。具体项目经历均按本文叙述理解，不作为当前项目状态的独立核验。原文第7段For these reasons, the sensationalism over AI has attracted many critics. Stuart Russell, a professor of computer science at the University of California, Berkeley, has long advocated a more sensible and realistic approach that focuses on simple everyday applications of AI instead of the hypothetical takeover by super-intelligent robots. Similarly, Rodney Brooks, professor of robotics at Massachusetts Institute of Technology, writes that 'almost all innovations in robotics and AI take far, far, longer to be really widely deployed than people in the field and outside the field imagine'.第7段承接前面关于实施困难的讨论，介绍两位研究者的观点：关注日常具体用途，并对广泛部署需要的时间保持现实认识。Brooks的引语谈“几乎所有创新”所需时间比想象长，不是说所有创新最终都会成功或永远无法部署。原文第8段One of the many difficulties in deploying machine learning systems is that AI is extremely susceptible to adversarial attacks. This means that a malicious AI can target another AI to make it behave in a certain way, such as forcing it to make wrong predictions. Many researchers have warned against the rolling out of AI without appropriate security standards and defence mechanisms. Still, AI security remains an often overlooked topic when machine learning systems are installed.第8段解释对抗性攻击及相关安全问题：恶意AI可能使另一系统作出错误预测。研究者据此警告，在缺乏适当安全标准与防御机制时不应贸然推广。Still将已有警告与安全仍常被忽视的情况并置。原文第9段If we are to reap the benefits and minimise the potential harms of AI, we must start thinking about how machine learning can be meaningfully applied to specific areas of government, business and society. This means we need to have a discussion about AI ethics and the distrust that many people have towards machine learning.第9段以“获得收益并减少潜在伤害”为目标，要求讨论AI在具体领域如何有意义地应用，同时考虑伦理和人们的不信任。meaningfully强调解决实际需要，而不是仅仅把技术放进某个场景。原文第10段Most importantly, we need to be aware of the limitations of AI and where people still need to take the lead. Instead of painting an unrealistic picture of the power of AI, it is important to take a step back and separate the actual technological capabilities of AI from fantasy.第10段进一步强调认识能力边界与人仍应主导的地方。take a step back是暂退一步冷静审视的比喻；separate...from...要求区分实际能力与幻想，不是说AI完全没有能力。原文第11段The medical profession has also recognised the drawbacks to AI. The IBM Watson for Oncology programme was a piece of AI that was meant to help doctors treat cancer. Even though it was developed to deliver the best recommendations, human experts found it hard to trust the machine. As a result, the AI programme was abandoned in most hospitals where it was trialled.第11段按本文叙述，以Watson肿瘤项目说明“设计上希望给出最佳建议”与“使用者实际建立信任”之间的距离。was meant to、developed to都表达目的，不能读成已经证实可靠。most hospitals where it was trialled限定为文中试用该项目的多数医院，不是所有医院或所有医疗AI。原文第12段Similar difficulties arose in the legal domain when algorithms were used in courts in the US to sentence criminals. An algorithm calculated risk assessment scores and advised judges on the sentencing. The system was found to amplify structural racial discrimination and was later abandoned.第12段按本文叙述，写一个在美国法院辅助量刑的算法放大结构性种族歧视并被弃用的例子。该段具体说明技术建议可能带来的社会后果；不能从这一系统的经历推出所有司法算法都有同一结果。原文第13段There are some crucial lessons here for everyone aiming to boost investments in national AI programmes. These examples demonstrate that there is no AI solution for everything. Using AI simply for the sake of AI may not always be productive or useful, and not every issue is best addressed by applying machine intelligence to it. All solutions come with a cost and not everything that can be automated should be.第13段把前面的例子收束为选择使用范围的原则：技术本身不是使用理由，自动化也有成本，并非所有可以自动化的事都应该自动化。may not always与not every都是否定普遍保证，而不是断言AI在任何场景都无用。词语与搭配widely deployed得到广泛部署deploy在技术语境中指投入使用；widely描述应用范围，不能与实验成功或刚开发出来混同。appropriate security standards适当的安全标准appropriate强调与用途和风险相符的标准；有标准仍不自动意味着风险为零。minimise the potential harms尽量减少潜在伤害minimise指尽量降低，potential表示可能发生；两者都不同于保证完全消除伤害。be aware of the limitations of认识到……的局限limitations常接of说明对象；意识到局限可以帮助确定适用范围，不等于完全拒绝使用。simply for the sake of AI仅仅为了使用AI本身for the sake of可表示目的或理由；simply在这里批评没有实际需要支撑的技术采用。句子精读If we are to reap the benefits and minimise the potential harms of AI, we must start thinking about how machine learning can be meaningfully applied to specific areas of government, business and society.如果我们要获得AI的益处并尽量减少其潜在伤害，就必须开始思考机器学习怎样才能有意义地应用到政府、企业和社会的具体领域。If we are to...表达想实现的目标，must...提出作者认为必要的行动。reap与minimise并列，收益和伤害同时受到关注；how从句说明需要思考的是应用方式，specific areas限制讨论到具体领域。Using AI simply for the sake of AI may not always be productive or useful, and not every issue is best addressed by applying machine intelligence to it.仅仅为了使用AI而使用AI，未必总是有成效或有用；也并非每个问题都最适合通过应用机器智能来处理。Using AI...是动名词主语；may not always保留“并非总是”的范围。not every issue是部分否定，不等于no issue。by applying...说明处理方式，it回指issue。这篇材料里可用于写作的表达minimise the potential harms尽量减少潜在伤害适合与审查、监管和试验条件相连；不能声称审查可以保证消除全部风险。用于写作：自编例句，直接回应科研应如何受到控制：提出可适用于公共和私营实验室的审查安排，不把监管等同于政府独占所有研究。be aware of the limitations of认识到……的局限后接具体技术或方法；认识边界服务于判断用途，避免演变成空泛反科技态度。用于写作：自编例句，贴合政府科研监督职责，把能力边界与是否批准扩大应用联系起来。读完讲解，可以把原文连起来再读一次；想保留的词句可使用已有收藏功能。",
+  "links": [
+    {
+      "text": "Cambridge IELTS 21 Academic",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=47"
+    },
+    {
+      "text": "核对原答案页",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=121"
+    },
+    {
+      "text": "用于写作：自编例句，直接回应科研应如何受到控制：提出可适用于公共和私营实验室的审查安排，不把监管等同于政府独占所有研究。",
+      "href": "#writing-prep-wc-official-science-from-rd-c21-ai-3"
+    },
+    {
+      "text": "用于写作：自编例句，贴合政府科研监督职责，把能力边界与是否批准扩大应用联系起来。",
+      "href": "#writing-prep-wc-official-science-from-rd-c21-ai-3"
+    }
+  ],
+  "details": [
+    {
+      "id": "material-reading-rd-c21-ai-3",
+      "title": "材料精读 · 内容与词句",
+      "open": true,
+      "visible": true
+    }
+  ],
+  "saveFields": [
+    "case-rd-c21-ai-3-q1",
+    "case-rd-c21-ai-3-q2",
+    "case-rd-c21-ai-3-q3",
+    "case-rd-c21-ai-3-q4",
+    "case-rd-c21-ai-3-q5",
+    "case-rd-c21-ai-3-q6",
+    "case-rd-c21-ai-3-done",
+    "case-rd-c21-ai-3-saved-at",
+    "case-rd-c21-ai-3-revision"
+  ],
+  "images": [],
+  "audio": [],
+  "viewport": 1440,
+  "documentWidth": 1440
+}

@@ -1,0 +1,376 @@
+{
+  "version": 1,
+  "checkedAt": "2026-09-16",
+  "note": "四个旧目录明确缺少的背景读本；语境、例句和教学全部原创。属于基础补齐，未列为本季回忆题。",
+  "sources": [],
+  "topics": [
+    {
+      "id": "crime",
+      "title": "犯罪与惩罚：预防、回应与重新融入",
+      "intro_zh": "讨论这类题时先拆目的：保护公众、阻止违法、让行为承担后果、降低再次违法的可能。不同措施服务不同目的。不要把“处罚越重越有效”或“给工作就能解决犯罪”写成无条件事实；要解释中间机制及适用范围。以下社区情境为教学虚构。",
+      "context_en": "Imagine a town discussing how to respond to repeated bicycle theft. Some residents want tougher penalties because they believe offenders should face clear consequences. Others want better lighting and secure bicycle storage, which could make theft more difficult. These proposals address different stages of the problem. A penalty responds to an offence, while a secure storage area aims to prevent one. A third proposal focuses on people who have already served a sentence. It would offer training and help them look for lawful employment. This support would not remove their responsibility for the original offence. Its purpose would be to make another offence less attractive or less necessary. None of these ideas should be treated as a guaranteed solution. Residents would still need to consider cost, implementation and evidence of results. A strong argument can support proportionate punishment while also explaining why prevention and rehabilitation deserve attention.",
+      "context_zh": "一个虚构小镇要处理反复发生的自行车盗窃。加重处罚回应已发生的行为，照明和安全存放设施试图减少机会，培训与就业支持关注服刑后的生活。它们针对不同阶段，可以同时讨论。支持重新融入社会不等于免除责任，也不能保证不会再次违法；还要看成本、执行与结果。",
+      "concepts": [
+        {
+          "term": "deterrence",
+          "meaning_zh": "威慑：让潜在违法者预期后果，从而可能放弃行动。"
+        },
+        {
+          "term": "rehabilitation",
+          "meaning_zh": "帮助行为人改变行为、获得重新生活的能力。"
+        },
+        {
+          "term": "proportionate punishment",
+          "meaning_zh": "惩罚与行为严重程度相称；proportionate 强调比例适当。"
+        }
+      ],
+      "language": [
+        {
+          "chunk": "deter someone from doing something",
+          "meaning_zh": "阻止某人产生行动意愿",
+          "structure": "deter + 人 + from + -ing",
+          "example_en": "Visible security measures may deter people from stealing bicycles.",
+          "error_zh": "不能说 deter people to steal；may 避免把效果绝对化。"
+        },
+        {
+          "chunk": "hold someone accountable for",
+          "meaning_zh": "让某人为某事承担责任",
+          "structure": "hold + 人 + accountable + for + 名词/-ing",
+          "example_en": "Offenders should be held accountable for the harm they cause.",
+          "error_zh": "responsible 与 accountable 都可涉及责任，不要把 accountable 当动词。"
+        },
+        {
+          "chunk": "serve a sentence",
+          "meaning_zh": "服刑",
+          "structure": "serve + a prison sentence",
+          "example_en": "People who have served a sentence may need support when looking for work.",
+          "error_zh": "sentence 在此是刑期，不是语法中的句子。"
+        },
+        {
+          "chunk": "address the causes of",
+          "meaning_zh": "处理……的成因",
+          "structure": "address + the causes of + 问题",
+          "example_en": "Prevention programmes should address the causes of repeated offending.",
+          "error_zh": "address 作及物动词，不能写 address to the causes。"
+        },
+        {
+          "chunk": "reduce the risk of reoffending",
+          "meaning_zh": "降低再次违法的风险",
+          "structure": "reduce + the risk of + -ing",
+          "example_en": "Training may reduce the risk of reoffending by widening lawful choices.",
+          "error_zh": "risk 降低不等于行为一定消失。"
+        },
+        {
+          "chunk": "reintegrate into society",
+          "meaning_zh": "重新融入社会",
+          "structure": "reintegrate into + 群体",
+          "example_en": "Stable work can help former offenders reintegrate into society.",
+          "error_zh": "帮助结构可用 help someone do，不能写 help someone doing。"
+        }
+      ],
+      "model": {
+        "prompt_en": "Should a town rely only on tougher penalties to reduce bicycle theft?",
+        "answer_en": "Tougher penalties may be justified when repeated theft causes serious harm, but punishment alone would leave some problems untouched. If bicycles are easy to steal, secure storage could reduce opportunities for theft before it happens. Support after a sentence may also help people find lawful work. This does not mean removing responsibility: offenders can face consequences while receiving practical help to change their behaviour. I would therefore combine proportionate penalties with prevention and carefully evaluated support.",
+        "explanation_zh": "先给有限立场，再分别解释“减少机会”和“增加合法选择”的机制，最后回应“支持等于纵容”的潜在反对。没有用虚构统计证明政策必然有效。"
+      },
+      "practice": [
+        {
+          "prompt": "改写：Training can prevent all former offenders to commit crimes.",
+          "answer": "Training may help some former offenders avoid committing further offences.",
+          "explanation_zh": "原句同时存在绝对范围 all、效果强度 prevent all 和结构错误；也可用 deter ... from committing，但语义侧重点不同。"
+        },
+        {
+          "prompt": "安全存车设施与服刑后的就业支持，分别主要处理哪个环节？",
+          "answer": "前者处理犯罪机会；后者支持行为改变和重新融入。",
+          "explanation_zh": "它们不是同一措施的同义改写，论证时要分开解释。"
+        }
+      ],
+      "optional_review": {
+        "prompt_en": "A school wants to reduce repeated rule-breaking. Explain one preventive measure and one form of support, without equating school discipline with criminal sentencing.",
+        "checkpoints_zh": [
+          "换一个情境解释相同机制，不照抄原例。",
+          "使用两组新表达；不需要强行塞入全部词组。",
+          "记下仍需提示的用法，可以继续学习其他新内容。"
+        ]
+      },
+      "status": "基础话题补齐 · 原创教学，非当季回忆题",
+      "sourceIds": []
+    },
+    {
+      "id": "government",
+      "title": "政府与公共支出：预算、优先次序与长期成本",
+      "intro_zh": "这类讨论最常见的空洞句是“政府应该投入更多资金”。完整论证需要说清钱花在哪、谁受益、通过什么机制改善、会挤占什么资源。把建设费用和持续运营费用分开，把公共收益和某个使用者的收益分开。以下预算为虚构教学条件。",
+      "context_en": "A council has enough money to begin one major project this year: a new sports hall or repairs to several local libraries. The sports hall could give residents an indoor place to exercise, but the council would also need to pay for staff, cleaning and maintenance. Library repairs would be less visible, yet they could keep existing study spaces open. Choosing between the projects requires more than comparing the number of people who might attend an opening ceremony. The council should ask who currently lacks access, whether another facility already meets the need and how the service would be funded in later years. A smaller version of the sports project might leave some money for urgent repairs. This would involve compromise rather than a perfect solution. Public spending decisions can therefore be evaluated through need, expected benefit, opportunity cost and the ability to maintain a service over time.",
+      "context_zh": "虚构地方议会只能先做一个项目：体育馆或图书馆修缮。新建筑除了建造，还需要人手和维护；修缮虽然不显眼，却能维持现有服务。比较时看需求缺口、实际受益、放弃的其他用途和长期运营能力，也可提出缩小规模的折中方案。",
+      "concepts": [
+        {
+          "term": "opportunity cost",
+          "meaning_zh": "把资源用于一处时，放弃的其他可行用途。"
+        },
+        {
+          "term": "capital cost / running cost",
+          "meaning_zh": "一次建设投入与持续运营支出。"
+        },
+        {
+          "term": "public benefit",
+          "meaning_zh": "收益可能超出直接付费的使用者，但仍需解释具体如何产生。"
+        }
+      ],
+      "language": [
+        {
+          "chunk": "allocate funds to",
+          "meaning_zh": "向……分配资金",
+          "structure": "allocate + funds + to + 项目",
+          "example_en": "The council could allocate funds to urgent library repairs.",
+          "error_zh": "allocate 是分配；不等于最终资金已有效使用。"
+        },
+        {
+          "chunk": "prioritise essential services",
+          "meaning_zh": "优先保障基本服务",
+          "structure": "prioritise + 名词",
+          "example_en": "Local authorities may need to prioritise essential services.",
+          "error_zh": "不要用 priority 作动词。"
+        },
+        {
+          "chunk": "meet an unmet need",
+          "meaning_zh": "满足尚未得到满足的需求",
+          "structure": "meet + an unmet need",
+          "example_en": "An evening study room could meet an unmet need among shift workers.",
+          "error_zh": "需求不能只用“大家都需要”断言，给具体群体与场景。"
+        },
+        {
+          "chunk": "cover running costs",
+          "meaning_zh": "支付运营成本",
+          "structure": "cover + costs",
+          "example_en": "Ticket income may not cover running costs.",
+          "error_zh": "cover 在此不是遮盖，也不是说把成本降低。"
+        },
+        {
+          "chunk": "divert resources from",
+          "meaning_zh": "把资源从……转走",
+          "structure": "divert + resources + from + 原用途",
+          "example_en": "A large project could divert resources from basic maintenance.",
+          "error_zh": "要给出来源用途，否则代价不具体。"
+        },
+        {
+          "chunk": "be accountable to",
+          "meaning_zh": "对……负有说明责任",
+          "structure": "be accountable to + 人/群体",
+          "example_en": "Public bodies should be accountable to the communities they serve.",
+          "error_zh": "to 接责任对象；for 接需要承担责任的行为或结果。"
+        }
+      ],
+      "model": {
+        "prompt_en": "How should a council choose between a new leisure facility and repairs to existing public buildings?",
+        "answer_en": "The council should first identify which need is least well served. If the town already has several affordable sports centres, repairing unsafe library rooms may offer a stronger immediate benefit. The decision should also include running costs, because opening a building is only the start of providing a service. A smaller leisure project could still be considered if it leaves enough funding for essential repairs. This approach would connect spending to local needs instead of assuming that the newest project is always the most valuable.",
+        "explanation_zh": "用 if 限定判断条件，说明“已有替代服务”怎样影响优先次序，再把预算扩展到运营成本。最后提出折中，而非机械站队。"
+      },
+      "practice": [
+        {
+          "prompt": "补全并解释介词：The council allocated funds ___ repairs but remained accountable ___ residents.",
+          "answer": "to; to",
+          "explanation_zh": "两个 to 分别表示资金去向和责任对象；accountable for 则用于具体行为。"
+        },
+        {
+          "prompt": "“新馆建设费已付清，所以该项目没有后续成本。”问题在哪里？",
+          "answer": "混淆一次建设费用和运营费用。",
+          "explanation_zh": "需要说明人员、清洁和维护等长期支出；不能仅凭建设完成推断资金可持续。"
+        }
+      ],
+      "optional_review": {
+        "prompt_en": "Your school can fund a new computer room or extend library opening hours. Compare the options using need, benefit and running costs.",
+        "checkpoints_zh": [
+          "换一个情境解释相同机制，不照抄原例。",
+          "使用两组新表达；不需要强行塞入全部词组。",
+          "记下仍需提示的用法，可以继续学习其他新内容。"
+        ]
+      },
+      "status": "基础话题补齐 · 原创教学，非当季回忆题",
+      "sourceIds": []
+    },
+    {
+      "id": "society",
+      "title": "社会与代际：参与机会、照护与自主选择",
+      "intro_zh": "社会话题不能把“老年人”“年轻人”写成同质群体。先定义具体障碍，再讨论服务和选择。独立生活不等于完全不需要帮助；社会参与不等于必须工作。以下社区服务设计为教学虚构。",
+      "context_en": "A community centre plans to move all activity bookings online. For some residents, this would make joining a class easier because they could book at any time. Others might find the change difficult if they do not have a suitable device or are unfamiliar with the website. Age alone would not explain every difference: some older residents use digital services confidently, while some younger residents have limited internet access. The centre could keep a telephone option and provide short demonstrations at reception. It could also ask residents which activities they want instead of assuming that everyone of the same age shares the same interests. Support can increase independence when it helps people make their own choices. However, a service that decides everything for its users may do the opposite. A useful discussion of social inclusion therefore considers practical access, personal preferences and the opportunities people have to participate in community life.",
+      "context_zh": "社区中心想把预约全部转到线上。有的人更方便，有的人受设备、网络或操作经验限制。年龄不是唯一解释。保留电话入口、提供演示、询问活动偏好，可以让帮助服务于自主选择。讨论社会包容时，需要同时看实际可达性、偏好和参与机会。",
+      "concepts": [
+        {
+          "term": "social inclusion",
+          "meaning_zh": "不同群体能够参与服务和社区生活，避免因条件受限而被排除。"
+        },
+        {
+          "term": "independence",
+          "meaning_zh": "能够作出并实施自己的选择，不等于拒绝一切支持。"
+        },
+        {
+          "term": "digital exclusion",
+          "meaning_zh": "因设备、网络、技能或设计障碍无法方便使用数字服务。"
+        }
+      ],
+      "language": [
+        {
+          "chunk": "participate in community life",
+          "meaning_zh": "参与社区生活",
+          "structure": "participate in + 活动/领域",
+          "example_en": "Accessible events can help more residents participate in community life.",
+          "error_zh": "participate 不直接接名词，通常需要 in。"
+        },
+        {
+          "chunk": "remove barriers to participation",
+          "meaning_zh": "减少参与障碍",
+          "structure": "barriers to + 名词/-ing",
+          "example_en": "A telephone booking option could remove barriers to participation.",
+          "error_zh": "to 为介词，不接动词原形 participate。"
+        },
+        {
+          "chunk": "maintain independence",
+          "meaning_zh": "保持自主生活能力",
+          "structure": "maintain + independence",
+          "example_en": "Practical support can help people maintain independence.",
+          "error_zh": "independent 是形容词；independence 才是名词。"
+        },
+        {
+          "chunk": "have access to support",
+          "meaning_zh": "能够获得支持",
+          "structure": "have access to + 名词",
+          "example_en": "Residents should have access to support when using the new system.",
+          "error_zh": "access 通常不可数；不是 have an access。"
+        },
+        {
+          "chunk": "take individual needs into account",
+          "meaning_zh": "考虑个体需要",
+          "structure": "take + 名词 + into account",
+          "example_en": "Service design should take individual needs into account.",
+          "error_zh": "不要把一个人的困难推广为整个年龄群体的特征。"
+        },
+        {
+          "chunk": "place pressure on",
+          "meaning_zh": "给……带来压力",
+          "structure": "place pressure on + 对象",
+          "example_en": "Long journeys to appointments can place pressure on family carers.",
+          "error_zh": "pressure 在此通常不可数；具体说明压力来自时间还是费用。"
+        }
+      ],
+      "model": {
+        "prompt_en": "Should public services become entirely digital?",
+        "answer_en": "Digital services can save time, but an entirely online system may exclude people who lack reliable access or need assistance. A community centre, for instance, could make online booking its main option while keeping telephone support. This would preserve the convenience of the new system without assuming that every resident has the same resources. The aim should be to widen participation and maintain personal choice. Staff could then review which channels residents actually use before making further changes.",
+        "explanation_zh": "让步后定位风险人群，用同一服务的多个入口解决具体障碍；结尾加入观察使用情况，避免从印象直接推断所有人的需要。"
+      },
+      "practice": [
+        {
+          "prompt": "修订：Old people cannot use technology, so they must not book online.",
+          "answer": "Some residents may need help with online booking, so the centre should offer support and an alternative channel.",
+          "explanation_zh": "修复群体刻板概括，同时保留个人选择。不能只替换成 more elderly people 仍断言。"
+        },
+        {
+          "prompt": "“帮助别人”什么时候可能削弱自主性？",
+          "answer": "替他们决定全部事项，而不是帮助他们实现自己的选择时。",
+          "explanation_zh": "答案需要区分支持与代替决定，不能把所有帮助都视为依赖。"
+        }
+      ],
+      "optional_review": {
+        "prompt_en": "A university offers all advice through an app. Explain how it could support students with different needs while preserving their choices.",
+        "checkpoints_zh": [
+          "换一个情境解释相同机制，不照抄原例。",
+          "使用两组新表达；不需要强行塞入全部词组。",
+          "记下仍需提示的用法，可以继续学习其他新内容。"
+        ]
+      },
+      "status": "基础话题补齐 · 原创教学，非当季回忆题",
+      "sourceIds": []
+    },
+    {
+      "id": "space",
+      "title": "太空与科研：研究价值怎样与现实需求比较",
+      "intro_zh": "太空题不要直接套“环保很重要”的段落。先分清科学探索、提供具体服务的技术项目和其他公共支出；比较的是预算取舍、目标与不确定性。以下任务设计完全虚构，不报告真实航天项目成果。",
+      "context_en": "Imagine a research agency proposing two projects. One would study a distant object to answer a scientific question. The other would test an instrument intended to improve observations of conditions on Earth. Supporters might defend the first project because basic research can expand knowledge even when its practical uses are unclear. They might defend the second through its proposed service. These are different arguments, and neither should be replaced by a vague claim that all technology is useful. Critics could reasonably ask about cost, uncertainty and competing public needs. The agency should explain what each project aims to discover, how progress would be assessed and which benefits remain uncertain. It should also avoid presenting a possible future application as a guaranteed result. A balanced position can recognise the value of long-term research while demanding clear priorities and responsible spending. The key is to compare specific projects and trade-offs rather than treating space research as a single activity with a single purpose.",
+      "context_zh": "虚构研究机构提出两个项目：回答远处天体的科学问题，以及试验可能用于观测地球状况的仪器。知识价值与具体服务价值是不同论据，都需解释目标、成本与不确定性。可能的未来应用不能当作已保证收益；支持研究也可以要求明确优先次序。",
+      "concepts": [
+        {
+          "term": "basic research",
+          "meaning_zh": "首先为了理解问题而开展的研究，未必有即时用途。"
+        },
+        {
+          "term": "practical application",
+          "meaning_zh": "知识或技术用于解决具体任务的方式。"
+        },
+        {
+          "term": "uncertain returns",
+          "meaning_zh": "投入可能产生价值，但价值的大小与时间尚不确定。"
+        }
+      ],
+      "language": [
+        {
+          "chunk": "advance scientific understanding",
+          "meaning_zh": "推进科学理解",
+          "structure": "advance + scientific understanding of + 问题",
+          "example_en": "The project aims to advance scientific understanding of the object.",
+          "error_zh": "aims to 表示目标，不等于已实现。"
+        },
+        {
+          "chunk": "have practical applications",
+          "meaning_zh": "具有实际应用",
+          "structure": "have + practical applications in + 领域",
+          "example_en": "A new instrument may have practical applications in environmental observation.",
+          "error_zh": "不能以 may 推导“已经证明有效”。"
+        },
+        {
+          "chunk": "justify public investment",
+          "meaning_zh": "论证公共投入的合理性",
+          "structure": "justify + 名词/-ing",
+          "example_en": "Researchers should explain how the project could justify public investment.",
+          "error_zh": "justify 不等于 guarantee；不要写 justify to invest。"
+        },
+        {
+          "chunk": "compete for limited funding",
+          "meaning_zh": "争取有限资金",
+          "structure": "compete for + 资源",
+          "example_en": "Research programmes compete for limited funding with other services.",
+          "error_zh": "for 是争取对象；with 是共同竞争的其他项目。"
+        },
+        {
+          "chunk": "assess long-term value",
+          "meaning_zh": "评估长期价值",
+          "structure": "assess + 名词",
+          "example_en": "A review should assess long-term value as well as immediate cost.",
+          "error_zh": "assess 是评估，不等于确认一定有价值。"
+        },
+        {
+          "chunk": "lead to new insights",
+          "meaning_zh": "带来新认识",
+          "structure": "lead to + 名词/-ing",
+          "example_en": "An unexpected result could lead to new insights.",
+          "error_zh": "lead to 后不能直接接 discover；可用 discoveries。"
+        }
+      ],
+      "model": {
+        "prompt_en": "Is immediate practical benefit the only reason to fund scientific exploration?",
+        "answer_en": "Immediate usefulness is an important consideration, but it should not be the only test for scientific funding. Some projects aim to answer questions whose applications are not yet clear. That uncertainty does not automatically make them worthless, although it does mean that supporters should avoid promising benefits they cannot demonstrate. I would fund a limited range of well-defined exploratory projects alongside essential services, with clear budgets and regular reviews. This would allow room for discovery while recognising that public resources have other valuable uses.",
+        "explanation_zh": "区分“当前用途不清楚”和“毫无价值”，再给有边界的支持：有限范围、明确预算与定期审查。段落不使用虚构科研数据。"
+      },
+      "practice": [
+        {
+          "prompt": "判断推理：The instrument may have practical uses. Therefore, the project will definitely pay for itself.",
+          "answer": "不能推出。",
+          "explanation_zh": "may 与 definitely 强度不一致；有用途也不代表财务收入足以覆盖成本。"
+        },
+        {
+          "prompt": "补全：The programme competes ___ funding and could lead ___ new insights.",
+          "answer": "for; to",
+          "explanation_zh": "compete for 资源；lead to 结果。注意结果仍是可能而非确定。"
+        }
+      ],
+      "optional_review": {
+        "prompt_en": "A city considers funding experimental energy research. Explain knowledge value and uncertainty without claiming that a future invention is guaranteed.",
+        "checkpoints_zh": [
+          "换一个情境解释相同机制，不照抄原例。",
+          "使用两组新表达；不需要强行塞入全部词组。",
+          "记下仍需提示的用法，可以继续学习其他新内容。"
+        ]
+      },
+      "status": "基础话题补齐 · 原创教学，非当季回忆题",
+      "sourceIds": []
+    }
+  ]
+}

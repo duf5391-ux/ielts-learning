@@ -1,0 +1,74 @@
+{
+  "candidateSha256": "2f870d2c02b4ab48a0c64668aef59c19dbbdcb0d446df8a76a497723886b5d85",
+  "browser": "Headless Microsoft Edge 153.0.4234.48",
+  "isolatedStorage": true,
+  "userProfileUsed": false,
+  "remoteNetworkBlocked": true,
+  "checks": [
+    {
+      "name": "New-content project visible with four actual new routes",
+      "status": "pass"
+    },
+    {
+      "name": "Category, direct route, blank gate, save, feedback, reload: pr-jiufen-20260921-origin-language-v1",
+      "status": "pass",
+      "detail": {
+        "fields": 12
+      }
+    },
+    {
+      "name": "Category, direct route, blank gate, save, feedback, reload: pr-jiufen-20260921-adult-literacy-v1",
+      "status": "pass",
+      "detail": {
+        "fields": 1
+      }
+    },
+    {
+      "name": "Category, direct route, blank gate, save, feedback, reload: pr-jiufen-20260921-work-life-balance-v1",
+      "status": "pass",
+      "detail": {
+        "fields": 1
+      }
+    },
+    {
+      "name": "Category, direct route, blank gate, save, feedback, reload: pr-jiufen-20260921-species-extinction-v1",
+      "status": "pass",
+      "detail": {
+        "fields": 1
+      }
+    },
+    {
+      "name": "Mobile content fits: reading",
+      "status": "pass",
+      "detail": {
+        "x": 18,
+        "y": 92.93829345703125,
+        "width": 354,
+        "height": 9868.062683105469
+      }
+    },
+    {
+      "name": "Mobile content fits: writing2",
+      "status": "pass",
+      "detail": {
+        "x": 18,
+        "y": 93.37664794921875,
+        "width": 354,
+        "height": 1503.1094360351562
+      }
+    },
+    {
+      "name": "Material index opens at mobile width: 机经资料/jiufen-reviewed-20260921/index.html",
+      "status": "pass"
+    },
+    {
+      "name": "Material index opens at mobile width: 机经资料/jijing-20260920/index.html",
+      "status": "pass"
+    },
+    {
+      "name": "Material index opens at mobile width: 机经资料/jijing-20260920/writing-task2.html",
+      "status": "pass"
+    }
+  ],
+  "errors": []
+}

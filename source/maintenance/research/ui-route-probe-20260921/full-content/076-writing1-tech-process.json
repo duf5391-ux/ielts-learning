@@ -1,0 +1,166 @@
+{
+  "requested": "writing1-tech-process",
+  "from": [
+    "内容单元",
+    "页面链接"
+  ],
+  "actual": "#writing1-tech-process",
+  "checkedAt": "2026-09-21T12:51:24.377Z",
+  "title": "学习 / 写作 · Task 1 / 流程图：真实制砖分支与雨影形成机制 · IELTS",
+  "label": "学习 / 写作 · Task 1 / 流程图：真实制砖分支与雨影形成机制",
+  "panel": "writing1",
+  "contentRoot": "writing1-tech-process",
+  "headings": [],
+  "controls": [
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "流程图：真实制砖分支与雨影形成机制",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "制砖：并行成形路径与温度阶段",
+      "label": "",
+      "href": "#writing1-case-wc-official-bricks",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "雨影沙漠：越山前后的水分变化",
+      "label": "",
+      "href": "#writing1-case-wc-c21-t3-rainshadow",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "IELTS Academic Writing Sample Tasks (2023) · Task 1C · PDF 5 页",
+      "label": "",
+      "href": "case-assets/writing-official-sample-tasks-2023.pdf#page=5",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "Cambridge IELTS 21 Academic · Test 3 · Task 1 · PDF 73 页",
+      "label": "",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=73",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "练原题：制砖：并行成形路径与温度阶段",
+      "label": "",
+      "href": "#writing1-case-wc-official-bricks",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "练原题：雨影沙漠：越山前后的水分变化",
+      "label": "",
+      "href": "#writing1-case-wc-c21-t3-rainshadow",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "checkbox",
+      "text": "",
+      "label": "我已学习本单元",
+      "href": null,
+      "save": "resource-learned-tech-process",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "checkbox",
+      "text": "",
+      "label": "加入我的复习",
+      "href": null,
+      "save": "resource-review-tech-process",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "我的练习答案／证据／下次要改的一步（可留空）",
+      "href": null,
+      "save": "resource-note-tech-process",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    }
+  ],
+  "visibleText": "流程图：真实制砖分支与雨影形成机制\n0% · 0 / 1 完成\n\n先沿官方制砖图的箭头走一次：clay挖出→metal grid / roller处理→加入sand + water→两种成形方式之一→drying oven→两档kiln→cooling chamber→packaging→delivery。最关键的分支词是原图中的or，不是then。\n\n分支参考答案：The mixture is shaped into bricks either by a wire cutter or by being placed in moulds.如果写“the bricks are cut and then put into moulds”，就把两条并行路径误写成每块砖都经历的连续操作。\n\n热处理参考答案：The bricks are dried for 24 to 48 hours, then heated first at 200–980°C and subsequently at 870–1300°C. They are cooled for 48 to 72 hours before packaging.这里24–48与48–72不可对调；原图的温度区间确有重叠，应忠实保留。\n\n再看剑桥21雨影图。这里不是人工生产，主要用一般现在时描写自然机制：As moist air rises on the windward side, it cools and clouds form. Rain falls before the dry air continues over the mountain towards inland areas.总览应强调迎风坡降雨与背风坡干燥。原图的thousands of kilometres是空间范围，不能改写成“经过数千年”。\n\n对应原题练习：制砖：并行成形路径与温度阶段 · 雨影沙漠：越山前后的水分变化\n\nIELTS Academic Writing Sample Tasks (2023) · Task 1C · PDF 5 页\n\nCambridge IELTS 21 Academic · Test 3 · Task 1 · PDF 73 页\n\n练原题：制砖：并行成形路径与温度阶段\n练原题：雨影沙漠：越山前后的水分变化\n\n本单元的学习记录\n\n 我已学习本单元 加入我的复习\n我的练习答案／证据／下次要改的一步（可留空）",
+  "allContent": "流程图：真实制砖分支与雨影形成机制0% · 0 / 1 完成\n先沿官方制砖图的箭头走一次：clay挖出→metal grid / roller处理→加入sand + water→两种成形方式之一→drying oven→两档kiln→cooling chamber→packaging→delivery。最关键的分支词是原图中的or，不是then。\n分支参考答案：The mixture is shaped into bricks either by a wire cutter or by being placed in moulds.如果写“the bricks are cut and then put into moulds”，就把两条并行路径误写成每块砖都经历的连续操作。\n热处理参考答案：The bricks are dried for 24 to 48 hours, then heated first at 200–980°C and subsequently at 870–1300°C. They are cooled for 48 to 72 hours before packaging.这里24–48与48–72不可对调；原图的温度区间确有重叠，应忠实保留。\n再看剑桥21雨影图。这里不是人工生产，主要用一般现在时描写自然机制：As moist air rises on the windward side, it cools and clouds form. Rain falls before the dry air continues over the mountain towards inland areas.总览应强调迎风坡降雨与背风坡干燥。原图的thousands of kilometres是空间范围，不能改写成“经过数千年”。\n对应原题练习：制砖：并行成形路径与温度阶段 · 雨影沙漠：越山前后的水分变化IELTS Academic Writing Sample Tasks (2023) · Task 1C · PDF 5 页Cambridge IELTS 21 Academic · Test 3 · Task 1 · PDF 73 页练原题：制砖：并行成形路径与温度阶段练原题：雨影沙漠：越山前后的水分变化本单元的学习记录 我已学习本单元 加入我的复习我的练习答案／证据／下次要改的一步（可留空）",
+  "links": [
+    {
+      "text": "制砖：并行成形路径与温度阶段",
+      "href": "#writing1-case-wc-official-bricks"
+    },
+    {
+      "text": "雨影沙漠：越山前后的水分变化",
+      "href": "#writing1-case-wc-c21-t3-rainshadow"
+    },
+    {
+      "text": "IELTS Academic Writing Sample Tasks (2023) · Task 1C · PDF 5 页",
+      "href": "case-assets/writing-official-sample-tasks-2023.pdf#page=5"
+    },
+    {
+      "text": "Cambridge IELTS 21 Academic · Test 3 · Task 1 · PDF 73 页",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=73"
+    },
+    {
+      "text": "练原题：制砖：并行成形路径与温度阶段",
+      "href": "#writing1-case-wc-official-bricks"
+    },
+    {
+      "text": "练原题：雨影沙漠：越山前后的水分变化",
+      "href": "#writing1-case-wc-c21-t3-rainshadow"
+    }
+  ],
+  "details": [],
+  "saveFields": [
+    "resource-learned-tech-process",
+    "resource-review-tech-process",
+    "resource-note-tech-process"
+  ],
+  "images": [],
+  "audio": [],
+  "viewport": 1440,
+  "documentWidth": 1440
+}

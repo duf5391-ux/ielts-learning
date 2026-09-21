@@ -1,0 +1,166 @@
+{
+  "requested": "writing1-tech-precision",
+  "from": [
+    "内容单元",
+    "页面链接"
+  ],
+  "actual": "#writing1-tech-precision",
+  "checkedAt": "2026-09-21T12:51:23.632Z",
+  "title": "学习 / 写作 · Task 1 / 数据精确表达：真实表格里的百分点、比例和近似值 · IELTS",
+  "label": "学习 / 写作 · Task 1 / 数据精确表达：真实表格里的百分点、比例和近似值",
+  "panel": "writing1",
+  "contentRoot": "writing1-tech-precision",
+  "headings": [],
+  "controls": [
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "数据精确表达：真实表格里的百分点、比例和近似值",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "自行车使用率：年龄比较与百分点差",
+      "label": "",
+      "href": "#writing1-case-wc-official-bicycle",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "图书馆用户与满意度：两图的不同分母",
+      "label": "",
+      "href": "#writing1-case-wc-c21-t4-library",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "IELTS Academic Writing — modified large print · Task 1 · PDF 4 页",
+      "label": "",
+      "href": "case-assets/writing-official-large-print.pdf#page=4",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "Cambridge IELTS 21 Academic · Test 4 · Task 1 · PDF 95 页",
+      "label": "",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=95",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "练原题：自行车使用率：年龄比较与百分点差",
+      "label": "",
+      "href": "#writing1-case-wc-official-bicycle",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "练原题：图书馆用户与满意度：两图的不同分母",
+      "label": "",
+      "href": "#writing1-case-wc-c21-t4-library",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "checkbox",
+      "text": "",
+      "label": "我已学习本单元",
+      "href": null,
+      "save": "resource-learned-tech-precision",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "checkbox",
+      "text": "",
+      "label": "加入我的复习",
+      "href": null,
+      "save": "resource-review-tech-precision",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "我的练习答案／证据／下次要改的一步（可留空）",
+      "href": null,
+      "save": "resource-note-tech-precision",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    }
+  ],
+  "visibleText": "数据精确表达：真实表格里的百分点、比例和近似值\n0% · 0 / 1 完成\n\n官方自行车表格的10–17岁一行：male 42.2%，female 24.6%。差值标准答案是42.2−24.6=17.6个百分点。参考句：The male participation rate was 17.6 percentage points higher than the female rate among 10–17-year-olds.\n\n“higher by 17.6%”不是同一意思：相对差需要以24.6为基数，(42.2−24.6)/24.6≈71.5%。原题描述没有必要引入这个更复杂的换算；用17.6 percentage points既直接又准确。0–9岁51.3%与50.3%之差则只有1.0个百分点。\n\n剑桥21图书馆表也可核对：staff helpfulness的very satisfied为95%，opening hours为65%，差30个百分点。The proportion who were very satisfied with staff helpfulness was 30 percentage points higher than the figure for opening hours.这是静态比较，不能写“rose by 30 percentage points”，因为题中没有前后年份。\n\n读精确表格按给定小数写；读粗线图用about/approximately。两个不同群体的百分比相加前先检查分母：图书馆25%全日制研究生+16%非全日制研究生可以合为41%，因为二者是同一用户总体中的互斥类别；自行车不同年龄组的比例不能随意相加成总体骑行率。\n\n对应原题练习：自行车使用率：年龄比较与百分点差 · 图书馆用户与满意度：两图的不同分母\n\nIELTS Academic Writing — modified large print · Task 1 · PDF 4 页\n\nCambridge IELTS 21 Academic · Test 4 · Task 1 · PDF 95 页\n\n练原题：自行车使用率：年龄比较与百分点差\n练原题：图书馆用户与满意度：两图的不同分母\n\n本单元的学习记录\n\n 我已学习本单元 加入我的复习\n我的练习答案／证据／下次要改的一步（可留空）",
+  "allContent": "数据精确表达：真实表格里的百分点、比例和近似值0% · 0 / 1 完成\n官方自行车表格的10–17岁一行：male 42.2%，female 24.6%。差值标准答案是42.2−24.6=17.6个百分点。参考句：The male participation rate was 17.6 percentage points higher than the female rate among 10–17-year-olds.\n“higher by 17.6%”不是同一意思：相对差需要以24.6为基数，(42.2−24.6)/24.6≈71.5%。原题描述没有必要引入这个更复杂的换算；用17.6 percentage points既直接又准确。0–9岁51.3%与50.3%之差则只有1.0个百分点。\n剑桥21图书馆表也可核对：staff helpfulness的very satisfied为95%，opening hours为65%，差30个百分点。The proportion who were very satisfied with staff helpfulness was 30 percentage points higher than the figure for opening hours.这是静态比较，不能写“rose by 30 percentage points”，因为题中没有前后年份。\n读精确表格按给定小数写；读粗线图用about/approximately。两个不同群体的百分比相加前先检查分母：图书馆25%全日制研究生+16%非全日制研究生可以合为41%，因为二者是同一用户总体中的互斥类别；自行车不同年龄组的比例不能随意相加成总体骑行率。\n对应原题练习：自行车使用率：年龄比较与百分点差 · 图书馆用户与满意度：两图的不同分母IELTS Academic Writing — modified large print · Task 1 · PDF 4 页Cambridge IELTS 21 Academic · Test 4 · Task 1 · PDF 95 页练原题：自行车使用率：年龄比较与百分点差练原题：图书馆用户与满意度：两图的不同分母本单元的学习记录 我已学习本单元 加入我的复习我的练习答案／证据／下次要改的一步（可留空）",
+  "links": [
+    {
+      "text": "自行车使用率：年龄比较与百分点差",
+      "href": "#writing1-case-wc-official-bicycle"
+    },
+    {
+      "text": "图书馆用户与满意度：两图的不同分母",
+      "href": "#writing1-case-wc-c21-t4-library"
+    },
+    {
+      "text": "IELTS Academic Writing — modified large print · Task 1 · PDF 4 页",
+      "href": "case-assets/writing-official-large-print.pdf#page=4"
+    },
+    {
+      "text": "Cambridge IELTS 21 Academic · Test 4 · Task 1 · PDF 95 页",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=95"
+    },
+    {
+      "text": "练原题：自行车使用率：年龄比较与百分点差",
+      "href": "#writing1-case-wc-official-bicycle"
+    },
+    {
+      "text": "练原题：图书馆用户与满意度：两图的不同分母",
+      "href": "#writing1-case-wc-c21-t4-library"
+    }
+  ],
+  "details": [],
+  "saveFields": [
+    "resource-learned-tech-precision",
+    "resource-review-tech-precision",
+    "resource-note-tech-precision"
+  ],
+  "images": [],
+  "audio": [],
+  "viewport": 1440,
+  "documentWidth": 1440
+}

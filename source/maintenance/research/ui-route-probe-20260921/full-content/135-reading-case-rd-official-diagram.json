@@ -1,0 +1,233 @@
+{
+  "requested": "reading-case-rd-official-diagram",
+  "from": [
+    "内容单元",
+    "页面链接",
+    "每日安排目标"
+  ],
+  "actual": "#reading-case-rd-official-diagram",
+  "checkedAt": "2026-09-21T12:52:08.999Z",
+  "title": "练习 / 阅读 / 蜣螂隧道：用深度和形状读图 · IELTS",
+  "label": "练习 / 阅读 / 蜣螂隧道：用深度和形状读图",
+  "panel": "practice-reading",
+  "contentRoot": "reading-case-rd-official-diagram",
+  "headings": [
+    {
+      "tag": "H4",
+      "text": "共用选项 · 原题 6、7、8",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "对照答案，回到证据",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "1",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "2",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "3",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "词语与搭配",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "句子精读",
+      "visible": false
+    }
+  ],
+  "controls": [
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "蜣螂隧道：用深度和形状读图未作答\n图示标注 · 3 段 · 338 词 · 3 题 · 同篇原文另有裁切",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "Cambridge Academic Reading official sample · Dung beetles",
+      "label": "",
+      "href": "case-assets/reading-official-cambridge-zip-115012_Academic_Reading_sample_task_-_Diagram_label_completion__2_.pdf#page=1",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "",
+      "label": "",
+      "href": "case-assets/official-diagram-original.png",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "case-rd-official-diagram-q1",
+      "type": "text",
+      "text": "",
+      "label": "第 6 题作答",
+      "href": null,
+      "save": "case-rd-official-diagram-q1",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "case-rd-official-diagram-q2",
+      "type": "text",
+      "text": "",
+      "label": "第 7 题作答",
+      "href": null,
+      "save": "case-rd-official-diagram-q2",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "case-rd-official-diagram-q3",
+      "type": "text",
+      "text": "",
+      "label": "第 8 题作答",
+      "href": null,
+      "save": "case-rd-official-diagram-q3",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "checkbox",
+      "text": "",
+      "label": "",
+      "href": null,
+      "save": "case-rd-official-diagram-done",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "hidden",
+      "text": "",
+      "label": "",
+      "href": null,
+      "save": "case-rd-official-diagram-saved-at",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "保留作答，查看答案",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "核对原答案页",
+      "label": "",
+      "href": "case-assets/reading-official-cambridge-zip-115012_Academic_Reading_sample_task_-_Diagram_label_completion__2_.pdf#page=3",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "case-rd-official-diagram-revision",
+      "type": "textarea",
+      "text": "",
+      "label": "我的修订／证据笔记",
+      "href": null,
+      "save": "case-rd-official-diagram-revision",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "材料精读 · 内容与词句",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    }
+  ],
+  "visibleText": "蜣螂隧道：用深度和形状读图未作答\n图示标注 · 3 段 · 338 词 · 3 题 · 同篇原文另有裁切\n0% · 0 / 1 完成\n\n官方样题 · Cambridge Academic Reading official sample · Dung beetles · PDF 第 1, 2 页\n\nLabel the tunnels on the diagram below using words from the box. Write your answers in boxes 6–8. 按原图位置作答，词框完整保留。\n\n原官方样题完整保留连续三段，图示与下一组表格为同篇材料的不同正式题组，不计作两篇独立原文。\n\n1Introducing dung beetles into a pasture is a simple process: approximately 1,500 beetles are released, a handful at a time, into fresh cow pats in the cow pasture. The beetles immediately disappear beneath the pats digging and tunnelling and, if they successfully adapt to their new environment, soon become a permanent, self-sustaining part of the local ecology. In time they multiply and within three or four years the benefits to the pasture are obvious.\n\n2Dung beetles work from the inside of the pat so they are sheltered from predators such as birds and foxes. Most species burrow into the soil and bury dung in tunnels directly underneath the pats, which are hollowed out from within. Some large species originating from France excavate tunnels to a depth of approximately 30 cm below the dung pat. These beetles make sausage-shaped brood chambers along the tunnels. The shallowest tunnels belong to a much smaller Spanish species that buries dung in chambers that hang like fruit from the branches of a pear tree. South African beetles dig narrow tunnels of approximately 20 cm below the surface of the pat. Some surface-dwelling beetles, including a South African species, cut perfectly-shaped balls from the pat, which are rolled away and attached to the bases of plants.\n\n3For maximum dung burial in spring, summer and autumn, farmers require a variety of species with overlapping periods of activity. In the cooler environments of the state of Victoria, the large French species (2.5 cms long), is matched with smaller (half this size), temperate-climate Spanish species. The former are slow to recover from the winter cold and produce only one or two generations of offspring from late spring until autumn. The latter, which multiply rapidly in early spring, produce two to five generations annually. The South African ball-rolling species, being a sub-tropical beetle, prefers the climate of northern and coastal New South Wales where it commonly works with the South African tunneling species. In warmer climates, many species are active for longer periods of the year.\n\n原题 Glossary：dung — the droppings or excreta of animals\n\n原题 Glossary：cow pats — droppings of cows\n\n点击图示可查看大图。\n共用选项 · 原题 6、7、8\nFrench\nSpanish\nMediterranean\nSouth African\nAustralian native\nSouth African ball roller\n\n6. 原图标号6所指隧道的种类\n\n第 6 题作答\n\n7. 原图标号7所指隧道的种类\n\n第 7 题作答\n\n8. 原图标号8所指隧道的种类\n\n第 8 题作答\n保留作答，查看答案\n\n先作答；不确定的题也可记录判断与疑点。\n\n材料精读 · 内容与词句",
+  "allContent": "蜣螂隧道：用深度和形状读图未作答图示标注 · 3 段 · 338 词 · 3 题 · 同篇原文另有裁切0% · 0 / 1 完成官方样题 · Cambridge Academic Reading official sample · Dung beetles · PDF 第 1, 2 页Label the tunnels on the diagram below using words from the box. Write your answers in boxes 6–8. 按原图位置作答，词框完整保留。原官方样题完整保留连续三段，图示与下一组表格为同篇材料的不同正式题组，不计作两篇独立原文。1Introducing dung beetles into a pasture is a simple process: approximately 1,500 beetles are released, a handful at a time, into fresh cow pats in the cow pasture. The beetles immediately disappear beneath the pats digging and tunnelling and, if they successfully adapt to their new environment, soon become a permanent, self-sustaining part of the local ecology. In time they multiply and within three or four years the benefits to the pasture are obvious.2Dung beetles work from the inside of the pat so they are sheltered from predators such as birds and foxes. Most species burrow into the soil and bury dung in tunnels directly underneath the pats, which are hollowed out from within. Some large species originating from France excavate tunnels to a depth of approximately 30 cm below the dung pat. These beetles make sausage-shaped brood chambers along the tunnels. The shallowest tunnels belong to a much smaller Spanish species that buries dung in chambers that hang like fruit from the branches of a pear tree. South African beetles dig narrow tunnels of approximately 20 cm below the surface of the pat. Some surface-dwelling beetles, including a South African species, cut perfectly-shaped balls from the pat, which are rolled away and attached to the bases of plants.3For maximum dung burial in spring, summer and autumn, farmers require a variety of species with overlapping periods of activity. In the cooler environments of the state of Victoria, the large French species (2.5 cms long), is matched with smaller (half this size), temperate-climate Spanish species. The former are slow to recover from the winter cold and produce only one or two generations of offspring from late spring until autumn. The latter, which multiply rapidly in early spring, produce two to five generations annually. The South African ball-rolling species, being a sub-tropical beetle, prefers the climate of northern and coastal New South Wales where it commonly works with the South African tunneling species. In warmer climates, many species are active for longer periods of the year.原题 Glossary：dung — the droppings or excreta of animals原题 Glossary：cow pats — droppings of cows点击图示可查看大图。共用选项 · 原题 6、7、8FrenchSpanishMediterraneanSouth AfricanAustralian nativeSouth African ball roller6. 原图标号6所指隧道的种类第 6 题作答7. 原图标号7所指隧道的种类第 7 题作答8. 原图标号8所指隧道的种类第 8 题作答保留作答，查看答案先作答；不确定的题也可记录判断与疑点。对照答案，回到证据第 6 题 · South African左侧隧道约20cm，匹配South African；ball roller把球滚离粪堆，不能因同国别选它。South African beetles dig narrow tunnels of approximately 20 cm below the surface of the pat.第 7 题 · French中间最深约30cm，与French对应，sausage-shaped chambers补充形状证据。Some large species originating from France excavate tunnels to a depth of approximately 30 cm below the dung pat.第 8 题 · Spanish右侧最浅且分叉如梨树，matching shallowest；不是用甲虫体长当隧道深度。The shallowest tunnels belong to a much smaller Spanish species核对原答案页我的修订／证据笔记材料精读 · 内容与词句这段材料先写蜣螂如何被引入牧场，再从地下隧道、育幼室和滚粪球的位置解释不同工作方式，最后把物种差异联系到季节配合。理解重点是条件、空间关系和形态之间的联系。1Introducing dung beetles into a pasture is a simple process: approximately 1,500 beetles are released, a handful at a time, into fresh cow pats in the cow pasture. The beetles immediately disappear beneath the pats digging and tunnelling and, if they successfully adapt to their new environment, soon become a permanent, self-sustaining part of the local ecology. In time they multiply and within three or four years the benefits to the pasture are obvious.第1段说明引入过程及建立种群的条件：把甲虫少量分批放入新鲜牛粪后，它们会向下挖掘；只有成功适应新环境，才会形成能自行维持的本地生态组成。三四年后收益明显是文中描述的时间尺度，不能略去适应条件。2Dung beetles work from the inside of the pat so they are sheltered from predators such as birds and foxes. Most species burrow into the soil and bury dung in tunnels directly underneath the pats, which are hollowed out from within. Some large species originating from France excavate tunnels to a depth of approximately 30 cm below the dung pat. These beetles make sausage-shaped brood chambers along the tunnels. The shallowest tunnels belong to a much smaller Spanish species that buries dung in chambers that hang like fruit from the branches of a pear tree. South African beetles dig narrow tunnels of approximately 20 cm below the surface of the pat. Some surface-dwelling beetles, including a South African species, cut perfectly-shaped balls from the pat, which are rolled away and attached to the bases of plants.第2段从共同的遮蔽位置写到不同物种的挖掘形态：法国种向下挖约30厘米并形成香肠状育幼室；西班牙种较浅，育幼室如树枝上悬挂的果实；南非种既有挖窄隧道的，也有把粪球滚离粪堆并固定在植物基部的。文中的形状比喻帮助理解位置，不表示真的长成果实。3For maximum dung burial in spring, summer and autumn, farmers require a variety of species with overlapping periods of activity. In the cooler environments of the state of Victoria, the large French species (2.5 cms long), is matched with smaller (half this size), temperate-climate Spanish species. The former are slow to recover from the winter cold and produce only one or two generations of offspring from late spring until autumn. The latter, which multiply rapidly in early spring, produce two to five generations annually. The South African ball-rolling species, being a sub-tropical beetle, prefers the climate of northern and coastal New South Wales where it commonly works with the South African tunneling species. In warmer climates, many species are active for longer periods of the year.第3段说明农民为什么需要活动期重叠的多种甲虫：法国种从冬季恢复较慢，西班牙种早春繁殖较快，二者配合可延长处理粪便的季节覆盖；亚热带的南非滚粪球种适应较暖区域。former和latter分别回指前面的法国种与西班牙种。词语与搭配adapt to their new environment适应它们的新环境adapt to后接名词性环境；这里是种群能否建立的条件，而不是释放后必然成功。a permanent, self-sustaining part一个长期存在、能自行维持的组成部分self-sustaining指能够维持自身延续；不能由此推出对生态的一切影响都无须观察。to a depth of approximately 30 cm达到约30厘米的深度to a depth of表示向下到达的深度；approximately保留近似性，文中起算位置是牛粪堆之下。overlapping periods of activity相互重叠的活动期overlapping表示时间有交集，不表示所有物种全年同时活动。句子精读The beetles immediately disappear beneath the pats digging and tunnelling and, if they successfully adapt to their new environment, soon become a permanent, self-sustaining part of the local ecology.甲虫立即钻到牛粪堆下面挖掘、开辟隧道；如果成功适应新环境，它们很快就会成为当地生态中长期存在、能够自行维持的一部分。digging and tunnelling补充甲虫钻入后进行的动作；if从句限定后面的become。they两次都指引入的甲虫，不能把“立刻钻入”与“长期建立种群”当成同一时间、同一确定程度的结果。The latter, which multiply rapidly in early spring, produce two to five generations annually.后者，也就是西班牙物种，在早春迅速繁殖，每年产生两至五代后代。The latter回指与法国种并列的西班牙种；which从句补充早春繁殖快的特点。annually修饰一年内产生的代数，不是说每次繁殖都产生两至五代。读完讲解，可以把原文连起来再读一次；想保留的词句可使用已有收藏功能。",
+  "links": [
+    {
+      "text": "Cambridge Academic Reading official sample · Dung beetles",
+      "href": "case-assets/reading-official-cambridge-zip-115012_Academic_Reading_sample_task_-_Diagram_label_completion__2_.pdf#page=1"
+    },
+    {
+      "text": "",
+      "href": "case-assets/official-diagram-original.png"
+    },
+    {
+      "text": "核对原答案页",
+      "href": "case-assets/reading-official-cambridge-zip-115012_Academic_Reading_sample_task_-_Diagram_label_completion__2_.pdf#page=3"
+    }
+  ],
+  "details": [
+    {
+      "id": "material-reading-rd-official-diagram",
+      "title": "材料精读 · 内容与词句",
+      "open": false,
+      "visible": true
+    }
+  ],
+  "saveFields": [
+    "case-rd-official-diagram-q1",
+    "case-rd-official-diagram-q2",
+    "case-rd-official-diagram-q3",
+    "case-rd-official-diagram-done",
+    "case-rd-official-diagram-saved-at",
+    "case-rd-official-diagram-revision"
+  ],
+  "images": [
+    {
+      "src": "case-assets/official-diagram-original.png",
+      "alt": "蜣螂隧道：用深度和形状读图 · 原题图示，点击查看大图",
+      "visible": true,
+      "complete": false,
+      "width": 0
+    }
+  ],
+  "audio": [],
+  "viewport": 1440,
+  "documentWidth": 1440
+}

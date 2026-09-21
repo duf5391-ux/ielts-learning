@@ -1,0 +1,287 @@
+{
+  "requested": "learn-background_travel_tourism",
+  "from": [
+    "内容单元"
+  ],
+  "actual": "#learn-background_travel_tourism",
+  "checkedAt": "2026-09-21T12:52:34.053Z",
+  "title": "练习 / 阅读 / 旅行活动：一份骑行说明的完整语境 · IELTS",
+  "label": "练习 / 阅读 / 旅行活动：一份骑行说明的完整语境",
+  "panel": "practice-reading",
+  "contentRoot": "learn-background_travel_tourism",
+  "headings": [
+    {
+      "tag": "H4",
+      "text": "集体骑行：时间安排、规则和援助",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "原材料 · 第1页",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "原材料 · 第2页",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "原题",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "原答案",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "具体解释",
+      "visible": false
+    },
+    {
+      "tag": "H3",
+      "text": "我的原题练习记录",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "核对并修订",
+      "visible": false
+    }
+  ],
+  "controls": [
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "旅行活动：一份骑行说明的完整语境",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "完成后核对答案与解释",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "",
+      "label": "",
+      "href": "原始参考/support-fc920067-cambridge-zip-115020_General_Training_Reading_sample_task_-_Identifying_information.pdf#page=1",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "",
+      "label": "",
+      "href": "原始参考/support-fc920067-cambridge-zip-115020_General_Training_Reading_sample_task_-_Identifying_information.pdf#page=1",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "我的理解／想记住的表达（可留空）\n暂时不会",
+      "href": null,
+      "save": "enrich-background_travel_tourism-answer",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "暂时不会",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "checkbox",
+      "text": "",
+      "label": "",
+      "href": null,
+      "save": "enrich-background_travel_tourism-frozen",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "text",
+      "text": "",
+      "label": "",
+      "href": null,
+      "save": "enrich-background_travel_tourism-saved-at",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "保留首稿，打开反馈",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "补充理解／新学到的表达",
+      "href": null,
+      "save": "enrich-background_travel_tourism-revision",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "可选：记录或再练一次",
+      "label": "",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "我的例子／下次回顾记录",
+      "href": null,
+      "save": "enrich-background_travel_tourism-transfer",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "可选：记录或再练一次",
+      "label": "",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SELECT",
+      "id": "",
+      "type": "select-one",
+      "text": "请选择内容或语境没理解词义或声音没认出词汇选择／搭配不稳证据、逻辑或展开不足语法或句子组织问题暂时独立完成，隔天再检验",
+      "label": "这次最需要补什么？请选择内容或语境没理解词义或声音没认出词汇选择／搭配不稳证据、逻辑或展开不足语法或句子组织问题暂时独立完成，隔天再检验",
+      "href": null,
+      "save": "enrich-background_travel_tourism-diagnosis",
+      "visible": false,
+      "disabled": false,
+      "required": false,
+      "options": [
+        {
+          "value": "",
+          "label": "请选择"
+        },
+        {
+          "value": "内容或语境没理解",
+          "label": "内容或语境没理解"
+        },
+        {
+          "value": "词义或声音没认出",
+          "label": "词义或声音没认出"
+        },
+        {
+          "value": "词汇选择／搭配不稳",
+          "label": "词汇选择／搭配不稳"
+        },
+        {
+          "value": "证据、逻辑或展开不足",
+          "label": "证据、逻辑或展开不足"
+        },
+        {
+          "value": "语法或句子组织问题",
+          "label": "语法或句子组织问题"
+        },
+        {
+          "value": "暂时独立完成，隔天再检验",
+          "label": "暂时独立完成，隔天再检验"
+        }
+      ]
+    }
+  ],
+  "visibleText": "旅行活动：一份骑行说明的完整语境\n0% · 0 / 1 完成\n\n正式GT考试样题用于活动信息理解，不是分级读物；规则、收费、协助方式都在完整原文中。\n\n集体骑行：时间安排、规则和援助\n\n以下为正式样题原始材料。先按原题要求作答，再看原答案与对应解释；材料描述的是原文中的语境，不把历史数据当作当前事实。\n\n原材料 · 第1页\n\nRead the text below and answer Questions 1-8.\n\nLondon to Brighton Bike Ride\n\nThe start The bike ride starts at Clapham Common tube station. • Your Start Time is indicated by the colour of your body number in this pack. It is also printed on the address label of the envelope. Please arrive no earlier than 30 minutes before that time. • We allocate an equal number of cyclists for each Start Time to ensure a steady flow. Please keep to the time you've been given so we can keep to our schedule and avoid delaying other riders and prevent 'bunching' further down the route. • An Information Point, toilets and refreshment stands will be open from very early in the day.\n\nRide carefully We put together as many facilities as possible to help ensure you have a troublefree day. But we also rely on you to ride safely and with due consideration for other cyclists and road users. Although many roads are closed to oncoming traffic, this is not always the case and you should be aware of the possibility that there could be vehicles coming in the opposite direction. Please do not attempt reckless overtaking whilst riding – remember it is NOT a race.\n\nFollow all instructions Every effort is made to ensure that the route is well signed and marshalled. Please obey all directions from police and marshals on the route. If you hear a motorcycle marshal blow his/her whistle three times, move left.\n\nWear a helmet Every year we are delighted to see more riders wearing protective helmets, but we would like to see every cyclist on the ride wearing one. More than half of reported injuries in cycling accidents are to the head, and a helmet gives the best protection when the head hits the ground.\n\nAttracting assistance If you have an accident, ask a marshal for help; they are in contact with the support/emergency services. To call for help from our motorcycle marshals, give a 'thumbs down' signal. The marshal will do all he/she can to help, providing he/she is not already going to a more serious accident. If a motorcycle marshal slows down to help you, but you have just stopped for a rest and don't need help, please give a 'thumbs up' signal and he/she will carry on. Remember – thumbs down means 'I need help'.\n\n原材料 · 第2页\n\nIn case of breakdown Refer to your route map and make your way to a Mechanics Point. Mechanical assistance is free when you show your Rider Identity Card; you just pay for the parts.\n\nRefreshment stops Look out for these along the route. Most are organised by voluntary clubs and their prices give you real value for money. They are also raising money for their local communities and the British Heart Foundation, so please give them your support.\n\nRain or shine – be prepared In the event of very bad weather, watch out for signs to wet weather stations en route. Good waterproofs, like a cycle cape, are essential. Our first aid staff can only supply bin liners and by the time you get one you may be very wet. However, the English summer is unpredictable – it may also be hot, so don't forget the sun protection cream as well!\n\nIf you have to drop out We will try to pick up your bike for you on the day. Call Bike Events (01225 310859) no more than two weeks after the ride to arrange collection. Sorry, we cannot guarantee this service nor can we accept liability for any loss or damage to your bike. Bike Events will hold your bike for three months, after which it may be disposed of. You will be charged for all costs incurred in returning your cycle.\n\n原题\n\nQuestions 1 – 8\n\nDo the following statements agree with the information given in the text?\n\nIn boxes 1-8 on your answer sheet, write\n\nTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information on this\n\n1 You should not arrive more than half an hour before your allocated starting time.\n\n2 Your Rider Identity Card will be sent to you before the event.\n\n3 Some roads may have normal traffic flow on them.\n\n4 Helmets are compulsory for all participants.\n\n5 Refreshments are free to all participants during the ride.\n\n6 If you need a rest you must get off the road.\n\n7 First aid staff can provide cycle capes.\n\n8 Bike Events will charge you for the return of your bike.\n\n完成后核对答案与解释\n我的原题练习记录\n\n按上方真实题目留下自己的回答或录音简记；参考内容用于对照，不必复述示范中的经历。\n\n我的理解／想记住的表达（可留空）\n暂时不会\n保留首稿，打开反馈\n\n理解题可默想，不要求提交。",
+  "allContent": "旅行活动：一份骑行说明的完整语境0% · 0 / 1 完成正式GT考试样题用于活动信息理解，不是分级读物；规则、收费、协助方式都在完整原文中。集体骑行：时间安排、规则和援助以下为正式样题原始材料。先按原题要求作答，再看原答案与对应解释；材料描述的是原文中的语境，不把历史数据当作当前事实。原材料 · 第1页Read the text below and answer Questions 1-8.London to Brighton Bike RideThe start The bike ride starts at Clapham Common tube station. • Your Start Time is indicated by the colour of your body number in this pack. It is also printed on the address label of the envelope. Please arrive no earlier than 30 minutes before that time. • We allocate an equal number of cyclists for each Start Time to ensure a steady flow. Please keep to the time you've been given so we can keep to our schedule and avoid delaying other riders and prevent 'bunching' further down the route. • An Information Point, toilets and refreshment stands will be open from very early in the day.Ride carefully We put together as many facilities as possible to help ensure you have a troublefree day. But we also rely on you to ride safely and with due consideration for other cyclists and road users. Although many roads are closed to oncoming traffic, this is not always the case and you should be aware of the possibility that there could be vehicles coming in the opposite direction. Please do not attempt reckless overtaking whilst riding – remember it is NOT a race.Follow all instructions Every effort is made to ensure that the route is well signed and marshalled. Please obey all directions from police and marshals on the route. If you hear a motorcycle marshal blow his/her whistle three times, move left.Wear a helmet Every year we are delighted to see more riders wearing protective helmets, but we would like to see every cyclist on the ride wearing one. More than half of reported injuries in cycling accidents are to the head, and a helmet gives the best protection when the head hits the ground.Attracting assistance If you have an accident, ask a marshal for help; they are in contact with the support/emergency services. To call for help from our motorcycle marshals, give a 'thumbs down' signal. The marshal will do all he/she can to help, providing he/she is not already going to a more serious accident. If a motorcycle marshal slows down to help you, but you have just stopped for a rest and don't need help, please give a 'thumbs up' signal and he/she will carry on. Remember – thumbs down means 'I need help'.原材料 · 第2页In case of breakdown Refer to your route map and make your way to a Mechanics Point. Mechanical assistance is free when you show your Rider Identity Card; you just pay for the parts.Refreshment stops Look out for these along the route. Most are organised by voluntary clubs and their prices give you real value for money. They are also raising money for their local communities and the British Heart Foundation, so please give them your support.Rain or shine – be prepared In the event of very bad weather, watch out for signs to wet weather stations en route. Good waterproofs, like a cycle cape, are essential. Our first aid staff can only supply bin liners and by the time you get one you may be very wet. However, the English summer is unpredictable – it may also be hot, so don't forget the sun protection cream as well!If you have to drop out We will try to pick up your bike for you on the day. Call Bike Events (01225 310859) no more than two weeks after the ride to arrange collection. Sorry, we cannot guarantee this service nor can we accept liability for any loss or damage to your bike. Bike Events will hold your bike for three months, after which it may be disposed of. You will be charged for all costs incurred in returning your cycle.原题Questions 1 – 8Do the following statements agree with the information given in the text?In boxes 1-8 on your answer sheet, writeTRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information on this1 You should not arrive more than half an hour before your allocated starting time.2 Your Rider Identity Card will be sent to you before the event.3 Some roads may have normal traffic flow on them.4 Helmets are compulsory for all participants.5 Refreshments are free to all participants during the ride.6 If you need a rest you must get off the road.7 First aid staff can provide cycle capes.8 Bike Events will charge you for the return of your bike.完成后核对答案与解释原答案Answers1 TRUE2 NOT GIVEN3 TRUE4 FALSE5 FALSE6 NOT GIVEN7 FALSE8 TRUE具体解释Q1 TRUE：no earlier than30minutes与not more than half an hour同义。Q2 NOT GIVEN：文中说出示身份卡，但没说寄送时间。Q3 TRUE：many roads closed但not always说明有正常车流。Q4 FALSE：would like to see every cyclist wearing是倡议，不是compulsory。Q5 FALSE：prices表明收费。Q6 NOT GIVEN：停下休息的手势不是必须离开路面。Q7 FALSE：急救员只能给bin liners；Q8 TRUE：charged for all costs对应需付运回费用。完整原件：集体骑行：时间安排、规则和援助 · 完整题面、原材料与答案集体骑行：时间安排、规则和援助 · 完整题面、原材料与答案我的原题练习记录按上方真实题目留下自己的回答或录音简记；参考内容用于对照，不必复述示范中的经历。我的理解／想记住的表达（可留空）暂时不会保留首稿，打开反馈理解题可默想，不要求提交。核对并修订回到上方原题与具体示范，核对是否回应问题、证据是否准确，再改写自己的回答。补充理解／新学到的表达可选：记录或再练一次我的例子／下次回顾记录可选：记录或再练一次这次最需要补什么？请选择内容或语境没理解词义或声音没认出词汇选择／搭配不稳证据、逻辑或展开不足语法或句子组织问题暂时独立完成，隔天再检验",
+  "links": [
+    {
+      "text": "集体骑行：时间安排、规则和援助 · 完整题面、原材料与答案",
+      "href": "原始参考/support-fc920067-cambridge-zip-115020_General_Training_Reading_sample_task_-_Identifying_information.pdf#page=1"
+    },
+    {
+      "text": "集体骑行：时间安排、规则和援助 · 完整题面、原材料与答案",
+      "href": "原始参考/support-fc920067-cambridge-zip-115020_General_Training_Reading_sample_task_-_Identifying_information.pdf#page=1"
+    }
+  ],
+  "details": [
+    {
+      "id": "answer-check-38",
+      "title": "完成后核对答案与解释",
+      "open": false,
+      "answerGate": "[\"enrich-background_travel_tourism-answer\"]",
+      "visible": true
+    },
+    {
+      "id": "",
+      "title": "可选：记录或再练一次",
+      "open": false,
+      "visible": false
+    },
+    {
+      "id": "",
+      "title": "可选：记录或再练一次",
+      "open": false,
+      "visible": false
+    }
+  ],
+  "saveFields": [
+    "enrich-background_travel_tourism-answer",
+    "enrich-background_travel_tourism-frozen",
+    "enrich-background_travel_tourism-saved-at",
+    "enrich-background_travel_tourism-revision",
+    "enrich-background_travel_tourism-transfer",
+    "enrich-background_travel_tourism-diagnosis"
+  ],
+  "images": [],
+  "audio": [],
+  "viewport": 1440,
+  "documentWidth": 1440
+}

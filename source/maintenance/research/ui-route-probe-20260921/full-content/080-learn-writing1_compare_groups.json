@@ -1,0 +1,376 @@
+{
+  "requested": "learn-writing1_compare_groups",
+  "from": [
+    "内容单元"
+  ],
+  "actual": "#learn-writing1_compare_groups",
+  "checkedAt": "2026-09-21T12:51:27.330Z",
+  "title": "学习 / 写作 · Task 1 / 柱状图：先比较，再用数据支持 · IELTS",
+  "label": "学习 / 写作 · Task 1 / 柱状图：先比较，再用数据支持",
+  "panel": "writing1",
+  "contentRoot": "learn-writing1_compare_groups",
+  "headings": [
+    {
+      "tag": "H3",
+      "text": "看懂比较对象",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "概述回答：全图最值得告诉读者什么",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "用同一句放进可比较的数据",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "英国继续教育 · Task 1",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "WRITING TASK 1",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "留下本单元首稿",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "核对依据，再修订",
+      "visible": false
+    },
+    {
+      "tag": "H3",
+      "text": "先核对意义，再修改语言",
+      "visible": false
+    },
+    {
+      "tag": "H3",
+      "text": "换个情境再用一次",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "用原题练这一题型",
+      "visible": true
+    }
+  ],
+  "controls": [
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "01\n柱状图：先比较，再用数据支持\n学会把男女、年份和学习方式放在同一比较中，用概述说明主要变化，再选少量数据支持。\n约 20 分钟",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "查看原图 · 1 页",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "我的答案／口语录音文件与简记",
+      "href": null,
+      "save": "enrich-writing1_compare_groups-answer",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "checkbox",
+      "text": "",
+      "label": "",
+      "href": null,
+      "save": "enrich-writing1_compare_groups-frozen",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "text",
+      "text": "",
+      "label": "",
+      "href": null,
+      "save": "enrich-writing1_compare_groups-saved-at",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "保留首稿，打开反馈",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "修订：哪里变了，为什么",
+      "href": null,
+      "save": "enrich-writing1_compare_groups-revision",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "可选：记录或再练一次",
+      "label": "",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "迁移答案／隔日回忆记录",
+      "href": null,
+      "save": "enrich-writing1_compare_groups-transfer",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "可选：记录或再练一次",
+      "label": "",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SELECT",
+      "id": "",
+      "type": "select-one",
+      "text": "请选择内容或语境没理解词义或声音没认出词汇选择／搭配不稳证据、逻辑或展开不足语法或句子组织问题暂时独立完成，隔天再检验",
+      "label": "这次最需要补什么？请选择内容或语境没理解词义或声音没认出词汇选择／搭配不稳证据、逻辑或展开不足语法或句子组织问题暂时独立完成，隔天再检验",
+      "href": null,
+      "save": "enrich-writing1_compare_groups-diagnosis",
+      "visible": false,
+      "disabled": false,
+      "required": false,
+      "options": [
+        {
+          "value": "",
+          "label": "请选择"
+        },
+        {
+          "value": "内容或语境没理解",
+          "label": "内容或语境没理解"
+        },
+        {
+          "value": "词义或声音没认出",
+          "label": "词义或声音没认出"
+        },
+        {
+          "value": "词汇选择／搭配不稳",
+          "label": "词汇选择／搭配不稳"
+        },
+        {
+          "value": "证据、逻辑或展开不足",
+          "label": "证据、逻辑或展开不足"
+        },
+        {
+          "value": "语法或句子组织问题",
+          "label": "语法或句子组织问题"
+        },
+        {
+          "value": "暂时独立完成，隔天再检验",
+          "label": "暂时独立完成，隔天再检验"
+        }
+      ]
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "配套材料",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "",
+      "label": "",
+      "href": "原始参考/2d327ea9-official-task1a-comparison.pdf",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "",
+      "label": "",
+      "href": "https://ielts.org/cdn/Sample-tests/ielts-academic-writing-sample-tasks-2023.pdf",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "",
+      "label": "",
+      "href": "https://ielts.org/take-a-test/test-types/ielts-academic-test/ielts-academic-format-writing",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "",
+      "label": "",
+      "href": "原始参考/a4540c18-0bf3495a-academic_writing_task_1_writing_the_overview.pdf",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "",
+      "label": "",
+      "href": "https://takeielts.britishcouncil.org/sites/default/files/2026-06/academic_writing_task_1_writing_the_overview.pdf",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "英国继续教育：人数与学习形式",
+      "label": "",
+      "href": "#writing1-case-wc-official-education",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    }
+  ],
+  "visibleText": "01\n柱状图：先比较，再用数据支持\n学会把男女、年份和学习方式放在同一比较中，用概述说明主要变化，再选少量数据支持。\n约 20 分钟\n0% · 0 / 1 完成\n看懂比较对象\n\n这道题比较英国男女参加继续教育的情况。两幅图按性别分开，柱子再分非全日制（part-time）与全日制学习。纵轴是 thousands（千人），不是百分比：图上的 250 表示约 250,000 人。先在图中找清对象、单位、年份和图例，再写句子。\n\n概述回答：全图最值得告诉读者什么\n\n概述先说最显著的共同点、变化或差异，不必把每根柱子写一遍。这里可以比较两类学习方式的规模，也可以观察男女全日制人数的变化。概述需要准确，不需要凭空解释变化原因；这张图没有告诉我们学费、政策或个人动机。\n\n用同一句放进可比较的数据\n\n下面只示范 1970/71 的局部比较，局部示范：\n\nIn 1970/71, about one million men studied part-time, compared with roughly 750,000 women.\n\ncompared with 后面的数字和前面使用同一单位、同一学习方式、同一年，读者才能直接比较。也可以分成两个清楚的句子，不必强塞复杂结构。about / roughly 适合柱状图读出的近似值；不能凭空添加小数。\n\n再看这一对表达：more women 比较人数；a larger proportion of women 比较比例。原图给人数，没有总人口分母，因此这道题应使用前一种思路。\n\n接下来写的是学习后的短应用，不是未受提示的诊断。正式 Task 1 要求至少 150 词；本练习只练其中的概述与比较，不当作整篇任务完成。\n\n英国继续教育 · Task 1\nWRITING TASK 1\n\nYou should spend about 20 minutes on this task.\n\nThe chart below shows the number of men and women in further education in Britain in three periods and whether they were studying full-time or part-time.\n\nSummarise the information by selecting and reporting the main features, and make comparisons where relevant.\n\nWrite at least 150 words.\n\nMen and women in further education (thousands). Male and Female; 1970/71, 1980/81, 1990/91; Full-time education and Part-time education.\n查看原图 · 1 页\n留下本单元首稿\n\n本单元先学再用；不记为未见初测。口语可使用原章节录音器，或自行录音并记文件名。\n\n请继续用上方 Task 1A 图表，写 60–80 词的局部回答：① 用 1–2 句概述说明全图最主要的共同点或变化；② 比较 1990/91 男女非全日制人数，并说明同年男女全日制人数的关系。先独立保存这一版，再看反馈。只报告图中信息，不解释社会原因。可在同一作答框最后另起一行记：我核对的单位是＿＿＿＿，我选择这些比较是因为＿＿＿＿。这两项是有提示复盘，不算作文正文。\n\n我的答案／口语录音文件与简记\n保留首稿，打开反馈\n\n先写下自己的答案。\n\n配套材料\n用原题练这一题型\n英国继续教育：人数与学习形式",
+  "allContent": "01柱状图：先比较，再用数据支持学会把男女、年份和学习方式放在同一比较中，用概述说明主要变化，再选少量数据支持。约 20 分钟0% · 0 / 1 完成看懂比较对象\n这道题比较英国男女参加继续教育的情况。两幅图按性别分开，柱子再分非全日制（part-time）与全日制学习。纵轴是 thousands（千人），不是百分比：图上的 250 表示约 250,000 人。先在图中找清对象、单位、年份和图例，再写句子。\n概述回答：全图最值得告诉读者什么\n概述先说最显著的共同点、变化或差异，不必把每根柱子写一遍。这里可以比较两类学习方式的规模，也可以观察男女全日制人数的变化。概述需要准确，不需要凭空解释变化原因；这张图没有告诉我们学费、政策或个人动机。\n用同一句放进可比较的数据\n下面只示范 1970/71 的局部比较，局部示范：\n\nIn 1970/71, about one million men studied part-time, compared with roughly 750,000 women.\n\ncompared with 后面的数字和前面使用同一单位、同一学习方式、同一年，读者才能直接比较。也可以分成两个清楚的句子，不必强塞复杂结构。about / roughly 适合柱状图读出的近似值；不能凭空添加小数。\n再看这一对表达：more women 比较人数；a larger proportion of women 比较比例。原图给人数，没有总人口分母，因此这道题应使用前一种思路。\n接下来写的是学习后的短应用，不是未受提示的诊断。正式 Task 1 要求至少 150 词；本练习只练其中的概述与比较，不当作整篇任务完成。英国继续教育 · Task 1WRITING TASK 1You should spend about 20 minutes on this task.The chart below shows the number of men and women in further education in Britain in three periods and whether they were studying full-time or part-time.Summarise the information by selecting and reporting the main features, and make comparisons where relevant.Write at least 150 words.Men and women in further education (thousands). Male and Female; 1970/71, 1980/81, 1990/91; Full-time education and Part-time education.查看原图 · 1 页练习题：英国男女继续教育，1970/71、1980/81、1990/91。先读轴和图例。留下本单元首稿本单元先学再用；不记为未见初测。口语可使用原章节录音器，或自行录音并记文件名。请继续用上方 Task 1A 图表，写 60–80 词的局部回答：① 用 1–2 句概述说明全图最主要的共同点或变化；② 比较 1990/91 男女非全日制人数，并说明同年男女全日制人数的关系。先独立保存这一版，再看反馈。只报告图中信息，不解释社会原因。可在同一作答框最后另起一行记：我核对的单位是＿＿＿＿，我选择这些比较是因为＿＿＿＿。这两项是有提示复盘，不算作文正文。我的答案／口语录音文件与简记保留首稿，打开反馈先写下自己的答案。核对依据，再修订先核对意义，再修改语言\n1990/91 非全日制学习者中，女性约 110 万、男性约 90 万；全日制男女都在约 25 万附近。因为柱状图刻度有限，合理近似可以接受，不把轻微读图差异误判为语言错误。全图还显示非全日制人数始终多于全日制人数，且男女全日制学习者均比起点多。你不必在概述里把所有发现都写出来，选主要特点即可。\n短示范：\n\nOverall, part-time study involved more people than full-time study in every period shown. Full-time participation increased among both men and women. By 1990/91, around 1.1 million women were studying part-time, compared with about 900,000 men. The figures for full-time study were much closer, at approximately 250,000 for each group.\n\n这段先概括，再提供同一年、同一单位的比较；并没有声称图表揭示了原因。若你写 women were more likely to study part-time，就暗含了比例/概率，图中没有足够分母支持。若写 250 people，应修为 250,000 people。若你的句子使用 whereas、两个独立句或其他准确比较方式，也可接受。\n这次只修一处最影响读者理解的错误：优先单位或比较关系，其次句子形式。保留原答和修订，暂不由这 60–80 词估算 Writing band。修订：哪里变了，为什么换个情境再用一次新情境再用——两家图书馆登记会员数：2020 年，A 馆 12,000、B 馆 18,000；2025 年，A 馆 20,000、B 馆 19,000。写 3–4 句：先概述两馆变化与排名是否改变，再用数字支持。单位是登记会员数，不是到访次数或人口比例。完成后自检：是否同时交代两馆的方向、谁增长更多，以及期末谁更多；不要只列四个数字。它检验换材料后的比较，不和熟悉原图的修订合并算一次进步。可选：记录或再练一次迁移答案／隔日回忆记录可选：记录或再练一次这次最需要补什么？请选择内容或语境没理解词义或声音没认出词汇选择／搭配不稳证据、逻辑或展开不足语法或句子组织问题暂时独立完成，隔天再检验配套材料Academic Writing 样题包：Task 1A（原包第 3 页）Academic Writing 样题包：Task 1A（原包第 3 页）IELTS Academic Writing 格式与要求概述教案（本地全文核读）概述教案（本地全文核读）用原题练这一题型英国继续教育：人数与学习形式",
+  "links": [
+    {
+      "text": "Academic Writing 样题包：Task 1A（原包第 3 页）",
+      "href": "原始参考/2d327ea9-official-task1a-comparison.pdf"
+    },
+    {
+      "text": "Academic Writing 样题包：Task 1A（原包第 3 页）",
+      "href": "https://ielts.org/cdn/Sample-tests/ielts-academic-writing-sample-tasks-2023.pdf"
+    },
+    {
+      "text": "IELTS Academic Writing 格式与要求",
+      "href": "https://ielts.org/take-a-test/test-types/ielts-academic-test/ielts-academic-format-writing"
+    },
+    {
+      "text": "概述教案（本地全文核读）",
+      "href": "原始参考/a4540c18-0bf3495a-academic_writing_task_1_writing_the_overview.pdf"
+    },
+    {
+      "text": "概述教案（本地全文核读）",
+      "href": "https://takeielts.britishcouncil.org/sites/default/files/2026-06/academic_writing_task_1_writing_the_overview.pdf"
+    },
+    {
+      "text": "英国继续教育：人数与学习形式",
+      "href": "#writing1-case-wc-official-education"
+    }
+  ],
+  "details": [
+    {
+      "id": "",
+      "title": "查看原图 · 1 页",
+      "open": false,
+      "visible": true
+    },
+    {
+      "id": "",
+      "title": "可选：记录或再练一次",
+      "open": false,
+      "visible": false
+    },
+    {
+      "id": "",
+      "title": "可选：记录或再练一次",
+      "open": false,
+      "visible": false
+    },
+    {
+      "id": "",
+      "title": "配套材料",
+      "open": false,
+      "visible": true
+    }
+  ],
+  "saveFields": [
+    "enrich-writing1_compare_groups-answer",
+    "enrich-writing1_compare_groups-frozen",
+    "enrich-writing1_compare_groups-saved-at",
+    "enrich-writing1_compare_groups-revision",
+    "enrich-writing1_compare_groups-transfer",
+    "enrich-writing1_compare_groups-diagnosis"
+  ],
+  "images": [
+    {
+      "src": "assets/text-questions/further-education.png",
+      "alt": "Men and women in further education (thousands). Male and Female; 1970/71, 1980/81, 1990/91; Full-time education and Part-time education.",
+      "visible": true,
+      "complete": false,
+      "width": 0
+    },
+    {
+      "src": "assets/deferred-media/76f2dde71c6639690a44aae2.png",
+      "alt": "官方原题：英国男女继续教育，1970/71、1980/81、1990/91。先读轴和图例。",
+      "visible": false,
+      "complete": false,
+      "width": 0
+    }
+  ],
+  "audio": [],
+  "viewport": 1440,
+  "documentWidth": 1440
+}

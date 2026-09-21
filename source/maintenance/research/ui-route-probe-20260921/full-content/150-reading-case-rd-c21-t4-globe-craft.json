@@ -1,0 +1,222 @@
+{
+  "requested": "reading-case-rd-c21-t4-globe-craft",
+  "from": [
+    "内容单元",
+    "每日安排目标"
+  ],
+  "actual": "#reading-case-rd-c21-t4-globe-craft",
+  "checkedAt": "2026-09-21T12:52:20.675Z",
+  "title": "练习 / 阅读 / The Globemakers · 制作细节、历史匠人与书评判断 · IELTS",
+  "label": "练习 / 阅读 / The Globemakers · 制作细节、历史匠人与书评判断",
+  "panel": "practice-reading",
+  "contentRoot": "reading-case-rd-c21-t4-globe-craft",
+  "headings": [
+    {
+      "tag": "H3",
+      "text": "对照答案，回到证据",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "原文片段 · 1",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "原文片段 · 2",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "原文片段 · 3",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "原文片段 · 4",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "词语与搭配",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "句子精读",
+      "visible": false
+    }
+  ],
+  "controls": [
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "The Globemakers · 制作细节、历史匠人与书评判断未作答\n选择题 · 4 段 · 542 词 · 4 题 · 同篇原文另有裁切",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "Cambridge IELTS 21 Academic",
+      "label": "",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=91",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "case-rd-c21-t4-globe-craft-q1",
+      "type": "text",
+      "text": "",
+      "label": "第 37 题作答",
+      "href": null,
+      "save": "case-rd-c21-t4-globe-craft-q1",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "case-rd-c21-t4-globe-craft-q2",
+      "type": "text",
+      "text": "",
+      "label": "第 38 题作答",
+      "href": null,
+      "save": "case-rd-c21-t4-globe-craft-q2",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "case-rd-c21-t4-globe-craft-q3",
+      "type": "text",
+      "text": "",
+      "label": "第 39 题作答",
+      "href": null,
+      "save": "case-rd-c21-t4-globe-craft-q3",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "case-rd-c21-t4-globe-craft-q4",
+      "type": "text",
+      "text": "",
+      "label": "第 40 题作答",
+      "href": null,
+      "save": "case-rd-c21-t4-globe-craft-q4",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "checkbox",
+      "text": "",
+      "label": "",
+      "href": null,
+      "save": "case-rd-c21-t4-globe-craft-done",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "hidden",
+      "text": "",
+      "label": "",
+      "href": null,
+      "save": "case-rd-c21-t4-globe-craft-saved-at",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "保留作答，查看答案",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "核对原答案页",
+      "label": "",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=125",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "case-rd-c21-t4-globe-craft-revision",
+      "type": "textarea",
+      "text": "",
+      "label": "我的修订／证据笔记",
+      "href": null,
+      "save": "case-rd-c21-t4-globe-craft-revision",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "材料精读 · 内容与词句",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    }
+  ],
+  "visibleText": "The Globemakers · 制作细节、历史匠人与书评判断未作答\n选择题 · 4 段 · 542 词 · 4 题 · 同篇原文另有裁切\n0% · 0 / 1 完成\n\n真题 · Cambridge IELTS 21 Academic · PDF 第 91 页\n\n按原题号作答。保留考试原文与题目难度；以下是连续原段裁切，未改写原文。\n\n原第5–8段连续裁切，共543词。为保留从工艺意外到最终书评的完整论证，未在段中截断；仍仅为原篇后半。题面seventh paragraph对应本片段第3段。\n\n原文片段 · 1This series of abortive experiments taught Bellerby a lot about the challenges of making globes, which he communicates here to the reader. Finding just the right way to prise the globes from the mould - a high-end air compressor finally did the trick - and locating the right paper and inks with which to make the gores (the sections of flat sheet mapping that are pasted onto the spherical globe) without the ink seeping out to create a mushy, unreadable mess took months and an alarming chunk out of his bank balance. Bellerby's frustration at the painstaking process of attaching the gores to the globe surface - after having found a glue with precisely the right adhesive qualities - is palpable. Right at the end of the process, he learnt that the paper had stretched slightly and so the final one overlapped the first by a centimetre (which may not seem a great deal, but when that represents 2 per cent of the Earth's diameter, it's equivalent to obliterating the Himalayas or wiping out Chile).\n\n原文片段 · 2Bellerby's account of the technical challenges of globe production is interspersed with a series of interludes on great globemakers of the past and cartographic history in general. Purists might wish for more map-making details, but Bellerby clearly found a kindred spirit in Martin Behaim. He was the Nuremberg entrepreneur who in 1492 created the Erdapfel, the world's oldest surviving globe, beautifully finished by a workshop of painters and other craftsmen, only to find that the explorer Christopher Columbus had stumbled upon the Americas the very same year, rendering his masterpiece instantly out of date. Something of Bellerby's unflinching ambition is reflected in the even more heroic efforts of the Italian cartographer Vincenzo Coronelli, who, in the seventeenth century, created two globes for Louis XIV of France. It took him twenty years to complete the monstrous pair, whose vast bulk - each with a diameter of around four metres - can still be admired in the National Library of France in Paris.\n\n原文片段 · 3Although a celebration of the revival of an ancient craft, Bellerby's book is also a lament for the fading away of centuries-old traditions. When he embarked on his globemaking odyssey, he struggled to find artisans with the skills to make the right moulds for the globes or foundries that could shape the meridians (the metal frames which girdle globes) in just the right way. Although he finally located the right craftsmen, some simply dropping in, serendipitously, to his workshop (by now in more suitable premises than his back room), many of these have now retired or passed away.\n\n原文片段 · 4Bellerby's father finally did receive his eightieth birthday present, albeit two years late. Bellerby went on to found a company which now turns out over six hundred globes a year for customers who can have their own tiny village marked or more unusual requests fulfilled. His book, beautifully illustrated with photographs of the various stages of his venture and a few illustrations of historic globes and maps, is hardly a blueprint for commercial success. But it is more than enough to stir up admiration for the craftsmanship of the great mapmakers of the past and the obsessive determination of a modern successor who revived their almost moribund art.\n\n37. When Bellerby had to attach the gores to the globe surface,\n\nChoose the correct letter, A, B, C or D.\n\nA. he decided it was best to work quickly.\nB. he became aware of an unexpected issue.\nC. he was worried about the quality of his materials.\nD. he nearly gave up the whole project.\n第 37 题作答\n\n38. The reviewer mentions other globe makers of the past because\n\nChoose the correct letter, A, B, C or D.\n\nA. Bellerby was particularly inspired by them.\nB. their achievements are not widely known.\nC. Bellerby had something in common with each of them.\nD. their difficulties could have been avoided.\n第 38 题作答\n\n39. What point is made about Bellerby in the seventh paragraph?\n\nChoose the correct letter, A, B, C or D.\n\nA. He had long working relationships with numerous craftsmen.\nB. He understands the lack of interest in traditional crafts.\nC. He appreciates the importance of careful planning.\nD. He regrets the loss of many globe-making skills.\n第 39 题作答\n\n40. What does the reviewer say about Bellerby's book in the final paragraph?\n\nChoose the correct letter, A, B, C or D.\n\nA. It does not tell you how to create a profitable business.\nB. It overlooks some important mapmakers.\nC. It fails to discuss the future of globe-making.\nD. It does not give enough details about individual customers.\n第 40 题作答\n保留作答，查看答案\n\n先作答；不确定的题也可记录判断与疑点。\n\n材料精读 · 内容与词句",
+  "allContent": "The Globemakers · 制作细节、历史匠人与书评判断未作答选择题 · 4 段 · 542 词 · 4 题 · 同篇原文另有裁切0% · 0 / 1 完成真题 · Cambridge IELTS 21 Academic · PDF 第 91 页按原题号作答。保留考试原文与题目难度；以下是连续原段裁切，未改写原文。原第5–8段连续裁切，共543词。为保留从工艺意外到最终书评的完整论证，未在段中截断；仍仅为原篇后半。题面seventh paragraph对应本片段第3段。原文片段 · 1This series of abortive experiments taught Bellerby a lot about the challenges of making globes, which he communicates here to the reader. Finding just the right way to prise the globes from the mould - a high-end air compressor finally did the trick - and locating the right paper and inks with which to make the gores (the sections of flat sheet mapping that are pasted onto the spherical globe) without the ink seeping out to create a mushy, unreadable mess took months and an alarming chunk out of his bank balance. Bellerby's frustration at the painstaking process of attaching the gores to the globe surface - after having found a glue with precisely the right adhesive qualities - is palpable. Right at the end of the process, he learnt that the paper had stretched slightly and so the final one overlapped the first by a centimetre (which may not seem a great deal, but when that represents 2 per cent of the Earth's diameter, it's equivalent to obliterating the Himalayas or wiping out Chile).原文片段 · 2Bellerby's account of the technical challenges of globe production is interspersed with a series of interludes on great globemakers of the past and cartographic history in general. Purists might wish for more map-making details, but Bellerby clearly found a kindred spirit in Martin Behaim. He was the Nuremberg entrepreneur who in 1492 created the Erdapfel, the world's oldest surviving globe, beautifully finished by a workshop of painters and other craftsmen, only to find that the explorer Christopher Columbus had stumbled upon the Americas the very same year, rendering his masterpiece instantly out of date. Something of Bellerby's unflinching ambition is reflected in the even more heroic efforts of the Italian cartographer Vincenzo Coronelli, who, in the seventeenth century, created two globes for Louis XIV of France. It took him twenty years to complete the monstrous pair, whose vast bulk - each with a diameter of around four metres - can still be admired in the National Library of France in Paris.原文片段 · 3Although a celebration of the revival of an ancient craft, Bellerby's book is also a lament for the fading away of centuries-old traditions. When he embarked on his globemaking odyssey, he struggled to find artisans with the skills to make the right moulds for the globes or foundries that could shape the meridians (the metal frames which girdle globes) in just the right way. Although he finally located the right craftsmen, some simply dropping in, serendipitously, to his workshop (by now in more suitable premises than his back room), many of these have now retired or passed away.原文片段 · 4Bellerby's father finally did receive his eightieth birthday present, albeit two years late. Bellerby went on to found a company which now turns out over six hundred globes a year for customers who can have their own tiny village marked or more unusual requests fulfilled. His book, beautifully illustrated with photographs of the various stages of his venture and a few illustrations of historic globes and maps, is hardly a blueprint for commercial success. But it is more than enough to stir up admiration for the craftsmanship of the great mapmakers of the past and the obsessive determination of a modern successor who revived their almost moribund art.37. When Bellerby had to attach the gores to the globe surface,Choose the correct letter, A, B, C or D.A. he decided it was best to work quickly.B. he became aware of an unexpected issue.C. he was worried about the quality of his materials.D. he nearly gave up the whole project.第 37 题作答38. The reviewer mentions other globe makers of the past becauseChoose the correct letter, A, B, C or D.A. Bellerby was particularly inspired by them.B. their achievements are not widely known.C. Bellerby had something in common with each of them.D. their difficulties could have been avoided.第 38 题作答39. What point is made about Bellerby in the seventh paragraph?Choose the correct letter, A, B, C or D.A. He had long working relationships with numerous craftsmen.B. He understands the lack of interest in traditional crafts.C. He appreciates the importance of careful planning.D. He regrets the loss of many globe-making skills.第 39 题作答40. What does the reviewer say about Bellerby's book in the final paragraph?Choose the correct letter, A, B, C or D.A. It does not tell you how to create a profitable business.B. It overlooks some important mapmakers.C. It fails to discuss the future of globe-making.D. It does not give enough details about individual customers.第 40 题作答保留作答，查看答案先作答；不确定的题也可记录判断与疑点。对照答案，回到证据第 37 题 · B直到最后才发现纸张拉伸产生重叠，是unexpected issue；原文未说他为此差点放弃。Right at the end of the process, he learnt that the paper had stretched slightly and so the final one overlapped the first第 38 题 · Ckindred spirit和ambition reflected都强调共同点，不证明他受二人启发才开始。found a kindred spirit in Martin Behaim ... Bellerby’s unflinching ambition is reflected in ... Vincenzo Coronelli第 39 题 · Dlament与fading away强调惋惜技能流失；不是证明他一直有长期合作人脉。Bellerby’s book is also a lament for the fading away of centuries-old traditions ... many ... retired or passed away第 40 题 · Ahardly是否定；blueprint指可照着做的指南。因此书不教如何创造盈利生意，下一句赞赏不取消这一判断。His book ... is hardly a blueprint for commercial success核对原答案页我的修订／证据笔记材料精读 · 内容与词句这篇书评把制作的微小误差、历史制球者的雄心与手艺传承的脆弱并置。最后肯定书中呈现的工艺和坚持，却明确不把这段经历当作可以照搬的商业成功指南。原文片段 · 1This series of abortive experiments taught Bellerby a lot about the challenges of making globes, which he communicates here to the reader. Finding just the right way to prise the globes from the mould - a high-end air compressor finally did the trick - and locating the right paper and inks with which to make the gores (the sections of flat sheet mapping that are pasted onto the spherical globe) without the ink seeping out to create a mushy, unreadable mess took months and an alarming chunk out of his bank balance. Bellerby's frustration at the painstaking process of attaching the gores to the globe surface - after having found a glue with precisely the right adhesive qualities - is palpable. Right at the end of the process, he learnt that the paper had stretched slightly and so the final one overlapped the first by a centimetre (which may not seem a great deal, but when that represents 2 per cent of the Earth's diameter, it's equivalent to obliterating the Himalayas or wiping out Chile).脱模、纸张、油墨与胶水分别需要反复试验，时间与资金不断消耗。gores 是贴到球面上的分瓣地图纸；纸张略微伸长使最后一片与第一片重叠。用喜马拉雅山和智利作比较，是将球面上一厘米的误差换成地理尺度，让小误差的严重性可感。原文片段 · 2Bellerby's account of the technical challenges of globe production is interspersed with a series of interludes on great globemakers of the past and cartographic history in general. Purists might wish for more map-making details, but Bellerby clearly found a kindred spirit in Martin Behaim. He was the Nuremberg entrepreneur who in 1492 created the Erdapfel, the world's oldest surviving globe, beautifully finished by a workshop of painters and other craftsmen, only to find that the explorer Christopher Columbus had stumbled upon the Americas the very same year, rendering his masterpiece instantly out of date. Something of Bellerby's unflinching ambition is reflected in the even more heroic efforts of the Italian cartographer Vincenzo Coronelli, who, in the seventeenth century, created two globes for Louis XIV of France. It took him twenty years to complete the monstrous pair, whose vast bulk - each with a diameter of around four metres - can still be admired in the National Library of France in Paris.技术经历之间穿插制图史人物：Behaim 的作品刚完成便因新的地理发现过时，Coronelli 又花二十年制作巨型地球仪。kindred spirit 指 Bellerby 在前辈身上看到相近的气质，不是亲属关系。这些插叙把个人执着放进更长的工艺历史中。原文片段 · 3Although a celebration of the revival of an ancient craft, Bellerby's book is also a lament for the fading away of centuries-old traditions. When he embarked on his globemaking odyssey, he struggled to find artisans with the skills to make the right moulds for the globes or foundries that could shape the meridians (the metal frames which girdle globes) in just the right way. Although he finally located the right craftsmen, some simply dropping in, serendipitously, to his workshop (by now in more suitable premises than his back room), many of these have now retired or passed away.书既庆祝古老手艺复兴，也为传统消失而惋惜。寻找模具与金属子午圈工匠十分困难，即使偶然遇到合适的人，其中不少后来已退休或去世。两次 Although 强调成功与损失并存；制作知识需要活着的从业者才能继续传递。原文片段 · 4Bellerby's father finally did receive his eightieth birthday present, albeit two years late. Bellerby went on to found a company which now turns out over six hundred globes a year for customers who can have their own tiny village marked or more unusual requests fulfilled. His book, beautifully illustrated with photographs of the various stages of his venture and a few illustrations of historic globes and maps, is hardly a blueprint for commercial success. But it is more than enough to stir up admiration for the craftsmanship of the great mapmakers of the past and the obsessive determination of a modern successor who revived their almost moribund art.生日礼物迟到两年后终于送达，公司随后发展出大量定制需求。但书评者认为，插图精美和故事成功不等于它是商业操作蓝图；真正值得读的是对历史工艺的敬佩，以及让濒于消失的技艺再生的坚持。hardly 和 But 标出这一有保留的赞赏。词语与搭配the painstaking process需要细致耐心的过程painstaking 强调投入细心与努力，并不等于过程带来身体疼痛。is interspersed with其间穿插着用于描述书、文章等内容编排：主要叙述之间穿插另一类材料。a kindred spirit志趣或气质相投的人原文把现代制球者与历史人物联系起来，表达精神上的相近。the revival of an ancient craft古老手艺的复兴revival 意味着某项活动曾衰落，如今重新活跃；不能用于一直稳定存在的所有传统。句子精读Although a celebration of the revival of an ancient craft, Bellerby's book is also a lament for the fading away of centuries-old traditions.Bellerby 的书虽然是在庆祝一门古老手艺的复兴，也是在哀叹延续数百年的传统正在消失。Although 后省略了 it is，celebration 与 lament 构成情感上的对照。the fading away of 把逐渐消失的过程名词化。also 表示两种态度同时存在，作者不是在下一句撤回对复兴的肯定。But it is more than enough to stir up admiration for the craftsmanship of the great mapmakers of the past and the obsessive determination of a modern successor who revived their almost moribund art.但它足以激起人们对昔日伟大制图者工艺的敬佩，也让人敬佩这位现代继承者近乎执着的决心：他使他们那几乎已经衰亡的技艺重新焕发生机。it 指这本书。admiration for 后连接两项敬佩对象：过去的 craftsmanship 与现代人的 determination。who 修饰 successor，their 回指过去的制图者；almost moribund 表示濒于消亡，保留尚未彻底消失的意味。读完讲解，可以把原文连起来再读一次；想保留的词句可使用已有收藏功能。",
+  "links": [
+    {
+      "text": "Cambridge IELTS 21 Academic",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=91"
+    },
+    {
+      "text": "核对原答案页",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=125"
+    }
+  ],
+  "details": [
+    {
+      "id": "material-reading-rd-c21-t4-globe-craft",
+      "title": "材料精读 · 内容与词句",
+      "open": false,
+      "visible": true
+    }
+  ],
+  "saveFields": [
+    "case-rd-c21-t4-globe-craft-q1",
+    "case-rd-c21-t4-globe-craft-q2",
+    "case-rd-c21-t4-globe-craft-q3",
+    "case-rd-c21-t4-globe-craft-q4",
+    "case-rd-c21-t4-globe-craft-done",
+    "case-rd-c21-t4-globe-craft-saved-at",
+    "case-rd-c21-t4-globe-craft-revision"
+  ],
+  "images": [],
+  "audio": [],
+  "viewport": 1440,
+  "documentWidth": 1440
+}

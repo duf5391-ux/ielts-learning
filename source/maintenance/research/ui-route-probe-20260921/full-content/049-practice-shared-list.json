@@ -1,0 +1,133 @@
+{
+  "requested": "practice-shared-list",
+  "from": [
+    "分类页"
+  ],
+  "actual": "#practice-shared-list",
+  "checkedAt": "2026-09-21T12:51:03.519Z",
+  "title": "练习 / 共用背景 · IELTS",
+  "label": "练习 / 共用背景",
+  "panel": "practice",
+  "contentRoot": "practice",
+  "headings": [
+    {
+      "tag": "H1",
+      "text": "练习 · 共用背景",
+      "visible": true
+    }
+  ],
+  "controls": [
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "← 返回练习",
+      "label": "",
+      "href": "#practice",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SELECT",
+      "id": "la-practice-skill",
+      "type": "select-one",
+      "text": "全部写作Task 1Task 2",
+      "label": "写作类型全部写作Task 1Task 2",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false,
+      "options": [
+        {
+          "value": "",
+          "label": "全部写作"
+        },
+        {
+          "value": "writing1",
+          "label": "Task 1"
+        },
+        {
+          "value": "writing2",
+          "label": "Task 2"
+        }
+      ]
+    },
+    {
+      "tag": "SELECT",
+      "id": "la-practice-topic",
+      "type": "select-one",
+      "text": "全部",
+      "label": "话题\n全部",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false,
+      "options": [
+        {
+          "value": "",
+          "label": "全部"
+        }
+      ]
+    },
+    {
+      "tag": "SELECT",
+      "id": "la-practice-part",
+      "type": "select-one",
+      "text": "全部",
+      "label": "Part全部",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false,
+      "options": [
+        {
+          "value": "",
+          "label": "全部"
+        }
+      ]
+    },
+    {
+      "tag": "SELECT",
+      "id": "la-practice-type",
+      "type": "select-one",
+      "text": "全部",
+      "label": "题型／内容\n全部",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false,
+      "options": [
+        {
+          "value": "",
+          "label": "全部"
+        }
+      ]
+    },
+    {
+      "tag": "INPUT",
+      "id": "la-practice-search",
+      "type": "search",
+      "text": "",
+      "label": "内容或题型",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    }
+  ],
+  "visibleText": "练习 · 共用背景\n\n0 项内容 · 按需要选一项开始。\n\n← 返回练习\n0% · 0 / 0 单元\n话题\n全部\n题型／内容\n全部\n内容或题型\n\n没有匹配的内容，试试其他话题或题型。",
+  "allContent": "IELTS / MY STUDY练习 · 共用背景0 项内容 · 按需要选一项开始。← 返回练习0% · 0 / 0 单元写作类型全部写作Task 1Task 2话题全部0 项内容Part全部题型／内容全部内容或题型没有匹配的内容，试试其他话题或题型。",
+  "links": [
+    {
+      "text": "← 返回练习",
+      "href": "#practice"
+    }
+  ],
+  "details": [],
+  "saveFields": [],
+  "images": [],
+  "audio": [],
+  "viewport": 1440,
+  "documentWidth": 1440
+}

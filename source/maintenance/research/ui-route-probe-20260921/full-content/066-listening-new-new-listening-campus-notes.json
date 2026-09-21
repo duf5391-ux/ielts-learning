@@ -1,0 +1,334 @@
+{
+  "requested": "listening-new-new-listening-campus-notes",
+  "from": [
+    "内容单元",
+    "页面链接"
+  ],
+  "actual": "#listening-new-new-listening-campus-notes",
+  "checkedAt": "2026-09-21T12:51:16.410Z",
+  "title": "学习 / 听力 / 课堂通知：日期、数字与澄清请求 · IELTS",
+  "label": "学习 / 听力 / 课堂通知：日期、数字与澄清请求",
+  "panel": "listening",
+  "contentRoot": "listening-new-new-listening-campus-notes",
+  "headings": [
+    {
+      "tag": "H3",
+      "text": "学会给数字找位置",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "对话示范",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "用法与易错",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "hand something back",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "be meant to do",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "catch what someone said",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "share something with someone",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "听后练习",
+      "visible": true
+    }
+  ],
+  "controls": [
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "新增 课堂通知：日期、数字与澄清请求",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "AUDIO",
+      "id": "",
+      "text": "",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "第 1 题\n暂时不会",
+      "href": null,
+      "save": "lesson-listening-campus-notes-q1",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "暂时不会",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "第 2 题\n暂时不会",
+      "href": null,
+      "save": "lesson-listening-campus-notes-q2",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "暂时不会",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "第 3 题\n暂时不会",
+      "href": null,
+      "save": "lesson-listening-campus-notes-q3",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "暂时不会",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "第 4 题\n暂时不会",
+      "href": null,
+      "save": "lesson-listening-campus-notes-q4",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "暂时不会",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "改正最后一句中的代词位置\n暂时不会",
+      "href": null,
+      "save": "lesson-listening-campus-notes-q5",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "暂时不会",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "查看参考与解释",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "复习选项：简短再用",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "checkbox",
+      "text": "",
+      "label": "我已读过讲解",
+      "href": null,
+      "save": "resource-learned-new-listening-campus-notes",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "checkbox",
+      "text": "",
+      "label": "加入我的复习",
+      "href": null,
+      "save": "resource-review-new-listening-campus-notes",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "我的新表达／本次复习记录（可留空）",
+      "href": null,
+      "save": "resource-note-new-listening-campus-notes",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "配套材料",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "",
+      "label": "",
+      "href": "https://learnenglish.britishcouncil.org/free-resources/listening/b1/arriving-late-class",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "",
+      "label": "",
+      "href": "%E6%89%A9%E5%B1%95%E8%B5%84%E6%96%99/2026-09-16-resource-audio/6c062050-dd0f6bb9-LearnEnglish-Listening-B1-Arriving-late-to_class.pdf",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    }
+  ],
+  "visibleText": "新增 课堂通知：日期、数字与澄清请求\n0% · 0 / 5 练习已作答\n\n新增\n\n学会给数字找位置\n\n同一段校园对话可能连续出现上课时间、考试返还日、书页和作业要求。数字本身不是答案，必须和它修饰的对象一起保存。听前先画四格：迟到多久／试卷返还日／当前页码／缩写含义。\n\n第一次听不必写完整英文句。先记 10 min、Fri、p. 12 这一类短笔记，听完再整理（这些只是格式示例，不是本课答案）。遇到说话人没听清而让对方重复，这通常是重要信息再次出现的机会；不要因为句子重复就跳过。\n\n对话示范\n\n“The lecture starts at ten, but please arrive at quarter to ten to collect your worksheet.” 这里要区分活动开始时间与要求到达时间；问 arrive 就不能填 10:00。\n\n看完例句后就可以播放原音。可以随时暂停学习或重听；若要保留首次理解记录，先保存这一遍的答案。\n\n听力音频 · Arriving late to class\n\n用法与易错\nhand something back\n\n把某物还给原持有人\n\nThe tutor handed our essays back on Friday.\n\n易错：代词须放中间：hand them back；hand in 表示提交。\n\nbe meant to do\n\n按安排应该做\n\nWe are meant to read chapter four before class.\n\n易错：meant 后接 to + 动词；不是 mean doing 的“意味着”。\n\ncatch what someone said\n\n听清对方的话\n\nI did not catch the room number. Could you repeat it?\n\n易错：此处 catch 不是抓住物体；听懂和同意并不相同。\n\nshare something with someone\n\n与某人共用／分享\n\nCan I share this textbook with you today?\n\n易错：使用 share ... with；不要写 share to someone。\n\n听后练习\n\n播放上方 Arriving late to class。完成下面四道听力理解题。\n1. 学生坐下时，老师大约已经讲了多少分钟？\n2. 期中试卷将在哪一天返还？\n3. 学生此时应翻到第几页？\n4. SEO 中的 S 代表哪个英文词？\n用短笔记作答；第 4 题只写一个词。再改正一句错误：The teacher will hand back them tomorrow.\n\n第 1 题\n暂时不会\n第 2 题\n暂时不会\n第 3 题\n暂时不会\n第 4 题\n暂时不会\n改正最后一句中的代词位置\n暂时不会\n查看参考与解释\n复习选项：简短再用\n 我已读过讲解\n 加入我的复习\n我的新表达／本次复习记录（可留空）\n配套材料",
+  "allContent": "新增 课堂通知：日期、数字与澄清请求0% · 0 / 5 练习已作答新增学会给数字找位置\n同一段校园对话可能连续出现上课时间、考试返还日、书页和作业要求。数字本身不是答案，必须和它修饰的对象一起保存。听前先画四格：迟到多久／试卷返还日／当前页码／缩写含义。\n第一次听不必写完整英文句。先记 10 min、Fri、p. 12 这一类短笔记，听完再整理（这些只是格式示例，不是本课答案）。遇到说话人没听清而让对方重复，这通常是重要信息再次出现的机会；不要因为句子重复就跳过。\n对话示范\n“The lecture starts at ten, but please arrive at quarter to ten to collect your worksheet.” 这里要区分活动开始时间与要求到达时间；问 arrive 就不能填 10:00。\n看完例句后就可以播放原音。可以随时暂停学习或重听；若要保留首次理解记录，先保存这一遍的答案。听力音频 · Arriving late to class用法与易错hand something back把某物还给原持有人The tutor handed our essays back on Friday.易错：代词须放中间：hand them back；hand in 表示提交。be meant to do按安排应该做We are meant to read chapter four before class.易错：meant 后接 to + 动词；不是 mean doing 的“意味着”。catch what someone said听清对方的话I did not catch the room number. Could you repeat it?易错：此处 catch 不是抓住物体；听懂和同意并不相同。share something with someone与某人共用／分享Can I share this textbook with you today?易错：使用 share ... with；不要写 share to someone。听后练习播放上方 Arriving late to class。完成下面四道听力理解题。\n1. 学生坐下时，老师大约已经讲了多少分钟？\n2. 期中试卷将在哪一天返还？\n3. 学生此时应翻到第几页？\n4. SEO 中的 S 代表哪个英文词？\n用短笔记作答；第 4 题只写一个词。再改正一句错误：The teacher will hand back them tomorrow.第 1 题暂时不会第 2 题暂时不会第 3 题暂时不会第 4 题暂时不会改正最后一句中的代词位置暂时不会查看参考与解释1＝约 5 分钟。对方用“刚开始约五分钟”的意思说明已经错过的部分，并非整节课长度。\n2＝下周二。这是试卷返还时间，不是考试举行日。\n3＝34。把页码和日期分开记。\n4＝Search。完整缩写指 Search Engine Optimisation；只问 S 时写 Search 即可。\n改错：The teacher will hand them back tomorrow. 代词 them 放在 hand 与 back 中间。可再比较 hand them in（交上去）和 hand them back（还回来）。\n错一题只重听对应信息，仍不清楚再开课程文字稿。记录“首次／查稿后”即可；这 4 道理解题不换算雅思分数。复习选项：简短再用任选两项用 2 分钟回忆：说出“交作业”和“退回作业”的区别；把通知里的到达时间与开课时间各说一次。随后直接学下一项新资源，不需要四题全对。 我已读过讲解 加入我的复习我的新表达／本次复习记录（可留空）配套材料· Arriving late to class配套原课程 PDF（题目、文字稿及答案）",
+  "links": [
+    {
+      "text": "· Arriving late to class",
+      "href": "https://learnenglish.britishcouncil.org/free-resources/listening/b1/arriving-late-class"
+    },
+    {
+      "text": "配套原课程 PDF（题目、文字稿及答案）",
+      "href": "%E6%89%A9%E5%B1%95%E8%B5%84%E6%96%99/2026-09-16-resource-audio/6c062050-dd0f6bb9-LearnEnglish-Listening-B1-Arriving-late-to_class.pdf"
+    }
+  ],
+  "details": [
+    {
+      "id": "check-listening-campus-notes",
+      "title": "查看参考与解释",
+      "open": false,
+      "answerGate": "[\"lesson-listening-campus-notes-q1\", \"lesson-listening-campus-notes-q2\", \"lesson-listening-campus-notes-q3\", \"lesson-listening-campus-notes-q4\", \"lesson-listening-campus-notes-q5\"]",
+      "visible": true
+    },
+    {
+      "id": "",
+      "title": "复习选项：简短再用",
+      "open": false,
+      "visible": true
+    },
+    {
+      "id": "",
+      "title": "配套材料",
+      "open": false,
+      "visible": true
+    }
+  ],
+  "saveFields": [
+    "lesson-listening-campus-notes-q1",
+    "lesson-listening-campus-notes-q2",
+    "lesson-listening-campus-notes-q3",
+    "lesson-listening-campus-notes-q4",
+    "lesson-listening-campus-notes-q5",
+    "resource-learned-new-listening-campus-notes",
+    "resource-review-new-listening-campus-notes",
+    "resource-note-new-listening-campus-notes"
+  ],
+  "images": [],
+  "audio": [
+    {
+      "src": "%E6%89%A9%E5%B1%95%E8%B5%84%E6%96%99/2026-09-16-resource-audio/360d2d65-48058dc8-LE_listening_B1_Arriving_late_to_class.mp3",
+      "sources": [],
+      "visible": true,
+      "controls": true
+    }
+  ],
+  "viewport": 1440,
+  "documentWidth": 1440
+}

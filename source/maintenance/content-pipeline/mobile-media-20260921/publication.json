@@ -1,0 +1,208 @@
+{
+  "status": "published_local",
+  "source": "C:\\Users\\Admin1\\Documents\\Codex\\2026-09-12\\referenced-chatgpt-conversation-this-is-an\\outputs\\IELTS-四科学习册\\开始学习.html",
+  "source_sha256": "dc3e6e39ab1bf2155069f92d6fe952733b9b044684a02d81d7f426578578938a",
+  "candidate_sha256": "7ea735c348907a20b6b808ee403423aea263c29811071067ddca41fa85bfce44",
+  "before_bytes": 14879547,
+  "after_bytes": 3978782,
+  "before_gzip_bytes": 8860243,
+  "after_gzip_bytes": 830564,
+  "save_fields": 3353,
+  "media_counts": {
+    "embedded_media": 24,
+    "image_tags": 58,
+    "audio_tags": 32
+  },
+  "assets": [
+    {
+      "path": "assets/deferred-media/d9746a71e252bb0f8e733e35.png",
+      "sha256": "d9746a71e252bb0f8e733e3545e003edaad523692917ff40b07c5c50be55f21c",
+      "bytes": 277846,
+      "mime": "image/png"
+    },
+    {
+      "path": "assets/deferred-media/d3afaafcc046eddb87d37fe1.png",
+      "sha256": "d3afaafcc046eddb87d37fe184192fa6f5a734681558b7babf699a9070a8613c",
+      "bytes": 310129,
+      "mime": "image/png"
+    },
+    {
+      "path": "assets/deferred-media/560f129de235f1d4642914fe.png",
+      "sha256": "560f129de235f1d4642914fe6eb2dca23ae9507ab8696dd6282dc8c80f6e6071",
+      "bytes": 194389,
+      "mime": "image/png"
+    },
+    {
+      "path": "assets/deferred-media/d287da2fb560d3fed741eebf.png",
+      "sha256": "d287da2fb560d3fed741eebf45749999a4b1e9b206fe9385e5d5dee91782147a",
+      "bytes": 140962,
+      "mime": "image/png"
+    },
+    {
+      "path": "assets/deferred-media/52869fd84bcce5d02839e9fa.png",
+      "sha256": "52869fd84bcce5d02839e9fa6feece5adeca500df4c1d2886558d091482e35f8",
+      "bytes": 259279,
+      "mime": "image/png"
+    },
+    {
+      "path": "assets/deferred-media/9d8f10911daa5dbe5f5ba009.png",
+      "sha256": "9d8f10911daa5dbe5f5ba009e09349fd27155d27b827260c22372cf94a96cb8b",
+      "bytes": 139033,
+      "mime": "image/png"
+    },
+    {
+      "path": "assets/deferred-media/8c158361e2aac1c78e2522d7.png",
+      "sha256": "8c158361e2aac1c78e2522d75a7b237cfd310ff7878c24f67a36cdcbc576bef3",
+      "bytes": 750853,
+      "mime": "image/png"
+    },
+    {
+      "path": "assets/deferred-media/e22385eaa5a6fc867c0bcf60.png",
+      "sha256": "e22385eaa5a6fc867c0bcf60afb863cb2f91ba49f67ca3625e0172ecfa300b4e",
+      "bytes": 1142428,
+      "mime": "image/png"
+    },
+    {
+      "path": "assets/deferred-media/375791efdf3c048bee6c8590.png",
+      "sha256": "375791efdf3c048bee6c8590ed4e666f20d663fbbbb4b4990ba69bbddd00623d",
+      "bytes": 387709,
+      "mime": "image/png"
+    },
+    {
+      "path": "assets/deferred-media/b697dc06b3c22bdd4b8625f3.png",
+      "sha256": "b697dc06b3c22bdd4b8625f39da3c4f1e15a7f239a436742c045b8f232efcf65",
+      "bytes": 364523,
+      "mime": "image/png"
+    },
+    {
+      "path": "assets/deferred-media/76f2dde71c6639690a44aae2.png",
+      "sha256": "76f2dde71c6639690a44aae22744aa701cd3e868e4cf388046828e75f715afd2",
+      "bytes": 103167,
+      "mime": "image/png"
+    },
+    {
+      "path": "assets/deferred-media/f7299d5bffdb6d1ba8a946be.png",
+      "sha256": "f7299d5bffdb6d1ba8a946beb71a0a18d9030d627f536f291c665c623d3d057c",
+      "bytes": 312725,
+      "mime": "image/png"
+    },
+    {
+      "path": "assets/deferred-media/dae398de6775422fb11c3857.png",
+      "sha256": "dae398de6775422fb11c38574b03b01a9302af7f8e3c90b0aac1053575232f4e",
+      "bytes": 354182,
+      "mime": "image/png"
+    },
+    {
+      "path": "assets/deferred-media/57f65808cad33b173a333432.png",
+      "sha256": "57f65808cad33b173a3334322f1b8917ea21f6ef13a0605a4b07227b3e2256a5",
+      "bytes": 75767,
+      "mime": "image/png"
+    },
+    {
+      "path": "assets/deferred-media/9aac9793ee2445128997f68c.png",
+      "sha256": "9aac9793ee2445128997f68c0de1f7d4b77f1c0e0a9773b1e759f02bee68663c",
+      "bytes": 71449,
+      "mime": "image/png"
+    },
+    {
+      "path": "assets/deferred-media/ce92c481950a411e786f35a4.png",
+      "sha256": "ce92c481950a411e786f35a40e869745a48e97cf030206e28f0fcaa0363a6eb8",
+      "bytes": 223903,
+      "mime": "image/png"
+    },
+    {
+      "path": "assets/deferred-media/30cb59c0ee2521e9e7423fae.png",
+      "sha256": "30cb59c0ee2521e9e7423fae5d0d82618c8f170ab4783e026b0204d140a43c6e",
+      "bytes": 52253,
+      "mime": "image/png"
+    },
+    {
+      "path": "assets/deferred-media/9619c1b353aa1f691282076a.png",
+      "sha256": "9619c1b353aa1f691282076a88dbd90fef9dc3988ace02308bba220f23ea69e2",
+      "bytes": 195238,
+      "mime": "image/png"
+    },
+    {
+      "path": "assets/deferred-media/d9918afe6239647335829b49.png",
+      "sha256": "d9918afe6239647335829b49cb6833fd1fe7dd0128281910e29fb4ab57cc347f",
+      "bytes": 109261,
+      "mime": "image/png"
+    },
+    {
+      "path": "assets/deferred-media/9d796f2edcb8df33da4d8359.mp3",
+      "sha256": "9d796f2edcb8df33da4d83593189ce3b5e099423326bca33e140526fbed032ff",
+      "bytes": 1221172,
+      "mime": "audio/mpeg"
+    },
+    {
+      "path": "assets/deferred-media/9ee7575746566a3379ded1b9.png",
+      "sha256": "9ee7575746566a3379ded1b93460adecb0dced8e34977330418450151ae547e4",
+      "bytes": 70060,
+      "mime": "image/png"
+    },
+    {
+      "path": "assets/deferred-media/db6763292844abf87be657a6.mp3",
+      "sha256": "db6763292844abf87be657a6297fdfcd654a40f2dd3771e75359640769b20113",
+      "bytes": 549410,
+      "mime": "audio/mpeg"
+    },
+    {
+      "path": "assets/deferred-media/635531d17720f8da1f752475.png",
+      "sha256": "635531d17720f8da1f752475661c27592472fc345fac6ba279878149960837da",
+      "bytes": 113893,
+      "mime": "image/png"
+    },
+    {
+      "path": "assets/deferred-media/eb0f9fcc788b670d6e93a16f.mp3",
+      "sha256": "eb0f9fcc788b670d6e93a16f2431324cc034d59a1c0f5b00f36291c5d4f5092d",
+      "bytes": 762402,
+      "mime": "audio/mpeg"
+    }
+  ],
+  "media_only_candidate_sha256": "90f6e84cca657005d5734237101cbafb90772df253655d1b5ad33a374a209a99",
+  "media_stage_non_media_content_identical": true,
+  "layers": [
+    {
+      "name": "workspace_split",
+      "before_sha256": "90f6e84cca657005d5734237101cbafb90772df253655d1b5ad33a374a209a99",
+      "after_sha256": "6c34a9a070594ca37daec14ad0fb789009506aac7c3d96f238c72d6ffa61fed6"
+    },
+    {
+      "name": "runtime_performance",
+      "before_sha256": "6c34a9a070594ca37daec14ad0fb789009506aac7c3d96f238c72d6ffa61fed6",
+      "after_sha256": "7ea735c348907a20b6b808ee403423aea263c29811071067ddca41fa85bfce44"
+    }
+  ],
+  "all_original_ids_preserved": true,
+  "all_json_contracts_identical": true,
+  "daily_blocks_identical": true,
+  "release_ready": true,
+  "release_evidence": [
+    {
+      "path": "content-pipeline\\mobile-media-20260921\\static-qa.json",
+      "sha256": "ecd190498a00339e834a8fa9b505e1cdc7541942084ca62f607470091cb556ef"
+    },
+    {
+      "path": "content-pipeline\\mobile-media-20260921\\workspace-qa.json",
+      "sha256": "f841b3dc23d7cfa9fe125a68fb42657ea7e800edfdb7b6399017955b47436151"
+    },
+    {
+      "path": "content-pipeline\\mobile-media-20260921\\runtime-qa.json",
+      "sha256": "1f2122e3d949ed67123a25ae2ed19311889721977426eecd2b5f1ef6b42e88a4"
+    },
+    {
+      "path": "content-pipeline\\mobile-media-20260921\\browser-qa.json",
+      "sha256": "123a36ced4e4c2197212a0bfec34e82e00f49a49ea1533f3dd111c4c21759a1a"
+    },
+    {
+      "path": "content-pipeline\\progressive-boot-20260921\\qa.json",
+      "sha256": "34696e8c533444a4dcc131ec5f42fe628349596f466bf54049343235aa4f7daa"
+    },
+    {
+      "path": "content-pipeline\\progressive-boot-20260921\\site\\progressive-build.json",
+      "sha256": "a825b1de831885238680399dd70c9da4d394b9e077b33535a60b91888de73d62"
+    }
+  ],
+  "backup": "C:\\Users\\Admin1\\Documents\\ChatGPT\\ielts\\backups\\mobile-media-20260921-084110\\开始学习.html",
+  "published_at": "2026-09-21T08:41:11.234045"
+}

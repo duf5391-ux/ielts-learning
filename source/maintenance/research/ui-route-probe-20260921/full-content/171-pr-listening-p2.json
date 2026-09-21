@@ -1,0 +1,246 @@
+{
+  "requested": "pr-listening-p2",
+  "from": [
+    "内容单元",
+    "页面链接"
+  ],
+  "actual": "#pr-listening-p2",
+  "checkedAt": "2026-09-21T12:52:37.214Z",
+  "title": "练习 / 听力 / Listening Part 2 社区活动 · IELTS",
+  "label": "练习 / 听力 / Listening Part 2 社区活动",
+  "panel": "practice-listening",
+  "contentRoot": "pr-listening-p2",
+  "headings": [],
+  "controls": [
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "Listening Part 2 社区活动",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "AUDIO",
+      "id": "",
+      "text": "",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "作答 1\n暂时不会",
+      "href": null,
+      "save": "pr-listening-p2-11",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "暂时不会",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "作答 2\n暂时不会",
+      "href": null,
+      "save": "pr-listening-p2-12",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "暂时不会",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "作答 3\n暂时不会",
+      "href": null,
+      "save": "pr-listening-p2-13",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "暂时不会",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "作答 4\n暂时不会",
+      "href": null,
+      "save": "pr-listening-p2-14",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "暂时不会",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "作答 5\n暂时不会",
+      "href": null,
+      "save": "pr-listening-p2-15",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "暂时不会",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "作答 6\n暂时不会",
+      "href": null,
+      "save": "pr-listening-p2-16",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "暂时不会",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "答案",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "Cambridge · Listening sample task · Short-answer questions · Questions 11–16",
+      "label": "",
+      "href": "原始参考/support-cb76d836-cambridge-zip-115011_Listening_sample_task_-_Short-answer_questions.pdf#page=1",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "在线来源",
+      "label": "",
+      "href": "https://www.cambridgeenglish.org/exams-and-tests/ielts/preparation/",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    }
+  ],
+  "visibleText": "Listening Part 2 社区活动\n0% · 0 / 6 完成\n\nWrite NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer.\n\nQuestions 11–16\n\nYou will hear an extract from a talk given to a group who are going to stay in the UK.\n\nWhat TWO factors can make social contact in a foreign country difficult? — First answer\n\n作答 1\n暂时不会\n\nWhat TWO factors can make social contact in a foreign country difficult? — Second answer\n\n作答 2\n暂时不会\n\nWhich types of community group does the speaker give examples of? — theatre; ______; ______ (first blank)\n\n作答 3\n暂时不会\n\nWhich types of community group does the speaker give examples of? — theatre; ______; ______ (second blank)\n\n作答 4\n暂时不会\n\nIn which TWO places can information about community activities be found? — First answer\n\n作答 5\n暂时不会\n\nIn which TWO places can information about community activities be found? — Second answer\n\n作答 6\n暂时不会\n答案\n\n选材来源 · Cambridge · Listening sample task · Short-answer questions · Questions 11–16 · 在线来源",
+  "allContent": "Listening Part 2 社区活动0% · 0 / 6 完成Write NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer.Questions 11–16You will hear an extract from a talk given to a group who are going to stay in the UK.What TWO factors can make social contact in a foreign country difficult? — First answer作答 1暂时不会What TWO factors can make social contact in a foreign country difficult? — Second answer作答 2暂时不会Which types of community group does the speaker give examples of? — theatre; ______; ______ (first blank)作答 3暂时不会Which types of community group does the speaker give examples of? — theatre; ______; ______ (second blank)作答 4暂时不会In which TWO places can information about community activities be found? — First answer作答 5暂时不会In which TWO places can information about community activities be found? — Second answer作答 6暂时不会答案11–12 language; customs (in either order). 13–14 music (groups); local history (groups) (in either order). 15–16 (the) (public) library/libraries; (the) town hall (in either order).选材来源 · Cambridge · Listening sample task · Short-answer questions · Questions 11–16 · 在线来源",
+  "links": [
+    {
+      "text": "Cambridge · Listening sample task · Short-answer questions · Questions 11–16",
+      "href": "原始参考/support-cb76d836-cambridge-zip-115011_Listening_sample_task_-_Short-answer_questions.pdf#page=1"
+    },
+    {
+      "text": "在线来源",
+      "href": "https://www.cambridgeenglish.org/exams-and-tests/ielts/preparation/"
+    }
+  ],
+  "details": [
+    {
+      "id": "answer-check-42",
+      "title": "答案",
+      "open": false,
+      "answerGate": "[\"pr-listening-p2-11\", \"pr-listening-p2-12\", \"pr-listening-p2-13\", \"pr-listening-p2-14\", \"pr-listening-p2-15\", \"pr-listening-p2-16\"]",
+      "visible": true
+    }
+  ],
+  "saveFields": [
+    "pr-listening-p2-11",
+    "pr-listening-p2-12",
+    "pr-listening-p2-13",
+    "pr-listening-p2-14",
+    "pr-listening-p2-15",
+    "pr-listening-p2-16"
+  ],
+  "images": [],
+  "audio": [
+    {
+      "src": "原始参考/precise-recording-3.mp3",
+      "sources": [],
+      "visible": true,
+      "controls": true
+    }
+  ],
+  "viewport": 1440,
+  "documentWidth": 1440
+}

@@ -1,0 +1,232 @@
+{
+  "requested": "writing1-review",
+  "from": [
+    "页面链接"
+  ],
+  "actual": "#writing1-review",
+  "checkedAt": "2026-09-21T12:55:01.108Z",
+  "title": "学习 / 写作 · Task 1 / 写作 · Task 1 · 从原题开始学 · IELTS",
+  "label": "学习 / 写作 · Task 1 / 写作 · Task 1 · 从原题开始学",
+  "panel": "writing1",
+  "contentRoot": "writing1-review",
+  "headings": [
+    {
+      "tag": "H2",
+      "text": "A. 短回忆，约 3—5 分钟",
+      "visible": true
+    },
+    {
+      "tag": "H2",
+      "text": "B. 陌生图上的概述，另约 10—15 分钟",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "补充：8道有源Task 1原题检验同一读图方法",
+      "visible": true
+    }
+  ],
+  "controls": [
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "可选：换一道题再试",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "完成并保留答案后核对",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "Cambridge 21 Test 2 Task 1 咖啡馆平面图",
+      "label": "",
+      "href": "原始参考/8860177f-C21-T2-Task1-question.pdf",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "对应考生答卷与评语",
+      "label": "",
+      "href": "原始参考/45fe3e97-C21-T2-Task1-response-and-comment.pdf",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "本次新任务作答／录音文件名；先作答，再打开页内核对。",
+      "href": null,
+      "save": "writing1-review-answer",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "练原题：美国四行业就业：峰值、交叉与最终排名",
+      "label": "",
+      "href": "#writing1-case-wc-c21-t1-jobs",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "练原题：学院咖啡厅改造：保留设施与功能替换",
+      "label": "",
+      "href": "#writing1-case-wc-c21-t2-cafe",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "练原题：雨影沙漠：越山前后的水分变化",
+      "label": "",
+      "href": "#writing1-case-wc-c21-t3-rainshadow",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "练原题：图书馆用户与满意度：两图的不同分母",
+      "label": "",
+      "href": "#writing1-case-wc-c21-t4-library",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "练原题：英国继续教育：人数与学习形式",
+      "label": "",
+      "href": "#writing1-case-wc-official-education",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "练原题：广播与电视受众：同一天的双峰比较",
+      "label": "",
+      "href": "#writing1-case-wc-official-audiences",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "练原题：制砖：并行成形路径与温度阶段",
+      "label": "",
+      "href": "#writing1-case-wc-official-bricks",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "练原题：自行车使用率：年龄比较与百分点差",
+      "label": "",
+      "href": "#writing1-case-wc-official-bicycle",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    }
+  ],
+  "visibleText": "可选：换一道题再试\n\n下次关闭参考，先完成岗位增量／终值和 2025 年两类汽车销量换句任务，并回忆概述应提供什么信息，约 3—5 分钟。另一个时段再用 C21 Test 2 Task 1 咖啡馆平面图原题，只选主要变化并写概述，约 10—15 分钟；这是换图型的局部检查，不是再写一篇完整作文，也不专门检验 by/to。\n\n下一次学习开始时先做 A；参考页关闭。如果已看过答案，记录本次是熟题回忆。日期不是固定的最佳间隔，可按实际安排调整。\n\nA. 短回忆，约 3—5 分钟\n某行业岗位从 800 万增加到 1,100 万。各用一句话表达终值与增量。\n在一个情境中，电动汽车销量在 2025 年超过汽油车销量。尝试用上次的目标词表达；不会时先用你熟悉的方式表达，再标记是否需要提示。\n解释一条概述和一句笼统开场白有什么区别。可以用中文，不要求背定义。\n完成并保留答案后核对\nB. 陌生图上的概述，另约 10—15 分钟\n\n打开Cambridge 21 Test 2 Task 1 咖啡馆平面图。如果你以前见过这题，记为熟题，并另选未见题检查。\n\n先用中文选出两条概括性信息。\n只写英文概述，不要求完整作文。\n检查是否概括了主要变化，是否把图外猜测当作事实，是否只是逐个列出细节。\n完成后才打开对应考生答卷与评语。不要把原书样本分数当作你的分数。\n\n这是从折线图到平面图的较远迁移，主要检查“选择并概括重要信息”，不测试 increase by/to 是否会用。表现下降时，还要检查新图型理解，不能一概解释为前次学习无效。\n\n记录：首次无提示 / 提示后成功 / 仍需教学，以及你选择的信息。若局部表现稳定，再在后续一次完整 Task 1 中检查能否保持；不要当天重复写三篇来证明掌握。\n\n本次新任务作答／录音文件名；先作答，再打开页内核对。\n补充：8道有源Task 1原题检验同一读图方法\n\n原复习内容保留为可疑材料；补充练习采用8道独立的真题或官方考试样题。对照真实原图练习对象/单位、Overview、分组与证据：就业与广播电视为折线，继续教育为柱状，自行车为表格，图书馆为饼图+表格，咖啡厅为地图，雨影与制砖为自然/制造流程。答后有完整参考段落、数据核对和句子精读。每题只计一次，重复练法不增加独立材料数。\n\n练原题：美国四行业就业：峰值、交叉与最终排名\n练原题：学院咖啡厅改造：保留设施与功能替换\n练原题：雨影沙漠：越山前后的水分变化\n练原题：图书馆用户与满意度：两图的不同分母\n练原题：英国继续教育：人数与学习形式\n练原题：广播与电视受众：同一天的双峰比较\n练原题：制砖：并行成形路径与温度阶段\n练原题：自行车使用率：年龄比较与百分点差",
+  "allContent": "可选：换一道题再试下次关闭参考，先完成岗位增量／终值和 2025 年两类汽车销量换句任务，并回忆概述应提供什么信息，约 3—5 分钟。另一个时段再用 C21 Test 2 Task 1 咖啡馆平面图原题，只选主要变化并写概述，约 10—15 分钟；这是换图型的局部检查，不是再写一篇完整作文，也不专门检验 by/to。下一次学习开始时先做 A；参考页关闭。如果已看过答案，记录本次是熟题回忆。日期不是固定的最佳间隔，可按实际安排调整。\nA. 短回忆，约 3—5 分钟\n\n某行业岗位从 800 万增加到 1,100 万。各用一句话表达终值与增量。\n在一个情境中，电动汽车销量在 2025 年超过汽油车销量。尝试用上次的目标词表达；不会时先用你熟悉的方式表达，再标记是否需要提示。\n解释一条概述和一句笼统开场白有什么区别。可以用中文，不要求背定义。\n\n\n完成并保留答案后核对\n第 1 题增量 300 万、终值 1,100 万；第 2 题可表达为 Electric car sales overtook petrol car sales in 2025.，也单独记录合法替代表达；第 3 题要指向所给图中的主要趋势／阶段／比较，而非仅宣称图表有变化。\n\nB. 陌生图上的概述，另约 10—15 分钟\n打开Cambridge 21 Test 2 Task 1 咖啡馆平面图。如果你以前见过这题，记为熟题，并另选未见题检查。\n\n先用中文选出两条概括性信息。\n只写英文概述，不要求完整作文。\n检查是否概括了主要变化，是否把图外猜测当作事实，是否只是逐个列出细节。\n完成后才打开对应考生答卷与评语。不要把原书样本分数当作你的分数。\n\n这是从折线图到平面图的较远迁移，主要检查“选择并概括重要信息”，不测试 increase by/to 是否会用。表现下降时，还要检查新图型理解，不能一概解释为前次学习无效。\n记录：首次无提示 / 提示后成功 / 仍需教学，以及你选择的信息。若局部表现稳定，再在后续一次完整 Task 1 中检查能否保持；不要当天重复写三篇来证明掌握。本次新任务作答／录音文件名；先作答，再打开页内核对。补充：8道有源Task 1原题检验同一读图方法原复习内容保留为可疑材料；补充练习采用8道独立的真题或官方考试样题。对照真实原图练习对象/单位、Overview、分组与证据：就业与广播电视为折线，继续教育为柱状，自行车为表格，图书馆为饼图+表格，咖啡厅为地图，雨影与制砖为自然/制造流程。答后有完整参考段落、数据核对和句子精读。每题只计一次，重复练法不增加独立材料数。练原题：美国四行业就业：峰值、交叉与最终排名练原题：学院咖啡厅改造：保留设施与功能替换练原题：雨影沙漠：越山前后的水分变化练原题：图书馆用户与满意度：两图的不同分母练原题：英国继续教育：人数与学习形式练原题：广播与电视受众：同一天的双峰比较练原题：制砖：并行成形路径与温度阶段练原题：自行车使用率：年龄比较与百分点差",
+  "links": [
+    {
+      "text": "Cambridge 21 Test 2 Task 1 咖啡馆平面图",
+      "href": "原始参考/8860177f-C21-T2-Task1-question.pdf"
+    },
+    {
+      "text": "对应考生答卷与评语",
+      "href": "原始参考/45fe3e97-C21-T2-Task1-response-and-comment.pdf"
+    },
+    {
+      "text": "练原题：美国四行业就业：峰值、交叉与最终排名",
+      "href": "#writing1-case-wc-c21-t1-jobs"
+    },
+    {
+      "text": "练原题：学院咖啡厅改造：保留设施与功能替换",
+      "href": "#writing1-case-wc-c21-t2-cafe"
+    },
+    {
+      "text": "练原题：雨影沙漠：越山前后的水分变化",
+      "href": "#writing1-case-wc-c21-t3-rainshadow"
+    },
+    {
+      "text": "练原题：图书馆用户与满意度：两图的不同分母",
+      "href": "#writing1-case-wc-c21-t4-library"
+    },
+    {
+      "text": "练原题：英国继续教育：人数与学习形式",
+      "href": "#writing1-case-wc-official-education"
+    },
+    {
+      "text": "练原题：广播与电视受众：同一天的双峰比较",
+      "href": "#writing1-case-wc-official-audiences"
+    },
+    {
+      "text": "练原题：制砖：并行成形路径与温度阶段",
+      "href": "#writing1-case-wc-official-bricks"
+    },
+    {
+      "text": "练原题：自行车使用率：年龄比较与百分点差",
+      "href": "#writing1-case-wc-official-bicycle"
+    }
+  ],
+  "details": [
+    {
+      "id": "",
+      "title": "完成并保留答案后核对",
+      "open": false,
+      "visible": true
+    }
+  ],
+  "saveFields": [
+    "writing1-review-answer"
+  ],
+  "images": [],
+  "audio": [],
+  "viewport": 1440,
+  "documentWidth": 1440
+}

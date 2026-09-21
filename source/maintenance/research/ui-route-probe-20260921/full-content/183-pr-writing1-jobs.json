@@ -1,0 +1,183 @@
+{
+  "requested": "pr-writing1-jobs",
+  "from": [
+    "内容单元",
+    "页面链接"
+  ],
+  "actual": "#pr-writing1-jobs",
+  "checkedAt": "2026-09-21T12:52:46.406Z",
+  "title": "练习 / 写作 · Task 1 / Task 1 · 折线图 四行业就业 · IELTS",
+  "label": "练习 / 写作 · Task 1 / Task 1 · 折线图 四行业就业",
+  "panel": "practice-writing1",
+  "contentRoot": "pr-writing1-jobs",
+  "headings": [],
+  "controls": [
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "Task 1 · 折线图 四行业就业",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "作答 1\n暂时不会",
+      "href": null,
+      "save": "pr-writing1-jobs-q1",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "暂时不会",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "作答 2\n暂时不会",
+      "href": null,
+      "save": "pr-writing1-jobs-q2",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "暂时不会",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "答案",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "再练一次",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "",
+      "href": null,
+      "save": "pr-writing1-jobs-another",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "",
+      "label": "",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "",
+      "label": "",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "Cambridge IELTS 21 Academic · Test 1 · Task 1",
+      "label": "",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=30",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    }
+  ],
+  "visibleText": "Task 1 · 折线图 四行业就业\n0% · 0 / 2 完成\n\n根据原图作答。\n\n单位：million jobs。年份依次为 1960、1980、2000、2020。\n\nManufacturing：15、20、约17、13；Retail：6、10、15、16；Agriculture：6、3、3、2；Healthcare：2、5、11、16。\n\nThe graph shows employment in four sectors of the US economy from 1960 to 2020.\n\n选出可由原图支持的一句。\n\nA Manufacturing lost seven million jobs between 1960 and 2020.\nB Manufacturing ended two million jobs below its initial level, despite an earlier rise.\nC Healthcare employment increased sixteenfold over the period.\nD Agricultural employment fell during every interval shown.\n作答 1\n暂时不会\n\n写 45–65 个英文词，比较 healthcare 和 retail 的绝对增量、相对增幅及最终水平。不要把岗位数写成就业占比。\n\n作答 2\n暂时不会\n答案\n再练一次\n\n选材来源 · Cambridge IELTS 21 Academic · Test 1 · Task 1",
+  "allContent": "Task 1 · 折线图 四行业就业0% · 0 / 2 完成根据原图作答。单位：million jobs。年份依次为 1960、1980、2000、2020。Manufacturing：15、20、约17、13；Retail：6、10、15、16；Agriculture：6、3、3、2；Healthcare：2、5、11、16。The graph shows employment in four sectors of the US economy from 1960 to 2020.选出可由原图支持的一句。A Manufacturing lost seven million jobs between 1960 and 2020.B Manufacturing ended two million jobs below its initial level, despite an earlier rise.C Healthcare employment increased sixteenfold over the period.D Agricultural employment fell during every interval shown.作答 1暂时不会写 45–65 个英文词，比较 healthcare 和 retail 的绝对增量、相对增幅及最终水平。不要把岗位数写成就业占比。作答 2暂时不会答案1. B。2. 示例：Healthcare employment rose from two million to sixteen million, adding fourteen million jobs and reaching eight times its initial level. Retail added ten million jobs, growing from six million to sixteen million, approximately 2.7 times its starting figure. The two sectors therefore finished at the same level, despite markedly different growth rates.再练一次仍用这张图，写两句 overview，不列出逐年数字；必须同时呈现制造业的主导地位变化和农业的整体走势。作答暂时不会答案示例：Manufacturing was initially the largest employer, but both retail and healthcare had overtaken it by the end of the period. Agriculture declined overall and remained the smallest sector in 2020.选材来源 · Cambridge IELTS 21 Academic · Test 1 · Task 1",
+  "links": [
+    {
+      "text": "Cambridge IELTS 21 Academic · Test 1 · Task 1",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=30"
+    }
+  ],
+  "details": [
+    {
+      "id": "answer-check-47",
+      "title": "答案",
+      "open": false,
+      "answerGate": "[\"pr-writing1-jobs-q1\", \"pr-writing1-jobs-q2\"]",
+      "visible": true
+    },
+    {
+      "id": "",
+      "title": "再练一次",
+      "open": false,
+      "visible": true
+    },
+    {
+      "id": "answer-check-48",
+      "title": "答案",
+      "open": false,
+      "answerGate": "[\"pr-writing1-jobs-another\"]",
+      "visible": false
+    }
+  ],
+  "saveFields": [
+    "pr-writing1-jobs-q1",
+    "pr-writing1-jobs-q2",
+    "pr-writing1-jobs-another"
+  ],
+  "images": [
+    {
+      "src": "case-assets/writing-c21-30.png",
+      "alt": "1960至2020年美国制造业、零售业、农业和医疗行业岗位数原图",
+      "visible": true,
+      "complete": true,
+      "width": 1399
+    }
+  ],
+  "audio": [],
+  "viewport": 1440,
+  "documentWidth": 1440
+}

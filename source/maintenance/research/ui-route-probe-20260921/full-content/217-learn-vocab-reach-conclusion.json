@@ -1,0 +1,380 @@
+{
+  "requested": "learn-vocab-reach-conclusion",
+  "from": [
+    "内容单元"
+  ],
+  "actual": "#learn-vocab-reach-conclusion",
+  "checkedAt": "2026-09-21T12:53:14.357Z",
+  "title": "学习 / 短语 / reach a conclusion｜根据证据形成结论 · IELTS",
+  "label": "学习 / 短语 / reach a conclusion｜根据证据形成结论",
+  "panel": "phrases",
+  "contentRoot": "learn-vocab-reach-conclusion",
+  "headings": [
+    {
+      "tag": "H3",
+      "text": "意义与结构",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "例句",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "易混点",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "留下本单元首稿",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "核对依据，再修订",
+      "visible": false
+    },
+    {
+      "tag": "H3",
+      "text": "换个情境再用一次",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "reach a conclusion：结论对应实验变化",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "reach a conclusion：结论对应实验变化",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "基于原题的参考改述",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "蜜蜂实验：移动食物与解码方向",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "原材料 · 第1页",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "原题",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "原答案",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "具体解释",
+      "visible": true
+    }
+  ],
+  "controls": [
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "09\nreach a conclusion｜根据证据形成结论\n从信息走向判断时，写清结论内容及证据限度。\n约 8 分钟",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "checkbox",
+      "text": "",
+      "label": "收藏这组搭配 ★",
+      "href": null,
+      "save": "vocabbookmark-extra-vocab-reach-conclusion",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "可选：记录或再练一次",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SELECT",
+      "id": "",
+      "type": "select-one",
+      "text": "",
+      "label": "",
+      "href": null,
+      "save": "enrich-vocab-reach-conclusion-familiarity",
+      "visible": false,
+      "disabled": false,
+      "required": false,
+      "options": [
+        {
+          "value": "",
+          "label": "未标记"
+        },
+        {
+          "value": "K",
+          "label": "K · 以前就会主动用"
+        },
+        {
+          "value": "R",
+          "label": "R · 认识，但平时不用"
+        },
+        {
+          "value": "N",
+          "label": "N · 这次新学的用法"
+        }
+      ]
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "我的答案／口语录音文件与简记",
+      "href": null,
+      "save": "enrich-vocab-reach-conclusion-answer",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "checkbox",
+      "text": "",
+      "label": "",
+      "href": null,
+      "save": "enrich-vocab-reach-conclusion-frozen",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "text",
+      "text": "",
+      "label": "",
+      "href": null,
+      "save": "enrich-vocab-reach-conclusion-saved-at",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "保留首稿，打开反馈",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "修订：哪里变了，为什么",
+      "href": null,
+      "save": "enrich-vocab-reach-conclusion-revision",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "可选：记录或再练一次",
+      "label": "",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "迁移答案／隔日回忆记录",
+      "href": null,
+      "save": "enrich-vocab-reach-conclusion-transfer",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "可选：记录或再练一次",
+      "label": "",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SELECT",
+      "id": "",
+      "type": "select-one",
+      "text": "请选择内容或语境没理解词义或声音没认出词汇选择／搭配不稳证据、逻辑或展开不足语法或句子组织问题暂时独立完成，隔天再检验",
+      "label": "这次最需要补什么？请选择内容或语境没理解词义或声音没认出词汇选择／搭配不稳证据、逻辑或展开不足语法或句子组织问题暂时独立完成，隔天再检验",
+      "href": null,
+      "save": "enrich-vocab-reach-conclusion-diagnosis",
+      "visible": false,
+      "disabled": false,
+      "required": false,
+      "options": [
+        {
+          "value": "",
+          "label": "请选择"
+        },
+        {
+          "value": "内容或语境没理解",
+          "label": "内容或语境没理解"
+        },
+        {
+          "value": "词义或声音没认出",
+          "label": "词义或声音没认出"
+        },
+        {
+          "value": "词汇选择／搭配不稳",
+          "label": "词汇选择／搭配不稳"
+        },
+        {
+          "value": "证据、逻辑或展开不足",
+          "label": "证据、逻辑或展开不足"
+        },
+        {
+          "value": "语法或句子组织问题",
+          "label": "语法或句子组织问题"
+        },
+        {
+          "value": "暂时独立完成，隔天再检验",
+          "label": "暂时独立完成，隔天再检验"
+        }
+      ]
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "配套材料",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "",
+      "label": "",
+      "href": "https://dictionary.cambridge.org/dictionary/english/reach-a-decision-agreement-conclusion-etc",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "蜜蜂实验：移动食物与解码方向 · 完整题面、原材料与答案",
+      "label": "",
+      "href": "原始参考/support-4bb3e3ea-cambridge-zip-115025_General_Training_Reading_sample_task_-_Sentence_completion.pdf#page=1",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "蜜蜂实验：移动食物与解码方向 · 完整题面、原材料与答案",
+      "label": "",
+      "href": "原始参考/support-4bb3e3ea-cambridge-zip-115025_General_Training_Reading_sample_task_-_Sentence_completion.pdf#page=1",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    }
+  ],
+  "visibleText": "09\nreach a conclusion｜根据证据形成结论\n从信息走向判断时，写清结论内容及证据限度。\n约 8 分钟\n0% · 0 / 1 完成\n收藏这组搭配 ★\n可选：记录或再练一次\n意义与结构\n\nreach a conclusion that + 完整从句，或 reach a conclusion about + 讨论对象。reach 直接接宾语，不加 to。表示已经形成某种判断，但这个表达本身不证明判断正确。\n\n例句\n\nAfter comparing the two routes, we reached the conclusion that the train was more reliable. 比较两条路线后，我们得出火车更可靠的结论。\n\nThe sample is too small to reach a firm conclusion about all learners. 样本太小，无法对所有学习者形成确定结论。\n\n易混点\n\na conclusion／the conclusion 的选择取决于是否把结论视为特定的一项；不是机械地只能用一个。conclude that 是简洁替换。数据有限时，可以说 cannot yet reach a firm conclusion，而不是硬下定论。\n\n留下本单元首稿\n\n本单元先学再用；不记为未见初测。口语可使用原章节录音器，或自行录音并记文件名。\n\n先读短课，再独立应用；保存后看反馈。\n\n① 改错：The researchers reached to a conclusion about the programme. ② 用目标表达写“只做四道题，还无法对我的整体阅读水平下定论”。③ 把第二句用 conclude 改写。\n\n我的答案／口语录音文件与简记\n保留首稿，打开反馈\n\n先写下自己的答案。\n\n配套材料\nreach a conclusion：结论对应实验变化\nreach a conclusion：结论对应实验变化\n\nQ38 feeding dish是实验改变，Q39–40区分箱外直接方向和箱内太阳参照。不要只看到结论而省掉比较条件。\n\n基于原题的参考改述\n\nVon Frisch reached a conclusion about the dances by changing the position of the feeding dish and observing the bees.\n\n此句是对下方真题事实的原创改述，目标搭配不冒称原文用词。\n\n蜜蜂实验：移动食物与解码方向\n\n以下为正式样题原始材料。先按原题要求作答，再看原答案与对应解释；材料描述的是原文中的语境，不把历史数据当作当前事实。\n\n原材料 · 第1页\n\n[Note: This is an extract from a General Training Reading text on the subject of understanding bee behaviour. The text preceding this extract described Karl von Frisch's experiments and his conclusions about two bee dances.]\n\nAt first, von Frisch thought the bees were responding only to the scent of the food. But what did the third dance mean? And if bees were responding only to the scent, how could they also ‘sniff down’ food hundreds of metres away from the hive*, food which was sometimes downwind? On a hunch, he started gradually moving the feeding dish further and further away and noticed as he did so that the dances of the returning scout bees also started changing. If he placed the feeding dish over nine metres away, the second type of dance, the sickle version, came into play. But once he moved it past 36 metres, the scouts would then start dancing the third, quite different, waggle dance.\n\nThe measurement of the actual distance too, he concluded, was precise. For example, a feeding dish 300 metres away was indicated by 15 complete runs through the pattern in 30 seconds. When the dish was moved to 60 metres away, the number dropped to eleven.\n\nVon Frisch noted something further. When the scout bees came home to tell their sisters about the food source, sometimes they would dance outside on the horizontal entrance platform of the hive, and sometimes on the vertical wall inside. And, depending on where they danced, the straight portion of the waggle dance would point in different directions. The outside dance was fairly easy to decode: the straight portion of the dance pointed directly to the food source, so the bees would merely have to decode the distance message and fly off in that direction to find their food.\n\nBut by studying the dance on the inner wall of the hive, von Frisch discovered a remarkable method which the dancer used to tell her sisters the direction of the food in relation to the sun. When inside the hive, the dancer cannot use the sun, so she uses gravity instead. The direction of the sun is represented by the top of the hive wall. If she runs straight up, this means that the feeding place is in the same direction as the sun. However, if, for example, the feeding place is 40º to the left of the sun, then the dancer would run 40º to the left of the vertical line. This was to be the first of von Frisch’s remarkable discoveries. Soon he would also discover a number of other remarkable facts about how bees communicate and, in doing so, revolutionise the study of animal behaviour generally.\n\n* Hive – a ‘house’ for bees; the place where they build a nest and live\n\n原题\n\nQuestions 38 – 40\n\nComplete the sentences below.\n\nChoose NO MORE THAN TWO WORDS from the text for each answer.\n\nWrite your answers in boxes 38-40 on your answer sheet.\n\n38 Von Frisch discovered the difference between dance types by changing the position of the .................. .\n\n39 The dance outside the hive points in the direction of the ............... .\n\n40 The angle of the dance from the vertical shows the angle of the food from the ............... .\n\n原答案\n\nAnswers\n\n38 feeding dish\n\n39 food (source)\n\n40 sun\n\nWords in brackets are optional - they are correct, but not necessary.\n\n具体解释\n\nQ38 feeding dish：科学家主动移动的是喂食盘，不能填bee或hive。Q39 food (source)：蜂箱外直线方向直接指向食物，不能把蜂箱内太阳参照规则套入。Q40 sun：蜂箱内以重力及垂直线代表太阳方向，偏离垂直线的角度对应食物相对太阳的角度。原题最多两词；实验中的距离、节拍数据按原文理解，不自行修成现实科普值。\n\n完整原件：蜜蜂实验：移动食物与解码方向 · 完整题面、原材料与答案\n\n蜜蜂实验：移动食物与解码方向 · 完整题面、原材料与答案",
+  "allContent": "09reach a conclusion｜根据证据形成结论从信息走向判断时，写清结论内容及证据限度。约 8 分钟0% · 0 / 1 完成收藏这组搭配 ★可选：记录或再练一次学习前自评：这个用法熟悉吗？未标记K · 以前就会主动用R · 认识，但平时不用N · 这次新学的用法意义与结构\nreach a conclusion that + 完整从句，或 reach a conclusion about + 讨论对象。reach 直接接宾语，不加 to。表示已经形成某种判断，但这个表达本身不证明判断正确。\n例句\nAfter comparing the two routes, we reached the conclusion that the train was more reliable.\n比较两条路线后，我们得出火车更可靠的结论。\nThe sample is too small to reach a firm conclusion about all learners.\n样本太小，无法对所有学习者形成确定结论。\n易混点\na conclusion／the conclusion 的选择取决于是否把结论视为特定的一项；不是机械地只能用一个。conclude that 是简洁替换。数据有限时，可以说 cannot yet reach a firm conclusion，而不是硬下定论。留下本单元首稿本单元先学再用；不记为未见初测。口语可使用原章节录音器，或自行录音并记文件名。先读短课，再独立应用；保存后看反馈。\n① 改错：The researchers reached to a conclusion about the programme. ② 用目标表达写“只做四道题，还无法对我的整体阅读水平下定论”。③ 把第二句用 conclude 改写。我的答案／口语录音文件与简记保留首稿，打开反馈先写下自己的答案。核对依据，再修订① The researchers reached a conclusion about the programme. 删除 to。② After only four questions, we cannot reach a firm conclusion about my overall reading ability. 可用 a reliable conclusion，但要表达证据不足。③ We cannot conclude from only four questions that my overall reading ability is at a particular level. conclude 后需要清楚的结论内容；不要写 conclude about 直接硬替原句。\n自查只记三项：意义是否符合本意；结构是否完整；是否保留必要的范围或条件。参考答案不是唯一合法表达，不根据是否使用这个搭配给雅思分数。修订：哪里变了，为什么换个情境再用一次隔日回顾一次练习，用两句英语分别写“这次结果支持什么”与“还不足以得出什么结论”。可选：记录或再练一次迁移答案／隔日回忆记录可选：记录或再练一次这次最需要补什么？请选择内容或语境没理解词义或声音没认出词汇选择／搭配不稳证据、逻辑或展开不足语法或句子组织问题暂时独立完成，隔天再检验配套材料Cambridge Dictionary：reach a conclusionreach a conclusion：结论对应实验变化reach a conclusion：结论对应实验变化Q38 feeding dish是实验改变，Q39–40区分箱外直接方向和箱内太阳参照。不要只看到结论而省掉比较条件。基于原题的参考改述Von Frisch reached a conclusion about the dances by changing the position of the feeding dish and observing the bees.此句是对下方真题事实的原创改述，目标搭配不冒称原文用词。蜜蜂实验：移动食物与解码方向以下为正式样题原始材料。先按原题要求作答，再看原答案与对应解释；材料描述的是原文中的语境，不把历史数据当作当前事实。原材料 · 第1页[Note: This is an extract from a General Training Reading text on the subject of understanding bee behaviour. The text preceding this extract described Karl von Frisch's experiments and his conclusions about two bee dances.]At first, von Frisch thought the bees were responding only to the scent of the food. But what did the third dance mean? And if bees were responding only to the scent, how could they also ‘sniff down’ food hundreds of metres away from the hive*, food which was sometimes downwind? On a hunch, he started gradually moving the feeding dish further and further away and noticed as he did so that the dances of the returning scout bees also started changing. If he placed the feeding dish over nine metres away, the second type of dance, the sickle version, came into play. But once he moved it past 36 metres, the scouts would then start dancing the third, quite different, waggle dance.The measurement of the actual distance too, he concluded, was precise. For example, a feeding dish 300 metres away was indicated by 15 complete runs through the pattern in 30 seconds. When the dish was moved to 60 metres away, the number dropped to eleven.Von Frisch noted something further. When the scout bees came home to tell their sisters about the food source, sometimes they would dance outside on the horizontal entrance platform of the hive, and sometimes on the vertical wall inside. And, depending on where they danced, the straight portion of the waggle dance would point in different directions. The outside dance was fairly easy to decode: the straight portion of the dance pointed directly to the food source, so the bees would merely have to decode the distance message and fly off in that direction to find their food.But by studying the dance on the inner wall of the hive, von Frisch discovered a remarkable method which the dancer used to tell her sisters the direction of the food in relation to the sun. When inside the hive, the dancer cannot use the sun, so she uses gravity instead. The direction of the sun is represented by the top of the hive wall. If she runs straight up, this means that the feeding place is in the same direction as the sun. However, if, for example, the feeding place is 40º to the left of the sun, then the dancer would run 40º to the left of the vertical line. This was to be the first of von Frisch’s remarkable discoveries. Soon he would also discover a number of other remarkable facts about how bees communicate and, in doing so, revolutionise the study of animal behaviour generally.* Hive – a ‘house’ for bees; the place where they build a nest and live原题Questions 38 – 40Complete the sentences below.Choose NO MORE THAN TWO WORDS from the text for each answer.Write your answers in boxes 38-40 on your answer sheet.38 Von Frisch discovered the difference between dance types by changing the position of the .................. .39 The dance outside the hive points in the direction of the ............... .40 The angle of the dance from the vertical shows the angle of the food from the ............... .原答案Answers38 feeding dish39 food (source)40 sunWords in brackets are optional - they are correct, but not necessary.具体解释Q38 feeding dish：科学家主动移动的是喂食盘，不能填bee或hive。Q39 food (source)：蜂箱外直线方向直接指向食物，不能把蜂箱内太阳参照规则套入。Q40 sun：蜂箱内以重力及垂直线代表太阳方向，偏离垂直线的角度对应食物相对太阳的角度。原题最多两词；实验中的距离、节拍数据按原文理解，不自行修成现实科普值。完整原件：蜜蜂实验：移动食物与解码方向 · 完整题面、原材料与答案蜜蜂实验：移动食物与解码方向 · 完整题面、原材料与答案",
+  "links": [
+    {
+      "text": "Cambridge Dictionary：reach a conclusion",
+      "href": "https://dictionary.cambridge.org/dictionary/english/reach-a-decision-agreement-conclusion-etc"
+    },
+    {
+      "text": "蜜蜂实验：移动食物与解码方向 · 完整题面、原材料与答案",
+      "href": "原始参考/support-4bb3e3ea-cambridge-zip-115025_General_Training_Reading_sample_task_-_Sentence_completion.pdf#page=1"
+    },
+    {
+      "text": "蜜蜂实验：移动食物与解码方向 · 完整题面、原材料与答案",
+      "href": "原始参考/support-4bb3e3ea-cambridge-zip-115025_General_Training_Reading_sample_task_-_Sentence_completion.pdf#page=1"
+    }
+  ],
+  "details": [
+    {
+      "id": "",
+      "title": "可选：记录或再练一次",
+      "open": false,
+      "visible": true
+    },
+    {
+      "id": "",
+      "title": "可选：记录或再练一次",
+      "open": false,
+      "visible": false
+    },
+    {
+      "id": "",
+      "title": "可选：记录或再练一次",
+      "open": false,
+      "visible": false
+    },
+    {
+      "id": "",
+      "title": "配套材料",
+      "open": false,
+      "visible": true
+    }
+  ],
+  "saveFields": [
+    "vocabbookmark-extra-vocab-reach-conclusion",
+    "enrich-vocab-reach-conclusion-familiarity",
+    "enrich-vocab-reach-conclusion-answer",
+    "enrich-vocab-reach-conclusion-frozen",
+    "enrich-vocab-reach-conclusion-saved-at",
+    "enrich-vocab-reach-conclusion-revision",
+    "enrich-vocab-reach-conclusion-transfer",
+    "enrich-vocab-reach-conclusion-diagnosis"
+  ],
+  "images": [],
+  "audio": [],
+  "viewport": 1440,
+  "documentWidth": 1440
+}

@@ -1,0 +1,445 @@
+{
+  "requested": "learn-vocab-raise-awareness",
+  "from": [
+    "内容单元"
+  ],
+  "actual": "#learn-vocab-raise-awareness",
+  "checkedAt": "2026-09-21T12:53:09.805Z",
+  "title": "学习 / 短语 / raise awareness of …｜提高对某事的认识 · IELTS",
+  "label": "学习 / 短语 / raise awareness of …｜提高对某事的认识",
+  "panel": "phrases",
+  "contentRoot": "learn-vocab-raise-awareness",
+  "headings": [
+    {
+      "tag": "H3",
+      "text": "意义与结构",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "例句",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "易混点",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "留下本单元首稿",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "核对依据，再修订",
+      "visible": false
+    },
+    {
+      "tag": "H3",
+      "text": "换个情境再用一次",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "raise awareness：从真实威胁组织内容",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "raise awareness：从真实威胁组织内容",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "基于原题的参考改述",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "赛加羚羊：适应、威胁与保护",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "原文 · 印刷页60",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "原文 · 印刷页61",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "原题 · 印刷页62",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "原题 · 印刷页63",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "答案与证据解释",
+      "visible": true
+    }
+  ],
+  "controls": [
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "03\nraise awareness of …｜提高对某事的认识\n描述宣传或教育的作用，同时避免把“知道了”直接当成“行为已改变”。\n约 8 分钟",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "checkbox",
+      "text": "",
+      "label": "收藏这组搭配 ★",
+      "href": null,
+      "save": "vocabbookmark-extra-vocab-raise-awareness",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "可选：记录或再练一次",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SELECT",
+      "id": "",
+      "type": "select-one",
+      "text": "",
+      "label": "",
+      "href": null,
+      "save": "enrich-vocab-raise-awareness-familiarity",
+      "visible": false,
+      "disabled": false,
+      "required": false,
+      "options": [
+        {
+          "value": "",
+          "label": "未标记"
+        },
+        {
+          "value": "K",
+          "label": "K · 以前就会主动用"
+        },
+        {
+          "value": "R",
+          "label": "R · 认识，但平时不用"
+        },
+        {
+          "value": "N",
+          "label": "N · 这次新学的用法"
+        }
+      ]
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "我的答案／口语录音文件与简记",
+      "href": null,
+      "save": "enrich-vocab-raise-awareness-answer",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "checkbox",
+      "text": "",
+      "label": "",
+      "href": null,
+      "save": "enrich-vocab-raise-awareness-frozen",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "text",
+      "text": "",
+      "label": "",
+      "href": null,
+      "save": "enrich-vocab-raise-awareness-saved-at",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "保留首稿，打开反馈",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "修订：哪里变了，为什么",
+      "href": null,
+      "save": "enrich-vocab-raise-awareness-revision",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "可选：记录或再练一次",
+      "label": "",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "迁移答案／隔日回忆记录",
+      "href": null,
+      "save": "enrich-vocab-raise-awareness-transfer",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "可选：记录或再练一次",
+      "label": "",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SELECT",
+      "id": "",
+      "type": "select-one",
+      "text": "请选择内容或语境没理解词义或声音没认出词汇选择／搭配不稳证据、逻辑或展开不足语法或句子组织问题暂时独立完成，隔天再检验",
+      "label": "这次最需要补什么？请选择内容或语境没理解词义或声音没认出词汇选择／搭配不稳证据、逻辑或展开不足语法或句子组织问题暂时独立完成，隔天再检验",
+      "href": null,
+      "save": "enrich-vocab-raise-awareness-diagnosis",
+      "visible": false,
+      "disabled": false,
+      "required": false,
+      "options": [
+        {
+          "value": "",
+          "label": "请选择"
+        },
+        {
+          "value": "内容或语境没理解",
+          "label": "内容或语境没理解"
+        },
+        {
+          "value": "词义或声音没认出",
+          "label": "词义或声音没认出"
+        },
+        {
+          "value": "词汇选择／搭配不稳",
+          "label": "词汇选择／搭配不稳"
+        },
+        {
+          "value": "证据、逻辑或展开不足",
+          "label": "证据、逻辑或展开不足"
+        },
+        {
+          "value": "语法或句子组织问题",
+          "label": "语法或句子组织问题"
+        },
+        {
+          "value": "暂时独立完成，隔天再检验",
+          "label": "暂时独立完成，隔天再检验"
+        }
+      ]
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "配套材料",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "",
+      "label": "",
+      "href": "https://dictionary.cambridge.org/dictionary/english/awareness",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "Cambridge IELTS 21 Academic · Test 3 · 物理页61 / 印刷页60",
+      "label": "",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=61",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "Cambridge IELTS 21 Academic · Test 3 · 物理页63 / 印刷页62",
+      "label": "",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=63",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "Cambridge IELTS 21 Academic · Test 3 · 物理页123 / 印刷页122",
+      "label": "",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=123",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "Cambridge IELTS 21 Academic · Test 3 · 物理页61 / 印刷页60",
+      "label": "",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=61",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "Cambridge IELTS 21 Academic · Test 3 · 物理页63 / 印刷页62",
+      "label": "",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=63",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "Cambridge IELTS 21 Academic · Test 3 · 物理页123 / 印刷页122",
+      "label": "",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=123",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    }
+  ],
+  "visibleText": "03\nraise awareness of …｜提高对某事的认识\n描述宣传或教育的作用，同时避免把“知道了”直接当成“行为已改变”。\n约 8 分钟\n0% · 0 / 1 完成\n收藏这组搭配 ★\n可选：记录或再练一次\n意义与结构\n\nraise awareness of + 问题／风险／现象，表示帮助人们更清楚地知道、理解某事。about 也可使用；这里先熟悉 of 这一结构。awareness 通常是不可数名词，可说 public awareness。an awareness campaign 也正确，此处可数的是 campaign（一次宣传活动），不是 awareness。\n\n例句\n\nSchool workshops can raise awareness of online scams. 学校的专题活动可以提高大家对网络诈骗的认识。\n\nThe campaign raised public awareness of food waste, but its effect on purchasing habits was unclear. 宣传提高了公众对食物浪费的认识，但其对购买习惯的影响还不明确。\n\n易混点\n\nraise 是及物动词，需要宾语；awareness rose 则用不及物的 rise。认知提高不自动证明行为改变，论证中应另给行为证据。\n\n留下本单元首稿\n\n本单元先学再用；不记为未见初测。口语可使用原章节录音器，或自行录音并记文件名。\n\n先读短课，再独立应用；保存后看反馈。\n\n① The campaign aims to ＿＿＿＿ awareness of air pollution.（raise／rise）② Public awareness has ＿＿＿＿ since the campaign began.（raised／risen）③ 写一句说明健康教育可能先改善认识，但未必立刻改变行为。\n\n我的答案／口语录音文件与简记\n保留首稿，打开反馈\n\n先写下自己的答案。\n\n配套材料\nraise awareness：从真实威胁组织内容\nraise awareness：从真实威胁组织内容\n\n先完成Q4–7，分别说出角、栖地、路线、溪流对应的威胁。下方参考改述说明这篇文本的教学作用；不是断言保护机构确实举办了宣传活动。\n\n基于原题的参考改述\n\nThis account can raise awareness of the different threats facing saiga, including poaching and the loss of migration routes.\n\n此句是对下方真题事实的原创改述，目标搭配不冒称原文用词。\n\n赛加羚羊：适应、威胁与保护\n\n先读这一组完整原文页，再完成对应原题。以下时代、数量与观点均按考试文章语境理解。\n\n原文 · 印刷页60\n\nREADING PASSAGE 1\n\nYou should spend about 20 minutes on Questions 1-13, which are based on Passage 1 below.\n\nSaving the saiga\n\nThe saiga, a species of antelope native to Central Asia, once roamed the vast grasslands of this region in enormous herds, many millions strong. Regrettably, such spectacular sights are a thing of the past. Today, the saiga is largely confined to a single country: Kazakhstan. This country is estimated to be home to well over 90% of the global saiga population, with Russia, Mongolia and Uzbekistan accounting for the rest.\n\nThe saiga is perfectly adapted to the tough conditions of the remote wilderness of the steppes of Central Asia. One such adaptation is its bizarre bulbous nose, which enables the animal to survive the extreme seasonal temperature swings of the region. The swollen nostrils of the nose serve several purposes: they filter out dust and cool the blood during hot, dry summers, and they warm the cold air before it enters the saiga's lungs in winter. Other seasonal adaptations include a heavy winter coat that the saiga sheds when the weather warms up.\n\nDespite these superb adaptations to harsh conditions, the saiga has no defence against the threats posed by humans. It was almost driven to extinction by hunters in the 19th century. Legal protection ensured its survival for a while, and numbers steadily recovered throughout most of the 20th century. But the respite was only temporary. In the ten years following the break-up of the former Soviet Union in 1991, over 95% of the global population was lost - one of the fastest examples of species loss ever recorded for a mammal.\n\nThe dramatic decline during this decade was due to illegal poaching on an industrial scale. Male saiga are a particular target, because their horns are highly prized by traditional medicine practitioners. Poaching reached epidemic levels after misguided conservationists tried to relieve the pressure on threatened African rhinos by actively encouraging the use of saiga horns in traditional medicine as an alternative to those of rhinos. Male saiga were almost wiped out, leading to a population crash from which the species has been struggling to recover ever since.\n\nAnother threat to the survival of the saiga is loss of habitat, as a result of agricultural expansion and human settlement. Physical barriers such as railways, pipelines and fences can block the seasonal migration routes of this transboundary species. In the worst cases, herds may starve to death after being trapped.\n\n原文 · 印刷页61\n\nThen there is the risk of disease. In 2015, an outbreak of haemorrhagic septicaemia, caused by the normally harmless bacterium Pasteurella multocida, killed over 75% of the global adult saiga population in just three weeks. In 2017, 60% of the Mongolian saiga population - a subspecies found nowhere else in the world - was killed by a virus that spilled over from livestock. These so-called mass mortality events represent an unpredictable and serious threat to the species.\n\nClimate change poses a further threat. Although well adapted to cold winters and hot summers, saiga struggle to cope with temperature extremes and unpredictable fluctuations in climate. Experts believe that unusually warm weather may have triggered the 2015 mass mortality event. The steppe region has also become increasingly arid in recent years, and many of the smaller streams that the species normally depended on have dried up and vanished.\n\nRecent efforts to save the saiga have been spearheaded by the Altyn Dala Conservation Initiative, a project led by the Association for the Conservation of Biodiversity of Kazakhstan, working in partnership with the Kazakh government's Committee for Forestry and Wildlife, Frankfurt Zoological Society and Fauna and Flora, an international conservation charity. Its purpose is to protect and restore Kazakhstan's steppe, semi-desert and desert ecosystems and the many species they support, including the critically endangered saiga. In 2022 the United Nations recognised the initiative as a World Restoration Flagship project, an accolade reserved for the ten best examples of large-scale ecosystem restoration around the globe.\n\nSo, how many saiga are there now? By 2000, the global saiga population had hit an all­ time low of just 21,000 individuals. There was some recovery in the first decade of the new millennium but this was then crushed by devastating mass mortality events that saw the loss of hundreds of thousands of the species. But thanks to the intervention of the Altyn Dala Conservation Initiative, the most recent episodes in the ongoing story of the saiga have been relatively uplifting. Three years ago, the Ustyurt Plateau population in Kazakhstan experienced its largest mass birth of saiga calves in many years. An aerial census two years ago recorded an estimated 842,000 saiga across Kazakhstan as a whole, and according to an aerial survey earlier this year, the saiga population in Kazakhstan now exceeds 1.9 million. The world's strangest-looking antelope remains critically endangered, but the direction of travel is positive.\n\n原题 · 印刷页62\n\nTest 3\n\nQuestions 1-7\n\nComplete the notes below.\n\nChoose ONE WORD ONLY from the passage for each answer.\n\nWrite your answers in boxes 1-7 on your answer sheet.\n\nThe saiga\n\nAdaptations • has a large bulbous nose with swollen nostrils that keep 1 ..................................... out\n\nlower the temperature of its 2 ..................................... in summer\n\nwarm the air entering its lungs in winter\n\n• grows a thick 3 ..................................... in winter, which it loses in spring\n\nReasons for population decline • poaching, especially for the 4 ..................................... of male saiga\n\n• expansion of farms and settlements, causing reduction in the size of the saiga's 5 .................................... .\n\nloss of access to the 6 ..................................... which they use for migration\n\n• various forms of disease, leading to mass mortality events • climate change, causing the disappearance of 7 ..................................... which the saiga relied on\n\n原题 · 印刷页63\n\nQuestions 8-13\n\nDo the following statements agree with the information given in Reading Passage 1?\n\nIn boxes 8-13 on your answer sheet, write\n\nTRUE FALSE NOT GIVEN\n\nif the statement agrees with the information if the statement contradicts the information if there is no information on this\n\n8 Today, numbers of saiga are distributed evenly across four nations in Central Asia: Kazakhstan, Russia, Mongolia and Uzbekistan.\n\n9 For most of the 20th century, the population of saiga were falling.\n\n10 Efforts to protect rhinos in Africa had a significant effect on saiga populations.\n\n11 Unpredictable fluctuations in climate are threatening the wildlife of Central Asia more than in other parts of the world.\n\n12 The Altyn Dala Conservation Initiative was formed for the benefit of a number of different animals.\n\n13 The Altyn Dala Conservation Initiative's recognition as a World Restoration Flagship project attracted additional international funding for the scheme.\n\n113 p. 1221 63\n\n答案与证据解释\n\nQ1–7 dust/blood/coat/horns/habitat/routes/streams：鼻孔过滤尘土、冷却血液，冬毛适应温度；偷猎为角，农业和定居挤占栖息地、屏障挡迁徙路线，干旱使溪流消失。Q8 FALSE：90%以上在哈萨克斯坦，不是四国均匀；Q9 FALSE：20世纪多数时候数量恢复；Q10 TRUE：鼓励用赛加角代替犀牛角反而造成灾难；Q11 NOT GIVEN：没有跨地区严重程度比较；Q12 TRUE：项目保护生态系统及其中许多物种；Q13 NOT GIVEN：联合国认可不等于已说明新增资金。不要把考试文本的now数量移植成当前统计。\n\n完整原件：Cambridge IELTS 21 Academic · Test 3 · 物理页61 / 印刷页60；Cambridge IELTS 21 Academic · Test 3 · 物理页63 / 印刷页62；Cambridge IELTS 21 Academic · Test 3 · 物理页123 / 印刷页122\n\nCambridge IELTS 21 Academic · Test 3 · 物理页61 / 印刷页60\n\nCambridge IELTS 21 Academic · Test 3 · 物理页63 / 印刷页62\n\nCambridge IELTS 21 Academic · Test 3 · 物理页123 / 印刷页122",
+  "allContent": "03raise awareness of …｜提高对某事的认识描述宣传或教育的作用，同时避免把“知道了”直接当成“行为已改变”。约 8 分钟0% · 0 / 1 完成收藏这组搭配 ★可选：记录或再练一次学习前自评：这个用法熟悉吗？未标记K · 以前就会主动用R · 认识，但平时不用N · 这次新学的用法意义与结构\nraise awareness of + 问题／风险／现象，表示帮助人们更清楚地知道、理解某事。about 也可使用；这里先熟悉 of 这一结构。awareness 通常是不可数名词，可说 public awareness。an awareness campaign 也正确，此处可数的是 campaign（一次宣传活动），不是 awareness。\n例句\nSchool workshops can raise awareness of online scams.\n学校的专题活动可以提高大家对网络诈骗的认识。\nThe campaign raised public awareness of food waste, but its effect on purchasing habits was unclear.\n宣传提高了公众对食物浪费的认识，但其对购买习惯的影响还不明确。\n易混点\nraise 是及物动词，需要宾语；awareness rose 则用不及物的 rise。认知提高不自动证明行为改变，论证中应另给行为证据。留下本单元首稿本单元先学再用；不记为未见初测。口语可使用原章节录音器，或自行录音并记文件名。先读短课，再独立应用；保存后看反馈。\n① The campaign aims to ＿＿＿＿ awareness of air pollution.（raise／rise）② Public awareness has ＿＿＿＿ since the campaign began.（raised／risen）③ 写一句说明健康教育可能先改善认识，但未必立刻改变行为。我的答案／口语录音文件与简记保留首稿，打开反馈先写下自己的答案。核对依据，再修订① raise，awareness 是宾语。② risen，has risen 表示认识水平上升；如果写 has been raised，则是被提高的被动结构，也可以，但不能只用 has raised。③ 参考：Health education can raise awareness of the risks of inactivity, but it may not immediately change people's habits. 不要求照抄，只要把认识和行为的结果区分开。\n自查只记三项：意义是否符合本意；结构是否完整；是否保留必要的范围或条件。参考答案不是唯一合法表达，不根据是否使用这个搭配给雅思分数。修订：哪里变了，为什么换个情境再用一次隔日换到教育或环保话题，写“活动＋提高对什么的认识”，再补一条检验行为是否改变的具体观察指标。可选：记录或再练一次迁移答案／隔日回忆记录可选：记录或再练一次这次最需要补什么？请选择内容或语境没理解词义或声音没认出词汇选择／搭配不稳证据、逻辑或展开不足语法或句子组织问题暂时独立完成，隔天再检验配套材料Cambridge Dictionary：raise awareness of …raise awareness：从真实威胁组织内容raise awareness：从真实威胁组织内容先完成Q4–7，分别说出角、栖地、路线、溪流对应的威胁。下方参考改述说明这篇文本的教学作用；不是断言保护机构确实举办了宣传活动。基于原题的参考改述This account can raise awareness of the different threats facing saiga, including poaching and the loss of migration routes.此句是对下方真题事实的原创改述，目标搭配不冒称原文用词。赛加羚羊：适应、威胁与保护先读这一组完整原文页，再完成对应原题。以下时代、数量与观点均按考试文章语境理解。原文 · 印刷页60READING PASSAGE 1You should spend about 20 minutes on Questions 1-13, which are based on Passage 1 below.Saving the saigaThe saiga, a species of antelope native to Central Asia, once roamed the vast grasslands of this region in enormous herds, many millions strong. Regrettably, such spectacular sights are a thing of the past. Today, the saiga is largely confined to a single country: Kazakhstan. This country is estimated to be home to well over 90% of the global saiga population, with Russia, Mongolia and Uzbekistan accounting for the rest.The saiga is perfectly adapted to the tough conditions of the remote wilderness of the steppes of Central Asia. One such adaptation is its bizarre bulbous nose, which enables the animal to survive the extreme seasonal temperature swings of the region. The swollen nostrils of the nose serve several purposes: they filter out dust and cool the blood during hot, dry summers, and they warm the cold air before it enters the saiga's lungs in winter. Other seasonal adaptations include a heavy winter coat that the saiga sheds when the weather warms up.Despite these superb adaptations to harsh conditions, the saiga has no defence against the threats posed by humans. It was almost driven to extinction by hunters in the 19th century. Legal protection ensured its survival for a while, and numbers steadily recovered throughout most of the 20th century. But the respite was only temporary. In the ten years following the break-up of the former Soviet Union in 1991, over 95% of the global population was lost - one of the fastest examples of species loss ever recorded for a mammal.The dramatic decline during this decade was due to illegal poaching on an industrial scale. Male saiga are a particular target, because their horns are highly prized by traditional medicine practitioners. Poaching reached epidemic levels after misguided conservationists tried to relieve the pressure on threatened African rhinos by actively encouraging the use of saiga horns in traditional medicine as an alternative to those of rhinos. Male saiga were almost wiped out, leading to a population crash from which the species has been struggling to recover ever since.Another threat to the survival of the saiga is loss of habitat, as a result of agricultural expansion and human settlement. Physical barriers such as railways, pipelines and fences can block the seasonal migration routes of this transboundary species. In the worst cases, herds may starve to death after being trapped.原文 · 印刷页61Then there is the risk of disease. In 2015, an outbreak of haemorrhagic septicaemia, caused by the normally harmless bacterium Pasteurella multocida, killed over 75% of the global adult saiga population in just three weeks. In 2017, 60% of the Mongolian saiga population - a subspecies found nowhere else in the world - was killed by a virus that spilled over from livestock. These so-called mass mortality events represent an unpredictable and serious threat to the species.Climate change poses a further threat. Although well adapted to cold winters and hot summers, saiga struggle to cope with temperature extremes and unpredictable fluctuations in climate. Experts believe that unusually warm weather may have triggered the 2015 mass mortality event. The steppe region has also become increasingly arid in recent years, and many of the smaller streams that the species normally depended on have dried up and vanished.Recent efforts to save the saiga have been spearheaded by the Altyn Dala Conservation Initiative, a project led by the Association for the Conservation of Biodiversity of Kazakhstan, working in partnership with the Kazakh government's Committee for Forestry and Wildlife, Frankfurt Zoological Society and Fauna and Flora, an international conservation charity. Its purpose is to protect and restore Kazakhstan's steppe, semi-desert and desert ecosystems and the many species they support, including the critically endangered saiga. In 2022 the United Nations recognised the initiative as a World Restoration Flagship project, an accolade reserved for the ten best examples of large-scale ecosystem restoration around the globe.So, how many saiga are there now? By 2000, the global saiga population had hit an all­ time low of just 21,000 individuals. There was some recovery in the first decade of the new millennium but this was then crushed by devastating mass mortality events that saw the loss of hundreds of thousands of the species. But thanks to the intervention of the Altyn Dala Conservation Initiative, the most recent episodes in the ongoing story of the saiga have been relatively uplifting. Three years ago, the Ustyurt Plateau population in Kazakhstan experienced its largest mass birth of saiga calves in many years. An aerial census two years ago recorded an estimated 842,000 saiga across Kazakhstan as a whole, and according to an aerial survey earlier this year, the saiga population in Kazakhstan now exceeds 1.9 million. The world's strangest-looking antelope remains critically endangered, but the direction of travel is positive.原题 · 印刷页62Test 3Questions 1-7Complete the notes below.Choose ONE WORD ONLY from the passage for each answer.Write your answers in boxes 1-7 on your answer sheet.The saigaAdaptations • has a large bulbous nose with swollen nostrils that keep 1 ..................................... outlower the temperature of its 2 ..................................... in summerwarm the air entering its lungs in winter• grows a thick 3 ..................................... in winter, which it loses in springReasons for population decline • poaching, especially for the 4 ..................................... of male saiga• expansion of farms and settlements, causing reduction in the size of the saiga's 5 .................................... .loss of access to the 6 ..................................... which they use for migration• various forms of disease, leading to mass mortality events • climate change, causing the disappearance of 7 ..................................... which the saiga relied on原题 · 印刷页63Questions 8-13Do the following statements agree with the information given in Reading Passage 1?In boxes 8-13 on your answer sheet, writeTRUE FALSE NOT GIVENif the statement agrees with the information if the statement contradicts the information if there is no information on this8 Today, numbers of saiga are distributed evenly across four nations in Central Asia: Kazakhstan, Russia, Mongolia and Uzbekistan.9 For most of the 20th century, the population of saiga were falling.10 Efforts to protect rhinos in Africa had a significant effect on saiga populations.11 Unpredictable fluctuations in climate are threatening the wildlife of Central Asia more than in other parts of the world.12 The Altyn Dala Conservation Initiative was formed for the benefit of a number of different animals.13 The Altyn Dala Conservation Initiative's recognition as a World Restoration Flagship project attracted additional international funding for the scheme.113 p. 1221 63答案与证据解释Q1–7 dust/blood/coat/horns/habitat/routes/streams：鼻孔过滤尘土、冷却血液，冬毛适应温度；偷猎为角，农业和定居挤占栖息地、屏障挡迁徙路线，干旱使溪流消失。Q8 FALSE：90%以上在哈萨克斯坦，不是四国均匀；Q9 FALSE：20世纪多数时候数量恢复；Q10 TRUE：鼓励用赛加角代替犀牛角反而造成灾难；Q11 NOT GIVEN：没有跨地区严重程度比较；Q12 TRUE：项目保护生态系统及其中许多物种；Q13 NOT GIVEN：联合国认可不等于已说明新增资金。不要把考试文本的now数量移植成当前统计。完整原件：Cambridge IELTS 21 Academic · Test 3 · 物理页61 / 印刷页60；Cambridge IELTS 21 Academic · Test 3 · 物理页63 / 印刷页62；Cambridge IELTS 21 Academic · Test 3 · 物理页123 / 印刷页122Cambridge IELTS 21 Academic · Test 3 · 物理页61 / 印刷页60Cambridge IELTS 21 Academic · Test 3 · 物理页63 / 印刷页62Cambridge IELTS 21 Academic · Test 3 · 物理页123 / 印刷页122",
+  "links": [
+    {
+      "text": "Cambridge Dictionary：raise awareness of …",
+      "href": "https://dictionary.cambridge.org/dictionary/english/awareness"
+    },
+    {
+      "text": "Cambridge IELTS 21 Academic · Test 3 · 物理页61 / 印刷页60",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=61"
+    },
+    {
+      "text": "Cambridge IELTS 21 Academic · Test 3 · 物理页63 / 印刷页62",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=63"
+    },
+    {
+      "text": "Cambridge IELTS 21 Academic · Test 3 · 物理页123 / 印刷页122",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=123"
+    },
+    {
+      "text": "Cambridge IELTS 21 Academic · Test 3 · 物理页61 / 印刷页60",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=61"
+    },
+    {
+      "text": "Cambridge IELTS 21 Academic · Test 3 · 物理页63 / 印刷页62",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=63"
+    },
+    {
+      "text": "Cambridge IELTS 21 Academic · Test 3 · 物理页123 / 印刷页122",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=123"
+    }
+  ],
+  "details": [
+    {
+      "id": "",
+      "title": "可选：记录或再练一次",
+      "open": false,
+      "visible": true
+    },
+    {
+      "id": "",
+      "title": "可选：记录或再练一次",
+      "open": false,
+      "visible": false
+    },
+    {
+      "id": "",
+      "title": "可选：记录或再练一次",
+      "open": false,
+      "visible": false
+    },
+    {
+      "id": "",
+      "title": "配套材料",
+      "open": false,
+      "visible": true
+    }
+  ],
+  "saveFields": [
+    "vocabbookmark-extra-vocab-raise-awareness",
+    "enrich-vocab-raise-awareness-familiarity",
+    "enrich-vocab-raise-awareness-answer",
+    "enrich-vocab-raise-awareness-frozen",
+    "enrich-vocab-raise-awareness-saved-at",
+    "enrich-vocab-raise-awareness-revision",
+    "enrich-vocab-raise-awareness-transfer",
+    "enrich-vocab-raise-awareness-diagnosis"
+  ],
+  "images": [],
+  "audio": [],
+  "viewport": 1440,
+  "documentWidth": 1440
+}

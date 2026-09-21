@@ -1,0 +1,346 @@
+{
+  "requested": "learn-listening-customer-request",
+  "from": [
+    "内容单元"
+  ],
+  "actual": "#learn-listening-customer-request",
+  "checkedAt": "2026-09-21T12:51:20.379Z",
+  "title": "学习 / 听力 / 服务沟通：分清请求、顾虑和最终同意 · IELTS",
+  "label": "学习 / 听力 / 服务沟通：分清请求、顾虑和最终同意",
+  "panel": "listening",
+  "contentRoot": "learn-listening-customer-request",
+  "headings": [
+    {
+      "tag": "H3",
+      "text": "背景：东西到了，不代表所有事情都结束了",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "追踪四步",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "客户来电 · 词汇与判断题",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "A phone call from a customer",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "Before listening",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "Preparation task",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "Vocabulary",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "Definition",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "Tasks · Task 1",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "留下本单元首稿",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "核对依据，再修订",
+      "visible": false
+    },
+    {
+      "tag": "H3",
+      "text": "原课程 Task 1 答案",
+      "visible": false
+    },
+    {
+      "tag": "H3",
+      "text": "把理解变成可用表达",
+      "visible": false
+    },
+    {
+      "tag": "H3",
+      "text": "换个情境再用一次",
+      "visible": false
+    }
+  ],
+  "controls": [
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "02\n服务沟通：分清请求、顾虑和最终同意\n新库 B1 短听力。从账单与付款条件的真实教学语境，练习追踪对话怎样改变。\n约 25 分钟",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "查看原图 · 1 页",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "AUDIO",
+      "id": "",
+      "text": "",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "我的答案／口语录音文件与简记",
+      "href": null,
+      "save": "enrich-listening-customer-request-answer",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "checkbox",
+      "text": "",
+      "label": "",
+      "href": null,
+      "save": "enrich-listening-customer-request-frozen",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "text",
+      "text": "",
+      "label": "",
+      "href": null,
+      "save": "enrich-listening-customer-request-saved-at",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "保留首稿，打开反馈",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "修订：哪里变了，为什么",
+      "href": null,
+      "save": "enrich-listening-customer-request-revision",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "可选：记录或再练一次",
+      "label": "",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "迁移答案／隔日回忆记录",
+      "href": null,
+      "save": "enrich-listening-customer-request-transfer",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "可选：记录或再练一次",
+      "label": "",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SELECT",
+      "id": "",
+      "type": "select-one",
+      "text": "请选择内容或语境没理解词义或声音没认出词汇选择／搭配不稳证据、逻辑或展开不足语法或句子组织问题暂时独立完成，隔天再检验",
+      "label": "这次最需要补什么？请选择内容或语境没理解词义或声音没认出词汇选择／搭配不稳证据、逻辑或展开不足语法或句子组织问题暂时独立完成，隔天再检验",
+      "href": null,
+      "save": "enrich-listening-customer-request-diagnosis",
+      "visible": false,
+      "disabled": false,
+      "required": false,
+      "options": [
+        {
+          "value": "",
+          "label": "请选择"
+        },
+        {
+          "value": "内容或语境没理解",
+          "label": "内容或语境没理解"
+        },
+        {
+          "value": "词义或声音没认出",
+          "label": "词义或声音没认出"
+        },
+        {
+          "value": "词汇选择／搭配不稳",
+          "label": "词汇选择／搭配不稳"
+        },
+        {
+          "value": "证据、逻辑或展开不足",
+          "label": "证据、逻辑或展开不足"
+        },
+        {
+          "value": "语法或句子组织问题",
+          "label": "语法或句子组织问题"
+        },
+        {
+          "value": "暂时独立完成，隔天再检验",
+          "label": "暂时独立完成，隔天再检验"
+        }
+      ]
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "配套材料",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "",
+      "label": "",
+      "href": "https://learnenglish.britishcouncil.org/free-resources/listening/b1/phone-call-customer",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "",
+      "label": "",
+      "href": "原始参考/2c976e31-bec3ddb1-LearnEnglish-Listening-B1-A-phone-call-from-a-customer.pdf",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    }
+  ],
+  "visibleText": "02\n服务沟通：分清请求、顾虑和最终同意\n新库 B1 短听力。从账单与付款条件的真实教学语境，练习追踪对话怎样改变。\n约 25 分钟\n0% · 0 / 1 完成\n背景：东西到了，不代表所有事情都结束了\n\n商业电话可能谈货物，也可能谈付款。听开头时先确定真正来意，再跟进请求是否被接受。\n\ninvoice：账单，说明要支付什么和多少。\npayment terms：付款条件，包括何时支付。\nan extension：延长期限；extend the deadline 是动词结构。\nmake an exception：破例，不代表以后都改变规则。\n追踪四步\n\n画四个小格：来意 → 请求 → 顾虑 → 最后决定。听到暂时不能确定时，不要提前记成最后拒绝。留意对方是否在后面补充理由或改变回应。\n\n原页的 Preparation 可以先做。这会帮助理解，所以本轮记作“学习后应用”。第一遍只做 Task 1；Task 2 是表达分类，另记学习结果。\n\n客户来电 · 词汇与判断题\nA phone call from a customer\n\nListen to the phone call from a customer to practise and improve your listening skills.\n\nBefore listening\n\nDo the preparation task first. Then listen to the audio and do the exercises.\n\nPreparation task\n\nMatch the definitions (a–h) with the vocabulary (1–8).\n\nVocabulary\n______ an exception\n______ payment terms\n______ an invoice\n______ an extension\n______ delivery confirmation\n______ cash flow\n______ a regulation\n______ to appreciate\nDefinition\nproof that a delivery has been made\nthe conditions of when a customer should make payment\nwhen more time is allowed for something\nan official or organisational rule\na document which shows how much a customer has to pay, for what and by when\nwhen something doesn’t follow the usual rule\nto show someone you are grateful for something they have done\nthe timing and amount of money coming in and going out of a company\nTasks · Task 1\n\nAre the sentences true or false?\n\nSentence\tAnswer\n1. The delivery hasn’t arrived yet.\tTrue / False\n2. Andrea is having cash flow issues and needs a payment extension.\tTrue / False\n3. Andrea usually asks for an extension of the payment terms.\tTrue / False\n4. Andrea has a new order to place, even bigger than the last one.\tTrue / False\n5. Junko can extend the payment terms on the last order to 60 days.\tTrue / False\n6. Junko will send Andrea an email confirmation.\tTrue / False\n查看原图 · 1 页\n原课程音频：A phone call from a customer\n留下本单元首稿\n\n本单元先学再用；不记为未见初测。口语可使用原章节录音器，或自行录音并记文件名。\n\n播放原音一次，写 Task 1 第1–6题的 True / False。另写四格简记：来意、请求、顾虑、最后决定。保存后再看反馈。若词汇准备仍无法理解，允许先查词；把条件记下来。\n\n我的答案／口语录音文件与简记\n保留首稿，打开反馈\n\n先写下自己的答案。\n\n配套材料",
+  "allContent": "02服务沟通：分清请求、顾虑和最终同意新库 B1 短听力。从账单与付款条件的真实教学语境，练习追踪对话怎样改变。约 25 分钟0% · 0 / 1 完成背景：东西到了，不代表所有事情都结束了\n商业电话可能谈货物，也可能谈付款。听开头时先确定真正来意，再跟进请求是否被接受。\n\ninvoice：账单，说明要支付什么和多少。\npayment terms：付款条件，包括何时支付。\nan extension：延长期限；extend the deadline 是动词结构。\nmake an exception：破例，不代表以后都改变规则。\n\n追踪四步\n画四个小格：来意 → 请求 → 顾虑 → 最后决定。听到暂时不能确定时，不要提前记成最后拒绝。留意对方是否在后面补充理由或改变回应。\n原页的 Preparation 可以先做。这会帮助理解，所以本轮记作“学习后应用”。第一遍只做 Task 1；Task 2 是表达分类，另记学习结果。客户来电 · 词汇与判断题A phone call from a customerListen to the phone call from a customer to practise and improve your listening skills.Before listeningDo the preparation task first. Then listen to the audio and do the exercises.Preparation taskMatch the definitions (a–h) with the vocabulary (1–8).Vocabulary______ an exception______ payment terms______ an invoice______ an extension______ delivery confirmation______ cash flow______ a regulation______ to appreciateDefinitionproof that a delivery has been madethe conditions of when a customer should make paymentwhen more time is allowed for somethingan official or organisational rulea document which shows how much a customer has to pay, for what and by whenwhen something doesn’t follow the usual ruleto show someone you are grateful for something they have donethe timing and amount of money coming in and going out of a companyTasks · Task 1Are the sentences true or false?SentenceAnswer1. The delivery hasn’t arrived yet.True / False2. Andrea is having cash flow issues and needs a payment extension.True / False3. Andrea usually asks for an extension of the payment terms.True / False4. Andrea has a new order to place, even bigger than the last one.True / False5. Junko can extend the payment terms on the last order to 60 days.True / False6. Junko will send Andrea an email confirmation.True / False查看原图 · 1 页原课程第1页：准备词汇与6道判断题原课程音频：A phone call from a customer留下本单元首稿本单元先学再用；不记为未见初测。口语可使用原章节录音器，或自行录音并记文件名。播放原音一次，写 Task 1 第1–6题的 True / False。另写四格简记：来意、请求、顾虑、最后决定。保存后再看反馈。若词汇准备仍无法理解，允许先查词；把条件记下来。我的答案／口语录音文件与简记保留首稿，打开反馈先写下自己的答案。核对依据，再修订原课程 Task 1 答案\n1 False；2 True；3 False；4 False；5 True；6 True。\n1：货物已到且没有问题，来电真正讨论的是付款。\n2：客户暂时有现金流困难，请求延长付款期。\n3：客户承诺这不会变成惯例，因此不是经常这样要求。\n4：下一单与上次同样大，不是更大。\n5：最终同意本次破例，把付款期延长至 60 天。不要把之前的犹豫当最后决定。\n6：对方答应发确认邮件。\n把理解变成可用表达\nan extension on the payment terms 对应本语境；换到学校，可以说 ask for an extension to the deadline。不要把 extension 当动词写成 extension the deadline。\nI’m not sure if I can… 表示尚不确定，不等于已经确定拒绝；要继续听。\n逐题记首听0–6、查稿后能否说明证据。选错且不能解释原因的题，查 p3 原稿定位后再听；不要重听整段很多遍却没有明确目标。此处正确率不换算 IELTS band。修订：哪里变了，为什么换个情境再用一次输出练习：图书馆借书期限周五到，但你周末仍需要这本书。用3句英语提出延长到周一的请求，说明理由并感谢帮助。要求使用 extension 或 extend，再用 make an exception 表示希望本次破例。隔天不看原句说一次，记录能否独立表达。可选：记录或再练一次迁移答案／隔日回忆记录可选：记录或再练一次这次最需要补什么？请选择内容或语境没理解词义或声音没认出词汇选择／搭配不稳证据、逻辑或展开不足语法或句子组织问题暂时独立完成，隔天再检验配套材料A phone call from a customer原课程 PDF（p1题目 / p3稿 / p4答案）",
+  "links": [
+    {
+      "text": "A phone call from a customer",
+      "href": "https://learnenglish.britishcouncil.org/free-resources/listening/b1/phone-call-customer"
+    },
+    {
+      "text": "原课程 PDF（p1题目 / p3稿 / p4答案）",
+      "href": "原始参考/2c976e31-bec3ddb1-LearnEnglish-Listening-B1-A-phone-call-from-a-customer.pdf"
+    }
+  ],
+  "details": [
+    {
+      "id": "",
+      "title": "查看原图 · 1 页",
+      "open": false,
+      "visible": true
+    },
+    {
+      "id": "",
+      "title": "可选：记录或再练一次",
+      "open": false,
+      "visible": false
+    },
+    {
+      "id": "",
+      "title": "可选：记录或再练一次",
+      "open": false,
+      "visible": false
+    },
+    {
+      "id": "",
+      "title": "配套材料",
+      "open": false,
+      "visible": true
+    }
+  ],
+  "saveFields": [
+    "enrich-listening-customer-request-answer",
+    "enrich-listening-customer-request-frozen",
+    "enrich-listening-customer-request-saved-at",
+    "enrich-listening-customer-request-revision",
+    "enrich-listening-customer-request-transfer",
+    "enrich-listening-customer-request-diagnosis"
+  ],
+  "images": [
+    {
+      "src": "assets/deferred-media/9619c1b353aa1f691282076a.png",
+      "alt": "原课程第1页：准备词汇与6道判断题",
+      "visible": false,
+      "complete": false,
+      "width": 0
+    }
+  ],
+  "audio": [
+    {
+      "src": "原始参考/7e143401-416268a0-LE_listening_B1_A_phone_call_from_a_customer.mp3",
+      "sources": [],
+      "visible": true,
+      "controls": true
+    }
+  ],
+  "viewport": 1440,
+  "documentWidth": 1440
+}

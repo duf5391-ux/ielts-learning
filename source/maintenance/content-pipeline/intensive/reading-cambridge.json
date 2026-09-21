@@ -1,0 +1,998 @@
+{
+  "cases": [
+    {
+      "id": "rd-c21-t3-saiga-adaptation",
+      "overview": "文章把赛加羚羊适应自然环境的能力与抵御人为威胁的无力并置：鼻腔、季节性毛被能应对草原气候，却无法阻止猎杀。随后追溯数量恢复又崩溃的历史，并解释一项保护犀牛的倡议怎样把捕猎压力转移给了赛加。",
+      "paragraphs": [
+        {
+          "label": "原文片段 · 1",
+          "explanation": "先从过去数以百万计的大群迁徙写到文章叙述时数量集中于哈萨克斯坦，形成鲜明反差。native to 说明物种原产地；largely 和 well over 90% 表示高度集中，却不是其余国家已完全没有赛加。this country 指哈萨克斯坦，the rest 指全球种群中剩下的部分。"
+        },
+        {
+          "label": "原文片段 · 2",
+          "explanation": "大鼻子看起来奇特，却承担实用功能：夏季过滤尘土并为血液降温，冬季预热进入肺部的空气。冬毛则随着天气转暖脱落。两类例子共同说明适应是器官结构与季节变化的配合；extreme seasonal temperature swings 指季节之间很大的温差。"
+        },
+        {
+          "label": "原文片段 · 3",
+          "explanation": "Despite 把话题从自然适应转到人为威胁。19世纪猎杀几乎使它灭绝，法律保护曾带来20世纪大部分时期的恢复；但1991年之后的十年里，全球数量又损失超过95%。respite 是暂时喘息，不意味着危险从此消失。这里的时间与数量属于原文历史叙述。"
+        },
+        {
+          "label": "原文片段 · 4",
+          "explanation": "本段解释上段所说的骤减：偷猎规模极大，雄性因角的市场价值成为主要对象。一些保护者曾鼓励用赛加角替代犀牛角，结果压力转移到另一个物种。misguided 评价的是这种判断失误；雄性几近消失进一步造成种群崩溃，文中没有把善意等同于有效保护。"
+        }
+      ],
+      "phrases": [
+        {
+          "text": "a thing of the past",
+          "meaning": "已成为过去的景象或事物",
+          "usage": "原文说的是庞大兽群的壮观景象，不是在说赛加这个物种已经灭绝。"
+        },
+        {
+          "text": "is largely confined to",
+          "meaning": "主要局限于",
+          "usage": "be confined to 后接地区或范围；largely 保留例外，准确表达分布集中。"
+        },
+        {
+          "text": "on an industrial scale",
+          "meaning": "以工业化般的巨大规模",
+          "usage": "修饰偷猎规模，强调组织化、数量大，并非说偷猎本身属于合法工业。"
+        },
+        {
+          "text": "relieve the pressure on",
+          "meaning": "减轻……承受的压力",
+          "usage": "原文是减轻犀牛遭捕猎的压力；可接 species、resources 等压力承受对象。"
+        }
+      ],
+      "sentences": [
+        {
+          "text": "This country is estimated to be home to well over 90% of the global saiga population, with Russia, Mongolia and Uzbekistan accounting for the rest.",
+          "translation": "据估计，全球远超90%的赛加羚羊生活在这个国家，其余分布在俄罗斯、蒙古和乌兹别克斯坦。",
+          "explanation": "This country 回指哈萨克斯坦。is estimated to 表示这是估算；be home to 表示是某物的生活地。with 引出补充情况，accounting for 的主语是后面列出的三国；the rest 是剩余种群。"
+        },
+        {
+          "text": "Male saiga were almost wiped out, leading to a population crash from which the species has been struggling to recover ever since.",
+          "translation": "雄性赛加几乎被捕杀殆尽，造成种群数量暴跌，而这个物种自那以后一直艰难地恢复。",
+          "explanation": "leading to 表示前面事件带来的结果。from which 中 which 指 a population crash，recover from 表示从打击中恢复。has been struggling 和 ever since 共同突出恢复过程延续到作者叙述时仍未结束。"
+        }
+      ],
+      "writing": [
+        {
+          "phrase": "on an industrial scale",
+          "meaning": "以极大的、工业化的规模",
+          "usage": "适合描述技术与设备使资源开采规模扩大；不能把所有小型经营都称为 industrial scale。",
+          "matches": [
+            {
+              "caseId": "wc-bc-overfishing",
+              "example": "Large vessels can remove fish on an industrial scale, making effective limits on catches essential.",
+              "fit": "过度捕捞题讨论捕捞能力与生态压力，大型船舶造成的规模效应与原文大规模猎杀直接相关。"
+            }
+          ]
+        },
+        {
+          "phrase": "relieve the pressure on",
+          "meaning": "减轻……所承受的压力",
+          "usage": "说明措施帮助哪个对象；on 后接鱼群、生态系统等，随后解释压力怎样减少。",
+          "matches": [
+            {
+              "caseId": "wc-bc-overfishing",
+              "example": "Temporary closures can relieve the pressure on vulnerable fish stocks by allowing them time to reproduce.",
+              "fit": "直接用于过度捕捞的措施段，把休渔与鱼群恢复相连；不套用赛加保护倡议的历史结果。"
+            }
+          ]
+        }
+      ],
+      "noWritingMatchReason": ""
+    },
+    {
+      "id": "rd-c21-t3-saiga-threats",
+      "overview": "这部分把保护问题扩展到栖息地、跨境迁徙、疾病和气候的相互作用，再介绍生态系统恢复合作及数量回升。结尾同时保留积极趋势与持续风险；now、今年和几年前都以原文写作时点为准。",
+      "paragraphs": [
+        {
+          "label": "原文片段 · 1",
+          "explanation": "农业和定居点扩张挤压栖息地，铁路、管道及围栏又会切断迁徙通道。这里不只是栖息面积减少，还包括原有空间无法连通；受困兽群甚至可能饿死。transboundary 说明赛加活动跨越国界，管理边界与动物活动边界并不重合。"
+        },
+        {
+          "label": "原文片段 · 2",
+          "explanation": "两次短期大量死亡说明疾病风险的突然性。2015年的病菌平常无害，却引发严重疫情；2017年蒙古亚种又受到从家畜传播来的病毒影响。normally harmless 并不表示永远无害，spilled over 描述病原从一个动物群体传播到另一个群体。"
+        },
+        {
+          "label": "原文片段 · 3",
+          "explanation": "能适应常见的寒冬与炎夏，不等于能承受所有极端温度和不规则波动。专家把异常暖天气视为2015年大量死亡的可能诱因，may have triggered 保留了推测程度。干旱和溪流消失则构成另一条影响路径，涉及动物可获得的水源。"
+        },
+        {
+          "label": "原文片段 · 4",
+          "explanation": "保护行动由 Altyn Dala 项目牵头，并与政府和国际组织合作。目标是修复草原、半沙漠与沙漠生态系统及其中多个物种，赛加只是重点之一。联合国在2022年的认可体现项目受到重视，原文没有把奖项等同于某种新增资源。"
+        },
+        {
+          "label": "原文片段 · 5",
+          "explanation": "数量变化并非一路上升：2000年降到低点，随后恢复又遭大量死亡打断，之后才出现出生增加和航空调查记录的回升。文末 positive 指发展方向向好，remains 则保留当时仍有严重风险的判断。这里的年份、估算与保护等级都属于原文语境，不能直接当作今天的状态。"
+        }
+      ],
+      "phrases": [
+        {
+          "text": "loss of habitat",
+          "meaning": "栖息地丧失",
+          "usage": "habitat 指动物赖以生存的环境；与后文迁徙路线被阻断共同描述生存空间的损害。"
+        },
+        {
+          "text": "spilled over from livestock",
+          "meaning": "从家畜传播过来",
+          "usage": "spill over 在这里比喻病原跨群体传播；livestock 是家畜总称，不是野生动物。"
+        },
+        {
+          "text": "working in partnership with",
+          "meaning": "与……协作",
+          "usage": "用于说明组织之间共同开展行动；with 后列举合作方。"
+        },
+        {
+          "text": "the direction of travel is positive",
+          "meaning": "总体发展方向是积极的",
+          "usage": "travel 在这里是趋势比喻，不指赛加的实际迁徙；并不保证以后不会反复。"
+        }
+      ],
+      "sentences": [
+        {
+          "text": "Although well adapted to cold winters and hot summers, saiga struggle to cope with temperature extremes and unpredictable fluctuations in climate.",
+          "translation": "赛加虽然很好地适应了寒冷的冬季和炎热的夏季，却难以应对极端温度以及无法预测的气候波动。",
+          "explanation": "Although 后省略了与主句一致的主语和系动词，可理解为 although they are well adapted。主句 struggle to cope with 强调应对困难；两个并列名词短语分别指极端程度和变化的不稳定性。"
+        },
+        {
+          "text": "Its purpose is to protect and restore Kazakhstan's steppe, semi-desert and desert ecosystems and the many species they support, including the critically endangered saiga.",
+          "translation": "它的目的是保护并修复哈萨克斯坦的草原、半沙漠和沙漠生态系统，以及这些生态系统支持生存的众多物种，其中包括当时处于极危状态的赛加。",
+          "explanation": "Its 指保护项目。protect and restore 是并列目的动作；they support 修饰 species，they 回指 ecosystems。including 表示赛加包含在多个受益物种之中，而不是项目唯一保护对象。"
+        }
+      ],
+      "writing": [
+        {
+          "phrase": "working in partnership with",
+          "meaning": "与……共同合作",
+          "usage": "适合说明跨地区生态治理的合作关系，应明确谁和谁合作以及共同处理什么问题。",
+          "matches": [
+            {
+              "caseId": "wc-bc-overfishing",
+              "example": "Coastal authorities, working in partnership with neighbouring countries, can coordinate limits on catches from shared fish stocks.",
+              "fit": "过度捕捞涉及跨界鱼群，原文跨境物种保护中的机构协作与共享海域监管高度吻合。"
+            }
+          ]
+        },
+        {
+          "phrase": "protect and restore",
+          "meaning": "保护并修复",
+          "usage": "protect 强调避免进一步破坏，restore 强调恢复已经受损的状态；并列时应同时存在预防与修复需要。",
+          "matches": [
+            {
+              "caseId": "wc-bc-overfishing",
+              "example": "Fishing restrictions should protect and restore marine ecosystems while allowing communities time to adapt.",
+              "fit": "可用于说明限制捕捞的生态目标，并与题目中的渔业生计相衔接。"
+            }
+          ]
+        }
+      ],
+      "noWritingMatchReason": ""
+    },
+    {
+      "id": "rd-c21-t3-dart-city",
+      "overview": "文章用人口增长、外围低密度扩张与旧道路格局解释达累斯萨拉姆的出行困境，再引出选择快速公交的背景。人口预测与现实记录分开呈现；公交被认为更便宜、更可实现，并非已经解决全部交通问题。",
+      "paragraphs": [
+        {
+          "label": "原文片段 · 1",
+          "explanation": "人口已经增长八倍是过去到原文当下的变化；未来成为千万人口城市，以及2035年、2100年的规模则是不同来源的预测。anticipate、forecasts 和 could 标出预测性质。开头的作用是让后面的交通需求放在急速扩张的城市规模里理解。"
+        },
+        {
+          "label": "原文片段 · 2",
+          "explanation": "大部分居民住在不断向外扩展的单层非正规住区，往返中心耗时很长；雨水还会把土路变成泥路。空间距离和道路条件一起影响通勤。informal settlements 描述缺少正规规划等条件的住区，不能简单理解为居民随意居住。"
+        },
+        {
+          "label": "原文片段 · 3",
+          "explanation": "拥堵并不限于上下班时段，现有铁路覆盖也很有限。摩托车出租能穿过狭窄街道，却伴随很差的安全表现。段落展示居民面对的是速度、覆盖与安全的多重约束，而不仅是有没有某一种交通工具。"
+        },
+        {
+          "label": "原文片段 · 4",
+          "explanation": "四条主干道来自为小得多的人口设计的殖民时期规划。后来大量年轻人进城找工作，城市围绕旧路向边缘扩张，却缺少共同策略。legacy 指过去制度或规划留下的长期影响；旧骨架承受新规模，解释了前面出行问题的结构背景。"
+        },
+        {
+          "label": "原文片段 · 5",
+          "explanation": "But 将叙述转向当地希望采用的方案：快速公交可能提供一种不由私家车主导的发展路径。作者把公交与地铁比较，强调成本与可实现性，而不是把技术是否令人兴奋作为首要标准。could offer 保留了方案潜力尚待实现的意味。"
+        }
+      ],
+      "phrases": [
+        {
+          "text": "informal settlements",
+          "meaning": "非正规住区",
+          "usage": "城市研究中描述未完整纳入正规规划或基础设施体系的居住区域；不要直接等同于所有低收入社区。"
+        },
+        {
+          "text": "to cater for a population of",
+          "meaning": "为某一规模的人口提供服务",
+          "usage": "cater for 不只表示提供餐饮，这里指规划满足人口需求。"
+        },
+        {
+          "text": "on the periphery",
+          "meaning": "在城市边缘",
+          "usage": "the periphery 与中心相对，可用于描述城市扩张的空间方向。"
+        },
+        {
+          "text": "pinning its hopes on",
+          "meaning": "把希望寄托在……上",
+          "usage": "pin one's hopes on 后接计划或方案，带有期待色彩，不能代替对成效的实际证明。"
+        }
+      ],
+      "sentences": [
+        {
+          "text": "Today, four out of five of its people live in single-storey informal settlements on the spreading edges of the city, where the journey to and from the centre regularly takes over two hours.",
+          "translation": "在作者叙述时，这座城市五分之四的居民住在不断向外扩展的城市边缘的单层非正规住区，从那里往返市中心经常需要两个多小时。",
+          "explanation": "its 指达累斯萨拉姆。主干是 people live in settlements，single-storey 描述房屋形态，on the spreading edges 补充所在位置。where 回接这些外围地点，说明居民从该处出行的耗时。"
+        },
+        {
+          "text": "But Dar es Salaam is pinning its hopes on a solution that could offer a different model for Africa's megacities, giving them an alternative to a future controlled by the private car.",
+          "translation": "但达累斯萨拉姆正把希望寄托在一个可能为非洲超大城市提供不同发展模式的方案上，让这些城市有机会选择另一条道路，而不是走向由私家车主导的未来。",
+          "explanation": "that could offer 修饰 solution，could 表示可能性。giving them 补充这种方案可能带来的作用，them 指非洲超大城市。controlled by the private car 修饰 future，private car 泛指以私家车为核心的出行模式。"
+        }
+      ],
+      "writing": [
+        {
+          "phrase": "on the periphery",
+          "meaning": "在城市外围",
+          "usage": "用于讨论住房位置与服务距离，需要说明外围扩张带来的具体条件，不能据此断定所有郊区住房都不好。",
+          "matches": [
+            {
+              "caseId": "wc-c21-t1-homes",
+              "example": "Building more homes on the periphery may lengthen journeys to work if public transport does not expand at the same time.",
+              "fit": "高层住宅题涉及如何在大城市提供足够住房；这一表达帮助比较外围扩张与紧凑建设的出行影响。"
+            }
+          ]
+        },
+        {
+          "phrase": "a future controlled by the private car",
+          "meaning": "由私家车主导的未来",
+          "usage": "适合描述城市发展的整体方向，随后应解释公共交通如何提供现实替代。",
+          "matches": [
+            {
+              "caseId": "wc-official-transport",
+              "example": "Investment in reliable public transport can help cities avoid a future controlled by the private car.",
+              "fit": "直接回应交通题鼓励替代交通方式的主张；不自动推出必须统一限制所有地区的汽车拥有量。"
+            }
+          ]
+        }
+      ],
+      "noWritingMatchReason": ""
+    },
+    {
+      "id": "rd-c21-t3-dart-system",
+      "overview": "这一部分先讲快速公交为什么能提高通行效率与可达性，再用乘客体验和设备故障说明设计与运行的差别，最后交代扩建计划。便利来自专用车道、提前检票和无台阶车辆等具体安排，也依赖车辆、票务和维护正常运作。",
+      "paragraphs": [
+        {
+          "label": "原文片段 · 1",
+          "explanation": "专用车道与其他车辆分隔，减少公交受混合交通阻塞的机会；购票和检票放在上车之前，可以减少登车环节的拖延。无台阶车辆让轮椅使用者及推婴儿车的人更容易使用线路。accessible 在这里是实际能进入和使用，不只是知道线路在哪里。"
+        },
+        {
+          "label": "原文片段 · 2",
+          "explanation": "乘客 Paulas 的通勤时间缩短了三分之二，但司机为节油不开空调使体验打了折扣。个人评价同时含有改善和不满，though 承接这种转折。原文描述的是这名乘客的经历，不能将相同降幅推给每一位乘客。"
+        },
+        {
+          "label": "原文片段 · 3",
+          "explanation": "洪水损坏车库后的车辆短缺使运量只有预期的一半；读卡器和扫码器问题又迫使乘客每次买纸票、工作人员手撕票。技术功能存在于票面或系统设计中，却未真正发挥作用，因此高峰排队明显。That 回接空调问题，说明后面还有更多运行困难。"
+        },
+        {
+          "label": "原文片段 · 4",
+          "explanation": "叙述从当前故障转向分期扩建：第一期已有线路，第二、三期即将施工，第四期尚在初步设计。完成后约三分之一居民能步行短距离接入网络，是带条件的未来覆盖描述。不同阶段不能都理解成已经建好并投入使用。"
+        }
+      ],
+      "phrases": [
+        {
+          "text": "prior to boarding",
+          "meaning": "在上车之前",
+          "usage": "prior to 比 before 稍正式；to 是介词，后接 boarding，说明购票检票发生的顺序。"
+        },
+        {
+          "text": "accessible to people using wheelchairs",
+          "meaning": "轮椅使用者能够使用",
+          "usage": "be accessible to 指对某群体可进入、可使用；这里有无台阶设计作为具体支撑。"
+        },
+        {
+          "text": "half the expected capacity",
+          "meaning": "预期运载能力的一半",
+          "usage": "expected 标明比较基准是预期值，不是原有实际客流量。"
+        },
+        {
+          "text": "within a short walk of",
+          "meaning": "在步行很短距离即可到达……的范围内",
+          "usage": "常用来描述住宅与车站、服务设施的接近程度；原文用于尚待完成的线路网络。"
+        }
+      ],
+      "sentences": [
+        {
+          "text": "Ticket purchase and control takes place at stations prior to boarding and the buses are step-free, which means the entire route is accessible to people using wheelchairs or who are travelling with baby buggies.",
+          "translation": "购票和检票都在乘客上车前于车站进行，而且公交车没有台阶，这意味着轮椅使用者或推着婴儿车出行的人都能使用整条线路。",
+          "explanation": "control 在票务语境中是检票。and 连接车站流程与车辆设计，which means 引出无障碍结果。using wheelchairs 和 who are travelling with baby buggies 都修饰 people，分别列出受益人群；引文保留原文形式。"
+        },
+        {
+          "text": "All phases are being planned to high standards and, once complete, a third of city residents will be within a short walk of the BRT network.",
+          "translation": "各期工程都正在按照高标准规划；待工程完成后，全市三分之一的居民步行很短距离就能到达快速公交网络。",
+          "explanation": "are being planned 表示正在规划。once complete 是省略结构，意思是这些建设完成以后，并不修饰居民。will be 与 once 一起把覆盖率限定为未来完工后的状态。"
+        }
+      ],
+      "writing": [
+        {
+          "phrase": "accessible to people using wheelchairs",
+          "meaning": "便于轮椅使用者使用",
+          "usage": "用于说明公共交通替代方案应照顾不同乘客；需配合无台阶入口、站台等具体设计。",
+          "matches": [
+            {
+              "caseId": "wc-official-transport",
+              "example": "Buses should be accessible to people using wheelchairs so that alternatives to cars serve passengers with different mobility needs.",
+              "fit": "交通题中的替代方式不只是增加车辆，还包括让不同人群能实际使用。"
+            }
+          ]
+        },
+        {
+          "phrase": "within a short walk of",
+          "meaning": "距……很近，步行即可到达",
+          "usage": "说明住房与公交网络的空间联系；是否足够近应由实际布局支持。",
+          "matches": [
+            {
+              "caseId": "wc-c21-t1-homes",
+              "example": "Apartment blocks within a short walk of frequent public transport can provide more homes without making every resident dependent on a car.",
+              "fit": "直接用于比较高层住宅的条件：密度优势需要交通可达性支持。"
+            },
+            {
+              "caseId": "wc-official-transport",
+              "example": "More residents may choose buses if their homes are within a short walk of a reliable route.",
+              "fit": "说明公交替代汽车所需的接近性与可靠性，连接设施安排和出行选择。"
+            }
+          ]
+        }
+      ],
+      "noWritingMatchReason": ""
+    },
+    {
+      "id": "rd-c21-t3-past-discoveries",
+      "overview": "作者把大量考古发现归纳成两条需要重看的认识：某些被视为先进的行为比过去想象的更早出现，对史前性别分工的看法也可能受当代预设影响。这里主要展开建筑和极端环境定居的例子，注意区分发现本身与研究者对用途的推测。",
+      "paragraphs": [
+        {
+          "label": "原文片段 · 1",
+          "explanation": "接连出现的发现改变了对人类起源年代及已灭绝人族成员的理解，但物种和年代众多，整体联系并不容易辨认。truism 表示已经被反复承认的说法；common threads 是贯穿材料的共同线索，作者接下来要从碎片发现中提炼这些联系。"
+        },
+        {
+          "label": "原文片段 · 2",
+          "explanation": "作者明确以 I do think 和 to me 提出自己的归纳：建筑、艺术等行为的历史可能追溯到现代人之前；史前女性角色则被后来的父权观念误读。supposedly 给 advanced 加上距离感，提醒读者所谓先进本身也带有分类与评价。"
+        },
+        {
+          "label": "原文片段 · 3",
+          "explanation": "赞比亚木构件的加工与咬合显示它们可能属于更大的结构，但 perhaps a building 仍是对用途的推测。476,000年前的年代使发现尤其突出，因为比现代人出现还早。高海拔地区的古人族居住证据则挑战了这类环境很晚才被占据的旧想法。"
+        }
+      ],
+      "phrases": [
+        {
+          "text": "come thick and fast",
+          "meaning": "大量而接连不断地出现",
+          "usage": "形容发现出现得多且频繁；是较生动的固定表达，不是说发现物本身很厚。"
+        },
+        {
+          "text": "the common threads",
+          "meaning": "共同线索",
+          "usage": "threads 比喻连接不同发现的主题；作者想理解它们共同改变了什么认识。"
+        },
+        {
+          "text": "can be traced much further back in time",
+          "meaning": "可以追溯到久远得多的过去",
+          "usage": "be traced back 表示追溯起源；much 修饰比较级 further，强调与旧估计的差距。"
+        },
+        {
+          "text": "imposing patriarchal values onto cultures",
+          "meaning": "把父权价值观强加到其他文化的解释上",
+          "usage": "这里指用后来研究者的观念解读古代文化，并非说这些研究者真的改变了史前社会。"
+        }
+      ],
+      "sentences": [
+        {
+          "text": "One is the growing evidence that many supposedly 'advanced' behaviours, such as architecture and art, can be traced much further back in time than we thought, often to hominin species that existed before modern humans.",
+          "translation": "其中一点是，越来越多证据显示，建筑和艺术等许多所谓先进的行为，可以追溯到比我们原先想象久远得多的年代，往往追溯到现代人出现之前就已存在的人族物种。",
+          "explanation": "One 指作者归纳出的两条认识之一。第一个 that 引出 evidence 的具体内容，such as 插入例子；than we thought 给出比较基准。最后的 that existed 修饰 hominin species，限定这些物种所处的时代。"
+        },
+        {
+          "text": "At Kalambo Falls in Zambia, researchers found buried logs that had been shaped with stone tools so that they interlocked.",
+          "translation": "在赞比亚的卡兰博瀑布，研究人员发现了埋藏的木料，这些木料曾用石器加工，从而能够相互咬合。",
+          "explanation": "that had been shaped 修饰 logs，过去完成时表示加工早于研究人员发现。so that 引出加工所达到的目的或效果，they 回指木料。句子先报告材料及加工特征，后文才推测它们可能的用途。"
+        }
+      ],
+      "writing": [
+        {
+          "phrase": "can be traced much further back in time",
+          "meaning": "可以追溯到久远得多的过去",
+          "usage": "适用于有历史材料支持的起源讨论，不能仅为显得正式就给某个现象编造更早起点。",
+          "matches": []
+        },
+        {
+          "phrase": "the common threads",
+          "meaning": "共同线索或贯穿主题",
+          "usage": "适合已有多个历史案例后归纳其联系；使用时应说清这些线索具体是什么。",
+          "matches": []
+        }
+      ],
+      "noWritingMatchReason": "现有写作题没有人类起源、考古认识或史前性别角色章节；一般性的科学话题不足以构成内容上的高拟合，暂不硬配。"
+    },
+    {
+      "id": "rd-c21-t3-past-art",
+      "overview": "作者讨论早期人族艺术的证据及 Homo naledi 争议，既要求刻痕年代得到更可靠确认，也反对只凭脑容量判断复杂行为能力。核心张力是证据需要加强，但评估证据的既有框架本身也值得反思。",
+      "paragraphs": [
+        {
+          "label": "原文片段 · 1",
+          "explanation": "对不同物种的证据强度并不相同：尼安德特人壁画已有证据，更早物种制作艺术则以 may 表示可能。关于 Homo naledi 的说法争议最大，因为传统观点把小脑容量与无法进行复杂行为联系起来；洞壁刻痕看似艺术，但仍没有确定年代。contemporary 指与现代人这一物种在时间上并存。"
+        },
+        {
+          "label": "原文片段 · 2",
+          "explanation": "争论既涉及证据是否足够，也受到公开同行评议这一发表方式的影响。作者承认需要更强的年代证据，却认为脑容量争论容易分散注意力：骨骼让研究者容易看到形状和大小，内部连接等重要特征反而难以直接得知。最后提出可能解释，没有宣告已经证实 Homo naledi 会创作艺术。"
+        }
+      ],
+      "phrases": [
+        {
+          "text": "have yet to be firmly dated",
+          "meaning": "尚未得到可靠断代",
+          "usage": "have yet to 表示某事截至叙述时尚未完成；dated 在考古语境中指确定年代。"
+        },
+        {
+          "text": "the evidence presented so far",
+          "meaning": "迄今提出的证据",
+          "usage": "so far 将判断限定在目前可获得的材料，保留以后出现新证据的可能。"
+        },
+        {
+          "text": "with regard to",
+          "meaning": "关于，就……而言",
+          "usage": "原文把需要更多证据的范围收窄到刻痕年代，而不是笼统否定全部发现。"
+        },
+        {
+          "text": "got fixated on brain size",
+          "meaning": "过于执着于脑容量",
+          "usage": "fixated on 带有注意力被单一因素占据的意味，是作者对研究倾向的批评。"
+        }
+      ],
+      "sentences": [
+        {
+          "text": "Palaeoanthropologists got fixated on brain size because it was what they could see: if what you have is skeletons, then all you know about brains are their shapes and sizes.",
+          "translation": "古人类学家过于执着于脑容量，因为这是他们能观察到的东西：如果手头只有骨骼，那么对大脑所能知道的也就只有形状和大小。",
+          "explanation": "because 解释注意力集中于脑容量的原因。冒号后用 if 条件句展开限制；what you have 作主语，all you know about brains 表示所知的全部内容。这里说的是材料可见性如何影响研究视角。"
+        },
+        {
+          "text": "But other properties, such as the brain's internal wiring, are surely equally important and may explain how a species like H. naledi might have been capable of complex behaviours, despite their small brains.",
+          "translation": "但其他特征，例如大脑内部的连接方式，想必也同样重要，并且可能解释像 Homo naledi 这样的物种为何虽脑容量较小，却仍可能具备复杂行为能力。",
+          "explanation": "such as 插入具体特征，how 从句作 explain 的宾语。may explain 与 might have been 都保留可能性；despite 引出小脑容量这一看似相反的条件。surely 显示作者的判断语气，不把后面的推测变成定论。"
+        }
+      ],
+      "writing": [
+        {
+          "phrase": "the evidence presented so far",
+          "meaning": "目前已提出的证据",
+          "usage": "适合讨论某一具体主张的证据边界；没有证据材料时，不应借这句话暗示自己已做过研究评估。",
+          "matches": []
+        },
+        {
+          "phrase": "have yet to be firmly dated",
+          "meaning": "尚待可靠断代",
+          "usage": "专用于年代尚不确定的文物、遗址或痕迹；不能把 dated 误用于一般政策是否有效。",
+          "matches": []
+        }
+      ],
+      "noWritingMatchReason": "现有科学研究写作题问政府与企业谁应控制研究，并不讨论古人类艺术证据或断代；本篇表达先留在材料精读中。"
+    },
+    {
+      "id": "rd-c21-t3-past-preconceptions",
+      "overview": "作者从渐进演化谈到研究预设，再用女性狩猎和担任领导者的材料质疑单一的史前性别分工故事。结尾由历史认识上升到对社会选择的评论，这是作者的论述立场，不应把它当作所有史前社会相同的证明。",
+      "paragraphs": [
+        {
+          "label": "原文片段 · 1",
+          "explanation": "鸟类飞行与早期手机的类比说明复杂能力往往逐步积累。作者承认系统可能达到临界点后迅速变化，但认为人类演化突然发生智力爆发的证据并不充分。walked so we could run 是比喻：早期人族积累的能力为后来发展铺路，不是字面上的走路与跑步史。"
+        },
+        {
+          "label": "原文片段 · 2",
+          "explanation": "不论 Homo naledi 的争议最后如何解决，作者都认为这反映预设可能妨碍理解证据。随后把同一问题转到性别研究：早期考古学家的父权观念进入研究解释，如今的研究者尝试把这些观念从材料中拆解出来。those notions 回指前面的性别观念。"
+        },
+        {
+          "label": "原文片段 · 3",
+          "explanation": "多个例子从不同方向松动男性狩猎、女性留家的单一故事：对数十个采集狩猎社会的汇总发现多数有女性狩猎，投矛工具可缩小投射速度差别，古代女性领导者也有新的证据。80%是这份分析涉及的社会比例，不能扩展为所有史前社会；Thyra 的作用仍以 may 表示可能。"
+        },
+        {
+          "label": "原文片段 · 4",
+          "explanation": "作者认为，越了解过去，就越能看到今天视为理所当然的社会安排并非唯一可能。把不平等、威权和父权称为 choices 是结尾的价值判断，作用是拓展读者对社会的想象，而不是声称过去所有社会都平等或自由。"
+        }
+      ],
+      "phrases": [
+        {
+          "text": "incremental steps",
+          "meaning": "逐步累积的小幅变化",
+          "usage": "incremental 强调累积过程；与突然的爆发式变化形成对照。"
+        },
+        {
+          "text": "hits a tipping point",
+          "meaning": "达到临界点",
+          "usage": "比喻系统发生转折的阈值，文中承认这种机制可能存在，却未断言人类演化必然如此。"
+        },
+        {
+          "text": "get in the way of the evidence",
+          "meaning": "妨碍正确看待证据",
+          "usage": "get in the way of 表示阻碍；主语是 preconceptions，指先入为主的观念影响解释。"
+        },
+        {
+          "text": "occupying positions of authority",
+          "meaning": "担任有权威的职位",
+          "usage": "指在社会中拥有领导或决策地位，比简单说某个人受到尊敬更具体。"
+        }
+      ],
+      "sentences": [
+        {
+          "text": "The idea that there was a sudden explosion of intelligence and creativity at some point in our evolution isn't inherently ridiculous: sometimes a system hits a tipping point and undergoes runaway change.",
+          "translation": "认为人类演化过程中某个时点曾突然出现智力与创造力的爆发，这种想法本身并不荒谬：有时系统确实会达到临界点，并经历迅速扩大的变化。",
+          "explanation": "that 从句说明 idea 的具体内容。isn't inherently ridiculous 是有限度的认可，并不等于作者接受这个历史解释。冒号后的系统变化说明其理论上可想象；后文再转向实际证据不足。"
+        },
+        {
+          "text": "Going further back, an Iberian leader from around 4000 years ago turned out to be female, not male as many had assumed, when proteins in her teeth were analysed.",
+          "translation": "再往更早的年代看，约四千年前的一位伊比利亚领导者，在牙齿中的蛋白质被分析后，被发现是女性，而非许多人此前以为的男性。",
+          "explanation": "Going further back 提示叙述时间继续向前追溯。turned out to be 表示后来查明的事实；as many had assumed 插入先前的认识。when 从句交代认识改变所依赖的分析情境，her 回指这位领导者。"
+        }
+      ],
+      "writing": [
+        {
+          "phrase": "incremental steps",
+          "meaning": "逐步累积的变化",
+          "usage": "可描述有过程依据的渐进发展；不要仅凭这个词就断定所有技术或社会变化都缓慢发生。",
+          "matches": []
+        },
+        {
+          "phrase": "occupying positions of authority",
+          "meaning": "担任领导或决策职位",
+          "usage": "适合社会性别与领导角色的讨论，需要具体角色或史实支持。",
+          "matches": []
+        }
+      ],
+      "noWritingMatchReason": "当前写作题没有史前社会、性别角色或渐进演化主题；不把泛泛的词语可用性当作章节内容高拟合。"
+    },
+    {
+      "id": "rd-c21-t4-hyacinth-problem",
+      "overview": "文章从水葫芦的入侵路径写到渔业收入、做饭燃料和室内烟尘，再把同一种植物转看为潜在能源。两类问题由湖边家庭的生活相连，结尾的能源价值仍是研究和预测所提出的潜力。",
+      "paragraphs": [
+        {
+          "label": "原文片段 · 1",
+          "explanation": "水葫芦原产南美，20世纪初进入非洲并开始堵塞重要水坝和河道。aquatic 表示水生；weed 在这里体现它在当地环境中的妨碍作用。最糟糕的水生杂草是文中科学家的称呼，具有评价色彩。"
+        },
+        {
+          "label": "原文片段 · 2",
+          "explanation": "它最初作为观赏植物进入卢旺达池塘，随后顺河进入维多利亚湖。缺少天敌且温度适宜，使其迅速扩散：既阻碍捕鱼路线，也为携病蚊虫提供栖息地。escaped 带引号，把植物离开受控种植环境写成逃出。"
+        },
+        {
+          "label": "原文片段 · 3",
+          "explanation": "水面被覆盖后，运鱼困难影响熏鱼女性的收入；同时，她们仍需远行拾柴，并长期吸入烹饪烟尘。段落把局部职业处境扩展到许多肯尼亚家庭依赖固体燃料的背景，再引述原文当时的健康估计。室内污染并不都来自烹饪，most of which 保留了这一范围。"
+        },
+        {
+          "label": "原文片段 · 4",
+          "explanation": "被捞上岸的腐烂植物原本像废物，作者却用 gold mine 比喻其中潜藏的能源价值。研究者注意到其碳氮比例并探索生物燃料用途；每天约4公斤干植物可满足大家庭能源需求，是早期研究的预测，不等于所有实际装置已实现同样产出。"
+        }
+      ],
+      "phrases": [
+        {
+          "text": "made its way downstream",
+          "meaning": "沿河向下游扩散",
+          "usage": "make one's way 描述移动过程；这里主语是植物，指它随着水路进入新的环境。"
+        },
+        {
+          "text": "disease-carrying mosquitoes",
+          "meaning": "携带病原、可能传播疾病的蚊虫",
+          "usage": "复合形容词说明蚊虫的健康风险，不表示植物本身造成所有相关疾病。"
+        },
+        {
+          "text": "a renewable energy gold mine",
+          "meaning": "可再生能源的潜在宝库",
+          "usage": "gold mine 是价值比喻，强调废弃植物可能具有用途，并非实际金矿。"
+        },
+        {
+          "text": "explore its potential as a biofuel",
+          "meaning": "探索它作为生物燃料的潜力",
+          "usage": "explore 和 potential 都说明处于研究与评估阶段，不能改述成效果已经被全面证实。"
+        }
+      ],
+      "sentences": [
+        {
+          "text": "There, with no natural predators and perfect temperature conditions, the plant began spreading in the open water, blocking fishing routes and providing a new habitat for disease-carrying mosquitoes.",
+          "translation": "在那里，由于没有天敌且温度条件十分适宜，这种植物开始在开放水域扩散，堵住捕鱼路线，并为携病蚊虫提供了新的栖息地。",
+          "explanation": "There 指维多利亚湖。with 短语交代促成扩散的条件；主干是 the plant began spreading。blocking 与 providing 并列补充扩散伴随的两个后果，分别涉及生计和健康。"
+        },
+        {
+          "text": "But buried in those decaying waxy leaves was a renewable energy gold mine.",
+          "translation": "然而，那些正在腐烂的蜡质叶片里，却藏着一座可再生能源宝库。",
+          "explanation": "这是把 buried in those decaying waxy leaves 提到句首的倒装表达，主语 a renewable energy gold mine 放在 was 后面。But 改变观察角度：同一堆植物从需清除的麻烦转成可能利用的资源。"
+        }
+      ],
+      "writing": [
+        {
+          "phrase": "explore its potential as a biofuel",
+          "meaning": "研究它作为生物燃料的可行潜力",
+          "usage": "适合谈某种植物或有机废料的能源用途，its 必须有明确的材料所指。",
+          "matches": []
+        },
+        {
+          "phrase": "a renewable energy gold mine",
+          "meaning": "可再生能源宝库",
+          "usage": "是强调潜在价值的生动比喻；严谨论述中仍需交代技术与成本条件，不适合作为万能的积极评价。",
+          "matches": []
+        }
+      ],
+      "noWritingMatchReason": "当前写作题没有生物能源、入侵植物或家庭燃料章节。虽然材料也提到渔业，其核心困境不是过度捕捞，不能混为同一个问题。"
+    },
+    {
+      "id": "rd-c21-t4-hyacinth-biogas",
+      "overview": "Dunga 的项目把水葫芦和牛粪转成沼气，同时尝试减少水生植物危害与柴火依赖。文章交代运作过程和初步生活变化，也保留健康效果仍需研究、设备成本阻碍推广两项限制。",
+      "paragraphs": [
+        {
+          "label": "原文片段 · 1",
+          "explanation": "2018年，当地收到两台捐赠的沼气消化装置，原料是水葫芦与牛粪的混合物。two-for-one 指一项方案同时面对两个问题：植物堵水与燃料依赖。promised 表示项目提出的承诺或前景，不代表每一方面成效已完全实现。"
+        },
+        {
+          "label": "原文片段 · 2",
+          "explanation": "胃和嘴的比喻帮助理解装置：混合物进入后，在20至30天里发酵分解，释放的气体经管道送往使用处。原文说供应量可覆盖村庄约60%人口，并举出做饭、净水及孵小鸡用途。It 在末句指沼气，而非消化装置本体。"
+        },
+        {
+          "label": "原文片段 · 3",
+          "explanation": "作者描述初步变化：熏鱼女性生病次数减少，也节省了每天拾柴的时间，从而有机会经营其他生计。seems to be working 保留观察的初步性。经济收益不只是买燃料花费改变，还包括时间被释放后可以投入其他活动。"
+        },
+        {
+          "label": "原文片段 · 4",
+          "explanation": "研究人员认为，改用无烟烹饪的家庭有望减少呼吸系统疾病；妇女、女孩和儿童因经常在炉火旁做饭而更易受影响。because 把脆弱性与接触环境相连，并非声称这些群体生理上必然更弱。could expect 是预期而非效果保证。"
+        },
+        {
+          "label": "原文片段 · 5",
+          "explanation": "文章最后主动收紧结论：社区健康改善究竟多大还需更多研究。与此同时，约750美元的售价使多数社区难以负担，除非价格下降。技术能工作、能改善生活与能被广泛购买，是三个不同的问题；捐赠试点不自动证明商业推广可行。"
+        }
+      ],
+      "phrases": [
+        {
+          "text": "a two-for-one solution",
+          "meaning": "同时解决两个问题的方案",
+          "usage": "two-for-one 借用日常促销表达，这里指一种技术有两个预期用途，不是实际购买折扣。"
+        },
+        {
+          "text": "goes through a fermentation process",
+          "meaning": "经历发酵过程",
+          "usage": "go through 表示经历某过程；这里的主语是进入装置的混合原料。"
+        },
+        {
+          "text": "provide an effective alternative to",
+          "meaning": "为……提供有效替代",
+          "usage": "alternative to 后接被替代的方式；effective 需要具体效果支持，不能仅表示更新颖。"
+        },
+        {
+          "text": "devote a lot of time every day to gathering firewood",
+          "meaning": "每天花大量时间收集柴火",
+          "usage": "devote time to 后用名词或动名词，to gathering 中的 to 是介词。"
+        }
+      ],
+      "sentences": [
+        {
+          "text": "The mixture goes in one end - think of it as a mouth - and over the next 20 to 30 days, it goes through a fermentation process and breaks down, giving off gas that comes out the other end.",
+          "translation": "混合物从一端进入——可以把这一端想成嘴——随后在20至30天里经历发酵并分解，释放出的气体从另一端排出。",
+          "explanation": "破折号中的话是帮助理解的插入比喻。前一个 it 指入口，后一个 it 指 mixture；要依据各自语境区分。giving off 表示分解时释放气体，that comes out 修饰 gas，交代气体的流向。"
+        },
+        {
+          "text": "But unless the price of the machines drops, it's pretty clear that most communities will never be able to afford any, since they sell for about $750.",
+          "translation": "但除非这些机器降价，否则很明显，多数社区将无力购买，因为它们的售价约为750美元。",
+          "explanation": "unless 表示只有价格下降才可能改变后面的负担问题。any 省略了 machines，they 也回指设备。since 在这里解释原因而非表示自某时以来；never 带出受访者对当前价格障碍的强烈判断。"
+        }
+      ],
+      "writing": [
+        {
+          "phrase": "provide an effective alternative to",
+          "meaning": "提供有效替代",
+          "usage": "先说清被替代的能源或做法，再具体说明替代品在成本、供应或使用上的效果；不是仅靠形容词完成论证。",
+          "matches": []
+        },
+        {
+          "phrase": "the price of the machines drops",
+          "meaning": "设备价格下降",
+          "usage": "适用于讨论技术推广的负担条件；应区分购买价、运行费与补贴，不能把它们混称为价格。",
+          "matches": []
+        }
+      ],
+      "noWritingMatchReason": "现有写作题没有农村能源或环保设备推广章节；仅因别的题也提到替代方案或成本，不将这篇内容强行同步过去。"
+    },
+    {
+      "id": "rd-c21-t4-multilingual-background",
+      "overview": "德里的语言多样性来自长期居住与人口迁移。研究关注一个表面矛盾：社会中多语现象普遍，一些学生却没有呈现其他教育环境里观察到的益处。文章把调查问题落到家庭语言、学校授课语言、贫困与学习环境之间的关系，而未先判定多语本身有害。",
+      "paragraphs": [
+        {
+          "label": "原文片段 · 1",
+          "explanation": "繁忙街道的声音引出多语言共存，迁入者常怀着更好工作和生活的希望来到首都。有人熟练使用占主导地位的印地语，也有人主要使用其他官方或地区语言。let alone 强调官方语言数量之外还有更多地区语言；统计值与人口描述沿用原文时点。"
+        },
+        {
+          "label": "原文片段 · 2",
+          "explanation": "研究团队对千名小学年龄儿童收集资料，目标不是证明会多种语言一定有益或有害，而是理解为何在某些欧洲学校观察到的益处没有出现在许多印度学生身上。observed in schools in Europe 限定比较经验的来源，不能把它扩大为所有欧洲儿童的普遍结论。"
+        },
+        {
+          "label": "原文片段 · 3",
+          "explanation": "研究者引述重复出现的低学习表现：许多五年级儿童仍难以完成二年级阅读和减法任务。这里的比较体现学习进展不足，后果可能是辍学，且女生受到不成比例的影响。can lead to 是风险关系，不是说每个表现偏低的儿童都会离校。"
+        },
+        {
+          "label": "原文片段 · 4",
+          "explanation": "研究进一步检查学校授课语言与家庭语言不同是否可能影响学习，同时记录城乡、住区和迁移背景。家庭贫困限制居住选择，迁移又可能造成儿童原有语言与迁入地语言不同。whether 和 could be caused 表示研究中的问题，不能直接改成已经确定的唯一原因。"
+        }
+      ],
+      "phrases": [
+        {
+          "text": "in the hope of gaining better jobs and a better life",
+          "meaning": "怀着获得更好工作与生活的希望",
+          "usage": "in the hope of 后接动名词，表达迁移者的动机，不表示愿望必然实现。"
+        },
+        {
+          "text": "The overriding aim",
+          "meaning": "最主要的目标",
+          "usage": "overriding 强调优先地位；原文用来概括项目需要回答的核心问题。"
+        },
+        {
+          "text": "low educational achievement",
+          "meaning": "较低的学习成就",
+          "usage": "在文中由具体阅读与计算表现说明，不能直接等同于儿童智力较低。"
+        },
+        {
+          "text": "differs from the language used at home",
+          "meaning": "与家庭使用的语言不同",
+          "usage": "differ from 比较两个明确对象，这里是学校教学语言和家庭语言。"
+        }
+      ],
+      "sentences": [
+        {
+          "text": "Tsimpli and her colleagues are investigating whether these low learning outcomes could be caused by an Indian school system where the language that children are taught in often differs from the language used at home.",
+          "translation": "Tsimpli 和同事正在调查，这些较低的学习成果是否可能与印度学校的一种情况有关：儿童接受教学的语言常常不同于家里使用的语言。",
+          "explanation": "whether 从句是 investigating 的内容，could be caused 保留待验证的可能性。where 描述学校体系中的情况；that children are taught in 修饰 language，句末的 in 与该语言搭配，表示以某种语言授课。"
+        },
+        {
+          "text": "They are so poor they have to live in slums and, as a result of migration, they may speak languages that are different from the regional language.",
+          "translation": "这些儿童的家庭十分贫困，以至于他们不得不住在贫民区；而且，由于迁移，他们使用的语言可能不同于当地的地区语言。",
+          "explanation": "They 回指从偏远农村迁往城市的许多儿童。so poor 后省略了 that，引出居住条件的结果。and 后另加迁移造成的语言差异，may 保留个体差别；贫困与语言差异不是完全相同的一个原因。"
+        }
+      ],
+      "writing": [
+        {
+          "phrase": "differs from the language used at home",
+          "meaning": "与家庭语言不同",
+          "usage": "适合解释某些儿童理解课堂内容时面临的额外要求，避免把语言差异等同于能力不足。",
+          "matches": [
+            {
+              "caseId": "wc-c21-t4-primary",
+              "example": "When the language of classroom instruction differs from the language used at home, play with pictures and objects may help children understand and express ideas.",
+              "fit": "小学正式学习与游戏题关注课堂学习体验；可用来说明具体情境下游戏和实物活动怎样支持理解，不把游戏宣称为所有语言困难的解决方案。"
+            }
+          ]
+        },
+        {
+          "phrase": "low educational achievement",
+          "meaning": "较低的学习成果",
+          "usage": "讨论学习结果时应解释环境与具体表现，不能把这个表达当作对儿童的固定标签。",
+          "matches": []
+        }
+      ],
+      "noWritingMatchReason": ""
+    },
+    {
+      "id": "rd-c21-t4-multilingual-findings",
+      "overview": "研究开始把授课语言、教学方式与儿童生活经验一起考虑。作者呈现的是初步结果：陌生的授课语言可能阻碍早期学习，贴合儿童需求比统一要求更合适；贫困住区儿童某些表现较好也不能反过来证明贫困本身有益。",
+      "paragraphs": [
+        {
+          "label": "原文片段 · 1",
+          "explanation": "再次测试让研究者能继续观察儿童，而不只停留在一次结果。他们也看学校质量、环境和课堂做法；教师主导、缺少自主学习空间只是一个可能原因。It's possible 和 one of the causes 同时限制了因果判断。"
+        },
+        {
+          "label": "原文片段 · 2",
+          "explanation": "研究初步发现，入学前及校外很少接触某种授课语言的儿童，可能受到语言本身的阻碍。关于英语不一定最适合的判断，特别限定在经济社会条件较弱儿童的小学前三年，不能读成所有年龄都不该学英语。"
+        },
+        {
+          "label": "原文片段 · 3",
+          "explanation": "建议是先用儿童能自在理解的语言学习；英语仍可作为一门学科，而不必承担教授所有学科的媒介。that ship has sailed 表示完全撤回英语已不是现实方向。作者批评的是教学过于统一、对能力和需求调整不足，重点在怎样教而非排斥某种语言。"
+        },
+        {
+          "label": "原文片段 · 4",
+          "explanation": "初步结果中，贫民区儿童在一般智力上并不落后，某些识字与算数活动还表现更好。研究者推测日常生存经验让他们较早接触实用计算，但 may be down to 保留了原因的不确定性。比较对象是其他城市贫困背景儿童，不能直接推成贫困儿童总体优于富裕儿童。"
+        }
+      ],
+      "phrases": [
+        {
+          "text": "little room for independent learning",
+          "meaning": "自主学习的空间很少",
+          "usage": "room 比喻机会和自由度，不是教室面积；与教师占主导的课堂情境相连。"
+        },
+        {
+          "text": "the medium of instruction",
+          "meaning": "教学使用的语言媒介",
+          "usage": "区分用英语教其他学科与把英语本身作为一门课程，这两者的理解负担不同。"
+        },
+        {
+          "text": "tailoring to the children's language abilities and needs",
+          "meaning": "根据儿童语言能力与需求作调整",
+          "usage": "tailoring 比喻量体裁衣，强调教学匹配具体学习者，而不是统一提高或降低难度。"
+        },
+        {
+          "text": "essential for day-to-day survival",
+          "meaning": "日常生存所必需的",
+          "usage": "essential for 后接用途或需要；这里修饰孩子在日常生活中接触的数算技能。"
+        }
+      ],
+      "sentences": [
+        {
+          "text": "Although the findings are at a preliminary stage, Tsimpli and her team have found that the medium of instruction used in schools, especially English, may hold back those children who have little familiarity with, or exposure to, the language before starting school and outside of school life.",
+          "translation": "虽然研究仍处于初步阶段，Tsimpli 及其团队发现，学校使用的授课语言，尤其英语，可能妨碍那些入学前及校外对该语言不熟悉、接触也较少的儿童的学习进展。",
+          "explanation": "Although 先限定发现的成熟程度，may 再限定影响的确定性。who 从句说明是哪一类儿童；familiarity with 与 exposure to 分别表示熟悉和接触，二者共同指向 the language。不能删掉人群与场景限制。"
+        },
+        {
+          "text": "They are likely to mature faster and come into closer contact with the numeracy skills essential for day-to-day survival.",
+          "translation": "他们可能更早成熟，也更密切地接触日常生存所必需的数算技能。",
+          "explanation": "They 指在贫民区长大的儿童。are likely to 同时作用于 mature 和 come 两个并列动作，表示研究者的可能解释。essential for day-to-day survival 后置修饰 skills，说明这些技能与生活需要的关系。"
+        }
+      ],
+      "writing": [
+        {
+          "phrase": "little room for independent learning",
+          "meaning": "自主学习机会不足",
+          "usage": "用来描述过度由教师控制的课堂，需要说明儿童缺少哪些探索或表达机会。",
+          "matches": [
+            {
+              "caseId": "wc-c21-t4-primary",
+              "example": "A timetable dominated by teacher-led exercises may leave little room for independent learning through play.",
+              "fit": "与小学正式教学和课堂游戏的平衡直接吻合，可具体表达过度正式教学的局限。"
+            }
+          ]
+        },
+        {
+          "phrase": "essential for day-to-day survival",
+          "meaning": "日常生活维持所必需的",
+          "usage": "只在确实涉及生活压力时使用；可以讨论压力带来的某些实际经验，但不要据此美化贫困。",
+          "matches": [
+            {
+              "caseId": "wc-official-wealth",
+              "example": "Some children learn practical skills essential for day-to-day survival, but this does not mean that financial hardship prepares every child better for adulthood.",
+              "fit": "家庭财富题比较成长资源与成年准备；原文提供了生活经验可能培养某些能力的思路，同时例句避免把局部观察扩大为贫困更好的结论。"
+            }
+          ]
+        }
+      ],
+      "noWritingMatchReason": ""
+    },
+    {
+      "id": "rd-c21-t4-globe-search",
+      "overview": "一次寻找生日礼物的行动变成漫长的制球事业。作者用地球仪的悠久历史衬托现实中高质量成品和工艺人才的难寻，再具体展示模具精度及脱模问题，让制作困难有可理解的物质细节。",
+      "paragraphs": [
+        {
+          "label": "原文片段 · 1",
+          "explanation": "2008年的最初目标只是给父亲八十岁生日买一个地球仪，后来却延伸成十年左右的执着探索和定制企业。what seemed simple 与 a series of obstacles 对照，把简单购买到复杂事业的反差放在开头；关于企业独特性的说法属于原文叙述。"
+        },
+        {
+          "label": "原文片段 · 2",
+          "explanation": "作者插入古代已知地球呈球形及早期地球仪的历史，是为了说明 Bellerby 为什么以为好地球仪应该不难找。who is said to have made 保留对历史记载的转述性质。Surely 呈现人物当时的想当然，后文将让这一期待落空。"
+        },
+        {
+          "label": "原文片段 · 3",
+          "explanation": "现成市场两端都不能满足需求：学校用商品粗糙，古董又超出预算。远赴摩洛哥和印度仍未找到所需帮助。drew a blank 表示一无所获；这里的 artisan cartographers 指具有地图制作手艺的人，不只是现代数字地图从业者。"
+        },
+        {
+          "label": "原文片段 · 4",
+          "explanation": "自己制作后，困难从地球并非完美球体开始，一直延伸到两半球周长一致和完整脱模。他选择近似球形是一种折中，但即使解决模具精度，石膏仍会破裂并产生粉尘。段落强调设计决定、制作精度与材料操作是不同层面的难题。"
+        }
+      ],
+      "phrases": [
+        {
+          "text": "marked by a series of obstacles",
+          "meaning": "伴随一连串障碍",
+          "usage": "marked by 概括过程的显著特征；需要后文具体事件支撑，不能只用来空泛说事情困难。"
+        },
+        {
+          "text": "contrary to stubbornly held popular views",
+          "meaning": "与人们固执持有的流行看法相反",
+          "usage": "contrary to 引出认识反差；stubbornly held 带有评论者对观念不易改变的评价。"
+        },
+        {
+          "text": "drew a blank",
+          "meaning": "没有找到所需结果",
+          "usage": "固定表达，描述寻找过程无果，语气较生动；不是画出空白图形。"
+        },
+        {
+          "text": "with sufficient accuracy",
+          "meaning": "具有足够精度",
+          "usage": "原文指模具精度必须达到两半球周长相合的要求，sufficient 与具体用途有关。"
+        }
+      ],
+      "sentences": [
+        {
+          "text": "What seemed simple enough to start with triggered an almost obsessive, decade-long journey, marked by a series of obstacles that would have deterred anyone less determined.",
+          "translation": "起初看似再简单不过的一件事，却开启了一段近乎执着、长达十年的探索，其间一连串的障碍足以让决心稍弱的人退缩。",
+          "explanation": "What 从句整体作主语，指寻找地球仪这件事。marked by 补充 journey 的特征；that would have deterred 修饰 obstacles，用假设语气反衬 Bellerby 的坚持，不是叙述另一个真实退缩者。"
+        },
+        {
+          "text": "Even after he eventually resolved this issue, extracting these from the moulds resulted in piles of cracked plaster of Paris** and clouds of choking dust in the workshop he had set up at the rear of his house.",
+          "translation": "即使他终于解决了这个问题，把半球从模具中取出来时，仍在房屋后方自己搭建的工作间里留下成堆开裂的熟石膏和令人呛咳的粉尘。",
+          "explanation": "this issue 回指两半球尺寸精度不一致，these 指半球件。extracting these from the moulds 是动名词短语作主语。Even after 表明先前难题解决并不代表整个过程顺利；he had set up 修饰 workshop。星号沿用材料中的注释标记。"
+        }
+      ],
+      "writing": [
+        {
+          "phrase": "marked by a series of obstacles",
+          "meaning": "以接连出现的障碍为特征",
+          "usage": "适合描述有具体经历支持的研发或手工制作过程；应随后说明障碍，而不是只堆困难形容词。",
+          "matches": []
+        },
+        {
+          "phrase": "with sufficient accuracy",
+          "meaning": "达到所需精度",
+          "usage": "精度必须与实际工艺要求相连；不能用于没有尺寸或测量含义的笼统成功评价。",
+          "matches": []
+        }
+      ],
+      "noWritingMatchReason": "现有写作题没有地球仪、传统工艺或个人创业章节；砖块流程题也没有原文这些模具精度信息，不把它们加进图示描述。"
+    },
+    {
+      "id": "rd-c21-t4-globe-craft",
+      "overview": "这篇书评把制作的微小误差、历史制球者的雄心与手艺传承的脆弱并置。最后肯定书中呈现的工艺和坚持，却明确不把这段经历当作可以照搬的商业成功指南。",
+      "paragraphs": [
+        {
+          "label": "原文片段 · 1",
+          "explanation": "脱模、纸张、油墨与胶水分别需要反复试验，时间与资金不断消耗。gores 是贴到球面上的分瓣地图纸；纸张略微伸长使最后一片与第一片重叠。用喜马拉雅山和智利作比较，是将球面上一厘米的误差换成地理尺度，让小误差的严重性可感。"
+        },
+        {
+          "label": "原文片段 · 2",
+          "explanation": "技术经历之间穿插制图史人物：Behaim 的作品刚完成便因新的地理发现过时，Coronelli 又花二十年制作巨型地球仪。kindred spirit 指 Bellerby 在前辈身上看到相近的气质，不是亲属关系。这些插叙把个人执着放进更长的工艺历史中。"
+        },
+        {
+          "label": "原文片段 · 3",
+          "explanation": "书既庆祝古老手艺复兴，也为传统消失而惋惜。寻找模具与金属子午圈工匠十分困难，即使偶然遇到合适的人，其中不少后来已退休或去世。两次 Although 强调成功与损失并存；制作知识需要活着的从业者才能继续传递。"
+        },
+        {
+          "label": "原文片段 · 4",
+          "explanation": "生日礼物迟到两年后终于送达，公司随后发展出大量定制需求。但书评者认为，插图精美和故事成功不等于它是商业操作蓝图；真正值得读的是对历史工艺的敬佩，以及让濒于消失的技艺再生的坚持。hardly 和 But 标出这一有保留的赞赏。"
+        }
+      ],
+      "phrases": [
+        {
+          "text": "the painstaking process",
+          "meaning": "需要细致耐心的过程",
+          "usage": "painstaking 强调投入细心与努力，并不等于过程带来身体疼痛。"
+        },
+        {
+          "text": "is interspersed with",
+          "meaning": "其间穿插着",
+          "usage": "用于描述书、文章等内容编排：主要叙述之间穿插另一类材料。"
+        },
+        {
+          "text": "a kindred spirit",
+          "meaning": "志趣或气质相投的人",
+          "usage": "原文把现代制球者与历史人物联系起来，表达精神上的相近。"
+        },
+        {
+          "text": "the revival of an ancient craft",
+          "meaning": "古老手艺的复兴",
+          "usage": "revival 意味着某项活动曾衰落，如今重新活跃；不能用于一直稳定存在的所有传统。"
+        }
+      ],
+      "sentences": [
+        {
+          "text": "Although a celebration of the revival of an ancient craft, Bellerby's book is also a lament for the fading away of centuries-old traditions.",
+          "translation": "Bellerby 的书虽然是在庆祝一门古老手艺的复兴，也是在哀叹延续数百年的传统正在消失。",
+          "explanation": "Although 后省略了 it is，celebration 与 lament 构成情感上的对照。the fading away of 把逐渐消失的过程名词化。also 表示两种态度同时存在，作者不是在下一句撤回对复兴的肯定。"
+        },
+        {
+          "text": "But it is more than enough to stir up admiration for the craftsmanship of the great mapmakers of the past and the obsessive determination of a modern successor who revived their almost moribund art.",
+          "translation": "但它足以激起人们对昔日伟大制图者工艺的敬佩，也让人敬佩这位现代继承者近乎执着的决心：他使他们那几乎已经衰亡的技艺重新焕发生机。",
+          "explanation": "it 指这本书。admiration for 后连接两项敬佩对象：过去的 craftsmanship 与现代人的 determination。who 修饰 successor，their 回指过去的制图者；almost moribund 表示濒于消亡，保留尚未彻底消失的意味。"
+        }
+      ],
+      "writing": [
+        {
+          "phrase": "the revival of an ancient craft",
+          "meaning": "传统手艺重新兴盛",
+          "usage": "用于工艺传承需要有衰落与恢复的背景；不把现代娱乐设施或一般商业增长都称为 ancient craft。",
+          "matches": []
+        },
+        {
+          "phrase": "is interspersed with",
+          "meaning": "其间穿插着",
+          "usage": "适合评论书籍或文化作品的结构，with 后写实际穿插的内容。",
+          "matches": []
+        }
+      ],
+      "noWritingMatchReason": "现有文化写作题讨论影院与剧院在数字时代的作用，没有传统制图工艺章节；不因都属文化领域就把手工艺材料直接套入。"
+    }
+  ]
+}

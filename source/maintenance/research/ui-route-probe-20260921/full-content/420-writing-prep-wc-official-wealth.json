@@ -1,0 +1,242 @@
+{
+  "requested": "writing-prep-wc-official-wealth",
+  "from": [
+    "每日安排目标"
+  ],
+  "actual": "#writing-prep-wc-official-wealth",
+  "checkedAt": "2026-09-21T12:56:14.236Z",
+  "title": "练习 / 写作 · Task 2 / 家庭财富与成年问题应对：避免绝对化 · IELTS",
+  "label": "练习 / 写作 · Task 2 / 家庭财富与成年问题应对：避免绝对化",
+  "panel": "practice-writing2",
+  "contentRoot": "writing2-case-wc-official-wealth",
+  "headings": [
+    {
+      "tag": "H3",
+      "text": "写作前置 · 文中表达",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "essential for day-to-day survival",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "本次写作任务",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "对照答案，回到证据",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "参考写法",
+      "visible": false
+    },
+    {
+      "tag": "H3",
+      "text": "答后精读",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "篇章结构",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "词语与搭配",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "句子精读",
+      "visible": false
+    },
+    {
+      "tag": "H3",
+      "text": "同题官方考生样本 · Band 8.5 · 2A Script C",
+      "visible": true
+    }
+  ],
+  "controls": [
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "家庭财富与成年问题应对：避免绝对化未作答\n同意程度 · 原题拆段写作 · 参考段落与逐段讲解",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "IELTS Academic Writing Sample Tasks (2023)",
+      "label": "",
+      "href": "case-assets/writing-official-sample-tasks-2023.pdf#page=6",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "Multilingualism · 教学语言与出人意料的结果",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "回到这份材料的精读",
+      "label": "",
+      "href": "#material-reading-rd-c21-t4-multilingual-findings",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "case-wc-official-wealth-answer",
+      "type": "textarea",
+      "text": "",
+      "label": "我的段落",
+      "href": null,
+      "save": "case-wc-official-wealth-answer",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "checkbox",
+      "text": "",
+      "label": "",
+      "href": null,
+      "save": "case-wc-official-wealth-done",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "hidden",
+      "text": "",
+      "label": "",
+      "href": null,
+      "save": "case-wc-official-wealth-saved-at",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "保留作答，查看答案",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "case-wc-official-wealth-revision",
+      "type": "textarea",
+      "text": "",
+      "label": "我的修订／证据笔记",
+      "href": null,
+      "save": "case-wc-official-wealth-revision",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "官方作答 · 第21页",
+      "label": "",
+      "href": "case-assets/writing-official-sample-tasks-2023.pdf#page=21",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "考官评语 · 第22页",
+      "label": "",
+      "href": "case-assets/writing-official-sample-tasks-2023.pdf#page=22",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "官方在线原件",
+      "label": "",
+      "href": "https://ielts.org/cdn/Sample-tests/ielts-academic-writing-sample-tasks-2023.pdf#page=21",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    }
+  ],
+  "visibleText": "家庭财富与成年问题应对：避免绝对化未作答\n同意程度 · 原题拆段写作 · 参考段落与逐段讲解\n0% · 0 / 1 完成\n\n官方样题 · IELTS Academic Writing Sample Tasks (2023) · PDF 第 6 页\n\n写作前置 · 文中表达\n\n下面的表达来自阅读材料，例句按本题语境编写。展开相关材料即可查看。\n\nMultilingualism · 教学语言与出人意料的结果\nessential for day-to-day survival\n\n日常生活维持所必需的\n\n只在确实涉及生活压力时使用；可以讨论压力带来的某些实际经验，但不要据此美化贫困。\n\n本题例句 · 编写示范\n\nSome children learn practical skills essential for day-to-day survival, but this does not mean that financial hardship prepares every child better for adulthood.\n\n家庭财富题比较成长资源与成年准备；原文提供了生活经验可能培养某些能力的思路，同时例句避免把局部观察扩大为贫困更好的结论。\n\n回到这份材料的精读\n\nChildren who are brought up in families that do not have large amounts of money are better prepared to deal with the problems of adult life than children brought up by wealthy parents. To what extent do you agree or disagree with this opinion?\n\n本次写作任务\n\n写两段主体，约170–210词：解释有限预算可能培养什么能力，再指出财富不自动决定教养方式。比较双方，不把贫穷浪漫化为必然优势。\n\n我的段落\n\n0 词\n\n保留作答，查看答案\n\n先作答；不确定的题也可记录判断与疑点。\n\n同题官方考生样本 · Band 8.5 · 2A Script C\n\n优先对照这份同题官方考生稿及考官评语；分数仅属于该原稿。本地参考段落仍为原创教学示范。\n\n官方作答 · 第21页考官评语 · 第22页官方在线原件\n\n标出立场与支持关系，再与自己的主体段比较；注意高分考评也指出局部泛化。",
+  "allContent": "家庭财富与成年问题应对：避免绝对化未作答同意程度 · 原题拆段写作 · 参考段落与逐段讲解0% · 0 / 1 完成官方样题 · IELTS Academic Writing Sample Tasks (2023) · PDF 第 6 页写作前置 · 文中表达下面的表达来自阅读材料，例句按本题语境编写。展开相关材料即可查看。Multilingualism · 教学语言与出人意料的结果essential for day-to-day survival日常生活维持所必需的只在确实涉及生活压力时使用；可以讨论压力带来的某些实际经验，但不要据此美化贫困。本题例句 · 编写示范Some children learn practical skills essential for day-to-day survival, but this does not mean that financial hardship prepares every child better for adulthood.家庭财富题比较成长资源与成年准备；原文提供了生活经验可能培养某些能力的思路，同时例句避免把局部观察扩大为贫困更好的结论。回到这份材料的精读Children who are brought up in families that do not have large amounts of money are better prepared to deal with the problems of adult life than children brought up by wealthy parents. To what extent do you agree or disagree with this opinion?本次写作任务写两段主体，约170–210词：解释有限预算可能培养什么能力，再指出财富不自动决定教养方式。比较双方，不把贫穷浪漫化为必然优势。我的段落0 词保留作答，查看答案先作答；不确定的题也可记录判断与疑点。对照答案，回到证据参考写法下列段落为针对原题编写的参考写法，用于对照内容和表达；写作没有唯一标准答案。Children in families with limited money may gain useful experience of making choices under constraints. If a household cannot afford every desired purchase, a child may have to save gradually, distinguish needs from wants and accept that one decision rules out another. Shared responsibilities can also encourage practical independence. These experiences resemble some of the budgeting and prioritising required in adult life. They provide a plausible reason why growing up without abundant resources could help a person cope with certain financial problems later on.However, I do not think family wealth alone determines how well someone is prepared. Persistent financial insecurity can create stress and restrict access to education or supportive activities, leaving children with fewer resources for future challenges. Conversely, wealthy parents can require their children to manage an allowance, contribute to household tasks and take responsibility for mistakes. Such practices may develop the same judgment and resilience without serious deprivation. I therefore reject the general comparison in the question: preparation depends more on the responsibilities, guidance and opportunities children receive than on whether their parents have a large income.没有把may写成all poor children：有限预算可能培养技能，但严重匮乏也会限制机会。对比对象始终是两类家庭中的孩子及成年应对能力，不转成贫富差距政策文章。第二段以同样责任训练可存在于富裕家庭反驳“财富决定论”，给出明确不同意。答后精读篇章结构承认一方可能的培养机制。反例与变量区分，回应原题总体比较。词语与搭配distinguish needs from wants：与预算管理直接相关。family wealth alone determines：抓住单一变量推断的问题。responsibilities, guidance and opportunities：结尾归纳前文机制。句子精读If a household cannot afford every desired purchase, ... → 假设场景，不声称调查证明。Such practices may develop the same judgment ... → Such practices回指前一句三项养育安排。我的修订／证据笔记同题官方考生样本 · Band 8.5 · 2A Script C优先对照这份同题官方考生稿及考官评语；分数仅属于该原稿。本地参考段落仍为原创教学示范。官方作答 · 第21页考官评语 · 第22页官方在线原件标出立场与支持关系，再与自己的主体段比较；注意高分考评也指出局部泛化。",
+  "links": [
+    {
+      "text": "IELTS Academic Writing Sample Tasks (2023)",
+      "href": "case-assets/writing-official-sample-tasks-2023.pdf#page=6"
+    },
+    {
+      "text": "回到这份材料的精读",
+      "href": "#material-reading-rd-c21-t4-multilingual-findings"
+    },
+    {
+      "text": "官方作答 · 第21页",
+      "href": "case-assets/writing-official-sample-tasks-2023.pdf#page=21"
+    },
+    {
+      "text": "考官评语 · 第22页",
+      "href": "case-assets/writing-official-sample-tasks-2023.pdf#page=22"
+    },
+    {
+      "text": "官方在线原件",
+      "href": "https://ielts.org/cdn/Sample-tests/ielts-academic-writing-sample-tasks-2023.pdf#page=21"
+    }
+  ],
+  "details": [
+    {
+      "id": "writing-prep-wc-official-wealth-from-rd-c21-t4-multilingual-findings",
+      "title": "Multilingualism · 教学语言与出人意料的结果",
+      "open": true,
+      "visible": true
+    }
+  ],
+  "saveFields": [
+    "case-wc-official-wealth-answer",
+    "case-wc-official-wealth-done",
+    "case-wc-official-wealth-saved-at",
+    "case-wc-official-wealth-revision"
+  ],
+  "images": [],
+  "audio": [],
+  "viewport": 1440,
+  "documentWidth": 1440
+}

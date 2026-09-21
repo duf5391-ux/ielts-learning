@@ -1,0 +1,17 @@
+{
+  "status": "approved_for_root_integration",
+  "formalWritten": false,
+  "published": false,
+  "newUnitsSha256": "dc7d361dd0ee49b686cb31f518a48e63a51f773e48b1985889b9565f70598d4c",
+  "difficultySha256": "8527cf444de4046b209307b96dff1ea9a334e3e4e24184dcb66706d5e2e0de9b",
+  "independentReview": "feature-fixes-20260921\\writing-speaking\\jijing-independent-review.md",
+  "independentReviewSha256": "bee291a8753ffdf264aeb58a8216c80b97e17546687eb88fc0f4277ada461fb4",
+  "sourceNature": "Third-party downloaded material; project reference answers, not official key; not blind reviewed",
+  "unitIds": [
+    "pr-jiufen-20260921-origin-language-v1",
+    "pr-jiufen-20260921-adult-literacy-v1",
+    "pr-jiufen-20260921-work-life-balance-v1",
+    "pr-jiufen-20260921-species-extinction-v1"
+  ],
+  "preserveOldIds": true
+}

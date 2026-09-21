@@ -1,0 +1,127 @@
+{
+  "requested": "plan",
+  "from": [
+    "主面板",
+    "页面链接"
+  ],
+  "actual": "#plan",
+  "checkedAt": "2026-09-21T12:50:29.468Z",
+  "title": "今天选的内容 · IELTS",
+  "label": "今天选的内容",
+  "panel": "plan",
+  "contentRoot": "plan",
+  "headings": [
+    {
+      "tag": "H2",
+      "text": "新学与复习一起安排",
+      "visible": false
+    },
+    {
+      "tag": "H1",
+      "text": "按自己的节奏，持续回来。",
+      "visible": false
+    },
+    {
+      "tag": "H2",
+      "text": "分开练，跨日回来检查。",
+      "visible": false
+    },
+    {
+      "tag": "H3",
+      "text": "背景学习也算在今天的时间里",
+      "visible": false
+    },
+    {
+      "tag": "H1",
+      "text": "今天选的内容",
+      "visible": true
+    }
+  ],
+  "controls": [
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "← 返回学习工作台",
+      "label": "",
+      "href": "#workspace",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "选新内容",
+      "label": "",
+      "href": "#resource-update",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "回看待复习内容",
+      "label": "",
+      "href": "#records",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "查看具体用法 →",
+      "label": "",
+      "href": "#topic-use",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "去选择内容 →",
+      "label": "",
+      "href": "#study",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    }
+  ],
+  "visibleText": "← 返回学习工作台\n今天选的内容\n\n从学习或练习中加入几项，按自己的节奏完成。\n\n还没选内容，直接去学习或练习中挑选即可。\n去选择内容 →",
+  "allContent": "← 返回学习工作台新学与复习一起安排每天从一组新语境开始，也给已学表达留一次短回忆。示例：15分钟新内容＋5分钟复习；有余力再做专项练习。比例按实际负担调整，不必先清空复习才能学新内容。选新内容 · 回看待复习内容STUDY RHYTHM按自己的节奏，持续回来。从首轮试学开始。阅读、写作分别安排，给修订和隔日回忆留出时间。学习重点理解 · 运用练习依据实际表现准备时间约 8 周听读看理解与证据，写说看表达与修订。按实际用时、复习表现和疲劳调整负荷。这里展示第一册的使用安排。如何安排分开练，跨日回来检查。下面是这一本的使用顺序，不要求一口气做完。它覆盖首周计划的章节部分；完整整卷基线与额外教材题组另按既有四科安排选择，不重复叠加。时段先做什么之后做什么阅读日阅读原题 20 分钟另一个时段教与改约 25 分钟，隔日检查约 5 分钟Task 1 日图表初稿 20 分钟修订约 25 分钟，隔日新数据约 5 分钟Task 2 日议论文初稿 40 分钟另日修订约 25 分钟，再隔日新段落约 10 分钟听力日8 题首听与修复约 25 分钟下次新录音约 15 分钟口语日首答与局部反馈约 15 分钟另日修复 15 分钟＋新问题 15 分钟这是试学预算，实际分钟照实记录。按四科表现、隔日回忆和实际疲劳调整学习量；理解、表达和独立应用分别记录。背景学习也算在今天的时间里一次选一段背景，约 8–12 分钟读懂，再用 3–5 分钟看两三组表达。它替换当天部分教学时间，不额外加量。疲劳时缩短；隔天再用一个新情境检查。查看具体用法 →IELTS / MY STUDY今天选的内容从学习或练习中加入几项，按自己的节奏完成。还没选内容，直接去学习或练习中挑选即可。去选择内容 →",
+  "links": [
+    {
+      "text": "← 返回学习工作台",
+      "href": "#workspace"
+    },
+    {
+      "text": "选新内容",
+      "href": "#resource-update"
+    },
+    {
+      "text": "回看待复习内容",
+      "href": "#records"
+    },
+    {
+      "text": "查看具体用法 →",
+      "href": "#topic-use"
+    },
+    {
+      "text": "去选择内容 →",
+      "href": "#study"
+    }
+  ],
+  "details": [],
+  "saveFields": [],
+  "images": [],
+  "audio": [],
+  "viewport": 1440,
+  "documentWidth": 1440
+}

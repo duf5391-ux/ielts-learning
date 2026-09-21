@@ -1,0 +1,228 @@
+{
+  "requested": "writing-prep-wc-c21-t4-primary-from-rd-c21-t4-multilingual-background",
+  "from": [
+    "页面链接"
+  ],
+  "actual": "#writing-prep-wc-c21-t4-primary-from-rd-c21-t4-multilingual-background",
+  "checkedAt": "2026-09-21T12:55:48.811Z",
+  "title": "练习 / 写作 · Task 2 / 小学正式学习与课堂游戏：两个问题分别回应 · IELTS",
+  "label": "练习 / 写作 · Task 2 / 小学正式学习与课堂游戏：两个问题分别回应",
+  "panel": "practice-writing2",
+  "contentRoot": "writing2-case-wc-c21-t4-primary",
+  "headings": [
+    {
+      "tag": "H3",
+      "text": "写作前置 · 文中表达",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "differs from the language used at home",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "little room for independent learning",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "本次写作任务",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "对照答案，回到证据",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "参考写法",
+      "visible": false
+    },
+    {
+      "tag": "H3",
+      "text": "答后精读",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "篇章结构",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "词语与搭配",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "句子精读",
+      "visible": false
+    }
+  ],
+  "controls": [
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "小学正式学习与课堂游戏：两个问题分别回应未作答\n双问 · 原题拆段写作 · 参考段落与逐段讲解",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "Cambridge IELTS 21 Academic",
+      "label": "",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=96",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "Multilingualism · 迁移背景与研究目标",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "回到这份材料的精读",
+      "label": "",
+      "href": "#material-reading-rd-c21-t4-multilingual-background",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "Multilingualism · 教学语言与出人意料的结果",
+      "label": "",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "回到这份材料的精读",
+      "label": "",
+      "href": "#material-reading-rd-c21-t4-multilingual-findings",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "case-wc-c21-t4-primary-answer",
+      "type": "textarea",
+      "text": "",
+      "label": "我的段落",
+      "href": null,
+      "save": "case-wc-c21-t4-primary-answer",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "checkbox",
+      "text": "",
+      "label": "",
+      "href": null,
+      "save": "case-wc-c21-t4-primary-done",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "hidden",
+      "text": "",
+      "label": "",
+      "href": null,
+      "save": "case-wc-c21-t4-primary-saved-at",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "保留作答，查看答案",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "case-wc-c21-t4-primary-revision",
+      "type": "textarea",
+      "text": "",
+      "label": "我的修订／证据笔记",
+      "href": null,
+      "save": "case-wc-c21-t4-primary-revision",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    }
+  ],
+  "visibleText": "小学正式学习与课堂游戏：两个问题分别回应未作答\n双问 · 原题拆段写作 · 参考段落与逐段讲解\n0% · 0 / 1 完成\n\n真题 · Cambridge IELTS 21 Academic · PDF 第 96 页\n\n写作前置 · 文中表达\n\n这里是所选阅读材料中适合本题的表达；例句按本题语境编写。\n\nMultilingualism · 迁移背景与研究目标\ndiffers from the language used at home\n\n与家庭语言不同\n\n适合解释某些儿童理解课堂内容时面临的额外要求，避免把语言差异等同于能力不足。\n\n本题例句 · 编写示范\n\nWhen the language of classroom instruction differs from the language used at home, play with pictures and objects may help children understand and express ideas.\n\n小学正式学习与游戏题关注课堂学习体验；可用来说明具体情境下游戏和实物活动怎样支持理解，不把游戏宣称为所有语言困难的解决方案。\n\n回到这份材料的精读\n\nSome people argue that primary schools focus too much on formal learning. To what extent do you agree with this opinion? How important do you think it is for children to play as well as learn in the primary school classroom?\n\n本次写作任务\n\n写两个主体段，约180–220词：第一段回答是否“过分”重视formal learning，第二段回答课堂游戏有多重要及其教育机制。游戏不是课外体育的同义词。\n\n我的段落\n\n0 词\n\n保留作答，查看答案\n\n先作答；不确定的题也可记录判断与疑点。",
+  "allContent": "小学正式学习与课堂游戏：两个问题分别回应未作答双问 · 原题拆段写作 · 参考段落与逐段讲解0% · 0 / 1 完成真题 · Cambridge IELTS 21 Academic · PDF 第 96 页写作前置 · 文中表达这里是所选阅读材料中适合本题的表达；例句按本题语境编写。Multilingualism · 迁移背景与研究目标differs from the language used at home与家庭语言不同适合解释某些儿童理解课堂内容时面临的额外要求，避免把语言差异等同于能力不足。本题例句 · 编写示范When the language of classroom instruction differs from the language used at home, play with pictures and objects may help children understand and express ideas.小学正式学习与游戏题关注课堂学习体验；可用来说明具体情境下游戏和实物活动怎样支持理解，不把游戏宣称为所有语言困难的解决方案。回到这份材料的精读Multilingualism · 教学语言与出人意料的结果little room for independent learning自主学习机会不足用来描述过度由教师控制的课堂，需要说明儿童缺少哪些探索或表达机会。本题例句 · 编写示范A timetable dominated by teacher-led exercises may leave little room for independent learning through play.与小学正式教学和课堂游戏的平衡直接吻合，可具体表达过度正式教学的局限。回到这份材料的精读Some people argue that primary schools focus too much on formal learning. To what extent do you agree with this opinion? How important do you think it is for children to play as well as learn in the primary school classroom?本次写作任务写两个主体段，约180–220词：第一段回答是否“过分”重视formal learning，第二段回答课堂游戏有多重要及其教育机制。游戏不是课外体育的同义词。我的段落0 词保留作答，查看答案先作答；不确定的题也可记录判断与疑点。对照答案，回到证据参考写法下列段落为针对原题编写的参考写法，用于对照内容和表达；写作没有唯一标准答案。I agree that formal learning can receive too much attention when a primary timetable leaves little space for exploration. Direct instruction is necessary for teaching children basic reading and arithmetic, and structured practice helps them become accurate. However, long sequences of worksheets and tests can make pupils focus on producing the expected answer rather than understanding an idea. For example, a child may memorise a calculation procedure but struggle to explain why it works. The problem is therefore not formal teaching itself, but an imbalance that treats written performance as the only useful evidence of learning.Play has an important complementary role inside the classroom. In a pretend shop, children can practise counting, explain prices and take turns serving one another. The activity joins mathematical language with social interaction, giving a purpose to skills that might otherwise appear abstract. Building a model together can similarly require planning, discussion and revision after something fails. Such activities still need thoughtful guidance from the teacher, so that enjoyment supports a clear learning aim. I would consequently regard purposeful play as a regular part of primary education, rather than a reward offered only after all the serious work is finished.第一段明确同意的范围：当formal learning挤压exploration时过多，而非主张取消识字算术。第二段给出课堂内的假想商店与合作模型，回应primary classroom，不跑题到放学后娱乐。play as well as learn提示两者结合；不是“玩”和“学”完全对立。答后精读篇章结构先回答程度，再解释不平衡如何损害理解。另段回答重要性，以具体课堂活动展示机制。词语与搭配an imbalance that ...：把批评集中到比例失衡。an important complementary role：补充作用，不是否定正式教学。purposeful play：有学习目的的课堂游戏。句子精读The problem is therefore not formal teaching itself, but an imbalance ... → 保持部分同意立场一致。... so that enjoyment supports a clear learning aim → 目的从句解释教师指导的作用。我的修订／证据笔记",
+  "links": [
+    {
+      "text": "Cambridge IELTS 21 Academic",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=96"
+    },
+    {
+      "text": "回到这份材料的精读",
+      "href": "#material-reading-rd-c21-t4-multilingual-background"
+    },
+    {
+      "text": "回到这份材料的精读",
+      "href": "#material-reading-rd-c21-t4-multilingual-findings"
+    }
+  ],
+  "details": [
+    {
+      "id": "writing-prep-wc-c21-t4-primary-from-rd-c21-t4-multilingual-background",
+      "title": "Multilingualism · 迁移背景与研究目标",
+      "open": true,
+      "visible": true
+    },
+    {
+      "id": "writing-prep-wc-c21-t4-primary-from-rd-c21-t4-multilingual-findings",
+      "title": "Multilingualism · 教学语言与出人意料的结果",
+      "open": false,
+      "visible": false
+    }
+  ],
+  "saveFields": [
+    "case-wc-c21-t4-primary-answer",
+    "case-wc-c21-t4-primary-done",
+    "case-wc-c21-t4-primary-saved-at",
+    "case-wc-c21-t4-primary-revision"
+  ],
+  "images": [],
+  "audio": [],
+  "viewport": 1440,
+  "documentWidth": 1440
+}

@@ -1,0 +1,190 @@
+{
+  "requested": "pr-writing2-tourism",
+  "from": [
+    "内容单元",
+    "页面链接"
+  ],
+  "actual": "#pr-writing2-tourism",
+  "checkedAt": "2026-09-21T12:52:59.557Z",
+  "title": "练习 / 写作 · Task 2 / Task 2 · 旅游 旅游收益与居民成本 · IELTS",
+  "label": "练习 / 写作 · Task 2 / Task 2 · 旅游 旅游收益与居民成本",
+  "panel": "practice-writing2",
+  "contentRoot": "pr-writing2-tourism",
+  "headings": [],
+  "controls": [
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "Task 2 · 旅游 旅游收益与居民成本",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "作答 1\n暂时不会",
+      "href": null,
+      "save": "pr-writing2-tourism-q1",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "暂时不会",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "作答 2\n暂时不会",
+      "href": null,
+      "save": "pr-writing2-tourism-q2",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "暂时不会",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "答案",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "再练一次",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "",
+      "href": null,
+      "save": "pr-writing2-tourism-another",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "",
+      "label": "",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "",
+      "label": "",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "IELTS Academic Writing Sample Tasks (2023) · Task 2B",
+      "label": "",
+      "href": "case-assets/writing-official-sample-tasks-2023.pdf#page=7",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "在线来源",
+      "label": "",
+      "href": "https://ielts.org/cdn/Sample-tests/ielts-academic-writing-sample-tasks-2023.pdf#page=7",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    }
+  ],
+  "visibleText": "Task 2 · 旅游 旅游收益与居民成本\n0% · 0 / 2 完成\n\n在给定情境下作答，不把假设写成真实统计。\n\n本练习的假设情境：旅游给当地商店带来收入，但旺季过后部分岗位消失；短租扩张减少了居民可租住房。地方政府可以对短租登记并征收用于公共交通的游客税。\n\nInternational tourism has brought enormous benefit to many places. At the same time, there is concern about its impact on local inhabitants and the environment. Do the disadvantages of international tourism outweigh the advantages?\n\n写 40–55 个英文词的立场段。不能只写“有好处也有坏处”；比较时须涉及受益者、受损者或影响持续时间。\n\n作答 1\n暂时不会\n\n写 80–110 个英文词，比较商店收入与居民住房成本。结尾直接回答哪一方更重要，以及这个判断依赖什么条件。\n\n作答 2\n暂时不会\n答案\n再练一次\n\n选材来源 · IELTS Academic Writing Sample Tasks (2023) · Task 2B · 在线来源",
+  "allContent": "Task 2 · 旅游 旅游收益与居民成本0% · 0 / 2 完成在给定情境下作答，不把假设写成真实统计。本练习的假设情境：旅游给当地商店带来收入，但旺季过后部分岗位消失；短租扩张减少了居民可租住房。地方政府可以对短租登记并征收用于公共交通的游客税。International tourism has brought enormous benefit to many places. At the same time, there is concern about its impact on local inhabitants and the environment. Do the disadvantages of international tourism outweigh the advantages?写 40–55 个英文词的立场段。不能只写“有好处也有坏处”；比较时须涉及受益者、受损者或影响持续时间。作答 1暂时不会写 80–110 个英文词，比较商店收入与居民住房成本。结尾直接回答哪一方更重要，以及这个判断依赖什么条件。作答 2暂时不会答案1. 示例：In the situation described, the disadvantages outweigh the advantages if tourism income mainly reaches businesses while residents face lasting housing pressure. Temporary increases in trade cannot by themselves justify a continuing loss of affordable homes. Effective regulation could, however, change that balance.2. 示例：Tourism may increase sales in local shops, but this benefit does not necessarily reach residents who must pay higher rents. The jobs created may also disappear after the main holiday season, whereas the conversion of homes into short-term accommodation can affect housing throughout the year. In this case, I would give greater weight to the lasting pressure on residents than to a temporary rise in commercial income. The balance could become more favourable if registration limits the loss of residential housing and visitor taxes finance services used by local people.再练一次把情境改为：短租得到有效控制，游客税确实改善了居民交通。用 35–50 个英文词说明原结论如何调整；不得声称旅游已经没有环境成本。作答暂时不会答案示例：With effective controls on short-term rentals and visible improvements in local transport, the economic benefits would be more likely to outweigh the disadvantages. However, that judgement would still depend on whether visitor activity placed manageable pressure on the environment.选材来源 · IELTS Academic Writing Sample Tasks (2023) · Task 2B · 在线来源",
+  "links": [
+    {
+      "text": "IELTS Academic Writing Sample Tasks (2023) · Task 2B",
+      "href": "case-assets/writing-official-sample-tasks-2023.pdf#page=7"
+    },
+    {
+      "text": "在线来源",
+      "href": "https://ielts.org/cdn/Sample-tests/ielts-academic-writing-sample-tasks-2023.pdf#page=7"
+    }
+  ],
+  "details": [
+    {
+      "id": "answer-check-55",
+      "title": "答案",
+      "open": false,
+      "answerGate": "[\"pr-writing2-tourism-q1\", \"pr-writing2-tourism-q2\"]",
+      "visible": true
+    },
+    {
+      "id": "",
+      "title": "再练一次",
+      "open": false,
+      "visible": true
+    },
+    {
+      "id": "answer-check-56",
+      "title": "答案",
+      "open": false,
+      "answerGate": "[\"pr-writing2-tourism-another\"]",
+      "visible": false
+    }
+  ],
+  "saveFields": [
+    "pr-writing2-tourism-q1",
+    "pr-writing2-tourism-q2",
+    "pr-writing2-tourism-another"
+  ],
+  "images": [],
+  "audio": [],
+  "viewport": 1440,
+  "documentWidth": 1440
+}

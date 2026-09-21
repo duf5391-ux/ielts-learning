@@ -1,0 +1,241 @@
+{
+  "requested": "reading-new-new-reading-refill-summary",
+  "from": [
+    "内容单元",
+    "页面链接"
+  ],
+  "actual": "#reading-new-new-reading-refill-summary",
+  "checkedAt": "2026-09-21T12:51:11.705Z",
+  "title": "学习 / 阅读 / 考古器物与糖业：真实摘要的并列顺序和概括 · IELTS",
+  "label": "学习 / 阅读 / 考古器物与糖业：真实摘要的并列顺序和概括",
+  "panel": "reading",
+  "contentRoot": "reading-new-new-reading-refill-summary",
+  "headings": [],
+  "controls": [
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "考古器物与糖业：真实摘要的并列顺序和概括",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "Mapungubwe｜贸易、器物与衰落",
+      "label": "",
+      "href": "#reading-case-rd-c21-mapungubwe-2",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "The World of Sugar｜劳动组织与行业权力",
+      "label": "",
+      "href": "#reading-case-rd-c21-sugar-2",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "Why we need silence｜漂浮舱的两项实验",
+      "label": "",
+      "href": "#reading-case-rd-c21-silence-2",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "Cambridge IELTS 21 Academic · Test 2 · PDF 44 页",
+      "label": "",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=44",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "Cambridge IELTS 21 Academic · Test 2 · PDF 121 页",
+      "label": "",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=121",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "Cambridge IELTS 21 Academic · Test 1 · PDF 26 页",
+      "label": "",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=26",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "Cambridge IELTS 21 Academic · Test 1 · PDF 119 页",
+      "label": "",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=119",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "Cambridge IELTS 21 Academic · Test 1 · PDF 21 页",
+      "label": "",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=21",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "练原题：Mapungubwe｜贸易、器物与衰落",
+      "label": "",
+      "href": "#reading-case-rd-c21-mapungubwe-2",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "练原题：The World of Sugar｜劳动组织与行业权力",
+      "label": "",
+      "href": "#reading-case-rd-c21-sugar-2",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "练原题：Why we need silence｜漂浮舱的两项实验",
+      "label": "",
+      "href": "#reading-case-rd-c21-silence-2",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "checkbox",
+      "text": "",
+      "label": "我已学习本单元",
+      "href": null,
+      "save": "resource-learned-new-reading-refill-summary",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "checkbox",
+      "text": "",
+      "label": "加入我的复习",
+      "href": null,
+      "save": "resource-review-new-reading-refill-summary",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "我的新表达／本次复习记录（可留空）",
+      "href": null,
+      "save": "resource-note-new-reading-refill-summary",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    }
+  ],
+  "visibleText": "考古器物与糖业：真实摘要的并列顺序和概括\n0% · 0 / 1 完成\n\n本单元改用真实摘要题，保留“并列结构、词性、信息顺序”的训练。Mapungubwe Q22–26原答案依次是prosperity、whistles、bodies、ancestors、jewellery（或jewelry）。陶器生产规模说明繁荣；ceramic discs已经被题干改为round ceramic objects，下一项才轮到whistles。\n\nQ24的stretched对应原文elongated bodies，不能填旁边的limbs，因为原文说short limbs。Q25的to honour对应as offerings to ancestors；Q26问本地金属制成的物品，所以填jewellery，不填材料copper。每空做完都读回整个句子。\n\n再用Sugar练选词摘要：Q31 H把跨国劳工概括为migrant workers，Q32 E把small farms概括为small-scale cultivation。Q32不能选F outdated methods：traditional并未自动带有“过时”评价。用两组不同原文练同一动作，避免记住一组词后把熟悉感当作会做。\n\n继续做原题片段：Mapungubwe｜贸易、器物与衰落 · The World of Sugar｜劳动组织与行业权力 · Why we need silence｜漂浮舱的两项实验\n\nCambridge IELTS 21 Academic · Test 2 · PDF 44 页\n\nCambridge IELTS 21 Academic · Test 2 · PDF 121 页\n\nCambridge IELTS 21 Academic · Test 1 · PDF 26 页\n\nCambridge IELTS 21 Academic · Test 1 · PDF 119 页\n\nCambridge IELTS 21 Academic · Test 1 · PDF 21 页\n\n练原题：Mapungubwe｜贸易、器物与衰落\n练原题：The World of Sugar｜劳动组织与行业权力\n练原题：Why we need silence｜漂浮舱的两项实验\n\n本单元的学习记录\n\n 我已学习本单元 加入我的复习\n我的新表达／本次复习记录（可留空）",
+  "allContent": "考古器物与糖业：真实摘要的并列顺序和概括0% · 0 / 1 完成本单元改用真实摘要题，保留“并列结构、词性、信息顺序”的训练。Mapungubwe Q22–26原答案依次是prosperity、whistles、bodies、ancestors、jewellery（或jewelry）。陶器生产规模说明繁荣；ceramic discs已经被题干改为round ceramic objects，下一项才轮到whistles。Q24的stretched对应原文elongated bodies，不能填旁边的limbs，因为原文说short limbs。Q25的to honour对应as offerings to ancestors；Q26问本地金属制成的物品，所以填jewellery，不填材料copper。每空做完都读回整个句子。再用Sugar练选词摘要：Q31 H把跨国劳工概括为migrant workers，Q32 E把small farms概括为small-scale cultivation。Q32不能选F outdated methods：traditional并未自动带有“过时”评价。用两组不同原文练同一动作，避免记住一组词后把熟悉感当作会做。继续做原题片段：Mapungubwe｜贸易、器物与衰落 · The World of Sugar｜劳动组织与行业权力 · Why we need silence｜漂浮舱的两项实验Cambridge IELTS 21 Academic · Test 2 · PDF 44 页Cambridge IELTS 21 Academic · Test 2 · PDF 121 页Cambridge IELTS 21 Academic · Test 1 · PDF 26 页Cambridge IELTS 21 Academic · Test 1 · PDF 119 页Cambridge IELTS 21 Academic · Test 1 · PDF 21 页练原题：Mapungubwe｜贸易、器物与衰落练原题：The World of Sugar｜劳动组织与行业权力练原题：Why we need silence｜漂浮舱的两项实验本单元的学习记录 我已学习本单元 加入我的复习我的新表达／本次复习记录（可留空）",
+  "links": [
+    {
+      "text": "Mapungubwe｜贸易、器物与衰落",
+      "href": "#reading-case-rd-c21-mapungubwe-2"
+    },
+    {
+      "text": "The World of Sugar｜劳动组织与行业权力",
+      "href": "#reading-case-rd-c21-sugar-2"
+    },
+    {
+      "text": "Why we need silence｜漂浮舱的两项实验",
+      "href": "#reading-case-rd-c21-silence-2"
+    },
+    {
+      "text": "Cambridge IELTS 21 Academic · Test 2 · PDF 44 页",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=44"
+    },
+    {
+      "text": "Cambridge IELTS 21 Academic · Test 2 · PDF 121 页",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=121"
+    },
+    {
+      "text": "Cambridge IELTS 21 Academic · Test 1 · PDF 26 页",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=26"
+    },
+    {
+      "text": "Cambridge IELTS 21 Academic · Test 1 · PDF 119 页",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=119"
+    },
+    {
+      "text": "Cambridge IELTS 21 Academic · Test 1 · PDF 21 页",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=21"
+    },
+    {
+      "text": "练原题：Mapungubwe｜贸易、器物与衰落",
+      "href": "#reading-case-rd-c21-mapungubwe-2"
+    },
+    {
+      "text": "练原题：The World of Sugar｜劳动组织与行业权力",
+      "href": "#reading-case-rd-c21-sugar-2"
+    },
+    {
+      "text": "练原题：Why we need silence｜漂浮舱的两项实验",
+      "href": "#reading-case-rd-c21-silence-2"
+    }
+  ],
+  "details": [],
+  "saveFields": [
+    "resource-learned-new-reading-refill-summary",
+    "resource-review-new-reading-refill-summary",
+    "resource-note-new-reading-refill-summary"
+  ],
+  "images": [],
+  "audio": [],
+  "viewport": 1440,
+  "documentWidth": 1440
+}

@@ -1,0 +1,252 @@
+{
+  "requested": "listening-text-shipping",
+  "from": [
+    "页面链接"
+  ],
+  "actual": "#listening-text-shipping",
+  "checkedAt": "2026-09-21T12:54:43.881Z",
+  "title": "学习 / 听力 / 听力 · 从原题开始学 · IELTS",
+  "label": "学习 / 听力 / 听力 · 从原题开始学",
+  "panel": "listening",
+  "contentRoot": "listening-first",
+  "headings": [
+    {
+      "tag": "H2",
+      "text": "先做自己的答案",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "货运报价单 · 听力 1–8 题",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "SECTION 1 · Questions 1–8",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "PACKHAM’S SHIPPING AGENCY – customer quotation form",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "我的首次作答",
+      "visible": true
+    }
+  ],
+  "controls": [
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "text",
+      "text": "",
+      "label": "第1题答案",
+      "href": null,
+      "save": "listening-q1",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "text",
+      "text": "",
+      "label": "第2题答案",
+      "href": null,
+      "save": "listening-q2",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "text",
+      "text": "",
+      "label": "第3题答案",
+      "href": null,
+      "save": "listening-q3",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "text",
+      "text": "",
+      "label": "第4题答案",
+      "href": null,
+      "save": "listening-q4",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "text",
+      "text": "",
+      "label": "第5题答案",
+      "href": null,
+      "save": "listening-q5",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "text",
+      "text": "",
+      "label": "第6题答案",
+      "href": null,
+      "save": "listening-q6",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "text",
+      "text": "",
+      "label": "第7题答案",
+      "href": null,
+      "save": "listening-q7",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "text",
+      "text": "",
+      "label": "第8题答案",
+      "href": null,
+      "save": "listening-q8",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "查看原图 · 1 页",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "AUDIO",
+      "id": "",
+      "text": "",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SELECT",
+      "id": "",
+      "type": "select-one",
+      "text": "首次独立\n学习后应用／已看背景\n见过材料／熟题\n使用提示",
+      "label": "本次条件\n首次独立\n学习后应用／已看背景\n见过材料／熟题\n使用提示",
+      "href": null,
+      "save": "listening-condition",
+      "visible": true,
+      "disabled": false,
+      "required": false,
+      "options": [
+        {
+          "value": "首次独立",
+          "label": "首次独立"
+        },
+        {
+          "value": "学习后应用／已看背景",
+          "label": "学习后应用／已看背景"
+        },
+        {
+          "value": "见过材料／熟题",
+          "label": "见过材料／熟题"
+        },
+        {
+          "value": "使用提示",
+          "label": "使用提示"
+        }
+      ]
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "number",
+      "text": "",
+      "label": "实际用时（分钟）",
+      "href": null,
+      "save": "listening-minutes",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "保存首次作答，进入学习",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    }
+  ],
+  "visibleText": "0% · 0 / 8 完成\n先做自己的答案\n\n先读货运询价表 1—8 题，每空不超过三个词和／或一个数字。原速播放配套录音 1 一次，作答时不暂停、不回放、不看稿或答案，完成后保留首次填写。读题时间另记；已经听过、看过稿或需要支持时，如实记录条件。\n\n货运报价单 · 听力 1–8 题\nSECTION 1 · Questions 1–8\n\nComplete the form below.\n\nWrite NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer.\n\nPACKHAM’S SHIPPING AGENCY – customer quotation form\nExample · Country of destination\tKenya\nName\tJacob\n1\n\nAddress to be collected from\t\n2\nCollege, Downlands Rd\nTown\tBristol\nPostcode\t\n3\n\nSize of container · Length\t1.5m\nWidth\t\n4\n\nHeight\t\n5\n\nContents\tclothes\n\n6\n\n\n7\n\nTotal estimated value\t£\n8\n查看原图 · 1 页\n听力音频 · Recording 1\n我的首次作答\n本次条件\n首次独立\n学习后应用／已看背景\n见过材料／熟题\n使用提示\n实际用时（分钟）\n\n直接在题目旁填写答案，文字会自动保存。\n\n保存首次作答，进入学习\n\n首次稿尚未保存。",
+  "allContent": "0% · 0 / 8 完成先做自己的答案先读货运询价表 1—8 题，每空不超过三个词和／或一个数字。原速播放配套录音 1 一次，作答时不暂停、不回放、不看稿或答案，完成后保留首次填写。读题时间另记；已经听过、看过稿或需要支持时，如实记录条件。货运报价单 · 听力 1–8 题SECTION 1 · Questions 1–8Complete the form below.Write NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer.PACKHAM’S SHIPPING AGENCY – customer quotation formExample · Country of destinationKenyaNameJacob 1Address to be collected from2 College, Downlands RdTownBristolPostcode3Size of container · Length1.5mWidth4Height5Contentsclothes67Total estimated value£ 8查看原图 · 1 页Cambridge 练习题 · 115005 · 原题 1–8听力音频 · Recording 1我的首次作答本次条件首次独立学习后应用／已看背景见过材料／熟题使用提示实际用时（分钟）直接在题目旁填写答案，文字会自动保存。保存首次作答，进入学习首次稿尚未保存。",
+  "links": [],
+  "details": [
+    {
+      "id": "",
+      "title": "查看原图 · 1 页",
+      "open": false,
+      "visible": true
+    }
+  ],
+  "saveFields": [
+    "listening-q1",
+    "listening-q2",
+    "listening-q3",
+    "listening-q4",
+    "listening-q5",
+    "listening-q6",
+    "listening-q7",
+    "listening-q8",
+    "listening-condition",
+    "listening-minutes"
+  ],
+  "images": [
+    {
+      "src": "assets/deferred-media/d9918afe6239647335829b49.png",
+      "alt": "Cambridge 官方样题 · 115005 · 原题 1–8",
+      "visible": false,
+      "complete": false,
+      "width": 0
+    }
+  ],
+  "audio": [
+    {
+      "src": "assets/deferred-media/9d796f2edcb8df33da4d8359.mp3",
+      "sources": [],
+      "visible": true,
+      "controls": true
+    }
+  ],
+  "viewport": 1440,
+  "documentWidth": 1440
+}

@@ -1,0 +1,21 @@
+const {chromium}=require('C:/Users/Admin1/.cache/codex-runtimes/codex-primary-runtime/dependencies/node/node_modules/playwright');
+const fs=require('fs'),path=require('path'),{pathToFileURL}=require('url'),assert=require('assert');
+(async()=>{
+  const root='C:/Users/Admin1/Documents/Codex/2026-09-12/referenced-chatgpt-conversation-this-is-an/outputs/IELTS-四科学习册';
+  const qa=path.join(__dirname,'resource-expansion-qa'),backup=path.join(qa,'qa-only-backup.json'),data=JSON.parse(fs.readFileSync(backup,'utf8'));
+  const manifest=JSON.parse(fs.readFileSync(path.join(root,'resource-expansion-manifest.json'),'utf8'));
+  const browser=await chromium.launch({executablePath:'C:/Program Files (x86)/Microsoft/Edge/Application/msedge.exe',headless:true});
+  const context=await browser.newContext(),page=await context.newPage(),errors=[];page.on('pageerror',e=>errors.push(e.message));
+  await page.goto(pathToFileURL(path.join(root,'开始学习.html')).href+'#records');
+  await Promise.all([page.waitForEvent('load'),page.locator('#import-state').setInputFiles(backup)]);
+  await page.waitForFunction(n=>document.querySelector('#res-progress').textContent.includes('新增资源已学 1 / '+n),manifest.units);
+  const restored=await page.evaluate(()=>JSON.parse(localStorage.getItem('ielts-finished-book-v1')));assert.deepEqual(restored,data);
+  assert.equal(await page.locator('#res-learned-list a').count(),1);assert.equal(await page.locator('#res-review-list a').count(),0);
+  assert.equal(restored.fields['reading-q1'],'QA existing original answer');assert.deepEqual(errors,[]);
+  const results=JSON.parse(fs.readFileSync(path.join(qa,'results.json'),'utf8'));
+  const item=results.checks.find(x=>x.name==='export and restore retain new and original fields');item.pass=true;delete item.error;item.detail='针对性重测通过：等待导入后的页面load，再核对新旧字段全量相等；未修改产品代码。';
+  results.passed=results.checks.filter(x=>x.pass).length;results.failed=results.checks.filter(x=>!x.pass).length;
+  fs.writeFileSync(path.join(qa,'results.json'),JSON.stringify(results,null,2));
+  console.log(JSON.stringify({restore_pass:true,total_passed:results.passed,total_failed:results.failed,browser_errors:errors}));
+  await context.close();await browser.close();
+})().catch(e=>{console.error(e.stack);process.exitCode=1;});

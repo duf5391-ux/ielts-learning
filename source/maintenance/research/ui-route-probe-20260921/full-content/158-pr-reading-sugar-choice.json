@@ -1,0 +1,250 @@
+{
+  "requested": "pr-reading-sugar-choice",
+  "from": [
+    "内容单元",
+    "页面链接"
+  ],
+  "actual": "#pr-reading-sugar-choice",
+  "checkedAt": "2026-09-21T12:52:26.902Z",
+  "title": "练习 / 阅读 / 阅读 · 选择题 The World of Sugar · IELTS",
+  "label": "练习 / 阅读 / 阅读 · 选择题 The World of Sugar",
+  "panel": "practice-reading",
+  "contentRoot": "pr-reading-sugar-choice",
+  "headings": [
+    {
+      "tag": "H4",
+      "text": "这份材料的精读",
+      "visible": true
+    }
+  ],
+  "controls": [
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "阅读 · 选择题 The World of Sugar",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "作答 1\n暂时不会",
+      "href": null,
+      "save": "pr-reading-sugar-choice-27",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "暂时不会",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "作答 2\n暂时不会",
+      "href": null,
+      "save": "pr-reading-sugar-choice-28",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "暂时不会",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "作答 3\n暂时不会",
+      "href": null,
+      "save": "pr-reading-sugar-choice-29",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "暂时不会",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "答案",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "再练一次",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "",
+      "href": null,
+      "save": "pr-reading-sugar-choice-another",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "",
+      "label": "",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "",
+      "label": "",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "Cambridge IELTS 21 Academic",
+      "label": "",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=26",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "The World of Sugar｜全球贸易与误解纠正",
+      "label": "",
+      "href": "#material-reading-rd-c21-sugar-1",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "The World of Sugar｜劳动组织与行业权力",
+      "label": "",
+      "href": "#material-reading-rd-c21-sugar-2",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "The World of Sugar｜工业化、消费与作者立场",
+      "label": "",
+      "href": "#material-reading-rd-c21-sugar-3",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    }
+  ],
+  "visibleText": "阅读 · 选择题 The World of Sugar\n0% · 0 / 3 完成\n\nChoose the correct letter, A, B, C or D.\n\nUlbe Bosma's The World of Sugar is a genuinely global history. Bosma discusses all the sugar growing places of the world, beginning with Cuba and Java, the largest exporters of the early 20th century. But this is a history not just of cane sugar but also of beet sugar, an equally important form of traded sugar over the last hundred years. Beet sugar is grown mainly in Europe and the United States. It has also been massively subsidised and sold at artificially low prices on world markets, threatening the livelihood of producers of cane sugar.\n\nBosma's discussion of the sugar market in Britain gives a sense of the book's range. The sweet-toothed British first bought cane sugar from their own slavery-dependent colonial plantations. Following the abolition of slavery in the British Empire, cane sugar was imported to Britain from places which retained the practice, such as Cuba and Brazil. Towards the end of the 19th century, the British started to import beet sugar from continental Europe. Only in the 20th century was there a move to develop a national beet sugar industry.\n\nThe book provides a global labour history, investigating the wide range of labour regimes associated with growing sugar. Contrary to popular belief, cane sugar production was never just restricted to large, dedicated plantations owned by rich men. For example, in Java, a huge exporter of sugar in the early 20th century, sugar cane was grown together with rice in an extraordinarily labour-intensive way by small farmers.\n\nWhat does the reviewer suggest about the cultivation and trading of sugar in the first paragraph?\n\nA Sugar has played a major role in international relations.\nB Beet sugar has been made more internationally competitive.\nC Cane sugar is thought to be of superior quality to beet sugar.\nD New locations for cultivating sugar have increased production.\n作答 1\n暂时不会\n\nIn the second paragraph, when discussing the sugar market in Britain, the reviewer stresses\n\nA how the sources used changed over time.\nB how developments in agriculture affected trade.\nC the increased demand for sugar over the years.\nD the growing support for ethical methods of cultivation.\n作答 2\n暂时不会\n\nWhat is the reviewer doing in the third paragraph?\n\nA describing an efficient approach to sugar cultivation\nB explaining why the use of sugar plantations declined\nC addressing a misconception about the growing of sugar cane\nD evaluating different approaches to the cultivation of sugar cane\n作答 3\n暂时不会\n答案\n再练一次\n\n选材来源 · Cambridge IELTS 21 Academic\n\n这份材料的精读\n\nThe World of Sugar｜全球贸易与误解纠正 · The World of Sugar｜劳动组织与行业权力 · The World of Sugar｜工业化、消费与作者立场",
+  "allContent": "阅读 · 选择题 The World of Sugar0% · 0 / 3 完成Choose the correct letter, A, B, C or D.Ulbe Bosma's The World of Sugar is a genuinely global history. Bosma discusses all the sugar growing places of the world, beginning with Cuba and Java, the largest exporters of the early 20th century. But this is a history not just of cane sugar but also of beet sugar, an equally important form of traded sugar over the last hundred years. Beet sugar is grown mainly in Europe and the United States. It has also been massively subsidised and sold at artificially low prices on world markets, threatening the livelihood of producers of cane sugar.Bosma's discussion of the sugar market in Britain gives a sense of the book's range. The sweet-toothed British first bought cane sugar from their own slavery-dependent colonial plantations. Following the abolition of slavery in the British Empire, cane sugar was imported to Britain from places which retained the practice, such as Cuba and Brazil. Towards the end of the 19th century, the British started to import beet sugar from continental Europe. Only in the 20th century was there a move to develop a national beet sugar industry.The book provides a global labour history, investigating the wide range of labour regimes associated with growing sugar. Contrary to popular belief, cane sugar production was never just restricted to large, dedicated plantations owned by rich men. For example, in Java, a huge exporter of sugar in the early 20th century, sugar cane was grown together with rice in an extraordinarily labour-intensive way by small farmers.What does the reviewer suggest about the cultivation and trading of sugar in the first paragraph?A Sugar has played a major role in international relations.B Beet sugar has been made more internationally competitive.C Cane sugar is thought to be of superior quality to beet sugar.D New locations for cultivating sugar have increased production.作答 1暂时不会In the second paragraph, when discussing the sugar market in Britain, the reviewer stressesA how the sources used changed over time.B how developments in agriculture affected trade.C the increased demand for sugar over the years.D the growing support for ethical methods of cultivation.作答 2暂时不会What is the reviewer doing in the third paragraph?A describing an efficient approach to sugar cultivationB explaining why the use of sugar plantations declinedC addressing a misconception about the growing of sugar caneD evaluating different approaches to the cultivation of sugar cane作答 3暂时不会答案Q27 B；Q28 A；Q29 C再练一次Choose the correct letter, A, B, C or D.Early trials of the sensor produced inconsistent readings. The team did not discard the instrument; instead, they traced the variation to differences in temperature and redesigned its casing. Later trials produced stable results. The original failures therefore contributed directly to the final design.What is the writer doing in this paragraph?A Comparing the cost of two instrumentsB Showing how unsuccessful tests informed an improvementC Explaining why a research project was abandonedD Arguing that temperature cannot be measured reliably作答暂时不会答案B选材来源 · Cambridge IELTS 21 Academic这份材料的精读The World of Sugar｜全球贸易与误解纠正 · The World of Sugar｜劳动组织与行业权力 · The World of Sugar｜工业化、消费与作者立场",
+  "links": [
+    {
+      "text": "Cambridge IELTS 21 Academic",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=26"
+    },
+    {
+      "text": "The World of Sugar｜全球贸易与误解纠正",
+      "href": "#material-reading-rd-c21-sugar-1"
+    },
+    {
+      "text": "The World of Sugar｜劳动组织与行业权力",
+      "href": "#material-reading-rd-c21-sugar-2"
+    },
+    {
+      "text": "The World of Sugar｜工业化、消费与作者立场",
+      "href": "#material-reading-rd-c21-sugar-3"
+    }
+  ],
+  "details": [
+    {
+      "id": "answer-check-27",
+      "title": "答案",
+      "open": false,
+      "answerGate": "[\"pr-reading-sugar-choice-27\", \"pr-reading-sugar-choice-28\", \"pr-reading-sugar-choice-29\"]",
+      "visible": true
+    },
+    {
+      "id": "",
+      "title": "再练一次",
+      "open": false,
+      "visible": true
+    },
+    {
+      "id": "answer-check-28",
+      "title": "答案",
+      "open": false,
+      "answerGate": "[\"pr-reading-sugar-choice-another\"]",
+      "visible": false
+    }
+  ],
+  "saveFields": [
+    "pr-reading-sugar-choice-27",
+    "pr-reading-sugar-choice-28",
+    "pr-reading-sugar-choice-29",
+    "pr-reading-sugar-choice-another"
+  ],
+  "images": [],
+  "audio": [],
+  "viewport": 1440,
+  "documentWidth": 1440
+}

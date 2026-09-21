@@ -1,0 +1,38 @@
+{
+  "source_sha256": "7ea735c348907a20b6b808ee403423aea263c29811071067ddca41fa85bfce44",
+  "candidate_sha256": "2f870d2c02b4ab48a0c64668aef59c19dbbdcb0d446df8a76a497723886b5d85",
+  "save_fields": 3368,
+  "units": 224,
+  "ids_preserved": true,
+  "jijing": {
+    "originalSaveFields": 3353,
+    "saveFields": 3368,
+    "newSaveFields": 15,
+    "newUnits": 4,
+    "newReadingQuestions": 14,
+    "newWritingTasks": 3,
+    "difficultyItems": 15,
+    "catalogUnits": 224,
+    "preservedOutsideOwnedBlocks": true
+  },
+  "assets": [
+    {
+      "source": "C:\\Users\\Admin1\\Documents\\ChatGPT\\ielts\\feature-fixes-20260921\\jijing\\assets\\\u673a\u7ecf\u8d44\u6599\\jiufen-reviewed-20260921\\index.html",
+      "path": "\u673a\u7ecf\u8d44\u6599/jiufen-reviewed-20260921/index.html",
+      "sha256": "8b89d4b43e3bcbdeefb5b749d0d99fcf4210f77d1c65b004feb4a41da9c94f37",
+      "bytes": 5839
+    },
+    {
+      "source": "C:\\Users\\Admin1\\Documents\\ChatGPT\\ielts\\feature-fixes-20260921\\jijing\\assets\\\u673a\u7ecf\u8d44\u6599\\jijing-20260920\\writing-task2.html",
+      "path": "\u673a\u7ecf\u8d44\u6599/jijing-20260920/writing-task2.html",
+      "sha256": "94f63edd0767071b4b0393e01a72b2fa5f11ef122d8c8656939809730099f397",
+      "bytes": 9643
+    },
+    {
+      "source": "C:\\Users\\Admin1\\Documents\\ChatGPT\\ielts\\feature-fixes-20260921\\jijing\\assets\\\u673a\u7ecf\u8d44\u6599\\jijing-20260920\\index.html",
+      "path": "\u673a\u7ecf\u8d44\u6599/jijing-20260920/index.html",
+      "sha256": "2b7f2cdf41f46fccf6035969624d3d63f37377052cce62c15f106e41e0af8b30",
+      "bytes": 3593
+    }
+  ]
+}

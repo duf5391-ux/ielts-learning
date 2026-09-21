@@ -1,0 +1,73 @@
+{
+  "requested": "usage-17",
+  "from": [
+    "内容单元"
+  ],
+  "actual": "#usage-17",
+  "checkedAt": "2026-09-21T12:53:29.083Z",
+  "title": "学习 / 短语 / affect / effect on · IELTS",
+  "label": "学习 / 短语 / affect / effect on",
+  "panel": "phrases",
+  "contentRoot": "usage-17",
+  "headings": [
+    {
+      "tag": "H3",
+      "text": "affect / effect on",
+      "visible": true
+    }
+  ],
+  "controls": [
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "checkbox",
+      "text": "",
+      "label": "收藏 affect / effect on",
+      "href": null,
+      "save": "vocab-saved-usage-affect-effect-on",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "Governments, farming and environmental management",
+      "label": "",
+      "href": "原始参考/5856a161-idp-29.pdf",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "checkbox",
+      "text": "",
+      "label": "我已看过本单元",
+      "href": null,
+      "save": "learning-read-usage-17",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    }
+  ],
+  "visibleText": "0% · 0 / 1 完成\n☆\naffect / effect on\n\naffect 在这里是动词影响；effect 是名词影响或效果。\n\nA affects B；A has an effect on B；have a positive / negative / significant effect on something。\n\nNo activity affects more of the earth's surface than farming.\n\n原文完整句，来自现有资料正文；只合并排版换行，未引用题干或答案。\n\n原文：\n\nGovernments, farming and environmental management\n\n日常语境例句\n\nA heavy workload can affect sleep and have a negative effect on concentration.\n\n过重的任务量会影响睡眠，并对注意力产生负面影响。\n\n常见错误是 has an affect on。比较：Noise affects concentration / Noise has an effect on concentration。effect 还有另一个正式动词义，但不是当前结构。sound effects 是音效，不属于本卡统计。\n\n我已看过本单元",
+  "allContent": "0% · 0 / 1 完成☆affect / effect onaffect 在这里是动词影响；effect 是名词影响或效果。A affects B；A has an effect on B；have a positive / negative / significant effect on something。No activity affects more of the earth's surface than farming.原文完整句，来自现有资料正文；只合并排版换行，未引用题干或答案。原文：Governments, farming and environmental management日常语境例句A heavy workload can affect sleep and have a negative effect on concentration.过重的任务量会影响睡眠，并对注意力产生负面影响。常见错误是 has an affect on。比较：Noise affects concentration / Noise has an effect on concentration。effect 还有另一个正式动词义，但不是当前结构。sound effects 是音效，不属于本卡统计。 我已看过本单元",
+  "links": [
+    {
+      "text": "Governments, farming and environmental management",
+      "href": "原始参考/5856a161-idp-29.pdf"
+    }
+  ],
+  "details": [],
+  "saveFields": [
+    "vocab-saved-usage-affect-effect-on",
+    "learning-read-usage-17"
+  ],
+  "images": [],
+  "audio": [],
+  "viewport": 1440,
+  "documentWidth": 1440
+}

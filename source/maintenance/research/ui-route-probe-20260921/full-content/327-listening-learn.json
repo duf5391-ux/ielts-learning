@@ -1,0 +1,127 @@
+{
+  "requested": "listening-learn",
+  "from": [
+    "页面链接"
+  ],
+  "actual": "#listening-learn",
+  "checkedAt": "2026-09-21T12:55:05.883Z",
+  "title": "学习 / 听力 / 听力 · 从原题开始学 · IELTS",
+  "label": "学习 / 听力 / 听力 · 从原题开始学",
+  "panel": "listening",
+  "contentRoot": "listening-learn",
+  "headings": [
+    {
+      "tag": "H2",
+      "text": "从这份答案开始学",
+      "visible": false
+    },
+    {
+      "tag": "H2",
+      "text": "教学：只处理一个问题",
+      "visible": false
+    },
+    {
+      "tag": "H2",
+      "text": "少量用法：同一结构，两次表达",
+      "visible": false
+    },
+    {
+      "tag": "H3",
+      "text": "我的练习与修订",
+      "visible": false
+    }
+  ],
+  "controls": [
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "参考与反馈",
+      "label": "",
+      "href": "#listening-feedback",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "作答后复盘：我选的题号与首次填写是什么？首次是否原速一次、暂停、重播或看稿？",
+      "href": null,
+      "save": "listening-practice0",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "局部重听记录：我实际听到了什么，它表示什么意思，题目要求填什么？未听清处留空，注明是否已看稿。",
+      "href": null,
+      "save": "listening-practice1",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "有提示用法练习：从本章取箱子／取包裹任务中选一句，尝试 pick something up from 或 have something picked up from；collect 等准确替代也可。",
+      "href": null,
+      "save": "listening-practice2",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "修复记录：本次是看稿后理解、关稿重听理解，还是仍不确定？用法是看提示写／实际说，或合法替代表达？",
+      "href": null,
+      "save": "listening-practice3",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "保留自己的意思，在这里写修订稿或修复后的片段。",
+      "href": null,
+      "save": "listening-revision",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    }
+  ],
+  "visibleText": "从这份答案开始学保留首答后只选一题不确定的位置。先局部重听，记实际听到什么，再说清这句话的意思与表格要填什么；随后才打开文字稿和答案，修清这一个对应关系。关稿再听，修复结果另记，不用整篇听写。教学：只处理一个问题\n本章提供的深入检查放在第 8 题，约 8–12 分钟。如果这题已能独立做对并说清依据，可以跳过深挖，或把下面的检查步骤用于你实际不确定的一题；一次只选一题。\n\n先听声音。重听录音最后关于物品价值的问答，先不开文字稿。记下自己听到的数字或词；未听清处留空。不要凭记忆直接补齐。\n再核对意义。用中文说一句：说话者最后确认的是什么？如果只听到几个数字但说不清它们的关系，先记“声音部分识别，意思尚不确定”。\n最后对照填写要求。看题目所在栏的名称、已有单位和允许字数，判断自己记录的内容是否回答该栏。\n打开参考与反馈，对照原稿和答案，给本次问题选一个主要原因。需要时看稿听一遍，然后关稿再听这个位置。\n\n局部重听后的正确是修复结果，不能覆盖首次答案。你可以用播放器找到最后的问答；本章没有伪造逐句时间轴。不要求听写整篇，也不强制同时练数字、姓名拼写、弱读和跟读。\n少量用法：同一结构，两次表达\n在首次作答之后再做，约 3–5 分钟。下面是本工作区的教学任务，不是原卷新增题。\npick something up from a place 在取件情境表示从某处取走某物；have something picked up from a place 可以表达安排到某处取件。本章只选这个结构，不把 pick up 的所有义项一起背。\n\n表达：请从学院取走这个箱子。\n换一个情境表达：我想安排快递员明天从办公室取走这个包裹。\n\n可以写一句，也可以实际说出来。写出来只记录为用法书面产出；不能据此评口语发音。若 collect 等表达同样准确自然，记“替代表达成功”；目标结构的提取另记。学习时可以看提示，之后的无提示回忆另外安排。\n标记：K 以前会用／R 认识但很少用／N 本次新学；本次是看提示使用／独立回忆／合法替代表达／仍需教学。结构就在本页，照着写对不能标为无提示独立提取。我的练习与修订以下属于教学支持后的使用，和首次答案分开。作答后复盘：我选的题号与首次填写是什么？首次是否原速一次、暂停、重播或看稿？局部重听记录：我实际听到了什么，它表示什么意思，题目要求填什么？未听清处留空，注明是否已看稿。有提示用法练习：从本章取箱子／取包裹任务中选一句，尝试 pick something up from 或 have something picked up from；collect 等准确替代也可。修复记录：本次是看稿后理解、关稿重听理解，还是仍不确定？用法是看提示写／实际说，或合法替代表达？保留自己的意思，在这里写修订稿或修复后的片段。",
+  "allContent": "从这份答案开始学保留首答后只选一题不确定的位置。先局部重听，记实际听到什么，再说清这句话的意思与表格要填什么；随后才打开文字稿和答案，修清这一个对应关系。关稿再听，修复结果另记，不用整篇听写。教学：只处理一个问题\n本章提供的深入检查放在第 8 题，约 8–12 分钟。如果这题已能独立做对并说清依据，可以跳过深挖，或把下面的检查步骤用于你实际不确定的一题；一次只选一题。\n\n先听声音。重听录音最后关于物品价值的问答，先不开文字稿。记下自己听到的数字或词；未听清处留空。不要凭记忆直接补齐。\n再核对意义。用中文说一句：说话者最后确认的是什么？如果只听到几个数字但说不清它们的关系，先记“声音部分识别，意思尚不确定”。\n最后对照填写要求。看题目所在栏的名称、已有单位和允许字数，判断自己记录的内容是否回答该栏。\n打开参考与反馈，对照原稿和答案，给本次问题选一个主要原因。需要时看稿听一遍，然后关稿再听这个位置。\n\n局部重听后的正确是修复结果，不能覆盖首次答案。你可以用播放器找到最后的问答；本章没有伪造逐句时间轴。不要求听写整篇，也不强制同时练数字、姓名拼写、弱读和跟读。\n少量用法：同一结构，两次表达\n在首次作答之后再做，约 3–5 分钟。下面是本工作区的教学任务，不是原卷新增题。\npick something up from a place 在取件情境表示从某处取走某物；have something picked up from a place 可以表达安排到某处取件。本章只选这个结构，不把 pick up 的所有义项一起背。\n\n表达：请从学院取走这个箱子。\n换一个情境表达：我想安排快递员明天从办公室取走这个包裹。\n\n可以写一句，也可以实际说出来。写出来只记录为用法书面产出；不能据此评口语发音。若 collect 等表达同样准确自然，记“替代表达成功”；目标结构的提取另记。学习时可以看提示，之后的无提示回忆另外安排。\n标记：K 以前会用／R 认识但很少用／N 本次新学；本次是看提示使用／独立回忆／合法替代表达／仍需教学。结构就在本页，照着写对不能标为无提示独立提取。我的练习与修订以下属于教学支持后的使用，和首次答案分开。作答后复盘：我选的题号与首次填写是什么？首次是否原速一次、暂停、重播或看稿？局部重听记录：我实际听到了什么，它表示什么意思，题目要求填什么？未听清处留空，注明是否已看稿。有提示用法练习：从本章取箱子／取包裹任务中选一句，尝试 pick something up from 或 have something picked up from；collect 等准确替代也可。修复记录：本次是看稿后理解、关稿重听理解，还是仍不确定？用法是看提示写／实际说，或合法替代表达？保留自己的意思，在这里写修订稿或修复后的片段。",
+  "links": [
+    {
+      "text": "参考与反馈",
+      "href": "#listening-feedback"
+    }
+  ],
+  "details": [],
+  "saveFields": [
+    "listening-practice0",
+    "listening-practice1",
+    "listening-practice2",
+    "listening-practice3",
+    "listening-revision"
+  ],
+  "images": [],
+  "audio": [],
+  "viewport": 1440,
+  "documentWidth": 1440
+}

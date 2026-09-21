@@ -1,0 +1,229 @@
+{
+  "requested": "writing2-review",
+  "from": [
+    "页面链接"
+  ],
+  "actual": "#writing2-review",
+  "checkedAt": "2026-09-21T12:55:04.745Z",
+  "title": "学习 / 写作 · Task 2 / 写作 · Task 2 · 从原题开始学 · IELTS",
+  "label": "学习 / 写作 · Task 2 / 写作 · Task 2 · 从原题开始学",
+  "panel": "writing2",
+  "contentRoot": "writing2-review",
+  "headings": [],
+  "controls": [
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "可选：换一道题再试",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "高层住宅是否是城市住房的最佳方案",
+      "label": "",
+      "href": "#writing2-case-wc-c21-t1-homes",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "线上娱乐与剧院影院的经济文化价值",
+      "label": "",
+      "href": "#writing2-case-wc-c21-t2-entertainment",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "本科海外学习或实习：收益能否超过代价",
+      "label": "",
+      "href": "#writing2-case-wc-c21-t3-placement",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "小学正式学习与课堂游戏：两个问题分别回应",
+      "label": "",
+      "href": "#writing2-case-wc-c21-t4-primary",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "Cambridge IELTS 21 Academic · Test 1 · Task 2 · PDF 31 页",
+      "label": "",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=31",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "Cambridge IELTS 21 Academic · Test 2 · Task 2 · PDF 53 页",
+      "label": "",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=53",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "Cambridge IELTS 21 Academic · Test 3 · Task 2 · PDF 74 页",
+      "label": "",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=74",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "Cambridge IELTS 21 Academic · Test 4 · Task 2 · PDF 96 页",
+      "label": "",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=96",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "练原题：高层住宅是否是城市住房的最佳方案",
+      "label": "",
+      "href": "#writing2-case-wc-c21-t1-homes",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "练原题：线上娱乐与剧院影院的经济文化价值",
+      "label": "",
+      "href": "#writing2-case-wc-c21-t2-entertainment",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "练原题：本科海外学习或实习：收益能否超过代价",
+      "label": "",
+      "href": "#writing2-case-wc-c21-t3-placement",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "练原题：小学正式学习与课堂游戏：两个问题分别回应",
+      "label": "",
+      "href": "#writing2-case-wc-c21-t4-primary",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "本次新任务作答／录音文件名；先作答，再打开页内核对。",
+      "href": null,
+      "save": "writing2-review-answer",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    }
+  ],
+  "visibleText": "可选：换一道题再试\n\n复习直接回到剑桥21四道原题，先写自己的两段主体再核对。不要把题型名称当作答案；每题都必须保留范围词和动作要求。\n\n高层住宅：best way要求评判是不是最佳方案。参考判断为“高层能节省土地，但可负担性与公共设施决定它是否适合，因此有条件赞成”。只写节省土地没有回答best。\n剧院影院：Discuss both views要求认真解释线上娱乐的便利，同时回应economically与culturally。参考论证分别用时间/地点自由、场馆就业及本地文化共同体验支撑，并明确仍然重要的立场。\n海外学习或实习：原题为abroad or work placement，不要求两项都做。参考权衡用长期实践能力与可通过资助/本地实习缓解的成本比较，才能完成outweigh。\n小学课堂：第一问是formal learning是否过多，第二问是play有多重要。参考写法一段讨论正式教学失衡，另一段以假想商店和合作模型解释游戏怎样支持课堂学习，两问各有清楚答案。\n\n每写完一题，给自己的句子标注“回答题干哪一部分”“理由的机制”“具体例子”“例子怎样支持判断”。例如影院题的本地演出带动技术人员岗位对应economically；共同观看本地故事对应culturally。若只写“important to society”，就还没有完成具体展开。\n\n四题的完整双段参考写法、结构和句子精读都在对应case中。复习同一道题属于再次练习，不新增独立题数；所有写作范例均为明确标注的参考写法。\n\n对应原题练习：高层住宅是否是城市住房的最佳方案 · 线上娱乐与剧院影院的经济文化价值 · 本科海外学习或实习：收益能否超过代价 · 小学正式学习与课堂游戏：两个问题分别回应\n\nCambridge IELTS 21 Academic · Test 1 · Task 2 · PDF 31 页\n\nCambridge IELTS 21 Academic · Test 2 · Task 2 · PDF 53 页\n\nCambridge IELTS 21 Academic · Test 3 · Task 2 · PDF 74 页\n\nCambridge IELTS 21 Academic · Test 4 · Task 2 · PDF 96 页\n\n练原题：高层住宅是否是城市住房的最佳方案\n练原题：线上娱乐与剧院影院的经济文化价值\n练原题：本科海外学习或实习：收益能否超过代价\n练原题：小学正式学习与课堂游戏：两个问题分别回应\n\n本单元的学习记录\n\n本次新任务作答／录音文件名；先作答，再打开页内核对。",
+  "allContent": "可选：换一道题再试\n复习直接回到剑桥21四道原题，先写自己的两段主体再核对。不要把题型名称当作答案；每题都必须保留范围词和动作要求。\n高层住宅：best way要求评判是不是最佳方案。参考判断为“高层能节省土地，但可负担性与公共设施决定它是否适合，因此有条件赞成”。只写节省土地没有回答best。剧院影院：Discuss both views要求认真解释线上娱乐的便利，同时回应economically与culturally。参考论证分别用时间/地点自由、场馆就业及本地文化共同体验支撑，并明确仍然重要的立场。海外学习或实习：原题为abroad or work placement，不要求两项都做。参考权衡用长期实践能力与可通过资助/本地实习缓解的成本比较，才能完成outweigh。小学课堂：第一问是formal learning是否过多，第二问是play有多重要。参考写法一段讨论正式教学失衡，另一段以假想商店和合作模型解释游戏怎样支持课堂学习，两问各有清楚答案。\n每写完一题，给自己的句子标注“回答题干哪一部分”“理由的机制”“具体例子”“例子怎样支持判断”。例如影院题的本地演出带动技术人员岗位对应economically；共同观看本地故事对应culturally。若只写“important to society”，就还没有完成具体展开。\n四题的完整双段参考写法、结构和句子精读都在对应case中。复习同一道题属于再次练习，不新增独立题数；所有写作范例均为明确标注的参考写法。\n对应原题练习：高层住宅是否是城市住房的最佳方案 · 线上娱乐与剧院影院的经济文化价值 · 本科海外学习或实习：收益能否超过代价 · 小学正式学习与课堂游戏：两个问题分别回应Cambridge IELTS 21 Academic · Test 1 · Task 2 · PDF 31 页Cambridge IELTS 21 Academic · Test 2 · Task 2 · PDF 53 页Cambridge IELTS 21 Academic · Test 3 · Task 2 · PDF 74 页Cambridge IELTS 21 Academic · Test 4 · Task 2 · PDF 96 页练原题：高层住宅是否是城市住房的最佳方案练原题：线上娱乐与剧院影院的经济文化价值练原题：本科海外学习或实习：收益能否超过代价练原题：小学正式学习与课堂游戏：两个问题分别回应本单元的学习记录本次新任务作答／录音文件名；先作答，再打开页内核对。",
+  "links": [
+    {
+      "text": "高层住宅是否是城市住房的最佳方案",
+      "href": "#writing2-case-wc-c21-t1-homes"
+    },
+    {
+      "text": "线上娱乐与剧院影院的经济文化价值",
+      "href": "#writing2-case-wc-c21-t2-entertainment"
+    },
+    {
+      "text": "本科海外学习或实习：收益能否超过代价",
+      "href": "#writing2-case-wc-c21-t3-placement"
+    },
+    {
+      "text": "小学正式学习与课堂游戏：两个问题分别回应",
+      "href": "#writing2-case-wc-c21-t4-primary"
+    },
+    {
+      "text": "Cambridge IELTS 21 Academic · Test 1 · Task 2 · PDF 31 页",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=31"
+    },
+    {
+      "text": "Cambridge IELTS 21 Academic · Test 2 · Task 2 · PDF 53 页",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=53"
+    },
+    {
+      "text": "Cambridge IELTS 21 Academic · Test 3 · Task 2 · PDF 74 页",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=74"
+    },
+    {
+      "text": "Cambridge IELTS 21 Academic · Test 4 · Task 2 · PDF 96 页",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=96"
+    },
+    {
+      "text": "练原题：高层住宅是否是城市住房的最佳方案",
+      "href": "#writing2-case-wc-c21-t1-homes"
+    },
+    {
+      "text": "练原题：线上娱乐与剧院影院的经济文化价值",
+      "href": "#writing2-case-wc-c21-t2-entertainment"
+    },
+    {
+      "text": "练原题：本科海外学习或实习：收益能否超过代价",
+      "href": "#writing2-case-wc-c21-t3-placement"
+    },
+    {
+      "text": "练原题：小学正式学习与课堂游戏：两个问题分别回应",
+      "href": "#writing2-case-wc-c21-t4-primary"
+    }
+  ],
+  "details": [],
+  "saveFields": [
+    "writing2-review-answer"
+  ],
+  "images": [],
+  "audio": [],
+  "viewport": 1440,
+  "documentWidth": 1440
+}

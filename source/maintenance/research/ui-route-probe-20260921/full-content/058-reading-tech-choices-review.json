@@ -1,0 +1,247 @@
+{
+  "requested": "reading-tech-choices-review",
+  "from": [
+    "内容单元",
+    "页面链接"
+  ],
+  "actual": "#reading-tech-choices-review",
+  "checkedAt": "2026-09-21T12:51:10.286Z",
+  "title": "学习 / 阅读 / 选择题与复盘：用原段功能排除“只说对一半” · IELTS",
+  "label": "学习 / 阅读 / 选择题与复盘：用原段功能排除“只说对一半”",
+  "panel": "reading",
+  "contentRoot": "reading-tech-choices-review",
+  "headings": [
+    {
+      "tag": "H4",
+      "text": "用原题练这一题型",
+      "visible": true
+    }
+  ],
+  "controls": [
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "选择题与复盘：用原段功能排除“只说对一半”",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "The World of Sugar｜全球贸易与误解纠正",
+      "label": "",
+      "href": "#reading-case-rd-c21-sugar-1",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "Artificial Intelligence｜公众想象与解决一切的误区",
+      "label": "",
+      "href": "#reading-case-rd-c21-ai-1",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "Artificial Intelligence｜公共部门实施条件",
+      "label": "",
+      "href": "#reading-case-rd-c21-ai-2",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "Cambridge IELTS 21 Academic · Test 1 · PDF 26 页",
+      "label": "",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=26",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "Cambridge IELTS 21 Academic · Test 1 · PDF 119 页",
+      "label": "",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=119",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "Cambridge IELTS 21 Academic · Test 2 · PDF 47 页",
+      "label": "",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=47",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "Cambridge IELTS 21 Academic · Test 2 · PDF 121 页",
+      "label": "",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=121",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "练原题：The World of Sugar｜全球贸易与误解纠正",
+      "label": "",
+      "href": "#reading-case-rd-c21-sugar-1",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "练原题：Artificial Intelligence｜公众想象与解决一切的误区",
+      "label": "",
+      "href": "#reading-case-rd-c21-ai-1",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "练原题：Artificial Intelligence｜公共部门实施条件",
+      "label": "",
+      "href": "#reading-case-rd-c21-ai-2",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "checkbox",
+      "text": "",
+      "label": "我已学习本单元",
+      "href": null,
+      "save": "resource-learned-tech-choices-review",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "checkbox",
+      "text": "",
+      "label": "加入我的复习",
+      "href": null,
+      "save": "resource-review-tech-choices-review",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "我的练习答案／证据／下次要改的一步（可留空）",
+      "href": null,
+      "save": "resource-note-tech-choices-review",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "Mapungubwe｜贸易、器物与衰落",
+      "label": "",
+      "href": "#reading-case-rd-c21-mapungubwe-2",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    }
+  ],
+  "visibleText": "选择题与复盘：用原段功能排除“只说对一半”\n0% · 0 / 0 完成\n\n先把题干问的层级圈出：事实、推论、段落功能还是整体主旨。Sugar Q29问What is the reviewer doing in the third paragraph，答案C：addressing a misconception。证据是Contrary to popular belief，Java的小农种植例子是在纠正“大型富人种植园专属”的误解，不是在评价哪种方式效率更高。\n\nAI Q27问第一段作者在做什么，答案B：describing a public perception。看似列了治病、创新、创造力等好处，但它们被置于sensationalist news、media headlines、you might think的框架中，属于媒体造成的印象；C仅抓到局部词汇，漏了作者表达的归属。\n\n限时卡住时写下两候选及决定性区别，再继续。答后复盘必须补齐一条真实证据：例如AI Q29的C来自fail to realise the complexity，排除仅由“国家竞赛”触发的D。计时用于观察定位耗时，不按更简单、更困难重新编题。\n\n继续做原题片段：The World of Sugar｜全球贸易与误解纠正 · Artificial Intelligence｜公众想象与解决一切的误区 · Artificial Intelligence｜公共部门实施条件\n\nCambridge IELTS 21 Academic · Test 1 · PDF 26 页\n\nCambridge IELTS 21 Academic · Test 1 · PDF 119 页\n\nCambridge IELTS 21 Academic · Test 2 · PDF 47 页\n\nCambridge IELTS 21 Academic · Test 2 · PDF 121 页\n\n练原题：The World of Sugar｜全球贸易与误解纠正\n练原题：Artificial Intelligence｜公众想象与解决一切的误区\n练原题：Artificial Intelligence｜公共部门实施条件\n\n本单元的学习记录\n\n 我已学习本单元 加入我的复习\n我的练习答案／证据／下次要改的一步（可留空）\n用原题练这一题型\nMapungubwe｜贸易、器物与衰落",
+  "allContent": "选择题与复盘：用原段功能排除“只说对一半”0% · 0 / 0 完成先把题干问的层级圈出：事实、推论、段落功能还是整体主旨。Sugar Q29问What is the reviewer doing in the third paragraph，答案C：addressing a misconception。证据是Contrary to popular belief，Java的小农种植例子是在纠正“大型富人种植园专属”的误解，不是在评价哪种方式效率更高。AI Q27问第一段作者在做什么，答案B：describing a public perception。看似列了治病、创新、创造力等好处，但它们被置于sensationalist news、media headlines、you might think的框架中，属于媒体造成的印象；C仅抓到局部词汇，漏了作者表达的归属。限时卡住时写下两候选及决定性区别，再继续。答后复盘必须补齐一条真实证据：例如AI Q29的C来自fail to realise the complexity，排除仅由“国家竞赛”触发的D。计时用于观察定位耗时，不按更简单、更困难重新编题。继续做原题片段：The World of Sugar｜全球贸易与误解纠正 · Artificial Intelligence｜公众想象与解决一切的误区 · Artificial Intelligence｜公共部门实施条件Cambridge IELTS 21 Academic · Test 1 · PDF 26 页Cambridge IELTS 21 Academic · Test 1 · PDF 119 页Cambridge IELTS 21 Academic · Test 2 · PDF 47 页Cambridge IELTS 21 Academic · Test 2 · PDF 121 页练原题：The World of Sugar｜全球贸易与误解纠正练原题：Artificial Intelligence｜公众想象与解决一切的误区练原题：Artificial Intelligence｜公共部门实施条件本单元的学习记录 我已学习本单元 加入我的复习我的练习答案／证据／下次要改的一步（可留空）用原题练这一题型Mapungubwe｜贸易、器物与衰落",
+  "links": [
+    {
+      "text": "The World of Sugar｜全球贸易与误解纠正",
+      "href": "#reading-case-rd-c21-sugar-1"
+    },
+    {
+      "text": "Artificial Intelligence｜公众想象与解决一切的误区",
+      "href": "#reading-case-rd-c21-ai-1"
+    },
+    {
+      "text": "Artificial Intelligence｜公共部门实施条件",
+      "href": "#reading-case-rd-c21-ai-2"
+    },
+    {
+      "text": "Cambridge IELTS 21 Academic · Test 1 · PDF 26 页",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=26"
+    },
+    {
+      "text": "Cambridge IELTS 21 Academic · Test 1 · PDF 119 页",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=119"
+    },
+    {
+      "text": "Cambridge IELTS 21 Academic · Test 2 · PDF 47 页",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=47"
+    },
+    {
+      "text": "Cambridge IELTS 21 Academic · Test 2 · PDF 121 页",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=121"
+    },
+    {
+      "text": "练原题：The World of Sugar｜全球贸易与误解纠正",
+      "href": "#reading-case-rd-c21-sugar-1"
+    },
+    {
+      "text": "练原题：Artificial Intelligence｜公众想象与解决一切的误区",
+      "href": "#reading-case-rd-c21-ai-1"
+    },
+    {
+      "text": "练原题：Artificial Intelligence｜公共部门实施条件",
+      "href": "#reading-case-rd-c21-ai-2"
+    },
+    {
+      "text": "Mapungubwe｜贸易、器物与衰落",
+      "href": "#reading-case-rd-c21-mapungubwe-2"
+    }
+  ],
+  "details": [],
+  "saveFields": [
+    "resource-learned-tech-choices-review",
+    "resource-review-tech-choices-review",
+    "resource-note-tech-choices-review"
+  ],
+  "images": [],
+  "audio": [],
+  "viewport": 1440,
+  "documentWidth": 1440
+}

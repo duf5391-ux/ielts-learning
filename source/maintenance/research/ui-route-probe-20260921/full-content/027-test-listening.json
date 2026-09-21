@@ -1,0 +1,805 @@
+{
+  "requested": "test-listening",
+  "from": [
+    "主面板",
+    "页面链接"
+  ],
+  "actual": "#test-listening",
+  "checkedAt": "2026-09-21T12:50:48.557Z",
+  "title": "听力整科测试 · IELTS",
+  "label": "听力整科测试",
+  "panel": "test-listening",
+  "contentRoot": "test-listening",
+  "headings": [
+    {
+      "tag": "H1",
+      "text": "听力整科测试",
+      "visible": true
+    },
+    {
+      "tag": "H2",
+      "text": "Part 1 · Q1–10",
+      "visible": false
+    },
+    {
+      "tag": "H3",
+      "text": "Note Completion",
+      "visible": false
+    },
+    {
+      "tag": "H2",
+      "text": "Phone call about second-hand furniture",
+      "visible": false
+    },
+    {
+      "tag": "H2",
+      "text": "Items:",
+      "visible": false
+    },
+    {
+      "tag": "H2",
+      "text": "Address:",
+      "visible": false
+    },
+    {
+      "tag": "H2",
+      "text": "Directions:",
+      "visible": false
+    },
+    {
+      "tag": "H2",
+      "text": "Part 2 · Q11–20",
+      "visible": false
+    },
+    {
+      "tag": "H3",
+      "text": "Matching",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "Staff Responsibilities",
+      "visible": false
+    },
+    {
+      "tag": "H2",
+      "text": "People",
+      "visible": false
+    },
+    {
+      "tag": "H3",
+      "text": "Plan, Map, Diagram Labelling",
+      "visible": false
+    },
+    {
+      "tag": "H2",
+      "text": "Part 3 · Q21–30",
+      "visible": false
+    },
+    {
+      "tag": "H3",
+      "text": "Matching",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "Features",
+      "visible": false
+    },
+    {
+      "tag": "H2",
+      "text": "Fossil categories",
+      "visible": false
+    },
+    {
+      "tag": "H3",
+      "text": "Flow-chart Completion Objective",
+      "visible": false
+    },
+    {
+      "tag": "H2",
+      "text": "",
+      "visible": false
+    },
+    {
+      "tag": "H2",
+      "text": "Part 4 · Q31–40",
+      "visible": false
+    },
+    {
+      "tag": "H3",
+      "text": "MC Questions",
+      "visible": false
+    },
+    {
+      "tag": "H3",
+      "text": "Table Completion",
+      "visible": false
+    },
+    {
+      "tag": "H2",
+      "text": "Research findings",
+      "visible": false
+    },
+    {
+      "tag": "H3",
+      "text": "Note Completion",
+      "visible": false
+    },
+    {
+      "tag": "H2",
+      "text": "Recommendations",
+      "visible": false
+    }
+  ],
+  "controls": [
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "← 全部测试",
+      "label": "",
+      "href": "#tests",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "开始本次测试",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "提交本次作答",
+      "label": "",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "再做一轮",
+      "label": "",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "AUDIO",
+      "id": "",
+      "text": "",
+      "label": "官方机考体验完整听力录音",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "text",
+      "text": "",
+      "label": "listening Q1",
+      "href": null,
+      "save": "full-test-listening-q1",
+      "test": "listening",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "text",
+      "text": "",
+      "label": "listening Q2",
+      "href": null,
+      "save": "full-test-listening-q2",
+      "test": "listening",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "text",
+      "text": "",
+      "label": "listening Q3",
+      "href": null,
+      "save": "full-test-listening-q3",
+      "test": "listening",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "text",
+      "text": "",
+      "label": "listening Q4",
+      "href": null,
+      "save": "full-test-listening-q4",
+      "test": "listening",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "text",
+      "text": "",
+      "label": "listening Q5",
+      "href": null,
+      "save": "full-test-listening-q5",
+      "test": "listening",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "text",
+      "text": "",
+      "label": "listening Q6",
+      "href": null,
+      "save": "full-test-listening-q6",
+      "test": "listening",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "text",
+      "text": "",
+      "label": "listening Q7",
+      "href": null,
+      "save": "full-test-listening-q7",
+      "test": "listening",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "text",
+      "text": "",
+      "label": "listening Q8",
+      "href": null,
+      "save": "full-test-listening-q8",
+      "test": "listening",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "text",
+      "text": "",
+      "label": "listening Q9",
+      "href": null,
+      "save": "full-test-listening-q9",
+      "test": "listening",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "text",
+      "text": "",
+      "label": "listening Q10",
+      "href": null,
+      "save": "full-test-listening-q10",
+      "test": "listening",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "text",
+      "text": "",
+      "label": "listening Q11",
+      "href": null,
+      "save": "full-test-listening-q11",
+      "test": "listening",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "text",
+      "text": "",
+      "label": "listening Q12",
+      "href": null,
+      "save": "full-test-listening-q12",
+      "test": "listening",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "text",
+      "text": "",
+      "label": "listening Q13",
+      "href": null,
+      "save": "full-test-listening-q13",
+      "test": "listening",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "text",
+      "text": "",
+      "label": "listening Q14",
+      "href": null,
+      "save": "full-test-listening-q14",
+      "test": "listening",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "text",
+      "text": "",
+      "label": "listening Q15",
+      "href": null,
+      "save": "full-test-listening-q15",
+      "test": "listening",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "text",
+      "text": "",
+      "label": "listening Q16",
+      "href": null,
+      "save": "full-test-listening-q16",
+      "test": "listening",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "text",
+      "text": "",
+      "label": "listening Q17",
+      "href": null,
+      "save": "full-test-listening-q17",
+      "test": "listening",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "text",
+      "text": "",
+      "label": "listening Q18",
+      "href": null,
+      "save": "full-test-listening-q18",
+      "test": "listening",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "text",
+      "text": "",
+      "label": "listening Q19",
+      "href": null,
+      "save": "full-test-listening-q19",
+      "test": "listening",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "text",
+      "text": "",
+      "label": "listening Q20",
+      "href": null,
+      "save": "full-test-listening-q20",
+      "test": "listening",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "text",
+      "text": "",
+      "label": "listening Q21",
+      "href": null,
+      "save": "full-test-listening-q21",
+      "test": "listening",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "text",
+      "text": "",
+      "label": "listening Q22",
+      "href": null,
+      "save": "full-test-listening-q22",
+      "test": "listening",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "text",
+      "text": "",
+      "label": "listening Q23",
+      "href": null,
+      "save": "full-test-listening-q23",
+      "test": "listening",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "text",
+      "text": "",
+      "label": "listening Q24",
+      "href": null,
+      "save": "full-test-listening-q24",
+      "test": "listening",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "text",
+      "text": "",
+      "label": "listening Q25",
+      "href": null,
+      "save": "full-test-listening-q25",
+      "test": "listening",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "text",
+      "text": "",
+      "label": "listening Q26",
+      "href": null,
+      "save": "full-test-listening-q26",
+      "test": "listening",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "text",
+      "text": "",
+      "label": "listening Q27",
+      "href": null,
+      "save": "full-test-listening-q27",
+      "test": "listening",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "text",
+      "text": "",
+      "label": "listening Q28",
+      "href": null,
+      "save": "full-test-listening-q28",
+      "test": "listening",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "text",
+      "text": "",
+      "label": "listening Q29",
+      "href": null,
+      "save": "full-test-listening-q29",
+      "test": "listening",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "text",
+      "text": "",
+      "label": "listening Q30",
+      "href": null,
+      "save": "full-test-listening-q30",
+      "test": "listening",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "text",
+      "text": "",
+      "label": "listening Q31",
+      "href": null,
+      "save": "full-test-listening-q31",
+      "test": "listening",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "text",
+      "text": "",
+      "label": "listening Q32",
+      "href": null,
+      "save": "full-test-listening-q32",
+      "test": "listening",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "text",
+      "text": "",
+      "label": "listening Q33",
+      "href": null,
+      "save": "full-test-listening-q33",
+      "test": "listening",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "text",
+      "text": "",
+      "label": "listening Q34",
+      "href": null,
+      "save": "full-test-listening-q34",
+      "test": "listening",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "text",
+      "text": "",
+      "label": "listening Q35",
+      "href": null,
+      "save": "full-test-listening-q35",
+      "test": "listening",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "text",
+      "text": "",
+      "label": "listening Q36",
+      "href": null,
+      "save": "full-test-listening-q36",
+      "test": "listening",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "text",
+      "text": "",
+      "label": "listening Q37",
+      "href": null,
+      "save": "full-test-listening-q37",
+      "test": "listening",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "text",
+      "text": "",
+      "label": "listening Q38",
+      "href": null,
+      "save": "full-test-listening-q38",
+      "test": "listening",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "text",
+      "text": "",
+      "label": "listening Q39",
+      "href": null,
+      "save": "full-test-listening-q39",
+      "test": "listening",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "text",
+      "text": "",
+      "label": "listening Q40",
+      "href": null,
+      "save": "full-test-listening-q40",
+      "test": "listening",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "以往作答 · 0 次",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    }
+  ],
+  "visibleText": "← 全部测试\n听力整科测试\n\n4 Parts · 40 题 · 完整原音\n\n官方机考体验题 · 40题。选择题可填字母，提交后核对参考答案。\n\n尚未开始\n开始本次测试\n0% · 0 / 40 已作答\n以往作答 · 0 次",
+  "allContent": "← 全部测试听力整科测试4 Parts · 40 题 · 完整原音官方机考体验题 · 40题。选择题可填字母，提交后核对参考答案。尚未开始开始本次测试提交本次作答再做一轮0% · 0 / 40 已作答按录音指示完成四个 Part。此处使用官方机考体验题，计时为本地练习计时。Part 1 · Q1–100% · 0 / 10 已作答Note CompletionOne word and/or a number\n\n\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tPhone call about second-hand furniture\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\n\nItems:\n\n\t\t\t\t\tDining table:          -  [ 1 ______ ] shape\n                             -  medium size\n                             -  [ 2 ______ ] old\n                             -  price: £25.00\n\nDining chairs:         - set of [ 3 ______ ] chairs\n                              - seats covered in [ 4 ______ ] material\n                              - in [ 5 ______ ] condition\n                              - price: £20.00\n\nDesk:                     - length: 1 metre 20\n                              - 3 drawers. Top drawer has a [ 6 ______ ] .                                                              - price: £[ 7 ______ ]\n\n\n\n\n\t\t\t\t\t\tAddress:\n\t\t\t\t\t\n\n\n\n[ 8 ______ ] Old Lane, Stonethorpe\n\n\n\n\n\n\t\t\t\t\t\tDirections:\n\t\t\t\t\t\n\n\nTake the Hawcroft road out of Stonethorpe. Go past the secondary school, then turn [ 9 ______ ]at the crossroads.       House is down this road, opposite the [ 10 ______ ] .\n\n\n\nQ1Q2Q3Q4Q5Q6Q7Q8Q9Q10Part 2 · Q11–200% · 0 / 10 已作答MatchingWho is responsible for each area?\n\n Staff Responsibilities\n\nA. Finance\nB. Food\nC. Health\nD. Kids' Counselling\nE. Organisation\nF. Rooms\nG. Sport\nH. Trips\n\n\n\t\t\t\t\t\t\tPeople\n\nMary Brown [ 11 ______ ]\n\nJohn Stevens [ 12 ______ ]\n\nAlison Jones [ 13 ______ ]\n\nTim Smith [ 14 ______ ]\n\nJenny James [ 15 ______ ]\n\n\n\nPlan, Map, Diagram Labelling\n\nA. Cookery room\nB. Games room\nC. Kitchen\nD. Pottery room\nE. Sports complex\nF. Staff accommodation\n\n\n\n\n\n\n[ 16 ______ ]\n\n\n[ 17 ______ ]\n\n\n[ 18 ______ ]\n\n\n[ 19 ______ ]\n\n\n[ 20 ______ ]\n\n\n\n\nQ11Q12Q13Q14Q15Q16Q17Q18Q19Q20Part 3 · Q21–300% · 0 / 10 已作答MatchingWhich feature do the speakers identify for each of the following categories of fossil?\n\n Features\n\nA. They are a very rare type of plant fossil.\nB. They do not contain any organic matter.\nC. They are found in soft, wet ground.\nD. They can be found far from normal fossil areas.\nE. They are three-dimensional.\nF. They provide information about plant cells.\n\n\n\t\t\t\t\t\t\tFossil categories\n\nImpression fossils [ 21 ______ ]\n\nCast fossils [ 22 ______ ]\n\nPermineralisation fossils [ 23 ______ ]\n\nCompaction fossils [ 24 ______ ]\n\nFusain fossils [ 25 ______ ]\n\n\n\nFlow-chart Completion Objective\n\n\n\nA. contamination\nB. vehicle\nC. heat\nD. results\nE. radiation\nF. site\nG. microbes\nH. water\n\n\n\n\n\nA spacecraft lands on a planet and sends out a rover.\nThe rover is directed to a [ 26 ______ ] which has organic material.\nIt collects a sample from below the surface (in order to avoid the effects of [ 27 ______ ]).\nThe soil and rocks are checked to look for evidence of fossils.\nThe sample is converted to powder.\nThe sample is subjected to [ 28 ______ ] .\nA mass spectrometer is used to search for potential proof of life, e.g [ 29 ______ ] .\nThe [ 30 ______ ] are compared with existing data from Earth.\n\n\n\nQ21Q22Q23Q24Q25Q26Q27Q28Q29Q30Part 4 · Q31–400% · 0 / 10 已作答MC Questions\n\nQuestion 31Participants in the Learner Persistence study were all drawn from the same\nA. age group.\nB. geographical area.\nC. socio-economic level.\n\nQuestion 32The study showed that when starting their course, older students were most concerned about\nA. effects on their home life.\nB. implications for their future career.\nC. financial constraints.\n\n\nTable CompletionOne word only\n\n\n\n \n\t\t\t\t\t\t\t\t\tResearch findings\n\t\t\t\t\t\t\t\t\n\n\n\n\n          \n\n\n\n\nSocial and Environmental Factors\n\n\n\n\nOther Factors\n\n\n\n\nPersonal Characteristics\n\n\n\n\n \nFirst level of importance\n\n\nEffective support\nPerceived success in study\nEnjoyment of a [ 33 ______ ]\n\n\n\n \nSecond level of importance\n\n\nPositive experiences at [ 34 ______ ]\n\nGood [ 35 ______ ]\n\nMany [ 36 ______ ] in daily life\n\n\n \nThird level of importance\n\n\nGood interaction with the [ 37 ______ ]\n\nNo family problems\nCapacity for multi-tasking\n\n\n\nNote CompletionOne word only\n\n\n\t\t\t\t\t\tRecommendations\n\n\nAsk new students to complete questionnaires to gauge their level of [ 38 ______ ] .\n\n\nTrain selected students to act as [ 39 ______ ] .\n\n\nOutside office hours, offer [ 40 ______ ] help.\n\nQ31Q32Q33Q34Q35Q36Q37Q38Q39Q40以往作答 · 0 次",
+  "links": [
+    {
+      "text": "← 全部测试",
+      "href": "#tests"
+    }
+  ],
+  "details": [
+    {
+      "id": "",
+      "title": "以往作答 · 0 次",
+      "open": false,
+      "visible": true
+    }
+  ],
+  "saveFields": [
+    "full-test-listening-q1",
+    "full-test-listening-q2",
+    "full-test-listening-q3",
+    "full-test-listening-q4",
+    "full-test-listening-q5",
+    "full-test-listening-q6",
+    "full-test-listening-q7",
+    "full-test-listening-q8",
+    "full-test-listening-q9",
+    "full-test-listening-q10",
+    "full-test-listening-q11",
+    "full-test-listening-q12",
+    "full-test-listening-q13",
+    "full-test-listening-q14",
+    "full-test-listening-q15",
+    "full-test-listening-q16",
+    "full-test-listening-q17",
+    "full-test-listening-q18",
+    "full-test-listening-q19",
+    "full-test-listening-q20",
+    "full-test-listening-q21",
+    "full-test-listening-q22",
+    "full-test-listening-q23",
+    "full-test-listening-q24",
+    "full-test-listening-q25",
+    "full-test-listening-q26",
+    "full-test-listening-q27",
+    "full-test-listening-q28",
+    "full-test-listening-q29",
+    "full-test-listening-q30",
+    "full-test-listening-q31",
+    "full-test-listening-q32",
+    "full-test-listening-q33",
+    "full-test-listening-q34",
+    "full-test-listening-q35",
+    "full-test-listening-q36",
+    "full-test-listening-q37",
+    "full-test-listening-q38",
+    "full-test-listening-q39",
+    "full-test-listening-q40"
+  ],
+  "images": [
+    {
+      "src": "learning-assets/inspera-browser-figure-map.svg",
+      "alt": "",
+      "visible": false,
+      "complete": false,
+      "width": 0
+    },
+    {
+      "src": "learning-assets/inspera-browser-figure-flowchart.svg",
+      "alt": "",
+      "visible": false,
+      "complete": false,
+      "width": 0
+    }
+  ],
+  "audio": [
+    {
+      "src": "原始参考/precise-official-listening-full.mp3",
+      "sources": [],
+      "visible": false,
+      "controls": true
+    }
+  ],
+  "viewport": 1440,
+  "documentWidth": 1440
+}

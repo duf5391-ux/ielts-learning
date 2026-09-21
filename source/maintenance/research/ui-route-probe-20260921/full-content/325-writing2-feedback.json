@@ -1,0 +1,120 @@
+{
+  "requested": "writing2-feedback",
+  "from": [
+    "页面链接"
+  ],
+  "actual": "#writing2-feedback",
+  "checkedAt": "2026-09-21T12:55:04.014Z",
+  "title": "学习 / 写作 · Task 2 / 写作 · Task 2 · 从原题开始学 · IELTS",
+  "label": "学习 / 写作 · Task 2 / 写作 · Task 2 · 从原题开始学",
+  "panel": "writing2",
+  "contentRoot": "writing2-feedback",
+  "headings": [
+    {
+      "tag": "H2",
+      "text": "题目义务与可接受立场",
+      "visible": false
+    },
+    {
+      "tag": "H2",
+      "text": "一个理由怎样变成解释",
+      "visible": false
+    },
+    {
+      "tag": "H2",
+      "text": "三项用法的核对",
+      "visible": false
+    },
+    {
+      "tag": "H2",
+      "text": "怎样读原书 7 分考生样本",
+      "visible": false
+    },
+    {
+      "tag": "H2",
+      "text": "一次反馈怎样收束",
+      "visible": false
+    }
+  ],
+  "controls": [
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "完成后核对 · 答案、讲解与可接受表达",
+      "label": "",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "原题首次作答",
+      "label": "",
+      "href": "#writing2-first",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "原书考生答卷与考官评语",
+      "label": "",
+      "href": "原始参考/93022ace-C21-T2-Task2-response-and-comment.pdf",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "评分与诊断速查",
+      "label": "",
+      "href": "#guide",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "记录一条证据：原来怎样写／说，为什么改，下次看什么。",
+      "href": null,
+      "save": "writing2-feedback-note",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    }
+  ],
+  "visibleText": "完成后核对 · 答案、讲解与可接受表达请先完成原题首次作答。本页的示范英文均由工作区编写，不是 Cambridge 范文，没有评分。\n题目义务与可接受立场\n本题既要讨论网络娱乐使实体场所不再重要的看法，也要讨论其仍有经济、文化价值的看法，并提出自己的判断。\n可以认为网络基本替代传统场所，也可以认为两者互补或强调线下仍不可完全替代。评分关注你怎样回应和支持观点，不存在必须赞成某一方的答案。讨论第二方时需要回应经济与文化理由；不必每个词各写一段，但不能只罗列观影体验而漏掉这些含义。\n剧院和电影院也不完全相同：剧院可讨论现场表演，电影院可讨论共同观影、放映空间等。不要把“有演员现场表演”不加区分地套到所有影院。第一方所称在线能看一切是待讨论的观点，不需要把它当作已经核实的客观事实。\n一个理由怎样变成解释\n以下两组只示范推进意思，不要求整段照抄。\n介绍网络便利的理由：\n\nOnline services can reduce the need to visit a cinema. For viewers who finish work late, being able to choose when to watch a film removes the difficulty of fitting a fixed screening time into their day. This helps explain why some people see a cinema visit as optional rather than essential.\n\n这里解释了对哪类人、通过什么过程产生便利，并把便利连到对实体场所必要性的判断。它没有证明所有人、所有娱乐都如此，也没有自动完成双方讨论。\n介绍实体场所的经济作用：\n\nA theatre can also support local employment. Regular performances require actors, technicians and front-of-house staff, so a venue with a steady audience can provide paid work in the area. This economic role is separate from the convenience of watching a recording at home.\n\n示范选择了剧院这一对象，并说明了工作如何与运营联系，保留观众需求这一条件。它只解释经济面，文化面仍需在全文有回应，例如说明现场作品如何让观众接触某类故事、表演传统或创作。没有“提到一份工作就必然论证充分”的固定规则。\n自己的立场可以明确区分两件事：不再是获得娱乐的唯一渠道，不等于不再有任何作用。这是可选的论证方向，不是本题唯一正确立场。不同意见也需要相应解释。\n三项用法的核对\n\n\n\n教学任务\n可接受表达或判断\n不应怎样误判\n\n\n\n\naccess 与观看机会\nOnline platforms can give people with limited mobility easier access to cultural performances. / People with limited mobility may find it easier to watch performances online.\n第一种体现名词 access to，第二种同样完成意思；不因没用 access 判整个表达失败\n\n\nless important 与 unnecessary\n前者是重要性降低，仍可能重要；后者是否定必要性，主张更强。选择服从本人观点及解释\n不把强主张自动判错，也不因用了弱化词就自动判高分\n\n\ncontribute to 与作用\nTheatres can contribute to local employment by providing paid work for performers and technical staff. / Theatres can support local jobs by employing performers and technical staff.\n都可以表达贡献；不要误把 contribute 后的 to 当作后接动词原形的不定式标记\n\n\n\naccess 作动词时可直接接内容，如 access online performances；作名词时常见 access to performances。同一个词有不同结构，不能只记一条“access 后永远必须有 to”。\n对于第 3 项，表达 contribute to creating jobs 可以成立；contribute to create jobs 不符合这里的结构。contribute to 并不表示唯一原因或必然保证；展开经济作用时，仍要看条件和意思是否说得通。\n怎样读原书 7 分考生样本\n完成自己的尝试后，再打开原书考生答卷与考官评语。这是报告为 7 分的考生作品，含错误，不能把其中每个用法都当正确范句。\n本章只选以下能在答卷中定位的观察：\n\n文章介绍了线上观看的时间和费用理由，也介绍线下体验和经济收益，并从引言表明作者立场。\n原书评语建议将单独一句的第二段与下一段合并，问题是这两处的内容关系与展开；不能扩大成“单句段落永远不允许”。\n评语肯定词汇和结构范围，同时指出准确性问题，例如 that facilities、devise 等。报告分数不意味着这些错误可以作为训练目标照搬。\n\n样本有关影院收入用于公共设施的论述，可以用来练习：因果的中间环节是否解释清楚。\n一次反馈怎样收束\n先选一项最影响任务的问题：漏掉一方、自己的观点不明确、理由没有解释，或某个语言错误妨碍意思。用原稿中的句段定位，再让学习者自己补出或修改；不一次列出所有小错。\n\n我在讨论的是：＿＿＿＿。目前缺少的联系是：＿＿＿＿。我补充的解释是：＿＿＿＿。它怎样支持我的判断：＿＿＿＿。\n\n如果只是替换了近义词，没有补充意思的关系，不计作论证展开改善。若已经补上关系但语法仍需帮助，分别记录，避免把内容与形式混成一个笼统的“不会写”。\n完整 Task 2 的评价仍要同时考虑任务回应、连贯衔接、词汇以及语法范围与准确性，见评分与诊断速查。本章没有校准过的独立 band 评分，也不以这份 7 分样本预测学习者成绩。记录一条证据：原来怎样写／说，为什么改，下次看什么。",
+  "allContent": "完成后核对 · 答案、讲解与可接受表达请先完成原题首次作答。本页的示范英文均由工作区编写，不是 Cambridge 范文，没有评分。\n题目义务与可接受立场\n本题既要讨论网络娱乐使实体场所不再重要的看法，也要讨论其仍有经济、文化价值的看法，并提出自己的判断。\n可以认为网络基本替代传统场所，也可以认为两者互补或强调线下仍不可完全替代。评分关注你怎样回应和支持观点，不存在必须赞成某一方的答案。讨论第二方时需要回应经济与文化理由；不必每个词各写一段，但不能只罗列观影体验而漏掉这些含义。\n剧院和电影院也不完全相同：剧院可讨论现场表演，电影院可讨论共同观影、放映空间等。不要把“有演员现场表演”不加区分地套到所有影院。第一方所称在线能看一切是待讨论的观点，不需要把它当作已经核实的客观事实。\n一个理由怎样变成解释\n以下两组只示范推进意思，不要求整段照抄。\n介绍网络便利的理由：\n\nOnline services can reduce the need to visit a cinema. For viewers who finish work late, being able to choose when to watch a film removes the difficulty of fitting a fixed screening time into their day. This helps explain why some people see a cinema visit as optional rather than essential.\n\n这里解释了对哪类人、通过什么过程产生便利，并把便利连到对实体场所必要性的判断。它没有证明所有人、所有娱乐都如此，也没有自动完成双方讨论。\n介绍实体场所的经济作用：\n\nA theatre can also support local employment. Regular performances require actors, technicians and front-of-house staff, so a venue with a steady audience can provide paid work in the area. This economic role is separate from the convenience of watching a recording at home.\n\n示范选择了剧院这一对象，并说明了工作如何与运营联系，保留观众需求这一条件。它只解释经济面，文化面仍需在全文有回应，例如说明现场作品如何让观众接触某类故事、表演传统或创作。没有“提到一份工作就必然论证充分”的固定规则。\n自己的立场可以明确区分两件事：不再是获得娱乐的唯一渠道，不等于不再有任何作用。这是可选的论证方向，不是本题唯一正确立场。不同意见也需要相应解释。\n三项用法的核对\n\n\n\n教学任务\n可接受表达或判断\n不应怎样误判\n\n\n\n\naccess 与观看机会\nOnline platforms can give people with limited mobility easier access to cultural performances. / People with limited mobility may find it easier to watch performances online.\n第一种体现名词 access to，第二种同样完成意思；不因没用 access 判整个表达失败\n\n\nless important 与 unnecessary\n前者是重要性降低，仍可能重要；后者是否定必要性，主张更强。选择服从本人观点及解释\n不把强主张自动判错，也不因用了弱化词就自动判高分\n\n\ncontribute to 与作用\nTheatres can contribute to local employment by providing paid work for performers and technical staff. / Theatres can support local jobs by employing performers and technical staff.\n都可以表达贡献；不要误把 contribute 后的 to 当作后接动词原形的不定式标记\n\n\n\naccess 作动词时可直接接内容，如 access online performances；作名词时常见 access to performances。同一个词有不同结构，不能只记一条“access 后永远必须有 to”。\n对于第 3 项，表达 contribute to creating jobs 可以成立；contribute to create jobs 不符合这里的结构。contribute to 并不表示唯一原因或必然保证；展开经济作用时，仍要看条件和意思是否说得通。\n怎样读原书 7 分考生样本\n完成自己的尝试后，再打开原书考生答卷与考官评语。这是报告为 7 分的考生作品，含错误，不能把其中每个用法都当正确范句。\n本章只选以下能在答卷中定位的观察：\n\n文章介绍了线上观看的时间和费用理由，也介绍线下体验和经济收益，并从引言表明作者立场。\n原书评语建议将单独一句的第二段与下一段合并，问题是这两处的内容关系与展开；不能扩大成“单句段落永远不允许”。\n评语肯定词汇和结构范围，同时指出准确性问题，例如 that facilities、devise 等。报告分数不意味着这些错误可以作为训练目标照搬。\n\n样本有关影院收入用于公共设施的论述，可以用来练习：因果的中间环节是否解释清楚。\n一次反馈怎样收束\n先选一项最影响任务的问题：漏掉一方、自己的观点不明确、理由没有解释，或某个语言错误妨碍意思。用原稿中的句段定位，再让学习者自己补出或修改；不一次列出所有小错。\n\n我在讨论的是：＿＿＿＿。目前缺少的联系是：＿＿＿＿。我补充的解释是：＿＿＿＿。它怎样支持我的判断：＿＿＿＿。\n\n如果只是替换了近义词，没有补充意思的关系，不计作论证展开改善。若已经补上关系但语法仍需帮助，分别记录，避免把内容与形式混成一个笼统的“不会写”。\n完整 Task 2 的评价仍要同时考虑任务回应、连贯衔接、词汇以及语法范围与准确性，见评分与诊断速查。本章没有校准过的独立 band 评分，也不以这份 7 分样本预测学习者成绩。记录一条证据：原来怎样写／说，为什么改，下次看什么。",
+  "links": [
+    {
+      "text": "原题首次作答",
+      "href": "#writing2-first"
+    },
+    {
+      "text": "原书考生答卷与考官评语",
+      "href": "原始参考/93022ace-C21-T2-Task2-response-and-comment.pdf"
+    },
+    {
+      "text": "评分与诊断速查",
+      "href": "#guide"
+    }
+  ],
+  "details": [],
+  "saveFields": [
+    "writing2-feedback-note"
+  ],
+  "images": [],
+  "audio": [],
+  "viewport": 1440,
+  "documentWidth": 1440
+}

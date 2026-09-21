@@ -1,0 +1,473 @@
+{
+  "requested": "learn-speaking_part1_natural_answers",
+  "from": [
+    "内容单元"
+  ],
+  "actual": "#learn-speaking_part1_natural_answers",
+  "checkedAt": "2026-09-21T12:51:46.948Z",
+  "title": "学习 / 口语 / 真实回答：家乡的四次问答 · IELTS",
+  "label": "学习 / 口语 / 真实回答：家乡的四次问答",
+  "panel": "speaking",
+  "contentRoot": "learn-speaking_part1_natural_answers",
+  "headings": [
+    {
+      "tag": "H3",
+      "text": "先说一问，再回听并重说",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "第一遍：用自己的内容回答",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "真实回答：家乡的四次问答",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "完整正式题面",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "官方样本节选：家乡四问转写（未附本段官方分数）",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "回答与证据解释",
+      "visible": false
+    },
+    {
+      "tag": "H3",
+      "text": "保留第一遍的观察",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "只修一处，再录一遍",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "第二遍：同一问，改进一处",
+      "visible": false
+    }
+  ],
+  "controls": [
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "真实回答：家乡的四次问答",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "开始录音",
+      "label": "",
+      "href": null,
+      "record": "prereq-speaking_part1_natural_answers-first",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "结束录音",
+      "label": "",
+      "href": null,
+      "stop": "prereq-speaking_part1_natural_answers-first",
+      "visible": true,
+      "disabled": true,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "下载录音",
+      "label": "",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "AUDIO",
+      "id": "",
+      "text": "",
+      "label": "",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "file",
+      "text": "",
+      "label": "载入录音",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "text",
+      "text": "",
+      "label": "录音文件名",
+      "href": null,
+      "save": "prereq-speaking_part1_natural_answers-first-record-note",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "说完后查看正式题页与考生转写",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "",
+      "label": "",
+      "href": "原始参考/support-1627493a-cambridge-zip-115041_Speaking_sample_task_-_Part_1.pdf#page=1",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "",
+      "label": "",
+      "href": "原始参考/support-db152507-cambridge-zip-115045_Speaking_sample_task_-_Part_1_transcript.pdf#page=1",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "",
+      "label": "",
+      "href": "原始参考/support-1627493a-cambridge-zip-115041_Speaking_sample_task_-_Part_1.pdf#page=1",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "",
+      "label": "",
+      "href": "原始参考/support-db152507-cambridge-zip-115045_Speaking_sample_task_-_Part_1_transcript.pdf#page=1",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "第一遍录音文件名／时间点／我听到的问题\n暂时不会",
+      "href": null,
+      "save": "enrich-speaking_part1_natural_answers-answer",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "暂时不会",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "checkbox",
+      "text": "",
+      "label": "",
+      "href": null,
+      "save": "enrich-speaking_part1_natural_answers-frozen",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "text",
+      "text": "",
+      "label": "",
+      "href": null,
+      "save": "enrich-speaking_part1_natural_answers-saved-at",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "保留首稿，打开反馈",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "开始录音",
+      "label": "",
+      "href": null,
+      "record": "prereq-speaking_part1_natural_answers-retry",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "结束录音",
+      "label": "",
+      "href": null,
+      "stop": "prereq-speaking_part1_natural_answers-retry",
+      "visible": false,
+      "disabled": true,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "下载录音",
+      "label": "",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "AUDIO",
+      "id": "",
+      "text": "",
+      "label": "",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "text",
+      "text": "",
+      "label": "录音文件名",
+      "href": null,
+      "save": "prereq-speaking_part1_natural_answers-retry-record-note",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "file",
+      "text": "",
+      "label": "载入录音",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "两遍相比：这一处是否更清楚？",
+      "href": null,
+      "save": "enrich-speaking_part1_natural_answers-revision",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "可选：记录或再练一次",
+      "label": "",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "迁移答案／隔日回忆记录",
+      "href": null,
+      "save": "enrich-speaking_part1_natural_answers-transfer",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "可选：记录或再练一次",
+      "label": "",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SELECT",
+      "id": "",
+      "type": "select-one",
+      "text": "请选择内容或语境没理解词义或声音没认出词汇选择／搭配不稳证据、逻辑或展开不足语法或句子组织问题暂时独立完成，隔天再检验",
+      "label": "这次最需要补什么？请选择内容或语境没理解词义或声音没认出词汇选择／搭配不稳证据、逻辑或展开不足语法或句子组织问题暂时独立完成，隔天再检验",
+      "href": null,
+      "save": "enrich-speaking_part1_natural_answers-diagnosis",
+      "visible": false,
+      "disabled": false,
+      "required": false,
+      "options": [
+        {
+          "value": "",
+          "label": "请选择"
+        },
+        {
+          "value": "内容或语境没理解",
+          "label": "内容或语境没理解"
+        },
+        {
+          "value": "词义或声音没认出",
+          "label": "词义或声音没认出"
+        },
+        {
+          "value": "词汇选择／搭配不稳",
+          "label": "词汇选择／搭配不稳"
+        },
+        {
+          "value": "证据、逻辑或展开不足",
+          "label": "证据、逻辑或展开不足"
+        },
+        {
+          "value": "语法或句子组织问题",
+          "label": "语法或句子组织问题"
+        },
+        {
+          "value": "暂时独立完成，隔天再检验",
+          "label": "暂时独立完成，隔天再检验"
+        }
+      ]
+    }
+  ],
+  "visibleText": "真实回答：家乡的四次问答\n0% · 0 / 1 完成\n先说一问，再回听并重说\n\n用自己的真实情况回答这一问，说 2–3 句即可：先说地方类型，再补一个相关细节。先录音，再展开考生转写；已看过转写也可以练，记为学习后应用。\n\nWhat kind of place is your home town or village?\n\n第一遍：用自己的内容回答\n开始录音结束录音载入录音 \n\n两遍录音分别下载保存；文字备份不含音频。\n\n录音文件名\n说完后查看正式题页与考生转写\n保留第一遍的观察\n\n先回听自己的录音，记下文件名和一处需要修改的时间点。下载第一遍声音，再保留下面的文字记录。\n\n第一遍录音文件名／时间点／我听到的问题\n暂时不会\n保留首稿，打开反馈\n\n先写下自己的答案。",
+  "allContent": "真实回答：家乡的四次问答0% · 0 / 1 完成先说一问，再回听并重说用自己的真实情况回答这一问，说 2–3 句即可：先说地方类型，再补一个相关细节。先录音，再展开考生转写；已看过转写也可以练，记为学习后应用。What kind of place is your home town or village?第一遍：用自己的内容回答开始录音结束录音下载录音载入录音 两遍录音分别下载保存；文字备份不含音频。录音文件名说完后查看正式题页与考生转写真实回答：家乡的四次问答完整正式题面Part 1 Introduction and interview[This part of the test begins with the examiner introducing himself or herself and checking the candidate’s identification. It then continues as an interview.]Let’s talk about your home town or village.• What kind of place is it? • What’s the most interesting part of your town/village? • What kind of jobs do the people in your town/village do? • Would you say it’s a good place to live? (Why?)Let’s move on to talk about accommodation.• Tell me about the kind of accommodation you live in? • How long have you lived there? • What do you like about living there? • What sort of accommodation would you most like to live in?官方样本节选：家乡四问转写（未附本段官方分数）Part 1 Introduction and interview[This part of the test begins with the examiner introducing himself or herself and checking the candidate’s identification. It then continues as an interview.]TranscriptExaminer: Now, in this first part, I’d like to ask you some more questions about yourself, OK? Let’s talk about your home town or village. What kind of place is it?Candidate: It’s quite a small village, about 20km from Zurich. And it’s very quiet. And we have only little ... two little shops because most of the people work in Zurich or are orientated to the city.Examiner: What’s the most interesting part of this place ... village?Candidate: On the top of a hill we have a little castle which is very old and quite well known in Switzerland.Examiner: What kind of jobs do people in the village do?Candidate: We have some farmers in the village as well as people who work in Zurich as bankers or journalists or there are also teachers and some doctors, some medicines.Examiner: Would you say it’s a good place to live?Candidate: Yes. Although it is very quiet, it is … people are friendly and I would say it is a good place to live there, yes.Examiner: Let’s move on to talk about accommodation. Tell me about the kind of accommodation you live in ...回答与证据解释四问依次问类型、特色、工作、居住评价。原回答用距苏黎世20km、山上城堡、农民／银行职员／记者、安静但友善逐项回应。注意这是公开考生实录，含自我修正和语言瑕疵，并非无误范文：some medicines 应改为 some doctors 或其他人物职业；不要照背。练习：逐题用一个具体事实支持结论，再复述连接关系。完整原件：Speaking Part 1 正式题面；Speaking Part 1 原录音转写Speaking Part 1 正式题面Speaking Part 1 原录音转写保留第一遍的观察先回听自己的录音，记下文件名和一处需要修改的时间点。下载第一遍声音，再保留下面的文字记录。第一遍录音文件名／时间点／我听到的问题暂时不会保留首稿，打开反馈先写下自己的答案。只修一处，再录一遍回听第一遍：首句是否直接回应地方类型？细节是否有关？在影响理解的一处停顿、重复或含糊表达旁记下时间点。只选一处修改，再重说同一问，对比两段声音。例如只说 It is a nice place 太笼统，可以补一个自己的事实，如 It is a small coastal town, and most shops are within walking distance of my home. 这是原创内容示例；地点和事实要换成自己的。第二遍：同一问，改进一处开始录音结束录音下载录音录音文件名载入录音 两遍录音分别下载保存；文字备份不含音频。两遍相比：这一处是否更清楚？下一次换问：Tell me about the kind of accommodation you live in. 不看家乡示范，用自己的住宿情况回答，并补一处细节。题页另列的住宿四问不属于下方家乡转写的覆盖范围。可选：记录或再练一次迁移答案／隔日回忆记录可选：记录或再练一次这次最需要补什么？请选择内容或语境没理解词义或声音没认出词汇选择／搭配不稳证据、逻辑或展开不足语法或句子组织问题暂时独立完成，隔天再检验",
+  "links": [
+    {
+      "text": "Speaking Part 1 正式题面",
+      "href": "原始参考/support-1627493a-cambridge-zip-115041_Speaking_sample_task_-_Part_1.pdf#page=1"
+    },
+    {
+      "text": "Speaking Part 1 原录音转写",
+      "href": "原始参考/support-db152507-cambridge-zip-115045_Speaking_sample_task_-_Part_1_transcript.pdf#page=1"
+    },
+    {
+      "text": "Speaking Part 1 正式题面",
+      "href": "原始参考/support-1627493a-cambridge-zip-115041_Speaking_sample_task_-_Part_1.pdf#page=1"
+    },
+    {
+      "text": "Speaking Part 1 原录音转写",
+      "href": "原始参考/support-db152507-cambridge-zip-115045_Speaking_sample_task_-_Part_1_transcript.pdf#page=1"
+    }
+  ],
+  "details": [
+    {
+      "id": "answer-check-14",
+      "title": "说完后查看正式题页与考生转写",
+      "open": false,
+      "answerGate": "[\"enrich-speaking_part1_natural_answers-answer\"]",
+      "visible": true
+    },
+    {
+      "id": "",
+      "title": "可选：记录或再练一次",
+      "open": false,
+      "visible": false
+    },
+    {
+      "id": "",
+      "title": "可选：记录或再练一次",
+      "open": false,
+      "visible": false
+    }
+  ],
+  "saveFields": [
+    "prereq-speaking_part1_natural_answers-first-record-note",
+    "enrich-speaking_part1_natural_answers-answer",
+    "enrich-speaking_part1_natural_answers-frozen",
+    "enrich-speaking_part1_natural_answers-saved-at",
+    "prereq-speaking_part1_natural_answers-retry-record-note",
+    "enrich-speaking_part1_natural_answers-revision",
+    "enrich-speaking_part1_natural_answers-transfer",
+    "enrich-speaking_part1_natural_answers-diagnosis"
+  ],
+  "images": [],
+  "audio": [
+    {
+      "src": null,
+      "sources": [],
+      "visible": false,
+      "controls": true
+    },
+    {
+      "src": null,
+      "sources": [],
+      "visible": false,
+      "controls": true
+    }
+  ],
+  "viewport": 1440,
+  "documentWidth": 1440
+}

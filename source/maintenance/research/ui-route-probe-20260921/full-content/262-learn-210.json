@@ -1,0 +1,57 @@
+{
+  "requested": "learn-210",
+  "from": [
+    "内容单元"
+  ],
+  "actual": "#learn-210",
+  "checkedAt": "2026-09-21T12:53:48.184Z",
+  "title": "学习 / 词汇 / energy · IELTS",
+  "label": "学习 / 词汇 / energy",
+  "panel": "vocabulary",
+  "contentRoot": "learn-210",
+  "headings": [
+    {
+      "tag": "H3",
+      "text": "energy",
+      "visible": true
+    }
+  ],
+  "controls": [
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "checkbox",
+      "text": "",
+      "label": "收藏 energy",
+      "href": null,
+      "save": "vocab-saved-word-energy",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "checkbox",
+      "text": "",
+      "label": "我已看过本单元",
+      "href": null,
+      "save": "learning-read-learn-210",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    }
+  ],
+  "visibleText": "0% · 0 / 1 完成\n☆\nenergy\n\n能源；精力\n\nenergy use / renewable energy / have the energy to…\n\nThe design aims to reduce energy use in the building.\n\n该设计旨在减少建筑中的能源使用。\n\n建筑能源与个人精力是不同语境，不把一个义项套到所有文章。\n\n我已看过本单元",
+  "allContent": "0% · 0 / 1 完成☆energy能源；精力energy use / renewable energy / have the energy to…The design aims to reduce energy use in the building.该设计旨在减少建筑中的能源使用。建筑能源与个人精力是不同语境，不把一个义项套到所有文章。 我已看过本单元",
+  "links": [],
+  "details": [],
+  "saveFields": [
+    "vocab-saved-word-energy",
+    "learning-read-learn-210"
+  ],
+  "images": [],
+  "audio": [],
+  "viewport": 1440,
+  "documentWidth": 1440
+}

@@ -1,0 +1,266 @@
+{
+  "requested": "speaking-review",
+  "from": [
+    "页面链接"
+  ],
+  "actual": "#speaking-review",
+  "checkedAt": "2026-09-21T12:55:10.125Z",
+  "title": "学习 / 口语 / 口语 · 从原题开始学 · IELTS",
+  "label": "学习 / 口语 / 口语 · 从原题开始学",
+  "panel": "speaking",
+  "contentRoot": "speaking-review",
+  "headings": [
+    {
+      "tag": "H2",
+      "text": "A. 熟题与同题追问分开记",
+      "visible": true
+    },
+    {
+      "tag": "H2",
+      "text": "B. 一个新追问",
+      "visible": true
+    },
+    {
+      "tag": "H2",
+      "text": "C. 换到另一个语境的短表达",
+      "visible": true
+    },
+    {
+      "tag": "H2",
+      "text": "后续完整口语检查",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "真实长答：钢琴为什么重要",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "真实长答：钢琴为什么重要",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "完整正式题面",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "完整回答转写",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "回答与证据解释",
+      "visible": true
+    }
+  ],
+  "controls": [
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "可选：换一道题再试",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "录音准备好后看新问题",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "完成后看核对原则",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "当前口语格式",
+      "label": "",
+      "href": "https://ielts.org/take-a-test/test-types/ielts-academic-test/ielts-academic-format-speaking",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "开始录音",
+      "label": "",
+      "href": null,
+      "record": "speaking-review",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "结束并保留",
+      "label": "",
+      "href": null,
+      "stop": "speaking-review",
+      "visible": true,
+      "disabled": true,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "下载这段录音",
+      "label": "",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "AUDIO",
+      "id": "",
+      "text": "",
+      "label": "",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "file",
+      "text": "",
+      "label": "或载入已有录音",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "本次新任务作答／录音文件名；先作答，再打开页内核对。",
+      "href": null,
+      "save": "speaking-review-answer",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "Speaking Part 2 正式题面",
+      "label": "",
+      "href": "原始参考/support-2e9c2a8e-cambridge-zip-115047_Speaking_sample_task_-_Part_2.pdf#page=1",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "Speaking Part 2 原录音转写",
+      "label": "",
+      "href": "原始参考/6c68dcc0-cambridge-zip-115051_Speaking_sample_task_-_Part_2_transcript.pdf#page=1",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "Speaking Part 2 正式题面",
+      "label": "",
+      "href": "原始参考/support-2e9c2a8e-cambridge-zip-115047_Speaking_sample_task_-_Part_2.pdf#page=1",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "Speaking Part 2 原录音转写",
+      "label": "",
+      "href": "原始参考/6c68dcc0-cambridge-zip-115051_Speaking_sample_task_-_Part_2_transcript.pdf#page=1",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    }
+  ],
+  "visibleText": "可选：换一道题再试\n\n下次口语时段用约 8—12 分钟完成原物品短回忆、原题卡的同话题追问和折叠区的新追问，分别记录熟内容与新问题。活动情境只在时间允许时做，否则顺延。每项都要实际开口录音；这些局部任务不等同完整口语检查，第 2 周另用未预习的 P1—3 任务替换主任务。\n\n安排在之后一个口语时段，约 8–12 分钟，替换原定练习。先关闭参考和样例，不预先写好完整答案。本页要求自己开口并录音。\n\nA. 熟题与同题追问分开记\n\n先用约半分钟说清原来那件物品为什么重要，保存这次声音。它是熟内容回忆，不是新的 Part 2 限时测试。\n\n随后看原题卡中的一个真实追问：Would it be easy to replace? 实际口头回答；不用固定句数，只把判断和相关原因说清楚。这是同一话题的追问，不是另一套陌生话题。若上次已经准备过它，标熟问。\n\n替换问题可能涉及买到功能相同的东西，也可能涉及个人意义是否能替代。可以区分两者，也可以依据自己的物品作其他成立解释；没有统一的 yes 或 no 正确答案。\n\nB. 一个新追问\n\n准备好录音后再打开问题。它由工作区编写，不是公开真题或预测题。\n\n录音准备好后看新问题\n\n实际说出你会怎样选择；不要求为了回答而必须改变物品，也不强制假设句型。保留你有没有提前见过问题、有没有使用提示。追问可以观察临场调整，但没有校准难度，不能用于换算 band。\n\nC. 换到另一个语境的短表达\n\n若还有时间，用英语实际说出你喜欢的一项活动怎样对你有意义，并给一个具体说明。不要只是把原来物品名称机械换成活动名称；内容可以是用途、体验或个人重视的原因。此题是教学迁移，不是另一道Part 2。\n\n不要求套用上次的 mean a lot to；清楚自然的替代表达同样成功。题目不问拥有时间，就无需硬塞 I've had...。如果这部分导致总用时超出本次安排，移到下次，不补成额外作业。\n\n完成后看核对原则\n后续完整口语检查\n\n本章只提供 Part 2 局部与追问证据。后续另安排覆盖 Part 1–3 的未预习完整练习，按当前口语格式控制三个部分与整体 11–14 分钟，并保留完整原音。准备与反馈时间另外计入当天预算，替换当天主任务，不再额外叠加。\n\n熟悉本页物品题后，它不能再当完整练习中未见的 Part 2。可以从本地训练资料选择确实未准备过的任务组合，避免使用保留材料作反复教学。若由同伴或老师提问，应允许真实追问；若只有自己依次看题录答，明确是自练，尚未检验互动听问和即时应答的全部条件。\n\n证据类型\t本次如何标记\n原物品内容重答\t熟内容回忆\n原题卡追加问题\t同话题追问，注明是否准备过\n工作区新追问\t自编教学题；首次／见过／提示后\n活动语境\t换情境表达，内容熟悉程度另记\n后续完整练习\t覆盖范围、是否预习、提问形式、完整录音\n\n熟题说顺与陌生互动可能表现不同；分别保留，不从一次卡顿推断焦虑，也不因同题重答流畅就宣布整科提分。\n\n按本区各任务实际录答：熟片短回忆、即时追问和活动短答分别注明条件，不统一套用 Part 2 准备时间。点击录音会请求麦克风权限；也可以用自己的录音器。\n\n开始录音结束并保留\n或载入已有录音\n\n录音请单独下载保存；文字导出不包含音频。\n\n本次新任务作答／录音文件名；先作答，再打开页内核对。\n真实长答：钢琴为什么重要\n真实长答：钢琴为什么重要\n完整正式题面\n\nPart 2 – Individual long turn\n\nCandidate Task Card\n\nDescribe something you own which is very important to you.\n\nYou should say:\n\nwhere you got it from how long you have had it what you use it for\n\nand explain why it is important to you.\n\nYou will have to talk about the topic for 1 to 2 minutes. You have one minute to think about what you're going to say. You can make some notes to help you if you wish.\n\nRounding off questions\n\n• Is it valuable in terms of money? • Would it be easy to replace?\n\n完整回答转写\n\nPart 2 – Individual long turn\n\nTranscript\n\nExaminer: Alright? Remember you have one to two minutes for this, so don’t worry if I stop you. I’ll tell you when the time is up.\n\nCandidate: OK\n\nExaminer: Can you start speaking now, please?\n\nCandidate: Yes. One of the most important things I have is my piano because I like playing the piano. I got it from my parents to my twelve birthday, so I have it for about nine years, and the reason why it is so important for me is that I can go into another world when I’m playing piano. I can forget what’s around me and what ... I can forget my problems and this is sometimes quite good for a few minutes. Or I can play to relax or just, yes to … to relax and to think of something completely different.\n\nExaminer: Thank you. Would it be easy to replace this, this piano?\n\nCandidate: Yes, I think it wouldn’t be that big problem but I like my piano as it is because I have it from my parents, it’s some kind unique for me.\n\n回答与证据解释\n\n原回答覆盖物品（piano）、来源（parents）、时间（12岁生日、约9年）、重要性（放松、暂时忘掉问题）；追问 replace 区分功能可替代与情感独特。原录音有错误：to my twelve birthday 可改为 for my twelfth birthday；I have it for about nine years 改为 I have had it for about nine years。改写是教学修正，不伪称原录音如此说。\n\n完整原件：Speaking Part 2 正式题面；Speaking Part 2 原录音转写\n\nSpeaking Part 2 正式题面\n\nSpeaking Part 2 原录音转写",
+  "allContent": "可选：换一道题再试下次口语时段用约 8—12 分钟完成原物品短回忆、原题卡的同话题追问和折叠区的新追问，分别记录熟内容与新问题。活动情境只在时间允许时做，否则顺延。每项都要实际开口录音；这些局部任务不等同完整口语检查，第 2 周另用未预习的 P1—3 任务替换主任务。安排在之后一个口语时段，约 8–12 分钟，替换原定练习。先关闭参考和样例，不预先写好完整答案。本页要求自己开口并录音。\nA. 熟题与同题追问分开记\n先用约半分钟说清原来那件物品为什么重要，保存这次声音。它是熟内容回忆，不是新的 Part 2 限时测试。\n随后看原题卡中的一个真实追问：Would it be easy to replace? 实际口头回答；不用固定句数，只把判断和相关原因说清楚。这是同一话题的追问，不是另一套陌生话题。若上次已经准备过它，标熟问。\n替换问题可能涉及买到功能相同的东西，也可能涉及个人意义是否能替代。可以区分两者，也可以依据自己的物品作其他成立解释；没有统一的 yes 或 no 正确答案。\nB. 一个新追问\n准备好录音后再打开问题。它由工作区编写，不是公开真题或预测题。\n\n录音准备好后看新问题\nIf you could change one thing about this object, what would you change, and why?\n\n实际说出你会怎样选择；不要求为了回答而必须改变物品，也不强制假设句型。保留你有没有提前见过问题、有没有使用提示。追问可以观察临场调整，但没有校准难度，不能用于换算 band。\nC. 换到另一个语境的短表达\n若还有时间，用英语实际说出你喜欢的一项活动怎样对你有意义，并给一个具体说明。不要只是把原来物品名称机械换成活动名称；内容可以是用途、体验或个人重视的原因。此题是教学迁移，不是另一道Part 2。\n不要求套用上次的 mean a lot to；清楚自然的替代表达同样成功。题目不问拥有时间，就无需硬塞 I've had...。如果这部分导致总用时超出本次安排，移到下次，不补成额外作业。\n\n完成后看核对原则\n新追问检查是否真的回应“改变什么与为什么”，而不只是重新讲它多重要。活动题检查能否重新组织意义；例如说喜欢画画，还需要说明画画给自己的体验或作用，不能只重复喜欢。\n可以有不同判断，没有固定标准答案。请回听实际录音，记录一条有效表达和一处仍需帮助的问题。仅凭转写文本可看部分内容与用法，不能据此判发音或真实流利度。\n\n后续完整口语检查\n本章只提供 Part 2 局部与追问证据。后续另安排覆盖 Part 1–3 的未预习完整练习，按当前口语格式控制三个部分与整体 11–14 分钟，并保留完整原音。准备与反馈时间另外计入当天预算，替换当天主任务，不再额外叠加。\n熟悉本页物品题后，它不能再当完整练习中未见的 Part 2。可以从本地训练资料选择确实未准备过的任务组合，避免使用保留材料作反复教学。若由同伴或老师提问，应允许真实追问；若只有自己依次看题录答，明确是自练，尚未检验互动听问和即时应答的全部条件。\n\n\n\n证据类型\n本次如何标记\n\n\n\n\n原物品内容重答\n熟内容回忆\n\n\n原题卡追加问题\n同话题追问，注明是否准备过\n\n\n工作区新追问\n自编教学题；首次／见过／提示后\n\n\n活动语境\n换情境表达，内容熟悉程度另记\n\n\n后续完整练习\n覆盖范围、是否预习、提问形式、完整录音\n\n\n\n熟题说顺与陌生互动可能表现不同；分别保留，不从一次卡顿推断焦虑，也不因同题重答流畅就宣布整科提分。按本区各任务实际录答：熟片短回忆、即时追问和活动短答分别注明条件，不统一套用 Part 2 准备时间。点击录音会请求麦克风权限；也可以用自己的录音器。开始录音结束并保留下载这段录音或载入已有录音 录音请单独下载保存；文字导出不包含音频。本次新任务作答／录音文件名；先作答，再打开页内核对。真实长答：钢琴为什么重要真实长答：钢琴为什么重要完整正式题面Part 2 – Individual long turnCandidate Task CardDescribe something you own which is very important to you.You should say:where you got it from how long you have had it what you use it forand explain why it is important to you.You will have to talk about the topic for 1 to 2 minutes. You have one minute to think about what you're going to say. You can make some notes to help you if you wish.Rounding off questions• Is it valuable in terms of money? • Would it be easy to replace?完整回答转写Part 2 – Individual long turnTranscriptExaminer: Alright? Remember you have one to two minutes for this, so don’t worry if I stop you. I’ll tell you when the time is up.Candidate: OKExaminer: Can you start speaking now, please?Candidate: Yes. One of the most important things I have is my piano because I like playing the piano. I got it from my parents to my twelve birthday, so I have it for about nine years, and the reason why it is so important for me is that I can go into another world when I’m playing piano. I can forget what’s around me and what ... I can forget my problems and this is sometimes quite good for a few minutes. Or I can play to relax or just, yes to … to relax and to think of something completely different.Examiner: Thank you. Would it be easy to replace this, this piano?Candidate: Yes, I think it wouldn’t be that big problem but I like my piano as it is because I have it from my parents, it’s some kind unique for me.回答与证据解释原回答覆盖物品（piano）、来源（parents）、时间（12岁生日、约9年）、重要性（放松、暂时忘掉问题）；追问 replace 区分功能可替代与情感独特。原录音有错误：to my twelve birthday 可改为 for my twelfth birthday；I have it for about nine years 改为 I have had it for about nine years。改写是教学修正，不伪称原录音如此说。完整原件：Speaking Part 2 正式题面；Speaking Part 2 原录音转写Speaking Part 2 正式题面Speaking Part 2 原录音转写",
+  "links": [
+    {
+      "text": "当前口语格式",
+      "href": "https://ielts.org/take-a-test/test-types/ielts-academic-test/ielts-academic-format-speaking"
+    },
+    {
+      "text": "Speaking Part 2 正式题面",
+      "href": "原始参考/support-2e9c2a8e-cambridge-zip-115047_Speaking_sample_task_-_Part_2.pdf#page=1"
+    },
+    {
+      "text": "Speaking Part 2 原录音转写",
+      "href": "原始参考/6c68dcc0-cambridge-zip-115051_Speaking_sample_task_-_Part_2_transcript.pdf#page=1"
+    },
+    {
+      "text": "Speaking Part 2 正式题面",
+      "href": "原始参考/support-2e9c2a8e-cambridge-zip-115047_Speaking_sample_task_-_Part_2.pdf#page=1"
+    },
+    {
+      "text": "Speaking Part 2 原录音转写",
+      "href": "原始参考/6c68dcc0-cambridge-zip-115051_Speaking_sample_task_-_Part_2_transcript.pdf#page=1"
+    }
+  ],
+  "details": [
+    {
+      "id": "",
+      "title": "录音准备好后看新问题",
+      "open": false,
+      "visible": true
+    },
+    {
+      "id": "",
+      "title": "完成后看核对原则",
+      "open": false,
+      "visible": true
+    }
+  ],
+  "saveFields": [
+    "speaking-review-answer"
+  ],
+  "images": [],
+  "audio": [
+    {
+      "src": null,
+      "sources": [],
+      "visible": false,
+      "controls": true
+    }
+  ],
+  "viewport": 1440,
+  "documentWidth": 1440
+}

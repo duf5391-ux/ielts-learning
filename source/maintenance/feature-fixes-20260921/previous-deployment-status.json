@@ -1,0 +1,34 @@
+{
+  "provider": "github-pages",
+  "status": "succeeded",
+  "usability_status": "mobile_loading_optimization_in_progress",
+  "url": "https://duf5391-ux.github.io/ielts-learning/",
+  "repository": "duf5391-ux/ielts-learning",
+  "source_commit": "ea925645f522db8f791028debcb295e69f8c4b44",
+  "workflow_run_id": 35526210614,
+  "workflow_url": "https://github.com/duf5391-ux/ielts-learning/actions/runs/35526210614",
+  "updated_at": "2026-09-20T17:33:26Z",
+  "access_mode": "public",
+  "https_enforced": true,
+  "source_html_sha256": "dc3e6e39ab1bf2155069f92d6fe952733b9b044684a02d81d7f426578578938a",
+  "published_html_sha256": "213a5af0f39be02966bea80e27f7d1c6752f7dd952575fc075dfa4eff1121db8",
+  "published_files": 1020,
+  "expanded_bytes": 263421077,
+  "save_fields": 3353,
+  "local_sync_workflow": "publish_github.ps1 completed build, verification, push and awaited a second successful deployment",
+  "verification": {
+    "mainland_homepage": "8/8 HTTP200",
+    "mainland_jijing_audio": "8/8 HTTP206 ID3",
+    "mainland_official_audio": "7/8 initially; Beijing Mobile repeat succeeded HTTP206 ID3 in492ms; initial TCP timeout retained",
+    "browser": "Homepage, sustainable dictionary lookup and 52-second audio playback/pause observed successfully",
+    "full_audio_playback": false,
+    "user_mobile": "User reports page stuck and confirms loading cause; deferred/background loading is now being implemented"
+  },
+  "evidence": [
+    "research/github-live-index-20260921.json",
+    "research/github-publication-browser-20260921.json",
+    "research/github-publication-probes-20260920T171950.486947Z/report.md",
+    "research/github-publication-retry-beijing-mobile-20260920T172258.854728Z/report.md"
+  ],
+  "next": "Publish verified progressive/background-loading improvement, then deliver four platform packages. No CN hosting/account migration is currently requested."
+}

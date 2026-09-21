@@ -1,0 +1,274 @@
+{
+  "requested": "writing-prep-wc-bc-overfishing-from-rd-c21-t3-saiga-adaptation",
+  "from": [
+    "页面链接"
+  ],
+  "actual": "#writing-prep-wc-bc-overfishing-from-rd-c21-t3-saiga-adaptation",
+  "checkedAt": "2026-09-21T12:55:46.119Z",
+  "title": "练习 / 写作 · Task 2 / 过度捕捞：从激励与监管写到对策 · IELTS",
+  "label": "练习 / 写作 · Task 2 / 过度捕捞：从激励与监管写到对策",
+  "panel": "practice-writing2",
+  "contentRoot": "writing2-case-wc-bc-overfishing",
+  "headings": [
+    {
+      "tag": "H3",
+      "text": "写作前置 · 文中表达",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "threatening the livelihood of",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "on an industrial scale",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "relieve the pressure on",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "working in partnership with",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "protect and restore",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "本次写作任务",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "对照答案，回到证据",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "参考写法",
+      "visible": false
+    },
+    {
+      "tag": "H3",
+      "text": "答后精读",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "篇章结构",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "词语与搭配",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "句子精读",
+      "visible": false
+    }
+  ],
+  "controls": [
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "过度捕捞：从激励与监管写到对策未作答\n原因与措施 · 原题拆段写作 · 参考段落与逐段讲解",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "British Council — Writing Task 2: Problems and solutions",
+      "label": "",
+      "href": "扩展资料/609824ad-writing_task_2_problems_and_solutions_.pdf#page=7",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "The World of Sugar｜全球贸易与误解纠正",
+      "label": "",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "回到这份材料的精读",
+      "label": "",
+      "href": "#material-reading-rd-c21-sugar-1",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "Saving the saiga · 生存适应与早期数量变化",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "回到这份材料的精读",
+      "label": "",
+      "href": "#material-reading-rd-c21-t3-saiga-adaptation",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "Saving the saiga · 栖息地、疾病、气候与恢复",
+      "label": "",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "回到这份材料的精读",
+      "label": "",
+      "href": "#material-reading-rd-c21-t3-saiga-threats",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "case-wc-bc-overfishing-answer",
+      "type": "textarea",
+      "text": "",
+      "label": "我的段落",
+      "href": null,
+      "save": "case-wc-bc-overfishing-answer",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "checkbox",
+      "text": "",
+      "label": "",
+      "href": null,
+      "save": "case-wc-bc-overfishing-done",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "hidden",
+      "text": "",
+      "label": "",
+      "href": null,
+      "save": "case-wc-bc-overfishing-saved-at",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "保留作答，查看答案",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "case-wc-bc-overfishing-revision",
+      "type": "textarea",
+      "text": "",
+      "label": "我的修订／证据笔记",
+      "href": null,
+      "save": "case-wc-bc-overfishing-revision",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    }
+  ],
+  "visibleText": "过度捕捞：从激励与监管写到对策未作答\n原因与措施 · 原题拆段写作 · 参考段落与逐段讲解\n0% · 0 / 1 完成\n\n官方教辅 · British Council — Writing Task 2: Problems and solutions · PDF 第 7 页\n\n写作前置 · 文中表达\n\n这里是所选阅读材料中适合本题的表达；例句按本题语境编写。\n\nSaving the saiga · 生存适应与早期数量变化\non an industrial scale\n\n以极大的、工业化的规模\n\n适合描述技术与设备使资源开采规模扩大；不能把所有小型经营都称为 industrial scale。\n\n本题例句 · 编写示范\n\nLarge vessels can remove fish on an industrial scale, making effective limits on catches essential.\n\n过度捕捞题讨论捕捞能力与生态压力，大型船舶造成的规模效应与原文大规模猎杀直接相关。\n\nrelieve the pressure on\n\n减轻……所承受的压力\n\n说明措施帮助哪个对象；on 后接鱼群、生态系统等，随后解释压力怎样减少。\n\n本题例句 · 编写示范\n\nTemporary closures can relieve the pressure on vulnerable fish stocks by allowing them time to reproduce.\n\n直接用于过度捕捞的措施段，把休渔与鱼群恢复相连；不套用赛加保护倡议的历史结果。\n\n回到这份材料的精读\n\nOverfishing of the world’s oceans threatens many species with extinction and is putting the livelihood of millions of people around the world at risk. What are the causes of this problem and what can be done to prevent it from happening?\n\n本次写作任务\n\n写两个主体段，约180–220词。第一段写捕捞能力与逐利/监管，第二段分别提出限制和执行机制；同时照顾生态与依靠渔业的社区，不编造研究数字。\n\n我的段落\n\n0 词\n\n保留作答，查看答案\n\n先作答；不确定的题也可记录判断与疑点。",
+  "allContent": "过度捕捞：从激励与监管写到对策未作答原因与措施 · 原题拆段写作 · 参考段落与逐段讲解0% · 0 / 1 完成官方教辅 · British Council — Writing Task 2: Problems and solutions · PDF 第 7 页写作前置 · 文中表达这里是所选阅读材料中适合本题的表达；例句按本题语境编写。The World of Sugar｜全球贸易与误解纠正threatening the livelihood of威胁……的生计适合用于描述资源衰退或不公平竞争怎样影响依赖某产业谋生的人。可以作为结果分词短语，但要让前面的原因具体可理解。本题例句 · 编写示范Overfishing can deplete local fish stocks, threatening the livelihood of small-scale fishing communities.现有题目明确谈过度捕捞对数百万人生计的风险；表达可直接连接鱼类资源减少与沿海家庭收入受损。回到这份材料的精读Saving the saiga · 生存适应与早期数量变化on an industrial scale以极大的、工业化的规模适合描述技术与设备使资源开采规模扩大；不能把所有小型经营都称为 industrial scale。本题例句 · 编写示范Large vessels can remove fish on an industrial scale, making effective limits on catches essential.过度捕捞题讨论捕捞能力与生态压力，大型船舶造成的规模效应与原文大规模猎杀直接相关。relieve the pressure on减轻……所承受的压力说明措施帮助哪个对象；on 后接鱼群、生态系统等，随后解释压力怎样减少。本题例句 · 编写示范Temporary closures can relieve the pressure on vulnerable fish stocks by allowing them time to reproduce.直接用于过度捕捞的措施段，把休渔与鱼群恢复相连；不套用赛加保护倡议的历史结果。回到这份材料的精读Saving the saiga · 栖息地、疾病、气候与恢复working in partnership with与……共同合作适合说明跨地区生态治理的合作关系，应明确谁和谁合作以及共同处理什么问题。本题例句 · 编写示范Coastal authorities, working in partnership with neighbouring countries, can coordinate limits on catches from shared fish stocks.过度捕捞涉及跨界鱼群，原文跨境物种保护中的机构协作与共享海域监管高度吻合。protect and restore保护并修复protect 强调避免进一步破坏，restore 强调恢复已经受损的状态；并列时应同时存在预防与修复需要。本题例句 · 编写示范Fishing restrictions should protect and restore marine ecosystems while allowing communities time to adapt.可用于说明限制捕捞的生态目标，并与题目中的渔业生计相衔接。回到这份材料的精读Overfishing of the world’s oceans threatens many species with extinction and is putting the livelihood of millions of people around the world at risk. What are the causes of this problem and what can be done to prevent it from happening?本次写作任务写两个主体段，约180–220词。第一段写捕捞能力与逐利/监管，第二段分别提出限制和执行机制；同时照顾生态与依靠渔业的社区，不编造研究数字。我的段落0 词保留作答，查看答案先作答；不确定的题也可记录判断与疑点。对照答案，回到证据参考写法下列段落为针对原题编写的参考写法，用于对照内容和表达；写作没有唯一标准答案。Overfishing can result from the combination of powerful fishing methods and incentives to maximise the immediate catch. Large vessels and efficient equipment allow operators to remove substantial quantities of fish, while each business may fear losing income if competitors continue fishing. Where catch limits are weak or poorly enforced, individual firms have little reason to leave fish in the sea for future seasons. The problem is intensified when the same stocks move across national boundaries, because restrictions in one area may be undermined by heavy fishing elsewhere.Effective action therefore requires both enforceable limits and cooperation between the authorities responsible for shared waters. Catch quotas and temporary closures can reduce pressure on vulnerable stocks, but they need monitoring and credible penalties; a rule that is routinely ignored changes little. Governments should also support fishing communities during restrictions, for example through assistance in moving towards less damaging practices or alternative sources of income. Without that support, measures designed to protect future livelihoods may face resistance from people struggling to survive now. The aim should be to make sustainable fishing a practical long-term choice, rather than simply announce a ban.原因段没有堆抽象名词：设备提高捕捞能力，竞争激励促使当下多捕，跨界鱼群削弱单方限制。措施段逐项承接：限额/休渔对应压力，监测/处罚对应执行，跨区域协作对应跨界问题。livelihood题干范围被保留：过渡支持说明保护鱼群与渔民短期收入怎样协调。答后精读篇章结构能力—激励—执行薄弱—跨界扩大。限制—执行—协作—社区过渡支持。词语与搭配credible penalties：能落实的惩罚，避免只有法规名称。shared waters：衔接跨界鱼群。a practical long-term choice：让结论落在可执行性。句子精读... because restrictions in one area may be undermined by heavy fishing elsewhere → because解释国际协调的必要。Without that support, ... may face resistance ... → 解释社区支持为何不是无关福利。我的修订／证据笔记",
+  "links": [
+    {
+      "text": "British Council — Writing Task 2: Problems and solutions",
+      "href": "扩展资料/609824ad-writing_task_2_problems_and_solutions_.pdf#page=7"
+    },
+    {
+      "text": "回到这份材料的精读",
+      "href": "#material-reading-rd-c21-sugar-1"
+    },
+    {
+      "text": "回到这份材料的精读",
+      "href": "#material-reading-rd-c21-t3-saiga-adaptation"
+    },
+    {
+      "text": "回到这份材料的精读",
+      "href": "#material-reading-rd-c21-t3-saiga-threats"
+    }
+  ],
+  "details": [
+    {
+      "id": "writing-prep-wc-bc-overfishing-from-rd-c21-sugar-1",
+      "title": "The World of Sugar｜全球贸易与误解纠正",
+      "open": false,
+      "visible": false
+    },
+    {
+      "id": "writing-prep-wc-bc-overfishing-from-rd-c21-t3-saiga-adaptation",
+      "title": "Saving the saiga · 生存适应与早期数量变化",
+      "open": true,
+      "visible": true
+    },
+    {
+      "id": "writing-prep-wc-bc-overfishing-from-rd-c21-t3-saiga-threats",
+      "title": "Saving the saiga · 栖息地、疾病、气候与恢复",
+      "open": false,
+      "visible": false
+    }
+  ],
+  "saveFields": [
+    "case-wc-bc-overfishing-answer",
+    "case-wc-bc-overfishing-done",
+    "case-wc-bc-overfishing-saved-at",
+    "case-wc-bc-overfishing-revision"
+  ],
+  "images": [],
+  "audio": [],
+  "viewport": 1440,
+  "documentWidth": 1440
+}

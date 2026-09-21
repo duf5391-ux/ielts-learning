@@ -1,0 +1,305 @@
+{
+  "requested": "reading-case-rd-c21-dreams-2",
+  "from": [
+    "内容单元",
+    "页面链接",
+    "每日安排目标"
+  ],
+  "actual": "#reading-case-rd-c21-dreams-2",
+  "checkedAt": "2026-09-21T12:52:02.029Z",
+  "title": "练习 / 阅读 / Do animals dream?｜章鱼行为与研究边界 · IELTS",
+  "label": "练习 / 阅读 / Do animals dream?｜章鱼行为与研究边界",
+  "panel": "practice-reading",
+  "contentRoot": "reading-case-rd-c21-dreams-2",
+  "headings": [
+    {
+      "tag": "H3",
+      "text": "对照答案，回到证据",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "原文第5段",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "原文第6段",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "原文第7段",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "原文第8段",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "原文第9段",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "原文第10段",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "词语与搭配",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "句子精读",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "这篇材料里可用于写作的表达",
+      "visible": false
+    }
+  ],
+  "controls": [
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "Do animals dream?｜章鱼行为与研究边界未作答\n事实判断 TFNG · 6 段 · 400 词 · 8 题 · 同篇原文另有裁切",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "Cambridge IELTS 21 Academic",
+      "label": "",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=40",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "case-rd-c21-dreams-2-q1",
+      "type": "text",
+      "text": "",
+      "label": "第 6 题作答",
+      "href": null,
+      "save": "case-rd-c21-dreams-2-q1",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "case-rd-c21-dreams-2-q2",
+      "type": "text",
+      "text": "",
+      "label": "第 7 题作答",
+      "href": null,
+      "save": "case-rd-c21-dreams-2-q2",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "case-rd-c21-dreams-2-q3",
+      "type": "text",
+      "text": "",
+      "label": "第 8 题作答",
+      "href": null,
+      "save": "case-rd-c21-dreams-2-q3",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "case-rd-c21-dreams-2-q4",
+      "type": "text",
+      "text": "",
+      "label": "第 9 题作答",
+      "href": null,
+      "save": "case-rd-c21-dreams-2-q4",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "case-rd-c21-dreams-2-q5",
+      "type": "text",
+      "text": "",
+      "label": "第 10 题作答",
+      "href": null,
+      "save": "case-rd-c21-dreams-2-q5",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "case-rd-c21-dreams-2-q6",
+      "type": "text",
+      "text": "",
+      "label": "第 11 题作答",
+      "href": null,
+      "save": "case-rd-c21-dreams-2-q6",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "case-rd-c21-dreams-2-q7",
+      "type": "text",
+      "text": "",
+      "label": "第 12 题作答",
+      "href": null,
+      "save": "case-rd-c21-dreams-2-q7",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "case-rd-c21-dreams-2-q8",
+      "type": "text",
+      "text": "",
+      "label": "第 13 题作答",
+      "href": null,
+      "save": "case-rd-c21-dreams-2-q8",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "checkbox",
+      "text": "",
+      "label": "",
+      "href": null,
+      "save": "case-rd-c21-dreams-2-done",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "hidden",
+      "text": "",
+      "label": "",
+      "href": null,
+      "save": "case-rd-c21-dreams-2-saved-at",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "保留作答，查看答案",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "核对原答案页",
+      "label": "",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=121",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "case-rd-c21-dreams-2-revision",
+      "type": "textarea",
+      "text": "",
+      "label": "我的修订／证据笔记",
+      "href": null,
+      "save": "case-rd-c21-dreams-2-revision",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "材料精读 · 内容与词句",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "",
+      "label": "",
+      "href": "#writing-prep-wc-official-science-from-rd-c21-dreams-2",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    }
+  ],
+  "visibleText": "Do animals dream?｜章鱼行为与研究边界未作答\n事实判断 TFNG · 6 段 · 400 词 · 8 题 · 同篇原文另有裁切\n0% · 0 / 1 完成\n\n本材料也用于本册教学。已看过原文、示范或答案时，这次作答用于练习与复习，不作为未见题测试。\n\n真题 · Cambridge IELTS 21 Academic · PDF 第 40 页\n\nDo the following statements agree with the information? TRUE / FALSE / NOT GIVEN。原题Q6–13；NG对照完整原篇后确认，未用裁切缺失信息制造答案。\n\n原文第5段Nevertheless, in many cases REM sleep does seem to have benefits. Growing evidence from birds and mammals suggests that REM sleep and dreaming are important for forming memories and learning. It is believed that when events are replayed in dreams, this helps to integrate memories into longer-term storage. As soon as animals evolved moderately complex lifestyles, they would have needed to dream in order to manage these lifestyles.\n\n原文第6段However, we still don't understand how this outward behaviour relates to internal experience. It seems impossible to know what it is like to be a rat or a pigeon, let alone imagine their dreamscapes. We are quick to interpret the twitching limbs and quiet barks of sleeping dogs, but the truth is that we don't know if there is an internal experience of chasing rabbits that comes along with that.\n\n原文第7段Another non-human dreamer offers insight here. In 2019, while making a documentary, David Scheel of Alaska Pacific University in the USA housed an octopus named Heidi in a tank in his living room. At one point, in the middle of the night, Heidi seemed to dream: her limbs and head moved, and her skin rapidly changed colour, as though she was pursuing a crab.\n\n原文第8段Similarly, a report recently emerged of a sleeping octopus apparently having a nightmare. Costello, as the octopus was called, thrashed around, extended his mantle as if trying to make himself look bigger, and squirted ink as though he were being attacked by a predator. The nightmare study is intriguing, says Scheel, but is only based on one animal. He argues that as well as outward behaviour, brain imaging is needed to show that the octopuses are replaying sequences of activities from their waking lives in dreams.\n\n原文第9段The trouble is that we will never be able to experience any animal's dreams. That goes for other humans' dreams too. But we can try to imagine what these dreamscapes are like by meeting animals on their own terms. For example, vision is the dominant sense for many humans, and so our dreams are heavily visual too. Dogs primarily navigate the world using smell while spiders rely much more on vibrations.\n\n原文第10段It is likely that dreaming has served multiple purposes since the first complex animals evolved. And if this is the case, it is possible that better understanding of these purposes might shed light on the true purpose of our own dreams.\n\n6. Dreaming about past experiences helps us to create lasting memories of them.\n\n第 6 题作答\n\n7. It is now possible to tell what type of dream a dog is having.\n\n第 7 题作答\n\n8. David Scheel's documentary was influential on other research into the sleeping patterns of octopuses.\n\n第 8 题作答\n\n9. While it was asleep, the octopus called Costello reacted as if it was hunting.\n\n第 9 题作答\n\n10. Scheel believes more research into octopuses' dreams should be carried out.\n\n第 10 题作答\n\n11. We may soon be able to share the dreams of other human beings.\n\n第 11 题作答\n\n12. Hearing may be an important part of the dreams of some animals.\n\n第 12 题作答\n\n13. Interest in the reasons why humans dream has increased greatly in recent times.\n\n第 13 题作答\n保留作答，查看答案\n\n先作答；不确定的题也可记录判断与疑点。\n\n材料精读 · 内容与词句",
+  "allContent": "Do animals dream?｜章鱼行为与研究边界未作答事实判断 TFNG · 6 段 · 400 词 · 8 题 · 同篇原文另有裁切0% · 0 / 1 完成本材料也用于本册教学。已看过原文、示范或答案时，这次作答用于练习与复习，不作为未见题测试。真题 · Cambridge IELTS 21 Academic · PDF 第 40 页Do the following statements agree with the information? TRUE / FALSE / NOT GIVEN。原题Q6–13；NG对照完整原篇后确认，未用裁切缺失信息制造答案。原文第5段Nevertheless, in many cases REM sleep does seem to have benefits. Growing evidence from birds and mammals suggests that REM sleep and dreaming are important for forming memories and learning. It is believed that when events are replayed in dreams, this helps to integrate memories into longer-term storage. As soon as animals evolved moderately complex lifestyles, they would have needed to dream in order to manage these lifestyles.原文第6段However, we still don't understand how this outward behaviour relates to internal experience. It seems impossible to know what it is like to be a rat or a pigeon, let alone imagine their dreamscapes. We are quick to interpret the twitching limbs and quiet barks of sleeping dogs, but the truth is that we don't know if there is an internal experience of chasing rabbits that comes along with that.原文第7段Another non-human dreamer offers insight here. In 2019, while making a documentary, David Scheel of Alaska Pacific University in the USA housed an octopus named Heidi in a tank in his living room. At one point, in the middle of the night, Heidi seemed to dream: her limbs and head moved, and her skin rapidly changed colour, as though she was pursuing a crab.原文第8段Similarly, a report recently emerged of a sleeping octopus apparently having a nightmare. Costello, as the octopus was called, thrashed around, extended his mantle as if trying to make himself look bigger, and squirted ink as though he were being attacked by a predator. The nightmare study is intriguing, says Scheel, but is only based on one animal. He argues that as well as outward behaviour, brain imaging is needed to show that the octopuses are replaying sequences of activities from their waking lives in dreams.原文第9段The trouble is that we will never be able to experience any animal's dreams. That goes for other humans' dreams too. But we can try to imagine what these dreamscapes are like by meeting animals on their own terms. For example, vision is the dominant sense for many humans, and so our dreams are heavily visual too. Dogs primarily navigate the world using smell while spiders rely much more on vibrations.原文第10段It is likely that dreaming has served multiple purposes since the first complex animals evolved. And if this is the case, it is possible that better understanding of these purposes might shed light on the true purpose of our own dreams.6. Dreaming about past experiences helps us to create lasting memories of them.第 6 题作答7. It is now possible to tell what type of dream a dog is having.第 7 题作答8. David Scheel's documentary was influential on other research into the sleeping patterns of octopuses.第 8 题作答9. While it was asleep, the octopus called Costello reacted as if it was hunting.第 9 题作答10. Scheel believes more research into octopuses' dreams should be carried out.第 10 题作答11. We may soon be able to share the dreams of other human beings.第 11 题作答12. Hearing may be an important part of the dreams of some animals.第 12 题作答13. Interest in the reasons why humans dream has increased greatly in recent times.第 13 题作答保留作答，查看答案先作答；不确定的题也可记录判断与疑点。对照答案，回到证据第 6 题 · TRUEreplayed events是过去经历，longer-term storage对应lasting memories。when events are replayed in dreams, this helps to integrate memories into longer-term storage第 7 题 · FALSE行为可以被观察，但不知道狗的内部体验，直接否定“现在可以判断梦类型”。the truth is that we don't know if there is an internal experience of chasing rabbits第 8 题 · NOT GIVEN只说明拍摄纪录片时的观察；后续另一报告不等于受其影响，全文没有研究之间的影响关系。In 2019, while making a documentary, David Scheel of Alaska Pacific University in the USA housed an octopus named Heidi in a tank in his living room.第 9 题 · FALSECostello表现为被捕食者攻击，题干hunting把角色反转；前一只Heidi才像追逐螃蟹。as though he were being attacked by a predator第 10 题 · TRUE需要脑成像来核验行为解释，说明更多研究仍有必要。as well as outward behaviour, brain imaging is needed第 11 题 · FALSEnever与soon be able相反，后句明确将结论扩展到其他人类。we will never be able to experience any animal's dreams. That goes for other humans' dreams too.第 12 题 · NOT GIVEN该段举视觉、嗅觉、振动，但没有讨论hearing在梦中的地位；不能自行把振动等同听觉。Dogs primarily navigate the world using smell while spiders rely much more on vibrations.第 13 题 · NOT GIVEN全文谈研究前景，没有比较近期与过去关注度，故不存在increased greatly的依据。better understanding of these purposes might shed light on the true purpose of our own dreams核对原答案页我的修订／证据笔记材料精读 · 内容与词句文章先提出梦可能帮助记忆与学习，再用章鱼睡眠行为展示观察的吸引力与局限。结尾提醒我们从动物自身的感官世界理解梦，并把跨物种研究作为理解人类梦境的一条可能路径。原文第5段Nevertheless, in many cases REM sleep does seem to have benefits. Growing evidence from birds and mammals suggests that REM sleep and dreaming are important for forming memories and learning. It is believed that when events are replayed in dreams, this helps to integrate memories into longer-term storage. As soon as animals evolved moderately complex lifestyles, they would have needed to dream in order to manage these lifestyles.鸟类和哺乳动物的证据逐渐支持快速眼动与梦对记忆、学习有重要作用。一种解释认为，梦中重现事件有助于把记忆整合到较长期储存中。关于复杂生活方式促使动物需要梦的说法仍带有推断性；it is believed和would have needed都不是对进化过程的直接录像式描述。原文第6段However, we still don't understand how this outward behaviour relates to internal experience. It seems impossible to know what it is like to be a rat or a pigeon, let alone imagine their dreamscapes. We are quick to interpret the twitching limbs and quiet barks of sleeping dogs, but the truth is that we don't know if there is an internal experience of chasing rabbits that comes along with that.However明确区分外在行为与内在体验：我们容易把睡着的狗抽动和轻吠想象成追逐兔子，但其实不知道它是否真的有这种梦境。人甚至难以知道作为老鼠或鸽子的体验是什么样，更不用说具体的梦世界。这段不是否认动物会做梦，而是限制人类解释行为时可以声称知道多少。原文第7段Another non-human dreamer offers insight here. In 2019, while making a documentary, David Scheel of Alaska Pacific University in the USA housed an octopus named Heidi in a tank in his living room. At one point, in the middle of the night, Heidi seemed to dream: her limbs and head moved, and her skin rapidly changed colour, as though she was pursuing a crab.作者引入2019年章鱼Heidi的观察。它睡眠时肢体、头部活动，皮肤迅速变色，看起来像在追螃蟹。seemed和as though表明这是依据行为作出的类比，而不是已确认章鱼确实梦到了某只螃蟹。原文第8段Similarly, a report recently emerged of a sleeping octopus apparently having a nightmare. Costello, as the octopus was called, thrashed around, extended his mantle as if trying to make himself look bigger, and squirted ink as though he were being attacked by a predator. The nightmare study is intriguing, says Scheel, but is only based on one animal. He argues that as well as outward behaviour, brain imaging is needed to show that the octopuses are replaying sequences of activities from their waking lives in dreams.另一只章鱼Costello出现剧烈扭动、伸展外套膜和喷墨，看起来像应对捕食者，因此被描述为可能做噩梦。Scheel认为这很有趣，却指出观察只涉及一只动物，还需要脑成像来支持梦中重演清醒活动的解释。本段将令人印象深刻的个例，与形成更稳固认识所需的证据区分。原文第9段The trouble is that we will never be able to experience any animal's dreams. That goes for other humans' dreams too. But we can try to imagine what these dreamscapes are like by meeting animals on their own terms. For example, vision is the dominant sense for many humans, and so our dreams are heavily visual too. Dogs primarily navigate the world using smell while spiders rely much more on vibrations.作者承认，人无法直接进入其他动物甚至其他人的梦，但可以从物种自己的感官特点出发想象其体验。人类多依赖视觉，狗依赖嗅觉，蜘蛛较依赖振动，因此不能把所有动物的梦都想成一段人类式视觉电影。on their own terms要求尊重不同物种的生活方式。原文第10段It is likely that dreaming has served multiple purposes since the first complex animals evolved. And if this is the case, it is possible that better understanding of these purposes might shed light on the true purpose of our own dreams.结尾提出，梦自复杂动物演化以来可能承担了多种功能；如果如此，更好地理解这些功能也许能帮助理解人类的梦。likely、if、possible和might层层保留条件，作者以开放的研究方向收尾，而没有给出唯一且最终的梦的用途。词语与搭配forming memories and learning形成记忆与学习两个动名词并列，说明研究讨论的功能；本段说证据逐渐支持相关作用，并未给出适用于所有物种的统一机制。integrate memories into longer-term storage把记忆整合进较长期的储存integrate...into...表示并入某个系统或结构，longer-term是相对较长期，并非永不遗忘。as well as outward behaviour除了外在行为以外as well as在此补充另一类所需证据，后面提出脑成像；不是说行为观察毫无价值。on their own terms从它们自身的条件和生活方式出发their指动物，强调不要只套用人类的感官经验；此处不是交易或谈判中的条款。shed light on帮助解释、增进对……的理解这是照亮的比喻，常用于研究贡献；比prove更克制，不表示一次研究已经解决全部问题。句子精读He argues that as well as outward behaviour, brain imaging is needed to show that the octopuses are replaying sequences of activities from their waking lives in dreams.他认为，除了外在行为，还需要脑成像来显示章鱼是否在梦中重演清醒生活中的一连串活动。He指Scheel；argues that标明这是他的研究判断。主句内容是brain imaging is needed，as well as...补充已有的行为证据。to show说明成像的目的，后面的that从句是待支持的解释；from their waking lives修饰activities，与in dreams形成清醒经历和梦中重演的关系。原文并不是说成像证据已经取得。And if this is the case, it is possible that better understanding of these purposes might shed light on the true purpose of our own dreams.如果情况确实如此，那么更好地理解这些功能，或许能帮助我们理解自身梦境的真正用途。this is the case回指上一句梦可能自复杂动物出现以来承担多种功能。it是形式主语，that从句给出真正内容；better understanding是该从句主语，these purposes指梦的多种功能。if、possible、might共同保留条件和不确定性，不能把整句改述为研究已经确定人类做梦的目的。这篇材料里可用于写作的表达shed light on帮助增进理解常见搭配是research/findings may shed light on a process or question。适合讨论基础研究的潜在贡献，同时保留may、could等程度词，不把研究方向写成已经证实的成果。用于写作：科研由政府还是企业控制的题目涉及研究激励；该表达可用于说明公共资金支持无即时商业回报的基础研究这一理由。它是写作中的政策论点，不是原文对资助模式作出的结论。读完讲解，可以把原文连起来再读一次；想保留的词句可使用已有收藏功能。",
+  "links": [
+    {
+      "text": "Cambridge IELTS 21 Academic",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=40"
+    },
+    {
+      "text": "核对原答案页",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=121"
+    },
+    {
+      "text": "用于写作：科研由政府还是企业控制的题目涉及研究激励；该表达可用于说明公共资金支持无即时商业回报的基础研究这一理由。它是写作中的政策论点，不是原文对资助模式作出的结论。",
+      "href": "#writing-prep-wc-official-science-from-rd-c21-dreams-2"
+    }
+  ],
+  "details": [
+    {
+      "id": "material-reading-rd-c21-dreams-2",
+      "title": "材料精读 · 内容与词句",
+      "open": false,
+      "visible": true
+    }
+  ],
+  "saveFields": [
+    "case-rd-c21-dreams-2-q1",
+    "case-rd-c21-dreams-2-q2",
+    "case-rd-c21-dreams-2-q3",
+    "case-rd-c21-dreams-2-q4",
+    "case-rd-c21-dreams-2-q5",
+    "case-rd-c21-dreams-2-q6",
+    "case-rd-c21-dreams-2-q7",
+    "case-rd-c21-dreams-2-q8",
+    "case-rd-c21-dreams-2-done",
+    "case-rd-c21-dreams-2-saved-at",
+    "case-rd-c21-dreams-2-revision"
+  ],
+  "images": [],
+  "audio": [],
+  "viewport": 1440,
+  "documentWidth": 1440
+}

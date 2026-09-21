@@ -1,0 +1,3426 @@
+{
+  "allCategoryRoutes": [
+    "study-listening-list",
+    "study-reading-list",
+    "study-writing-list",
+    "study-speaking-list",
+    "study-vocabulary-list",
+    "study-phrases-list",
+    "study-shared-list",
+    "study-writing1-list",
+    "study-writing2-list",
+    "practice-listening-list",
+    "practice-reading-list",
+    "practice-writing-list",
+    "practice-speaking-list",
+    "practice-vocabulary-list",
+    "practice-phrases-list",
+    "practice-shared-list",
+    "practice-writing1-list",
+    "practice-writing2-list"
+  ],
+  "results": [
+    {
+      "requested": "practice-listening-list",
+      "kind": "remaining-category",
+      "actual": "#practice-listening-list",
+      "title": "练习 / 听力 · IELTS",
+      "topLabel": "练习 / 听力",
+      "activeNav": [
+        {
+          "go": "practice",
+          "label": "练习"
+        }
+      ],
+      "panels": [
+        {
+          "id": "practice",
+          "owner": "practice",
+          "title": "练习",
+          "x": 18,
+          "y": 174,
+          "w": 354,
+          "h": 3451
+        }
+      ],
+      "headings": [
+        {
+          "tag": "H1",
+          "text": "练习 · 听力",
+          "x": 18,
+          "y": 196,
+          "w": 354,
+          "h": 36
+        },
+        {
+          "tag": "H3",
+          "text": "Listening Part 1 货物运输",
+          "x": 37,
+          "y": 847,
+          "w": 316,
+          "h": 27
+        },
+        {
+          "tag": "H3",
+          "text": "Listening Part 2 社区活动",
+          "x": 37,
+          "y": 1131,
+          "w": 316,
+          "h": 27
+        },
+        {
+          "tag": "H3",
+          "text": "Listening Part 3 远程学习",
+          "x": 37,
+          "y": 1414,
+          "w": 316,
+          "h": 27
+        },
+        {
+          "tag": "H3",
+          "text": "Listening Part 4 学习研究",
+          "x": 37,
+          "y": 1698,
+          "w": 316,
+          "h": 27
+        },
+        {
+          "tag": "H3",
+          "text": "太空与生命：样本怎样成为证据",
+          "x": 37,
+          "y": 1981,
+          "w": 316,
+          "h": 27
+        },
+        {
+          "tag": "H3",
+          "text": "运输表单：姓名、地址、尺寸与总价",
+          "x": 37,
+          "y": 2265,
+          "w": 316,
+          "h": 27
+        },
+        {
+          "tag": "H3",
+          "text": "运输保险：选项与最终决定",
+          "x": 37,
+          "y": 2549,
+          "w": 316,
+          "h": 27
+        },
+        {
+          "tag": "H3",
+          "text": "海外生活：困难与社区信息",
+          "x": 37,
+          "y": 2832,
+          "w": 316,
+          "h": 27
+        },
+        {
+          "tag": "H3",
+          "text": "远程学习：动机与时间安排",
+          "x": 37,
+          "y": 3116,
+          "w": 316,
+          "h": 27
+        },
+        {
+          "tag": "H3",
+          "text": "空乘岗位咨询 · 9月机经 Part 1",
+          "x": 37,
+          "y": 3399,
+          "w": 316,
+          "h": 27
+        }
+      ],
+      "controls": [
+        {
+          "tag": "A",
+          "id": "",
+          "text": "← 返回练习",
+          "href": "#practice",
+          "disabled": false,
+          "x": 18,
+          "y": 327,
+          "w": 74,
+          "h": 32
+        },
+        {
+          "tag": "SELECT",
+          "id": "la-practice-topic",
+          "text": "全部\n工作与生活\n教育与学习\n机经 · 2026年9月\n通用",
+          "href": null,
+          "disabled": false,
+          "x": 34,
+          "y": 459,
+          "w": 322,
+          "h": 40
+        },
+        {
+          "tag": "SELECT",
+          "id": "la-practice-part",
+          "text": "全部\nPart 1\nPart 2\nPart 3\nPart 4",
+          "href": null,
+          "disabled": false,
+          "x": 34,
+          "y": 541,
+          "w": 322,
+          "h": 40
+        },
+        {
+          "tag": "SELECT",
+          "id": "la-practice-type",
+          "text": "全部\n填空与信息整理\n机经\n理解与方法",
+          "href": null,
+          "disabled": false,
+          "x": 34,
+          "y": 623,
+          "w": 322,
+          "h": 40
+        },
+        {
+          "tag": "INPUT",
+          "id": "la-practice-search",
+          "text": "搜索本类内容",
+          "href": null,
+          "disabled": false,
+          "x": 34,
+          "y": 705,
+          "w": 322,
+          "h": 40
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "开始练习 →",
+          "href": "#pr-listening-p1",
+          "disabled": false,
+          "x": 37,
+          "y": 996,
+          "w": 74,
+          "h": 24
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "加入今天",
+          "href": null,
+          "disabled": false,
+          "x": 267,
+          "y": 986,
+          "w": 86,
+          "h": 44
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "开始练习 →",
+          "href": "#pr-listening-p2",
+          "disabled": false,
+          "x": 37,
+          "y": 1280,
+          "w": 74,
+          "h": 24
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "加入今天",
+          "href": null,
+          "disabled": false,
+          "x": 267,
+          "y": 1269,
+          "w": 86,
+          "h": 44
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "开始练习 →",
+          "href": "#pr-listening-p3",
+          "disabled": false,
+          "x": 37,
+          "y": 1563,
+          "w": 74,
+          "h": 24
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "加入今天",
+          "href": null,
+          "disabled": false,
+          "x": 267,
+          "y": 1553,
+          "w": 86,
+          "h": 44
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "开始练习 →",
+          "href": "#pr-listening-p4",
+          "disabled": false,
+          "x": 37,
+          "y": 1847,
+          "w": 74,
+          "h": 24
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "加入今天",
+          "href": null,
+          "disabled": false,
+          "x": 267,
+          "y": 1837,
+          "w": 86,
+          "h": 44
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "开始练习 →",
+          "href": "#topic-space",
+          "disabled": false,
+          "x": 37,
+          "y": 2130,
+          "w": 74,
+          "h": 24
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "加入今天",
+          "href": null,
+          "disabled": false,
+          "x": 267,
+          "y": 2120,
+          "w": 86,
+          "h": 44
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "开始练习 →",
+          "href": "#practice-listening-shipping-form",
+          "disabled": false,
+          "x": 37,
+          "y": 2414,
+          "w": 74,
+          "h": 24
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "加入今天",
+          "href": null,
+          "disabled": false,
+          "x": 267,
+          "y": 2404,
+          "w": 86,
+          "h": 44
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "开始练习 →",
+          "href": "#practice-listening-insurance",
+          "disabled": false,
+          "x": 37,
+          "y": 2697,
+          "w": 74,
+          "h": 24
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "加入今天",
+          "href": null,
+          "disabled": false,
+          "x": 267,
+          "y": 2687,
+          "w": 86,
+          "h": 44
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "开始练习 →",
+          "href": "#practice-listening-overseas",
+          "disabled": false,
+          "x": 37,
+          "y": 2981,
+          "w": 74,
+          "h": 24
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "加入今天",
+          "href": null,
+          "disabled": false,
+          "x": 267,
+          "y": 2971,
+          "w": 86,
+          "h": 44
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "开始练习 →",
+          "href": "#practice-listening-distance-learning",
+          "disabled": false,
+          "x": 37,
+          "y": 3265,
+          "w": 74,
+          "h": 24
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "加入今天",
+          "href": null,
+          "disabled": false,
+          "x": 267,
+          "y": 3254,
+          "w": 86,
+          "h": 44
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "开始练习 →",
+          "href": "#pr-jijing-202609-listening-01-v1",
+          "disabled": false,
+          "x": 37,
+          "y": 3572,
+          "w": 74,
+          "h": 24
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "加入今天",
+          "href": null,
+          "disabled": false,
+          "x": 267,
+          "y": 3562,
+          "w": 86,
+          "h": 44
+        }
+      ],
+      "hiddenVisible": [],
+      "bodyWidth": 390,
+      "viewport": 390,
+      "scrollY": 7,
+      "visibleText": "练习 · 听力\n\n10 项内容 · 按需要选一项开始。\n\n← 返回练习\n0% · 0 / 10 单元\n话题\n全部\n工作与生活\n教育与学习\n机经 · 2026年9月\n通用\nPart\n全部\nPart 1\nPart 2\nPart 3\nPart 4\n题型／内容\n全部\n填空与信息整理\n机经\n理解与方法\n内容或题型\n\n听力 · 通用\n\nListening Part 1 货物运输\n\n直接作答，完成后核对。\n\n0% · 0 / 2 完成\n开始练习 →\n加入今天\n\n听力 · 通用\n\nListening Part 2 社区活动\n\n直接作答，完成后核对。\n\n0% · 0 / 6 完成\n开始练习 →\n加入今天\n\n听力 · 教育与学习\n\nListening Part 3 远程学习\n\n直接作答，完成后核对。\n\n0% · 0 / 4 完成\n开始练习 →\n加入今天\n\n听力 · 教育与学习\n\nListening Part 4 学习研究\n\n直接作答，完成后核对。\n\n0% · 0 / 5 完成\n开始练习 →\n加入今天\n\n听力 · 通用\n\n太空与生命：样本怎样成为证据\n\n直接作答，完成后核对。\n\n0% · 0 / 5 完成\n开始练习 →\n加入今天\n\n听力 · 工作与生活\n\n运输表单：姓名、地址、尺寸与总价\n\n听完整题段，作答后核对原稿与答案。\n\n0% · 0 / 8 完成\n开始练习 →\n加入今天\n\n听力 · 工作与生活\n\n运输保险：选项与最终决定\n\n听完整题段，作答后核对原稿与答案。\n\n0% · 0 / 2 完成\n开始练习 →\n加入今天\n\n听力 · 工作与生活\n\n海外生活：困难与社区信息\n\n听完整题段，作答后核对原稿与答案。\n\n0% · 0 / 6 完成\n开始练习 →\n加入今天\n\n听力 · 工作与生活\n\n远程学习：动机与时间安排\n\n听完整题段，作答后核对原稿与答案。\n\n0% · 0 / 4 完成\n开始练习 →\n加入今天\n\n听力 · 机经 · 2026年9月\n\n空乘岗位咨询 · 9月机经 Part 1\n\n10题；作答后核对，并回到同一材料精读 · 难度系数 2/5 · 较易。\n\n0% · 0 / 11 作答与核对\n开始练习 →\n加入今天",
+      "overflow": []
+    },
+    {
+      "requested": "practice-reading-list",
+      "kind": "remaining-category",
+      "actual": "#practice-reading-list",
+      "title": "练习 / 阅读 · IELTS",
+      "topLabel": "练习 / 阅读",
+      "activeNav": [
+        {
+          "go": "practice",
+          "label": "练习"
+        }
+      ],
+      "panels": [
+        {
+          "id": "practice",
+          "owner": "practice",
+          "title": "练习",
+          "x": 18,
+          "y": -2592,
+          "w": 354,
+          "h": 17418
+        }
+      ],
+      "headings": [
+        {
+          "tag": "H1",
+          "text": "练习 · 阅读",
+          "x": 18,
+          "y": -2570,
+          "w": 354,
+          "h": 36
+        },
+        {
+          "tag": "H3",
+          "text": "The Davies Sisters｜成长背景与收藏起点",
+          "x": 37,
+          "y": -2001,
+          "w": 316,
+          "h": 53
+        },
+        {
+          "tag": "H3",
+          "text": "The Davies Sisters｜印象派转向与战时收藏",
+          "x": 37,
+          "y": -1691,
+          "w": 316,
+          "h": 53
+        },
+        {
+          "tag": "H3",
+          "text": "The Davies Sisters｜收藏停止与文化遗产",
+          "x": 37,
+          "y": -1380,
+          "w": 316,
+          "h": 53
+        },
+        {
+          "tag": "H3",
+          "text": "Why we need silence｜噪声风险与城市降噪",
+          "x": 37,
+          "y": -1070,
+          "w": 316,
+          "h": 53
+        },
+        {
+          "tag": "H3",
+          "text": "Why we need silence｜漂浮舱的两项实验",
+          "x": 37,
+          "y": -760,
+          "w": 316,
+          "h": 53
+        },
+        {
+          "tag": "H3",
+          "text": "Why we need silence｜主动安静与短时收益",
+          "x": 37,
+          "y": -450,
+          "w": 316,
+          "h": 53
+        },
+        {
+          "tag": "H3",
+          "text": "The World of Sugar｜全球贸易与误解纠正",
+          "x": 37,
+          "y": -140,
+          "w": 316,
+          "h": 53
+        },
+        {
+          "tag": "H3",
+          "text": "The World of Sugar｜劳动组织与行业权力",
+          "x": 37,
+          "y": 170,
+          "w": 316,
+          "h": 53
+        },
+        {
+          "tag": "H3",
+          "text": "The World of Sugar｜工业化、消费与作者立场",
+          "x": 37,
+          "y": 480,
+          "w": 316,
+          "h": 53
+        },
+        {
+          "tag": "H3",
+          "text": "Do animals dream?｜跨物种睡眠研究",
+          "x": 37,
+          "y": 791,
+          "w": 316,
+          "h": 53
+        },
+        {
+          "tag": "H3",
+          "text": "Do animals dream?｜章鱼行为与研究边界",
+          "x": 37,
+          "y": 1101,
+          "w": 316,
+          "h": 53
+        },
+        {
+          "tag": "H3",
+          "text": "Mapungubwe｜农业、居所与社会等级",
+          "x": 37,
+          "y": 1411,
+          "w": 316,
+          "h": 53
+        },
+        {
+          "tag": "H3",
+          "text": "Mapungubwe｜贸易、器物与衰落",
+          "x": 37,
+          "y": 1721,
+          "w": 316,
+          "h": 27
+        },
+        {
+          "tag": "H3",
+          "text": "Artificial Intelligence｜公众想象与解决一切的误区",
+          "x": 37,
+          "y": 2005,
+          "w": 316,
+          "h": 53
+        },
+        {
+          "tag": "H3",
+          "text": "Artificial Intelligence｜公共部门实施条件",
+          "x": 37,
+          "y": 2315,
+          "w": 316,
+          "h": 53
+        },
+        {
+          "tag": "H3",
+          "text": "Artificial Intelligence｜部署边界、医疗与司法案例",
+          "x": 37,
+          "y": 2625,
+          "w": 316,
+          "h": 53
+        },
+        {
+          "tag": "H3",
+          "text": "Miles Davis：独特音色、双重教育与音乐遗产",
+          "x": 37,
+          "y": 2935,
+          "w": 316,
+          "h": 53
+        },
+        {
+          "tag": "H3",
+          "text": "Miles Davis：困境、跨界与创造力",
+          "x": 37,
+          "y": 3245,
+          "w": 316,
+          "h": 27
+        },
+        {
+          "tag": "H3",
+          "text": "Older workers：薪资条件与两种继续工作的动机",
+          "x": 37,
+          "y": 3529,
+          "w": 316,
+          "h": 53
+        },
+        {
+          "tag": "H3",
+          "text": "蜣螂隧道：用深度和形状读图",
+          "x": 37,
+          "y": 3839,
+          "w": 316,
+          "h": 27
+        },
+        {
+          "tag": "H3",
+          "text": "蜣螂物种：沿表格列名核对信息",
+          "x": 37,
+          "y": 4123,
+          "w": 316,
+          "h": 27
+        },
+        {
+          "tag": "H3",
+          "text": "产品召回：批次、退款与联系人",
+          "x": 37,
+          "y": 4406,
+          "w": 316,
+          "h": 27
+        },
+        {
+          "tag": "H3",
+          "text": "Saving the saiga · 生存适应与早期数量变化",
+          "x": 37,
+          "y": 4690,
+          "w": 316,
+          "h": 53
+        },
+        {
+          "tag": "H3",
+          "text": "Saving the saiga · 栖息地、疾病、气候与恢复",
+          "x": 37,
+          "y": 5000,
+          "w": 316,
+          "h": 53
+        },
+        {
+          "tag": "H3",
+          "text": "Dar es Salaam · 城市扩张与交通方案",
+          "x": 37,
+          "y": 5310,
+          "w": 316,
+          "h": 53
+        },
+        {
+          "tag": "H3",
+          "text": "Dar es Salaam · 公交设计与实际故障",
+          "x": 37,
+          "y": 5620,
+          "w": 316,
+          "h": 53
+        },
+        {
+          "tag": "H3",
+          "text": "Rethinking the Past · 发现怎样改变既有认识",
+          "x": 37,
+          "y": 5930,
+          "w": 316,
+          "h": 53
+        },
+        {
+          "tag": "H3",
+          "text": "Rethinking the Past · 艺术年代、研究争议与脑容量",
+          "x": 37,
+          "y": 6240,
+          "w": 316,
+          "h": 53
+        },
+        {
+          "tag": "H3",
+          "text": "Rethinking the Past · 渐进变化与性别预设",
+          "x": 37,
+          "y": 6551,
+          "w": 316,
+          "h": 53
+        },
+        {
+          "tag": "H3",
+          "text": "Water hyacinth · 入侵植物与能源问题",
+          "x": 37,
+          "y": 6861,
+          "w": 316,
+          "h": 53
+        },
+        {
+          "tag": "H3",
+          "text": "Water hyacinth · 沼气流程、收益与价格障碍",
+          "x": 37,
+          "y": 7171,
+          "w": 316,
+          "h": 53
+        },
+        {
+          "tag": "H3",
+          "text": "Multilingualism · 迁移背景与研究目标",
+          "x": 37,
+          "y": 7481,
+          "w": 316,
+          "h": 53
+        },
+        {
+          "tag": "H3",
+          "text": "Multilingualism · 教学语言与出人意料的结果",
+          "x": 37,
+          "y": 7791,
+          "w": 316,
+          "h": 53
+        },
+        {
+          "tag": "H3",
+          "text": "The Globemakers · 从生日礼物到制作难题",
+          "x": 37,
+          "y": 8101,
+          "w": 316,
+          "h": 53
+        },
+        {
+          "tag": "H3",
+          "text": "The Globemakers · 制作细节、历史匠人与书评判断",
+          "x": 37,
+          "y": 8412,
+          "w": 316,
+          "h": 53
+        },
+        {
+          "tag": "H3",
+          "text": "鸟类起源：理论提出、反驳与新证据",
+          "x": 37,
+          "y": 8722,
+          "w": 316,
+          "h": 27
+        },
+        {
+          "tag": "H3",
+          "text": "鸟类起源：两方论点与过渡化石",
+          "x": 37,
+          "y": 9005,
+          "w": 316,
+          "h": 27
+        },
+        {
+          "tag": "H3",
+          "text": "健康观念变化：年份、十年与三大领域",
+          "x": 37,
+          "y": 9289,
+          "w": 316,
+          "h": 53
+        },
+        {
+          "tag": "H3",
+          "text": "阅读 · TRUE / FALSE / NOT GIVEN The Davies Sisters",
+          "x": 37,
+          "y": 9599,
+          "w": 316,
+          "h": 53
+        },
+        {
+          "tag": "H3",
+          "text": "阅读 · 段落标题 Miles Davis",
+          "x": 37,
+          "y": 9909,
+          "w": 316,
+          "h": 27
+        },
+        {
+          "tag": "H3",
+          "text": "阅读 · 人物匹配 Why we need silence",
+          "x": 37,
+          "y": 10193,
+          "w": 316,
+          "h": 53
+        },
+        {
+          "tag": "H3",
+          "text": "阅读 · 笔记填空 The Davies Sisters",
+          "x": 37,
+          "y": 10503,
+          "w": 316,
+          "h": 27
+        },
+        {
+          "tag": "H3",
+          "text": "阅读 · 选择题 The World of Sugar",
+          "x": 37,
+          "y": 10786,
+          "w": 316,
+          "h": 27
+        },
+        {
+          "tag": "H3",
+          "text": "阅读 · 摘要选词 Sugar cultivation and production",
+          "x": 37,
+          "y": 11070,
+          "w": 316,
+          "h": 53
+        },
+        {
+          "tag": "H3",
+          "text": "司法与技术：算法风险的真实阅读语境",
+          "x": 37,
+          "y": 11380,
+          "w": 316,
+          "h": 53
+        },
+        {
+          "tag": "H3",
+          "text": "公共治理：公交方案怎样落地",
+          "x": 37,
+          "y": 11690,
+          "w": 316,
+          "h": 27
+        },
+        {
+          "tag": "H3",
+          "text": "社会责任：财富如何用于公共文化",
+          "x": 37,
+          "y": 11974,
+          "w": 316,
+          "h": 27
+        },
+        {
+          "tag": "H3",
+          "text": "环境保护：威胁之间的关系",
+          "x": 37,
+          "y": 12257,
+          "w": 316,
+          "h": 27
+        },
+        {
+          "tag": "H3",
+          "text": "健康与消费：读出作者评价",
+          "x": 37,
+          "y": 12541,
+          "w": 316,
+          "h": 27
+        },
+        {
+          "tag": "H3",
+          "text": "日常生活：读懂产品召回通知",
+          "x": 37,
+          "y": 12825,
+          "w": 316,
+          "h": 27
+        },
+        {
+          "tag": "H3",
+          "text": "食物与消费：来源、产业与后果",
+          "x": 37,
+          "y": 13108,
+          "w": 316,
+          "h": 27
+        },
+        {
+          "tag": "H3",
+          "text": "旅行活动：一份骑行说明的完整语境",
+          "x": 37,
+          "y": 13392,
+          "w": 316,
+          "h": 27
+        },
+        {
+          "tag": "H3",
+          "text": "媒体信息：新闻承诺与实际能力",
+          "x": 37,
+          "y": 13675,
+          "w": 316,
+          "h": 27
+        },
+        {
+          "tag": "H3",
+          "text": "阅读 · 海洋资源：捕捞与鱼群恢复",
+          "x": 37,
+          "y": 13959,
+          "w": 316,
+          "h": 27
+        },
+        {
+          "tag": "H3",
+          "text": "罐头食品简史 · A Brief History Of Canned Food",
+          "x": 37,
+          "y": 14242,
+          "w": 316,
+          "h": 53
+        },
+        {
+          "tag": "H3",
+          "text": "语言起源 · The origin of language",
+          "x": 37,
+          "y": 14576,
+          "w": 316,
+          "h": 27
+        }
+      ],
+      "controls": [
+        {
+          "tag": "A",
+          "id": "",
+          "text": "← 返回练习",
+          "href": "#practice",
+          "disabled": false,
+          "x": 18,
+          "y": -2439,
+          "w": 74,
+          "h": 32
+        },
+        {
+          "tag": "SELECT",
+          "id": "la-practice-topic",
+          "text": "全部\n健康与消费\n城市与交通\n工作与生活\n教育与学习\n旅行与地方\n机经 · 2026年9月\n机经 · 9月21日新增\n环境与自然\n科技\n通用",
+          "href": null,
+          "disabled": false,
+          "x": 34,
+          "y": -2307,
+          "w": 322,
+          "h": 40
+        },
+        {
+          "tag": "SELECT",
+          "id": "la-practice-type",
+          "text": "全部\n判断题\n匹配题\n地图\n填空与信息整理\n机经\n标题匹配\n流程图\n理解与方法\n简答题\n选择题",
+          "href": null,
+          "disabled": false,
+          "x": 34,
+          "y": -2225,
+          "w": 322,
+          "h": 40
+        },
+        {
+          "tag": "INPUT",
+          "id": "la-practice-search",
+          "text": "搜索本类内容",
+          "href": null,
+          "disabled": false,
+          "x": 34,
+          "y": -2143,
+          "w": 322,
+          "h": 40
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "开始练习 →",
+          "href": "#reading-case-rd-c21-davies-1",
+          "disabled": false,
+          "x": 37,
+          "y": -1825,
+          "w": 74,
+          "h": 24
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "加入今天",
+          "href": null,
+          "disabled": false,
+          "x": 267,
+          "y": -1835,
+          "w": 86,
+          "h": 44
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "开始练习 →",
+          "href": "#reading-case-rd-c21-davies-2",
+          "disabled": false,
+          "x": 37,
+          "y": -1515,
+          "w": 74,
+          "h": 24
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "加入今天",
+          "href": null,
+          "disabled": false,
+          "x": 267,
+          "y": -1525,
+          "w": 86,
+          "h": 44
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "开始练习 →",
+          "href": "#reading-case-rd-c21-davies-3",
+          "disabled": false,
+          "x": 37,
+          "y": -1205,
+          "w": 74,
+          "h": 24
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "加入今天",
+          "href": null,
+          "disabled": false,
+          "x": 267,
+          "y": -1215,
+          "w": 86,
+          "h": 44
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "开始练习 →",
+          "href": "#reading-case-rd-c21-silence-1",
+          "disabled": false,
+          "x": 37,
+          "y": -895,
+          "w": 74,
+          "h": 24
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "加入今天",
+          "href": null,
+          "disabled": false,
+          "x": 267,
+          "y": -905,
+          "w": 86,
+          "h": 44
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "开始练习 →",
+          "href": "#reading-case-rd-c21-silence-2",
+          "disabled": false,
+          "x": 37,
+          "y": -585,
+          "w": 74,
+          "h": 24
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "加入今天",
+          "href": null,
+          "disabled": false,
+          "x": 267,
+          "y": -595,
+          "w": 86,
+          "h": 44
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "开始练习 →",
+          "href": "#reading-case-rd-c21-silence-3",
+          "disabled": false,
+          "x": 37,
+          "y": -274,
+          "w": 74,
+          "h": 24
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "加入今天",
+          "href": null,
+          "disabled": false,
+          "x": 267,
+          "y": -285,
+          "w": 86,
+          "h": 44
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "开始练习 →",
+          "href": "#reading-case-rd-c21-sugar-1",
+          "disabled": false,
+          "x": 37,
+          "y": 36,
+          "w": 74,
+          "h": 24
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "加入今天",
+          "href": null,
+          "disabled": false,
+          "x": 267,
+          "y": 26,
+          "w": 86,
+          "h": 44
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "开始练习 →",
+          "href": "#reading-case-rd-c21-sugar-2",
+          "disabled": false,
+          "x": 37,
+          "y": 346,
+          "w": 74,
+          "h": 24
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "加入今天",
+          "href": null,
+          "disabled": false,
+          "x": 267,
+          "y": 336,
+          "w": 86,
+          "h": 44
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "开始练习 →",
+          "href": "#reading-case-rd-c21-sugar-3",
+          "disabled": false,
+          "x": 37,
+          "y": 656,
+          "w": 74,
+          "h": 24
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "加入今天",
+          "href": null,
+          "disabled": false,
+          "x": 267,
+          "y": 646,
+          "w": 86,
+          "h": 44
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "开始练习 →",
+          "href": "#reading-case-rd-c21-dreams-1",
+          "disabled": false,
+          "x": 37,
+          "y": 966,
+          "w": 74,
+          "h": 24
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "加入今天",
+          "href": null,
+          "disabled": false,
+          "x": 267,
+          "y": 956,
+          "w": 86,
+          "h": 44
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "开始练习 →",
+          "href": "#reading-case-rd-c21-dreams-2",
+          "disabled": false,
+          "x": 37,
+          "y": 1276,
+          "w": 74,
+          "h": 24
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "加入今天",
+          "href": null,
+          "disabled": false,
+          "x": 267,
+          "y": 1266,
+          "w": 86,
+          "h": 44
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "开始练习 →",
+          "href": "#reading-case-rd-c21-mapungubwe-1",
+          "disabled": false,
+          "x": 37,
+          "y": 1586,
+          "w": 74,
+          "h": 24
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "加入今天",
+          "href": null,
+          "disabled": false,
+          "x": 267,
+          "y": 1576,
+          "w": 86,
+          "h": 44
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "开始练习 →",
+          "href": "#reading-case-rd-c21-mapungubwe-2",
+          "disabled": false,
+          "x": 37,
+          "y": 1870,
+          "w": 74,
+          "h": 24
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "加入今天",
+          "href": null,
+          "disabled": false,
+          "x": 267,
+          "y": 1860,
+          "w": 86,
+          "h": 44
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "开始练习 →",
+          "href": "#reading-case-rd-c21-ai-1",
+          "disabled": false,
+          "x": 37,
+          "y": 2180,
+          "w": 74,
+          "h": 24
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "加入今天",
+          "href": null,
+          "disabled": false,
+          "x": 267,
+          "y": 2170,
+          "w": 86,
+          "h": 44
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "开始练习 →",
+          "href": "#reading-case-rd-c21-ai-2",
+          "disabled": false,
+          "x": 37,
+          "y": 2490,
+          "w": 74,
+          "h": 24
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "加入今天",
+          "href": null,
+          "disabled": false,
+          "x": 267,
+          "y": 2480,
+          "w": 86,
+          "h": 44
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "开始练习 →",
+          "href": "#reading-case-rd-c21-ai-3",
+          "disabled": false,
+          "x": 37,
+          "y": 2801,
+          "w": 74,
+          "h": 24
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "加入今天",
+          "href": null,
+          "disabled": false,
+          "x": 267,
+          "y": 2790,
+          "w": 86,
+          "h": 44
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "开始练习 →",
+          "href": "#reading-case-rd-official-miles-1",
+          "disabled": false,
+          "x": 37,
+          "y": 3111,
+          "w": 74,
+          "h": 24
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "加入今天",
+          "href": null,
+          "disabled": false,
+          "x": 267,
+          "y": 3101,
+          "w": 86,
+          "h": 44
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "开始练习 →",
+          "href": "#reading-case-rd-official-miles-2",
+          "disabled": false,
+          "x": 37,
+          "y": 3394,
+          "w": 74,
+          "h": 24
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "加入今天",
+          "href": null,
+          "disabled": false,
+          "x": 267,
+          "y": 3384,
+          "w": 86,
+          "h": 44
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "开始练习 →",
+          "href": "#reading-case-rd-official-older-workers",
+          "disabled": false,
+          "x": 37,
+          "y": 3704,
+          "w": 74,
+          "h": 24
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "加入今天",
+          "href": null,
+          "disabled": false,
+          "x": 267,
+          "y": 3694,
+          "w": 86,
+          "h": 44
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "开始练习 →",
+          "href": "#reading-case-rd-official-diagram",
+          "disabled": false,
+          "x": 37,
+          "y": 3988,
+          "w": 74,
+          "h": 24
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "加入今天",
+          "href": null,
+          "disabled": false,
+          "x": 267,
+          "y": 3978,
+          "w": 86,
+          "h": 44
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "开始练习 →",
+          "href": "#reading-case-rd-official-table",
+          "disabled": false,
+          "x": 37,
+          "y": 4272,
+          "w": 74,
+          "h": 24
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "加入今天",
+          "href": null,
+          "disabled": false,
+          "x": 267,
+          "y": 4261,
+          "w": 86,
+          "h": 44
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "开始练习 →",
+          "href": "#reading-case-rd-official-short-answer",
+          "disabled": false,
+          "x": 37,
+          "y": 4555,
+          "w": 74,
+          "h": 24
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "加入今天",
+          "href": null,
+          "disabled": false,
+          "x": 267,
+          "y": 4545,
+          "w": 86,
+          "h": 44
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "开始练习 →",
+          "href": "#reading-case-rd-c21-t3-saiga-adaptation",
+          "disabled": false,
+          "x": 37,
+          "y": 4865,
+          "w": 74,
+          "h": 24
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "加入今天",
+          "href": null,
+          "disabled": false,
+          "x": 267,
+          "y": 4855,
+          "w": 86,
+          "h": 44
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "开始练习 →",
+          "href": "#reading-case-rd-c21-t3-saiga-threats",
+          "disabled": false,
+          "x": 37,
+          "y": 5175,
+          "w": 74,
+          "h": 24
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "加入今天",
+          "href": null,
+          "disabled": false,
+          "x": 267,
+          "y": 5165,
+          "w": 86,
+          "h": 44
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "开始练习 →",
+          "href": "#reading-case-rd-c21-t3-dart-city",
+          "disabled": false,
+          "x": 37,
+          "y": 5486,
+          "w": 74,
+          "h": 24
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "加入今天",
+          "href": null,
+          "disabled": false,
+          "x": 267,
+          "y": 5475,
+          "w": 86,
+          "h": 44
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "开始练习 →",
+          "href": "#reading-case-rd-c21-t3-dart-system",
+          "disabled": false,
+          "x": 37,
+          "y": 5796,
+          "w": 74,
+          "h": 24
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "加入今天",
+          "href": null,
+          "disabled": false,
+          "x": 267,
+          "y": 5786,
+          "w": 86,
+          "h": 44
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "开始练习 →",
+          "href": "#reading-case-rd-c21-t3-past-discoveries",
+          "disabled": false,
+          "x": 37,
+          "y": 6106,
+          "w": 74,
+          "h": 24
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "加入今天",
+          "href": null,
+          "disabled": false,
+          "x": 267,
+          "y": 6096,
+          "w": 86,
+          "h": 44
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "开始练习 →",
+          "href": "#reading-case-rd-c21-t3-past-art",
+          "disabled": false,
+          "x": 37,
+          "y": 6416,
+          "w": 74,
+          "h": 24
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "加入今天",
+          "href": null,
+          "disabled": false,
+          "x": 267,
+          "y": 6406,
+          "w": 86,
+          "h": 44
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "开始练习 →",
+          "href": "#reading-case-rd-c21-t3-past-preconceptions",
+          "disabled": false,
+          "x": 37,
+          "y": 6726,
+          "w": 74,
+          "h": 24
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "加入今天",
+          "href": null,
+          "disabled": false,
+          "x": 267,
+          "y": 6716,
+          "w": 86,
+          "h": 44
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "开始练习 →",
+          "href": "#reading-case-rd-c21-t4-hyacinth-problem",
+          "disabled": false,
+          "x": 37,
+          "y": 7036,
+          "w": 74,
+          "h": 24
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "加入今天",
+          "href": null,
+          "disabled": false,
+          "x": 267,
+          "y": 7026,
+          "w": 86,
+          "h": 44
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "开始练习 →",
+          "href": "#reading-case-rd-c21-t4-hyacinth-biogas",
+          "disabled": false,
+          "x": 37,
+          "y": 7346,
+          "w": 74,
+          "h": 24
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "加入今天",
+          "href": null,
+          "disabled": false,
+          "x": 267,
+          "y": 7336,
+          "w": 86,
+          "h": 44
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "开始练习 →",
+          "href": "#reading-case-rd-c21-t4-multilingual-background",
+          "disabled": false,
+          "x": 37,
+          "y": 7657,
+          "w": 74,
+          "h": 24
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "加入今天",
+          "href": null,
+          "disabled": false,
+          "x": 267,
+          "y": 7646,
+          "w": 86,
+          "h": 44
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "开始练习 →",
+          "href": "#reading-case-rd-c21-t4-multilingual-findings",
+          "disabled": false,
+          "x": 37,
+          "y": 7967,
+          "w": 74,
+          "h": 24
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "加入今天",
+          "href": null,
+          "disabled": false,
+          "x": 267,
+          "y": 7957,
+          "w": 86,
+          "h": 44
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "开始练习 →",
+          "href": "#reading-case-rd-c21-t4-globe-search",
+          "disabled": false,
+          "x": 37,
+          "y": 8277,
+          "w": 74,
+          "h": 24
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "加入今天",
+          "href": null,
+          "disabled": false,
+          "x": 267,
+          "y": 8267,
+          "w": 86,
+          "h": 44
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "开始练习 →",
+          "href": "#reading-case-rd-c21-t4-globe-craft",
+          "disabled": false,
+          "x": 37,
+          "y": 8587,
+          "w": 74,
+          "h": 24
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "加入今天",
+          "href": null,
+          "disabled": false,
+          "x": 267,
+          "y": 8577,
+          "w": 86,
+          "h": 44
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "开始练习 →",
+          "href": "#reading-case-rd-gap-birds-sentence-history",
+          "disabled": false,
+          "x": 37,
+          "y": 8871,
+          "w": 74,
+          "h": 24
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "加入今天",
+          "href": null,
+          "disabled": false,
+          "x": 267,
+          "y": 8861,
+          "w": 86,
+          "h": 44
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "开始练习 →",
+          "href": "#reading-case-rd-gap-birds-sentence-debate",
+          "disabled": false,
+          "x": 37,
+          "y": 9154,
+          "w": 74,
+          "h": 24
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "加入今天",
+          "href": null,
+          "disabled": false,
+          "x": 267,
+          "y": 9144,
+          "w": 86,
+          "h": 44
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "开始练习 →",
+          "href": "#reading-case-rd-gap-academic-short-answer-health",
+          "disabled": false,
+          "x": 37,
+          "y": 9464,
+          "w": 74,
+          "h": 24
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "加入今天",
+          "href": null,
+          "disabled": false,
+          "x": 267,
+          "y": 9454,
+          "w": 86,
+          "h": 44
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "开始练习 →",
+          "href": "#pr-reading-davies-statements",
+          "disabled": false,
+          "x": 37,
+          "y": 9775,
+          "w": 74,
+          "h": 24
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "加入今天",
+          "href": null,
+          "disabled": false,
+          "x": 267,
+          "y": 9764,
+          "w": 86,
+          "h": 44
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "开始练习 →",
+          "href": "#pr-reading-miles-headings",
+          "disabled": false,
+          "x": 37,
+          "y": 10058,
+          "w": 74,
+          "h": 24
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "加入今天",
+          "href": null,
+          "disabled": false,
+          "x": 267,
+          "y": 10048,
+          "w": 86,
+          "h": 44
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "开始练习 →",
+          "href": "#pr-reading-silence-people",
+          "disabled": false,
+          "x": 37,
+          "y": 10368,
+          "w": 74,
+          "h": 24
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "加入今天",
+          "href": null,
+          "disabled": false,
+          "x": 267,
+          "y": 10358,
+          "w": 86,
+          "h": 44
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "开始练习 →",
+          "href": "#pr-reading-davies-notes",
+          "disabled": false,
+          "x": 37,
+          "y": 10652,
+          "w": 74,
+          "h": 24
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "加入今天",
+          "href": null,
+          "disabled": false,
+          "x": 267,
+          "y": 10642,
+          "w": 86,
+          "h": 44
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "开始练习 →",
+          "href": "#pr-reading-sugar-choice",
+          "disabled": false,
+          "x": 37,
+          "y": 10935,
+          "w": 74,
+          "h": 24
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "加入今天",
+          "href": null,
+          "disabled": false,
+          "x": 267,
+          "y": 10925,
+          "w": 86,
+          "h": 44
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "开始练习 →",
+          "href": "#pr-reading-sugar-summary",
+          "disabled": false,
+          "x": 37,
+          "y": 11246,
+          "w": 74,
+          "h": 24
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "加入今天",
+          "href": null,
+          "disabled": false,
+          "x": 267,
+          "y": 11235,
+          "w": 86,
+          "h": 44
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "开始练习 →",
+          "href": "#topic-crime",
+          "disabled": false,
+          "x": 37,
+          "y": 11556,
+          "w": 74,
+          "h": 24
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "加入今天",
+          "href": null,
+          "disabled": false,
+          "x": 267,
+          "y": 11546,
+          "w": 86,
+          "h": 44
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "开始练习 →",
+          "href": "#topic-government",
+          "disabled": false,
+          "x": 37,
+          "y": 11839,
+          "w": 74,
+          "h": 24
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "加入今天",
+          "href": null,
+          "disabled": false,
+          "x": 267,
+          "y": 11829,
+          "w": 86,
+          "h": 44
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "开始练习 →",
+          "href": "#topic-society",
+          "disabled": false,
+          "x": 37,
+          "y": 12123,
+          "w": 74,
+          "h": 24
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "加入今天",
+          "href": null,
+          "disabled": false,
+          "x": 267,
+          "y": 12113,
+          "w": 86,
+          "h": 44
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "开始练习 →",
+          "href": "#topic-environment",
+          "disabled": false,
+          "x": 37,
+          "y": 12406,
+          "w": 74,
+          "h": 24
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "加入今天",
+          "href": null,
+          "disabled": false,
+          "x": 267,
+          "y": 12396,
+          "w": 86,
+          "h": 44
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "开始练习 →",
+          "href": "#topic-health",
+          "disabled": false,
+          "x": 37,
+          "y": 12690,
+          "w": 74,
+          "h": 24
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "加入今天",
+          "href": null,
+          "disabled": false,
+          "x": 267,
+          "y": 12680,
+          "w": 86,
+          "h": 44
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "开始练习 →",
+          "href": "#topic-everyday",
+          "disabled": false,
+          "x": 37,
+          "y": 12974,
+          "w": 74,
+          "h": 24
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "加入今天",
+          "href": null,
+          "disabled": false,
+          "x": 267,
+          "y": 12963,
+          "w": 86,
+          "h": 44
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "开始练习 →",
+          "href": "#learn-background_food_consumption",
+          "disabled": false,
+          "x": 37,
+          "y": 13257,
+          "w": 74,
+          "h": 24
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "加入今天",
+          "href": null,
+          "disabled": false,
+          "x": 267,
+          "y": 13247,
+          "w": 86,
+          "h": 44
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "开始练习 →",
+          "href": "#learn-background_travel_tourism",
+          "disabled": false,
+          "x": 37,
+          "y": 13541,
+          "w": 74,
+          "h": 24
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "加入今天",
+          "href": null,
+          "disabled": false,
+          "x": 267,
+          "y": 13530,
+          "w": 86,
+          "h": 44
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "开始练习 →",
+          "href": "#learn-background_media_advertising",
+          "disabled": false,
+          "x": 37,
+          "y": 13824,
+          "w": 74,
+          "h": 24
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "加入今天",
+          "href": null,
+          "disabled": false,
+          "x": 267,
+          "y": 13814,
+          "w": 86,
+          "h": 44
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "开始练习 →",
+          "href": "#pr-background-fisheries",
+          "disabled": false,
+          "x": 37,
+          "y": 14108,
+          "w": 74,
+          "h": 24
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "加入今天",
+          "href": null,
+          "disabled": false,
+          "x": 267,
+          "y": 14098,
+          "w": 86,
+          "h": 44
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "开始练习 →",
+          "href": "#pr-jijing-202609-reading-01-v1",
+          "disabled": false,
+          "x": 37,
+          "y": 14442,
+          "w": 74,
+          "h": 24
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "加入今天",
+          "href": null,
+          "disabled": false,
+          "x": 267,
+          "y": 14432,
+          "w": 86,
+          "h": 44
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "开始练习 →",
+          "href": "#pr-jiufen-20260921-origin-language-v1",
+          "disabled": false,
+          "x": 37,
+          "y": 14773,
+          "w": 74,
+          "h": 24
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "加入今天",
+          "href": null,
+          "disabled": false,
+          "x": 267,
+          "y": 14763,
+          "w": 86,
+          "h": 44
+        }
+      ],
+      "hiddenVisible": [],
+      "bodyWidth": 390,
+      "viewport": 390,
+      "scrollY": 2772,
+      "visibleText": "练习 · 阅读\n\n56 项内容 · 按需要选一项开始。\n\n← 返回练习\n0% · 0 / 56 单元\n话题\n全部\n健康与消费\n城市与交通\n工作与生活\n教育与学习\n旅行与地方\n机经 · 2026年9月\n机经 · 9月21日新增\n环境与自然\n科技\n通用\n题型／内容\n全部\n判断题\n匹配题\n地图\n填空与信息整理\n机经\n标题匹配\n流程图\n理解与方法\n简答题\n选择题\n内容或题型\n\n阅读 · 教育与学习\n\nThe Davies Sisters｜成长背景与收藏起点\n\n直接作答，完成后核对。\n\n0% · 0 / 1 完成\n开始练习 →\n加入今天\n\n阅读 · 教育与学习\n\nThe Davies Sisters｜印象派转向与战时收藏\n\n直接作答，完成后核对。\n\n0% · 0 / 1 完成\n开始练习 →\n加入今天\n\n阅读 · 教育与学习\n\nThe Davies Sisters｜收藏停止与文化遗产\n\n直接作答，完成后核对。\n\n0% · 0 / 1 完成\n开始练习 →\n加入今天\n\n阅读 · 城市与交通\n\nWhy we need silence｜噪声风险与城市降噪\n\n直接作答，完成后核对。\n\n0% · 0 / 1 完成\n开始练习 →\n加入今天\n\n阅读 · 城市与交通\n\nWhy we need silence｜漂浮舱的两项实验\n\n直接作答，完成后核对。\n\n0% · 0 / 1 完成\n开始练习 →\n加入今天\n\n阅读 · 城市与交通\n\nWhy we need silence｜主动安静与短时收益\n\n直接作答，完成后核对。\n\n0% · 0 / 1 完成\n开始练习 →\n加入今天\n\n阅读 · 健康与消费\n\nThe World of Sugar｜全球贸易与误解纠正\n\n直接作答，完成后核对。\n\n0% · 0 / 1 完成\n开始练习 →\n加入今天\n\n阅读 · 健康与消费\n\nThe World of Sugar｜劳动组织与行业权力\n\n直接作答，完成后核对。\n\n0% · 0 / 1 完成\n开始练习 →\n加入今天\n\n阅读 · 健康与消费\n\nThe World of Sugar｜工业化、消费与作者立场\n\n直接作答，完成后核对。\n\n0% · 0 / 1 完成\n开始练习 →\n加入今天\n\n阅读 · 通用\n\nDo animals dream?｜跨物种睡眠研究\n\n直接作答，完成后核对。\n\n0% · 0 / 1 完成\n开始练习 →\n加入今天\n\n阅读 · 通用\n\nDo animals dream?｜章鱼行为与研究边界\n\n直接作答，完成后核对。\n\n0% · 0 / 1 完成\n开始练习 →\n加入今天\n\n阅读 · 通用\n\nMapungubwe｜农业、居所与社会等级\n\n直接作答，完成后核对。\n\n0% · 0 / 1 完成\n开始练习 →\n加入今天\n\n阅读 · 通用\n\nMapungubwe｜贸易、器物与衰落\n\n直接作答，完成后核对。\n\n0% · 0 / 1 完成\n开始练习 →\n加入今天\n\n阅读 · 通用\n\nArtificial Intelligence｜公众想象与解决一切的误区\n\n直接作答，完成后核对。\n\n0% · 0 / 1 完成\n开始练习 →\n加入今天\n\n阅读 · 通用\n\nArtificial Intelligence｜公共部门实施条件\n\n直接作答，完成后核对。\n\n0% · 0 / 1 完成\n开始练习 →\n加入今天\n\n阅读 · 通用\n\nArtificial Intelligence｜部署边界、医疗与司法案例\n\n直接作答，完成后核对。\n\n0% · 0 / 1 完成\n开始练习 →\n加入今天\n\n阅读 · 教育与学习\n\nMiles Davis：独特音色、双重教育与音乐遗产\n\n直接作答，完成后核对。\n\n0% · 0 / 1 完成\n开始练习 →\n加入今天\n\n阅读 · 通用\n\nMiles Davis：困境、跨界与创造力\n\n直接作答，完成后核对。\n\n0% · 0 / 1 完成\n开始练习 →\n加入今天\n\n阅读 · 工作与生活\n\nOlder workers：薪资条件与两种继续工作的动机\n\n直接作答，完成后核对。\n\n0% · 0 / 1 完成\n开始练习 →\n加入今天\n\n阅读 · 通用\n\n蜣螂隧道：用深度和形状读图\n\n直接作答，完成后核对。\n\n0% · 0 / 1 完成\n开始练习 →\n加入今天\n\n阅读 · 通用\n\n蜣螂物种：沿表格列名核对信息\n\n直接作答，完成后核对。\n\n0% · 0 / 1 完成\n开始练习 →\n加入今天\n\n阅读 · 通用\n\n产品召回：批次、退款与联系人\n\n直接作答，完成后核对。\n\n0% · 0 / 1 完成\n开始练习 →\n加入今天\n\n阅读 · 科技\n\nSaving the saiga · 生存适应与早期数量变化\n\n直接作答，完成后核对。\n\n0% · 0 / 1 完成\n开始练习 →\n加入今天\n\n阅读 · 科技\n\nSaving the saiga · 栖息地、疾病、气候与恢复\n\n直接作答，完成后核对。\n\n0% · 0 / 1 完成\n开始练习 →\n加入今天\n\n阅读 · 城市与交通\n\nDar es Salaam · 城市扩张与交通方案\n\n直接作答，完成后核对。\n\n0% · 0 / 1 完成\n开始练习 →\n加入今天\n\n阅读 · 城市与交通\n\nDar es Salaam · 公交设计与实际故障\n\n直接作答，完成后核对。\n\n0% · 0 / 1 完成\n开始练习 →\n加入今天\n\n阅读 · 通用\n\nRethinking the Past · 发现怎样改变既有认识\n\n直接作答，完成后核对。\n\n0% · 0 / 1 完成\n开始练习 →\n加入今天\n\n阅读 · 通用\n\nRethinking the Past · 艺术年代、研究争议与脑容量\n\n直接作答，完成后核对。\n\n0% · 0 / 1 完成\n开始练习 →\n加入今天\n\n阅读 · 通用\n\nRethinking the Past · 渐进变化与性别预设\n\n直接作答，完成后核对。\n\n0% · 0 / 1 完成\n开始练习 →\n加入今天\n\n阅读 · 通用\n\nWater hyacinth · 入侵植物与能源问题\n\n直接作答，完成后核对。\n\n0% · 0 / 1 完成\n开始练习 →\n加入今天\n\n阅读 · 通用\n\nWater hyacinth · 沼气流程、收益与价格障碍\n\n直接作答，完成后核对。\n\n0% · 0 / 1 完成\n开始练习 →\n加入今天\n\n阅读 · 通用\n\nMultilingualism · 迁移背景与研究目标\n\n直接作答，完成后核对。\n\n0% · 0 / 1 完成\n开始练习 →\n加入今天\n\n阅读 · 通用\n\nMultilingualism · 教学语言与出人意料的结果\n\n直接作答，完成后核对。\n\n0% · 0 / 1 完成\n开始练习 →\n加入今天\n\n阅读 · 通用\n\nThe Globemakers · 从生日礼物到制作难题\n\n直接作答，完成后核对。\n\n0% · 0 / 1 完成\n开始练习 →\n加入今天\n\n阅读 · 通用\n\nThe Globemakers · 制作细节、历史匠人与书评判断\n\n直接作答，完成后核对。\n\n0% · 0 / 1 完成\n开始练习 →\n加入今天\n\n阅读 · 通用\n\n鸟类起源：理论提出、反驳与新证据\n\n直接作答，完成后核对。\n\n0% · 0 / 1 完成\n开始练习 →\n加入今天\n\n阅读 · 通用\n\n鸟类起源：两方论点与过渡化石\n\n直接作答，完成后核对。\n\n0% · 0 / 1 完成\n开始练习 →\n加入今天\n\n阅读 · 健康与消费\n\n健康观念变化：年份、十年与三大领域\n\n直接作答，完成后核对。\n\n0% · 0 / 1 完成\n开始练习 →\n加入今天\n\n阅读 · 教育与学习\n\n阅读 · TRUE / FALSE / NOT GIVEN The Davies Sisters\n\n直接作答，完成后核对。\n\n0% · 0 / 2 完成\n开始练习 →\n加入今天\n\n阅读 · 通用\n\n阅读 · 段落标题 Miles Davis\n\n直接作答，完成后核对。\n\n0% · 0 / 2 完成\n开始练习 →\n加入今天\n\n阅读 · 城市与交通\n\n阅读 · 人物匹配 Why we need silence\n\n直接作答，完成后核对。\n\n0% · 0 / 3 完成\n开始练习 →\n加入今天\n\n阅读 · 教育与学习\n\n阅读 · 笔记填空 The Davies Sisters\n\n直接作答，完成后核对。\n\n0% · 0 / 2 完成\n开始练习 →\n加入今天\n\n阅读 · 健康与消费\n\n阅读 · 选择题 The World of Sugar\n\n直接作答，完成后核对。\n\n0% · 0 / 3 完成\n开始练习 →\n加入今天\n\n阅读 · 健康与消费\n\n阅读 · 摘要选词 Sugar cultivation and production\n\n直接作答，完成后核对。\n\n0% · 0 / 3 完成\n开始练习 →\n加入今天\n\n阅读 · 科技\n\n司法与技术：算法风险的真实阅读语境\n\n直接作答，完成后核对。\n\n0% · 0 / 14 完成\n开始练习 →\n加入今天\n\n阅读 · 城市与交通\n\n公共治理：公交方案怎样落地\n\n直接作答，完成后核对。\n\n0% · 0 / 13 完成\n开始练习 →\n加入今天\n\n阅读 · 通用\n\n社会责任：财富如何用于公共文化\n\n直接作答，完成后核对。\n\n0% · 0 / 13 完成\n开始练习 →\n加入今天\n\n阅读 · 环境与自然\n\n环境保护：威胁之间的关系\n\n直接作答，完成后核对。\n\n0% · 0 / 13 完成\n开始练习 →\n加入今天\n\n阅读 · 健康与消费\n\n健康与消费：读出作者评价\n\n直接作答，完成后核对。\n\n0% · 0 / 14 完成\n开始练习 →\n加入今天\n\n阅读 · 通用\n\n日常生活：读懂产品召回通知\n\n直接作答，完成后核对。\n\n0% · 0 / 1 完成\n开始练习 →\n加入今天\n\n阅读 · 健康与消费\n\n食物与消费：来源、产业与后果\n\n直接作答，完成后核对。\n\n0% · 0 / 1 完成\n开始练习 →\n加入今天\n\n阅读 · 旅行与地方\n\n旅行活动：一份骑行说明的完整语境\n\n直接作答，完成后核对。\n\n0% · 0 / 1 完成\n开始练习 →\n加入今天\n\n阅读 · 通用\n\n媒体信息：新闻承诺与实际能力\n\n直接作答，完成后核对。\n\n0% · 0 / 1 完成\n开始练习 →\n加入今天\n\n阅读 · 环境与自然\n\n阅读 · 海洋资源：捕捞与鱼群恢复\n\n直接作答，完成后核对。\n\n0% · 0 / 1 完成\n开始练习 →\n加入今天\n\n阅读 · 机经 · 2026年9月\n\n罐头食品简史 · A Brief History Of Canned Food\n\n13题；作答后核对，并回到同一材料精读 · 难度系数 3/5 · 中等。\n\n0% · 0 / 14 作答与核对\n开始练习 →\n加入今天\n\n阅读 · 机经 · 9月21日新增\n\n语言起源 · The origin of language\n\n新内容 · 2026-09-21 · 难度系数 4/5 · 较难。14题（12个作答框）；作答、核对、回到同篇材料精读。\n\n0% · 0 / 13 作答与核对\n开始练习 →\n加入今天",
+      "overflow": []
+    },
+    {
+      "requested": "practice-speaking-list",
+      "kind": "remaining-category",
+      "actual": "#practice-speaking-list",
+      "title": "练习 / 口语 · IELTS",
+      "topLabel": "练习 / 口语",
+      "activeNav": [
+        {
+          "go": "practice",
+          "label": "练习"
+        }
+      ],
+      "panels": [
+        {
+          "id": "practice",
+          "owner": "practice",
+          "title": "练习",
+          "x": 18,
+          "y": -692,
+          "w": 354,
+          "h": 1469
+        }
+      ],
+      "headings": [
+        {
+          "tag": "H1",
+          "text": "练习 · 口语",
+          "x": 18,
+          "y": -670,
+          "w": 354,
+          "h": 36
+        },
+        {
+          "tag": "H3",
+          "text": "Speaking Part 1 购物与储蓄",
+          "x": 37,
+          "y": -19,
+          "w": 316,
+          "h": 27
+        },
+        {
+          "tag": "H3",
+          "text": "Speaking Part 2 一个有竞争心的人",
+          "x": 37,
+          "y": 265,
+          "w": 316,
+          "h": 27
+        },
+        {
+          "tag": "H3",
+          "text": "Speaking Part 3 体育中的竞争与参与",
+          "x": 37,
+          "y": 548,
+          "w": 316,
+          "h": 53
+        }
+      ],
+      "controls": [
+        {
+          "tag": "A",
+          "id": "",
+          "text": "← 返回练习",
+          "href": "#practice",
+          "disabled": false,
+          "x": 18,
+          "y": -539,
+          "w": 74,
+          "h": 32
+        },
+        {
+          "tag": "SELECT",
+          "id": "la-practice-topic",
+          "text": "全部\n通用",
+          "href": null,
+          "disabled": false,
+          "x": 34,
+          "y": -407,
+          "w": 322,
+          "h": 40
+        },
+        {
+          "tag": "SELECT",
+          "id": "la-practice-part",
+          "text": "全部\nPart 1\nPart 2\nPart 3",
+          "href": null,
+          "disabled": false,
+          "x": 34,
+          "y": -325,
+          "w": 322,
+          "h": 40
+        },
+        {
+          "tag": "SELECT",
+          "id": "la-practice-type",
+          "text": "全部\n表达与运用",
+          "href": null,
+          "disabled": false,
+          "x": 34,
+          "y": -243,
+          "w": 322,
+          "h": 40
+        },
+        {
+          "tag": "INPUT",
+          "id": "la-practice-search",
+          "text": "搜索本类内容",
+          "href": null,
+          "disabled": false,
+          "x": 34,
+          "y": -160,
+          "w": 322,
+          "h": 40
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "开始练习 →",
+          "href": "#pr-speaking-p1",
+          "disabled": false,
+          "x": 37,
+          "y": 130,
+          "w": 74,
+          "h": 24
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "加入今天",
+          "href": null,
+          "disabled": false,
+          "x": 267,
+          "y": 120,
+          "w": 86,
+          "h": 44
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "开始练习 →",
+          "href": "#pr-speaking-p2",
+          "disabled": false,
+          "x": 37,
+          "y": 414,
+          "w": 74,
+          "h": 24
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "加入今天",
+          "href": null,
+          "disabled": false,
+          "x": 267,
+          "y": 404,
+          "w": 86,
+          "h": 44
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "开始练习 →",
+          "href": "#pr-speaking-p3",
+          "disabled": false,
+          "x": 37,
+          "y": 724,
+          "w": 74,
+          "h": 24
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "加入今天",
+          "href": null,
+          "disabled": false,
+          "x": 267,
+          "y": 714,
+          "w": 86,
+          "h": 44
+        }
+      ],
+      "hiddenVisible": [],
+      "bodyWidth": 390,
+      "viewport": 390,
+      "scrollY": 872,
+      "visibleText": "练习 · 口语\n\n3 项内容 · 按需要选一项开始。\n\n← 返回练习\n0% · 0 / 3 单元\n话题\n全部\n通用\nPart\n全部\nPart 1\nPart 2\nPart 3\n题型／内容\n全部\n表达与运用\n内容或题型\n\n口语 · 通用\n\nSpeaking Part 1 购物与储蓄\n\n直接作答，完成后核对。\n\n0% · 0 / 0 完成\n开始练习 →\n加入今天\n\n口语 · 通用\n\nSpeaking Part 2 一个有竞争心的人\n\n直接作答，完成后核对。\n\n0% · 0 / 0 完成\n开始练习 →\n加入今天\n\n口语 · 通用\n\nSpeaking Part 3 体育中的竞争与参与\n\n直接作答，完成后核对。\n\n0% · 0 / 0 完成\n开始练习 →\n加入今天",
+      "overflow": []
+    },
+    {
+      "requested": "practice-vocabulary-list",
+      "kind": "remaining-category",
+      "actual": "#practice-vocabulary-list",
+      "title": "练习 / 词汇 · IELTS",
+      "topLabel": "练习 / 词汇",
+      "activeNav": [
+        {
+          "go": "practice",
+          "label": "练习"
+        }
+      ],
+      "panels": [
+        {
+          "id": "practice",
+          "owner": "practice",
+          "title": "练习",
+          "x": 18,
+          "y": 152,
+          "w": 354,
+          "h": 625
+        }
+      ],
+      "headings": [
+        {
+          "tag": "H1",
+          "text": "练习 · 词汇",
+          "x": 18,
+          "y": 174,
+          "w": 354,
+          "h": 36
+        }
+      ],
+      "controls": [
+        {
+          "tag": "A",
+          "id": "",
+          "text": "← 返回练习",
+          "href": "#practice",
+          "disabled": false,
+          "x": 18,
+          "y": 305,
+          "w": 74,
+          "h": 32
+        },
+        {
+          "tag": "SELECT",
+          "id": "la-practice-topic",
+          "text": "全部",
+          "href": null,
+          "disabled": false,
+          "x": 34,
+          "y": 437,
+          "w": 322,
+          "h": 40
+        },
+        {
+          "tag": "SELECT",
+          "id": "la-practice-type",
+          "text": "全部",
+          "href": null,
+          "disabled": false,
+          "x": 34,
+          "y": 519,
+          "w": 322,
+          "h": 40
+        },
+        {
+          "tag": "INPUT",
+          "id": "la-practice-search",
+          "text": "搜索本类内容",
+          "href": null,
+          "disabled": false,
+          "x": 34,
+          "y": 601,
+          "w": 322,
+          "h": 40
+        }
+      ],
+      "hiddenVisible": [],
+      "bodyWidth": 390,
+      "viewport": 390,
+      "scrollY": 28,
+      "visibleText": "练习 · 词汇\n\n0 项内容 · 按需要选一项开始。\n\n← 返回练习\n0% · 0 / 0 单元\n话题\n全部\n题型／内容\n全部\n内容或题型\n\n没有匹配的内容，试试其他话题或题型。",
+      "overflow": []
+    },
+    {
+      "requested": "practice-phrases-list",
+      "kind": "remaining-category",
+      "actual": "#practice-phrases-list",
+      "title": "练习 / 短语 · IELTS",
+      "topLabel": "练习 / 短语",
+      "activeNav": [
+        {
+          "go": "practice",
+          "label": "练习"
+        }
+      ],
+      "panels": [
+        {
+          "id": "practice",
+          "owner": "practice",
+          "title": "练习",
+          "x": 18,
+          "y": 152,
+          "w": 354,
+          "h": 625
+        }
+      ],
+      "headings": [
+        {
+          "tag": "H1",
+          "text": "练习 · 短语",
+          "x": 18,
+          "y": 174,
+          "w": 354,
+          "h": 36
+        }
+      ],
+      "controls": [
+        {
+          "tag": "A",
+          "id": "",
+          "text": "← 返回练习",
+          "href": "#practice",
+          "disabled": false,
+          "x": 18,
+          "y": 305,
+          "w": 74,
+          "h": 32
+        },
+        {
+          "tag": "SELECT",
+          "id": "la-practice-topic",
+          "text": "全部",
+          "href": null,
+          "disabled": false,
+          "x": 34,
+          "y": 437,
+          "w": 322,
+          "h": 40
+        },
+        {
+          "tag": "SELECT",
+          "id": "la-practice-type",
+          "text": "全部",
+          "href": null,
+          "disabled": false,
+          "x": 34,
+          "y": 519,
+          "w": 322,
+          "h": 40
+        },
+        {
+          "tag": "INPUT",
+          "id": "la-practice-search",
+          "text": "搜索本类内容",
+          "href": null,
+          "disabled": false,
+          "x": 34,
+          "y": 601,
+          "w": 322,
+          "h": 40
+        }
+      ],
+      "hiddenVisible": [],
+      "bodyWidth": 390,
+      "viewport": 390,
+      "scrollY": 28,
+      "visibleText": "练习 · 短语\n\n0 项内容 · 按需要选一项开始。\n\n← 返回练习\n0% · 0 / 0 单元\n话题\n全部\n题型／内容\n全部\n内容或题型\n\n没有匹配的内容，试试其他话题或题型。",
+      "overflow": []
+    },
+    {
+      "requested": "practice-shared-list",
+      "kind": "remaining-category",
+      "actual": "#practice-shared-list",
+      "title": "练习 / 共用背景 · IELTS",
+      "topLabel": "练习 / 共用背景",
+      "activeNav": [
+        {
+          "go": "practice",
+          "label": "练习"
+        }
+      ],
+      "panels": [
+        {
+          "id": "practice",
+          "owner": "practice",
+          "title": "练习",
+          "x": 18,
+          "y": 152,
+          "w": 354,
+          "h": 625
+        }
+      ],
+      "headings": [
+        {
+          "tag": "H1",
+          "text": "练习 · 共用背景",
+          "x": 18,
+          "y": 174,
+          "w": 354,
+          "h": 36
+        }
+      ],
+      "controls": [
+        {
+          "tag": "A",
+          "id": "",
+          "text": "← 返回练习",
+          "href": "#practice",
+          "disabled": false,
+          "x": 18,
+          "y": 305,
+          "w": 74,
+          "h": 32
+        },
+        {
+          "tag": "SELECT",
+          "id": "la-practice-topic",
+          "text": "全部",
+          "href": null,
+          "disabled": false,
+          "x": 34,
+          "y": 437,
+          "w": 322,
+          "h": 40
+        },
+        {
+          "tag": "SELECT",
+          "id": "la-practice-type",
+          "text": "全部",
+          "href": null,
+          "disabled": false,
+          "x": 34,
+          "y": 519,
+          "w": 322,
+          "h": 40
+        },
+        {
+          "tag": "INPUT",
+          "id": "la-practice-search",
+          "text": "搜索本类内容",
+          "href": null,
+          "disabled": false,
+          "x": 34,
+          "y": 601,
+          "w": 322,
+          "h": 40
+        }
+      ],
+      "hiddenVisible": [],
+      "bodyWidth": 390,
+      "viewport": 390,
+      "scrollY": 28,
+      "visibleText": "练习 · 共用背景\n\n0 项内容 · 按需要选一项开始。\n\n← 返回练习\n0% · 0 / 0 单元\n话题\n全部\n题型／内容\n全部\n内容或题型\n\n没有匹配的内容，试试其他话题或题型。",
+      "overflow": []
+    },
+    {
+      "requested": "background-daily-start",
+      "kind": "daily-route-conflict",
+      "actual": "#topic-education",
+      "title": "学习 / 写作 · Task 2 / 教育：谁能学到，学什么，怎样学 · IELTS",
+      "topLabel": "学习 / 写作 · Task 2 / 教育：谁能学到，学什么，怎样学",
+      "activeNav": [
+        {
+          "go": "study",
+          "label": "学习"
+        }
+      ],
+      "panels": [
+        {
+          "id": "writing2",
+          "owner": "study",
+          "title": "写作 · Task 2",
+          "x": 18,
+          "y": -18,
+          "w": 354,
+          "h": 5689
+        }
+      ],
+      "headings": [
+        {
+          "tag": "H2",
+          "text": "教育：谁能学到，学什么，怎样学",
+          "x": 36,
+          "y": 271,
+          "w": 318,
+          "h": 74
+        },
+        {
+          "tag": "H3",
+          "text": "先分清三个概念",
+          "x": 36,
+          "y": 573,
+          "w": 318,
+          "h": 24
+        },
+        {
+          "tag": "H3",
+          "text": "读一段背景英语",
+          "x": 36,
+          "y": 1225,
+          "w": 318,
+          "h": 24
+        },
+        {
+          "tag": "H3",
+          "text": "这个话题通常怎样展开",
+          "x": 36,
+          "y": 2635,
+          "w": 318,
+          "h": 24
+        },
+        {
+          "tag": "H3",
+          "text": "可以直接理解和借用的搭配",
+          "x": 36,
+          "y": 2893,
+          "w": 318,
+          "h": 24
+        },
+        {
+          "tag": "H3",
+          "text": "把教育概念用到具体问题里",
+          "x": 57,
+          "y": 3924,
+          "w": 276,
+          "h": 24
+        }
+      ],
+      "controls": [
+        {
+          "tag": "A",
+          "id": "",
+          "text": "← 学习 / 写作 · Task 2",
+          "href": "#study-writing2-list",
+          "disabled": false,
+          "x": 18,
+          "y": -18,
+          "w": 141,
+          "h": 24
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "← 返回本科内容",
+          "href": "#study-writing-list",
+          "disabled": false,
+          "x": 36,
+          "y": 187,
+          "w": 73,
+          "h": 17
+        },
+        {
+          "tag": "INPUT",
+          "id": "",
+          "text": "",
+          "href": null,
+          "disabled": false,
+          "x": 268,
+          "y": 188,
+          "w": 15,
+          "h": 15
+        },
+        {
+          "tag": "SUMMARY",
+          "id": "",
+          "text": "中文帮助理解",
+          "href": null,
+          "disabled": false,
+          "x": 49,
+          "y": 2235,
+          "w": 292,
+          "h": 52
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "Plain English",
+          "href": "原始参考/ec598fcf-inspera-response-3.txt",
+          "disabled": false,
+          "x": 54,
+          "y": 2574,
+          "w": 60,
+          "h": 14
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "阅读章",
+          "href": "#reading",
+          "disabled": false,
+          "x": 201,
+          "y": 3826,
+          "w": 33,
+          "h": 15
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "听力章",
+          "href": "#listening",
+          "disabled": false,
+          "x": 243,
+          "y": 3826,
+          "w": 33,
+          "h": 15
+        },
+        {
+          "tag": "TEXTAREA",
+          "id": "",
+          "text": "",
+          "href": null,
+          "disabled": false,
+          "x": 57,
+          "y": 4330,
+          "w": 276,
+          "h": 101
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "暂时不会",
+          "href": null,
+          "disabled": false,
+          "x": 57,
+          "y": 4431,
+          "w": 86,
+          "h": 44
+        },
+        {
+          "tag": "SUMMARY",
+          "id": "",
+          "text": "完成后核对",
+          "href": null,
+          "disabled": false,
+          "x": 71,
+          "y": 4500,
+          "w": 248,
+          "h": 59
+        },
+        {
+          "tag": "TEXTAREA",
+          "id": "",
+          "text": "",
+          "href": null,
+          "disabled": false,
+          "x": 57,
+          "y": 5170,
+          "w": 276,
+          "h": 147
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "暂时不会",
+          "href": null,
+          "disabled": false,
+          "x": 57,
+          "y": 5318,
+          "w": 86,
+          "h": 44
+        },
+        {
+          "tag": "SUMMARY",
+          "id": "",
+          "text": "完成后核对",
+          "href": null,
+          "disabled": false,
+          "x": 71,
+          "y": 5387,
+          "w": 248,
+          "h": 59
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "完整题面",
+          "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=96",
+          "disabled": false,
+          "x": 57,
+          "y": 5464,
+          "w": 56,
+          "h": 19
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "同题考生稿与评语（7.5 分）",
+          "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=139",
+          "disabled": false,
+          "x": 125,
+          "y": 5464,
+          "w": 178,
+          "h": 19
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "续页评语",
+          "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=140",
+          "disabled": false,
+          "x": 57,
+          "y": 5464,
+          "w": 271,
+          "h": 45
+        },
+        {
+          "tag": "SUMMARY",
+          "id": "",
+          "text": "延伸阅读：Davies 姐妹的教育与收藏",
+          "href": null,
+          "disabled": false,
+          "x": 50,
+          "y": 5569,
+          "w": 290,
+          "h": 59
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "",
+          "href": "#topic-society",
+          "disabled": false,
+          "x": 83,
+          "y": 5694,
+          "w": 224,
+          "h": 45
+        }
+      ],
+      "hiddenVisible": [],
+      "bodyWidth": 390,
+      "viewport": 390,
+      "scrollY": 198,
+      "visibleText": "← 学习 / 写作 · Task 2\n教育：谁能学到，学什么，怎样学\n0% · 0 / 3 完成\n← 返回本科内容\n已读过这段背景\n\nTOPIC 01\n\n教育：谁能学到，学什么，怎样学\n\n教育讨论常围绕三个问题：谁有机会接受教育，课程应包含什么，以及怎样判断学习成果。能进入学校，不等于能获得适合自己的帮助；考试成绩也只是学习表现的一部分。学术知识、实际技能和独立思考可以相互支持，不必选一个就放弃另一个。讨论统一课程与个别支持时，还要考虑教师时间、学生起点，以及学校能提供哪些资源。\n\n先分清三个概念\n概念\t它指什么\t不要混淆\naccess to education\t获得教育机会，包括能够入学、参与课程并使用必要的学习资源。\t有机会进入课程与实际学懂是两件事；提供一个学习名额并不自动解决时间、语言或学习支持问题。\npractical skills\t能够用于具体活动或解决实际问题的技能，例如操作工具、安排任务和处理信息。\t实际技能不只指手工或职业技术；它也可以用到学科知识，不能简单理解成与理论相反。\nequal opportunity\t让不同背景的学习者有公平参与和发展的机会。\t公平机会不一定意味着每个人得到完全相同的帮助；起点不同的人可能需要不同程度的支持。\n读一段背景英语\nA school has several purposes. It can introduce students to knowledge, help them develop useful skills and give them experience of working with others. These purposes do not always require separate lessons. A science project, for example, can involve reading, measuring and explaining a result to a partner. However, students may need different kinds of support to take part. One student may understand the subject but struggle with the language used in class. Another may need more time to practise a skill. A common curriculum can give a class shared goals, while additional support can help students work towards them. When discussing education, it is useful to consider both what schools expect and what learners need.\n中文帮助理解\n\n阅读例句\n\nThe campaigners argue that such language, whether spoken or written, should be replaced by clearer forms of expression.\n\n这篇阅读材料讨论清晰语言。它连接教育中的“理解与表达”，并非教育政策效果研究。\n\nPlain English\n这个话题通常怎样展开\n\n以下为教学归纳的讨论角度，不是考试频率排名或原题清单。\n\n课程应如何安排学科知识、实际技能与独立思考？（教学概括，非原题）\n统一的课程或考试怎样与不同学生的学习需要相配合？（教学概括，非原题）\n学校、家庭和个人可以分别提供哪些学习支持？（教学概括，非原题）\n可以直接理解和借用的搭配\n\n本组是教学选用搭配与例句，尚未逐组统计真题频率。\n\n搭配与意思\t放进句子里\nprovide access to education\n提供接受教育的机会\tEvening classes can provide access to education for people who work during the day.\ndevelop practical skills\n发展实际技能\tStudents can develop practical skills by planning and completing a group project.\nmeet learners' needs\n满足学习者的需要\tA course may need to offer different kinds of support to meet learners' needs.\nreceive feedback on\n获得针对某项表现或作品的反馈\tStudents receive feedback on their first draft before they revise it.\nput knowledge into practice\n将知识用于实际活动\tA design task gives students a chance to put their knowledge into practice.\n\n读过背景后，需要练习时再进入：阅读章 · 听力章。已读过原句或提示的任务，记为学习后应用。\n\n把教育概念用到具体问题里\n\n先用两个课堂情境检查理解，再看一道正式写作题怎样限定讨论范围。前两题是本册编写的理解练习。\n\n两名学生都能参加科学项目。甲会测量，但听不懂课堂指令；乙能理解指令，却需要练习测量。给两人同一份作业是否就满足了各自的学习需要？各写一种帮助，并说明帮助解决的困难。\n学校给所有学生安排相同的项目目标，同时为需要的学生提供双语词表和额外练习时间。这属于改变学习目标，还是改变参与方式？用 access to education 和 equal opportunity 解释：已有名额，还缺什么？\n我的判断与理由\n暂时不会\n完成后核对\n正式题：小学课堂的正式学习与游戏\n\nSome people argue that primary schools focus too much on formal learning.\nTo what extent do you agree with this opinion?\nHow important do you think it is for children to play as well as learn in the primary school classroom?\n\n原题要求说明理由并举相关例子，完整作文至少 250 词，建议 40 分钟。本次只练审题与一个理由段，不计作完成整篇作文。\n\n写出题目中的两项要求，并明确讨论对象与场景。\n设计一个课堂活动，说明孩子在其中学什么、怎样参与、为什么需要游戏。再补一句：什么情况下需要额外的学习支持？\n两项要求 + 一个理由段\n暂时不会\n完成后核对\n\n完整题面 · 同题考生稿与评语（7.5 分） · 续页评语\n\n延伸阅读：Davies 姐妹的教育与收藏",
+      "overflow": []
+    },
+    {
+      "requested": "materials",
+      "kind": "materials-hidden-check",
+      "actual": "#materials",
+      "title": "我的资料 · IELTS",
+      "topLabel": "我的资料",
+      "activeNav": [
+        {
+          "go": "workspace",
+          "label": "学习工作台"
+        }
+      ],
+      "panels": [
+        {
+          "id": "materials",
+          "owner": "workspace",
+          "title": "我的资料",
+          "x": 18,
+          "y": 181,
+          "w": 354,
+          "h": 2053
+        }
+      ],
+      "headings": [
+        {
+          "tag": "H1",
+          "text": "新资料，直接放进来。",
+          "x": 18,
+          "y": 574,
+          "w": 354,
+          "h": 38
+        },
+        {
+          "tag": "H2",
+          "text": "粘贴新内容",
+          "x": 37,
+          "y": 732,
+          "w": 95,
+          "h": 29
+        },
+        {
+          "tag": "H2",
+          "text": "确认内容，再入库",
+          "x": 37,
+          "y": 1651,
+          "w": 316,
+          "h": 32
+        },
+        {
+          "tag": "H2",
+          "text": "我的新增资料 0",
+          "x": 18,
+          "y": 2039,
+          "w": 131,
+          "h": 27
+        }
+      ],
+      "controls": [
+        {
+          "tag": "A",
+          "id": "",
+          "text": "← 返回学习工作台",
+          "href": "#workspace",
+          "disabled": false,
+          "x": 18,
+          "y": 181,
+          "w": 116,
+          "h": 32
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "进入定制学习 →",
+          "href": "#course-window",
+          "disabled": false,
+          "x": 39,
+          "y": 346,
+          "w": 102,
+          "h": 24
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "打开新增资源目录",
+          "href": "#resource-update",
+          "disabled": false,
+          "x": 40,
+          "y": 476,
+          "w": 112,
+          "h": 19
+        },
+        {
+          "tag": "INPUT",
+          "id": "material-file",
+          "text": "",
+          "href": null,
+          "disabled": false,
+          "x": 292,
+          "y": 730,
+          "w": 60,
+          "h": 33
+        },
+        {
+          "tag": "SELECT",
+          "id": "material-kind",
+          "text": "词汇与搭配\n话题背景\n题目与讲解\n其他资料",
+          "href": null,
+          "disabled": false,
+          "x": 37,
+          "y": 871,
+          "w": 152,
+          "h": 39
+        },
+        {
+          "tag": "SELECT",
+          "id": "material-mode",
+          "text": "整段保存为一份资料\n词汇表：每行一条",
+          "href": null,
+          "disabled": false,
+          "x": 201,
+          "y": 871,
+          "w": 152,
+          "h": 39
+        },
+        {
+          "tag": "INPUT",
+          "id": "material-title",
+          "text": "例如：工作话题常用表达",
+          "href": null,
+          "disabled": false,
+          "x": 37,
+          "y": 952,
+          "w": 316,
+          "h": 41
+        },
+        {
+          "tag": "INPUT",
+          "id": "material-topic",
+          "text": "例如：工作、教育",
+          "href": null,
+          "disabled": false,
+          "x": 37,
+          "y": 1035,
+          "w": 152,
+          "h": 41
+        },
+        {
+          "tag": "INPUT",
+          "id": "material-source",
+          "text": "书名、网址或资料提供者",
+          "href": null,
+          "disabled": false,
+          "x": 201,
+          "y": 1035,
+          "w": 152,
+          "h": 41
+        },
+        {
+          "tag": "TEXTAREA",
+          "id": "material-content",
+          "text": "在这里按 Ctrl + V 粘贴。\n\n整段内容会保留原来的换行。\n词汇表可从表格复制：词或搭配［Tab］中文意思［Tab］英文例句；每行一条。",
+          "href": null,
+          "disabled": false,
+          "x": 37,
+          "y": 1117,
+          "w": 316,
+          "h": 313
+        },
+        {
+          "tag": "BUTTON",
+          "id": "material-preview-button",
+          "text": "预览内容",
+          "href": null,
+          "disabled": false,
+          "x": 37,
+          "y": 1450,
+          "w": 90,
+          "h": 44
+        },
+        {
+          "tag": "BUTTON",
+          "id": "material-reset",
+          "text": "清空输入",
+          "href": null,
+          "disabled": false,
+          "x": 139,
+          "y": 1451,
+          "w": 82,
+          "h": 42
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "下载词汇表示例",
+          "href": "新增资料-词汇表示例.tsv",
+          "disabled": false,
+          "x": 37,
+          "y": 1496,
+          "w": 70,
+          "h": 14
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "下载资料包示例",
+          "href": "新增资料-资料包示例.json",
+          "disabled": false,
+          "x": 115,
+          "y": 1496,
+          "w": 70,
+          "h": 14
+        },
+        {
+          "tag": "BUTTON",
+          "id": "material-commit",
+          "text": "保存到我的资料",
+          "href": null,
+          "disabled": true,
+          "x": 37,
+          "y": 1852,
+          "w": 316,
+          "h": 46
+        },
+        {
+          "tag": "BUTTON",
+          "id": "material-export",
+          "text": "导出新增资料",
+          "href": null,
+          "disabled": true,
+          "x": 278,
+          "y": 2023,
+          "w": 94,
+          "h": 39
+        },
+        {
+          "tag": "INPUT",
+          "id": "material-search",
+          "text": "查找新增资料",
+          "href": null,
+          "disabled": false,
+          "x": 31,
+          "y": 2084,
+          "w": 232,
+          "h": 40
+        },
+        {
+          "tag": "SELECT",
+          "id": "material-list-kind",
+          "text": "所有类型\n词汇与搭配\n话题背景\n题目与讲解\n其他资料",
+          "href": null,
+          "disabled": false,
+          "x": 284,
+          "y": 2082,
+          "w": 88,
+          "h": 44
+        }
+      ],
+      "hiddenVisible": [
+        {
+          "tag": "LABEL",
+          "id": "",
+          "class": "",
+          "text": "来源",
+          "x": 201,
+          "y": 1011,
+          "w": 152,
+          "h": 65
+        }
+      ],
+      "bodyWidth": 390,
+      "viewport": 390,
+      "scrollY": 0,
+      "visibleText": "← 返回学习工作台\n把你的材料，做成贴合考试的课程\n\n给出技巧、语料或词汇；选取相关考试材料，配上讲解和分阶段练习。\n\n进入定制学习 →\n\n此页用于添加你自己的学习资料。\n\n打开新增资源目录\n\nADD TO YOUR LIBRARY\n\n新资料，直接放进来。\n\n复制内容到下面，或导入文本、词汇表及资料包。先预览，再保存；已有教材不用重新制作。\n\n粘贴新内容\n导入文件\n\n支持 TXT、Markdown、TSV 和本工作区资料包 JSON。PDF、图片和音频暂不在这个入口解析。\n\n内容类型\n词汇与搭配\n话题背景\n题目与讲解\n其他资料\n整理方式\n整段保存为一份资料\n词汇表：每行一条\n标题\n话题标签\n来源\n粘贴正文\n预览内容\n清空输入\n\n下载词汇表示例 · 下载资料包示例\n\nBEFORE YOU SAVE\n\n确认内容，再入库\n\n预览标题、正文和导入条数。\n\n复制文字，或选择文件。\n补上来源和话题，点击预览。\n保存后可阅读、编辑或导出。\n保存到我的资料\n\n保存在当前浏览器。请用下方“导出新增资料”保留一份文件；它与作答记录备份分开。\n\nYOUR ADDITIONS\n\n我的新增资料 0\n导出新增资料\n所有类型\n词汇与搭配\n话题背景\n题目与讲解\n其他资料\n\n还没有新增资料。把你想学的内容粘贴进来即可。",
+      "overflow": []
+    },
+    {
+      "requested": "writing1",
+      "kind": "record-chapter-return",
+      "actual": "#study-writing-list",
+      "title": "学习 / 写作 · IELTS",
+      "topLabel": "学习 / 写作",
+      "activeNav": [
+        {
+          "go": "study",
+          "label": "学习"
+        }
+      ],
+      "panels": [
+        {
+          "id": "study",
+          "owner": "study",
+          "title": "学习",
+          "x": 268,
+          "y": 185,
+          "w": 1128,
+          "h": 532
+        }
+      ],
+      "headings": [
+        {
+          "tag": "H1",
+          "text": "学习 · 写作",
+          "x": 268,
+          "y": 207,
+          "w": 1128,
+          "h": 50
+        },
+        {
+          "tag": "H2",
+          "text": "Task 1",
+          "x": 293,
+          "y": 524,
+          "w": 505,
+          "h": 35
+        },
+        {
+          "tag": "H2",
+          "text": "Task 2",
+          "x": 866,
+          "y": 524,
+          "w": 505,
+          "h": 35
+        }
+      ],
+      "controls": [
+        {
+          "tag": "A",
+          "id": "",
+          "text": "← 返回学习",
+          "href": "#study",
+          "disabled": false,
+          "x": 268,
+          "y": 352,
+          "w": 74,
+          "h": 32
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "进入Task 1 →",
+          "href": "#study-writing1-list",
+          "disabled": false,
+          "x": 293,
+          "y": 656,
+          "w": 505,
+          "h": 36
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "进入Task 2 →",
+          "href": "#study-writing2-list",
+          "disabled": false,
+          "x": 866,
+          "y": 656,
+          "w": 505,
+          "h": 36
+        }
+      ],
+      "hiddenVisible": [],
+      "bodyWidth": 1440,
+      "viewport": 1440,
+      "scrollY": 0,
+      "visibleText": "学习 · 写作\n\n选择 Task 1 或 Task 2。\n\n← 返回学习\n0% · 0 / 16 单元\n\nACADEMIC WRITING\n\nTask 1\n\n10 项学习内容\n\n0% · 0 / 10 单元\n进入Task 1 →\n\nESSAY WRITING\n\nTask 2\n\n6 项学习内容\n\n0% · 0 / 6 单元\n进入Task 2 →",
+      "overflow": []
+    },
+    {
+      "requested": "writing2",
+      "kind": "record-chapter-return",
+      "actual": "#study-writing-list",
+      "title": "学习 / 写作 · IELTS",
+      "topLabel": "学习 / 写作",
+      "activeNav": [
+        {
+          "go": "study",
+          "label": "学习"
+        }
+      ],
+      "panels": [
+        {
+          "id": "study",
+          "owner": "study",
+          "title": "学习",
+          "x": 268,
+          "y": 185,
+          "w": 1128,
+          "h": 532
+        }
+      ],
+      "headings": [
+        {
+          "tag": "H1",
+          "text": "学习 · 写作",
+          "x": 268,
+          "y": 207,
+          "w": 1128,
+          "h": 50
+        },
+        {
+          "tag": "H2",
+          "text": "Task 1",
+          "x": 293,
+          "y": 524,
+          "w": 505,
+          "h": 35
+        },
+        {
+          "tag": "H2",
+          "text": "Task 2",
+          "x": 866,
+          "y": 524,
+          "w": 505,
+          "h": 35
+        }
+      ],
+      "controls": [
+        {
+          "tag": "A",
+          "id": "",
+          "text": "← 返回学习",
+          "href": "#study",
+          "disabled": false,
+          "x": 268,
+          "y": 352,
+          "w": 74,
+          "h": 32
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "进入Task 1 →",
+          "href": "#study-writing1-list",
+          "disabled": false,
+          "x": 293,
+          "y": 656,
+          "w": 505,
+          "h": 36
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "进入Task 2 →",
+          "href": "#study-writing2-list",
+          "disabled": false,
+          "x": 866,
+          "y": 656,
+          "w": 505,
+          "h": 36
+        }
+      ],
+      "hiddenVisible": [],
+      "bodyWidth": 1440,
+      "viewport": 1440,
+      "scrollY": 0,
+      "visibleText": "学习 · 写作\n\n选择 Task 1 或 Task 2。\n\n← 返回学习\n0% · 0 / 16 单元\n\nACADEMIC WRITING\n\nTask 1\n\n10 项学习内容\n\n0% · 0 / 10 单元\n进入Task 1 →\n\nESSAY WRITING\n\nTask 2\n\n6 项学习内容\n\n0% · 0 / 6 单元\n进入Task 2 →",
+      "overflow": []
+    }
+  ],
+  "flows": [
+    {
+      "name": "直接开始共用背景后的页面归属",
+      "selected": "共用背景 · 按你选择的板块安排，材料精读和写作前置计入本次用时。",
+      "actual": "#topic-education",
+      "label": "学习 / 写作 · Task 2 / 教育：谁能学到，学什么，怎样学",
+      "active": [
+        {
+          "go": "study",
+          "label": "学习"
+        }
+      ],
+      "back": [
+        {
+          "tag": "A",
+          "id": "",
+          "text": "← 学习 / 写作 · Task 2",
+          "href": "#study-writing2-list",
+          "disabled": false,
+          "x": 18,
+          "y": -18,
+          "w": 141,
+          "h": 24
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "← 返回本科内容",
+          "href": "#study-writing-list",
+          "disabled": false,
+          "x": 36,
+          "y": 187,
+          "w": 73,
+          "h": 17
+        }
+      ],
+      "headings": [
+        "教育：谁能学到，学什么，怎样学",
+        "先分清三个概念",
+        "读一段背景英语",
+        "这个话题通常怎样展开",
+        "可以直接理解和借用的搭配",
+        "把教育概念用到具体问题里"
+      ]
+    },
+    {
+      "name": "学习记录进入writing1",
+      "actual": "#study-writing-list",
+      "label": "学习 / 写作"
+    },
+    {
+      "name": "学习记录进入writing2",
+      "actual": "#study-writing-list",
+      "label": "学习 / 写作"
+    }
+  ],
+  "errors": []
+}

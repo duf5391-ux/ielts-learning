@@ -1,0 +1,259 @@
+{
+  "version": 1,
+  "reviewedAt": "2026-09-21",
+  "scale": "1–5，数值越大表示材料任务负荷越高；只在同科内作相对参考。",
+  "method": "按已读题面和材料的语言抽象度、信息/观点整合、作答结构逐项进行编辑判断；不由来源热度、个人作答或未知样本正确率自动换算。",
+  "labels": {
+    "1": "入门",
+    "2": "较易",
+    "3": "中等",
+    "4": "较难",
+    "5": "高挑战"
+  },
+  "limits": "非官方难度或Band等级，非个人掌握度、预测命中率或统计正确率。无同水平样本校准，1–5是粗略等级，不是精密测量。",
+  "officialSources": [
+    {
+      "title": "IELTS Listening format",
+      "url": "https://ielts.org/take-a-test/test-types/ielts-academic-test/ielts-academic-format-listening"
+    },
+    {
+      "title": "IELTS Academic Reading format",
+      "url": "https://ielts.org/take-a-test/test-types/ielts-academic-test/ielts-academic-format-reading"
+    },
+    {
+      "title": "IELTS Academic Writing format",
+      "url": "https://ielts.org/take-a-test/test-types/ielts-academic-test/ielts-academic-format-writing"
+    },
+    {
+      "title": "IELTS scoring in detail",
+      "url": "https://ielts.org/take-a-test/your-results/ielts-scoring-in-detail"
+    }
+  ],
+  "items": {
+    "pr-jijing-202609-listening-01-v1": {
+      "level": 2,
+      "scaleMax": 5,
+      "label": "较易",
+      "dimensions": {
+        "词汇与情景": 2,
+        "信息区分": 2,
+        "记录形式": 2
+      },
+      "reason": "熟悉的求职对话和短答案笔记；需区分条件、数字、拼写与转折。未按口音或语速另行评级。",
+      "scope": "同科材料的编辑评估",
+      "reviewedAt": "2026-09-21",
+      "officialBand": null,
+      "learnerMastery": null
+    },
+    "pr-jijing-202609-reading-01-v1": {
+      "level": 3,
+      "scaleMax": 5,
+      "label": "中等",
+      "dimensions": {
+        "语言与术语": 3,
+        "时间及因果关系": 3,
+        "作答结构": 3
+      },
+      "reason": "食品保存技术的历史说明含专业词、时间转换与因果限制，并结合填空和TRUE/FALSE/NOT GIVEN。",
+      "scope": "同科材料的编辑评估",
+      "reviewedAt": "2026-09-21",
+      "officialBand": null,
+      "learnerMastery": null
+    },
+    "ieltsa-writing-202609-1-2-reference-v1": {
+      "level": 3,
+      "scaleMax": 5,
+      "label": "中等",
+      "dimensions": {
+        "题意约束": 3,
+        "论点展开": 3,
+        "组织负荷": 3
+      },
+      "reason": "需比较文化趋同的利弊并作出权衡，不能只列两边现象。",
+      "scope": "题干要求的编辑评估；仅参考题干",
+      "reviewedAt": "2026-09-21",
+      "officialBand": null,
+      "learnerMastery": null
+    },
+    "ieltsa-writing-202609-2-2-reference-v1": {
+      "level": 4,
+      "scaleMax": 5,
+      "label": "较难",
+      "dimensions": {
+        "题意约束": 4,
+        "论点展开": 4,
+        "组织负荷": 4
+      },
+      "reason": "同时覆盖游客与目的地国家两类主体，各自利弊的组织负荷较高。",
+      "scope": "题干要求的编辑评估；仅参考题干",
+      "reviewedAt": "2026-09-21",
+      "officialBand": null,
+      "learnerMastery": null
+    },
+    "ieltsa-writing-202609-3-2-reference-v1": {
+      "level": 4,
+      "scaleMax": 5,
+      "label": "较难",
+      "dimensions": {
+        "题意约束": 4,
+        "论点展开": 4,
+        "组织负荷": 4
+      },
+      "reason": "一问程度、一问保护措施，需把影响机制与措施对象说清楚。",
+      "scope": "题干要求的编辑评估；仅参考题干",
+      "reviewedAt": "2026-09-21",
+      "officialBand": null,
+      "learnerMastery": null
+    },
+    "ieltsa-writing-202609-4-2-reference-v2": {
+      "level": 2,
+      "scaleMax": 5,
+      "label": "较易",
+      "dimensions": {
+        "题意约束": 2,
+        "论点展开": 2,
+        "组织负荷": 2
+      },
+      "reason": "熟悉的学校情境，需把具体原因与可实行的解决办法对应。",
+      "scope": "题干要求的编辑评估；仅参考题干",
+      "reviewedAt": "2026-09-21",
+      "officialBand": null,
+      "learnerMastery": null
+    },
+    "ieltsa-writing-202609-5-2-reference-v1": {
+      "level": 2,
+      "scaleMax": 5,
+      "label": "较易",
+      "dimensions": {
+        "题意约束": 2,
+        "论点展开": 2,
+        "组织负荷": 2
+      },
+      "reason": "熟悉的学习体验，需解释不喜欢的原因和促进兴趣的办法。",
+      "scope": "题干要求的编辑评估；仅参考题干",
+      "reviewedAt": "2026-09-21",
+      "officialBand": null,
+      "learnerMastery": null
+    },
+    "ieltsa-writing-202609-6-2-reference-v1": {
+      "level": 3,
+      "scaleMax": 5,
+      "label": "中等",
+      "dimensions": {
+        "题意约束": 3,
+        "论点展开": 3,
+        "组织负荷": 3
+      },
+      "reason": "须区分获取信息与学校的其他功能，回应“不再必要”的较强主张。",
+      "scope": "题干要求的编辑评估；仅参考题干",
+      "reviewedAt": "2026-09-21",
+      "officialBand": null,
+      "learnerMastery": null
+    },
+    "ieltsa-writing-202609-7-2-reference-v1": {
+      "level": 3,
+      "scaleMax": 5,
+      "label": "中等",
+      "dimensions": {
+        "题意约束": 3,
+        "论点展开": 3,
+        "组织负荷": 3
+      },
+      "reason": "两种看法与自身意见都要覆盖，说明课程机会成本。",
+      "scope": "题干要求的编辑评估；仅参考题干",
+      "reviewedAt": "2026-09-21",
+      "officialBand": null,
+      "learnerMastery": null
+    },
+    "ieltsa-writing-202609-8-2-reference-v1": {
+      "level": 4,
+      "scaleMax": 5,
+      "label": "较难",
+      "dimensions": {
+        "题意约束": 4,
+        "论点展开": 4,
+        "组织负荷": 4
+      },
+      "reason": "“最好的办法”要求比较措施效果，不能只证明提高年龄有一点作用。",
+      "scope": "题干要求的编辑评估；仅参考题干",
+      "reviewedAt": "2026-09-21",
+      "officialBand": null,
+      "learnerMastery": null
+    },
+    "ieltsa-writing-202609-10-2-reference-v1": {
+      "level": 3,
+      "scaleMax": 5,
+      "label": "中等",
+      "dimensions": {
+        "题意约束": 3,
+        "论点展开": 3,
+        "组织负荷": 3
+      },
+      "reason": "同时解释独居的原因并评价趋势，避免把个人选择等同于统一社会结果。",
+      "scope": "题干要求的编辑评估；仅参考题干",
+      "reviewedAt": "2026-09-21",
+      "officialBand": null,
+      "learnerMastery": null
+    },
+    "pr-jiufen-20260921-origin-language-v1": {
+      "level": 4,
+      "scaleMax": 5,
+      "label": "较难",
+      "dimensions": {
+        "语言抽象度": 4,
+        "观点与指代整合": 4,
+        "作答结构": 3
+      },
+      "reason": "讨论语言演化的抽象概念，须持续分清多位研究者与作者的观点；包含单选、句尾匹配和三选项任务。",
+      "scope": "同科材料的编辑评估",
+      "reviewedAt": "2026-09-21",
+      "officialBand": null,
+      "learnerMastery": null
+    },
+    "pr-jiufen-20260921-adult-literacy-v1": {
+      "level": 3,
+      "scaleMax": 5,
+      "label": "中等",
+      "dimensions": {
+        "题意约束": 3,
+        "论点抽象度": 3,
+        "组织负荷": 3
+      },
+      "reason": "须同时解释成人读写困难带来的具体不利处境，并提出由政府实施的对应帮助；不能只写儿童教育。",
+      "scope": "同科材料的编辑评估",
+      "reviewedAt": "2026-09-21",
+      "officialBand": null,
+      "learnerMastery": null
+    },
+    "pr-jiufen-20260921-work-life-balance-v1": {
+      "level": 2,
+      "scaleMax": 5,
+      "label": "较易",
+      "dimensions": {
+        "题意约束": 2,
+        "论点抽象度": 2,
+        "组织负荷": 2
+      },
+      "reason": "常见生活议题，任务是原因与解决办法；主要负荷是建立原因和措施的具体对应，避免只罗列建议。",
+      "scope": "同科材料的编辑评估",
+      "reviewedAt": "2026-09-21",
+      "officialBand": null,
+      "learnerMastery": null
+    },
+    "pr-jiufen-20260921-species-extinction-v1": {
+      "level": 4,
+      "scaleMax": 5,
+      "label": "较难",
+      "dimensions": {
+        "题意约束": 4,
+        "论点抽象度": 4,
+        "组织负荷": 3
+      },
+      "reason": "需判断自然过程能否推出不应阻止的主张；可从原因、影响或保护成本等角度论证，不要求固定立场或论证框架。",
+      "scope": "同科材料的编辑评估",
+      "reviewedAt": "2026-09-21",
+      "officialBand": null,
+      "learnerMastery": null
+    }
+  }
+}

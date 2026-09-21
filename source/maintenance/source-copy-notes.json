@@ -1,0 +1,79 @@
+{
+  "notes": [
+    {
+      "id": "source-note-coal-defendants",
+      "trigger": "Defendants of mining",
+      "text": "原题引文保留原页拼写：Defendants of mining。这里语义上指采矿的支持者；自己的表达请用 defenders of mining，不把原题拼写当作推荐搭配。",
+      "selectors": [
+        "#supplement-audit-067",
+        "#supplement-audit-073",
+        "#supplement-audit-127"
+      ],
+      "auditIds": [
+        "audit-067",
+        "audit-073",
+        "audit-127"
+      ],
+      "caseIds": [
+        "support-reading-coal"
+      ]
+    },
+    {
+      "id": "source-note-mapungubwe-source-wording",
+      "trigger": "Mapungubwe, flourished / between the 11th and 13th century CE",
+      "text": "原题引文保留原页的 Mapungubwe, flourished between the 11th and 13th century CE；这处逗号和单数 century 来自来源。自己的表达可写 Mapungubwe flourished between the 11th and 13th centuries CE。",
+      "selectors": [
+        "#supplement-audit-120"
+      ],
+      "auditIds": [
+        "audit-120"
+      ],
+      "caseIds": [
+        "support-reading-c21-mapungubwe"
+      ],
+      "triggers": [
+        "Mapungubwe, flourished"
+      ]
+    },
+    {
+      "id": "source-note-health-heath",
+      "trigger": "creation of heath",
+      "text": "原题引文保留原页的 creation of heath；上下文讨论健康，自己的表达请写 creation of health。",
+      "selectors": [
+        "#supplement-audit-125",
+        "#reading-case-rd-gap-academic-short-answer-health"
+      ],
+      "auditIds": [
+        "audit-125"
+      ],
+      "caseIds": [
+        "support-reading-health"
+      ]
+    },
+    {
+      "id": "source-note-davies-impressionist-footnote",
+      "trigger": "*** Impressionist: an artist",
+      "text": "脚注引文保留原页；其后半句涉及 Renoir 作品，属于来源编辑瑕疵，不要把整条脚注当作英语完整定义范例。这里的 Impressionist 指印象派画家。",
+      "selectors": [
+        "#topic-society",
+        "#topic-culture",
+        "#supplement-audit-045",
+        "#supplement-audit-074",
+        "#supplement-audit-124",
+        "#reading-text-davies",
+        "#reading-case-rd-c21-davies-2"
+      ],
+      "auditIds": [
+        "audit-043",
+        "audit-051",
+        "audit-045",
+        "audit-074",
+        "audit-124",
+        "audit-087"
+      ],
+      "caseIds": [
+        "support-reading-c21-davies"
+      ]
+    }
+  ]
+}

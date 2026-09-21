@@ -1,0 +1,59 @@
+{
+  "candidate": "C:\\Users\\Admin1\\Documents\\ChatGPT\\ielts\\content-pipeline\\workspace-split-20260921\\candidate.html",
+  "baseline": "C:\\Users\\Admin1\\Documents\\Codex\\2026-09-12\\referenced-chatgpt-conversation-this-is-an\\outputs\\IELTS-四科学习册\\开始学习.html",
+  "sha256": "a5d70ec209439d74464910cdff7d3871750326cdf05e05a020096e27f192fb12",
+  "baselineSha256": "dc3e6e39ab1bf2155069f92d6fe952733b9b044684a02d81d7f426578578938a",
+  "method": "Existing Node/linkedom harness; actual core/navigation scripts with isolated synthetic records. No real browser, layout engine, user storage or microphone.",
+  "passed": 7,
+  "total": 7,
+  "checks": [
+    {
+      "name": "Every original save field and ID survives without duplication",
+      "status": "pass",
+      "detail": {
+        "fields": 3353,
+        "originalIds": 1226
+      }
+    },
+    {
+      "name": "Learning contracts and all daily feature boundaries are unchanged",
+      "status": "pass"
+    },
+    {
+      "name": "Five independent top-level destinations retain Study, Practice and Tests ordering",
+      "status": "pass"
+    },
+    {
+      "name": "All eight old workspace destinations survive and development links are public only",
+      "status": "pass",
+      "detail": {
+        "learningDestinations": [
+          "#writing-workbench",
+          "#records",
+          "#course-window",
+          "#materials",
+          "#library",
+          "#plan",
+          "#vocabulary-review",
+          "#sentence-learning"
+        ],
+        "developmentDestinations": 2
+      }
+    },
+    {
+      "name": "New and legacy routes show separate pages, current navigation and full-width state",
+      "status": "pass"
+    },
+    {
+      "name": "All existing workspace tools open through their original routes",
+      "status": "pass"
+    },
+    {
+      "name": "Learning records survive navigation between both workbenches and simulated reload",
+      "status": "pass",
+      "detail": {
+        "syntheticStorageOnly": true
+      }
+    }
+  ]
+}

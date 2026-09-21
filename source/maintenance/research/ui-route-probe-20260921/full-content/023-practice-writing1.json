@@ -1,0 +1,226 @@
+{
+  "requested": "practice-writing1",
+  "from": [
+    "主面板",
+    "页面链接"
+  ],
+  "actual": "#practice-writing-list",
+  "checkedAt": "2026-09-21T12:50:45.381Z",
+  "title": "练习 / 写作 · IELTS",
+  "label": "练习 / 写作",
+  "panel": "practice",
+  "contentRoot": "practice",
+  "headings": [
+    {
+      "tag": "H1",
+      "text": "练习 · 写作",
+      "visible": true
+    },
+    {
+      "tag": "H2",
+      "text": "Task 1",
+      "visible": true
+    },
+    {
+      "tag": "H2",
+      "text": "Task 2",
+      "visible": true
+    }
+  ],
+  "controls": [
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "← 返回练习",
+      "label": "",
+      "href": "#practice",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SELECT",
+      "id": "la-practice-skill",
+      "type": "select-one",
+      "text": "全部写作Task 1Task 2",
+      "label": "写作类型全部写作Task 1Task 2",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false,
+      "options": [
+        {
+          "value": "",
+          "label": "全部写作"
+        },
+        {
+          "value": "writing1",
+          "label": "Task 1"
+        },
+        {
+          "value": "writing2",
+          "label": "Task 2"
+        }
+      ]
+    },
+    {
+      "tag": "SELECT",
+      "id": "la-practice-topic",
+      "type": "select-one",
+      "text": "全部城市与交通家庭与关系工作与生活教育与学习旅行与地方机经 · 9月21日新增环境与自然通用",
+      "label": "话题全部城市与交通家庭与关系工作与生活教育与学习旅行与地方机经 · 9月21日新增环境与自然通用",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false,
+      "options": [
+        {
+          "value": "",
+          "label": "全部"
+        },
+        {
+          "value": "城市与交通",
+          "label": "城市与交通"
+        },
+        {
+          "value": "家庭与关系",
+          "label": "家庭与关系"
+        },
+        {
+          "value": "工作与生活",
+          "label": "工作与生活"
+        },
+        {
+          "value": "教育与学习",
+          "label": "教育与学习"
+        },
+        {
+          "value": "旅行与地方",
+          "label": "旅行与地方"
+        },
+        {
+          "value": "机经 · 9月21日新增",
+          "label": "机经 · 9月21日新增"
+        },
+        {
+          "value": "环境与自然",
+          "label": "环境与自然"
+        },
+        {
+          "value": "通用",
+          "label": "通用"
+        }
+      ]
+    },
+    {
+      "tag": "SELECT",
+      "id": "la-practice-part",
+      "type": "select-one",
+      "text": "全部Task 2",
+      "label": "Part全部Task 2",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false,
+      "options": [
+        {
+          "value": "",
+          "label": "全部"
+        },
+        {
+          "value": "Task 2",
+          "label": "Task 2"
+        }
+      ]
+    },
+    {
+      "tag": "SELECT",
+      "id": "la-practice-type",
+      "type": "select-one",
+      "text": "全部图表填空与信息整理机经表达与运用",
+      "label": "题型／内容全部图表填空与信息整理机经表达与运用",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false,
+      "options": [
+        {
+          "value": "",
+          "label": "全部"
+        },
+        {
+          "value": "图表",
+          "label": "图表"
+        },
+        {
+          "value": "填空与信息整理",
+          "label": "填空与信息整理"
+        },
+        {
+          "value": "机经",
+          "label": "机经"
+        },
+        {
+          "value": "表达与运用",
+          "label": "表达与运用"
+        }
+      ]
+    },
+    {
+      "tag": "INPUT",
+      "id": "la-practice-search",
+      "type": "search",
+      "text": "",
+      "label": "内容或题型",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "进入Task 1 →",
+      "label": "",
+      "href": "#practice-writing1-list",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "进入Task 2 →",
+      "label": "",
+      "href": "#practice-writing2-list",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    }
+  ],
+  "visibleText": "练习 · 写作\n\n选择 Task 1 或 Task 2。\n\n← 返回练习\n0% · 0 / 31 单元\n\nACADEMIC WRITING\n\nTask 1\n\n11 项练习\n\n0% · 0 / 11 单元\n进入Task 1 →\n\nESSAY WRITING\n\nTask 2\n\n20 项练习\n\n0% · 0 / 20 单元\n进入Task 2 →",
+  "allContent": "IELTS / MY STUDY练习 · 写作选择 Task 1 或 Task 2。← 返回练习0% · 0 / 31 单元写作类型全部写作Task 1Task 2话题全部城市与交通家庭与关系工作与生活教育与学习旅行与地方机经 · 9月21日新增环境与自然通用31 项内容Part全部Task 2题型／内容全部图表填空与信息整理机经表达与运用内容或题型ACADEMIC WRITINGTask 111 项练习0% · 0 / 11 单元进入Task 1 →ESSAY WRITINGTask 220 项练习0% · 0 / 20 单元进入Task 2 →",
+  "links": [
+    {
+      "text": "← 返回练习",
+      "href": "#practice"
+    },
+    {
+      "text": "进入Task 1 →",
+      "href": "#practice-writing1-list"
+    },
+    {
+      "text": "进入Task 2 →",
+      "href": "#practice-writing2-list"
+    }
+  ],
+  "details": [],
+  "saveFields": [],
+  "images": [],
+  "audio": [],
+  "viewport": 1440,
+  "documentWidth": 1440
+}

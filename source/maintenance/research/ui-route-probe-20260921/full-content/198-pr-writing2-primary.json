@@ -1,0 +1,175 @@
+{
+  "requested": "pr-writing2-primary",
+  "from": [
+    "内容单元",
+    "页面链接"
+  ],
+  "actual": "#pr-writing2-primary",
+  "checkedAt": "2026-09-21T12:52:58.676Z",
+  "title": "练习 / 写作 · Task 2 / Task 2 · 教育 小学课堂中的学习与游戏 · IELTS",
+  "label": "练习 / 写作 · Task 2 / Task 2 · 教育 小学课堂中的学习与游戏",
+  "panel": "practice-writing2",
+  "contentRoot": "pr-writing2-primary",
+  "headings": [],
+  "controls": [
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "Task 2 · 教育 小学课堂中的学习与游戏",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "作答 1\n暂时不会",
+      "href": null,
+      "save": "pr-writing2-primary-q1",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "暂时不会",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "作答 2\n暂时不会",
+      "href": null,
+      "save": "pr-writing2-primary-q2",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "暂时不会",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "答案",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "再练一次",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "",
+      "href": null,
+      "save": "pr-writing2-primary-another",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "",
+      "label": "",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "",
+      "label": "",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "Cambridge IELTS 21 Academic · Test 4 · Task 2",
+      "label": "",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=96",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    }
+  ],
+  "visibleText": "Task 2 · 教育 小学课堂中的学习与游戏\n0% · 0 / 2 完成\n\n直接回应下面的完整题干。\n\n待改写的立场句（自编）：I agree that play is useful because children enjoy it.\n\nSome people argue that primary schools focus too much on formal learning. To what extent do you agree with this opinion? How important do you think it is for children to play as well as learn in the primary school classroom?\n\n把上面的立场句改写为 35–50 个英文词，同时回答两个问题。立场须允许一部分正式教学保留。\n\n作答 1\n暂时不会\n\n写 80–110 个英文词，论证课堂游戏的一项学习价值，并用一个具体课堂活动说明。结尾说明这个活动为什么仍需要教师设计或引导。\n\n作答 2\n暂时不会\n答案\n再练一次\n\n选材来源 · Cambridge IELTS 21 Academic · Test 4 · Task 2",
+  "allContent": "Task 2 · 教育 小学课堂中的学习与游戏0% · 0 / 2 完成直接回应下面的完整题干。待改写的立场句（自编）：I agree that play is useful because children enjoy it.Some people argue that primary schools focus too much on formal learning. To what extent do you agree with this opinion? How important do you think it is for children to play as well as learn in the primary school classroom?把上面的立场句改写为 35–50 个英文词，同时回答两个问题。立场须允许一部分正式教学保留。作答 1暂时不会写 80–110 个英文词，论证课堂游戏的一项学习价值，并用一个具体课堂活动说明。结尾说明这个活动为什么仍需要教师设计或引导。作答 2暂时不会答案1. 示例：I partly agree that primary schools devote too much time to formal instruction. Although direct teaching remains necessary, well-designed classroom play is important because it allows children to apply knowledge and practise cooperation in a meaningful setting.2. 示例：Classroom play can make an abstract skill easier to use. For example, a teacher could organise a small shop in which pupils take turns buying items with pretend money. Children would have to add prices, calculate change and explain their choices to classmates. This activity gives a practical purpose to calculations that might otherwise remain a page of exercises. However, simply providing toys would not ensure that pupils learnt the intended skill. The teacher would still need to choose suitable prices, observe mistakes and help pupils understand how to correct them.再练一次仍回答原题，写 40–55 个英文词的结论。明确区分“正式教学过多”和“正式教学完全无用”，不要新增一个此前未论证的社会问题。作答暂时不会答案示例：Primary education should therefore place less emphasis on prolonged formal instruction, while preserving direct teaching where it is useful. Structured play deserves a regular place in the classroom because it helps children apply what they learn, but its educational value depends on thoughtful planning and guidance.选材来源 · Cambridge IELTS 21 Academic · Test 4 · Task 2",
+  "links": [
+    {
+      "text": "Cambridge IELTS 21 Academic · Test 4 · Task 2",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=96"
+    }
+  ],
+  "details": [
+    {
+      "id": "answer-check-53",
+      "title": "答案",
+      "open": false,
+      "answerGate": "[\"pr-writing2-primary-q1\", \"pr-writing2-primary-q2\"]",
+      "visible": true
+    },
+    {
+      "id": "",
+      "title": "再练一次",
+      "open": false,
+      "visible": true
+    },
+    {
+      "id": "answer-check-54",
+      "title": "答案",
+      "open": false,
+      "answerGate": "[\"pr-writing2-primary-another\"]",
+      "visible": false
+    }
+  ],
+  "saveFields": [
+    "pr-writing2-primary-q1",
+    "pr-writing2-primary-q2",
+    "pr-writing2-primary-another"
+  ],
+  "images": [],
+  "audio": [],
+  "viewport": 1440,
+  "documentWidth": 1440
+}

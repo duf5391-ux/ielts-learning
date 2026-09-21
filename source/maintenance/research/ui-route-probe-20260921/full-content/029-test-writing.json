@@ -1,0 +1,181 @@
+{
+  "requested": "test-writing",
+  "from": [
+    "主面板",
+    "页面链接"
+  ],
+  "actual": "#test-writing",
+  "checkedAt": "2026-09-21T12:50:49.721Z",
+  "title": "写作整科测试 · IELTS",
+  "label": "写作整科测试",
+  "panel": "test-writing",
+  "contentRoot": "test-writing",
+  "headings": [
+    {
+      "tag": "H1",
+      "text": "写作整科测试",
+      "visible": true
+    },
+    {
+      "tag": "H2",
+      "text": "Task 1",
+      "visible": false
+    },
+    {
+      "tag": "H2",
+      "text": "Task 2",
+      "visible": false
+    }
+  ],
+  "controls": [
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "← 全部测试",
+      "label": "",
+      "href": "#tests",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "开始本次测试",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "提交本次作答",
+      "label": "",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "再做一轮",
+      "label": "",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "Task 1 作文",
+      "href": null,
+      "save": "full-test-writing-task1",
+      "test": "writing",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "Task 2 作文",
+      "href": null,
+      "save": "full-test-writing-task2",
+      "test": "writing",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "官方评分标准",
+      "label": "",
+      "href": "https://ielts.org/take-a-test/your-results/ielts-scoring-in-detail",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "把需要修改的片段带到写作工作台",
+      "label": "",
+      "href": "#writing-workbench",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "以往作答 · 0 次",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    }
+  ],
+  "visibleText": "← 全部测试\n写作整科测试\n\nTask 1 + Task 2\n\nCambridge IELTS 21 Academic · Test 1。建议分别用 20 / 40 分钟，至少 150 / 250 词。\n\n尚未开始\n开始本次测试\n0% · 0 / 2 已作答\n以往作答 · 0 次",
+  "allContent": "← 全部测试写作整科测试Task 1 + Task 2Cambridge IELTS 21 Academic · Test 1。建议分别用 20 / 40 分钟，至少 150 / 250 词。尚未开始开始本次测试提交本次作答再做一轮0% · 0 / 2 已作答Task 10% · 0 / 1 已作答Task 1 作文0 词（空白分隔计数）Task 20% · 0 / 1 已作答Task 2 作文0 词（空白分隔计数）检查 Task 1 是否选出主要特征并比较数据；Task 2 是否直接回应观点并展开理由。两项都检查段落衔接、词汇搭配、语法与拼写。官方评分标准 · 把需要修改的片段带到写作工作台以往作答 · 0 次",
+  "links": [
+    {
+      "text": "← 全部测试",
+      "href": "#tests"
+    },
+    {
+      "text": "官方评分标准",
+      "href": "https://ielts.org/take-a-test/your-results/ielts-scoring-in-detail"
+    },
+    {
+      "text": "把需要修改的片段带到写作工作台",
+      "href": "#writing-workbench"
+    }
+  ],
+  "details": [
+    {
+      "id": "",
+      "title": "以往作答 · 0 次",
+      "open": false,
+      "visible": true
+    }
+  ],
+  "saveFields": [
+    "full-test-writing-task1",
+    "full-test-writing-task2"
+  ],
+  "images": [
+    {
+      "src": "learning-assets/c21-page-30.png",
+      "alt": "Cambridge IELTS 21 Test 1 原始题页，PDF 第 30 页",
+      "visible": false,
+      "complete": false,
+      "width": 0
+    },
+    {
+      "src": "learning-assets/c21-page-31.png",
+      "alt": "Cambridge IELTS 21 Test 1 原始题页，PDF 第 31 页",
+      "visible": false,
+      "complete": false,
+      "width": 0
+    }
+  ],
+  "audio": [],
+  "viewport": 1440,
+  "documentWidth": 1440
+}

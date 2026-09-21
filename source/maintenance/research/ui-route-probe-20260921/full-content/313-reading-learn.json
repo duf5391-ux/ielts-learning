@@ -1,0 +1,174 @@
+{
+  "requested": "reading-learn",
+  "from": [
+    "页面链接"
+  ],
+  "actual": "#reading-learn",
+  "checkedAt": "2026-09-21T12:54:54.068Z",
+  "title": "学习 / 阅读 / 阅读 · 从原题开始学 · IELTS",
+  "label": "学习 / 阅读 / 阅读 · 从原题开始学",
+  "panel": "reading",
+  "contentRoot": "reading-learn",
+  "headings": [
+    {
+      "tag": "H2",
+      "text": "从这份答案开始学",
+      "visible": false
+    },
+    {
+      "tag": "H2",
+      "text": "教学：一次只查清一件事",
+      "visible": false
+    },
+    {
+      "tag": "H3",
+      "text": "我的练习与修订",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "用原题练这一题型",
+      "visible": false
+    }
+  ],
+  "controls": [
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "作答后复盘：我选的题号、首次答案和原文位置是什么？位置是自己找到，还是提示后找到？",
+      "href": null,
+      "save": "reading-practice0",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "作答后复盘：题干提出了什么具体主张？原文支持、反对或未提供足够信息的依据是什么？",
+      "href": null,
+      "save": "reading-practice1",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "有提示用法练习：从本章已有两句任务中任选一句，用 be geared toward/towards 表达课程或培训的重点；也可写准确的替代表达。",
+      "href": null,
+      "save": "reading-practice2",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "可选记录",
+      "label": "",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "作答后记录：这项用法属于 K 以前会用／R 认识少用／N 本次新学？本次是看提示使用、额外帮助后成功，还是合法替代表达成功？",
+      "href": null,
+      "save": "reading-practice3",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "保留自己的意思，在这里写修订稿或修复后的片段。",
+      "href": null,
+      "save": "reading-revision",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "The Davies Sisters｜成长背景与收藏起点",
+      "label": "",
+      "href": "#reading-case-rd-c21-davies-1",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "The Davies Sisters｜印象派转向与战时收藏",
+      "label": "",
+      "href": "#reading-case-rd-c21-davies-2",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "The Davies Sisters｜收藏停止与文化遗产",
+      "label": "",
+      "href": "#reading-case-rd-c21-davies-3",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    }
+  ],
+  "visibleText": "从这份答案开始学保存首答后，从不确定或答错的题里选一题：先指出原文位置并说出自己的理解，再打开解释，只修清题干与原文之间一个具体关系。关掉解释重新说明判断，保留首答，不以新答案覆盖它。教学：一次只查清一件事\n预计 20—30 分钟，可以另一天完成。\n先分清哪里卡住。\n\n尚未找到相关段落：先展示你的候选位置，不把“没找到”直接写成 Not Given。\n找到但意思不确定：先用中文说出原句意思，检查否定、比较、时间和指代。\n理解原句仍答错：将题干的具体主张与原文比较。原文给出矛盾才是 False；没有足够信息判定则是 Not Given。\n\n本章优先对照第 9、10、11 题：它们涉及来源、态度和公众反应，不能仅因出现同一画家或画廊就判断信息一致。具体解释在参考页，先留下你的理解。\n词汇选择与搭配：只在首次作答后打开。以下是围绕原文设计的教学练习，不是原卷问题。\n\n\n\n原文用法\n本次理解任务\n可选产出\n\n\n\n\na champion of…\n此处是“某事的支持者”，还是体育冠军？这个义项怎样影响第 10 题？\n表达某人支持公共图书馆；也可以先用 supporter\n\n\nbe geared toward…\n哪件事被设计为服务某种目的？\n表达一个课程以初学者的需要为重点\n\n\nplay a part in…\n战争怎样参与了收藏发展的过程？它等不等于唯一原因？\n表达公共交通可能对减少拥堵发挥作用\n\n\n\n本章先试这 3 项；其中选 1—2 项进入主动输出。philanthropic、艺术流派和画家姓名可只作为读懂文章的背景，不要求全部主动背诵。选词仍取决于你的实际缺口，并非宣称这 3 项已被证明是考试最高频词。\nUnfamiliar vocabulary usage。 gear something toward something 指把某物设计或调整为适合某目的；常见被动形式 be geared toward/towards…。\n\n表达：这个课程针对初学者的需要设计。\n换到工作情境：培训侧重实际问题解决。\n标记 K（以前会用）/ R（认识但很少用）/ N（本次新学）。再记“按题面提示组织句子 / 额外帮助后成功 / 换一种说法成功”。结构就在本页，照着它写不能记为无提示独立提取；独立提取留到隔日关闭参考后的检查。\n\n最后合上解释，用自己的话重建两道选定题的判断。记为修复后的表现，不覆盖首次答案。我的练习与修订以下属于教学支持后的使用，和首次答案分开。作答后复盘：我选的题号、首次答案和原文位置是什么？位置是自己找到，还是提示后找到？作答后复盘：题干提出了什么具体主张？原文支持、反对或未提供足够信息的依据是什么？有提示用法练习：从本章已有两句任务中任选一句，用 be geared toward/towards 表达课程或培训的重点；也可写准确的替代表达。可选记录作答后记录：这项用法属于 K 以前会用／R 认识少用／N 本次新学？本次是看提示使用、额外帮助后成功，还是合法替代表达成功？保留自己的意思，在这里写修订稿或修复后的片段。用原题练这一题型The Davies Sisters｜成长背景与收藏起点The Davies Sisters｜印象派转向与战时收藏The Davies Sisters｜收藏停止与文化遗产",
+  "allContent": "从这份答案开始学保存首答后，从不确定或答错的题里选一题：先指出原文位置并说出自己的理解，再打开解释，只修清题干与原文之间一个具体关系。关掉解释重新说明判断，保留首答，不以新答案覆盖它。教学：一次只查清一件事\n预计 20—30 分钟，可以另一天完成。\n先分清哪里卡住。\n\n尚未找到相关段落：先展示你的候选位置，不把“没找到”直接写成 Not Given。\n找到但意思不确定：先用中文说出原句意思，检查否定、比较、时间和指代。\n理解原句仍答错：将题干的具体主张与原文比较。原文给出矛盾才是 False；没有足够信息判定则是 Not Given。\n\n本章优先对照第 9、10、11 题：它们涉及来源、态度和公众反应，不能仅因出现同一画家或画廊就判断信息一致。具体解释在参考页，先留下你的理解。\n词汇选择与搭配：只在首次作答后打开。以下是围绕原文设计的教学练习，不是原卷问题。\n\n\n\n原文用法\n本次理解任务\n可选产出\n\n\n\n\na champion of…\n此处是“某事的支持者”，还是体育冠军？这个义项怎样影响第 10 题？\n表达某人支持公共图书馆；也可以先用 supporter\n\n\nbe geared toward…\n哪件事被设计为服务某种目的？\n表达一个课程以初学者的需要为重点\n\n\nplay a part in…\n战争怎样参与了收藏发展的过程？它等不等于唯一原因？\n表达公共交通可能对减少拥堵发挥作用\n\n\n\n本章先试这 3 项；其中选 1—2 项进入主动输出。philanthropic、艺术流派和画家姓名可只作为读懂文章的背景，不要求全部主动背诵。选词仍取决于你的实际缺口，并非宣称这 3 项已被证明是考试最高频词。\nUnfamiliar vocabulary usage。 gear something toward something 指把某物设计或调整为适合某目的；常见被动形式 be geared toward/towards…。\n\n表达：这个课程针对初学者的需要设计。\n换到工作情境：培训侧重实际问题解决。\n标记 K（以前会用）/ R（认识但很少用）/ N（本次新学）。再记“按题面提示组织句子 / 额外帮助后成功 / 换一种说法成功”。结构就在本页，照着它写不能记为无提示独立提取；独立提取留到隔日关闭参考后的检查。\n\n最后合上解释，用自己的话重建两道选定题的判断。记为修复后的表现，不覆盖首次答案。我的练习与修订以下属于教学支持后的使用，和首次答案分开。作答后复盘：我选的题号、首次答案和原文位置是什么？位置是自己找到，还是提示后找到？作答后复盘：题干提出了什么具体主张？原文支持、反对或未提供足够信息的依据是什么？有提示用法练习：从本章已有两句任务中任选一句，用 be geared toward/towards 表达课程或培训的重点；也可写准确的替代表达。可选记录作答后记录：这项用法属于 K 以前会用／R 认识少用／N 本次新学？本次是看提示使用、额外帮助后成功，还是合法替代表达成功？保留自己的意思，在这里写修订稿或修复后的片段。用原题练这一题型The Davies Sisters｜成长背景与收藏起点The Davies Sisters｜印象派转向与战时收藏The Davies Sisters｜收藏停止与文化遗产",
+  "links": [
+    {
+      "text": "The Davies Sisters｜成长背景与收藏起点",
+      "href": "#reading-case-rd-c21-davies-1"
+    },
+    {
+      "text": "The Davies Sisters｜印象派转向与战时收藏",
+      "href": "#reading-case-rd-c21-davies-2"
+    },
+    {
+      "text": "The Davies Sisters｜收藏停止与文化遗产",
+      "href": "#reading-case-rd-c21-davies-3"
+    }
+  ],
+  "details": [
+    {
+      "id": "",
+      "title": "可选记录",
+      "open": false,
+      "visible": false
+    }
+  ],
+  "saveFields": [
+    "reading-practice0",
+    "reading-practice1",
+    "reading-practice2",
+    "reading-practice3",
+    "reading-revision"
+  ],
+  "images": [],
+  "audio": [],
+  "viewport": 1440,
+  "documentWidth": 1440
+}

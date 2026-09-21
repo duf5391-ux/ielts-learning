@@ -1,0 +1,225 @@
+{
+  "requested": "reading-case-rd-c21-sugar-1",
+  "from": [
+    "内容单元",
+    "页面链接",
+    "每日安排目标"
+  ],
+  "actual": "#reading-case-rd-c21-sugar-1",
+  "checkedAt": "2026-09-21T12:51:58.977Z",
+  "title": "练习 / 阅读 / The World of Sugar｜全球贸易与误解纠正 · IELTS",
+  "label": "练习 / 阅读 / The World of Sugar｜全球贸易与误解纠正",
+  "panel": "practice-reading",
+  "contentRoot": "reading-case-rd-c21-sugar-1",
+  "headings": [
+    {
+      "tag": "H3",
+      "text": "对照答案，回到证据",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "原文第1段",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "原文第2段",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "原文第3段",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "词语与搭配",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "句子精读",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "这篇材料里可用于写作的表达",
+      "visible": false
+    }
+  ],
+  "controls": [
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "The World of Sugar｜全球贸易与误解纠正未作答\n选择题 · 3 段 · 248 词 · 3 题 · 同篇原文另有裁切",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "Cambridge IELTS 21 Academic",
+      "label": "",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=26",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "case-rd-c21-sugar-1-q1",
+      "type": "text",
+      "text": "",
+      "label": "第 27 题作答",
+      "href": null,
+      "save": "case-rd-c21-sugar-1-q1",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "case-rd-c21-sugar-1-q2",
+      "type": "text",
+      "text": "",
+      "label": "第 28 题作答",
+      "href": null,
+      "save": "case-rd-c21-sugar-1-q2",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "case-rd-c21-sugar-1-q3",
+      "type": "text",
+      "text": "",
+      "label": "第 29 题作答",
+      "href": null,
+      "save": "case-rd-c21-sugar-1-q3",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "checkbox",
+      "text": "",
+      "label": "",
+      "href": null,
+      "save": "case-rd-c21-sugar-1-done",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "hidden",
+      "text": "",
+      "label": "",
+      "href": null,
+      "save": "case-rd-c21-sugar-1-saved-at",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "保留作答，查看答案",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "核对原答案页",
+      "label": "",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=119",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "case-rd-c21-sugar-1-revision",
+      "type": "textarea",
+      "text": "",
+      "label": "我的修订／证据笔记",
+      "href": null,
+      "save": "case-rd-c21-sugar-1-revision",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "材料精读 · 内容与词句",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "",
+      "label": "",
+      "href": "#writing-prep-wc-bc-overfishing-from-rd-c21-sugar-1",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    }
+  ],
+  "visibleText": "The World of Sugar｜全球贸易与误解纠正未作答\n选择题 · 3 段 · 248 词 · 3 题 · 同篇原文另有裁切\n0% · 0 / 1 完成\n\n真题 · Cambridge IELTS 21 Academic · PDF 第 26 页\n\nChoose the correct letter A, B, C or D. 原题Q27–29。\n\n原文第1段Ulbe Bosma's The World of Sugar is a genuinely global history. Bosma discusses all the sugar growing places of the world, beginning with Cuba and Java, the largest exporters of the early 20th century. But this is a history not just of cane sugar but also of beet sugar, an equally important form of traded sugar over the last hundred years. Beet sugar is grown mainly in Europe and the United States. It has also been massively subsidised and sold at artificially low prices on world markets, threatening the livelihood of producers of cane sugar.\n\n原文第2段Bosma's discussion of the sugar market in Britain gives a sense of the book's range. The sweet-toothed British first bought cane sugar from their own slavery-dependent colonial plantations. Following the abolition of slavery in the British Empire, cane sugar was imported to Britain from places which retained the practice, such as Cuba and Brazil. Towards the end of the 19th century, the British started to import beet sugar from continental Europe. Only in the 20th century was there a move to develop a national beet sugar industry.\n\n原文第3段The book provides a global labour history, investigating the wide range of labour regimes associated with growing sugar. Contrary to popular belief, cane sugar production was never just restricted to large, dedicated plantations owned by rich men. For example, in Java, a huge exporter of sugar in the early 20th century, sugar cane was grown together with rice in an extraordinarily labour-intensive way by small farmers.\n\n27. What does the reviewer suggest about the cultivation and trading of sugar in the first paragraph?\n\nA Sugar has played a major role in international relations.\nB Beet sugar has been made more internationally competitive.\nC Cane sugar is thought to be of superior quality to beet sugar.\nD New locations for cultivating sugar have increased production.\n第 27 题作答\n\n28. In the second paragraph, when discussing the sugar market in Britain, the reviewer stresses\n\nA how the sources used changed over time.\nB how developments in agriculture affected trade.\nC the increased demand for sugar over the years.\nD the growing support for ethical methods of cultivation.\n第 28 题作答\n\n29. What is the reviewer doing in the third paragraph?\n\nA describing an efficient approach to sugar cultivation\nB explaining why the use of sugar plantations declined\nC addressing a misconception about the growing of sugar cane\nD evaluating different approaches to the cultivation of sugar cane\n第 29 题作答\n保留作答，查看答案\n\n先作答；不确定的题也可记录判断与疑点。\n\n材料精读 · 内容与词句",
+  "allContent": "The World of Sugar｜全球贸易与误解纠正未作答选择题 · 3 段 · 248 词 · 3 题 · 同篇原文另有裁切0% · 0 / 1 完成真题 · Cambridge IELTS 21 Academic · PDF 第 26 页Choose the correct letter A, B, C or D. 原题Q27–29。原文第1段Ulbe Bosma's The World of Sugar is a genuinely global history. Bosma discusses all the sugar growing places of the world, beginning with Cuba and Java, the largest exporters of the early 20th century. But this is a history not just of cane sugar but also of beet sugar, an equally important form of traded sugar over the last hundred years. Beet sugar is grown mainly in Europe and the United States. It has also been massively subsidised and sold at artificially low prices on world markets, threatening the livelihood of producers of cane sugar.原文第2段Bosma's discussion of the sugar market in Britain gives a sense of the book's range. The sweet-toothed British first bought cane sugar from their own slavery-dependent colonial plantations. Following the abolition of slavery in the British Empire, cane sugar was imported to Britain from places which retained the practice, such as Cuba and Brazil. Towards the end of the 19th century, the British started to import beet sugar from continental Europe. Only in the 20th century was there a move to develop a national beet sugar industry.原文第3段The book provides a global labour history, investigating the wide range of labour regimes associated with growing sugar. Contrary to popular belief, cane sugar production was never just restricted to large, dedicated plantations owned by rich men. For example, in Java, a huge exporter of sugar in the early 20th century, sugar cane was grown together with rice in an extraordinarily labour-intensive way by small farmers.27. What does the reviewer suggest about the cultivation and trading of sugar in the first paragraph?A Sugar has played a major role in international relations.B Beet sugar has been made more internationally competitive.C Cane sugar is thought to be of superior quality to beet sugar.D New locations for cultivating sugar have increased production.第 27 题作答28. In the second paragraph, when discussing the sugar market in Britain, the reviewer stressesA how the sources used changed over time.B how developments in agriculture affected trade.C the increased demand for sugar over the years.D the growing support for ethical methods of cultivation.第 28 题作答29. What is the reviewer doing in the third paragraph?A describing an efficient approach to sugar cultivationB explaining why the use of sugar plantations declinedC addressing a misconception about the growing of sugar caneD evaluating different approaches to the cultivation of sugar cane第 29 题作答保留作答，查看答案先作答；不确定的题也可记录判断与疑点。对照答案，回到证据第 27 题 · B补贴让甜菜糖以人为低价竞争，支持B。文中并未比较甘蔗糖品质。massively subsidised and sold at artificially low prices on world markets第 28 题 · Afirst→Following→Towards the end→Only in the 20th century构成来源随时间变动的序列。first bought cane sugar from their own slavery-dependent colonial plantations第 29 题 · C首句提出劳动力历史，Contrary to popular belief明确纠正普遍误解，小农Java例子服务于该功能。Contrary to popular belief, cane sugar production was never just restricted to large, dedicated plantations核对原答案页我的修订／证据笔记材料精读 · 内容与词句这是一篇书评的开头：作者介绍Bosma如何把糖写成一部全球贸易史和劳动史。甘蔗糖与甜菜糖、进口来源的变化、大种植园与小农生产相互补充，使糖的历史不再只剩单一地区或单一劳动制度。原文第1段Ulbe Bosma's The World of Sugar is a genuinely global history. Bosma discusses all the sugar growing places of the world, beginning with Cuba and Java, the largest exporters of the early 20th century. But this is a history not just of cane sugar but also of beet sugar, an equally important form of traded sugar over the last hundred years. Beet sugar is grown mainly in Europe and the United States. It has also been massively subsidised and sold at artificially low prices on world markets, threatening the livelihood of producers of cane sugar.书评首先评价这是一部真正具有全球范围的糖史，既讨论古巴和爪哇等甘蔗糖出口地，也把欧洲、美国的甜菜糖纳入。随后指出补贴与人为压低的价格会影响世界市场，威胁甘蔗糖生产者的生计。It指甜菜糖这一行业和产品，不能理解为世界上所有糖生产都采用同一制度。原文第2段Bosma's discussion of the sugar market in Britain gives a sense of the book's range. The sweet-toothed British first bought cane sugar from their own slavery-dependent colonial plantations. Following the abolition of slavery in the British Empire, cane sugar was imported to Britain from places which retained the practice, such as Cuba and Brazil. Towards the end of the 19th century, the British started to import beet sugar from continental Europe. Only in the 20th century was there a move to develop a national beet sugar industry.英国市场的进口变化展示了全书的跨度：先从依赖奴役劳动的本国殖民种植园购买甘蔗糖，废奴后仍从保留奴隶制的古巴、巴西等地进口，19世纪末开始进口欧洲甜菜糖，20世纪才发展本国甜菜糖业。这段揭示，某国法律改变与商品供应链中的劳动制度变化并不一定同步。原文第3段The book provides a global labour history, investigating the wide range of labour regimes associated with growing sugar. Contrary to popular belief, cane sugar production was never just restricted to large, dedicated plantations owned by rich men. For example, in Java, a huge exporter of sugar in the early 20th century, sugar cane was grown together with rice in an extraordinarily labour-intensive way by small farmers.作者转向劳动组织的多样性，纠正甘蔗糖始终只由富人拥有的大型专门种植园生产这一单一想象。爪哇的小农曾以高度劳动密集的方式同时种甘蔗和水稻，是这种多样性的一个实例。not just restricted强调不只存在大种植园，并没有否认大种植园的重要历史。词语与搭配sold at artificially low prices以人为压低的价格出售artificially在这里指价格受到补贴等外部干预，不是说产品是假货；at引出出售价格。threatening the livelihood of威胁……的生计livelihood指赖以谋生的方式和收入基础；此处现在分词说明低价竞争带来的影响。Following the abolition of slavery在奴隶制废除之后following相当于after，标记时间关系；它本身不保证其他国家或供应链也同时发生同样变化。Contrary to popular belief与普遍看法相反用于引入与常见理解不一致的事实，后面需要具体内容或例证支持，不能只把自己的意见写成事实纠正。an extraordinarily labour-intensive way一种极为依赖大量劳动投入的方式labour-intensive描述生产对劳动投入的依赖程度，与单纯技术先进或落后不是同一个概念。句子精读It has also been massively subsidised and sold at artificially low prices on world markets, threatening the livelihood of producers of cane sugar.甜菜糖还获得了巨额补贴，并在世界市场上以人为压低的价格出售，威胁着甘蔗糖生产者的生计。It承接上句的beet sugar；has been统领subsidised和sold两个被动分词。at引出价格，on world markets说明交易范围。末尾threatening...是补充结果的现在分词短语，说明受影响的是甘蔗糖生产者，而非把两种糖当成同一种生产群体。For example, in Java, a huge exporter of sugar in the early 20th century, sugar cane was grown together with rice in an extraordinarily labour-intensive way by small farmers.例如，在20世纪初的重要食糖出口地爪哇，小农以极其劳动密集的方式，把甘蔗与水稻一起种植。主干是sugar cane was grown...by small farmers。a huge exporter...是Java的同位语，交代地区背景；together with rice说明共同种植的作物，in...way说明生产方式。句子把出口规模大与生产者是小农放在一起，说明两者可以同时成立。这篇材料里可用于写作的表达threatening the livelihood of威胁……的生计适合用于描述资源衰退或不公平竞争怎样影响依赖某产业谋生的人。可以作为结果分词短语，但要让前面的原因具体可理解。用于写作：现有题目明确谈过度捕捞对数百万人生计的风险；表达可直接连接鱼类资源减少与沿海家庭收入受损。读完讲解，可以把原文连起来再读一次；想保留的词句可使用已有收藏功能。",
+  "links": [
+    {
+      "text": "Cambridge IELTS 21 Academic",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=26"
+    },
+    {
+      "text": "核对原答案页",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=119"
+    },
+    {
+      "text": "用于写作：现有题目明确谈过度捕捞对数百万人生计的风险；表达可直接连接鱼类资源减少与沿海家庭收入受损。",
+      "href": "#writing-prep-wc-bc-overfishing-from-rd-c21-sugar-1"
+    }
+  ],
+  "details": [
+    {
+      "id": "material-reading-rd-c21-sugar-1",
+      "title": "材料精读 · 内容与词句",
+      "open": false,
+      "visible": true
+    }
+  ],
+  "saveFields": [
+    "case-rd-c21-sugar-1-q1",
+    "case-rd-c21-sugar-1-q2",
+    "case-rd-c21-sugar-1-q3",
+    "case-rd-c21-sugar-1-done",
+    "case-rd-c21-sugar-1-saved-at",
+    "case-rd-c21-sugar-1-revision"
+  ],
+  "images": [],
+  "audio": [],
+  "viewport": 1440,
+  "documentWidth": 1440
+}

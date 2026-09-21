@@ -1,0 +1,28 @@
+{
+  "checks": [
+    {
+      "name": "Fixed local source snapshot hashes match manifest",
+      "status": "pass"
+    },
+    {
+      "name": "Full reading paragraphs, prompts, shared options and all 14 source identities preserved; multi-answer group explicit",
+      "status": "pass"
+    },
+    {
+      "name": "Three Task 2 prompts, time/word instructions and supplementary directions match downloaded source",
+      "status": "pass"
+    },
+    {
+      "name": "All four material bodies are absent from the pre-existing book",
+      "status": "pass"
+    },
+    {
+      "name": "All 15 published/referenced items have individually reasoned editorial difficulty; no official band/mastery score",
+      "status": "pass"
+    }
+  ],
+  "passed": 5,
+  "newUnitSha256": "dc7d361dd0ee49b686cb31f518a48e63a51f773e48b1985889b9565f70598d4c",
+  "difficultySha256": "8527cf444de4046b209307b96dff1ea9a334e3e4e24184dcb66706d5e2e0de9b",
+  "semanticReview": "Separate independent agent read-through; this script checks source integrity, not correctness by itself."
+}

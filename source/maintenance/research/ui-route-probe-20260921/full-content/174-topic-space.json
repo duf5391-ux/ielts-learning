@@ -1,0 +1,378 @@
+{
+  "requested": "topic-space",
+  "from": [
+    "内容单元",
+    "页面链接"
+  ],
+  "actual": "#topic-space",
+  "checkedAt": "2026-09-21T12:52:39.491Z",
+  "title": "练习 / 听力 / 太空与生命：样本怎样成为证据 · IELTS",
+  "label": "练习 / 听力 / 太空与生命：样本怎样成为证据",
+  "panel": "practice-listening",
+  "contentRoot": "topic-space",
+  "headings": [
+    {
+      "tag": "H2",
+      "text": "太空与生命：样本怎样成为证据",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "太空与生命：样本怎样成为证据",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "原题 Q26–30",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "答案与证据",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "原材料",
+      "visible": false
+    }
+  ],
+  "controls": [
+    {
+      "tag": "AUDIO",
+      "id": "",
+      "text": "",
+      "label": "完整听力原音，Part 3 行星生命证据",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "完成后核对答案与解释",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "",
+      "label": "",
+      "href": "原始参考/support-5ba9c814-part-3-AILI30064EVO_ib-2.txt#page=1",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "",
+      "label": "",
+      "href": "原始参考/support-1fc83602-current-official-support-12.pdf#page=1",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "",
+      "label": "",
+      "href": "原始参考/support-fd6132a8-current-official-support-11.pdf#page=1",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "",
+      "label": "",
+      "href": "原始参考/support-5ba9c814-part-3-AILI30064EVO_ib-2.txt",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "",
+      "label": "",
+      "href": "原始参考/support-1fc83602-current-official-support-12.pdf#page=1",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "",
+      "label": "",
+      "href": "原始参考/support-fd6132a8-current-official-support-11.pdf#page=1",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "Q26\n暂时不会",
+      "href": null,
+      "save": "practice-topic-space-q26",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "暂时不会",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "Q27\n暂时不会",
+      "href": null,
+      "save": "practice-topic-space-q27",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "暂时不会",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "Q28\n暂时不会",
+      "href": null,
+      "save": "practice-topic-space-q28",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "暂时不会",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "Q29\n暂时不会",
+      "href": null,
+      "save": "practice-topic-space-q29",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "暂时不会",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "Q30\n暂时不会",
+      "href": null,
+      "save": "practice-topic-space-q30",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "暂时不会",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "作答后查看文字稿",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "checkbox",
+      "text": "",
+      "label": "我已学习本单元",
+      "href": null,
+      "save": "resource-learned-space",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "checkbox",
+      "text": "",
+      "label": "加入我的复习",
+      "href": null,
+      "save": "resource-review-space",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "我的新表达／本次复习记录（可留空）\n暂时不会",
+      "href": null,
+      "save": "resource-note-space",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "暂时不会",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "checkbox",
+      "text": "",
+      "label": "已读过这篇背景",
+      "href": null,
+      "save": "topic-read-space",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    }
+  ],
+  "visibleText": "0% · 0 / 5 完成\n太空与生命：样本怎样成为证据\n\n听力流程图 · Q26–30。播放官方完整原音，在 Part 3 对应题段作答；文字稿留到完成后查看。\n\n太空与生命：样本怎样成为证据\n\n两位生物学生准备比较地球和其它行星上的生命证据。材料是正式听力流程图任务的完整转写；按“取样—检查化石—粉碎—加热—质谱分析—对照数据”理解步骤。不要把假设有生命写成已发现生命。\n\n原题 Q26–30\n\nA. contamination B. vehicle C. heat D. results E. radiation F. site G. microbes H. water A spacecraft lands on a planet and sends out a rover. The rover is directed to a [ 26 ______ ] which has organic material. It collects a sample from below the surface (in order to avoid the effects of [ 27 ______ ] ). The soil and rocks are checked to look for evidence of fossils. The sample is converted to powder. The sample is subjected to [ 28 ______ ] . A mass spectrometer is used to search for potential proof of life, e.g [ 29 ______ ] . The [ 30 ______ ] are compared with existing data from Earth.\n\n完成后核对答案与解释\nQ26\n暂时不会\nQ27\n暂时不会\nQ28\n暂时不会\nQ29\n暂时不会\nQ30\n暂时不会\n作答后查看文字稿\n\n本单元的学习记录\n\n 我已学习本单元 加入我的复习\n我的新表达／本次复习记录（可留空）\n暂时不会\n 已读过这篇背景",
+  "allContent": "0% · 0 / 5 完成太空与生命：样本怎样成为证据听力流程图 · Q26–30。播放官方完整原音，在 Part 3 对应题段作答；文字稿留到完成后查看。太空与生命：样本怎样成为证据两位生物学生准备比较地球和其它行星上的生命证据。材料是正式听力流程图任务的完整转写；按“取样—检查化石—粉碎—加热—质谱分析—对照数据”理解步骤。不要把假设有生命写成已发现生命。原题 Q26–30A. contamination B. vehicle C. heat D. results E. radiation F. site G. microbes H. water A spacecraft lands on a planet and sends out a rover. The rover is directed to a [ 26 ______ ] which has organic material. It collects a sample from below the surface (in order to avoid the effects of [ 27 ______ ] ). The soil and rocks are checked to look for evidence of fossils. The sample is converted to powder. The sample is subjected to [ 28 ______ ] . A mass spectrometer is used to search for potential proof of life, e.g [ 29 ______ ] . The [ 30 ______ ] are compared with existing data from Earth.\n完成后核对答案与解释答案与证据26 F site；27 E radiation；28 C heat；29 G microbes；30 D results。26的定语has organic material修饰地点；27考更正：A问contamination，B明确No，实际原因是表面辐射可能杀死生命。28 exposure to heat对应subjected to；29 microbes比fossils小，是质谱寻找的潜在线索；30比较的是结果与地球数据，water只是地球取样环境，不是最终比较对象。官方独立样题答案号1–5对应本套演示题26–30，答案文字一致；字母按本题A–H选项映射。完整原件：官方演示题 Part3 · Q26–30 原题；行星生命探测完整原转写；同任务独立样题答案1–5官方演示题 Part3 · Q26–30 原题行星生命探测完整原转写同任务独立样题答案1–5Q26暂时不会Q27暂时不会Q28暂时不会Q29暂时不会Q30暂时不会作答后查看文字稿原材料Tapescript for IELTS ListeningSample Listening Flow-chart Completion ObjectiveYou will hear two biology students comparing their research on evidence of life on Earth and other planets.A So we’ve talked about how we find evidence of past life on earth, and in the second part of our presentation, we want to demonstrate in a practical way how to find out if there has ever been life on other planets in the solar system.B Yes, and I thought we could present the information in the form of a flowchart.A Great idea. So, the procedure begins by sending a spacecraft to land on the planet.B Right, then a vehicle, called a rover, is sent out from the spacecraft. This is a small machine which travels over the planet. The rover needs to find a good range of organic material so they direct it to a site that’s likely to provide this. Then the rover drills down under the surface to collect a sample.A Why does the sample have to come from underneath? Why not just scoop up some soil from the top? Is it to stop contamination from the rover? I’ve heard that can be a problem.B No, the rover is clean. It’s actually because of the atmosphere. Unlike our planet, the surface might be exposed to high levels of radiation and that could kill anything living on the surface.A I see. But something could still be present underneath the surface.B Yes. It’s possible.A So at this point the soil and rocks that have been collected would need to be analysed, to see if there are any signs of fossils.B Right. Just as we do on Earth. It’s unlikely that there’d be anything that large, but it’s an essential step.A Yes.B Once that’s been done, the sample is crushed into a fine powder.A Why is that? Doesn’t that destroy everything?B Well, luckily, no. And in the next stage of the analysis, the sample has to be exposed to heat, and then run through a mass spectrometer.A We’ll need to explain that this is an instrument used to measure the weight and concentration of atoms and molecules.B Yes. This level of analysis is necessary to search for microscopic signs of life, much smaller than fossils, such as microbes.A So once all this has been done and the results sent back to Earth, what happens next? Can they do anything with the results?B Yes. They can compare them with data from similar studies done on large bodies of water or desert soils from Earth.A Fascinating. Let’s make a start on our presentation slides, shall we?本单元的学习记录 我已学习本单元 加入我的复习我的新表达／本次复习记录（可留空）暂时不会 已读过这篇背景",
+  "links": [
+    {
+      "text": "官方演示题 Part3 · Q26–30 原题",
+      "href": "原始参考/support-5ba9c814-part-3-AILI30064EVO_ib-2.txt#page=1"
+    },
+    {
+      "text": "行星生命探测完整原转写",
+      "href": "原始参考/support-1fc83602-current-official-support-12.pdf#page=1"
+    },
+    {
+      "text": "同任务独立样题答案1–5",
+      "href": "原始参考/support-fd6132a8-current-official-support-11.pdf#page=1"
+    },
+    {
+      "text": "官方演示题 Part3 · Q26–30 原题",
+      "href": "原始参考/support-5ba9c814-part-3-AILI30064EVO_ib-2.txt"
+    },
+    {
+      "text": "行星生命探测完整原转写",
+      "href": "原始参考/support-1fc83602-current-official-support-12.pdf#page=1"
+    },
+    {
+      "text": "同任务独立样题答案1–5",
+      "href": "原始参考/support-fd6132a8-current-official-support-11.pdf#page=1"
+    }
+  ],
+  "details": [
+    {
+      "id": "answer-check-45",
+      "title": "完成后核对答案与解释",
+      "open": false,
+      "answerGate": "[\"practice-topic-space-q26\", \"practice-topic-space-q27\", \"practice-topic-space-q28\", \"practice-topic-space-q29\", \"practice-topic-space-q30\"]",
+      "visible": true
+    },
+    {
+      "id": "answer-check-46",
+      "title": "作答后查看文字稿",
+      "open": false,
+      "answerGate": "[\"practice-topic-space-q26\", \"practice-topic-space-q27\", \"practice-topic-space-q28\", \"practice-topic-space-q29\", \"practice-topic-space-q30\"]",
+      "visible": true
+    }
+  ],
+  "saveFields": [
+    "practice-topic-space-q26",
+    "practice-topic-space-q27",
+    "practice-topic-space-q28",
+    "practice-topic-space-q29",
+    "practice-topic-space-q30",
+    "resource-learned-space",
+    "resource-review-space",
+    "resource-note-space",
+    "topic-read-space"
+  ],
+  "images": [],
+  "audio": [
+    {
+      "src": "原始参考/precise-official-listening-full.mp3",
+      "sources": [],
+      "visible": true,
+      "controls": true
+    }
+  ],
+  "viewport": 1440,
+  "documentWidth": 1440
+}

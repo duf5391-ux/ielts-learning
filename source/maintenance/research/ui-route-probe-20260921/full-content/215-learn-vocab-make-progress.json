@@ -1,0 +1,375 @@
+{
+  "requested": "learn-vocab-make-progress",
+  "from": [
+    "内容单元"
+  ],
+  "actual": "#learn-vocab-make-progress",
+  "checkedAt": "2026-09-21T12:53:12.865Z",
+  "title": "学习 / 短语 / make progress｜取得进展 · IELTS",
+  "label": "学习 / 短语 / make progress｜取得进展",
+  "panel": "phrases",
+  "contentRoot": "learn-vocab-make-progress",
+  "headings": [
+    {
+      "tag": "H3",
+      "text": "意义与结构",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "例句",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "易混点",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "留下本单元首稿",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "核对依据，再修订",
+      "visible": false
+    },
+    {
+      "tag": "H3",
+      "text": "换个情境再用一次",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "make progress：真实题卡中的成功程度",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "有竞争心的人：具体事件支撑性格",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "参考作答",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "逐项解释与练习",
+      "visible": true
+    }
+  ],
+  "controls": [
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "07\nmake progress｜取得进展\n描述学习或改革有所推进，同时区分进展与完成。\n约 8 分钟",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "checkbox",
+      "text": "",
+      "label": "收藏这组搭配 ★",
+      "href": null,
+      "save": "vocabbookmark-extra-vocab-make-progress",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "可选：记录或再练一次",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SELECT",
+      "id": "",
+      "type": "select-one",
+      "text": "",
+      "label": "",
+      "href": null,
+      "save": "enrich-vocab-make-progress-familiarity",
+      "visible": false,
+      "disabled": false,
+      "required": false,
+      "options": [
+        {
+          "value": "",
+          "label": "未标记"
+        },
+        {
+          "value": "K",
+          "label": "K · 以前就会主动用"
+        },
+        {
+          "value": "R",
+          "label": "R · 认识，但平时不用"
+        },
+        {
+          "value": "N",
+          "label": "N · 这次新学的用法"
+        }
+      ]
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "我的答案／口语录音文件与简记",
+      "href": null,
+      "save": "enrich-vocab-make-progress-answer",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "checkbox",
+      "text": "",
+      "label": "",
+      "href": null,
+      "save": "enrich-vocab-make-progress-frozen",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "text",
+      "text": "",
+      "label": "",
+      "href": null,
+      "save": "enrich-vocab-make-progress-saved-at",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "保留首稿，打开反馈",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "修订：哪里变了，为什么",
+      "href": null,
+      "save": "enrich-vocab-make-progress-revision",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "可选：记录或再练一次",
+      "label": "",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "迁移答案／隔日回忆记录",
+      "href": null,
+      "save": "enrich-vocab-make-progress-transfer",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "可选：记录或再练一次",
+      "label": "",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SELECT",
+      "id": "",
+      "type": "select-one",
+      "text": "请选择内容或语境没理解词义或声音没认出词汇选择／搭配不稳证据、逻辑或展开不足语法或句子组织问题暂时独立完成，隔天再检验",
+      "label": "这次最需要补什么？请选择内容或语境没理解词义或声音没认出词汇选择／搭配不稳证据、逻辑或展开不足语法或句子组织问题暂时独立完成，隔天再检验",
+      "href": null,
+      "save": "enrich-vocab-make-progress-diagnosis",
+      "visible": false,
+      "disabled": false,
+      "required": false,
+      "options": [
+        {
+          "value": "",
+          "label": "请选择"
+        },
+        {
+          "value": "内容或语境没理解",
+          "label": "内容或语境没理解"
+        },
+        {
+          "value": "词义或声音没认出",
+          "label": "词义或声音没认出"
+        },
+        {
+          "value": "词汇选择／搭配不稳",
+          "label": "词汇选择／搭配不稳"
+        },
+        {
+          "value": "证据、逻辑或展开不足",
+          "label": "证据、逻辑或展开不足"
+        },
+        {
+          "value": "语法或句子组织问题",
+          "label": "语法或句子组织问题"
+        },
+        {
+          "value": "暂时独立完成，隔天再检验",
+          "label": "暂时独立完成，隔天再检验"
+        }
+      ]
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "配套材料",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "",
+      "label": "",
+      "href": "https://dictionary.cambridge.org/dictionary/english/make-progress?topic=making-progress-and-advancing",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "",
+      "label": "",
+      "href": "https://dictionary.cambridge.org/us/dictionary/english/progress",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "Cambridge IELTS 21 Academic · Test 4 · 物理页97 / 印刷页96",
+      "label": "",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=97",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "Cambridge IELTS 21 Academic · Test 4 · 物理页97 / 印刷页96",
+      "label": "",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=97",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    }
+  ],
+  "visibleText": "07\nmake progress｜取得进展\n描述学习或改革有所推进，同时区分进展与完成。\n约 8 分钟\n0% · 0 / 1 完成\n收藏这组搭配 ★\n可选：记录或再练一次\n意义与结构\n\nmake progress 表示向目标前进。progress 通常不可数，因此说 some／steady／good progress，不说 a progress 或 many progresses。常见结构有 make progress in + 动名词／领域、make progress with + 工作／项目，以及 towards + 目标。\n\n例句\n\nI am making steady progress in understanding long sentences. 我在理解长句方面正稳步进步。\n\nThe team has made progress with the project, but several problems remain. 团队在项目上有了进展，但仍存在一些问题。\n\n易混点\n\nmake progress 不表示已完成或已掌握。in progress 表示某事正在进行，不一定说明进展顺利。比较两次相近条件下的表现，比只说学习了很久更能支持“进步”。\n\n留下本单元首稿\n\n本单元先学再用；不记为未见初测。口语可使用原章节录音器，或自行录音并记文件名。\n\n先读短课，再独立应用；保存后看反馈。\n\n① 改错：I have made a good progress in reading. ② 用目标表达写“我在辨认段落主旨上有进步，但仍会把细节当主旨”。③ The review is in progress. 是否足以说明复习效果很好？\n\n我的答案／口语录音文件与简记\n保留首稿，打开反馈\n\n先写下自己的答案。\n\n配套材料\nmake progress：真实题卡中的成功程度\n\n真题明确要求how successful this person is。参考答题用逐渐赢得更多比赛、进入俱乐部决赛说明进步；可概括为He made steady progress through regular practice。人物事件与概括句是原创参考作答，不是声称考试题面给了这些事实。\n\n有竞争心的人：具体事件支撑性格\n\n本单元使用真实 Part 2 问题。先看完整问题组，再比较参考作答如何逐问落实内容；人物经历为参考作答中的示例，不是原题事实或统一标准答案。\n\nDescribe a person you know who is very competitive.\nwho this person is\nwhat this person is competitive about\nhow successful this person is\nand explain why you think this person is so competitive.\n参考作答\n\nI'd like to describe a friend I met at university. We used to play badminton together, and he was much more competitive about it than anyone else in our group. Even during a casual game, he remembered the score carefully and tried to work out why he had lost a point.\n\nHe wasn't the best player when we first met, but he practised regularly and gradually started winning more matches. One year he reached the final of a small competition organised by our club. He didn't win, but he was pleased that the extra practice had made a difference.\n\nI think his competitiveness comes from wanting to see measurable progress. He likes having a clear target, and a match gives him immediate feedback. He can get frustrated with himself, although he usually congratulates the other player afterwards. That's why I enjoy playing with him: he takes the game seriously without treating his opponent badly. I wouldn't claim to know everything that motivates him, but improvement seems more important to him than showing off.\n\n逐项解释与练习\n\nwho=university friend；what=badminton；success=club final但未夺冠；why=measurable progress。第三段用 I think / seems 标明动机推断，避免把性格解释写成已核实的心理事实。竞争心用记分、分析失分、练习行动展示，不只重复 competitive。\n\n练习：保留题目中的对象、时间和问法，换成自己的真实经历。先口头作答，再对照上面的具体内容逐项检查；不需要逐字背诵参考作答。\n\n完整原件：Cambridge IELTS 21 Academic · Test 4 · 物理页97 / 印刷页96\n\nCambridge IELTS 21 Academic · Test 4 · 物理页97 / 印刷页96",
+  "allContent": "07make progress｜取得进展描述学习或改革有所推进，同时区分进展与完成。约 8 分钟0% · 0 / 1 完成收藏这组搭配 ★可选：记录或再练一次学习前自评：这个用法熟悉吗？未标记K · 以前就会主动用R · 认识，但平时不用N · 这次新学的用法意义与结构\nmake progress 表示向目标前进。progress 通常不可数，因此说 some／steady／good progress，不说 a progress 或 many progresses。常见结构有 make progress in + 动名词／领域、make progress with + 工作／项目，以及 towards + 目标。\n例句\nI am making steady progress in understanding long sentences.\n我在理解长句方面正稳步进步。\nThe team has made progress with the project, but several problems remain.\n团队在项目上有了进展，但仍存在一些问题。\n易混点\nmake progress 不表示已完成或已掌握。in progress 表示某事正在进行，不一定说明进展顺利。比较两次相近条件下的表现，比只说学习了很久更能支持“进步”。留下本单元首稿本单元先学再用；不记为未见初测。口语可使用原章节录音器，或自行录音并记文件名。先读短课，再独立应用；保存后看反馈。\n① 改错：I have made a good progress in reading. ② 用目标表达写“我在辨认段落主旨上有进步，但仍会把细节当主旨”。③ The review is in progress. 是否足以说明复习效果很好？我的答案／口语录音文件与简记保留首稿，打开反馈先写下自己的答案。核对依据，再修订① I have made good progress in reading. 去掉 a。② I have made progress in identifying paragraph main ideas, but I still sometimes mistake a detail for the main idea. 只要保留进步领域与尚存困难即可。③ 不能；in progress 只说明正在进行。学习记录可以写正确数和错误类型，不能只凭这句话判断效果。\n自查只记三项：意义是否符合本意；结构是否完整；是否保留必要的范围或条件。参考答案不是唯一合法表达，不根据是否使用这个搭配给雅思分数。修订：哪里变了，为什么换个情境再用一次隔日根据你真实的一次练习写一句 progress 记录，并加一个可核对的变化。没有对比数据时，可以写 I am working on…，不用虚构进步。可选：记录或再练一次迁移答案／隔日回忆记录可选：记录或再练一次这次最需要补什么？请选择内容或语境没理解词义或声音没认出词汇选择／搭配不稳证据、逻辑或展开不足语法或句子组织问题暂时独立完成，隔天再检验配套材料Cambridge Dictionary：make progressCambridge Dictionary：progress（不可数名词与 in progress）make progress：真实题卡中的成功程度真题明确要求how successful this person is。参考答题用逐渐赢得更多比赛、进入俱乐部决赛说明进步；可概括为He made steady progress through regular practice。人物事件与概括句是原创参考作答，不是声称考试题面给了这些事实。有竞争心的人：具体事件支撑性格本单元使用真实 Part 2 问题。先看完整问题组，再比较参考作答如何逐问落实内容；人物经历为参考作答中的示例，不是原题事实或统一标准答案。Describe a person you know who is very competitive.who this person iswhat this person is competitive abouthow successful this person isand explain why you think this person is so competitive.参考作答I'd like to describe a friend I met at university. We used to play badminton together, and he was much more competitive about it than anyone else in our group. Even during a casual game, he remembered the score carefully and tried to work out why he had lost a point.He wasn't the best player when we first met, but he practised regularly and gradually started winning more matches. One year he reached the final of a small competition organised by our club. He didn't win, but he was pleased that the extra practice had made a difference.I think his competitiveness comes from wanting to see measurable progress. He likes having a clear target, and a match gives him immediate feedback. He can get frustrated with himself, although he usually congratulates the other player afterwards. That's why I enjoy playing with him: he takes the game seriously without treating his opponent badly. I wouldn't claim to know everything that motivates him, but improvement seems more important to him than showing off.逐项解释与练习who=university friend；what=badminton；success=club final但未夺冠；why=measurable progress。第三段用 I think / seems 标明动机推断，避免把性格解释写成已核实的心理事实。竞争心用记分、分析失分、练习行动展示，不只重复 competitive。练习：保留题目中的对象、时间和问法，换成自己的真实经历。先口头作答，再对照上面的具体内容逐项检查；不需要逐字背诵参考作答。完整原件：Cambridge IELTS 21 Academic · Test 4 · 物理页97 / 印刷页96Cambridge IELTS 21 Academic · Test 4 · 物理页97 / 印刷页96",
+  "links": [
+    {
+      "text": "Cambridge Dictionary：make progress",
+      "href": "https://dictionary.cambridge.org/dictionary/english/make-progress?topic=making-progress-and-advancing"
+    },
+    {
+      "text": "Cambridge Dictionary：progress（不可数名词与 in progress）",
+      "href": "https://dictionary.cambridge.org/us/dictionary/english/progress"
+    },
+    {
+      "text": "Cambridge IELTS 21 Academic · Test 4 · 物理页97 / 印刷页96",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=97"
+    },
+    {
+      "text": "Cambridge IELTS 21 Academic · Test 4 · 物理页97 / 印刷页96",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=97"
+    }
+  ],
+  "details": [
+    {
+      "id": "",
+      "title": "可选：记录或再练一次",
+      "open": false,
+      "visible": true
+    },
+    {
+      "id": "",
+      "title": "可选：记录或再练一次",
+      "open": false,
+      "visible": false
+    },
+    {
+      "id": "",
+      "title": "可选：记录或再练一次",
+      "open": false,
+      "visible": false
+    },
+    {
+      "id": "",
+      "title": "配套材料",
+      "open": false,
+      "visible": true
+    }
+  ],
+  "saveFields": [
+    "vocabbookmark-extra-vocab-make-progress",
+    "enrich-vocab-make-progress-familiarity",
+    "enrich-vocab-make-progress-answer",
+    "enrich-vocab-make-progress-frozen",
+    "enrich-vocab-make-progress-saved-at",
+    "enrich-vocab-make-progress-revision",
+    "enrich-vocab-make-progress-transfer",
+    "enrich-vocab-make-progress-diagnosis"
+  ],
+  "images": [],
+  "audio": [],
+  "viewport": 1440,
+  "documentWidth": 1440
+}

@@ -1,0 +1,11 @@
+{
+  "cases": 6,
+  "questions": 23,
+  "source_materials": 4,
+  "range": "223–412词，3–5个原始段落",
+  "complete_options": true,
+  "diagram_and_table": "原PDF第2页直接渲染，目检完成；刻度、空号、行列与选项均保留",
+  "answers": "Miles14–19与BC原教师答案，Older1–4与IELTS原答案，115012/18/26全部题与原PDF末页答案核对",
+  "support_audit117": "源和JSON错误句均替换，无残留",
+  "status": "完成，待root整页集成回归"
+}

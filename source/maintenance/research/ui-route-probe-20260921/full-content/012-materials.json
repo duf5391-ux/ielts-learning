@@ -1,0 +1,315 @@
+{
+  "requested": "materials",
+  "from": [
+    "主面板",
+    "页面链接"
+  ],
+  "actual": "#materials",
+  "checkedAt": "2026-09-21T12:50:36.620Z",
+  "title": "我的资料 · IELTS",
+  "label": "我的资料",
+  "panel": "materials",
+  "contentRoot": "materials",
+  "headings": [
+    {
+      "tag": "H1",
+      "text": "新资料，直接放进来。",
+      "visible": true
+    },
+    {
+      "tag": "H2",
+      "text": "粘贴新内容",
+      "visible": true
+    },
+    {
+      "tag": "H2",
+      "text": "确认内容，再入库",
+      "visible": true
+    },
+    {
+      "tag": "H2",
+      "text": "我的新增资料 0",
+      "visible": true
+    }
+  ],
+  "controls": [
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "← 返回学习工作台",
+      "label": "",
+      "href": "#workspace",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "进入定制学习 →",
+      "label": "",
+      "href": "#course-window",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "打开新增资源目录",
+      "label": "",
+      "href": "#resource-update",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "material-file",
+      "type": "file",
+      "text": "",
+      "label": "导入文件",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SELECT",
+      "id": "material-kind",
+      "type": "select-one",
+      "text": "词汇与搭配\n话题背景\n题目与讲解\n其他资料",
+      "label": "内容类型\n词汇与搭配\n话题背景\n题目与讲解\n其他资料",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false,
+      "options": [
+        {
+          "value": "vocabulary",
+          "label": "词汇与搭配"
+        },
+        {
+          "value": "topic",
+          "label": "话题背景"
+        },
+        {
+          "value": "exercise",
+          "label": "题目与讲解"
+        },
+        {
+          "value": "note",
+          "label": "其他资料"
+        }
+      ]
+    },
+    {
+      "tag": "SELECT",
+      "id": "material-mode",
+      "type": "select-one",
+      "text": "整段保存为一份资料\n词汇表：每行一条",
+      "label": "整理方式\n整段保存为一份资料\n词汇表：每行一条",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false,
+      "options": [
+        {
+          "value": "single",
+          "label": "整段保存为一份资料"
+        },
+        {
+          "value": "table",
+          "label": "词汇表：每行一条"
+        }
+      ]
+    },
+    {
+      "tag": "INPUT",
+      "id": "material-title",
+      "type": "text",
+      "text": "",
+      "label": "标题",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "material-topic",
+      "type": "text",
+      "text": "",
+      "label": "话题标签",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "material-source",
+      "type": "text",
+      "text": "",
+      "label": "来源",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "material-content",
+      "type": "textarea",
+      "text": "",
+      "label": "粘贴正文",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "material-preview-button",
+      "type": "submit",
+      "text": "预览内容",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "material-reset",
+      "type": "button",
+      "text": "清空输入",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "下载词汇表示例",
+      "label": "",
+      "href": "新增资料-词汇表示例.tsv",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "下载资料包示例",
+      "label": "",
+      "href": "新增资料-资料包示例.json",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "material-commit",
+      "type": "submit",
+      "text": "保存到我的资料",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": true,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "material-export",
+      "type": "submit",
+      "text": "导出新增资料",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": true,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "material-search",
+      "type": "search",
+      "text": "",
+      "label": "查找新增资料",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SELECT",
+      "id": "material-list-kind",
+      "type": "select-one",
+      "text": "所有类型\n词汇与搭配\n话题背景\n题目与讲解\n其他资料",
+      "label": "按资料类型筛选",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false,
+      "options": [
+        {
+          "value": "all",
+          "label": "所有类型"
+        },
+        {
+          "value": "vocabulary",
+          "label": "词汇与搭配"
+        },
+        {
+          "value": "topic",
+          "label": "话题背景"
+        },
+        {
+          "value": "exercise",
+          "label": "题目与讲解"
+        },
+        {
+          "value": "note",
+          "label": "其他资料"
+        }
+      ]
+    }
+  ],
+  "visibleText": "← 返回学习工作台\n把你的材料，做成贴合考试的课程\n\n给出技巧、语料或词汇；选取相关考试材料，配上讲解和分阶段练习。\n\n进入定制学习 →\n\n此页用于添加你自己的学习资料。\n\n打开新增资源目录\n\nADD TO YOUR LIBRARY\n\n新资料，直接放进来。\n\n复制内容到下面，或导入文本、词汇表及资料包。先预览，再保存；已有教材不用重新制作。\n\n粘贴新内容\n导入文件\n\n支持 TXT、Markdown、TSV 和本工作区资料包 JSON。PDF、图片和音频暂不在这个入口解析。\n\n内容类型\n词汇与搭配\n话题背景\n题目与讲解\n其他资料\n整理方式\n整段保存为一份资料\n词汇表：每行一条\n标题\n话题标签\n来源\n粘贴正文\n预览内容\n清空输入\n\n下载词汇表示例 · 下载资料包示例\n\nBEFORE YOU SAVE\n\n确认内容，再入库\n\n预览标题、正文和导入条数。\n\n复制文字，或选择文件。\n补上来源和话题，点击预览。\n保存后可阅读、编辑或导出。\n保存到我的资料\n\n保存在当前浏览器。请用下方“导出新增资料”保留一份文件；它与作答记录备份分开。\n\nYOUR ADDITIONS\n\n我的新增资料 0\n导出新增资料\n所有类型\n词汇与搭配\n话题背景\n题目与讲解\n其他资料\n\n还没有新增资料。把你想学的内容粘贴进来即可。",
+  "allContent": "← 返回学习工作台把你的材料，做成贴合考试的课程给出技巧、语料或词汇；选取相关考试材料，配上讲解和分阶段练习。进入定制学习 →此页用于添加你自己的学习资料。打开新增资源目录\nADD TO YOUR LIBRARY新资料，直接放进来。复制内容到下面，或导入文本、词汇表及资料包。先预览，再保存；已有教材不用重新制作。\n\n粘贴新内容导入文件支持 TXT、Markdown、TSV 和本工作区资料包 JSON。PDF、图片和音频暂不在这个入口解析。\n内容类型词汇与搭配话题背景题目与讲解其他资料整理方式整段保存为一份资料词汇表：每行一条\n标题\n话题标签来源\n粘贴正文\n预览内容清空输入下载词汇表示例 · 下载资料包示例\nBEFORE YOU SAVE确认内容，再入库预览标题、正文和导入条数。复制文字，或选择文件。补上来源和话题，点击预览。保存后可阅读、编辑或导出。保存到我的资料保存在当前浏览器。请用下方“导出新增资料”保留一份文件；它与作答记录备份分开。\nYOUR ADDITIONS我的新增资料 0导出新增资料所有类型词汇与搭配话题背景题目与讲解其他资料还没有新增资料。把你想学的内容粘贴进来即可。",
+  "links": [
+    {
+      "text": "← 返回学习工作台",
+      "href": "#workspace"
+    },
+    {
+      "text": "进入定制学习 →",
+      "href": "#course-window"
+    },
+    {
+      "text": "打开新增资源目录",
+      "href": "#resource-update"
+    },
+    {
+      "text": "下载词汇表示例",
+      "href": "新增资料-词汇表示例.tsv"
+    },
+    {
+      "text": "下载资料包示例",
+      "href": "新增资料-资料包示例.json"
+    }
+  ],
+  "details": [],
+  "saveFields": [],
+  "images": [],
+  "audio": [],
+  "viewport": 1440,
+  "documentWidth": 1440
+}

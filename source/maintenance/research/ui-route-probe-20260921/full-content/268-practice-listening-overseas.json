@@ -1,0 +1,296 @@
+{
+  "requested": "practice-listening-overseas",
+  "from": [
+    "内容单元"
+  ],
+  "actual": "#practice-listening-overseas",
+  "checkedAt": "2026-09-21T12:53:56.501Z",
+  "title": "练习 / 听力 / 海外生活：困难与社区信息 · IELTS",
+  "label": "练习 / 听力 / 海外生活：困难与社区信息",
+  "panel": "practice-listening",
+  "contentRoot": "practice-listening-overseas",
+  "headings": [
+    {
+      "tag": "H2",
+      "text": "海外生活：困难与社区信息",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "海外生活讲座：两项困难与社区入口",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "原题",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "原材料 · 第2页",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "原答案",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "具体解释",
+      "visible": false
+    }
+  ],
+  "controls": [
+    {
+      "tag": "AUDIO",
+      "id": "",
+      "text": "",
+      "label": "Recording 3 · 海外学生社交活动 · Q11–16",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "Q11\n暂时不会",
+      "href": null,
+      "save": "prereq-listening-23-q11",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "暂时不会",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "Q12\n暂时不会",
+      "href": null,
+      "save": "prereq-listening-23-q12",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "暂时不会",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "Q13\n暂时不会",
+      "href": null,
+      "save": "prereq-listening-23-q13",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "暂时不会",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "Q14\n暂时不会",
+      "href": null,
+      "save": "prereq-listening-23-q14",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "暂时不会",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "Q15\n暂时不会",
+      "href": null,
+      "save": "prereq-listening-23-q15",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "暂时不会",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "Q16\n暂时不会",
+      "href": null,
+      "save": "prereq-listening-23-q16",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "暂时不会",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "听后记录：不确定的题号／已重听或查稿",
+      "href": null,
+      "save": "prereq-listening-23-note",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "作答后查看文字稿",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "核对答案与解释",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "",
+      "label": "",
+      "href": "原始参考/support-cb76d836-cambridge-zip-115011_Listening_sample_task_-_Short-answer_questions.pdf#page=1",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "",
+      "label": "",
+      "href": "原始参考/support-cb76d836-cambridge-zip-115011_Listening_sample_task_-_Short-answer_questions.pdf#page=1",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    }
+  ],
+  "visibleText": "海外生活：困难与社区信息\n0% · 0 / 6 完成\n海外生活讲座：两项困难与社区入口\n\n本题使用 Recording 3 · 海外学生社交活动 · Q11–16。先读题并播放下面的原音；原稿与答案可在作答后分别展开。上方课堂音频是另一份材料。\n\n原题\n\nSECTION 2\n\nQuestions 11 – 16\n\nAnswer the questions below.\n\nWrite NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer.\n\nWhat TWO factors can make social contact in a foreign country difficult?\n\n• 11 ...............................\n\n• 12 ...............................\n\nWhich types of community group does the speaker give examples of?\n\n• theatre\n\n• 13 ..................................\n\n• 14 ..................................\n\nIn which TWO places can information about community activities be found?\n\n• 15 ..................................\n\n• 16 ..................................\n\nQ11\n暂时不会\nQ12\n暂时不会\nQ13\n暂时不会\nQ14\n暂时不会\nQ15\n暂时不会\nQ16\n暂时不会\n听后记录：不确定的题号／已重听或查稿\n作答后查看文字稿\n核对答案与解释",
+  "allContent": "海外生活：困难与社区信息0% · 0 / 6 完成海外生活讲座：两项困难与社区入口本题使用 Recording 3 · 海外学生社交活动 · Q11–16。先读题并播放下面的原音；原稿与答案可在作答后分别展开。上方课堂音频是另一份材料。原题SECTION 2Questions 11 – 16Answer the questions below.Write NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer.What TWO factors can make social contact in a foreign country difficult?• 11 ...............................• 12 ...............................Which types of community group does the speaker give examples of?• theatre• 13 ..................................• 14 ..................................In which TWO places can information about community activities be found?• 15 ..................................• 16 ..................................Q11暂时不会Q12暂时不会Q13暂时不会Q14暂时不会Q15暂时不会Q16暂时不会听后记录：不确定的题号／已重听或查稿作答后查看文字稿原材料 · 第2页TapescriptYou will hear an extract from a talk given to a group who are going to stay in the UK.Good evening, and welcome to the British Council. My name is John Parker and I’ve been asked to talk to you briefly about certain aspects of life in the UK before you actually go there. So I'm going to talk first about the best ways of making social contacts there. Now you might be wondering why it should be necessary. After all, we meet people all the time. But when you’re living in a foreign country it can be more difficult, not just because of the language, but because customs may be different. If you’re going to work in the UK you will probably be living in private accommodation, so it won’t be quite so easy to meet people. But there are still things that you can do to help yourself. First of all, you can get involved in activities in your local community, join a group of some kind. For example, you’ll probably find that there are theatre groups who might be looking for actors, set designers and so on, or if you play an instrument you could join music groups in your area. Or if you like the idea of finding out about local history there’ll be a group for that too. These are just examples. And the best places to get information about things like this are either the town hall or the public library. Libraries in the UK perform quite a broad range of functions nowadays – they’re not just confined to lending books, although that’s their main role of course.核对答案与解释原答案Answers:11 & 12 in either order language customs13 & 14 in either order music (groups) local history (groups)15 & 16 in either order (the) (public) library/libraries (the) town hallWords in brackets are optional - they are correct, but not necessary. Alternative answers are separated by a slash (/).具体解释Q11–12 language / customs：not just … but … 将语言与习俗并列，不是用习俗否定语言。Q13–14 music / local history：theatre 是题面已有例子，不可重复填；set designers 属戏剧组内部角色。Q15–16 library / town hall 是获得信息的地点，不是活动种类。各对答案顺序不限，严格按三词和／或数字上限。完整原件：海外生活讲座：两项困难与社区入口 · 完整题面、原材料与答案海外生活讲座：两项困难与社区入口 · 完整题面、原材料与答案",
+  "links": [
+    {
+      "text": "海外生活讲座：两项困难与社区入口 · 完整题面、原材料与答案",
+      "href": "原始参考/support-cb76d836-cambridge-zip-115011_Listening_sample_task_-_Short-answer_questions.pdf#page=1"
+    },
+    {
+      "text": "海外生活讲座：两项困难与社区入口 · 完整题面、原材料与答案",
+      "href": "原始参考/support-cb76d836-cambridge-zip-115011_Listening_sample_task_-_Short-answer_questions.pdf#page=1"
+    }
+  ],
+  "details": [
+    {
+      "id": "answer-check-10",
+      "title": "作答后查看文字稿",
+      "open": false,
+      "answerGate": "[\"prereq-listening-23-q11\", \"prereq-listening-23-q12\", \"prereq-listening-23-q13\", \"prereq-listening-23-q14\", \"prereq-listening-23-q15\", \"prereq-listening-23-q16\"]",
+      "visible": true
+    },
+    {
+      "id": "answer-check-11",
+      "title": "核对答案与解释",
+      "open": false,
+      "answerGate": "[\"prereq-listening-23-q11\", \"prereq-listening-23-q12\", \"prereq-listening-23-q13\", \"prereq-listening-23-q14\", \"prereq-listening-23-q15\", \"prereq-listening-23-q16\"]",
+      "visible": true
+    }
+  ],
+  "saveFields": [
+    "prereq-listening-23-q11",
+    "prereq-listening-23-q12",
+    "prereq-listening-23-q13",
+    "prereq-listening-23-q14",
+    "prereq-listening-23-q15",
+    "prereq-listening-23-q16",
+    "prereq-listening-23-note"
+  ],
+  "images": [],
+  "audio": [
+    {
+      "src": "原始参考/precise-recording-3.mp3",
+      "sources": [],
+      "visible": true,
+      "controls": true
+    }
+  ],
+  "viewport": 1440,
+  "documentWidth": 1440
+}

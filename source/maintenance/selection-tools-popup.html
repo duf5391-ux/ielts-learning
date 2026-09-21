@@ -1,0 +1,13 @@
+<div id="selection-toolbar" class="st-toolbar" role="toolbar" aria-label="选中文字的操作" hidden>
+  <span id="selection-preview"></span><div class="st-actions"><button id="selection-lookup" type="button">查词</button><button id="selection-collect" type="button">☆ 收藏单词</button><button id="selection-translate" type="button">翻译句子 · 联网</button><button id="selection-dismiss" type="button" aria-label="收起选择工具">×</button></div>
+</div>
+<aside id="sentence-popup" class="st-popup" role="dialog" aria-modal="false" aria-labelledby="sentence-heading" hidden>
+  <div class="st-heading"><h2 id="sentence-heading">句子翻译</h2><button id="sentence-close" type="button" aria-label="关闭句子翻译">×</button></div>
+  <label>原句<textarea id="sentence-source" rows="4" maxlength="3000" placeholder="选中正文中的句子，或在这里输入。"></textarea></label>
+  <div class="st-actions"><label>方向<select id="sentence-direction"><option value="en|zh-CN">英文 → 中文</option><option value="zh-CN|en">中文 → 英文</option></select></label><button id="sentence-translate" type="button">联网翻译</button></div>
+  <p class="st-muted">MyMemory 在线翻译，只发送上方原句。每次最多 500 字节（约 80 个英文词）；译文供理解参考，可自行修订。</p>
+  <p id="sentence-status" role="status" aria-live="polite"></p>
+  <label>译文<textarea id="sentence-result" rows="4" maxlength="6000" placeholder="译文会显示在这里，也可以输入自己的翻译。"></textarea></label>
+  <div class="st-actions"><button id="sentence-save" type="button">☆ 收藏句子</button><a href="#sentence-learning" id="sentence-notebook-link">打开句子本 →</a></div>
+  <div class="st-external"><a id="sentence-bing" target="_blank" rel="noopener noreferrer">在必应翻译中打开 ↗</a></div>
+</aside>

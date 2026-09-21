@@ -1,0 +1,238 @@
+{
+  "requested": "writing-prep-wc-bc-childhealth-from-rd-c21-sugar-3",
+  "from": [
+    "页面链接"
+  ],
+  "actual": "#writing-prep-wc-bc-childhealth-from-rd-c21-sugar-3",
+  "checkedAt": "2026-09-21T12:55:39.367Z",
+  "title": "练习 / 写作 · Task 2 / 儿童肥胖：原因—措施对应而非空泛建议 · IELTS",
+  "label": "练习 / 写作 · Task 2 / 儿童肥胖：原因—措施对应而非空泛建议",
+  "panel": "practice-writing2",
+  "contentRoot": "writing2-case-wc-bc-childhealth",
+  "headings": [
+    {
+      "tag": "H3",
+      "text": "写作前置 · 文中表达",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "attempts to reduce consumption",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "a large number of processed foods",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "the social and environmental conditions",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "maintain healthy behaviours and lifestyles",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "本次写作任务",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "对照答案，回到证据",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "参考写法",
+      "visible": false
+    },
+    {
+      "tag": "H3",
+      "text": "答后精读",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "篇章结构",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "词语与搭配",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "句子精读",
+      "visible": false
+    }
+  ],
+  "controls": [
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "儿童肥胖：原因—措施对应而非空泛建议未作答\n原因与措施 · 原题拆段写作 · 参考段落与逐段讲解",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "British Council — Writing Task 2: Problems and solutions",
+      "label": "",
+      "href": "扩展资料/609824ad-writing_task_2_problems_and_solutions_.pdf#page=12",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "The World of Sugar｜工业化、消费与作者立场",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "回到这份材料的精读",
+      "label": "",
+      "href": "#material-reading-rd-c21-sugar-3",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "健康观念变化：年份、十年与三大领域",
+      "label": "",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "回到这份材料的精读",
+      "label": "",
+      "href": "#material-reading-rd-gap-academic-short-answer-health",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "case-wc-bc-childhealth-answer",
+      "type": "textarea",
+      "text": "",
+      "label": "我的段落",
+      "href": null,
+      "save": "case-wc-bc-childhealth-answer",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "checkbox",
+      "text": "",
+      "label": "",
+      "href": null,
+      "save": "case-wc-bc-childhealth-done",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "hidden",
+      "text": "",
+      "label": "",
+      "href": null,
+      "save": "case-wc-bc-childhealth-saved-at",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "保留作答，查看答案",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "case-wc-bc-childhealth-revision",
+      "type": "textarea",
+      "text": "",
+      "label": "我的修订／证据笔记",
+      "href": null,
+      "save": "case-wc-bc-childhealth-revision",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    }
+  ],
+  "visibleText": "儿童肥胖：原因—措施对应而非空泛建议未作答\n原因与措施 · 原题拆段写作 · 参考段落与逐段讲解\n0% · 0 / 1 完成\n\n官方教辅 · British Council — Writing Task 2: Problems and solutions · PDF 第 12 页\n\n写作前置 · 文中表达\n\n这里是所选阅读材料中适合本题的表达；例句按本题语境编写。\n\nThe World of Sugar｜工业化、消费与作者立场\nattempts to reduce consumption\n\n降低消费量的努力\n\n在健康话题里要补清consumption指什么，例如含糖饮料，而不是笼统主张减少所有食品消费。适合描述措施与商业激励之间的关系。\n\n本题例句 · 编写示范\n\nAttempts to reduce consumption of sugary drinks among children are more likely to succeed when healthier alternatives are affordable and easy to obtain.\n\n儿童肥胖题要求提出措施；这句话把减少含糖饮料摄入与可负担替代品联系起来，强调环境支持而非只责怪个人自控。\n\na large number of processed foods\n\n大量加工食品\n\n可讨论配方、标签或食品环境，但加工食品并非全部有相同营养特征，例句应限定要比较的成分。\n\n本题例句 · 编写示范\n\nWhen added sugar is present in a large number of processed foods, clear labels can help parents compare products more easily.\n\n适合儿童肥胖措施段中的食品信息环境；条件句聚焦添加糖与标签，避免把所有加工食品概括为有害。\n\n回到这份材料的精读\n\nA rise in childhood obesity is a real threat to health with an increasing number of children now classified as overweight. What are the causes of the problem and what measures can be taken to solve them?\n\n本次写作任务\n\n写两个主体段，约180–220词：解释饮食环境与活动机会两个原因，再分别匹配学校/社区措施。这里练考试论证，不作个人医疗建议，也不写没有来源的研究数字。\n\n我的段落\n\n0 词\n\n保留作答，查看答案\n\n先作答；不确定的题也可记录判断与疑点。",
+  "allContent": "儿童肥胖：原因—措施对应而非空泛建议未作答原因与措施 · 原题拆段写作 · 参考段落与逐段讲解0% · 0 / 1 完成官方教辅 · British Council — Writing Task 2: Problems and solutions · PDF 第 12 页写作前置 · 文中表达这里是所选阅读材料中适合本题的表达；例句按本题语境编写。The World of Sugar｜工业化、消费与作者立场attempts to reduce consumption降低消费量的努力在健康话题里要补清consumption指什么，例如含糖饮料，而不是笼统主张减少所有食品消费。适合描述措施与商业激励之间的关系。本题例句 · 编写示范Attempts to reduce consumption of sugary drinks among children are more likely to succeed when healthier alternatives are affordable and easy to obtain.儿童肥胖题要求提出措施；这句话把减少含糖饮料摄入与可负担替代品联系起来，强调环境支持而非只责怪个人自控。a large number of processed foods大量加工食品可讨论配方、标签或食品环境，但加工食品并非全部有相同营养特征，例句应限定要比较的成分。本题例句 · 编写示范When added sugar is present in a large number of processed foods, clear labels can help parents compare products more easily.适合儿童肥胖措施段中的食品信息环境；条件句聚焦添加糖与标签，避免把所有加工食品概括为有害。回到这份材料的精读健康观念变化：年份、十年与三大领域the social and environmental conditions社会与环境条件适合说明健康行为受到可获得资源与生活环境的影响；必须接具体机制，不把抽象词组当成完整原因。本题例句 · 编写示范Measures to reduce childhood obesity should address the social and environmental conditions that make nutritious food and safe places to play difficult to access.自编例句，直接对应儿童肥胖的原因与措施：把食物和活动空间的可达性作为可以改善的具体条件，不把所有责任归于儿童个人。maintain healthy behaviours and lifestyles维持有益健康的行为与生活方式与提供条件和持续支持搭配；不承诺一项措施可以单独消除儿童肥胖。本题例句 · 编写示范Schools can help children maintain healthy behaviours and lifestyles by providing regular opportunities for physical activity and nutritious meals.自编例句，用学校可采取的具体支持回应儿童肥胖题的措施部分；can表示可能贡献，不宣称所有儿童会因此获得相同结果。回到这份材料的精读A rise in childhood obesity is a real threat to health with an increasing number of children now classified as overweight. What are the causes of the problem and what measures can be taken to solve them?本次写作任务写两个主体段，约180–220词：解释饮食环境与活动机会两个原因，再分别匹配学校/社区措施。这里练考试论证，不作个人医疗建议，也不写没有来源的研究数字。我的段落0 词保留作答，查看答案先作答；不确定的题也可记录判断与疑点。对照答案，回到证据参考写法下列段落为针对原题编写的参考写法，用于对照内容和表达；写作没有唯一标准答案。One contributing factor is that energy-dense convenience foods can be easier to obtain than balanced meals in children’s daily surroundings. Busy households may rely on ready-made options, and frequent promotion of snacks can make these products particularly appealing. At the same time, some children have limited opportunities to be physically active. Long periods spent sitting at school or using screens may be combined with a lack of safe places to play nearby. These circumstances can reinforce one another: an environment that encourages frequent snacking while making activity inconvenient creates persistent difficulties for healthy routines.Responses should make healthier routines easier to maintain, rather than rely only on telling children to show more self-control. Schools can provide balanced meals and practical food education, while clear information for families can help them compare everyday choices. The lack of activity opportunities also needs a direct response. Safe routes to school, accessible play areas and regular opportunities for movement during the school day can reduce barriers to being active. Parents, schools and local authorities each influence part of this environment, so coordinated changes are more likely to be useful than an isolated awareness campaign that leaves the underlying conditions unchanged.原因1食品获取/营销环境→学校均衡供餐和实用信息；原因2活动机会不足→安全路线、场地、在校活动。不用“kids are lazy”作为单一原因；解释环境如何影响日常选择，避免道德评判。参考段落是任务论证示范，未用虚构数字、未经核验研究或诊疗建议增加权威感。答后精读篇章结构饮食与活动环境两个原因，最后交代相互强化。按同样次序匹配措施，并解释为何宣传单独不够。词语与搭配contributing factor：因素之一，避免假装唯一原因。reduce barriers to being active：措施如何起效。underlying conditions：回指便利食品与活动机会环境。句子精读These circumstances can reinforce one another ... → 指代上文两类环境而非增加新原因。... rather than rely only on telling children ... → 论证措施应改变条件，不只发口号。我的修订／证据笔记",
+  "links": [
+    {
+      "text": "British Council — Writing Task 2: Problems and solutions",
+      "href": "扩展资料/609824ad-writing_task_2_problems_and_solutions_.pdf#page=12"
+    },
+    {
+      "text": "回到这份材料的精读",
+      "href": "#material-reading-rd-c21-sugar-3"
+    },
+    {
+      "text": "回到这份材料的精读",
+      "href": "#material-reading-rd-gap-academic-short-answer-health"
+    }
+  ],
+  "details": [
+    {
+      "id": "writing-prep-wc-bc-childhealth-from-rd-c21-sugar-3",
+      "title": "The World of Sugar｜工业化、消费与作者立场",
+      "open": true,
+      "visible": true
+    },
+    {
+      "id": "writing-prep-wc-bc-childhealth-from-rd-gap-academic-short-answer-health",
+      "title": "健康观念变化：年份、十年与三大领域",
+      "open": false,
+      "visible": false
+    }
+  ],
+  "saveFields": [
+    "case-wc-bc-childhealth-answer",
+    "case-wc-bc-childhealth-done",
+    "case-wc-bc-childhealth-saved-at",
+    "case-wc-bc-childhealth-revision"
+  ],
+  "images": [],
+  "audio": [],
+  "viewport": 1440,
+  "documentWidth": 1440
+}

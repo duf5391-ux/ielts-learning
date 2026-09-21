@@ -1,0 +1,258 @@
+{
+  "requested": "reading-case-rd-c21-silence-1",
+  "from": [
+    "内容单元",
+    "页面链接",
+    "每日安排目标"
+  ],
+  "actual": "#reading-case-rd-c21-silence-1",
+  "checkedAt": "2026-09-21T12:51:56.698Z",
+  "title": "练习 / 阅读 / Why we need silence｜噪声风险与城市降噪 · IELTS",
+  "label": "练习 / 阅读 / Why we need silence｜噪声风险与城市降噪",
+  "panel": "practice-reading",
+  "contentRoot": "reading-case-rd-c21-silence-1",
+  "headings": [
+    {
+      "tag": "H4",
+      "text": "共用选项 · 原题 14、15、16",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "对照答案，回到证据",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "A",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "B",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "C",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "词语与搭配",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "句子精读",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "这篇材料里可用于写作的表达",
+      "visible": false
+    }
+  ],
+  "controls": [
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "Why we need silence｜噪声风险与城市降噪未作答\n段落信息匹配 / 人物／特征匹配 · 3 段 · 341 词 · 4 题 · 同篇原文另有裁切",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "Cambridge IELTS 21 Academic",
+      "label": "",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=21",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "case-rd-c21-silence-1-q1",
+      "type": "text",
+      "text": "",
+      "label": "第 14 题作答",
+      "href": null,
+      "save": "case-rd-c21-silence-1-q1",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "case-rd-c21-silence-1-q2",
+      "type": "text",
+      "text": "",
+      "label": "第 15 题作答",
+      "href": null,
+      "save": "case-rd-c21-silence-1-q2",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "case-rd-c21-silence-1-q3",
+      "type": "text",
+      "text": "",
+      "label": "第 16 题作答",
+      "href": null,
+      "save": "case-rd-c21-silence-1-q3",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "case-rd-c21-silence-1-q4",
+      "type": "text",
+      "text": "",
+      "label": "第 23 题作答",
+      "href": null,
+      "save": "case-rd-c21-silence-1-q4",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "checkbox",
+      "text": "",
+      "label": "",
+      "href": null,
+      "save": "case-rd-c21-silence-1-done",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "hidden",
+      "text": "",
+      "label": "",
+      "href": null,
+      "save": "case-rd-c21-silence-1-saved-at",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "保留作答，查看答案",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "核对原答案页",
+      "label": "",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=119",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "case-rd-c21-silence-1-revision",
+      "type": "textarea",
+      "text": "",
+      "label": "我的修订／证据笔记",
+      "href": null,
+      "save": "case-rd-c21-silence-1-revision",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "材料精读 · 内容与词句",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "",
+      "label": "",
+      "href": "#writing-prep-wc-official-transport-from-rd-c21-silence-1",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "",
+      "label": "",
+      "href": "#writing-prep-wc-official-tourism-from-rd-c21-silence-1",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    }
+  ],
+  "visibleText": "Why we need silence｜噪声风险与城市降噪未作答\n段落信息匹配 / 人物／特征匹配 · 3 段 · 341 词 · 4 题 · 同篇原文另有裁切\n0% · 0 / 1 完成\n\n真题 · Cambridge IELTS 21 Academic · PDF 第 21 页\n\nQ14–16：Which section contains the following information? 原选项A–G保留，本片段含A–C。Q23：Match the statement with the correct person, A–D. You may use any letter more than once.\n\nAHumans are finely attuned to noise, and for good reason. From an evolutionary perspective, sounds give us vital information, helping us navigate the world and avoid danger. To help ensure loud or unexpected noises get the attention they deserve, our internal chemistry alters in response to them. Our blood pressure goes up, muscles tense and glands release hormones that prepare us for fight or flight. In the short term, this is a good thing. When we are exposed to too much noise over the long term, however, those responses can lead to a multitude of health issues, from sleep disturbance to even cardiovascular disease.\n\nBThe World Health Organization has recently designated excessive noise as an 'underestimated threat' to public health, and has said that people living in cities such as Mumbai, Tokyo and Buenos Aires are being exposed to far more than the recommended 40 decibels of noise at night. A report from the European Environment Agency concluded that noise was an ongoing and widespread issue in Europe, with at least 1 in 5 people consistently exposed to levels considered harmful to health. 'There are no \"earlids\" that can protect your brain from noise,' says Nick Antonio, an acoustic consultant who has contributed to the British and international standards for noise.\n\nCThe good news is that several cities have been working to turn the volume down. One of the first to do so was London. 'By providing recommendations for quieter buses, reducing noise from roads and also controlling noise from aircraft, they were able to make the city quieter,' says Antonio. Other cities have introduced noise-reducing road coatings, for instance, alongside greenery that muffles sound. Some solutions are more specific: Washington DC's ban on petrol-powered leaf blowers came into effect recently, while in New York City, legislation has been approved to fine people who modify their vehicles to make them noisier. 'People are seeing the benefits of these more quiet environments in their cities,' Antonio says. 'I expect we will see much more of this in the future.'\n\n共用选项 · 原题 14、15、16\nA\nB\nC\nD\nE\nF\nG\n\n14. examples of strategies to decrease the noise that the public are exposed to\n\n第 14 题作答\n\n15. data indicating the extent of the problem of excessive noise\n\n第 15 题作答\n\n16. a description of physiological changes in our bodies when we hear sudden noises\n\n第 16 题作答\n\n23. The trend towards creating quieter urban locations is likely to increase in the coming years.\n\nA Nick Antonio\nB Justin Feinstein\nC Tai Dotan Ben-Soussan\nD Eric Pfeifer\n第 23 题作答\n保留作答，查看答案\n\n先作答；不确定的题也可记录判断与疑点。\n\n材料精读 · 内容与词句",
+  "allContent": "Why we need silence｜噪声风险与城市降噪未作答段落信息匹配 / 人物／特征匹配 · 3 段 · 341 词 · 4 题 · 同篇原文另有裁切0% · 0 / 1 完成真题 · Cambridge IELTS 21 Academic · PDF 第 21 页Q14–16：Which section contains the following information? 原选项A–G保留，本片段含A–C。Q23：Match the statement with the correct person, A–D. You may use any letter more than once.AHumans are finely attuned to noise, and for good reason. From an evolutionary perspective, sounds give us vital information, helping us navigate the world and avoid danger. To help ensure loud or unexpected noises get the attention they deserve, our internal chemistry alters in response to them. Our blood pressure goes up, muscles tense and glands release hormones that prepare us for fight or flight. In the short term, this is a good thing. When we are exposed to too much noise over the long term, however, those responses can lead to a multitude of health issues, from sleep disturbance to even cardiovascular disease.BThe World Health Organization has recently designated excessive noise as an 'underestimated threat' to public health, and has said that people living in cities such as Mumbai, Tokyo and Buenos Aires are being exposed to far more than the recommended 40 decibels of noise at night. A report from the European Environment Agency concluded that noise was an ongoing and widespread issue in Europe, with at least 1 in 5 people consistently exposed to levels considered harmful to health. 'There are no \"earlids\" that can protect your brain from noise,' says Nick Antonio, an acoustic consultant who has contributed to the British and international standards for noise.CThe good news is that several cities have been working to turn the volume down. One of the first to do so was London. 'By providing recommendations for quieter buses, reducing noise from roads and also controlling noise from aircraft, they were able to make the city quieter,' says Antonio. Other cities have introduced noise-reducing road coatings, for instance, alongside greenery that muffles sound. Some solutions are more specific: Washington DC's ban on petrol-powered leaf blowers came into effect recently, while in New York City, legislation has been approved to fine people who modify their vehicles to make them noisier. 'People are seeing the benefits of these more quiet environments in their cities,' Antonio says. 'I expect we will see much more of this in the future.'共用选项 · 原题 14、15、16ABCDEFG14. examples of strategies to decrease the noise that the public are exposed to第 14 题作答15. data indicating the extent of the problem of excessive noise第 15 题作答16. a description of physiological changes in our bodies when we hear sudden noises第 16 题作答23. The trend towards creating quieter urban locations is likely to increase in the coming years.A Nick AntonioB Justin FeinsteinC Tai Dotan Ben-SoussanD Eric Pfeifer第 23 题作答保留作答，查看答案先作答；不确定的题也可记录判断与疑点。对照答案，回到证据第 14 题 · CC列举公交、道路、飞机以及禁令等多项策略；不是只说噪声有害的B。quieter buses, reducing noise from roads and also controlling noise from aircraft第 15 题 · Bextent看覆盖范围；1 in 5与城市夜间分贝限制构成具体数据证据。at least 1 in 5 people consistently exposed to levels considered harmful to health第 16 题 · Ablood pressure、muscles、glands是身体变化，不是社会影响。Our blood pressure goes up, muscles tense and glands release hormones第 23 题 · A这句话属于Antonio的直接引语，预测降噪趋势继续增加。I expect we will see much more of this in the future.核对原答案页我的修订／证据笔记材料精读 · 内容与词句文章先解释人为什么对声音敏感，再区分短暂警觉的适应价值与长期噪声暴露的健康代价，最后转入城市治理。身体机制、公共健康风险和具体降噪行动形成连续关系。AA Humans are finely attuned to noise, and for good reason. From an evolutionary perspective, sounds give us vital information, helping us navigate the world and avoid danger. To help ensure loud or unexpected noises get the attention they deserve, our internal chemistry alters in response to them. Our blood pressure goes up, muscles tense and glands release hormones that prepare us for fight or flight. In the short term, this is a good thing. When we are exposed to too much noise over the long term, however, those responses can lead to a multitude of health issues, from sleep disturbance to even cardiovascular disease.声音在进化中帮助人辨认环境和躲避危险，因此突然而响亮的声音会引起血压升高、肌肉紧张和激素释放，为战斗或逃跑做准备。短期内这种反应有保护作用；长期反复承受过量噪声，却可能与睡眠和心血管等健康问题相连。however标出评价变化，变化的关键在暴露的强度和持续时间，而不是所有声音都有害。BB The World Health Organization has recently designated excessive noise as an 'underestimated threat' to public health, and has said that people living in cities such as Mumbai, Tokyo and Buenos Aires are being exposed to far more than the recommended 40 decibels of noise at night. A report from the European Environment Agency concluded that noise was an ongoing and widespread issue in Europe, with at least 1 in 5 people consistently exposed to levels considered harmful to health. 'There are no \"earlids\" that can protect your brain from noise,' says Nick Antonio, an acoustic consultant who has contributed to the British and international standards for noise.文中引用世界卫生组织和欧洲环境署的说法，将上一段的个体反应扩大为公共健康议题：一些城市的夜间噪声高于文中提到的建议值，欧洲也有相当数量的人持续处于有害噪声水平。声学顾问用没有earlids这一比喻说明，人不像闭眼那样能简单关闭听觉。这些数值与recently都是原文写作时期的描述，不代表实时更新的统计。CC The good news is that several cities have been working to turn the volume down. One of the first to do so was London. 'By providing recommendations for quieter buses, reducing noise from roads and also controlling noise from aircraft, they were able to make the city quieter,' says Antonio. Other cities have introduced noise-reducing road coatings, for instance, alongside greenery that muffles sound. Some solutions are more specific: Washington DC's ban on petrol-powered leaf blowers came into effect recently, while in New York City, legislation has been approved to fine people who modify their vehicles to make them noisier. 'People are seeing the benefits of these more quiet environments in their cities,' Antonio says. 'I expect we will see much more of this in the future.'作者转向城市已经采取的改善措施：伦敦从公交、道路和飞机噪声入手，其他城市采用低噪声路面与绿化，还有城市针对吹叶机或人为改响车辆立法。段落从综合政策写到具体噪声来源，说明公共环境可以通过设计和管理改变。最后关于未来会有更多行动的说法是Antonio的期待，不是已经发生的事实。词语与搭配finely attuned to noise对噪声非常敏感be attuned to表示敏锐察觉或适应某种信号；finely加强感知的精细程度。in response to them作为对它们的反应in response to引出反应的触发因素；them回指响亮或出乎意料的声音。an ongoing and widespread issue一个持续存在且影响广泛的问题ongoing说明时间上的持续，widespread说明涉及范围大，两者从不同维度描述问题。reducing noise from roads减少来自道路的噪声from说明噪声来源；这里属于城市治理措施之一，表达的是降低噪声，而非把所有道路移除。greenery that muffles sound能够减弱声音的绿化植被muffle是使声音变低、变闷，不能理解为完全隔绝；that从句说明这里提到绿化的功能。句子精读When we are exposed to too much noise over the long term, however, those responses can lead to a multitude of health issues, from sleep disturbance to even cardiovascular disease.然而，当我们长期暴露于过量噪声时，这些反应可能引发多种健康问题，从睡眠受扰，甚至到心血管疾病。When从句同时限定过量噪声与长期暴露。those responses回指前文血压、肌肉和激素的变化；can lead to表示可能的后果，不是每次暴露都会产生疾病。from...to...列出不同程度的健康问题，however把短期保护作用与长期风险连接起来。Some solutions are more specific: Washington DC's ban on petrol-powered leaf blowers came into effect recently, while in New York City, legislation has been approved to fine people who modify their vehicles to make them noisier.一些措施更加具体：华盛顿特区对汽油动力吹叶机的禁令近期开始生效，而纽约市则已批准立法，对改装车辆使其更吵的人处以罚款。冒号后给出两座城市的实例，while在此并列对照两项政策，并非说明同时发生。to fine交代立法的目的；who修饰people，to make them noisier说明改装造成的变化，them指车辆。recently以原文叙述时间为参照。这篇材料里可用于写作的表达reducing noise from roads减少道路噪声适合说明鼓励公共交通、步行或骑行可能带来的生活环境收益。需要具体写出减少何种车流或噪声源，不把交通方式改变等同于必然消除所有噪声。用于写作：题目讨论鼓励替代交通与限制车辆使用；道路噪声是与车辆使用直接相关的生活环境理由。noise from aircraft飞机产生的噪声可用于旅游活动对机场附近居民的影响，须说明航班增长这一具体联系；不能把所有旅游目的地的主要问题一律写成航空噪声。用于写作：题目明确要求考虑旅游对当地居民与环境的影响；条件句把表达限定在航空活动增长的目的地。读完讲解，可以把原文连起来再读一次；想保留的词句可使用已有收藏功能。",
+  "links": [
+    {
+      "text": "Cambridge IELTS 21 Academic",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=21"
+    },
+    {
+      "text": "核对原答案页",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=119"
+    },
+    {
+      "text": "用于写作：题目讨论鼓励替代交通与限制车辆使用；道路噪声是与车辆使用直接相关的生活环境理由。",
+      "href": "#writing-prep-wc-official-transport-from-rd-c21-silence-1"
+    },
+    {
+      "text": "用于写作：题目明确要求考虑旅游对当地居民与环境的影响；条件句把表达限定在航空活动增长的目的地。",
+      "href": "#writing-prep-wc-official-tourism-from-rd-c21-silence-1"
+    }
+  ],
+  "details": [
+    {
+      "id": "material-reading-rd-c21-silence-1",
+      "title": "材料精读 · 内容与词句",
+      "open": false,
+      "visible": true
+    }
+  ],
+  "saveFields": [
+    "case-rd-c21-silence-1-q1",
+    "case-rd-c21-silence-1-q2",
+    "case-rd-c21-silence-1-q3",
+    "case-rd-c21-silence-1-q4",
+    "case-rd-c21-silence-1-done",
+    "case-rd-c21-silence-1-saved-at",
+    "case-rd-c21-silence-1-revision"
+  ],
+  "images": [],
+  "audio": [],
+  "viewport": 1440,
+  "documentWidth": 1440
+}

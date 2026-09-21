@@ -1,0 +1,151 @@
+{
+  "requested": "pr-fisheries-writing",
+  "from": [
+    "内容单元",
+    "页面链接"
+  ],
+  "actual": "#pr-fisheries-writing",
+  "checkedAt": "2026-09-21T12:53:01.981Z",
+  "title": "练习 / 写作 · Task 2 / 写作 · 海洋资源：执行捕捞上限 · IELTS",
+  "label": "练习 / 写作 · Task 2 / 写作 · 海洋资源：执行捕捞上限",
+  "panel": "practice-writing2",
+  "contentRoot": "pr-fisheries-writing",
+  "headings": [],
+  "controls": [
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "写作 · 海洋资源：执行捕捞上限",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "作答 2\n暂时不会",
+      "href": null,
+      "save": "pr-background-fisheries-q2",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "暂时不会",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "完成后核对写作示例",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "再练一次",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "",
+      "href": null,
+      "save": "pr-background-fisheries-another",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "",
+      "label": "",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "",
+      "label": "",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "捕捞速度与鱼群总量 →",
+      "label": "",
+      "href": "#pr-background-fisheries",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    }
+  ],
+  "visibleText": "写作 · 海洋资源：执行捕捞上限\n0% · 0 / 1 完成\n\n假设一个渔场已有捕捞上限，但部分渔船隐瞒渔获。用 60–80 个英文词写一项与这个问题直接对应的措施，说明执行方式与预期作用。不要写成全面禁止所有捕鱼。\n\n作答 2\n暂时不会\n完成后核对写作示例\n再练一次\n\n共用材料：捕捞速度与鱼群总量 →",
+  "allContent": "写作 · 海洋资源：执行捕捞上限0% · 0 / 1 完成假设一个渔场已有捕捞上限，但部分渔船隐瞒渔获。用 60–80 个英文词写一项与这个问题直接对应的措施，说明执行方式与预期作用。不要写成全面禁止所有捕鱼。作答 2暂时不会完成后核对写作示例Authorities could require boats to record their catches and compare these records with inspections at landing sites. Targeted checks would make it harder to hide catches, while proportionate penalties could discourage repeated violations. This would address the gap between the legal limit and the amount actually taken from the sea. Monitoring would still be needed to establish whether the policy reduced fishing pressure and helped the stock recover.再练一次假设今年的捕捞速度已经降至允许范围，但鱼群总量仍低于恢复目标。用两句英文描述现状，并提出下一步行动；不宣称政策已经完全成功或完全失败。作答暂时不会答案The fishing rate is now within the permitted range, but the stock has not yet reached its recovery target. Managers should continue monitoring the population and adjust the recovery measures if the evidence indicates that further action is needed.共用材料：捕捞速度与鱼群总量 →",
+  "links": [
+    {
+      "text": "捕捞速度与鱼群总量 →",
+      "href": "#pr-background-fisheries"
+    }
+  ],
+  "details": [
+    {
+      "id": "answer-check-59",
+      "title": "完成后核对写作示例",
+      "open": false,
+      "answerGate": "[\"pr-background-fisheries-q2\"]",
+      "visible": true
+    },
+    {
+      "id": "",
+      "title": "再练一次",
+      "open": false,
+      "visible": true
+    },
+    {
+      "id": "answer-check-60",
+      "title": "答案",
+      "open": false,
+      "answerGate": "[\"pr-background-fisheries-another\"]",
+      "visible": false
+    }
+  ],
+  "saveFields": [
+    "pr-background-fisheries-q2",
+    "pr-background-fisheries-another"
+  ],
+  "images": [],
+  "audio": [],
+  "viewport": 1440,
+  "documentWidth": 1440
+}

@@ -1,0 +1,229 @@
+{
+  "requested": "reading-case-rd-official-miles-2",
+  "from": [
+    "内容单元",
+    "每日安排目标"
+  ],
+  "actual": "#reading-case-rd-official-miles-2",
+  "checkedAt": "2026-09-21T12:52:07.488Z",
+  "title": "练习 / 阅读 / Miles Davis：困境、跨界与创造力 · IELTS",
+  "label": "练习 / 阅读 / Miles Davis：困境、跨界与创造力",
+  "panel": "practice-reading",
+  "contentRoot": "reading-case-rd-official-miles-2",
+  "headings": [
+    {
+      "tag": "H4",
+      "text": "共用选项 · 原题 17、18、19",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "对照答案，回到证据",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "D",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "E",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "F",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "词语与搭配",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "句子精读",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "这篇材料里可用于写作的表达",
+      "visible": false
+    }
+  ],
+  "controls": [
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "Miles Davis：困境、跨界与创造力未作答\n标题匹配 · 3 段 · 364 词 · 3 题 · 同篇原文另有裁切",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "British Council · Academic Practice Test 2 · Miles Davis · Q14–19",
+      "label": "",
+      "href": "原始参考/b09e5747-miles-student.pdf#page=1",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "case-rd-official-miles-2-q1",
+      "type": "text",
+      "text": "",
+      "label": "第 17 题作答",
+      "href": null,
+      "save": "case-rd-official-miles-2-q1",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "case-rd-official-miles-2-q2",
+      "type": "text",
+      "text": "",
+      "label": "第 18 题作答",
+      "href": null,
+      "save": "case-rd-official-miles-2-q2",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "case-rd-official-miles-2-q3",
+      "type": "text",
+      "text": "",
+      "label": "第 19 题作答",
+      "href": null,
+      "save": "case-rd-official-miles-2-q3",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "checkbox",
+      "text": "",
+      "label": "",
+      "href": null,
+      "save": "case-rd-official-miles-2-done",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "hidden",
+      "text": "",
+      "label": "",
+      "href": null,
+      "save": "case-rd-official-miles-2-saved-at",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "保留作答，查看答案",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "核对原答案页",
+      "label": "",
+      "href": "原始参考/e885c438-miles-teacher-feedback.pdf#page=2",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "case-rd-official-miles-2-revision",
+      "type": "textarea",
+      "text": "",
+      "label": "我的修订／证据笔记",
+      "href": null,
+      "save": "case-rd-official-miles-2-revision",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "材料精读 · 内容与词句",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "",
+      "label": "",
+      "href": "#writing-prep-wc-c21-t2-entertainment-from-rd-official-miles-2",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    }
+  ],
+  "visibleText": "Miles Davis：困境、跨界与创造力未作答\n标题匹配 · 3 段 · 364 词 · 3 题 · 同篇原文另有裁切\n0% · 0 / 1 完成\n\n官方样题 · British Council · Academic Practice Test 2 · Miles Davis · Q14–19 · PDF 第 1, 2 页\n\nChoose the correct heading for each paragraph from the list of headings. Write the correct Roman numeral, i–ix. 本组保留原题号；同一标题不可重复使用。\n\nDThough Davis’ trumpet playing may have sounded effortless and breezy, this ease rarely carried over into the rest of his life. The early 1950s, in particular, were a time of great personal turmoil. After returning from a stint in Paris, Davis suffered from prolonged depression, which he attributed to the unravelling of a number of relationships, including his romance with a French actress and some musical partnerships that ruptured as a result of creative disputes. Davis was also frustrated by his perception that he had been overlooked by the music critics, who were hailing the success of his collaborators and descendants in the ‘cool’ tradition, such as Gerry Mulligan and Dave Brubeck, but who afforded him little credit for introducing the cool sound in the first place.\n\nEIn the latter decades of his career, Davis broke out of exclusive jazz settings and began to diversify his output across a range of musical styles. In the 1960s, he was influenced by early funk performers such as Sly and the Family Stone, which then expanded into the jazz-rock fusion genre – of which he was a frontrunner – in the 1970s. Electronic recording effects and electric instruments were incorporated into his sound. By the 1980s, Davis was pushing the boundaries further, covering pop anthems such as Cyndi Lauper’s Time After Time and Michael Jackson’s Human Nature, dabbling in hip hop, and even appearing in some movies.\n\nFNot everyone was supportive of Davis’ change of tune. Compared to the recordings of his early career, universally applauded as linchpins of the jazz oeuvre, trumpeter Wynston Marsalis derided his fusion work as being ‘not true jazz’, and pianist Bill Evans denounced the ‘corrupting influence’ of record companies, noting that rock and pop ‘draw wider audiences’. In the face of this criticism Davis remained defiant, commenting that his earlier recordings were part of a moment in time that he had no ‘feel’ for any more. He firmly believed that remaining stylistically inert would have hampered his ability to develop new ways of producing music. From this perspective, Davis’ continual revamping of genre was not merely a rebellion, but an evolution, a necessary path that allowed him to release his full musical potential.\n\n共用选项 · 原题 17、18、19\ni. A legacy is established\nii. Formal education unhelpful\niii. An education in two parts\niv. Branching out in new directions\nv. Childhood and family life\nvi. Change necessary to stay creative\nvii. Conflicted opinions over Davis’ earlier work\nviii. Davis’ unique style of trumpet playing\nix. Personal and professional struggles\n\n17. Paragraph D\n\n第 17 题作答\n\n18. Paragraph E\n\n第 18 题作答\n\n19. Paragraph F\n\n第 19 题作答\n保留作答，查看答案\n\n先作答；不确定的题也可记录判断与疑点。\n\n材料精读 · 内容与词句",
+  "allContent": "Miles Davis：困境、跨界与创造力未作答标题匹配 · 3 段 · 364 词 · 3 题 · 同篇原文另有裁切0% · 0 / 1 完成官方样题 · British Council · Academic Practice Test 2 · Miles Davis · Q14–19 · PDF 第 1, 2 页Choose the correct heading for each paragraph from the list of headings. Write the correct Roman numeral, i–ix. 本组保留原题号；同一标题不可重复使用。DThough Davis’ trumpet playing may have sounded effortless and breezy, this ease rarely carried over into the rest of his life. The early 1950s, in particular, were a time of great personal turmoil. After returning from a stint in Paris, Davis suffered from prolonged depression, which he attributed to the unravelling of a number of relationships, including his romance with a French actress and some musical partnerships that ruptured as a result of creative disputes. Davis was also frustrated by his perception that he had been overlooked by the music critics, who were hailing the success of his collaborators and descendants in the ‘cool’ tradition, such as Gerry Mulligan and Dave Brubeck, but who afforded him little credit for introducing the cool sound in the first place.EIn the latter decades of his career, Davis broke out of exclusive jazz settings and began to diversify his output across a range of musical styles. In the 1960s, he was influenced by early funk performers such as Sly and the Family Stone, which then expanded into the jazz-rock fusion genre – of which he was a frontrunner – in the 1970s. Electronic recording effects and electric instruments were incorporated into his sound. By the 1980s, Davis was pushing the boundaries further, covering pop anthems such as Cyndi Lauper’s Time After Time and Michael Jackson’s Human Nature, dabbling in hip hop, and even appearing in some movies.FNot everyone was supportive of Davis’ change of tune. Compared to the recordings of his early career, universally applauded as linchpins of the jazz oeuvre, trumpeter Wynston Marsalis derided his fusion work as being ‘not true jazz’, and pianist Bill Evans denounced the ‘corrupting influence’ of record companies, noting that rock and pop ‘draw wider audiences’. In the face of this criticism Davis remained defiant, commenting that his earlier recordings were part of a moment in time that he had no ‘feel’ for any more. He firmly believed that remaining stylistically inert would have hampered his ability to develop new ways of producing music. From this perspective, Davis’ continual revamping of genre was not merely a rebellion, but an evolution, a necessary path that allowed him to release his full musical potential.共用选项 · 原题 17、18、19i. A legacy is establishedii. Formal education unhelpfuliii. An education in two partsiv. Branching out in new directionsv. Childhood and family lifevi. Change necessary to stay creativevii. Conflicted opinions over Davis’ earlier workviii. Davis’ unique style of trumpet playingix. Personal and professional struggles17. Paragraph D第 17 题作答18. Paragraph E第 18 题作答19. Paragraph F第 19 题作答保留作答，查看答案先作答；不确定的题也可记录判断与疑点。对照答案，回到证据第 17 题 · ix关系破裂属个人困境，音乐合作冲突和被评论家忽视属职业困境，两半共同满足ix。his romance with a French actress and some musical partnerships that ruptured as a result of creative disputes.第 18 题 · ivfunk→fusion→pop→hip hop是扩展音乐方向，年份本身不是主旨。began to diversify his output across a range of musical styles.第 19 题 · vi批评是引入，末句说明变化释放音乐潜能；重点是为何必须变化而非只列别人不赞成。remaining stylistically inert would have hampered his ability to develop new ways of producing music.核对原答案页我的修订／证据笔记材料精读 · 内容与词句这三段把听起来轻松的音乐与并不轻松的人生并置，继而写风格跨界引起的争论。结尾从戴维斯自己的创作观解释变化：继续发展对他比维持旧风格更重要。DThough Davis’ trumpet playing may have sounded effortless and breezy, this ease rarely carried over into the rest of his life. The early 1950s, in particular, were a time of great personal turmoil. After returning from a stint in Paris, Davis suffered from prolonged depression, which he attributed to the unravelling of a number of relationships, including his romance with a French actress and some musical partnerships that ruptured as a result of creative disputes. Davis was also frustrated by his perception that he had been overlooked by the music critics, who were hailing the success of his collaborators and descendants in the ‘cool’ tradition, such as Gerry Mulligan and Dave Brubeck, but who afforded him little credit for introducing the cool sound in the first place.D段先区分演奏给人的轻松感与个人生活。文中把五十年代初的抑郁与人际、合作关系破裂联系起来，同时交代他认为评论界忽视了自己的贡献。which he attributed to与his perception都保留了当事人的解释和感受，不能改写成已经独立证实的全部成因。EIn the latter decades of his career, Davis broke out of exclusive jazz settings and began to diversify his output across a range of musical styles. In the 1960s, he was influenced by early funk performers such as Sly and the Family Stone, which then expanded into the jazz-rock fusion genre – of which he was a frontrunner – in the 1970s. Electronic recording effects and electric instruments were incorporated into his sound. By the 1980s, Davis was pushing the boundaries further, covering pop anthems such as Cyndi Lauper’s Time After Time and Michael Jackson’s Human Nature, dabbling in hip hop, and even appearing in some movies.E段按年代呈现创作范围的扩展：放克影响、爵士与摇滚融合、电子效果和电声乐器，随后涉及流行歌曲、嘻哈和电影。diversify不是放弃音乐，而是让创作跨越更多风格。段落为下一段的批评提供具体背景。FNot everyone was supportive of Davis’ change of tune. Compared to the recordings of his early career, universally applauded as linchpins of the jazz oeuvre, trumpeter Wynston Marsalis derided his fusion work as being ‘not true jazz’, and pianist Bill Evans denounced the ‘corrupting influence’ of record companies, noting that rock and pop ‘draw wider audiences’. In the face of this criticism Davis remained defiant, commenting that his earlier recordings were part of a moment in time that he had no ‘feel’ for any more. He firmly believed that remaining stylistically inert would have hampered his ability to develop new ways of producing music. From this perspective, Davis’ continual revamping of genre was not merely a rebellion, but an evolution, a necessary path that allowed him to release his full musical potential.F段呈现对跨界的不同判断：有人认为融合不是真正的爵士，也有人把变化归因于唱片公司的商业影响。戴维斯则说，早期作品属于自己已没有同样感受的过去；原地不动会限制创作。结尾的From this perspective限定了“演进而非仅仅叛逆”这一评价的观察角度。词语与搭配carried over into延续到；影响到另一领域carry over强调一种状态从原来的范围延伸出去；此处否定音乐的轻松感同样存在于他的生活中。diversify his output使自己的作品类型多样化output在此指创作产出；diversify强调种类和方向增加，不等于每种尝试都得到肯定。draw wider audiences吸引范围更广的观众draw在此是吸引；wider侧重覆盖面更广，不能据此推断作品艺术价值高低。In the face of this criticism面对这些批评in the face of可接困难、反对等；this criticism回指对跨界作品及商业影响的批评。句子精读Though Davis’ trumpet playing may have sounded effortless and breezy, this ease rarely carried over into the rest of his life.虽然戴维斯的小号演奏可能听起来轻松自在，但这种轻松感很少延续到他生活的其他方面。Though引出让步；may have sounded描述听众可能获得的听觉印象，而非断言演奏过程毫不费力。this ease承接effortless and breezy的感受，rarely限制延续发生的频率。He firmly believed that remaining stylistically inert would have hampered his ability to develop new ways of producing music.他坚信，如果风格一直停滞不变，就会妨碍他发展新的音乐创作方式。He指戴维斯。remaining stylistically inert是动名词结构，充当宾语从句的主语；would have hampered表达他对未选择的停滞状态的判断。句子陈述他的信念，不是关于所有艺术家的普遍定律。这篇材料里可用于写作的表达draw wider audiences吸引范围更广的观众可具体说明线上娱乐的可达性；观众范围扩大不等于线下场所失去全部文化价值。用于写作：自编例句，直接回应线上娱乐的覆盖范围优势；can和especially保留条件，也为讨论剧院独有的现场体验留下空间。读完讲解，可以把原文连起来再读一次；想保留的词句可使用已有收藏功能。",
+  "links": [
+    {
+      "text": "British Council · Academic Practice Test 2 · Miles Davis · Q14–19",
+      "href": "原始参考/b09e5747-miles-student.pdf#page=1"
+    },
+    {
+      "text": "核对原答案页",
+      "href": "原始参考/e885c438-miles-teacher-feedback.pdf#page=2"
+    },
+    {
+      "text": "用于写作：自编例句，直接回应线上娱乐的覆盖范围优势；can和especially保留条件，也为讨论剧院独有的现场体验留下空间。",
+      "href": "#writing-prep-wc-c21-t2-entertainment-from-rd-official-miles-2"
+    }
+  ],
+  "details": [
+    {
+      "id": "material-reading-rd-official-miles-2",
+      "title": "材料精读 · 内容与词句",
+      "open": false,
+      "visible": true
+    }
+  ],
+  "saveFields": [
+    "case-rd-official-miles-2-q1",
+    "case-rd-official-miles-2-q2",
+    "case-rd-official-miles-2-q3",
+    "case-rd-official-miles-2-done",
+    "case-rd-official-miles-2-saved-at",
+    "case-rd-official-miles-2-revision"
+  ],
+  "images": [],
+  "audio": [],
+  "viewport": 1440,
+  "documentWidth": 1440
+}

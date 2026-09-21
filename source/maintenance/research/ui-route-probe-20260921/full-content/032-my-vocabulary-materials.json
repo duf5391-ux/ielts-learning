@@ -1,0 +1,76 @@
+{
+  "requested": "my-vocabulary-materials",
+  "from": [
+    "主面板"
+  ],
+  "actual": "#my-vocabulary-materials",
+  "checkedAt": "2026-09-21T12:50:51.388Z",
+  "title": "我的词汇资料 · IELTS",
+  "label": "我的词汇资料",
+  "panel": "my-vocabulary-materials",
+  "contentRoot": "my-vocabulary-materials",
+  "headings": [
+    {
+      "tag": "H2",
+      "text": "我的词汇资料",
+      "visible": true
+    }
+  ],
+  "controls": [
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "← 返回词汇",
+      "label": "",
+      "href": "#study-vocabulary-list",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "管理我的资料 →",
+      "label": "",
+      "href": "#materials",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "添加内容 ＋",
+      "label": "",
+      "href": "#materials",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    }
+  ],
+  "visibleText": "← 返回词汇\n管理我的资料 →\n我的词汇资料\n\n自行添加的内容，未计入上方真题词频。\n\n添加内容 ＋\n\n可以把自己的词表或笔记直接粘贴进来。",
+  "allContent": "← 返回词汇管理我的资料 →我的词汇资料自行添加的内容，未计入上方真题词频。添加内容 ＋可以把自己的词表或笔记直接粘贴进来。",
+  "links": [
+    {
+      "text": "← 返回词汇",
+      "href": "#study-vocabulary-list"
+    },
+    {
+      "text": "管理我的资料 →",
+      "href": "#materials"
+    },
+    {
+      "text": "添加内容 ＋",
+      "href": "#materials"
+    }
+  ],
+  "details": [],
+  "saveFields": [],
+  "images": [],
+  "audio": [],
+  "viewport": 1440,
+  "documentWidth": 1440
+}

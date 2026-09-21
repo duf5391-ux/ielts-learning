@@ -1,0 +1,63 @@
+{
+  "date": "2026-09-19",
+  "status": "passed",
+  "checks": [
+    {
+      "id": "rd-gap-birds-sentence-history",
+      "paragraphs": 3,
+      "words": 341,
+      "questions": 2,
+      "evidencePresent": true,
+      "answersChecked": true,
+      "continuousExcerpt": true,
+      "materialKind": "Academic官方机考样题"
+    },
+    {
+      "id": "rd-gap-birds-sentence-debate",
+      "paragraphs": 3,
+      "words": 390,
+      "questions": 3,
+      "evidencePresent": true,
+      "answersChecked": true,
+      "continuousExcerpt": true,
+      "materialKind": "Academic官方机考样题"
+    },
+    {
+      "id": "rd-gap-academic-short-answer-health",
+      "paragraphs": 3,
+      "words": 433,
+      "questions": 3,
+      "evidencePresent": true,
+      "answersChecked": true,
+      "continuousExcerpt": true,
+      "materialKind": "Academic官方教辅原任务"
+    }
+  ],
+  "limitations": [
+    "句子填空统一字数上限未载于本地QTI；未编造正式上限。",
+    "Academic短答为Cambridge正式Academic教辅原worksheet，非考场整卷，来源类型明确。"
+  ],
+  "assets": [
+    {
+      "target": "case-assets/reading-gap-origins-birds-original-qti.json",
+      "exists": true,
+      "sha256": "03614482d233847da601982f8405685ea7b1b3309fa72f1425a52b48448c28f3"
+    },
+    {
+      "target": "case-assets/reading-gap-origins-birds-original.html",
+      "exists": true,
+      "sha256": "badd555ef8d88bd51c18b5530ff7840357557e0225b60398193d3b26e4081e6d"
+    },
+    {
+      "target": "case-assets/reading-gap-origins-birds-answers.pdf",
+      "exists": true,
+      "sha256": "ff2ae0d1666da88fd52496b79d1e0f9f0587375e729ff23c78a28c3175e0fb6b"
+    },
+    {
+      "target": "case-assets/reading-gap-academic-health-short-answer.pdf",
+      "exists": true,
+      "sha256": "aac14357846fb69542aca17e8a6a87fdf2a573bd02ef9452fc49569be11bb7ff"
+    }
+  ],
+  "readableHtmlMatchesAllOriginalBirdParagraphs": true
+}

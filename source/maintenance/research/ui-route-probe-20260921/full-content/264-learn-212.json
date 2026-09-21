@@ -1,0 +1,57 @@
+{
+  "requested": "learn-212",
+  "from": [
+    "内容单元"
+  ],
+  "actual": "#learn-212",
+  "checkedAt": "2026-09-21T12:53:49.829Z",
+  "title": "学习 / 词汇 / social · IELTS",
+  "label": "学习 / 词汇 / social",
+  "panel": "vocabulary",
+  "contentRoot": "learn-212",
+  "headings": [
+    {
+      "tag": "H3",
+      "text": "social",
+      "visible": true
+    }
+  ],
+  "controls": [
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "checkbox",
+      "text": "",
+      "label": "收藏 social",
+      "href": null,
+      "save": "vocab-saved-word-social",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "checkbox",
+      "text": "",
+      "label": "我已看过本单元",
+      "href": null,
+      "save": "learning-read-learn-212",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    }
+  ],
+  "visibleText": "0% · 0 / 1 完成\n☆\nsocial\n\n社会的；社交的\n\nsocial responsibility / social interaction\n\nThe activity offers opportunities for social interaction.\n\n这项活动提供了社交互动的机会。\n\nsocial policy 是社会政策；social activities 可指社交活动，意思由名词决定。\n\n我已看过本单元",
+  "allContent": "0% · 0 / 1 完成☆social社会的；社交的social responsibility / social interactionThe activity offers opportunities for social interaction.这项活动提供了社交互动的机会。social policy 是社会政策；social activities 可指社交活动，意思由名词决定。 我已看过本单元",
+  "links": [],
+  "details": [],
+  "saveFields": [
+    "vocab-saved-word-social",
+    "learning-read-learn-212"
+  ],
+  "images": [],
+  "audio": [],
+  "viewport": 1440,
+  "documentWidth": 1440
+}

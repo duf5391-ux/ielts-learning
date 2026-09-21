@@ -1,0 +1,227 @@
+{
+  "requested": "reading-case-rd-c21-ai-1",
+  "from": [
+    "内容单元",
+    "页面链接",
+    "每日安排目标"
+  ],
+  "actual": "#reading-case-rd-c21-ai-1",
+  "checkedAt": "2026-09-21T12:52:04.320Z",
+  "title": "练习 / 阅读 / Artificial Intelligence｜公众想象与解决一切的误区 · IELTS",
+  "label": "练习 / 阅读 / Artificial Intelligence｜公众想象与解决一切的误区",
+  "panel": "practice-reading",
+  "contentRoot": "reading-case-rd-c21-ai-1",
+  "headings": [
+    {
+      "tag": "H3",
+      "text": "对照答案，回到证据",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "原文第1段",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "原文第2段",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "原文第3段",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "词语与搭配",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "句子精读",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "这篇材料里可用于写作的表达",
+      "visible": false
+    }
+  ],
+  "controls": [
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "Artificial Intelligence｜公众想象与解决一切的误区未作答\n选择题 · 3 段 · 202 词 · 2 题 · 同篇原文另有裁切",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "Cambridge IELTS 21 Academic",
+      "label": "",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=47",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "case-rd-c21-ai-1-q1",
+      "type": "text",
+      "text": "",
+      "label": "第 27 题作答",
+      "href": null,
+      "save": "case-rd-c21-ai-1-q1",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "case-rd-c21-ai-1-q2",
+      "type": "text",
+      "text": "",
+      "label": "第 28 题作答",
+      "href": null,
+      "save": "case-rd-c21-ai-1-q2",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "checkbox",
+      "text": "",
+      "label": "",
+      "href": null,
+      "save": "case-rd-c21-ai-1-done",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "hidden",
+      "text": "",
+      "label": "",
+      "href": null,
+      "save": "case-rd-c21-ai-1-saved-at",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "保留作答，查看答案",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "核对原答案页",
+      "label": "",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=121",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "case-rd-c21-ai-1-revision",
+      "type": "textarea",
+      "text": "",
+      "label": "我的修订／证据笔记",
+      "href": null,
+      "save": "case-rd-c21-ai-1-revision",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "材料精读 · 内容与词句",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "",
+      "label": "",
+      "href": "#writing-prep-wc-official-science-from-rd-c21-ai-1",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "",
+      "label": "",
+      "href": "#writing-prep-wc-c21-t2-entertainment-from-rd-c21-ai-1",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    }
+  ],
+  "visibleText": "Artificial Intelligence｜公众想象与解决一切的误区未作答\n选择题 · 3 段 · 202 词 · 2 题 · 同篇原文另有裁切\n0% · 0 / 1 完成\n\n真题 · Cambridge IELTS 21 Academic · PDF 第 47 页\n\nChoose the correct letter A, B, C or D. 原题Q27–28。\n\n原文第1段In many countries in the West, hysteria about the future of artificial intelligence (AI) is everywhere. There seems to be no shortage of sensationalist news about how AI could cure diseases, accelerate human innovation and improve human creativity. Just looking at the media headlines, you might think that we are already living in a future where AI has infiltrated every aspect of society.\n\n原文第2段While it is undeniable that AI has opened up a wealth of promising opportunities, it has also led to the emergence of a mindset that can be best described as 'AI solutionism'. This is the philosophy that, given enough data, machine learning algorithms can solve all of humanity's problems. But, in fact, instead of supporting AI progress, this mindset actually jeopardises the value of machine intelligence by disregarding important AI safety principles and setting unrealistic expectations about what AI can really do for humanity.\n\n原文第3段In only a few years, AI solutionism has made its way from the technology evangelists' mouths in Silicon Valley in California to the minds of government officials and policymakers around the world. The pendulum has swung from the dystopian notion that AI will destroy humanity to the utopian belief that our algorithmic saviour is here.\n\n27. What is the writer doing in the first paragraph?\n\nA predicting the future impact of AI\nB describing a public perception of AI\nC outlining some possible benefits of AI\nD highlighting the breadth of the influence of AI\n第 27 题作答\n\n28. When discussing AI solutionism in the second paragraph, the writer\n\nA points out a risk involved.\nB specifies its probable origins.\nC mentions its chief supporters.\nD weighs up some pros and cons.\n第 28 题作答\n保留作答，查看答案\n\n先作答；不确定的题也可记录判断与疑点。\n\n材料精读 · 内容与词句",
+  "allContent": "Artificial Intelligence｜公众想象与解决一切的误区未作答选择题 · 3 段 · 202 词 · 2 题 · 同篇原文另有裁切0% · 0 / 1 完成真题 · Cambridge IELTS 21 Academic · PDF 第 47 页Choose the correct letter A, B, C or D. 原题Q27–28。原文第1段In many countries in the West, hysteria about the future of artificial intelligence (AI) is everywhere. There seems to be no shortage of sensationalist news about how AI could cure diseases, accelerate human innovation and improve human creativity. Just looking at the media headlines, you might think that we are already living in a future where AI has infiltrated every aspect of society.原文第2段While it is undeniable that AI has opened up a wealth of promising opportunities, it has also led to the emergence of a mindset that can be best described as 'AI solutionism'. This is the philosophy that, given enough data, machine learning algorithms can solve all of humanity's problems. But, in fact, instead of supporting AI progress, this mindset actually jeopardises the value of machine intelligence by disregarding important AI safety principles and setting unrealistic expectations about what AI can really do for humanity.原文第3段In only a few years, AI solutionism has made its way from the technology evangelists' mouths in Silicon Valley in California to the minds of government officials and policymakers around the world. The pendulum has swung from the dystopian notion that AI will destroy humanity to the utopian belief that our algorithmic saviour is here.27. What is the writer doing in the first paragraph?A predicting the future impact of AIB describing a public perception of AIC outlining some possible benefits of AID highlighting the breadth of the influence of AI第 27 题作答28. When discussing AI solutionism in the second paragraph, the writerA points out a risk involved.B specifies its probable origins.C mentions its chief supporters.D weighs up some pros and cons.第 28 题作答保留作答，查看答案先作答；不确定的题也可记录判断与疑点。对照答案，回到证据第 27 题 · Byou might think标记媒体造成的公众印象，不是作者预测AI一定实现所有益处。Just looking at the media headlines, you might think that we are already living in a future where AI has infiltrated every aspect of society.第 28 题 · Ajeopardises与disregarding safety/setting unrealistic expectations明确提出这种思维的风险，未追溯起源或列主要支持者。this mindset actually jeopardises the value of machine intelligence核对原答案页我的修订／证据笔记材料精读 · 内容与词句三段讨论人们如何想象AI：媒体渲染的未来图景，认为数据充足就能解决一切的心态，以及这种心态向政策圈的传播。作者承认技术机会，同时批评把机会扩大成万能承诺的思维。原文第1段In many countries in the West, hysteria about the future of artificial intelligence (AI) is everywhere. There seems to be no shortage of sensationalist news about how AI could cure diseases, accelerate human innovation and improve human creativity. Just looking at the media headlines, you might think that we are already living in a future where AI has infiltrated every aspect of society.第1段写西方许多国家对AI未来的强烈情绪和追求轰动的新闻。could所列的是新闻谈论的潜在能力，you might think则描述只看标题可能形成的印象；不能把“渗透社会每一方面”读成作者已经确认的现状。原文第2段While it is undeniable that AI has opened up a wealth of promising opportunities, it has also led to the emergence of a mindset that can be best described as 'AI solutionism'. This is the philosophy that, given enough data, machine learning algorithms can solve all of humanity's problems. But, in fact, instead of supporting AI progress, this mindset actually jeopardises the value of machine intelligence by disregarding important AI safety principles and setting unrealistic expectations about what AI can really do for humanity.第2段先承认AI带来大量有前景的机会，再引出“AI万能解决论”。given enough data属于这一心态的信念前提，不是作者承诺数据足够便能解决全部问题。后半说明作者担忧的是忽视安全与制造不现实预期，批评对象是这种思维，而不是一概否定AI。原文第3段In only a few years, AI solutionism has made its way from the technology evangelists' mouths in Silicon Valley in California to the minds of government officials and policymakers around the world. The pendulum has swung from the dystopian notion that AI will destroy humanity to the utopian belief that our algorithmic saviour is here.第3段从心态本身转向传播路径：技术圈的宣传进入政府官员和政策制定者的思考。钟摆比喻描述态度由“毁灭人类”转向“拯救人类”的另一个极端；dystopian和utopian分别标出极度悲观与理想化信念，不能当成作者对未来的两项预测。词语与搭配no shortage of大量；并不缺少后接名词，强调数量充足。此处修饰sensationalist news，数量多并不等于内容可靠。a wealth of promising opportunities大量有前景的机会a wealth of后接不可数或复数名词；promising表示值得期待，不表示成果已经兑现。given enough data在数据足够的条件下given在此引出前提。整个条件位于被解释的信念之内，不能脱离上下文当成作者认可的规律。setting unrealistic expectations about对……设定不切实际的预期set expectations about后面说明预期涉及什么；unrealistic批评的是与实际能力不相称的期望。The pendulum has swung钟摆已经摆向另一边；态度转向另一极端这里是态度变化的比喻，from...to...指出两个极端，不描述机器性能的变化。句子精读While it is undeniable that AI has opened up a wealth of promising opportunities, it has also led to the emergence of a mindset that can be best described as 'AI solutionism'.虽然不可否认AI已经打开了大量有前景的机会，但它也促成了一种心态的出现；这种心态最贴切的名称可以说是“AI万能解决论”。While表示让步；it is undeniable that...里的it是形式主语，that从句是所承认的内容。主句it has also led...中的it回指AI；that can be best described...修饰mindset，说明如何称呼这种心态。But, in fact, instead of supporting AI progress, this mindset actually jeopardises the value of machine intelligence by disregarding important AI safety principles and setting unrealistic expectations about what AI can really do for humanity.但事实上，这种心态没有支持AI的发展，反而因为忽视重要的AI安全原则，并对AI实际能为人类做什么设定不现实的期望，而危及机器智能的价值。this mindset回指AI solutionism；instead of supporting与actually jeopardises构成对照。by后面disregarding和setting并列，说明造成风险的两种方式。what从句说明预期涉及的实际能力范围。这篇材料里可用于写作的表达setting unrealistic expectations about对……设定不切实际的预期可在avoid等动词后保留setting形式，具体说明期待的成果或时间；不把所有期待都说成不切实际。用于写作：自编例句，贴合政府科研职责，说明资助研究时如何理解成果周期；并不据此推出应排除私营研究。no shortage of大量；不缺可以承认数字内容数量充足，再讨论数量之外的体验差异。用于写作：自编例句，直接回应线上娱乐与影院价值：先承认线上内容丰富，再解释共同观看体验这一文化维度。读完讲解，可以把原文连起来再读一次；想保留的词句可使用已有收藏功能。",
+  "links": [
+    {
+      "text": "Cambridge IELTS 21 Academic",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=47"
+    },
+    {
+      "text": "核对原答案页",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=121"
+    },
+    {
+      "text": "用于写作：自编例句，贴合政府科研职责，说明资助研究时如何理解成果周期；并不据此推出应排除私营研究。",
+      "href": "#writing-prep-wc-official-science-from-rd-c21-ai-1"
+    },
+    {
+      "text": "用于写作：自编例句，直接回应线上娱乐与影院价值：先承认线上内容丰富，再解释共同观看体验这一文化维度。",
+      "href": "#writing-prep-wc-c21-t2-entertainment-from-rd-c21-ai-1"
+    }
+  ],
+  "details": [
+    {
+      "id": "material-reading-rd-c21-ai-1",
+      "title": "材料精读 · 内容与词句",
+      "open": false,
+      "visible": true
+    }
+  ],
+  "saveFields": [
+    "case-rd-c21-ai-1-q1",
+    "case-rd-c21-ai-1-q2",
+    "case-rd-c21-ai-1-done",
+    "case-rd-c21-ai-1-saved-at",
+    "case-rd-c21-ai-1-revision"
+  ],
+  "images": [],
+  "audio": [],
+  "viewport": 1440,
+  "documentWidth": 1440
+}

@@ -1,0 +1,488 @@
+{
+  "requested": "practice-listening",
+  "from": [
+    "主面板",
+    "页面链接"
+  ],
+  "actual": "#practice-listening-list",
+  "checkedAt": "2026-09-21T12:50:44.352Z",
+  "title": "练习 / 听力 · IELTS",
+  "label": "练习 / 听力",
+  "panel": "practice",
+  "contentRoot": "practice",
+  "headings": [
+    {
+      "tag": "H1",
+      "text": "练习 · 听力",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "Listening Part 1 货物运输",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "Listening Part 2 社区活动",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "Listening Part 3 远程学习",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "Listening Part 4 学习研究",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "太空与生命：样本怎样成为证据",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "运输表单：姓名、地址、尺寸与总价",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "运输保险：选项与最终决定",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "海外生活：困难与社区信息",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "远程学习：动机与时间安排",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "空乘岗位咨询 · 9月机经 Part 1",
+      "visible": true
+    }
+  ],
+  "controls": [
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "← 返回练习",
+      "label": "",
+      "href": "#practice",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SELECT",
+      "id": "la-practice-skill",
+      "type": "select-one",
+      "text": "全部写作Task 1Task 2",
+      "label": "写作类型全部写作Task 1Task 2",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false,
+      "options": [
+        {
+          "value": "",
+          "label": "全部写作"
+        },
+        {
+          "value": "writing1",
+          "label": "Task 1"
+        },
+        {
+          "value": "writing2",
+          "label": "Task 2"
+        }
+      ]
+    },
+    {
+      "tag": "SELECT",
+      "id": "la-practice-topic",
+      "type": "select-one",
+      "text": "全部\n工作与生活\n教育与学习\n机经 · 2026年9月\n通用",
+      "label": "话题\n全部\n工作与生活\n教育与学习\n机经 · 2026年9月\n通用",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false,
+      "options": [
+        {
+          "value": "",
+          "label": "全部"
+        },
+        {
+          "value": "工作与生活",
+          "label": "工作与生活"
+        },
+        {
+          "value": "教育与学习",
+          "label": "教育与学习"
+        },
+        {
+          "value": "机经 · 2026年9月",
+          "label": "机经 · 2026年9月"
+        },
+        {
+          "value": "通用",
+          "label": "通用"
+        }
+      ]
+    },
+    {
+      "tag": "SELECT",
+      "id": "la-practice-part",
+      "type": "select-one",
+      "text": "全部\nPart 1\nPart 2\nPart 3\nPart 4",
+      "label": "Part\n全部\nPart 1\nPart 2\nPart 3\nPart 4",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false,
+      "options": [
+        {
+          "value": "",
+          "label": "全部"
+        },
+        {
+          "value": "Part 1",
+          "label": "Part 1"
+        },
+        {
+          "value": "Part 2",
+          "label": "Part 2"
+        },
+        {
+          "value": "Part 3",
+          "label": "Part 3"
+        },
+        {
+          "value": "Part 4",
+          "label": "Part 4"
+        }
+      ]
+    },
+    {
+      "tag": "SELECT",
+      "id": "la-practice-type",
+      "type": "select-one",
+      "text": "全部\n填空与信息整理\n机经\n理解与方法",
+      "label": "题型／内容\n全部\n填空与信息整理\n机经\n理解与方法",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false,
+      "options": [
+        {
+          "value": "",
+          "label": "全部"
+        },
+        {
+          "value": "填空与信息整理",
+          "label": "填空与信息整理"
+        },
+        {
+          "value": "机经",
+          "label": "机经"
+        },
+        {
+          "value": "理解与方法",
+          "label": "理解与方法"
+        }
+      ]
+    },
+    {
+      "tag": "INPUT",
+      "id": "la-practice-search",
+      "type": "search",
+      "text": "",
+      "label": "内容或题型",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "开始练习 →",
+      "label": "",
+      "href": "#pr-listening-p1",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "加入今天",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "开始练习 →",
+      "label": "",
+      "href": "#pr-listening-p2",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "加入今天",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "开始练习 →",
+      "label": "",
+      "href": "#pr-listening-p3",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "加入今天",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "开始练习 →",
+      "label": "",
+      "href": "#pr-listening-p4",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "加入今天",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "开始练习 →",
+      "label": "",
+      "href": "#topic-space",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "加入今天",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "开始练习 →",
+      "label": "",
+      "href": "#practice-listening-shipping-form",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "加入今天",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "开始练习 →",
+      "label": "",
+      "href": "#practice-listening-insurance",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "加入今天",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "开始练习 →",
+      "label": "",
+      "href": "#practice-listening-overseas",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "加入今天",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "开始练习 →",
+      "label": "",
+      "href": "#practice-listening-distance-learning",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "加入今天",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "开始练习 →",
+      "label": "",
+      "href": "#pr-jijing-202609-listening-01-v1",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "加入今天",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    }
+  ],
+  "visibleText": "练习 · 听力\n\n10 项内容 · 按需要选一项开始。\n\n← 返回练习\n0% · 0 / 10 单元\n话题\n全部\n工作与生活\n教育与学习\n机经 · 2026年9月\n通用\nPart\n全部\nPart 1\nPart 2\nPart 3\nPart 4\n题型／内容\n全部\n填空与信息整理\n机经\n理解与方法\n内容或题型\n\n听力 · 通用\n\nListening Part 1 货物运输\n\n直接作答，完成后核对。\n\n0% · 0 / 2 完成\n开始练习 →\n加入今天\n\n听力 · 通用\n\nListening Part 2 社区活动\n\n直接作答，完成后核对。\n\n0% · 0 / 6 完成\n开始练习 →\n加入今天\n\n听力 · 教育与学习\n\nListening Part 3 远程学习\n\n直接作答，完成后核对。\n\n0% · 0 / 4 完成\n开始练习 →\n加入今天\n\n听力 · 教育与学习\n\nListening Part 4 学习研究\n\n直接作答，完成后核对。\n\n0% · 0 / 5 完成\n开始练习 →\n加入今天\n\n听力 · 通用\n\n太空与生命：样本怎样成为证据\n\n直接作答，完成后核对。\n\n0% · 0 / 5 完成\n开始练习 →\n加入今天\n\n听力 · 工作与生活\n\n运输表单：姓名、地址、尺寸与总价\n\n听完整题段，作答后核对原稿与答案。\n\n0% · 0 / 8 完成\n开始练习 →\n加入今天\n\n听力 · 工作与生活\n\n运输保险：选项与最终决定\n\n听完整题段，作答后核对原稿与答案。\n\n0% · 0 / 2 完成\n开始练习 →\n加入今天\n\n听力 · 工作与生活\n\n海外生活：困难与社区信息\n\n听完整题段，作答后核对原稿与答案。\n\n0% · 0 / 6 完成\n开始练习 →\n加入今天\n\n听力 · 工作与生活\n\n远程学习：动机与时间安排\n\n听完整题段，作答后核对原稿与答案。\n\n0% · 0 / 4 完成\n开始练习 →\n加入今天\n\n听力 · 机经 · 2026年9月\n\n空乘岗位咨询 · 9月机经 Part 1\n\n10题；作答后核对，并回到同一材料精读 · 难度系数 2/5 · 较易。\n\n0% · 0 / 11 作答与核对\n开始练习 →\n加入今天",
+  "allContent": "IELTS / MY STUDY练习 · 听力10 项内容 · 按需要选一项开始。← 返回练习0% · 0 / 10 单元写作类型全部写作Task 1Task 2话题全部工作与生活教育与学习机经 · 2026年9月通用10 项内容Part全部Part 1Part 2Part 3Part 4题型／内容全部填空与信息整理机经理解与方法内容或题型听力 · 通用Listening Part 1 货物运输直接作答，完成后核对。0% · 0 / 2 完成开始练习 →加入今天听力 · 通用Listening Part 2 社区活动直接作答，完成后核对。0% · 0 / 6 完成开始练习 →加入今天听力 · 教育与学习Listening Part 3 远程学习直接作答，完成后核对。0% · 0 / 4 完成开始练习 →加入今天听力 · 教育与学习Listening Part 4 学习研究直接作答，完成后核对。0% · 0 / 5 完成开始练习 →加入今天听力 · 通用太空与生命：样本怎样成为证据直接作答，完成后核对。0% · 0 / 5 完成开始练习 →加入今天听力 · 工作与生活运输表单：姓名、地址、尺寸与总价听完整题段，作答后核对原稿与答案。0% · 0 / 8 完成开始练习 →加入今天听力 · 工作与生活运输保险：选项与最终决定听完整题段，作答后核对原稿与答案。0% · 0 / 2 完成开始练习 →加入今天听力 · 工作与生活海外生活：困难与社区信息听完整题段，作答后核对原稿与答案。0% · 0 / 6 完成开始练习 →加入今天听力 · 工作与生活远程学习：动机与时间安排听完整题段，作答后核对原稿与答案。0% · 0 / 4 完成开始练习 →加入今天听力 · 机经 · 2026年9月空乘岗位咨询 · 9月机经 Part 110题；作答后核对，并回到同一材料精读 · 难度系数 2/5 · 较易。0% · 0 / 11 作答与核对开始练习 →加入今天",
+  "links": [
+    {
+      "text": "← 返回练习",
+      "href": "#practice"
+    },
+    {
+      "text": "开始练习 →",
+      "href": "#pr-listening-p1"
+    },
+    {
+      "text": "开始练习 →",
+      "href": "#pr-listening-p2"
+    },
+    {
+      "text": "开始练习 →",
+      "href": "#pr-listening-p3"
+    },
+    {
+      "text": "开始练习 →",
+      "href": "#pr-listening-p4"
+    },
+    {
+      "text": "开始练习 →",
+      "href": "#topic-space"
+    },
+    {
+      "text": "开始练习 →",
+      "href": "#practice-listening-shipping-form"
+    },
+    {
+      "text": "开始练习 →",
+      "href": "#practice-listening-insurance"
+    },
+    {
+      "text": "开始练习 →",
+      "href": "#practice-listening-overseas"
+    },
+    {
+      "text": "开始练习 →",
+      "href": "#practice-listening-distance-learning"
+    },
+    {
+      "text": "开始练习 →",
+      "href": "#pr-jijing-202609-listening-01-v1"
+    }
+  ],
+  "details": [],
+  "saveFields": [],
+  "images": [],
+  "audio": [],
+  "viewport": 1440,
+  "documentWidth": 1440
+}

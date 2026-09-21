@@ -1,0 +1,73 @@
+{
+  "requested": "usage-19",
+  "from": [
+    "内容单元"
+  ],
+  "actual": "#usage-19",
+  "checkedAt": "2026-09-21T12:53:30.560Z",
+  "title": "学习 / 短语 / a (wide / whole) range of · IELTS",
+  "label": "学习 / 短语 / a (wide / whole) range of",
+  "panel": "phrases",
+  "contentRoot": "usage-19",
+  "headings": [
+    {
+      "tag": "H3",
+      "text": "a (wide / whole) range of",
+      "visible": true
+    }
+  ],
+  "controls": [
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "checkbox",
+      "text": "",
+      "label": "收藏 a (wide / whole) range of",
+      "href": null,
+      "save": "vocab-saved-usage-a-wide-whole-range-of",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "Australia’s Sporting Success",
+      "label": "",
+      "href": "原始参考/ad0a33c0-hwatai-cambridge6-sample.pdf",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "checkbox",
+      "text": "",
+      "label": "我已看过本单元",
+      "href": null,
+      "save": "learning-read-usage-19",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    }
+  ],
+  "visibleText": "0% · 0 / 1 完成\n☆\na (wide / whole) range of\n\n表示一系列、一定范围内的多种事物；wide 强调种类多，whole 强调整组或整个范围。\n\na range of + 复数名词；a wide range of services / skills / options；a whole range of policies。\n\nThis is the kind of accuracy that AIS scientists' research is bringing to a range of sports.\n\nAIS 是 Australian Institute of Sport（澳大利亚体育学院）。This 指前文展示的精细表现分析：用游泳分段和转身用时解释名次差异。这种研究方法正用于多种运动；a range of sports 强调运动项目的范围。\n\n原文：\n\nAustralia’s Sporting Success\n\n日常语境例句\n\nThe community centre offers a wide range of classes, from languages to basic computer skills.\n\n社区中心提供多种课程，包括语言课和基础电脑技能课。\n\n它强调种类或范围，不能在所有情况下替换 a large number of。描述很多同一种物品，往往用数量表达更准确；不要机械给每个 range 加 wide。\n\n我已看过本单元",
+  "allContent": "0% · 0 / 1 完成☆a (wide / whole) range of表示一系列、一定范围内的多种事物；wide 强调种类多，whole 强调整组或整个范围。a range of + 复数名词；a wide range of services / skills / options；a whole range of policies。This is the kind of accuracy that AIS scientists' research is bringing to a range of sports.AIS 是 Australian Institute of Sport（澳大利亚体育学院）。This 指前文展示的精细表现分析：用游泳分段和转身用时解释名次差异。这种研究方法正用于多种运动；a range of sports 强调运动项目的范围。原文：Australia’s Sporting Success日常语境例句The community centre offers a wide range of classes, from languages to basic computer skills.社区中心提供多种课程，包括语言课和基础电脑技能课。它强调种类或范围，不能在所有情况下替换 a large number of。描述很多同一种物品，往往用数量表达更准确；不要机械给每个 range 加 wide。 我已看过本单元",
+  "links": [
+    {
+      "text": "Australia’s Sporting Success",
+      "href": "原始参考/ad0a33c0-hwatai-cambridge6-sample.pdf"
+    }
+  ],
+  "details": [],
+  "saveFields": [
+    "vocab-saved-usage-a-wide-whole-range-of",
+    "learning-read-usage-19"
+  ],
+  "images": [],
+  "audio": [],
+  "viewport": 1440,
+  "documentWidth": 1440
+}

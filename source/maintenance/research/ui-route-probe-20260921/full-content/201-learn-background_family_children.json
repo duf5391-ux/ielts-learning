@@ -1,0 +1,319 @@
+{
+  "requested": "learn-background_family_children",
+  "from": [
+    "内容单元"
+  ],
+  "actual": "#learn-background_family_children",
+  "checkedAt": "2026-09-21T12:53:01.242Z",
+  "title": "练习 / 写作 · Task 2 / 家庭与儿童：财富是否决定成年应对能力 · IELTS",
+  "label": "练习 / 写作 · Task 2 / 家庭与儿童：财富是否决定成年应对能力",
+  "panel": "practice-writing2",
+  "contentRoot": "learn-background_family_children",
+  "headings": [
+    {
+      "tag": "H4",
+      "text": "家庭与儿童：财富是否决定成年应对能力",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "完整原题",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "导读",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "参考主体段",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "逐段解释",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "我的原题练习记录",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "核对并修订",
+      "visible": false
+    },
+    {
+      "tag": "H3",
+      "text": "同题官方考生样本 · Band 8.5 · 2A Script C",
+      "visible": true
+    }
+  ],
+  "controls": [
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "家庭与儿童：财富是否决定成年应对能力",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "IELTS Academic Writing Sample Tasks (2023) · Task 2A",
+      "label": "",
+      "href": "case-assets/writing-official-sample-tasks-2023.pdf#page=6",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "IELTS Academic Writing Sample Tasks (2023) · Task 2A",
+      "label": "",
+      "href": "case-assets/writing-official-sample-tasks-2023.pdf#page=6",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "练原题：家庭财富与成年问题应对：避免绝对化",
+      "label": "",
+      "href": "#writing2-case-wc-official-wealth",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "我的理解／想记住的表达（可留空）",
+      "href": null,
+      "save": "enrich-background_family_children-answer",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "checkbox",
+      "text": "",
+      "label": "",
+      "href": null,
+      "save": "enrich-background_family_children-frozen",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "text",
+      "text": "",
+      "label": "",
+      "href": null,
+      "save": "enrich-background_family_children-saved-at",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "保留首稿，打开反馈",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "补充理解／新学到的表达",
+      "href": null,
+      "save": "enrich-background_family_children-revision",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "可选：记录或再练一次",
+      "label": "",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "我的例子／下次回顾记录",
+      "href": null,
+      "save": "enrich-background_family_children-transfer",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "可选：记录或再练一次",
+      "label": "",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SELECT",
+      "id": "",
+      "type": "select-one",
+      "text": "请选择内容或语境没理解词义或声音没认出词汇选择／搭配不稳证据、逻辑或展开不足语法或句子组织问题暂时独立完成，隔天再检验",
+      "label": "这次最需要补什么？请选择内容或语境没理解词义或声音没认出词汇选择／搭配不稳证据、逻辑或展开不足语法或句子组织问题暂时独立完成，隔天再检验",
+      "href": null,
+      "save": "enrich-background_family_children-diagnosis",
+      "visible": false,
+      "disabled": false,
+      "required": false,
+      "options": [
+        {
+          "value": "",
+          "label": "请选择"
+        },
+        {
+          "value": "内容或语境没理解",
+          "label": "内容或语境没理解"
+        },
+        {
+          "value": "词义或声音没认出",
+          "label": "词义或声音没认出"
+        },
+        {
+          "value": "词汇选择／搭配不稳",
+          "label": "词汇选择／搭配不稳"
+        },
+        {
+          "value": "证据、逻辑或展开不足",
+          "label": "证据、逻辑或展开不足"
+        },
+        {
+          "value": "语法或句子组织问题",
+          "label": "语法或句子组织问题"
+        },
+        {
+          "value": "暂时独立完成，隔天再检验",
+          "label": "暂时独立完成，隔天再检验"
+        }
+      ]
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "官方作答 · 第21页",
+      "label": "",
+      "href": "case-assets/writing-official-sample-tasks-2023.pdf#page=21",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "考官评语 · 第22页",
+      "label": "",
+      "href": "case-assets/writing-official-sample-tasks-2023.pdf#page=22",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "官方在线原件",
+      "label": "",
+      "href": "https://ielts.org/cdn/Sample-tests/ielts-academic-writing-sample-tasks-2023.pdf#page=21",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    }
+  ],
+  "visibleText": "家庭与儿童：财富是否决定成年应对能力\n0% · 0 / 1 完成\n家庭与儿童：财富是否决定成年应对能力\n完整原题\n\nChildren who are brought up in families that do not have large amounts of money are better prepared to deal with the problems of adult life than children brought up by wealthy parents. To what extent do you agree or disagree with this opinion?\n\nGive reasons for your answer and include any relevant examples from your own knowledge or experience. Write at least 250 words.\n\n导读\n\n题目比较两类家庭中的孩子应对成年问题的准备程度。贫穷与富裕是条件；独立性、预算取舍、指导和机会才是可解释的机制。下面是本地编写的两段主体参考，不是完整作文或官方高分稿。可对照同一官方 PDF 第 21 页的 Script C，并读第 22 页的 Band 8.5 考官评语，比较立场、理由和概括范围；该分数仅属于官方考生稿。\n\n参考主体段\n\nChildren in families with limited money may gain useful experience of making choices under constraints. If a household cannot afford every desired purchase, a child may have to save gradually, distinguish needs from wants and accept that one decision rules out another. Shared responsibilities can also encourage practical independence. These experiences resemble some of the budgeting and prioritising required in adult life. They provide a plausible reason why growing up without abundant resources could help a person cope with certain financial problems later on.\n\nHowever, I do not think family wealth alone determines how well someone is prepared. Persistent financial insecurity can create stress and restrict access to education or supportive activities, leaving children with fewer resources for future challenges. Conversely, wealthy parents can require their children to manage an allowance, contribute to household tasks and take responsibility for mistakes. Such practices may develop the same judgment and resilience without serious deprivation. I therefore reject the general comparison in the question: preparation depends more on the responsibilities, guidance and opportunities children receive than on whether their parents have a large income.\n\n逐段解释\n\n没有把may写成all poor children：有限预算可能培养技能，但严重匮乏也会限制机会。\n\n对比对象始终是两类家庭中的孩子及成年应对能力，不转成贫富差距政策文章。\n\n第二段以同样责任训练可存在于富裕家庭反驳“财富决定论”，给出明确不同意。\n\n练习：先找出第一段的条件词may、could，再找第二段的反例。参考答案：有限预算可能培养选择能力，但压力和机会不足会削弱准备；富裕家庭也能通过责任与家务培养判断。因此无法只凭收入推出更充分的准备。\n\n完整原件：IELTS Academic Writing Sample Tasks (2023) · Task 2A\n\nIELTS Academic Writing Sample Tasks (2023) · Task 2A\n\n练原题：家庭财富与成年问题应对：避免绝对化\n我的原题练习记录\n\n按上方真实题目留下自己的回答或录音简记；参考内容用于对照，不必复述示范中的经历。\n\n我的理解／想记住的表达（可留空）\n保留首稿，打开反馈\n\n理解题可默想，不要求提交。\n\n同题官方考生样本 · Band 8.5 · 2A Script C\n\n优先对照这份同题官方考生稿及考官评语；分数仅属于该原稿。本地参考段落仍为原创教学示范。\n\n官方作答 · 第21页考官评语 · 第22页官方在线原件\n\n标出立场与支持关系，再与自己的主体段比较；注意高分考评也指出局部泛化。",
+  "allContent": "家庭与儿童：财富是否决定成年应对能力0% · 0 / 1 完成家庭与儿童：财富是否决定成年应对能力完整原题Children who are brought up in families that do not have large amounts of money are better prepared to deal with the problems of adult life than children brought up by wealthy parents. To what extent do you agree or disagree with this opinion?Give reasons for your answer and include any relevant examples from your own knowledge or experience. Write at least 250 words.导读题目比较两类家庭中的孩子应对成年问题的准备程度。贫穷与富裕是条件；独立性、预算取舍、指导和机会才是可解释的机制。下面是本地编写的两段主体参考，不是完整作文或官方高分稿。可对照同一官方 PDF 第 21 页的 Script C，并读第 22 页的 Band 8.5 考官评语，比较立场、理由和概括范围；该分数仅属于官方考生稿。参考主体段Children in families with limited money may gain useful experience of making choices under constraints. If a household cannot afford every desired purchase, a child may have to save gradually, distinguish needs from wants and accept that one decision rules out another. Shared responsibilities can also encourage practical independence. These experiences resemble some of the budgeting and prioritising required in adult life. They provide a plausible reason why growing up without abundant resources could help a person cope with certain financial problems later on.However, I do not think family wealth alone determines how well someone is prepared. Persistent financial insecurity can create stress and restrict access to education or supportive activities, leaving children with fewer resources for future challenges. Conversely, wealthy parents can require their children to manage an allowance, contribute to household tasks and take responsibility for mistakes. Such practices may develop the same judgment and resilience without serious deprivation. I therefore reject the general comparison in the question: preparation depends more on the responsibilities, guidance and opportunities children receive than on whether their parents have a large income.逐段解释没有把may写成all poor children：有限预算可能培养技能，但严重匮乏也会限制机会。对比对象始终是两类家庭中的孩子及成年应对能力，不转成贫富差距政策文章。第二段以同样责任训练可存在于富裕家庭反驳“财富决定论”，给出明确不同意。练习：先找出第一段的条件词may、could，再找第二段的反例。参考答案：有限预算可能培养选择能力，但压力和机会不足会削弱准备；富裕家庭也能通过责任与家务培养判断。因此无法只凭收入推出更充分的准备。完整原件：IELTS Academic Writing Sample Tasks (2023) · Task 2AIELTS Academic Writing Sample Tasks (2023) · Task 2A练原题：家庭财富与成年问题应对：避免绝对化我的原题练习记录按上方真实题目留下自己的回答或录音简记；参考内容用于对照，不必复述示范中的经历。我的理解／想记住的表达（可留空）保留首稿，打开反馈理解题可默想，不要求提交。核对并修订回到上方原题与具体示范，核对是否回应问题、证据是否准确，再改写自己的回答。补充理解／新学到的表达可选：记录或再练一次我的例子／下次回顾记录可选：记录或再练一次这次最需要补什么？请选择内容或语境没理解词义或声音没认出词汇选择／搭配不稳证据、逻辑或展开不足语法或句子组织问题暂时独立完成，隔天再检验同题官方考生样本 · Band 8.5 · 2A Script C优先对照这份同题官方考生稿及考官评语；分数仅属于该原稿。本地参考段落仍为原创教学示范。官方作答 · 第21页考官评语 · 第22页官方在线原件标出立场与支持关系，再与自己的主体段比较；注意高分考评也指出局部泛化。",
+  "links": [
+    {
+      "text": "IELTS Academic Writing Sample Tasks (2023) · Task 2A",
+      "href": "case-assets/writing-official-sample-tasks-2023.pdf#page=6"
+    },
+    {
+      "text": "IELTS Academic Writing Sample Tasks (2023) · Task 2A",
+      "href": "case-assets/writing-official-sample-tasks-2023.pdf#page=6"
+    },
+    {
+      "text": "练原题：家庭财富与成年问题应对：避免绝对化",
+      "href": "#writing2-case-wc-official-wealth"
+    },
+    {
+      "text": "官方作答 · 第21页",
+      "href": "case-assets/writing-official-sample-tasks-2023.pdf#page=21"
+    },
+    {
+      "text": "考官评语 · 第22页",
+      "href": "case-assets/writing-official-sample-tasks-2023.pdf#page=22"
+    },
+    {
+      "text": "官方在线原件",
+      "href": "https://ielts.org/cdn/Sample-tests/ielts-academic-writing-sample-tasks-2023.pdf#page=21"
+    }
+  ],
+  "details": [
+    {
+      "id": "",
+      "title": "可选：记录或再练一次",
+      "open": false,
+      "visible": false
+    },
+    {
+      "id": "",
+      "title": "可选：记录或再练一次",
+      "open": false,
+      "visible": false
+    }
+  ],
+  "saveFields": [
+    "enrich-background_family_children-answer",
+    "enrich-background_family_children-frozen",
+    "enrich-background_family_children-saved-at",
+    "enrich-background_family_children-revision",
+    "enrich-background_family_children-transfer",
+    "enrich-background_family_children-diagnosis"
+  ],
+  "images": [],
+  "audio": [],
+  "viewport": 1440,
+  "documentWidth": 1440
+}

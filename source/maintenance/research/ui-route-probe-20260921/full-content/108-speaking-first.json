@@ -1,0 +1,213 @@
+{
+  "requested": "speaking-first",
+  "from": [
+    "内容单元",
+    "页面链接"
+  ],
+  "actual": "#speaking-first",
+  "checkedAt": "2026-09-21T12:51:48.468Z",
+  "title": "学习 / 口语 / 口语 · 从原题开始学 · IELTS",
+  "label": "学习 / 口语 / 口语 · 从原题开始学",
+  "panel": "speaking",
+  "contentRoot": "speaking-first",
+  "headings": [
+    {
+      "tag": "H2",
+      "text": "先做自己的答案",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "重要物品 · 口语 Part 2",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "Part 2 – Individual long turn",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "Candidate Task Card",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "Rounding off questions",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "我的首次作答",
+      "visible": true
+    }
+  ],
+  "controls": [
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "查看原图 · 1 页",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SELECT",
+      "id": "",
+      "type": "select-one",
+      "text": "首次独立\n学习后应用／已看背景\n见过材料／熟题\n使用提示",
+      "label": "本次条件\n首次独立\n学习后应用／已看背景\n见过材料／熟题\n使用提示",
+      "href": null,
+      "save": "speaking-condition",
+      "visible": true,
+      "disabled": false,
+      "required": false,
+      "options": [
+        {
+          "value": "首次独立",
+          "label": "首次独立"
+        },
+        {
+          "value": "学习后应用／已看背景",
+          "label": "学习后应用／已看背景"
+        },
+        {
+          "value": "见过材料／熟题",
+          "label": "见过材料／熟题"
+        },
+        {
+          "value": "使用提示",
+          "label": "使用提示"
+        }
+      ]
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "number",
+      "text": "",
+      "label": "实际用时（分钟）",
+      "href": null,
+      "save": "speaking-minutes",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "开始录音",
+      "label": "",
+      "href": null,
+      "record": "speaking",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "结束并保留",
+      "label": "",
+      "href": null,
+      "stop": "speaking",
+      "visible": true,
+      "disabled": true,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "下载这段录音",
+      "label": "",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "AUDIO",
+      "id": "",
+      "text": "",
+      "label": "",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "file",
+      "text": "",
+      "label": "或载入已有录音",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "录音文件名、实际时长或原稿保存位置",
+      "href": null,
+      "save": "speaking-record-note",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "保存首次作答，进入学习",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    }
+  ],
+  "visibleText": "0% · 0 / 0 完成\n先做自己的答案\n\n先只看Part 2 重要物品题卡，确认录音能收音后，给自己一分钟准备并记少量关键词，随后实际说 1—2 分钟，到两分钟停止。先不看或听示例，不先写完整稿；提前结束也保留原音，注明是否练过题目及实际时长。\n\n重要物品 · 口语 Part 2\nPart 2 – Individual long turn\nCandidate Task Card\n\nDescribe something you own which is very important to you.\n\nYou should say:\n\nwhere you got it from\nhow long you have had it\nwhat you use it for\n\nand explain why it is important to you.\n\nYou will have to talk about the topic for 1 to 2 minutes.\n\nYou have one minute to think about what you’re going to say.\n\nYou can make some notes to help you if you wish.\n\nRounding off questions\nIs it valuable in terms of money?\nWould it be easy to replace?\n查看原图 · 1 页\n我的首次作答\n本次条件\n首次独立\n学习后应用／已看背景\n见过材料／熟题\n使用提示\n实际用时（分钟）\n\n准备 1 分钟，随后说 1–2 分钟。点击录音会请求麦克风权限；也可以用自己的录音器。\n\n开始录音结束并保留\n或载入已有录音\n\n录音请单独下载保存；文字导出不包含音频。\n\n录音文件名、实际时长或原稿保存位置\n保存首次作答，进入学习\n\n首次稿尚未保存。",
+  "allContent": "0% · 0 / 0 完成先做自己的答案先只看Part 2 重要物品题卡，确认录音能收音后，给自己一分钟准备并记少量关键词，随后实际说 1—2 分钟，到两分钟停止。先不看或听示例，不先写完整稿；提前结束也保留原音，注明是否练过题目及实际时长。重要物品 · 口语 Part 2Part 2 – Individual long turnCandidate Task CardDescribe something you own which is very important to you.You should say:where you got it fromhow long you have had itwhat you use it forand explain why it is important to you.You will have to talk about the topic for 1 to 2 minutes.You have one minute to think about what you’re going to say.You can make some notes to help you if you wish.Rounding off questionsIs it valuable in terms of money?Would it be easy to replace?查看原图 · 1 页Cambridge  Speaking Part 2 · 重要物品题卡我的首次作答本次条件首次独立学习后应用／已看背景见过材料／熟题使用提示实际用时（分钟）准备 1 分钟，随后说 1–2 分钟。点击录音会请求麦克风权限；也可以用自己的录音器。开始录音结束并保留下载这段录音或载入已有录音 录音请单独下载保存；文字导出不包含音频。录音文件名、实际时长或原稿保存位置保存首次作答，进入学习首次稿尚未保存。",
+  "links": [],
+  "details": [
+    {
+      "id": "",
+      "title": "查看原图 · 1 页",
+      "open": false,
+      "visible": true
+    }
+  ],
+  "saveFields": [
+    "speaking-condition",
+    "speaking-minutes",
+    "speaking-record-note"
+  ],
+  "images": [
+    {
+      "src": "assets/deferred-media/635531d17720f8da1f752475.png",
+      "alt": "Cambridge 官方 Speaking Part 2 · 重要物品题卡",
+      "visible": false,
+      "complete": false,
+      "width": 0
+    }
+  ],
+  "audio": [
+    {
+      "src": null,
+      "sources": [],
+      "visible": false,
+      "controls": true
+    }
+  ],
+  "viewport": 1440,
+  "documentWidth": 1440
+}

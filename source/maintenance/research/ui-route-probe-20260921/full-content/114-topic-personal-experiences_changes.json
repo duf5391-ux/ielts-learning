@@ -1,0 +1,96 @@
+{
+  "requested": "topic-personal-experiences_changes",
+  "from": [
+    "内容单元",
+    "页面链接"
+  ],
+  "actual": "#topic-personal-experiences_changes",
+  "checkedAt": "2026-09-21T12:51:52.814Z",
+  "title": "学习 / 口语 / 经历与变化：核对一条信息 · IELTS",
+  "label": "学习 / 口语 / 经历与变化：核对一条信息",
+  "panel": "speaking",
+  "contentRoot": "topic-personal-experiences_changes",
+  "headings": [
+    {
+      "tag": "H2",
+      "text": "经历与变化：核对一条信息",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "经历与变化：核对一条信息",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "不真实的信息：发现问题与核对",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "参考作答",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "逐项解释与练习",
+      "visible": true
+    }
+  ],
+  "controls": [
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "Cambridge IELTS 21 Academic · Test 2 · 物理页54 / 印刷页53",
+      "label": "",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=54",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "Cambridge IELTS 21 Academic · Test 2 · 物理页54 / 印刷页53",
+      "label": "",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=54",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "checkbox",
+      "text": "",
+      "label": "已读过这段背景",
+      "href": null,
+      "save": "topic-read-personal-experiences_changes",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    }
+  ],
+  "visibleText": "0% · 0 / 1 完成\n经历与变化：核对一条信息\n经历与变化：核对一条信息\n\n本单元复用同一正式题卡，练习个人经历组织；不计作另一道新题。\n\n参考答题情节只是示例；若自己没有图书馆经历，应换真实的不实消息。要解释怀疑根据与核对方法，不需要编造戏剧性诈骗。\n\n不真实的信息：发现问题与核对\n\n本单元使用真实 Part 2 题卡。先准备 1 分钟，再连续说 1–2 分钟；对照参考写法检查内容是否充分展开。示例经历由本地编写，不是官方考生作答或经考官评分的高分案例。\n\nDescribe a time when you read or heard something that you thought was not true.\nwhere you read/heard this\nwhat you read/heard\nwhy you thought it was not true\nand explain how you felt about reading/hearing this thing that you thought was not true.\n参考作答\n\nI remember seeing a message in a group chat saying that our university library would close for an entire month. It appeared just before an important assignment was due, so several people were worried. The message looked like a screenshot of an announcement, but it didn't include a date or a link to the original notice.\n\nI doubted it because I had been in the library that morning and had seen nothing about a long closure. Rather than immediately telling everyone the message was wrong, I checked the library website. The actual notice said that one reading room would close for repairs while the rest of the building remained open.\n\nAt first I felt anxious, because I depended on the library for a quiet place to study. Once I had checked the notice, I felt relieved and a little frustrated that an incomplete message had caused so much confusion. I shared the link with the group and explained the difference. The experience reminded me to check the original context before passing on information that sounds urgent.\n\n逐项解释与练习\n\nwhere=group chat；what=whole library closed one month；why=different recent observation + original notice核对；feelings=anxious→relieved/frustrated。题目是 thought not true，先怀疑再核对比把直觉当证据更清楚。本文事件是原创参考作答，不是新增真题文本。\n\n练习：保留题目中的对象、时间和问法，换成自己的真实经历。先口头作答，再对照上面的具体内容逐项检查；不需要逐字背诵参考作答。\n\n完整原件：Cambridge IELTS 21 Academic · Test 2 · 物理页54 / 印刷页53\n\nCambridge IELTS 21 Academic · Test 2 · 物理页54 / 印刷页53\n\n本单元的学习记录\n\n已读过这段背景",
+  "allContent": "0% · 0 / 1 完成经历与变化：核对一条信息经历与变化：核对一条信息本单元复用同一正式题卡，练习个人经历组织；不计作另一道新题。参考答题情节只是示例；若自己没有图书馆经历，应换真实的不实消息。要解释怀疑根据与核对方法，不需要编造戏剧性诈骗。不真实的信息：发现问题与核对本单元使用真实 Part 2 题卡。先准备 1 分钟，再连续说 1–2 分钟；对照参考写法检查内容是否充分展开。示例经历由本地编写，不是官方考生作答或经考官评分的高分案例。Describe a time when you read or heard something that you thought was not true.where you read/heard thiswhat you read/heardwhy you thought it was not trueand explain how you felt about reading/hearing this thing that you thought was not true.参考作答I remember seeing a message in a group chat saying that our university library would close for an entire month. It appeared just before an important assignment was due, so several people were worried. The message looked like a screenshot of an announcement, but it didn't include a date or a link to the original notice.I doubted it because I had been in the library that morning and had seen nothing about a long closure. Rather than immediately telling everyone the message was wrong, I checked the library website. The actual notice said that one reading room would close for repairs while the rest of the building remained open.At first I felt anxious, because I depended on the library for a quiet place to study. Once I had checked the notice, I felt relieved and a little frustrated that an incomplete message had caused so much confusion. I shared the link with the group and explained the difference. The experience reminded me to check the original context before passing on information that sounds urgent.逐项解释与练习where=group chat；what=whole library closed one month；why=different recent observation + original notice核对；feelings=anxious→relieved/frustrated。题目是 thought not true，先怀疑再核对比把直觉当证据更清楚。本文事件是原创参考作答，不是新增真题文本。练习：保留题目中的对象、时间和问法，换成自己的真实经历。先口头作答，再对照上面的具体内容逐项检查；不需要逐字背诵参考作答。完整原件：Cambridge IELTS 21 Academic · Test 2 · 物理页54 / 印刷页53Cambridge IELTS 21 Academic · Test 2 · 物理页54 / 印刷页53本单元的学习记录 已读过这段背景",
+  "links": [
+    {
+      "text": "Cambridge IELTS 21 Academic · Test 2 · 物理页54 / 印刷页53",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=54"
+    },
+    {
+      "text": "Cambridge IELTS 21 Academic · Test 2 · 物理页54 / 印刷页53",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=54"
+    }
+  ],
+  "details": [],
+  "saveFields": [
+    "topic-read-personal-experiences_changes"
+  ],
+  "images": [],
+  "audio": [],
+  "viewport": 1440,
+  "documentWidth": 1440
+}

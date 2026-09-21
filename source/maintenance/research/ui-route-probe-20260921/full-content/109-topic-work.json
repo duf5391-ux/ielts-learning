@@ -1,0 +1,281 @@
+{
+  "requested": "topic-work",
+  "from": [
+    "内容单元",
+    "页面链接"
+  ],
+  "actual": "#topic-work",
+  "checkedAt": "2026-09-21T12:51:49.212Z",
+  "title": "学习 / 口语 / 工作：收入、稳定性与生活安排 · IELTS",
+  "label": "学习 / 口语 / 工作：收入、稳定性与生活安排",
+  "panel": "speaking",
+  "contentRoot": "topic-work",
+  "headings": [
+    {
+      "tag": "H2",
+      "text": "工作：收入、稳定性与生活安排",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "先分清三个概念",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "读一段背景英语",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "这个话题通常怎样展开",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "可以直接理解和借用的搭配",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "从工作条件说到生活安排",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "正式口语样本：Monika 的工作与休闲讨论",
+      "visible": true
+    }
+  ],
+  "controls": [
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "← 返回本科内容",
+      "label": "",
+      "href": "#study-speaking-list",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "checkbox",
+      "text": "",
+      "label": "已读过这段背景",
+      "href": null,
+      "save": "topic-read-work",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "中文帮助理解",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "查看 Task 1 原图与题目",
+      "label": "",
+      "href": "#writing1-first",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "Task 1",
+      "label": "",
+      "href": "#writing1",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "Task 2",
+      "label": "",
+      "href": "#writing2",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "概念、缺少的信息与具体安排\n暂时不会",
+      "href": null,
+      "save": "prereq-work-scenarios",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "暂时不会",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "完成后核对",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "IELTS 官方样本页",
+      "label": "",
+      "href": "https://ielts.org/organisations/ielts-for-organisations/understanding-ielts-scoring/resources-for-setting-your-ielts-scores",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "解释链与我提出的安排\n暂时不会",
+      "href": null,
+      "save": "prereq-work-source",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "暂时不会",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "完成后核对",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "延伸阅读：制糖业中的历史劳工",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "",
+      "label": "",
+      "href": "#topic-health",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    }
+  ],
+  "visibleText": "0% · 0 / 3 完成\n← 返回本科内容\n已读过这段背景\n\nTOPIC 02\n\n工作：收入、稳定性与生活安排\n\n讨论工作时，可以把收入、稳定性、工作内容和时间安排分开看。薪水相同的两份工作，通勤距离、学习机会和照顾家庭的空间可能不同；灵活安排也可能指时间灵活，或地点灵活。远程办公的争论不只是家里与办公室哪个好，还涉及岗位是否适合远程完成、同事怎样协作，以及新人如何获得指导。判断最好联系具体岗位和人的需要。\n\n先分清三个概念\n概念\t它指什么\t不要混淆\njob security\t对工作能否持续、是否可能失去岗位的稳定预期。\t工作稳定不等于工作令人满意；一个人可能希望保住岗位，同时不喜欢具体工作内容。\nflexible working arrangements\t在工作时间、地点或安排方式上提供一定选择。\t可以调整上下班时间与可以在家工作不是同一件事；灵活程度也不表示没有工作责任。\nwork-life balance\t让工作要求与休息、家庭和其他个人生活需要能够相互协调。\t它不要求工作与生活各占一半时间；不同阶段、家庭责任和个人偏好会影响具体安排。\n读一段背景英语\nPeople may value different things in a job. For one person, a steady income may be the main concern. For another, opportunities to learn or time with family may matter more. Working from home is one possible arrangement, but it does not suit every role or every worker. Someone who writes reports may be able to complete many tasks at home, while a mechanic needs access to vehicles and equipment. Even within an office team, some tasks require quiet concentration and others benefit from direct discussion. The useful question is therefore how to organise the work. Clear responsibilities, suitable equipment and opportunities to ask for help are relevant whether employees work at home or in a shared workplace.\n中文帮助理解\n\n相关练习\n\n本册就业图比较美国四个行业的岗位数量变化。岗位数、收入、工作稳定性是不同的信息；图里没有的原因，不能自行写成事实。\n\n查看 Task 1 原图与题目\n这个话题通常怎样展开\n\n以下为教学归纳的讨论角度，不是考试频率排名或原题清单。\n\n选择工作时，收入、稳定性、兴趣和发展机会应怎样权衡？（教学概括，非原题）\n哪些工作安排适合远程完成，哪些需要现场协作？（教学概括，非原题）\n雇主可以怎样支持员工学习，同时安排好工作责任？（教学概括，非原题）\n可以直接理解和借用的搭配\n\n本组是教学选用搭配与例句，尚未逐组统计真题频率。\n\n搭配与意思\t放进句子里\nearn a living\n谋生，获得维持生活所需的收入\tSome people earn a living by repairing household equipment.\ngain work experience\n获得工作经验\tA placement can give students a chance to gain work experience.\nbalance work and family responsibilities\n协调工作与家庭责任\tFlexible starting times may help some employees balance work and family responsibilities.\nwork flexible hours\n在一定范围内灵活安排工作时间\tShe works flexible hours but attends the weekly team meeting.\nprovide training for employees\n为员工提供培训\tThe company provides training for employees who need to use new equipment.\n\n读过背景后，需要练习时再进入：Task 1 · Task 2。已读过原句或提示的任务，记为学习后应用。\n\n从工作条件说到生活安排\n\n下面两个情境为本册编写。先分清“时间、地点、稳定性”，再用正式口语样本观察怎样解释工作与休息的关系。\n\n甲可以在家工作，但每天必须在线到晚上十点。乙必须到工作场所，但下班时间固定。谁的工作地点更灵活？能否据此断定谁有更好的 work-life balance？还需要哪些信息？\n一份工作薪水较高，但短期合同即将到期；另一份收入较低，长期合同和工时较稳定。说明两者在收入与 job security 上的取舍。为需要接送孩子的人提出一种具体安排，并说明岗位能否支持它。\n概念、缺少的信息与具体安排\n暂时不会\n完成后核对\n正式口语样本：Monika 的工作与休闲讨论\n\n在 IELTS 官方样本页 找到 Band 8 | Monika, Germany，播放工作与休闲部分，或展开转写。本段用来观察理由怎样展开；示例中的社会情况是考生当时的看法。\n\n中文任务提要：考官顺着她关于工作和休闲失衡的观点，要求进一步解释。她将岗位竞争与保住工作、加班、休闲时间减少和家庭生活联系起来。\n\n按“压力来源 → 工作行为 → 生活影响”记录她的解释链。\n她关于未来的回答是确定事实还是预测？记录她怎样限制确定程度。\n给自己熟悉的一种岗位提出改善时间安排的办法，用两句说明效果和限制。\n解释链与我提出的安排\n暂时不会\n完成后核对\n延伸阅读：制糖业中的历史劳工",
+  "allContent": "0% · 0 / 3 完成← 返回本科内容 已读过这段背景TOPIC 02工作：收入、稳定性与生活安排讨论工作时，可以把收入、稳定性、工作内容和时间安排分开看。薪水相同的两份工作，通勤距离、学习机会和照顾家庭的空间可能不同；灵活安排也可能指时间灵活，或地点灵活。远程办公的争论不只是家里与办公室哪个好，还涉及岗位是否适合远程完成、同事怎样协作，以及新人如何获得指导。判断最好联系具体岗位和人的需要。先分清三个概念概念它指什么不要混淆job security对工作能否持续、是否可能失去岗位的稳定预期。工作稳定不等于工作令人满意；一个人可能希望保住岗位，同时不喜欢具体工作内容。flexible working arrangements在工作时间、地点或安排方式上提供一定选择。可以调整上下班时间与可以在家工作不是同一件事；灵活程度也不表示没有工作责任。work-life balance让工作要求与休息、家庭和其他个人生活需要能够相互协调。它不要求工作与生活各占一半时间；不同阶段、家庭责任和个人偏好会影响具体安排。读一段背景英语People may value different things in a job. For one person, a steady income may be the main concern. For another, opportunities to learn or time with family may matter more. Working from home is one possible arrangement, but it does not suit every role or every worker. Someone who writes reports may be able to complete many tasks at home, while a mechanic needs access to vehicles and equipment. Even within an office team, some tasks require quiet concentration and others benefit from direct discussion. The useful question is therefore how to organise the work. Clear responsibilities, suitable equipment and opportunities to ask for help are relevant whether employees work at home or in a shared workplace.中文帮助理解选择工作时，人们重视的条件可能不同：有人最在意稳定收入，有人更看重学习机会或陪伴家人的时间。在家工作只是众多安排中的一种，并不适合所有岗位。写报告的人可能在家完成不少任务，修理汽车的人则需要接触车辆与设备。同一个团队里，也会同时存在需要安静专注和需要直接讨论的任务。因此，讨论重点可以落在工作怎样组织：责任是否清楚、设备是否合适、遇到问题能否获得帮助，而不是笼统判断某个地点永远更好。相关练习本册就业图比较美国四个行业的岗位数量变化。岗位数、收入、工作稳定性是不同的信息；图里没有的原因，不能自行写成事实。查看 Task 1 原图与题目这个话题通常怎样展开以下为教学归纳的讨论角度，不是考试频率排名或原题清单。选择工作时，收入、稳定性、兴趣和发展机会应怎样权衡？（教学概括，非原题）哪些工作安排适合远程完成，哪些需要现场协作？（教学概括，非原题）雇主可以怎样支持员工学习，同时安排好工作责任？（教学概括，非原题）可以直接理解和借用的搭配本组是教学选用搭配与例句，尚未逐组统计真题频率。搭配与意思放进句子里earn a living谋生，获得维持生活所需的收入Some people earn a living by repairing household equipment.gain work experience获得工作经验A placement can give students a chance to gain work experience.balance work and family responsibilities协调工作与家庭责任Flexible starting times may help some employees balance work and family responsibilities.work flexible hours在一定范围内灵活安排工作时间She works flexible hours but attends the weekly team meeting.provide training for employees为员工提供培训The company provides training for employees who need to use new equipment.读过背景后，需要练习时再进入：Task 1 · Task 2。已读过原句或提示的任务，记为学习后应用。从工作条件说到生活安排\n下面两个情境为本册编写。先分清“时间、地点、稳定性”，再用正式口语样本观察怎样解释工作与休息的关系。\n甲可以在家工作，但每天必须在线到晚上十点。乙必须到工作场所，但下班时间固定。谁的工作地点更灵活？能否据此断定谁有更好的 work-life balance？还需要哪些信息？\n一份工作薪水较高，但短期合同即将到期；另一份收入较低，长期合同和工时较稳定。说明两者在收入与 job security 上的取舍。为需要接送孩子的人提出一种具体安排，并说明岗位能否支持它。概念、缺少的信息与具体安排暂时不会完成后核对① 甲的地点选择更多，但长时间在线可能减少休息；还要看总工时、通勤、家庭责任和个人需要。工作地点灵活不自动等于生活更平衡。② 合同期限与稳定预期有关，薪水高低是另一维度；固定提前下班或错峰上班可能有帮助，但需要覆盖岗位职责，不能直接假定所有岗位都能远程完成。正式口语样本：Monika 的工作与休闲讨论\n在 IELTS 官方样本页 找到 Band 8 | Monika, Germany，播放工作与休闲部分，或展开转写。本段用来观察理由怎样展开；示例中的社会情况是考生当时的看法。\n中文任务提要：考官顺着她关于工作和休闲失衡的观点，要求进一步解释。她将岗位竞争与保住工作、加班、休闲时间减少和家庭生活联系起来。\n按“压力来源 → 工作行为 → 生活影响”记录她的解释链。她关于未来的回答是确定事实还是预测？记录她怎样限制确定程度。给自己熟悉的一种岗位提出改善时间安排的办法，用两句说明效果和限制。解释链与我提出的安排暂时不会完成后核对核对：岗位竞争／保住工作的压力 → 增加加班 → 休闲与家庭时间受到挤压。未来部分带有不确定性，是预测。考官认可长回答的连贯展开、词汇与语音表现，同时指出少数搭配和时态问题；官方 8 分针对该考生表现。\n原创参考：A customer-service team could stagger its shifts so that some staff finish earlier without leaving the service desk unattended. This would require enough staff during busy periods, so a very small team might have less flexibility. 先给安排，再补适用条件；不用把灵活工作说成对所有人都有效。延伸阅读：制糖业中的历史劳工同话题的独立阅读题：健康与消费：读出作者评价 →",
+  "links": [
+    {
+      "text": "← 返回本科内容",
+      "href": "#study-speaking-list"
+    },
+    {
+      "text": "查看 Task 1 原图与题目",
+      "href": "#writing1-first"
+    },
+    {
+      "text": "Task 1",
+      "href": "#writing1"
+    },
+    {
+      "text": "Task 2",
+      "href": "#writing2"
+    },
+    {
+      "text": "IELTS 官方样本页",
+      "href": "https://ielts.org/organisations/ielts-for-organisations/understanding-ielts-scoring/resources-for-setting-your-ielts-scores"
+    },
+    {
+      "text": "健康与消费：读出作者评价 →",
+      "href": "#topic-health"
+    }
+  ],
+  "details": [
+    {
+      "id": "",
+      "title": "中文帮助理解",
+      "open": false,
+      "visible": true
+    },
+    {
+      "id": "answer-check-16",
+      "title": "完成后核对",
+      "open": false,
+      "answerGate": "[\"prereq-work-scenarios\"]",
+      "visible": true
+    },
+    {
+      "id": "answer-check-17",
+      "title": "完成后核对",
+      "open": false,
+      "answerGate": "[\"prereq-work-source\"]",
+      "visible": true
+    },
+    {
+      "id": "",
+      "title": "延伸阅读：制糖业中的历史劳工",
+      "open": false,
+      "visible": true
+    }
+  ],
+  "saveFields": [
+    "topic-read-work",
+    "prereq-work-scenarios",
+    "prereq-work-source"
+  ],
+  "images": [],
+  "audio": [],
+  "viewport": 1440,
+  "documentWidth": 1440
+}

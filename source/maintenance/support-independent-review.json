@@ -1,0 +1,87 @@
+{
+  "reviewer": "authentic_writing_cases (independent of support author)",
+  "date": "2026-09-19",
+  "reviewedFile": "support-remediations.json",
+  "scope": {
+    "replacements": 36,
+    "supplements": 38,
+    "materialGroups": 39,
+    "checks": [
+      "22 referenced PDFs: local paths and physical page bounds checked",
+      "41 Cambridge21 speaking prompt components: independently normalised and matched to stated source pages",
+      "Six Cambridge21 reading passages: answers checked against original keys at PDF119/121/123 and explanation evidence read",
+      "Four official listening and four GT reading groups: explanation answers checked against original PDF answer pages",
+      "Space/planet flowchart: original Q26–30 text and A–H mapping checked against transcript evidence",
+      "Official spoken transcript samples: source wording and error-correction labels checked",
+      "Sport/timekeeping background: full source context and explicitly teacher-written guide questions checked",
+      "Film: Q14/Q24 supported by visible first paragraph; inferred answer correctly distinguished from an official key"
+    ],
+    "integrationOwnedByRoot": [
+      "audit-075",
+      "audit-076",
+      "audit-101",
+      "audit-104"
+    ]
+  },
+  "issues": [
+    {
+      "id": "support-cross-01",
+      "priority": "high",
+      "caseId": "support-reading-farming",
+      "auditIds": [
+        "audit-117"
+      ],
+      "issue": "Explanation assigned B/E/F/G/H to iii/iv/vii/ii/viii, contradicting the actual A/B/C/D/F questions and official answer page.",
+      "evidence": "cambridge-zip-115016_Academic_Reading_sample_task_-_Matching_headings__2_.pdf pages1,4: Q1–5 A/B/C/D/F = v/vii/ii/iv/i; E is the worked example vi.",
+      "status": "resolved",
+      "verifiedCorrection": "Latest teachingHtml and explanation now show the correct sections and key."
+    },
+    {
+      "id": "support-cross-02",
+      "priority": "medium",
+      "caseId": "support-reading-c21-ai",
+      "auditIds": [
+        "audit-041",
+        "audit-047",
+        "audit-062",
+        "audit-063",
+        "audit-134"
+      ],
+      "issue": "Raw PDF text extraction omitted the I label before approval in the summary word list, while explanations correctly referred to answer I.",
+      "evidence": "Cambridge21 PDF50 word list / PDF121 answer key: I approval.",
+      "status": "resolved",
+      "verifiedCorrection": "Latest teachingHtml includes I approval."
+    },
+    {
+      "id": "support-cross-03",
+      "priority": "medium",
+      "caseId": "support-reading-health",
+      "auditIds": [
+        "audit-125"
+      ],
+      "issue": "Generic verification materialType could present a Cambridge classroom worksheet as an examination paper/sample task.",
+      "evidence": "cambridge-classroom-reading-3.pdf is a Short-answer Questions Activity student worksheet with teacher answers.",
+      "status": "resolved",
+      "verifiedCorrection": "materialType now explicitly says Cambridge官方教辅原任务；非考场题号."
+    },
+    {
+      "id": "support-cross-04",
+      "priority": "medium",
+      "caseId": "support-reading-farming",
+      "auditIds": [
+        "audit-117"
+      ],
+      "issue": "Residual final explanation says Section F discusses subsidy cuts and research results. The actual F predicts effects of the Uruguay Round; the New Zealand study is in D and the IRRI study is in E.",
+      "evidence": "Same original PDF pages2–3: D includes the1993 New Zealand study; E includes IRRI research; F describes prospective production shifts and environmental consequences of the trade agreement.",
+      "status": "resolved",
+      "requestedCorrection": "F段讨论新国际贸易协定可能引发的生产转移及环境后果，不是E段的发展中国家既有补贴损害。",
+      "verifiedCorrection": "Latest support-remediations.json removes the incorrect F-paragraph research-results statement; root also confirmed the corrected source-based explanation."
+    }
+  ],
+  "judgment": "Reviewed source and answer evidence is sufficient; all four independently identified issues have been corrected. Existing questionable originals retain their prior status. Cross-module integration remains owned by root.",
+  "notes": [
+    "Support background excerpts are not counted as additional independent exam cases when they reuse the same source.",
+    "Normalise PDF running headers/footers and preserve paragraph breaks for readability; substantive source wording should remain unchanged.",
+    "No fabricated answer key was detected; the film-derived answers are explicitly labelled as teacher inference."
+  ]
+}

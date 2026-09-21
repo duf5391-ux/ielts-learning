@@ -1,0 +1,324 @@
+{
+  "requested": "reading-case-rd-c21-t3-dart-system",
+  "from": [
+    "内容单元",
+    "每日安排目标"
+  ],
+  "actual": "#reading-case-rd-c21-t3-dart-system",
+  "checkedAt": "2026-09-21T12:52:13.590Z",
+  "title": "练习 / 阅读 / Dar es Salaam · 公交设计与实际故障 · IELTS",
+  "label": "练习 / 阅读 / Dar es Salaam · 公交设计与实际故障",
+  "panel": "practice-reading",
+  "contentRoot": "reading-case-rd-c21-t3-dart-system",
+  "headings": [
+    {
+      "tag": "H3",
+      "text": "对照答案，回到证据",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "原文片段 · 1",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "原文片段 · 2",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "原文片段 · 3",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "原文片段 · 4",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "词语与搭配",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "句子精读",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "这篇材料里可用于写作的表达",
+      "visible": false
+    }
+  ],
+  "controls": [
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "Dar es Salaam · 公交设计与实际故障未作答\n笔记填空 · 4 段 · 316 词 · 8 题 · 同篇原文另有裁切",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "Cambridge IELTS 21 Academic",
+      "label": "",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=65",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "case-rd-c21-t3-dart-system-q1",
+      "type": "text",
+      "text": "",
+      "label": "第 19 题作答",
+      "href": null,
+      "save": "case-rd-c21-t3-dart-system-q1",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "case-rd-c21-t3-dart-system-q2",
+      "type": "text",
+      "text": "",
+      "label": "第 20 题作答",
+      "href": null,
+      "save": "case-rd-c21-t3-dart-system-q2",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "case-rd-c21-t3-dart-system-q3",
+      "type": "text",
+      "text": "",
+      "label": "第 21 题作答",
+      "href": null,
+      "save": "case-rd-c21-t3-dart-system-q3",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "case-rd-c21-t3-dart-system-q4",
+      "type": "text",
+      "text": "",
+      "label": "第 22 题作答",
+      "href": null,
+      "save": "case-rd-c21-t3-dart-system-q4",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "case-rd-c21-t3-dart-system-q5",
+      "type": "text",
+      "text": "",
+      "label": "第 23 题作答",
+      "href": null,
+      "save": "case-rd-c21-t3-dart-system-q5",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "case-rd-c21-t3-dart-system-q6",
+      "type": "text",
+      "text": "",
+      "label": "第 24 题作答",
+      "href": null,
+      "save": "case-rd-c21-t3-dart-system-q6",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "case-rd-c21-t3-dart-system-q7",
+      "type": "text",
+      "text": "",
+      "label": "第 25 题作答",
+      "href": null,
+      "save": "case-rd-c21-t3-dart-system-q7",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "case-rd-c21-t3-dart-system-q8",
+      "type": "text",
+      "text": "",
+      "label": "第 26 题作答",
+      "href": null,
+      "save": "case-rd-c21-t3-dart-system-q8",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "checkbox",
+      "text": "",
+      "label": "",
+      "href": null,
+      "save": "case-rd-c21-t3-dart-system-done",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "hidden",
+      "text": "",
+      "label": "",
+      "href": null,
+      "save": "case-rd-c21-t3-dart-system-saved-at",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "保留作答，查看答案",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "核对原答案页",
+      "label": "",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=123",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "case-rd-c21-t3-dart-system-revision",
+      "type": "textarea",
+      "text": "",
+      "label": "我的修订／证据笔记",
+      "href": null,
+      "save": "case-rd-c21-t3-dart-system-revision",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "材料精读 · 内容与词句",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "",
+      "label": "",
+      "href": "#writing-prep-wc-official-transport-from-rd-c21-t3-dart-system",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "",
+      "label": "",
+      "href": "#writing-prep-wc-c21-t1-homes-from-rd-c21-t3-dart-system",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "",
+      "label": "",
+      "href": "#writing-prep-wc-official-transport-from-rd-c21-t3-dart-system",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    }
+  ],
+  "visibleText": "Dar es Salaam · 公交设计与实际故障未作答\n笔记填空 · 4 段 · 316 词 · 8 题 · 同篇原文另有裁切\n0% · 0 / 1 完成\n\n真题 · Cambridge IELTS 21 Academic · PDF 第 65, 66 页\n\n按原题号作答。保留考试原文与题目难度；以下是连续原段裁切，未改写原文。\n\n原第6–9段连续裁切，包含所有8个填空证据。路线未来阶段按文章当时的计划理解。\n\n原文片段 · 1The DART bus rapid transit (BRT) system runs on bus lanes separated from other traffic, mostly in the middle of the road to reduce stoppages. Ticket purchase and control takes place at stations prior to boarding and the buses are step-free, which means the entire route is accessible to people using wheelchairs or who are travelling with baby buggies.\n\n原文片段 · 2'The new buses are much, much better,' says Paulas George, a young IT worker. He takes the bus every day and it has cut his journey time by two-thirds. He says it is not perfect, though, complaining that drivers often refuse to turn on the air conditioning to save fuel.\n\n原文片段 · 3That is not the only problem. A shortage of buses after a serious flood at the main depot during the rainy season means the system is carrying 200,000 people a day - half the expected capacity. Smartcards can't be used as the mechanical readers aren't working either, forcing passengers to buy individual paper tickets for every journey. Each is printed with a scannable QR code, but there are no scanners. Staff stand by the gates and tear tickets as people enter. As a result, queues are considerable at peak times.\n\n原文片段 · 4Morogoro Road to the north-west of the city was phase I of the BRT project. Phases II and III will install bus lanes along Nyerere Road to the south-west and Kilwa Road to the south. Construction on both routes is due to start imminently. Phase IV, towards Bagamoyo in the north, is in the preliminary design stage. 'Much of the city will have access to a world-class transport system within the space of a few years,' says Chris Kost, the Africa director of ITDP (the Institute for Transportation and Development Policy). All phases are being planned to high standards and, once complete, a third of city residents will be within a short walk of the BRT network.\n\n19. the buses use designated ______ to cut down on delays\n\nComplete the notes below. Choose ONE WORD ONLY from the passage for each answer.\n\n第 19 题作答\n\n20. passengers pay fares before ______\n\nComplete the notes below. Choose ONE WORD ONLY from the passage for each answer.\n\n第 20 题作答\n\n21. passengers in ______ can use every part of the system\n\nComplete the notes below. Choose ONE WORD ONLY from the passage for each answer.\n\n第 21 题作答\n\n22. the temperature control is sometimes not activated in order to reduce ______ use\n\nComplete the notes below. Choose ONE WORD ONLY from the passage for each answer.\n\n第 22 题作答\n\n23. insufficient number of vehicles are available due to the effects of a severe ______\n\nComplete the notes below. Choose ONE WORD ONLY from the passage for each answer.\n\n第 23 题作答\n\n24. passengers are unable to use ______ because some equipment is out of action\n\nComplete the notes below. Choose ONE WORD ONLY from the passage for each answer.\n\n第 24 题作答\n\n25. tickets have to be checked manually at station ______\n\nComplete the notes below. Choose ONE WORD ONLY from the passage for each answer.\n\n第 25 题作答\n\n26. ______ frequently build up during rush hours\n\nComplete the notes below. Choose ONE WORD ONLY from the passage for each answer.\n\n第 26 题作答\n保留作答，查看答案\n\n先作答；不确定的题也可记录判断与疑点。\n\n材料精读 · 内容与词句",
+  "allContent": "Dar es Salaam · 公交设计与实际故障未作答笔记填空 · 4 段 · 316 词 · 8 题 · 同篇原文另有裁切0% · 0 / 1 完成真题 · Cambridge IELTS 21 Academic · PDF 第 65, 66 页按原题号作答。保留考试原文与题目难度；以下是连续原段裁切，未改写原文。原第6–9段连续裁切，包含所有8个填空证据。路线未来阶段按文章当时的计划理解。原文片段 · 1The DART bus rapid transit (BRT) system runs on bus lanes separated from other traffic, mostly in the middle of the road to reduce stoppages. Ticket purchase and control takes place at stations prior to boarding and the buses are step-free, which means the entire route is accessible to people using wheelchairs or who are travelling with baby buggies.原文片段 · 2'The new buses are much, much better,' says Paulas George, a young IT worker. He takes the bus every day and it has cut his journey time by two-thirds. He says it is not perfect, though, complaining that drivers often refuse to turn on the air conditioning to save fuel.原文片段 · 3That is not the only problem. A shortage of buses after a serious flood at the main depot during the rainy season means the system is carrying 200,000 people a day - half the expected capacity. Smartcards can't be used as the mechanical readers aren't working either, forcing passengers to buy individual paper tickets for every journey. Each is printed with a scannable QR code, but there are no scanners. Staff stand by the gates and tear tickets as people enter. As a result, queues are considerable at peak times.原文片段 · 4Morogoro Road to the north-west of the city was phase I of the BRT project. Phases II and III will install bus lanes along Nyerere Road to the south-west and Kilwa Road to the south. Construction on both routes is due to start imminently. Phase IV, towards Bagamoyo in the north, is in the preliminary design stage. 'Much of the city will have access to a world-class transport system within the space of a few years,' says Chris Kost, the Africa director of ITDP (the Institute for Transportation and Development Policy). All phases are being planned to high standards and, once complete, a third of city residents will be within a short walk of the BRT network.19. the buses use designated ______ to cut down on delaysComplete the notes below. Choose ONE WORD ONLY from the passage for each answer.第 19 题作答20. passengers pay fares before ______Complete the notes below. Choose ONE WORD ONLY from the passage for each answer.第 20 题作答21. passengers in ______ can use every part of the systemComplete the notes below. Choose ONE WORD ONLY from the passage for each answer.第 21 题作答22. the temperature control is sometimes not activated in order to reduce ______ useComplete the notes below. Choose ONE WORD ONLY from the passage for each answer.第 22 题作答23. insufficient number of vehicles are available due to the effects of a severe ______Complete the notes below. Choose ONE WORD ONLY from the passage for each answer.第 23 题作答24. passengers are unable to use ______ because some equipment is out of actionComplete the notes below. Choose ONE WORD ONLY from the passage for each answer.第 24 题作答25. tickets have to be checked manually at station ______Complete the notes below. Choose ONE WORD ONLY from the passage for each answer.第 25 题作答26. ______ frequently build up during rush hoursComplete the notes below. Choose ONE WORD ONLY from the passage for each answer.第 26 题作答保留作答，查看答案先作答；不确定的题也可记录判断与疑点。对照答案，回到证据第 19 题 · lanesdesignated lanes对应与其他交通隔开的专用道；delays改述stoppages。bus lanes separated from other traffic ... to reduce stoppages第 20 题 · boardingbefore与prior to同义；答案boarding是付费之后发生的动作。Ticket purchase and control takes place at stations prior to boarding第 21 题 · wheelchairsin wheelchairs改述using wheelchairs；题目限定乘客在什么工具中，不填baby buggies。the entire route is accessible to people using wheelchairs第 22 题 · fueltemperature control对应air conditioning；reduce ... use对应save，保留名词fuel。drivers often refuse to turn on the air conditioning to save fuel第 23 题 · floodinsufficient number对应shortage；severe对应serious；缺车原因是flood。A shortage of buses after a serious flood at the main depot第 24 题 · smartcardssome equipment指读卡器，空格问不能使用的东西，因此填smartcards而非readers。Smartcards can't be used as the mechanical readers aren't working第 25 题 · gates人工撕票的地点是gates；tickets在题面已给，不能重复填入。Staff stand by the gates and tear tickets as people enter第 26 题 · queuesrush hours与peak times同义；人工检票造成queues，单词复数照原文。As a result, queues are considerable at peak times核对原答案页我的修订／证据笔记材料精读 · 内容与词句这一部分先讲快速公交为什么能提高通行效率与可达性，再用乘客体验和设备故障说明设计与运行的差别，最后交代扩建计划。便利来自专用车道、提前检票和无台阶车辆等具体安排，也依赖车辆、票务和维护正常运作。原文片段 · 1The DART bus rapid transit (BRT) system runs on bus lanes separated from other traffic, mostly in the middle of the road to reduce stoppages. Ticket purchase and control takes place at stations prior to boarding and the buses are step-free, which means the entire route is accessible to people using wheelchairs or who are travelling with baby buggies.专用车道与其他车辆分隔，减少公交受混合交通阻塞的机会；购票和检票放在上车之前，可以减少登车环节的拖延。无台阶车辆让轮椅使用者及推婴儿车的人更容易使用线路。accessible 在这里是实际能进入和使用，不只是知道线路在哪里。原文片段 · 2'The new buses are much, much better,' says Paulas George, a young IT worker. He takes the bus every day and it has cut his journey time by two-thirds. He says it is not perfect, though, complaining that drivers often refuse to turn on the air conditioning to save fuel.乘客 Paulas 的通勤时间缩短了三分之二，但司机为节油不开空调使体验打了折扣。个人评价同时含有改善和不满，though 承接这种转折。原文描述的是这名乘客的经历，不能将相同降幅推给每一位乘客。原文片段 · 3That is not the only problem. A shortage of buses after a serious flood at the main depot during the rainy season means the system is carrying 200,000 people a day - half the expected capacity. Smartcards can't be used as the mechanical readers aren't working either, forcing passengers to buy individual paper tickets for every journey. Each is printed with a scannable QR code, but there are no scanners. Staff stand by the gates and tear tickets as people enter. As a result, queues are considerable at peak times.洪水损坏车库后的车辆短缺使运量只有预期的一半；读卡器和扫码器问题又迫使乘客每次买纸票、工作人员手撕票。技术功能存在于票面或系统设计中，却未真正发挥作用，因此高峰排队明显。That 回接空调问题，说明后面还有更多运行困难。原文片段 · 4Morogoro Road to the north-west of the city was phase I of the BRT project. Phases II and III will install bus lanes along Nyerere Road to the south-west and Kilwa Road to the south. Construction on both routes is due to start imminently. Phase IV, towards Bagamoyo in the north, is in the preliminary design stage. 'Much of the city will have access to a world-class transport system within the space of a few years,' says Chris Kost, the Africa director of ITDP (the Institute for Transportation and Development Policy). All phases are being planned to high standards and, once complete, a third of city residents will be within a short walk of the BRT network.叙述从当前故障转向分期扩建：第一期已有线路，第二、三期即将施工，第四期尚在初步设计。完成后约三分之一居民能步行短距离接入网络，是带条件的未来覆盖描述。不同阶段不能都理解成已经建好并投入使用。词语与搭配prior to boarding在上车之前prior to 比 before 稍正式；to 是介词，后接 boarding，说明购票检票发生的顺序。accessible to people using wheelchairs轮椅使用者能够使用be accessible to 指对某群体可进入、可使用；这里有无台阶设计作为具体支撑。half the expected capacity预期运载能力的一半expected 标明比较基准是预期值，不是原有实际客流量。within a short walk of在步行很短距离即可到达……的范围内常用来描述住宅与车站、服务设施的接近程度；原文用于尚待完成的线路网络。句子精读Ticket purchase and control takes place at stations prior to boarding and the buses are step-free, which means the entire route is accessible to people using wheelchairs or who are travelling with baby buggies.购票和检票都在乘客上车前于车站进行，而且公交车没有台阶，这意味着轮椅使用者或推着婴儿车出行的人都能使用整条线路。control 在票务语境中是检票。and 连接车站流程与车辆设计，which means 引出无障碍结果。using wheelchairs 和 who are travelling with baby buggies 都修饰 people，分别列出受益人群；引文保留原文形式。All phases are being planned to high standards and, once complete, a third of city residents will be within a short walk of the BRT network.各期工程都正在按照高标准规划；待工程完成后，全市三分之一的居民步行很短距离就能到达快速公交网络。are being planned 表示正在规划。once complete 是省略结构，意思是这些建设完成以后，并不修饰居民。will be 与 once 一起把覆盖率限定为未来完工后的状态。这篇材料里可用于写作的表达accessible to people using wheelchairs便于轮椅使用者使用用于说明公共交通替代方案应照顾不同乘客；需配合无台阶入口、站台等具体设计。用于写作：交通题中的替代方式不只是增加车辆，还包括让不同人群能实际使用。within a short walk of距……很近，步行即可到达说明住房与公交网络的空间联系；是否足够近应由实际布局支持。用于写作：直接用于比较高层住宅的条件：密度优势需要交通可达性支持。 · 用于写作：说明公交替代汽车所需的接近性与可靠性，连接设施安排和出行选择。读完讲解，可以把原文连起来再读一次；想保留的词句可使用已有收藏功能。",
+  "links": [
+    {
+      "text": "Cambridge IELTS 21 Academic",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=65"
+    },
+    {
+      "text": "核对原答案页",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=123"
+    },
+    {
+      "text": "用于写作：交通题中的替代方式不只是增加车辆，还包括让不同人群能实际使用。",
+      "href": "#writing-prep-wc-official-transport-from-rd-c21-t3-dart-system"
+    },
+    {
+      "text": "用于写作：直接用于比较高层住宅的条件：密度优势需要交通可达性支持。",
+      "href": "#writing-prep-wc-c21-t1-homes-from-rd-c21-t3-dart-system"
+    },
+    {
+      "text": "用于写作：说明公交替代汽车所需的接近性与可靠性，连接设施安排和出行选择。",
+      "href": "#writing-prep-wc-official-transport-from-rd-c21-t3-dart-system"
+    }
+  ],
+  "details": [
+    {
+      "id": "material-reading-rd-c21-t3-dart-system",
+      "title": "材料精读 · 内容与词句",
+      "open": false,
+      "visible": true
+    }
+  ],
+  "saveFields": [
+    "case-rd-c21-t3-dart-system-q1",
+    "case-rd-c21-t3-dart-system-q2",
+    "case-rd-c21-t3-dart-system-q3",
+    "case-rd-c21-t3-dart-system-q4",
+    "case-rd-c21-t3-dart-system-q5",
+    "case-rd-c21-t3-dart-system-q6",
+    "case-rd-c21-t3-dart-system-q7",
+    "case-rd-c21-t3-dart-system-q8",
+    "case-rd-c21-t3-dart-system-done",
+    "case-rd-c21-t3-dart-system-saved-at",
+    "case-rd-c21-t3-dart-system-revision"
+  ],
+  "images": [],
+  "audio": [],
+  "viewport": 1440,
+  "documentWidth": 1440
+}

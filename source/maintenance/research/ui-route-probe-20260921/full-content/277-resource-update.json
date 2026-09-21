@@ -1,0 +1,999 @@
+{
+  "requested": "resource-update",
+  "from": [
+    "页面链接"
+  ],
+  "actual": "#resource-update",
+  "checkedAt": "2026-09-21T12:54:04.227Z",
+  "title": "原始资料 · IELTS",
+  "label": "原始资料",
+  "panel": "library",
+  "contentRoot": "resource-update",
+  "headings": [
+    {
+      "tag": "H2",
+      "text": "话题与学习技巧",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "读图起手：用真实就业图核对对象、单位与时间",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "Overview：用真实原图找全局关系，再选择证据",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "数据精确表达：真实表格里的百分点、比例和近似值",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "流程图：真实制砖分支与雨影形成机制",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "地图题：咖啡厅改造的定位、替换与保留",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "阅读起手：用真实噪声文章建立段落地图",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "判断题：用真题区分反证、未知与观点归属",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "标题匹配：Miles Davis原题中的主旨与干扰项",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "信息与人物匹配：证据功能和说话人同时核对",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "填空：真实表格、摘要中的字数和同义转换",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "图示标注：官方蜣螂隧道原图中的深度与形状",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "选择题与复盘：用原段功能排除“只说对一半”",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "旅游信息：一次具体使用经历",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "园艺的未来：有条件地预测",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "住宅与花园：解释实际好处",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "购物方式与不必要消费",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "诚实与儿童：比较观点",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "公寓里种植：给可行方案",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "广告的准确性与购买决定",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "面包与日常饮食",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "理发：习惯与最近变化",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "有竞争心的人：具体事件支撑性格",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "花钱与储蓄：程度和原因",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "不真实的信息：发现问题与核对",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "城市生活：吸引力与不便",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "公园：从空间细节讲清兴趣",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "景点：免费开放与失望原因",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "竞争与参与：比较体育观点",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "司法与技术：算法风险的真实阅读语境",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "公共治理：公交方案怎样落地",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "社会责任：财富如何用于公共文化",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "太空与生命：样本怎样成为证据",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "课堂通知：日期、数字与澄清请求",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "会议分工：谁提出顾虑，谁负责执行",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "天气播报：地区、时间与例外条件",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "讲座导入：定义、例子与后文路线",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "收藏与公共展览：真题中的反证和信息缺口",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "考古器物与糖业：真实摘要的并列顺序和概括",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "城市噪声与考古：原题中的措施、数据和限定",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "人工智能：用真实作者观点题辨别宣传和判断",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "咖啡厅改造：在真实两张平面图间建立对应",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "真实折线图：就业结构变化与受众时段差异",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "国际旅游：基于官方原题比较环境代价和社区收益",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "过度捕捞：真实题干中的原因与措施对应",
+      "visible": true
+    }
+  ],
+  "controls": [
+    {
+      "tag": "INPUT",
+      "id": "res-search",
+      "type": "search",
+      "text": "",
+      "label": "查话题或技能",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "全部",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "口语话题",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "补齐背景",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "阅读",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "听力",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "Task 1",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "Task 2",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "新增技巧 · Task 1\n读图起手：用真实就业图核对对象、单位与时间\n\n12 分钟 · 步骤 / 例子 / 练习与解释",
+      "label": "",
+      "href": "#writing1-tech-read-chart",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "新增技巧 · Task 1\nOverview：用真实原图找全局关系，再选择证据\n\n15 分钟 · 步骤 / 例子 / 练习与解释",
+      "label": "",
+      "href": "#writing1-tech-overview",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "新增技巧 · Task 1\n数据精确表达：真实表格里的百分点、比例和近似值\n\n12 分钟 · 步骤 / 例子 / 练习与解释",
+      "label": "",
+      "href": "#writing1-tech-precision",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "新增技巧 · Task 1\n流程图：真实制砖分支与雨影形成机制\n\n15 分钟 · 步骤 / 例子 / 练习与解释",
+      "label": "",
+      "href": "#writing1-tech-process",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "新增技巧 · Task 1\n地图题：咖啡厅改造的定位、替换与保留\n\n15 分钟 · 步骤 / 例子 / 练习与解释",
+      "label": "",
+      "href": "#writing1-tech-maps",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "新增技巧 · 阅读\n阅读起手：用真实噪声文章建立段落地图\n\n12 分钟 · 步骤 / 例子 / 练习与解释",
+      "label": "",
+      "href": "#reading-tech-locate",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "新增技巧 · 阅读\n判断题：用真题区分反证、未知与观点归属\n\n15 分钟 · 步骤 / 例子 / 练习与解释",
+      "label": "",
+      "href": "#reading-tech-judgement",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "新增技巧 · 阅读\n标题匹配：Miles Davis原题中的主旨与干扰项\n\n12 分钟 · 步骤 / 例子 / 练习与解释",
+      "label": "",
+      "href": "#reading-tech-headings",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "新增技巧 · 阅读\n信息与人物匹配：证据功能和说话人同时核对\n\n15 分钟 · 步骤 / 例子 / 练习与解释",
+      "label": "",
+      "href": "#reading-tech-matching",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "新增技巧 · 阅读\n填空：真实表格、摘要中的字数和同义转换\n\n12 分钟 · 步骤 / 例子 / 练习与解释",
+      "label": "",
+      "href": "#reading-tech-completion",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "新增技巧 · 阅读\n图示标注：官方蜣螂隧道原图中的深度与形状\n\n15 分钟 · 步骤 / 例子 / 练习与解释",
+      "label": "",
+      "href": "#reading-tech-diagram",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "新增技巧 · 阅读\n选择题与复盘：用原段功能排除“只说对一半”\n\n15 分钟 · 步骤 / 例子 / 练习与解释",
+      "label": "",
+      "href": "#reading-tech-choices-review",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "口语话题\n旅游信息：一次具体使用经历\n\n真实考试题与原始样题 · 示范与逐项解释",
+      "label": "",
+      "href": "#speaking-new-sep26-journeys",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "口语话题\n园艺的未来：有条件地预测\n\n真实考试题与原始样题 · 示范与逐项解释",
+      "label": "",
+      "href": "#speaking-new-sep26-recycling",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "口语话题\n住宅与花园：解释实际好处\n\n真实考试题与原始样题 · 示范与逐项解释",
+      "label": "",
+      "href": "#speaking-new-sep26-energy",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "口语话题\n购物方式与不必要消费\n\n真实考试题与原始样题 · 示范与逐项解释",
+      "label": "",
+      "href": "#speaking-new-sep26-shoes-shopping",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "口语话题\n诚实与儿童：比较观点\n\n真实考试题与原始样题 · 示范与逐项解释",
+      "label": "",
+      "href": "#speaking-new-sep26-politeness",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "口语话题\n公寓里种植：给可行方案\n\n真实考试题与原始样题 · 示范与逐项解释",
+      "label": "",
+      "href": "#speaking-new-sep26-fruit-vegetables",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "口语话题\n广告的准确性与购买决定\n\n真实考试题与原始样题 · 示范与逐项解释",
+      "label": "",
+      "href": "#speaking-new-sep26-advertising",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "口语话题\n面包与日常饮食\n\n真实考试题与原始样题 · 示范与逐项解释",
+      "label": "",
+      "href": "#speaking-new-sep26-paper",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "口语话题\n理发：习惯与最近变化\n\n真实考试题与原始样题 · 示范与逐项解释",
+      "label": "",
+      "href": "#speaking-new-sep26-school-skills",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "口语话题\n有竞争心的人：具体事件支撑性格\n\n真实考试题与原始样题 · 示范与逐项解释",
+      "label": "",
+      "href": "#speaking-new-sep26-names-people",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "口语话题\n花钱与储蓄：程度和原因\n\n真实考试题与原始样题 · 示范与逐项解释",
+      "label": "",
+      "href": "#speaking-new-sep26-decisions-success",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "口语话题\n不真实的信息：发现问题与核对\n\n真实考试题与原始样题 · 示范与逐项解释",
+      "label": "",
+      "href": "#speaking-new-sep26-organisation",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "口语话题\n城市生活：吸引力与不便\n\n真实考试题与原始样题 · 示范与逐项解释",
+      "label": "",
+      "href": "#speaking-new-sep26-city-spaces",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "口语话题\n公园：从空间细节讲清兴趣\n\n真实考试题与原始样题 · 示范与逐项解释",
+      "label": "",
+      "href": "#speaking-new-sep26-creative-history",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "口语话题\n景点：免费开放与失望原因\n\n真实考试题与原始样题 · 示范与逐项解释",
+      "label": "",
+      "href": "#speaking-new-sep26-media",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "口语话题\n竞争与参与：比较体育观点\n\n真实考试题与原始样题 · 示范与逐项解释",
+      "label": "",
+      "href": "#speaking-new-sep26-friends-happiness",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "新增 · 话题背景\n司法与技术：算法风险的真实阅读语境\n\n6 组表达 · 语境 / 示范 / 解析",
+      "label": "",
+      "href": "#topic-crime",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "新增 · 话题背景\n公共治理：公交方案怎样落地\n\n6 组表达 · 语境 / 示范 / 解析",
+      "label": "",
+      "href": "#topic-government",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "新增 · 话题背景\n社会责任：财富如何用于公共文化\n\n6 组表达 · 语境 / 示范 / 解析",
+      "label": "",
+      "href": "#topic-society",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "新增 · 话题背景\n太空与生命：样本怎样成为证据\n\n6 组表达 · 语境 / 示范 / 解析",
+      "label": "",
+      "href": "#topic-space",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "新增 · 听力\n课堂通知：日期、数字与澄清请求\n\n4 组表达 · 语境 / 示范 / 解析",
+      "label": "",
+      "href": "#listening-new-new-listening-campus-notes",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "新增 · 听力\n会议分工：谁提出顾虑，谁负责执行\n\n4 组表达 · 语境 / 示范 / 解析",
+      "label": "",
+      "href": "#listening-new-new-listening-team-roles",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "新增 · 听力\n天气播报：地区、时间与例外条件\n\n4 组表达 · 语境 / 示范 / 解析",
+      "label": "",
+      "href": "#listening-new-new-listening-weather-table",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "新增 · 听力\n讲座导入：定义、例子与后文路线\n\n4 组表达 · 语境 / 示范 / 解析",
+      "label": "",
+      "href": "#listening-new-new-listening-lecture-outline",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "新增 · 阅读\n收藏与公共展览：真题中的反证和信息缺口\n\n4 组表达 · 语境 / 示范 / 解析",
+      "label": "",
+      "href": "#reading-new-new-reading-urban-tfng",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "新增 · 阅读\n考古器物与糖业：真实摘要的并列顺序和概括\n\n4 组表达 · 语境 / 示范 / 解析",
+      "label": "",
+      "href": "#reading-new-new-reading-refill-summary",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "新增 · 阅读\n城市噪声与考古：原题中的措施、数据和限定\n\n4 组表达 · 语境 / 示范 / 解析",
+      "label": "",
+      "href": "#reading-new-new-reading-transport-information",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "新增 · 阅读\n人工智能：用真实作者观点题辨别宣传和判断\n\n4 组表达 · 语境 / 示范 / 解析",
+      "label": "",
+      "href": "#reading-new-new-reading-ai-views",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "新增 · 写作 Task 1\n咖啡厅改造：在真实两张平面图间建立对应\n\n4 组表达 · 语境 / 示范 / 解析",
+      "label": "",
+      "href": "#writing1-new-new-writing1-library-map",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "新增 · 写作 Task 1\n真实折线图：就业结构变化与受众时段差异\n\n4 组表达 · 语境 / 示范 / 解析",
+      "label": "",
+      "href": "#writing1-new-new-writing1-transport-trends",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "新增 · 写作 Task 2\n国际旅游：基于官方原题比较环境代价和社区收益\n\n4 组表达 · 语境 / 示范 / 解析",
+      "label": "",
+      "href": "#writing2-new-new-writing2-environment-discussion",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "新增 · 写作 Task 2\n过度捕捞：真实题干中的原因与措施对应\n\n4 组表达 · 语境 / 示范 / 解析",
+      "label": "",
+      "href": "#writing2-new-new-writing2-community-causes",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    }
+  ],
+  "visibleText": "话题与学习技巧\n\n44 个教学单元 · 136 组用法，包含语境、示范、练习与解析。\n\n查话题或技能\n全部\n口语话题\n补齐背景\n阅读\n听力\nTask 1\nTask 2\n\n显示 44 / 44 个教学单元\n\n新增技巧 · Task 1\n读图起手：用真实就业图核对对象、单位与时间\n\n12 分钟 · 步骤 / 例子 / 练习与解释\n\n新增技巧 · Task 1\nOverview：用真实原图找全局关系，再选择证据\n\n15 分钟 · 步骤 / 例子 / 练习与解释\n\n新增技巧 · Task 1\n数据精确表达：真实表格里的百分点、比例和近似值\n\n12 分钟 · 步骤 / 例子 / 练习与解释\n\n新增技巧 · Task 1\n流程图：真实制砖分支与雨影形成机制\n\n15 分钟 · 步骤 / 例子 / 练习与解释\n\n新增技巧 · Task 1\n地图题：咖啡厅改造的定位、替换与保留\n\n15 分钟 · 步骤 / 例子 / 练习与解释\n\n新增技巧 · 阅读\n阅读起手：用真实噪声文章建立段落地图\n\n12 分钟 · 步骤 / 例子 / 练习与解释\n\n新增技巧 · 阅读\n判断题：用真题区分反证、未知与观点归属\n\n15 分钟 · 步骤 / 例子 / 练习与解释\n\n新增技巧 · 阅读\n标题匹配：Miles Davis原题中的主旨与干扰项\n\n12 分钟 · 步骤 / 例子 / 练习与解释\n\n新增技巧 · 阅读\n信息与人物匹配：证据功能和说话人同时核对\n\n15 分钟 · 步骤 / 例子 / 练习与解释\n\n新增技巧 · 阅读\n填空：真实表格、摘要中的字数和同义转换\n\n12 分钟 · 步骤 / 例子 / 练习与解释\n\n新增技巧 · 阅读\n图示标注：官方蜣螂隧道原图中的深度与形状\n\n15 分钟 · 步骤 / 例子 / 练习与解释\n\n新增技巧 · 阅读\n选择题与复盘：用原段功能排除“只说对一半”\n\n15 分钟 · 步骤 / 例子 / 练习与解释\n\n口语话题\n旅游信息：一次具体使用经历\n\n真实考试题与原始样题 · 示范与逐项解释\n\n口语话题\n园艺的未来：有条件地预测\n\n真实考试题与原始样题 · 示范与逐项解释\n\n口语话题\n住宅与花园：解释实际好处\n\n真实考试题与原始样题 · 示范与逐项解释\n\n口语话题\n购物方式与不必要消费\n\n真实考试题与原始样题 · 示范与逐项解释\n\n口语话题\n诚实与儿童：比较观点\n\n真实考试题与原始样题 · 示范与逐项解释\n\n口语话题\n公寓里种植：给可行方案\n\n真实考试题与原始样题 · 示范与逐项解释\n\n口语话题\n广告的准确性与购买决定\n\n真实考试题与原始样题 · 示范与逐项解释\n\n口语话题\n面包与日常饮食\n\n真实考试题与原始样题 · 示范与逐项解释\n\n口语话题\n理发：习惯与最近变化\n\n真实考试题与原始样题 · 示范与逐项解释\n\n口语话题\n有竞争心的人：具体事件支撑性格\n\n真实考试题与原始样题 · 示范与逐项解释\n\n口语话题\n花钱与储蓄：程度和原因\n\n真实考试题与原始样题 · 示范与逐项解释\n\n口语话题\n不真实的信息：发现问题与核对\n\n真实考试题与原始样题 · 示范与逐项解释\n\n口语话题\n城市生活：吸引力与不便\n\n真实考试题与原始样题 · 示范与逐项解释\n\n口语话题\n公园：从空间细节讲清兴趣\n\n真实考试题与原始样题 · 示范与逐项解释\n\n口语话题\n景点：免费开放与失望原因\n\n真实考试题与原始样题 · 示范与逐项解释\n\n口语话题\n竞争与参与：比较体育观点\n\n真实考试题与原始样题 · 示范与逐项解释\n\n新增 · 话题背景\n司法与技术：算法风险的真实阅读语境\n\n6 组表达 · 语境 / 示范 / 解析\n\n新增 · 话题背景\n公共治理：公交方案怎样落地\n\n6 组表达 · 语境 / 示范 / 解析\n\n新增 · 话题背景\n社会责任：财富如何用于公共文化\n\n6 组表达 · 语境 / 示范 / 解析\n\n新增 · 话题背景\n太空与生命：样本怎样成为证据\n\n6 组表达 · 语境 / 示范 / 解析\n\n新增 · 听力\n课堂通知：日期、数字与澄清请求\n\n4 组表达 · 语境 / 示范 / 解析\n\n新增 · 听力\n会议分工：谁提出顾虑，谁负责执行\n\n4 组表达 · 语境 / 示范 / 解析\n\n新增 · 听力\n天气播报：地区、时间与例外条件\n\n4 组表达 · 语境 / 示范 / 解析\n\n新增 · 听力\n讲座导入：定义、例子与后文路线\n\n4 组表达 · 语境 / 示范 / 解析\n\n新增 · 阅读\n收藏与公共展览：真题中的反证和信息缺口\n\n4 组表达 · 语境 / 示范 / 解析\n\n新增 · 阅读\n考古器物与糖业：真实摘要的并列顺序和概括\n\n4 组表达 · 语境 / 示范 / 解析\n\n新增 · 阅读\n城市噪声与考古：原题中的措施、数据和限定\n\n4 组表达 · 语境 / 示范 / 解析\n\n新增 · 阅读\n人工智能：用真实作者观点题辨别宣传和判断\n\n4 组表达 · 语境 / 示范 / 解析\n\n新增 · 写作 Task 1\n咖啡厅改造：在真实两张平面图间建立对应\n\n4 组表达 · 语境 / 示范 / 解析\n\n新增 · 写作 Task 1\n真实折线图：就业结构变化与受众时段差异\n\n4 组表达 · 语境 / 示范 / 解析\n\n新增 · 写作 Task 2\n国际旅游：基于官方原题比较环境代价和社区收益\n\n4 组表达 · 语境 / 示范 / 解析\n\n新增 · 写作 Task 2\n过度捕捞：真实题干中的原因与措施对应\n\n4 组表达 · 语境 / 示范 / 解析",
+  "allContent": "话题与学习技巧44 个教学单元 · 136 组用法，包含语境、示范、练习与解析。查话题或技能全部口语话题补齐背景阅读听力Task 1Task 2显示 44 / 44 个教学单元新增技巧 · Task 1读图起手：用真实就业图核对对象、单位与时间12 分钟 · 步骤 / 例子 / 练习与解释新增技巧 · Task 1Overview：用真实原图找全局关系，再选择证据15 分钟 · 步骤 / 例子 / 练习与解释新增技巧 · Task 1数据精确表达：真实表格里的百分点、比例和近似值12 分钟 · 步骤 / 例子 / 练习与解释新增技巧 · Task 1流程图：真实制砖分支与雨影形成机制15 分钟 · 步骤 / 例子 / 练习与解释新增技巧 · Task 1地图题：咖啡厅改造的定位、替换与保留15 分钟 · 步骤 / 例子 / 练习与解释新增技巧 · 阅读阅读起手：用真实噪声文章建立段落地图12 分钟 · 步骤 / 例子 / 练习与解释新增技巧 · 阅读判断题：用真题区分反证、未知与观点归属15 分钟 · 步骤 / 例子 / 练习与解释新增技巧 · 阅读标题匹配：Miles Davis原题中的主旨与干扰项12 分钟 · 步骤 / 例子 / 练习与解释新增技巧 · 阅读信息与人物匹配：证据功能和说话人同时核对15 分钟 · 步骤 / 例子 / 练习与解释新增技巧 · 阅读填空：真实表格、摘要中的字数和同义转换12 分钟 · 步骤 / 例子 / 练习与解释新增技巧 · 阅读图示标注：官方蜣螂隧道原图中的深度与形状15 分钟 · 步骤 / 例子 / 练习与解释新增技巧 · 阅读选择题与复盘：用原段功能排除“只说对一半”15 分钟 · 步骤 / 例子 / 练习与解释口语话题旅游信息：一次具体使用经历真实考试题与原始样题 · 示范与逐项解释口语话题园艺的未来：有条件地预测真实考试题与原始样题 · 示范与逐项解释口语话题住宅与花园：解释实际好处真实考试题与原始样题 · 示范与逐项解释口语话题购物方式与不必要消费真实考试题与原始样题 · 示范与逐项解释口语话题诚实与儿童：比较观点真实考试题与原始样题 · 示范与逐项解释口语话题公寓里种植：给可行方案真实考试题与原始样题 · 示范与逐项解释口语话题广告的准确性与购买决定真实考试题与原始样题 · 示范与逐项解释口语话题面包与日常饮食真实考试题与原始样题 · 示范与逐项解释口语话题理发：习惯与最近变化真实考试题与原始样题 · 示范与逐项解释口语话题有竞争心的人：具体事件支撑性格真实考试题与原始样题 · 示范与逐项解释口语话题花钱与储蓄：程度和原因真实考试题与原始样题 · 示范与逐项解释口语话题不真实的信息：发现问题与核对真实考试题与原始样题 · 示范与逐项解释口语话题城市生活：吸引力与不便真实考试题与原始样题 · 示范与逐项解释口语话题公园：从空间细节讲清兴趣真实考试题与原始样题 · 示范与逐项解释口语话题景点：免费开放与失望原因真实考试题与原始样题 · 示范与逐项解释口语话题竞争与参与：比较体育观点真实考试题与原始样题 · 示范与逐项解释新增 · 话题背景司法与技术：算法风险的真实阅读语境6 组表达 · 语境 / 示范 / 解析新增 · 话题背景公共治理：公交方案怎样落地6 组表达 · 语境 / 示范 / 解析新增 · 话题背景社会责任：财富如何用于公共文化6 组表达 · 语境 / 示范 / 解析新增 · 话题背景太空与生命：样本怎样成为证据6 组表达 · 语境 / 示范 / 解析新增 · 听力课堂通知：日期、数字与澄清请求4 组表达 · 语境 / 示范 / 解析新增 · 听力会议分工：谁提出顾虑，谁负责执行4 组表达 · 语境 / 示范 / 解析新增 · 听力天气播报：地区、时间与例外条件4 组表达 · 语境 / 示范 / 解析新增 · 听力讲座导入：定义、例子与后文路线4 组表达 · 语境 / 示范 / 解析新增 · 阅读收藏与公共展览：真题中的反证和信息缺口4 组表达 · 语境 / 示范 / 解析新增 · 阅读考古器物与糖业：真实摘要的并列顺序和概括4 组表达 · 语境 / 示范 / 解析新增 · 阅读城市噪声与考古：原题中的措施、数据和限定4 组表达 · 语境 / 示范 / 解析新增 · 阅读人工智能：用真实作者观点题辨别宣传和判断4 组表达 · 语境 / 示范 / 解析新增 · 写作 Task 1咖啡厅改造：在真实两张平面图间建立对应4 组表达 · 语境 / 示范 / 解析新增 · 写作 Task 1真实折线图：就业结构变化与受众时段差异4 组表达 · 语境 / 示范 / 解析新增 · 写作 Task 2国际旅游：基于官方原题比较环境代价和社区收益4 组表达 · 语境 / 示范 / 解析新增 · 写作 Task 2过度捕捞：真实题干中的原因与措施对应4 组表达 · 语境 / 示范 / 解析没有匹配项，试试其他关键词或分类。",
+  "links": [
+    {
+      "text": "新增技巧 · Task 1读图起手：用真实就业图核对对象、单位与时间12 分钟 · 步骤 / 例子 / 练习与解释",
+      "href": "#writing1-tech-read-chart"
+    },
+    {
+      "text": "新增技巧 · Task 1Overview：用真实原图找全局关系，再选择证据15 分钟 · 步骤 / 例子 / 练习与解释",
+      "href": "#writing1-tech-overview"
+    },
+    {
+      "text": "新增技巧 · Task 1数据精确表达：真实表格里的百分点、比例和近似值12 分钟 · 步骤 / 例子 / 练习与解释",
+      "href": "#writing1-tech-precision"
+    },
+    {
+      "text": "新增技巧 · Task 1流程图：真实制砖分支与雨影形成机制15 分钟 · 步骤 / 例子 / 练习与解释",
+      "href": "#writing1-tech-process"
+    },
+    {
+      "text": "新增技巧 · Task 1地图题：咖啡厅改造的定位、替换与保留15 分钟 · 步骤 / 例子 / 练习与解释",
+      "href": "#writing1-tech-maps"
+    },
+    {
+      "text": "新增技巧 · 阅读阅读起手：用真实噪声文章建立段落地图12 分钟 · 步骤 / 例子 / 练习与解释",
+      "href": "#reading-tech-locate"
+    },
+    {
+      "text": "新增技巧 · 阅读判断题：用真题区分反证、未知与观点归属15 分钟 · 步骤 / 例子 / 练习与解释",
+      "href": "#reading-tech-judgement"
+    },
+    {
+      "text": "新增技巧 · 阅读标题匹配：Miles Davis原题中的主旨与干扰项12 分钟 · 步骤 / 例子 / 练习与解释",
+      "href": "#reading-tech-headings"
+    },
+    {
+      "text": "新增技巧 · 阅读信息与人物匹配：证据功能和说话人同时核对15 分钟 · 步骤 / 例子 / 练习与解释",
+      "href": "#reading-tech-matching"
+    },
+    {
+      "text": "新增技巧 · 阅读填空：真实表格、摘要中的字数和同义转换12 分钟 · 步骤 / 例子 / 练习与解释",
+      "href": "#reading-tech-completion"
+    },
+    {
+      "text": "新增技巧 · 阅读图示标注：官方蜣螂隧道原图中的深度与形状15 分钟 · 步骤 / 例子 / 练习与解释",
+      "href": "#reading-tech-diagram"
+    },
+    {
+      "text": "新增技巧 · 阅读选择题与复盘：用原段功能排除“只说对一半”15 分钟 · 步骤 / 例子 / 练习与解释",
+      "href": "#reading-tech-choices-review"
+    },
+    {
+      "text": "口语话题旅游信息：一次具体使用经历真实考试题与原始样题 · 示范与逐项解释",
+      "href": "#speaking-new-sep26-journeys"
+    },
+    {
+      "text": "口语话题园艺的未来：有条件地预测真实考试题与原始样题 · 示范与逐项解释",
+      "href": "#speaking-new-sep26-recycling"
+    },
+    {
+      "text": "口语话题住宅与花园：解释实际好处真实考试题与原始样题 · 示范与逐项解释",
+      "href": "#speaking-new-sep26-energy"
+    },
+    {
+      "text": "口语话题购物方式与不必要消费真实考试题与原始样题 · 示范与逐项解释",
+      "href": "#speaking-new-sep26-shoes-shopping"
+    },
+    {
+      "text": "口语话题诚实与儿童：比较观点真实考试题与原始样题 · 示范与逐项解释",
+      "href": "#speaking-new-sep26-politeness"
+    },
+    {
+      "text": "口语话题公寓里种植：给可行方案真实考试题与原始样题 · 示范与逐项解释",
+      "href": "#speaking-new-sep26-fruit-vegetables"
+    },
+    {
+      "text": "口语话题广告的准确性与购买决定真实考试题与原始样题 · 示范与逐项解释",
+      "href": "#speaking-new-sep26-advertising"
+    },
+    {
+      "text": "口语话题面包与日常饮食真实考试题与原始样题 · 示范与逐项解释",
+      "href": "#speaking-new-sep26-paper"
+    },
+    {
+      "text": "口语话题理发：习惯与最近变化真实考试题与原始样题 · 示范与逐项解释",
+      "href": "#speaking-new-sep26-school-skills"
+    },
+    {
+      "text": "口语话题有竞争心的人：具体事件支撑性格真实考试题与原始样题 · 示范与逐项解释",
+      "href": "#speaking-new-sep26-names-people"
+    },
+    {
+      "text": "口语话题花钱与储蓄：程度和原因真实考试题与原始样题 · 示范与逐项解释",
+      "href": "#speaking-new-sep26-decisions-success"
+    },
+    {
+      "text": "口语话题不真实的信息：发现问题与核对真实考试题与原始样题 · 示范与逐项解释",
+      "href": "#speaking-new-sep26-organisation"
+    },
+    {
+      "text": "口语话题城市生活：吸引力与不便真实考试题与原始样题 · 示范与逐项解释",
+      "href": "#speaking-new-sep26-city-spaces"
+    },
+    {
+      "text": "口语话题公园：从空间细节讲清兴趣真实考试题与原始样题 · 示范与逐项解释",
+      "href": "#speaking-new-sep26-creative-history"
+    },
+    {
+      "text": "口语话题景点：免费开放与失望原因真实考试题与原始样题 · 示范与逐项解释",
+      "href": "#speaking-new-sep26-media"
+    },
+    {
+      "text": "口语话题竞争与参与：比较体育观点真实考试题与原始样题 · 示范与逐项解释",
+      "href": "#speaking-new-sep26-friends-happiness"
+    },
+    {
+      "text": "新增 · 话题背景司法与技术：算法风险的真实阅读语境6 组表达 · 语境 / 示范 / 解析",
+      "href": "#topic-crime"
+    },
+    {
+      "text": "新增 · 话题背景公共治理：公交方案怎样落地6 组表达 · 语境 / 示范 / 解析",
+      "href": "#topic-government"
+    },
+    {
+      "text": "新增 · 话题背景社会责任：财富如何用于公共文化6 组表达 · 语境 / 示范 / 解析",
+      "href": "#topic-society"
+    },
+    {
+      "text": "新增 · 话题背景太空与生命：样本怎样成为证据6 组表达 · 语境 / 示范 / 解析",
+      "href": "#topic-space"
+    },
+    {
+      "text": "新增 · 听力课堂通知：日期、数字与澄清请求4 组表达 · 语境 / 示范 / 解析",
+      "href": "#listening-new-new-listening-campus-notes"
+    },
+    {
+      "text": "新增 · 听力会议分工：谁提出顾虑，谁负责执行4 组表达 · 语境 / 示范 / 解析",
+      "href": "#listening-new-new-listening-team-roles"
+    },
+    {
+      "text": "新增 · 听力天气播报：地区、时间与例外条件4 组表达 · 语境 / 示范 / 解析",
+      "href": "#listening-new-new-listening-weather-table"
+    },
+    {
+      "text": "新增 · 听力讲座导入：定义、例子与后文路线4 组表达 · 语境 / 示范 / 解析",
+      "href": "#listening-new-new-listening-lecture-outline"
+    },
+    {
+      "text": "新增 · 阅读收藏与公共展览：真题中的反证和信息缺口4 组表达 · 语境 / 示范 / 解析",
+      "href": "#reading-new-new-reading-urban-tfng"
+    },
+    {
+      "text": "新增 · 阅读考古器物与糖业：真实摘要的并列顺序和概括4 组表达 · 语境 / 示范 / 解析",
+      "href": "#reading-new-new-reading-refill-summary"
+    },
+    {
+      "text": "新增 · 阅读城市噪声与考古：原题中的措施、数据和限定4 组表达 · 语境 / 示范 / 解析",
+      "href": "#reading-new-new-reading-transport-information"
+    },
+    {
+      "text": "新增 · 阅读人工智能：用真实作者观点题辨别宣传和判断4 组表达 · 语境 / 示范 / 解析",
+      "href": "#reading-new-new-reading-ai-views"
+    },
+    {
+      "text": "新增 · 写作 Task 1咖啡厅改造：在真实两张平面图间建立对应4 组表达 · 语境 / 示范 / 解析",
+      "href": "#writing1-new-new-writing1-library-map"
+    },
+    {
+      "text": "新增 · 写作 Task 1真实折线图：就业结构变化与受众时段差异4 组表达 · 语境 / 示范 / 解析",
+      "href": "#writing1-new-new-writing1-transport-trends"
+    },
+    {
+      "text": "新增 · 写作 Task 2国际旅游：基于官方原题比较环境代价和社区收益4 组表达 · 语境 / 示范 / 解析",
+      "href": "#writing2-new-new-writing2-environment-discussion"
+    },
+    {
+      "text": "新增 · 写作 Task 2过度捕捞：真实题干中的原因与措施对应4 组表达 · 语境 / 示范 / 解析",
+      "href": "#writing2-new-new-writing2-community-causes"
+    }
+  ],
+  "details": [],
+  "saveFields": [],
+  "images": [],
+  "audio": [],
+  "viewport": 1440,
+  "documentWidth": 1440
+}

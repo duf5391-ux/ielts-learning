@@ -1,0 +1,1404 @@
+{
+  "version": 1,
+  "units": [
+    {
+      "id": "pr-reading-davies-statements",
+      "section": "reading",
+      "part": "阅读 · TRUE / FALSE / NOT GIVEN",
+      "title": "The Davies Sisters",
+      "source": {
+        "id": "cambridge21-academic",
+        "title": "Cambridge IELTS 21 Academic",
+        "path": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf",
+        "page": 18,
+        "pages": [
+          18
+        ],
+        "questionPages": [
+          19,
+          20
+        ],
+        "answerPage": 119,
+        "test": "Test 1",
+        "kind": "真题",
+        "originalUnit": "C21 Test 1 Passage 1",
+        "passageTitle": "The Davies Sisters"
+      },
+      "originNote": "原题选练；末尾加练为自编。",
+      "context": [
+        "However, it was only a few years before their collecting took a new direction and they turned to the work of the French Impressionists***. We know that Hugh Blaker, as a champion of contemporary French art had a hand in the decision, and we know also that they would have seen examples on their various trips to Paris. Whatever the precise reason for this change, their first purchases of Impressionist art, made in October 1912, were scenes of Venice by the French artist Claude Monet. Over the next 12 years, the sisters amassed the bulk of their Impressionist collection, including six further works by Monet, two more by Manet, and three by Renoir, including his well-known painting La Parisienne.",
+        "The First World War (1914-1918) played a part in the development of the sisters' collection. Their initial response to the war effort was to finance the safe passage of artists from occupied Belgium to Wales, as a humanitarian act, but also with the hope of establishing a vibrant artists' community in the area. Later in the conflict, both sisters decided to volunteer at a canteen for troops at Troyes, in northern France; Gwendoline in 1916, followed by Margaret in 1917.",
+        "It was tedious and distressing work, which would have a permanent effect on Gwendoline's health. Yet on one of numerous trips to nearby Paris, she visited the Bernheim-Jeune Gallery. Here she acquired two works by Cézanne - Provençal Landscape and The François Zola Dam. The paintings were shipped directly to Bath, England, where they became the first works by Cézanne to go on display in a public gallery in Britain."
+      ],
+      "instructions": "Write TRUE, FALSE or NOT GIVEN for each statement.",
+      "prompt": "",
+      "questions": [
+        {
+          "id": "10",
+          "prompt": "Hugh Blaker opposed the Davies sisters' decision to buy art by French Impressionists."
+        },
+        {
+          "id": "11",
+          "prompt": "The exhibition of Cézanne paintings at the Bath gallery was very popular with the public."
+        }
+      ],
+      "reference": "Q10 FALSE；Q11 NOT GIVEN",
+      "reasoning": [
+        "champion与had a hand in说明支持并参与，和opposed相反，属于明确反证。",
+        "原文只确认首次公开展出，没有观众反响或人数。全文也未提供其受欢迎程度；first与popular不可互换。"
+      ],
+      "pitfalls": [],
+      "sourceCaseIds": [
+        "rd-c21-davies-2"
+      ],
+      "challengeMechanism": "明确反证与缺失评价信息并置；首次展出不等于受欢迎。",
+      "transfer": {
+        "prompt": "Read the text and write TRUE, FALSE or NOT GIVEN.\n\nThe museum first displayed the collection in 2018. A second exhibition followed in 2021, when the organisers extended the opening hours. Neither exhibition charged an entrance fee.\n\nThe 2021 exhibition attracted more visitors than the 2018 exhibition.",
+        "reference": "NOT GIVEN",
+        "reasoning": "No visitor figures or audience comparison are given."
+      }
+    },
+    {
+      "id": "pr-reading-miles-headings",
+      "section": "reading",
+      "part": "阅读 · 段落标题",
+      "title": "Miles Davis",
+      "source": {
+        "id": "1aebaeefcff3",
+        "title": "British Council · Academic Practice Test 2 · Miles Davis · Q14–19",
+        "originalUnit": "British Council · Academic Practice Test 2 · Miles Davis · Q14–19",
+        "path": "原始参考/b09e5747-miles-student.pdf",
+        "page": [
+          1,
+          2
+        ],
+        "answerPage": 2,
+        "answerPath": "原始参考/e885c438-miles-teacher-feedback.pdf",
+        "kind": "官方样题",
+        "questionPages": [
+          3,
+          4
+        ]
+      },
+      "originNote": "原题选练；末尾加练为自编。",
+      "context": [
+        "B\nHaving graduated from high school in 1944, Davis moved to New York City, where he continued his musical education both in the clubs and in the classroom. His enrolment in the prestigious Julliard School of Music was short-lived, however – he soon dropped out, criticising what he perceived as an over-emphasis on the classical European repertoire and a neglect of jazz. Davis did later acknowledge, however, that this time at the school was invaluable in terms of developing his trumpet-playing technique and giving him a solid grounding in music theory. Much of his early training took place in the form of jam sessions and performances in the clubs of 52nd Street, where he played alongside both up- and-coming and established members of the jazz pantheon such as Coleman Hawkins, Eddie ‘Lockjaw’ Davis, and Thelonious Monk.",
+        "C\nIn the late 1940s, Davis collaborated with nine other instrumentalists, including a French horn and a tuba player, to produce The Birth of Cool, an album now renowned for the inchoate sounds of what would later become known as ‘cool’ jazz. In contrast to popular jazz styles of the day, which featured rapid, rollicking beats, shrieking vocals, and short, sharp horn blasts, Davis’ album was the forerunner of a different kind of sound – thin, light horn-playing, hushed drums and a more restrained, formal arrangement. Although it received little acclaim at the time (the liner notes to one of Davis’ later recordings call it a ‘spectacular failure’), in hindsight The Birth of Cool has become recognised as a pivotal moment in jazz history, cementing – alongside his 1958 recording, Kind of Blue – Davis’ legacy as one of the most innovative musicians of his era."
+      ],
+      "instructions": "Choose the correct heading, i–ix, for each paragraph. Use each heading once.",
+      "prompt": "",
+      "questions": [
+        {
+          "id": "15",
+          "prompt": "Paragraph B",
+          "options": [
+            {
+              "id": "i",
+              "text": "A legacy is established"
+            },
+            {
+              "id": "ii",
+              "text": "Formal education unhelpful"
+            },
+            {
+              "id": "iii",
+              "text": "An education in two parts"
+            },
+            {
+              "id": "iv",
+              "text": "Branching out in new directions"
+            },
+            {
+              "id": "v",
+              "text": "Childhood and family life"
+            },
+            {
+              "id": "vi",
+              "text": "Change necessary to stay creative"
+            },
+            {
+              "id": "vii",
+              "text": "Conflicted opinions over Davis’ earlier work"
+            },
+            {
+              "id": "viii",
+              "text": "Davis’ unique style of trumpet playing"
+            },
+            {
+              "id": "ix",
+              "text": "Personal and professional struggles"
+            }
+          ]
+        },
+        {
+          "id": "16",
+          "prompt": "Paragraph C",
+          "options": [
+            {
+              "id": "i",
+              "text": "A legacy is established"
+            },
+            {
+              "id": "ii",
+              "text": "Formal education unhelpful"
+            },
+            {
+              "id": "iii",
+              "text": "An education in two parts"
+            },
+            {
+              "id": "iv",
+              "text": "Branching out in new directions"
+            },
+            {
+              "id": "v",
+              "text": "Childhood and family life"
+            },
+            {
+              "id": "vi",
+              "text": "Change necessary to stay creative"
+            },
+            {
+              "id": "vii",
+              "text": "Conflicted opinions over Davis’ earlier work"
+            },
+            {
+              "id": "viii",
+              "text": "Davis’ unique style of trumpet playing"
+            },
+            {
+              "id": "ix",
+              "text": "Personal and professional struggles"
+            }
+          ]
+        }
+      ],
+      "reference": "Q15 iii；Q16 i",
+      "reasoning": [
+        "课堂与俱乐部是两部分。虽然退学并批评学校，后来仍承认理论与技巧训练有价值，不能选ii。",
+        "先写创新风格，再写当时失败、后来历史认可，段落落点是确立legacy，不是只谈当时意见分歧。"
+      ],
+      "pitfalls": [],
+      "sourceCaseIds": [
+        "rd-official-miles-1"
+      ],
+      "challengeMechanism": "退学和早期失败是显眼细节；整段分别组织双重教育与长期遗产。",
+      "transfer": {
+        "prompt": "Choose the correct heading, i–iii, for the paragraph.\n\nEarly maps of the coast were based on measurements made from boats. These surveys remain useful, but researchers now compare them with satellite images. The images cover large areas quickly, while measurements taken at sea reveal details the cameras cannot capture. Using the two sources together produces a more complete account of coastal change.\n\ni The abandonment of an unreliable technique\nii The growing speed of coastal change\niii Combining two sources of evidence",
+        "reference": "iii",
+        "reasoning": "The paragraph centres on complementary sources rather than replacing one method."
+      }
+    },
+    {
+      "id": "pr-reading-silence-people",
+      "section": "reading",
+      "part": "阅读 · 人物匹配",
+      "title": "Why we need silence",
+      "source": {
+        "id": "cambridge21-academic",
+        "title": "Cambridge IELTS 21 Academic",
+        "path": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf",
+        "page": 21,
+        "pages": [
+          21,
+          22
+        ],
+        "questionPages": [
+          23,
+          24,
+          25
+        ],
+        "answerPage": 119,
+        "test": "Test 1",
+        "kind": "真题",
+        "originalUnit": "C21 Test 1 Passage 2",
+        "passageTitle": "Why we need silence"
+      },
+      "originNote": "原题选练；末尾加练为自编。",
+      "context": [
+        "B The World Health Organization has recently designated excessive noise as an 'underestimated threat' to public health, and has said that people living in cities such as Mumbai, Tokyo and Buenos Aires are being exposed to far more than the recommended 40 decibels of noise at night. A report from the European Environment Agency concluded that noise was an ongoing and widespread issue in Europe, with at least 1 in 5 people consistently exposed to levels considered harmful to health. 'There are no \"earlids\" that can protect your brain from noise,' says Nick Antonio, an acoustic consultant who has contributed to the British and international standards for noise.",
+        "C The good news is that several cities have been working to turn the volume down. One of the first to do so was London. 'By providing recommendations for quieter buses, reducing noise from roads and also controlling noise from aircraft, they were able to make the city quieter,' says Antonio. Other cities have introduced noise-reducing road coatings, for instance, alongside greenery that muffles sound. Some solutions are more specific: Washington DC's ban on petrol-powered leaf blowers came into effect recently, while in New York City, legislation has been approved to fine people who modify their vehicles to make them noisier. 'People are seeing the benefits of these more quiet environments in their cities,' Antonio says. 'I expect we will see much more of this in the future.'",
+        "D Researchers are also seeking to understand what aspects of silent experiences are most beneficial to our health. One of the best-researched is the flotation tank: a lightproof, soundproof tank of salt water in which a person floats as a form of deep relaxation. While some people experience altered perception in the tanks, involving subtle humming sounds and visual effects, these effects are benign and do not detract from the benefits of the experience, says Justin Feinstein, a clinical neuropsychologist. 'When you don't have external sensory stimuli coming in, the brain tries to fill the void to make sense of this dark and silent world,' he explains. 'In these tanks, some people can even hear the sound of their eyes blinking,' says Feinstein. 'But it is the ability to focus on the breath that helps people reach a relaxed or meditative state.'",
+        "F Neurobiologist Tai Dotan Ben-Soussan is also an advocate of silence as a therapy. 'When we find ways to be quiet, we are not only quiet in our environment, but quiet in our inner selves,' she explains. 'This allows us to be more aware of what is happening around us and what the situation may require from us so we can provide [a more] adequate response.'",
+        "Not everyone will benefit from silence to the same extent, but Ben-Soussan says one characteristic is key: the person must need to want to engage in the experience. 'We see from animal models and human studies that volition and intentionality is important,' she says. 'When people do not want silence, it can be very distressing.'",
+        "G Eric Pfeifer, a psychotherapy researcher, also concedes that some people may not benefit from silence, particularly those who are in a heightened state of stress. 'People in these states may not be able to relax or calm down in a silent condition,' he says. Professional guidance can be useful, he adds, allowing people to approach silence slowly so that they can gradually enjoy the benefits. And Pfeifer is convinced that silence is more attainable in everyday life than people think. First, complete silence isn't necessary. In a recent study, he found that participants reported more relaxation and less boredom when they sat quietly in an outdoor garden compared with a completely silent room. Second, Pfeifer believes we don't need a lot of silence to gain benefits. 'You don't need to spend hours in silence,' he says. 'It is likely better to have more frequency of silence for a few minutes at a time than a longer period of silence only once a week. Just finding those places in your daily life where you can find some silence ... can make a big difference.'"
+      ],
+      "instructions": "Match each statement with the correct person, A–D. You may use any letter more than once.",
+      "prompt": "",
+      "questions": [
+        {
+          "id": "22",
+          "prompt": "It is unpleasant and upsetting for people to be placed in a silent environment against their will.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Nick Antonio"
+            },
+            {
+              "id": "B",
+              "text": "Justin Feinstein"
+            },
+            {
+              "id": "C",
+              "text": "Tai Dotan Ben-Soussan"
+            },
+            {
+              "id": "D",
+              "text": "Eric Pfeifer"
+            }
+          ]
+        },
+        {
+          "id": "25",
+          "prompt": "Even a short amount of silent time can have a positive impact.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Nick Antonio"
+            },
+            {
+              "id": "B",
+              "text": "Justin Feinstein"
+            },
+            {
+              "id": "C",
+              "text": "Tai Dotan Ben-Soussan"
+            },
+            {
+              "id": "D",
+              "text": "Eric Pfeifer"
+            }
+          ]
+        },
+        {
+          "id": "26",
+          "prompt": "External and internal quietness makes us more conscious of events occurring in our surroundings and helps us react appropriately to these events.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Nick Antonio"
+            },
+            {
+              "id": "B",
+              "text": "Justin Feinstein"
+            },
+            {
+              "id": "C",
+              "text": "Tai Dotan Ben-Soussan"
+            },
+            {
+              "id": "D",
+              "text": "Eric Pfeifer"
+            }
+          ]
+        }
+      ],
+      "reference": "Q22 C；Q25 D；Q26 C",
+      "reasoning": [
+        "F第二段Ben-Soussan把自愿性列为前提，against their will对应do not want。",
+        "G的Pfeifer明确说几分钟、高频也有益，不要求一次持续数小时。",
+        "F第一段Ben-Soussan提到外部与内在安静，进而更好回应环境。"
+      ],
+      "pitfalls": [],
+      "sourceCaseIds": [
+        "rd-c21-silence-1",
+        "rd-c21-silence-2",
+        "rd-c21-silence-3"
+      ],
+      "challengeMechanism": "两位研究者都认为安静并非对所有人有益；按具体原因和完整观点区分，人物可重复。",
+      "transfer": {
+        "prompt": "Match the statement with the correct person, A–C.\n\nDr Lin argues that an outdoor session works best when participants choose to attend. Dr Shah agrees that outdoor sessions can help, but says their benefits need not depend on a long visit. Dr Hall finds that participants notice more details outside, although she has not tested whether attendance should be voluntary.\n\nA Dr Lin\nB Dr Shah\nC Dr Hall\n\nA brief outdoor session may be beneficial.",
+        "reference": "B",
+        "reasoning": "Dr Shah explicitly removes the need for a long visit."
+      }
+    },
+    {
+      "id": "pr-reading-davies-notes",
+      "section": "reading",
+      "part": "阅读 · 笔记填空",
+      "title": "The Davies Sisters",
+      "source": {
+        "id": "cambridge21-academic",
+        "title": "Cambridge IELTS 21 Academic",
+        "path": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf",
+        "page": 17,
+        "pages": [
+          17
+        ],
+        "questionPages": [
+          19,
+          20
+        ],
+        "answerPage": 119,
+        "test": "Test 1",
+        "kind": "真题",
+        "originalUnit": "C21 Test 1 Passage 1",
+        "passageTitle": "The Davies Sisters"
+      },
+      "originNote": "原题选练；末尾加练为自编。",
+      "context": [
+        "While there was no real family history of art collecting, the sisters' education was rigorously geared toward such pursuits. Their London school focused on cultural rather than academic study, and they travelled extensively with their governess, Jane Blaker, visiting art galleries and making extensive notes on the collections there.",
+        "The sisters began to make regular art purchases from 1908, which roughly coincided with the dates of their inheritance. They took advice from various people, including the art dealer Hugh Blaker (the brother of Jane Blaker) and David Croal Thompson, who was also an art dealer. While it was long assumed that these men were largely responsible for the nature of the sisters' collection, it has recently been accepted that Gwendoline and Margaret retained a far more active role in the process.",
+        "The sisters' journals reveal their preference for Old Master** paintings. Yet they initially made very few attempts to secure any such works. While the sisters were wealthy in relative terms, their income was nothing compared to the fortunes of American art collectors of this period, such as J. Pierpont Morgan. Quite simply, high quality Old Master works were, if not beyond their means, then beyond what they were willing to pay for them. Instead, their early purchases were of the fashionable, safe variety, and included, for example, paintings by the French artist Jean-Baptiste-Camille Corot."
+      ],
+      "instructions": "Complete the notes. Choose ONE WORD ONLY from the passage for each answer.",
+      "prompt": "Early interest in art",
+      "questions": [
+        {
+          "id": "3",
+          "prompt": "they took lengthy 3 __________ about the things they saw in art galleries"
+        },
+        {
+          "id": "4",
+          "prompt": "their 4 __________ showed they liked Old Master paintings, but they were expensive to buy"
+        }
+      ],
+      "reference": "Q3 notes；Q4 journals",
+      "reasoning": [
+        "lengthy对应extensive；took notes对应making notes，保留复数。",
+        "showed they liked对应reveal their preference；注意不能把其他段落的notes填进来。"
+      ],
+      "pitfalls": [],
+      "sourceCaseIds": [
+        "rd-c21-davies-1"
+      ],
+      "challengeMechanism": "notes与journals同域干扰；由题干动作和用途确定名词。",
+      "transfer": {
+        "prompt": "Complete the note. Choose ONE WORD ONLY from the text.\n\nThe engineers recorded structural faults in their logs and prepared estimates of the repair costs. Once the repairs were complete, photographs documented the condition of the bridge; these were included in the final report.\n\nThe final report used __________ to show the condition of the bridge after the work.",
+        "reference": "photographs",
+        "reasoning": "The question asks for evidence of condition after repairs, not the earlier fault records or cost estimates."
+      }
+    },
+    {
+      "id": "pr-reading-sugar-choice",
+      "section": "reading",
+      "part": "阅读 · 选择题",
+      "title": "The World of Sugar",
+      "source": {
+        "id": "cambridge21-academic",
+        "title": "Cambridge IELTS 21 Academic",
+        "path": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf",
+        "page": 26,
+        "pages": [
+          26
+        ],
+        "questionPages": [
+          28,
+          29
+        ],
+        "answerPage": 119,
+        "test": "Test 1",
+        "kind": "真题",
+        "originalUnit": "C21 Test 1 Passage 3",
+        "passageTitle": "The World of Sugar"
+      },
+      "originNote": "原题选练；末尾加练为自编。",
+      "context": [
+        "Ulbe Bosma's The World of Sugar is a genuinely global history. Bosma discusses all the sugar growing places of the world, beginning with Cuba and Java, the largest exporters of the early 20th century. But this is a history not just of cane sugar but also of beet sugar, an equally important form of traded sugar over the last hundred years. Beet sugar is grown mainly in Europe and the United States. It has also been massively subsidised and sold at artificially low prices on world markets, threatening the livelihood of producers of cane sugar.",
+        "Bosma's discussion of the sugar market in Britain gives a sense of the book's range. The sweet-toothed British first bought cane sugar from their own slavery-dependent colonial plantations. Following the abolition of slavery in the British Empire, cane sugar was imported to Britain from places which retained the practice, such as Cuba and Brazil. Towards the end of the 19th century, the British started to import beet sugar from continental Europe. Only in the 20th century was there a move to develop a national beet sugar industry.",
+        "The book provides a global labour history, investigating the wide range of labour regimes associated with growing sugar. Contrary to popular belief, cane sugar production was never just restricted to large, dedicated plantations owned by rich men. For example, in Java, a huge exporter of sugar in the early 20th century, sugar cane was grown together with rice in an extraordinarily labour-intensive way by small farmers."
+      ],
+      "instructions": "Choose the correct letter, A, B, C or D.",
+      "prompt": "",
+      "questions": [
+        {
+          "id": "27",
+          "prompt": "What does the reviewer suggest about the cultivation and trading of sugar in the first paragraph?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Sugar has played a major role in international relations."
+            },
+            {
+              "id": "B",
+              "text": "Beet sugar has been made more internationally competitive."
+            },
+            {
+              "id": "C",
+              "text": "Cane sugar is thought to be of superior quality to beet sugar."
+            },
+            {
+              "id": "D",
+              "text": "New locations for cultivating sugar have increased production."
+            }
+          ]
+        },
+        {
+          "id": "28",
+          "prompt": "In the second paragraph, when discussing the sugar market in Britain, the reviewer stresses",
+          "options": [
+            {
+              "id": "A",
+              "text": "how the sources used changed over time."
+            },
+            {
+              "id": "B",
+              "text": "how developments in agriculture affected trade."
+            },
+            {
+              "id": "C",
+              "text": "the increased demand for sugar over the years."
+            },
+            {
+              "id": "D",
+              "text": "the growing support for ethical methods of cultivation."
+            }
+          ]
+        },
+        {
+          "id": "29",
+          "prompt": "What is the reviewer doing in the third paragraph?",
+          "options": [
+            {
+              "id": "A",
+              "text": "describing an efficient approach to sugar cultivation"
+            },
+            {
+              "id": "B",
+              "text": "explaining why the use of sugar plantations declined"
+            },
+            {
+              "id": "C",
+              "text": "addressing a misconception about the growing of sugar cane"
+            },
+            {
+              "id": "D",
+              "text": "evaluating different approaches to the cultivation of sugar cane"
+            }
+          ]
+        }
+      ],
+      "reference": "Q27 B；Q28 A；Q29 C",
+      "reasoning": [
+        "补贴让甜菜糖以人为低价竞争，支持B。文中并未比较甘蔗糖品质。",
+        "first→Following→Towards the end→Only in the 20th century构成来源随时间变动的序列。",
+        "首句提出劳动力历史，Contrary to popular belief明确纠正普遍误解，小农Java例子服务于该功能。"
+      ],
+      "pitfalls": [],
+      "sourceCaseIds": [
+        "rd-c21-sugar-1"
+      ],
+      "challengeMechanism": "补贴作用的改写；段落功能与提及细节区分；ethical与废奴相邻但不构成主旨。",
+      "transfer": {
+        "prompt": "Choose the correct letter, A, B, C or D.\n\nEarly trials of the sensor produced inconsistent readings. The team did not discard the instrument; instead, they traced the variation to differences in temperature and redesigned its casing. Later trials produced stable results. The original failures therefore contributed directly to the final design.\n\nWhat is the writer doing in this paragraph?\nA Comparing the cost of two instruments\nB Showing how unsuccessful tests informed an improvement\nC Explaining why a research project was abandoned\nD Arguing that temperature cannot be measured reliably",
+        "reference": "B",
+        "reasoning": "The trials exposed a problem that directly led to a successful redesign."
+      }
+    },
+    {
+      "id": "pr-reading-sugar-summary",
+      "section": "reading",
+      "part": "阅读 · 摘要选词",
+      "title": "Sugar cultivation and production",
+      "source": {
+        "id": "cambridge21-academic",
+        "title": "Cambridge IELTS 21 Academic",
+        "path": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf",
+        "page": 26,
+        "pages": [
+          26
+        ],
+        "questionPages": [
+          28,
+          29
+        ],
+        "answerPage": 119,
+        "test": "Test 1",
+        "kind": "真题",
+        "originalUnit": "C21 Test 1 Passage 3",
+        "passageTitle": "The World of Sugar"
+      },
+      "originNote": "原题选练；末尾加练为自编。",
+      "context": [
+        "The World of Sugar is also a story of similarity and continuity in sugar cultivation. For example, imported labour has been used for much large-scale production. German beet fields employed Polish workers; Mexicans and many others, including Sicilians, were vital to US sugar production. Cane cutting, Bosma shows, remains a poorly paid and brutal business to this day in many places in the world. But as well as this, the book is about the continuity of the use of traditional methods on small farms. In the mid 20th-century, this type of sugar production dominated in South Asia and Latin America.",
+        "This is also a history of capitalists and sugar dynasties, as well as corporations that in some cases have remained influential over very long periods. Great firms and great interests have had profound influence on the policies of states. In many places - not just the British Caribbean but Cuba and the Philippines too - a powerful sugar bourgeoisie played a major role in politics and their interests were consequently protected by trade barriers and subsidies. In the battle for control of the industry, it was inevitably the poor countries which came off worse. All this is explored by Bosma with wonderful subtlety and control."
+      ],
+      "instructions": "Complete the summary using the list of words, A–I. Write the correct letter.",
+      "prompt": "The book The World of Sugar points out the similarities in the way that sugar was cultivated around the world.",
+      "questions": [
+        {
+          "id": "31",
+          "prompt": "In the big industries in both Germany and the US, sugar farming depended on 31 __________.",
+          "options": [
+            {
+              "id": "A",
+              "text": "national governments"
+            },
+            {
+              "id": "B",
+              "text": "agricultural developments"
+            },
+            {
+              "id": "C",
+              "text": "less wealthy nations"
+            },
+            {
+              "id": "D",
+              "text": "untrained workers"
+            },
+            {
+              "id": "E",
+              "text": "small-scale cultivation"
+            },
+            {
+              "id": "F",
+              "text": "outdated methods"
+            },
+            {
+              "id": "G",
+              "text": "financial controls"
+            },
+            {
+              "id": "H",
+              "text": "migrant workers"
+            },
+            {
+              "id": "I",
+              "text": "powerful individuals and businesses"
+            }
+          ]
+        },
+        {
+          "id": "32",
+          "prompt": "However, in other parts of the world such as South Asia and Latin America, 32 __________ continued.",
+          "options": [
+            {
+              "id": "A",
+              "text": "national governments"
+            },
+            {
+              "id": "B",
+              "text": "agricultural developments"
+            },
+            {
+              "id": "C",
+              "text": "less wealthy nations"
+            },
+            {
+              "id": "D",
+              "text": "untrained workers"
+            },
+            {
+              "id": "E",
+              "text": "small-scale cultivation"
+            },
+            {
+              "id": "F",
+              "text": "outdated methods"
+            },
+            {
+              "id": "G",
+              "text": "financial controls"
+            },
+            {
+              "id": "H",
+              "text": "migrant workers"
+            },
+            {
+              "id": "I",
+              "text": "powerful individuals and businesses"
+            }
+          ]
+        },
+        {
+          "id": "33",
+          "prompt": "Sugar production has also involved 33 __________ who were eager to protect their markets.",
+          "options": [
+            {
+              "id": "A",
+              "text": "national governments"
+            },
+            {
+              "id": "B",
+              "text": "agricultural developments"
+            },
+            {
+              "id": "C",
+              "text": "less wealthy nations"
+            },
+            {
+              "id": "D",
+              "text": "untrained workers"
+            },
+            {
+              "id": "E",
+              "text": "small-scale cultivation"
+            },
+            {
+              "id": "F",
+              "text": "outdated methods"
+            },
+            {
+              "id": "G",
+              "text": "financial controls"
+            },
+            {
+              "id": "H",
+              "text": "migrant workers"
+            },
+            {
+              "id": "I",
+              "text": "powerful individuals and businesses"
+            }
+          ]
+        }
+      ],
+      "reference": "Q31 H；Q32 E；Q33 I",
+      "reasoning": [
+        "波兰人赴德、墨西哥人等赴美均是跨地迁移劳工，概括为migrant workers。",
+        "small farms与small-scale cultivation对应；F outdated带有落后评价，原文只说traditional。",
+        "资本家、糖业家族与公司合并概括为powerful individuals and businesses。"
+      ],
+      "pitfalls": [],
+      "sourceCaseIds": [
+        "rd-c21-sugar-2"
+      ],
+      "challengeMechanism": "traditional不自动等于outdated；迁移劳动力与未受训练劳动力区分；who的语法与权力主体匹配。",
+      "transfer": {
+        "prompt": "Complete the summary using the list of words, A–D.\n\nLarge tea estates recruited workers from neighbouring countries. Elsewhere, tea continued to be grown on small family plots using techniques passed down through generations. The account does not compare the efficiency of these techniques with modern ones.\n\nA obsolete technology\nB migrant labour\nC local government\nD small-scale farming\n\nThe large estates relied on 1 __________, while 2 __________ continued in other areas.",
+        "reference": "1 B；2 D",
+        "reasoning": "Foreign recruitment supports migrant labour; small family plots support small-scale farming without an efficiency judgement."
+      }
+    },
+    {
+      "id": "pr-listening-p1",
+      "section": "listening",
+      "part": "Listening Part 1",
+      "title": "货物运输",
+      "source": {
+        "title": "Cambridge · Listening sample task · Multiple choice · Questions 9–10",
+        "url": "https://www.cambridgeenglish.org/exams-and-tests/ielts/preparation/",
+        "path": "原始参考/support-e8b979a4-cambridge-zip-115008_Listening_sample_task_-_Multiple_choice.pdf",
+        "page": 1,
+        "kind": "official-sample"
+      },
+      "originNote": "",
+      "context": [
+        "Questions 9–10"
+      ],
+      "instructions": "Choose the correct letter, A, B or C.",
+      "prompt": "A customer is arranging to send a large box overseas.",
+      "questions": [
+        {
+          "id": "9",
+          "prompt": "Type of insurance chosen",
+          "options": [
+            {
+              "id": "A",
+              "text": "Economy"
+            },
+            {
+              "id": "B",
+              "text": "Standard"
+            },
+            {
+              "id": "C",
+              "text": "Premium"
+            }
+          ]
+        },
+        {
+          "id": "10",
+          "prompt": "Customer wants goods delivered to",
+          "options": [
+            {
+              "id": "A",
+              "text": "port"
+            },
+            {
+              "id": "B",
+              "text": "home"
+            },
+            {
+              "id": "C",
+              "text": "depot"
+            }
+          ]
+        }
+      ],
+      "reference": "9 C; 10 A.",
+      "reasoning": [],
+      "pitfalls": [],
+      "sourceCaseIds": [
+        "support-listening-insurance"
+      ],
+      "challengeMechanism": "A rejected past experience mentions Economy; the final decision is stated by relative coverage rather than option name. Three delivery locations are all heard.",
+      "audio": {
+        "src": "原始参考/c31e6351-recording-2.mp3",
+        "title": "Recording 2 · Questions 9–10"
+      },
+      "transcript": "Listening sample task – Multiple choice (to be used with IELTS Listening Recording 2) Tapescript for IELTS Listening Recording 2 (A customer has been arranging with a shipping agent to send a large box overseas. This is the last part of the conversation.) A OK right. Now obviously insurance is an important thing to consider and our companies are able to offer very good rates in a number of different all-inclusive packages. B Sorry, could you explain a bit more? A Yes, sorry, um. There’s really three rates according to quality of insurance cover – there’s the highest comprehensive cover which is Premium rate, then there’s standard rate and then there’s economy rate. That one will only cover the cost of the contents second hand. B Oh I’ve been stung before with economy insurance so I’ll go for the highest. A Mh’hm and can I just check would you want home delivery or to a local depot or would you want to pick it up at the nearest port? B The port’d be fine – I’ve got transport that end. A Fine and will you be paying by credit card? B Can I pay by cheque?"
+    },
+    {
+      "id": "pr-listening-p2",
+      "section": "listening",
+      "part": "Listening Part 2",
+      "title": "社区活动",
+      "source": {
+        "title": "Cambridge · Listening sample task · Short-answer questions · Questions 11–16",
+        "url": "https://www.cambridgeenglish.org/exams-and-tests/ielts/preparation/",
+        "path": "原始参考/support-cb76d836-cambridge-zip-115011_Listening_sample_task_-_Short-answer_questions.pdf",
+        "page": 1,
+        "kind": "official-sample"
+      },
+      "originNote": "",
+      "context": [
+        "Questions 11–16"
+      ],
+      "instructions": "Write NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer.",
+      "prompt": "You will hear an extract from a talk given to a group who are going to stay in the UK.",
+      "questions": [
+        {
+          "id": "11",
+          "prompt": "What TWO factors can make social contact in a foreign country difficult? — First answer"
+        },
+        {
+          "id": "12",
+          "prompt": "What TWO factors can make social contact in a foreign country difficult? — Second answer"
+        },
+        {
+          "id": "13",
+          "prompt": "Which types of community group does the speaker give examples of? — theatre; ______; ______ (first blank)"
+        },
+        {
+          "id": "14",
+          "prompt": "Which types of community group does the speaker give examples of? — theatre; ______; ______ (second blank)"
+        },
+        {
+          "id": "15",
+          "prompt": "In which TWO places can information about community activities be found? — First answer"
+        },
+        {
+          "id": "16",
+          "prompt": "In which TWO places can information about community activities be found? — Second answer"
+        }
+      ],
+      "reference": "11–12 language; customs (in either order). 13–14 music (groups); local history (groups) (in either order). 15–16 (the) (public) library/libraries; (the) town hall (in either order).",
+      "reasoning": [],
+      "pitfalls": [],
+      "sourceCaseIds": [
+        "support-listening-social"
+      ],
+      "challengeMechanism": "Additive not just...but; distinguish examples of groups from roles within theatre and places supplying information; theatre already supplied.",
+      "audio": {
+        "src": "原始参考/precise-recording-3.mp3",
+        "title": "Recording 3 · Questions 11–16"
+      },
+      "transcript": "Listening sample task – Short-answer questions (to be used with IELTS Listening Recording 3) Tapescript You will hear an extract from a talk given to a group who are going to stay in the UK. Good evening, and welcome to the British Council. My name is John Parker and I’ve been asked to talk to you briefly about certain aspects of life in the UK before you actually go there. So I'm going to talk first about the best ways of making social contacts there. Now you might be wondering why it should be necessary. After all, we meet people all the time. But when you’re living in a foreign country it can be more difficult, not just because of the language, but because customs may be different. If you’re going to work in the UK you will probably be living in private accommodation, so it won’t be quite so easy to meet people. But there are still things that you can do to help yourself. First of all, you can get involved in activities in your local community, join a group of some kind. For example, you’ll probably find that there are theatre groups who might be looking for actors, set designers and so on, or if you play an instrument you could join music groups in your area. Or if you like the idea of finding out about local history there’ll be a group for that too. These are just examples. And the best places to get information about things like this are either the town hall or the public library. Libraries in the UK perform quite a broad range of functions nowadays – they’re not just confined to lending books, although that’s their main role of course."
+    },
+    {
+      "id": "pr-listening-p3",
+      "section": "listening",
+      "part": "Listening Part 3",
+      "title": "远程学习",
+      "source": {
+        "title": "Cambridge · Listening sample task · Sentence completion · Questions 27–30",
+        "url": "https://www.cambridgeenglish.org/exams-and-tests/ielts/preparation/",
+        "path": "原始参考/support-50078fae-cambridge-zip-115010_Listening_sample_task_-_Sentence_completion.pdf",
+        "page": 1,
+        "kind": "official-sample"
+      },
+      "originNote": "",
+      "context": [
+        "Questions 27–30"
+      ],
+      "instructions": "Write NO MORE THAN TWO WORDS for each answer.",
+      "prompt": "Rachel and Paul are discussing studying with the Open University.",
+      "questions": [
+        {
+          "id": "27",
+          "prompt": "Studying with the Open University demanded a great deal of ______."
+        },
+        {
+          "id": "28",
+          "prompt": "Studying and working at the same time improved Rachel’s ______ skills."
+        },
+        {
+          "id": "29",
+          "prompt": "It was helpful that the course was structured in ______."
+        },
+        {
+          "id": "30",
+          "prompt": "She enjoyed meeting other students at ______."
+        }
+      ],
+      "reference": "27 motivation; 28 time management / time-management; 29 modules; 30 summer school(s).",
+      "reasoning": [],
+      "pitfalls": [],
+      "sourceCaseIds": [
+        "support-listening-open-university"
+      ],
+      "challengeMechanism": "Different speakers and purposes: Rachel studied with full-time work while Paul intends part-time work; course units versus degree length; home study versus summer-school meeting.",
+      "audio": {
+        "src": "原始参考/bb61bf2b-recording-4.mp3",
+        "title": "Recording 4 · Questions 27–30"
+      },
+      "transcript": "Listening sample task – Sentence completion (to be used with IELTS Listening Recording 4) Tapescript for IELTS Listening Recording 4 Two friends, Rachel and Paul, are discussing studying with the Open University. Rachel has already done a course at the university, but Paul has not. The extract relating to these questions comes from the last part of the recording. Paul The other thing I wanted to ask you was, did you find it hard, studying with the Open University? Rachel You mean, because you’re studying on your own, most of the time? Paul Mm. Rachel Well it took me a while to get used to it. I found I needed to maintain a high level of motivation, because it’s so different from school. There’s no-one saying, ‘Why haven’t you written your assignment yet?' and that sort of thing. Paul Oh dear. Rachel You’ll learn it, Paul. Another thing was that I got very good at time management because I had to fit time for studying round a full-time job. Paul Well I’m hoping to change to working part-time, so that’ll help. Rachel What makes it easier is that the degree is made up of modules, so you can take time off between them if you need to. It isn’t like a traditional three-or four-year course, where you’ve got to do the whole thing of it in one go. Paul That’s good, because I’d like to spend six months travelling next year. Rachel Huh, it’s all right for some. Then even though you’re mostly studying at home, remember you’ve got tutors to help you, and from time to time there are summer schools. They usually last a week. They’re great, because you meet all the other people struggling with the same things as you. I’ve made some really good friends that way. Paul Sounds good. So how do I apply?"
+    },
+    {
+      "id": "pr-listening-p4",
+      "section": "listening",
+      "part": "Listening Part 4",
+      "title": "学习研究",
+      "source": {
+        "title": "IELTS · Learner Persistence · Questions 33–37",
+        "url": "https://ielts.org/take-a-test/preparation-resources/sample-test-questions/academic-test",
+        "path": "原始参考/precise-listening-part-4-questions.html",
+        "kind": "official-sample"
+      },
+      "originNote": "",
+      "context": [
+        "Research findings · Questions 33–37"
+      ],
+      "instructions": "播放整卷原音中的 Part 4，完成第 33–37 题。Write ONE WORD ONLY for each answer.",
+      "prompt": "Complete the research findings below.",
+      "questions": [
+        {
+          "id": "33",
+          "prompt": "First level of importance · Personal Characteristics: Enjoyment of a ______"
+        },
+        {
+          "id": "34",
+          "prompt": "Second level of importance · Social and Environmental Factors: Positive experiences at ______"
+        },
+        {
+          "id": "35",
+          "prompt": "Second level of importance · Other Factors: Good ______"
+        },
+        {
+          "id": "36",
+          "prompt": "Second level of importance · Personal Characteristics: Many ______ in daily life"
+        },
+        {
+          "id": "37",
+          "prompt": "Third level of importance · Social and Environmental Factors: Good interaction with the ______"
+        }
+      ],
+      "reference": "33 challenge; 34 school; 35 health; 36 interests; 37 tutor / tutors.",
+      "reasoning": [],
+      "pitfalls": [],
+      "sourceCaseIds": [],
+      "challengeMechanism": "Three categories crossed with three importance levels, in continuous academic monologue; success contrasted with grades; tutor relationships distinguished from family support.",
+      "audio": {
+        "src": "原始参考/precise-official-listening-full.mp3",
+        "title": "IELTS 整卷原音 · Part 4 · Questions 33–37",
+        "segment": "Part 4 · Learner Persistence · research findings · Questions 33–37",
+        "duration": 1778.393438
+      },
+      "transcript": "Sample Listening Table Completion Recording Transcript You will hear part of a talk about research into ‘learner persistence’ given by a university lecturer to her colleagues. The second section of my questionnaire looked at learner persistence under three main headings: social and environmental factors, other factors, and intrinsic or personal characteristics. I identified three levels of importance for each of these. At the first level – those points identified by participants as most important in learner persistence – for social factors, many respondents said how crucial it had been to have good support, though there was no one specific source; it could be family or friends. As regards other factors, students are heartened not so much by high grades but by what they regard as success in study. And for personal characteristics, many respondents reported that they took pleasure in challenge and that this was regarded as very significant. At the second level of importance, in the first category , a sizeable percentage talked about the fact that they had enjoyed themselves in school as an important social factor. In the second column, other f actors, a number of people said that what was of most importance was decent health – this had a fairl y strong influence on their persistence in their studies. And then under the heading of personal characteristics , there were quite a large percentage of respondents who mentioned they felt it was important to have lots of interests in their everyday li ves. This gave them a depth and sense of perspective which less persistent learners might lack. And then onto the third level. Under s ocial factors, several respondents talked about good relationships with their t utors. For other factors, they mentioned lack or absence of any problems in their families. A nd finally under column three , they identified an ability to juggle several roles – what we might call their capacity for multi-tasking.",
+      "verification": {
+        "audioPairing": "Official cached full-demo metadata content item 128122089 includes ILI40154PT as Part 4. MP3 present and earlier browser metadata duration 1778.393438. No independently verified timestamp, therefore none supplied.",
+        "questions": "Official QTI ILI40154PT_ib-2. Table cells linearised with original row and column labels retained.",
+        "answers": "batch-03/answers/official-answer-mapping.json maps standalone official key 1–5 to full-demo 33–37.",
+        "sourceRechecked": "IELTS official academic sample page visited 2026-09-19; confirms Part 4 learner-persistence task.",
+        "transcriptDisplay": "Keep hidden until answer submission."
+      }
+    },
+    {
+      "id": "pr-speaking-p1",
+      "section": "speaking",
+      "part": "Speaking Part 1",
+      "title": "购物与储蓄",
+      "source": {
+        "title": "Cambridge IELTS 21 Academic · Test 3 · 物理页75 / 印刷页74",
+        "path": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf",
+        "page": 75,
+        "kind": "user-provided-exam-material"
+      },
+      "originNote": "",
+      "context": [],
+      "instructions": "依次口头回答。",
+      "prompt": "",
+      "questions": [
+        {
+          "id": "1",
+          "prompt": "When you go shopping, do you usually pay for things by cash or by card?"
+        },
+        {
+          "id": "2",
+          "prompt": "Have you ever spent money on something you didn't need?"
+        },
+        {
+          "id": "3",
+          "prompt": "Are you generally careful about how much money you spend?"
+        },
+        {
+          "id": "4",
+          "prompt": "How important is it to you to save money for the future?"
+        }
+      ],
+      "reference": "I usually pay by card because I don't like carrying a lot of cash. It's also easier to check what I've spent afterwards. I still keep a little cash with me in case a shop's card machine isn't working.\n\nYes, I once bought a pair of trainers mainly because they were on sale. I already had a similar pair, so I hardly wore the new ones. It wasn't a disaster, but it did make me stop and think before buying something just because the price looks attractive.\n\nGenerally, yes. I compare prices before buying anything expensive, and I check my spending at the end of each month. I don't plan every small purchase, though. If I can afford a coffee with a friend, I don't want to turn it into a complicated decision.\n\nIt's quite important to me because having some savings makes unexpected expenses less stressful. I try to put a little aside when I get paid. I don't always save the same amount, but having the habit matters more to me than reaching a perfect figure every month.",
+      "reasoning": [],
+      "pitfalls": [],
+      "sourceCaseIds": [
+        "support-speaking-c21-t3-p1-shopping",
+        "support-speaking-c21-t3-p1-saving"
+      ],
+      "challengeMechanism": "Habit versus a single past event; unnecessary purchase contrasted with usual care; degrees of importance and future intention.",
+      "recordingRecommended": true,
+      "referenceType": "原创参考作答；无唯一答案"
+    },
+    {
+      "id": "pr-speaking-p2",
+      "section": "speaking",
+      "part": "Speaking Part 2",
+      "title": "一个有竞争心的人",
+      "source": {
+        "title": "Cambridge IELTS 21 Academic · Test 4 · 物理页97 / 印刷页96",
+        "path": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf",
+        "page": 97,
+        "kind": "user-provided-exam-material"
+      },
+      "originNote": "",
+      "context": [
+        "You should say:",
+        "who this person is",
+        "what this person is competitive about",
+        "how successful this person is",
+        "and explain why you think this person is so competitive."
+      ],
+      "instructions": "准备 1 分钟，然后连续说 1–2 分钟。",
+      "prompt": "Describe a person you know who is very competitive.",
+      "questions": [
+        {
+          "id": "1",
+          "prompt": "开始作答。"
+        }
+      ],
+      "reference": "I'd like to describe a friend I met at university. We used to play badminton together, and he was much more competitive about it than anyone else in our group. Even during a casual game, he remembered the score carefully and tried to work out why he had lost a point.\n\nHe wasn't the best player when we first met, but he practised regularly and gradually started winning more matches. One year he reached the final of a small competition organised by our club. He didn't win, but he was pleased that the extra practice had made a difference.\n\nI think his competitiveness comes from wanting to see measurable progress. He likes having a clear target, and a match gives him immediate feedback. He can get frustrated with himself, although he usually congratulates the other player afterwards. That's why I enjoy playing with him: he takes the game seriously without treating his opponent badly. I wouldn't claim to know everything that motivates him, but improvement seems more important to him than showing off.",
+      "reasoning": [],
+      "pitfalls": [],
+      "sourceCaseIds": [
+        "support-speaking-c21-t4-p2-competitive"
+      ],
+      "challengeMechanism": "Sustain one coherent person description while covering domain, success, and an inferred motive; concrete event evidence rather than repeated trait adjectives.",
+      "recordingRecommended": true,
+      "referenceType": "原创参考作答；无唯一答案"
+    },
+    {
+      "id": "pr-speaking-p3",
+      "section": "speaking",
+      "part": "Speaking Part 3",
+      "title": "体育中的竞争与参与",
+      "source": {
+        "title": "Cambridge IELTS 21 Academic · Test 4 · 物理页97 / 印刷页96",
+        "path": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf",
+        "page": 97,
+        "kind": "user-provided-exam-material"
+      },
+      "originNote": "",
+      "context": [],
+      "instructions": "依次口头回答。",
+      "prompt": "",
+      "questions": [
+        {
+          "id": "1",
+          "prompt": "How important is it to be very competitive at sport?"
+        },
+        {
+          "id": "2",
+          "prompt": "Why do some people think that taking part in sport is more important than winning?"
+        }
+      ],
+      "reference": "It depends on the purpose. For professional athletes, a strong desire to compete may help them keep training when progress is slow. In a casual game with friends, however, enjoying the activity and playing fairly may matter more than the result. Being competitive becomes a problem if it encourages someone to ignore rules or injuries.\n\nPeople who value participation often focus on the benefits that continue after a match ends, such as exercise, friendships and learning to work with others. Only one team can win, but both teams can gain those benefits. That is especially relevant when children are just starting a sport.",
+      "reasoning": [],
+      "pitfalls": [],
+      "sourceCaseIds": [
+        "support-speaking-c21-t4-p3-sport"
+      ],
+      "challengeMechanism": "Evaluate competitive drive across recreational and professional contexts; explain a position without treating participation and winning as mutually exclusive; qualification and counterexample possible.",
+      "recordingRecommended": true,
+      "referenceType": "原创参考作答；无唯一答案"
+    },
+    {
+      "id": "pr-writing1-jobs",
+      "section": "writing1",
+      "part": "Task 1 · 折线图",
+      "title": "四行业就业",
+      "source": {
+        "title": "Cambridge IELTS 21 Academic · Test 1 · Task 1",
+        "path": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf",
+        "page": 30,
+        "kind": "真题"
+      },
+      "originNote": "原图；配套练习与参考为编写内容。",
+      "context": [
+        "单位：million jobs。年份依次为 1960、1980、2000、2020。",
+        "Manufacturing：15、20、约17、13；Retail：6、10、15、16；Agriculture：6、3、3、2；Healthcare：2、5、11、16。"
+      ],
+      "instructions": "根据原图作答。",
+      "prompt": "The graph shows employment in four sectors of the US economy from 1960 to 2020.",
+      "questions": [
+        {
+          "id": "q1",
+          "prompt": "选出可由原图支持的一句。",
+          "options": [
+            {
+              "id": "A",
+              "text": "Manufacturing lost seven million jobs between 1960 and 2020."
+            },
+            {
+              "id": "B",
+              "text": "Manufacturing ended two million jobs below its initial level, despite an earlier rise."
+            },
+            {
+              "id": "C",
+              "text": "Healthcare employment increased sixteenfold over the period."
+            },
+            {
+              "id": "D",
+              "text": "Agricultural employment fell during every interval shown."
+            }
+          ]
+        },
+        {
+          "id": "q2",
+          "prompt": "写 45–65 个英文词，比较 healthcare 和 retail 的绝对增量、相对增幅及最终水平。不要把岗位数写成就业占比。"
+        }
+      ],
+      "reference": "1. B。\n2. 示例：Healthcare employment rose from two million to sixteen million, adding fourteen million jobs and reaching eight times its initial level. Retail added ten million jobs, growing from six million to sixteen million, approximately 2.7 times its starting figure. The two sectors therefore finished at the same level, despite markedly different growth rates.",
+      "transfer": {
+        "prompt": "仍用这张图，写两句 overview，不列出逐年数字；必须同时呈现制造业的主导地位变化和农业的整体走势。",
+        "reference": "示例：Manufacturing was initially the largest employer, but both retail and healthcare had overtaken it by the end of the period. Agriculture declined overall and remained the smallest sector in 2020.",
+        "reasoning": []
+      },
+      "sourceCaseIds": [
+        "wc-c21-t1-jobs"
+      ],
+      "challengeMechanism": "internal: peak-versus-net change; count-versus-share; absolute-versus-relative growth; equal final values",
+      "image": {
+        "src": "case-assets/writing-c21-30.png",
+        "alt": "1960至2020年美国制造业、零售业、农业和医疗行业岗位数原图"
+      },
+      "reasoning": [],
+      "pitfalls": []
+    },
+    {
+      "id": "pr-writing1-bricks",
+      "section": "writing1",
+      "part": "Task 1 · 流程图",
+      "title": "砖块制造",
+      "source": {
+        "title": "IELTS Academic Writing Sample Tasks (2023) · Task 1C",
+        "url": "https://ielts.org/cdn/Sample-tests/ielts-academic-writing-sample-tasks-2023.pdf#page=5",
+        "path": "case-assets/writing-official-sample-tasks-2023.pdf",
+        "page": 5,
+        "kind": "官方样题"
+      },
+      "originNote": "官方原图；配套练习与参考为编写内容。",
+      "context": [
+        "按图中箭头作答。图示数值：干燥 24–48 小时；中温窑 200–980°C；高温窑 870–1300°C；冷却 48–72 小时。"
+      ],
+      "instructions": "描述图中实际显示的顺序。",
+      "prompt": "The diagram presents the manufacture of bricks for construction.",
+      "questions": [
+        {
+          "id": "q1",
+          "prompt": "把下句改写为 35–50 个英文词，保留真实流程，写到干燥结束：After being mixed with sand and water, the clay is cut with a wire cutter and then pressed into moulds before being heated at 200–980°C in the drying oven."
+        },
+        {
+          "id": "q2",
+          "prompt": "只根据图示，哪一句成立？",
+          "options": [
+            {
+              "id": "A",
+              "text": "Every brick passes through both shaping methods."
+            },
+            {
+              "id": "B",
+              "text": "The complete manufacturing process takes no more than five days."
+            },
+            {
+              "id": "C",
+              "text": "Drying and cooling together account for between 72 and 120 hours, excluding all other stages."
+            },
+            {
+              "id": "D",
+              "text": "The minimum temperature in the second kiln stage exceeds the maximum in the first."
+            }
+          ]
+        }
+      ],
+      "reference": "1. 示例：After sand and water have been added, the clay mixture is shaped into bricks either with a wire cutter or in moulds. The newly formed bricks are then placed in a drying oven for between 24 and 48 hours.\n2. C。",
+      "transfer": {
+        "prompt": "用两句英文描述干燥之后、包装之前的流程。写出两组温度和冷却时间，不编写图中未给出的加热时长。",
+        "reference": "The dried bricks pass through a kiln at a moderate temperature of 200–980°C and then a high-temperature stage of 870–1300°C. They are subsequently cooled in a chamber for 48–72 hours.",
+        "reasoning": []
+      },
+      "sourceCaseIds": [
+        "wc-official-bricks"
+      ],
+      "challengeMechanism": "internal: alternative branches versus sequence; duration versus temperature; overlapping ranges; partial duration versus total",
+      "image": {
+        "src": "case-assets/writing-official-5.png",
+        "alt": "官方制砖流程原图：制备、两种成形路径、干燥、两段烧制、冷却、包装、运输"
+      },
+      "reasoning": [],
+      "pitfalls": []
+    },
+    {
+      "id": "pr-writing1-cafe",
+      "section": "writing1",
+      "part": "Task 1 · 平面图",
+      "title": "学院咖啡厅改造",
+      "source": {
+        "title": "Cambridge IELTS 21 Academic · Test 2 · Task 1",
+        "path": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf",
+        "page": 52,
+        "kind": "真题"
+      },
+      "originNote": "改造前后原图；配套练习与参考为编写内容。",
+      "context": [],
+      "instructions": "根据两张平面图作答。",
+      "prompt": "The plans show a college café before its redesign and at present.",
+      "questions": [
+        {
+          "id": "q1",
+          "prompt": "写 55–75 个英文词，描述两间原 staff dining rooms 的去向，并对比厨房、厕所和中央座位区。"
+        },
+        {
+          "id": "q2",
+          "prompt": "修改这段文字中所有与图不符或缺少依据的内容，保留能由图支持的变化：The kitchen was moved to the south, while all the indoor tables were removed. A coffee bar replaced the kitchen. The old serving area now offers only hot meals, and the café provides outdoor seating beside a barbecue."
+        }
+      ],
+      "reference": "1. 示例：The two former staff dining rooms have been converted into two separate food and drink outlets: takeaway food occupies the room on the left, while a coffee bar has replaced the room on the right. In contrast, the kitchen and toilets remain in their original locations, and the central area is still used for tables and chairs.\n2. 示例：The kitchen remains in place, and the central indoor seating area has been retained. A coffee bar has replaced the right-hand staff dining room. The former serving area is now labelled 'Hot meals', while outdoor seating and a barbecue have been added.",
+      "transfer": {
+        "prompt": "写两句 overview：一句概括食品供应设施的变化，一句对比保留的室内功能与新增的室外空间。不要猜测客流、营业时间或容纳人数。",
+        "reference": "The café now has a wider range of dedicated food and drink outlets. The kitchen, toilets and central indoor seating area have been retained, while outdoor seating and a barbecue have been added.",
+        "reasoning": []
+      },
+      "sourceCaseIds": [
+        "wc-c21-t2-cafe"
+      ],
+      "challengeMechanism": "internal: retained-versus-repurposed features; relative position without compass; diagram labels versus unsupported exclusivity",
+      "image": {
+        "src": "case-assets/writing-c21-52.png",
+        "alt": "学院咖啡厅改造前后的原始平面图"
+      },
+      "reasoning": [],
+      "pitfalls": []
+    },
+    {
+      "id": "pr-writing2-primary",
+      "section": "writing2",
+      "part": "Task 2 · 教育",
+      "title": "小学课堂中的学习与游戏",
+      "source": {
+        "title": "Cambridge IELTS 21 Academic · Test 4 · Task 2",
+        "path": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf",
+        "page": 96,
+        "kind": "真题"
+      },
+      "originNote": "真题题干；分步作答与参考为编写内容。",
+      "context": [
+        "待改写的立场句（自编）：I agree that play is useful because children enjoy it."
+      ],
+      "instructions": "直接回应下面的完整题干。",
+      "prompt": "Some people argue that primary schools focus too much on formal learning. To what extent do you agree with this opinion? How important do you think it is for children to play as well as learn in the primary school classroom?",
+      "questions": [
+        {
+          "id": "q1",
+          "prompt": "把上面的立场句改写为 35–50 个英文词，同时回答两个问题。立场须允许一部分正式教学保留。"
+        },
+        {
+          "id": "q2",
+          "prompt": "写 80–110 个英文词，论证课堂游戏的一项学习价值，并用一个具体课堂活动说明。结尾说明这个活动为什么仍需要教师设计或引导。"
+        }
+      ],
+      "reference": "1. 示例：I partly agree that primary schools devote too much time to formal instruction. Although direct teaching remains necessary, well-designed classroom play is important because it allows children to apply knowledge and practise cooperation in a meaningful setting.\n2. 示例：Classroom play can make an abstract skill easier to use. For example, a teacher could organise a small shop in which pupils take turns buying items with pretend money. Children would have to add prices, calculate change and explain their choices to classmates. This activity gives a practical purpose to calculations that might otherwise remain a page of exercises. However, simply providing toys would not ensure that pupils learnt the intended skill. The teacher would still need to choose suitable prices, observe mistakes and help pupils understand how to correct them.",
+      "transfer": {
+        "prompt": "仍回答原题，写 40–55 个英文词的结论。明确区分“正式教学过多”和“正式教学完全无用”，不要新增一个此前未论证的社会问题。",
+        "reference": "示例：Primary education should therefore place less emphasis on prolonged formal instruction, while preserving direct teaching where it is useful. Structured play deserves a regular place in the classroom because it helps children apply what they learn, but its educational value depends on thoughtful planning and guidance.",
+        "reasoning": []
+      },
+      "sourceCaseIds": [
+        "wc-c21-t4-primary"
+      ],
+      "challengeMechanism": "internal: two distinct prompt obligations; degree of agreement; concrete mechanism; restriction without changing position",
+      "reasoning": [],
+      "pitfalls": []
+    },
+    {
+      "id": "pr-writing2-tourism",
+      "section": "writing2",
+      "part": "Task 2 · 旅游",
+      "title": "旅游收益与居民成本",
+      "source": {
+        "title": "IELTS Academic Writing Sample Tasks (2023) · Task 2B",
+        "url": "https://ielts.org/cdn/Sample-tests/ielts-academic-writing-sample-tasks-2023.pdf#page=7",
+        "path": "case-assets/writing-official-sample-tasks-2023.pdf",
+        "page": 7,
+        "kind": "官方样题"
+      },
+      "originNote": "官方题干；情境和配套练习为自编。",
+      "context": [
+        "本练习的假设情境：旅游给当地商店带来收入，但旺季过后部分岗位消失；短租扩张减少了居民可租住房。地方政府可以对短租登记并征收用于公共交通的游客税。"
+      ],
+      "instructions": "在给定情境下作答，不把假设写成真实统计。",
+      "prompt": "International tourism has brought enormous benefit to many places. At the same time, there is concern about its impact on local inhabitants and the environment. Do the disadvantages of international tourism outweigh the advantages?",
+      "questions": [
+        {
+          "id": "q1",
+          "prompt": "写 40–55 个英文词的立场段。不能只写“有好处也有坏处”；比较时须涉及受益者、受损者或影响持续时间。"
+        },
+        {
+          "id": "q2",
+          "prompt": "写 80–110 个英文词，比较商店收入与居民住房成本。结尾直接回答哪一方更重要，以及这个判断依赖什么条件。"
+        }
+      ],
+      "reference": "1. 示例：In the situation described, the disadvantages outweigh the advantages if tourism income mainly reaches businesses while residents face lasting housing pressure. Temporary increases in trade cannot by themselves justify a continuing loss of affordable homes. Effective regulation could, however, change that balance.\n2. 示例：Tourism may increase sales in local shops, but this benefit does not necessarily reach residents who must pay higher rents. The jobs created may also disappear after the main holiday season, whereas the conversion of homes into short-term accommodation can affect housing throughout the year. In this case, I would give greater weight to the lasting pressure on residents than to a temporary rise in commercial income. The balance could become more favourable if registration limits the loss of residential housing and visitor taxes finance services used by local people.",
+      "transfer": {
+        "prompt": "把情境改为：短租得到有效控制，游客税确实改善了居民交通。用 35–50 个英文词说明原结论如何调整；不得声称旅游已经没有环境成本。",
+        "reference": "示例：With effective controls on short-term rentals and visible improvements in local transport, the economic benefits would be more likely to outweigh the disadvantages. However, that judgement would still depend on whether visitor activity placed manageable pressure on the environment.",
+        "reasoning": []
+      },
+      "sourceCaseIds": [
+        "wc-official-tourism"
+      ],
+      "challengeMechanism": "internal: explicit weighing rather than list; unequal distribution; duration; conditional reversal",
+      "reasoning": [],
+      "pitfalls": []
+    },
+    {
+      "id": "pr-writing2-housing",
+      "section": "writing2",
+      "part": "Task 2 · 城市住房",
+      "title": "高层住宅是否是最佳方案",
+      "source": {
+        "title": "Cambridge IELTS 21 Academic · Test 1 · Task 2",
+        "path": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf",
+        "page": 31,
+        "kind": "真题"
+      },
+      "originNote": "真题题干；配套练习与参考为编写内容。",
+      "context": [
+        "待改写句（自编）：Tall buildings contain more homes, so they are the best solution everywhere and will make housing affordable."
+      ],
+      "instructions": "围绕原题中的“best way”作答。",
+      "prompt": "The best way to provide enough homes in large cities is to build tall apartment blocks. To what extent do you agree or disagree with this statement?",
+      "questions": [
+        {
+          "id": "q1",
+          "prompt": "将上面的句子改写为 35–50 个英文词。保留高层住宅的一项优势，但不给出题干未能支持的必然结果。"
+        },
+        {
+          "id": "q2",
+          "prompt": "写 80–110 个英文词：在土地紧张的城市里，将高层建设与“改造现有空置建筑”比较。选择一个判断标准，形成有条件的明确立场。"
+        }
+      ],
+      "reference": "1. 示例：Tall apartment blocks can provide many homes on a limited area of land, making them useful in densely populated cities. However, additional supply does not automatically make housing affordable, and high-rise construction may not be the best option in every neighbourhood.\n2. 示例：Where suitable vacant buildings already exist, converting them into homes may provide accommodation sooner than constructing new towers. On a short-term delivery criterion, conversion could therefore be the better option, provided the buildings are safe and reasonably inexpensive to adapt. However, the supply of suitable vacant property is limited, and conversion cannot be assumed to meet all future demand. I would support high-rise development where land is scarce and existing buildings cannot supply enough homes, rather than treating it as the best response to every housing shortage.",
+      "transfer": {
+        "prompt": "写 35–50 个英文词的结论。明确同意程度，并保留“新增住房数量”和“住房可负担性”的区别。",
+        "reference": "示例：I therefore agree that high-rise construction can be an important response to urban housing shortages, but not that it is always the best one. Cities should assess alternative sources of supply, while using separate measures to ensure that additional homes are affordable.",
+        "reasoning": []
+      },
+      "sourceCaseIds": [
+        "wc-c21-t1-homes"
+      ],
+      "challengeMechanism": "internal: best-versus-useful proposition; supply-versus-affordability; criterion-bound comparison; scope of generalisation",
+      "reasoning": [],
+      "pitfalls": []
+    },
+    {
+      "id": "pr-vocabulary-tourism",
+      "section": "vocabulary",
+      "part": "词汇 · 旅游语境",
+      "title": "在语境中选择措辞",
+      "source": {
+        "title": "IELTS Academic Writing Sample Tasks (2023) · Task 2B",
+        "url": "https://ielts.org/cdn/Sample-tests/ielts-academic-writing-sample-tasks-2023.pdf#page=7",
+        "path": "case-assets/writing-official-sample-tasks-2023.pdf",
+        "page": 7,
+        "kind": "官方样题"
+      },
+      "originNote": "基于官方旅游话题自编词汇练习。",
+      "context": [
+        "作答条件：新公交服务开通后，旺季道路拥堵有所缓解但仍存在；旅游提供部分季节性岗位；现有信息不足以判定旅游的总收益大于总成本。",
+        "待改写段（自编）：Tourism inevitably eliminates unemployment. The new buses eradicated congestion. Therefore, its advantages outweigh than its disadvantages."
+      ],
+      "instructions": "按给定条件改写，不添加数据。",
+      "prompt": "Revise the wording so that each claim matches the information available.",
+      "questions": [
+        {
+          "id": "q1",
+          "prompt": "把待改写段写成 40–55 个英文词。保留三个信息：就业作用、交通变化、总利弊尚无法确定。"
+        },
+        {
+          "id": "q2",
+          "prompt": "每空填一个合适的词：① Tourism can contribute ___ local employment. ② More visitors may put pressure ___ public services. ③ Whether the benefits outweigh the costs depends ___ how tourism is managed."
+        }
+      ],
+      "reference": "1. 示例：Tourism can provide seasonal employment, although this does not eliminate unemployment. Congestion has eased since the new bus service began, but traffic problems remain. On the information given, it is not possible to conclude that the overall benefits of tourism outweigh its costs.\n2. ① to；② on；③ on。",
+      "transfer": {
+        "prompt": "用 30–45 个英文词回应：旅游收入增加就一定意味着居民生活改善吗？使用 may 或 can；不使用 inevitable、eradicate 或 impressive。",
+        "reference": "示例：Higher tourism revenue may improve residents' lives if it supports stable jobs and better local services. However, an increase in business income alone does not show that residents benefit, especially where housing costs also rise.",
+        "reasoning": []
+      },
+      "sourceCaseIds": [
+        "wc-official-tourism"
+      ],
+      "challengeMechanism": "internal: semantic strength; collocation; event association versus causal certainty; count of claims versus evidence",
+      "reasoning": [],
+      "pitfalls": []
+    },
+    {
+      "id": "pr-background-fisheries",
+      "section": "background",
+      "part": "话题 · 海洋资源",
+      "title": "捕捞与鱼群恢复",
+      "source": {
+        "title": "NOAA Fisheries · Understanding Fisheries Management in the United States；British Council · Problems and solutions",
+        "url": "https://www.fisheries.noaa.gov/insight/understanding-fisheries-management-united-states",
+        "path": "扩展资料/609824ad-writing_task_2_problems_and_solutions_.pdf",
+        "page": 7,
+        "kind": "政府原文与官方教辅题目"
+      },
+      "originNote": "阅读材料据 NOAA 改写；练习对应 British Council 过度捕捞题。",
+      "context": [
+        "A fish stock can be assessed in two different ways: the rate at which fish are removed and the size of the remaining population. Excessive harvesting is described as overfishing; a population that is too small is described as overfished. Managers use scientific assessments to set catch limits and plan recovery. Monitoring and enforcement help ensure that fishing actually follows these limits."
+      ],
+      "instructions": "根据短文和给定情境作答。",
+      "prompt": "What causes overfishing, and what measures could prevent it?",
+      "questions": [
+        {
+          "id": "q1",
+          "prompt": "哪一句可以由短文支持？",
+          "options": [
+            {
+              "id": "A",
+              "text": "A population immediately recovers once fishing is within an acceptable rate."
+            },
+            {
+              "id": "B",
+              "text": "The rate of fishing and the size of the fish population describe the same thing."
+            },
+            {
+              "id": "C",
+              "text": "Setting a catch limit is not the same as ensuring that boats comply with it."
+            },
+            {
+              "id": "D",
+              "text": "A small fish population proves that the current fishing rate is excessive."
+            }
+          ]
+        },
+        {
+          "id": "q2",
+          "prompt": "假设一个渔场已有捕捞上限，但部分渔船隐瞒渔获。用 60–80 个英文词写一项与这个问题直接对应的措施，说明执行方式与预期作用。不要写成全面禁止所有捕鱼。"
+        }
+      ],
+      "reference": "1. C。\n2. 示例：Authorities could require boats to record their catches and compare these records with inspections at landing sites. Targeted checks would make it harder to hide catches, while proportionate penalties could discourage repeated violations. This would address the gap between the legal limit and the amount actually taken from the sea. Monitoring would still be needed to establish whether the policy reduced fishing pressure and helped the stock recover.",
+      "transfer": {
+        "prompt": "假设今年的捕捞速度已经降至允许范围，但鱼群总量仍低于恢复目标。用两句英文描述现状，并提出下一步行动；不宣称政策已经完全成功或完全失败。",
+        "reference": "The fishing rate is now within the permitted range, but the stock has not yet reached its recovery target. Managers should continue monitoring the population and adjust the recovery measures if the evidence indicates that further action is needed.",
+        "reasoning": []
+      },
+      "sourceCaseIds": [
+        "wc-bc-overfishing"
+      ],
+      "challengeMechanism": "internal: rate-versus-stock distinction; compliance-versus-paper policy; remedy targets stated cause; no instant recovery inference",
+      "reasoning": [],
+      "pitfalls": []
+    }
+  ]
+}

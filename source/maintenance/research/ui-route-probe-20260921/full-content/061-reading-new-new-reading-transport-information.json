@@ -1,0 +1,241 @@
+{
+  "requested": "reading-new-new-reading-transport-information",
+  "from": [
+    "内容单元",
+    "页面链接"
+  ],
+  "actual": "#reading-new-new-reading-transport-information",
+  "checkedAt": "2026-09-21T12:51:12.422Z",
+  "title": "学习 / 阅读 / 城市噪声与考古：原题中的措施、数据和限定 · IELTS",
+  "label": "学习 / 阅读 / 城市噪声与考古：原题中的措施、数据和限定",
+  "panel": "reading",
+  "contentRoot": "reading-new-new-reading-transport-information",
+  "headings": [],
+  "controls": [
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "城市噪声与考古：原题中的措施、数据和限定",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "Why we need silence｜噪声风险与城市降噪",
+      "label": "",
+      "href": "#reading-case-rd-c21-silence-1",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "Why we need silence｜主动安静与短时收益",
+      "label": "",
+      "href": "#reading-case-rd-c21-silence-3",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "Mapungubwe｜农业、居所与社会等级",
+      "label": "",
+      "href": "#reading-case-rd-c21-mapungubwe-1",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "Cambridge IELTS 21 Academic · Test 1 · PDF 21 页",
+      "label": "",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=21",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "Cambridge IELTS 21 Academic · Test 1 · PDF 119 页",
+      "label": "",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=119",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "Cambridge IELTS 21 Academic · Test 1 · PDF 22 页",
+      "label": "",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=22",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "Cambridge IELTS 21 Academic · Test 2 · PDF 43 页",
+      "label": "",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=43",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "Cambridge IELTS 21 Academic · Test 2 · PDF 121 页",
+      "label": "",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=121",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "练原题：Why we need silence｜噪声风险与城市降噪",
+      "label": "",
+      "href": "#reading-case-rd-c21-silence-1",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "练原题：Why we need silence｜主动安静与短时收益",
+      "label": "",
+      "href": "#reading-case-rd-c21-silence-3",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "练原题：Mapungubwe｜农业、居所与社会等级",
+      "label": "",
+      "href": "#reading-case-rd-c21-mapungubwe-1",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "checkbox",
+      "text": "",
+      "label": "我已学习本单元",
+      "href": null,
+      "save": "resource-learned-new-reading-transport-information",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "checkbox",
+      "text": "",
+      "label": "加入我的复习",
+      "href": null,
+      "save": "resource-review-new-reading-transport-information",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "我的新表达／本次复习记录（可留空）",
+      "href": null,
+      "save": "resource-note-new-reading-transport-information",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    }
+  ],
+  "visibleText": "城市噪声与考古：原题中的措施、数据和限定\n0% · 0 / 1 完成\n\n用Why we need silence替换原社区交通自编信息匹配。Q14问strategies，标准答案C，包含安静公交、道路降噪、航空噪声控制等多个措施。Q15问data indicating the extent，答案B，1 in 5与城市分贝信息说明问题覆盖范围。共同出现noise不能区分两题。\n\nQ17要求“相对安静比完全静音更有益”的比较，答案G：户外花园较完全无声房间让参与者more relaxation and less boredom。只找到“安静有益”的F不够，因为F没有题干要求的两环境对照。\n\n迁移到Mapungubwe：Q16的king’s family对应C中的male relatives，居所是outskirts；B虽然有king，却讲国王本人及顾问在山顶的住所。精读记录“对象、位置、限定”三个格子，避免一个关键词把不同人物合并。\n\n继续做原题片段：Why we need silence｜噪声风险与城市降噪 · Why we need silence｜主动安静与短时收益 · Mapungubwe｜农业、居所与社会等级\n\nCambridge IELTS 21 Academic · Test 1 · PDF 21 页\n\nCambridge IELTS 21 Academic · Test 1 · PDF 119 页\n\nCambridge IELTS 21 Academic · Test 1 · PDF 22 页\n\nCambridge IELTS 21 Academic · Test 2 · PDF 43 页\n\nCambridge IELTS 21 Academic · Test 2 · PDF 121 页\n\n练原题：Why we need silence｜噪声风险与城市降噪\n练原题：Why we need silence｜主动安静与短时收益\n练原题：Mapungubwe｜农业、居所与社会等级\n\n本单元的学习记录\n\n 我已学习本单元 加入我的复习\n我的新表达／本次复习记录（可留空）",
+  "allContent": "城市噪声与考古：原题中的措施、数据和限定0% · 0 / 1 完成用Why we need silence替换原社区交通自编信息匹配。Q14问strategies，标准答案C，包含安静公交、道路降噪、航空噪声控制等多个措施。Q15问data indicating the extent，答案B，1 in 5与城市分贝信息说明问题覆盖范围。共同出现noise不能区分两题。Q17要求“相对安静比完全静音更有益”的比较，答案G：户外花园较完全无声房间让参与者more relaxation and less boredom。只找到“安静有益”的F不够，因为F没有题干要求的两环境对照。迁移到Mapungubwe：Q16的king’s family对应C中的male relatives，居所是outskirts；B虽然有king，却讲国王本人及顾问在山顶的住所。精读记录“对象、位置、限定”三个格子，避免一个关键词把不同人物合并。继续做原题片段：Why we need silence｜噪声风险与城市降噪 · Why we need silence｜主动安静与短时收益 · Mapungubwe｜农业、居所与社会等级Cambridge IELTS 21 Academic · Test 1 · PDF 21 页Cambridge IELTS 21 Academic · Test 1 · PDF 119 页Cambridge IELTS 21 Academic · Test 1 · PDF 22 页Cambridge IELTS 21 Academic · Test 2 · PDF 43 页Cambridge IELTS 21 Academic · Test 2 · PDF 121 页练原题：Why we need silence｜噪声风险与城市降噪练原题：Why we need silence｜主动安静与短时收益练原题：Mapungubwe｜农业、居所与社会等级本单元的学习记录 我已学习本单元 加入我的复习我的新表达／本次复习记录（可留空）",
+  "links": [
+    {
+      "text": "Why we need silence｜噪声风险与城市降噪",
+      "href": "#reading-case-rd-c21-silence-1"
+    },
+    {
+      "text": "Why we need silence｜主动安静与短时收益",
+      "href": "#reading-case-rd-c21-silence-3"
+    },
+    {
+      "text": "Mapungubwe｜农业、居所与社会等级",
+      "href": "#reading-case-rd-c21-mapungubwe-1"
+    },
+    {
+      "text": "Cambridge IELTS 21 Academic · Test 1 · PDF 21 页",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=21"
+    },
+    {
+      "text": "Cambridge IELTS 21 Academic · Test 1 · PDF 119 页",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=119"
+    },
+    {
+      "text": "Cambridge IELTS 21 Academic · Test 1 · PDF 22 页",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=22"
+    },
+    {
+      "text": "Cambridge IELTS 21 Academic · Test 2 · PDF 43 页",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=43"
+    },
+    {
+      "text": "Cambridge IELTS 21 Academic · Test 2 · PDF 121 页",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=121"
+    },
+    {
+      "text": "练原题：Why we need silence｜噪声风险与城市降噪",
+      "href": "#reading-case-rd-c21-silence-1"
+    },
+    {
+      "text": "练原题：Why we need silence｜主动安静与短时收益",
+      "href": "#reading-case-rd-c21-silence-3"
+    },
+    {
+      "text": "练原题：Mapungubwe｜农业、居所与社会等级",
+      "href": "#reading-case-rd-c21-mapungubwe-1"
+    }
+  ],
+  "details": [],
+  "saveFields": [
+    "resource-learned-new-reading-transport-information",
+    "resource-review-new-reading-transport-information",
+    "resource-note-new-reading-transport-information"
+  ],
+  "images": [],
+  "audio": [],
+  "viewport": 1440,
+  "documentWidth": 1440
+}

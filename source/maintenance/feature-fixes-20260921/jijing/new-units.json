@@ -1,0 +1,729 @@
+{
+  "batchId": "jiufen-reviewed-20260921-v1",
+  "sourceSnapshotAt": "2026-09-21",
+  "units": [
+    {
+      "id": "pr-jiufen-20260921-origin-language-v1",
+      "version": 1,
+      "title": "语言起源 · The origin of language",
+      "skill": "reading",
+      "part": "Passage 3",
+      "minutes": 30,
+      "estimatedAnswerMinutes": 20,
+      "sourceId": "2026548860543401986",
+      "sourceName": "九分学长",
+      "sourceUrl": "https://www.9fnnn.com/",
+      "sourceSnapshot": "source-snapshot/raw/exams/2026548860543401986.json",
+      "addedAt": "2026-09-21",
+      "sourceNature": "九分学长下载资料；原文署名Stephen Mithen。具体考场与考试日期未核实，按非官方阅读材料使用。参考答案及中文材料精读由本项目依据本文整理。",
+      "instructions": "阅读A–H段后作答。保留原题号27–40；27–31选一个字母，32–37选句尾字母，38–40在同一答题框填三个不同字母，顺序不限。预计作答20分钟、核对与材料精读10分钟；可随时暂停。",
+      "contextParagraphs": [
+        "(A) Theories on the origin and evolution of language have been a major area of my research for many years. By 1859, when British scientist Charles Darwin published The Origin of Species, there was already a great deal of interest in this subject. However, the debate became plagued by strange theories, so much so that in 1866 the influential Société de Linguistique de Paris banned all discussions about the origin of language. The ban lasted for more than a century, before a surge of research began during the 1990s. Linguists, psychologists, anthropologists and archaeologists now frequently debate the origin of language and have published many articles and books on this topic. And yet, despite almost frenzied activity, limited progress has been made.",
+        "(B) I believe there are four reasons for this. The first is an insufficient concern with the archaeological and fossil proof of the brains and behaviour of our human ancestors. Many theories to date rely on an assumed association between brain size and language abilities, without acknowledging the problem this creates: fossil evidence indicates that the Neanderthals had larger brains than modern humans, Homo sapiens, but archaeological evidence indicates that the Neanderthals lacked a capacity for language. So something is seriously amiss with those theories.",
+        "(C) That 'something' might relate to the second reason for limited progress: insufficient concern with the other major aural and vocal communication system of modern humans: music. Even though the Société de Linguistique de Paris had nothing to say about studying the origin of music, academics appear to have had a self-imposed ban, with limited discussion of this issue during the 19th and 20th centuries. However, there are notable exceptions that should be acknowledged. One is the aforementioned Charles Darwin who, in his 1871 book on human evolution, The Descent of Man, devoted several pages to the development of music. Another is the renowned ethnomusicologist John Blacking, whose 1973 book, How Musical is Man?, broached the idea that music is an inherent and universal human quality.",
+        "(D) The origin of music deserves as much attention as that of language, as we cannot treat one without the other. Those writers who had evidently annoyed the Société de Linguistique de Paris were quite aware of this. For them, music and language were intimately linked; the French writer and philosopher Jean-Jacques Rousseau's On the Origin of Language (1781) was a reflection on both music and language. In contrast, Morten Christiansen and Simon Kirby's book, Language Evolution (2000), which they conceived as 'a definitive book on the subject', failed to mention music in any of its 17 chapters. Those authors have an important lesson to learn from Rousseau and other writers of his time who addressed the origin of language.",
+        "(E) Music is a universal feature of human society and plays a significant role in the lives of all individuals. Indeed, music is perhaps in even greater need of study than language: the latter has a self-evident function—the transmission of information—and can be readily accepted as a product of evolution, even if its specific evolutionary history remains unclear. But what is the point of music?",
+        "(F) That question leads directly to a third reason for our lack of progress in understanding how language evolved, and indeed the human mind in general: an insufficient concern with emotion. If music is about anything, it is about expressing emotion. But while archaeologists have put significant effort into examining the intellectual capacities of our ancestors, their emotional lives have been sorely neglected. This has contributed to the neglect of music, which, in turn, has constrained our understanding of language.",
+        "(G) There is one further reason why progress has been limited: those who have been most influential regarding the evolution of language have simply got it wrong, and misled everyone else. Linguist Derek Bickerton has made an important contribution towards our understanding of the origin of language by bringing his profound knowledge of linguistics to the discussions that have occurred. But Bickerton's idea that the precursor of modern language consisted of words strung together with limited, if any, grammar is, I believe, fundamentally mistaken. Bickerton refers to this precursor as 'proto-language' and suggests that it was similar to the type of language spoken by young children today, and mastered by apes through the use of computer keyboards. This idea has dominated the field of language origins for the last two decades, and is one that I once found persuasive. But I now understand that it is not only flawed but has severely limited the progress that should have been made.",
+        "(H) My book therefore provides an alternative view, one that draws on the ideas of a linguist who has, I believe, identified the true nature of proto-language. Her name is Alison Wray. She argues that proto-language was 'holistic' rather than compositional in character. By this she means that the precursor to language was a communication system composed of 'messages' rather than words; each message was uniquely associated with an arbitrary meaning, as are the utterances of language today. But in Wray's proto-language, they were not composed out of smaller units of meaning (i.e. words) which could be combined together using a rule system (i.e. grammar) to make more complex messages with emergent meanings. For Wray, proto-language was semantically complex and agrammatical. I believe this insight enables us to understand the origin of music as well as language, and to relate both to the emotional lives of our human ancestors."
+      ],
+      "contextIntroduction": "The archaeologist Stephen Mithen talks about the ideas behind his new book on the origin of language.",
+      "questionCount": 14,
+      "responseFieldCount": 12,
+      "groups": [
+        {
+          "title": "Questions 27–31",
+          "instructions": "Choose the correct letter, A , B , C or D .",
+          "questionIds": [
+            "q27",
+            "q28",
+            "q29",
+            "q30",
+            "q31"
+          ]
+        },
+        {
+          "title": "Questions 32–37",
+          "instructions": "Complete each sentence with the correct ending, A-H , below.",
+          "questionIds": [
+            "q32",
+            "q33",
+            "q34",
+            "q35",
+            "q36",
+            "q37"
+          ]
+        },
+        {
+          "title": "Questions 38–40",
+          "instructions": "Choose THREE letters, A-G .",
+          "questionIds": [
+            "q38-40"
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "id": "q27",
+          "originalNumber": "27",
+          "sourceQuestionIds": [
+            "2026543223293968385"
+          ],
+          "prompt": "In the first paragraph, what does the writer suggest about the origin of language?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Too many branches of science have been involved in its study."
+            },
+            {
+              "label": "B",
+              "text": "The Société de Linguistique de Paris instigated research in this area."
+            },
+            {
+              "label": "C",
+              "text": "The lack of progress is surprising given the amount of work being done."
+            },
+            {
+              "label": "D",
+              "text": "Most progress in the study of language was made between 1859 and 1866."
+            }
+          ],
+          "responseType": "one-letter"
+        },
+        {
+          "id": "q28",
+          "originalNumber": "28",
+          "sourceQuestionIds": [
+            "2026543533542440962"
+          ],
+          "prompt": "What is the ‘problem’ referred to in the second paragraph?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Some current theories are based on conflicting evidence."
+            },
+            {
+              "label": "B",
+              "text": "There is insufficient fossil evidence to reach a conclusion."
+            },
+            {
+              "label": "C",
+              "text": "Fossil evidence suggests that Homo sapiens had larger brains than Neanderthals."
+            },
+            {
+              "label": "D",
+              "text": "Archaeological evidence shows that Neanderthals were able to talk."
+            }
+          ],
+          "responseType": "one-letter"
+        },
+        {
+          "id": "q29",
+          "originalNumber": "29",
+          "sourceQuestionIds": [
+            "2026543831874895874"
+          ],
+          "prompt": "What does the writer suggest about Jean-Jacques Rousseau’s work in 1781?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Modern theorists should pay more attention to his approach."
+            },
+            {
+              "label": "B",
+              "text": "His ideas supported those of the Société de Linguistique de Paris."
+            },
+            {
+              "label": "C",
+              "text": "His ideas were mirrored in a later book called Language Evolution."
+            },
+            {
+              "label": "D",
+              "text": "His ideas are too outdated to be of any relevance today."
+            }
+          ],
+          "responseType": "one-letter"
+        },
+        {
+          "id": "q30",
+          "originalNumber": "30",
+          "sourceQuestionIds": [
+            "2026544146904875010"
+          ],
+          "prompt": "What is the writer’s current view of Derek Bickerton’s ideas?",
+          "options": [
+            {
+              "label": "A",
+              "text": "They have had little impact on the study of language."
+            },
+            {
+              "label": "B",
+              "text": "They have helped the study of linguistics to progress."
+            },
+            {
+              "label": "C",
+              "text": "They are not accepted by the majority of linguists."
+            },
+            {
+              "label": "D",
+              "text": "The assumption behind them is wrong."
+            }
+          ],
+          "responseType": "one-letter"
+        },
+        {
+          "id": "q31",
+          "originalNumber": "31",
+          "sourceQuestionIds": [
+            "2026544641149075458"
+          ],
+          "prompt": "In the final paragraph, the writer concludes that Alison Wray’s ideas will help establish a link between",
+          "options": [
+            {
+              "label": "A",
+              "text": "grammar and meaning."
+            },
+            {
+              "label": "B",
+              "text": "messages and proto-language."
+            },
+            {
+              "label": "C",
+              "text": "language, music and emotions."
+            },
+            {
+              "label": "D",
+              "text": "proto-language and modern semantics."
+            }
+          ],
+          "responseType": "one-letter"
+        },
+        {
+          "id": "q32",
+          "originalNumber": "32",
+          "sourceQuestionIds": [
+            "2026544971769282562"
+          ],
+          "prompt": "The Société de Linguistique de Paris",
+          "options": [
+            {
+              "label": "A",
+              "text": "suggested music was an essential part of every individual."
+            },
+            {
+              "label": "B",
+              "text": "made no link between music and language in a comprehensive study."
+            },
+            {
+              "label": "C",
+              "text": "believes that early language was very musical."
+            },
+            {
+              "label": "D",
+              "text": "felt that the origin of language should not be debated."
+            },
+            {
+              "label": "E",
+              "text": "states that early language was made up of basic words used in an unsystematic way."
+            },
+            {
+              "label": "F",
+              "text": "devoted 17 chapters of a book to music."
+            },
+            {
+              "label": "G",
+              "text": "believes that proto-language had no individual words."
+            },
+            {
+              "label": "H",
+              "text": "referred to music in part of a book about the development of human beings."
+            }
+          ],
+          "responseType": "one-letter"
+        },
+        {
+          "id": "q33",
+          "originalNumber": "33",
+          "sourceQuestionIds": [
+            "2026545523123126273"
+          ],
+          "prompt": "Charles Darwin",
+          "options": [
+            {
+              "label": "A",
+              "text": "suggested music was an essential part of every individual."
+            },
+            {
+              "label": "B",
+              "text": "made no link between music and language in a comprehensive study."
+            },
+            {
+              "label": "C",
+              "text": "believes that early language was very musical."
+            },
+            {
+              "label": "D",
+              "text": "felt that the origin of language should not be debated."
+            },
+            {
+              "label": "E",
+              "text": "states that early language was made up of basic words used in an unsystematic way."
+            },
+            {
+              "label": "F",
+              "text": "devoted 17 chapters of a book to music."
+            },
+            {
+              "label": "G",
+              "text": "believes that proto-language had no individual words."
+            },
+            {
+              "label": "H",
+              "text": "referred to music in part of a book about the development of human beings."
+            }
+          ],
+          "responseType": "one-letter"
+        },
+        {
+          "id": "q34",
+          "originalNumber": "34",
+          "sourceQuestionIds": [
+            "2026545728610467841"
+          ],
+          "prompt": "John Blacking",
+          "options": [
+            {
+              "label": "A",
+              "text": "suggested music was an essential part of every individual."
+            },
+            {
+              "label": "B",
+              "text": "made no link between music and language in a comprehensive study."
+            },
+            {
+              "label": "C",
+              "text": "believes that early language was very musical."
+            },
+            {
+              "label": "D",
+              "text": "felt that the origin of language should not be debated."
+            },
+            {
+              "label": "E",
+              "text": "states that early language was made up of basic words used in an unsystematic way."
+            },
+            {
+              "label": "F",
+              "text": "devoted 17 chapters of a book to music."
+            },
+            {
+              "label": "G",
+              "text": "believes that proto-language had no individual words."
+            },
+            {
+              "label": "H",
+              "text": "referred to music in part of a book about the development of human beings."
+            }
+          ],
+          "responseType": "one-letter"
+        },
+        {
+          "id": "q35",
+          "originalNumber": "35",
+          "sourceQuestionIds": [
+            "2026545917949739009"
+          ],
+          "prompt": "Christiansen and Kirby",
+          "options": [
+            {
+              "label": "A",
+              "text": "suggested music was an essential part of every individual."
+            },
+            {
+              "label": "B",
+              "text": "made no link between music and language in a comprehensive study."
+            },
+            {
+              "label": "C",
+              "text": "believes that early language was very musical."
+            },
+            {
+              "label": "D",
+              "text": "felt that the origin of language should not be debated."
+            },
+            {
+              "label": "E",
+              "text": "states that early language was made up of basic words used in an unsystematic way."
+            },
+            {
+              "label": "F",
+              "text": "devoted 17 chapters of a book to music."
+            },
+            {
+              "label": "G",
+              "text": "believes that proto-language had no individual words."
+            },
+            {
+              "label": "H",
+              "text": "referred to music in part of a book about the development of human beings."
+            }
+          ],
+          "responseType": "one-letter"
+        },
+        {
+          "id": "q36",
+          "originalNumber": "36",
+          "sourceQuestionIds": [
+            "2026546131683082242"
+          ],
+          "prompt": "Derek Bickerton",
+          "options": [
+            {
+              "label": "A",
+              "text": "suggested music was an essential part of every individual."
+            },
+            {
+              "label": "B",
+              "text": "made no link between music and language in a comprehensive study."
+            },
+            {
+              "label": "C",
+              "text": "believes that early language was very musical."
+            },
+            {
+              "label": "D",
+              "text": "felt that the origin of language should not be debated."
+            },
+            {
+              "label": "E",
+              "text": "states that early language was made up of basic words used in an unsystematic way."
+            },
+            {
+              "label": "F",
+              "text": "devoted 17 chapters of a book to music."
+            },
+            {
+              "label": "G",
+              "text": "believes that proto-language had no individual words."
+            },
+            {
+              "label": "H",
+              "text": "referred to music in part of a book about the development of human beings."
+            }
+          ],
+          "responseType": "one-letter"
+        },
+        {
+          "id": "q37",
+          "originalNumber": "37",
+          "sourceQuestionIds": [
+            "2026546336037961729"
+          ],
+          "prompt": "Alison Wray",
+          "options": [
+            {
+              "label": "A",
+              "text": "suggested music was an essential part of every individual."
+            },
+            {
+              "label": "B",
+              "text": "made no link between music and language in a comprehensive study."
+            },
+            {
+              "label": "C",
+              "text": "believes that early language was very musical."
+            },
+            {
+              "label": "D",
+              "text": "felt that the origin of language should not be debated."
+            },
+            {
+              "label": "E",
+              "text": "states that early language was made up of basic words used in an unsystematic way."
+            },
+            {
+              "label": "F",
+              "text": "devoted 17 chapters of a book to music."
+            },
+            {
+              "label": "G",
+              "text": "believes that proto-language had no individual words."
+            },
+            {
+              "label": "H",
+              "text": "referred to music in part of a book about the development of human beings."
+            }
+          ],
+          "responseType": "one-letter"
+        },
+        {
+          "id": "q38-40",
+          "originalNumber": "38-40",
+          "sourceQuestionIds": [
+            "2026546597439569921",
+            "2026546983437172738",
+            "2026547156875837442"
+          ],
+          "prompt": "According to the writer, which THREE of the following areas have not been studied enough in order to understand the origin of language?",
+          "options": [
+            {
+              "label": "A",
+              "text": "evidence from prehistoric times"
+            },
+            {
+              "label": "B",
+              "text": "intelligence"
+            },
+            {
+              "label": "C",
+              "text": "individual sounds"
+            },
+            {
+              "label": "D",
+              "text": "music"
+            },
+            {
+              "label": "E",
+              "text": "emotions"
+            },
+            {
+              "label": "F",
+              "text": "human intellect"
+            },
+            {
+              "label": "G",
+              "text": "children’s language"
+            }
+          ],
+          "responseType": "three-letters"
+        }
+      ],
+      "answers": [
+        {
+          "id": "q27",
+          "answer": "C",
+          "explanation": "A段末将大量研究活动与有限进展并置，因此作者对二者不相称感到意外。只是列举学科不等于批评学科过多。",
+          "evidenceParagraphs": "A"
+        },
+        {
+          "id": "q28",
+          "answer": "A",
+          "explanation": "B段质疑把脑容量直接关联到语言能力的理论：文中所述化石与考古证据使这种关联无法自洽。其余选项与段落明确内容相反，或错误称没有证据。",
+          "evidenceParagraphs": "B"
+        },
+        {
+          "id": "q29",
+          "answer": "A",
+          "explanation": "D段认为现代作者应向Rousseau学习把音乐与语言放在一起研究。作者没有把他的思想视作过时。",
+          "evidenceParagraphs": "D"
+        },
+        {
+          "id": "q30",
+          "answer": "D",
+          "explanation": "G段先承认Bickerton的贡献，再否定其关于早期语言构成的核心假设。作者说自己曾受说服，现已改变看法。",
+          "evidenceParagraphs": "G"
+        },
+        {
+          "id": "q31",
+          "answer": "C",
+          "explanation": "H段末把语言、音乐的起源与祖先的情感生活连接起来；这是作者明确写出的研究意义。",
+          "evidenceParagraphs": "H"
+        },
+        {
+          "id": "q32",
+          "answer": "D",
+          "explanation": "A段写巴黎语言学会禁止讨论语言起源，与“不应讨论”对应。",
+          "evidenceParagraphs": "A"
+        },
+        {
+          "id": "q33",
+          "answer": "H",
+          "explanation": "C段写Darwin在讨论人类进化的著作中用若干页讨论音乐的发展。",
+          "evidenceParagraphs": "C"
+        },
+        {
+          "id": "q34",
+          "answer": "A",
+          "explanation": "C段中Blacking把音乐视为人类内在且普遍的特质；该观点对应音乐是每个人的重要组成部分。",
+          "evidenceParagraphs": "C"
+        },
+        {
+          "id": "q35",
+          "answer": "B",
+          "explanation": "D段说Christiansen与Kirby的书自称全面权威，却在17章中没有提及音乐。",
+          "evidenceParagraphs": "D"
+        },
+        {
+          "id": "q36",
+          "answer": "E",
+          "explanation": "G段转述Bickerton的观点：早期语言把词串在一起，语法很少或没有。这里考查观点归属，不表示作者赞同。",
+          "evidenceParagraphs": "G"
+        },
+        {
+          "id": "q37",
+          "answer": "G",
+          "explanation": "H段转述Wray的观点：早期交流以整体信息为单位，不由可自由组合的单词构成。",
+          "evidenceParagraphs": "H"
+        },
+        {
+          "id": "q38-40",
+          "answer": "A、D、E（顺序不限）",
+          "explanation": "B、C、F段分别指出考古与化石证据、音乐、情感受到的关注不足。最后三题作为一个选三项任务保存；三项顺序不限，重复字母不算三个不同选择。",
+          "evidenceParagraphs": "B / C / F"
+        }
+      ],
+      "answerProvenance": "项目编辑逐题依据原文整理；下载的rightAnswer字段为空。与来源解析交叉比对后重写解释，不声称官方答案或独立盲审。",
+      "difficulty": {
+        "level": 4,
+        "scaleMax": 5,
+        "label": "较难",
+        "dimensions": {
+          "语言抽象度": 4,
+          "观点与指代整合": 4,
+          "作答结构": 3
+        },
+        "reason": "讨论语言演化的抽象概念，须持续分清多位研究者与作者的观点；包含单选、句尾匹配和三选项任务。",
+        "scope": "同科材料的编辑评估",
+        "reviewedAt": "2026-09-21",
+        "officialBand": null,
+        "learnerMastery": null
+      },
+      "closeReadingHtml": "<h3>这篇文章在讨论什么</h3>\n<p>这是一篇作者介绍自己研究思路的论说文。Mithen提出：语言起源研究虽然热闹，进展仍有限；他认为原因包括忽视实物证据、音乐和情感，以及沿用一种他已不再赞同的早期语言模型。全文不是给出已经公认的语言起源结论，而是在解释作者为什么主张另一条研究路径。</p>\n<p><strong>A–B段：</strong>A段用研究热度与研究进展的反差提出问题，B段开始解释。关于Neanderthals的语言能力，本文转述的是作者用来质疑脑容量推论的判断；理解时要保留这一观点归属，不把“脑更大”直接读成“语言能力更强”，也不把本文的历史论述当成当代科学定论。</p>\n<p><strong>C–D段：</strong>C段把音乐引入讨论，并列举Darwin、Blacking作为曾关注音乐的例外；D段再比较Rousseau与后来的一本书。作者在意的是研究对象之间有没有建立联系，而非简单判断哪一本书出版得更早。</p>\n<p><strong>E–F段：</strong>E段提出“音乐有什么作用”，F段以情感回应，并构成一条关系：忽略祖先的情感生活，会让音乐被忽视，继而限制对语言的理解。作者用音乐把情感与语言研究接起来。</p>\n<p><strong>G–H段：</strong>G段先肯定Bickerton的学术贡献，再反对他的具体模型；H段引入Wray的替代模型。两种模型的区别不仅是“有没有语法”，更是基本单位：前者是串联的词，后者是不可再拆的整体信息。作者认为后者能同时联系音乐、语言与情感。</p>\n<h3>有用的词块与使用边界</h3>\n<ul><li><strong>be plagued by</strong>：长期受到某种问题困扰，语气比have a problem强。A段指讨论被奇怪理论搅扰。</li>\n<li><strong>a surge of research</strong>：研究活动短期明显增长。surge说的是增长，不自动说明研究质量或成果。</li>\n<li><strong>an assumed association between A and B</strong>：A与B之间被假定存在的关联。assumed保留“尚待证实”的距离，不能删去后写成既定因果。</li>\n<li><strong>insufficient concern with</strong>：对某事关注不足；这里concern是关注，不是担忧。多次重复把作者的几个理由串起来。</li>\n<li><strong>broach the idea that…</strong>：提出某个想法供讨论，不等于证明了这个想法。</li>\n<li><strong>draw on</strong>：借鉴、利用已有思想或经验；H段说作者的替代看法借鉴了Wray。</li>\n<li><strong>holistic / compositional</strong>：前者按整体起作用，后者由较小单位组合而成。本文把它们用于交流系统的结构，不是“好坏”评价。</li></ul>\n<h3>长句拆解</h3>\n<p>G段“Bickerton’s idea that the precursor of modern language consisted of words strung together with limited, if any, grammar is, I believe, fundamentally mistaken.”主干是“Bickerton’s idea is fundamentally mistaken”。that从句说明这个想法的内容；strung together修饰words；with limited, if any, grammar意为“语法很少，甚至可能没有”；I believe明确这是Mithen的评价。作者反对的是一套特定模型，不能简化为他认为“任何无语法交流都不存在”。</p>\n<p>H段“But in Wray’s proto-language, they were not composed out of smaller units of meaning (i.e. words) which could be combined together using a rule system (i.e. grammar) to make more complex messages with emergent meanings.”they指前面的messages。主干是否定这些信息由更小意义单位构成；which从句解释现代词语可以怎样借助语法组合。层层修饰的作用，是把“完整信息”与“由词组成的信息”区分开。</p>\n<h3>指代与篇章关系</h3>\n<p>E段the latter回指language，后面的its specific evolutionary history仍谈语言；F段That question承接E段最后对音乐作用的追问。F段This回指忽视情感生活，which再承接对音乐的忽视，形成递进因果链。G段once与now对照作者过去和现在的立场。H段both回指music与language，并不把所有前述理论都合并为作者观点。</p>\n<p>回读G–H段，留意作者怎样先承认某人的贡献，再准确界定自己不同意的部分。这种区分让论证有明确对象，不需要把整位学者或整项研究一概否定。需要以后再看时，可收藏文中词句；这里无需额外笔记或测试。</p>"
+    },
+    {
+      "id": "pr-jiufen-20260921-adult-literacy-v1",
+      "version": 1,
+      "title": "成人读写困难 · Task 2",
+      "skill": "writing2",
+      "part": "Task 2",
+      "minutes": 48,
+      "estimatedAnswerMinutes": 40,
+      "addedAt": "2026-09-21",
+      "sourceId": "2083004583069663233",
+      "sourceName": "九分学长",
+      "sourceUrl": "https://www.9fnnn.com/",
+      "sourceSnapshot": "source-snapshot/raw/writing/2083004583069663233.json",
+      "sourceNature": "九分学长下载的Task 2题目；具体考场与考试日期未核实。核对要点和题干语言说明由本项目编写；允许不同成立观点，不自动评雅思分数。",
+      "instructions": "You should spend about 40 minutes on this task. Write at least 250 words.",
+      "promptParagraphs": [
+        "Despite better access to education, many adults today still cannot read or write.",
+        "In what ways are they disadvantaged? What can governments do to help them?"
+      ],
+      "supplement": "Give reasons for your answer and include any relevant examples from your own knowledge or experience.",
+      "rubric": [
+        "完整回应两问：分别解释成年人不能读写造成的不利处境，以及政府能够采取的帮助。",
+        "至少把一个困难说清楚：例如难以理解招聘信息、公共服务说明或医疗文字；说明为什么会产生影响，不只列词。",
+        "政府措施应对应前面的困难，例如便利时间的成人课程或易理解的公共信息；交代措施如何产生作用。",
+        "使用连贯段落，理由与例子支持同一中心；不要把“成人不识字”泛化成“没有大学学历”。"
+      ],
+      "closeReadingHtml": "<h3>回看这道题的词句</h3><p><strong>Despite better access to education</strong>是让步背景：教育可及性改善了，困难仍存在。access to表示能够获得机会，并不表示每个人已经完成学习。<strong>In what ways are they disadvantaged?</strong>中的they指前面的成年人，问的是处于哪些不利处境；它没有要求先解释识字率低的成因。最后一问把措施的行动主体限定为governments。</p><p><strong>still cannot read or write</strong>强调读写能力，不能随意改成没有高等教育。写作时可使用have difficulty accessing…说明实际障碍，用provide access to…说明支持，但必须根据自己的论点补足对象。</p>",
+      "difficulty": {
+        "level": 3,
+        "scaleMax": 5,
+        "label": "中等",
+        "dimensions": {
+          "题意约束": 3,
+          "论点抽象度": 3,
+          "组织负荷": 3
+        },
+        "reason": "须同时解释成人读写困难带来的具体不利处境，并提出由政府实施的对应帮助；不能只写儿童教育。",
+        "scope": "同科材料的编辑评估",
+        "reviewedAt": "2026-09-21",
+        "officialBand": null,
+        "learnerMastery": null
+      },
+      "responseField": "essay",
+      "referenceType": "task-specific-self-check-not-model-answer"
+    },
+    {
+      "id": "pr-jiufen-20260921-work-life-balance-v1",
+      "version": 1,
+      "title": "工作与生活的平衡 · Task 2",
+      "skill": "writing2",
+      "part": "Task 2",
+      "minutes": 48,
+      "estimatedAnswerMinutes": 40,
+      "addedAt": "2026-09-21",
+      "sourceId": "2082721901793837057",
+      "sourceName": "九分学长",
+      "sourceUrl": "https://www.9fnnn.com/",
+      "sourceSnapshot": "source-snapshot/raw/writing/2082721901793837057.json",
+      "sourceNature": "九分学长下载的Task 2题目；具体考场与考试日期未核实。核对要点和题干语言说明由本项目编写；允许不同成立观点，不自动评雅思分数。",
+      "instructions": "You should spend about 40 minutes on this task. Write at least 250 words.",
+      "promptParagraphs": [
+        "Many people find it hard to balance their work with other parts of their lives.",
+        "What are the reasons for this? How can this problem be overcome?"
+      ],
+      "supplement": "Give reasons for your answer and include any relevant examples from your own knowledge or experience.",
+      "rubric": [
+        "回答为什么难以平衡以及如何改善两部分，保持论点围绕工作与生活其他部分的关系。",
+        "解释一个可理解的机制，例如长工时或下班后联系怎样挤压家庭、休息或个人事务。",
+        "提出与原因对应、主体明确的办法；说明个人、雇主或其他行动者能够改变什么。",
+        "例子应支持因果关系；不必声称所有人都有相同处境，也不把平衡直接等同于工时完全相等。"
+      ],
+      "closeReadingHtml": "<h3>回看这道题的词句</h3><p><strong>balance their work with other parts of their lives</strong>指在工作和生活其他部分之间协调，不是数学上的时间对半分。other parts可以包括家庭、休息、健康或兴趣，题目没有强迫每方面都写。<strong>find it hard to…</strong>里it是形式宾语，真正困难的动作在后面的不定式。</p><p><strong>What are the reasons for this?</strong>中的this回指难以平衡的现象。<strong>How can this problem be overcome?</strong>询问怎样克服该问题；需要说明办法起作用的过程，而不只是列出“提高意识”。</p>",
+      "difficulty": {
+        "level": 2,
+        "scaleMax": 5,
+        "label": "较易",
+        "dimensions": {
+          "题意约束": 2,
+          "论点抽象度": 2,
+          "组织负荷": 2
+        },
+        "reason": "常见生活议题，任务是原因与解决办法；主要负荷是建立原因和措施的具体对应，避免只罗列建议。",
+        "scope": "同科材料的编辑评估",
+        "reviewedAt": "2026-09-21",
+        "officialBand": null,
+        "learnerMastery": null
+      },
+      "responseField": "essay",
+      "referenceType": "task-specific-self-check-not-model-answer"
+    },
+    {
+      "id": "pr-jiufen-20260921-species-extinction-v1",
+      "version": 1,
+      "title": "自然灭绝与人为保护 · Task 2",
+      "skill": "writing2",
+      "part": "Task 2",
+      "minutes": 48,
+      "estimatedAnswerMinutes": 40,
+      "addedAt": "2026-09-21",
+      "sourceId": "2082028220178825218",
+      "sourceName": "九分学长",
+      "sourceUrl": "https://www.9fnnn.com/",
+      "sourceSnapshot": "source-snapshot/raw/writing/2082028220178825218.json",
+      "sourceNature": "九分学长下载的Task 2题目；具体考场与考试日期未核实。核对要点和题干语言说明由本项目编写；允许不同成立观点，不自动评雅思分数。",
+      "instructions": "You should spend about 40 minutes on this task. Write at least 250 words.",
+      "promptParagraphs": [
+        "It is a natural process for animal species to become extinct. There is no reason why people should try to prevent this from happening.",
+        "To what extent do you agree or disagree?"
+      ],
+      "supplement": "Give reasons for your answer and include any relevant examples from your own knowledge or experience.",
+      "rubric": [
+        "明确同意、不同意或有限度同意题干的主张，并在全文维持可辨认的立场。",
+        "分别处理“灭绝是自然过程”与“因此没有理由阻止”之间的推论，避免只泛谈环保。",
+        "若区分自然变化与人类造成的加速，解释这种区别怎样影响保护责任或政策选择。",
+        "给出具体而不过度概括的理由和例子；可以持不同立场，不以是否选择某个观点判断答案好坏。"
+      ],
+      "closeReadingHtml": "<h3>回看这道题的词句</h3><p><strong>It is a natural process for animal species to become extinct</strong>以it引出不定式内容，先陈述一种过程。<strong>There is no reason why…</strong>随后作出范围很强的判断：不存在应阻止它的理由。前一句的事实性说法与后一句的行动主张不是同一种句子功能。</p><p><strong>prevent this from happening</strong>中的this承接物种灭绝；prevent…from…表示阻止某事发生。<strong>To what extent</strong>允许明确说明同意的程度与条件，不要求采用唯一立场。species可作单数或复数，具体数取决于上下文。</p>",
+      "difficulty": {
+        "level": 4,
+        "scaleMax": 5,
+        "label": "较难",
+        "dimensions": {
+          "题意约束": 4,
+          "论点抽象度": 4,
+          "组织负荷": 3
+        },
+        "reason": "需判断自然过程能否推出不应阻止的主张；可从原因、影响或保护成本等角度论证，不要求固定立场或论证框架。",
+        "scope": "同科材料的编辑评估",
+        "reviewedAt": "2026-09-21",
+        "officialBand": null,
+        "learnerMastery": null
+      },
+      "responseField": "essay",
+      "referenceType": "task-specific-self-check-not-model-answer"
+    }
+  ]
+}

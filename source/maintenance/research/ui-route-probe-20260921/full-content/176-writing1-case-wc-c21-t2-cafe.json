@@ -1,0 +1,174 @@
+{
+  "requested": "writing1-case-wc-c21-t2-cafe",
+  "from": [
+    "内容单元",
+    "页面链接"
+  ],
+  "actual": "#writing1-case-wc-c21-t2-cafe",
+  "checkedAt": "2026-09-21T12:52:41.134Z",
+  "title": "练习 / 写作 · Task 1 / 学院咖啡厅改造：保留设施与功能替换 · IELTS",
+  "label": "练习 / 写作 · Task 1 / 学院咖啡厅改造：保留设施与功能替换",
+  "panel": "practice-writing1",
+  "contentRoot": "writing1-case-wc-c21-t2-cafe",
+  "headings": [
+    {
+      "tag": "H4",
+      "text": "本次写作任务",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "对照答案，回到证据",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "参考写法",
+      "visible": false
+    },
+    {
+      "tag": "H3",
+      "text": "答后精读",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "篇章结构",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "词语与搭配",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "句子精读",
+      "visible": false
+    }
+  ],
+  "controls": [
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "学院咖啡厅改造：保留设施与功能替换未作答\n地图 · 原题拆段写作 · 参考段落与逐段讲解",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "Cambridge IELTS 21 Academic",
+      "label": "",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=52",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "",
+      "label": "",
+      "href": "case-assets/writing-c21-52.png",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "case-wc-c21-t2-cafe-answer",
+      "type": "textarea",
+      "text": "",
+      "label": "我的段落",
+      "href": null,
+      "save": "case-wc-c21-t2-cafe-answer",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "checkbox",
+      "text": "",
+      "label": "",
+      "href": null,
+      "save": "case-wc-c21-t2-cafe-done",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "hidden",
+      "text": "",
+      "label": "",
+      "href": null,
+      "save": "case-wc-c21-t2-cafe-saved-at",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "保留作答，查看答案",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "case-wc-c21-t2-cafe-revision",
+      "type": "textarea",
+      "text": "",
+      "label": "我的修订／证据笔记",
+      "href": null,
+      "save": "case-wc-c21-t2-cafe-revision",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    }
+  ],
+  "visibleText": "学院咖啡厅改造：保留设施与功能替换未作答\n地图 · 原题拆段写作 · 参考段落与逐段讲解\n0% · 0 / 1 完成\n\n真题 · Cambridge IELTS 21 Academic · PDF 第 52 页\n\nThe plans below show a college café before it was redesigned and how it looks now.\n\n点击图示可查看大图。\n本次写作任务\n\n对照前后两张原图，写Overview和两个主体段（约150–180词）：第一段写室内功能替换，第二段写保留设施与室外扩展。原图没有指北针，用left/right/top/bottom或相对设施定位。\n\n我的段落\n\n0 词\n\n保留作答，查看答案\n\n先作答；不确定的题也可记录判断与疑点。",
+  "allContent": "学院咖啡厅改造：保留设施与功能替换未作答地图 · 原题拆段写作 · 参考段落与逐段讲解0% · 0 / 1 完成真题 · Cambridge IELTS 21 Academic · PDF 第 52 页The plans below show a college café before it was redesigned and how it looks now.点击图示可查看大图。本次写作任务对照前后两张原图，写Overview和两个主体段（约150–180词）：第一段写室内功能替换，第二段写保留设施与室外扩展。原图没有指北针，用left/right/top/bottom或相对设施定位。我的段落0 词保留作答，查看答案先作答；不确定的题也可记录判断与疑点。对照答案，回到证据参考写法下列段落为针对原题编写的参考写法，用于对照内容和表达；写作没有唯一标准答案。Overall, the café has been redesigned to offer a wider range of food and drink services, and an outdoor seating area has been added. The kitchen and toilets remain in their original positions, while the former staff dining rooms now serve different purposes.Previously, all food and drink were available from a single serving area directly below the kitchen. This counter is now used for hot meals, and a salad bar has been installed along the left-hand wall of the main seating area. The two staff dining rooms along the upper edge of the main seating area have been converted into a takeaway food outlet and a coffee bar respectively. Tables and chairs still occupy the main central area.At the bottom of the present plan, an outdoor seating area extends beyond the former café boundary, with a barbecue at its left end. New doorways connect this area to the interior. Near the entrance on the right-hand side, recycling bins have replaced the original bin, while the toilets remain in the lower-right corner.不是“图书馆改造”：真实材料是college café。两间staff dining rooms分别变为take away food和coffee bar，必须对应两处功能。厨房与厕所位置保留；增设沙拉吧、室外座位、barbecue，bin改为recycling bins。原图对比过去与现在，故用previously + past、now + present以及has been added；没有未来规划，不能用will be built。答后精读篇章结构概述先概括服务多样化和室外扩展，再点出保留。室内按厨房—服务区—原职工餐厅的邻接关系走图。室外扩展与入口附近小变化同段收尾。词语与搭配have been converted into：旧功能转为新功能。remain in their original positions：明确保留而不是遗漏。beyond the former café boundary：说明扩展到原边界之外。句子精读The two staff dining rooms ... have been converted into a takeaway food outlet and a coffee bar respectively. → respectively按列举顺序配对，不能互换位置。with a barbecue at its left end → its指outdoor seating area；没有虚构东南西北。我的修订／证据笔记",
+  "links": [
+    {
+      "text": "Cambridge IELTS 21 Academic",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=52"
+    },
+    {
+      "text": "",
+      "href": "case-assets/writing-c21-52.png"
+    }
+  ],
+  "details": [],
+  "saveFields": [
+    "case-wc-c21-t2-cafe-answer",
+    "case-wc-c21-t2-cafe-done",
+    "case-wc-c21-t2-cafe-saved-at",
+    "case-wc-c21-t2-cafe-revision"
+  ],
+  "images": [
+    {
+      "src": "case-assets/writing-c21-52.png",
+      "alt": "学院咖啡厅改造：保留设施与功能替换 · 原题图示，点击查看大图",
+      "visible": true,
+      "complete": false,
+      "width": 0
+    }
+  ],
+  "audio": [],
+  "viewport": 1440,
+  "documentWidth": 1440
+}

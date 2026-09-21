@@ -1,0 +1,413 @@
+{
+  "requested": "reading-text-davies",
+  "from": [
+    "页面链接"
+  ],
+  "actual": "#reading-text-davies",
+  "checkedAt": "2026-09-21T12:54:35.906Z",
+  "title": "学习 / 阅读 / 阅读 · 从原题开始学 · IELTS",
+  "label": "学习 / 阅读 / 阅读 · 从原题开始学",
+  "panel": "reading",
+  "contentRoot": "reading-first",
+  "headings": [
+    {
+      "tag": "H2",
+      "text": "先做自己的答案",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "The Davies Sisters · 原文与 1–13 题",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "The Davies Sisters",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "Questions 1–7",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "Gwendoline and Margaret Davies",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "Family and early life",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "The sisters as art collectors",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "Impact of First World War",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "Opinions about the sisters as art collectors",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "Questions 8–13",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "我的首次作答",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "这份材料的精读",
+      "visible": true
+    }
+  ],
+  "controls": [
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "开始 20 分钟计时",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "text",
+      "text": "",
+      "label": "第1题答案",
+      "href": null,
+      "save": "reading-q1",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "text",
+      "text": "",
+      "label": "第2题答案",
+      "href": null,
+      "save": "reading-q2",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "text",
+      "text": "",
+      "label": "第3题答案",
+      "href": null,
+      "save": "reading-q3",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "text",
+      "text": "",
+      "label": "第4题答案",
+      "href": null,
+      "save": "reading-q4",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "text",
+      "text": "",
+      "label": "第5题答案",
+      "href": null,
+      "save": "reading-q5",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "text",
+      "text": "",
+      "label": "第6题答案",
+      "href": null,
+      "save": "reading-q6",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "text",
+      "text": "",
+      "label": "第7题答案",
+      "href": null,
+      "save": "reading-q7",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "text",
+      "text": "",
+      "label": "第8题答案",
+      "href": null,
+      "save": "reading-q8",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "text",
+      "text": "",
+      "label": "第9题答案",
+      "href": null,
+      "save": "reading-q9",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "text",
+      "text": "",
+      "label": "第10题答案",
+      "href": null,
+      "save": "reading-q10",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "text",
+      "text": "",
+      "label": "第11题答案",
+      "href": null,
+      "save": "reading-q11",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "text",
+      "text": "",
+      "label": "第12题答案",
+      "href": null,
+      "save": "reading-q12",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "text",
+      "text": "",
+      "label": "第13题答案",
+      "href": null,
+      "save": "reading-q13",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "查看原图 · 4 页",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SELECT",
+      "id": "",
+      "type": "select-one",
+      "text": "首次独立\n学习后应用／已看背景\n见过材料／熟题\n使用提示",
+      "label": "本次条件\n首次独立\n学习后应用／已看背景\n见过材料／熟题\n使用提示",
+      "href": null,
+      "save": "reading-condition",
+      "visible": true,
+      "disabled": false,
+      "required": false,
+      "options": [
+        {
+          "value": "首次独立",
+          "label": "首次独立"
+        },
+        {
+          "value": "学习后应用／已看背景",
+          "label": "学习后应用／已看背景"
+        },
+        {
+          "value": "见过材料／熟题",
+          "label": "见过材料／熟题"
+        },
+        {
+          "value": "使用提示",
+          "label": "使用提示"
+        }
+      ]
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "number",
+      "text": "",
+      "label": "实际用时（分钟）",
+      "href": null,
+      "save": "reading-minutes",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "保存首次作答，进入学习",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "The Davies Sisters｜成长背景与收藏起点",
+      "label": "",
+      "href": "#material-reading-rd-c21-davies-1",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "The Davies Sisters｜印象派转向与战时收藏",
+      "label": "",
+      "href": "#material-reading-rd-c21-davies-2",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "The Davies Sisters｜收藏停止与文化遗产",
+      "label": "",
+      "href": "#material-reading-rd-c21-davies-3",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    }
+  ],
+  "visibleText": "0% · 0 / 13 完成\n先做自己的答案\n\n只看 The Davies Sisters 的原文与原题，先独立完成 1—13 题，暂不查词或看反馈。第 1—7 题每空一个词，第 8—13 题按原题标签作答。约 20 分钟时保存答案及未完成位置，继续用时另记；若已在整套练习中做过，直接保留那次答案作复盘，不重新记为首次。\n\n开始 20 分钟计时\n20:00\n到时保留答案；继续写的部分另记。\nThe Davies Sisters · 原文与 1–13 题\n\nYou should spend about 20 minutes on Questions 1–13, which are based on Reading Passage 1 below.\n\nThe Davies Sisters\n\nBetween 1908 and 1924, Gwendoline and Margaret Davies amassed one of the largest collections of late-nineteenth and early-twentieth-century French paintings in Britain\n\nGwendoline (1882-1951) and Margaret (1884-1963) Davies were the granddaughters of David Davies, a Welshman who amassed a fortune in the shipping and mining industries. In 1907, when Gwendoline came into her inheritance (Margaret would follow in 1909), the sisters were said to be the wealthiest unmarried women in Britain. Their religious upbringing in rural Wales gave them a deep sense of social responsibility and they chose to use their inheritance for cultural and philanthropic* purposes.\n\nWhile there was no real family history of art collecting, the sisters' education was rigorously geared toward such pursuits. Their London school focused on cultural rather than academic study, and they travelled extensively with their governess, Jane Blaker, visiting art galleries and making extensive notes on the collections there.\n\nThe sisters began to make regular art purchases from 1908, which roughly coincided with the dates of their inheritance. They took advice from various people, including the art dealer Hugh Blaker (the brother of Jane Blaker) and David Croal Thompson, who was also an art dealer. While it was long assumed that these men were largely responsible for the nature of the sisters' collection, it has recently been accepted that Gwendoline and Margaret retained a far more active role in the process.\n\nThe sisters' journals reveal their preference for Old Master** paintings. Yet they initially made very few attempts to secure any such works. While the sisters were wealthy in relative terms, their income was nothing compared to the fortunes of American art collectors of this period, such as J. Pierpont Morgan. Quite simply, high quality Old Master works were, if not beyond their means, then beyond what they were willing to pay for them. Instead, their early purchases were of the fashionable, safe variety, and included, for example, paintings by the French artist Jean-Baptiste-Camille Corot.\n\nHowever, it was only a few years before their collecting took a new direction and they turned to the work of the French Impressionists***. We know that Hugh Blaker, as a champion of contemporary French art had a hand in the decision, and we know also that they would have seen examples on their various trips to Paris. Whatever the precise reason for this change, their first purchases of Impressionist art, made in October 1912, were scenes of Venice by the French artist Claude Monet. Over the next 12 years, the sisters amassed the bulk of their Impressionist collection, including six further works by Monet, two more by Manet, and three by Renoir, including his well-known painting La Parisienne.\n\nThe First World War (1914-1918) played a part in the development of the sisters' collection. Their initial response to the war effort was to finance the safe passage of artists from occupied Belgium to Wales, as a humanitarian act, but also with the hope of establishing a vibrant artists' community in the area. Later in the conflict, both sisters decided to volunteer at a canteen for troops at Troyes, in northern France; Gwendoline in 1916, followed by Margaret in 1917.\n\nIt was tedious and distressing work, which would have a permanent effect on Gwendoline's health. Yet on one of numerous trips to nearby Paris, she visited the Bernheim-Jeune Gallery. Here she acquired two works by Cézanne - Provençal Landscape and The François Zola Dam. The paintings were shipped directly to Bath, England, where they became the first works by Cézanne to go on display in a public gallery in Britain.\n\nCommentators have often described the sisters as unlikely pioneer collectors. Much is made of their isolation in rural Wales and the fact that they didn't make friends with artists or gallery owners. Yet they didn't feel obliged to follow fashionable tastes and were free to pursue their own preferences. Although they relied on a trusted circle of advisers, they made frequent trips to London and Paris, and also regularly had paintings sent to their home for consideration.\n\nBy the early 1920s, Gwendoline felt increasingly uncomfortable buying art works when faced with the poverty and social upheaval created by the First World War. Her philanthropic pursuits then became focused almost exclusively on social causes and the development of the sisters' home at Gregynog Hall into a conference center and venue for the Gregynog Festival of Music and Poetry. Gwendoline made her final art purchase in March 1926. Margaret also stopped collecting around this time, but started again in the 1930s acquiring, on a relatively small scale, work by contemporary British artists.\n\nThe sisters collected French Impressionist paintings at a time when such art was routinely ignored by individuals and institutions alike. The Gwendoline and Margaret Davies collection, donated in 1951 and 1963 respectively to the National Museum Wales, contains major examples of work by leading French Impressionists. In collecting paintings that they loved, the sisters created a lasting and meaningful cultural legacy for the people of Wales and beyond.\n\n* philanthropic: seeking to promote the welfare of others, often by charitable funding\n\n** Old Master: a highly respected artist of great skill who worked in Europe before about 1800\n\n*** Impressionist: an artist with a style of painting that developed in France in the late 1800s by Renoir, including his well-known painting La Parisienne\n\n原页文字提示：脚注引文保留原页；其后半句涉及 Renoir 作品，属于来源编辑瑕疵，不要把整条脚注当作英语完整定义范例。这里的 Impressionist 指印象派画家。\n\nQuestions 1–7\n\nComplete the notes below.\n\nChoose ONE WORD ONLY from the passage for each answer.\n\nWrite your answers in boxes 1–7 on your answer sheet.\n\nGwendoline and Margaret Davies\nFamily and early life\ntheir grandfather’s wealth came from \n1\n and transportation businesses\ntheir upbringing gave them a sense of social responsibility\ntheir \n2\n was designed to give them an interest in activities such as collecting art\ntheir governess took them on trips to art galleries\nthey took lengthy \n3\n about the things they saw in art galleries\nThe sisters as art collectors\ntheir \n4\n showed they liked Old Master paintings, but they were expensive to buy\ntheir early purchases were safe, popular paintings\nthe first Impressionist paintings they bought showed places in \n5\nImpact of First World War\nthey helped bring artists from Belgium to Wales\nthey worked in a \n6\n for soldiers in France\nOpinions about the sisters as art collectors\nwere not considered typical collectors – they lived in isolation in the countryside and did not have any \n7\n who were artists\nQuestions 8–13\n\nDo the following statements agree with the information given in Reading Passage 1?\n\nIn boxes 8–13 on your answer sheet, write\n\nTRUE\nif the statement agrees with the information\nFALSE\nif the statement contradicts the information\nNOT GIVEN\nif there is no information on this\n\n8 The Davies sisters’ childhood influenced the way they decided to use their wealth.\n\n8\n\n9 The Jean-Baptiste-Camille Corot paintings in the Davies sisters’ collection were purchased from a gallery in France.\n\n9\n\n10 Hugh Blaker opposed the Davies sisters’ decision to buy art by French Impressionists.\n\n10\n\n11 The exhibition of Cézanne paintings at the Bath gallery was very popular with the public.\n\n11\n\n12 The impact of the First World War encouraged Gwendoline to reconsider her interest in collecting art.\n\n12\n\n13 The Davies sisters bought French Impressionist art during a period when very few people were doing so.\n\n13\n查看原图 · 4 页\n我的首次作答\n本次条件\n首次独立\n学习后应用／已看背景\n见过材料／熟题\n使用提示\n实际用时（分钟）\n\n直接在题目旁填写答案，文字会自动保存。\n\n保存首次作答，进入学习\n\n首次稿尚未保存。\n\n这份材料的精读\n\nThe Davies Sisters｜成长背景与收藏起点 · The Davies Sisters｜印象派转向与战时收藏 · The Davies Sisters｜收藏停止与文化遗产",
+  "allContent": "0% · 0 / 13 完成先做自己的答案只看 The Davies Sisters 的原文与原题，先独立完成 1—13 题，暂不查词或看反馈。第 1—7 题每空一个词，第 8—13 题按原题标签作答。约 20 分钟时保存答案及未完成位置，继续用时另记；若已在整套练习中做过，直接保留那次答案作复盘，不重新记为首次。开始 20 分钟计时20:00到时保留答案；继续写的部分另记。The Davies Sisters · 原文与 1–13 题You should spend about 20 minutes on Questions 1–13, which are based on Reading Passage 1 below.The Davies SistersBetween 1908 and 1924, Gwendoline and Margaret Davies amassed one of the largest collections of late-nineteenth and early-twentieth-century French paintings in BritainGwendoline (1882-1951) and Margaret (1884-1963) Davies were the granddaughters of David Davies, a Welshman who amassed a fortune in the shipping and mining industries. In 1907, when Gwendoline came into her inheritance (Margaret would follow in 1909), the sisters were said to be the wealthiest unmarried women in Britain. Their religious upbringing in rural Wales gave them a deep sense of social responsibility and they chose to use their inheritance for cultural and philanthropic* purposes.While there was no real family history of art collecting, the sisters' education was rigorously geared toward such pursuits. Their London school focused on cultural rather than academic study, and they travelled extensively with their governess, Jane Blaker, visiting art galleries and making extensive notes on the collections there.The sisters began to make regular art purchases from 1908, which roughly coincided with the dates of their inheritance. They took advice from various people, including the art dealer Hugh Blaker (the brother of Jane Blaker) and David Croal Thompson, who was also an art dealer. While it was long assumed that these men were largely responsible for the nature of the sisters' collection, it has recently been accepted that Gwendoline and Margaret retained a far more active role in the process.The sisters' journals reveal their preference for Old Master** paintings. Yet they initially made very few attempts to secure any such works. While the sisters were wealthy in relative terms, their income was nothing compared to the fortunes of American art collectors of this period, such as J. Pierpont Morgan. Quite simply, high quality Old Master works were, if not beyond their means, then beyond what they were willing to pay for them. Instead, their early purchases were of the fashionable, safe variety, and included, for example, paintings by the French artist Jean-Baptiste-Camille Corot.However, it was only a few years before their collecting took a new direction and they turned to the work of the French Impressionists***. We know that Hugh Blaker, as a champion of contemporary French art had a hand in the decision, and we know also that they would have seen examples on their various trips to Paris. Whatever the precise reason for this change, their first purchases of Impressionist art, made in October 1912, were scenes of Venice by the French artist Claude Monet. Over the next 12 years, the sisters amassed the bulk of their Impressionist collection, including six further works by Monet, two more by Manet, and three by Renoir, including his well-known painting La Parisienne.The First World War (1914-1918) played a part in the development of the sisters' collection. Their initial response to the war effort was to finance the safe passage of artists from occupied Belgium to Wales, as a humanitarian act, but also with the hope of establishing a vibrant artists' community in the area. Later in the conflict, both sisters decided to volunteer at a canteen for troops at Troyes, in northern France; Gwendoline in 1916, followed by Margaret in 1917.It was tedious and distressing work, which would have a permanent effect on Gwendoline's health. Yet on one of numerous trips to nearby Paris, she visited the Bernheim-Jeune Gallery. Here she acquired two works by Cézanne - Provençal Landscape and The François Zola Dam. The paintings were shipped directly to Bath, England, where they became the first works by Cézanne to go on display in a public gallery in Britain.Commentators have often described the sisters as unlikely pioneer collectors. Much is made of their isolation in rural Wales and the fact that they didn't make friends with artists or gallery owners. Yet they didn't feel obliged to follow fashionable tastes and were free to pursue their own preferences. Although they relied on a trusted circle of advisers, they made frequent trips to London and Paris, and also regularly had paintings sent to their home for consideration.By the early 1920s, Gwendoline felt increasingly uncomfortable buying art works when faced with the poverty and social upheaval created by the First World War. Her philanthropic pursuits then became focused almost exclusively on social causes and the development of the sisters' home at Gregynog Hall into a conference center and venue for the Gregynog Festival of Music and Poetry. Gwendoline made her final art purchase in March 1926. Margaret also stopped collecting around this time, but started again in the 1930s acquiring, on a relatively small scale, work by contemporary British artists.The sisters collected French Impressionist paintings at a time when such art was routinely ignored by individuals and institutions alike. The Gwendoline and Margaret Davies collection, donated in 1951 and 1963 respectively to the National Museum Wales, contains major examples of work by leading French Impressionists. In collecting paintings that they loved, the sisters created a lasting and meaningful cultural legacy for the people of Wales and beyond.* philanthropic: seeking to promote the welfare of others, often by charitable funding** Old Master: a highly respected artist of great skill who worked in Europe before about 1800*** Impressionist: an artist with a style of painting that developed in France in the late 1800s by Renoir, including his well-known painting La Parisienne原页文字提示：脚注引文保留原页；其后半句涉及 Renoir 作品，属于来源编辑瑕疵，不要把整条脚注当作英语完整定义范例。这里的 Impressionist 指印象派画家。Questions 1–7Complete the notes below.Choose ONE WORD ONLY from the passage for each answer.Write your answers in boxes 1–7 on your answer sheet.Gwendoline and Margaret DaviesFamily and early lifetheir grandfather’s wealth came from 1 and transportation businessestheir upbringing gave them a sense of social responsibilitytheir 2 was designed to give them an interest in activities such as collecting arttheir governess took them on trips to art galleriesthey took lengthy 3 about the things they saw in art galleriesThe sisters as art collectorstheir 4 showed they liked Old Master paintings, but they were expensive to buytheir early purchases were safe, popular paintingsthe first Impressionist paintings they bought showed places in 5Impact of First World Warthey helped bring artists from Belgium to Walesthey worked in a 6 for soldiers in FranceOpinions about the sisters as art collectorswere not considered typical collectors – they lived in isolation in the countryside and did not have any 7 who were artistsQuestions 8–13Do the following statements agree with the information given in Reading Passage 1?In boxes 8–13 on your answer sheet, writeTRUEif the statement agrees with the informationFALSEif the statement contradicts the informationNOT GIVENif there is no information on this8  The Davies sisters’ childhood influenced the way they decided to use their wealth.89  The Jean-Baptiste-Camille Corot paintings in the Davies sisters’ collection were purchased from a gallery in France.910  Hugh Blaker opposed the Davies sisters’ decision to buy art by French Impressionists.1011  The exhibition of Cézanne paintings at the Bath gallery was very popular with the public.1112  The impact of the First World War encouraged Gwendoline to reconsider her interest in collecting art.1213  The Davies sisters bought French Impressionist art during a period when very few people were doing so.13查看原图 · 4 页Cambridge 21 · Test 1 Passage 1 · 完整原文Cambridge 21 · Test 1 Passage 1 · 完整原文Cambridge 21 · Test 1 Passage 1 · 原题 1–13Cambridge 21 · Test 1 Passage 1 · 原题 1–13我的首次作答本次条件首次独立学习后应用／已看背景见过材料／熟题使用提示实际用时（分钟）直接在题目旁填写答案，文字会自动保存。保存首次作答，进入学习首次稿尚未保存。这份材料的精读The Davies Sisters｜成长背景与收藏起点 · The Davies Sisters｜印象派转向与战时收藏 · The Davies Sisters｜收藏停止与文化遗产",
+  "links": [
+    {
+      "text": "The Davies Sisters｜成长背景与收藏起点",
+      "href": "#material-reading-rd-c21-davies-1"
+    },
+    {
+      "text": "The Davies Sisters｜印象派转向与战时收藏",
+      "href": "#material-reading-rd-c21-davies-2"
+    },
+    {
+      "text": "The Davies Sisters｜收藏停止与文化遗产",
+      "href": "#material-reading-rd-c21-davies-3"
+    }
+  ],
+  "details": [
+    {
+      "id": "",
+      "title": "查看原图 · 4 页",
+      "open": false,
+      "visible": true
+    }
+  ],
+  "saveFields": [
+    "reading-q1",
+    "reading-q2",
+    "reading-q3",
+    "reading-q4",
+    "reading-q5",
+    "reading-q6",
+    "reading-q7",
+    "reading-q8",
+    "reading-q9",
+    "reading-q10",
+    "reading-q11",
+    "reading-q12",
+    "reading-q13",
+    "reading-condition",
+    "reading-minutes"
+  ],
+  "images": [
+    {
+      "src": "assets/deferred-media/8c158361e2aac1c78e2522d7.png",
+      "alt": "Cambridge 21 · Test 1 Passage 1 · 完整原文",
+      "visible": false,
+      "complete": false,
+      "width": 0
+    },
+    {
+      "src": "assets/deferred-media/e22385eaa5a6fc867c0bcf60.png",
+      "alt": "Cambridge 21 · Test 1 Passage 1 · 完整原文",
+      "visible": false,
+      "complete": false,
+      "width": 0
+    },
+    {
+      "src": "assets/deferred-media/375791efdf3c048bee6c8590.png",
+      "alt": "Cambridge 21 · Test 1 Passage 1 · 原题 1–13",
+      "visible": false,
+      "complete": false,
+      "width": 0
+    },
+    {
+      "src": "assets/deferred-media/b697dc06b3c22bdd4b8625f3.png",
+      "alt": "Cambridge 21 · Test 1 Passage 1 · 原题 1–13",
+      "visible": false,
+      "complete": false,
+      "width": 0
+    }
+  ],
+  "audio": [],
+  "viewport": 1440,
+  "documentWidth": 1440
+}

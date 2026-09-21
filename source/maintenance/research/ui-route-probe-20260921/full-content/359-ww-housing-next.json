@@ -1,0 +1,702 @@
+{
+  "requested": "ww-housing-next",
+  "from": [
+    "页面链接"
+  ],
+  "actual": "#ww-housing-next",
+  "checkedAt": "2026-09-21T12:55:33.939Z",
+  "title": "写作工作台 · IELTS",
+  "label": "写作工作台",
+  "panel": "writing-workbench",
+  "contentRoot": "ww-housing",
+  "headings": [
+    {
+      "tag": "H2",
+      "text": "高层住宅是否是最佳方案",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "01 / 审题与提纲",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "02 / 留下自己的首稿",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "03 / 四维检查与修订",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "任务完成 / 回应 · TA / TR",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "组织与衔接 · CC",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "词汇使用 · LR",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "语法范围与准确性 · GRA",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "04 / 只练一个动作，再换题检查",
+      "visible": true
+    }
+  ],
+  "controls": [
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "01 审题",
+      "label": "",
+      "href": "#ww-housing-plan",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "02 首稿",
+      "label": "",
+      "href": "#ww-housing-draft",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "03 检查与修订",
+      "label": "",
+      "href": "#ww-housing-review",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "04 再练",
+      "label": "",
+      "href": "#ww-housing-next",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "Cambridge IELTS 21 Academic · Test 1 · Task 2",
+      "label": "",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=31",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "打开原有局部练习与参考",
+      "label": "",
+      "href": "#pr-writing2-housing",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "回到本科学习",
+      "label": "",
+      "href": "#writing2",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "题目核心判断是“有用”还是“最佳”？范围是什么？",
+      "href": null,
+      "save": "ww-housing-plan-1",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "我的程度立场：在哪些条件下成立，哪些不成立？",
+      "href": null,
+      "save": "ww-housing-plan-2",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "主体段 A：高层怎样增加供给？这一机制需要什么条件？",
+      "href": null,
+      "save": "ww-housing-plan-3",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "主体段 B：另一办法或约束如何影响“最佳”的判断？",
+      "href": null,
+      "save": "ww-housing-plan-4",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "需要提示：看一种审题与展开方法",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "checkbox",
+      "text": "",
+      "label": "以前写过这题 / 看过答案",
+      "href": null,
+      "save": "ww-housing-seen-before",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "checkbox",
+      "text": "",
+      "label": "本次参考过提示、词典或范例",
+      "href": null,
+      "save": "ww-housing-used-help",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "开始 40 分钟",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "重置计时",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "hidden",
+      "text": "",
+      "label": "",
+      "href": null,
+      "save": "ww-housing-timer",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "hidden",
+      "text": "",
+      "label": "",
+      "href": null,
+      "save": "ww-housing-first-at",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "首稿 · 保留后锁定，修改在下方进行",
+      "href": null,
+      "save": "ww-housing-first",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "保留首稿，开始修订",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SELECT",
+      "id": "",
+      "type": "select-one",
+      "text": "尚未检查\n发现问题，待修订\n已核对并处理\n仍不确定",
+      "label": "检查结果\n尚未检查\n发现问题，待修订\n已核对并处理\n仍不确定",
+      "href": null,
+      "save": "ww-housing-check-task",
+      "visible": true,
+      "disabled": false,
+      "required": false,
+      "options": [
+        {
+          "value": "unreviewed",
+          "label": "尚未检查"
+        },
+        {
+          "value": "needs-work",
+          "label": "发现问题，待修订"
+        },
+        {
+          "value": "checked",
+          "label": "已核对并处理"
+        },
+        {
+          "value": "uncertain",
+          "label": "仍不确定"
+        }
+      ]
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "证据：摘一句原文 → 问题 / 判断依据 → 怎样改",
+      "href": null,
+      "save": "ww-housing-evidence-task",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SELECT",
+      "id": "",
+      "type": "select-one",
+      "text": "尚未检查\n发现问题，待修订\n已核对并处理\n仍不确定",
+      "label": "检查结果\n尚未检查\n发现问题，待修订\n已核对并处理\n仍不确定",
+      "href": null,
+      "save": "ww-housing-check-coherence",
+      "visible": true,
+      "disabled": false,
+      "required": false,
+      "options": [
+        {
+          "value": "unreviewed",
+          "label": "尚未检查"
+        },
+        {
+          "value": "needs-work",
+          "label": "发现问题，待修订"
+        },
+        {
+          "value": "checked",
+          "label": "已核对并处理"
+        },
+        {
+          "value": "uncertain",
+          "label": "仍不确定"
+        }
+      ]
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "证据：摘一句原文 → 问题 / 判断依据 → 怎样改",
+      "href": null,
+      "save": "ww-housing-evidence-coherence",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SELECT",
+      "id": "",
+      "type": "select-one",
+      "text": "尚未检查\n发现问题，待修订\n已核对并处理\n仍不确定",
+      "label": "检查结果\n尚未检查\n发现问题，待修订\n已核对并处理\n仍不确定",
+      "href": null,
+      "save": "ww-housing-check-lexical",
+      "visible": true,
+      "disabled": false,
+      "required": false,
+      "options": [
+        {
+          "value": "unreviewed",
+          "label": "尚未检查"
+        },
+        {
+          "value": "needs-work",
+          "label": "发现问题，待修订"
+        },
+        {
+          "value": "checked",
+          "label": "已核对并处理"
+        },
+        {
+          "value": "uncertain",
+          "label": "仍不确定"
+        }
+      ]
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "证据：摘一句原文 → 问题 / 判断依据 → 怎样改",
+      "href": null,
+      "save": "ww-housing-evidence-lexical",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SELECT",
+      "id": "",
+      "type": "select-one",
+      "text": "尚未检查\n发现问题，待修订\n已核对并处理\n仍不确定",
+      "label": "检查结果\n尚未检查\n发现问题，待修订\n已核对并处理\n仍不确定",
+      "href": null,
+      "save": "ww-housing-check-grammar",
+      "visible": true,
+      "disabled": false,
+      "required": false,
+      "options": [
+        {
+          "value": "unreviewed",
+          "label": "尚未检查"
+        },
+        {
+          "value": "needs-work",
+          "label": "发现问题，待修订"
+        },
+        {
+          "value": "checked",
+          "label": "已核对并处理"
+        },
+        {
+          "value": "uncertain",
+          "label": "仍不确定"
+        }
+      ]
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "证据：摘一句原文 → 问题 / 判断依据 → 怎样改",
+      "href": null,
+      "save": "ww-housing-evidence-grammar",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "修订稿 · 与首稿分开保存",
+      "href": null,
+      "save": "ww-housing-revision",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "另存本次修订版本",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "导出本题作答与反馈请求",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "这次最重要的修改：原来是什么、为什么改、现在怎样更清楚？",
+      "href": null,
+      "save": "ww-housing-reason",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "hidden",
+      "text": "",
+      "label": "",
+      "href": null,
+      "save": "ww-housing-versions",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "查看已保留的修订版本",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "我的局部练习",
+      "href": null,
+      "save": "ww-housing-micro",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "展开参考与核对方法",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SELECT",
+      "id": "",
+      "type": "select-one",
+      "text": "回应题目 / 概览\n组织与展开\n词汇与搭配\n句子与语法\n换题独立检查",
+      "label": "下次优先处理\n回应题目 / 概览\n组织与展开\n词汇与搭配\n句子与语法\n换题独立检查",
+      "href": null,
+      "save": "ww-housing-next-focus",
+      "visible": true,
+      "disabled": false,
+      "required": false,
+      "options": [
+        {
+          "value": "task",
+          "label": "回应题目 / 概览"
+        },
+        {
+          "value": "coherence",
+          "label": "组织与展开"
+        },
+        {
+          "value": "lexical",
+          "label": "词汇与搭配"
+        },
+        {
+          "value": "grammar",
+          "label": "句子与语法"
+        },
+        {
+          "value": "transfer",
+          "label": "换题独立检查"
+        }
+      ]
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "date",
+      "text": "",
+      "label": "计划复查日期",
+      "href": null,
+      "save": "ww-housing-next-date",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "下一次具体做什么？到什么状态算完成？",
+      "href": null,
+      "save": "ww-housing-next-note",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "打开下一题 →",
+      "label": "",
+      "href": "#ww-tourism",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    }
+  ],
+  "visibleText": "Task 2 · 城市住房\n高层住宅是否是最佳方案\n\n辨清 best 的比较要求，补足条件与因果\n\n01 审题\n02 首稿\n03 检查与修订\n04 再练\n01 / 审题与提纲\nThe best way to provide enough homes in large cities is to build tall apartment blocks. To what extent do you agree or disagree with this statement?\n\n题意沿用现有练习文字；正式题面、图示与完整要求以原件为准。Cambridge IELTS 21 Academic · Test 1 · Task 2\n\n打开原有局部练习与参考\n回到本科学习\n\n回应题目，用理由与例子支持立场，至少 250 词，建议约 40 分钟。 可直接开始首稿；提纲为可选准备。\n\n题目核心判断是“有用”还是“最佳”？范围是什么？\n我的程度立场：在哪些条件下成立，哪些不成立？\n主体段 A：高层怎样增加供给？这一机制需要什么条件？\n主体段 B：另一办法或约束如何影响“最佳”的判断？\n需要提示：看一种审题与展开方法\n02 / 留下自己的首稿\n 以前写过这题 / 看过答案\n 本次参考过提示、词典或范例\n40:00\n开始 40 分钟\n重置计时\n到时保留输入，刷新后继续计时。\n首稿 · 保留后锁定，修改在下方进行\n0 词（估算） · 距建议最低字数还差 250 词\n保留首稿，开始修订\n03 / 四维检查与修订\n\n先找一个最影响表达的问题，摘出自己的句子，再修改。检查结果是你的判断，不会换算 band。\n\n任务完成 / 回应 · TA / TR\n\n所有问句是否回应？立场是否一直清楚？理由是否解释了为什么，并有相关例子或证据？\n\n检查结果\n尚未检查\n发现问题，待修订\n已核对并处理\n仍不确定\n证据：摘一句原文 → 问题 / 判断依据 → 怎样改\n组织与衔接 · CC\n\n每段是否承担清楚的功能？句子之间关系是否真实？代词指向是否明确？不要只统计连接词。\n\n检查结果\n尚未检查\n发现问题，待修订\n已核对并处理\n仍不确定\n证据：摘一句原文 → 问题 / 判断依据 → 怎样改\n词汇使用 · LR\n\n关键词含义、搭配与拼写是否准确？替换词是否保留原意？优先修正用错的词。\n\n检查结果\n尚未检查\n发现问题，待修订\n已核对并处理\n仍不确定\n证据：摘一句原文 → 问题 / 判断依据 → 怎样改\n语法范围与准确性 · GRA\n\n时态、主谓、冠词与标点是否正确？复杂句是否表达需要的关系？检查一条复杂句与一条简单句。\n\n检查结果\n尚未检查\n发现问题，待修订\n已核对并处理\n仍不确定\n证据：摘一句原文 → 问题 / 判断依据 → 怎样改\n修订稿 · 与首稿分开保存\n0 词（估算） · 距建议最低字数还差 250 词\n另存本次修订版本\n导出本题作答与反馈请求\n这次最重要的修改：原来是什么、为什么改、现在怎样更清楚？\n查看已保留的修订版本\n04 / 只练一个动作，再换题检查\n\n改写 Tall buildings contain more homes, so they are the best solution everywhere and will make housing affordable. 保留合理优点，删除无依据的绝对推论，补一个条件。\n\n我的局部练习\n展开参考与核对方法\n下次优先处理\n回应题目 / 概览\n组织与展开\n词汇与搭配\n句子与语法\n换题独立检查\n计划复查日期\n把题目每个问句单独列出；为每一问写一句明确回答，再核对首稿有没有漏答。\n下一次具体做什么？到什么状态算完成？\n\n换到旅游题，写一句明确的利弊权衡，再为结论补一条比较依据。 打开下一题 →\n\n同题修订属于熟题练习；新题是否真的未见，请按自己的接触情况记录。",
+  "allContent": "\nTask 2 · 城市住房高层住宅是否是最佳方案辨清 best 的比较要求，补足条件与因果\n01 审题02 首稿03 检查与修订04 再练\n01 / 审题与提纲The best way to provide enough homes in large cities is to build tall apartment blocks. To what extent do you agree or disagree with this statement?\n题意沿用现有练习文字；正式题面、图示与完整要求以原件为准。Cambridge IELTS 21 Academic · Test 1 · Task 2\n打开原有局部练习与参考回到本科学习\n回应题目，用理由与例子支持立场，至少 250 词，建议约 40 分钟。 可直接开始首稿；提纲为可选准备。\n题目核心判断是“有用”还是“最佳”？范围是什么？我的程度立场：在哪些条件下成立，哪些不成立？主体段 A：高层怎样增加供给？这一机制需要什么条件？主体段 B：另一办法或约束如何影响“最佳”的判断？\n需要提示：看一种审题与展开方法“一栋楼能容纳更多住户”支持用地效率，却不能单独证明所有城市都应建高层，也不能保证房价下降。先区分供给数量与可负担性，再比较土地、基础设施与成本等条件。选少量相关条件展开，比列出许多没有解释的城市问题更有用。Tall apartment blocks can accommodate more households on a limited site, which makes them useful in areas where land is scarce. However, this does not automatically make housing affordable, because construction and maintenance costs may still be high.自编教学例句先说明机制，再限定推论。which 指向前句的空间效率；however 转向可负担性。文章还需解释这些条件如何影响最佳方案的判断。以上为本地教学示范，不是官方范文或评分。\n\n02 / 留下自己的首稿 以前写过这题 / 看过答案 本次参考过提示、词典或范例\n40:00开始 40 分钟重置计时到时保留输入，刷新后继续计时。\n首稿 · 保留后锁定，修改在下方进行\n0 词（估算） · 距建议最低字数还差 250 词保留首稿，开始修订\n\n03 / 四维检查与修订先找一个最影响表达的问题，摘出自己的句子，再修改。检查结果是你的判断，不会换算 band。任务完成 / 回应 · TA / TR所有问句是否回应？立场是否一直清楚？理由是否解释了为什么，并有相关例子或证据？检查结果尚未检查发现问题，待修订已核对并处理仍不确定证据：摘一句原文 → 问题 / 判断依据 → 怎样改组织与衔接 · CC每段是否承担清楚的功能？句子之间关系是否真实？代词指向是否明确？不要只统计连接词。检查结果尚未检查发现问题，待修订已核对并处理仍不确定证据：摘一句原文 → 问题 / 判断依据 → 怎样改词汇使用 · LR关键词含义、搭配与拼写是否准确？替换词是否保留原意？优先修正用错的词。检查结果尚未检查发现问题，待修订已核对并处理仍不确定证据：摘一句原文 → 问题 / 判断依据 → 怎样改语法范围与准确性 · GRA时态、主谓、冠词与标点是否正确？复杂句是否表达需要的关系？检查一条复杂句与一条简单句。检查结果尚未检查发现问题，待修订已核对并处理仍不确定证据：摘一句原文 → 问题 / 判断依据 → 怎样改\n修订稿 · 与首稿分开保存\n0 词（估算） · 距建议最低字数还差 250 词另存本次修订版本导出本题作答与反馈请求\n这次最重要的修改：原来是什么、为什么改、现在怎样更清楚？\n查看已保留的修订版本尚未另存修订版本。当前修订稿仍会自动保存。\n04 / 只练一个动作，再换题检查改写 Tall buildings contain more homes, so they are the best solution everywhere and will make housing affordable. 保留合理优点，删除无依据的绝对推论，补一个条件。我的局部练习\n展开参考与核对方法Tall apartment blocks can help cities provide more homes where land is scarce, although their affordability depends partly on construction costs and the type of housing supplied.参考为编写内容；有其他准确且满足要求的表达。\n下次优先处理回应题目 / 概览组织与展开词汇与搭配句子与语法换题独立检查计划复查日期\n把题目每个问句单独列出；为每一问写一句明确回答，再核对首稿有没有漏答。下一次具体做什么？到什么状态算完成？\n换到旅游题，写一句明确的利弊权衡，再为结论补一条比较依据。 打开下一题 →\n同题修订属于熟题练习；新题是否真的未见，请按自己的接触情况记录。",
+  "links": [
+    {
+      "text": "01 审题",
+      "href": "#ww-housing-plan"
+    },
+    {
+      "text": "02 首稿",
+      "href": "#ww-housing-draft"
+    },
+    {
+      "text": "03 检查与修订",
+      "href": "#ww-housing-review"
+    },
+    {
+      "text": "04 再练",
+      "href": "#ww-housing-next"
+    },
+    {
+      "text": "Cambridge IELTS 21 Academic · Test 1 · Task 2",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=31"
+    },
+    {
+      "text": "打开原有局部练习与参考",
+      "href": "#pr-writing2-housing"
+    },
+    {
+      "text": "回到本科学习",
+      "href": "#writing2"
+    },
+    {
+      "text": "打开下一题 →",
+      "href": "#ww-tourism"
+    }
+  ],
+  "details": [
+    {
+      "id": "",
+      "title": "需要提示：看一种审题与展开方法",
+      "open": false,
+      "visible": true
+    },
+    {
+      "id": "",
+      "title": "查看已保留的修订版本",
+      "open": false,
+      "visible": true
+    },
+    {
+      "id": "",
+      "title": "展开参考与核对方法",
+      "open": false,
+      "visible": true
+    }
+  ],
+  "saveFields": [
+    "ww-housing-plan-1",
+    "ww-housing-plan-2",
+    "ww-housing-plan-3",
+    "ww-housing-plan-4",
+    "ww-housing-seen-before",
+    "ww-housing-used-help",
+    "ww-housing-timer",
+    "ww-housing-first-at",
+    "ww-housing-first",
+    "ww-housing-check-task",
+    "ww-housing-evidence-task",
+    "ww-housing-check-coherence",
+    "ww-housing-evidence-coherence",
+    "ww-housing-check-lexical",
+    "ww-housing-evidence-lexical",
+    "ww-housing-check-grammar",
+    "ww-housing-evidence-grammar",
+    "ww-housing-revision",
+    "ww-housing-reason",
+    "ww-housing-versions",
+    "ww-housing-micro",
+    "ww-housing-next-focus",
+    "ww-housing-next-date",
+    "ww-housing-next-note"
+  ],
+  "images": [],
+  "audio": [],
+  "viewport": 1440,
+  "documentWidth": 1440
+}

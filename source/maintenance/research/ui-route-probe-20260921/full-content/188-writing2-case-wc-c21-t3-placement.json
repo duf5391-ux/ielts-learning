@@ -1,0 +1,194 @@
+{
+  "requested": "writing2-case-wc-c21-t3-placement",
+  "from": [
+    "内容单元",
+    "页面链接",
+    "每日安排目标"
+  ],
+  "actual": "#writing2-case-wc-c21-t3-placement",
+  "checkedAt": "2026-09-21T12:52:50.406Z",
+  "title": "练习 / 写作 · Task 2 / 本科海外学习或实习：收益能否超过代价 · IELTS",
+  "label": "练习 / 写作 · Task 2 / 本科海外学习或实习：收益能否超过代价",
+  "panel": "practice-writing2",
+  "contentRoot": "writing2-case-wc-c21-t3-placement",
+  "headings": [
+    {
+      "tag": "H3",
+      "text": "写作前置 · 文中表达",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "a solid grounding in music theory",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "本次写作任务",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "对照答案，回到证据",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "参考写法",
+      "visible": false
+    },
+    {
+      "tag": "H3",
+      "text": "答后精读",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "篇章结构",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "词语与搭配",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "句子精读",
+      "visible": false
+    }
+  ],
+  "controls": [
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "本科海外学习或实习：收益能否超过代价未作答\n利弊权衡 · 原题拆段写作 · 参考段落与逐段讲解",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "Cambridge IELTS 21 Academic",
+      "label": "",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=74",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "Miles Davis：独特音色、双重教育与音乐遗产",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "",
+      "label": "",
+      "href": "#material-reading-rd-official-miles-1",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "case-wc-c21-t3-placement-answer",
+      "type": "textarea",
+      "text": "",
+      "label": "我的段落",
+      "href": null,
+      "save": "case-wc-c21-t3-placement-answer",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "checkbox",
+      "text": "",
+      "label": "",
+      "href": null,
+      "save": "case-wc-c21-t3-placement-done",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "hidden",
+      "text": "",
+      "label": "",
+      "href": null,
+      "save": "case-wc-c21-t3-placement-saved-at",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "保留作答，查看答案",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "case-wc-c21-t3-placement-revision",
+      "type": "textarea",
+      "text": "",
+      "label": "我的修订／证据笔记",
+      "href": null,
+      "save": "case-wc-c21-t3-placement-revision",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    }
+  ],
+  "visibleText": "本科海外学习或实习：收益能否超过代价未作答\n利弊权衡 · 原题拆段写作 · 参考段落与逐段讲解\n0% · 0 / 1 完成\n\n真题 · Cambridge IELTS 21 Academic · PDF 第 74 页\n\n写作前置 · 文中表达\n\n下面的表达来自阅读材料，例句按本题语境编写。展开相关材料即可查看。\n\nMiles Davis：独特音色、双重教育与音乐遗产\n\nAll university undergraduate courses should include a period of time spent studying abroad or doing a work placement. Do you think the advantages of this would outweigh the disadvantages?\n\n本次写作任务\n\n写两段主体，约170–210词：一段承认费用和安排的代价，另一段讨论学习/就业收益，并按“能否控制、持续多久、影响多大”作权衡。注意abroad OR work placement，不要强制把两者都做。\n\n我的段落\n\n0 词\n\n保留作答，查看答案\n\n先作答；不确定的题也可记录判断与疑点。",
+  "allContent": "本科海外学习或实习：收益能否超过代价未作答利弊权衡 · 原题拆段写作 · 参考段落与逐段讲解0% · 0 / 1 完成真题 · Cambridge IELTS 21 Academic · PDF 第 74 页写作前置 · 文中表达下面的表达来自阅读材料，例句按本题语境编写。展开相关材料即可查看。Miles Davis：独特音色、双重教育与音乐遗产a solid grounding in music theory扎实的乐理基础可说明专业理论如何支持实践；不把理论学习与工作实习写成只能二选一。本题例句 · 编写示范Music students with a solid grounding in music theory may learn to apply it during a placement in a recording studio.自编例句，适用于本科课程是否应包括实习：音乐专业作为具体例子，说明已有理论知识怎样在工作环境中应用；不代表所有专业都需要录音棚实习。回到这份材料的精读All university undergraduate courses should include a period of time spent studying abroad or doing a work placement. Do you think the advantages of this would outweigh the disadvantages?本次写作任务写两段主体，约170–210词：一段承认费用和安排的代价，另一段讨论学习/就业收益，并按“能否控制、持续多久、影响多大”作权衡。注意abroad OR work placement，不要强制把两者都做。我的段落0 词保留作答，查看答案先作答；不确定的题也可记录判断与疑点。对照答案，回到证据参考写法下列段落为针对原题编写的参考写法，用于对照内容和表达；写作没有唯一标准答案。A compulsory period away from normal university classes can create real difficulties. Studying abroad may involve travel and accommodation costs, while even a local work placement can reduce the time available for paid employment. Students with caring responsibilities may find these demands particularly difficult. Universities also need enough suitable placements; an experience consisting only of routine administrative work would offer limited educational value. These drawbacks matter because the proposal applies to all undergraduate courses, including students and subjects for which arranging an appropriate experience may be challenging.Even so, I consider the potential advantages greater if institutions offer flexible, well-supported options. A relevant placement allows students to apply classroom ideas to actual workplace problems and obtain feedback from experienced colleagues. Overseas study can expose them to different academic approaches and require greater independence. These gains may continue to influence later study and employment, whereas some financial and practical barriers can be reduced through funding and local placement alternatives. The stronger policy is therefore to provide a meaningful choice between suitable forms of experience, with clear learning goals, rather than require every student to travel abroad.题目是abroad or placement，末句明确保留本地实习选项；不能误写所有学生必须出国。outweigh要求比较：长期学习收益与可缓解的成本相对照，而不是两边各列三点后不判断。承认all courses的实施难题，立场带条件但清楚支持收益更大。答后精读篇章结构负担—更脆弱人群—低质量安排的风险。收益机制—长期价值—降低成本的方法—权衡结论。词语与搭配the proposal applies to all ...：抓住题目范围词。may continue to influence ... whereas ...：把持续性作为权衡依据。with clear learning goals：限制支持对象，防止无条件夸大。句子精读These drawbacks matter because the proposal applies to all undergraduate courses ... → because不是重复缺点，而是解释“为什么重要”。... rather than require every student to travel abroad → 排除的是误读后的强制出国，不是否认原题。我的修订／证据笔记",
+  "links": [
+    {
+      "text": "Cambridge IELTS 21 Academic",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=74"
+    },
+    {
+      "text": "回到这份材料的精读",
+      "href": "#material-reading-rd-official-miles-1"
+    }
+  ],
+  "details": [
+    {
+      "id": "writing-prep-wc-c21-t3-placement-from-rd-official-miles-1",
+      "title": "Miles Davis：独特音色、双重教育与音乐遗产",
+      "open": false,
+      "visible": true
+    }
+  ],
+  "saveFields": [
+    "case-wc-c21-t3-placement-answer",
+    "case-wc-c21-t3-placement-done",
+    "case-wc-c21-t3-placement-saved-at",
+    "case-wc-c21-t3-placement-revision"
+  ],
+  "images": [],
+  "audio": [],
+  "viewport": 1440,
+  "documentWidth": 1440
+}

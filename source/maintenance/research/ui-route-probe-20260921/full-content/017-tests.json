@@ -1,0 +1,129 @@
+{
+  "requested": "tests",
+  "from": [
+    "主面板",
+    "页面链接",
+    "导航按钮"
+  ],
+  "actual": "#tests",
+  "checkedAt": "2026-09-21T12:50:40.355Z",
+  "title": "测试 · IELTS",
+  "label": "测试",
+  "panel": "tests",
+  "contentRoot": "tests",
+  "headings": [
+    {
+      "tag": "H1",
+      "text": "测试",
+      "visible": true
+    },
+    {
+      "tag": "H2",
+      "text": "听力",
+      "visible": true
+    },
+    {
+      "tag": "H2",
+      "text": "阅读",
+      "visible": true
+    },
+    {
+      "tag": "H2",
+      "text": "写作",
+      "visible": true
+    },
+    {
+      "tag": "H2",
+      "text": "口语",
+      "visible": true
+    },
+    {
+      "tag": "H2",
+      "text": "四科组合测试",
+      "visible": true
+    }
+  ],
+  "controls": [
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "选择听力测试 →",
+      "label": "",
+      "href": "#test-listening",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "选择阅读测试 →",
+      "label": "",
+      "href": "#test-reading",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "选择写作测试 →",
+      "label": "",
+      "href": "#test-writing",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "选择口语测试 →",
+      "label": "",
+      "href": "#test-speaking",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "la-start-mock",
+      "type": "button",
+      "text": "开始四科组合测试",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    }
+  ],
+  "visibleText": "测试\n\n完整套题与单科测试单独作答；学习和练习记录不计入测试进度。\n\n听力\n\n4 Parts · 40 题 · 完整原音\n\n官方机考体验题 · 40题。选择题可填字母，提交后核对参考答案。\n\n选择听力测试 →\n阅读\n\n3 篇文章 · 40 题\n\nCambridge IELTS 21 Academic · Test 1。题目、图表和字数要求均保留原页。\n\n选择阅读测试 →\n写作\n\nTask 1 + Task 2\n\nCambridge IELTS 21 Academic · Test 1。建议分别用 20 / 40 分钟，至少 150 / 250 词。\n\n选择写作测试 →\n口语\n\nPart 1 + Part 2 + Part 3\n\nCambridge 官方公开样题组合。Part 2 准备 1 分钟、说 1–2 分钟；本地自练按 11–14 分钟安排。\n\n选择口语测试 →\n四科组合测试\n\n依次完成听力、阅读、写作和口语。使用公开样题与 Cambridge 21 材料组合，各科分别保存；口语可另行完成。\n\n0% · 0 / 4 科已提交\n开始四科组合测试",
+  "allContent": "IELTS / MY STUDY测试完整套题与单科测试单独作答；学习和练习记录不计入测试进度。听力4 Parts · 40 题 · 完整原音官方机考体验题 · 40题。选择题可填字母，提交后核对参考答案。选择听力测试 →阅读3 篇文章 · 40 题Cambridge IELTS 21 Academic · Test 1。题目、图表和字数要求均保留原页。选择阅读测试 →写作Task 1 + Task 2Cambridge IELTS 21 Academic · Test 1。建议分别用 20 / 40 分钟，至少 150 / 250 词。选择写作测试 →口语Part 1 + Part 2 + Part 3Cambridge 官方公开样题组合。Part 2 准备 1 分钟、说 1–2 分钟；本地自练按 11–14 分钟安排。选择口语测试 →四科组合测试依次完成听力、阅读、写作和口语。使用公开样题与 Cambridge 21 材料组合，各科分别保存；口语可另行完成。0% · 0 / 4 科已提交开始四科组合测试",
+  "links": [
+    {
+      "text": "选择听力测试 →",
+      "href": "#test-listening"
+    },
+    {
+      "text": "选择阅读测试 →",
+      "href": "#test-reading"
+    },
+    {
+      "text": "选择写作测试 →",
+      "href": "#test-writing"
+    },
+    {
+      "text": "选择口语测试 →",
+      "href": "#test-speaking"
+    }
+  ],
+  "details": [],
+  "saveFields": [],
+  "images": [],
+  "audio": [],
+  "viewport": 1440,
+  "documentWidth": 1440
+}

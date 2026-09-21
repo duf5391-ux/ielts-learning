@@ -1,0 +1,276 @@
+{
+  "requested": "listening-review",
+  "from": [
+    "页面链接"
+  ],
+  "actual": "#listening-review",
+  "checkedAt": "2026-09-21T12:55:07.306Z",
+  "title": "学习 / 听力 / 听力 · 从原题开始学 · IELTS",
+  "label": "学习 / 听力 / 听力 · 从原题开始学",
+  "panel": "listening",
+  "contentRoot": "listening-review",
+  "headings": [
+    {
+      "tag": "H3",
+      "text": "开放大学 · 听力 27–30 题",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "SECTION 3 · Questions 27–30",
+      "visible": true
+    },
+    {
+      "tag": "H2",
+      "text": "A. 熟片重听与换句回忆，约 4–6 分钟",
+      "visible": true
+    },
+    {
+      "tag": "H2",
+      "text": "B. 另一份未见原声题组，约 8–12 分钟",
+      "visible": true
+    },
+    {
+      "tag": "H2",
+      "text": "这次比较能说明什么",
+      "visible": true
+    }
+  ],
+  "controls": [
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "可选：换一道题再试",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "text",
+      "text": "",
+      "label": "第27题答案",
+      "href": null,
+      "save": "listening-review-q1",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "text",
+      "text": "",
+      "label": "第28题答案",
+      "href": null,
+      "save": "listening-review-q2",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "text",
+      "text": "",
+      "label": "第29题答案",
+      "href": null,
+      "save": "listening-review-q3",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "text",
+      "text": "",
+      "label": "第30题答案",
+      "href": null,
+      "save": "listening-review-q4",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "查看原图 · 1 页",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "AUDIO",
+      "id": "",
+      "text": "",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "原始录音 1",
+      "label": "",
+      "href": "原始参考/d88d54dd-recording-1.mp3",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "完成换句后看参考",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "打开文字题目",
+      "label": "",
+      "href": "#listening-text-open-university",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "原始录音 4 文件",
+      "label": "",
+      "href": "原始参考/bb61bf2b-recording-4.mp3",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "已经保存首次答案，再打开核对入口",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "",
+      "label": "",
+      "href": "原始参考/a30888bb-listening-115010.txt",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "",
+      "label": "",
+      "href": "原始参考/5a330b83-listening-115010.txt",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "本次新任务作答／录音文件名；先作答，再打开页内核对。",
+      "href": null,
+      "save": "listening-review-answer",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    }
+  ],
+  "visibleText": "可选：换一道题再试\n\n下个听力时段先做熟片延迟重听和周五到家取椅子换句，约 4—6 分钟，熟片正确不记作陌生材料提升。另用未听过的115010 题组与录音 4，完成原题 27—30，约 8—12 分钟；这组每空不超过两个词。两项替换既有听力任务，先留答案再看稿，不直接比较两组百分比宣布进步。\n\n开放大学 · 听力 27–30 题\nSECTION 3 · Questions 27–30\n\nComplete the sentences below.\n\nWrite NO MORE THAN TWO WORDS for each answer.\n\nStudying with the Open University demanded a great deal of \n27\n.\n\nStudying and working at the same time improved Rachel’s \n28\n skills.\n\nIt was helpful that the course was structured in \n29\n.\n\nShe enjoyed meeting other students at \n30\n.\n\n查看原图 · 1 页\n另一份原声 · Recording 4\n\n直接在题目旁填写答案，文字会自动保存。\n\n放在下一次听力时段，替换该时段原定任务，不额外加量。参考页和文字稿先关闭。检查包含熟片重听、用法回忆和另一份原声任务，三者分别记录。\n\nA. 熟片重听与换句回忆，约 4–6 分钟\n\n重听原始录音 1中上次选择的那一处，先不看稿。如果上次选的是最后的金额问答，先说清数值之间的关系，再填写原题。\n\n这是熟材料延迟重听。听懂、记住答案和再次做对可能同时发生；它不能作为陌生材料听力提升的证据。即使记得答案，也不需要故意忘掉，只把条件如实记录。\n\n再表达一个新情境：你希望对方周五来家里取走一把椅子。先用自己能调用的表达；愿意时再尝试上次的目标结构。可以说或写，记录形式；文字产出不等于口语表现。\n\n完成换句后看参考\nB. 另一份未见原声题组，约 8–12 分钟\n\n这次使用 Cambridge listening-115010，开放大学学习经历，配录音 4，原题号 27–30，共 4 题。它与第一课的货运对话内容、音频文件都不同。如果你以前听过或看过稿，改记熟题；材料目录没有另一个可用未见题组时，记“新材料检查待完成”，不拿原录音换标题充数。\n\n打开文字题目\n\n原始录音 4 文件\n\n先看题，按这组的原规则填写：每空不超过两个词。原速听一次，首次作答过程中不暂停、回放或开稿。保存答案，再选其中一题回答：声音实际说了什么、题目需要什么、自己填的是否吻合。不要把第一课的三词规则直接带过来。\n\n原题号\t首次答案\t独立／使用支持\n27\t\t\n28\t\t\n29\t\t\n30\t\t\n已经保存首次答案，再打开核对入口\n这次比较能说明什么\n\n这是一项跨场景、跨题型检查：从生活表格进入教育对话的句子填空。它可以观察你是否仍能把听到的内容对应到题目并按填写规则作答，不是专门检测总价计算、姓名拼写或同一种数字听辨。\n\n记录新材料上的具体缺口，不直接比较 8 题与 4 题的百分比来宣布进步或退步。若新材料更难，还要区分词汇、语法、题目理解和声音识别；不能把表现变化全部归因于上次方法，也不能从错误推断情绪。\n\n本次新任务作答／录音文件名；先作答，再打开页内核对。",
+  "allContent": "可选：换一道题再试下个听力时段先做熟片延迟重听和周五到家取椅子换句，约 4—6 分钟，熟片正确不记作陌生材料提升。另用未听过的115010 题组与录音 4，完成原题 27—30，约 8—12 分钟；这组每空不超过两个词。两项替换既有听力任务，先留答案再看稿，不直接比较两组百分比宣布进步。开放大学 · 听力 27–30 题SECTION 3 · Questions 27–30Complete the sentences below.Write NO MORE THAN TWO WORDS for each answer.Studying with the Open University demanded a great deal of 27.Studying and working at the same time improved Rachel’s 28 skills.It was helpful that the course was structured in 29.She enjoyed meeting other students at 30.查看原图 · 1 页新的题组 · 115010 · 原题 27–30 · 每空不超过两个词另一份原声 · Recording 4直接在题目旁填写答案，文字会自动保存。放在下一次听力时段，替换该时段原定任务，不额外加量。参考页和文字稿先关闭。检查包含熟片重听、用法回忆和另一份原声任务，三者分别记录。\nA. 熟片重听与换句回忆，约 4–6 分钟\n重听原始录音 1中上次选择的那一处，先不看稿。如果上次选的是最后的金额问答，先说清数值之间的关系，再填写原题。\n这是熟材料延迟重听。听懂、记住答案和再次做对可能同时发生；它不能作为陌生材料听力提升的证据。即使记得答案，也不需要故意忘掉，只把条件如实记录。\n再表达一个新情境：你希望对方周五来家里取走一把椅子。先用自己能调用的表达；愿意时再尝试上次的目标结构。可以说或写，记录形式；文字产出不等于口语表现。\n\n完成换句后看参考\n例如 Could you pick up the chair from my home on Friday? 或 I'd like to have the chair collected from my home on Friday. 取件对象、地点、日期和请求意图正确即可。使用 collect 等合法替代表达记任务成功，目标结构独立提取另行记录。\n\nB. 另一份未见原声题组，约 8–12 分钟\n这次使用 Cambridge  listening-115010，开放大学学习经历，配录音 4，原题号 27–30，共 4 题。它与第一课的货运对话内容、音频文件都不同。如果你以前听过或看过稿，改记熟题；材料目录没有另一个可用未见题组时，记“新材料检查待完成”，不拿原录音换标题充数。\n打开文字题目\n原始录音 4 文件\n先看题，按这组的原规则填写：每空不超过两个词。原速听一次，首次作答过程中不暂停、回放或开稿。保存答案，再选其中一题回答：声音实际说了什么、题目需要什么、自己填的是否吻合。不要把第一课的三词规则直接带过来。\n\n\n\n原题号\n首次答案\n独立／使用支持\n\n\n\n\n27\n\n\n\n\n28\n\n\n\n\n29\n\n\n\n\n30\n\n\n\n\n\n\n已经保存首次答案，再打开核对入口\n\n答案\n文字稿\n\n题 28 的答案接受 time-management 或 time management；题 30 接受 summer school 或 summer schools。不要因与一种参考写法不同就直接判错。遇到其他形式回到答案核对。\n核对后如需教学，可以看稿和重播；修复后结果单独记。初次对题数为 0–4，不换算 band。\n\n这次比较能说明什么\n这是一项跨场景、跨题型检查：从生活表格进入教育对话的句子填空。它可以观察你是否仍能把听到的内容对应到题目并按填写规则作答，不是专门检测总价计算、姓名拼写或同一种数字听辨。\n记录新材料上的具体缺口，不直接比较 8 题与 4 题的百分比来宣布进步或退步。若新材料更难，还要区分词汇、语法、题目理解和声音识别；不能把表现变化全部归因于上次方法，也不能从错误推断情绪。\n本次新任务作答／录音文件名；先作答，再打开页内核对。",
+  "links": [
+    {
+      "text": "原始录音 1",
+      "href": "原始参考/d88d54dd-recording-1.mp3"
+    },
+    {
+      "text": "打开文字题目",
+      "href": "#listening-text-open-university"
+    },
+    {
+      "text": "原始录音 4 文件",
+      "href": "原始参考/bb61bf2b-recording-4.mp3"
+    },
+    {
+      "text": "答案",
+      "href": "原始参考/a30888bb-listening-115010.txt"
+    },
+    {
+      "text": "文字稿",
+      "href": "原始参考/5a330b83-listening-115010.txt"
+    }
+  ],
+  "details": [
+    {
+      "id": "",
+      "title": "查看原图 · 1 页",
+      "open": false,
+      "visible": true
+    },
+    {
+      "id": "",
+      "title": "完成换句后看参考",
+      "open": false,
+      "visible": true
+    },
+    {
+      "id": "",
+      "title": "已经保存首次答案，再打开核对入口",
+      "open": false,
+      "visible": true
+    }
+  ],
+  "saveFields": [
+    "listening-review-q1",
+    "listening-review-q2",
+    "listening-review-q3",
+    "listening-review-q4",
+    "listening-review-answer"
+  ],
+  "images": [
+    {
+      "src": "assets/deferred-media/9ee7575746566a3379ded1b9.png",
+      "alt": "新的官方题组 · 115010 · 原题 27–30 · 每空不超过两个词",
+      "visible": false,
+      "complete": false,
+      "width": 0
+    }
+  ],
+  "audio": [
+    {
+      "src": "assets/deferred-media/db6763292844abf87be657a6.mp3",
+      "sources": [],
+      "visible": true,
+      "controls": true
+    }
+  ],
+  "viewport": 1440,
+  "documentWidth": 1440
+}

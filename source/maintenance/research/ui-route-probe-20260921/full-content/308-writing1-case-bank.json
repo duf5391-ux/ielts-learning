@@ -1,0 +1,1427 @@
+{
+  "requested": "writing1-case-bank",
+  "from": [
+    "页面链接"
+  ],
+  "actual": "#writing1-case-bank",
+  "checkedAt": "2026-09-21T12:54:50.345Z",
+  "title": "写作 · Task 1练习 · IELTS",
+  "label": "写作 · Task 1练习",
+  "panel": "practice-writing1",
+  "contentRoot": "writing1-case-bank",
+  "headings": [
+    {
+      "tag": "H2",
+      "text": "看图写作 · 段落练习",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "本次写作任务",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "对照答案，回到证据",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "参考写法",
+      "visible": false
+    },
+    {
+      "tag": "H3",
+      "text": "答后精读",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "篇章结构",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "词语与搭配",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "句子精读",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "本次写作任务",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "对照答案，回到证据",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "参考写法",
+      "visible": false
+    },
+    {
+      "tag": "H3",
+      "text": "答后精读",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "篇章结构",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "词语与搭配",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "句子精读",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "本次写作任务",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "对照答案，回到证据",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "参考写法",
+      "visible": false
+    },
+    {
+      "tag": "H3",
+      "text": "答后精读",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "篇章结构",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "词语与搭配",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "句子精读",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "本次写作任务",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "对照答案，回到证据",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "参考写法",
+      "visible": false
+    },
+    {
+      "tag": "H3",
+      "text": "答后精读",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "篇章结构",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "词语与搭配",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "句子精读",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "本次写作任务",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "对照答案，回到证据",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "参考写法",
+      "visible": false
+    },
+    {
+      "tag": "H3",
+      "text": "答后精读",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "篇章结构",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "词语与搭配",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "句子精读",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "本次写作任务",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "对照答案，回到证据",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "参考写法",
+      "visible": false
+    },
+    {
+      "tag": "H3",
+      "text": "答后精读",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "篇章结构",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "词语与搭配",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "句子精读",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "本次写作任务",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "对照答案，回到证据",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "参考写法",
+      "visible": false
+    },
+    {
+      "tag": "H3",
+      "text": "答后精读",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "篇章结构",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "词语与搭配",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "句子精读",
+      "visible": false
+    },
+    {
+      "tag": "H3",
+      "text": "同题官方考生样本 · Band 8.5 · 1C Script C",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "本次写作任务",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "对照答案，回到证据",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "参考写法",
+      "visible": false
+    },
+    {
+      "tag": "H3",
+      "text": "答后精读",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "篇章结构",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "词语与搭配",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "句子精读",
+      "visible": false
+    }
+  ],
+  "controls": [
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "search",
+      "text": "",
+      "label": "查找",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SELECT",
+      "id": "",
+      "type": "select-one",
+      "text": "全部\n未作答\n已作答",
+      "label": "进度\n全部\n未作答\n已作答",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false,
+      "options": [
+        {
+          "value": "all",
+          "label": "全部"
+        },
+        {
+          "value": "new",
+          "label": "未作答"
+        },
+        {
+          "value": "done",
+          "label": "已作答"
+        }
+      ]
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "继续未做的一组",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "全部",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "折线图 · 2",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "地图 · 1",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "自然流程图 · 1",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "饼图与表格 · 1",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "柱状图 · 1",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "制作流程图 · 1",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "表格 · 1",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "美国四行业就业：峰值、交叉与最终排名未作答\n折线图 · 原题拆段写作 · 参考段落与逐段讲解",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "Cambridge IELTS 21 Academic",
+      "label": "",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=30",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "",
+      "label": "",
+      "href": "case-assets/writing-c21-30.png",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "case-wc-c21-t1-jobs-answer",
+      "type": "textarea",
+      "text": "",
+      "label": "我的段落",
+      "href": null,
+      "save": "case-wc-c21-t1-jobs-answer",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "checkbox",
+      "text": "",
+      "label": "",
+      "href": null,
+      "save": "case-wc-c21-t1-jobs-done",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "hidden",
+      "text": "",
+      "label": "",
+      "href": null,
+      "save": "case-wc-c21-t1-jobs-saved-at",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "保留作答，查看答案",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "case-wc-c21-t1-jobs-revision",
+      "type": "textarea",
+      "text": "",
+      "label": "我的修订／证据笔记",
+      "href": null,
+      "save": "case-wc-c21-t1-jobs-revision",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "学院咖啡厅改造：保留设施与功能替换未作答\n地图 · 原题拆段写作 · 参考段落与逐段讲解",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "Cambridge IELTS 21 Academic",
+      "label": "",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=52",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "",
+      "label": "",
+      "href": "case-assets/writing-c21-52.png",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "case-wc-c21-t2-cafe-answer",
+      "type": "textarea",
+      "text": "",
+      "label": "我的段落",
+      "href": null,
+      "save": "case-wc-c21-t2-cafe-answer",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "checkbox",
+      "text": "",
+      "label": "",
+      "href": null,
+      "save": "case-wc-c21-t2-cafe-done",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "hidden",
+      "text": "",
+      "label": "",
+      "href": null,
+      "save": "case-wc-c21-t2-cafe-saved-at",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "保留作答，查看答案",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "case-wc-c21-t2-cafe-revision",
+      "type": "textarea",
+      "text": "",
+      "label": "我的修订／证据笔记",
+      "href": null,
+      "save": "case-wc-c21-t2-cafe-revision",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "雨影沙漠：越山前后的水分变化未作答\n自然流程图 · 原题拆段写作 · 参考段落与逐段讲解",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "Cambridge IELTS 21 Academic",
+      "label": "",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=73",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "",
+      "label": "",
+      "href": "case-assets/writing-c21-73.png",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "case-wc-c21-t3-rainshadow-answer",
+      "type": "textarea",
+      "text": "",
+      "label": "我的段落",
+      "href": null,
+      "save": "case-wc-c21-t3-rainshadow-answer",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "checkbox",
+      "text": "",
+      "label": "",
+      "href": null,
+      "save": "case-wc-c21-t3-rainshadow-done",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "hidden",
+      "text": "",
+      "label": "",
+      "href": null,
+      "save": "case-wc-c21-t3-rainshadow-saved-at",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "保留作答，查看答案",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "case-wc-c21-t3-rainshadow-revision",
+      "type": "textarea",
+      "text": "",
+      "label": "我的修订／证据笔记",
+      "href": null,
+      "save": "case-wc-c21-t3-rainshadow-revision",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "图书馆用户与满意度：两图的不同分母未作答\n饼图与表格 · 原题拆段写作 · 参考段落与逐段讲解",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "Cambridge IELTS 21 Academic",
+      "label": "",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=95",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "",
+      "label": "",
+      "href": "case-assets/writing-c21-95.png",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "case-wc-c21-t4-library-answer",
+      "type": "textarea",
+      "text": "",
+      "label": "我的段落",
+      "href": null,
+      "save": "case-wc-c21-t4-library-answer",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "checkbox",
+      "text": "",
+      "label": "",
+      "href": null,
+      "save": "case-wc-c21-t4-library-done",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "hidden",
+      "text": "",
+      "label": "",
+      "href": null,
+      "save": "case-wc-c21-t4-library-saved-at",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "保留作答，查看答案",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "case-wc-c21-t4-library-revision",
+      "type": "textarea",
+      "text": "",
+      "label": "我的修订／证据笔记",
+      "href": null,
+      "save": "case-wc-c21-t4-library-revision",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "英国继续教育：人数与学习形式未作答\n柱状图 · 原题拆段写作 · 参考段落与逐段讲解",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "IELTS Academic Writing Sample Tasks (2023)",
+      "label": "",
+      "href": "case-assets/writing-official-sample-tasks-2023.pdf#page=3",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "",
+      "label": "",
+      "href": "case-assets/writing-official-3.png",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "case-wc-official-education-answer",
+      "type": "textarea",
+      "text": "",
+      "label": "我的段落",
+      "href": null,
+      "save": "case-wc-official-education-answer",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "checkbox",
+      "text": "",
+      "label": "",
+      "href": null,
+      "save": "case-wc-official-education-done",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "hidden",
+      "text": "",
+      "label": "",
+      "href": null,
+      "save": "case-wc-official-education-saved-at",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "保留作答，查看答案",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "case-wc-official-education-revision",
+      "type": "textarea",
+      "text": "",
+      "label": "我的修订／证据笔记",
+      "href": null,
+      "save": "case-wc-official-education-revision",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "广播与电视受众：同一天的双峰比较未作答\n折线图 · 原题拆段写作 · 参考段落与逐段讲解",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "IELTS Academic Writing Sample Tasks (2023)",
+      "label": "",
+      "href": "case-assets/writing-official-sample-tasks-2023.pdf#page=4",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "",
+      "label": "",
+      "href": "case-assets/writing-official-4.png",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "case-wc-official-audiences-answer",
+      "type": "textarea",
+      "text": "",
+      "label": "我的段落",
+      "href": null,
+      "save": "case-wc-official-audiences-answer",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "checkbox",
+      "text": "",
+      "label": "",
+      "href": null,
+      "save": "case-wc-official-audiences-done",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "hidden",
+      "text": "",
+      "label": "",
+      "href": null,
+      "save": "case-wc-official-audiences-saved-at",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "保留作答，查看答案",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "case-wc-official-audiences-revision",
+      "type": "textarea",
+      "text": "",
+      "label": "我的修订／证据笔记",
+      "href": null,
+      "save": "case-wc-official-audiences-revision",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "制砖：并行成形路径与温度阶段未作答\n制作流程图 · 原题拆段写作 · 参考段落与逐段讲解",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "IELTS Academic Writing Sample Tasks (2023)",
+      "label": "",
+      "href": "case-assets/writing-official-sample-tasks-2023.pdf#page=5",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "",
+      "label": "",
+      "href": "case-assets/writing-official-5.png",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "case-wc-official-bricks-answer",
+      "type": "textarea",
+      "text": "",
+      "label": "我的段落",
+      "href": null,
+      "save": "case-wc-official-bricks-answer",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "checkbox",
+      "text": "",
+      "label": "",
+      "href": null,
+      "save": "case-wc-official-bricks-done",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "hidden",
+      "text": "",
+      "label": "",
+      "href": null,
+      "save": "case-wc-official-bricks-saved-at",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "保留作答，查看答案",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "case-wc-official-bricks-revision",
+      "type": "textarea",
+      "text": "",
+      "label": "我的修订／证据笔记",
+      "href": null,
+      "save": "case-wc-official-bricks-revision",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "官方作答 · 第16页",
+      "label": "",
+      "href": "case-assets/writing-official-sample-tasks-2023.pdf#page=16",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "考官评语 · 第17页",
+      "label": "",
+      "href": "case-assets/writing-official-sample-tasks-2023.pdf#page=17",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "官方在线原件",
+      "label": "",
+      "href": "https://ielts.org/cdn/Sample-tests/ielts-academic-writing-sample-tasks-2023.pdf#page=16",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "自行车使用率：年龄比较与百分点差未作答\n表格 · 原题拆段写作 · 参考段落与逐段讲解",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "IELTS Academic Writing — modified large print",
+      "label": "",
+      "href": "case-assets/writing-official-large-print.pdf#page=4",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "",
+      "label": "",
+      "href": "case-assets/writing-bicycle-4.png",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "case-wc-official-bicycle-answer",
+      "type": "textarea",
+      "text": "",
+      "label": "我的段落",
+      "href": null,
+      "save": "case-wc-official-bicycle-answer",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "checkbox",
+      "text": "",
+      "label": "",
+      "href": null,
+      "save": "case-wc-official-bicycle-done",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "hidden",
+      "text": "",
+      "label": "",
+      "href": null,
+      "save": "case-wc-official-bicycle-saved-at",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "保留作答，查看答案",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "case-wc-official-bicycle-revision",
+      "type": "textarea",
+      "text": "",
+      "label": "我的修订／证据笔记",
+      "href": null,
+      "save": "case-wc-official-bicycle-revision",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    }
+  ],
+  "visibleText": "看图写作 · 段落练习\n\n用真实题目练习多段写作。先审题并写出自己的段落，再看针对原题的参考写法和修改依据。 共 8 组，来自 8 道不同原题；同源练习已标注。\n\n查找\n进度\n全部\n未作答\n已作答\n继续未做的一组\n全部\n折线图 · 2\n地图 · 1\n自然流程图 · 1\n饼图与表格 · 1\n柱状图 · 1\n制作流程图 · 1\n表格 · 1\n\n显示 8 / 8 组 · 已作答 0 组\n\n美国四行业就业：峰值、交叉与最终排名未作答\n折线图 · 原题拆段写作 · 参考段落与逐段讲解\n0% · 0 / 1 完成\n\n真题 · Cambridge IELTS 21 Academic · PDF 第 30 页\n\nThe graph below gives information about the number of jobs in four sectors of the economy in the US between 1960 and 2020.\n\n点击图示可查看大图。\n本次写作任务\n\n先独立写Overview，再写两个主体段（共约150–180词）：一段写制造业与农业，另一段写零售与医疗。必须给出单位，并交代制造业中途的峰值；不逐点流水账。\n\n我的段落\n\n0 词\n\n保留作答，查看答案\n\n先作答；不确定的题也可记录判断与疑点。\n\n学院咖啡厅改造：保留设施与功能替换未作答\n地图 · 原题拆段写作 · 参考段落与逐段讲解\n0% · 0 / 1 完成\n\n真题 · Cambridge IELTS 21 Academic · PDF 第 52 页\n\nThe plans below show a college café before it was redesigned and how it looks now.\n\n点击图示可查看大图。\n本次写作任务\n\n对照前后两张原图，写Overview和两个主体段（约150–180词）：第一段写室内功能替换，第二段写保留设施与室外扩展。原图没有指北针，用left/right/top/bottom或相对设施定位。\n\n我的段落\n\n0 词\n\n保留作答，查看答案\n\n先作答；不确定的题也可记录判断与疑点。\n\n雨影沙漠：越山前后的水分变化未作答\n自然流程图 · 原题拆段写作 · 参考段落与逐段讲解\n0% · 0 / 1 完成\n\n真题 · Cambridge IELTS 21 Academic · PDF 第 73 页\n\nThe diagram below shows how one type of desert, known as a rain-shadow desert, is formed.\n\n点击图示可查看大图。\n本次写作任务\n\n写Overview与两个主体段（约150–180词），沿原图7个编号描述迎风坡降雨及背风坡干燥；只使用图中可见机制，不添加温度数值或当地名称。\n\n我的段落\n\n0 词\n\n保留作答，查看答案\n\n先作答；不确定的题也可记录判断与疑点。\n\n图书馆用户与满意度：两图的不同分母未作答\n饼图与表格 · 原题拆段写作 · 参考段落与逐段讲解\n0% · 0 / 1 完成\n\n真题 · Cambridge IELTS 21 Academic · PDF 第 95 页\n\nThe chart and table below show the results of a survey of library users at a university.\n\n点击图示可查看大图。\n本次写作任务\n\n写Overview、用户构成段和满意度段（约150–180词）。用表格中的真实百分数作比较；说明44%不是“本科生满意率”，并准确表达percentage points。\n\n我的段落\n\n0 词\n\n保留作答，查看答案\n\n先作答；不确定的题也可记录判断与疑点。\n\n英国继续教育：人数与学习形式未作答\n柱状图 · 原题拆段写作 · 参考段落与逐段讲解\n0% · 0 / 1 完成\n\n官方样题 · IELTS Academic Writing Sample Tasks (2023) · PDF 第 3 页\n\nThe chart below shows the number of men and women in further education in Britain in three periods and whether they were studying full-time or part-time.\n\n点击图示可查看大图。\n本次写作任务\n\n写Overview及两个主体段（约150–180词）：按part-time/full-time分组，跨性别和年份作比较。纵轴是thousands，图上非刻度交点的数使用about。\n\n我的段落\n\n0 词\n\n保留作答，查看答案\n\n先作答；不确定的题也可记录判断与疑点。\n\n广播与电视受众：同一天的双峰比较未作答\n折线图 · 原题拆段写作 · 参考段落与逐段讲解\n0% · 0 / 1 完成\n\n官方样题 · IELTS Academic Writing Sample Tasks (2023) · PDF 第 4 页\n\nThe graph below shows radio and television audiences throughout the day in 1992.\n\n点击图示可查看大图。\n本次写作任务\n\n保留图中一天的完整时间轴，写Overview及两个主体段（约150–180词）。须写清百分比人群、广播早高峰与电视晚高峰；不能把一天内的时段变化写成年增长。\n\n我的段落\n\n0 词\n\n保留作答，查看答案\n\n先作答；不确定的题也可记录判断与疑点。\n\n制砖：并行成形路径与温度阶段未作答\n制作流程图 · 原题拆段写作 · 参考段落与逐段讲解\n0% · 0 / 1 完成\n\n官方样题 · IELTS Academic Writing Sample Tasks (2023) · PDF 第 5 页\n\nThe diagram below shows the process by which bricks are manufactured for the building industry.\n\n点击图示可查看大图。\n本次写作任务\n\n写Overview及两个主体段（约150–180词）。保留wire cutter / mould的二选一分支、24–48小时干燥、两档窑温和48–72小时冷却；按工序分段。\n\n我的段落\n\n0 词\n\n保留作答，查看答案\n\n先作答；不确定的题也可记录判断与疑点。\n\n同题官方考生样本 · Band 8.5 · 1C Script C\n\n优先对照这份同题官方考生稿及考官评语；分数仅属于该原稿。本地参考段落仍为原创教学示范。\n\n官方作答 · 第16页考官评语 · 第17页官方在线原件\n\n先看原样本怎样概括关键阶段，再对照本地短段的分支、时长和温度；8.5仍有概述可改进处。\n\n自行车使用率：年龄比较与百分点差未作答\n表格 · 原题拆段写作 · 参考段落与逐段讲解\n0% · 0 / 1 完成\n\n官方样题 · IELTS Academic Writing — modified large print · PDF 第 4 页\n\nThe table below gives information about the percentage of the population by age group in one town who rode a bicycle in June 2011.\n\n点击图示可查看大图。\n本次写作任务\n\n写Overview及两个比较段（约150–180词），先比较儿童/青少年，再比较成人；指出最低组和60+回升。列出最大性别差距并用percentage points表达。\n\n我的段落\n\n0 词\n\n保留作答，查看答案\n\n先作答；不确定的题也可记录判断与疑点。",
+  "allContent": "看图写作 · 段落练习用真实题目练习多段写作。先审题并写出自己的段落，再看针对原题的参考写法和修改依据。 共 8 组，来自 8 道不同原题；同源练习已标注。查找进度全部未作答已作答继续未做的一组全部折线图 · 2地图 · 1自然流程图 · 1饼图与表格 · 1柱状图 · 1制作流程图 · 1表格 · 1显示 8 / 8 组 · 已作答 0 组没有符合条件的练习，试试更换关键词或进度。美国四行业就业：峰值、交叉与最终排名未作答折线图 · 原题拆段写作 · 参考段落与逐段讲解0% · 0 / 1 完成真题 · Cambridge IELTS 21 Academic · PDF 第 30 页The graph below gives information about the number of jobs in four sectors of the economy in the US between 1960 and 2020.点击图示可查看大图。本次写作任务先独立写Overview，再写两个主体段（共约150–180词）：一段写制造业与农业，另一段写零售与医疗。必须给出单位，并交代制造业中途的峰值；不逐点流水账。我的段落0 词保留作答，查看答案先作答；不确定的题也可记录判断与疑点。对照答案，回到证据参考写法下列段落为针对原题编写的参考写法，用于对照内容和表达；写作没有唯一标准答案。Overall, manufacturing provided the most jobs at the beginning of the period, but it was overtaken by both retail and healthcare by 2020. Healthcare experienced the strongest growth, whereas agricultural employment declined and remained the smallest of the four sectors at the end.Manufacturing employment rose from 15 million in 1960 to a peak of 20 million in 1980. It then fell to approximately 17 million in 2000 and 13 million in 2020. Agriculture followed a different pattern: its workforce dropped from about 6 million to 3 million during the first twenty years, remained at that level in 2000, and decreased to roughly 2 million by the end.By contrast, the number of retail jobs increased throughout, from around 6 million in 1960 to 10 million in 1980 and 15 million in 2000, before reaching about 16 million in 2020. Healthcare grew from only 2 million jobs to 5 million and then 11 million, eventually matching retail at approximately 16 million.原图纵轴是Jobs in millions：15表示1500万个岗位，不是15%或15万人。制造业1980年达到20 million，之后下降；不能概括为1960–2020持续下降。零售与医疗2020年约16 million并列；医疗从2到16增长约14 million，增幅最大。农业1980与2000均约3 million，不能写每阶段都下降。答后精读篇章结构Overview回答主导行业更替与两组趋势。主体一合并峰值后下降的制造业和总体下降的农业。主体二并写增长行业，用最终并列收束比较。词语与搭配rise to a peak of 20 million：峰值位置与单位同时保留。be overtaken by：排名改变；这里由2020年的终点比较支持。eventually matching retail：结果分词短语，不再重复整句。句子精读Manufacturing employment rose from 15 million in 1960 to a peak of 20 million in 1980. → from交代起点，to交代终点；of连接峰值大小。Healthcare grew ... eventually matching retail ... → matching的主语仍是Healthcare，不是2020。我的修订／证据笔记学院咖啡厅改造：保留设施与功能替换未作答地图 · 原题拆段写作 · 参考段落与逐段讲解0% · 0 / 1 完成真题 · Cambridge IELTS 21 Academic · PDF 第 52 页The plans below show a college café before it was redesigned and how it looks now.点击图示可查看大图。本次写作任务对照前后两张原图，写Overview和两个主体段（约150–180词）：第一段写室内功能替换，第二段写保留设施与室外扩展。原图没有指北针，用left/right/top/bottom或相对设施定位。我的段落0 词保留作答，查看答案先作答；不确定的题也可记录判断与疑点。对照答案，回到证据参考写法下列段落为针对原题编写的参考写法，用于对照内容和表达；写作没有唯一标准答案。Overall, the café has been redesigned to offer a wider range of food and drink services, and an outdoor seating area has been added. The kitchen and toilets remain in their original positions, while the former staff dining rooms now serve different purposes.Previously, all food and drink were available from a single serving area directly below the kitchen. This counter is now used for hot meals, and a salad bar has been installed along the left-hand wall of the main seating area. The two staff dining rooms along the upper edge of the main seating area have been converted into a takeaway food outlet and a coffee bar respectively. Tables and chairs still occupy the main central area.At the bottom of the present plan, an outdoor seating area extends beyond the former café boundary, with a barbecue at its left end. New doorways connect this area to the interior. Near the entrance on the right-hand side, recycling bins have replaced the original bin, while the toilets remain in the lower-right corner.不是“图书馆改造”：真实材料是college café。两间staff dining rooms分别变为take away food和coffee bar，必须对应两处功能。厨房与厕所位置保留；增设沙拉吧、室外座位、barbecue，bin改为recycling bins。原图对比过去与现在，故用previously + past、now + present以及has been added；没有未来规划，不能用will be built。答后精读篇章结构概述先概括服务多样化和室外扩展，再点出保留。室内按厨房—服务区—原职工餐厅的邻接关系走图。室外扩展与入口附近小变化同段收尾。词语与搭配have been converted into：旧功能转为新功能。remain in their original positions：明确保留而不是遗漏。beyond the former café boundary：说明扩展到原边界之外。句子精读The two staff dining rooms ... have been converted into a takeaway food outlet and a coffee bar respectively. → respectively按列举顺序配对，不能互换位置。with a barbecue at its left end → its指outdoor seating area；没有虚构东南西北。我的修订／证据笔记雨影沙漠：越山前后的水分变化未作答自然流程图 · 原题拆段写作 · 参考段落与逐段讲解0% · 0 / 1 完成真题 · Cambridge IELTS 21 Academic · PDF 第 73 页The diagram below shows how one type of desert, known as a rain-shadow desert, is formed.点击图示可查看大图。本次写作任务写Overview与两个主体段（约150–180词），沿原图7个编号描述迎风坡降雨及背风坡干燥；只使用图中可见机制，不添加温度数值或当地名称。我的段落0 词保留作答，查看答案先作答；不确定的题也可记录判断与疑点。对照答案，回到证据参考写法下列段落为针对原题编写的参考写法，用于对照内容和表达；写作没有唯一标准答案。Overall, rain-shadow deserts form inland after winds have crossed a mountain range. The key contrast is between the windward side, where rising moist air produces clouds and rain, and the leeward side, where the air continues towards the interior in a dry state.The process begins when winds approach the coast from the sea. On reaching the mountains, they are pushed upwards along the windward slope. As the moist air rises, it cools, and clouds form above this side of the mountains. Rain then falls, removing moisture from the air before it passes over the mountain range. These are successive stages rather than two separate routes through the diagram.The remaining dry air continues over the summit and moves down the leeward side. Dry winds subsequently reach areas further inland, where a rain-shadow desert is found. The diagram indicates that the distance from the coast towards this inland area can extend over thousands of kilometres, emphasising that the final dry region lies beyond the mountain barrier.原图7步：海风到岸→被迫抬升→湿空气升高冷却→云形成→下雨→干空气越山→干风抵达内陆。用windward与leeward形成机制对比，而不是编造沙漠经历采矿或开垦。图上仅标thousands of kilometres，不能改为准确3000公里；这是空间尺度，不是形成所需时间。答后精读篇章结构Overview交代终点与关键转变：湿气在越山前被降雨带走。主体一描述迎风坡上的连续阶段。主体二描述背风坡及最终形成的内陆干燥区。词语与搭配on reaching the mountains：on + 动名词表示“一到达”。as the moist air rises：as联系同步发生的上升与冷却。in a dry state：准确描述性质变化而非另加数字。句子精读As the moist air rises, it cools, and clouds form ... → 一个时间/伴随从句连接三个连续变化。where a rain-shadow desert is found → where修饰areas further inland，不指海岸。我的修订／证据笔记图书馆用户与满意度：两图的不同分母未作答饼图与表格 · 原题拆段写作 · 参考段落与逐段讲解0% · 0 / 1 完成真题 · Cambridge IELTS 21 Academic · PDF 第 95 页The chart and table below show the results of a survey of library users at a university.点击图示可查看大图。本次写作任务写Overview、用户构成段和满意度段（约150–180词）。用表格中的真实百分数作比较；说明44%不是“本科生满意率”，并准确表达percentage points。我的段落0 词保留作答，查看答案先作答；不确定的题也可记录判断与疑点。对照答案，回到证据参考写法下列段落为针对原题编写的参考写法，用于对照内容和表达；写作没有唯一标准答案。Overall, full-time undergraduates formed the largest group of library users, while academic staff accounted for the smallest share. Satisfaction was particularly strong for staff helpfulness and opening hours, whereas journals and wi-fi attracted the highest proportions of dissatisfied responses.Full-time undergraduates represented 44% of users, followed by full-time postgraduates at 25%. Part-time postgraduates made up a further 16%, meaning that postgraduate students together accounted for 41%, slightly less than the undergraduate group. Distance learners and academic staff comprised the remaining 8% and 7% respectively.Turning to the services, 95% of users were very satisfied with staff helpfulness, compared with 65% for opening hours, a difference of 30 percentage points. Neither item received any dissatisfied responses. The shares who were very satisfied with books, journals and wi-fi were considerably lower, at 50%, 45% and 48%. Dissatisfaction with journals was highest at 20%, closely followed by wi-fi at 19%, while the figure for books was 10%.饼图分母为所有library users；表格每行是该服务的满意度分布。44%本科用户不能说成44%本科生满意。95%与65%的差是30个百分点，不是“30%增长”；本题没有年份变化。研究生两组25%+16%=41%，与本科44%可作合并比较；原图各类总计100%。答后精读篇章结构概述分别覆盖用户构成、服务评价。一段只处理饼图，合理合并两类研究生。一段处理表格，先最佳两项，再比较较弱三项。词语与搭配accounted for / represented / made up：静态占比动词。a difference of 30 percentage points：两个百分数相减。closely followed by：指出19%与20%接近。句子精读Neither item received any dissatisfied responses. → neither覆盖刚提到的staff helpfulness和opening hours。meaning that postgraduate students together accounted for 41% → 合并的是同一总体下的两个互斥类别。我的修订／证据笔记英国继续教育：人数与学习形式未作答柱状图 · 原题拆段写作 · 参考段落与逐段讲解0% · 0 / 1 完成官方样题 · IELTS Academic Writing Sample Tasks (2023) · PDF 第 3 页The chart below shows the number of men and women in further education in Britain in three periods and whether they were studying full-time or part-time.点击图示可查看大图。本次写作任务写Overview及两个主体段（约150–180词）：按part-time/full-time分组，跨性别和年份作比较。纵轴是thousands，图上非刻度交点的数使用about。我的段落0 词保留作答，查看答案先作答；不确定的题也可记录判断与疑点。对照答案，回到证据参考写法下列段落为针对原题编写的参考写法，用于对照内容和表达；写作没有唯一标准答案。Overall, part-time study was much more common than full-time study among both men and women in all three periods. Female participation increased in both modes, and by 1990/91 women outnumbered men in part-time education, while the numbers studying full-time were similar.About one million men studied part-time in 1970/71, compared with roughly 750,000 women. Male participation then declined to around 850,000 in 1980/81 before recovering to about 900,000 in 1990/91. The corresponding female figure rose steadily, reaching just over 800,000 in the middle period and approximately 1.1 million in the final one. Thus, the initial male lead was reversed by the end.Full-time numbers were considerably smaller. Around 100,000 men followed full-time courses in 1970/71, compared with fewer than 100,000 women. Both figures subsequently increased. Female full-time participation had moved above the male figure by 1980/81, and by 1990/91 the totals for the two sexes were both in the region of a quarter of a million.纵轴thousands：1000相当于1,000,000人；不能把灰柱1000写成1000人或1000%。灰柱part-time始终远高于黑柱full-time。男性part-time先降后回升，不能写三期持续上升。女性part-time最终约1.1 million高于男性约0.9 million；采用图形估读的约数，不把粗图假装精确调查数据。答后精读篇章结构Overview横跨两个性别和两种形式。主体一用part-time的起点差距、转折、终点反转构成比较链。主体二把较小的full-time群体集中处理。词语与搭配outnumbered men：人数超过男性，而非增长率超过男性。the corresponding female figure：省去重复part-time participation。in the region of a quarter of a million：粗图估读的稳妥表达。句子精读Male participation then declined ... before recovering ... → before后动名词标示先降后升。Thus, the initial male lead was reversed by the end. → 总结比较，不添加原因。我的修订／证据笔记广播与电视受众：同一天的双峰比较未作答折线图 · 原题拆段写作 · 参考段落与逐段讲解0% · 0 / 1 完成官方样题 · IELTS Academic Writing Sample Tasks (2023) · PDF 第 4 页The graph below shows radio and television audiences throughout the day in 1992.点击图示可查看大图。本次写作任务保留图中一天的完整时间轴，写Overview及两个主体段（约150–180词）。须写清百分比人群、广播早高峰与电视晚高峰；不能把一天内的时段变化写成年增长。我的段落0 词保留作答，查看答案先作答；不确定的题也可记录判断与疑点。对照答案，回到证据参考写法下列段落为针对原题编写的参考写法，用于对照内容和表达；写作没有唯一标准答案。Overall, radio attracted its largest audience in the morning, while television viewing was concentrated in the evening. Television reached a substantially higher peak than radio, and both media had very small audiences during the early hours of the morning.At 6 a.m., approximately 5% of the UK population aged over four listened to the radio, while virtually nobody was watching television. Radio listening rose rapidly to a peak of about 27% at around 8 a.m. It then generally declined through the day, despite a modest recovery in the late afternoon. By late evening, the figure had fallen to well below 10%, and it approached zero during the night.Television viewing remained below 10% throughout the morning before rising around lunchtime and overtaking radio early in the afternoon. After a brief period near 15%, the television audience increased sharply in the late afternoon and evening, peaking at roughly 45–47% around 8 p.m. It subsequently dropped steeply, especially after midnight, and was only a few per cent by the following morning.对象是UK population over 4 years old；百分比不能写成millions。图题范围October–December 1992，横轴6am到次日6am。广播峰值约27%，电视约45–47%；粗线图允许about，不需要虚构47.3%。“overtaking radio early in the afternoon”来自两线相交；不能把晚间电视优势扩成全天每时段都更高。答后精读篇章结构Overview先比峰值出现时段，再比峰值大小。广播段按主要升降，不追逐每个小波动。电视段突出午后反超、晚间最高、午夜后下降。词语与搭配was concentrated in the evening：集中发生的时间。despite a modest recovery：概括主趋势中的小反向变化。virtually nobody：接近零，不强行写0.0%。句子精读It then generally declined ... despite a modest recovery ... → generally给真实波动留空间。After a brief period near 15%, ... → 介词短语给出第二次明显上涨前的平台。我的修订／证据笔记制砖：并行成形路径与温度阶段未作答制作流程图 · 原题拆段写作 · 参考段落与逐段讲解0% · 0 / 1 完成官方样题 · IELTS Academic Writing Sample Tasks (2023) · PDF 第 5 页The diagram below shows the process by which bricks are manufactured for the building industry.点击图示可查看大图。本次写作任务写Overview及两个主体段（约150–180词）。保留wire cutter / mould的二选一分支、24–48小时干燥、两档窑温和48–72小时冷却；按工序分段。我的段落0 词保留作答，查看答案先作答；不确定的题也可记录判断与疑点。对照答案，回到证据参考写法下列段落为针对原题编写的参考写法，用于对照内容和表达；写作没有唯一标准答案。Overall, brick manufacture begins with the excavation of clay and ends with the packaging and delivery of the finished product. The material passes through preparation, shaping, drying, heating and cooling, with two alternative methods available for forming individual bricks.First, clay is dug from the ground by a mechanical digger and placed on a metal grid above a roller. The material is broken into smaller pieces before sand and water are added. The resulting mixture is then shaped into bricks either by a wire cutter or by being placed in moulds. These are alternative routes at the same stage, rather than consecutive operations that every brick must undergo.The newly formed bricks are dried in an oven for 24 to 48 hours. They are then heated in a kiln, initially at a moderate temperature of 200–980°C and subsequently at a higher temperature of 870–1300°C. After this, they spend 48 to 72 hours in a cooling chamber. Finally, the cooled bricks are packaged and loaded for delivery by truck.原图or连接wire cutter和mould，参考写法用either ... or，不能写先切后入模。干燥24–48h与冷却48–72h不同；窑炉先200–980°C、后870–1300°C，区间重叠是原图数据，不自行“纠正”。被动语态描述材料经历：is dug / are added / are dried；无需凭空添加工人或工厂地点。答后精读篇章结构Overview起终点加主要加工阶段。前段写原料准备与成形分支。后段写热处理、冷却和配送。词语与搭配either by a wire cutter or by being placed in moulds：两种方式保持平行。initially ... subsequently：区分两档窑温。the resulting mixture：回指已经加入沙和水的黏土。句子精读The material is broken into smaller pieces before sand and water are added. → 两个被动结构保留明确先后。They are then heated ... initially ... and subsequently ... → 同一heated谓语承接两个温度阶段。我的修订／证据笔记同题官方考生样本 · Band 8.5 · 1C Script C优先对照这份同题官方考生稿及考官评语；分数仅属于该原稿。本地参考段落仍为原创教学示范。官方作答 · 第16页考官评语 · 第17页官方在线原件先看原样本怎样概括关键阶段，再对照本地短段的分支、时长和温度；8.5仍有概述可改进处。自行车使用率：年龄比较与百分点差未作答表格 · 原题拆段写作 · 参考段落与逐段讲解0% · 0 / 1 完成官方样题 · IELTS Academic Writing — modified large print · PDF 第 4 页The table below gives information about the percentage of the population by age group in one town who rode a bicycle in June 2011.点击图示可查看大图。本次写作任务写Overview及两个比较段（约150–180词），先比较儿童/青少年，再比较成人；指出最低组和60+回升。列出最大性别差距并用percentage points表达。我的段落0 词保留作答，查看答案先作答；不确定的题也可记录判断与疑点。对照答案，回到证据参考写法下列段落为针对原题编写的参考写法，用于对照内容和表达；写作没有唯一标准答案。Overall, cycling was most common among children under ten and least common in the 40–59 age group. Males had higher participation rates than females in every category, although the difference between the sexes was very small among the youngest children.Among those aged 0–9, 51.3% of males and 50.3% of females rode a bicycle, a gap of just one percentage point. Participation was lower among 10–17-year-olds, at 42.2% for males and 24.6% for females. This group therefore had the largest gender difference, amounting to 17.6 percentage points, with the male figure considerably higher than the female one.The proportions were smaller in both adult groups below sixty. For people aged 18–39, the rates were 17.1% and 9.7% respectively, falling to 12.3% and 8.0% among 40–59-year-olds. However, the figures rose again in the oldest category: 18.5% of men and 13.2% of women aged sixty or above cycled. Thus, participation did not simply decrease continuously across the age groups.这是June 2011单月横截面：年龄组之间差异不证明同一批人随时间减少骑行。10–17岁差距42.2−24.6=17.6个百分点；0–9岁差距1.0个百分点。两性最低都是40–59岁，60+均回升；不能写年龄越大比例总是越低。答后精读篇章结构Overview同时覆盖年龄高低与性别关系。前段突出高参与儿童及最大差距青少年。后段写成人低谷与60+例外。词语与搭配a gap of just one percentage point：不是one per cent decrease。amounting to 17.6 percentage points：补充精确差值。across the age groups：年龄间比较，避免错误时间趋势。句子精读For people aged 18–39, the rates were 17.1% and 9.7% respectively ... → 顺序沿用前段male/female。However, the figures rose again in the oldest category ... → rose描述相邻年龄组数值变化，最后一句明确并非持续时间变化。我的修订／证据笔记",
+  "links": [
+    {
+      "text": "Cambridge IELTS 21 Academic",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=30"
+    },
+    {
+      "text": "",
+      "href": "case-assets/writing-c21-30.png"
+    },
+    {
+      "text": "Cambridge IELTS 21 Academic",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=52"
+    },
+    {
+      "text": "",
+      "href": "case-assets/writing-c21-52.png"
+    },
+    {
+      "text": "Cambridge IELTS 21 Academic",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=73"
+    },
+    {
+      "text": "",
+      "href": "case-assets/writing-c21-73.png"
+    },
+    {
+      "text": "Cambridge IELTS 21 Academic",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=95"
+    },
+    {
+      "text": "",
+      "href": "case-assets/writing-c21-95.png"
+    },
+    {
+      "text": "IELTS Academic Writing Sample Tasks (2023)",
+      "href": "case-assets/writing-official-sample-tasks-2023.pdf#page=3"
+    },
+    {
+      "text": "",
+      "href": "case-assets/writing-official-3.png"
+    },
+    {
+      "text": "IELTS Academic Writing Sample Tasks (2023)",
+      "href": "case-assets/writing-official-sample-tasks-2023.pdf#page=4"
+    },
+    {
+      "text": "",
+      "href": "case-assets/writing-official-4.png"
+    },
+    {
+      "text": "IELTS Academic Writing Sample Tasks (2023)",
+      "href": "case-assets/writing-official-sample-tasks-2023.pdf#page=5"
+    },
+    {
+      "text": "",
+      "href": "case-assets/writing-official-5.png"
+    },
+    {
+      "text": "官方作答 · 第16页",
+      "href": "case-assets/writing-official-sample-tasks-2023.pdf#page=16"
+    },
+    {
+      "text": "考官评语 · 第17页",
+      "href": "case-assets/writing-official-sample-tasks-2023.pdf#page=17"
+    },
+    {
+      "text": "官方在线原件",
+      "href": "https://ielts.org/cdn/Sample-tests/ielts-academic-writing-sample-tasks-2023.pdf#page=16"
+    },
+    {
+      "text": "IELTS Academic Writing — modified large print",
+      "href": "case-assets/writing-official-large-print.pdf#page=4"
+    },
+    {
+      "text": "",
+      "href": "case-assets/writing-bicycle-4.png"
+    }
+  ],
+  "details": [
+    {
+      "id": "writing1-case-wc-c21-t1-jobs",
+      "title": "美国四行业就业：峰值、交叉与最终排名未作答折线图 · 原题拆段写作 · 参考段落与逐段讲解",
+      "open": true,
+      "visible": true
+    },
+    {
+      "id": "writing1-case-wc-c21-t2-cafe",
+      "title": "学院咖啡厅改造：保留设施与功能替换未作答地图 · 原题拆段写作 · 参考段落与逐段讲解",
+      "open": true,
+      "visible": true
+    },
+    {
+      "id": "writing1-case-wc-c21-t3-rainshadow",
+      "title": "雨影沙漠：越山前后的水分变化未作答自然流程图 · 原题拆段写作 · 参考段落与逐段讲解",
+      "open": true,
+      "visible": true
+    },
+    {
+      "id": "writing1-case-wc-c21-t4-library",
+      "title": "图书馆用户与满意度：两图的不同分母未作答饼图与表格 · 原题拆段写作 · 参考段落与逐段讲解",
+      "open": true,
+      "visible": true
+    },
+    {
+      "id": "writing1-case-wc-official-education",
+      "title": "英国继续教育：人数与学习形式未作答柱状图 · 原题拆段写作 · 参考段落与逐段讲解",
+      "open": true,
+      "visible": true
+    },
+    {
+      "id": "writing1-case-wc-official-audiences",
+      "title": "广播与电视受众：同一天的双峰比较未作答折线图 · 原题拆段写作 · 参考段落与逐段讲解",
+      "open": true,
+      "visible": true
+    },
+    {
+      "id": "writing1-case-wc-official-bricks",
+      "title": "制砖：并行成形路径与温度阶段未作答制作流程图 · 原题拆段写作 · 参考段落与逐段讲解",
+      "open": true,
+      "visible": true
+    },
+    {
+      "id": "writing1-case-wc-official-bicycle",
+      "title": "自行车使用率：年龄比较与百分点差未作答表格 · 原题拆段写作 · 参考段落与逐段讲解",
+      "open": true,
+      "visible": true
+    }
+  ],
+  "saveFields": [
+    "case-wc-c21-t1-jobs-answer",
+    "case-wc-c21-t1-jobs-done",
+    "case-wc-c21-t1-jobs-saved-at",
+    "case-wc-c21-t1-jobs-revision",
+    "case-wc-c21-t2-cafe-answer",
+    "case-wc-c21-t2-cafe-done",
+    "case-wc-c21-t2-cafe-saved-at",
+    "case-wc-c21-t2-cafe-revision",
+    "case-wc-c21-t3-rainshadow-answer",
+    "case-wc-c21-t3-rainshadow-done",
+    "case-wc-c21-t3-rainshadow-saved-at",
+    "case-wc-c21-t3-rainshadow-revision",
+    "case-wc-c21-t4-library-answer",
+    "case-wc-c21-t4-library-done",
+    "case-wc-c21-t4-library-saved-at",
+    "case-wc-c21-t4-library-revision",
+    "case-wc-official-education-answer",
+    "case-wc-official-education-done",
+    "case-wc-official-education-saved-at",
+    "case-wc-official-education-revision",
+    "case-wc-official-audiences-answer",
+    "case-wc-official-audiences-done",
+    "case-wc-official-audiences-saved-at",
+    "case-wc-official-audiences-revision",
+    "case-wc-official-bricks-answer",
+    "case-wc-official-bricks-done",
+    "case-wc-official-bricks-saved-at",
+    "case-wc-official-bricks-revision",
+    "case-wc-official-bicycle-answer",
+    "case-wc-official-bicycle-done",
+    "case-wc-official-bicycle-saved-at",
+    "case-wc-official-bicycle-revision"
+  ],
+  "images": [
+    {
+      "src": "case-assets/writing-c21-30.png",
+      "alt": "美国四行业就业：峰值、交叉与最终排名 · 原题图示，点击查看大图",
+      "visible": true,
+      "complete": true,
+      "width": 1399
+    },
+    {
+      "src": "case-assets/writing-c21-52.png",
+      "alt": "学院咖啡厅改造：保留设施与功能替换 · 原题图示，点击查看大图",
+      "visible": true,
+      "complete": true,
+      "width": 0
+    },
+    {
+      "src": "case-assets/writing-c21-73.png",
+      "alt": "雨影沙漠：越山前后的水分变化 · 原题图示，点击查看大图",
+      "visible": true,
+      "complete": true,
+      "width": 0
+    },
+    {
+      "src": "case-assets/writing-c21-95.png",
+      "alt": "图书馆用户与满意度：两图的不同分母 · 原题图示，点击查看大图",
+      "visible": true,
+      "complete": true,
+      "width": 0
+    },
+    {
+      "src": "case-assets/writing-official-3.png",
+      "alt": "英国继续教育：人数与学习形式 · 原题图示，点击查看大图",
+      "visible": true,
+      "complete": true,
+      "width": 0
+    },
+    {
+      "src": "case-assets/writing-official-4.png",
+      "alt": "广播与电视受众：同一天的双峰比较 · 原题图示，点击查看大图",
+      "visible": true,
+      "complete": true,
+      "width": 0
+    },
+    {
+      "src": "case-assets/writing-official-5.png",
+      "alt": "制砖：并行成形路径与温度阶段 · 原题图示，点击查看大图",
+      "visible": true,
+      "complete": true,
+      "width": 0
+    },
+    {
+      "src": "case-assets/writing-bicycle-4.png",
+      "alt": "自行车使用率：年龄比较与百分点差 · 原题图示，点击查看大图",
+      "visible": true,
+      "complete": true,
+      "width": 0
+    }
+  ],
+  "audio": [],
+  "viewport": 1440,
+  "documentWidth": 1440
+}

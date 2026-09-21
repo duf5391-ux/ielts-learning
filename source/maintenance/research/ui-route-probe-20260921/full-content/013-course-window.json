@@ -1,0 +1,1217 @@
+{
+  "requested": "course-window",
+  "from": [
+    "主面板",
+    "页面链接"
+  ],
+  "actual": "#course-window",
+  "checkedAt": "2026-09-21T12:50:37.441Z",
+  "title": "我的定制课程 · IELTS",
+  "label": "我的定制课程",
+  "panel": "course-window",
+  "contentRoot": "course-window",
+  "headings": [
+    {
+      "tag": "H1",
+      "text": "定制学习",
+      "visible": true
+    },
+    {
+      "tag": "H2",
+      "text": "我的学习窗口",
+      "visible": true
+    },
+    {
+      "tag": "H2",
+      "text": "示例微课：把因果表达用于 Task 2 论证",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "起点诊断：先按自己会的表达",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "练习短文：In a survey of 40 students at one college, those who used the library more often also reported higher course satisfaction. The survey did not test whether library use caused the difference.\n哪句话保留了短文实际提供的信息？",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "练习情境：A box blocked the safety sensor. The sensor then stopped the conveyor belt, as it was designed to do.\n用一句英语报告箱子与传送带停止之间的关系。使用自己会的表达即可，再用中文写出支持这句话的材料信息。",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "材料 → 考试：这条原料练什么",
+      "visible": false
+    },
+    {
+      "tag": "H3",
+      "text": "考试 → 材料：要求有没有被覆盖",
+      "visible": false
+    },
+    {
+      "tag": "H3",
+      "text": "适用范围与可补充内容",
+      "visible": false
+    },
+    {
+      "tag": "H3",
+      "text": "选材与考试依据",
+      "visible": false
+    }
+  ],
+  "controls": [
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "← 返回学习",
+      "label": "",
+      "href": "#study",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "cw-export-brief",
+      "type": "button",
+      "text": "导出课程设计需求 .md",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "cw-export-backup",
+      "type": "button",
+      "text": "备份窗口与全部作答",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "cw-import-file",
+      "type": "file",
+      "text": "",
+      "label": "导入设计好的课程／合并恢复备份",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "添加这一批原料／能力要求",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "cw-intake-title",
+      "type": "text",
+      "text": "",
+      "label": "例如：把这 5 个搭配用进教育话题",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SELECT",
+      "id": "cw-intake-type",
+      "type": "select-one",
+      "text": "",
+      "label": "",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false,
+      "options": [
+        {
+          "value": "mixed",
+          "label": "混合资料"
+        },
+        {
+          "value": "technique",
+          "label": "技巧"
+        },
+        {
+          "value": "corpus",
+          "label": "语料"
+        },
+        {
+          "value": "vocabulary",
+          "label": "词汇"
+        },
+        {
+          "value": "requirement",
+          "label": "能力要求"
+        }
+      ]
+    },
+    {
+      "tag": "SELECT",
+      "id": "cw-intake-minutes",
+      "type": "select-one",
+      "text": "",
+      "label": "",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false,
+      "options": [
+        {
+          "value": "5",
+          "label": "5 分钟"
+        },
+        {
+          "value": "10",
+          "label": "10 分钟"
+        },
+        {
+          "value": "15",
+          "label": "15 分钟"
+        }
+      ]
+    },
+    {
+      "tag": "SELECT",
+      "id": "cw-intake-exam",
+      "type": "select-one",
+      "text": "",
+      "label": "",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false,
+      "options": [
+        {
+          "value": "infer",
+          "label": "根据材料判断"
+        },
+        {
+          "value": "reading",
+          "label": "阅读"
+        },
+        {
+          "value": "listening",
+          "label": "听力"
+        },
+        {
+          "value": "writing-task1",
+          "label": "Academic Writing Task 1"
+        },
+        {
+          "value": "writing-task2",
+          "label": "Writing Task 2"
+        },
+        {
+          "value": "speaking",
+          "label": "口语"
+        }
+      ]
+    },
+    {
+      "tag": "INPUT",
+      "id": "cw-intake-band",
+      "type": "text",
+      "text": "",
+      "label": "可选，例如目标 7；不据此推断当前水平",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "cw-intake-raw",
+      "type": "textarea",
+      "text": "",
+      "label": "粘贴技巧、词汇、语料；仅提能力要求时可留空。",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "cw-intake-requirement",
+      "type": "textarea",
+      "text": "",
+      "label": "我想在什么情境下做到什么？有什么约束？",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "cw-intake-context",
+      "type": "textarea",
+      "text": "",
+      "label": "例如：认识词义，但独立写句子时想不起来；提示后可以完成。",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "cw-intake-save",
+      "type": "submit",
+      "text": "",
+      "label": "",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "",
+      "label": "",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "示例微课：把因果表达用于 Task 2 论证 · 示例",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "学习量与继续建议（可选）",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "",
+      "label": "",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "",
+      "label": "",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "",
+      "label": "",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "",
+      "label": "",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "1 先做一题",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "2 理解用法",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "3 练习",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "4 换个情境",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "5 可选加练",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "查看对应讲解（计为看过提示）",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SELECT",
+      "id": "",
+      "type": "select-one",
+      "text": "请选择……\nUsing the library led to higher grades for all students.\nMore frequent library use was associated with higher reported course satisfaction in this survey.\nThe survey proved that library use contributed to students' satisfaction.",
+      "label": "你的作答\n请选择……\nUsing the library led to higher grades for all students.\nMore frequent library use was associated with higher reported course satisfaction in this survey.\nThe survey proved that library use contributed to students' satisfaction.",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false,
+      "options": [
+        {
+          "value": "",
+          "label": "请选择……"
+        },
+        {
+          "value": "a",
+          "label": "Using the library led to higher grades for all students."
+        },
+        {
+          "value": "b",
+          "label": "More frequent library use was associated with higher reported course satisfaction in this survey."
+        },
+        {
+          "value": "c",
+          "label": "The survey proved that library use contributed to students' satisfaction."
+        }
+      ]
+    },
+    {
+      "tag": "SELECT",
+      "id": "",
+      "type": "select-one",
+      "text": "本次未用提示\n本次用了提示\n本次看过讲解／参考",
+      "label": "本次使用的帮助\n本次未用提示\n本次用了提示\n本次看过讲解／参考",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false,
+      "options": [
+        {
+          "value": "independent",
+          "label": "本次未用提示"
+        },
+        {
+          "value": "hinted",
+          "label": "本次用了提示"
+        },
+        {
+          "value": "reference",
+          "label": "本次看过讲解／参考"
+        }
+      ]
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "提交这次作答",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "查看对应讲解（计为看过提示）",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "你的作答",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SELECT",
+      "id": "",
+      "type": "select-one",
+      "text": "本次未用提示\n本次用了提示\n本次看过讲解／参考",
+      "label": "本次使用的帮助\n本次未用提示\n本次用了提示\n本次看过讲解／参考",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false,
+      "options": [
+        {
+          "value": "independent",
+          "label": "本次未用提示"
+        },
+        {
+          "value": "hinted",
+          "label": "本次用了提示"
+        },
+        {
+          "value": "reference",
+          "label": "本次看过讲解／参考"
+        }
+      ]
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "提交这次作答",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "← 上一节",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": true,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "下一节 →",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "本课材料与练习目标",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "",
+      "label": "",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "",
+      "label": "",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "",
+      "label": "",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "",
+      "label": "",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "",
+      "label": "",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "",
+      "label": "",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "",
+      "label": "",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "",
+      "label": "",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "",
+      "label": "",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "",
+      "label": "",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "",
+      "label": "",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "",
+      "label": "",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "",
+      "label": "",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "",
+      "label": "",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "",
+      "label": "",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "",
+      "label": "",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "",
+      "label": "",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "",
+      "label": "",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "",
+      "label": "",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "",
+      "label": "",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "",
+      "label": "",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "",
+      "label": "",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "",
+      "label": "",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "",
+      "label": "",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "",
+      "label": "",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "",
+      "label": "",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "",
+      "label": "",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "",
+      "label": "",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "",
+      "label": "",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "",
+      "label": "",
+      "href": "https://ielts.org/take-a-test/test-types/ielts-academic-test/ielts-academic-format-writing",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "",
+      "label": "",
+      "href": "https://ielts.org/cdn/ielts-guides/ielts-writing-band-descriptors.pdf",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "",
+      "label": "",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "",
+      "label": "",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "",
+      "label": "",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "",
+      "label": "",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "",
+      "label": "",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "",
+      "label": "",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "",
+      "label": "",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "",
+      "label": "",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "",
+      "label": "",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "",
+      "label": "",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "",
+      "label": "",
+      "href": "https://ielts.org/cdn/ielts-guides/ielts-writing-band-descriptors.pdf",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "",
+      "label": "",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "",
+      "label": "",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "",
+      "label": "",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "",
+      "label": "",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "",
+      "label": "",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "",
+      "label": "",
+      "href": "https://ielts.org/cdn/ielts-guides/ielts-writing-band-descriptors.pdf",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "",
+      "label": "",
+      "href": "https://ielts.org/take-a-test/test-types/ielts-academic-test/ielts-academic-format-writing",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "",
+      "label": "",
+      "href": "https://ielts.org/cdn/ielts-guides/ielts-writing-band-descriptors.pdf",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "",
+      "label": "",
+      "href": "https://ielts.org/cdn/Sample-tests/ielts-academic-writing-sample-tasks-2023.pdf#page=7",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "全部尝试记录 · 0 次",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    }
+  ],
+  "visibleText": "← 返回学习\n\nYOUR MATERIALS · EXAM PRACTICE\n\n定制学习\n\n从你给的内容出发，按考试真正要求的能力来设计课。\n\n用自己的资料安排学习\n\n课程围绕具体学习目标安排讲解、练习与反馈。进入课程后，先了解本次任务和适用范围，再按阶段作答、核对与复习。\n\n这里可以保存材料和学习目标，并导入整理好的课程；保存材料不会自动生成课程。已有课程与作答记录可单独导出备份。\n\n导出课程设计需求 .md\n备份窗口与全部作答\n导入设计好的课程／合并恢复备份\n添加这一批原料／能力要求\n我的学习窗口\n\n0 批待设计 · 0 门已设计课程 · 示例单独体验，不计入我的批次。\n\n示例微课：把因果表达用于 Task 2 论证 · 示例\n\n示例课程 · 用来体验流程，不代表你的能力诊断\n\n示例微课：把因果表达用于 Task 2 论证\n\n在一个自编 Task 2 同意与否题目下，写一个回应题意的短论证段落；能用理由和例子支持一个观点，准确选择关联、促成因素或结果表达，并指出本组材料尚不能训练的完整考试要求。\n\n你的要求：演示材料与考试之间的双向拟合：未来收到词汇、语料或技巧后，选择来源可信且与考试任务高度相关的材料，生成保留原材料含义的教学与练习。这里以 Task 2 关系表达作示例，既使用自编支架，也从可追溯的官方样题提炼局部应用任务；不要求每批输入覆盖完整考试。本课不是用户已提交的材料，也不代表用户当前水平。\n\nIELTS Academic · Writing Task 2 · 观点论证与利弊权衡中的理由、解释和例子；从表达微练习过渡到局部段落\n\n局部教学示例，非完整模考；旅游迁移题从官方 Task 2B 改编，其他微题自编，讲解、支架及参考写法均为本课编写。展示来源质量与具体考试用途，不承诺这一批材料足以覆盖考试。15 分钟是可调整的时间估计。。课程与考试的对应关系是教学设计，依据链接可核查；不等于官方背书或分数保证。\n\n0% · 0 / 8 项已作答；自评与加练可选。\n\n学习量与继续建议（可选）\n1 先做一题\n2 理解用法\n3 练习\n4 换个情境\n5 可选加练\n\n本节约 2 分钟\n\n起点诊断：先按自己会的表达\n\n在看讲解和参考答案前尝试。区分选得对与能独立表达，保留原答案作为后续比较的证据。\n\n任务 1 · 本次建议\n\n练习短文：In a survey of 40 students at one college, those who used the library more often also reported higher course satisfaction. The survey did not test whether library use caused the difference.\n哪句话保留了短文实际提供的信息？\n对应 3 条原料 · 先独立作答，需要时再打开讲解。\n查看对应讲解（计为看过提示）\n\n考试对应：Lexical Resource · 词义、选词与搭配。为 Task 2 选词准确性做准备：辨别词组是否改变例子原有含义；本题没有产出议论文，不能据此评价完整 Task Response。\n\n局部能力练习 · 非完整考试任务\n\n你的作答\n请选择……\nUsing the library led to higher grades for all students.\nMore frequent library use was associated with higher reported course satisfaction in this survey.\nThe survey proved that library use contributed to students' satisfaction.\n本次使用的帮助\n本次未用提示\n本次用了提示\n本次看过讲解／参考\n提交这次作答\n先提交自己的答案，再核对。\n\n任务 2 · 本次建议\n\n练习情境：A box blocked the safety sensor. The sensor then stopped the conveyor belt, as it was designed to do.\n用一句英语报告箱子与传送带停止之间的关系。使用自己会的表达即可，再用中文写出支持这句话的材料信息。\n对应 2 条原料 · 先独立作答，需要时再打开讲解。\n查看对应讲解（计为看过提示）\n\n考试对应：Lexical Resource · 词义、选词与搭配；Grammatical Range and Accuracy · 局部结构准确性。检查能否在支持性例子中准确表达原因与结果；允许其他恰当说法，不按是否出现目标词评分。\n\n局部能力练习 · 非完整考试任务\n\n你的作答\n本次使用的帮助\n本次未用提示\n本次用了提示\n本次看过讲解／参考\n提交这次作答\n先提交自己的答案，再核对。\n← 上一节\n下一节 →\n本课材料与练习目标\n全部尝试记录 · 0 次",
+  "allContent": "← 返回学习YOUR MATERIALS · EXAM PRACTICE定制学习从你给的内容出发，按考试真正要求的能力来设计课。用自己的资料安排学习课程围绕具体学习目标安排讲解、练习与反馈。进入课程后，先了解本次任务和适用范围，再按阶段作答、核对与复习。这里可以保存材料和学习目标，并导入整理好的课程；保存材料不会自动生成课程。已有课程与作答记录可单独导出备份。导出课程设计需求 .md备份窗口与全部作答导入设计好的课程／合并恢复备份添加这一批原料／能力要求批次名称（可选）原料类型混合资料技巧语料词汇能力要求本次可用时间5 分钟10 分钟15 分钟希望对齐的考试科目根据材料判断阅读听力Academic Writing Task 1Writing Task 2口语目标分数／标准（可选）原始资料想具备的能力／具体要求我目前已会的、卡住的（可选）保存为待设计从“我的资料”选择原料我的学习窗口0 批待设计 · 0 门已设计课程 · 示例单独体验，不计入我的批次。示例微课：把因果表达用于 Task 2 论证 · 示例示例课程 · 用来体验流程，不代表你的能力诊断示例微课：把因果表达用于 Task 2 论证在一个自编 Task 2 同意与否题目下，写一个回应题意的短论证段落；能用理由和例子支持一个观点，准确选择关联、促成因素或结果表达，并指出本组材料尚不能训练的完整考试要求。你的要求：演示材料与考试之间的双向拟合：未来收到词汇、语料或技巧后，选择来源可信且与考试任务高度相关的材料，生成保留原材料含义的教学与练习。这里以 Task 2 关系表达作示例，既使用自编支架，也从可追溯的官方样题提炼局部应用任务；不要求每批输入覆盖完整考试。本课不是用户已提交的材料，也不代表用户当前水平。IELTS Academic · Writing Task 2 · 观点论证与利弊权衡中的理由、解释和例子；从表达微练习过渡到局部段落局部教学示例，非完整模考；旅游迁移题从官方 Task 2B 改编，其他微题自编，讲解、支架及参考写法均为本课编写。展示来源质量与具体考试用途，不承诺这一批材料足以覆盖考试。15 分钟是可调整的时间估计。。课程与考试的对应关系是教学设计，依据链接可核查；不等于官方背书或分数保证。0% · 0 / 8 项已作答；自评与加练可选。学习量与继续建议（可选）本次可用时间5 分钟10 分钟15 分钟建议先做本节前 2 道任务。 随时可以调整或跳到其他内容，无需先选时间。根据最近作答继续先做一次基线任务，让课程拿到你的真实起点。打开建议内容 →1 先做一题2 理解用法3 练习4 换个情境5 可选加练本节约 2 分钟起点诊断：先按自己会的表达在看讲解和参考答案前尝试。区分选得对与能独立表达，保留原答案作为后续比较的证据。任务 1 · 本次建议练习短文：In a survey of 40 students at one college, those who used the library more often also reported higher course satisfaction. The survey did not test whether library use caused the difference.\n哪句话保留了短文实际提供的信息？对应 3 条原料 · 先独立作答，需要时再打开讲解。查看对应讲解（计为看过提示）考试对应：Lexical Resource · 词义、选词与搭配。为 Task 2 选词准确性做准备：辨别词组是否改变例子原有含义；本题没有产出议论文，不能据此评价完整 Task Response。局部能力练习 · 非完整考试任务你的作答请选择……Using the library led to higher grades for all students.More frequent library use was associated with higher reported course satisfaction in this survey.The survey proved that library use contributed to students' satisfaction.本次使用的帮助本次未用提示本次用了提示本次看过讲解／参考提交这次作答先提交自己的答案，再核对。任务 2 · 本次建议练习情境：A box blocked the safety sensor. The sensor then stopped the conveyor belt, as it was designed to do.\n用一句英语报告箱子与传送带停止之间的关系。使用自己会的表达即可，再用中文写出支持这句话的材料信息。对应 2 条原料 · 先独立作答，需要时再打开讲解。查看对应讲解（计为看过提示）考试对应：Lexical Resource · 词义、选词与搭配；Grammatical Range and Accuracy · 局部结构准确性。检查能否在支持性例子中准确表达原因与结果；允许其他恰当说法，不按是否出现目标词评分。局部能力练习 · 非完整考试任务你的作答本次使用的帮助本次未用提示本次用了提示本次看过讲解／参考提交这次作答先提交自己的答案，再核对。← 上一节下一节 →本课材料与练习目标从原料查考试用途，再从考试要求反查选材是否贴合。此表包含原料内容，当前独立阶段未提交的任务会记录看过提示；跳到任务不会展开参考。材料 → 考试：这条原料练什么contribute to + 名词 / -ing考试要求：Lexical Resource · 词义、选词与搭配；Grammatical Range and Accuracy · 局部结构准确性；Task Response · 回应题目并支持观点理解边界：词义和证据一起看 · understand-contribution带支架改写：补结构，也保留原意 · guided-structure-rewrite换情境独立用：不规定必须塞入哪个词 · transfer-event-report稍后回访：重新判断，再独立表达 · delayed-factor-choicelead to + 名词 / -ing考试要求：Lexical Resource · 词义、选词与搭配；Grammatical Range and Accuracy · 局部结构准确性；Task Response · 回应题目并支持观点起点诊断：先按自己会的表达 · baseline-event-text理解边界：词义和证据一起看 · understand-hedged-result带支架改写：补结构，也保留原意 · guided-structure-rewrite换情境独立用：不规定必须塞入哪个词 · transfer-event-report稍后回访：重新判断，再独立表达 · delayed-prediction-textbe associated with + 名词 / -ing考试要求：Lexical Resource · 词义、选词与搭配；Grammatical Range and Accuracy · 局部结构准确性；Task Response · 回应题目并支持观点起点诊断：先按自己会的表达 · baseline-survey-choice理解边界：词义和证据一起看 · understand-hedged-result带支架改写：补结构，也保留原意 · guided-survey-rewrite换情境独立用：不规定必须塞入哪个词 · transfer-garden-report稍后回访：重新判断，再独立表达 · delayed-prediction-text检查主体、范围、时间和确定程度，再决定表达什么关系考试要求：Lexical Resource · 词义、选词与搭配；Grammatical Range and Accuracy · 局部结构准确性；Task Response · 回应题目并支持观点起点诊断：先按自己会的表达 · baseline-survey-choice起点诊断：先按自己会的表达 · baseline-event-text理解边界：词义和证据一起看 · understand-contribution理解边界：词义和证据一起看 · understand-hedged-result带支架改写：补结构，也保留原意 · guided-survey-rewrite带支架改写：补结构，也保留原意 · guided-structure-rewrite换情境独立用：不规定必须塞入哪个词 · transfer-garden-report换情境独立用：不规定必须塞入哪个词 · transfer-event-report稍后回访：重新判断，再独立表达 · delayed-factor-choice稍后回访：重新判断，再独立表达 · delayed-prediction-textIn a survey of 40 students at one college, those who used the library more often also reported higher course satisfaction. The survey did not test whether library use caused the difference.考试要求：Lexical Resource · 词义、选词与搭配；Task Response · 回应题目并支持观点起点诊断：先按自己会的表达 · baseline-survey-choice带支架改写：补结构，也保留原意 · guided-survey-rewrite换情境独立用：不规定必须塞入哪个词 · transfer-garden-report考试 → 材料：要求有没有被覆盖Task Response · 回应题目并支持观点本窗口只练一个相关观点的展开与支持；段落应服务于题目的问题和立场。官方 Task 2 要求回应题目，理由与例子可来自个人经验，不要求引用科学研究。对应原料：be associated with + 名词 / -ing；检查主体、范围、时间和确定程度，再决定表达什么关系；In a survey of 40 students at one college, those who used the library more often also reported higher course satisfaction. The survey did not test whether library use caused the difference.；contribute to + 名词 / -ing；lead to + 名词 / -ing换情境独立用：不规定必须塞入哪个词 · transfer-garden-report换情境独立用：不规定必须塞入哪个词 · transfer-event-reportIELTS 官方：Academic Writing 考试形式 IELTS 官方：Writing Band Descriptors（2023 年 5 月版） Lexical Resource · 词义、选词与搭配选择含义、搭配及语境适当的词语。本课用三个关系表达训练准确性；关联与因果的具体辨析是本课的设计，不是官方另列的一项评分标准。对应原料：be associated with + 名词 / -ing；检查主体、范围、时间和确定程度，再决定表达什么关系；In a survey of 40 students at one college, those who used the library more often also reported higher course satisfaction. The survey did not test whether library use caused the difference.；lead to + 名词 / -ing；contribute to + 名词 / -ing起点诊断：先按自己会的表达 · baseline-survey-choice起点诊断：先按自己会的表达 · baseline-event-text理解边界：词义和证据一起看 · understand-contribution理解边界：词义和证据一起看 · understand-hedged-result带支架改写：补结构，也保留原意 · guided-survey-rewrite带支架改写：补结构，也保留原意 · guided-structure-rewrite换情境独立用：不规定必须塞入哪个词 · transfer-garden-report换情境独立用：不规定必须塞入哪个词 · transfer-event-report稍后回访：重新判断，再独立表达 · delayed-factor-choice稍后回访：重新判断，再独立表达 · delayed-prediction-textIELTS 官方：Writing Band Descriptors（2023 年 5 月版） Grammatical Range and Accuracy · 局部结构准确性检查产出中的句子结构和形式。本课仅观察少量介词后结构、情态表达和句子连接，不能据此评价完整语法范围。对应原料：lead to + 名词 / -ing；检查主体、范围、时间和确定程度，再决定表达什么关系；be associated with + 名词 / -ing；contribute to + 名词 / -ing起点诊断：先按自己会的表达 · baseline-event-text理解边界：词义和证据一起看 · understand-hedged-result带支架改写：补结构，也保留原意 · guided-structure-rewrite换情境独立用：不规定必须塞入哪个词 · transfer-event-report稍后回访：重新判断，再独立表达 · delayed-prediction-textIELTS 官方：Writing Band Descriptors（2023 年 5 月版） 适用范围与可补充内容完整 Task 2 要求至少 250 词，建议约 40 分钟；本课最长只写 60–80 词的局部段落，尚未练完整审题、全文立场维持和限时写作。这组材料只提供少量关系表达和一个论证切入点，仍缺不同题目下的观点生成、充分展开与整体段落安排。Coherence and Cohesion 尚未形成全文层面的练习与证据；不能用局部句子成绩代替衔接与连贯评价。选词和语法覆盖有限，尚不足以评估完整词汇范围、语法范围或给出 IELTS 分数。调查语料只用于练习如何忠实使用给定信息；实际 Task 2 可以用常识推理和个人例子支持观点，不需要寻找或编造调查数据。局部教学示例，非完整模考；旅游迁移题从官方 Task 2B 改编，其他微题自编，讲解、支架及参考写法均为本课编写。展示来源质量与具体考试用途，不承诺这一批材料足以覆盖考试。15 分钟是可调整的时间估计。选材与考试依据IELTS 官方：Academic Writing 考试形式IELTS 官方：Writing Band Descriptors（2023 年 5 月版）IELTS 官方 Academic Writing Sample Tasks · Task 2B 国际旅游（第 7 页）全部尝试记录 · 0 次冻结作答不会被覆盖；再试、自评和查看讲解的条件一起保存在窗口备份中。请启用 JavaScript 以使用定制学习窗口。",
+  "links": [
+    {
+      "text": "← 返回学习",
+      "href": "#study"
+    },
+    {
+      "text": "IELTS 官方：Academic Writing 考试形式",
+      "href": "https://ielts.org/take-a-test/test-types/ielts-academic-test/ielts-academic-format-writing"
+    },
+    {
+      "text": "IELTS 官方：Writing Band Descriptors（2023 年 5 月版）",
+      "href": "https://ielts.org/cdn/ielts-guides/ielts-writing-band-descriptors.pdf"
+    },
+    {
+      "text": "IELTS 官方：Writing Band Descriptors（2023 年 5 月版）",
+      "href": "https://ielts.org/cdn/ielts-guides/ielts-writing-band-descriptors.pdf"
+    },
+    {
+      "text": "IELTS 官方：Writing Band Descriptors（2023 年 5 月版）",
+      "href": "https://ielts.org/cdn/ielts-guides/ielts-writing-band-descriptors.pdf"
+    },
+    {
+      "text": "IELTS 官方：Academic Writing 考试形式",
+      "href": "https://ielts.org/take-a-test/test-types/ielts-academic-test/ielts-academic-format-writing"
+    },
+    {
+      "text": "IELTS 官方：Writing Band Descriptors（2023 年 5 月版）",
+      "href": "https://ielts.org/cdn/ielts-guides/ielts-writing-band-descriptors.pdf"
+    },
+    {
+      "text": "IELTS 官方 Academic Writing Sample Tasks · Task 2B 国际旅游（第 7 页）",
+      "href": "https://ielts.org/cdn/Sample-tests/ielts-academic-writing-sample-tasks-2023.pdf#page=7"
+    }
+  ],
+  "details": [
+    {
+      "id": "",
+      "title": "添加这一批原料／能力要求",
+      "open": false,
+      "visible": true
+    },
+    {
+      "id": "",
+      "title": "学习量与继续建议（可选）",
+      "open": false,
+      "visible": true
+    },
+    {
+      "id": "cw-fit-map",
+      "title": "本课材料与练习目标",
+      "open": false,
+      "visible": true
+    },
+    {
+      "id": "",
+      "title": "全部尝试记录 · 0 次",
+      "open": false,
+      "visible": true
+    }
+  ],
+  "saveFields": [],
+  "images": [],
+  "audio": [],
+  "viewport": 1440,
+  "documentWidth": 1440
+}

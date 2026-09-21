@@ -1,0 +1,79 @@
+{
+  "url": "https://duf5391-ux.github.io/ielts-learning/",
+  "checkedAt": "2026-09-21T12:10:53.817Z",
+  "panels": 33,
+  "categories": 7,
+  "learningUnits": 224,
+  "routesProbed": 289,
+  "deadAnchors": [],
+  "pageErrors": [],
+  "journeys": [
+    {
+      "from": "workspace",
+      "selector": "a[href=\"#vocabulary-review\"]",
+      "label": "工作台 → 单词表",
+      "error": "locator.scrollIntoViewIfNeeded: Timeout 29897.629ms exceeded.\nCall log:\n\u001b[2m  - attempting scroll into view action\u001b[22m\n\u001b[2m    2 × waiting for element to be stable\u001b[22m\n\u001b[2m      - element is not visible\u001b[22m\n\u001b[2m    - retrying scroll into view action\u001b[22m\n\u001b[2m    - waiting 20ms\u001b[22m\n\u001b[2m    2 × waiting for element to be stable\u001b[22m\n\u001b[2m      - el"
+    },
+    {
+      "from": "workspace",
+      "selector": "a[href=\"#sentence-workbench\"]",
+      "label": "工作台 → 句子本",
+      "error": "locator.scrollIntoViewIfNeeded: Timeout 30000ms exceeded.\nCall log:\n\u001b[2m  - waiting for locator('a[href=\"#sentence-workbench\"]').first()\u001b[22m\n"
+    },
+    {
+      "from": "workspace",
+      "selector": "a[href=\"#writing-workbench\"]",
+      "label": "工作台 → 写作工作台",
+      "error": "locator.scrollIntoViewIfNeeded: Timeout 29951.706000000006ms exceeded.\nCall log:\n\u001b[2m  - attempting scroll into view action\u001b[22m\n\u001b[2m    2 × waiting for element to be stable\u001b[22m\n\u001b[2m      - element is not visible\u001b[22m\n\u001b[2m    - retrying scroll into view action\u001b[22m\n\u001b[2m    - waiting 20ms\u001b[22m\n\u001b[2m    2 × waiting for element to be stable\u001b[22m\n\u001b[2m "
+    },
+    {
+      "from": "study",
+      "selector": "a[href=\"#study-reading-list\"]",
+      "label": "学习 → 阅读",
+      "error": "locator.scrollIntoViewIfNeeded: Timeout 29954.52799999999ms exceeded.\nCall log:\n\u001b[2m  - attempting scroll into view action\u001b[22m\n\u001b[2m    2 × waiting for element to be stable\u001b[22m\n\u001b[2m      - element is not visible\u001b[22m\n\u001b[2m    - retrying scroll into view action\u001b[22m\n\u001b[2m    - waiting 20ms\u001b[22m\n\u001b[2m    2 × waiting for element to be stable\u001b[22m\n\u001b[2m  "
+    },
+    {
+      "from": "study",
+      "selector": "a[href=\"#study-writing-list\"]",
+      "label": "学习 → 写作",
+      "error": "locator.scrollIntoViewIfNeeded: Timeout 29957.267999999982ms exceeded.\nCall log:\n\u001b[2m  - attempting scroll into view action\u001b[22m\n\u001b[2m    2 × waiting for element to be stable\u001b[22m\n\u001b[2m      - element is not visible\u001b[22m\n\u001b[2m    - retrying scroll into view action\u001b[22m\n\u001b[2m    - waiting 20ms\u001b[22m\n\u001b[2m    2 × waiting for element to be stable\u001b[22m\n\u001b[2m "
+    },
+    {
+      "from": "practice",
+      "selector": "a[href=\"#practice-writing-list\"]",
+      "to": "#practice-writing-list",
+      "label": "练习 → 写作",
+      "topLabel": "练习 / 写作",
+      "activeNav": [
+        {
+          "go": "practice",
+          "label": "练习"
+        }
+      ],
+      "visiblePanels": [
+        "practice"
+      ]
+    }
+  ],
+  "overflows": [],
+  "hiddenVisible": [
+    {
+      "route": "materials",
+      "kind": "desktop-route",
+      "nodes": [
+        {
+          "tag": "LABEL",
+          "id": "",
+          "class": "",
+          "text": "来源",
+          "x": 603,
+          "y": 961,
+          "w": 302,
+          "h": 70
+        }
+      ]
+    }
+  ],
+  "multipleVisiblePanels": [],
+  "ownerAnomalies": []
+}

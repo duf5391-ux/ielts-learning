@@ -1,0 +1,109 @@
+{
+  "requested": "pr-background-fisheries",
+  "from": [
+    "内容单元",
+    "页面链接"
+  ],
+  "actual": "#pr-background-fisheries",
+  "checkedAt": "2026-09-21T12:52:35.575Z",
+  "title": "练习 / 阅读 / 阅读 · 海洋资源：捕捞与鱼群恢复 · IELTS",
+  "label": "练习 / 阅读 / 阅读 · 海洋资源：捕捞与鱼群恢复",
+  "panel": "practice-reading",
+  "contentRoot": "pr-background-fisheries",
+  "headings": [],
+  "controls": [
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "阅读 · 海洋资源：捕捞与鱼群恢复",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "作答 1\n暂时不会",
+      "href": null,
+      "save": "pr-background-fisheries-q1",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "暂时不会",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "答案",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "NOAA Fisheries · Understanding Fisheries Management in the United States；British Council · Problems and solutions",
+      "label": "",
+      "href": "扩展资料/609824ad-writing_task_2_problems_and_solutions_.pdf#page=7",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "在线来源",
+      "label": "",
+      "href": "https://www.fisheries.noaa.gov/insight/understanding-fisheries-management-united-states",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    }
+  ],
+  "visibleText": "阅读 · 海洋资源：捕捞与鱼群恢复\n0% · 0 / 1 完成\n\n根据短文和给定情境作答。\n\nA fish stock can be assessed in two different ways: the rate at which fish are removed and the size of the remaining population. Excessive harvesting is described as overfishing; a population that is too small is described as overfished. Managers use scientific assessments to set catch limits and plan recovery. Monitoring and enforcement help ensure that fishing actually follows these limits.\n\nWhat causes overfishing, and what measures could prevent it?\n\n哪一句可以由短文支持？\n\nA A population immediately recovers once fishing is within an acceptable rate.\nB The rate of fishing and the size of the fish population describe the same thing.\nC Setting a catch limit is not the same as ensuring that boats comply with it.\nD A small fish population proves that the current fishing rate is excessive.\n作答 1\n暂时不会\n答案\n\n选材来源 · NOAA Fisheries · Understanding Fisheries Management in the United States；British Council · Problems and solutions · 在线来源",
+  "allContent": "阅读 · 海洋资源：捕捞与鱼群恢复0% · 0 / 1 完成根据短文和给定情境作答。A fish stock can be assessed in two different ways: the rate at which fish are removed and the size of the remaining population. Excessive harvesting is described as overfishing; a population that is too small is described as overfished. Managers use scientific assessments to set catch limits and plan recovery. Monitoring and enforcement help ensure that fishing actually follows these limits.What causes overfishing, and what measures could prevent it?哪一句可以由短文支持？A A population immediately recovers once fishing is within an acceptable rate.B The rate of fishing and the size of the fish population describe the same thing.C Setting a catch limit is not the same as ensuring that boats comply with it.D A small fish population proves that the current fishing rate is excessive.作答 1暂时不会答案C。设定捕捞上限与确保实际遵守是两件事。选材来源 · NOAA Fisheries · Understanding Fisheries Management in the United States；British Council · Problems and solutions · 在线来源",
+  "links": [
+    {
+      "text": "NOAA Fisheries · Understanding Fisheries Management in the United States；British Council · Problems and solutions",
+      "href": "扩展资料/609824ad-writing_task_2_problems_and_solutions_.pdf#page=7"
+    },
+    {
+      "text": "在线来源",
+      "href": "https://www.fisheries.noaa.gov/insight/understanding-fisheries-management-united-states"
+    }
+  ],
+  "details": [
+    {
+      "id": "answer-check-40",
+      "title": "答案",
+      "open": false,
+      "answerGate": "[\"pr-background-fisheries-q1\"]",
+      "visible": true
+    }
+  ],
+  "saveFields": [
+    "pr-background-fisheries-q1"
+  ],
+  "images": [],
+  "audio": [],
+  "viewport": 1440,
+  "documentWidth": 1440
+}

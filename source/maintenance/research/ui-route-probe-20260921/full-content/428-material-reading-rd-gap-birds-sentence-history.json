@@ -1,0 +1,190 @@
+{
+  "requested": "material-reading-rd-gap-birds-sentence-history",
+  "from": [
+    "每日安排目标"
+  ],
+  "actual": "#material-reading-rd-gap-birds-sentence-history",
+  "checkedAt": "2026-09-21T12:56:19.898Z",
+  "title": "练习 / 阅读 / 鸟类起源：理论提出、反驳与新证据 · IELTS",
+  "label": "练习 / 阅读 / 鸟类起源：理论提出、反驳与新证据",
+  "panel": "practice-reading",
+  "contentRoot": "reading-case-rd-gap-birds-sentence-history",
+  "headings": [
+    {
+      "tag": "H3",
+      "text": "对照答案，回到证据",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "2",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "3",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "4",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "词语与搭配",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "句子精读",
+      "visible": true
+    }
+  ],
+  "controls": [
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "鸟类起源：理论提出、反驳与新证据未作答\n句子填空 · 3 段 · 341 词 · 2 题 · 同篇原文另有裁切",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "IELTS Academic Reading official computer sample · The origins of birds",
+      "label": "",
+      "href": "case-assets/reading-gap-origins-birds-original.html",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "case-rd-gap-birds-sentence-history-q1",
+      "type": "text",
+      "text": "",
+      "label": "第 1 题作答",
+      "href": null,
+      "save": "case-rd-gap-birds-sentence-history-q1",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "case-rd-gap-birds-sentence-history-q2",
+      "type": "text",
+      "text": "",
+      "label": "第 2 题作答",
+      "href": null,
+      "save": "case-rd-gap-birds-sentence-history-q2",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "checkbox",
+      "text": "",
+      "label": "",
+      "href": null,
+      "save": "case-rd-gap-birds-sentence-history-done",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "hidden",
+      "text": "",
+      "label": "",
+      "href": null,
+      "save": "case-rd-gap-birds-sentence-history-saved-at",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "保留作答，查看答案",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "核对原答案页",
+      "label": "",
+      "href": "case-assets/reading-gap-origins-birds-answers.pdf#page=1",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "case-rd-gap-birds-sentence-history-revision",
+      "type": "textarea",
+      "text": "",
+      "label": "我的修订／证据笔记",
+      "href": null,
+      "save": "case-rd-gap-birds-sentence-history-revision",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "材料精读 · 内容与词句",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    }
+  ],
+  "visibleText": "鸟类起源：理论提出、反驳与新证据未作答\n句子填空 · 3 段 · 341 词 · 2 题 · 同篇原文另有裁切\n0% · 0 / 1 完成\n\nAcademic官方机考样题 · IELTS Academic Reading official computer sample · The origins of birds\n\n完成下列原句，填入原文对应词语。本组保留官方原题号；实际官方答案每空均为一个词。\n\n同一篇官方原文的连续三段裁切，不计作另一篇材料。统一字数上限未载于本地QTI，未补造正式上限。\n\n2The 'birds are dinosaurs' theory was first developed by English palaeontologist Thomas Huxley (1825–1895). According to some accounts, one evening Huxley went to dinner still thinking about a mystery dinosaur bone in his lab. He knew he was dealing with the lower leg bone (tibia) of a meat-eating, two-legged dinosaur belonging to the classification known as theropods, but attached to the tibia was an unidentified extra bone. On the menu that evening was quail, a small bird similar to a pheasant, and Huxley noticed the same strange bone, attached to the quail tibia on his plate. He later realised that it was in fact the bird's anklebone. More importantly, Huxley concluded that its forms in both dinosaur and bird skeletons were so similar that they must be closely related.\n\n3Huxley's idea fell out of favour for fifty years following the 1916 publication of The Origin of Birds by the Danish doctor Gerhard Heilmann. During this time, Heilmann’s theory was widely accepted. Heilmann had noted that two-legged, meat-eating dinosaurs lacked collarbones. In later evolutionary stages these bones fuse together to form the distinctive 'Y'-shaped bone in a bird's neck, known as the furcula. Heilmann proposed the notion that such a feature could not be lost and then re-evolve at a later date, so dinosaurs could not be the ancestors of birds.\n\n4Then, in the late 1960s, John Ostrom from Yale University in the USA, noted 22 features in the skeletons of meat-eating dinosaurs that were also found in birds and nowhere else. This reset the thinking on bird ancestry and once again Huxley’s ideas caught the attention of the scientific community. Subsequent work has found up to 85 characteristics that tie dinosaurs and birds together. But what of Heilmann's missing bones? It turns out that not only did many dinosaurs have collarbones, these were also fused together into a furcula. Unfortunately for Heilmann, the fossil evidence was somewhat lacking in his day, and the few furculae that had been found were misidentified, usually as belly ribs.\n\n1. Huxley formulated his theory while studying a dinosaur belonging to a group called ________ .\n\n第 1 题作答\n\n2. Heilmann rejected Huxley’s theory because of the apparent absence of ________ in dinosaurs.\n\n第 2 题作答\n保留作答，查看答案\n\n先作答；不确定的题也可记录判断与疑点。\n\n材料精读 · 内容与词句\n\n三段按提出关联、否定关联、重新评价的顺序讲述鸟类与恐龙关系研究的变化。变化的关键是骨骼证据的解释，而不是简单的“旧学者对、新学者错”。阅读时要把当时的判断与后来材料所述发现区分开。\n\n2\nThe 'birds are dinosaurs' theory was first developed by English palaeontologist Thomas Huxley (1825–1895). According to some accounts, one evening Huxley went to dinner still thinking about a mystery dinosaur bone in his lab. He knew he was dealing with the lower leg bone (tibia) of a meat-eating, two-legged dinosaur belonging to the classification known as theropods, but attached to the tibia was an unidentified extra bone. On the menu that evening was quail, a small bird similar to a pheasant, and Huxley noticed the same strange bone, attached to the quail tibia on his plate. He later realised that it was in fact the bird's anklebone. More importantly, Huxley concluded that its forms in both dinosaur and bird skeletons were so similar that they must be closely related.\n\n第2段叙述赫胥黎从恐龙腿骨与鹌鹑骨骼的相似处受到启发，并把额外骨骼认作踝骨。According to some accounts把晚餐故事标为一些记载中的说法。他据两类骨骼形态相近推断关系密切，段落重点是比较解剖结构怎样促成一个解释。\n\n3\nHuxley's idea fell out of favour for fifty years following the 1916 publication of The Origin of Birds by the Danish doctor Gerhard Heilmann. During this time, Heilmann’s theory was widely accepted. Heilmann had noted that two-legged, meat-eating dinosaurs lacked collarbones. In later evolutionary stages these bones fuse together to form the distinctive 'Y'-shaped bone in a bird's neck, known as the furcula. Heilmann proposed the notion that such a feature could not be lost and then re-evolve at a later date, so dinosaurs could not be the ancestors of birds.\n\n第3段交代赫胥黎的观点为何一度失去支持：海尔曼认为某类恐龙没有锁骨，又认为这种特征不可能消失后再次演化出现，于是排除了它们作为鸟类祖先的可能。这里是在解释他的论证前提，不是在把“恐龙没有锁骨”继续当作事实。\n\n4\nThen, in the late 1960s, John Ostrom from Yale University in the USA, noted 22 features in the skeletons of meat-eating dinosaurs that were also found in birds and nowhere else. This reset the thinking on bird ancestry and once again Huxley’s ideas caught the attention of the scientific community. Subsequent work has found up to 85 characteristics that tie dinosaurs and birds together. But what of Heilmann's missing bones? It turns out that not only did many dinosaurs have collarbones, these were also fused together into a furcula. Unfortunately for Heilmann, the fossil evidence was somewhat lacking in his day, and the few furculae that had been found were misidentified, usually as belly ribs.\n\n第4段呈现后来对共同特征的重新识别，以及更多相关骨骼证据。缺失锁骨的问题被重新解释为当时化石不足、已发现标本遭到误认。up to 85表示后续工作记录的数量上限式表述，不是说每种恐龙与每种鸟都有完全相同的85项特征。\n\n词语与搭配\nfell out of favour\n\n失去支持；不再受到认可\n\n描述某种观点在群体中的接受程度发生变化，不等于该观点已被最终证明错误。\n\nwidely accepted\n\n被广泛接受\n\nwidely指接受范围广；广泛认可与证据充分、结论永远不变不是同一概念。\n\ncaught the attention of the scientific community\n\n引起科学界注意\n\ncatch the attention of强调获得注意，尚不等于所有研究者完全赞成。\n\nthe fossil evidence was somewhat lacking\n\n化石证据当时有些不足\n\nsomewhat表示程度上的保留；lacking指不足，不能扩大成完全没有任何化石。\n\n句子精读\nHe knew he was dealing with the lower leg bone (tibia) of a meat-eating, two-legged dinosaur belonging to the classification known as theropods, but attached to the tibia was an unidentified extra bone.\n\n他知道自己研究的是属于兽脚类的一种食肉、两足恐龙的胫骨，但胫骨上还连着一块身份不明的额外骨骼。\n\nHe指赫胥黎；meat-eating和two-legged共同修饰dinosaur，belonging to...进一步交代分类。but之后使用倒装attached to the tibia was...，把附着位置置前，再引出那块骨骼。\n\nUnfortunately for Heilmann, the fossil evidence was somewhat lacking in his day, and the few furculae that had been found were misidentified, usually as belly ribs.\n\n对海尔曼而言遗憾的是，他所处时代的化石证据有所不足，而且当时已经找到的少数叉骨也被误认，通常被当作腹肋。\n\nhis day指海尔曼研究所处的时代；the few furculae中的that had been found限定此前发现的标本。had been found先于were misidentified所述误认过程的叙述位置，两个被动结构把注意力放在证据遭遇上。\n\n读完讲解，可以把原文连起来再读一次；想保留的词句可使用已有收藏功能。",
+  "allContent": "鸟类起源：理论提出、反驳与新证据未作答句子填空 · 3 段 · 341 词 · 2 题 · 同篇原文另有裁切0% · 0 / 1 完成Academic官方机考样题 · IELTS Academic Reading official computer sample · The origins of birds完成下列原句，填入原文对应词语。本组保留官方原题号；实际官方答案每空均为一个词。同一篇官方原文的连续三段裁切，不计作另一篇材料。统一字数上限未载于本地QTI，未补造正式上限。2The 'birds are dinosaurs' theory was first developed by English palaeontologist Thomas Huxley (1825–1895). According to some accounts, one evening Huxley went to dinner still thinking about a mystery dinosaur bone in his lab. He knew he was dealing with the lower leg bone (tibia) of a meat-eating, two-legged dinosaur belonging to the classification known as theropods, but attached to the tibia was an unidentified extra bone. On the menu that evening was quail, a small bird similar to a pheasant, and Huxley noticed the same strange bone, attached to the quail tibia on his plate. He later realised that it was in fact the bird's anklebone. More importantly, Huxley concluded that its forms in both dinosaur and bird skeletons were so similar that they must be closely related.3Huxley's idea fell out of favour for fifty years following the 1916 publication of The Origin of Birds by the Danish doctor Gerhard Heilmann. During this time, Heilmann’s theory was widely accepted. Heilmann had noted that two-legged, meat-eating dinosaurs lacked collarbones. In later evolutionary stages these bones fuse together to form the distinctive 'Y'-shaped bone in a bird's neck, known as the furcula. Heilmann proposed the notion that such a feature could not be lost and then re-evolve at a later date, so dinosaurs could not be the ancestors of birds.4Then, in the late 1960s, John Ostrom from Yale University in the USA, noted 22 features in the skeletons of meat-eating dinosaurs that were also found in birds and nowhere else. This reset the thinking on bird ancestry and once again Huxley’s ideas caught the attention of the scientific community. Subsequent work has found up to 85 characteristics that tie dinosaurs and birds together. But what of Heilmann's missing bones? It turns out that not only did many dinosaurs have collarbones, these were also fused together into a furcula. Unfortunately for Heilmann, the fossil evidence was somewhat lacking in his day, and the few furculae that had been found were misidentified, usually as belly ribs.1. Huxley formulated his theory while studying a dinosaur belonging to a group called ________ .第 1 题作答2. Heilmann rejected Huxley’s theory because of the apparent absence of ________ in dinosaurs.第 2 题作答保留作答，查看答案先作答；不确定的题也可记录判断与疑点。对照答案，回到证据第 1 题 · theropodsgroup called问分类，theropods是类别；tibia是腿骨，quail是鸟，都不是恐龙类别。a meat-eating, two-legged dinosaur belonging to the classification known as theropods第 2 题 · collarbonesapparent absence对应lacked。后文说明后来发现许多恐龙有锁骨，不能用后来的知识改写Heilmann当时的反对理由。Heilmann had noted that two-legged, meat-eating dinosaurs lacked collarbones.核对原答案页我的修订／证据笔记材料精读 · 内容与词句三段按提出关联、否定关联、重新评价的顺序讲述鸟类与恐龙关系研究的变化。变化的关键是骨骼证据的解释，而不是简单的“旧学者对、新学者错”。阅读时要把当时的判断与后来材料所述发现区分开。2The 'birds are dinosaurs' theory was first developed by English palaeontologist Thomas Huxley (1825–1895). According to some accounts, one evening Huxley went to dinner still thinking about a mystery dinosaur bone in his lab. He knew he was dealing with the lower leg bone (tibia) of a meat-eating, two-legged dinosaur belonging to the classification known as theropods, but attached to the tibia was an unidentified extra bone. On the menu that evening was quail, a small bird similar to a pheasant, and Huxley noticed the same strange bone, attached to the quail tibia on his plate. He later realised that it was in fact the bird's anklebone. More importantly, Huxley concluded that its forms in both dinosaur and bird skeletons were so similar that they must be closely related.第2段叙述赫胥黎从恐龙腿骨与鹌鹑骨骼的相似处受到启发，并把额外骨骼认作踝骨。According to some accounts把晚餐故事标为一些记载中的说法。他据两类骨骼形态相近推断关系密切，段落重点是比较解剖结构怎样促成一个解释。3Huxley's idea fell out of favour for fifty years following the 1916 publication of The Origin of Birds by the Danish doctor Gerhard Heilmann. During this time, Heilmann’s theory was widely accepted. Heilmann had noted that two-legged, meat-eating dinosaurs lacked collarbones. In later evolutionary stages these bones fuse together to form the distinctive 'Y'-shaped bone in a bird's neck, known as the furcula. Heilmann proposed the notion that such a feature could not be lost and then re-evolve at a later date, so dinosaurs could not be the ancestors of birds.第3段交代赫胥黎的观点为何一度失去支持：海尔曼认为某类恐龙没有锁骨，又认为这种特征不可能消失后再次演化出现，于是排除了它们作为鸟类祖先的可能。这里是在解释他的论证前提，不是在把“恐龙没有锁骨”继续当作事实。4Then, in the late 1960s, John Ostrom from Yale University in the USA, noted 22 features in the skeletons of meat-eating dinosaurs that were also found in birds and nowhere else. This reset the thinking on bird ancestry and once again Huxley’s ideas caught the attention of the scientific community. Subsequent work has found up to 85 characteristics that tie dinosaurs and birds together. But what of Heilmann's missing bones? It turns out that not only did many dinosaurs have collarbones, these were also fused together into a furcula. Unfortunately for Heilmann, the fossil evidence was somewhat lacking in his day, and the few furculae that had been found were misidentified, usually as belly ribs.第4段呈现后来对共同特征的重新识别，以及更多相关骨骼证据。缺失锁骨的问题被重新解释为当时化石不足、已发现标本遭到误认。up to 85表示后续工作记录的数量上限式表述，不是说每种恐龙与每种鸟都有完全相同的85项特征。词语与搭配fell out of favour失去支持；不再受到认可描述某种观点在群体中的接受程度发生变化，不等于该观点已被最终证明错误。widely accepted被广泛接受widely指接受范围广；广泛认可与证据充分、结论永远不变不是同一概念。caught the attention of the scientific community引起科学界注意catch the attention of强调获得注意，尚不等于所有研究者完全赞成。the fossil evidence was somewhat lacking化石证据当时有些不足somewhat表示程度上的保留；lacking指不足，不能扩大成完全没有任何化石。句子精读He knew he was dealing with the lower leg bone (tibia) of a meat-eating, two-legged dinosaur belonging to the classification known as theropods, but attached to the tibia was an unidentified extra bone.他知道自己研究的是属于兽脚类的一种食肉、两足恐龙的胫骨，但胫骨上还连着一块身份不明的额外骨骼。He指赫胥黎；meat-eating和two-legged共同修饰dinosaur，belonging to...进一步交代分类。but之后使用倒装attached to the tibia was...，把附着位置置前，再引出那块骨骼。Unfortunately for Heilmann, the fossil evidence was somewhat lacking in his day, and the few furculae that had been found were misidentified, usually as belly ribs.对海尔曼而言遗憾的是，他所处时代的化石证据有所不足，而且当时已经找到的少数叉骨也被误认，通常被当作腹肋。his day指海尔曼研究所处的时代；the few furculae中的that had been found限定此前发现的标本。had been found先于were misidentified所述误认过程的叙述位置，两个被动结构把注意力放在证据遭遇上。读完讲解，可以把原文连起来再读一次；想保留的词句可使用已有收藏功能。",
+  "links": [
+    {
+      "text": "IELTS Academic Reading official computer sample · The origins of birds",
+      "href": "case-assets/reading-gap-origins-birds-original.html"
+    },
+    {
+      "text": "核对原答案页",
+      "href": "case-assets/reading-gap-origins-birds-answers.pdf#page=1"
+    }
+  ],
+  "details": [
+    {
+      "id": "material-reading-rd-gap-birds-sentence-history",
+      "title": "材料精读 · 内容与词句",
+      "open": true,
+      "visible": true
+    }
+  ],
+  "saveFields": [
+    "case-rd-gap-birds-sentence-history-q1",
+    "case-rd-gap-birds-sentence-history-q2",
+    "case-rd-gap-birds-sentence-history-done",
+    "case-rd-gap-birds-sentence-history-saved-at",
+    "case-rd-gap-birds-sentence-history-revision"
+  ],
+  "images": [],
+  "audio": [],
+  "viewport": 1440,
+  "documentWidth": 1440
+}

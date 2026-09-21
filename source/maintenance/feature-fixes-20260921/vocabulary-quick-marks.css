@@ -1,0 +1,12 @@
+.vq-choices,.vr-quick-marks{display:flex;gap:6px;flex-wrap:wrap;margin:9px 0}
+.vq-choices{width:100%}
+.tv-card footer>label[hidden]{display:none!important}
+.vq-choices button,.vr-quick-marks button{min-height:44px;padding:8px 13px;border:1px solid #bccfbc;border-radius:8px;background:#fff;color:#264d3a;font:inherit;font-size:13px;cursor:pointer}
+.vq-choices button[aria-pressed="true"],#vocabulary-review .vr-quick-marks button[aria-pressed="true"]{background:#285540;color:#fff;border-color:#285540}
+.vq-choices button[data-vq-value=""]{font-size:12px}
+.vq-choices button:disabled{opacity:.45;cursor:default}
+.vq-choices button:focus-visible{outline:3px solid #7f9f70;outline-offset:2px}
+.vq-notice{min-height:1.4em;font-size:13px;color:#365d45}
+.vr-meaning-details>summary{cursor:pointer;padding:9px 0;color:#345d46;font-size:14px}
+.vr-grade-note{grid-column:1/-1;font-size:12px;color:#596b51;margin:0}
+@media(max-width:600px){.vq-choices{gap:5px}.vq-choices button{padding:8px 10px}.vr-quick-marks button{flex:1}}

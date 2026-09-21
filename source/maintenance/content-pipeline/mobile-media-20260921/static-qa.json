@@ -1,0 +1,18 @@
+{
+  "candidate": "C:\\Users\\Admin1\\Documents\\ChatGPT\\ielts\\content-pipeline\\mobile-media-20260921\\开始学习.html",
+  "candidate_sha256": "7ea735c348907a20b6b808ee403423aea263c29811071067ddca41fa85bfce44",
+  "passed": 8,
+  "total": 8,
+  "checks": [
+    "All 3353 ordered saved-field identities preserved",
+    "Every original anchor retained exactly once; new IDs unique",
+    "All 220 unit contracts and JSON catalogs byte-identical",
+    "All daily-study boundaries and module content preserved",
+    "Five separate top-level destinations; original testing route retained",
+    "All eight prior learning workbench destinations preserved",
+    "Independent development page and wider workbench styles present",
+    "24 extracted media files byte-identical; every other media reference retained"
+  ],
+  "user_records_read": false,
+  "requires_interaction_and_progressive_boot_qa": true
+}

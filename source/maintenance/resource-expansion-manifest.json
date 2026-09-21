@@ -1,0 +1,306 @@
+{
+  "date": "2026-09-16",
+  "units": 32,
+  "usage_units": 136,
+  "by_section": {
+    "background": 4,
+    "speaking": 16,
+    "listening": 4,
+    "reading": 4,
+    "writing1": 2,
+    "writing2": 2
+  },
+  "catalog": [
+    {
+      "id": "crime",
+      "anchor": "topic-crime",
+      "section": "background",
+      "title": "犯罪与惩罚：预防、回应与重新融入",
+      "status": "基础话题补齐 · 原创教学，非当季回忆题",
+      "current": false,
+      "uses": 6
+    },
+    {
+      "id": "government",
+      "anchor": "topic-government",
+      "section": "background",
+      "title": "政府与公共支出：预算、优先次序与长期成本",
+      "status": "基础话题补齐 · 原创教学，非当季回忆题",
+      "current": false,
+      "uses": 6
+    },
+    {
+      "id": "society",
+      "anchor": "topic-society",
+      "section": "background",
+      "title": "社会与代际：参与机会、照护与自主选择",
+      "status": "基础话题补齐 · 原创教学，非当季回忆题",
+      "current": false,
+      "uses": 6
+    },
+    {
+      "id": "space",
+      "anchor": "topic-space",
+      "section": "background",
+      "title": "太空与科研：研究价值怎样与现实需求比较",
+      "status": "基础话题补齐 · 原创教学，非当季回忆题",
+      "current": false,
+      "uses": 6
+    },
+    {
+      "id": "sep26-journeys",
+      "anchor": "speaking-new-sep26-journeys",
+      "section": "speaking",
+      "title": "出行：把路程、选择与不便说具体",
+      "status": "新增｜近期回忆主题；两份汇编交叉出现，原题待核实",
+      "current": true,
+      "uses": 4
+    },
+    {
+      "id": "sep26-recycling",
+      "anchor": "speaking-new-sep26-recycling",
+      "section": "speaking",
+      "title": "回收与城市自然：把习惯和实施条件连起来",
+      "status": "新增｜近期回忆主题；两份汇编交叉出现，原题待核实",
+      "current": true,
+      "uses": 4
+    },
+    {
+      "id": "sep26-energy",
+      "anchor": "speaking-new-sep26-energy",
+      "section": "speaking",
+      "title": "疲惫与生活节奏：讲原因、边界和实际调整",
+      "status": "新增｜近期回忆主题；两份汇编交叉出现，原题待核实",
+      "current": true,
+      "uses": 4
+    },
+    {
+      "id": "sep26-shoes-shopping",
+      "anchor": "speaking-new-sep26-shoes-shopping",
+      "section": "speaking",
+      "title": "鞋与购物：用实际使用解释价值和服务",
+      "status": "新增｜近期回忆主题；两份汇编交叉出现，原题待核实",
+      "current": true,
+      "uses": 4
+    },
+    {
+      "id": "sep26-politeness",
+      "anchor": "speaking-new-sep26-politeness",
+      "section": "speaking",
+      "title": "礼貌与倾听：让互动中的动作支持评价",
+      "status": "新增｜近期回忆主题；两份汇编交叉出现，原题待核实",
+      "current": true,
+      "uses": 4
+    },
+    {
+      "id": "sep26-fruit-vegetables",
+      "anchor": "speaking-new-sep26-fruit-vegetables",
+      "section": "speaking",
+      "title": "果蔬与口味：从儿时偏好讲到现在的选择",
+      "status": "新增｜近期回忆主题；两份汇编交叉出现，原题待核实",
+      "current": true,
+      "uses": 4
+    },
+    {
+      "id": "sep26-advertising",
+      "anchor": "speaking-new-sep26-advertising",
+      "section": "speaking",
+      "title": "广告：区分吸引注意、记住内容与相信信息",
+      "status": "新增｜近期回忆主题；两份汇编交叉出现，原题待核实",
+      "current": true,
+      "uses": 4
+    },
+    {
+      "id": "sep26-paper",
+      "anchor": "speaking-new-sep26-paper",
+      "section": "speaking",
+      "title": "纸张与手写：把工具的用途和限制说清楚",
+      "status": "新增｜近期回忆主题；两份汇编交叉出现，原题待核实",
+      "current": true,
+      "uses": 4
+    },
+    {
+      "id": "sep26-school-skills",
+      "anchor": "speaking-new-sep26-school-skills",
+      "section": "speaking",
+      "title": "中学与学技能：说明困难怎样被拆解",
+      "status": "新增｜近期回忆主题；两份汇编交叉出现，原题待核实",
+      "current": true,
+      "uses": 4
+    },
+    {
+      "id": "sep26-names-people",
+      "anchor": "speaking-new-sep26-names-people",
+      "section": "speaking",
+      "title": "名字与人物介绍：建立联系并承认记忆边界",
+      "status": "新增｜近期回忆主题；两份汇编交叉出现，原题待核实",
+      "current": true,
+      "uses": 4
+    },
+    {
+      "id": "sep26-decisions-success",
+      "anchor": "speaking-new-sep26-decisions-success",
+      "section": "speaking",
+      "title": "决定与成功：把目标、困难和结果串起来",
+      "status": "新增｜近期回忆主题；两份汇编交叉出现，原题待核实",
+      "current": true,
+      "uses": 4
+    },
+    {
+      "id": "sep26-organisation",
+      "anchor": "speaking-new-sep26-organisation",
+      "section": "speaking",
+      "title": "有条理的人：用可见习惯解释可靠",
+      "status": "新增｜近期回忆主题；两份汇编交叉出现，原题待核实",
+      "current": true,
+      "uses": 4
+    },
+    {
+      "id": "sep26-city-spaces",
+      "anchor": "speaking-new-sep26-city-spaces",
+      "section": "speaking",
+      "title": "城市空间：用声音、布局与活动形成画面",
+      "status": "新增｜近期回忆主题；两份汇编交叉出现，原题待核实",
+      "current": true,
+      "uses": 4
+    },
+    {
+      "id": "sep26-creative-history",
+      "anchor": "speaking-new-sep26-creative-history",
+      "section": "speaking",
+      "title": "摄影、手工与历史兴趣：用做事过程描述热情",
+      "status": "新增｜近期回忆主题；两份汇编交叉出现，原题待核实",
+      "current": true,
+      "uses": 4
+    },
+    {
+      "id": "sep26-media",
+      "anchor": "speaking-new-sep26-media",
+      "section": "speaking",
+      "title": "采访与电影：把内容理解和个人评价分开",
+      "status": "新增｜近期回忆主题；两份汇编交叉出现，原题待核实",
+      "current": true,
+      "uses": 4
+    },
+    {
+      "id": "sep26-friends-happiness",
+      "anchor": "speaking-new-sep26-friends-happiness",
+      "section": "speaking",
+      "title": "朋友、聚会与快乐：用互动细节建立记忆点",
+      "status": "新增｜近期回忆主题；两份汇编交叉出现，原题待核实",
+      "current": true,
+      "uses": 4
+    },
+    {
+      "id": "new-listening-campus-notes",
+      "anchor": "listening-new-new-listening-campus-notes",
+      "section": "listening",
+      "title": "课堂通知：日期、数字与澄清请求",
+      "status": "British Council B1 通用英语官方原音，非 IELTS 真题。四道理解题、教学和例句为本次原创；日期按录音语境理解，不是当前课程通知。",
+      "current": false,
+      "uses": 4
+    },
+    {
+      "id": "new-listening-team-roles",
+      "anchor": "listening-new-new-listening-team-roles",
+      "section": "listening",
+      "title": "会议分工：谁提出顾虑，谁负责执行",
+      "status": "British Council B1 官方通用英语会议原音；非 IELTS Part 3 真题。人物匹配和排序题为原创教学应用。",
+      "current": false,
+      "uses": 4
+    },
+    {
+      "id": "new-listening-weather-table",
+      "anchor": "listening-new-new-listening-weather-table",
+      "section": "listening",
+      "title": "天气播报：地区、时间与例外条件",
+      "status": "British Council B1 官方通用英语原音；不是 IELTS 当季题库或今天的实际天气。表格问题与例句为原创，答案按原课程语境核对。",
+      "current": false,
+      "uses": 4
+    },
+    {
+      "id": "new-listening-lecture-outline",
+      "anchor": "listening-new-new-listening-lecture-outline",
+      "section": "listening",
+      "title": "讲座导入：定义、例子与后文路线",
+      "status": "British Council B1 官方通用英语讲座原音，适合作为 IELTS 学术听力的基础训练。原创理解题；非 IELTS Part 4 原题。",
+      "current": false,
+      "uses": 4
+    },
+    {
+      "id": "new-reading-urban-tfng",
+      "anchor": "reading-new-new-reading-urban-tfng",
+      "section": "reading",
+      "title": "城市绿化：区分反证与尚未提供的信息",
+      "status": "题面、中文讲解、词块例句与解释答案均为本次原创教学；题型规则参考 IELTS 官方页面。不是考试原题，也不据此换算 band。",
+      "current": false,
+      "uses": 4
+    },
+    {
+      "id": "new-reading-refill-summary",
+      "anchor": "reading-new-new-reading-refill-summary",
+      "section": "reading",
+      "title": "循环消费：摘要填空与加工流程",
+      "status": "题面、中文讲解、词块例句与解释答案均为本次原创教学；题型规则参考 IELTS 官方页面。不是考试原题，也不据此换算 band。",
+      "current": false,
+      "uses": 4
+    },
+    {
+      "id": "new-reading-transport-information",
+      "anchor": "reading-new-new-reading-transport-information",
+      "section": "reading",
+      "title": "社区交通：找到例子、限制与纠正信息",
+      "status": "题面、中文讲解、词块例句与解释答案均为本次原创教学；题型规则参考 IELTS 官方页面。不是考试原题，也不据此换算 band。",
+      "current": false,
+      "uses": 4
+    },
+    {
+      "id": "new-reading-ai-views",
+      "anchor": "reading-new-new-reading-ai-views",
+      "section": "reading",
+      "title": "数字学习工具：作者观点与他人主张",
+      "status": "题面、中文讲解、词块例句与解释答案均为本次原创教学；题型规则参考 IELTS 官方页面。不是考试原题，也不据此换算 band。",
+      "current": false,
+      "uses": 4
+    },
+    {
+      "id": "new-writing1-library-map",
+      "anchor": "writing1-new-new-writing1-library-map",
+      "section": "writing1",
+      "title": "地图改造：新增、替换与保留",
+      "status": "题面、中文讲解、词块例句与解释答案均为本次原创教学；题型规则参考 IELTS 官方页面。不是考试原题，也不据此换算 band。",
+      "current": false,
+      "uses": 4
+    },
+    {
+      "id": "new-writing1-transport-trends",
+      "anchor": "writing1-new-new-writing1-transport-trends",
+      "section": "writing1",
+      "title": "趋势图：增长幅度、主次关系与百分点",
+      "status": "题面、中文讲解、词块例句与解释答案均为本次原创教学；题型规则参考 IELTS 官方页面。不是考试原题，也不据此换算 band。",
+      "current": false,
+      "uses": 4
+    },
+    {
+      "id": "new-writing2-environment-discussion",
+      "anchor": "writing2-new-new-writing2-environment-discussion",
+      "section": "writing2",
+      "title": "环境治理：国际协调与本地执行",
+      "status": "2026-09-16 核查非官方列表有 2026-03-25 日期的环境治理主题；只是选题参考，无官方真题确认。本题改为讨论双方，题面、讲解、词卡与整篇示范均原创；不是预测题库。",
+      "current": false,
+      "uses": 4
+    },
+    {
+      "id": "new-writing2-community-causes",
+      "anchor": "writing2-new-new-writing2-community-causes",
+      "section": "writing2",
+      "title": "社区安全感：原因与措施逐一对应",
+      "status": "2026-09-16 核查非官方列表 2026-03-01 安全感原因对策主题。日期只是该站回忆标记，未获官方确认；本题缩小情境，正文与教学原创，不是预测。",
+      "current": false,
+      "uses": 4
+    }
+  ],
+  "source_integrity": "reported prompts, official resources and original teaching labelled separately",
+  "pdf_updated": false,
+  "main_sha256": "fd31ae1e8caca96eb8658c2b7d14920049a8b6f5b235e1a481564b8e23a08ce1"
+}

@@ -1,0 +1,198 @@
+{
+  "requested": "pr-listening-p3",
+  "from": [
+    "内容单元",
+    "页面链接"
+  ],
+  "actual": "#pr-listening-p3",
+  "checkedAt": "2026-09-21T12:52:37.960Z",
+  "title": "练习 / 听力 / Listening Part 3 远程学习 · IELTS",
+  "label": "练习 / 听力 / Listening Part 3 远程学习",
+  "panel": "practice-listening",
+  "contentRoot": "pr-listening-p3",
+  "headings": [],
+  "controls": [
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "Listening Part 3 远程学习",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "AUDIO",
+      "id": "",
+      "text": "",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "作答 1\n暂时不会",
+      "href": null,
+      "save": "pr-listening-p3-27",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "暂时不会",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "作答 2\n暂时不会",
+      "href": null,
+      "save": "pr-listening-p3-28",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "暂时不会",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "作答 3\n暂时不会",
+      "href": null,
+      "save": "pr-listening-p3-29",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "暂时不会",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "作答 4\n暂时不会",
+      "href": null,
+      "save": "pr-listening-p3-30",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "暂时不会",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "答案",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "Cambridge · Listening sample task · Sentence completion · Questions 27–30",
+      "label": "",
+      "href": "原始参考/support-50078fae-cambridge-zip-115010_Listening_sample_task_-_Sentence_completion.pdf#page=1",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "在线来源",
+      "label": "",
+      "href": "https://www.cambridgeenglish.org/exams-and-tests/ielts/preparation/",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    }
+  ],
+  "visibleText": "Listening Part 3 远程学习\n0% · 0 / 4 完成\n\nWrite NO MORE THAN TWO WORDS for each answer.\n\nQuestions 27–30\n\nRachel and Paul are discussing studying with the Open University.\n\nStudying with the Open University demanded a great deal of ______.\n\n作答 1\n暂时不会\n\nStudying and working at the same time improved Rachel’s ______ skills.\n\n作答 2\n暂时不会\n\nIt was helpful that the course was structured in ______.\n\n作答 3\n暂时不会\n\nShe enjoyed meeting other students at ______.\n\n作答 4\n暂时不会\n答案\n\n选材来源 · Cambridge · Listening sample task · Sentence completion · Questions 27–30 · 在线来源",
+  "allContent": "Listening Part 3 远程学习0% · 0 / 4 完成Write NO MORE THAN TWO WORDS for each answer.Questions 27–30Rachel and Paul are discussing studying with the Open University.Studying with the Open University demanded a great deal of ______.作答 1暂时不会Studying and working at the same time improved Rachel’s ______ skills.作答 2暂时不会It was helpful that the course was structured in ______.作答 3暂时不会She enjoyed meeting other students at ______.作答 4暂时不会答案27 motivation; 28 time management / time-management; 29 modules; 30 summer school(s).选材来源 · Cambridge · Listening sample task · Sentence completion · Questions 27–30 · 在线来源",
+  "links": [
+    {
+      "text": "Cambridge · Listening sample task · Sentence completion · Questions 27–30",
+      "href": "原始参考/support-50078fae-cambridge-zip-115010_Listening_sample_task_-_Sentence_completion.pdf#page=1"
+    },
+    {
+      "text": "在线来源",
+      "href": "https://www.cambridgeenglish.org/exams-and-tests/ielts/preparation/"
+    }
+  ],
+  "details": [
+    {
+      "id": "answer-check-43",
+      "title": "答案",
+      "open": false,
+      "answerGate": "[\"pr-listening-p3-27\", \"pr-listening-p3-28\", \"pr-listening-p3-29\", \"pr-listening-p3-30\"]",
+      "visible": true
+    }
+  ],
+  "saveFields": [
+    "pr-listening-p3-27",
+    "pr-listening-p3-28",
+    "pr-listening-p3-29",
+    "pr-listening-p3-30"
+  ],
+  "images": [],
+  "audio": [
+    {
+      "src": "原始参考/bb61bf2b-recording-4.mp3",
+      "sources": [],
+      "visible": true,
+      "controls": true
+    }
+  ],
+  "viewport": 1440,
+  "documentWidth": 1440
+}

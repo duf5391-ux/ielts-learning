@@ -1,0 +1,33 @@
+{
+  "status": "approved_partial_release",
+  "reviewers": [
+    "luna",
+    "independent reading reviewer",
+    "independent writing reviewer",
+    "root"
+  ],
+  "approved_unit_ids": [
+    "pr-jijing-202609-listening-01-v1",
+    "pr-jijing-202609-reading-01-v1"
+  ],
+  "unit_sha256": {
+    "pr-jijing-202609-listening-01-v1": "0ba921065e1ff73543ff4aeb257ecf4f735d2c65872947c7967d4ca15680a883",
+    "pr-jijing-202609-reading-01-v1": "438c066918db605b272c13fbe37c60871fc5c87d1623d08293f26ca4d3d099f3"
+  },
+  "approved_reference_ids": [
+    "ieltsa-writing-202609-1-2-reference-v1",
+    "ieltsa-writing-202609-2-2-reference-v1",
+    "ieltsa-writing-202609-3-2-reference-v1",
+    "ieltsa-writing-202609-4-2-reference-v2",
+    "ieltsa-writing-202609-5-2-reference-v1",
+    "ieltsa-writing-202609-6-2-reference-v1",
+    "ieltsa-writing-202609-7-2-reference-v1",
+    "ieltsa-writing-202609-8-2-reference-v1",
+    "ieltsa-writing-202609-10-2-reference-v1"
+  ],
+  "writing_clean_sha256": "869ad6017a905dac4f017eb5bbffbd569a17f1d2bc3d202eb74a14cf12fb5b2c",
+  "audio_evidence": "audio-alignment-review.json",
+  "luna_review_sha256": "862b5711b31ba4b086131f3e0afbd9d5a17cc1594db2663b5b8f9b56443abf2a",
+  "withheld": "All35 original source pages as full pages, institution recalls, original speaking PDFs and all unreliably reconstructed Task1 charts. These remain in local raw archive.",
+  "scope": "Two independent practice units and nine standalone Task2 reference prompts; no official paper, verified sitting/date or complete test claim."
+}

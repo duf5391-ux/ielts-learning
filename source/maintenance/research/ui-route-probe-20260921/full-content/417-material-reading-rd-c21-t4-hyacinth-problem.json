@@ -1,0 +1,260 @@
+{
+  "requested": "material-reading-rd-c21-t4-hyacinth-problem",
+  "from": [
+    "每日安排目标"
+  ],
+  "actual": "#material-reading-rd-c21-t4-hyacinth-problem",
+  "checkedAt": "2026-09-21T12:56:12.340Z",
+  "title": "练习 / 阅读 / Water hyacinth · 入侵植物与能源问题 · IELTS",
+  "label": "练习 / 阅读 / Water hyacinth · 入侵植物与能源问题",
+  "panel": "practice-reading",
+  "contentRoot": "reading-case-rd-c21-t4-hyacinth-problem",
+  "headings": [
+    {
+      "tag": "H3",
+      "text": "对照答案，回到证据",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "原文片段 · 1",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "原文片段 · 2",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "原文片段 · 3",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "原文片段 · 4",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "词语与搭配",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "句子精读",
+      "visible": true
+    }
+  ],
+  "controls": [
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "Water hyacinth · 入侵植物与能源问题未作答\n事实判断 TFNG · 4 段 · 407 词 · 7 题 · 同篇原文另有裁切",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "Cambridge IELTS 21 Academic",
+      "label": "",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=82",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "case-rd-c21-t4-hyacinth-problem-q1",
+      "type": "text",
+      "text": "",
+      "label": "第 1 题作答",
+      "href": null,
+      "save": "case-rd-c21-t4-hyacinth-problem-q1",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "case-rd-c21-t4-hyacinth-problem-q2",
+      "type": "text",
+      "text": "",
+      "label": "第 2 题作答",
+      "href": null,
+      "save": "case-rd-c21-t4-hyacinth-problem-q2",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "case-rd-c21-t4-hyacinth-problem-q3",
+      "type": "text",
+      "text": "",
+      "label": "第 3 题作答",
+      "href": null,
+      "save": "case-rd-c21-t4-hyacinth-problem-q3",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "case-rd-c21-t4-hyacinth-problem-q4",
+      "type": "text",
+      "text": "",
+      "label": "第 4 题作答",
+      "href": null,
+      "save": "case-rd-c21-t4-hyacinth-problem-q4",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "case-rd-c21-t4-hyacinth-problem-q5",
+      "type": "text",
+      "text": "",
+      "label": "第 5 题作答",
+      "href": null,
+      "save": "case-rd-c21-t4-hyacinth-problem-q5",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "case-rd-c21-t4-hyacinth-problem-q6",
+      "type": "text",
+      "text": "",
+      "label": "第 6 题作答",
+      "href": null,
+      "save": "case-rd-c21-t4-hyacinth-problem-q6",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "case-rd-c21-t4-hyacinth-problem-q7",
+      "type": "text",
+      "text": "",
+      "label": "第 7 题作答",
+      "href": null,
+      "save": "case-rd-c21-t4-hyacinth-problem-q7",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "checkbox",
+      "text": "",
+      "label": "",
+      "href": null,
+      "save": "case-rd-c21-t4-hyacinth-problem-done",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "hidden",
+      "text": "",
+      "label": "",
+      "href": null,
+      "save": "case-rd-c21-t4-hyacinth-problem-saved-at",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "保留作答，查看答案",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "核对原答案页",
+      "label": "",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=125",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "case-rd-c21-t4-hyacinth-problem-revision",
+      "type": "textarea",
+      "text": "",
+      "label": "我的修订／证据笔记",
+      "href": null,
+      "save": "case-rd-c21-t4-hyacinth-problem-revision",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "材料精读 · 内容与词句",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    }
+  ],
+  "visibleText": "Water hyacinth · 入侵植物与能源问题未作答\n事实判断 TFNG · 4 段 · 407 词 · 7 题 · 同篇原文另有裁切\n0% · 0 / 1 完成\n\n真题 · Cambridge IELTS 21 Academic · PDF 第 82 页\n\n按原题号作答。保留考试原文与题目难度；以下是连续原段裁切，未改写原文。\n\n开篇连续4段保留完整因果背景；两道NG另核对了全文，没有把片段未出现的内容当答案。健康数值只作为原考试文章陈述理解。\n\n原文片段 · 1Water hyacinth (Eichhornia crassipes), an aquatic plant native to South America, first appeared in countries in Africa in the early 1900s. Scientists there called it the 'world's worst aquatic weed', after it spread from the southernmost tip of Africa in the early 1900s and started obstructing major dams and rivers.\n\n原文片段 · 2In east Africa the plant arrived with Belgian colonists in Rwanda, who liked the look of its glossy leaves and delicate purple flowers floating in their ponds. But by the 1980s, it had 'escaped' out of the country via the Kagera river and made its way downstream to Lake Victoria. There, with no natural predators and perfect temperature conditions, the plant began spreading in the open water, blocking fishing routes and providing a new habitat for disease-carrying mosquitoes.\n\n原文片段 · 3For the women who smoke fish from the lake to sell it has meant declining income, as the boats that once brought the fish to shore by the hundreds struggle to navigate through the mass of plants. But water hyacinth isn't their only headache. In order to smoke the fish that they buy, they must gather huge quantities of firewood, sometimes walking as far as 10km each way to collect enough to complete their work. And each day as they cook, they breathe in the thick, grey smoke. About three out of four families in Kenya depend on wood or charcoal to cook their daily meals, and the rate is even higher in rural areas, Kenya's latest demographic and health survey shows. Using solid fuels like these for cooking increases indoor pollution. The World Health Organization estimates that about 14,300 Kenyans die annually as a result of indoor air pollution - most of which is caused by cooking and heating sources.\n\n原文片段 · 4Some years ago, on the shores of Lake Victoria, huge piles of water hyacinth that villagers had taken out of the water in an attempt to clear it were a common sight. But buried in those decaying waxy leaves was a renewable energy gold mine. It turns out the floating plant isn't just good at spreading - its foliage also contains a high ratio of carbon to nitrogen. It's a magic combination that has captivated researchers' imaginations since as early as the 1980s when, across the world, they began to explore its potential as a biofuel. Just about 4kg of the dried plant would be enough to cater for a large family's daily energy needs, early research predicted.\n\n1. Water hyacinth was introduced as a decorative plant in east Africa.\n\nDo the following statements agree with the information given in the reading passage? Write TRUE, FALSE or NOT GIVEN.\n\n第 1 题作答\n\n2. Fishermen took some water hyacinth plants to Lake Victoria.\n\nDo the following statements agree with the information given in the reading passage? Write TRUE, FALSE or NOT GIVEN.\n\n第 2 题作答\n\n3. It is now difficult to force boats through the thick water hyacinth on Lake Victoria.\n\nDo the following statements agree with the information given in the reading passage? Write TRUE, FALSE or NOT GIVEN.\n\n第 3 题作答\n\n4. Chemicals produced by the water hyacinth plants are affecting the numbers of fish in Lake Victoria.\n\nDo the following statements agree with the information given in the reading passage? Write TRUE, FALSE or NOT GIVEN.\n\n第 4 题作答\n\n5. Cooking with charcoal has been proved to be even worse for people's health than cooking with wood.\n\nDo the following statements agree with the information given in the reading passage? Write TRUE, FALSE or NOT GIVEN.\n\n第 5 题作答\n\n6. People found it impossible to remove much water hyacinth from Lake Victoria.\n\nDo the following statements agree with the information given in the reading passage? Write TRUE, FALSE or NOT GIVEN.\n\n第 6 题作答\n\n7. Scientists started investigating the possibility of using water hyacinth to generate biogas in the last century.\n\nDo the following statements agree with the information given in the reading passage? Write TRUE, FALSE or NOT GIVEN.\n\n第 7 题作答\n保留作答，查看答案\n\n先作答；不确定的题也可记录判断与疑点。\n\n材料精读 · 内容与词句\n\n文章从水葫芦的入侵路径写到渔业收入、做饭燃料和室内烟尘，再把同一种植物转看为潜在能源。两类问题由湖边家庭的生活相连，结尾的能源价值仍是研究和预测所提出的潜力。\n\n原文片段 · 1\nWater hyacinth (Eichhornia crassipes), an aquatic plant native to South America, first appeared in countries in Africa in the early 1900s. Scientists there called it the 'world's worst aquatic weed', after it spread from the southernmost tip of Africa in the early 1900s and started obstructing major dams and rivers.\n\n水葫芦原产南美，20世纪初进入非洲并开始堵塞重要水坝和河道。aquatic 表示水生；weed 在这里体现它在当地环境中的妨碍作用。最糟糕的水生杂草是文中科学家的称呼，具有评价色彩。\n\n原文片段 · 2\nIn east Africa the plant arrived with Belgian colonists in Rwanda, who liked the look of its glossy leaves and delicate purple flowers floating in their ponds. But by the 1980s, it had 'escaped' out of the country via the Kagera river and made its way downstream to Lake Victoria. There, with no natural predators and perfect temperature conditions, the plant began spreading in the open water, blocking fishing routes and providing a new habitat for disease-carrying mosquitoes.\n\n它最初作为观赏植物进入卢旺达池塘，随后顺河进入维多利亚湖。缺少天敌且温度适宜，使其迅速扩散：既阻碍捕鱼路线，也为携病蚊虫提供栖息地。escaped 带引号，把植物离开受控种植环境写成逃出。\n\n原文片段 · 3\nFor the women who smoke fish from the lake to sell it has meant declining income, as the boats that once brought the fish to shore by the hundreds struggle to navigate through the mass of plants. But water hyacinth isn't their only headache. In order to smoke the fish that they buy, they must gather huge quantities of firewood, sometimes walking as far as 10km each way to collect enough to complete their work. And each day as they cook, they breathe in the thick, grey smoke. About three out of four families in Kenya depend on wood or charcoal to cook their daily meals, and the rate is even higher in rural areas, Kenya's latest demographic and health survey shows. Using solid fuels like these for cooking increases indoor pollution. The World Health Organization estimates that about 14,300 Kenyans die annually as a result of indoor air pollution - most of which is caused by cooking and heating sources.\n\n水面被覆盖后，运鱼困难影响熏鱼女性的收入；同时，她们仍需远行拾柴，并长期吸入烹饪烟尘。段落把局部职业处境扩展到许多肯尼亚家庭依赖固体燃料的背景，再引述原文当时的健康估计。室内污染并不都来自烹饪，most of which 保留了这一范围。\n\n原文片段 · 4\nSome years ago, on the shores of Lake Victoria, huge piles of water hyacinth that villagers had taken out of the water in an attempt to clear it were a common sight. But buried in those decaying waxy leaves was a renewable energy gold mine. It turns out the floating plant isn't just good at spreading - its foliage also contains a high ratio of carbon to nitrogen. It's a magic combination that has captivated researchers' imaginations since as early as the 1980s when, across the world, they began to explore its potential as a biofuel. Just about 4kg of the dried plant would be enough to cater for a large family's daily energy needs, early research predicted.\n\n被捞上岸的腐烂植物原本像废物，作者却用 gold mine 比喻其中潜藏的能源价值。研究者注意到其碳氮比例并探索生物燃料用途；每天约4公斤干植物可满足大家庭能源需求，是早期研究的预测，不等于所有实际装置已实现同样产出。\n\n词语与搭配\nmade its way downstream\n\n沿河向下游扩散\n\nmake one's way 描述移动过程；这里主语是植物，指它随着水路进入新的环境。\n\ndisease-carrying mosquitoes\n\n携带病原、可能传播疾病的蚊虫\n\n复合形容词说明蚊虫的健康风险，不表示植物本身造成所有相关疾病。\n\na renewable energy gold mine\n\n可再生能源的潜在宝库\n\ngold mine 是价值比喻，强调废弃植物可能具有用途，并非实际金矿。\n\nexplore its potential as a biofuel\n\n探索它作为生物燃料的潜力\n\nexplore 和 potential 都说明处于研究与评估阶段，不能改述成效果已经被全面证实。\n\n句子精读\nThere, with no natural predators and perfect temperature conditions, the plant began spreading in the open water, blocking fishing routes and providing a new habitat for disease-carrying mosquitoes.\n\n在那里，由于没有天敌且温度条件十分适宜，这种植物开始在开放水域扩散，堵住捕鱼路线，并为携病蚊虫提供了新的栖息地。\n\nThere 指维多利亚湖。with 短语交代促成扩散的条件；主干是 the plant began spreading。blocking 与 providing 并列补充扩散伴随的两个后果，分别涉及生计和健康。\n\nBut buried in those decaying waxy leaves was a renewable energy gold mine.\n\n然而，那些正在腐烂的蜡质叶片里，却藏着一座可再生能源宝库。\n\n这是把 buried in those decaying waxy leaves 提到句首的倒装表达，主语 a renewable energy gold mine 放在 was 后面。But 改变观察角度：同一堆植物从需清除的麻烦转成可能利用的资源。\n\n读完讲解，可以把原文连起来再读一次；想保留的词句可使用已有收藏功能。",
+  "allContent": "Water hyacinth · 入侵植物与能源问题未作答事实判断 TFNG · 4 段 · 407 词 · 7 题 · 同篇原文另有裁切0% · 0 / 1 完成真题 · Cambridge IELTS 21 Academic · PDF 第 82 页按原题号作答。保留考试原文与题目难度；以下是连续原段裁切，未改写原文。开篇连续4段保留完整因果背景；两道NG另核对了全文，没有把片段未出现的内容当答案。健康数值只作为原考试文章陈述理解。原文片段 · 1Water hyacinth (Eichhornia crassipes), an aquatic plant native to South America, first appeared in countries in Africa in the early 1900s. Scientists there called it the 'world's worst aquatic weed', after it spread from the southernmost tip of Africa in the early 1900s and started obstructing major dams and rivers.原文片段 · 2In east Africa the plant arrived with Belgian colonists in Rwanda, who liked the look of its glossy leaves and delicate purple flowers floating in their ponds. But by the 1980s, it had 'escaped' out of the country via the Kagera river and made its way downstream to Lake Victoria. There, with no natural predators and perfect temperature conditions, the plant began spreading in the open water, blocking fishing routes and providing a new habitat for disease-carrying mosquitoes.原文片段 · 3For the women who smoke fish from the lake to sell it has meant declining income, as the boats that once brought the fish to shore by the hundreds struggle to navigate through the mass of plants. But water hyacinth isn't their only headache. In order to smoke the fish that they buy, they must gather huge quantities of firewood, sometimes walking as far as 10km each way to collect enough to complete their work. And each day as they cook, they breathe in the thick, grey smoke. About three out of four families in Kenya depend on wood or charcoal to cook their daily meals, and the rate is even higher in rural areas, Kenya's latest demographic and health survey shows. Using solid fuels like these for cooking increases indoor pollution. The World Health Organization estimates that about 14,300 Kenyans die annually as a result of indoor air pollution - most of which is caused by cooking and heating sources.原文片段 · 4Some years ago, on the shores of Lake Victoria, huge piles of water hyacinth that villagers had taken out of the water in an attempt to clear it were a common sight. But buried in those decaying waxy leaves was a renewable energy gold mine. It turns out the floating plant isn't just good at spreading - its foliage also contains a high ratio of carbon to nitrogen. It's a magic combination that has captivated researchers' imaginations since as early as the 1980s when, across the world, they began to explore its potential as a biofuel. Just about 4kg of the dried plant would be enough to cater for a large family's daily energy needs, early research predicted.1. Water hyacinth was introduced as a decorative plant in east Africa.Do the following statements agree with the information given in the reading passage? Write TRUE, FALSE or NOT GIVEN.第 1 题作答2. Fishermen took some water hyacinth plants to Lake Victoria.Do the following statements agree with the information given in the reading passage? Write TRUE, FALSE or NOT GIVEN.第 2 题作答3. It is now difficult to force boats through the thick water hyacinth on Lake Victoria.Do the following statements agree with the information given in the reading passage? Write TRUE, FALSE or NOT GIVEN.第 3 题作答4. Chemicals produced by the water hyacinth plants are affecting the numbers of fish in Lake Victoria.Do the following statements agree with the information given in the reading passage? Write TRUE, FALSE or NOT GIVEN.第 4 题作答5. Cooking with charcoal has been proved to be even worse for people's health than cooking with wood.Do the following statements agree with the information given in the reading passage? Write TRUE, FALSE or NOT GIVEN.第 5 题作答6. People found it impossible to remove much water hyacinth from Lake Victoria.Do the following statements agree with the information given in the reading passage? Write TRUE, FALSE or NOT GIVEN.第 6 题作答7. Scientists started investigating the possibility of using water hyacinth to generate biogas in the last century.Do the following statements agree with the information given in the reading passage? Write TRUE, FALSE or NOT GIVEN.第 7 题作答保留作答，查看答案先作答；不确定的题也可记录判断与疑点。对照答案，回到证据第 1 题 · TRUEliked the look与自家池塘花叶说明最初作装饰用途。Belgian colonists in Rwanda, who liked the look of its glossy leaves and delicate purple flowers floating in their ponds第 2 题 · FALSE实际传播路径是河流顺流而下，不是渔民运送。it had 'escaped' out of the country via the Kagera river and made its way downstream to Lake Victoria第 3 题 · TRUEstruggle to navigate对应difficult to force boats through。the boats ... struggle to navigate through the mass of plants第 4 题 · NOT GIVEN文中说堵住捕鱼线路并供蚊子栖息，没有说植物产生化学物质影响鱼数；渔获难运不等于鱼类减少。blocking fishing routes and providing a new habitat for disease-carrying mosquitoes第 5 题 · NOT GIVEN原文并列木材与木炭作为有害固体燃料，但全文没有健康危害高低比较。About three out of four families in Kenya depend on wood or charcoal ... Using solid fuels like these ... increases indoor pollution第 6 题 · FALSEhuge piles与taken out说明已移除大量植物，直接反驳impossible to remove much。huge piles of water hyacinth that villagers had taken out of the water ... were a common sight第 7 题 · TRUE1980s属于20世纪；题面last century对应原文年代，不要求你查当今研究。since as early as the 1980s ... began to explore its potential as a biofuel核对原答案页我的修订／证据笔记材料精读 · 内容与词句文章从水葫芦的入侵路径写到渔业收入、做饭燃料和室内烟尘，再把同一种植物转看为潜在能源。两类问题由湖边家庭的生活相连，结尾的能源价值仍是研究和预测所提出的潜力。原文片段 · 1Water hyacinth (Eichhornia crassipes), an aquatic plant native to South America, first appeared in countries in Africa in the early 1900s. Scientists there called it the 'world's worst aquatic weed', after it spread from the southernmost tip of Africa in the early 1900s and started obstructing major dams and rivers.水葫芦原产南美，20世纪初进入非洲并开始堵塞重要水坝和河道。aquatic 表示水生；weed 在这里体现它在当地环境中的妨碍作用。最糟糕的水生杂草是文中科学家的称呼，具有评价色彩。原文片段 · 2In east Africa the plant arrived with Belgian colonists in Rwanda, who liked the look of its glossy leaves and delicate purple flowers floating in their ponds. But by the 1980s, it had 'escaped' out of the country via the Kagera river and made its way downstream to Lake Victoria. There, with no natural predators and perfect temperature conditions, the plant began spreading in the open water, blocking fishing routes and providing a new habitat for disease-carrying mosquitoes.它最初作为观赏植物进入卢旺达池塘，随后顺河进入维多利亚湖。缺少天敌且温度适宜，使其迅速扩散：既阻碍捕鱼路线，也为携病蚊虫提供栖息地。escaped 带引号，把植物离开受控种植环境写成逃出。原文片段 · 3For the women who smoke fish from the lake to sell it has meant declining income, as the boats that once brought the fish to shore by the hundreds struggle to navigate through the mass of plants. But water hyacinth isn't their only headache. In order to smoke the fish that they buy, they must gather huge quantities of firewood, sometimes walking as far as 10km each way to collect enough to complete their work. And each day as they cook, they breathe in the thick, grey smoke. About three out of four families in Kenya depend on wood or charcoal to cook their daily meals, and the rate is even higher in rural areas, Kenya's latest demographic and health survey shows. Using solid fuels like these for cooking increases indoor pollution. The World Health Organization estimates that about 14,300 Kenyans die annually as a result of indoor air pollution - most of which is caused by cooking and heating sources.水面被覆盖后，运鱼困难影响熏鱼女性的收入；同时，她们仍需远行拾柴，并长期吸入烹饪烟尘。段落把局部职业处境扩展到许多肯尼亚家庭依赖固体燃料的背景，再引述原文当时的健康估计。室内污染并不都来自烹饪，most of which 保留了这一范围。原文片段 · 4Some years ago, on the shores of Lake Victoria, huge piles of water hyacinth that villagers had taken out of the water in an attempt to clear it were a common sight. But buried in those decaying waxy leaves was a renewable energy gold mine. It turns out the floating plant isn't just good at spreading - its foliage also contains a high ratio of carbon to nitrogen. It's a magic combination that has captivated researchers' imaginations since as early as the 1980s when, across the world, they began to explore its potential as a biofuel. Just about 4kg of the dried plant would be enough to cater for a large family's daily energy needs, early research predicted.被捞上岸的腐烂植物原本像废物，作者却用 gold mine 比喻其中潜藏的能源价值。研究者注意到其碳氮比例并探索生物燃料用途；每天约4公斤干植物可满足大家庭能源需求，是早期研究的预测，不等于所有实际装置已实现同样产出。词语与搭配made its way downstream沿河向下游扩散make one's way 描述移动过程；这里主语是植物，指它随着水路进入新的环境。disease-carrying mosquitoes携带病原、可能传播疾病的蚊虫复合形容词说明蚊虫的健康风险，不表示植物本身造成所有相关疾病。a renewable energy gold mine可再生能源的潜在宝库gold mine 是价值比喻，强调废弃植物可能具有用途，并非实际金矿。explore its potential as a biofuel探索它作为生物燃料的潜力explore 和 potential 都说明处于研究与评估阶段，不能改述成效果已经被全面证实。句子精读There, with no natural predators and perfect temperature conditions, the plant began spreading in the open water, blocking fishing routes and providing a new habitat for disease-carrying mosquitoes.在那里，由于没有天敌且温度条件十分适宜，这种植物开始在开放水域扩散，堵住捕鱼路线，并为携病蚊虫提供了新的栖息地。There 指维多利亚湖。with 短语交代促成扩散的条件；主干是 the plant began spreading。blocking 与 providing 并列补充扩散伴随的两个后果，分别涉及生计和健康。But buried in those decaying waxy leaves was a renewable energy gold mine.然而，那些正在腐烂的蜡质叶片里，却藏着一座可再生能源宝库。这是把 buried in those decaying waxy leaves 提到句首的倒装表达，主语 a renewable energy gold mine 放在 was 后面。But 改变观察角度：同一堆植物从需清除的麻烦转成可能利用的资源。读完讲解，可以把原文连起来再读一次；想保留的词句可使用已有收藏功能。",
+  "links": [
+    {
+      "text": "Cambridge IELTS 21 Academic",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=82"
+    },
+    {
+      "text": "核对原答案页",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=125"
+    }
+  ],
+  "details": [
+    {
+      "id": "material-reading-rd-c21-t4-hyacinth-problem",
+      "title": "材料精读 · 内容与词句",
+      "open": true,
+      "visible": true
+    }
+  ],
+  "saveFields": [
+    "case-rd-c21-t4-hyacinth-problem-q1",
+    "case-rd-c21-t4-hyacinth-problem-q2",
+    "case-rd-c21-t4-hyacinth-problem-q3",
+    "case-rd-c21-t4-hyacinth-problem-q4",
+    "case-rd-c21-t4-hyacinth-problem-q5",
+    "case-rd-c21-t4-hyacinth-problem-q6",
+    "case-rd-c21-t4-hyacinth-problem-q7",
+    "case-rd-c21-t4-hyacinth-problem-done",
+    "case-rd-c21-t4-hyacinth-problem-saved-at",
+    "case-rd-c21-t4-hyacinth-problem-revision"
+  ],
+  "images": [],
+  "audio": [],
+  "viewport": 1440,
+  "documentWidth": 1440
+}

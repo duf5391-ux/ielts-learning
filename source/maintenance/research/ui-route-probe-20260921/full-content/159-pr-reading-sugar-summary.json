@@ -1,0 +1,250 @@
+{
+  "requested": "pr-reading-sugar-summary",
+  "from": [
+    "内容单元",
+    "页面链接"
+  ],
+  "actual": "#pr-reading-sugar-summary",
+  "checkedAt": "2026-09-21T12:52:27.662Z",
+  "title": "练习 / 阅读 / 阅读 · 摘要选词 Sugar cultivation and production · IELTS",
+  "label": "练习 / 阅读 / 阅读 · 摘要选词 Sugar cultivation and production",
+  "panel": "practice-reading",
+  "contentRoot": "pr-reading-sugar-summary",
+  "headings": [
+    {
+      "tag": "H4",
+      "text": "这份材料的精读",
+      "visible": true
+    }
+  ],
+  "controls": [
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "阅读 · 摘要选词 Sugar cultivation and production",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "作答 1\n暂时不会",
+      "href": null,
+      "save": "pr-reading-sugar-summary-31",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "暂时不会",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "作答 2\n暂时不会",
+      "href": null,
+      "save": "pr-reading-sugar-summary-32",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "暂时不会",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "作答 3\n暂时不会",
+      "href": null,
+      "save": "pr-reading-sugar-summary-33",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "暂时不会",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "答案",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "再练一次",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "",
+      "href": null,
+      "save": "pr-reading-sugar-summary-another",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "",
+      "label": "",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "",
+      "label": "",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "Cambridge IELTS 21 Academic",
+      "label": "",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=26",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "The World of Sugar｜全球贸易与误解纠正",
+      "label": "",
+      "href": "#material-reading-rd-c21-sugar-1",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "The World of Sugar｜劳动组织与行业权力",
+      "label": "",
+      "href": "#material-reading-rd-c21-sugar-2",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "The World of Sugar｜工业化、消费与作者立场",
+      "label": "",
+      "href": "#material-reading-rd-c21-sugar-3",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    }
+  ],
+  "visibleText": "阅读 · 摘要选词 Sugar cultivation and production\n0% · 0 / 3 完成\n\nComplete the summary using the list of words, A–I. Write the correct letter.\n\nThe World of Sugar is also a story of similarity and continuity in sugar cultivation. For example, imported labour has been used for much large-scale production. German beet fields employed Polish workers; Mexicans and many others, including Sicilians, were vital to US sugar production. Cane cutting, Bosma shows, remains a poorly paid and brutal business to this day in many places in the world. But as well as this, the book is about the continuity of the use of traditional methods on small farms. In the mid 20th-century, this type of sugar production dominated in South Asia and Latin America.\n\nThis is also a history of capitalists and sugar dynasties, as well as corporations that in some cases have remained influential over very long periods. Great firms and great interests have had profound influence on the policies of states. In many places - not just the British Caribbean but Cuba and the Philippines too - a powerful sugar bourgeoisie played a major role in politics and their interests were consequently protected by trade barriers and subsidies. In the battle for control of the industry, it was inevitably the poor countries which came off worse. All this is explored by Bosma with wonderful subtlety and control.\n\nThe book The World of Sugar points out the similarities in the way that sugar was cultivated around the world.\n\nIn the big industries in both Germany and the US, sugar farming depended on 31 __________.\n\nA national governments\nB agricultural developments\nC less wealthy nations\nD untrained workers\nE small-scale cultivation\nF outdated methods\nG financial controls\nH migrant workers\nI powerful individuals and businesses\n作答 1\n暂时不会\n\nHowever, in other parts of the world such as South Asia and Latin America, 32 __________ continued.\n\nA national governments\nB agricultural developments\nC less wealthy nations\nD untrained workers\nE small-scale cultivation\nF outdated methods\nG financial controls\nH migrant workers\nI powerful individuals and businesses\n作答 2\n暂时不会\n\nSugar production has also involved 33 __________ who were eager to protect their markets.\n\nA national governments\nB agricultural developments\nC less wealthy nations\nD untrained workers\nE small-scale cultivation\nF outdated methods\nG financial controls\nH migrant workers\nI powerful individuals and businesses\n作答 3\n暂时不会\n答案\n再练一次\n\n选材来源 · Cambridge IELTS 21 Academic\n\n这份材料的精读\n\nThe World of Sugar｜全球贸易与误解纠正 · The World of Sugar｜劳动组织与行业权力 · The World of Sugar｜工业化、消费与作者立场",
+  "allContent": "阅读 · 摘要选词 Sugar cultivation and production0% · 0 / 3 完成Complete the summary using the list of words, A–I. Write the correct letter.The World of Sugar is also a story of similarity and continuity in sugar cultivation. For example, imported labour has been used for much large-scale production. German beet fields employed Polish workers; Mexicans and many others, including Sicilians, were vital to US sugar production. Cane cutting, Bosma shows, remains a poorly paid and brutal business to this day in many places in the world. But as well as this, the book is about the continuity of the use of traditional methods on small farms. In the mid 20th-century, this type of sugar production dominated in South Asia and Latin America.This is also a history of capitalists and sugar dynasties, as well as corporations that in some cases have remained influential over very long periods. Great firms and great interests have had profound influence on the policies of states. In many places - not just the British Caribbean but Cuba and the Philippines too - a powerful sugar bourgeoisie played a major role in politics and their interests were consequently protected by trade barriers and subsidies. In the battle for control of the industry, it was inevitably the poor countries which came off worse. All this is explored by Bosma with wonderful subtlety and control.The book The World of Sugar points out the similarities in the way that sugar was cultivated around the world.In the big industries in both Germany and the US, sugar farming depended on 31 __________.A national governmentsB agricultural developmentsC less wealthy nationsD untrained workersE small-scale cultivationF outdated methodsG financial controlsH migrant workersI powerful individuals and businesses作答 1暂时不会However, in other parts of the world such as South Asia and Latin America, 32 __________ continued.A national governmentsB agricultural developmentsC less wealthy nationsD untrained workersE small-scale cultivationF outdated methodsG financial controlsH migrant workersI powerful individuals and businesses作答 2暂时不会Sugar production has also involved 33 __________ who were eager to protect their markets.A national governmentsB agricultural developmentsC less wealthy nationsD untrained workersE small-scale cultivationF outdated methodsG financial controlsH migrant workersI powerful individuals and businesses作答 3暂时不会答案Q31 H；Q32 E；Q33 I再练一次Complete the summary using the list of words, A–D.Large tea estates recruited workers from neighbouring countries. Elsewhere, tea continued to be grown on small family plots using techniques passed down through generations. The account does not compare the efficiency of these techniques with modern ones.A obsolete technologyB migrant labourC local governmentD small-scale farmingThe large estates relied on 1 __________, while 2 __________ continued in other areas.作答暂时不会答案1 B；2 D选材来源 · Cambridge IELTS 21 Academic这份材料的精读The World of Sugar｜全球贸易与误解纠正 · The World of Sugar｜劳动组织与行业权力 · The World of Sugar｜工业化、消费与作者立场",
+  "links": [
+    {
+      "text": "Cambridge IELTS 21 Academic",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=26"
+    },
+    {
+      "text": "The World of Sugar｜全球贸易与误解纠正",
+      "href": "#material-reading-rd-c21-sugar-1"
+    },
+    {
+      "text": "The World of Sugar｜劳动组织与行业权力",
+      "href": "#material-reading-rd-c21-sugar-2"
+    },
+    {
+      "text": "The World of Sugar｜工业化、消费与作者立场",
+      "href": "#material-reading-rd-c21-sugar-3"
+    }
+  ],
+  "details": [
+    {
+      "id": "answer-check-29",
+      "title": "答案",
+      "open": false,
+      "answerGate": "[\"pr-reading-sugar-summary-31\", \"pr-reading-sugar-summary-32\", \"pr-reading-sugar-summary-33\"]",
+      "visible": true
+    },
+    {
+      "id": "",
+      "title": "再练一次",
+      "open": false,
+      "visible": true
+    },
+    {
+      "id": "answer-check-30",
+      "title": "答案",
+      "open": false,
+      "answerGate": "[\"pr-reading-sugar-summary-another\"]",
+      "visible": false
+    }
+  ],
+  "saveFields": [
+    "pr-reading-sugar-summary-31",
+    "pr-reading-sugar-summary-32",
+    "pr-reading-sugar-summary-33",
+    "pr-reading-sugar-summary-another"
+  ],
+  "images": [],
+  "audio": [],
+  "viewport": 1440,
+  "documentWidth": 1440
+}

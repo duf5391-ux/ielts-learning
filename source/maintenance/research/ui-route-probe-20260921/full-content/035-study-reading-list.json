@@ -1,0 +1,752 @@
+{
+  "requested": "study-reading-list",
+  "from": [
+    "分类页",
+    "页面链接"
+  ],
+  "actual": "#study-reading-list",
+  "checkedAt": "2026-09-21T12:50:53.227Z",
+  "title": "学习 / 阅读 · IELTS",
+  "label": "学习 / 阅读",
+  "panel": "study",
+  "contentRoot": "study",
+  "headings": [
+    {
+      "tag": "H1",
+      "text": "学习 · 阅读",
+      "visible": true
+    },
+    {
+      "tag": "H2",
+      "text": "直接开始学习",
+      "visible": false
+    },
+    {
+      "tag": "H2",
+      "text": "继续上次",
+      "visible": false
+    },
+    {
+      "tag": "H3",
+      "text": "阅读起手：用真实噪声文章建立段落地图",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "判断题：用真题区分反证、未知与观点归属",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "标题匹配：Miles Davis原题中的主旨与干扰项",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "信息与人物匹配：证据功能和说话人同时核对",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "填空：真实表格、摘要中的字数和同义转换",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "图示标注：官方蜣螂隧道原图中的深度与形状",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "选择题与复盘：用原段功能排除“只说对一半”",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "收藏与公共展览：真题中的反证和信息缺口",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "考古器物与糖业：真实摘要的并列顺序和概括",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "城市噪声与考古：原题中的措施、数据和限定",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "人工智能：用真实作者观点题辨别宣传和判断",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "标题匹配：用整段意思判断 Miles Davis 的人生阶段",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "单选题：Older workers 中的条件、范围与替换表达",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "阅读 · 从原题开始学",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "科技：工具带来什么，又需要什么条件",
+      "visible": true
+    },
+    {
+      "tag": "H2",
+      "text": "词汇与背景",
+      "visible": false
+    }
+  ],
+  "controls": [
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "← 返回学习",
+      "label": "",
+      "href": "#study",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "查看安排并开始 →",
+      "label": "",
+      "href": "#guide",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "学习项目 →",
+      "label": "",
+      "href": "#learning-projects",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "今天选的内容 →",
+      "label": "",
+      "href": "#plan",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SELECT",
+      "id": "la-study-skill",
+      "type": "select-one",
+      "text": "全部写作Task 1Task 2",
+      "label": "写作类型全部写作Task 1Task 2",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false,
+      "options": [
+        {
+          "value": "",
+          "label": "全部写作"
+        },
+        {
+          "value": "writing1",
+          "label": "Task 1"
+        },
+        {
+          "value": "writing2",
+          "label": "Task 2"
+        }
+      ]
+    },
+    {
+      "tag": "SELECT",
+      "id": "la-study-topic",
+      "type": "select-one",
+      "text": "全部\n城市与交通\n家庭与关系\n教育与学习\n科技\n通用",
+      "label": "话题\n全部\n城市与交通\n家庭与关系\n教育与学习\n科技\n通用",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false,
+      "options": [
+        {
+          "value": "",
+          "label": "全部"
+        },
+        {
+          "value": "城市与交通",
+          "label": "城市与交通"
+        },
+        {
+          "value": "家庭与关系",
+          "label": "家庭与关系"
+        },
+        {
+          "value": "教育与学习",
+          "label": "教育与学习"
+        },
+        {
+          "value": "科技",
+          "label": "科技"
+        },
+        {
+          "value": "通用",
+          "label": "通用"
+        }
+      ]
+    },
+    {
+      "tag": "SELECT",
+      "id": "la-study-part",
+      "type": "select-one",
+      "text": "全部",
+      "label": "Part全部",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false,
+      "options": [
+        {
+          "value": "",
+          "label": "全部"
+        }
+      ]
+    },
+    {
+      "tag": "SELECT",
+      "id": "la-study-type",
+      "type": "select-one",
+      "text": "全部\n判断题\n匹配题\n地图\n填空与信息整理\n标题匹配\n理解与方法\n选择题",
+      "label": "题型／内容\n全部\n判断题\n匹配题\n地图\n填空与信息整理\n标题匹配\n理解与方法\n选择题",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false,
+      "options": [
+        {
+          "value": "",
+          "label": "全部"
+        },
+        {
+          "value": "判断题",
+          "label": "判断题"
+        },
+        {
+          "value": "匹配题",
+          "label": "匹配题"
+        },
+        {
+          "value": "地图",
+          "label": "地图"
+        },
+        {
+          "value": "填空与信息整理",
+          "label": "填空与信息整理"
+        },
+        {
+          "value": "标题匹配",
+          "label": "标题匹配"
+        },
+        {
+          "value": "理解与方法",
+          "label": "理解与方法"
+        },
+        {
+          "value": "选择题",
+          "label": "选择题"
+        }
+      ]
+    },
+    {
+      "tag": "INPUT",
+      "id": "la-study-search",
+      "type": "search",
+      "text": "",
+      "label": "内容或题型",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "进入学习 →",
+      "label": "",
+      "href": "#reading-tech-locate",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "加入今天",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "进入学习 →",
+      "label": "",
+      "href": "#reading-tech-judgement",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "加入今天",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "进入学习 →",
+      "label": "",
+      "href": "#reading-tech-headings",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "加入今天",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "进入学习 →",
+      "label": "",
+      "href": "#reading-tech-matching",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "加入今天",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "进入学习 →",
+      "label": "",
+      "href": "#reading-tech-completion",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "加入今天",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "进入学习 →",
+      "label": "",
+      "href": "#reading-tech-diagram",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "加入今天",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "进入学习 →",
+      "label": "",
+      "href": "#reading-tech-choices-review",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "加入今天",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "进入学习 →",
+      "label": "",
+      "href": "#reading-new-new-reading-urban-tfng",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "加入今天",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "进入学习 →",
+      "label": "",
+      "href": "#reading-new-new-reading-refill-summary",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "加入今天",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "进入学习 →",
+      "label": "",
+      "href": "#reading-new-new-reading-transport-information",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "加入今天",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "进入学习 →",
+      "label": "",
+      "href": "#reading-new-new-reading-ai-views",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "加入今天",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "进入学习 →",
+      "label": "",
+      "href": "#learn-reading-headings-miles",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "加入今天",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "进入学习 →",
+      "label": "",
+      "href": "#learn-reading-choice-older-workers",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "加入今天",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "进入学习 →",
+      "label": "",
+      "href": "#reading-first",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "加入今天",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "进入学习 →",
+      "label": "",
+      "href": "#topic-technology",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "加入今天",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "词汇单词、语境与主动运用 →",
+      "label": "",
+      "href": "#study-vocabulary-list",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "短语搭配、用法与配套小练 →",
+      "label": "",
+      "href": "#study-phrases-list",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "共用背景供不同科目使用的阅读材料 →",
+      "label": "",
+      "href": "#study-shared-list",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    }
+  ],
+  "visibleText": "学习 · 阅读\n\n15 项内容 · 按需要选一项开始。\n\n← 返回学习\n0% · 0 / 15 单元\n话题\n全部\n城市与交通\n家庭与关系\n教育与学习\n科技\n通用\n题型／内容\n全部\n判断题\n匹配题\n地图\n填空与信息整理\n标题匹配\n理解与方法\n选择题\n内容或题型\n\n阅读 · 城市与交通\n\n阅读起手：用真实噪声文章建立段落地图\n\n讲解与配套练习，可按需要选学。\n\n0% · 0 / 1 完成\n进入学习 →\n加入今天\n\n阅读 · 通用\n\n判断题：用真题区分反证、未知与观点归属\n\n讲解与配套练习，可按需要选学。\n\n0% · 0 / 1 完成\n进入学习 →\n加入今天\n\n阅读 · 通用\n\n标题匹配：Miles Davis原题中的主旨与干扰项\n\n讲解与配套练习，可按需要选学。\n\n0% · 0 / 1 完成\n进入学习 →\n加入今天\n\n阅读 · 家庭与关系\n\n信息与人物匹配：证据功能和说话人同时核对\n\n讲解与配套练习，可按需要选学。\n\n0% · 0 / 1 完成\n进入学习 →\n加入今天\n\n阅读 · 通用\n\n填空：真实表格、摘要中的字数和同义转换\n\n讲解与配套练习，可按需要选学。\n\n0% · 0 / 1 完成\n进入学习 →\n加入今天\n\n阅读 · 通用\n\n图示标注：官方蜣螂隧道原图中的深度与形状\n\n讲解与配套练习，可按需要选学。\n\n0% · 0 / 1 完成\n进入学习 →\n加入今天\n\n阅读 · 通用\n\n选择题与复盘：用原段功能排除“只说对一半”\n\n讲解与配套练习，可按需要选学。\n\n0% · 0 / 0 完成\n进入学习 →\n加入今天\n\n阅读 · 通用\n\n收藏与公共展览：真题中的反证和信息缺口\n\n讲解与配套练习，可按需要选学。\n\n0% · 0 / 1 完成\n进入学习 →\n加入今天\n\n阅读 · 通用\n\n考古器物与糖业：真实摘要的并列顺序和概括\n\n讲解与配套练习，可按需要选学。\n\n0% · 0 / 1 完成\n进入学习 →\n加入今天\n\n阅读 · 城市与交通\n\n城市噪声与考古：原题中的措施、数据和限定\n\n讲解与配套练习，可按需要选学。\n\n0% · 0 / 1 完成\n进入学习 →\n加入今天\n\n阅读 · 科技\n\n人工智能：用真实作者观点题辨别宣传和判断\n\n讲解与配套练习，可按需要选学。\n\n0% · 0 / 1 完成\n进入学习 →\n加入今天\n\n阅读 · 教育与学习\n\n标题匹配：用整段意思判断 Miles Davis 的人生阶段\n\n讲解与配套练习，可按需要选学。\n\n0% · 0 / 1 完成\n进入学习 →\n加入今天\n\n阅读 · 通用\n\n单选题：Older workers 中的条件、范围与替换表达\n\n讲解与配套练习，可按需要选学。\n\n0% · 0 / 1 完成\n进入学习 →\n加入今天\n\n阅读 · 通用\n\n阅读 · 从原题开始学\n\n讲解与配套练习，可按需要选学。\n\n0% · 0 / 13 完成\n进入学习 →\n加入今天\n\n阅读 · 科技\n\n科技：工具带来什么，又需要什么条件\n\n讲解与配套练习，可按需要选学。\n\n0% · 0 / 3 完成\n进入学习 →\n加入今天",
+  "allContent": "IELTS / MY STUDY学习 · 阅读15 项内容 · 按需要选一项开始。← 返回学习直接开始学习已有默认安排；也可以选板块和 15／30／60 分钟。查看安排并开始 →继续上次选一项内容开始，之后可以从这里继续。学习项目 →今天选的内容 →0% · 0 / 15 单元写作类型全部写作Task 1Task 2话题全部城市与交通家庭与关系教育与学习科技通用15 项内容Part全部题型／内容全部判断题匹配题地图填空与信息整理标题匹配理解与方法选择题内容或题型阅读 · 城市与交通阅读起手：用真实噪声文章建立段落地图讲解与配套练习，可按需要选学。0% · 0 / 1 完成进入学习 →加入今天阅读 · 通用判断题：用真题区分反证、未知与观点归属讲解与配套练习，可按需要选学。0% · 0 / 1 完成进入学习 →加入今天阅读 · 通用标题匹配：Miles Davis原题中的主旨与干扰项讲解与配套练习，可按需要选学。0% · 0 / 1 完成进入学习 →加入今天阅读 · 家庭与关系信息与人物匹配：证据功能和说话人同时核对讲解与配套练习，可按需要选学。0% · 0 / 1 完成进入学习 →加入今天阅读 · 通用填空：真实表格、摘要中的字数和同义转换讲解与配套练习，可按需要选学。0% · 0 / 1 完成进入学习 →加入今天阅读 · 通用图示标注：官方蜣螂隧道原图中的深度与形状讲解与配套练习，可按需要选学。0% · 0 / 1 完成进入学习 →加入今天阅读 · 通用选择题与复盘：用原段功能排除“只说对一半”讲解与配套练习，可按需要选学。0% · 0 / 0 完成进入学习 →加入今天阅读 · 通用收藏与公共展览：真题中的反证和信息缺口讲解与配套练习，可按需要选学。0% · 0 / 1 完成进入学习 →加入今天阅读 · 通用考古器物与糖业：真实摘要的并列顺序和概括讲解与配套练习，可按需要选学。0% · 0 / 1 完成进入学习 →加入今天阅读 · 城市与交通城市噪声与考古：原题中的措施、数据和限定讲解与配套练习，可按需要选学。0% · 0 / 1 完成进入学习 →加入今天阅读 · 科技人工智能：用真实作者观点题辨别宣传和判断讲解与配套练习，可按需要选学。0% · 0 / 1 完成进入学习 →加入今天阅读 · 教育与学习标题匹配：用整段意思判断 Miles Davis 的人生阶段讲解与配套练习，可按需要选学。0% · 0 / 1 完成进入学习 →加入今天阅读 · 通用单选题：Older workers 中的条件、范围与替换表达讲解与配套练习，可按需要选学。0% · 0 / 1 完成进入学习 →加入今天阅读 · 通用阅读 · 从原题开始学讲解与配套练习，可按需要选学。0% · 0 / 13 完成进入学习 →加入今天阅读 · 科技科技：工具带来什么，又需要什么条件讲解与配套练习，可按需要选学。0% · 0 / 3 完成进入学习 →加入今天词汇与背景词汇单词、语境与主动运用 →短语搭配、用法与配套小练 →共用背景供不同科目使用的阅读材料 →",
+  "links": [
+    {
+      "text": "← 返回学习",
+      "href": "#study"
+    },
+    {
+      "text": "查看安排并开始 →",
+      "href": "#guide"
+    },
+    {
+      "text": "学习项目 →",
+      "href": "#learning-projects"
+    },
+    {
+      "text": "今天选的内容 →",
+      "href": "#plan"
+    },
+    {
+      "text": "进入学习 →",
+      "href": "#reading-tech-locate"
+    },
+    {
+      "text": "进入学习 →",
+      "href": "#reading-tech-judgement"
+    },
+    {
+      "text": "进入学习 →",
+      "href": "#reading-tech-headings"
+    },
+    {
+      "text": "进入学习 →",
+      "href": "#reading-tech-matching"
+    },
+    {
+      "text": "进入学习 →",
+      "href": "#reading-tech-completion"
+    },
+    {
+      "text": "进入学习 →",
+      "href": "#reading-tech-diagram"
+    },
+    {
+      "text": "进入学习 →",
+      "href": "#reading-tech-choices-review"
+    },
+    {
+      "text": "进入学习 →",
+      "href": "#reading-new-new-reading-urban-tfng"
+    },
+    {
+      "text": "进入学习 →",
+      "href": "#reading-new-new-reading-refill-summary"
+    },
+    {
+      "text": "进入学习 →",
+      "href": "#reading-new-new-reading-transport-information"
+    },
+    {
+      "text": "进入学习 →",
+      "href": "#reading-new-new-reading-ai-views"
+    },
+    {
+      "text": "进入学习 →",
+      "href": "#learn-reading-headings-miles"
+    },
+    {
+      "text": "进入学习 →",
+      "href": "#learn-reading-choice-older-workers"
+    },
+    {
+      "text": "进入学习 →",
+      "href": "#reading-first"
+    },
+    {
+      "text": "进入学习 →",
+      "href": "#topic-technology"
+    },
+    {
+      "text": "词汇单词、语境与主动运用 →",
+      "href": "#study-vocabulary-list"
+    },
+    {
+      "text": "短语搭配、用法与配套小练 →",
+      "href": "#study-phrases-list"
+    },
+    {
+      "text": "共用背景供不同科目使用的阅读材料 →",
+      "href": "#study-shared-list"
+    }
+  ],
+  "details": [],
+  "saveFields": [],
+  "images": [],
+  "audio": [],
+  "viewport": 1440,
+  "documentWidth": 1440
+}

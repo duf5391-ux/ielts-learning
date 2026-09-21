@@ -1,0 +1,345 @@
+{
+  "requested": "topic-technology",
+  "from": [
+    "内容单元",
+    "页面链接"
+  ],
+  "actual": "#topic-technology",
+  "checkedAt": "2026-09-21T12:51:34.345Z",
+  "title": "学习 / 阅读 / 科技：工具带来什么，又需要什么条件 · IELTS",
+  "label": "学习 / 阅读 / 科技：工具带来什么，又需要什么条件",
+  "panel": "reading",
+  "contentRoot": "topic-technology",
+  "headings": [
+    {
+      "tag": "H2",
+      "text": "科技：工具带来什么，又需要什么条件",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "先分清三个概念",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "读一段背景英语",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "这个话题通常怎样展开",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "可以直接理解和借用的搭配",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "技术是否可用：条件、风险与人的判断",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "换到一个具体服务（原创理解练习）",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "线上娱乐选择 · 官方考生7分",
+      "visible": true
+    }
+  ],
+  "controls": [
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "← 返回本科内容",
+      "label": "",
+      "href": "#study-reading-list",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "checkbox",
+      "text": "",
+      "label": "已读过这段背景",
+      "href": null,
+      "save": "topic-read-technology",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "中文帮助理解",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "Let’s Go Bats",
+      "label": "",
+      "href": "原始参考/f8184cf8-hwatai-cambridge7-sample-source-pages.pdf",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "Task 2",
+      "label": "",
+      "href": "#writing2",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "口语章",
+      "label": "",
+      "href": "#speaking",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "Q31 / Q33 的选择，以及各自对应的原文信息\n暂时不会",
+      "href": null,
+      "save": "prereq-technology-evidence",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "暂时不会",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "完成后核对",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "四项对应 + 一项人工帮助\n暂时不会",
+      "href": null,
+      "save": "prereq-technology-application",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "暂时不会",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "完成后核对",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "AI 原文",
+      "label": "",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=47",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "Q30–35 与词表",
+      "label": "",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=50",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "原书答案",
+      "label": "",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=121",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "司法与技术：算法风险的真实阅读语境 →",
+      "label": "",
+      "href": "#topic-crime",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "原题",
+      "label": "",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=53",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "官方作答与分数",
+      "label": "",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=131",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "考官评语",
+      "label": "",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=132",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    }
+  ],
+  "visibleText": "0% · 0 / 3 完成\n← 返回本科内容\n已读过这段背景\n\nTOPIC 03\n\n科技：工具带来什么，又需要什么条件\n\n科技讨论可以从具体工具怎样改变一件事开始，例如获取资料、观看演出或处理重复任务。线上服务提供了一种渠道，但能连接网络、会使用工具和能够判断信息是不同条件。自动化可以处理部分步骤，责任与判断却需要另外讨论。评价一项技术时，可以比较便利、成本、使用门槛和个人信息的处理方式，也要说明谁受益、谁可能仍需要其他选择。\n\n先分清三个概念\n概念\t它指什么\t不要混淆\ndigital access\t能够使用数字设备、网络及相关服务的条件和机会。\t拥有设备、能够连接网络与会熟练使用服务并不相同；服务上线也不等于每个人都能使用。\nautomation\t让机器或软件按照设定方式完成原本需要人工处理的部分步骤。\t一项任务自动完成，不等于整个岗位都能被替代；操作、检查和责任可以由不同角色承担。\ndata privacy\t个人信息怎样被收集、使用和分享，以及个人对此拥有怎样的选择。\t隐私关注信息应怎样被使用；安全也关注怎样防止未经许可的访问，二者相关但不能完全互换。\n读一段背景英语\nTechnology changes the way people carry out particular activities. An online service can let a viewer watch a recorded performance without travelling to a theatre. A shared document can allow colleagues in different places to work on the same report. However, having a tool does not settle every question about its use. People still need a suitable device, a connection and enough knowledge to use the service. They may also want to know what personal information it collects. In some situations, an online option adds a useful choice; in others, people may still prefer direct contact or a physical space. A balanced discussion can explain the specific benefit of a tool while considering the conditions needed to use it.\n中文帮助理解\n\n阅读例句\n\nIt is technically incorrect to talk about bat 'radar', since they do not use radio waves.\n\n原文区分雷达与蝙蝠的回声定位：讨论科技要分清机制，不能只凭表面相似就当作同一技术。\n\nLet’s Go Bats\n这个话题通常怎样展开\n\n以下为教学归纳的讨论角度，不是考试频率排名或原题清单。\n\n线上服务在哪些情况下增加选择，在哪些情况下难以替代实体活动？（教学概括，非原题）\n数字工具的便利应怎样与使用门槛和个人信息保护一起考虑？（教学概括，非原题）\n哪些步骤适合自动处理，哪些仍需要人的判断与检查？（教学概括，非原题）\n可以直接理解和借用的搭配\n\n本组是教学选用搭配与例句，尚未逐组统计真题频率。\n\n搭配与意思\t放进句子里\naccess information online\n在线获取信息\tVisitors can access information online before they decide where to go.\ndevelop digital skills\n学习和发展使用数字工具的技能\tA short course can help beginners develop digital skills.\nprotect personal information\n保护个人信息\tUsers should be able to understand how a service protects their personal information.\ncarry out routine tasks\n完成常规、重复性的任务\tSoftware can carry out routine tasks such as putting a list of names in alphabetical order.\nreduce the need to travel\n减少出行的需要\tAn online meeting can reduce the need to travel for a brief discussion.\n\n读过背景后，需要练习时再进入：Task 2 · 口语章。已读过原句或提示的任务，记为学习后应用。\n\n技术是否可用：条件、风险与人的判断\n\n先回到下方 Artificial Intelligence 阅读原文，找到数据基础设施和专业人员两个条件。再完成 Q31 与 Q33；答案在原题词表中，不直接照抄整句。\n\nQ31 / Q33 的选择，以及各自对应的原文信息\n暂时不会\n完成后核对\n换到一个具体服务（原创理解练习）\n\n一家社区中心推出网上预约。部分居民没有稳定网络；另一些人有手机却不会操作。系统要求填写身份证号码，并可能受到恶意攻击。请把四件事分别对应 digital access、digital skills、privacy 与 security，再提出一项保留人工帮助的做法。\n\n四项对应 + 一项人工帮助\n暂时不会\n完成后核对\n\nAI 原文 · Q30–35 与词表 · 原书答案\n\n同话题的独立阅读题：司法与技术：算法风险的真实阅读语境 →\n\n线上娱乐选择 · 官方考生7分\n\n同一话题下任务更贴合的官方考生样本。阅读原题、作答和评语后，再完成具体比较；分数仅属于该官方原稿。\n\n原题官方作答与分数考官评语\n\n比较成本、体验和社交维度如何回应题目；按考官指出的词形、搭配与冠词问题回查原稿，不照抄错误。",
+  "allContent": "0% · 0 / 3 完成← 返回本科内容 已读过这段背景TOPIC 03科技：工具带来什么，又需要什么条件科技讨论可以从具体工具怎样改变一件事开始，例如获取资料、观看演出或处理重复任务。线上服务提供了一种渠道，但能连接网络、会使用工具和能够判断信息是不同条件。自动化可以处理部分步骤，责任与判断却需要另外讨论。评价一项技术时，可以比较便利、成本、使用门槛和个人信息的处理方式，也要说明谁受益、谁可能仍需要其他选择。先分清三个概念概念它指什么不要混淆digital access能够使用数字设备、网络及相关服务的条件和机会。拥有设备、能够连接网络与会熟练使用服务并不相同；服务上线也不等于每个人都能使用。automation让机器或软件按照设定方式完成原本需要人工处理的部分步骤。一项任务自动完成，不等于整个岗位都能被替代；操作、检查和责任可以由不同角色承担。data privacy个人信息怎样被收集、使用和分享，以及个人对此拥有怎样的选择。隐私关注信息应怎样被使用；安全也关注怎样防止未经许可的访问，二者相关但不能完全互换。读一段背景英语Technology changes the way people carry out particular activities. An online service can let a viewer watch a recorded performance without travelling to a theatre. A shared document can allow colleagues in different places to work on the same report. However, having a tool does not settle every question about its use. People still need a suitable device, a connection and enough knowledge to use the service. They may also want to know what personal information it collects. In some situations, an online option adds a useful choice; in others, people may still prefer direct contact or a physical space. A balanced discussion can explain the specific benefit of a tool while considering the conditions needed to use it.中文帮助理解科技可以改变完成某项活动的方式：线上服务让人不必前往剧院，也能观看录制的演出；共享文档让不同地点的同事参与同一份报告。不过，有了工具不代表所有使用问题都已经解决。设备、网络和使用知识仍是条件，服务怎样收集个人信息也值得关注。有时线上方式增加了一个有用选择，有时人们仍希望直接接触他人或使用实体空间。讨论可以具体说明工具提供了什么便利，以及这些便利在什么条件下才能实现。阅读例句It is technically incorrect to talk about bat 'radar', since they do not use radio waves.原文区分雷达与蝙蝠的回声定位：讨论科技要分清机制，不能只凭表面相似就当作同一技术。Let’s Go Bats这个话题通常怎样展开以下为教学归纳的讨论角度，不是考试频率排名或原题清单。线上服务在哪些情况下增加选择，在哪些情况下难以替代实体活动？（教学概括，非原题）数字工具的便利应怎样与使用门槛和个人信息保护一起考虑？（教学概括，非原题）哪些步骤适合自动处理，哪些仍需要人的判断与检查？（教学概括，非原题）可以直接理解和借用的搭配本组是教学选用搭配与例句，尚未逐组统计真题频率。搭配与意思放进句子里access information online在线获取信息Visitors can access information online before they decide where to go.develop digital skills学习和发展使用数字工具的技能A short course can help beginners develop digital skills.protect personal information保护个人信息Users should be able to understand how a service protects their personal information.carry out routine tasks完成常规、重复性的任务Software can carry out routine tasks such as putting a list of names in alphabetical order.reduce the need to travel减少出行的需要An online meeting can reduce the need to travel for a brief discussion.读过背景后，需要练习时再进入：Task 2 · 口语章。已读过原句或提示的任务，记为学习后应用。技术是否可用：条件、风险与人的判断\n先回到下方 Artificial Intelligence 阅读原文，找到数据基础设施和专业人员两个条件。再完成 Q31 与 Q33；答案在原题词表中，不直接照抄整句。\nQ31 / Q33 的选择，以及各自对应的原文信息暂时不会完成后核对Q31 选 G（framework），对应 data infrastructure；Q33 选 C（skills），对应 human talent。能做算法不等于机构已经具备部署条件：整理和使用数据的基础、能实施与维护的人都需要考虑。换到一个具体服务（原创理解练习）\n一家社区中心推出网上预约。部分居民没有稳定网络；另一些人有手机却不会操作。系统要求填写身份证号码，并可能受到恶意攻击。请把四件事分别对应 digital access、digital skills、privacy 与 security，再提出一项保留人工帮助的做法。四项对应 + 一项人工帮助暂时不会完成后核对稳定网络属于 access；会不会使用属于 skills；身份证号码为何收集、谁能看到和保留多久涉及 privacy；防止未授权访问与攻击涉及 security。两者相关，但安全措施完善不表示所有个人信息收集都合理。可保留电话或现场预约，并让工作人员解释必要信息。\n原创表达：An online service can make booking easier, provided that users have reliable internet access and know how to use it. Staff should still be available to help people who cannot complete the process online. 用 provided that 写条件，第二句给出需要人工参与的具体环节。\nAI 原文支持的是实施条件、攻击风险与人的判断。这里的社区预约和隐私讨论是迁移情境，不是声称原文证明了这些服务的实际效果。AI 原文 · Q30–35 与词表 · 原书答案同话题的独立阅读题：司法与技术：算法风险的真实阅读语境 →线上娱乐选择 · 官方考生7分同一话题下任务更贴合的官方考生样本。阅读原题、作答和评语后，再完成具体比较；分数仅属于该官方原稿。原题官方作答与分数考官评语比较成本、体验和社交维度如何回应题目；按考官指出的词形、搭配与冠词问题回查原稿，不照抄错误。",
+  "links": [
+    {
+      "text": "← 返回本科内容",
+      "href": "#study-reading-list"
+    },
+    {
+      "text": "Let’s Go Bats",
+      "href": "原始参考/f8184cf8-hwatai-cambridge7-sample-source-pages.pdf"
+    },
+    {
+      "text": "Task 2",
+      "href": "#writing2"
+    },
+    {
+      "text": "口语章",
+      "href": "#speaking"
+    },
+    {
+      "text": "AI 原文",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=47"
+    },
+    {
+      "text": "Q30–35 与词表",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=50"
+    },
+    {
+      "text": "原书答案",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=121"
+    },
+    {
+      "text": "司法与技术：算法风险的真实阅读语境 →",
+      "href": "#topic-crime"
+    },
+    {
+      "text": "原题",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=53"
+    },
+    {
+      "text": "官方作答与分数",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=131"
+    },
+    {
+      "text": "考官评语",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=132"
+    }
+  ],
+  "details": [
+    {
+      "id": "",
+      "title": "中文帮助理解",
+      "open": false,
+      "visible": true
+    },
+    {
+      "id": "answer-check-4",
+      "title": "完成后核对",
+      "open": false,
+      "answerGate": "[\"prereq-technology-evidence\"]",
+      "visible": true
+    },
+    {
+      "id": "answer-check-5",
+      "title": "完成后核对",
+      "open": false,
+      "answerGate": "[\"prereq-technology-application\"]",
+      "visible": true
+    }
+  ],
+  "saveFields": [
+    "topic-read-technology",
+    "prereq-technology-evidence",
+    "prereq-technology-application"
+  ],
+  "images": [],
+  "audio": [],
+  "viewport": 1440,
+  "documentWidth": 1440
+}

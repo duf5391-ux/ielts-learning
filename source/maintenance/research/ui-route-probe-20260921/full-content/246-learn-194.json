@@ -1,0 +1,57 @@
+{
+  "requested": "learn-194",
+  "from": [
+    "内容单元"
+  ],
+  "actual": "#learn-194",
+  "checkedAt": "2026-09-21T12:53:35.968Z",
+  "title": "学习 / 词汇 / solution · IELTS",
+  "label": "学习 / 词汇 / solution",
+  "panel": "vocabulary",
+  "contentRoot": "learn-194",
+  "headings": [
+    {
+      "tag": "H3",
+      "text": "solution",
+      "visible": true
+    }
+  ],
+  "controls": [
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "checkbox",
+      "text": "",
+      "label": "收藏 solution",
+      "href": null,
+      "save": "vocab-saved-word-solution",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "checkbox",
+      "text": "",
+      "label": "我已看过本单元",
+      "href": null,
+      "save": "learning-read-learn-194",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    }
+  ],
+  "visibleText": "0% · 0 / 1 完成\n☆\nsolution\n\n解决办法\n\na solution to a problem / a practical solution\n\nLower prices alone may not be a complete solution to the problem.\n\n仅降低价格可能无法完整解决这个问题。\n\n用 a solution to；是否有效需要说明它解决了哪一部分。\n\n我已看过本单元",
+  "allContent": "0% · 0 / 1 完成☆solution解决办法a solution to a problem / a practical solutionLower prices alone may not be a complete solution to the problem.仅降低价格可能无法完整解决这个问题。用 a solution to；是否有效需要说明它解决了哪一部分。 我已看过本单元",
+  "links": [],
+  "details": [],
+  "saveFields": [
+    "vocab-saved-word-solution",
+    "learning-read-learn-194"
+  ],
+  "images": [],
+  "audio": [],
+  "viewport": 1440,
+  "documentWidth": 1440
+}

@@ -1,0 +1,599 @@
+{
+  "requested": "study-writing1-list",
+  "from": [
+    "分类页"
+  ],
+  "actual": "#study-writing1-list",
+  "checkedAt": "2026-09-21T12:50:57.871Z",
+  "title": "学习 / 写作 · Task 1 · IELTS",
+  "label": "学习 / 写作 · Task 1",
+  "panel": "study",
+  "contentRoot": "study",
+  "headings": [
+    {
+      "tag": "H1",
+      "text": "学习 · 写作 · Task 1",
+      "visible": true
+    },
+    {
+      "tag": "H2",
+      "text": "直接开始学习",
+      "visible": false
+    },
+    {
+      "tag": "H2",
+      "text": "继续上次",
+      "visible": false
+    },
+    {
+      "tag": "H3",
+      "text": "读图起手：用真实就业图核对对象、单位与时间",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "Overview：用真实原图找全局关系，再选择证据",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "数据精确表达：真实表格里的百分点、比例和近似值",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "流程图：真实制砖分支与雨影形成机制",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "地图题：咖啡厅改造的定位、替换与保留",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "咖啡厅改造：在真实两张平面图间建立对应",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "真实折线图：就业结构变化与受众时段差异",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "柱状图：先比较，再用数据支持",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "流程图：把顺序和替代路线说清楚",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "写作 · Task 1 · 从原题开始学",
+      "visible": true
+    },
+    {
+      "tag": "H2",
+      "text": "词汇与背景",
+      "visible": false
+    }
+  ],
+  "controls": [
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "← 返回学习",
+      "label": "",
+      "href": "#study",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "写作",
+      "label": "",
+      "href": "#study-writing-list",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "查看安排并开始 →",
+      "label": "",
+      "href": "#guide",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "学习项目 →",
+      "label": "",
+      "href": "#learning-projects",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "今天选的内容 →",
+      "label": "",
+      "href": "#plan",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SELECT",
+      "id": "la-study-skill",
+      "type": "select-one",
+      "text": "全部写作Task 1Task 2",
+      "label": "写作类型全部写作Task 1Task 2",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false,
+      "options": [
+        {
+          "value": "",
+          "label": "全部写作"
+        },
+        {
+          "value": "writing1",
+          "label": "Task 1"
+        },
+        {
+          "value": "writing2",
+          "label": "Task 2"
+        }
+      ]
+    },
+    {
+      "tag": "SELECT",
+      "id": "la-study-topic",
+      "type": "select-one",
+      "text": "全部\n城市与交通\n工作与生活\n教育与学习\n通用",
+      "label": "话题\n全部\n城市与交通\n工作与生活\n教育与学习\n通用",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false,
+      "options": [
+        {
+          "value": "",
+          "label": "全部"
+        },
+        {
+          "value": "城市与交通",
+          "label": "城市与交通"
+        },
+        {
+          "value": "工作与生活",
+          "label": "工作与生活"
+        },
+        {
+          "value": "教育与学习",
+          "label": "教育与学习"
+        },
+        {
+          "value": "通用",
+          "label": "通用"
+        }
+      ]
+    },
+    {
+      "tag": "SELECT",
+      "id": "la-study-part",
+      "type": "select-one",
+      "text": "全部",
+      "label": "Part全部",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false,
+      "options": [
+        {
+          "value": "",
+          "label": "全部"
+        }
+      ]
+    },
+    {
+      "tag": "SELECT",
+      "id": "la-study-type",
+      "type": "select-one",
+      "text": "全部\n图表\n地图\n填空与信息整理\n表达与运用\n选择题",
+      "label": "题型／内容\n全部\n图表\n地图\n填空与信息整理\n表达与运用\n选择题",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false,
+      "options": [
+        {
+          "value": "",
+          "label": "全部"
+        },
+        {
+          "value": "图表",
+          "label": "图表"
+        },
+        {
+          "value": "地图",
+          "label": "地图"
+        },
+        {
+          "value": "填空与信息整理",
+          "label": "填空与信息整理"
+        },
+        {
+          "value": "表达与运用",
+          "label": "表达与运用"
+        },
+        {
+          "value": "选择题",
+          "label": "选择题"
+        }
+      ]
+    },
+    {
+      "tag": "INPUT",
+      "id": "la-study-search",
+      "type": "search",
+      "text": "",
+      "label": "内容或题型",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "进入学习 →",
+      "label": "",
+      "href": "#writing1-tech-read-chart",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "加入今天",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "进入学习 →",
+      "label": "",
+      "href": "#writing1-tech-overview",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "加入今天",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "进入学习 →",
+      "label": "",
+      "href": "#writing1-tech-precision",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "加入今天",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "进入学习 →",
+      "label": "",
+      "href": "#writing1-tech-process",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "加入今天",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "进入学习 →",
+      "label": "",
+      "href": "#writing1-tech-maps",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "加入今天",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "进入学习 →",
+      "label": "",
+      "href": "#writing1-new-new-writing1-library-map",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "加入今天",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "进入学习 →",
+      "label": "",
+      "href": "#writing1-new-new-writing1-transport-trends",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "加入今天",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "进入学习 →",
+      "label": "",
+      "href": "#learn-writing1_compare_groups",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "加入今天",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "进入学习 →",
+      "label": "",
+      "href": "#learn-writing1_process_branches",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "加入今天",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "进入学习 →",
+      "label": "",
+      "href": "#writing1-first",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "加入今天",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "词汇单词、语境与主动运用 →",
+      "label": "",
+      "href": "#study-vocabulary-list",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "短语搭配、用法与配套小练 →",
+      "label": "",
+      "href": "#study-phrases-list",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "共用背景供不同科目使用的阅读材料 →",
+      "label": "",
+      "href": "#study-shared-list",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    }
+  ],
+  "visibleText": "学习 · 写作 · Task 1\n\n10 项内容 · 按需要选一项开始。\n\n← 返回学习\n写作\nTask 1\n0% · 0 / 10 单元\n话题\n全部\n城市与交通\n工作与生活\n教育与学习\n通用\n题型／内容\n全部\n图表\n地图\n填空与信息整理\n表达与运用\n选择题\n内容或题型\n\n写作 · Task 1 · 工作与生活\n\n读图起手：用真实就业图核对对象、单位与时间\n\n讲解与配套练习，可按需要选学。\n\n0% · 0 / 1 完成\n进入学习 →\n加入今天\n\n写作 · Task 1 · 通用\n\nOverview：用真实原图找全局关系，再选择证据\n\n讲解与配套练习，可按需要选学。\n\n0% · 0 / 1 完成\n进入学习 →\n加入今天\n\n写作 · Task 1 · 通用\n\n数据精确表达：真实表格里的百分点、比例和近似值\n\n讲解与配套练习，可按需要选学。\n\n0% · 0 / 1 完成\n进入学习 →\n加入今天\n\n写作 · Task 1 · 通用\n\n流程图：真实制砖分支与雨影形成机制\n\n讲解与配套练习，可按需要选学。\n\n0% · 0 / 1 完成\n进入学习 →\n加入今天\n\n写作 · Task 1 · 城市与交通\n\n地图题：咖啡厅改造的定位、替换与保留\n\n讲解与配套练习，可按需要选学。\n\n0% · 0 / 1 完成\n进入学习 →\n加入今天\n\n写作 · Task 1 · 通用\n\n咖啡厅改造：在真实两张平面图间建立对应\n\n讲解与配套练习，可按需要选学。\n\n0% · 0 / 1 完成\n进入学习 →\n加入今天\n\n写作 · Task 1 · 工作与生活\n\n真实折线图：就业结构变化与受众时段差异\n\n讲解与配套练习，可按需要选学。\n\n0% · 0 / 1 完成\n进入学习 →\n加入今天\n\n写作 · Task 1 · 教育与学习\n\n柱状图：先比较，再用数据支持\n\n讲解与配套练习，可按需要选学。\n\n0% · 0 / 1 完成\n进入学习 →\n加入今天\n\n写作 · Task 1 · 通用\n\n流程图：把顺序和替代路线说清楚\n\n讲解与配套练习，可按需要选学。\n\n0% · 0 / 1 完成\n进入学习 →\n加入今天\n\n写作 · Task 1 · 通用\n\n写作 · Task 1 · 从原题开始学\n\n讲解与配套练习，可按需要选学。\n\n0% · 0 / 1 完成\n进入学习 →\n加入今天",
+  "allContent": "IELTS / MY STUDY学习 · 写作 · Task 110 项内容 · 按需要选一项开始。← 返回学习写作Task 1直接开始学习已有默认安排；也可以选板块和 15／30／60 分钟。查看安排并开始 →继续上次选一项内容开始，之后可以从这里继续。学习项目 →今天选的内容 →0% · 0 / 10 单元写作类型全部写作Task 1Task 2话题全部城市与交通工作与生活教育与学习通用10 项内容Part全部题型／内容全部图表地图填空与信息整理表达与运用选择题内容或题型写作 · Task 1 · 工作与生活读图起手：用真实就业图核对对象、单位与时间讲解与配套练习，可按需要选学。0% · 0 / 1 完成进入学习 →加入今天写作 · Task 1 · 通用Overview：用真实原图找全局关系，再选择证据讲解与配套练习，可按需要选学。0% · 0 / 1 完成进入学习 →加入今天写作 · Task 1 · 通用数据精确表达：真实表格里的百分点、比例和近似值讲解与配套练习，可按需要选学。0% · 0 / 1 完成进入学习 →加入今天写作 · Task 1 · 通用流程图：真实制砖分支与雨影形成机制讲解与配套练习，可按需要选学。0% · 0 / 1 完成进入学习 →加入今天写作 · Task 1 · 城市与交通地图题：咖啡厅改造的定位、替换与保留讲解与配套练习，可按需要选学。0% · 0 / 1 完成进入学习 →加入今天写作 · Task 1 · 通用咖啡厅改造：在真实两张平面图间建立对应讲解与配套练习，可按需要选学。0% · 0 / 1 完成进入学习 →加入今天写作 · Task 1 · 工作与生活真实折线图：就业结构变化与受众时段差异讲解与配套练习，可按需要选学。0% · 0 / 1 完成进入学习 →加入今天写作 · Task 1 · 教育与学习柱状图：先比较，再用数据支持讲解与配套练习，可按需要选学。0% · 0 / 1 完成进入学习 →加入今天写作 · Task 1 · 通用流程图：把顺序和替代路线说清楚讲解与配套练习，可按需要选学。0% · 0 / 1 完成进入学习 →加入今天写作 · Task 1 · 通用写作 · Task 1 · 从原题开始学讲解与配套练习，可按需要选学。0% · 0 / 1 完成进入学习 →加入今天词汇与背景词汇单词、语境与主动运用 →短语搭配、用法与配套小练 →共用背景供不同科目使用的阅读材料 →",
+  "links": [
+    {
+      "text": "← 返回学习",
+      "href": "#study"
+    },
+    {
+      "text": "写作",
+      "href": "#study-writing-list"
+    },
+    {
+      "text": "查看安排并开始 →",
+      "href": "#guide"
+    },
+    {
+      "text": "学习项目 →",
+      "href": "#learning-projects"
+    },
+    {
+      "text": "今天选的内容 →",
+      "href": "#plan"
+    },
+    {
+      "text": "进入学习 →",
+      "href": "#writing1-tech-read-chart"
+    },
+    {
+      "text": "进入学习 →",
+      "href": "#writing1-tech-overview"
+    },
+    {
+      "text": "进入学习 →",
+      "href": "#writing1-tech-precision"
+    },
+    {
+      "text": "进入学习 →",
+      "href": "#writing1-tech-process"
+    },
+    {
+      "text": "进入学习 →",
+      "href": "#writing1-tech-maps"
+    },
+    {
+      "text": "进入学习 →",
+      "href": "#writing1-new-new-writing1-library-map"
+    },
+    {
+      "text": "进入学习 →",
+      "href": "#writing1-new-new-writing1-transport-trends"
+    },
+    {
+      "text": "进入学习 →",
+      "href": "#learn-writing1_compare_groups"
+    },
+    {
+      "text": "进入学习 →",
+      "href": "#learn-writing1_process_branches"
+    },
+    {
+      "text": "进入学习 →",
+      "href": "#writing1-first"
+    },
+    {
+      "text": "词汇单词、语境与主动运用 →",
+      "href": "#study-vocabulary-list"
+    },
+    {
+      "text": "短语搭配、用法与配套小练 →",
+      "href": "#study-phrases-list"
+    },
+    {
+      "text": "共用背景供不同科目使用的阅读材料 →",
+      "href": "#study-shared-list"
+    }
+  ],
+  "details": [],
+  "saveFields": [],
+  "images": [],
+  "audio": [],
+  "viewport": 1440,
+  "documentWidth": 1440
+}

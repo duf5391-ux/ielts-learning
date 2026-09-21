@@ -1,0 +1,808 @@
+{
+  "requested": "practice-writing2-list",
+  "from": [
+    "分类页"
+  ],
+  "actual": "#practice-writing2-list",
+  "checkedAt": "2026-09-21T12:51:05.009Z",
+  "title": "练习 / 写作 · Task 2 · IELTS",
+  "label": "练习 / 写作 · Task 2",
+  "panel": "practice",
+  "contentRoot": "practice",
+  "headings": [
+    {
+      "tag": "H1",
+      "text": "练习 · 写作 · Task 2",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "高层住宅是否是城市住房的最佳方案",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "线上娱乐与剧院影院的经济文化价值",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "本科海外学习或实习：收益能否超过代价",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "小学正式学习与课堂游戏：两个问题分别回应",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "家庭财富与成年问题应对：避免绝对化",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "国际旅游：经济收益与社区成本如何比较",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "科研由政府控制：公共利益与研究多样性",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "鼓励替代交通与国际限车规定",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "老年照护费用：政府与家庭如何分担",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "高学历毕业生失业：原因和措施一一对应",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "过度捕捞：从激励与监管写到对策",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "儿童肥胖：原因—措施对应而非空泛建议",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "Task 2 · 教育 小学课堂中的学习与游戏",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "Task 2 · 旅游 旅游收益与居民成本",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "Task 2 · 城市住房 高层住宅是否是最佳方案",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "家庭与儿童：财富是否决定成年应对能力",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "写作 · 海洋资源：执行捕捞上限",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "成人读写困难 · Task 2",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "工作与生活的平衡 · Task 2",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "自然灭绝与人为保护 · Task 2",
+      "visible": true
+    }
+  ],
+  "controls": [
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "← 返回练习",
+      "label": "",
+      "href": "#practice",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "写作",
+      "label": "",
+      "href": "#practice-writing-list",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SELECT",
+      "id": "la-practice-skill",
+      "type": "select-one",
+      "text": "全部写作Task 1Task 2",
+      "label": "写作类型全部写作Task 1Task 2",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false,
+      "options": [
+        {
+          "value": "",
+          "label": "全部写作"
+        },
+        {
+          "value": "writing1",
+          "label": "Task 1"
+        },
+        {
+          "value": "writing2",
+          "label": "Task 2"
+        }
+      ]
+    },
+    {
+      "tag": "SELECT",
+      "id": "la-practice-topic",
+      "type": "select-one",
+      "text": "全部\n城市与交通\n家庭与关系\n教育与学习\n旅行与地方\n机经 · 9月21日新增\n环境与自然\n通用",
+      "label": "话题\n全部\n城市与交通\n家庭与关系\n教育与学习\n旅行与地方\n机经 · 9月21日新增\n环境与自然\n通用",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false,
+      "options": [
+        {
+          "value": "",
+          "label": "全部"
+        },
+        {
+          "value": "城市与交通",
+          "label": "城市与交通"
+        },
+        {
+          "value": "家庭与关系",
+          "label": "家庭与关系"
+        },
+        {
+          "value": "教育与学习",
+          "label": "教育与学习"
+        },
+        {
+          "value": "旅行与地方",
+          "label": "旅行与地方"
+        },
+        {
+          "value": "机经 · 9月21日新增",
+          "label": "机经 · 9月21日新增"
+        },
+        {
+          "value": "环境与自然",
+          "label": "环境与自然"
+        },
+        {
+          "value": "通用",
+          "label": "通用"
+        }
+      ]
+    },
+    {
+      "tag": "SELECT",
+      "id": "la-practice-part",
+      "type": "select-one",
+      "text": "全部Task 2",
+      "label": "Part全部Task 2",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false,
+      "options": [
+        {
+          "value": "",
+          "label": "全部"
+        },
+        {
+          "value": "Task 2",
+          "label": "Task 2"
+        }
+      ]
+    },
+    {
+      "tag": "SELECT",
+      "id": "la-practice-type",
+      "type": "select-one",
+      "text": "全部\n机经\n表达与运用",
+      "label": "题型／内容\n全部\n机经\n表达与运用",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false,
+      "options": [
+        {
+          "value": "",
+          "label": "全部"
+        },
+        {
+          "value": "机经",
+          "label": "机经"
+        },
+        {
+          "value": "表达与运用",
+          "label": "表达与运用"
+        }
+      ]
+    },
+    {
+      "tag": "INPUT",
+      "id": "la-practice-search",
+      "type": "search",
+      "text": "",
+      "label": "内容或题型",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "开始练习 →",
+      "label": "",
+      "href": "#writing2-case-wc-c21-t1-homes",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "加入今天",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "开始练习 →",
+      "label": "",
+      "href": "#writing2-case-wc-c21-t2-entertainment",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "加入今天",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "开始练习 →",
+      "label": "",
+      "href": "#writing2-case-wc-c21-t3-placement",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "加入今天",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "开始练习 →",
+      "label": "",
+      "href": "#writing2-case-wc-c21-t4-primary",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "加入今天",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "开始练习 →",
+      "label": "",
+      "href": "#writing2-case-wc-official-wealth",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "加入今天",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "开始练习 →",
+      "label": "",
+      "href": "#writing2-case-wc-official-tourism",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "加入今天",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "开始练习 →",
+      "label": "",
+      "href": "#writing2-case-wc-official-science",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "加入今天",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "开始练习 →",
+      "label": "",
+      "href": "#writing2-case-wc-official-transport",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "加入今天",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "开始练习 →",
+      "label": "",
+      "href": "#writing2-case-wc-official-eldercare",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "加入今天",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "开始练习 →",
+      "label": "",
+      "href": "#writing2-case-wc-bc-graduates",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "加入今天",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "开始练习 →",
+      "label": "",
+      "href": "#writing2-case-wc-bc-overfishing",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "加入今天",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "开始练习 →",
+      "label": "",
+      "href": "#writing2-case-wc-bc-childhealth",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "加入今天",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "开始练习 →",
+      "label": "",
+      "href": "#pr-writing2-primary",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "加入今天",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "开始练习 →",
+      "label": "",
+      "href": "#pr-writing2-tourism",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "加入今天",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "开始练习 →",
+      "label": "",
+      "href": "#pr-writing2-housing",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "加入今天",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "开始练习 →",
+      "label": "",
+      "href": "#learn-background_family_children",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "加入今天",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "开始练习 →",
+      "label": "",
+      "href": "#pr-fisheries-writing",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "加入今天",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "开始练习 →",
+      "label": "",
+      "href": "#pr-jiufen-20260921-adult-literacy-v1",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "加入今天",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "开始练习 →",
+      "label": "",
+      "href": "#pr-jiufen-20260921-work-life-balance-v1",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "加入今天",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "开始练习 →",
+      "label": "",
+      "href": "#pr-jiufen-20260921-species-extinction-v1",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "加入今天",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    }
+  ],
+  "visibleText": "练习 · 写作 · Task 2\n\n20 项内容 · 按需要选一项开始。\n\n← 返回练习\n写作\nTask 2\n0% · 0 / 20 单元\n话题\n全部\n城市与交通\n家庭与关系\n教育与学习\n旅行与地方\n机经 · 9月21日新增\n环境与自然\n通用\n题型／内容\n全部\n机经\n表达与运用\n内容或题型\n\n写作 · Task 2 · 城市与交通\n\n高层住宅是否是城市住房的最佳方案\n\n直接作答，完成后核对。\n\n0% · 0 / 1 完成\n开始练习 →\n加入今天\n\n写作 · Task 2 · 通用\n\n线上娱乐与剧院影院的经济文化价值\n\n直接作答，完成后核对。\n\n0% · 0 / 1 完成\n开始练习 →\n加入今天\n\n写作 · Task 2 · 教育与学习\n\n本科海外学习或实习：收益能否超过代价\n\n直接作答，完成后核对。\n\n0% · 0 / 1 完成\n开始练习 →\n加入今天\n\n写作 · Task 2 · 教育与学习\n\n小学正式学习与课堂游戏：两个问题分别回应\n\n直接作答，完成后核对。\n\n0% · 0 / 1 完成\n开始练习 →\n加入今天\n\n写作 · Task 2 · 家庭与关系\n\n家庭财富与成年问题应对：避免绝对化\n\n直接作答，完成后核对。\n\n0% · 0 / 1 完成\n开始练习 →\n加入今天\n\n写作 · Task 2 · 旅行与地方\n\n国际旅游：经济收益与社区成本如何比较\n\n直接作答，完成后核对。\n\n0% · 0 / 1 完成\n开始练习 →\n加入今天\n\n写作 · Task 2 · 通用\n\n科研由政府控制：公共利益与研究多样性\n\n直接作答，完成后核对。\n\n0% · 0 / 1 完成\n开始练习 →\n加入今天\n\n写作 · Task 2 · 城市与交通\n\n鼓励替代交通与国际限车规定\n\n直接作答，完成后核对。\n\n0% · 0 / 1 完成\n开始练习 →\n加入今天\n\n写作 · Task 2 · 家庭与关系\n\n老年照护费用：政府与家庭如何分担\n\n直接作答，完成后核对。\n\n0% · 0 / 1 完成\n开始练习 →\n加入今天\n\n写作 · Task 2 · 通用\n\n高学历毕业生失业：原因和措施一一对应\n\n直接作答，完成后核对。\n\n0% · 0 / 1 完成\n开始练习 →\n加入今天\n\n写作 · Task 2 · 环境与自然\n\n过度捕捞：从激励与监管写到对策\n\n直接作答，完成后核对。\n\n0% · 0 / 1 完成\n开始练习 →\n加入今天\n\n写作 · Task 2 · 家庭与关系\n\n儿童肥胖：原因—措施对应而非空泛建议\n\n直接作答，完成后核对。\n\n0% · 0 / 1 完成\n开始练习 →\n加入今天\n\n写作 · Task 2 · 教育与学习\n\nTask 2 · 教育 小学课堂中的学习与游戏\n\n直接作答，完成后核对。\n\n0% · 0 / 2 完成\n开始练习 →\n加入今天\n\n写作 · Task 2 · 旅行与地方\n\nTask 2 · 旅游 旅游收益与居民成本\n\n直接作答，完成后核对。\n\n0% · 0 / 2 完成\n开始练习 →\n加入今天\n\n写作 · Task 2 · 城市与交通\n\nTask 2 · 城市住房 高层住宅是否是最佳方案\n\n直接作答，完成后核对。\n\n0% · 0 / 2 完成\n开始练习 →\n加入今天\n\n写作 · Task 2 · 家庭与关系\n\n家庭与儿童：财富是否决定成年应对能力\n\n直接作答，完成后核对。\n\n0% · 0 / 1 完成\n开始练习 →\n加入今天\n\n写作 · Task 2 · 环境与自然\n\n写作 · 海洋资源：执行捕捞上限\n\n直接作答，完成后核对。\n\n0% · 0 / 1 完成\n开始练习 →\n加入今天\n\n写作 · Task 2 · 机经 · 9月21日新增\n\n成人读写困难 · Task 2\n\n新内容 · 2026-09-21 · 难度系数 3/5 · 中等。新Task 2题目；写作保存、题意核对与题干词句回读。\n\n0% · 0 / 2 作答与核对\n开始练习 →\n加入今天\n\n写作 · Task 2 · 机经 · 9月21日新增\n\n工作与生活的平衡 · Task 2\n\n新内容 · 2026-09-21 · 难度系数 2/5 · 较易。新Task 2题目；写作保存、题意核对与题干词句回读。\n\n0% · 0 / 2 作答与核对\n开始练习 →\n加入今天\n\n写作 · Task 2 · 机经 · 9月21日新增\n\n自然灭绝与人为保护 · Task 2\n\n新内容 · 2026-09-21 · 难度系数 4/5 · 较难。新Task 2题目；写作保存、题意核对与题干词句回读。\n\n0% · 0 / 2 作答与核对\n开始练习 →\n加入今天",
+  "allContent": "IELTS / MY STUDY练习 · 写作 · Task 220 项内容 · 按需要选一项开始。← 返回练习写作Task 20% · 0 / 20 单元写作类型全部写作Task 1Task 2话题全部城市与交通家庭与关系教育与学习旅行与地方机经 · 9月21日新增环境与自然通用20 项内容Part全部Task 2题型／内容全部机经表达与运用内容或题型写作 · Task 2 · 城市与交通高层住宅是否是城市住房的最佳方案直接作答，完成后核对。0% · 0 / 1 完成开始练习 →加入今天写作 · Task 2 · 通用线上娱乐与剧院影院的经济文化价值直接作答，完成后核对。0% · 0 / 1 完成开始练习 →加入今天写作 · Task 2 · 教育与学习本科海外学习或实习：收益能否超过代价直接作答，完成后核对。0% · 0 / 1 完成开始练习 →加入今天写作 · Task 2 · 教育与学习小学正式学习与课堂游戏：两个问题分别回应直接作答，完成后核对。0% · 0 / 1 完成开始练习 →加入今天写作 · Task 2 · 家庭与关系家庭财富与成年问题应对：避免绝对化直接作答，完成后核对。0% · 0 / 1 完成开始练习 →加入今天写作 · Task 2 · 旅行与地方国际旅游：经济收益与社区成本如何比较直接作答，完成后核对。0% · 0 / 1 完成开始练习 →加入今天写作 · Task 2 · 通用科研由政府控制：公共利益与研究多样性直接作答，完成后核对。0% · 0 / 1 完成开始练习 →加入今天写作 · Task 2 · 城市与交通鼓励替代交通与国际限车规定直接作答，完成后核对。0% · 0 / 1 完成开始练习 →加入今天写作 · Task 2 · 家庭与关系老年照护费用：政府与家庭如何分担直接作答，完成后核对。0% · 0 / 1 完成开始练习 →加入今天写作 · Task 2 · 通用高学历毕业生失业：原因和措施一一对应直接作答，完成后核对。0% · 0 / 1 完成开始练习 →加入今天写作 · Task 2 · 环境与自然过度捕捞：从激励与监管写到对策直接作答，完成后核对。0% · 0 / 1 完成开始练习 →加入今天写作 · Task 2 · 家庭与关系儿童肥胖：原因—措施对应而非空泛建议直接作答，完成后核对。0% · 0 / 1 完成开始练习 →加入今天写作 · Task 2 · 教育与学习Task 2 · 教育 小学课堂中的学习与游戏直接作答，完成后核对。0% · 0 / 2 完成开始练习 →加入今天写作 · Task 2 · 旅行与地方Task 2 · 旅游 旅游收益与居民成本直接作答，完成后核对。0% · 0 / 2 完成开始练习 →加入今天写作 · Task 2 · 城市与交通Task 2 · 城市住房 高层住宅是否是最佳方案直接作答，完成后核对。0% · 0 / 2 完成开始练习 →加入今天写作 · Task 2 · 家庭与关系家庭与儿童：财富是否决定成年应对能力直接作答，完成后核对。0% · 0 / 1 完成开始练习 →加入今天写作 · Task 2 · 环境与自然写作 · 海洋资源：执行捕捞上限直接作答，完成后核对。0% · 0 / 1 完成开始练习 →加入今天写作 · Task 2 · 机经 · 9月21日新增成人读写困难 · Task 2新内容 · 2026-09-21 · 难度系数 3/5 · 中等。新Task 2题目；写作保存、题意核对与题干词句回读。0% · 0 / 2 作答与核对开始练习 →加入今天写作 · Task 2 · 机经 · 9月21日新增工作与生活的平衡 · Task 2新内容 · 2026-09-21 · 难度系数 2/5 · 较易。新Task 2题目；写作保存、题意核对与题干词句回读。0% · 0 / 2 作答与核对开始练习 →加入今天写作 · Task 2 · 机经 · 9月21日新增自然灭绝与人为保护 · Task 2新内容 · 2026-09-21 · 难度系数 4/5 · 较难。新Task 2题目；写作保存、题意核对与题干词句回读。0% · 0 / 2 作答与核对开始练习 →加入今天",
+  "links": [
+    {
+      "text": "← 返回练习",
+      "href": "#practice"
+    },
+    {
+      "text": "写作",
+      "href": "#practice-writing-list"
+    },
+    {
+      "text": "开始练习 →",
+      "href": "#writing2-case-wc-c21-t1-homes"
+    },
+    {
+      "text": "开始练习 →",
+      "href": "#writing2-case-wc-c21-t2-entertainment"
+    },
+    {
+      "text": "开始练习 →",
+      "href": "#writing2-case-wc-c21-t3-placement"
+    },
+    {
+      "text": "开始练习 →",
+      "href": "#writing2-case-wc-c21-t4-primary"
+    },
+    {
+      "text": "开始练习 →",
+      "href": "#writing2-case-wc-official-wealth"
+    },
+    {
+      "text": "开始练习 →",
+      "href": "#writing2-case-wc-official-tourism"
+    },
+    {
+      "text": "开始练习 →",
+      "href": "#writing2-case-wc-official-science"
+    },
+    {
+      "text": "开始练习 →",
+      "href": "#writing2-case-wc-official-transport"
+    },
+    {
+      "text": "开始练习 →",
+      "href": "#writing2-case-wc-official-eldercare"
+    },
+    {
+      "text": "开始练习 →",
+      "href": "#writing2-case-wc-bc-graduates"
+    },
+    {
+      "text": "开始练习 →",
+      "href": "#writing2-case-wc-bc-overfishing"
+    },
+    {
+      "text": "开始练习 →",
+      "href": "#writing2-case-wc-bc-childhealth"
+    },
+    {
+      "text": "开始练习 →",
+      "href": "#pr-writing2-primary"
+    },
+    {
+      "text": "开始练习 →",
+      "href": "#pr-writing2-tourism"
+    },
+    {
+      "text": "开始练习 →",
+      "href": "#pr-writing2-housing"
+    },
+    {
+      "text": "开始练习 →",
+      "href": "#learn-background_family_children"
+    },
+    {
+      "text": "开始练习 →",
+      "href": "#pr-fisheries-writing"
+    },
+    {
+      "text": "开始练习 →",
+      "href": "#pr-jiufen-20260921-adult-literacy-v1"
+    },
+    {
+      "text": "开始练习 →",
+      "href": "#pr-jiufen-20260921-work-life-balance-v1"
+    },
+    {
+      "text": "开始练习 →",
+      "href": "#pr-jiufen-20260921-species-extinction-v1"
+    }
+  ],
+  "details": [],
+  "saveFields": [],
+  "images": [],
+  "audio": [],
+  "viewport": 1440,
+  "documentWidth": 1440
+}

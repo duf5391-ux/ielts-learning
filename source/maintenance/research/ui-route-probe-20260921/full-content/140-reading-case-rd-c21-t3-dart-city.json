@@ -1,0 +1,275 @@
+{
+  "requested": "reading-case-rd-c21-t3-dart-city",
+  "from": [
+    "内容单元",
+    "每日安排目标"
+  ],
+  "actual": "#reading-case-rd-c21-t3-dart-city",
+  "checkedAt": "2026-09-21T12:52:12.854Z",
+  "title": "练习 / 阅读 / Dar es Salaam · 城市扩张与交通方案 · IELTS",
+  "label": "练习 / 阅读 / Dar es Salaam · 城市扩张与交通方案",
+  "panel": "practice-reading",
+  "contentRoot": "reading-case-rd-c21-t3-dart-city",
+  "headings": [
+    {
+      "tag": "H3",
+      "text": "对照答案，回到证据",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "原文片段 · 1",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "原文片段 · 2",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "原文片段 · 3",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "原文片段 · 4",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "原文片段 · 5",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "词语与搭配",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "句子精读",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "这篇材料里可用于写作的表达",
+      "visible": false
+    }
+  ],
+  "controls": [
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "Dar es Salaam · 城市扩张与交通方案未作答\n事实判断 TFNG · 5 段 · 356 词 · 5 题 · 同篇原文另有裁切",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "Cambridge IELTS 21 Academic",
+      "label": "",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=65",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "case-rd-c21-t3-dart-city-q1",
+      "type": "text",
+      "text": "",
+      "label": "第 14 题作答",
+      "href": null,
+      "save": "case-rd-c21-t3-dart-city-q1",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "case-rd-c21-t3-dart-city-q2",
+      "type": "text",
+      "text": "",
+      "label": "第 15 题作答",
+      "href": null,
+      "save": "case-rd-c21-t3-dart-city-q2",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "case-rd-c21-t3-dart-city-q3",
+      "type": "text",
+      "text": "",
+      "label": "第 16 题作答",
+      "href": null,
+      "save": "case-rd-c21-t3-dart-city-q3",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "case-rd-c21-t3-dart-city-q4",
+      "type": "text",
+      "text": "",
+      "label": "第 17 题作答",
+      "href": null,
+      "save": "case-rd-c21-t3-dart-city-q4",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "case-rd-c21-t3-dart-city-q5",
+      "type": "text",
+      "text": "",
+      "label": "第 18 题作答",
+      "href": null,
+      "save": "case-rd-c21-t3-dart-city-q5",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "checkbox",
+      "text": "",
+      "label": "",
+      "href": null,
+      "save": "case-rd-c21-t3-dart-city-done",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "hidden",
+      "text": "",
+      "label": "",
+      "href": null,
+      "save": "case-rd-c21-t3-dart-city-saved-at",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "保留作答，查看答案",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "核对原答案页",
+      "label": "",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=123",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "case-rd-c21-t3-dart-city-revision",
+      "type": "textarea",
+      "text": "",
+      "label": "我的修订／证据笔记",
+      "href": null,
+      "save": "case-rd-c21-t3-dart-city-revision",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "材料精读 · 内容与词句",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "",
+      "label": "",
+      "href": "#writing-prep-wc-c21-t1-homes-from-rd-c21-t3-dart-city",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "",
+      "label": "",
+      "href": "#writing-prep-wc-official-transport-from-rd-c21-t3-dart-city",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    }
+  ],
+  "visibleText": "Dar es Salaam · 城市扩张与交通方案未作答\n事实判断 TFNG · 5 段 · 356 词 · 5 题 · 同篇原文另有裁切\n0% · 0 / 1 完成\n\n真题 · Cambridge IELTS 21 Academic · PDF 第 65 页\n\n按原题号作答。保留考试原文与题目难度；以下是连续原段裁切，未改写原文。\n\n保留开篇连续5段。Q14和Q16的NOT GIVEN已对全文核验；并非只凭片段没有出现就判缺信息。\n\n原文片段 · 1Dar es Salaam in Tanzania is one of the fastest growing cities in Africa. Its population has increased eightfold since 1980 and swells by half a million people every year. United Nations projections anticipate it will become a megacity within seven years as its population passes 10 million, reaching 13.4 million by 2035. Daniel Hoornweg for the Global Cities Institute forecasts the city could be home to an incredible 73.7 million people by 2100.\n\n原文片段 · 2Today, four out of five of its people live in single-storey informal settlements on the spreading edges of the city, where the journey to and from the centre regularly takes over two hours. It can be longer if rain turns the dirt roads to mud.\n\n原文片段 · 3Even in the middle of the day, traffic frequently slows to a stop without warning. It is not unusual for cars and minibuses to queue for 20 minutes at a key intersection. A single suburban rail line serves residents in a few areas to the south but is tiny in the context of the wider city. Outside the centre many rely on boda boda (motorbike taxis) to navigate the narrow side streets and potholed mud roads that make up much of the metropolis. Their safety record is scandalous.\n\n原文片段 · 4Dar es Salaam's reliance on four arterial roads into the city is a legacy of the colonial government that planned the city at the start of the 20th century to cater for a population of 35,000. Most of the current growth is made up of young people arriving from the countryside to find work, and as the population has exploded, Dar es Salaam has grown around those four highways. Nearly all the expansion is happening on the periphery, and nearly all takes place informally without any agreed strategy.\n\n原文片段 · 5But Dar es Salaam is pinning its hopes on a solution that could offer a different model for Africa's megacities, giving them an alternative to a future controlled by the private car. Unlike many cities on the continent, Dar es Salaam isn't trying to build a metro. It has chosen a less exciting but cheaper and more achievable method: the bus.\n\n14. The population of Dar es Salaam is rising more rapidly than was previously predicted.\n\nDo the following statements agree with the information given in the reading passage? Write TRUE, FALSE or NOT GIVEN.\n\n第 14 题作答\n\n15. Most of the residents of Dar es Salaam live in high-rise blocks on the edge of the city.\n\nDo the following statements agree with the information given in the reading passage? Write TRUE, FALSE or NOT GIVEN.\n\n第 15 题作答\n\n16. Residents have been consulted about their views on the suburban rail line in Dar es Salaam.\n\nDo the following statements agree with the information given in the reading passage? Write TRUE, FALSE or NOT GIVEN.\n\n第 16 题作答\n\n17. The majority of the present residential development in Dar es Salaam is unplanned.\n\nDo the following statements agree with the information given in the reading passage? Write TRUE, FALSE or NOT GIVEN.\n\n第 17 题作答\n\n18. Dar es Salaam's authorities have decided to follow the public transport plan adopted by a large number of African cities.\n\nDo the following statements agree with the information given in the reading passage? Write TRUE, FALSE or NOT GIVEN.\n\n第 18 题作答\n保留作答，查看答案\n\n先作答；不确定的题也可记录判断与疑点。\n\n材料精读 · 内容与词句",
+  "allContent": "Dar es Salaam · 城市扩张与交通方案未作答事实判断 TFNG · 5 段 · 356 词 · 5 题 · 同篇原文另有裁切0% · 0 / 1 完成真题 · Cambridge IELTS 21 Academic · PDF 第 65 页按原题号作答。保留考试原文与题目难度；以下是连续原段裁切，未改写原文。保留开篇连续5段。Q14和Q16的NOT GIVEN已对全文核验；并非只凭片段没有出现就判缺信息。原文片段 · 1Dar es Salaam in Tanzania is one of the fastest growing cities in Africa. Its population has increased eightfold since 1980 and swells by half a million people every year. United Nations projections anticipate it will become a megacity within seven years as its population passes 10 million, reaching 13.4 million by 2035. Daniel Hoornweg for the Global Cities Institute forecasts the city could be home to an incredible 73.7 million people by 2100.原文片段 · 2Today, four out of five of its people live in single-storey informal settlements on the spreading edges of the city, where the journey to and from the centre regularly takes over two hours. It can be longer if rain turns the dirt roads to mud.原文片段 · 3Even in the middle of the day, traffic frequently slows to a stop without warning. It is not unusual for cars and minibuses to queue for 20 minutes at a key intersection. A single suburban rail line serves residents in a few areas to the south but is tiny in the context of the wider city. Outside the centre many rely on boda boda (motorbike taxis) to navigate the narrow side streets and potholed mud roads that make up much of the metropolis. Their safety record is scandalous.原文片段 · 4Dar es Salaam's reliance on four arterial roads into the city is a legacy of the colonial government that planned the city at the start of the 20th century to cater for a population of 35,000. Most of the current growth is made up of young people arriving from the countryside to find work, and as the population has exploded, Dar es Salaam has grown around those four highways. Nearly all the expansion is happening on the periphery, and nearly all takes place informally without any agreed strategy.原文片段 · 5But Dar es Salaam is pinning its hopes on a solution that could offer a different model for Africa's megacities, giving them an alternative to a future controlled by the private car. Unlike many cities on the continent, Dar es Salaam isn't trying to build a metro. It has chosen a less exciting but cheaper and more achievable method: the bus.14. The population of Dar es Salaam is rising more rapidly than was previously predicted.Do the following statements agree with the information given in the reading passage? Write TRUE, FALSE or NOT GIVEN.第 14 题作答15. Most of the residents of Dar es Salaam live in high-rise blocks on the edge of the city.Do the following statements agree with the information given in the reading passage? Write TRUE, FALSE or NOT GIVEN.第 15 题作答16. Residents have been consulted about their views on the suburban rail line in Dar es Salaam.Do the following statements agree with the information given in the reading passage? Write TRUE, FALSE or NOT GIVEN.第 16 题作答17. The majority of the present residential development in Dar es Salaam is unplanned.Do the following statements agree with the information given in the reading passage? Write TRUE, FALSE or NOT GIVEN.第 17 题作答18. Dar es Salaam's authorities have decided to follow the public transport plan adopted by a large number of African cities.Do the following statements agree with the information given in the reading passage? Write TRUE, FALSE or NOT GIVEN.第 18 题作答保留作答，查看答案先作答；不确定的题也可记录判断与疑点。对照答案，回到证据第 14 题 · NOT GIVEN原文给历史增长和多份未来预测，没有“实际超过以前预测”的同一指标比较；不能由多个大数字推出more rapidly。Its population has increased eightfold since 1980 ... United Nations projections anticipate ...第 15 题 · FALSEfour out of five支持most，但single-storey直接反驳high-rise。four out of five of its people live in single-storey informal settlements第 16 题 · NOT GIVEN有铁路服务不等于居民接受过意见咨询；全文未述consultation。A single suburban rail line serves residents in a few areas to the south第 17 题 · TRUEnearly all对应majority；without any agreed strategy对应unplanned。nearly all takes place informally without any agreed strategy第 18 题 · FALSEUnlike标示相反路径：很多城市地铁，本市公交；不是采用共同方案。Unlike many cities on the continent, Dar es Salaam isn't trying to build a metro. ... the bus.核对原答案页我的修订／证据笔记材料精读 · 内容与词句文章用人口增长、外围低密度扩张与旧道路格局解释达累斯萨拉姆的出行困境，再引出选择快速公交的背景。人口预测与现实记录分开呈现；公交被认为更便宜、更可实现，并非已经解决全部交通问题。原文片段 · 1Dar es Salaam in Tanzania is one of the fastest growing cities in Africa. Its population has increased eightfold since 1980 and swells by half a million people every year. United Nations projections anticipate it will become a megacity within seven years as its population passes 10 million, reaching 13.4 million by 2035. Daniel Hoornweg for the Global Cities Institute forecasts the city could be home to an incredible 73.7 million people by 2100.人口已经增长八倍是过去到原文当下的变化；未来成为千万人口城市，以及2035年、2100年的规模则是不同来源的预测。anticipate、forecasts 和 could 标出预测性质。开头的作用是让后面的交通需求放在急速扩张的城市规模里理解。原文片段 · 2Today, four out of five of its people live in single-storey informal settlements on the spreading edges of the city, where the journey to and from the centre regularly takes over two hours. It can be longer if rain turns the dirt roads to mud.大部分居民住在不断向外扩展的单层非正规住区，往返中心耗时很长；雨水还会把土路变成泥路。空间距离和道路条件一起影响通勤。informal settlements 描述缺少正规规划等条件的住区，不能简单理解为居民随意居住。原文片段 · 3Even in the middle of the day, traffic frequently slows to a stop without warning. It is not unusual for cars and minibuses to queue for 20 minutes at a key intersection. A single suburban rail line serves residents in a few areas to the south but is tiny in the context of the wider city. Outside the centre many rely on boda boda (motorbike taxis) to navigate the narrow side streets and potholed mud roads that make up much of the metropolis. Their safety record is scandalous.拥堵并不限于上下班时段，现有铁路覆盖也很有限。摩托车出租能穿过狭窄街道，却伴随很差的安全表现。段落展示居民面对的是速度、覆盖与安全的多重约束，而不仅是有没有某一种交通工具。原文片段 · 4Dar es Salaam's reliance on four arterial roads into the city is a legacy of the colonial government that planned the city at the start of the 20th century to cater for a population of 35,000. Most of the current growth is made up of young people arriving from the countryside to find work, and as the population has exploded, Dar es Salaam has grown around those four highways. Nearly all the expansion is happening on the periphery, and nearly all takes place informally without any agreed strategy.四条主干道来自为小得多的人口设计的殖民时期规划。后来大量年轻人进城找工作，城市围绕旧路向边缘扩张，却缺少共同策略。legacy 指过去制度或规划留下的长期影响；旧骨架承受新规模，解释了前面出行问题的结构背景。原文片段 · 5But Dar es Salaam is pinning its hopes on a solution that could offer a different model for Africa's megacities, giving them an alternative to a future controlled by the private car. Unlike many cities on the continent, Dar es Salaam isn't trying to build a metro. It has chosen a less exciting but cheaper and more achievable method: the bus.But 将叙述转向当地希望采用的方案：快速公交可能提供一种不由私家车主导的发展路径。作者把公交与地铁比较，强调成本与可实现性，而不是把技术是否令人兴奋作为首要标准。could offer 保留了方案潜力尚待实现的意味。词语与搭配informal settlements非正规住区城市研究中描述未完整纳入正规规划或基础设施体系的居住区域；不要直接等同于所有低收入社区。to cater for a population of为某一规模的人口提供服务cater for 不只表示提供餐饮，这里指规划满足人口需求。on the periphery在城市边缘the periphery 与中心相对，可用于描述城市扩张的空间方向。pinning its hopes on把希望寄托在……上pin one's hopes on 后接计划或方案，带有期待色彩，不能代替对成效的实际证明。句子精读Today, four out of five of its people live in single-storey informal settlements on the spreading edges of the city, where the journey to and from the centre regularly takes over two hours.在作者叙述时，这座城市五分之四的居民住在不断向外扩展的城市边缘的单层非正规住区，从那里往返市中心经常需要两个多小时。its 指达累斯萨拉姆。主干是 people live in settlements，single-storey 描述房屋形态，on the spreading edges 补充所在位置。where 回接这些外围地点，说明居民从该处出行的耗时。But Dar es Salaam is pinning its hopes on a solution that could offer a different model for Africa's megacities, giving them an alternative to a future controlled by the private car.但达累斯萨拉姆正把希望寄托在一个可能为非洲超大城市提供不同发展模式的方案上，让这些城市有机会选择另一条道路，而不是走向由私家车主导的未来。that could offer 修饰 solution，could 表示可能性。giving them 补充这种方案可能带来的作用，them 指非洲超大城市。controlled by the private car 修饰 future，private car 泛指以私家车为核心的出行模式。这篇材料里可用于写作的表达on the periphery在城市外围用于讨论住房位置与服务距离，需要说明外围扩张带来的具体条件，不能据此断定所有郊区住房都不好。用于写作：高层住宅题涉及如何在大城市提供足够住房；这一表达帮助比较外围扩张与紧凑建设的出行影响。a future controlled by the private car由私家车主导的未来适合描述城市发展的整体方向，随后应解释公共交通如何提供现实替代。用于写作：直接回应交通题鼓励替代交通方式的主张；不自动推出必须统一限制所有地区的汽车拥有量。读完讲解，可以把原文连起来再读一次；想保留的词句可使用已有收藏功能。",
+  "links": [
+    {
+      "text": "Cambridge IELTS 21 Academic",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=65"
+    },
+    {
+      "text": "核对原答案页",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=123"
+    },
+    {
+      "text": "用于写作：高层住宅题涉及如何在大城市提供足够住房；这一表达帮助比较外围扩张与紧凑建设的出行影响。",
+      "href": "#writing-prep-wc-c21-t1-homes-from-rd-c21-t3-dart-city"
+    },
+    {
+      "text": "用于写作：直接回应交通题鼓励替代交通方式的主张；不自动推出必须统一限制所有地区的汽车拥有量。",
+      "href": "#writing-prep-wc-official-transport-from-rd-c21-t3-dart-city"
+    }
+  ],
+  "details": [
+    {
+      "id": "material-reading-rd-c21-t3-dart-city",
+      "title": "材料精读 · 内容与词句",
+      "open": false,
+      "visible": true
+    }
+  ],
+  "saveFields": [
+    "case-rd-c21-t3-dart-city-q1",
+    "case-rd-c21-t3-dart-city-q2",
+    "case-rd-c21-t3-dart-city-q3",
+    "case-rd-c21-t3-dart-city-q4",
+    "case-rd-c21-t3-dart-city-q5",
+    "case-rd-c21-t3-dart-city-done",
+    "case-rd-c21-t3-dart-city-saved-at",
+    "case-rd-c21-t3-dart-city-revision"
+  ],
+  "images": [],
+  "audio": [],
+  "viewport": 1440,
+  "documentWidth": 1440
+}

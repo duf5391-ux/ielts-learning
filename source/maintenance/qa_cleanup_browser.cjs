@@ -1,0 +1,33 @@
+const {chromium}=require('C:/Users/Admin1/.cache/codex-runtimes/codex-primary-runtime/dependencies/node/node_modules/playwright');
+const fs=require('fs'),path=require('path'),assert=require('assert'),{pathToFileURL}=require('url');
+const root='C:/Users/Admin1/Documents/Codex/2026-09-12/referenced-chatgpt-conversation-this-is-an/outputs/IELTS-四科学习册',qa=path.join(__dirname,'cleanup-ui-qa');
+const manifest=JSON.parse(fs.readFileSync(path.join(root,'resource-expansion-manifest.json'),'utf8'));
+const catalog=manifest.catalog;
+(async()=>{
+ const browser=await chromium.launch({executablePath:'C:/Program Files (x86)/Microsoft/Edge/Application/msedge.exe',headless:true});
+ const context=await browser.newContext({viewport:{width:1365,height:950}}),page=await context.newPage();
+ const errors=[],checks=[],screenshots=[];
+ page.on('pageerror',e=>errors.push(e.message));page.setDefaultTimeout(12000);
+ const frame=()=>page.evaluate(()=>new Promise(r=>requestAnimationFrame(()=>requestAnimationFrame(r))));
+ const hash=async id=>{await page.evaluate(h=>location.hash=h,id);await frame();};
+ const check=async(name,fn)=>{try{const detail=await fn();checks.push({name,pass:true,detail});}catch(e){checks.push({name,pass:false,error:e.message});}};
+ const screen=async name=>{const file=path.join(qa,name+'.png');await page.screenshot({path:file});screenshots.push(file);};
+ try{
+ await page.goto(pathToFileURL(path.join(root,'开始学习.html')).href+'#resource-update');
+ await check('all 13 panels open',async()=>{const ids=await page.locator('.panel').evaluateAll(es=>es.map(e=>e.id));assert.equal(ids.length,13);for(const id of ids){await hash(id);assert(await page.locator('#'+id).isVisible(),id);}return ids;});
+ await hash('resource-update');await screen('desktop-resource-update');
+ await check('32 catalog cards and filters',async()=>{assert.equal(await page.locator('.res-card').count(),32);const counts={};for(const type of ['current','background','reading','listening','writing1','writing2']){await page.locator(`[data-res-filter="${type}"]`).click();const expected=catalog.filter(c=>type==='current'?c.current:c.section===type).length;counts[type]=await page.locator('.res-card:visible').count();assert.equal(counts[type],expected);}await page.locator('[data-res-filter="all"]').click();await page.locator('#res-search').fill('QA-empty-cleanup');assert.equal(await page.locator('.res-card:visible').count(),0);await page.locator('#res-search').fill(catalog[0].title);assert.equal(await page.locator('.res-card:visible').count(),1);await page.locator('#res-search').fill('');return counts;});
+ await check('all 32 new units route open',async()=>{for(const c of catalog){await hash(c.anchor);const unit=page.locator('#'+c.anchor);assert(await unit.isVisible(),c.anchor);if(c.section!=='background')assert(await unit.evaluate(e=>e.open),c.anchor);assert.equal(await unit.locator(`[data-save="resource-note-${c.id}"]`).count(),1);}return 32;});
+ const selected=catalog.find(c=>c.section==='speaking');await hash(selected.anchor);await screen('desktop-speaking-unit');
+ await check('local lookup phrase and clean result',async()=>{await hash('resource-update');await page.locator('#lookup-open').click();await page.locator('#lookup-input').fill('cover running costs');await page.locator('#lookup-form').evaluate(f=>f.requestSubmit());await page.waitForFunction(()=>document.querySelector('#lookup-result').textContent.includes('cover running costs'));const text=await page.locator('#lookup-result').innerText();assert(/运营|运行|日常|成本|费用/.test(text),text);assert(!/来源|官方|核验|出处/.test(text),text);await page.locator('#lookup-close').click();return text;});
+ await check('new and original notes persist across reload',async()=>{await hash('reading');await page.locator('[data-save="reading-q1"]').fill('Cleanup QA original answer');await hash(selected.anchor);await page.locator(`[data-save="resource-note-${selected.id}"]`).fill('Cleanup QA new note');await frame();await page.reload();await frame();assert.equal(await page.locator(`[data-save="resource-note-${selected.id}"]`).inputValue(),'Cleanup QA new note');await hash('reading');assert.equal(await page.locator('[data-save="reading-q1"]').inputValue(),'Cleanup QA original answer');return {original:true,newNote:true,isolatedContext:true};});
+ await check('11 audio controls preserved and configured local media loads',async()=>{const audios=await page.locator('audio').evaluateAll(es=>es.map((e,i)=>({i,src:e.getAttribute('src')||e.querySelector('source')?.getAttribute('src')||null})));assert.equal(audios.length,11);const loaded=[];for(const a of audios.filter(x=>x.src)){const result=await page.locator('audio').nth(a.i).evaluate(el=>new Promise(resolve=>{if(el.readyState>=1)return resolve({src:el.currentSrc,duration:el.duration});let done=false;const finish=r=>{if(!done){done=true;resolve(r);}};el.addEventListener('loadedmetadata',()=>finish({src:el.currentSrc,duration:el.duration}),{once:true});el.addEventListener('error',()=>finish({error:el.error?.code,src:el.currentSrc}),{once:true});setTimeout(()=>finish({error:'metadata timeout',src:el.currentSrc}),9000);el.load();}));assert(!result.error,JSON.stringify(result));assert(result.duration>0);loaded.push({...result,src:result.src.startsWith('data:')?'embedded audio':result.src});}return {controls:audios.length,configured:loaded.length,loaded};});
+ await check('390px layout on all 13 panels and speaking unit',async()=>{await page.setViewportSize({width:390,height:844});const ids=await page.locator('.panel').evaluateAll(es=>es.map(e=>e.id));const widths=[];for(const id of [...ids,selected.anchor]){await hash(id);const width=await page.evaluate(()=>({scroll:document.documentElement.scrollWidth,viewport:innerWidth}));widths.push({id,...width});assert(width.scroll<=width.viewport+1,id+' '+JSON.stringify(width));}await hash('resource-update');await screen('mobile-resource-update');await hash(selected.anchor);await screen('mobile-speaking-unit');return widths;});
+ await check('no page errors',async()=>assert.deepEqual(errors,[]));
+ }finally{
+ const result={isolated_browser_context:true,uses_user_profile:false,checks,errors,screenshots,passed:checks.filter(c=>c.pass).length,failed:checks.filter(c=>!c.pass).length};
+ fs.writeFileSync(path.join(qa,'browser-results.json'),JSON.stringify(result,null,2));
+ console.log(JSON.stringify({passed:result.passed,failed:result.failed,errors,screenshots,report:path.join(qa,'browser-results.json')},null,2));await context.close();await browser.close();
+ if(result.failed)process.exitCode=1;
+ }
+})().catch(e=>{console.error(e.stack);process.exitCode=1;});

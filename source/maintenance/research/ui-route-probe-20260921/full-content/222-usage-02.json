@@ -1,0 +1,73 @@
+{
+  "requested": "usage-02",
+  "from": [
+    "内容单元"
+  ],
+  "actual": "#usage-02",
+  "checkedAt": "2026-09-21T12:53:18.129Z",
+  "title": "学习 / 短语 / in order to · IELTS",
+  "label": "学习 / 短语 / in order to",
+  "panel": "phrases",
+  "contentRoot": "usage-02",
+  "headings": [
+    {
+      "tag": "H3",
+      "text": "in order to",
+      "visible": true
+    }
+  ],
+  "controls": [
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "checkbox",
+      "text": "",
+      "label": "收藏 in order to",
+      "href": null,
+      "save": "vocab-saved-usage-in-order-to",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "A Chronicle of Timekeeping",
+      "label": "",
+      "href": "原始参考/d04994b0-hwatai-cambridge8-sample.pdf",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "checkbox",
+      "text": "",
+      "label": "我已看过本单元",
+      "href": null,
+      "save": "learning-read-usage-02",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    }
+  ],
+  "visibleText": "0% · 0 / 1 完成\n☆\nin order to\n\n说明做一件事的目的：为了。\n\n主句 + in order to + 动词原形；in order not to + 动词原形表示为了避免。目的清楚时可简化成 to + 动词原形。\n\nIn order to track temporal hours during the day, inventors created sundials, which indicate time by the length or direction of the sun's shadow.\n\n原文完整句，来自现有资料正文；只合并排版换行，未引用题干或答案。\n\n原文：\n\nA Chronicle of Timekeeping\n\n日常语境例句\n\nThe library stays open late in order to give working students more time to study.\n\n图书馆延长晚间开放时间，是为了让在职学生有更多时间学习。\n\n这里的 to 后接动词原形，不接 doing。注意执行者：In order to reduce waste, schools ... 中采取行动的是 schools。for doing 常说明用途，如 a tool for cutting。\n\n我已看过本单元",
+  "allContent": "0% · 0 / 1 完成☆in order to说明做一件事的目的：为了。主句 + in order to + 动词原形；in order not to + 动词原形表示为了避免。目的清楚时可简化成 to + 动词原形。In order to track temporal hours during the day, inventors created sundials, which indicate time by the length or direction of the sun's shadow.原文完整句，来自现有资料正文；只合并排版换行，未引用题干或答案。原文：A Chronicle of Timekeeping日常语境例句The library stays open late in order to give working students more time to study.图书馆延长晚间开放时间，是为了让在职学生有更多时间学习。这里的 to 后接动词原形，不接 doing。注意执行者：In order to reduce waste, schools ... 中采取行动的是 schools。for doing 常说明用途，如 a tool for cutting。 我已看过本单元",
+  "links": [
+    {
+      "text": "A Chronicle of Timekeeping",
+      "href": "原始参考/d04994b0-hwatai-cambridge8-sample.pdf"
+    }
+  ],
+  "details": [],
+  "saveFields": [
+    "vocab-saved-usage-in-order-to",
+    "learning-read-usage-02"
+  ],
+  "images": [],
+  "audio": [],
+  "viewport": 1440,
+  "documentWidth": 1440
+}

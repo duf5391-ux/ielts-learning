@@ -1,0 +1,257 @@
+{
+  "requested": "material-reading-rd-c21-t4-multilingual-findings",
+  "from": [
+    "页面链接",
+    "每日安排目标"
+  ],
+  "actual": "#material-reading-rd-c21-t4-multilingual-findings",
+  "checkedAt": "2026-09-21T12:55:58.790Z",
+  "title": "练习 / 阅读 / Multilingualism · 教学语言与出人意料的结果 · IELTS",
+  "label": "练习 / 阅读 / Multilingualism · 教学语言与出人意料的结果",
+  "panel": "practice-reading",
+  "contentRoot": "reading-case-rd-c21-t4-multilingual-findings",
+  "headings": [
+    {
+      "tag": "H3",
+      "text": "对照答案，回到证据",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "原文片段 · 1",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "原文片段 · 2",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "原文片段 · 3",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "原文片段 · 4",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "词语与搭配",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "句子精读",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "这篇材料里可用于写作的表达",
+      "visible": true
+    }
+  ],
+  "controls": [
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "Multilingualism · 教学语言与出人意料的结果未作答\n观点判断 YNNG / 选择题 · 4 段 · 362 词 · 4 题 · 同篇原文另有裁切",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "Cambridge IELTS 21 Academic",
+      "label": "",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=87",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "case-rd-c21-t4-multilingual-findings-q1",
+      "type": "text",
+      "text": "",
+      "label": "第 23 题作答",
+      "href": null,
+      "save": "case-rd-c21-t4-multilingual-findings-q1",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "case-rd-c21-t4-multilingual-findings-q2",
+      "type": "text",
+      "text": "",
+      "label": "第 24 题作答",
+      "href": null,
+      "save": "case-rd-c21-t4-multilingual-findings-q2",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "case-rd-c21-t4-multilingual-findings-q3",
+      "type": "text",
+      "text": "",
+      "label": "第 25 题作答",
+      "href": null,
+      "save": "case-rd-c21-t4-multilingual-findings-q3",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "case-rd-c21-t4-multilingual-findings-q4",
+      "type": "text",
+      "text": "",
+      "label": "第 26 题作答",
+      "href": null,
+      "save": "case-rd-c21-t4-multilingual-findings-q4",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "checkbox",
+      "text": "",
+      "label": "",
+      "href": null,
+      "save": "case-rd-c21-t4-multilingual-findings-done",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "hidden",
+      "text": "",
+      "label": "",
+      "href": null,
+      "save": "case-rd-c21-t4-multilingual-findings-saved-at",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "保留作答，查看答案",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "核对原答案页",
+      "label": "",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=125",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "case-rd-c21-t4-multilingual-findings-revision",
+      "type": "textarea",
+      "text": "",
+      "label": "我的修订／证据笔记",
+      "href": null,
+      "save": "case-rd-c21-t4-multilingual-findings-revision",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "材料精读 · 内容与词句",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "用于写作：与小学正式教学和课堂游戏的平衡直接吻合，可具体表达过度正式教学的局限。",
+      "label": "",
+      "href": "#writing-prep-wc-c21-t4-primary-from-rd-c21-t4-multilingual-findings",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "用于写作：家庭财富题比较成长资源与成年准备；原文提供了生活经验可能培养某些能力的思路，同时例句避免把局部观察扩大为贫困更好的结论。",
+      "label": "",
+      "href": "#writing-prep-wc-official-wealth-from-rd-c21-t4-multilingual-findings",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    }
+  ],
+  "visibleText": "Multilingualism · 教学语言与出人意料的结果未作答\n观点判断 YNNG / 选择题 · 4 段 · 362 词 · 4 题 · 同篇原文另有裁切\n0% · 0 / 1 完成\n\n真题 · Cambridge IELTS 21 Academic · PDF 第 87 页\n\n按原题号作答。保留考试原文与题目难度；以下是连续原段裁切，未改写原文。\n\n原第5–8段连续裁切；题面sixth/eighth paragraph分别对应本片段第2/4段。保留may、might、preliminary等不确定表达。\n\n原文片段 · 1Having already tested 1,000 children, the researchers will now embark on retesting them. They intend to look not only at test results, but also at variables such as the standard of schooling, the environment and the teaching practices themselves. It's possible that one of the causes of low performance is the lack of pupil-centred teaching methods; in many Indian primary schools the teacher dominates and there is little room for independent learning.\n\n原文片段 · 2Although the findings are at a preliminary stage, Tsimpli and her team have found that the medium of instruction used in schools, especially English, may hold back those children who have little familiarity with, or exposure to, the language before starting school and outside of school life. According to Tsimpli, most of the evidence from this and other projects shows that English instruction for children from low socio-economic areas might not be the best way for them to learn, at least in the first three years of primary education.\n\n原文片段 · 3'What we would recommend for everyone, not just low socio-economic status children, would be to start learning in the language they feel comfortable learning in ... English can still be used, but perhaps not as the medium of instruction in primary schools. It could, for example, be one of the subjects that are being taught alongside other subjects. We are not suggesting that English be withdrawn - that ship has sailed - but we perhaps have to think more about learner needs. There is perhaps too much uniformity in teaching and less tailoring to the children's language abilities and needs,' says Tsimpli.\n\n原文片段 · 4While the preliminary results show there is no difference in general intelligence among boys and girls from slum areas versus those from urban poor backgrounds, an unanticipated finding has been that children from slum backgrounds do not seem to lag behind children from other urban poor backgrounds - and in some cases outperform them (e.g. in numeracy and literacy tasks). According to the researchers, this unexpected finding may be down to the life experiences of children growing up in slums. They are likely to mature faster and come into closer contact with the numeracy skills essential for day-to-day survival.\n\n23. The researchers have decided against investigating the impact teaching methodology may have on learning outcomes.\n\nDo the following statements agree with the views/claims of the writer? Write YES, NO or NOT GIVEN.\n\n第 23 题作答\n\n24. What point does the writer make about primary schools in India in the sixth paragraph?\n\nChoose the correct letter, A, B, C or D.\n\nA. Exposure to English outside of school is of limited benefit.\nB. Children learn English more easily when they are well motivated.\nC. Poor children may be disadvantaged further by being instructed in English.\nD. There is little consistency across schools with regard to instruction in English.\n第 24 题作答\n\n25. What is Tsimpli suggesting when she uses the phrase 'that ship has sailed'?\n\nChoose the correct letter, A, B, C or D.\n\nA. The findings of the report may be of little help to some Indian schoolchildren.\nB. Instruction in English could be better adapted to the needs of schoolchildren.\nC. Schools have had limited success in teaching English as a separate subject.\nD. It is too late to remove English completely as a language of instruction in schools.\n第 25 题作答\n\n26. In the eighth paragraph, what do we learn has surprised researchers?\n\nChoose the correct letter, A, B, C or D.\n\nA. Boys and girls from low socio-economic groups have similar general intelligence levels.\nB. The age at which children move into a slum does not affect their academic performance.\nC. Slum children and children from other urban poor backgrounds have similar life experiences.\nD. The literacy and numeracy skills of slum children are not lower than those of children from other urban poor backgrounds.\n第 26 题作答\n保留作答，查看答案\n\n先作答；不确定的题也可记录判断与疑点。\n\n材料精读 · 内容与词句\n\n研究开始把授课语言、教学方式与儿童生活经验一起考虑。作者呈现的是初步结果：陌生的授课语言可能阻碍早期学习，贴合儿童需求比统一要求更合适；贫困住区儿童某些表现较好也不能反过来证明贫困本身有益。\n\n原文片段 · 1\nHaving already tested 1,000 children, the researchers will now embark on retesting them. They intend to look not only at test results, but also at variables such as the standard of schooling, the environment and the teaching practices themselves. It's possible that one of the causes of low performance is the lack of pupil-centred teaching methods; in many Indian primary schools the teacher dominates and there is little room for independent learning.\n\n再次测试让研究者能继续观察儿童，而不只停留在一次结果。他们也看学校质量、环境和课堂做法；教师主导、缺少自主学习空间只是一个可能原因。It's possible 和 one of the causes 同时限制了因果判断。\n\n原文片段 · 2\nAlthough the findings are at a preliminary stage, Tsimpli and her team have found that the medium of instruction used in schools, especially English, may hold back those children who have little familiarity with, or exposure to, the language before starting school and outside of school life. According to Tsimpli, most of the evidence from this and other projects shows that English instruction for children from low socio-economic areas might not be the best way for them to learn, at least in the first three years of primary education.\n\n研究初步发现，入学前及校外很少接触某种授课语言的儿童，可能受到语言本身的阻碍。关于英语不一定最适合的判断，特别限定在经济社会条件较弱儿童的小学前三年，不能读成所有年龄都不该学英语。\n\n原文片段 · 3\n'What we would recommend for everyone, not just low socio-economic status children, would be to start learning in the language they feel comfortable learning in ... English can still be used, but perhaps not as the medium of instruction in primary schools. It could, for example, be one of the subjects that are being taught alongside other subjects. We are not suggesting that English be withdrawn - that ship has sailed - but we perhaps have to think more about learner needs. There is perhaps too much uniformity in teaching and less tailoring to the children's language abilities and needs,' says Tsimpli.\n\n建议是先用儿童能自在理解的语言学习；英语仍可作为一门学科，而不必承担教授所有学科的媒介。that ship has sailed 表示完全撤回英语已不是现实方向。作者批评的是教学过于统一、对能力和需求调整不足，重点在怎样教而非排斥某种语言。\n\n原文片段 · 4\nWhile the preliminary results show there is no difference in general intelligence among boys and girls from slum areas versus those from urban poor backgrounds, an unanticipated finding has been that children from slum backgrounds do not seem to lag behind children from other urban poor backgrounds - and in some cases outperform them (e.g. in numeracy and literacy tasks). According to the researchers, this unexpected finding may be down to the life experiences of children growing up in slums. They are likely to mature faster and come into closer contact with the numeracy skills essential for day-to-day survival.\n\n初步结果中，贫民区儿童在一般智力上并不落后，某些识字与算数活动还表现更好。研究者推测日常生存经验让他们较早接触实用计算，但 may be down to 保留了原因的不确定性。比较对象是其他城市贫困背景儿童，不能直接推成贫困儿童总体优于富裕儿童。\n\n词语与搭配\nlittle room for independent learning\n\n自主学习的空间很少\n\nroom 比喻机会和自由度，不是教室面积；与教师占主导的课堂情境相连。\n\nthe medium of instruction\n\n教学使用的语言媒介\n\n区分用英语教其他学科与把英语本身作为一门课程，这两者的理解负担不同。\n\ntailoring to the children's language abilities and needs\n\n根据儿童语言能力与需求作调整\n\ntailoring 比喻量体裁衣，强调教学匹配具体学习者，而不是统一提高或降低难度。\n\nessential for day-to-day survival\n\n日常生存所必需的\n\nessential for 后接用途或需要；这里修饰孩子在日常生活中接触的数算技能。\n\n句子精读\nAlthough the findings are at a preliminary stage, Tsimpli and her team have found that the medium of instruction used in schools, especially English, may hold back those children who have little familiarity with, or exposure to, the language before starting school and outside of school life.\n\n虽然研究仍处于初步阶段，Tsimpli 及其团队发现，学校使用的授课语言，尤其英语，可能妨碍那些入学前及校外对该语言不熟悉、接触也较少的儿童的学习进展。\n\nAlthough 先限定发现的成熟程度，may 再限定影响的确定性。who 从句说明是哪一类儿童；familiarity with 与 exposure to 分别表示熟悉和接触，二者共同指向 the language。不能删掉人群与场景限制。\n\nThey are likely to mature faster and come into closer contact with the numeracy skills essential for day-to-day survival.\n\n他们可能更早成熟，也更密切地接触日常生存所必需的数算技能。\n\nThey 指在贫民区长大的儿童。are likely to 同时作用于 mature 和 come 两个并列动作，表示研究者的可能解释。essential for day-to-day survival 后置修饰 skills，说明这些技能与生活需要的关系。\n\n这篇材料里可用于写作的表达\nlittle room for independent learning\n\n自主学习机会不足\n\n用来描述过度由教师控制的课堂，需要说明儿童缺少哪些探索或表达机会。\n\n用于写作：与小学正式教学和课堂游戏的平衡直接吻合，可具体表达过度正式教学的局限。\n\nessential for day-to-day survival\n\n日常生活维持所必需的\n\n只在确实涉及生活压力时使用；可以讨论压力带来的某些实际经验，但不要据此美化贫困。\n\n用于写作：家庭财富题比较成长资源与成年准备；原文提供了生活经验可能培养某些能力的思路，同时例句避免把局部观察扩大为贫困更好的结论。\n\n读完讲解，可以把原文连起来再读一次；想保留的词句可使用已有收藏功能。",
+  "allContent": "Multilingualism · 教学语言与出人意料的结果未作答观点判断 YNNG / 选择题 · 4 段 · 362 词 · 4 题 · 同篇原文另有裁切0% · 0 / 1 完成真题 · Cambridge IELTS 21 Academic · PDF 第 87 页按原题号作答。保留考试原文与题目难度；以下是连续原段裁切，未改写原文。原第5–8段连续裁切；题面sixth/eighth paragraph分别对应本片段第2/4段。保留may、might、preliminary等不确定表达。原文片段 · 1Having already tested 1,000 children, the researchers will now embark on retesting them. They intend to look not only at test results, but also at variables such as the standard of schooling, the environment and the teaching practices themselves. It's possible that one of the causes of low performance is the lack of pupil-centred teaching methods; in many Indian primary schools the teacher dominates and there is little room for independent learning.原文片段 · 2Although the findings are at a preliminary stage, Tsimpli and her team have found that the medium of instruction used in schools, especially English, may hold back those children who have little familiarity with, or exposure to, the language before starting school and outside of school life. According to Tsimpli, most of the evidence from this and other projects shows that English instruction for children from low socio-economic areas might not be the best way for them to learn, at least in the first three years of primary education.原文片段 · 3'What we would recommend for everyone, not just low socio-economic status children, would be to start learning in the language they feel comfortable learning in ... English can still be used, but perhaps not as the medium of instruction in primary schools. It could, for example, be one of the subjects that are being taught alongside other subjects. We are not suggesting that English be withdrawn - that ship has sailed - but we perhaps have to think more about learner needs. There is perhaps too much uniformity in teaching and less tailoring to the children's language abilities and needs,' says Tsimpli.原文片段 · 4While the preliminary results show there is no difference in general intelligence among boys and girls from slum areas versus those from urban poor backgrounds, an unanticipated finding has been that children from slum backgrounds do not seem to lag behind children from other urban poor backgrounds - and in some cases outperform them (e.g. in numeracy and literacy tasks). According to the researchers, this unexpected finding may be down to the life experiences of children growing up in slums. They are likely to mature faster and come into closer contact with the numeracy skills essential for day-to-day survival.23. The researchers have decided against investigating the impact teaching methodology may have on learning outcomes.Do the following statements agree with the views/claims of the writer? Write YES, NO or NOT GIVEN.第 23 题作答24. What point does the writer make about primary schools in India in the sixth paragraph?Choose the correct letter, A, B, C or D.A. Exposure to English outside of school is of limited benefit.B. Children learn English more easily when they are well motivated.C. Poor children may be disadvantaged further by being instructed in English.D. There is little consistency across schools with regard to instruction in English.第 24 题作答25. What is Tsimpli suggesting when she uses the phrase 'that ship has sailed'?Choose the correct letter, A, B, C or D.A. The findings of the report may be of little help to some Indian schoolchildren.B. Instruction in English could be better adapted to the needs of schoolchildren.C. Schools have had limited success in teaching English as a separate subject.D. It is too late to remove English completely as a language of instruction in schools.第 25 题作答26. In the eighth paragraph, what do we learn has surprised researchers?Choose the correct letter, A, B, C or D.A. Boys and girls from low socio-economic groups have similar general intelligence levels.B. The age at which children move into a slum does not affect their academic performance.C. Slum children and children from other urban poor backgrounds have similar life experiences.D. The literacy and numeracy skills of slum children are not lower than those of children from other urban poor backgrounds.第 26 题作答保留作答，查看答案先作答；不确定的题也可记录判断与疑点。对照答案，回到证据第 23 题 · NOintend to investigate practices直接反驳decided against investigating methodology。They intend to look not only at test results, but also ... the teaching practices themselves第 24 题 · C不熟悉教学用英语可能进一步拖住贫困儿童；不是说动机能使英语更容易学。English, may hold back those children who have little familiarity with, or exposure to, the language第 25 题 · D紧贴前半句be withdrawn理解：完全撤回英语已不现实。B是后文改进方向，却不是该习语所指。We are not suggesting that English be withdrawn - that ship has sailed第 26 题 · Dunanticipated锁定意外发现：贫民窟儿童读写算并未落后，有时更好；general intelligence相同只是前面的背景。an unanticipated finding ... children from slum backgrounds do not seem to lag behind ... and in some cases outperform them核对原答案页我的修订／证据笔记材料精读 · 内容与词句研究开始把授课语言、教学方式与儿童生活经验一起考虑。作者呈现的是初步结果：陌生的授课语言可能阻碍早期学习，贴合儿童需求比统一要求更合适；贫困住区儿童某些表现较好也不能反过来证明贫困本身有益。原文片段 · 1Having already tested 1,000 children, the researchers will now embark on retesting them. They intend to look not only at test results, but also at variables such as the standard of schooling, the environment and the teaching practices themselves. It's possible that one of the causes of low performance is the lack of pupil-centred teaching methods; in many Indian primary schools the teacher dominates and there is little room for independent learning.再次测试让研究者能继续观察儿童，而不只停留在一次结果。他们也看学校质量、环境和课堂做法；教师主导、缺少自主学习空间只是一个可能原因。It's possible 和 one of the causes 同时限制了因果判断。原文片段 · 2Although the findings are at a preliminary stage, Tsimpli and her team have found that the medium of instruction used in schools, especially English, may hold back those children who have little familiarity with, or exposure to, the language before starting school and outside of school life. According to Tsimpli, most of the evidence from this and other projects shows that English instruction for children from low socio-economic areas might not be the best way for them to learn, at least in the first three years of primary education.研究初步发现，入学前及校外很少接触某种授课语言的儿童，可能受到语言本身的阻碍。关于英语不一定最适合的判断，特别限定在经济社会条件较弱儿童的小学前三年，不能读成所有年龄都不该学英语。原文片段 · 3'What we would recommend for everyone, not just low socio-economic status children, would be to start learning in the language they feel comfortable learning in ... English can still be used, but perhaps not as the medium of instruction in primary schools. It could, for example, be one of the subjects that are being taught alongside other subjects. We are not suggesting that English be withdrawn - that ship has sailed - but we perhaps have to think more about learner needs. There is perhaps too much uniformity in teaching and less tailoring to the children's language abilities and needs,' says Tsimpli.建议是先用儿童能自在理解的语言学习；英语仍可作为一门学科，而不必承担教授所有学科的媒介。that ship has sailed 表示完全撤回英语已不是现实方向。作者批评的是教学过于统一、对能力和需求调整不足，重点在怎样教而非排斥某种语言。原文片段 · 4While the preliminary results show there is no difference in general intelligence among boys and girls from slum areas versus those from urban poor backgrounds, an unanticipated finding has been that children from slum backgrounds do not seem to lag behind children from other urban poor backgrounds - and in some cases outperform them (e.g. in numeracy and literacy tasks). According to the researchers, this unexpected finding may be down to the life experiences of children growing up in slums. They are likely to mature faster and come into closer contact with the numeracy skills essential for day-to-day survival.初步结果中，贫民区儿童在一般智力上并不落后，某些识字与算数活动还表现更好。研究者推测日常生存经验让他们较早接触实用计算，但 may be down to 保留了原因的不确定性。比较对象是其他城市贫困背景儿童，不能直接推成贫困儿童总体优于富裕儿童。词语与搭配little room for independent learning自主学习的空间很少room 比喻机会和自由度，不是教室面积；与教师占主导的课堂情境相连。the medium of instruction教学使用的语言媒介区分用英语教其他学科与把英语本身作为一门课程，这两者的理解负担不同。tailoring to the children's language abilities and needs根据儿童语言能力与需求作调整tailoring 比喻量体裁衣，强调教学匹配具体学习者，而不是统一提高或降低难度。essential for day-to-day survival日常生存所必需的essential for 后接用途或需要；这里修饰孩子在日常生活中接触的数算技能。句子精读Although the findings are at a preliminary stage, Tsimpli and her team have found that the medium of instruction used in schools, especially English, may hold back those children who have little familiarity with, or exposure to, the language before starting school and outside of school life.虽然研究仍处于初步阶段，Tsimpli 及其团队发现，学校使用的授课语言，尤其英语，可能妨碍那些入学前及校外对该语言不熟悉、接触也较少的儿童的学习进展。Although 先限定发现的成熟程度，may 再限定影响的确定性。who 从句说明是哪一类儿童；familiarity with 与 exposure to 分别表示熟悉和接触，二者共同指向 the language。不能删掉人群与场景限制。They are likely to mature faster and come into closer contact with the numeracy skills essential for day-to-day survival.他们可能更早成熟，也更密切地接触日常生存所必需的数算技能。They 指在贫民区长大的儿童。are likely to 同时作用于 mature 和 come 两个并列动作，表示研究者的可能解释。essential for day-to-day survival 后置修饰 skills，说明这些技能与生活需要的关系。这篇材料里可用于写作的表达little room for independent learning自主学习机会不足用来描述过度由教师控制的课堂，需要说明儿童缺少哪些探索或表达机会。用于写作：与小学正式教学和课堂游戏的平衡直接吻合，可具体表达过度正式教学的局限。essential for day-to-day survival日常生活维持所必需的只在确实涉及生活压力时使用；可以讨论压力带来的某些实际经验，但不要据此美化贫困。用于写作：家庭财富题比较成长资源与成年准备；原文提供了生活经验可能培养某些能力的思路，同时例句避免把局部观察扩大为贫困更好的结论。读完讲解，可以把原文连起来再读一次；想保留的词句可使用已有收藏功能。",
+  "links": [
+    {
+      "text": "Cambridge IELTS 21 Academic",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=87"
+    },
+    {
+      "text": "核对原答案页",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=125"
+    },
+    {
+      "text": "用于写作：与小学正式教学和课堂游戏的平衡直接吻合，可具体表达过度正式教学的局限。",
+      "href": "#writing-prep-wc-c21-t4-primary-from-rd-c21-t4-multilingual-findings"
+    },
+    {
+      "text": "用于写作：家庭财富题比较成长资源与成年准备；原文提供了生活经验可能培养某些能力的思路，同时例句避免把局部观察扩大为贫困更好的结论。",
+      "href": "#writing-prep-wc-official-wealth-from-rd-c21-t4-multilingual-findings"
+    }
+  ],
+  "details": [
+    {
+      "id": "material-reading-rd-c21-t4-multilingual-findings",
+      "title": "材料精读 · 内容与词句",
+      "open": true,
+      "visible": true
+    }
+  ],
+  "saveFields": [
+    "case-rd-c21-t4-multilingual-findings-q1",
+    "case-rd-c21-t4-multilingual-findings-q2",
+    "case-rd-c21-t4-multilingual-findings-q3",
+    "case-rd-c21-t4-multilingual-findings-q4",
+    "case-rd-c21-t4-multilingual-findings-done",
+    "case-rd-c21-t4-multilingual-findings-saved-at",
+    "case-rd-c21-t4-multilingual-findings-revision"
+  ],
+  "images": [],
+  "audio": [],
+  "viewport": 1440,
+  "documentWidth": 1440
+}

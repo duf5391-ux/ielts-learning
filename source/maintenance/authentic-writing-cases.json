@@ -1,0 +1,1408 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-09-19",
+  "policy": {
+    "difficulty": "保留正常考试任务，无难度分级",
+    "counting": "每道独立原题计一次；同题不同练法不新增计数",
+    "writingAnswers": "原创参考写法明确标示，不伪装官方答案",
+    "sourceOrder": [
+      "Cambridge21真题",
+      "官方考试样题",
+      "官方IELTS教辅原题"
+    ]
+  },
+  "summary": {
+    "cases": 20,
+    "independentTasks": 20,
+    "task1": 8,
+    "task2": 12,
+    "modelWords": 3563
+  },
+  "cases": [
+    {
+      "id": "wc-c21-t1-jobs",
+      "skill": "writing1",
+      "questionType": "折线图",
+      "title": "美国四行业就业：峰值、交叉与最终排名",
+      "source": {
+        "id": "8ee8170c-Cambridge IELTS 21 - Academic",
+        "originalUnit": "Cambridge IELTS 21 Academic · Test 1 · Task 1",
+        "title": "Cambridge IELTS 21 Academic",
+        "path": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf",
+        "page": 30,
+        "test": "Test 1 · Task 1",
+        "kind": "真题",
+        "sha256": "3b01561014db74bbaefd101b40e05f00eaa84008bbdbdbd6632c1d72a1212c68"
+      },
+      "prompt": "The graph below gives information about the number of jobs in four sectors of the economy in the US between 1960 and 2020.",
+      "practicePrompt": "先独立写Overview，再写两个主体段（共约150–180词）：一段写制造业与农业，另一段写零售与医疗。必须给出单位，并交代制造业中途的峰值；不逐点流水账。",
+      "modelAnswer": [
+        "Overall, manufacturing provided the most jobs at the beginning of the period, but it was overtaken by both retail and healthcare by 2020. Healthcare experienced the strongest growth, whereas agricultural employment declined and remained the smallest of the four sectors at the end.",
+        "Manufacturing employment rose from 15 million in 1960 to a peak of 20 million in 1980. It then fell to approximately 17 million in 2000 and 13 million in 2020. Agriculture followed a different pattern: its workforce dropped from about 6 million to 3 million during the first twenty years, remained at that level in 2000, and decreased to roughly 2 million by the end.",
+        "By contrast, the number of retail jobs increased throughout, from around 6 million in 1960 to 10 million in 1980 and 15 million in 2000, before reaching about 16 million in 2020. Healthcare grew from only 2 million jobs to 5 million and then 11 million, eventually matching retail at approximately 16 million."
+      ],
+      "modelAnswerLabel": "参考写法（编写示范，基于本题；非官方范文，也非唯一答案）",
+      "explanation": [
+        "原图纵轴是Jobs in millions：15表示1500万个岗位，不是15%或15万人。",
+        "制造业1980年达到20 million，之后下降；不能概括为1960–2020持续下降。",
+        "零售与医疗2020年约16 million并列；医疗从2到16增长约14 million，增幅最大。农业1980与2000均约3 million，不能写每阶段都下降。"
+      ],
+      "intensive": {
+        "structure": [
+          "Overview回答主导行业更替与两组趋势。",
+          "主体一合并峰值后下降的制造业和总体下降的农业。",
+          "主体二并写增长行业，用最终并列收束比较。"
+        ],
+        "phrases": [
+          "rise to a peak of 20 million：峰值位置与单位同时保留。",
+          "be overtaken by：排名改变；这里由2020年的终点比较支持。",
+          "eventually matching retail：结果分词短语，不再重复整句。"
+        ],
+        "sentences": [
+          "Manufacturing employment rose from 15 million in 1960 to a peak of 20 million in 1980. → from交代起点，to交代终点；of连接峰值大小。",
+          "Healthcare grew ... eventually matching retail ... → matching的主语仍是Healthcare，不是2020。"
+        ]
+      },
+      "answerPolicy": "先完成自己的写作，再展开参考写法、数据核对和精读。",
+      "originalTaskInstruction": "Summarise the information by selecting and reporting the main features, and make comparisons where relevant. Write at least 150 words.",
+      "wordCount": 161,
+      "status": "达标",
+      "verified": {
+        "prompt": "对照数据库原始PDF",
+        "page": "PDF页码，从1开始",
+        "model": "原创参考写法已与原题核对；无虚构调查或分数承诺",
+        "diagram": "已逐张渲染原始PDF并视觉核对；保留原图"
+      },
+      "image": "case-assets/writing-c21-30.png",
+      "sourceData": {
+        "years": [
+          1960,
+          1980,
+          2000,
+          2020
+        ],
+        "unit": "million jobs",
+        "manufacturing": [
+          15,
+          20,
+          17,
+          13
+        ],
+        "retail": [
+          6,
+          10,
+          15,
+          16
+        ],
+        "agriculture": [
+          6,
+          3,
+          3,
+          2
+        ],
+        "healthcare": [
+          2,
+          5,
+          11,
+          16
+        ]
+      }
+    },
+    {
+      "id": "wc-c21-t2-cafe",
+      "skill": "writing1",
+      "questionType": "地图",
+      "title": "学院咖啡厅改造：保留设施与功能替换",
+      "source": {
+        "id": "8ee8170c-Cambridge IELTS 21 - Academic",
+        "originalUnit": "Cambridge IELTS 21 Academic · Test 2 · Task 1",
+        "title": "Cambridge IELTS 21 Academic",
+        "path": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf",
+        "page": 52,
+        "test": "Test 2 · Task 1",
+        "kind": "真题",
+        "sha256": "3b01561014db74bbaefd101b40e05f00eaa84008bbdbdbd6632c1d72a1212c68"
+      },
+      "prompt": "The plans below show a college café before it was redesigned and how it looks now.",
+      "practicePrompt": "对照前后两张原图，写Overview和两个主体段（约150–180词）：第一段写室内功能替换，第二段写保留设施与室外扩展。原图没有指北针，用left/right/top/bottom或相对设施定位。",
+      "modelAnswer": [
+        "Overall, the café has been redesigned to offer a wider range of food and drink services, and an outdoor seating area has been added. The kitchen and toilets remain in their original positions, while the former staff dining rooms now serve different purposes.",
+        "Previously, all food and drink were available from a single serving area directly below the kitchen. This counter is now used for hot meals, and a salad bar has been installed along the left-hand wall of the main seating area. The two staff dining rooms along the upper edge of the main seating area have been converted into a takeaway food outlet and a coffee bar respectively. Tables and chairs still occupy the main central area.",
+        "At the bottom of the present plan, an outdoor seating area extends beyond the former café boundary, with a barbecue at its left end. New doorways connect this area to the interior. Near the entrance on the right-hand side, recycling bins have replaced the original bin, while the toilets remain in the lower-right corner."
+      ],
+      "modelAnswerLabel": "参考写法（编写示范，基于本题；非官方范文，也非唯一答案）",
+      "explanation": [
+        "不是“图书馆改造”：真实材料是college café。两间staff dining rooms分别变为take away food和coffee bar，必须对应两处功能。",
+        "厨房与厕所位置保留；增设沙拉吧、室外座位、barbecue，bin改为recycling bins。",
+        "原图对比过去与现在，故用previously + past、now + present以及has been added；没有未来规划，不能用will be built。"
+      ],
+      "intensive": {
+        "structure": [
+          "概述先概括服务多样化和室外扩展，再点出保留。",
+          "室内按厨房—服务区—原职工餐厅的邻接关系走图。",
+          "室外扩展与入口附近小变化同段收尾。"
+        ],
+        "phrases": [
+          "have been converted into：旧功能转为新功能。",
+          "remain in their original positions：明确保留而不是遗漏。",
+          "beyond the former café boundary：说明扩展到原边界之外。"
+        ],
+        "sentences": [
+          "The two staff dining rooms ... have been converted into a takeaway food outlet and a coffee bar respectively. → respectively按列举顺序配对，不能互换位置。",
+          "with a barbecue at its left end → its指outdoor seating area；没有虚构东南西北。"
+        ]
+      },
+      "answerPolicy": "先完成自己的写作，再展开参考写法、数据核对和精读。",
+      "originalTaskInstruction": "Summarise the information by selecting and reporting the main features, and make comparisons where relevant. Write at least 150 words.",
+      "wordCount": 173,
+      "status": "达标",
+      "verified": {
+        "prompt": "对照数据库原始PDF",
+        "page": "PDF页码，从1开始",
+        "model": "原创参考写法已与原题核对；无虚构调查或分数承诺",
+        "diagram": "已逐张渲染原始PDF并视觉核对；保留原图"
+      },
+      "image": "case-assets/writing-c21-52.png",
+      "sourceData": {
+        "retained": [
+          "kitchen",
+          "toilets",
+          "central tables and chairs"
+        ],
+        "converted": {
+          "staff dining room left": "take away food",
+          "staff dining room right": "coffee bar",
+          "serving area": "hot meals"
+        },
+        "added": [
+          "salad bar",
+          "barbecue",
+          "outdoor seating",
+          "recycling bins"
+        ]
+      }
+    },
+    {
+      "id": "wc-c21-t3-rainshadow",
+      "skill": "writing1",
+      "questionType": "自然流程图",
+      "title": "雨影沙漠：越山前后的水分变化",
+      "source": {
+        "id": "8ee8170c-Cambridge IELTS 21 - Academic",
+        "originalUnit": "Cambridge IELTS 21 Academic · Test 3 · Task 1",
+        "title": "Cambridge IELTS 21 Academic",
+        "path": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf",
+        "page": 73,
+        "test": "Test 3 · Task 1",
+        "kind": "真题",
+        "sha256": "3b01561014db74bbaefd101b40e05f00eaa84008bbdbdbd6632c1d72a1212c68"
+      },
+      "prompt": "The diagram below shows how one type of desert, known as a rain-shadow desert, is formed.",
+      "practicePrompt": "写Overview与两个主体段（约150–180词），沿原图7个编号描述迎风坡降雨及背风坡干燥；只使用图中可见机制，不添加温度数值或当地名称。",
+      "modelAnswer": [
+        "Overall, rain-shadow deserts form inland after winds have crossed a mountain range. The key contrast is between the windward side, where rising moist air produces clouds and rain, and the leeward side, where the air continues towards the interior in a dry state.",
+        "The process begins when winds approach the coast from the sea. On reaching the mountains, they are pushed upwards along the windward slope. As the moist air rises, it cools, and clouds form above this side of the mountains. Rain then falls, removing moisture from the air before it passes over the mountain range. These are successive stages rather than two separate routes through the diagram.",
+        "The remaining dry air continues over the summit and moves down the leeward side. Dry winds subsequently reach areas further inland, where a rain-shadow desert is found. The diagram indicates that the distance from the coast towards this inland area can extend over thousands of kilometres, emphasising that the final dry region lies beyond the mountain barrier."
+      ],
+      "modelAnswerLabel": "参考写法（编写示范，基于本题；非官方范文，也非唯一答案）",
+      "explanation": [
+        "原图7步：海风到岸→被迫抬升→湿空气升高冷却→云形成→下雨→干空气越山→干风抵达内陆。",
+        "用windward与leeward形成机制对比，而不是编造沙漠经历采矿或开垦。",
+        "图上仅标thousands of kilometres，不能改为准确3000公里；这是空间尺度，不是形成所需时间。"
+      ],
+      "intensive": {
+        "structure": [
+          "Overview交代终点与关键转变：湿气在越山前被降雨带走。",
+          "主体一描述迎风坡上的连续阶段。",
+          "主体二描述背风坡及最终形成的内陆干燥区。"
+        ],
+        "phrases": [
+          "on reaching the mountains：on + 动名词表示“一到达”。",
+          "as the moist air rises：as联系同步发生的上升与冷却。",
+          "in a dry state：准确描述性质变化而非另加数字。"
+        ],
+        "sentences": [
+          "As the moist air rises, it cools, and clouds form ... → 一个时间/伴随从句连接三个连续变化。",
+          "where a rain-shadow desert is found → where修饰areas further inland，不指海岸。"
+        ]
+      },
+      "answerPolicy": "先完成自己的写作，再展开参考写法、数据核对和精读。",
+      "originalTaskInstruction": "Summarise the information by selecting and reporting the main features, and make comparisons where relevant. Write at least 150 words.",
+      "wordCount": 166,
+      "status": "达标",
+      "verified": {
+        "prompt": "对照数据库原始PDF",
+        "page": "PDF页码，从1开始",
+        "model": "原创参考写法已与原题核对；无虚构调查或分数承诺",
+        "diagram": "已逐张渲染原始PDF并视觉核对；保留原图"
+      },
+      "image": "case-assets/writing-c21-73.png",
+      "sourceData": {
+        "stages": 7,
+        "start": "winds approach coast",
+        "end": "dry winds reach inland areas",
+        "spatialScale": "thousands of kilometres"
+      }
+    },
+    {
+      "id": "wc-c21-t4-library",
+      "skill": "writing1",
+      "questionType": "饼图与表格",
+      "title": "图书馆用户与满意度：两图的不同分母",
+      "source": {
+        "id": "8ee8170c-Cambridge IELTS 21 - Academic",
+        "originalUnit": "Cambridge IELTS 21 Academic · Test 4 · Task 1",
+        "title": "Cambridge IELTS 21 Academic",
+        "path": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf",
+        "page": 95,
+        "test": "Test 4 · Task 1",
+        "kind": "真题",
+        "sha256": "3b01561014db74bbaefd101b40e05f00eaa84008bbdbdbd6632c1d72a1212c68"
+      },
+      "prompt": "The chart and table below show the results of a survey of library users at a university.",
+      "practicePrompt": "写Overview、用户构成段和满意度段（约150–180词）。用表格中的真实百分数作比较；说明44%不是“本科生满意率”，并准确表达percentage points。",
+      "modelAnswer": [
+        "Overall, full-time undergraduates formed the largest group of library users, while academic staff accounted for the smallest share. Satisfaction was particularly strong for staff helpfulness and opening hours, whereas journals and wi-fi attracted the highest proportions of dissatisfied responses.",
+        "Full-time undergraduates represented 44% of users, followed by full-time postgraduates at 25%. Part-time postgraduates made up a further 16%, meaning that postgraduate students together accounted for 41%, slightly less than the undergraduate group. Distance learners and academic staff comprised the remaining 8% and 7% respectively.",
+        "Turning to the services, 95% of users were very satisfied with staff helpfulness, compared with 65% for opening hours, a difference of 30 percentage points. Neither item received any dissatisfied responses. The shares who were very satisfied with books, journals and wi-fi were considerably lower, at 50%, 45% and 48%. Dissatisfaction with journals was highest at 20%, closely followed by wi-fi at 19%, while the figure for books was 10%."
+      ],
+      "modelAnswerLabel": "参考写法（编写示范，基于本题；非官方范文，也非唯一答案）",
+      "explanation": [
+        "饼图分母为所有library users；表格每行是该服务的满意度分布。44%本科用户不能说成44%本科生满意。",
+        "95%与65%的差是30个百分点，不是“30%增长”；本题没有年份变化。",
+        "研究生两组25%+16%=41%，与本科44%可作合并比较；原图各类总计100%。"
+      ],
+      "intensive": {
+        "structure": [
+          "概述分别覆盖用户构成、服务评价。",
+          "一段只处理饼图，合理合并两类研究生。",
+          "一段处理表格，先最佳两项，再比较较弱三项。"
+        ],
+        "phrases": [
+          "accounted for / represented / made up：静态占比动词。",
+          "a difference of 30 percentage points：两个百分数相减。",
+          "closely followed by：指出19%与20%接近。"
+        ],
+        "sentences": [
+          "Neither item received any dissatisfied responses. → neither覆盖刚提到的staff helpfulness和opening hours。",
+          "meaning that postgraduate students together accounted for 41% → 合并的是同一总体下的两个互斥类别。"
+        ]
+      },
+      "answerPolicy": "先完成自己的写作，再展开参考写法、数据核对和精读。",
+      "originalTaskInstruction": "Summarise the information by selecting and reporting the main features, and make comparisons where relevant. Write at least 150 words.",
+      "wordCount": 154,
+      "status": "达标",
+      "verified": {
+        "prompt": "对照数据库原始PDF",
+        "page": "PDF页码，从1开始",
+        "model": "原创参考写法已与原题核对；无虚构调查或分数承诺",
+        "diagram": "已逐张渲染原始PDF并视觉核对；保留原图"
+      },
+      "image": "case-assets/writing-c21-95.png",
+      "sourceData": {
+        "users": {
+          "full-time undergraduate": 44,
+          "full-time postgraduate": 25,
+          "part-time postgraduate": 16,
+          "distance learning": 8,
+          "academic staff": 7
+        },
+        "satisfactionColumns": [
+          "very satisfied",
+          "fairly satisfied",
+          "not satisfied"
+        ],
+        "satisfaction": {
+          "opening hours": [
+            65,
+            35,
+            0
+          ],
+          "staff": [
+            95,
+            5,
+            0
+          ],
+          "books": [
+            50,
+            40,
+            10
+          ],
+          "journals": [
+            45,
+            35,
+            20
+          ],
+          "wifi": [
+            48,
+            33,
+            19
+          ]
+        }
+      }
+    },
+    {
+      "id": "wc-official-education",
+      "skill": "writing1",
+      "questionType": "柱状图",
+      "title": "英国继续教育：人数与学习形式",
+      "source": {
+        "id": "writing-official-sample-tasks-2023",
+        "originalUnit": "IELTS Academic Writing Sample Tasks (2023) · Task 1A",
+        "title": "IELTS Academic Writing Sample Tasks (2023)",
+        "path": "case-assets/writing-official-sample-tasks-2023.pdf",
+        "page": 3,
+        "test": "Task 1A",
+        "kind": "官方样题",
+        "sha256": "f9b5b43fbb3f070741f970ecf2adbfaaef8b2f520eb5e2d350bae39557b1c7af"
+      },
+      "prompt": "The chart below shows the number of men and women in further education in Britain in three periods and whether they were studying full-time or part-time.",
+      "practicePrompt": "写Overview及两个主体段（约150–180词）：按part-time/full-time分组，跨性别和年份作比较。纵轴是thousands，图上非刻度交点的数使用about。",
+      "modelAnswer": [
+        "Overall, part-time study was much more common than full-time study among both men and women in all three periods. Female participation increased in both modes, and by 1990/91 women outnumbered men in part-time education, while the numbers studying full-time were similar.",
+        "About one million men studied part-time in 1970/71, compared with roughly 750,000 women. Male participation then declined to around 850,000 in 1980/81 before recovering to about 900,000 in 1990/91. The corresponding female figure rose steadily, reaching just over 800,000 in the middle period and approximately 1.1 million in the final one. Thus, the initial male lead was reversed by the end.",
+        "Full-time numbers were considerably smaller. Around 100,000 men followed full-time courses in 1970/71, compared with fewer than 100,000 women. Both figures subsequently increased. Female full-time participation had moved above the male figure by 1980/81, and by 1990/91 the totals for the two sexes were both in the region of a quarter of a million."
+      ],
+      "modelAnswerLabel": "参考写法（编写示范，基于本题；非官方范文，也非唯一答案）",
+      "explanation": [
+        "纵轴thousands：1000相当于1,000,000人；不能把灰柱1000写成1000人或1000%。",
+        "灰柱part-time始终远高于黑柱full-time。男性part-time先降后回升，不能写三期持续上升。",
+        "女性part-time最终约1.1 million高于男性约0.9 million；采用图形估读的约数，不把粗图假装精确调查数据。"
+      ],
+      "intensive": {
+        "structure": [
+          "Overview横跨两个性别和两种形式。",
+          "主体一用part-time的起点差距、转折、终点反转构成比较链。",
+          "主体二把较小的full-time群体集中处理。"
+        ],
+        "phrases": [
+          "outnumbered men：人数超过男性，而非增长率超过男性。",
+          "the corresponding female figure：省去重复part-time participation。",
+          "in the region of a quarter of a million：粗图估读的稳妥表达。"
+        ],
+        "sentences": [
+          "Male participation then declined ... before recovering ... → before后动名词标示先降后升。",
+          "Thus, the initial male lead was reversed by the end. → 总结比较，不添加原因。"
+        ]
+      },
+      "answerPolicy": "先完成自己的写作，再展开参考写法、数据核对和精读。",
+      "originalTaskInstruction": "Summarise the information by selecting and reporting the main features, and make comparisons where relevant. Write at least 150 words.",
+      "wordCount": 156,
+      "status": "达标",
+      "verified": {
+        "prompt": "对照数据库原始PDF",
+        "page": "PDF页码，从1开始",
+        "model": "原创参考写法已与原题核对；无虚构调查或分数承诺",
+        "diagram": "已逐张渲染原始PDF并视觉核对；保留原图"
+      },
+      "image": "case-assets/writing-official-3.png",
+      "sourceData": {
+        "unit": "thousands of people",
+        "periods": [
+          "1970/71",
+          "1980/81",
+          "1990/91"
+        ],
+        "partTimeMaleApprox": [
+          1000,
+          850,
+          900
+        ],
+        "partTimeFemaleApprox": [
+          750,
+          825,
+          1100
+        ],
+        "readingNote": "柱宽、扫描精度限制下全日制值采用约数；最后男女都约250 thousand。"
+      }
+    },
+    {
+      "id": "wc-official-audiences",
+      "skill": "writing1",
+      "questionType": "折线图",
+      "title": "广播与电视受众：同一天的双峰比较",
+      "source": {
+        "id": "writing-official-sample-tasks-2023",
+        "originalUnit": "IELTS Academic Writing Sample Tasks (2023) · Task 1B",
+        "title": "IELTS Academic Writing Sample Tasks (2023)",
+        "path": "case-assets/writing-official-sample-tasks-2023.pdf",
+        "page": 4,
+        "test": "Task 1B",
+        "kind": "官方样题",
+        "sha256": "f9b5b43fbb3f070741f970ecf2adbfaaef8b2f520eb5e2d350bae39557b1c7af"
+      },
+      "prompt": "The graph below shows radio and television audiences throughout the day in 1992.",
+      "practicePrompt": "保留图中一天的完整时间轴，写Overview及两个主体段（约150–180词）。须写清百分比人群、广播早高峰与电视晚高峰；不能把一天内的时段变化写成年增长。",
+      "modelAnswer": [
+        "Overall, radio attracted its largest audience in the morning, while television viewing was concentrated in the evening. Television reached a substantially higher peak than radio, and both media had very small audiences during the early hours of the morning.",
+        "At 6 a.m., approximately 5% of the UK population aged over four listened to the radio, while virtually nobody was watching television. Radio listening rose rapidly to a peak of about 27% at around 8 a.m. It then generally declined through the day, despite a modest recovery in the late afternoon. By late evening, the figure had fallen to well below 10%, and it approached zero during the night.",
+        "Television viewing remained below 10% throughout the morning before rising around lunchtime and overtaking radio early in the afternoon. After a brief period near 15%, the television audience increased sharply in the late afternoon and evening, peaking at roughly 45–47% around 8 p.m. It subsequently dropped steeply, especially after midnight, and was only a few per cent by the following morning."
+      ],
+      "modelAnswerLabel": "参考写法（编写示范，基于本题；非官方范文，也非唯一答案）",
+      "explanation": [
+        "对象是UK population over 4 years old；百分比不能写成millions。图题范围October–December 1992，横轴6am到次日6am。",
+        "广播峰值约27%，电视约45–47%；粗线图允许about，不需要虚构47.3%。",
+        "“overtaking radio early in the afternoon”来自两线相交；不能把晚间电视优势扩成全天每时段都更高。"
+      ],
+      "intensive": {
+        "structure": [
+          "Overview先比峰值出现时段，再比峰值大小。",
+          "广播段按主要升降，不追逐每个小波动。",
+          "电视段突出午后反超、晚间最高、午夜后下降。"
+        ],
+        "phrases": [
+          "was concentrated in the evening：集中发生的时间。",
+          "despite a modest recovery：概括主趋势中的小反向变化。",
+          "virtually nobody：接近零，不强行写0.0%。"
+        ],
+        "sentences": [
+          "It then generally declined ... despite a modest recovery ... → generally给真实波动留空间。",
+          "After a brief period near 15%, ... → 介词短语给出第二次明显上涨前的平台。"
+        ]
+      },
+      "answerPolicy": "先完成自己的写作，再展开参考写法、数据核对和精读。",
+      "originalTaskInstruction": "Summarise the information by selecting and reporting the main features, and make comparisons where relevant. Write at least 150 words.",
+      "wordCount": 169,
+      "status": "达标",
+      "verified": {
+        "prompt": "对照数据库原始PDF",
+        "page": "PDF页码，从1开始",
+        "model": "原创参考写法已与原题核对；无虚构调查或分数承诺",
+        "diagram": "已逐张渲染原始PDF并视觉核对；保留原图"
+      },
+      "image": "case-assets/writing-official-4.png",
+      "sourceData": {
+        "population": "UK, over 4 years old",
+        "surveyPeriod": "October–December 1992",
+        "radioPeakApprox": "27% around 8 a.m.",
+        "tvPeakApprox": "45–47% around 8 p.m."
+      }
+    },
+    {
+      "id": "wc-official-bricks",
+      "skill": "writing1",
+      "questionType": "制作流程图",
+      "title": "制砖：并行成形路径与温度阶段",
+      "source": {
+        "id": "writing-official-sample-tasks-2023",
+        "originalUnit": "IELTS Academic Writing Sample Tasks (2023) · Task 1C",
+        "title": "IELTS Academic Writing Sample Tasks (2023)",
+        "path": "case-assets/writing-official-sample-tasks-2023.pdf",
+        "page": 5,
+        "test": "Task 1C",
+        "kind": "官方样题",
+        "sha256": "f9b5b43fbb3f070741f970ecf2adbfaaef8b2f520eb5e2d350bae39557b1c7af"
+      },
+      "prompt": "The diagram below shows the process by which bricks are manufactured for the building industry.",
+      "practicePrompt": "写Overview及两个主体段（约150–180词）。保留wire cutter / mould的二选一分支、24–48小时干燥、两档窑温和48–72小时冷却；按工序分段。",
+      "modelAnswer": [
+        "Overall, brick manufacture begins with the excavation of clay and ends with the packaging and delivery of the finished product. The material passes through preparation, shaping, drying, heating and cooling, with two alternative methods available for forming individual bricks.",
+        "First, clay is dug from the ground by a mechanical digger and placed on a metal grid above a roller. The material is broken into smaller pieces before sand and water are added. The resulting mixture is then shaped into bricks either by a wire cutter or by being placed in moulds. These are alternative routes at the same stage, rather than consecutive operations that every brick must undergo.",
+        "The newly formed bricks are dried in an oven for 24 to 48 hours. They are then heated in a kiln, initially at a moderate temperature of 200–980°C and subsequently at a higher temperature of 870–1300°C. After this, they spend 48 to 72 hours in a cooling chamber. Finally, the cooled bricks are packaged and loaded for delivery by truck."
+      ],
+      "modelAnswerLabel": "参考写法（编写示范，基于本题；非官方范文，也非唯一答案）",
+      "explanation": [
+        "原图or连接wire cutter和mould，参考写法用either ... or，不能写先切后入模。",
+        "干燥24–48h与冷却48–72h不同；窑炉先200–980°C、后870–1300°C，区间重叠是原图数据，不自行“纠正”。",
+        "被动语态描述材料经历：is dug / are added / are dried；无需凭空添加工人或工厂地点。"
+      ],
+      "intensive": {
+        "structure": [
+          "Overview起终点加主要加工阶段。",
+          "前段写原料准备与成形分支。",
+          "后段写热处理、冷却和配送。"
+        ],
+        "phrases": [
+          "either by a wire cutter or by being placed in moulds：两种方式保持平行。",
+          "initially ... subsequently：区分两档窑温。",
+          "the resulting mixture：回指已经加入沙和水的黏土。"
+        ],
+        "sentences": [
+          "The material is broken into smaller pieces before sand and water are added. → 两个被动结构保留明确先后。",
+          "They are then heated ... initially ... and subsequently ... → 同一heated谓语承接两个温度阶段。"
+        ]
+      },
+      "answerPolicy": "先完成自己的写作，再展开参考写法、数据核对和精读。",
+      "originalTaskInstruction": "Summarise the information by selecting and reporting the main features, and make comparisons where relevant. Write at least 150 words.",
+      "wordCount": 168,
+      "status": "达标",
+      "verified": {
+        "prompt": "对照数据库原始PDF",
+        "page": "PDF页码，从1开始",
+        "model": "原创参考写法已与原题核对；无虚构调查或分数承诺",
+        "diagram": "已逐张渲染原始PDF并视觉核对；保留原图"
+      },
+      "image": "case-assets/writing-official-5.png",
+      "sourceData": {
+        "shaping": [
+          "wire cutter",
+          "mould"
+        ],
+        "dryingHours": [
+          24,
+          48
+        ],
+        "kilnModerateC": [
+          200,
+          980
+        ],
+        "kilnHighC": [
+          870,
+          1300
+        ],
+        "coolingHours": [
+          48,
+          72
+        ]
+      }
+    },
+    {
+      "id": "wc-official-bicycle",
+      "skill": "writing1",
+      "questionType": "表格",
+      "title": "自行车使用率：年龄比较与百分点差",
+      "source": {
+        "id": "writing-official-large-print",
+        "originalUnit": "IELTS Academic Writing — modified large print · Task 1",
+        "title": "IELTS Academic Writing — modified large print",
+        "path": "case-assets/writing-official-large-print.pdf",
+        "page": 4,
+        "test": "Task 1",
+        "kind": "官方样题",
+        "sha256": "63da18c3c3e5d70058552a7f9319b3984b8700eda9bc2ab4e687c898ea4a9651"
+      },
+      "prompt": "The table below gives information about the percentage of the population by age group in one town who rode a bicycle in June 2011.",
+      "practicePrompt": "写Overview及两个比较段（约150–180词），先比较儿童/青少年，再比较成人；指出最低组和60+回升。列出最大性别差距并用percentage points表达。",
+      "modelAnswer": [
+        "Overall, cycling was most common among children under ten and least common in the 40–59 age group. Males had higher participation rates than females in every category, although the difference between the sexes was very small among the youngest children.",
+        "Among those aged 0–9, 51.3% of males and 50.3% of females rode a bicycle, a gap of just one percentage point. Participation was lower among 10–17-year-olds, at 42.2% for males and 24.6% for females. This group therefore had the largest gender difference, amounting to 17.6 percentage points, with the male figure considerably higher than the female one.",
+        "The proportions were smaller in both adult groups below sixty. For people aged 18–39, the rates were 17.1% and 9.7% respectively, falling to 12.3% and 8.0% among 40–59-year-olds. However, the figures rose again in the oldest category: 18.5% of men and 13.2% of women aged sixty or above cycled. Thus, participation did not simply decrease continuously across the age groups."
+      ],
+      "modelAnswerLabel": "参考写法（编写示范，基于本题；非官方范文，也非唯一答案）",
+      "explanation": [
+        "这是June 2011单月横截面：年龄组之间差异不证明同一批人随时间减少骑行。",
+        "10–17岁差距42.2−24.6=17.6个百分点；0–9岁差距1.0个百分点。",
+        "两性最低都是40–59岁，60+均回升；不能写年龄越大比例总是越低。"
+      ],
+      "intensive": {
+        "structure": [
+          "Overview同时覆盖年龄高低与性别关系。",
+          "前段突出高参与儿童及最大差距青少年。",
+          "后段写成人低谷与60+例外。"
+        ],
+        "phrases": [
+          "a gap of just one percentage point：不是one per cent decrease。",
+          "amounting to 17.6 percentage points：补充精确差值。",
+          "across the age groups：年龄间比较，避免错误时间趋势。"
+        ],
+        "sentences": [
+          "For people aged 18–39, the rates were 17.1% and 9.7% respectively ... → 顺序沿用前段male/female。",
+          "However, the figures rose again in the oldest category ... → rose描述相邻年龄组数值变化，最后一句明确并非持续时间变化。"
+        ]
+      },
+      "answerPolicy": "先完成自己的写作，再展开参考写法、数据核对和精读。",
+      "originalTaskInstruction": "Summarise the information by selecting and reporting the main features, and make comparisons where relevant. Write at least 150 words.",
+      "wordCount": 157,
+      "status": "达标",
+      "verified": {
+        "prompt": "对照数据库原始PDF",
+        "page": "PDF页码，从1开始",
+        "model": "原创参考写法已与原题核对；无虚构调查或分数承诺",
+        "diagram": "已逐张渲染原始PDF并视觉核对；保留原图"
+      },
+      "image": "case-assets/writing-bicycle-4.png",
+      "sourceData": {
+        "ageGroups": [
+          "0–9",
+          "10–17",
+          "18–39",
+          "40–59",
+          "60+"
+        ],
+        "male": [
+          51.3,
+          42.2,
+          17.1,
+          12.3,
+          18.5
+        ],
+        "female": [
+          50.3,
+          24.6,
+          9.7,
+          8.0,
+          13.2
+        ],
+        "unit": "percent"
+      }
+    },
+    {
+      "id": "wc-c21-t1-homes",
+      "skill": "writing2",
+      "questionType": "同意程度",
+      "title": "高层住宅是否是城市住房的最佳方案",
+      "source": {
+        "id": "8ee8170c-Cambridge IELTS 21 - Academic",
+        "originalUnit": "Cambridge IELTS 21 Academic · Test 1 · Task 2",
+        "title": "Cambridge IELTS 21 Academic",
+        "path": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf",
+        "page": 31,
+        "test": "Test 1 · Task 2",
+        "kind": "真题",
+        "sha256": "3b01561014db74bbaefd101b40e05f00eaa84008bbdbdbd6632c1d72a1212c68"
+      },
+      "prompt": "The best way to provide enough homes in large cities is to build tall apartment blocks. To what extent do you agree or disagree with this statement?",
+      "practicePrompt": "只写两段主体，约170–210词：先解释高层住宅怎样增加住房，再论证best way的适用边界。明确你赞成到什么程度；不把题目弱化为“高层住宅有没有好处”。",
+      "modelAnswer": [
+        "Tall apartment blocks can make an important contribution where urban land is scarce. By placing many homes on the same site, a city can accommodate more residents without continually expanding into surrounding farmland. A development near an existing railway station may also allow more households to reach jobs without long car journeys. These benefits support the use of high-rise housing in well-connected districts. They are especially relevant when the alternative is low-density construction that provides relatively few homes on valuable central land.",
+        "However, building upwards is not automatically the best response to every housing shortage. If the new flats are unaffordable, an increase in the total housing supply may do little for families who need reasonably priced accommodation. A large tower can also add pressure to schools, water systems and public transport if these services are not expanded. I would therefore favour tall buildings as one part of a wider strategy that also renovates empty properties and provides affordable homes. Their value depends on location, price and supporting infrastructure, rather than height alone."
+      ],
+      "modelAnswerLabel": "参考写法（编写示范，基于本题；非官方范文，也非唯一答案）",
+      "explanation": [
+        "题眼是best way，不只是a useful way。第二段用可负担性与配套条件检验“最佳”的范围。",
+        "第一段链条：同一地块更多住房→少向农地扩张；交通站点例子用may，不伪装统计研究。",
+        "两段最后形成“有条件赞成”：认可高层的贡献，同时不支持它作为所有城市的唯一最佳办法。"
+      ],
+      "intensive": {
+        "structure": [
+          "优势机制—条件化例子—回扣城市土地约束。",
+          "限制条件—影响—明确程度立场。"
+        ],
+        "phrases": [
+          "where urban land is scarce：限定论据适用地点。",
+          "do little for families who ...：解释新增供给为何不必然解决可负担问题。",
+          "one part of a wider strategy：表达有条件赞成。"
+        ],
+        "sentences": [
+          "If the new flats are unaffordable, an increase ... may do little ... → 条件句直接检验题目的“provide enough homes”。",
+          "Their value depends on ... rather than height alone. → Their指tall buildings，结尾仍围绕建筑方案。"
+        ]
+      },
+      "answerPolicy": "先完成自己的写作，再展开参考写法、数据核对和精读。",
+      "originalTaskInstruction": "Give reasons for your answer and include any relevant examples from your own knowledge or experience. Write at least 250 words.",
+      "wordCount": 173,
+      "status": "达标",
+      "verified": {
+        "prompt": "对照数据库原始PDF",
+        "page": "PDF页码，从1开始",
+        "model": "原创参考写法已与原题核对；无虚构调查或分数承诺"
+      },
+      "readingExpressionRefs": [
+        {
+          "readingCaseId": "rd-c21-t3-dart-city",
+          "phrase": "on the periphery"
+        },
+        {
+          "readingCaseId": "rd-c21-t3-dart-system",
+          "phrase": "within a short walk of"
+        }
+      ]
+    },
+    {
+      "id": "wc-c21-t2-entertainment",
+      "skill": "writing2",
+      "questionType": "讨论双方",
+      "title": "线上娱乐与剧院影院的经济文化价值",
+      "source": {
+        "id": "8ee8170c-Cambridge IELTS 21 - Academic",
+        "originalUnit": "Cambridge IELTS 21 Academic · Test 2 · Task 2",
+        "title": "Cambridge IELTS 21 Academic",
+        "path": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf",
+        "page": 53,
+        "test": "Test 2 · Task 2",
+        "kind": "真题",
+        "sha256": "3b01561014db74bbaefd101b40e05f00eaa84008bbdbdbd6632c1d72a1212c68"
+      },
+      "prompt": "Some people say that in the digital age, theatres and cinemas are no longer important as people can watch all the entertainment they want online. Others argue that theatres and cinemas are still important both economically and culturally. Discuss both these views and give your own opinion.",
+      "practicePrompt": "写两段主体，约180–220词：第一段把“线上足够”的理由讲完整，第二段解释剧院影院的经济和文化价值，并明确你的判断。不能只写我喜欢看电影。",
+      "modelAnswer": [
+        "Those who question the importance of theatres and cinemas can point to the convenience of online entertainment. Viewers can choose what to watch and when to watch it, without paying for transport or arranging an evening around a fixed screening time. Online access may be particularly valuable to people living far from major cultural venues or caring for children at home. For these audiences, a subscription can offer a practical alternative to frequent visits. This makes the claim that physical venues are less necessary understandable, especially when the main aim is simply to see a film.",
+        "Nevertheless, I believe these venues retain functions that a personal screen cannot fully reproduce. Economically, a performance supports performers, technicians and other staff, while audiences may also spend money in nearby businesses. Culturally, theatres can stage local stories and create a shared encounter between performers and spectators. Even in a cinema, an audience experiences a film together rather than as separate individuals at home. Online services can therefore widen access without removing the value of physical venues. The two forms can coexist, serving different circumstances and offering different kinds of participation."
+      ],
+      "modelAnswerLabel": "参考写法（编写示范，基于本题；非官方范文，也非唯一答案）",
+      "explanation": [
+        "第一段真正解释第一方观点：选择时间、出行成本、照顾孩子与地域可达性；没有直接贴标签后马上反驳。",
+        "第二段分别回应economically与culturally：岗位/周边消费与本地故事/共同体验。",
+        "立场是仍有价值、可共存；不是讨论互联网是否总体有害。"
+      ],
+      "intensive": {
+        "structure": [
+          "解释线上取代说的合理条件与实际受益者。",
+          "转折后经济、文化两条机制，最后给出共存判断。"
+        ],
+        "phrases": [
+          "a practical alternative to：适合替代某项活动，不等于完全替代所有功能。",
+          "retain functions that ... cannot fully reproduce：区分可替代与不可完全复制部分。",
+          "can coexist：立场收束而非非黑即白。"
+        ],
+        "sentences": [
+          "Online access may be particularly valuable to people living ... or caring ... → living与caring平行修饰people。",
+          "The two forms can coexist, serving ... and offering ... → 两个分词补充共存的理由。"
+        ]
+      },
+      "answerPolicy": "先完成自己的写作，再展开参考写法、数据核对和精读。",
+      "originalTaskInstruction": "Give reasons for your answer and include any relevant examples from your own knowledge or experience. Write at least 250 words.",
+      "wordCount": 187,
+      "status": "达标",
+      "verified": {
+        "prompt": "对照数据库原始PDF",
+        "page": "PDF页码，从1开始",
+        "model": "原创参考写法已与原题核对；无虚构调查或分数承诺"
+      },
+      "readingExpressionRefs": [
+        {
+          "readingCaseId": "rd-c21-davies-2",
+          "phrase": "a vibrant artists' community"
+        },
+        {
+          "readingCaseId": "rd-c21-davies-3",
+          "phrase": "a lasting and meaningful cultural legacy"
+        },
+        {
+          "readingCaseId": "rd-official-miles-2",
+          "phrase": "draw wider audiences"
+        },
+        {
+          "readingCaseId": "rd-c21-ai-1",
+          "phrase": "no shortage of"
+        }
+      ]
+    },
+    {
+      "id": "wc-c21-t3-placement",
+      "skill": "writing2",
+      "questionType": "利弊权衡",
+      "title": "本科海外学习或实习：收益能否超过代价",
+      "source": {
+        "id": "8ee8170c-Cambridge IELTS 21 - Academic",
+        "originalUnit": "Cambridge IELTS 21 Academic · Test 3 · Task 2",
+        "title": "Cambridge IELTS 21 Academic",
+        "path": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf",
+        "page": 74,
+        "test": "Test 3 · Task 2",
+        "kind": "真题",
+        "sha256": "3b01561014db74bbaefd101b40e05f00eaa84008bbdbdbd6632c1d72a1212c68"
+      },
+      "prompt": "All university undergraduate courses should include a period of time spent studying abroad or doing a work placement. Do you think the advantages of this would outweigh the disadvantages?",
+      "practicePrompt": "写两段主体，约170–210词：一段承认费用和安排的代价，另一段讨论学习/就业收益，并按“能否控制、持续多久、影响多大”作权衡。注意abroad OR work placement，不要强制把两者都做。",
+      "modelAnswer": [
+        "A compulsory period away from normal university classes can create real difficulties. Studying abroad may involve travel and accommodation costs, while even a local work placement can reduce the time available for paid employment. Students with caring responsibilities may find these demands particularly difficult. Universities also need enough suitable placements; an experience consisting only of routine administrative work would offer limited educational value. These drawbacks matter because the proposal applies to all undergraduate courses, including students and subjects for which arranging an appropriate experience may be challenging.",
+        "Even so, I consider the potential advantages greater if institutions offer flexible, well-supported options. A relevant placement allows students to apply classroom ideas to actual workplace problems and obtain feedback from experienced colleagues. Overseas study can expose them to different academic approaches and require greater independence. These gains may continue to influence later study and employment, whereas some financial and practical barriers can be reduced through funding and local placement alternatives. The stronger policy is therefore to provide a meaningful choice between suitable forms of experience, with clear learning goals, rather than require every student to travel abroad."
+      ],
+      "modelAnswerLabel": "参考写法（编写示范，基于本题；非官方范文，也非唯一答案）",
+      "explanation": [
+        "题目是abroad or placement，末句明确保留本地实习选项；不能误写所有学生必须出国。",
+        "outweigh要求比较：长期学习收益与可缓解的成本相对照，而不是两边各列三点后不判断。",
+        "承认all courses的实施难题，立场带条件但清楚支持收益更大。"
+      ],
+      "intensive": {
+        "structure": [
+          "负担—更脆弱人群—低质量安排的风险。",
+          "收益机制—长期价值—降低成本的方法—权衡结论。"
+        ],
+        "phrases": [
+          "the proposal applies to all ...：抓住题目范围词。",
+          "may continue to influence ... whereas ...：把持续性作为权衡依据。",
+          "with clear learning goals：限制支持对象，防止无条件夸大。"
+        ],
+        "sentences": [
+          "These drawbacks matter because the proposal applies to all undergraduate courses ... → because不是重复缺点，而是解释“为什么重要”。",
+          "... rather than require every student to travel abroad → 排除的是误读后的强制出国，不是否认原题。"
+        ]
+      },
+      "answerPolicy": "先完成自己的写作，再展开参考写法、数据核对和精读。",
+      "originalTaskInstruction": "Give reasons for your answer and include any relevant examples from your own knowledge or experience. Write at least 250 words.",
+      "wordCount": 185,
+      "status": "达标",
+      "verified": {
+        "prompt": "对照数据库原始PDF",
+        "page": "PDF页码，从1开始",
+        "model": "原创参考写法已与原题核对；无虚构调查或分数承诺"
+      },
+      "readingExpressionRefs": [
+        {
+          "readingCaseId": "rd-official-miles-1",
+          "phrase": "a solid grounding in music theory"
+        }
+      ]
+    },
+    {
+      "id": "wc-c21-t4-primary",
+      "skill": "writing2",
+      "questionType": "双问",
+      "title": "小学正式学习与课堂游戏：两个问题分别回应",
+      "source": {
+        "id": "8ee8170c-Cambridge IELTS 21 - Academic",
+        "originalUnit": "Cambridge IELTS 21 Academic · Test 4 · Task 2",
+        "title": "Cambridge IELTS 21 Academic",
+        "path": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf",
+        "page": 96,
+        "test": "Test 4 · Task 2",
+        "kind": "真题",
+        "sha256": "3b01561014db74bbaefd101b40e05f00eaa84008bbdbdbd6632c1d72a1212c68"
+      },
+      "prompt": "Some people argue that primary schools focus too much on formal learning. To what extent do you agree with this opinion? How important do you think it is for children to play as well as learn in the primary school classroom?",
+      "practicePrompt": "写两个主体段，约180–220词：第一段回答是否“过分”重视formal learning，第二段回答课堂游戏有多重要及其教育机制。游戏不是课外体育的同义词。",
+      "modelAnswer": [
+        "I agree that formal learning can receive too much attention when a primary timetable leaves little space for exploration. Direct instruction is necessary for teaching children basic reading and arithmetic, and structured practice helps them become accurate. However, long sequences of worksheets and tests can make pupils focus on producing the expected answer rather than understanding an idea. For example, a child may memorise a calculation procedure but struggle to explain why it works. The problem is therefore not formal teaching itself, but an imbalance that treats written performance as the only useful evidence of learning.",
+        "Play has an important complementary role inside the classroom. In a pretend shop, children can practise counting, explain prices and take turns serving one another. The activity joins mathematical language with social interaction, giving a purpose to skills that might otherwise appear abstract. Building a model together can similarly require planning, discussion and revision after something fails. Such activities still need thoughtful guidance from the teacher, so that enjoyment supports a clear learning aim. I would consequently regard purposeful play as a regular part of primary education, rather than a reward offered only after all the serious work is finished."
+      ],
+      "modelAnswerLabel": "参考写法（编写示范，基于本题；非官方范文，也非唯一答案）",
+      "explanation": [
+        "第一段明确同意的范围：当formal learning挤压exploration时过多，而非主张取消识字算术。",
+        "第二段给出课堂内的假想商店与合作模型，回应primary classroom，不跑题到放学后娱乐。",
+        "play as well as learn提示两者结合；不是“玩”和“学”完全对立。"
+      ],
+      "intensive": {
+        "structure": [
+          "先回答程度，再解释不平衡如何损害理解。",
+          "另段回答重要性，以具体课堂活动展示机制。"
+        ],
+        "phrases": [
+          "an imbalance that ...：把批评集中到比例失衡。",
+          "an important complementary role：补充作用，不是否定正式教学。",
+          "purposeful play：有学习目的的课堂游戏。"
+        ],
+        "sentences": [
+          "The problem is therefore not formal teaching itself, but an imbalance ... → 保持部分同意立场一致。",
+          "... so that enjoyment supports a clear learning aim → 目的从句解释教师指导的作用。"
+        ]
+      },
+      "answerPolicy": "先完成自己的写作，再展开参考写法、数据核对和精读。",
+      "originalTaskInstruction": "Give reasons for your answer and include any relevant examples from your own knowledge or experience. Write at least 250 words.",
+      "wordCount": 196,
+      "status": "达标",
+      "verified": {
+        "prompt": "对照数据库原始PDF",
+        "page": "PDF页码，从1开始",
+        "model": "原创参考写法已与原题核对；无虚构调查或分数承诺"
+      },
+      "readingExpressionRefs": [
+        {
+          "readingCaseId": "rd-c21-t4-multilingual-background",
+          "phrase": "differs from the language used at home"
+        },
+        {
+          "readingCaseId": "rd-c21-t4-multilingual-findings",
+          "phrase": "little room for independent learning"
+        }
+      ]
+    },
+    {
+      "id": "wc-official-wealth",
+      "skill": "writing2",
+      "questionType": "同意程度",
+      "title": "家庭财富与成年问题应对：避免绝对化",
+      "source": {
+        "id": "writing-official-sample-tasks-2023",
+        "originalUnit": "IELTS Academic Writing Sample Tasks (2023) · Task 2A",
+        "title": "IELTS Academic Writing Sample Tasks (2023)",
+        "path": "case-assets/writing-official-sample-tasks-2023.pdf",
+        "page": 6,
+        "test": "Task 2A",
+        "kind": "官方样题",
+        "sha256": "f9b5b43fbb3f070741f970ecf2adbfaaef8b2f520eb5e2d350bae39557b1c7af"
+      },
+      "prompt": "Children who are brought up in families that do not have large amounts of money are better prepared to deal with the problems of adult life than children brought up by wealthy parents. To what extent do you agree or disagree with this opinion?",
+      "practicePrompt": "写两段主体，约170–210词：解释有限预算可能培养什么能力，再指出财富不自动决定教养方式。比较双方，不把贫穷浪漫化为必然优势。",
+      "modelAnswer": [
+        "Children in families with limited money may gain useful experience of making choices under constraints. If a household cannot afford every desired purchase, a child may have to save gradually, distinguish needs from wants and accept that one decision rules out another. Shared responsibilities can also encourage practical independence. These experiences resemble some of the budgeting and prioritising required in adult life. They provide a plausible reason why growing up without abundant resources could help a person cope with certain financial problems later on.",
+        "However, I do not think family wealth alone determines how well someone is prepared. Persistent financial insecurity can create stress and restrict access to education or supportive activities, leaving children with fewer resources for future challenges. Conversely, wealthy parents can require their children to manage an allowance, contribute to household tasks and take responsibility for mistakes. Such practices may develop the same judgment and resilience without serious deprivation. I therefore reject the general comparison in the question: preparation depends more on the responsibilities, guidance and opportunities children receive than on whether their parents have a large income."
+      ],
+      "modelAnswerLabel": "参考写法（编写示范，基于本题；非官方范文，也非唯一答案）",
+      "explanation": [
+        "没有把may写成all poor children：有限预算可能培养技能，但严重匮乏也会限制机会。",
+        "对比对象始终是两类家庭中的孩子及成年应对能力，不转成贫富差距政策文章。",
+        "第二段以同样责任训练可存在于富裕家庭反驳“财富决定论”，给出明确不同意。"
+      ],
+      "intensive": {
+        "structure": [
+          "承认一方可能的培养机制。",
+          "反例与变量区分，回应原题总体比较。"
+        ],
+        "phrases": [
+          "distinguish needs from wants：与预算管理直接相关。",
+          "family wealth alone determines：抓住单一变量推断的问题。",
+          "responsibilities, guidance and opportunities：结尾归纳前文机制。"
+        ],
+        "sentences": [
+          "If a household cannot afford every desired purchase, ... → 假设场景，不声称调查证明。",
+          "Such practices may develop the same judgment ... → Such practices回指前一句三项养育安排。"
+        ]
+      },
+      "answerPolicy": "先完成自己的写作，再展开参考写法、数据核对和精读。",
+      "originalTaskInstruction": "Give reasons for your answer and include any relevant examples from your own knowledge or experience. Write at least 250 words.",
+      "wordCount": 181,
+      "status": "达标",
+      "verified": {
+        "prompt": "对照数据库原始PDF",
+        "page": "PDF页码，从1开始",
+        "model": "原创参考写法已与原题核对；无虚构调查或分数承诺"
+      },
+      "readingExpressionRefs": [
+        {
+          "readingCaseId": "rd-c21-t4-multilingual-findings",
+          "phrase": "essential for day-to-day survival"
+        }
+      ]
+    },
+    {
+      "id": "wc-official-tourism",
+      "skill": "writing2",
+      "questionType": "利弊权衡",
+      "title": "国际旅游：经济收益与社区成本如何比较",
+      "source": {
+        "id": "writing-official-sample-tasks-2023",
+        "originalUnit": "IELTS Academic Writing Sample Tasks (2023) · Task 2B",
+        "title": "IELTS Academic Writing Sample Tasks (2023)",
+        "path": "case-assets/writing-official-sample-tasks-2023.pdf",
+        "page": 7,
+        "test": "Task 2B",
+        "kind": "官方样题",
+        "sha256": "f9b5b43fbb3f070741f970ecf2adbfaaef8b2f520eb5e2d350bae39557b1c7af"
+      },
+      "prompt": "International tourism has brought enormous benefit to many places. At the same time, there is concern about its impact on local inhabitants and the environment. Do the disadvantages of international tourism outweigh the advantages?",
+      "practicePrompt": "写两个主体段，约180–220词；同时覆盖local inhabitants与environment。结尾必须比较影响而非只说“都有优缺点”；不杜撰游客比例或经济统计。",
+      "modelAnswer": [
+        "International tourism can provide substantial benefits when visitors spend money in local businesses. Hotels, restaurants and transport operators need staff, and smaller enterprises can earn income from guiding, food or crafts. This can be especially valuable in places with few alternative sources of employment. Visitor interest may also give a community an incentive to maintain historic buildings and cultural activities. These benefits are strongest when local residents own businesses or obtain secure jobs, rather than when most revenue leaves the destination through external companies.",
+        "The costs can nevertheless outweigh those gains where visitor numbers exceed a place’s capacity. Housing converted into short-term accommodation may become less available to residents, while crowded streets and heavy demand for water can disrupt everyday life. Natural sites can also be damaged if waste and access are poorly managed. Unlike an extra sale in a restaurant, the loss of affordable housing or a fragile habitat may be difficult to reverse. I therefore judge the balance to depend on how tourism is controlled: unmanaged expansion can produce greater harm, whereas limits on pressure and a fair local share of income can preserve its advantages."
+      ],
+      "modelAnswerLabel": "参考写法（编写示范，基于本题；非官方范文，也非唯一答案）",
+      "explanation": [
+        "收益讲清谁拿到收入；成本区分居民住房/公共资源与自然环境。",
+        "比较标准是影响是否可逆以及承载能力，而非无依据地宣布旅游总是坏。",
+        "结尾提供明确的条件性判断：unmanaged expansion时坏处可能更大；管理有效时能保留优势。"
+      ],
+      "intensive": {
+        "structure": [
+          "收入机制—就业—文化维护—收益归属条件。",
+          "居民与环境成本—可逆性比较—条件性权衡结论。"
+        ],
+        "phrases": [
+          "exceed a place’s capacity：把过量客流与损害联系。",
+          "a fair local share of income：对应第一段收益归属。",
+          "difficult to reverse：权衡的重要性而非数点。"
+        ],
+        "sentences": [
+          "Housing converted into short-term accommodation ... → converted into是后置修饰housing，不是一个新的谓语。",
+          "Unlike an extra sale ..., the loss ... may be difficult to reverse. → 比较收益与损失的不同性质。"
+        ]
+      },
+      "answerPolicy": "先完成自己的写作，再展开参考写法、数据核对和精读。",
+      "originalTaskInstruction": "Give reasons for your answer and include any relevant examples from your own knowledge or experience. Write at least 250 words.",
+      "wordCount": 188,
+      "status": "达标",
+      "verified": {
+        "prompt": "对照数据库原始PDF",
+        "page": "PDF页码，从1开始",
+        "model": "原创参考写法已与原题核对；无虚构调查或分数承诺"
+      },
+      "readingExpressionRefs": [
+        {
+          "readingCaseId": "rd-c21-silence-1",
+          "phrase": "noise from aircraft"
+        },
+        {
+          "readingCaseId": "rd-c21-mapungubwe-2",
+          "phrase": "placed too much stress on local resources"
+        }
+      ]
+    },
+    {
+      "id": "wc-official-science",
+      "skill": "writing2",
+      "questionType": "同意程度",
+      "title": "科研由政府控制：公共利益与研究多样性",
+      "source": {
+        "id": "writing-official-large-print",
+        "originalUnit": "IELTS Academic Writing — modified large print · Task 2",
+        "title": "IELTS Academic Writing — modified large print",
+        "path": "case-assets/writing-official-large-print.pdf",
+        "page": 10,
+        "test": "Task 2",
+        "kind": "官方样题",
+        "sha256": "63da18c3c3e5d70058552a7f9319b3984b8700eda9bc2ab4e687c898ea4a9651"
+      },
+      "prompt": "Scientific research should be carried out and controlled by governments, rather than by private companies. To what extent do you agree or disagree?",
+      "practicePrompt": "写两个主体段，约170–210词。区分carried out与controlled：政府监督不必等于政府独占全部执行；针对题中的排他性rather than表态。",
+      "modelAnswer": [
+        "Government involvement in research is essential where the public benefit is large but the prospect of commercial profit is uncertain. Long-term environmental monitoring, for example, may be socially valuable even when no product can immediately be sold. Public funding can support this work and make its findings available for wider use. Governments also have a responsibility to establish ethical rules and require appropriate safety checks. Leaving every decision to firms seeking a financial return could mean that important questions receive too little attention.",
+        "However, these arguments do not justify excluding private companies from carrying out research. A firm developing a new material or production method may combine specialist knowledge with the ability to turn a discovery into a usable product. If only government bodies conducted research, potentially useful lines of investigation could be lost. I therefore support public oversight and substantial government funding, but not an exclusive government monopoly. Clear standards, transparent reporting and independent review can apply to both public and private laboratories. This arrangement recognises the risks of commercial interests while retaining the different resources and expertise that companies can contribute."
+      ],
+      "modelAnswerLabel": "参考写法（编写示范，基于本题；非官方范文，也非唯一答案）",
+      "explanation": [
+        "第一段支持公共资助与伦理规则；第二段明确反对排除私企。与原题控制/执行两个动作分别对应。",
+        "环境监测和新材料为合理例子，没有伪造研究结果或真实机构案例。",
+        "立场并非第一段同意、第二段反悔：始终赞成监管，反对政府独占。"
+      ],
+      "intensive": {
+        "structure": [
+          "公共利益及市场激励不足—政府职责。",
+          "私人研发贡献—反对独占—说明公共监督如何与多元执行共存。"
+        ],
+        "phrases": [
+          "public oversight：监督，不等于所有研究由政府亲自完成。",
+          "an exclusive government monopoly：准确回应rather than的排他意味。",
+          "apply to both public and private laboratories：保持规则一致。"
+        ],
+        "sentences": [
+          "These arguments do not justify excluding private companies ... → These arguments回指公共利益和伦理需求，解释它们不足以推出独占。",
+          "... while retaining ... → 同时实现监督和利用不同资源。"
+        ]
+      },
+      "answerPolicy": "先完成自己的写作，再展开参考写法、数据核对和精读。",
+      "originalTaskInstruction": "Give reasons for your answer and include any relevant examples from your own knowledge or experience. Write at least 250 words.",
+      "wordCount": 183,
+      "status": "达标",
+      "verified": {
+        "prompt": "对照数据库原始PDF",
+        "page": "PDF页码，从1开始",
+        "model": "原创参考写法已与原题核对；无虚构调查或分数承诺"
+      },
+      "readingExpressionRefs": [
+        {
+          "readingCaseId": "rd-c21-dreams-2",
+          "phrase": "shed light on"
+        },
+        {
+          "readingCaseId": "rd-c21-ai-1",
+          "phrase": "setting unrealistic expectations about"
+        },
+        {
+          "readingCaseId": "rd-c21-ai-2",
+          "phrase": "appropriate data infrastructure"
+        },
+        {
+          "readingCaseId": "rd-c21-ai-2",
+          "phrase": "reap the benefits of"
+        },
+        {
+          "readingCaseId": "rd-c21-ai-3",
+          "phrase": "minimise the potential harms"
+        },
+        {
+          "readingCaseId": "rd-c21-ai-3",
+          "phrase": "be aware of the limitations of"
+        }
+      ]
+    },
+    {
+      "id": "wc-official-transport",
+      "skill": "writing2",
+      "questionType": "同意程度",
+      "title": "鼓励替代交通与国际限车规定",
+      "source": {
+        "id": "writing-official-transport",
+        "originalUnit": "Cambridge / IELTS Academic Writing sample task · Task 2A",
+        "title": "Cambridge / IELTS Academic Writing sample task",
+        "path": "case-assets/writing-official-transport.pdf",
+        "page": 1,
+        "test": "Task 2A",
+        "kind": "官方样题",
+        "sha256": "517ed812097338f32583a3ebe16d447cf9a85ea90409f4469ef2a1dcb1618f18"
+      },
+      "prompt": "The first car appeared on British roads in 1888. By the year 2000 there may be as many as 29 million vehicles on British roads. Alternative forms of transport should be encouraged and international laws introduced to control car ownership and use. To what extent do you agree or disagree?",
+      "practicePrompt": "写两个主体段，约180–220词：分别回应encourage alternatives和international laws。题干历史预测按原文保留，不当作今天的数据；不只讨论交通污染。",
+      "modelAnswer": [
+        "I strongly support making alternatives to private cars more attractive. A dependable bus or rail service can give commuters a practical reason to leave their vehicles at home, particularly when routes connect residential areas with major workplaces. Safe walking and cycling routes can serve shorter journeys. Encouragement should therefore involve reliable infrastructure and convenient connections, not merely publicity asking people to change their behaviour. If the available alternatives are slow or unsafe, restrictions on driving may impose a burden without providing people with a workable way to travel.",
+        "I am less convinced that car ownership should be governed by uniform international laws. A dense city with frequent public transport and a remote community with limited services have very different needs. A single ownership limit could therefore affect people unfairly while failing to target the busiest roads. International cooperation on vehicle emissions may be useful, but local authorities are better placed to decide when and where to restrict car use. Measures such as parking controls or charges in congested areas can be linked to local conditions. I thus agree with encouraging alternatives, while supporting a more locally adaptable approach to regulation."
+      ],
+      "modelAnswerLabel": "参考写法（编写示范，基于本题；非官方范文，也非唯一答案）",
+      "explanation": [
+        "题目两项主张必须分开回答；只谈替代交通会漏international laws。",
+        "历史题干中2000年是预测语境；参考段落不把29 million冒充2026年统计。",
+        "第二段不是完全反对国际合作，而是质疑统一ownership limits，保持部分同意清晰。"
+      ],
+      "intensive": {
+        "structure": [
+          "替代交通如何改变行为—必要条件。",
+          "国际统一规定的适用差异—地方调节—逐项表态。"
+        ],
+        "phrases": [
+          "a workable way to travel：可执行的出行选择。",
+          "uniform international laws：统一规则，准确对应题目。",
+          "linked to local conditions：给出监管层级的理由。"
+        ],
+        "sentences": [
+          "If the available alternatives are slow or unsafe, ... → 条件解释为何“鼓励”需要配套。",
+          "I thus agree with ..., while supporting ... → 用同一句明确两项主张的不同支持程度。"
+        ]
+      },
+      "answerPolicy": "先完成自己的写作，再展开参考写法、数据核对和精读。",
+      "originalTaskInstruction": "Give reasons for your answer and include any relevant examples from your own knowledge or experience. Write at least 250 words.",
+      "wordCount": 190,
+      "status": "达标",
+      "verified": {
+        "prompt": "对照数据库原始PDF",
+        "page": "PDF页码，从1开始",
+        "model": "原创参考写法已与原题核对；无虚构调查或分数承诺"
+      },
+      "readingExpressionRefs": [
+        {
+          "readingCaseId": "rd-c21-silence-1",
+          "phrase": "reducing noise from roads"
+        },
+        {
+          "readingCaseId": "rd-c21-t3-dart-city",
+          "phrase": "a future controlled by the private car"
+        },
+        {
+          "readingCaseId": "rd-c21-t3-dart-system",
+          "phrase": "accessible to people using wheelchairs"
+        },
+        {
+          "readingCaseId": "rd-c21-t3-dart-system",
+          "phrase": "within a short walk of"
+        }
+      ]
+    },
+    {
+      "id": "wc-official-eldercare",
+      "skill": "writing2",
+      "questionType": "观点选择",
+      "title": "老年照护费用：政府与家庭如何分担",
+      "source": {
+        "id": "writing-official-elder-care",
+        "originalUnit": "Cambridge / IELTS General Training Writing sample task · Task 2",
+        "title": "Cambridge / IELTS General Training Writing sample task",
+        "path": "case-assets/writing-official-elder-care.pdf",
+        "page": 1,
+        "test": "Task 2",
+        "kind": "官方样题",
+        "sha256": "89aaee37c110e038fa1676636d33127d4d09f4ee3f47573bf086e3030d5fec07"
+      },
+      "prompt": "In Britain, when someone gets old they often go to live in a home with other old people where there are nurses to look after them. Sometimes the government has to pay for this care. Who do you think should pay for this care, the government or the family?",
+      "practicePrompt": "写两个主体段，约170–210词。提出明确分担原则，再解释家庭在何种条件下出资；原题是GT官方Task2，论证训练可迁移到Academic，但不得伪标Academic真题。",
+      "modelAnswer": [
+        "The government should guarantee essential care for older people who cannot afford it. The need for nursing support may arise independently of how carefully a person has saved, and the cost can exceed an ordinary household’s resources. If access depends entirely on family payments, an older person with poor relatives or no close family could be left without adequate help. Public funding can establish a minimum standard of care and spread this financial risk across society. This is a stronger basis for essential support than making each family bear an unpredictable burden alone.",
+        "Families can reasonably contribute when they have sufficient resources, but the contribution should depend on their means. Requiring the same payment from a low-income household and a wealthy one would be unfair and might damage the care of other dependants. A means-tested arrangement could protect essential living costs while asking those able to afford additional support to share the expense. Families may also choose to pay for optional facilities beyond the publicly funded minimum. My view is therefore that the state should secure access to necessary care, with family contributions supplementing that guarantee rather than determining whether care is available at all."
+      ],
+      "modelAnswerLabel": "参考写法（编写示范，基于本题；非官方范文，也非唯一答案）",
+      "explanation": [
+        "原题问谁付钱，答案用政府保障底线、家庭按能力补充的可操作原则回应。",
+        "没有将“照顾亲人是美德”当成费用分担的全部论据；讨论的是资源、风险和公平。",
+        "明确来源为GT官方样题；并非声称这是Academic考试题。"
+      ],
+      "intensive": {
+        "structure": [
+          "公共保障理由：风险不可预测、家庭资源不均。",
+          "按支付能力限定家庭责任，最后重新给出明确分担立场。"
+        ],
+        "phrases": [
+          "depend on their means：means指经济能力。",
+          "a minimum standard of care：基本保障而非无限开支。",
+          "supplementing that guarantee：补充而非取代公共保障。"
+        ],
+        "sentences": [
+          "If access depends entirely on family payments, ... → 把公平风险与支付规则直接相连。",
+          "... rather than determining whether care is available at all → 结尾强调家庭收入不应决定基本照护资格。"
+        ]
+      },
+      "answerPolicy": "先完成自己的写作，再展开参考写法、数据核对和精读。",
+      "originalTaskInstruction": "Give reasons for your answer and include any relevant examples from your own knowledge or experience. Write at least 250 words.",
+      "wordCount": 195,
+      "status": "达标",
+      "verified": {
+        "prompt": "对照数据库原始PDF",
+        "page": "PDF页码，从1开始",
+        "model": "原创参考写法已与原题核对；无虚构调查或分数承诺"
+      }
+    },
+    {
+      "id": "wc-bc-graduates",
+      "skill": "writing2",
+      "questionType": "原因与措施",
+      "title": "高学历毕业生失业：原因和措施一一对应",
+      "source": {
+        "id": "9464a2d7-5bfdf909-writing_task_2_developing_paragraphs",
+        "originalUnit": "British Council — Writing Task 2: Developing paragraphs · Worksheet 3",
+        "title": "British Council — Writing Task 2: Developing paragraphs",
+        "path": "原始参考/9464a2d7-5bfdf909-writing_task_2_developing_paragraphs.pdf",
+        "page": 10,
+        "test": "Worksheet 3",
+        "kind": "官方教辅",
+        "sha256": "27e90c086727e88f7b06035e7faebfae91ff52aea7a2f46bf11bee36f50e63e4"
+      },
+      "prompt": "In many countries today there are many highly qualified graduates without employment. What factors may have caused this situation and what, in your opinion, can/should be done about it?",
+      "practicePrompt": "写两个主体段，约180–220词：第一段构造两个具体原因，第二段让措施分别对应。原题来自官方IELTS教学材料，保持考试任务，不降低难度；不照抄教辅的示范立场。",
+      "modelAnswer": [
+        "One reason qualified graduates may struggle to find employment is a mismatch between their education and the requirements of available jobs. A degree can provide substantial theoretical knowledge without giving students enough experience of applying it in a workplace. Employers may consequently hesitate to recruit applicants who need extensive practical training. A second difficulty arises when many students enter the same popular fields while local vacancies are concentrated elsewhere. In that situation, even capable candidates can compete for a limited number of positions, and the possession of a qualification alone does not create demand for their skills.",
+        "Universities and employers should address the first problem through relevant placements and jointly designed practical projects. These would allow students to demonstrate their abilities and help firms assess potential recruits before offering permanent work. To reduce the second mismatch, students need clearer information about employment patterns and opportunities beyond the most familiar occupations. Careers services could support applications across related industries, while flexible retraining programmes could help graduates acquire additional skills. These measures cannot guarantee a job for every individual, but they respond directly to the gaps in experience and information rather than simply encouraging everyone to obtain another degree."
+      ],
+      "modelAnswerLabel": "参考写法（编写示范，基于本题；非官方范文，也非唯一答案）",
+      "explanation": [
+        "真实题干来自BC教辅第10页；参考论证是重新编写并标明，不冒充官方范文。",
+        "原因1缺应用经验→实习/实际项目；原因2热门专业与空缺错配→就业信息/跨行业申请/补充培训。",
+        "最后承认措施边界，避免“政府增加工作岗位”这种无机制口号。"
+      ],
+      "intensive": {
+        "structure": [
+          "两个原因分别说明为什么学历不自动转化为就业。",
+          "依次给出对应措施、作用机制和可实现边界。"
+        ],
+        "phrases": [
+          "a mismatch between ... and ...：明确错配双方。",
+          "demonstrate their abilities：解释实习为何帮助招聘。",
+          "respond directly to the gaps ...：回扣原因而不是另起政策话题。"
+        ],
+        "sentences": [
+          "In that situation, even capable candidates can compete for a limited number of positions ... → even强调个人能力不足不是唯一原因。",
+          "These measures cannot guarantee ... but they respond ... → 承认边界仍支持措施相关性。"
+        ]
+      },
+      "answerPolicy": "先完成自己的写作，再展开参考写法、数据核对和精读。",
+      "originalTaskInstruction": "Give reasons for your answer and include any relevant examples from your own knowledge or experience. Write at least 250 words.",
+      "wordCount": 197,
+      "status": "达标",
+      "verified": {
+        "prompt": "对照数据库原始PDF",
+        "page": "PDF页码，从1开始",
+        "model": "原创参考写法已与原题核对；无虚构调查或分数承诺"
+      }
+    },
+    {
+      "id": "wc-bc-overfishing",
+      "skill": "writing2",
+      "questionType": "原因与措施",
+      "title": "过度捕捞：从激励与监管写到对策",
+      "source": {
+        "id": "609824ad-writing_task_2_problems_and_solutions_",
+        "originalUnit": "British Council — Writing Task 2: Problems and solutions · Worksheet 1",
+        "title": "British Council — Writing Task 2: Problems and solutions",
+        "path": "扩展资料/609824ad-writing_task_2_problems_and_solutions_.pdf",
+        "page": 7,
+        "test": "Worksheet 1",
+        "kind": "官方教辅",
+        "sha256": "26b2516d21ab293691d1f22d606830fddb71f3e80f0e5a060b9b6d7552cd0207"
+      },
+      "prompt": "Overfishing of the world’s oceans threatens many species with extinction and is putting the livelihood of millions of people around the world at risk. What are the causes of this problem and what can be done to prevent it from happening?",
+      "practicePrompt": "写两个主体段，约180–220词。第一段写捕捞能力与逐利/监管，第二段分别提出限制和执行机制；同时照顾生态与依靠渔业的社区，不编造研究数字。",
+      "modelAnswer": [
+        "Overfishing can result from the combination of powerful fishing methods and incentives to maximise the immediate catch. Large vessels and efficient equipment allow operators to remove substantial quantities of fish, while each business may fear losing income if competitors continue fishing. Where catch limits are weak or poorly enforced, individual firms have little reason to leave fish in the sea for future seasons. The problem is intensified when the same stocks move across national boundaries, because restrictions in one area may be undermined by heavy fishing elsewhere.",
+        "Effective action therefore requires both enforceable limits and cooperation between the authorities responsible for shared waters. Catch quotas and temporary closures can reduce pressure on vulnerable stocks, but they need monitoring and credible penalties; a rule that is routinely ignored changes little. Governments should also support fishing communities during restrictions, for example through assistance in moving towards less damaging practices or alternative sources of income. Without that support, measures designed to protect future livelihoods may face resistance from people struggling to survive now. The aim should be to make sustainable fishing a practical long-term choice, rather than simply announce a ban."
+      ],
+      "modelAnswerLabel": "参考写法（编写示范，基于本题；非官方范文，也非唯一答案）",
+      "explanation": [
+        "原因段没有堆抽象名词：设备提高捕捞能力，竞争激励促使当下多捕，跨界鱼群削弱单方限制。",
+        "措施段逐项承接：限额/休渔对应压力，监测/处罚对应执行，跨区域协作对应跨界问题。",
+        "livelihood题干范围被保留：过渡支持说明保护鱼群与渔民短期收入怎样协调。"
+      ],
+      "intensive": {
+        "structure": [
+          "能力—激励—执行薄弱—跨界扩大。",
+          "限制—执行—协作—社区过渡支持。"
+        ],
+        "phrases": [
+          "credible penalties：能落实的惩罚，避免只有法规名称。",
+          "shared waters：衔接跨界鱼群。",
+          "a practical long-term choice：让结论落在可执行性。"
+        ],
+        "sentences": [
+          "... because restrictions in one area may be undermined by heavy fishing elsewhere → because解释国际协调的必要。",
+          "Without that support, ... may face resistance ... → 解释社区支持为何不是无关福利。"
+        ]
+      },
+      "answerPolicy": "先完成自己的写作，再展开参考写法、数据核对和精读。",
+      "originalTaskInstruction": "Give reasons for your answer and include any relevant examples from your own knowledge or experience. Write at least 250 words.",
+      "wordCount": 188,
+      "status": "达标",
+      "verified": {
+        "prompt": "对照数据库原始PDF",
+        "page": "PDF页码，从1开始",
+        "model": "原创参考写法已与原题核对；无虚构调查或分数承诺"
+      },
+      "readingExpressionRefs": [
+        {
+          "readingCaseId": "rd-c21-sugar-1",
+          "phrase": "threatening the livelihood of"
+        },
+        {
+          "readingCaseId": "rd-c21-t3-saiga-adaptation",
+          "phrase": "on an industrial scale"
+        },
+        {
+          "readingCaseId": "rd-c21-t3-saiga-adaptation",
+          "phrase": "relieve the pressure on"
+        },
+        {
+          "readingCaseId": "rd-c21-t3-saiga-threats",
+          "phrase": "working in partnership with"
+        },
+        {
+          "readingCaseId": "rd-c21-t3-saiga-threats",
+          "phrase": "protect and restore"
+        }
+      ]
+    },
+    {
+      "id": "wc-bc-childhealth",
+      "skill": "writing2",
+      "questionType": "原因与措施",
+      "title": "儿童肥胖：原因—措施对应而非空泛建议",
+      "source": {
+        "id": "609824ad-writing_task_2_problems_and_solutions_",
+        "originalUnit": "British Council — Writing Task 2: Problems and solutions · Worksheet 5",
+        "title": "British Council — Writing Task 2: Problems and solutions",
+        "path": "扩展资料/609824ad-writing_task_2_problems_and_solutions_.pdf",
+        "page": 12,
+        "test": "Worksheet 5",
+        "kind": "官方教辅",
+        "sha256": "26b2516d21ab293691d1f22d606830fddb71f3e80f0e5a060b9b6d7552cd0207"
+      },
+      "prompt": "A rise in childhood obesity is a real threat to health with an increasing number of children now classified as overweight. What are the causes of the problem and what measures can be taken to solve them?",
+      "practicePrompt": "写两个主体段，约180–220词：解释饮食环境与活动机会两个原因，再分别匹配学校/社区措施。这里练考试论证，不作个人医疗建议，也不写没有来源的研究数字。",
+      "modelAnswer": [
+        "One contributing factor is that energy-dense convenience foods can be easier to obtain than balanced meals in children’s daily surroundings. Busy households may rely on ready-made options, and frequent promotion of snacks can make these products particularly appealing. At the same time, some children have limited opportunities to be physically active. Long periods spent sitting at school or using screens may be combined with a lack of safe places to play nearby. These circumstances can reinforce one another: an environment that encourages frequent snacking while making activity inconvenient creates persistent difficulties for healthy routines.",
+        "Responses should make healthier routines easier to maintain, rather than rely only on telling children to show more self-control. Schools can provide balanced meals and practical food education, while clear information for families can help them compare everyday choices. The lack of activity opportunities also needs a direct response. Safe routes to school, accessible play areas and regular opportunities for movement during the school day can reduce barriers to being active. Parents, schools and local authorities each influence part of this environment, so coordinated changes are more likely to be useful than an isolated awareness campaign that leaves the underlying conditions unchanged."
+      ],
+      "modelAnswerLabel": "参考写法（编写示范，基于本题；非官方范文，也非唯一答案）",
+      "explanation": [
+        "原因1食品获取/营销环境→学校均衡供餐和实用信息；原因2活动机会不足→安全路线、场地、在校活动。",
+        "不用“kids are lazy”作为单一原因；解释环境如何影响日常选择，避免道德评判。",
+        "参考段落是任务论证示范，未用虚构数字、未经核验研究或诊疗建议增加权威感。"
+      ],
+      "intensive": {
+        "structure": [
+          "饮食与活动环境两个原因，最后交代相互强化。",
+          "按同样次序匹配措施，并解释为何宣传单独不够。"
+        ],
+        "phrases": [
+          "contributing factor：因素之一，避免假装唯一原因。",
+          "reduce barriers to being active：措施如何起效。",
+          "underlying conditions：回指便利食品与活动机会环境。"
+        ],
+        "sentences": [
+          "These circumstances can reinforce one another ... → 指代上文两类环境而非增加新原因。",
+          "... rather than rely only on telling children ... → 论证措施应改变条件，不只发口号。"
+        ]
+      },
+      "answerPolicy": "先完成自己的写作，再展开参考写法、数据核对和精读。",
+      "originalTaskInstruction": "Give reasons for your answer and include any relevant examples from your own knowledge or experience. Write at least 250 words.",
+      "wordCount": 196,
+      "status": "达标",
+      "verified": {
+        "prompt": "对照数据库原始PDF",
+        "page": "PDF页码，从1开始",
+        "model": "原创参考写法已与原题核对；无虚构调查或分数承诺"
+      },
+      "readingExpressionRefs": [
+        {
+          "readingCaseId": "rd-c21-sugar-3",
+          "phrase": "attempts to reduce consumption"
+        },
+        {
+          "readingCaseId": "rd-c21-sugar-3",
+          "phrase": "a large number of processed foods"
+        },
+        {
+          "readingCaseId": "rd-gap-academic-short-answer-health",
+          "phrase": "the social and environmental conditions"
+        },
+        {
+          "readingCaseId": "rd-gap-academic-short-answer-health",
+          "phrase": "maintain healthy behaviours and lifestyles"
+        }
+      ]
+    }
+  ]
+}

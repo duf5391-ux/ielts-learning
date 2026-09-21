@@ -1,0 +1,66 @@
+{
+  "requested": "sentence-learning",
+  "from": [
+    "页面链接"
+  ],
+  "actual": "#sentence-learning",
+  "checkedAt": "2026-09-21T12:54:11.628Z",
+  "title": "学习记录与备份 · IELTS",
+  "label": "学习记录与备份",
+  "panel": "records",
+  "contentRoot": "sentence-learning",
+  "headings": [
+    {
+      "tag": "H2",
+      "text": "我的句子本",
+      "visible": true
+    }
+  ],
+  "controls": [
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "翻译一句话",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "sentence-search",
+      "type": "search",
+      "text": "",
+      "label": "搜索句子",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "sentence-store",
+      "type": "textarea",
+      "text": "",
+      "label": "",
+      "href": null,
+      "save": "sentence-collection-v1",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    }
+  ],
+  "visibleText": "SENTENCE NOTEBOOK\n\n我的句子本\n翻译一句话\n\n在正文或自己的作文中选中一句话，点击「翻译句子」。保留有用的译文，也可以修改后收藏。\n\n搜索句子\n\n0 个收藏句子 · 与学习记录一起备份\n\n选中一句有用的表达，翻译后收藏到这里。",
+  "allContent": "\nSENTENCE NOTEBOOK我的句子本翻译一句话\n在正文或自己的作文中选中一句话，点击「翻译句子」。保留有用的译文，也可以修改后收藏。\n搜索句子\n0 个收藏句子 · 与学习记录一起备份选中一句有用的表达，翻译后收藏到这里。\n\n",
+  "links": [],
+  "details": [],
+  "saveFields": [
+    "sentence-collection-v1"
+  ],
+  "images": [],
+  "audio": [],
+  "viewport": 1440,
+  "documentWidth": 1440
+}

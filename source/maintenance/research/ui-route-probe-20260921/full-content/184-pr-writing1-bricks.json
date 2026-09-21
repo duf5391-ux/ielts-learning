@@ -1,0 +1,198 @@
+{
+  "requested": "pr-writing1-bricks",
+  "from": [
+    "内容单元",
+    "页面链接"
+  ],
+  "actual": "#pr-writing1-bricks",
+  "checkedAt": "2026-09-21T12:52:47.143Z",
+  "title": "练习 / 写作 · Task 1 / Task 1 · 流程图 砖块制造 · IELTS",
+  "label": "练习 / 写作 · Task 1 / Task 1 · 流程图 砖块制造",
+  "panel": "practice-writing1",
+  "contentRoot": "pr-writing1-bricks",
+  "headings": [],
+  "controls": [
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "Task 1 · 流程图 砖块制造",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "作答 1\n暂时不会",
+      "href": null,
+      "save": "pr-writing1-bricks-q1",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "暂时不会",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "作答 2\n暂时不会",
+      "href": null,
+      "save": "pr-writing1-bricks-q2",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "暂时不会",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "答案",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "再练一次",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "",
+      "href": null,
+      "save": "pr-writing1-bricks-another",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "",
+      "label": "",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "",
+      "label": "",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "IELTS Academic Writing Sample Tasks (2023) · Task 1C",
+      "label": "",
+      "href": "case-assets/writing-official-sample-tasks-2023.pdf#page=5",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "在线来源",
+      "label": "",
+      "href": "https://ielts.org/cdn/Sample-tests/ielts-academic-writing-sample-tasks-2023.pdf#page=5",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    }
+  ],
+  "visibleText": "Task 1 · 流程图 砖块制造\n0% · 0 / 2 完成\n\n描述图中实际显示的顺序。\n\n按图中箭头作答。图示数值：干燥 24–48 小时；中温窑 200–980°C；高温窑 870–1300°C；冷却 48–72 小时。\n\nThe diagram presents the manufacture of bricks for construction.\n\n把下句改写为 35–50 个英文词，保留真实流程，写到干燥结束：After being mixed with sand and water, the clay is cut with a wire cutter and then pressed into moulds before being heated at 200–980°C in the drying oven.\n\n作答 1\n暂时不会\n\n只根据图示，哪一句成立？\n\nA Every brick passes through both shaping methods.\nB The complete manufacturing process takes no more than five days.\nC Drying and cooling together account for between 72 and 120 hours, excluding all other stages.\nD The minimum temperature in the second kiln stage exceeds the maximum in the first.\n作答 2\n暂时不会\n答案\n再练一次\n\n选材来源 · IELTS Academic Writing Sample Tasks (2023) · Task 1C · 在线来源",
+  "allContent": "Task 1 · 流程图 砖块制造0% · 0 / 2 完成描述图中实际显示的顺序。按图中箭头作答。图示数值：干燥 24–48 小时；中温窑 200–980°C；高温窑 870–1300°C；冷却 48–72 小时。The diagram presents the manufacture of bricks for construction.把下句改写为 35–50 个英文词，保留真实流程，写到干燥结束：After being mixed with sand and water, the clay is cut with a wire cutter and then pressed into moulds before being heated at 200–980°C in the drying oven.作答 1暂时不会只根据图示，哪一句成立？A Every brick passes through both shaping methods.B The complete manufacturing process takes no more than five days.C Drying and cooling together account for between 72 and 120 hours, excluding all other stages.D The minimum temperature in the second kiln stage exceeds the maximum in the first.作答 2暂时不会答案1. 示例：After sand and water have been added, the clay mixture is shaped into bricks either with a wire cutter or in moulds. The newly formed bricks are then placed in a drying oven for between 24 and 48 hours.2. C。再练一次用两句英文描述干燥之后、包装之前的流程。写出两组温度和冷却时间，不编写图中未给出的加热时长。作答暂时不会答案The dried bricks pass through a kiln at a moderate temperature of 200–980°C and then a high-temperature stage of 870–1300°C. They are subsequently cooled in a chamber for 48–72 hours.选材来源 · IELTS Academic Writing Sample Tasks (2023) · Task 1C · 在线来源",
+  "links": [
+    {
+      "text": "IELTS Academic Writing Sample Tasks (2023) · Task 1C",
+      "href": "case-assets/writing-official-sample-tasks-2023.pdf#page=5"
+    },
+    {
+      "text": "在线来源",
+      "href": "https://ielts.org/cdn/Sample-tests/ielts-academic-writing-sample-tasks-2023.pdf#page=5"
+    }
+  ],
+  "details": [
+    {
+      "id": "answer-check-49",
+      "title": "答案",
+      "open": false,
+      "answerGate": "[\"pr-writing1-bricks-q1\", \"pr-writing1-bricks-q2\"]",
+      "visible": true
+    },
+    {
+      "id": "",
+      "title": "再练一次",
+      "open": false,
+      "visible": true
+    },
+    {
+      "id": "answer-check-50",
+      "title": "答案",
+      "open": false,
+      "answerGate": "[\"pr-writing1-bricks-another\"]",
+      "visible": false
+    }
+  ],
+  "saveFields": [
+    "pr-writing1-bricks-q1",
+    "pr-writing1-bricks-q2",
+    "pr-writing1-bricks-another"
+  ],
+  "images": [
+    {
+      "src": "case-assets/writing-official-5.png",
+      "alt": "官方制砖流程原图：制备、两种成形路径、干燥、两段烧制、冷却、包装、运输",
+      "visible": true,
+      "complete": false,
+      "width": 0
+    }
+  ],
+  "audio": [],
+  "viewport": 1440,
+  "documentWidth": 1440
+}

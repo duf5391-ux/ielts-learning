@@ -1,0 +1,347 @@
+{
+  "requested": "learn-background_food_consumption",
+  "from": [
+    "内容单元"
+  ],
+  "actual": "#learn-background_food_consumption",
+  "checkedAt": "2026-09-21T12:52:33.301Z",
+  "title": "练习 / 阅读 / 食物与消费：来源、产业与后果 · IELTS",
+  "label": "练习 / 阅读 / 食物与消费：来源、产业与后果",
+  "panel": "practice-reading",
+  "contentRoot": "learn-background_food_consumption",
+  "headings": [
+    {
+      "tag": "H4",
+      "text": "食糖的历史：贸易、劳动与健康",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "原文 · 印刷页25",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "原文 · 印刷页26",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "原题 · 印刷页27",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "原题 · 印刷页28",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "答案与证据解释",
+      "visible": false
+    },
+    {
+      "tag": "H3",
+      "text": "我的原题练习记录",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "核对并修订",
+      "visible": false
+    }
+  ],
+  "controls": [
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "食物与消费：来源、产业与后果",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "完成后核对答案与解释",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "",
+      "label": "",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=26",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "",
+      "label": "",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=28",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "",
+      "label": "",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=119",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "",
+      "label": "",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=26",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "",
+      "label": "",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=28",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "",
+      "label": "",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=119",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "我的理解／想记住的表达（可留空）\n暂时不会",
+      "href": null,
+      "save": "enrich-background_food_consumption-answer",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "暂时不会",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "checkbox",
+      "text": "",
+      "label": "",
+      "href": null,
+      "save": "enrich-background_food_consumption-frozen",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "text",
+      "text": "",
+      "label": "",
+      "href": null,
+      "save": "enrich-background_food_consumption-saved-at",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "保留首稿，打开反馈",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "补充理解／新学到的表达",
+      "href": null,
+      "save": "enrich-background_food_consumption-revision",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "可选：记录或再练一次",
+      "label": "",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "我的例子／下次回顾记录",
+      "href": null,
+      "save": "enrich-background_food_consumption-transfer",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "可选：记录或再练一次",
+      "label": "",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SELECT",
+      "id": "",
+      "type": "select-one",
+      "text": "请选择内容或语境没理解词义或声音没认出词汇选择／搭配不稳证据、逻辑或展开不足语法或句子组织问题暂时独立完成，隔天再检验",
+      "label": "这次最需要补什么？请选择内容或语境没理解词义或声音没认出词汇选择／搭配不稳证据、逻辑或展开不足语法或句子组织问题暂时独立完成，隔天再检验",
+      "href": null,
+      "save": "enrich-background_food_consumption-diagnosis",
+      "visible": false,
+      "disabled": false,
+      "required": false,
+      "options": [
+        {
+          "value": "",
+          "label": "请选择"
+        },
+        {
+          "value": "内容或语境没理解",
+          "label": "内容或语境没理解"
+        },
+        {
+          "value": "词义或声音没认出",
+          "label": "词义或声音没认出"
+        },
+        {
+          "value": "词汇选择／搭配不稳",
+          "label": "词汇选择／搭配不稳"
+        },
+        {
+          "value": "证据、逻辑或展开不足",
+          "label": "证据、逻辑或展开不足"
+        },
+        {
+          "value": "语法或句子组织问题",
+          "label": "语法或句子组织问题"
+        },
+        {
+          "value": "暂时独立完成，隔天再检验",
+          "label": "暂时独立完成，隔天再检验"
+        }
+      ]
+    }
+  ],
+  "visibleText": "食物与消费：来源、产业与后果\n0% · 0 / 1 完成\n\n复用Sugar完整原题，从生产、贸易、消费三个层次组织理解；重点Q27–36。\n\n食糖的历史：贸易、劳动与健康\n\n先读这一组完整原文页，再完成对应原题。以下时代、数量与观点均按考试文章语境理解。\n\n原文 · 印刷页25\n\nREADING PASSAGE 3\n\nYou should spend about 20 minutes on Questions 27-40, which are based on Passage 3 below.\n\nBook review: The World of Sugar by\n\nUlbeBosma\n\nUlbe Bosma's The World of Sugar is a genuinely global history. Bosma discusses all the sugar­ growing places of the world, beginning with Cuba and Java, the largest exporters of the early 20th century. But this is a history not just of cane sugar but also of beet sugar, an equally important form of traded sugar over the last hundred years. Beet sugar is grown mainly in Europe and the United States. It has also been massively subsidised and sold at artificially low prices on world markets, threatening the livelihood of producers of cane sugar.\n\nBosma's discussion of the sugar market in Britain gives a sense of the book's range. The sweet-toothed British first bought cane sugar from their own slavery-dependent colonial plantations. Following the abolition of slavery in the British Empire, cane sugar was imported to Britain from places which retained the practice, such as Cuba and Brazil. Towards the end of the 19th century, the British started to import beet sugar from continental Europe. Only in the 20th century was there a move to develop a national beet sugar industry.\n\nThe book provides a global labour history, investigating the wide range of labour regimes associated with growing sugar. Contrary to popular belief, cane sugar production was never just restricted to large, dedicated plantations owned by rich men. For example, in Java, a huge exporter of sugar in the early 20th century, sugar cane was grown together with rice in an extraordinarily labour-intensive way by small farmers.\n\nThe World of Sugar is also a story of similarity and continuity in sugar cultivation. For example, imported labour has been used for much large-scale production. German beet fields employed Polish workers; Mexicans and many others, including Sicilians, were vital to US sugar production. Cane cutting, Bosma shows, remains a poorly paid and brutal business to this day in many places in the world. But as well as this, the book is about the continuity of the use of traditional methods on small farms. In the mid 20th-century, this type of sugar production dominated in South Asia and Latin America.\n\nThis is also a history of capitalists and sugar dynasties, as well as corporations that in some cases have remained influential over very long periods. Great firms and great interests have had profound influence on the policies of states. In many places - not just the British Caribbean but Cuba and the Philippines too - a powerful sugar bourgeoisie played a major role in politics and their interests were consequently protected by trade barriers and subsidies. In the battle for control of the industry, it was inevitably the poor countries which came off worse. All this is explored by Bosma with wonderful subtlety and control.\n\n原文 · 印刷页26\n\nBut sugar production was never just a matter of agriculture. It also involved the extraction, close to the place of harvest, of sucrose from the sugar plant, a process which required machinery powered by humans, animals, wind or steam. Further processes involved boiling (from the 19th century, this often involved vacuum systems) and the separation of sugar from other materials in a process known as refinement. From very early on, sugar production was an energy-intensive industrial process, mostly taking place in the countryside and in refineries in centres of consumption, both small and large. The growth of the industry entailed a very rapid diffusion of ideas and techniques from one country to another. Cuba, for example, developed an extraordinarily dense system of railways to transport workers and cane, as well as steam-powered sugar factories. Particular varieties of cane sugar and beet sugar spread very rapidly across the world, in accordance with local needs and demands.\n\nWhere once only tiny quantities of sugar could be produced, now new techniques, varieties, fertilisers, irrigation systems and much more have turned gleaming white sugar into a ubiquitous chemical. Over the same time, there has been a massive increase in consumption. Once regarded as a luxury, sugar came to be promoted as a valuable source of energy. But as the consumption of sugar has increased, so has the harm it does, whether to people's teeth or weight. In the face of appalling obstruction from the sugar industry to attempts to reduce consumption, some countries have been forced to tax sugar in order to bring that about. The sugar industry has a history of attacking its critics and, when it comes to obesity, of trying to blame fats, and lack of exercise and self-control. And the recent past has seen worrying new developments in mass sweetening. High-fructose corn syrup made from maize using an enzymatic process invented in Japan in the 1960s has a similar number of calories to table sugar but is far cheaper to produce. It is now widely consumed, having been adopted in the making of soft drinks and a large number of processed foods, and is regarded as a leading cause of obesity.\n\nThis is a wonderfully rich book, a model of global history, the history of production and the history of capitalism. Bosma avoids outbursts of emotion, celebratory or critical, even if they might have made his analysis of the multiple tragedies involving sugar all the more powerful. He shows that we could always have done without sugar and that today we have many alternative sources of sweetness. Yet many of the poorest people in the world still depend on it to make a living.\n\n原题 · 印刷页27\n\nQuestions 27-30\n\nChoose the correct letter, A, B, C or D.\n\nWrite the correct letter in boxes 27-30 on your answer sheet.\n\n27 What does the reviewer suggest about the cultivation and trading of sugar in the first paragraph? A Sugar has played a major role in international relations. B Beet sugar has been made more internationally competitive. C Cane sugar is thought to be of superior quality to beet sugar. D New locations for cultivating sugar have increased production.\n\n28 In the second paragraph, when discussing the sugar market in Britain, the reviewer stresses\n\nA how the sources used changed over time. B how developments in agriculture affected trade. C the increased demand for sugar over the years. D the growing support for ethical methods of cultivation.\n\n29 What is the reviewer doing in the third paragraph?\n\nA describing an efficient approach to sugar cultivation B explaining why the use of sugar plantations declined C addressing a misconception about the growing of sugar cane D evaluating different approaches to the cultivation of sugar cane\n\n30 In the final paragraph, what does the reviewer suggest is the overall message of Bosma's book?\n\nA Sugar is a harmful and unnecessary product. B Economic pressure is needed to control sugar production. C Conditions for workers in sugar production should be improved. D Intensive marketing of sugar has had disastrous consequences.\n\n原题 · 印刷页28\n\nQuestions 31-36\n\nComplete the summary using the list of words, A-I, below.\n\nWrite the correct letter, A-I, in boxes 31-36 on your answer sheet.\n\nSugar cultivation and production\n\nThe book The World of Sugar points out the similarities in the way that sugar was cultivated around the world. In the big industries in both Germany and the US, sugar farming depended on 31 ............. However, in other parts of the world such as South Asia and Latin America, 32 ............ continued.\n\nSugar production has also involved 33 ............ who were eager to protect their markets. In countries such as Cuba the sugar industry therefore had a major influence on 34 ............ .\n\nTo support the interests of sugar producers, 35 ............ were established. As a result of this, 36 ............ were penalised.\n\nA national governments\n\nB agricultural developments\n\nC less wealthy nations\n\nD untrained workers\n\nE small-scale cultivation\n\nF outdated methods\n\nG financial controls\n\nH migrant workers\n\nI powerful individuals and businesses\n\nQuestions 37-40\n\nDo the following statements agree with the views of the writer in Reading Passage 3?\n\nIn boxes 37-40 on your answer sheet, write\n\nYES NO NOT GIVEN\n\nif the statement agrees with the views of the writer if the statement contradicts the views of the writer if it is impossible to say what the writer thinks about this\n\n37 Sugar has now become available in large quantities due to a range of agricultural developments. 38 Advertisers initially marketed sugar as a luxury product.\n\n39 The invention of high-fructose corn syrup was a positive development.\n\n40 High-fructose corn syrup is an ingredient in many processed foods.\n\np. 1181\n\n完成后核对答案与解释\n我的原题练习记录\n\n按上方真实题目留下自己的回答或录音简记；参考内容用于对照，不必复述示范中的经历。\n\n我的理解／想记住的表达（可留空）\n暂时不会\n保留首稿，打开反馈\n\n理解题可默想，不要求提交。",
+  "allContent": "食物与消费：来源、产业与后果0% · 0 / 1 完成复用Sugar完整原题，从生产、贸易、消费三个层次组织理解；重点Q27–36。食糖的历史：贸易、劳动与健康先读这一组完整原文页，再完成对应原题。以下时代、数量与观点均按考试文章语境理解。原文 · 印刷页25READING PASSAGE 3You should spend about 20 minutes on Questions 27-40, which are based on Passage 3 below.Book review: The World of Sugar byUlbeBosmaUlbe Bosma's The World of Sugar is a genuinely global history. Bosma discusses all the sugar­ growing places of the world, beginning with Cuba and Java, the largest exporters of the early 20th century. But this is a history not just of cane sugar but also of beet sugar, an equally important form of traded sugar over the last hundred years. Beet sugar is grown mainly in Europe and the United States. It has also been massively subsidised and sold at artificially low prices on world markets, threatening the livelihood of producers of cane sugar.Bosma's discussion of the sugar market in Britain gives a sense of the book's range. The sweet-toothed British first bought cane sugar from their own slavery-dependent colonial plantations. Following the abolition of slavery in the British Empire, cane sugar was imported to Britain from places which retained the practice, such as Cuba and Brazil. Towards the end of the 19th century, the British started to import beet sugar from continental Europe. Only in the 20th century was there a move to develop a national beet sugar industry.The book provides a global labour history, investigating the wide range of labour regimes associated with growing sugar. Contrary to popular belief, cane sugar production was never just restricted to large, dedicated plantations owned by rich men. For example, in Java, a huge exporter of sugar in the early 20th century, sugar cane was grown together with rice in an extraordinarily labour-intensive way by small farmers.The World of Sugar is also a story of similarity and continuity in sugar cultivation. For example, imported labour has been used for much large-scale production. German beet fields employed Polish workers; Mexicans and many others, including Sicilians, were vital to US sugar production. Cane cutting, Bosma shows, remains a poorly paid and brutal business to this day in many places in the world. But as well as this, the book is about the continuity of the use of traditional methods on small farms. In the mid 20th-century, this type of sugar production dominated in South Asia and Latin America.This is also a history of capitalists and sugar dynasties, as well as corporations that in some cases have remained influential over very long periods. Great firms and great interests have had profound influence on the policies of states. In many places - not just the British Caribbean but Cuba and the Philippines too - a powerful sugar bourgeoisie played a major role in politics and their interests were consequently protected by trade barriers and subsidies. In the battle for control of the industry, it was inevitably the poor countries which came off worse. All this is explored by Bosma with wonderful subtlety and control.原文 · 印刷页26But sugar production was never just a matter of agriculture. It also involved the extraction, close to the place of harvest, of sucrose from the sugar plant, a process which required machinery powered by humans, animals, wind or steam. Further processes involved boiling (from the 19th century, this often involved vacuum systems) and the separation of sugar from other materials in a process known as refinement. From very early on, sugar production was an energy-intensive industrial process, mostly taking place in the countryside and in refineries in centres of consumption, both small and large. The growth of the industry entailed a very rapid diffusion of ideas and techniques from one country to another. Cuba, for example, developed an extraordinarily dense system of railways to transport workers and cane, as well as steam-powered sugar factories. Particular varieties of cane sugar and beet sugar spread very rapidly across the world, in accordance with local needs and demands.Where once only tiny quantities of sugar could be produced, now new techniques, varieties, fertilisers, irrigation systems and much more have turned gleaming white sugar into a ubiquitous chemical. Over the same time, there has been a massive increase in consumption. Once regarded as a luxury, sugar came to be promoted as a valuable source of energy. But as the consumption of sugar has increased, so has the harm it does, whether to people's teeth or weight. In the face of appalling obstruction from the sugar industry to attempts to reduce consumption, some countries have been forced to tax sugar in order to bring that about. The sugar industry has a history of attacking its critics and, when it comes to obesity, of trying to blame fats, and lack of exercise and self-control. And the recent past has seen worrying new developments in mass sweetening. High-fructose corn syrup made from maize using an enzymatic process invented in Japan in the 1960s has a similar number of calories to table sugar but is far cheaper to produce. It is now widely consumed, having been adopted in the making of soft drinks and a large number of processed foods, and is regarded as a leading cause of obesity.This is a wonderfully rich book, a model of global history, the history of production and the history of capitalism. Bosma avoids outbursts of emotion, celebratory or critical, even if they might have made his analysis of the multiple tragedies involving sugar all the more powerful. He shows that we could always have done without sugar and that today we have many alternative sources of sweetness. Yet many of the poorest people in the world still depend on it to make a living.原题 · 印刷页27Questions 27-30Choose the correct letter, A, B, C or D.Write the correct letter in boxes 27-30 on your answer sheet.27 What does the reviewer suggest about the cultivation and trading of sugar in the first paragraph? A Sugar has played a major role in international relations. B Beet sugar has been made more internationally competitive. C Cane sugar is thought to be of superior quality to beet sugar. D New locations for cultivating sugar have increased production.28 In the second paragraph, when discussing the sugar market in Britain, the reviewer stressesA how the sources used changed over time. B how developments in agriculture affected trade. C the increased demand for sugar over the years. D the growing support for ethical methods of cultivation.29 What is the reviewer doing in the third paragraph?A describing an efficient approach to sugar cultivation B explaining why the use of sugar plantations declined C addressing a misconception about the growing of sugar cane D evaluating different approaches to the cultivation of sugar cane30 In the final paragraph, what does the reviewer suggest is the overall message of Bosma's book?A Sugar is a harmful and unnecessary product. B Economic pressure is needed to control sugar production. C Conditions for workers in sugar production should be improved. D Intensive marketing of sugar has had disastrous consequences.原题 · 印刷页28Questions 31-36Complete the summary using the list of words, A-I, below.Write the correct letter, A-I, in boxes 31-36 on your answer sheet.Sugar cultivation and productionThe book The World of Sugar points out the similarities in the way that sugar was cultivated around the world. In the big industries in both Germany and the US, sugar farming depended on 31 ............. However, in other parts of the world such as South Asia and Latin America, 32 ............ continued.Sugar production has also involved 33 ............ who were eager to protect their markets. In countries such as Cuba the sugar industry therefore had a major influence on 34 ............ .To support the interests of sugar producers, 35 ............ were established. As a result of this, 36 ............ were penalised.A national governmentsB agricultural developmentsC less wealthy nationsD untrained workersE small-scale cultivationF outdated methodsG financial controlsH migrant workersI powerful individuals and businessesQuestions 37-40Do the following statements agree with the views of the writer in Reading Passage 3?In boxes 37-40 on your answer sheet, writeYES NO NOT GIVENif the statement agrees with the views of the writer if the statement contradicts the views of the writer if it is impossible to say what the writer thinks about this37 Sugar has now become available in large quantities due to a range of agricultural developments. 38 Advertisers initially marketed sugar as a luxury product.39 The invention of high-fructose corn syrup was a positive development.40 High-fructose corn syrup is an ingredient in many processed foods.p. 1181完成后核对答案与解释答案与证据解释Q27 B：补贴与人为低价使beet sugar更具国际竞争力；Q28 A：英国进口来源按时间更换；Q29 C：Contrary to popular belief 后纠正甘蔗只来自富人种植园的误解；Q30 A：末段 could always have done without sugar 与 alternative sources of sweetness 支撑有害且非必需的评价。Q31–36 H/E/I/A/G/C，分别是移民劳工、小规模耕作、权势个人和公司、国家政府、金融控制、较贫穷国家。Q37 YES：农业技术带来大量供应；Q38 NOT GIVEN：文章说曾被视为奢侈品，却没说广告最初怎样宣传；Q39 NO：作者把高果糖玉米糖浆称为令人担忧的进展；Q40 YES：大量加工食品含它。这里是书评的作者判断，不把历史文章直接当当前营养建议。完整原件：Cambridge IELTS 21 Academic · Test 1 · 物理页26 / 印刷页25；Cambridge IELTS 21 Academic · Test 1 · 物理页28 / 印刷页27；Cambridge IELTS 21 Academic · Test 1 · 物理页119 / 印刷页118Cambridge IELTS 21 Academic · Test 1 · 物理页26 / 印刷页25Cambridge IELTS 21 Academic · Test 1 · 物理页28 / 印刷页27Cambridge IELTS 21 Academic · Test 1 · 物理页119 / 印刷页118我的原题练习记录按上方真实题目留下自己的回答或录音简记；参考内容用于对照，不必复述示范中的经历。我的理解／想记住的表达（可留空）暂时不会保留首稿，打开反馈理解题可默想，不要求提交。核对并修订回到上方原题与具体示范，核对是否回应问题、证据是否准确，再改写自己的回答。补充理解／新学到的表达可选：记录或再练一次我的例子／下次回顾记录可选：记录或再练一次这次最需要补什么？请选择内容或语境没理解词义或声音没认出词汇选择／搭配不稳证据、逻辑或展开不足语法或句子组织问题暂时独立完成，隔天再检验",
+  "links": [
+    {
+      "text": "Cambridge IELTS 21 Academic · Test 1 · 物理页26 / 印刷页25",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=26"
+    },
+    {
+      "text": "Cambridge IELTS 21 Academic · Test 1 · 物理页28 / 印刷页27",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=28"
+    },
+    {
+      "text": "Cambridge IELTS 21 Academic · Test 1 · 物理页119 / 印刷页118",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=119"
+    },
+    {
+      "text": "Cambridge IELTS 21 Academic · Test 1 · 物理页26 / 印刷页25",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=26"
+    },
+    {
+      "text": "Cambridge IELTS 21 Academic · Test 1 · 物理页28 / 印刷页27",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=28"
+    },
+    {
+      "text": "Cambridge IELTS 21 Academic · Test 1 · 物理页119 / 印刷页118",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=119"
+    }
+  ],
+  "details": [
+    {
+      "id": "answer-check-37",
+      "title": "完成后核对答案与解释",
+      "open": false,
+      "answerGate": "[\"enrich-background_food_consumption-answer\"]",
+      "visible": true
+    },
+    {
+      "id": "",
+      "title": "可选：记录或再练一次",
+      "open": false,
+      "visible": false
+    },
+    {
+      "id": "",
+      "title": "可选：记录或再练一次",
+      "open": false,
+      "visible": false
+    }
+  ],
+  "saveFields": [
+    "enrich-background_food_consumption-answer",
+    "enrich-background_food_consumption-frozen",
+    "enrich-background_food_consumption-saved-at",
+    "enrich-background_food_consumption-revision",
+    "enrich-background_food_consumption-transfer",
+    "enrich-background_food_consumption-diagnosis"
+  ],
+  "images": [],
+  "audio": [],
+  "viewport": 1440,
+  "documentWidth": 1440
+}

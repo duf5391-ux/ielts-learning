@@ -1,0 +1,57 @@
+{
+  "requested": "learn-206",
+  "from": [
+    "内容单元"
+  ],
+  "actual": "#learn-206",
+  "checkedAt": "2026-09-21T12:53:45.025Z",
+  "title": "学习 / 词汇 / value · IELTS",
+  "label": "学习 / 词汇 / value",
+  "panel": "vocabulary",
+  "contentRoot": "learn-206",
+  "headings": [
+    {
+      "tag": "H3",
+      "text": "value",
+      "visible": true
+    }
+  ],
+  "controls": [
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "checkbox",
+      "text": "",
+      "label": "收藏 value",
+      "href": null,
+      "save": "vocab-saved-word-value",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "checkbox",
+      "text": "",
+      "label": "我已看过本单元",
+      "href": null,
+      "save": "learning-read-learn-206",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    }
+  ],
+  "visibleText": "0% · 0 / 1 完成\n☆\nvalue\n\n价值；重视\n\ncultural value / place value on…\n\nPeople may value an object for its history rather than its price.\n\n人们可能因为物品的经历而重视它，而非因为价格。\n\n这里 value 可作动词；价格、使用价值与个人意义并非同一概念。\n\n我已看过本单元",
+  "allContent": "0% · 0 / 1 完成☆value价值；重视cultural value / place value on…People may value an object for its history rather than its price.人们可能因为物品的经历而重视它，而非因为价格。这里 value 可作动词；价格、使用价值与个人意义并非同一概念。 我已看过本单元",
+  "links": [],
+  "details": [],
+  "saveFields": [
+    "vocab-saved-word-value",
+    "learning-read-learn-206"
+  ],
+  "images": [],
+  "audio": [],
+  "viewport": 1440,
+  "documentWidth": 1440
+}

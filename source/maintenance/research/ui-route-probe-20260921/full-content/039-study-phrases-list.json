@@ -1,0 +1,1294 @@
+{
+  "requested": "study-phrases-list",
+  "from": [
+    "分类页",
+    "页面链接"
+  ],
+  "actual": "#study-phrases-list",
+  "checkedAt": "2026-09-21T12:50:56.467Z",
+  "title": "学习 / 短语 · IELTS",
+  "label": "学习 / 短语",
+  "panel": "study",
+  "contentRoot": "study",
+  "headings": [
+    {
+      "tag": "H1",
+      "text": "学习 · 短语",
+      "visible": true
+    },
+    {
+      "tag": "H2",
+      "text": "直接开始学习",
+      "visible": false
+    },
+    {
+      "tag": "H2",
+      "text": "继续上次",
+      "visible": false
+    },
+    {
+      "tag": "H3",
+      "text": "词汇 · 旅游语境 在语境中选择措辞",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "take … into account｜把条件纳入判断",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "meet someone's needs｜满足具体需要",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "raise awareness of …｜提高对某事的认识",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "pose a threat to …｜对……构成威胁",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "strike a balance between … and …｜兼顾两种需求",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "take measures to …｜采取具体措施",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "make progress｜取得进展",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "draw a distinction between … and …｜区分两个概念",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "reach a conclusion｜根据证据形成结论",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "address a problem｜着手处理问题",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "allocate … to／for …｜分配有限资源",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "make a difference to …｜对……产生影响",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "rather than",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "in order to",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "according to",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "in turn",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "as a result",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "as a result of",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "in addition",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "in addition to",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "as well as",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "not only … but (also)",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "responsible for",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "contribute to",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "associated with",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "likely to",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "access to",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "focus on",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "affect / effect on",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "sustainable",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "a (wide / whole) range of",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "provide",
+      "visible": true
+    },
+    {
+      "tag": "H2",
+      "text": "词汇与背景",
+      "visible": false
+    }
+  ],
+  "controls": [
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "← 返回学习",
+      "label": "",
+      "href": "#study",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "查看安排并开始 →",
+      "label": "",
+      "href": "#guide",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "学习项目 →",
+      "label": "",
+      "href": "#learning-projects",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "今天选的内容 →",
+      "label": "",
+      "href": "#plan",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SELECT",
+      "id": "la-study-skill",
+      "type": "select-one",
+      "text": "全部写作Task 1Task 2",
+      "label": "写作类型全部写作Task 1Task 2",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false,
+      "options": [
+        {
+          "value": "",
+          "label": "全部写作"
+        },
+        {
+          "value": "writing1",
+          "label": "Task 1"
+        },
+        {
+          "value": "writing2",
+          "label": "Task 2"
+        }
+      ]
+    },
+    {
+      "tag": "SELECT",
+      "id": "la-study-topic",
+      "type": "select-one",
+      "text": "全部\n教育与学习\n旅行与地方\n科技\n通用",
+      "label": "话题\n全部\n教育与学习\n旅行与地方\n科技\n通用",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false,
+      "options": [
+        {
+          "value": "",
+          "label": "全部"
+        },
+        {
+          "value": "教育与学习",
+          "label": "教育与学习"
+        },
+        {
+          "value": "旅行与地方",
+          "label": "旅行与地方"
+        },
+        {
+          "value": "科技",
+          "label": "科技"
+        },
+        {
+          "value": "通用",
+          "label": "通用"
+        }
+      ]
+    },
+    {
+      "tag": "SELECT",
+      "id": "la-study-part",
+      "type": "select-one",
+      "text": "全部",
+      "label": "Part全部",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false,
+      "options": [
+        {
+          "value": "",
+          "label": "全部"
+        }
+      ]
+    },
+    {
+      "tag": "SELECT",
+      "id": "la-study-type",
+      "type": "select-one",
+      "text": "全部\n判断题\n表达与运用\n词汇运用\n选择题",
+      "label": "题型／内容\n全部\n判断题\n表达与运用\n词汇运用\n选择题",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false,
+      "options": [
+        {
+          "value": "",
+          "label": "全部"
+        },
+        {
+          "value": "判断题",
+          "label": "判断题"
+        },
+        {
+          "value": "表达与运用",
+          "label": "表达与运用"
+        },
+        {
+          "value": "词汇运用",
+          "label": "词汇运用"
+        },
+        {
+          "value": "选择题",
+          "label": "选择题"
+        }
+      ]
+    },
+    {
+      "tag": "INPUT",
+      "id": "la-study-search",
+      "type": "search",
+      "text": "",
+      "label": "内容或题型",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "进入学习 →",
+      "label": "",
+      "href": "#pr-vocabulary-tourism",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "加入今天",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "进入学习 →",
+      "label": "",
+      "href": "#learn-vocab-take-into-account",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "加入今天",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "进入学习 →",
+      "label": "",
+      "href": "#learn-vocab-meet-needs",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "加入今天",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "进入学习 →",
+      "label": "",
+      "href": "#learn-vocab-raise-awareness",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "加入今天",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "进入学习 →",
+      "label": "",
+      "href": "#learn-vocab-pose-threat",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "加入今天",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "进入学习 →",
+      "label": "",
+      "href": "#learn-vocab-strike-balance",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "加入今天",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "进入学习 →",
+      "label": "",
+      "href": "#learn-vocab-take-measures",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "加入今天",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "进入学习 →",
+      "label": "",
+      "href": "#learn-vocab-make-progress",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "加入今天",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "进入学习 →",
+      "label": "",
+      "href": "#learn-vocab-draw-distinction",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "加入今天",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "进入学习 →",
+      "label": "",
+      "href": "#learn-vocab-reach-conclusion",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "加入今天",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "进入学习 →",
+      "label": "",
+      "href": "#learn-vocab-address-problem",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "加入今天",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "进入学习 →",
+      "label": "",
+      "href": "#learn-vocab-allocate-resources",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "加入今天",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "进入学习 →",
+      "label": "",
+      "href": "#learn-vocab-make-difference",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "加入今天",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "进入学习 →",
+      "label": "",
+      "href": "#usage-01",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "加入今天",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "进入学习 →",
+      "label": "",
+      "href": "#usage-02",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "加入今天",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "进入学习 →",
+      "label": "",
+      "href": "#usage-03",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "加入今天",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "进入学习 →",
+      "label": "",
+      "href": "#usage-04",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "加入今天",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "进入学习 →",
+      "label": "",
+      "href": "#usage-05",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "加入今天",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "进入学习 →",
+      "label": "",
+      "href": "#usage-06",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "加入今天",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "进入学习 →",
+      "label": "",
+      "href": "#usage-07",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "加入今天",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "进入学习 →",
+      "label": "",
+      "href": "#usage-08",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "加入今天",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "进入学习 →",
+      "label": "",
+      "href": "#usage-09",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "加入今天",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "进入学习 →",
+      "label": "",
+      "href": "#usage-10",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "加入今天",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "进入学习 →",
+      "label": "",
+      "href": "#usage-11",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "加入今天",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "进入学习 →",
+      "label": "",
+      "href": "#usage-12",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "加入今天",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "进入学习 →",
+      "label": "",
+      "href": "#usage-13",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "加入今天",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "进入学习 →",
+      "label": "",
+      "href": "#usage-14",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "加入今天",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "进入学习 →",
+      "label": "",
+      "href": "#usage-15",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "加入今天",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "进入学习 →",
+      "label": "",
+      "href": "#usage-16",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "加入今天",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "进入学习 →",
+      "label": "",
+      "href": "#usage-17",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "加入今天",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "进入学习 →",
+      "label": "",
+      "href": "#usage-18",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "加入今天",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "进入学习 →",
+      "label": "",
+      "href": "#usage-19",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "加入今天",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "进入学习 →",
+      "label": "",
+      "href": "#usage-20",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "加入今天",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "词汇单词、语境与主动运用 →",
+      "label": "",
+      "href": "#study-vocabulary-list",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "短语搭配、用法与配套小练 →",
+      "label": "",
+      "href": "#study-phrases-list",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "共用背景供不同科目使用的阅读材料 →",
+      "label": "",
+      "href": "#study-shared-list",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    }
+  ],
+  "visibleText": "学习 · 短语\n\n33 项内容 · 按需要选一项开始。\n\n← 返回学习\n0% · 0 / 33 单元\n话题\n全部\n教育与学习\n旅行与地方\n科技\n通用\n题型／内容\n全部\n判断题\n表达与运用\n词汇运用\n选择题\n内容或题型\n\n短语 · 旅行与地方\n\n词汇 · 旅游语境 在语境中选择措辞\n\n讲解与配套练习，可按需要选学。\n\n0% · 0 / 2 完成\n进入学习 →\n加入今天\n\n短语 · 通用\n\ntake … into account｜把条件纳入判断\n\n讲解与配套练习，可按需要选学。\n\n0% · 0 / 1 完成\n进入学习 →\n加入今天\n\n短语 · 教育与学习\n\nmeet someone's needs｜满足具体需要\n\n讲解与配套练习，可按需要选学。\n\n0% · 0 / 1 完成\n进入学习 →\n加入今天\n\n短语 · 教育与学习\n\nraise awareness of …｜提高对某事的认识\n\n讲解与配套练习，可按需要选学。\n\n0% · 0 / 1 完成\n进入学习 →\n加入今天\n\n短语 · 通用\n\npose a threat to …｜对……构成威胁\n\n讲解与配套练习，可按需要选学。\n\n0% · 0 / 1 完成\n进入学习 →\n加入今天\n\n短语 · 教育与学习\n\nstrike a balance between … and …｜兼顾两种需求\n\n讲解与配套练习，可按需要选学。\n\n0% · 0 / 1 完成\n进入学习 →\n加入今天\n\n短语 · 通用\n\ntake measures to …｜采取具体措施\n\n讲解与配套练习，可按需要选学。\n\n0% · 0 / 1 完成\n进入学习 →\n加入今天\n\n短语 · 教育与学习\n\nmake progress｜取得进展\n\n讲解与配套练习，可按需要选学。\n\n0% · 0 / 1 完成\n进入学习 →\n加入今天\n\n短语 · 通用\n\ndraw a distinction between … and …｜区分两个概念\n\n讲解与配套练习，可按需要选学。\n\n0% · 0 / 1 完成\n进入学习 →\n加入今天\n\n短语 · 通用\n\nreach a conclusion｜根据证据形成结论\n\n讲解与配套练习，可按需要选学。\n\n0% · 0 / 1 完成\n进入学习 →\n加入今天\n\n短语 · 通用\n\naddress a problem｜着手处理问题\n\n讲解与配套练习，可按需要选学。\n\n0% · 0 / 1 完成\n进入学习 →\n加入今天\n\n短语 · 通用\n\nallocate … to／for …｜分配有限资源\n\n讲解与配套练习，可按需要选学。\n\n0% · 0 / 1 完成\n进入学习 →\n加入今天\n\n短语 · 通用\n\nmake a difference to …｜对……产生影响\n\n讲解与配套练习，可按需要选学。\n\n0% · 0 / 1 完成\n进入学习 →\n加入今天\n\n短语 · 通用\n\nrather than\n\n讲解与配套练习，可按需要选学。\n\n0% · 0 / 1 完成\n进入学习 →\n加入今天\n\n短语 · 通用\n\nin order to\n\n讲解与配套练习，可按需要选学。\n\n0% · 0 / 1 完成\n进入学习 →\n加入今天\n\n短语 · 通用\n\naccording to\n\n讲解与配套练习，可按需要选学。\n\n0% · 0 / 1 完成\n进入学习 →\n加入今天\n\n短语 · 通用\n\nin turn\n\n讲解与配套练习，可按需要选学。\n\n0% · 0 / 1 完成\n进入学习 →\n加入今天\n\n短语 · 通用\n\nas a result\n\n讲解与配套练习，可按需要选学。\n\n0% · 0 / 1 完成\n进入学习 →\n加入今天\n\n短语 · 通用\n\nas a result of\n\n讲解与配套练习，可按需要选学。\n\n0% · 0 / 1 完成\n进入学习 →\n加入今天\n\n短语 · 通用\n\nin addition\n\n讲解与配套练习，可按需要选学。\n\n0% · 0 / 1 完成\n进入学习 →\n加入今天\n\n短语 · 通用\n\nin addition to\n\n讲解与配套练习，可按需要选学。\n\n0% · 0 / 1 完成\n进入学习 →\n加入今天\n\n短语 · 通用\n\nas well as\n\n讲解与配套练习，可按需要选学。\n\n0% · 0 / 1 完成\n进入学习 →\n加入今天\n\n短语 · 通用\n\nnot only … but (also)\n\n讲解与配套练习，可按需要选学。\n\n0% · 0 / 1 完成\n进入学习 →\n加入今天\n\n短语 · 通用\n\nresponsible for\n\n讲解与配套练习，可按需要选学。\n\n0% · 0 / 1 完成\n进入学习 →\n加入今天\n\n短语 · 通用\n\ncontribute to\n\n讲解与配套练习，可按需要选学。\n\n0% · 0 / 1 完成\n进入学习 →\n加入今天\n\n短语 · 通用\n\nassociated with\n\n讲解与配套练习，可按需要选学。\n\n0% · 0 / 1 完成\n进入学习 →\n加入今天\n\n短语 · 通用\n\nlikely to\n\n讲解与配套练习，可按需要选学。\n\n0% · 0 / 1 完成\n进入学习 →\n加入今天\n\n短语 · 通用\n\naccess to\n\n讲解与配套练习，可按需要选学。\n\n0% · 0 / 1 完成\n进入学习 →\n加入今天\n\n短语 · 通用\n\nfocus on\n\n讲解与配套练习，可按需要选学。\n\n0% · 0 / 1 完成\n进入学习 →\n加入今天\n\n短语 · 通用\n\naffect / effect on\n\n讲解与配套练习，可按需要选学。\n\n0% · 0 / 1 完成\n进入学习 →\n加入今天\n\n短语 · 科技\n\nsustainable\n\n讲解与配套练习，可按需要选学。\n\n0% · 0 / 1 完成\n进入学习 →\n加入今天\n\n短语 · 通用\n\na (wide / whole) range of\n\n讲解与配套练习，可按需要选学。\n\n0% · 0 / 1 完成\n进入学习 →\n加入今天\n\n短语 · 通用\n\nprovide\n\n讲解与配套练习，可按需要选学。\n\n0% · 0 / 1 完成\n进入学习 →\n加入今天",
+  "allContent": "IELTS / MY STUDY学习 · 短语33 项内容 · 按需要选一项开始。← 返回学习直接开始学习已有默认安排；也可以选板块和 15／30／60 分钟。查看安排并开始 →继续上次选一项内容开始，之后可以从这里继续。学习项目 →今天选的内容 →0% · 0 / 33 单元写作类型全部写作Task 1Task 2话题全部教育与学习旅行与地方科技通用33 项内容Part全部题型／内容全部判断题表达与运用词汇运用选择题内容或题型短语 · 旅行与地方词汇 · 旅游语境 在语境中选择措辞讲解与配套练习，可按需要选学。0% · 0 / 2 完成进入学习 →加入今天短语 · 通用take … into account｜把条件纳入判断讲解与配套练习，可按需要选学。0% · 0 / 1 完成进入学习 →加入今天短语 · 教育与学习meet someone's needs｜满足具体需要讲解与配套练习，可按需要选学。0% · 0 / 1 完成进入学习 →加入今天短语 · 教育与学习raise awareness of …｜提高对某事的认识讲解与配套练习，可按需要选学。0% · 0 / 1 完成进入学习 →加入今天短语 · 通用pose a threat to …｜对……构成威胁讲解与配套练习，可按需要选学。0% · 0 / 1 完成进入学习 →加入今天短语 · 教育与学习strike a balance between … and …｜兼顾两种需求讲解与配套练习，可按需要选学。0% · 0 / 1 完成进入学习 →加入今天短语 · 通用take measures to …｜采取具体措施讲解与配套练习，可按需要选学。0% · 0 / 1 完成进入学习 →加入今天短语 · 教育与学习make progress｜取得进展讲解与配套练习，可按需要选学。0% · 0 / 1 完成进入学习 →加入今天短语 · 通用draw a distinction between … and …｜区分两个概念讲解与配套练习，可按需要选学。0% · 0 / 1 完成进入学习 →加入今天短语 · 通用reach a conclusion｜根据证据形成结论讲解与配套练习，可按需要选学。0% · 0 / 1 完成进入学习 →加入今天短语 · 通用address a problem｜着手处理问题讲解与配套练习，可按需要选学。0% · 0 / 1 完成进入学习 →加入今天短语 · 通用allocate … to／for …｜分配有限资源讲解与配套练习，可按需要选学。0% · 0 / 1 完成进入学习 →加入今天短语 · 通用make a difference to …｜对……产生影响讲解与配套练习，可按需要选学。0% · 0 / 1 完成进入学习 →加入今天短语 · 通用rather than讲解与配套练习，可按需要选学。0% · 0 / 1 完成进入学习 →加入今天短语 · 通用in order to讲解与配套练习，可按需要选学。0% · 0 / 1 完成进入学习 →加入今天短语 · 通用according to讲解与配套练习，可按需要选学。0% · 0 / 1 完成进入学习 →加入今天短语 · 通用in turn讲解与配套练习，可按需要选学。0% · 0 / 1 完成进入学习 →加入今天短语 · 通用as a result讲解与配套练习，可按需要选学。0% · 0 / 1 完成进入学习 →加入今天短语 · 通用as a result of讲解与配套练习，可按需要选学。0% · 0 / 1 完成进入学习 →加入今天短语 · 通用in addition讲解与配套练习，可按需要选学。0% · 0 / 1 完成进入学习 →加入今天短语 · 通用in addition to讲解与配套练习，可按需要选学。0% · 0 / 1 完成进入学习 →加入今天短语 · 通用as well as讲解与配套练习，可按需要选学。0% · 0 / 1 完成进入学习 →加入今天短语 · 通用not only … but (also)讲解与配套练习，可按需要选学。0% · 0 / 1 完成进入学习 →加入今天短语 · 通用responsible for讲解与配套练习，可按需要选学。0% · 0 / 1 完成进入学习 →加入今天短语 · 通用contribute to讲解与配套练习，可按需要选学。0% · 0 / 1 完成进入学习 →加入今天短语 · 通用associated with讲解与配套练习，可按需要选学。0% · 0 / 1 完成进入学习 →加入今天短语 · 通用likely to讲解与配套练习，可按需要选学。0% · 0 / 1 完成进入学习 →加入今天短语 · 通用access to讲解与配套练习，可按需要选学。0% · 0 / 1 完成进入学习 →加入今天短语 · 通用focus on讲解与配套练习，可按需要选学。0% · 0 / 1 完成进入学习 →加入今天短语 · 通用affect / effect on讲解与配套练习，可按需要选学。0% · 0 / 1 完成进入学习 →加入今天短语 · 科技sustainable讲解与配套练习，可按需要选学。0% · 0 / 1 完成进入学习 →加入今天短语 · 通用a (wide / whole) range of讲解与配套练习，可按需要选学。0% · 0 / 1 完成进入学习 →加入今天短语 · 通用provide讲解与配套练习，可按需要选学。0% · 0 / 1 完成进入学习 →加入今天词汇与背景词汇单词、语境与主动运用 →短语搭配、用法与配套小练 →共用背景供不同科目使用的阅读材料 →",
+  "links": [
+    {
+      "text": "← 返回学习",
+      "href": "#study"
+    },
+    {
+      "text": "查看安排并开始 →",
+      "href": "#guide"
+    },
+    {
+      "text": "学习项目 →",
+      "href": "#learning-projects"
+    },
+    {
+      "text": "今天选的内容 →",
+      "href": "#plan"
+    },
+    {
+      "text": "进入学习 →",
+      "href": "#pr-vocabulary-tourism"
+    },
+    {
+      "text": "进入学习 →",
+      "href": "#learn-vocab-take-into-account"
+    },
+    {
+      "text": "进入学习 →",
+      "href": "#learn-vocab-meet-needs"
+    },
+    {
+      "text": "进入学习 →",
+      "href": "#learn-vocab-raise-awareness"
+    },
+    {
+      "text": "进入学习 →",
+      "href": "#learn-vocab-pose-threat"
+    },
+    {
+      "text": "进入学习 →",
+      "href": "#learn-vocab-strike-balance"
+    },
+    {
+      "text": "进入学习 →",
+      "href": "#learn-vocab-take-measures"
+    },
+    {
+      "text": "进入学习 →",
+      "href": "#learn-vocab-make-progress"
+    },
+    {
+      "text": "进入学习 →",
+      "href": "#learn-vocab-draw-distinction"
+    },
+    {
+      "text": "进入学习 →",
+      "href": "#learn-vocab-reach-conclusion"
+    },
+    {
+      "text": "进入学习 →",
+      "href": "#learn-vocab-address-problem"
+    },
+    {
+      "text": "进入学习 →",
+      "href": "#learn-vocab-allocate-resources"
+    },
+    {
+      "text": "进入学习 →",
+      "href": "#learn-vocab-make-difference"
+    },
+    {
+      "text": "进入学习 →",
+      "href": "#usage-01"
+    },
+    {
+      "text": "进入学习 →",
+      "href": "#usage-02"
+    },
+    {
+      "text": "进入学习 →",
+      "href": "#usage-03"
+    },
+    {
+      "text": "进入学习 →",
+      "href": "#usage-04"
+    },
+    {
+      "text": "进入学习 →",
+      "href": "#usage-05"
+    },
+    {
+      "text": "进入学习 →",
+      "href": "#usage-06"
+    },
+    {
+      "text": "进入学习 →",
+      "href": "#usage-07"
+    },
+    {
+      "text": "进入学习 →",
+      "href": "#usage-08"
+    },
+    {
+      "text": "进入学习 →",
+      "href": "#usage-09"
+    },
+    {
+      "text": "进入学习 →",
+      "href": "#usage-10"
+    },
+    {
+      "text": "进入学习 →",
+      "href": "#usage-11"
+    },
+    {
+      "text": "进入学习 →",
+      "href": "#usage-12"
+    },
+    {
+      "text": "进入学习 →",
+      "href": "#usage-13"
+    },
+    {
+      "text": "进入学习 →",
+      "href": "#usage-14"
+    },
+    {
+      "text": "进入学习 →",
+      "href": "#usage-15"
+    },
+    {
+      "text": "进入学习 →",
+      "href": "#usage-16"
+    },
+    {
+      "text": "进入学习 →",
+      "href": "#usage-17"
+    },
+    {
+      "text": "进入学习 →",
+      "href": "#usage-18"
+    },
+    {
+      "text": "进入学习 →",
+      "href": "#usage-19"
+    },
+    {
+      "text": "进入学习 →",
+      "href": "#usage-20"
+    },
+    {
+      "text": "词汇单词、语境与主动运用 →",
+      "href": "#study-vocabulary-list"
+    },
+    {
+      "text": "短语搭配、用法与配套小练 →",
+      "href": "#study-phrases-list"
+    },
+    {
+      "text": "共用背景供不同科目使用的阅读材料 →",
+      "href": "#study-shared-list"
+    }
+  ],
+  "details": [],
+  "saveFields": [],
+  "images": [],
+  "audio": [],
+  "viewport": 1440,
+  "documentWidth": 1440
+}

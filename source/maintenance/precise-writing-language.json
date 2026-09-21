@@ -1,0 +1,396 @@
+{
+  "version": 1,
+  "createdAt": "2026-09-19",
+  "units": [
+    {
+      "id": "pr-writing1-jobs",
+      "section": "writing1",
+      "part": "Task 1 · 折线图",
+      "title": "四行业就业",
+      "source": {
+        "title": "Cambridge IELTS 21 Academic · Test 1 · Task 1",
+        "path": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf",
+        "page": 30,
+        "kind": "真题"
+      },
+      "originNote": "原图；配套练习与参考为编写内容。",
+      "context": [
+        "单位：million jobs。年份依次为 1960、1980、2000、2020。",
+        "Manufacturing：15、20、约17、13；Retail：6、10、15、16；Agriculture：6、3、3、2；Healthcare：2、5、11、16。"
+      ],
+      "instructions": "根据原图作答。",
+      "prompt": "The graph shows employment in four sectors of the US economy from 1960 to 2020.",
+      "questions": [
+        {
+          "id": "q1",
+          "prompt": "选出可由原图支持的一句。",
+          "options": [
+            {
+              "id": "A",
+              "text": "Manufacturing lost seven million jobs between 1960 and 2020."
+            },
+            {
+              "id": "B",
+              "text": "Manufacturing ended two million jobs below its initial level, despite an earlier rise."
+            },
+            {
+              "id": "C",
+              "text": "Healthcare employment increased sixteenfold over the period."
+            },
+            {
+              "id": "D",
+              "text": "Agricultural employment fell during every interval shown."
+            }
+          ]
+        },
+        {
+          "id": "q2",
+          "prompt": "写 45–65 个英文词，比较 healthcare 和 retail 的绝对增量、相对增幅及最终水平。不要把岗位数写成就业占比。"
+        }
+      ],
+      "reference": "1. B。\n2. 示例：Healthcare employment rose from two million to sixteen million, adding fourteen million jobs and reaching eight times its initial level. Retail added ten million jobs, growing from six million to sixteen million, approximately 2.7 times its starting figure. The two sectors therefore finished at the same level, despite markedly different growth rates.",
+      "transfer": {
+        "prompt": "仍用这张图，写两句 overview，不列出逐年数字；必须同时呈现制造业的主导地位变化和农业的整体走势。",
+        "reference": "示例：Manufacturing was initially the largest employer, but both retail and healthcare had overtaken it by the end of the period. Agriculture declined overall and remained the smallest sector in 2020.",
+        "reasoning": []
+      },
+      "sourceCaseIds": [
+        "wc-c21-t1-jobs"
+      ],
+      "challengeMechanism": "internal: peak-versus-net change; count-versus-share; absolute-versus-relative growth; equal final values",
+      "image": {
+        "src": "case-assets/writing-c21-30.png",
+        "alt": "1960至2020年美国制造业、零售业、农业和医疗行业岗位数原图"
+      },
+      "reasoning": [],
+      "pitfalls": []
+    },
+    {
+      "id": "pr-writing1-bricks",
+      "section": "writing1",
+      "part": "Task 1 · 流程图",
+      "title": "砖块制造",
+      "source": {
+        "title": "IELTS Academic Writing Sample Tasks (2023) · Task 1C",
+        "url": "https://ielts.org/cdn/Sample-tests/ielts-academic-writing-sample-tasks-2023.pdf#page=5",
+        "path": "case-assets/writing-official-sample-tasks-2023.pdf",
+        "page": 5,
+        "kind": "官方样题"
+      },
+      "originNote": "官方原图；配套练习与参考为编写内容。",
+      "context": [
+        "按图中箭头作答。图示数值：干燥 24–48 小时；中温窑 200–980°C；高温窑 870–1300°C；冷却 48–72 小时。"
+      ],
+      "instructions": "描述图中实际显示的顺序。",
+      "prompt": "The diagram presents the manufacture of bricks for construction.",
+      "questions": [
+        {
+          "id": "q1",
+          "prompt": "把下句改写为 35–50 个英文词，保留真实流程，写到干燥结束：After being mixed with sand and water, the clay is cut with a wire cutter and then pressed into moulds before being heated at 200–980°C in the drying oven."
+        },
+        {
+          "id": "q2",
+          "prompt": "只根据图示，哪一句成立？",
+          "options": [
+            {
+              "id": "A",
+              "text": "Every brick passes through both shaping methods."
+            },
+            {
+              "id": "B",
+              "text": "The complete manufacturing process takes no more than five days."
+            },
+            {
+              "id": "C",
+              "text": "Drying and cooling together account for between 72 and 120 hours, excluding all other stages."
+            },
+            {
+              "id": "D",
+              "text": "The minimum temperature in the second kiln stage exceeds the maximum in the first."
+            }
+          ]
+        }
+      ],
+      "reference": "1. 示例：After sand and water have been added, the clay mixture is shaped into bricks either with a wire cutter or in moulds. The newly formed bricks are then placed in a drying oven for between 24 and 48 hours.\n2. C。",
+      "transfer": {
+        "prompt": "用两句英文描述干燥之后、包装之前的流程。写出两组温度和冷却时间，不编写图中未给出的加热时长。",
+        "reference": "The dried bricks pass through a kiln at a moderate temperature of 200–980°C and then a high-temperature stage of 870–1300°C. They are subsequently cooled in a chamber for 48–72 hours.",
+        "reasoning": []
+      },
+      "sourceCaseIds": [
+        "wc-official-bricks"
+      ],
+      "challengeMechanism": "internal: alternative branches versus sequence; duration versus temperature; overlapping ranges; partial duration versus total",
+      "image": {
+        "src": "case-assets/writing-official-5.png",
+        "alt": "官方制砖流程原图：制备、两种成形路径、干燥、两段烧制、冷却、包装、运输"
+      },
+      "reasoning": [],
+      "pitfalls": []
+    },
+    {
+      "id": "pr-writing1-cafe",
+      "section": "writing1",
+      "part": "Task 1 · 平面图",
+      "title": "学院咖啡厅改造",
+      "source": {
+        "title": "Cambridge IELTS 21 Academic · Test 2 · Task 1",
+        "path": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf",
+        "page": 52,
+        "kind": "真题"
+      },
+      "originNote": "改造前后原图；配套练习与参考为编写内容。",
+      "context": [],
+      "instructions": "根据两张平面图作答。",
+      "prompt": "The plans show a college café before its redesign and at present.",
+      "questions": [
+        {
+          "id": "q1",
+          "prompt": "写 55–75 个英文词，描述两间原 staff dining rooms 的去向，并对比厨房、厕所和中央座位区。"
+        },
+        {
+          "id": "q2",
+          "prompt": "修改这段文字中所有与图不符或缺少依据的内容，保留能由图支持的变化：The kitchen was moved to the south, while all the indoor tables were removed. A coffee bar replaced the kitchen. The old serving area now offers only hot meals, and the café provides outdoor seating beside a barbecue."
+        }
+      ],
+      "reference": "1. 示例：The two former staff dining rooms have been converted into two separate food and drink outlets: takeaway food occupies the room on the left, while a coffee bar has replaced the room on the right. In contrast, the kitchen and toilets remain in their original locations, and the central area is still used for tables and chairs.\n2. 示例：The kitchen remains in place, and the central indoor seating area has been retained. A coffee bar has replaced the right-hand staff dining room. The former serving area is now labelled 'Hot meals', while outdoor seating and a barbecue have been added.",
+      "transfer": {
+        "prompt": "写两句 overview：一句概括食品供应设施的变化，一句对比保留的室内功能与新增的室外空间。不要猜测客流、营业时间或容纳人数。",
+        "reference": "The café now has a wider range of dedicated food and drink outlets. The kitchen, toilets and central indoor seating area have been retained, while outdoor seating and a barbecue have been added.",
+        "reasoning": []
+      },
+      "sourceCaseIds": [
+        "wc-c21-t2-cafe"
+      ],
+      "challengeMechanism": "internal: retained-versus-repurposed features; relative position without compass; diagram labels versus unsupported exclusivity",
+      "image": {
+        "src": "case-assets/writing-c21-52.png",
+        "alt": "学院咖啡厅改造前后的原始平面图"
+      },
+      "reasoning": [],
+      "pitfalls": []
+    },
+    {
+      "id": "pr-writing2-primary",
+      "section": "writing2",
+      "part": "Task 2 · 教育",
+      "title": "小学课堂中的学习与游戏",
+      "source": {
+        "title": "Cambridge IELTS 21 Academic · Test 4 · Task 2",
+        "path": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf",
+        "page": 96,
+        "kind": "真题"
+      },
+      "originNote": "真题题干；分步作答与参考为编写内容。",
+      "context": [
+        "待改写的立场句（自编）：I agree that play is useful because children enjoy it."
+      ],
+      "instructions": "直接回应下面的完整题干。",
+      "prompt": "Some people argue that primary schools focus too much on formal learning. To what extent do you agree with this opinion? How important do you think it is for children to play as well as learn in the primary school classroom?",
+      "questions": [
+        {
+          "id": "q1",
+          "prompt": "把上面的立场句改写为 35–50 个英文词，同时回答两个问题。立场须允许一部分正式教学保留。"
+        },
+        {
+          "id": "q2",
+          "prompt": "写 80–110 个英文词，论证课堂游戏的一项学习价值，并用一个具体课堂活动说明。结尾说明这个活动为什么仍需要教师设计或引导。"
+        }
+      ],
+      "reference": "1. 示例：I partly agree that primary schools devote too much time to formal instruction. Although direct teaching remains necessary, well-designed classroom play is important because it allows children to apply knowledge and practise cooperation in a meaningful setting.\n2. 示例：Classroom play can make an abstract skill easier to use. For example, a teacher could organise a small shop in which pupils take turns buying items with pretend money. Children would have to add prices, calculate change and explain their choices to classmates. This activity gives a practical purpose to calculations that might otherwise remain a page of exercises. However, simply providing toys would not ensure that pupils learnt the intended skill. The teacher would still need to choose suitable prices, observe mistakes and help pupils understand how to correct them.",
+      "transfer": {
+        "prompt": "仍回答原题，写 40–55 个英文词的结论。明确区分“正式教学过多”和“正式教学完全无用”，不要新增一个此前未论证的社会问题。",
+        "reference": "示例：Primary education should therefore place less emphasis on prolonged formal instruction, while preserving direct teaching where it is useful. Structured play deserves a regular place in the classroom because it helps children apply what they learn, but its educational value depends on thoughtful planning and guidance.",
+        "reasoning": []
+      },
+      "sourceCaseIds": [
+        "wc-c21-t4-primary"
+      ],
+      "challengeMechanism": "internal: two distinct prompt obligations; degree of agreement; concrete mechanism; restriction without changing position",
+      "reasoning": [],
+      "pitfalls": []
+    },
+    {
+      "id": "pr-writing2-tourism",
+      "section": "writing2",
+      "part": "Task 2 · 旅游",
+      "title": "旅游收益与居民成本",
+      "source": {
+        "title": "IELTS Academic Writing Sample Tasks (2023) · Task 2B",
+        "url": "https://ielts.org/cdn/Sample-tests/ielts-academic-writing-sample-tasks-2023.pdf#page=7",
+        "path": "case-assets/writing-official-sample-tasks-2023.pdf",
+        "page": 7,
+        "kind": "官方样题"
+      },
+      "originNote": "官方题干；情境和配套练习为自编。",
+      "context": [
+        "本练习的假设情境：旅游给当地商店带来收入，但旺季过后部分岗位消失；短租扩张减少了居民可租住房。地方政府可以对短租登记并征收用于公共交通的游客税。"
+      ],
+      "instructions": "在给定情境下作答，不把假设写成真实统计。",
+      "prompt": "International tourism has brought enormous benefit to many places. At the same time, there is concern about its impact on local inhabitants and the environment. Do the disadvantages of international tourism outweigh the advantages?",
+      "questions": [
+        {
+          "id": "q1",
+          "prompt": "写 40–55 个英文词的立场段。不能只写“有好处也有坏处”；比较时须涉及受益者、受损者或影响持续时间。"
+        },
+        {
+          "id": "q2",
+          "prompt": "写 80–110 个英文词，比较商店收入与居民住房成本。结尾直接回答哪一方更重要，以及这个判断依赖什么条件。"
+        }
+      ],
+      "reference": "1. 示例：In the situation described, the disadvantages outweigh the advantages if tourism income mainly reaches businesses while residents face lasting housing pressure. Temporary increases in trade cannot by themselves justify a continuing loss of affordable homes. Effective regulation could, however, change that balance.\n2. 示例：Tourism may increase sales in local shops, but this benefit does not necessarily reach residents who must pay higher rents. The jobs created may also disappear after the main holiday season, whereas the conversion of homes into short-term accommodation can affect housing throughout the year. In this case, I would give greater weight to the lasting pressure on residents than to a temporary rise in commercial income. The balance could become more favourable if registration limits the loss of residential housing and visitor taxes finance services used by local people.",
+      "transfer": {
+        "prompt": "把情境改为：短租得到有效控制，游客税确实改善了居民交通。用 35–50 个英文词说明原结论如何调整；不得声称旅游已经没有环境成本。",
+        "reference": "示例：With effective controls on short-term rentals and visible improvements in local transport, the economic benefits would be more likely to outweigh the disadvantages. However, that judgement would still depend on whether visitor activity placed manageable pressure on the environment.",
+        "reasoning": []
+      },
+      "sourceCaseIds": [
+        "wc-official-tourism"
+      ],
+      "challengeMechanism": "internal: explicit weighing rather than list; unequal distribution; duration; conditional reversal",
+      "reasoning": [],
+      "pitfalls": []
+    },
+    {
+      "id": "pr-writing2-housing",
+      "section": "writing2",
+      "part": "Task 2 · 城市住房",
+      "title": "高层住宅是否是最佳方案",
+      "source": {
+        "title": "Cambridge IELTS 21 Academic · Test 1 · Task 2",
+        "path": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf",
+        "page": 31,
+        "kind": "真题"
+      },
+      "originNote": "真题题干；配套练习与参考为编写内容。",
+      "context": [
+        "待改写句（自编）：Tall buildings contain more homes, so they are the best solution everywhere and will make housing affordable."
+      ],
+      "instructions": "围绕原题中的“best way”作答。",
+      "prompt": "The best way to provide enough homes in large cities is to build tall apartment blocks. To what extent do you agree or disagree with this statement?",
+      "questions": [
+        {
+          "id": "q1",
+          "prompt": "将上面的句子改写为 35–50 个英文词。保留高层住宅的一项优势，但不给出题干未能支持的必然结果。"
+        },
+        {
+          "id": "q2",
+          "prompt": "写 80–110 个英文词：在土地紧张的城市里，将高层建设与“改造现有空置建筑”比较。选择一个判断标准，形成有条件的明确立场。"
+        }
+      ],
+      "reference": "1. 示例：Tall apartment blocks can provide many homes on a limited area of land, making them useful in densely populated cities. However, additional supply does not automatically make housing affordable, and high-rise construction may not be the best option in every neighbourhood.\n2. 示例：Where suitable vacant buildings already exist, converting them into homes may provide accommodation sooner than constructing new towers. On a short-term delivery criterion, conversion could therefore be the better option, provided the buildings are safe and reasonably inexpensive to adapt. However, the supply of suitable vacant property is limited, and conversion cannot be assumed to meet all future demand. I would support high-rise development where land is scarce and existing buildings cannot supply enough homes, rather than treating it as the best response to every housing shortage.",
+      "transfer": {
+        "prompt": "写 35–50 个英文词的结论。明确同意程度，并保留“新增住房数量”和“住房可负担性”的区别。",
+        "reference": "示例：I therefore agree that high-rise construction can be an important response to urban housing shortages, but not that it is always the best one. Cities should assess alternative sources of supply, while using separate measures to ensure that additional homes are affordable.",
+        "reasoning": []
+      },
+      "sourceCaseIds": [
+        "wc-c21-t1-homes"
+      ],
+      "challengeMechanism": "internal: best-versus-useful proposition; supply-versus-affordability; criterion-bound comparison; scope of generalisation",
+      "reasoning": [],
+      "pitfalls": []
+    },
+    {
+      "id": "pr-vocabulary-tourism",
+      "section": "vocabulary",
+      "part": "词汇 · 旅游语境",
+      "title": "在语境中选择措辞",
+      "source": {
+        "title": "IELTS Academic Writing Sample Tasks (2023) · Task 2B",
+        "url": "https://ielts.org/cdn/Sample-tests/ielts-academic-writing-sample-tasks-2023.pdf#page=7",
+        "path": "case-assets/writing-official-sample-tasks-2023.pdf",
+        "page": 7,
+        "kind": "官方样题"
+      },
+      "originNote": "基于官方旅游话题自编词汇练习。",
+      "context": [
+        "作答条件：新公交服务开通后，旺季道路拥堵有所缓解但仍存在；旅游提供部分季节性岗位；现有信息不足以判定旅游的总收益大于总成本。",
+        "待改写段（自编）：Tourism inevitably eliminates unemployment. The new buses eradicated congestion. Therefore, its advantages outweigh than its disadvantages."
+      ],
+      "instructions": "按给定条件改写，不添加数据。",
+      "prompt": "Revise the wording so that each claim matches the information available.",
+      "questions": [
+        {
+          "id": "q1",
+          "prompt": "把待改写段写成 40–55 个英文词。保留三个信息：就业作用、交通变化、总利弊尚无法确定。"
+        },
+        {
+          "id": "q2",
+          "prompt": "每空填一个合适的词：① Tourism can contribute ___ local employment. ② More visitors may put pressure ___ public services. ③ Whether the benefits outweigh the costs depends ___ how tourism is managed."
+        }
+      ],
+      "reference": "1. 示例：Tourism can provide seasonal employment, although this does not eliminate unemployment. Congestion has eased since the new bus service began, but traffic problems remain. On the information given, it is not possible to conclude that the overall benefits of tourism outweigh its costs.\n2. ① to；② on；③ on。",
+      "transfer": {
+        "prompt": "用 30–45 个英文词回应：旅游收入增加就一定意味着居民生活改善吗？使用 may 或 can；不使用 inevitable、eradicate 或 impressive。",
+        "reference": "示例：Higher tourism revenue may improve residents' lives if it supports stable jobs and better local services. However, an increase in business income alone does not show that residents benefit, especially where housing costs also rise.",
+        "reasoning": []
+      },
+      "sourceCaseIds": [
+        "wc-official-tourism"
+      ],
+      "challengeMechanism": "internal: semantic strength; collocation; event association versus causal certainty; count of claims versus evidence",
+      "reasoning": [],
+      "pitfalls": []
+    },
+    {
+      "id": "pr-background-fisheries",
+      "section": "background",
+      "part": "话题 · 海洋资源",
+      "title": "捕捞与鱼群恢复",
+      "source": {
+        "title": "NOAA Fisheries · Understanding Fisheries Management in the United States；British Council · Problems and solutions",
+        "url": "https://www.fisheries.noaa.gov/insight/understanding-fisheries-management-united-states",
+        "path": "扩展资料/609824ad-writing_task_2_problems_and_solutions_.pdf",
+        "page": 7,
+        "kind": "政府原文与官方教辅题目"
+      },
+      "originNote": "阅读材料据 NOAA 改写；练习对应 British Council 过度捕捞题。",
+      "context": [
+        "A fish stock can be assessed in two different ways: the rate at which fish are removed and the size of the remaining population. Excessive harvesting is described as overfishing; a population that is too small is described as overfished. Managers use scientific assessments to set catch limits and plan recovery. Monitoring and enforcement help ensure that fishing actually follows these limits."
+      ],
+      "instructions": "根据短文和给定情境作答。",
+      "prompt": "What causes overfishing, and what measures could prevent it?",
+      "questions": [
+        {
+          "id": "q1",
+          "prompt": "哪一句可以由短文支持？",
+          "options": [
+            {
+              "id": "A",
+              "text": "A population immediately recovers once fishing is within an acceptable rate."
+            },
+            {
+              "id": "B",
+              "text": "The rate of fishing and the size of the fish population describe the same thing."
+            },
+            {
+              "id": "C",
+              "text": "Setting a catch limit is not the same as ensuring that boats comply with it."
+            },
+            {
+              "id": "D",
+              "text": "A small fish population proves that the current fishing rate is excessive."
+            }
+          ]
+        },
+        {
+          "id": "q2",
+          "prompt": "假设一个渔场已有捕捞上限，但部分渔船隐瞒渔获。用 60–80 个英文词写一项与这个问题直接对应的措施，说明执行方式与预期作用。不要写成全面禁止所有捕鱼。"
+        }
+      ],
+      "reference": "1. C。\n2. 示例：Authorities could require boats to record their catches and compare these records with inspections at landing sites. Targeted checks would make it harder to hide catches, while proportionate penalties could discourage repeated violations. This would address the gap between the legal limit and the amount actually taken from the sea. Monitoring would still be needed to establish whether the policy reduced fishing pressure and helped the stock recover.",
+      "transfer": {
+        "prompt": "假设今年的捕捞速度已经降至允许范围，但鱼群总量仍低于恢复目标。用两句英文描述现状，并提出下一步行动；不宣称政策已经完全成功或完全失败。",
+        "reference": "The fishing rate is now within the permitted range, but the stock has not yet reached its recovery target. Managers should continue monitoring the population and adjust the recovery measures if the evidence indicates that further action is needed.",
+        "reasoning": []
+      },
+      "sourceCaseIds": [
+        "wc-bc-overfishing"
+      ],
+      "challengeMechanism": "internal: rate-versus-stock distinction; compliance-versus-paper policy; remedy targets stated cause; no instant recovery inference",
+      "reasoning": [],
+      "pitfalls": []
+    }
+  ]
+}

@@ -1,0 +1,241 @@
+{
+  "requested": "reading-case-rd-c21-t3-past-preconceptions",
+  "from": [
+    "内容单元",
+    "页面链接",
+    "每日安排目标"
+  ],
+  "actual": "#reading-case-rd-c21-t3-past-preconceptions",
+  "checkedAt": "2026-09-21T12:52:15.908Z",
+  "title": "练习 / 阅读 / Rethinking the Past · 渐进变化与性别预设 · IELTS",
+  "label": "练习 / 阅读 / Rethinking the Past · 渐进变化与性别预设",
+  "panel": "practice-reading",
+  "contentRoot": "reading-case-rd-c21-t3-past-preconceptions",
+  "headings": [
+    {
+      "tag": "H4",
+      "text": "共用选项 · 原题 33、34",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "对照答案，回到证据",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "原文片段 · 1",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "原文片段 · 2",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "原文片段 · 3",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "原文片段 · 4",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "词语与搭配",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "句子精读",
+      "visible": false
+    }
+  ],
+  "controls": [
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "Rethinking the Past · 渐进变化与性别预设未作答\n选择题 / 句尾匹配 · 4 段 · 365 词 · 5 题 · 同篇原文另有裁切",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "Cambridge IELTS 21 Academic",
+      "label": "",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=70",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "case-rd-c21-t3-past-preconceptions-q1",
+      "type": "text",
+      "text": "",
+      "label": "第 28 题作答",
+      "href": null,
+      "save": "case-rd-c21-t3-past-preconceptions-q1",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "case-rd-c21-t3-past-preconceptions-q2",
+      "type": "text",
+      "text": "",
+      "label": "第 29 题作答",
+      "href": null,
+      "save": "case-rd-c21-t3-past-preconceptions-q2",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "case-rd-c21-t3-past-preconceptions-q3",
+      "type": "text",
+      "text": "",
+      "label": "第 30 题作答",
+      "href": null,
+      "save": "case-rd-c21-t3-past-preconceptions-q3",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "case-rd-c21-t3-past-preconceptions-q4",
+      "type": "text",
+      "text": "",
+      "label": "第 33 题作答",
+      "href": null,
+      "save": "case-rd-c21-t3-past-preconceptions-q4",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "case-rd-c21-t3-past-preconceptions-q5",
+      "type": "text",
+      "text": "",
+      "label": "第 34 题作答",
+      "href": null,
+      "save": "case-rd-c21-t3-past-preconceptions-q5",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "checkbox",
+      "text": "",
+      "label": "",
+      "href": null,
+      "save": "case-rd-c21-t3-past-preconceptions-done",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "hidden",
+      "text": "",
+      "label": "",
+      "href": null,
+      "save": "case-rd-c21-t3-past-preconceptions-saved-at",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "保留作答，查看答案",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "核对原答案页",
+      "label": "",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=123",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "case-rd-c21-t3-past-preconceptions-revision",
+      "type": "textarea",
+      "text": "",
+      "label": "我的修订／证据笔记",
+      "href": null,
+      "save": "case-rd-c21-t3-past-preconceptions-revision",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "材料精读 · 内容与词句",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    }
+  ],
+  "visibleText": "Rethinking the Past · 渐进变化与性别预设未作答\n选择题 / 句尾匹配 · 4 段 · 365 词 · 5 题 · 同篇原文另有裁切\n0% · 0 / 1 完成\n\n真题 · Cambridge IELTS 21 Academic · PDF 第 70 页\n\n按原题号作答。保留考试原文与题目难度；以下是连续原段裁切，未改写原文。\n\n原第6–9段连续裁切；题面sixth/seventh/final paragraph分别对应本片段第1/2/4段。匹配题完整保留A–F。\n\n原文片段 · 1In a sense, we shouldn't be surprised that so many of these behaviours had their origins in older, extinct hominins. Evolution usually works by incremental steps and so does technology. The first birds weren't great at flying, and the first mobile phones weren't great at, well, anything really. The idea that there was a sudden explosion of intelligence and creativity at some point in our evolution isn't inherently ridiculous: sometimes a system hits a tipping point and undergoes runaway change. But there was never that much evidence that human evolution worked this way. Instead, it seems the Neanderthals and many others all walked so we could run.\n\n原文片段 · 2One way or another, the H. naledi story is going to be an example of letting our preconceptions get in the way of the evidence. The same is true for our ideas about gender in prehistory. Archaeology was invented by individuals with now unfashionably patriarchal views about gender, and those notions fed into their research. Today's researchers are trying to unpick this stuff, and there have been some significant steps in recent years.\n\n原文片段 · 3Perhaps the most dramatic was the demolition of 'Man the Hunter'. This was the idea, promoted for decades, that in most prehistoric societies the men went out to hunt and the women looked after the home. However, a meta-analysis published in June 2023 compiled data on several dozen foraging societies and found women hunted in 80 per cent of them. In line with this, it emerged that an ancient spear-throwing tool called an atlatl enables women to launch projectiles at the same speed as men. We have also seen growing evidence of women occupying positions of authority in ancient societies. The Viking queen Thyra may have helped unify Denmark in the 900s. Going further back, an Iberian leader from around 4000 years ago turned out to be female, not male as many had assumed, when proteins in her teeth were analysed.\n\n原文片段 · 4It seems that the more we find out about past societies, the more our preconceptions about the ways society 'has to be' turn out to be wrong. Inequality, authoritarianism and patriarchy aren't inevitable. They're choices, and prehistory shows us that we can choose differently.\n\n共用选项 · 原题 33、34\nA. Homo sapiens emerged at an earlier point in time than experts previously believed.\nB. previous assumptions about who had power in the prehistoric world were inaccurate.\nC. gender roles in extinct hominin species were different from those in Homo sapiens societies.\nD. experts may have been mistaken about who looked for food in early human communities.\nE. Homo sapiens was probably not the only species capable of sophisticated workmanship.\nF. other species managed to survive in harsh environments before the arrival of Homo sapiens.\n\n28. In the sixth paragraph, the writer mentions mobile phones to make the point that\n\nChoose the correct letter, A, B, C or D.\n\nA. most developments happen in a gradual way.\nB. innovation can come from a variety of sources.\nC. not all technological advancements are positive.\nD. the path of evolution can often be unpredictable.\n第 28 题作答\n\n29. In the seventh paragraph, the phrase 'unpick this stuff' refers to the task of\n\nChoose the correct letter, A, B, C or D.\n\nA. assessing the impact of certain recent research findings.\nB. questioning the authenticity of evidence used in earlier research.\nC. conducting research into how prehistoric societies were organised.\nD. reevaluating research influenced by outdated beliefs about society.\n第 29 题作答\n\n30. What does the writer suggest in the final paragraph?\n\nChoose the correct letter, A, B, C or D.\n\nA. Studying past societies could help us create a fairer society today.\nB. We should not judge past societies by the standards of modern society.\nC. We still have much to learn about how societies have evolved over history.\nD. There is more than one way to interpret evidence about societies in prehistoric times.\n第 30 题作答\n\n33. An academic publication from June 2023 shows that\n\nComplete each sentence with the correct ending, A–F, below.\n\n第 33 题作答\n\n34. Analysis of a 4000-year-old Iberian leader indicates that\n\nComplete each sentence with the correct ending, A–F, below.\n\n第 34 题作答\n保留作答，查看答案\n\n先作答；不确定的题也可记录判断与疑点。\n\n材料精读 · 内容与词句",
+  "allContent": "Rethinking the Past · 渐进变化与性别预设未作答选择题 / 句尾匹配 · 4 段 · 365 词 · 5 题 · 同篇原文另有裁切0% · 0 / 1 完成真题 · Cambridge IELTS 21 Academic · PDF 第 70 页按原题号作答。保留考试原文与题目难度；以下是连续原段裁切，未改写原文。原第6–9段连续裁切；题面sixth/seventh/final paragraph分别对应本片段第1/2/4段。匹配题完整保留A–F。原文片段 · 1In a sense, we shouldn't be surprised that so many of these behaviours had their origins in older, extinct hominins. Evolution usually works by incremental steps and so does technology. The first birds weren't great at flying, and the first mobile phones weren't great at, well, anything really. The idea that there was a sudden explosion of intelligence and creativity at some point in our evolution isn't inherently ridiculous: sometimes a system hits a tipping point and undergoes runaway change. But there was never that much evidence that human evolution worked this way. Instead, it seems the Neanderthals and many others all walked so we could run.原文片段 · 2One way or another, the H. naledi story is going to be an example of letting our preconceptions get in the way of the evidence. The same is true for our ideas about gender in prehistory. Archaeology was invented by individuals with now unfashionably patriarchal views about gender, and those notions fed into their research. Today's researchers are trying to unpick this stuff, and there have been some significant steps in recent years.原文片段 · 3Perhaps the most dramatic was the demolition of 'Man the Hunter'. This was the idea, promoted for decades, that in most prehistoric societies the men went out to hunt and the women looked after the home. However, a meta-analysis published in June 2023 compiled data on several dozen foraging societies and found women hunted in 80 per cent of them. In line with this, it emerged that an ancient spear-throwing tool called an atlatl enables women to launch projectiles at the same speed as men. We have also seen growing evidence of women occupying positions of authority in ancient societies. The Viking queen Thyra may have helped unify Denmark in the 900s. Going further back, an Iberian leader from around 4000 years ago turned out to be female, not male as many had assumed, when proteins in her teeth were analysed.原文片段 · 4It seems that the more we find out about past societies, the more our preconceptions about the ways society 'has to be' turn out to be wrong. Inequality, authoritarianism and patriarchy aren't inevitable. They're choices, and prehistory shows us that we can choose differently.共用选项 · 原题 33、34A. Homo sapiens emerged at an earlier point in time than experts previously believed.B. previous assumptions about who had power in the prehistoric world were inaccurate.C. gender roles in extinct hominin species were different from those in Homo sapiens societies.D. experts may have been mistaken about who looked for food in early human communities.E. Homo sapiens was probably not the only species capable of sophisticated workmanship.F. other species managed to survive in harsh environments before the arrival of Homo sapiens.28. In the sixth paragraph, the writer mentions mobile phones to make the point thatChoose the correct letter, A, B, C or D.A. most developments happen in a gradual way.B. innovation can come from a variety of sources.C. not all technological advancements are positive.D. the path of evolution can often be unpredictable.第 28 题作答29. In the seventh paragraph, the phrase 'unpick this stuff' refers to the task ofChoose the correct letter, A, B, C or D.A. assessing the impact of certain recent research findings.B. questioning the authenticity of evidence used in earlier research.C. conducting research into how prehistoric societies were organised.D. reevaluating research influenced by outdated beliefs about society.第 29 题作答30. What does the writer suggest in the final paragraph?Choose the correct letter, A, B, C or D.A. Studying past societies could help us create a fairer society today.B. We should not judge past societies by the standards of modern society.C. We still have much to learn about how societies have evolved over history.D. There is more than one way to interpret evidence about societies in prehistoric times.第 30 题作答33. An academic publication from June 2023 shows thatComplete each sentence with the correct ending, A–F, below.第 33 题作答34. Analysis of a 4000-year-old Iberian leader indicates thatComplete each sentence with the correct ending, A–F, below.第 34 题作答保留作答，查看答案先作答；不确定的题也可记录判断与疑点。对照答案，回到证据第 28 题 · A手机比喻说明技术和进化多为逐步发展；并非评价当代手机好坏。Evolution usually works by incremental steps and so does technology.第 29 题 · Dthis stuff回指旧父权观念渗入研究，需要重新评估受这些观念影响的研究；不是指证据造假。Archaeology was invented by individuals with ... patriarchal views ... those notions fed into their research. Today's researchers are trying to unpick this stuff第 30 题 · A考察史前社会揭示当代制度并非必然，支持我们选择更公平社会。作者不是仅说仍有未知。Inequality, authoritarianism and patriarchy aren't inevitable. They're choices, and prehistory shows us that we can choose differently.第 33 题 · D新汇总反驳男性负责狩猎的旧假定；D谁找食物，B谁掌权不能互换。a meta-analysis published in June 2023 ... found women hunted in 80 per cent of them第 34 题 · B牙齿蛋白分析推翻领导者为男性的假设，对应谁有权力的旧看法不准确。an Iberian leader ... turned out to be female, not male as many had assumed核对原答案页我的修订／证据笔记材料精读 · 内容与词句作者从渐进演化谈到研究预设，再用女性狩猎和担任领导者的材料质疑单一的史前性别分工故事。结尾由历史认识上升到对社会选择的评论，这是作者的论述立场，不应把它当作所有史前社会相同的证明。原文片段 · 1In a sense, we shouldn't be surprised that so many of these behaviours had their origins in older, extinct hominins. Evolution usually works by incremental steps and so does technology. The first birds weren't great at flying, and the first mobile phones weren't great at, well, anything really. The idea that there was a sudden explosion of intelligence and creativity at some point in our evolution isn't inherently ridiculous: sometimes a system hits a tipping point and undergoes runaway change. But there was never that much evidence that human evolution worked this way. Instead, it seems the Neanderthals and many others all walked so we could run.鸟类飞行与早期手机的类比说明复杂能力往往逐步积累。作者承认系统可能达到临界点后迅速变化，但认为人类演化突然发生智力爆发的证据并不充分。walked so we could run 是比喻：早期人族积累的能力为后来发展铺路，不是字面上的走路与跑步史。原文片段 · 2One way or another, the H. naledi story is going to be an example of letting our preconceptions get in the way of the evidence. The same is true for our ideas about gender in prehistory. Archaeology was invented by individuals with now unfashionably patriarchal views about gender, and those notions fed into their research. Today's researchers are trying to unpick this stuff, and there have been some significant steps in recent years.不论 Homo naledi 的争议最后如何解决，作者都认为这反映预设可能妨碍理解证据。随后把同一问题转到性别研究：早期考古学家的父权观念进入研究解释，如今的研究者尝试把这些观念从材料中拆解出来。those notions 回指前面的性别观念。原文片段 · 3Perhaps the most dramatic was the demolition of 'Man the Hunter'. This was the idea, promoted for decades, that in most prehistoric societies the men went out to hunt and the women looked after the home. However, a meta-analysis published in June 2023 compiled data on several dozen foraging societies and found women hunted in 80 per cent of them. In line with this, it emerged that an ancient spear-throwing tool called an atlatl enables women to launch projectiles at the same speed as men. We have also seen growing evidence of women occupying positions of authority in ancient societies. The Viking queen Thyra may have helped unify Denmark in the 900s. Going further back, an Iberian leader from around 4000 years ago turned out to be female, not male as many had assumed, when proteins in her teeth were analysed.多个例子从不同方向松动男性狩猎、女性留家的单一故事：对数十个采集狩猎社会的汇总发现多数有女性狩猎，投矛工具可缩小投射速度差别，古代女性领导者也有新的证据。80%是这份分析涉及的社会比例，不能扩展为所有史前社会；Thyra 的作用仍以 may 表示可能。原文片段 · 4It seems that the more we find out about past societies, the more our preconceptions about the ways society 'has to be' turn out to be wrong. Inequality, authoritarianism and patriarchy aren't inevitable. They're choices, and prehistory shows us that we can choose differently.作者认为，越了解过去，就越能看到今天视为理所当然的社会安排并非唯一可能。把不平等、威权和父权称为 choices 是结尾的价值判断，作用是拓展读者对社会的想象，而不是声称过去所有社会都平等或自由。词语与搭配incremental steps逐步累积的小幅变化incremental 强调累积过程；与突然的爆发式变化形成对照。hits a tipping point达到临界点比喻系统发生转折的阈值，文中承认这种机制可能存在，却未断言人类演化必然如此。get in the way of the evidence妨碍正确看待证据get in the way of 表示阻碍；主语是 preconceptions，指先入为主的观念影响解释。occupying positions of authority担任有权威的职位指在社会中拥有领导或决策地位，比简单说某个人受到尊敬更具体。句子精读The idea that there was a sudden explosion of intelligence and creativity at some point in our evolution isn't inherently ridiculous: sometimes a system hits a tipping point and undergoes runaway change.认为人类演化过程中某个时点曾突然出现智力与创造力的爆发，这种想法本身并不荒谬：有时系统确实会达到临界点，并经历迅速扩大的变化。that 从句说明 idea 的具体内容。isn't inherently ridiculous 是有限度的认可，并不等于作者接受这个历史解释。冒号后的系统变化说明其理论上可想象；后文再转向实际证据不足。Going further back, an Iberian leader from around 4000 years ago turned out to be female, not male as many had assumed, when proteins in her teeth were analysed.再往更早的年代看，约四千年前的一位伊比利亚领导者，在牙齿中的蛋白质被分析后，被发现是女性，而非许多人此前以为的男性。Going further back 提示叙述时间继续向前追溯。turned out to be 表示后来查明的事实；as many had assumed 插入先前的认识。when 从句交代认识改变所依赖的分析情境，her 回指这位领导者。读完讲解，可以把原文连起来再读一次；想保留的词句可使用已有收藏功能。",
+  "links": [
+    {
+      "text": "Cambridge IELTS 21 Academic",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=70"
+    },
+    {
+      "text": "核对原答案页",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=123"
+    }
+  ],
+  "details": [
+    {
+      "id": "material-reading-rd-c21-t3-past-preconceptions",
+      "title": "材料精读 · 内容与词句",
+      "open": false,
+      "visible": true
+    }
+  ],
+  "saveFields": [
+    "case-rd-c21-t3-past-preconceptions-q1",
+    "case-rd-c21-t3-past-preconceptions-q2",
+    "case-rd-c21-t3-past-preconceptions-q3",
+    "case-rd-c21-t3-past-preconceptions-q4",
+    "case-rd-c21-t3-past-preconceptions-q5",
+    "case-rd-c21-t3-past-preconceptions-done",
+    "case-rd-c21-t3-past-preconceptions-saved-at",
+    "case-rd-c21-t3-past-preconceptions-revision"
+  ],
+  "images": [],
+  "audio": [],
+  "viewport": 1440,
+  "documentWidth": 1440
+}

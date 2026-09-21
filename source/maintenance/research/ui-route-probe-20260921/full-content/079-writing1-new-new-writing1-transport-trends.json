@@ -1,0 +1,166 @@
+{
+  "requested": "writing1-new-new-writing1-transport-trends",
+  "from": [
+    "内容单元",
+    "页面链接"
+  ],
+  "actual": "#writing1-new-new-writing1-transport-trends",
+  "checkedAt": "2026-09-21T12:51:26.523Z",
+  "title": "学习 / 写作 · Task 1 / 真实折线图：就业结构变化与受众时段差异 · IELTS",
+  "label": "学习 / 写作 · Task 1 / 真实折线图：就业结构变化与受众时段差异",
+  "panel": "writing1",
+  "contentRoot": "writing1-new-new-writing1-transport-trends",
+  "headings": [],
+  "controls": [
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "真实折线图：就业结构变化与受众时段差异",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "美国四行业就业：峰值、交叉与最终排名",
+      "label": "",
+      "href": "#writing1-case-wc-c21-t1-jobs",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "广播与电视受众：同一天的双峰比较",
+      "label": "",
+      "href": "#writing1-case-wc-official-audiences",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "Cambridge IELTS 21 Academic · Test 1 · Task 1 · PDF 30 页",
+      "label": "",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=30",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "IELTS Academic Writing Sample Tasks (2023) · Task 1B · PDF 4 页",
+      "label": "",
+      "href": "case-assets/writing-official-sample-tasks-2023.pdf#page=4",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "练原题：美国四行业就业：峰值、交叉与最终排名",
+      "label": "",
+      "href": "#writing1-case-wc-c21-t1-jobs",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "练原题：广播与电视受众：同一天的双峰比较",
+      "label": "",
+      "href": "#writing1-case-wc-official-audiences",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "checkbox",
+      "text": "",
+      "label": "我已学习本单元",
+      "href": null,
+      "save": "resource-learned-new-writing1-transport-trends",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "checkbox",
+      "text": "",
+      "label": "加入我的复习",
+      "href": null,
+      "save": "resource-review-new-writing1-transport-trends",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "我的新表达／本次复习记录（可留空）",
+      "href": null,
+      "save": "resource-note-new-writing1-transport-trends",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    }
+  ],
+  "visibleText": "真实折线图：就业结构变化与受众时段差异\n0% · 0 / 1 完成\n\n先做剑桥21就业图的比较。1960年制造业15 million最高，医疗2 million最低；2020年零售与医疗均约16 million，并列最高，农业约2 million最低。主导行业换位比逐点抄数更值得进入Overview。\n\n主体段参考开头：Manufacturing employment rose from 15 million in 1960 to 20 million in 1980, before declining to 13 million in 2020. In contrast, healthcare grew from only 2 million to approximately 16 million over the period.一升后降与持续增长形成对照；制造业1980年峰值不能遗漏。\n\n换一张独立原图：官方广播与电视受众题。二者比较的是同一日的时段，广播早高峰、电视晚高峰。参考句：Radio listening peaked at about 27% in the morning, whereas television viewing reached roughly 45–47% in the evening.这题用百分比，不可套前题的million；题中1992是调查背景，横轴仍是一天内时间。\n\n答完后检查三个具体错误：是否把15 million写成15%；是否把广播最高时刻写成电视最高时刻；是否把制造业“先增后减”错误概括为全程下降。两道原题的完整多段参考写法在各自case内。\n\n对应原题练习：美国四行业就业：峰值、交叉与最终排名 · 广播与电视受众：同一天的双峰比较\n\nCambridge IELTS 21 Academic · Test 1 · Task 1 · PDF 30 页\n\nIELTS Academic Writing Sample Tasks (2023) · Task 1B · PDF 4 页\n\n练原题：美国四行业就业：峰值、交叉与最终排名\n练原题：广播与电视受众：同一天的双峰比较\n\n本单元的学习记录\n\n 我已学习本单元 加入我的复习\n我的新表达／本次复习记录（可留空）",
+  "allContent": "真实折线图：就业结构变化与受众时段差异0% · 0 / 1 完成\n先做剑桥21就业图的比较。1960年制造业15 million最高，医疗2 million最低；2020年零售与医疗均约16 million，并列最高，农业约2 million最低。主导行业换位比逐点抄数更值得进入Overview。\n主体段参考开头：Manufacturing employment rose from 15 million in 1960 to 20 million in 1980, before declining to 13 million in 2020. In contrast, healthcare grew from only 2 million to approximately 16 million over the period.一升后降与持续增长形成对照；制造业1980年峰值不能遗漏。\n换一张独立原图：官方广播与电视受众题。二者比较的是同一日的时段，广播早高峰、电视晚高峰。参考句：Radio listening peaked at about 27% in the morning, whereas television viewing reached roughly 45–47% in the evening.这题用百分比，不可套前题的million；题中1992是调查背景，横轴仍是一天内时间。\n答完后检查三个具体错误：是否把15 million写成15%；是否把广播最高时刻写成电视最高时刻；是否把制造业“先增后减”错误概括为全程下降。两道原题的完整多段参考写法在各自case内。\n对应原题练习：美国四行业就业：峰值、交叉与最终排名 · 广播与电视受众：同一天的双峰比较Cambridge IELTS 21 Academic · Test 1 · Task 1 · PDF 30 页IELTS Academic Writing Sample Tasks (2023) · Task 1B · PDF 4 页练原题：美国四行业就业：峰值、交叉与最终排名练原题：广播与电视受众：同一天的双峰比较本单元的学习记录 我已学习本单元 加入我的复习我的新表达／本次复习记录（可留空）",
+  "links": [
+    {
+      "text": "美国四行业就业：峰值、交叉与最终排名",
+      "href": "#writing1-case-wc-c21-t1-jobs"
+    },
+    {
+      "text": "广播与电视受众：同一天的双峰比较",
+      "href": "#writing1-case-wc-official-audiences"
+    },
+    {
+      "text": "Cambridge IELTS 21 Academic · Test 1 · Task 1 · PDF 30 页",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=30"
+    },
+    {
+      "text": "IELTS Academic Writing Sample Tasks (2023) · Task 1B · PDF 4 页",
+      "href": "case-assets/writing-official-sample-tasks-2023.pdf#page=4"
+    },
+    {
+      "text": "练原题：美国四行业就业：峰值、交叉与最终排名",
+      "href": "#writing1-case-wc-c21-t1-jobs"
+    },
+    {
+      "text": "练原题：广播与电视受众：同一天的双峰比较",
+      "href": "#writing1-case-wc-official-audiences"
+    }
+  ],
+  "details": [],
+  "saveFields": [
+    "resource-learned-new-writing1-transport-trends",
+    "resource-review-new-writing1-transport-trends",
+    "resource-note-new-writing1-transport-trends"
+  ],
+  "images": [],
+  "audio": [],
+  "viewport": 1440,
+  "documentWidth": 1440
+}

@@ -1,0 +1,193 @@
+{
+  "requested": "workspace",
+  "from": [
+    "主面板",
+    "页面链接",
+    "导航按钮"
+  ],
+  "actual": "#workspace",
+  "checkedAt": "2026-09-21T12:50:40.733Z",
+  "title": "学习工作台 · IELTS",
+  "label": "学习工作台",
+  "panel": "workspace",
+  "contentRoot": "workspace",
+  "headings": [
+    {
+      "tag": "H1",
+      "text": "学习工作台",
+      "visible": true
+    },
+    {
+      "tag": "H2",
+      "text": "写作工作台",
+      "visible": true
+    },
+    {
+      "tag": "H2",
+      "text": "记录与备份",
+      "visible": true
+    },
+    {
+      "tag": "H2",
+      "text": "我的定制课程",
+      "visible": true
+    },
+    {
+      "tag": "H2",
+      "text": "我的资料",
+      "visible": true
+    },
+    {
+      "tag": "H2",
+      "text": "原始资料",
+      "visible": true
+    },
+    {
+      "tag": "H2",
+      "text": "今天选的内容",
+      "visible": true
+    },
+    {
+      "tag": "H2",
+      "text": "我的单词表",
+      "visible": true
+    },
+    {
+      "tag": "H2",
+      "text": "我的句子本",
+      "visible": true
+    }
+  ],
+  "controls": [
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "打开 →",
+      "label": "",
+      "href": "#writing-workbench",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "打开 →",
+      "label": "",
+      "href": "#records",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "打开 →",
+      "label": "",
+      "href": "#course-window",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "打开 →",
+      "label": "",
+      "href": "#materials",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "打开 →",
+      "label": "",
+      "href": "#library",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "打开 →",
+      "label": "",
+      "href": "#plan",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "打开 →",
+      "label": "",
+      "href": "#vocabulary-review",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "打开 →",
+      "label": "",
+      "href": "#sentence-learning",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    }
+  ],
+  "visibleText": "学习工作台\n\n继续写作、收集词句、整理资料，或查看和备份记录。\n\n写作工作台\n\n接着写、保存原稿与修改稿。\n\n打开 →\n记录与备份\n\n作答记录、词句积累和导出恢复。\n\n打开 →\n我的定制课程\n\n继续自己导入或定制的课程。\n\n打开 →\n我的资料\n\n加入、查找和阅读课外材料。\n\n打开 →\n原始资料\n\n查找原题、图表、音频与文件。\n\n打开 →\n今天选的内容\n\n只安排你今天想做的几项。\n\n打开 →\n我的单词表\n\n复习收藏的单词、原句与搭配。\n\n打开 →\n我的句子本\n\n回看收藏的句子、译文和修改。\n\n打开 →",
+  "allContent": "MY STUDY DESK学习工作台继续写作、收集词句、整理资料，或查看和备份记录。写作工作台接着写、保存原稿与修改稿。打开 →记录与备份作答记录、词句积累和导出恢复。打开 →我的定制课程继续自己导入或定制的课程。打开 →我的资料加入、查找和阅读课外材料。打开 →原始资料查找原题、图表、音频与文件。打开 →今天选的内容只安排你今天想做的几项。打开 →我的单词表复习收藏的单词、原句与搭配。打开 →我的句子本回看收藏的句子、译文和修改。打开 →",
+  "links": [
+    {
+      "text": "打开 →",
+      "href": "#writing-workbench"
+    },
+    {
+      "text": "打开 →",
+      "href": "#records"
+    },
+    {
+      "text": "打开 →",
+      "href": "#course-window"
+    },
+    {
+      "text": "打开 →",
+      "href": "#materials"
+    },
+    {
+      "text": "打开 →",
+      "href": "#library"
+    },
+    {
+      "text": "打开 →",
+      "href": "#plan"
+    },
+    {
+      "text": "打开 →",
+      "href": "#vocabulary-review"
+    },
+    {
+      "text": "打开 →",
+      "href": "#sentence-learning"
+    }
+  ],
+  "details": [],
+  "saveFields": [],
+  "images": [],
+  "audio": [],
+  "viewport": 1440,
+  "documentWidth": 1440
+}

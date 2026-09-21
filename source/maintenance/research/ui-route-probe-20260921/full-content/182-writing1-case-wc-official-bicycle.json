@@ -1,0 +1,174 @@
+{
+  "requested": "writing1-case-wc-official-bicycle",
+  "from": [
+    "内容单元",
+    "页面链接"
+  ],
+  "actual": "#writing1-case-wc-official-bicycle",
+  "checkedAt": "2026-09-21T12:52:45.616Z",
+  "title": "练习 / 写作 · Task 1 / 自行车使用率：年龄比较与百分点差 · IELTS",
+  "label": "练习 / 写作 · Task 1 / 自行车使用率：年龄比较与百分点差",
+  "panel": "practice-writing1",
+  "contentRoot": "writing1-case-wc-official-bicycle",
+  "headings": [
+    {
+      "tag": "H4",
+      "text": "本次写作任务",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "对照答案，回到证据",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "参考写法",
+      "visible": false
+    },
+    {
+      "tag": "H3",
+      "text": "答后精读",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "篇章结构",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "词语与搭配",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "句子精读",
+      "visible": false
+    }
+  ],
+  "controls": [
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "自行车使用率：年龄比较与百分点差未作答\n表格 · 原题拆段写作 · 参考段落与逐段讲解",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "IELTS Academic Writing — modified large print",
+      "label": "",
+      "href": "case-assets/writing-official-large-print.pdf#page=4",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "",
+      "label": "",
+      "href": "case-assets/writing-bicycle-4.png",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "case-wc-official-bicycle-answer",
+      "type": "textarea",
+      "text": "",
+      "label": "我的段落",
+      "href": null,
+      "save": "case-wc-official-bicycle-answer",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "checkbox",
+      "text": "",
+      "label": "",
+      "href": null,
+      "save": "case-wc-official-bicycle-done",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "hidden",
+      "text": "",
+      "label": "",
+      "href": null,
+      "save": "case-wc-official-bicycle-saved-at",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "保留作答，查看答案",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "case-wc-official-bicycle-revision",
+      "type": "textarea",
+      "text": "",
+      "label": "我的修订／证据笔记",
+      "href": null,
+      "save": "case-wc-official-bicycle-revision",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    }
+  ],
+  "visibleText": "自行车使用率：年龄比较与百分点差未作答\n表格 · 原题拆段写作 · 参考段落与逐段讲解\n0% · 0 / 1 完成\n\n官方样题 · IELTS Academic Writing — modified large print · PDF 第 4 页\n\nThe table below gives information about the percentage of the population by age group in one town who rode a bicycle in June 2011.\n\n点击图示可查看大图。\n本次写作任务\n\n写Overview及两个比较段（约150–180词），先比较儿童/青少年，再比较成人；指出最低组和60+回升。列出最大性别差距并用percentage points表达。\n\n我的段落\n\n0 词\n\n保留作答，查看答案\n\n先作答；不确定的题也可记录判断与疑点。",
+  "allContent": "自行车使用率：年龄比较与百分点差未作答表格 · 原题拆段写作 · 参考段落与逐段讲解0% · 0 / 1 完成官方样题 · IELTS Academic Writing — modified large print · PDF 第 4 页The table below gives information about the percentage of the population by age group in one town who rode a bicycle in June 2011.点击图示可查看大图。本次写作任务写Overview及两个比较段（约150–180词），先比较儿童/青少年，再比较成人；指出最低组和60+回升。列出最大性别差距并用percentage points表达。我的段落0 词保留作答，查看答案先作答；不确定的题也可记录判断与疑点。对照答案，回到证据参考写法下列段落为针对原题编写的参考写法，用于对照内容和表达；写作没有唯一标准答案。Overall, cycling was most common among children under ten and least common in the 40–59 age group. Males had higher participation rates than females in every category, although the difference between the sexes was very small among the youngest children.Among those aged 0–9, 51.3% of males and 50.3% of females rode a bicycle, a gap of just one percentage point. Participation was lower among 10–17-year-olds, at 42.2% for males and 24.6% for females. This group therefore had the largest gender difference, amounting to 17.6 percentage points, with the male figure considerably higher than the female one.The proportions were smaller in both adult groups below sixty. For people aged 18–39, the rates were 17.1% and 9.7% respectively, falling to 12.3% and 8.0% among 40–59-year-olds. However, the figures rose again in the oldest category: 18.5% of men and 13.2% of women aged sixty or above cycled. Thus, participation did not simply decrease continuously across the age groups.这是June 2011单月横截面：年龄组之间差异不证明同一批人随时间减少骑行。10–17岁差距42.2−24.6=17.6个百分点；0–9岁差距1.0个百分点。两性最低都是40–59岁，60+均回升；不能写年龄越大比例总是越低。答后精读篇章结构Overview同时覆盖年龄高低与性别关系。前段突出高参与儿童及最大差距青少年。后段写成人低谷与60+例外。词语与搭配a gap of just one percentage point：不是one per cent decrease。amounting to 17.6 percentage points：补充精确差值。across the age groups：年龄间比较，避免错误时间趋势。句子精读For people aged 18–39, the rates were 17.1% and 9.7% respectively ... → 顺序沿用前段male/female。However, the figures rose again in the oldest category ... → rose描述相邻年龄组数值变化，最后一句明确并非持续时间变化。我的修订／证据笔记",
+  "links": [
+    {
+      "text": "IELTS Academic Writing — modified large print",
+      "href": "case-assets/writing-official-large-print.pdf#page=4"
+    },
+    {
+      "text": "",
+      "href": "case-assets/writing-bicycle-4.png"
+    }
+  ],
+  "details": [],
+  "saveFields": [
+    "case-wc-official-bicycle-answer",
+    "case-wc-official-bicycle-done",
+    "case-wc-official-bicycle-saved-at",
+    "case-wc-official-bicycle-revision"
+  ],
+  "images": [
+    {
+      "src": "case-assets/writing-bicycle-4.png",
+      "alt": "自行车使用率：年龄比较与百分点差 · 原题图示，点击查看大图",
+      "visible": true,
+      "complete": false,
+      "width": 0
+    }
+  ],
+  "audio": [],
+  "viewport": 1440,
+  "documentWidth": 1440
+}

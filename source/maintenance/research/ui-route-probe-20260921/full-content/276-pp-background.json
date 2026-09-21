@@ -1,0 +1,76 @@
+{
+  "requested": "pp-background",
+  "from": [
+    "页面链接"
+  ],
+  "actual": "#pp-background",
+  "checkedAt": "2026-09-21T12:54:03.297Z",
+  "title": "共用背景 · IELTS",
+  "label": "共用背景",
+  "panel": "background",
+  "contentRoot": "pp-background",
+  "headings": [
+    {
+      "tag": "H2",
+      "text": "练习",
+      "visible": true
+    }
+  ],
+  "controls": [
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "话题 · 海洋资源",
+      "label": "",
+      "href": "#pr-background-fisheries",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "阅读理解 →",
+      "label": "",
+      "href": "#pr-background-fisheries",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "写作练习 →",
+      "label": "",
+      "href": "#pr-fisheries-writing",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    }
+  ],
+  "visibleText": "练习\n话题 · 海洋资源\n\n阅读理解 → · 写作练习 →",
+  "allContent": "练习话题 · 海洋资源阅读理解 → · 写作练习 →",
+  "links": [
+    {
+      "text": "话题 · 海洋资源",
+      "href": "#pr-background-fisheries"
+    },
+    {
+      "text": "阅读理解 →",
+      "href": "#pr-background-fisheries"
+    },
+    {
+      "text": "写作练习 →",
+      "href": "#pr-fisheries-writing"
+    }
+  ],
+  "details": [],
+  "saveFields": [],
+  "images": [],
+  "audio": [],
+  "viewport": 1440,
+  "documentWidth": 1440
+}

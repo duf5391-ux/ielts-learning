@@ -1,0 +1,339 @@
+{
+  "requested": "listening-new-new-listening-lecture-outline",
+  "from": [
+    "内容单元",
+    "页面链接"
+  ],
+  "actual": "#listening-new-new-listening-lecture-outline",
+  "checkedAt": "2026-09-21T12:51:18.785Z",
+  "title": "学习 / 听力 / 讲座导入：定义、例子与后文路线 · IELTS",
+  "label": "学习 / 听力 / 讲座导入：定义、例子与后文路线",
+  "panel": "listening",
+  "contentRoot": "listening-new-new-listening-lecture-outline",
+  "headings": [
+    {
+      "tag": "H3",
+      "text": "先识别句子在做什么",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "复述定义时保留关键条件",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "对话示范",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "用法与易错",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "be absorbed in",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "lose track of time",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "in other words",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "be associated with",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "听后练习",
+      "visible": true
+    }
+  ],
+  "controls": [
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "新增 讲座导入：定义、例子与后文路线",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "AUDIO",
+      "id": "",
+      "text": "",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "第 1 题\n暂时不会",
+      "href": null,
+      "save": "lesson-listening-lecture-outline-q1",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "暂时不会",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "第 2 题\n暂时不会",
+      "href": null,
+      "save": "lesson-listening-lecture-outline-q2",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "暂时不会",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "第 3 题\n暂时不会",
+      "href": null,
+      "save": "lesson-listening-lecture-outline-q3",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "暂时不会",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "第 4 题\n暂时不会",
+      "href": null,
+      "save": "lesson-listening-lecture-outline-q4",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "暂时不会",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "第 5 题\n暂时不会",
+      "href": null,
+      "save": "lesson-listening-lecture-outline-q5",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "暂时不会",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "查看参考与解释",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "复习选项：简短再用",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "checkbox",
+      "text": "",
+      "label": "我已读过讲解",
+      "href": null,
+      "save": "resource-learned-new-listening-lecture-outline",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "checkbox",
+      "text": "",
+      "label": "加入我的复习",
+      "href": null,
+      "save": "resource-review-new-listening-lecture-outline",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "我的新表达／本次复习记录（可留空）",
+      "href": null,
+      "save": "resource-note-new-listening-lecture-outline",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "配套材料",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "",
+      "label": "",
+      "href": "https://learnenglish.britishcouncil.org/free-resources/listening/b1/introduction-lecture",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "",
+      "label": "",
+      "href": "%E6%89%A9%E5%B1%95%E8%B5%84%E6%96%99/2026-09-16-resource-audio/161f1f20-043b93eb-LearnEnglish-Listening-B1_An-introduction-to-a-lecture.pdf",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    }
+  ],
+  "visibleText": "新增 讲座导入：定义、例子与后文路线\n0% · 0 / 5 练习已作答\n\n新增\n\n先识别句子在做什么\n\n讲座可能先提出问题，再给概念、解释概念、举例，最后预告后文。笔记时用“问题／定义／例子／后文安排”标签；一句提到艺术家的话可能只是例子，并不是整节课的研究对象。\n\n复述定义时保留关键条件\n\n下定义常出现 means、refers to 或 in other words。后一句可能只是同一概念换个说法，不必另开一个新主题。反过来，will look at 往往预告尚未展开的内容。\n\n对话示范\n\n“By active listening, I mean checking that you understand the speaker. For example, you might briefly repeat the main point. Later, we will consider situations in which this is difficult.”\n三句话分别承担定义、例子、后文预告。听本课时，不必先掌握专有姓名的拼写；抓住它指的是谁以及其理论内容就可以继续。\n\n听力音频 · An introduction to a lecture\n\n用法与易错\nbe absorbed in\n\n全神贯注于\n\nI was absorbed in drawing a map and forgot the time.\n\n易错：in 后接名词或动名词；不要写 absorbed on。\n\nlose track of time\n\n忘记时间的流逝\n\nShe lost track of time while repairing the bicycle.\n\n易错：lose 的过去式是 lost；常用 track 不加 the。\n\nin other words\n\n换句话说\n\nThe task needs no equipment; in other words, you do not need any tools or devices to do it.\n\n易错：应保持同一意思，不能用它连接无关的新论点。\n\nbe associated with\n\n与……相联系\n\nThe course is associated with practical skills.\n\n易错：association 不等于因果证明；with 后接关联对象。\n\n听后练习\n\n播放原音，完成 5 道练习题。\n1. 这门新课总体属于什么学科方向？\n2. 用中文概括讲座给出的 flow 状态，必须提到人与活动的关系。\n3. 讲者用哪类人的工作作为启发理论的例子？A 运动员，B 艺术家，C 医生。\n4. 给后文三部分排序：a 日常达到这种状态的活动；b 研究者生平与思想形成；c 产生这种状态的条件。\n5. 讲者是否明确保证听完整门课就会终身快乐？指出确定性依据。\n\n第 1 题\n暂时不会\n第 2 题\n暂时不会\n第 3 题\n暂时不会\n第 4 题\n暂时不会\n第 5 题\n暂时不会\n查看参考与解释\n复习选项：简短再用\n 我已读过讲解\n 加入我的复习\n我的新表达／本次复习记录（可留空）\n配套材料",
+  "allContent": "新增 讲座导入：定义、例子与后文路线0% · 0 / 5 练习已作答新增先识别句子在做什么\n讲座可能先提出问题，再给概念、解释概念、举例，最后预告后文。笔记时用“问题／定义／例子／后文安排”标签；一句提到艺术家的话可能只是例子，并不是整节课的研究对象。\n复述定义时保留关键条件\n下定义常出现 means、refers to 或 in other words。后一句可能只是同一概念换个说法，不必另开一个新主题。反过来，will look at 往往预告尚未展开的内容。\n对话示范\n“By active listening, I mean checking that you understand the speaker. For example, you might briefly repeat the main point. Later, we will consider situations in which this is difficult.”\n三句话分别承担定义、例子、后文预告。听本课时，不必先掌握专有姓名的拼写；抓住它指的是谁以及其理论内容就可以继续。听力音频 · An introduction to a lecture用法与易错be absorbed in全神贯注于I was absorbed in drawing a map and forgot the time.易错：in 后接名词或动名词；不要写 absorbed on。lose track of time忘记时间的流逝She lost track of time while repairing the bicycle.易错：lose 的过去式是 lost；常用 track 不加 the。in other words换句话说The task needs no equipment; in other words, you do not need any tools or devices to do it.易错：应保持同一意思，不能用它连接无关的新论点。be associated with与……相联系The course is associated with practical skills.易错：association 不等于因果证明；with 后接关联对象。听后练习播放原音，完成 5 道练习题。\n1. 这门新课总体属于什么学科方向？\n2. 用中文概括讲座给出的 flow 状态，必须提到人与活动的关系。\n3. 讲者用哪类人的工作作为启发理论的例子？A 运动员，B 艺术家，C 医生。\n4. 给后文三部分排序：a 日常达到这种状态的活动；b 研究者生平与思想形成；c 产生这种状态的条件。\n5. 讲者是否明确保证听完整门课就会终身快乐？指出确定性依据。第 1 题暂时不会第 2 题暂时不会第 3 题暂时不会第 4 题暂时不会第 5 题暂时不会查看参考与解释1＝积极心理学，关注如何帮助人更快乐。\n2＝完全投入／专注于正在做的活动。单说“心情好”没有说明本课定义的核心关系。\n3＝B。工作室里艺术家专注工作是说明理论来源的例子。\n4＝b → c → a。最后的路线预告依次是生平、条件、日常活动。\n5＝没有。讲者结尾保留不确定性，而非作出保证。\n这一课的说法按录音中的理论介绍理解，不把它当作关于幸福的唯一科学结论。若顺序出错，只重听结尾的路线预告；若定义不完整，找定义的改述句即可，不必重听姓名很多次。复习选项：简短再用下次学新课前用自己的话说一个“定义＋例子”，再背对材料口头给一场虚构演讲安排 first／then／finally。2–4 分钟即可。 我已读过讲解 加入我的复习我的新表达／本次复习记录（可留空）配套材料· An introduction to a lecture配套原课程 PDF（题目、文字稿及答案）",
+  "links": [
+    {
+      "text": "· An introduction to a lecture",
+      "href": "https://learnenglish.britishcouncil.org/free-resources/listening/b1/introduction-lecture"
+    },
+    {
+      "text": "配套原课程 PDF（题目、文字稿及答案）",
+      "href": "%E6%89%A9%E5%B1%95%E8%B5%84%E6%96%99/2026-09-16-resource-audio/161f1f20-043b93eb-LearnEnglish-Listening-B1_An-introduction-to-a-lecture.pdf"
+    }
+  ],
+  "details": [
+    {
+      "id": "check-listening-lecture-outline",
+      "title": "查看参考与解释",
+      "open": false,
+      "answerGate": "[\"lesson-listening-lecture-outline-q1\", \"lesson-listening-lecture-outline-q2\", \"lesson-listening-lecture-outline-q3\", \"lesson-listening-lecture-outline-q4\", \"lesson-listening-lecture-outline-q5\"]",
+      "visible": true
+    },
+    {
+      "id": "",
+      "title": "复习选项：简短再用",
+      "open": false,
+      "visible": true
+    },
+    {
+      "id": "",
+      "title": "配套材料",
+      "open": false,
+      "visible": true
+    }
+  ],
+  "saveFields": [
+    "lesson-listening-lecture-outline-q1",
+    "lesson-listening-lecture-outline-q2",
+    "lesson-listening-lecture-outline-q3",
+    "lesson-listening-lecture-outline-q4",
+    "lesson-listening-lecture-outline-q5",
+    "resource-learned-new-listening-lecture-outline",
+    "resource-review-new-listening-lecture-outline",
+    "resource-note-new-listening-lecture-outline"
+  ],
+  "images": [],
+  "audio": [
+    {
+      "src": "%E6%89%A9%E5%B1%95%E8%B5%84%E6%96%99/2026-09-16-resource-audio/2224043f-4b345c07-LE_listening_B1_An_introduction_to_a_lecture.mp3",
+      "sources": [],
+      "visible": true,
+      "controls": true
+    }
+  ],
+  "viewport": 1440,
+  "documentWidth": 1440
+}

@@ -1,0 +1,323 @@
+{
+  "reviewedFile": "authentic-reading-cambridge-cases.json",
+  "date": "2026-09-19",
+  "cases": 13,
+  "independentOriginalPassages": 6,
+  "questions": 80,
+  "originalKeyCheck": "All 80 answers independently parsed from original PDF answer pages 123/125 and matched, including fermentation (process) alternatives.",
+  "promptAndOptionsCheck": {
+    "issues": [],
+    "cases": 13,
+    "questions": 80
+  },
+  "coverage": {
+    "3": {
+      "questionCount": 40,
+      "complete1to40": true
+    },
+    "4": {
+      "questionCount": 40,
+      "complete1to40": true
+    }
+  },
+  "caseInventory": [
+    {
+      "caseId": "rd-c21-t3-saiga-adaptation",
+      "source": "C21 Test 3 Reading Passage 1",
+      "sourcePages": [
+        61
+      ],
+      "questionPages": [
+        63,
+        64
+      ],
+      "answerPage": 123,
+      "paragraphs": 4,
+      "words": 340,
+      "questions": [
+        1,
+        2,
+        3,
+        4,
+        8,
+        9,
+        10
+      ]
+    },
+    {
+      "caseId": "rd-c21-t3-saiga-threats",
+      "source": "C21 Test 3 Reading Passage 1",
+      "sourcePages": [
+        61,
+        62
+      ],
+      "questionPages": [
+        63,
+        64
+      ],
+      "answerPage": 123,
+      "paragraphs": 5,
+      "words": 451,
+      "questions": [
+        5,
+        6,
+        7,
+        11,
+        12,
+        13
+      ]
+    },
+    {
+      "caseId": "rd-c21-t3-dart-city",
+      "source": "C21 Test 3 Reading Passage 2",
+      "sourcePages": [
+        65
+      ],
+      "questionPages": [
+        67
+      ],
+      "answerPage": 123,
+      "paragraphs": 5,
+      "words": 354,
+      "questions": [
+        14,
+        15,
+        16,
+        17,
+        18
+      ]
+    },
+    {
+      "caseId": "rd-c21-t3-dart-system",
+      "source": "C21 Test 3 Reading Passage 2",
+      "sourcePages": [
+        65,
+        66
+      ],
+      "questionPages": [
+        68
+      ],
+      "answerPage": 123,
+      "paragraphs": 4,
+      "words": 316,
+      "questions": [
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26
+      ]
+    },
+    {
+      "caseId": "rd-c21-t3-past-discoveries",
+      "source": "C21 Test 3 Reading Passage 3",
+      "sourcePages": [
+        69
+      ],
+      "questionPages": [
+        71,
+        72
+      ],
+      "answerPage": 123,
+      "paragraphs": 3,
+      "words": 285,
+      "questions": [
+        27,
+        31,
+        32
+      ]
+    },
+    {
+      "caseId": "rd-c21-t3-past-art",
+      "source": "C21 Test 3 Reading Passage 3",
+      "sourcePages": [
+        69,
+        70
+      ],
+      "questionPages": [
+        72
+      ],
+      "answerPage": 123,
+      "paragraphs": 2,
+      "words": 292,
+      "questions": [
+        35,
+        36,
+        37,
+        38,
+        39,
+        40
+      ]
+    },
+    {
+      "caseId": "rd-c21-t3-past-preconceptions",
+      "source": "C21 Test 3 Reading Passage 3",
+      "sourcePages": [
+        70
+      ],
+      "questionPages": [
+        71,
+        72
+      ],
+      "answerPage": 123,
+      "paragraphs": 4,
+      "words": 365,
+      "questions": [
+        28,
+        29,
+        30,
+        33,
+        34
+      ]
+    },
+    {
+      "caseId": "rd-c21-t4-hyacinth-problem",
+      "source": "C21 Test 4 Reading Passage 1",
+      "sourcePages": [
+        82
+      ],
+      "questionPages": [
+        84
+      ],
+      "answerPage": 125,
+      "paragraphs": 4,
+      "words": 407,
+      "questions": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "caseId": "rd-c21-t4-hyacinth-biogas",
+      "source": "C21 Test 4 Reading Passage 1",
+      "sourcePages": [
+        83
+      ],
+      "questionPages": [
+        85
+      ],
+      "answerPage": 125,
+      "paragraphs": 5,
+      "words": 345,
+      "questions": [
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ]
+    },
+    {
+      "caseId": "rd-c21-t4-multilingual-background",
+      "source": "C21 Test 4 Reading Passage 2",
+      "sourcePages": [
+        86
+      ],
+      "questionPages": [
+        88
+      ],
+      "answerPage": 125,
+      "paragraphs": 4,
+      "words": 395,
+      "questions": [
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22
+      ]
+    },
+    {
+      "caseId": "rd-c21-t4-multilingual-findings",
+      "source": "C21 Test 4 Reading Passage 2",
+      "sourcePages": [
+        87
+      ],
+      "questionPages": [
+        88,
+        89
+      ],
+      "answerPage": 125,
+      "paragraphs": 4,
+      "words": 362,
+      "questions": [
+        23,
+        24,
+        25,
+        26
+      ]
+    },
+    {
+      "caseId": "rd-c21-t4-globe-search",
+      "source": "C21 Test 4 Reading Passage 3",
+      "sourcePages": [
+        90
+      ],
+      "questionPages": [
+        92,
+        93
+      ],
+      "answerPage": 125,
+      "paragraphs": 4,
+      "words": 368,
+      "questions": [
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36
+      ]
+    },
+    {
+      "caseId": "rd-c21-t4-globe-craft",
+      "source": "C21 Test 4 Reading Passage 3",
+      "sourcePages": [
+        91
+      ],
+      "questionPages": [
+        94
+      ],
+      "answerPage": 125,
+      "paragraphs": 4,
+      "words": 542,
+      "questions": [
+        37,
+        38,
+        39,
+        40
+      ]
+    }
+  ],
+  "issues": [],
+  "notes": [
+    "The 13 crops retain normal examination wording and difficulty; they represent six independent source passages, not thirteen independent passages.",
+    "NOT GIVEN items were additionally checked against each complete source passage to prevent omissions caused by cropping.",
+    "One four-paragraph globemaker crop is 542 words to preserve the complete production/training argument; the remaining crops are 285–451 words.",
+    "Only unambiguous source OCR errors were repaired; no source content or evidence was invented.",
+    "All options are retained in each question structure; the root renderer handles visual de-duplication."
+  ],
+  "paragraphSourceCheck": {
+    "paragraphs": 52,
+    "result": "all match original extracted blocks in page order",
+    "issues": [],
+    "crossPageJoin": "Rethinking the Past art: PDF69 final text block + PDF70 first continuation; running header omitted."
+  }
+}

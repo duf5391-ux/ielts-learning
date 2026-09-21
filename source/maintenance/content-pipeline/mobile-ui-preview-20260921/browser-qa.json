@@ -1,0 +1,37 @@
+{
+  "candidate_sha256": "f58a622d58f0db7a37d4ed6322e9b862947df043aca1e376d90f33b47b2c6865",
+  "method": "CUA actual browser on isolated loopback origin; no production storage touched",
+  "checks": [
+    {
+      "check": "Learning workbench overview",
+      "result": "pass",
+      "detail": "Five primary destinations and all eight original learning links present; wide two-column desktop screenshot inspected"
+    },
+    {
+      "check": "Independent development destination",
+      "result": "pass",
+      "detail": "Native navigation button opened #development; active panel, heading, title and public repository/Actions URLs correct; ws-wide enabled"
+    },
+    {
+      "check": "Desktop width",
+      "result": "pass",
+      "viewport": 1280,
+      "scrollWidth": 1280
+    },
+    {
+      "check": "Phone width",
+      "result": "pass",
+      "viewport": 390,
+      "scrollWidth": 390,
+      "cardWidths": [
+        354,
+        354
+      ],
+      "cardX": [
+        18,
+        18
+      ]
+    }
+  ],
+  "note": "Initial media + workspace preview; combined runtime/progressive release still needs final smoke checks"
+}

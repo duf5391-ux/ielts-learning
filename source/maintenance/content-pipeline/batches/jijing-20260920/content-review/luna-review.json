@@ -1,0 +1,111 @@
+{
+  "reviewer": "luna",
+  "reviewDate": "2026-09-20",
+  "scope": "严格核对两份候选独立题组；不修改公开原件，不代表整套Listening/Reading试卷已通过审核。",
+  "sourceFiles": {
+    "listeningRaw": "downloads/jijing-20260920/ieltsa/raw/listening--2026-sep-hf-1.html",
+    "readingRaw": "downloads/jijing-20260920/ieltsa/raw/reading--2026-sep-hf-1.html"
+  },
+  "method": [
+    "逐项对照公开页面的题面、原文/转写和站方答案栏；答案解释另行检查是否把证据、题意和答后精读混在一起。",
+    "没有把站方标注的2026年9月当作已核实考试日期；没有把重制录音当作官方原声。",
+    "没有逐句听完音频，因此只记录音频文件存在和页面引用关系，不声称完成听音核验。"
+  ],
+  "units": [
+    {
+      "id": "pr-jijing-202609-listening-01-v1",
+      "file": "content-pipeline/batches/jijing-20260920/listening-unit.json",
+      "status": "qualified",
+      "qualificationScope": "可作为站方回忆重建基础上的Listening Part 1独立练习；不是已证明日期和原声的官方原题，也不是完整Listening Test 1。",
+      "sourceIdentity": {
+        "pagePart": "Part 1 – Cabin Crew Job Discussion",
+        "pageQuestionRange": "1–10",
+        "sourceClaim": "Ieltsa页面标为2026-09 Test 1，页面声明为考生回忆/材料整理；日期、考场和官方原卷身份未独立核实。",
+        "audio": "页面及候选均指向494b5ff8b614-2026-sep-hf-1.mp3；按页面与归档记录为站方重制/重录音频，非已核实官方录音。"
+      },
+      "checks": {
+        "questionCount": 10,
+        "answerCount": 10,
+        "questionAnswerIdsIndependent": true,
+        "questionText": "q1–q10与公开页面Part 1题面逐字对应。",
+        "answers": "q1 money；q2 168；q3 maths / math；q4 language；q5 swim；q6 illness；q7 cultures；q8 Eurontas；q9 team；q10 uniform，均与页面答案栏及转写证据一致。",
+        "instructions": "ONE WORD AND/OR A NUMBER与页面Part 1说明一致；候选增加‘从音频开头听起、听到Part 2后暂停’作为本题组使用边界，属于教学操作说明，不冒充原页面文字。",
+        "transcript": "候选转写与公开页面Part 1显示的转写一致；逐题证据可定位到money、168、maths、language、swim、illness、cultures、Eurontas、team、uniform。",
+        "closeReading": "已分别解释岗位信息、条件限制、词块、that/it指代和培训长句；包含另一语言‘有优势但非必需’、游泳‘要求’、制服提供等容易混淆的内容，没有改写成答题技巧复述。"
+      },
+      "findings": [
+        {
+          "ids": ["q1", "q2", "q3", "q4", "q5"],
+          "result": "pass",
+          "detail": "题干、字数形式和答案均能由公开页面题面/转写唯一支持；q3保留页面答案的maths / math形式。"
+        },
+        {
+          "ids": ["q6", "q7", "q8", "q9", "q10"],
+          "result": "pass",
+          "detail": "题干与页面逐字对应；illness、cultures、Eurontas、team、uniform均有直接转写证据。"
+        }
+      ],
+      "fixesApplied": [
+        "将sourceNature明确为‘考生回忆重建、日期未独立核实、非官方原题认定’。",
+        "将音频明确为站方重制录音、非已核实官方原声。",
+        "未改变任何题意或答案，因此保留v1 ID。"
+      ],
+      "unverified": [
+        "未逐句听完或逐题做音频—转写—答案对齐；本审查不声称听过该音频。",
+        "具体考试日期、考场和是否来自同一真实原卷未知。",
+        "Part 2–4及整套40题不在本unit的通过范围。"
+      ]
+    },
+    {
+      "id": "pr-jijing-202609-reading-01-v1",
+      "file": "content-pipeline/batches/jijing-20260920/reading-unit.json",
+      "status": "qualified",
+      "qualificationScope": "可作为公开回忆重建材料中的Reading Passage 1独立阅读练习；不是已证明日期和原卷完整性的官方试题。",
+      "sourceIdentity": {
+        "pagePart": "Reading Passage 1: A Brief History Of Canned Food",
+        "pageQuestionRange": "1–13（整套页面另有Passage 2–3，未纳入本unit）",
+        "sourceClaim": "页面明确声明基于考生回忆投稿及材料收集整理、非官方IELTS资料；具体考场、考试日期和原卷完整性未核实。",
+        "adaptation": "候选保留公开页面原文和13个题干；‘第1–8题按原文词填写’及中文答后精读是本地教学整理。页面没有提供本题组独立的统一字数说明，因此候选已明确标注补充练习说明、原卷字数限制未核实。"
+      },
+      "checks": {
+        "questionCount": 13,
+        "answerCount": 13,
+        "questionAnswerIdsIndependent": true,
+        "questionText": "q1–q13与公开页面Passage 1题面逐字对应，题型分界为q1–q8 summary completion、q9–q13 TRUE/FALSE/NOT GIVEN。",
+        "answers": "q1 soldiers；q2 cork；q3 tin；q4 pressure；q5 bacteria；q6 research；q7 milk；q8 salt；q9 TRUE；q10 FALSE；q11 NOT GIVEN；q12 NOT GIVEN；q13 FALSE，均与页面答案栏一致。",
+        "passage": "候选contextParagraphs逐段对应公开页面Passage 1，并保留open kettle method词条；未发现题面或答案凭空引入文章外事实。",
+        "closeReading": "已说明保存、食品安全、风味/颜色/营养三条变化线，具体讲解Appert与Durand继承/改进关系、卫生与销售额不可混同、蒸汽设备仍可能失败、无菌加工的容器/食物分别杀菌；词块、长句、指代和转折均回到原文内容，不是解题技巧复述。"
+      },
+      "findings": [
+        {
+          "ids": ["q1", "q2", "q3", "q4", "q5", "q6", "q7", "q8"],
+          "result": "pass",
+          "detail": "每个空格均能在对应段落找到直接词语证据；答案与公开答案栏逐项相同。"
+        },
+        {
+          "ids": ["q9", "q10", "q11", "q12", "q13"],
+          "result": "pass",
+          "detail": "TRUE/FALSE/NOT GIVEN判定与原文逻辑一致：Durand沿用获奖方法为TRUE；最初面向士兵和探险者为FALSE；否认责任、销量增长为NOT GIVEN；化学添加剂被放弃为FALSE。"
+        }
+      ],
+      "fixesApplied": [
+        "复核后未发现需要改变题意或答案的题；保留v1 ID。",
+        "保留并确认instructions中的‘补充练习说明’和‘原卷统一作答说明及字数限制未核实’，避免把教学补充包装成官方指令。",
+        "保留原文、题目和答案分离；没有把中文解析替换成题目答案本身。"
+      ],
+      "unverified": [
+        "具体考试日期、考场、考生回忆的一手来源和原卷完整性未知。",
+        "公开页面只证明该站展示的重建版本；不能据此声称官方真题身份或预测命中。",
+        "页面其他两个Passage及整套40题不在本unit的通过范围。"
+      ]
+    }
+  ],
+  "overall": {
+    "result": "both_qualified_with_limits",
+    "publishBoundary": "两份均可作为候选独立学习练习交给root继续做入口/媒体/隔离数据验收；仍不得描述为官方原题、已核实考试日期或完整套卷。",
+    "requiredBeforeFormalRelease": [
+      "完成音频逐句听核并记录音频—转写—答案对齐结果，或继续把听力unit明确标作文字转写支持的教学练习。",
+      "沿用站方重制音频的非官方标识，并保留本审查中的日期和原卷完整性未知项。"
+    ]
+  }
+}

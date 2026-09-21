@@ -1,0 +1,307 @@
+{
+  "requested": "reading-tech-completion",
+  "from": [
+    "内容单元",
+    "页面链接"
+  ],
+  "actual": "#reading-tech-completion",
+  "checkedAt": "2026-09-21T12:51:08.829Z",
+  "title": "学习 / 阅读 / 填空：真实表格、摘要中的字数和同义转换 · IELTS",
+  "label": "学习 / 阅读 / 填空：真实表格、摘要中的字数和同义转换",
+  "panel": "reading",
+  "contentRoot": "reading-tech-completion",
+  "headings": [
+    {
+      "tag": "H4",
+      "text": "用原题练这一题型",
+      "visible": true
+    }
+  ],
+  "controls": [
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "填空：真实表格、摘要中的字数和同义转换",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "The Davies Sisters｜成长背景与收藏起点",
+      "label": "",
+      "href": "#reading-case-rd-c21-davies-1",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "Do animals dream?｜跨物种睡眠研究",
+      "label": "",
+      "href": "#reading-case-rd-c21-dreams-1",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "The World of Sugar｜劳动组织与行业权力",
+      "label": "",
+      "href": "#reading-case-rd-c21-sugar-2",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "Cambridge IELTS 21 Academic · Test 1 · PDF 17 页",
+      "label": "",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=17",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "Cambridge IELTS 21 Academic · Test 1 · PDF 119 页",
+      "label": "",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=119",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "Cambridge IELTS 21 Academic · Test 2 · PDF 39 页",
+      "label": "",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=39",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "Cambridge IELTS 21 Academic · Test 2 · PDF 121 页",
+      "label": "",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=121",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "Cambridge IELTS 21 Academic · Test 1 · PDF 26 页",
+      "label": "",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=26",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "练原题：The Davies Sisters｜成长背景与收藏起点",
+      "label": "",
+      "href": "#reading-case-rd-c21-davies-1",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "练原题：Do animals dream?｜跨物种睡眠研究",
+      "label": "",
+      "href": "#reading-case-rd-c21-dreams-1",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "练原题：The World of Sugar｜劳动组织与行业权力",
+      "label": "",
+      "href": "#reading-case-rd-c21-sugar-2",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "checkbox",
+      "text": "",
+      "label": "我已学习本单元",
+      "href": null,
+      "save": "resource-learned-tech-completion",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "checkbox",
+      "text": "",
+      "label": "加入我的复习",
+      "href": null,
+      "save": "resource-review-tech-completion",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "我的练习答案／证据／下次要改的一步（可留空）",
+      "href": null,
+      "save": "resource-note-tech-completion",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "Water hyacinth · 沼气流程、收益与价格障碍",
+      "label": "",
+      "href": "#reading-case-rd-c21-t4-hyacinth-biogas",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "鸟类起源：理论提出、反驳与新证据",
+      "label": "",
+      "href": "#reading-case-rd-gap-birds-sentence-history",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "鸟类起源：两方论点与过渡化石",
+      "label": "",
+      "href": "#reading-case-rd-gap-birds-sentence-debate",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "健康观念变化：年份、十年与三大领域",
+      "label": "",
+      "href": "#reading-case-rd-gap-academic-short-answer-health",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    }
+  ],
+  "visibleText": "填空：真实表格、摘要中的字数和同义转换\n0% · 0 / 1 完成\n\n先分清两种指令。Davies Q1–4要求ONE WORD ONLY from the passage：grandfather’s wealth来自mining与shipping，题干已用transportation改写shipping，所以Q1＝mining。Q3的lengthy对应extensive，take/make notes相互改写，Q3＝notes，复数不能丢。\n\nDo animals dream? 表格按物种拆行：鸽子的脑区处理visual information，所以Q2＝visual；鲸豚关闭半边脑，另一半清醒，所以Q3＝half；non-REM dreams are less vivid改写为not very ___，因此Q5＝vivid。先检查行标题和词性，别从邻行捞词。\n\n选词摘要则填字母而非照抄原文。Sugar Q31把在德国工作的波兰人、在美国工作的墨西哥人等概括为H migrant workers；Q35把trade barriers and subsidies归类为G financial controls。精读把“具体实例→上位概念”连起来，不能认为选项没在原文逐字出现就排除。\n\n继续做原题片段：The Davies Sisters｜成长背景与收藏起点 · Do animals dream?｜跨物种睡眠研究 · The World of Sugar｜劳动组织与行业权力\n\nCambridge IELTS 21 Academic · Test 1 · PDF 17 页\n\nCambridge IELTS 21 Academic · Test 1 · PDF 119 页\n\nCambridge IELTS 21 Academic · Test 2 · PDF 39 页\n\nCambridge IELTS 21 Academic · Test 2 · PDF 121 页\n\nCambridge IELTS 21 Academic · Test 1 · PDF 26 页\n\n练原题：The Davies Sisters｜成长背景与收藏起点\n练原题：Do animals dream?｜跨物种睡眠研究\n练原题：The World of Sugar｜劳动组织与行业权力\n\n本单元的学习记录\n\n 我已学习本单元 加入我的复习\n我的练习答案／证据／下次要改的一步（可留空）\n用原题练这一题型\nWater hyacinth · 沼气流程、收益与价格障碍\n鸟类起源：理论提出、反驳与新证据\n鸟类起源：两方论点与过渡化石\n健康观念变化：年份、十年与三大领域",
+  "allContent": "填空：真实表格、摘要中的字数和同义转换0% · 0 / 1 完成先分清两种指令。Davies Q1–4要求ONE WORD ONLY from the passage：grandfather’s wealth来自mining与shipping，题干已用transportation改写shipping，所以Q1＝mining。Q3的lengthy对应extensive，take/make notes相互改写，Q3＝notes，复数不能丢。Do animals dream? 表格按物种拆行：鸽子的脑区处理visual information，所以Q2＝visual；鲸豚关闭半边脑，另一半清醒，所以Q3＝half；non-REM dreams are less vivid改写为not very ___，因此Q5＝vivid。先检查行标题和词性，别从邻行捞词。选词摘要则填字母而非照抄原文。Sugar Q31把在德国工作的波兰人、在美国工作的墨西哥人等概括为H migrant workers；Q35把trade barriers and subsidies归类为G financial controls。精读把“具体实例→上位概念”连起来，不能认为选项没在原文逐字出现就排除。继续做原题片段：The Davies Sisters｜成长背景与收藏起点 · Do animals dream?｜跨物种睡眠研究 · The World of Sugar｜劳动组织与行业权力Cambridge IELTS 21 Academic · Test 1 · PDF 17 页Cambridge IELTS 21 Academic · Test 1 · PDF 119 页Cambridge IELTS 21 Academic · Test 2 · PDF 39 页Cambridge IELTS 21 Academic · Test 2 · PDF 121 页Cambridge IELTS 21 Academic · Test 1 · PDF 26 页练原题：The Davies Sisters｜成长背景与收藏起点练原题：Do animals dream?｜跨物种睡眠研究练原题：The World of Sugar｜劳动组织与行业权力本单元的学习记录 我已学习本单元 加入我的复习我的练习答案／证据／下次要改的一步（可留空）用原题练这一题型Water hyacinth · 沼气流程、收益与价格障碍鸟类起源：理论提出、反驳与新证据鸟类起源：两方论点与过渡化石健康观念变化：年份、十年与三大领域",
+  "links": [
+    {
+      "text": "The Davies Sisters｜成长背景与收藏起点",
+      "href": "#reading-case-rd-c21-davies-1"
+    },
+    {
+      "text": "Do animals dream?｜跨物种睡眠研究",
+      "href": "#reading-case-rd-c21-dreams-1"
+    },
+    {
+      "text": "The World of Sugar｜劳动组织与行业权力",
+      "href": "#reading-case-rd-c21-sugar-2"
+    },
+    {
+      "text": "Cambridge IELTS 21 Academic · Test 1 · PDF 17 页",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=17"
+    },
+    {
+      "text": "Cambridge IELTS 21 Academic · Test 1 · PDF 119 页",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=119"
+    },
+    {
+      "text": "Cambridge IELTS 21 Academic · Test 2 · PDF 39 页",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=39"
+    },
+    {
+      "text": "Cambridge IELTS 21 Academic · Test 2 · PDF 121 页",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=121"
+    },
+    {
+      "text": "Cambridge IELTS 21 Academic · Test 1 · PDF 26 页",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=26"
+    },
+    {
+      "text": "练原题：The Davies Sisters｜成长背景与收藏起点",
+      "href": "#reading-case-rd-c21-davies-1"
+    },
+    {
+      "text": "练原题：Do animals dream?｜跨物种睡眠研究",
+      "href": "#reading-case-rd-c21-dreams-1"
+    },
+    {
+      "text": "练原题：The World of Sugar｜劳动组织与行业权力",
+      "href": "#reading-case-rd-c21-sugar-2"
+    },
+    {
+      "text": "Water hyacinth · 沼气流程、收益与价格障碍",
+      "href": "#reading-case-rd-c21-t4-hyacinth-biogas"
+    },
+    {
+      "text": "鸟类起源：理论提出、反驳与新证据",
+      "href": "#reading-case-rd-gap-birds-sentence-history"
+    },
+    {
+      "text": "鸟类起源：两方论点与过渡化石",
+      "href": "#reading-case-rd-gap-birds-sentence-debate"
+    },
+    {
+      "text": "健康观念变化：年份、十年与三大领域",
+      "href": "#reading-case-rd-gap-academic-short-answer-health"
+    }
+  ],
+  "details": [],
+  "saveFields": [
+    "resource-learned-tech-completion",
+    "resource-review-tech-completion",
+    "resource-note-tech-completion"
+  ],
+  "images": [],
+  "audio": [],
+  "viewport": 1440,
+  "documentWidth": 1440
+}

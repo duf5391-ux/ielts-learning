@@ -1,0 +1,1815 @@
+{
+  "requested": "background",
+  "from": [
+    "主面板",
+    "页面链接"
+  ],
+  "actual": "#background",
+  "checkedAt": "2026-09-21T12:50:26.764Z",
+  "title": "共用背景 · IELTS",
+  "label": "共用背景",
+  "panel": "background",
+  "contentRoot": "background",
+  "headings": [
+    {
+      "tag": "H2",
+      "text": "从原题片段了解内容",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "运动成绩：从科研到训练支持",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "运动成绩：从科研到训练支持",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "导读与参考答案",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "计时工具：自然周期与技术限制",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "计时工具：自然周期与技术限制",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "导读与参考答案",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "电影声音：完整原页与原题证据",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "电影声音：三个组成部分怎样协同",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "原题",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "参考答案与证据",
+      "visible": false
+    },
+    {
+      "tag": "H2",
+      "text": "话题背景学习单元",
+      "visible": true
+    },
+    {
+      "tag": "H1",
+      "text": "共用背景",
+      "visible": true
+    },
+    {
+      "tag": "H1",
+      "text": "先有内容，再找表达。",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "司法与技术：算法风险的真实阅读语境",
+      "visible": false
+    },
+    {
+      "tag": "H3",
+      "text": "公共治理：公交方案怎样落地",
+      "visible": false
+    },
+    {
+      "tag": "H3",
+      "text": "社会责任：财富如何用于公共文化",
+      "visible": false
+    },
+    {
+      "tag": "H3",
+      "text": "太空与生命：样本怎样成为证据",
+      "visible": false
+    },
+    {
+      "tag": "H3",
+      "text": "教育",
+      "visible": false
+    },
+    {
+      "tag": "H3",
+      "text": "工作",
+      "visible": false
+    },
+    {
+      "tag": "H3",
+      "text": "科技",
+      "visible": false
+    },
+    {
+      "tag": "H3",
+      "text": "城市",
+      "visible": false
+    },
+    {
+      "tag": "H3",
+      "text": "环境保护：威胁之间的关系",
+      "visible": false
+    },
+    {
+      "tag": "H3",
+      "text": "健康与消费：读出作者评价",
+      "visible": false
+    },
+    {
+      "tag": "H3",
+      "text": "文化遗产：个人偏好与收藏选择",
+      "visible": false
+    },
+    {
+      "tag": "H3",
+      "text": "日常生活：读懂产品召回通知",
+      "visible": false
+    },
+    {
+      "tag": "H2",
+      "text": "生活里的英语，也要说具体",
+      "visible": false
+    },
+    {
+      "tag": "H3",
+      "text": "住所与邻里",
+      "visible": false
+    },
+    {
+      "tag": "H3",
+      "text": "家人朋友",
+      "visible": false
+    },
+    {
+      "tag": "H3",
+      "text": "日常选择",
+      "visible": false
+    },
+    {
+      "tag": "H3",
+      "text": "兴趣与技能",
+      "visible": false
+    },
+    {
+      "tag": "H3",
+      "text": "经历与计划变化",
+      "visible": false
+    },
+    {
+      "tag": "H3",
+      "text": "地点与天气",
+      "visible": false
+    },
+    {
+      "tag": "H2",
+      "text": "城市：把住房、交通与公共空间放在一起看",
+      "visible": false
+    },
+    {
+      "tag": "H3",
+      "text": "先分清三个概念",
+      "visible": false
+    },
+    {
+      "tag": "H3",
+      "text": "读一段背景英语",
+      "visible": false
+    },
+    {
+      "tag": "H3",
+      "text": "这个话题通常怎样展开",
+      "visible": false
+    },
+    {
+      "tag": "H3",
+      "text": "可以直接理解和借用的搭配",
+      "visible": false
+    },
+    {
+      "tag": "H2",
+      "text": "从主题目录找到要补的背景",
+      "visible": false
+    },
+    {
+      "tag": "H2",
+      "text": "这部分怎样放进每天的学习",
+      "visible": false
+    },
+    {
+      "tag": "H2",
+      "text": "练习",
+      "visible": true
+    }
+  ],
+  "controls": [
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "练习 →",
+      "label": "",
+      "href": "#pp-background",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "查看阅读资料 →",
+      "label": "",
+      "href": "扩展资料目录.html?skill=reading",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "家庭背景、教育与文化姐妹的教育经历如何通向艺术收藏",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "",
+      "label": "",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "",
+      "label": "",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=17",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "食物消费与贸易糖不只是餐桌上的食物",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "",
+      "label": "",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "",
+      "label": "",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=26",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "科技、工作与公共服务有算法之外，还需要什么",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "",
+      "label": "",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "",
+      "label": "",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=47",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "环境与资源保护一种动物，也保护它所在的生态系统",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "",
+      "label": "",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "",
+      "label": "",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=62",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "城市、交通与日常服务从买票到上车：交通设施中的可达性",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "",
+      "label": "",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "",
+      "label": "",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=65",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "考古、文化遗产与研究发现遗物之后，还要解释什么",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "",
+      "label": "",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "",
+      "label": "",
+      "href": "原始参考/188a4619-ielts-academic-reading-access-arrangement-modified-large-print-text-booklet.pdf#page=5",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "语言与教育一本词典是怎样开始的",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "",
+      "label": "",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "",
+      "label": "",
+      "href": "原始参考/e0428977-hwatai-cambridge5-sample.pdf#page=7",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "体育、技能与训练条件运动成绩背后的训练支持",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "",
+      "label": "",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "",
+      "label": "",
+      "href": "原始参考/ad0a33c0-hwatai-cambridge6-sample.pdf#page=9",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "",
+      "label": "",
+      "href": "原始参考/ad0a33c0-hwatai-cambridge6-sample.pdf#page=9",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "",
+      "label": "",
+      "href": "原始参考/ad0a33c0-hwatai-cambridge6-sample.pdf#page=9",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "日常工具、技术与自然条件计时工具为什么会受到天气限制",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "",
+      "label": "",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "",
+      "label": "",
+      "href": "原始参考/d04994b0-hwatai-cambridge8-sample.pdf#page=10",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "",
+      "label": "",
+      "href": "原始参考/d04994b0-hwatai-cambridge8-sample.pdf#page=9",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "",
+      "label": "",
+      "href": "原始参考/d04994b0-hwatai-cambridge8-sample.pdf#page=9",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "旅游、文化遗产与水资源阶梯井为何既是工程遗迹，也是旅行目的地",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "",
+      "label": "",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "",
+      "label": "",
+      "href": "原始参考/99437c83-hwatai-cambridge10-sample.pdf#page=9",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "健康与公共服务一种历史上的健康理解",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "",
+      "label": "",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "",
+      "label": "",
+      "href": "原始参考/dfacdd41-cambridge-classroom-reading-3.pdf#page=4",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "媒体、艺术与娱乐电影声音由哪些部分组成",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "",
+      "label": "",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "",
+      "label": "",
+      "href": "原始参考/04f17772-cambridge-research-notes68.pdf#page=30",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "",
+      "label": "",
+      "href": "原始参考/04f17772-cambridge-research-notes68.pdf#page=30",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "",
+      "label": "",
+      "href": "原始参考/04f17772-cambridge-research-notes68.pdf#page=31",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "",
+      "label": "",
+      "href": "原始参考/04f17772-cambridge-research-notes68.pdf#page=30",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "",
+      "label": "",
+      "href": "原始参考/04f17772-cambridge-research-notes68.pdf#page=31",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "checkbox",
+      "text": "",
+      "label": "我已看过本单元",
+      "href": null,
+      "save": "learning-read-learn-155",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "另看：24 个常见词与 20 组跨话题用法 →",
+      "label": "",
+      "href": "#vocabulary",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "下载背景读本 PDF",
+      "label": "",
+      "href": "背景读本-话题与常用表达.pdf",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "打开话题与学习资源 →",
+      "label": "",
+      "href": "#resource-update",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "新增背景司法与技术：算法风险的真实阅读语境预防、回应与重新融入",
+      "label": "",
+      "href": "#topic-crime",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "新增背景公共治理：公交方案怎样落地预算、优先次序与长期成本",
+      "label": "",
+      "href": "#topic-government",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "新增背景社会责任：财富如何用于公共文化参与机会、照护与自主选择",
+      "label": "",
+      "href": "#topic-society",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "新增背景太空与生命：样本怎样成为证据研究价值怎样与现实需求比较",
+      "label": "",
+      "href": "#topic-space",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "TOPIC 01未标记教育谁能学到，学什么，怎样学access to education · practical skills",
+      "label": "",
+      "href": "#topic-education",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "TOPIC 02未标记工作收入、稳定性与生活安排job security · flexible working arrangements",
+      "label": "",
+      "href": "#topic-work",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "TOPIC 03未标记科技工具带来什么，又需要什么条件digital access · automation",
+      "label": "",
+      "href": "#topic-technology",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "TOPIC 04未标记城市把住房、交通与公共空间放在一起看public transport · housing affordability",
+      "label": "",
+      "href": "#topic-cities",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "TOPIC 05未标记环境保护：威胁之间的关系资源使用与长期维持resource use · reuse and recycling",
+      "label": "",
+      "href": "#topic-environment",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "TOPIC 06未标记健康与消费：读出作者评价公共服务与日常安排access to services · affordability",
+      "label": "",
+      "href": "#topic-health",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "TOPIC 07未标记文化遗产：个人偏好与收藏选择设施、遗产与娱乐cultural facilities · cultural heritage",
+      "label": "",
+      "href": "#topic-culture",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "TOPIC 08未标记日常生活：读懂产品召回通知物品、取件与服务安排collection and delivery · dimensions and value",
+      "label": "",
+      "href": "#topic-everyday",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "01住所与邻里把生活空间说具体",
+      "label": "",
+      "href": "#topic-personal-home_neighbourhood",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "02家人朋友用一次互动说明关系",
+      "label": "",
+      "href": "#topic-personal-relationships",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "03日常选择偏好背后的场合与取舍",
+      "label": "",
+      "href": "#topic-personal-daily_choices",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "04兴趣与技能从第一次尝试说到现在",
+      "label": "",
+      "href": "#topic-personal-interests_skills",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "05经历与计划变化让听者跟得上事情经过",
+      "label": "",
+      "href": "#topic-personal-experiences_changes",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "06地点与天气描述环境怎样影响一次活动",
+      "label": "",
+      "href": "#topic-personal-places_weather",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "还有哪些话题值得了解？查看 22 类话题与现有内容的对应关系",
+      "label": "",
+      "href": "#topic-coverage",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "这部分怎样放进每天的学习 →",
+      "label": "",
+      "href": "#topic-use",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "下载背景读本 PDF ↗",
+      "label": "",
+      "href": "背景读本-话题与常用表达.pdf",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "教育",
+      "label": "",
+      "href": "#topic-education",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "工作",
+      "label": "",
+      "href": "#topic-work",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "科技",
+      "label": "",
+      "href": "#topic-technology",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "城市",
+      "label": "",
+      "href": "#topic-cities",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "环境",
+      "label": "",
+      "href": "#topic-environment",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "健康",
+      "label": "",
+      "href": "#topic-health",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "文化",
+      "label": "",
+      "href": "#topic-culture",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "日常沟通",
+      "label": "",
+      "href": "#topic-everyday",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "更多话题怎么接",
+      "label": "",
+      "href": "#topic-coverage",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "六段个人生活",
+      "label": "",
+      "href": "#topic-personal",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "← 返回本科内容",
+      "label": "",
+      "href": "#study-shared-list",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "checkbox",
+      "text": "",
+      "label": "已读过这段背景",
+      "href": null,
+      "save": "topic-read-cities",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "中文帮助理解",
+      "label": "",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "The Physics of Traffic Behavior",
+      "label": "",
+      "href": "原始参考/ec598fcf-inspera-response-3.txt",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "阅读章",
+      "label": "",
+      "href": "#reading",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "Task 1",
+      "label": "",
+      "href": "#writing1",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "口语章",
+      "label": "",
+      "href": "#speaking",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "公共治理：公交方案怎样落地 →",
+      "label": "",
+      "href": "#topic-government",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "文化与休闲",
+      "label": "",
+      "href": "#topic-culture",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "工作与经济",
+      "label": "",
+      "href": "#topic-work",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "教育与技能",
+      "label": "",
+      "href": "#topic-education",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "环境与资源",
+      "label": "",
+      "href": "#topic-environment",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "太空与科研",
+      "label": "",
+      "href": "#topic-space",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "城市与交通",
+      "label": "",
+      "href": "#topic-cities",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "健康与生活",
+      "label": "",
+      "href": "#topic-health",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "日常生活与六段个人语境",
+      "label": "",
+      "href": "#topic-everyday",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "科技与变化",
+      "label": "",
+      "href": "#topic-technology",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "犯罪与惩罚",
+      "label": "",
+      "href": "#topic-crime",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "政府公共支出",
+      "label": "",
+      "href": "#topic-government",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "社会与代际",
+      "label": "",
+      "href": "#topic-society",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "话题 · 海洋资源",
+      "label": "",
+      "href": "#pr-background-fisheries",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "阅读理解 →",
+      "label": "",
+      "href": "#pr-background-fisheries",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "写作练习 →",
+      "label": "",
+      "href": "#pr-fisheries-writing",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    }
+  ],
+  "visibleText": "0% · 0 / 2 单元\n0% · 0 / 1 完成\n\nREAD THE ORIGINAL\n\n从原题片段了解内容\n\n12 段阅读材料，附可展开的词汇注释。\n\n家庭背景、教育与文化姐妹的教育经历如何通向艺术收藏\n食物消费与贸易糖不只是餐桌上的食物\n科技、工作与公共服务有算法之外，还需要什么\n环境与资源保护一种动物，也保护它所在的生态系统\n城市、交通与日常服务从买票到上车：交通设施中的可达性\n考古、文化遗产与研究发现遗物之后，还要解释什么\n语言与教育一本词典是怎样开始的\n体育、技能与训练条件运动成绩背后的训练支持\n日常工具、技术与自然条件计时工具为什么会受到天气限制\n旅游、文化遗产与水资源阶梯井为何既是工程遗迹，也是旅行目的地\n健康与公共服务一种历史上的健康理解\n媒体、艺术与娱乐电影声音由哪些部分组成\n我已看过本单元\n\nTOPIC BACKGROUND\n\n话题背景学习单元\n\n先认识话题中的基本概念，再读生活情境、积累词语和表达。每次可以只学一个情境，新增内容已标红。\n\n共用背景\n\n可供多科使用的知识与材料。具体阅读、写作、听力、口语任务分别进入练习。\n\nBACKGROUND / 先读什么\n\n先有内容，再找表达。\n\n先认识话题、看清概念，再把常用词放进真实意义里。这里先读，不要求每看一页就交一份练习。\n\n练习\n话题 · 海洋资源\n\n阅读理解 → · 写作练习 →",
+  "allContent": "0% · 0 / 2 单元练习 →扩展资料已到库四科教案与 B1/B2 语境，按用途选读。查看阅读资料 →0% · 0 / 1 完成READ THE ORIGINAL从原题片段了解内容12 段阅读材料，附可展开的词汇注释。家庭背景、教育与文化姐妹的教育经历如何通向艺术收藏Their / the sisters 指 Gwendoline 和 Margaret Davies。这段叙述两人的成长、教育及文化活动；philanthropic 表示与慈善有关。Their religious upbringing in rural Wales gave them a deep sense of social responsibility and they chose to use their inheritance for cultural and philanthropic* purposes.While there was no real family history of art collecting, the sisters’ education was rigorously geared toward such pursuits. Their London school focused on cultural rather than academic study, and they travelled extensively with their governess, Jane Blaker, visiting art galleries and making extensive notes on the collections there.需要时看词汇注释upbringing：成长中的教养与环境geared toward：面向、为某一方向作准备philanthropic：慈善的；帮助他人的打开原文所在页食物消费与贸易糖不只是餐桌上的食物这是一篇历史著作的书评开头，讨论糖的生产、贸易地位、补贴及影响。Ulbe Bosma’s The World of Sugar is a genuinely global history. Bosma discusses all the sugar-growing places of the world, beginning with Cuba and Java, the largest exporters of the early 20th century. But this is a history not just of cane sugar but also of beet sugar, an equally important form of traded sugar over the last hundred years. Beet sugar is grown mainly in Europe and the United States. It has also been massively subsidised and sold at artificially low prices on world markets, threatening the livelihood of producers of cane sugar.需要时看词汇注释cane sugar / beet sugar：甘蔗糖／甜菜糖subsidised：获得补贴的livelihood：生计、维持生活的收入来源打开原文所在页科技、工作与公共服务有算法之外，还需要什么本段分析公共部门采用 AI 所需的条件：技术、数据管理、组织协作与人员能力。注意 typically 的限定作用。AI systems need a lot of data to function, but the public sector typically does not have the appropriate data infrastructure to support advanced machine learning. Most of the data remains stored in offline archives. The few digitised sources of data that exist tend to be buried in bureaucracy. More often than not, data is spread across different government departments that each require special permissions to be accessed. Above all, the public sector typically lacks the human talent with the right technological capabilities to fully reap the benefits of machine intelligence.需要时看词汇注释data infrastructure：支撑数据存储、管理和使用的基础设施the public sector：公共部门reap the benefits of：获得……带来的益处打开原文所在页环境与资源保护一种动物，也保护它所在的生态系统本段介绍一项保护项目及其在 2022 年的进展，涉及生态系统修复、生物多样性与跨组织合作。Recent efforts to save the saiga have been spearheaded by the Altyn Dala Conservation Initiative, a project led by the Association for the Conservation of Biodiversity of Kazakhstan, working in partnership with the Kazakh government’s Committee for Forestry and Wildlife, Frankfurt Zoological Society and Fauna and Flora, an international conservation charity. Its purpose is to protect and restore Kazakhstan’s steppe, semi-desert and desert ecosystems and the many species they support, including the critically endangered saiga. In 2022 the United Nations recognised the initiative as a World Restoration Flagship project, an accolade reserved for the ten best examples of large-scale ecosystem restoration around the globe.需要时看词汇注释spearheaded by：由……牵头推动working in partnership with：与……合作开展工作ecosystem restoration：生态系统修复打开原文所在页城市、交通与日常服务从买票到上车：交通设施中的可达性开头 It 指达累斯萨拉姆；DART 是文中讨论的快速公交系统。关注上车流程、无障碍设计与携婴出行。It has chosen a less exciting but cheaper and more achievable method: the bus.The DART bus rapid transit (BRT) system runs on bus lanes separated from other traffic, mostly in the middle of the road to reduce stoppages. Ticket purchase and control takes place at stations prior to boarding and the buses are step-free, which means the entire route is accessible to people using wheelchairs or who are travelling with baby buggies.需要时看词汇注释bus rapid transit：快速公交系统prior to boarding：上车之前step-free：无台阶的；可平缓通行的打开原文所在页考古、文化遗产与研究发现遗物之后，还要解释什么考古结合了发现、分析、想象、解释和遗产保护。注意作者如何组织并列概念。Archaeology is partly the discovery of the treasures of the past, partly the careful work of the scientific analyst, partly the exercise of the creative imagination. It is toiling in the sun on an excavation in the Middle East, it is working with living Inuit and Yupik people in the snows of Alaska, and it is investigating the sewers of Roman Britain. But it is also the painstaking task of interpretation, so that we come to understand what these things mean for the human story. And it is the conservation of the world’s cultural heritage against looting and careless harm.需要时看词汇注释excavation：考古发掘；发掘现场painstaking：细致而费心的looting：劫掠、盗取文物打开原文所在页语言与教育一本词典是怎样开始的Johnson 指 Samuel Johnson。这段介绍词典编写者的工作与做法，可练习人物经历和大型任务的描述。Johnson was a poet and critic who raised common sense to the heights of genius. His approach to the problems that had worried writers throughout the late seventeenth and early eighteenth centuries was intensely practical. Up until his time, the task of producing a dictionary on such a large scale had seemed impossible without the establishment of an academy to make decisions about right and wrong usage. Johnson decided he did not need an academy to settle arguments about language; he would write a dictionary himself; and he would do it single-handed.需要时看词汇注释on such a large scale：以如此大的规模settle arguments：解决争论single-handed：独自地；凭一人之力打开原文所在页体育、技能与训练条件运动成绩背后的训练支持本段解释澳大利亚的运动成绩，介绍教练、设施、培训机构及运动支持服务。They play hard, they play often, and they play to win. Australian sports teams win more than their fair share of titles, demolishing rivals with seeming ease. How do they do it? A big part of the secret is an extensive and expensive network of sporting academies underpinned by science and medicine. At the Australian Institute of Sport (AIS), hundreds of youngsters and pros live and train under the eyes of coaches. Another body, the Australian Sports Commission (ASC), finances programmes of excellence in a total of 96 sports for thousands of sportsmen and women. Both provide intensive coaching, training facilities and nutritional advice.需要时看词汇注释underpinned by：以……为基础、由……支撑training facilities：训练设施intensive coaching：密集的教练指导打开原文所在页运动成绩：从科研到训练支持运动成绩：从科研到训练支持下面提供完整阅读语境与导读答案。此公开样本的摘录没有提供这篇全部原题和答案，本补充作为背景阅读，教师问题明确另行标识。XREADING X READING PASSAGE 1 You should spend about 20 minutes on Questions 1–13, which are based on Reading Passage 1 below. AUSTRALIA’S SPORTING SUCCESS A They play hard, they play often, and they play to win. Australian sports teams win more than their fair share of titles, demolishing rivals with seeming ease. How do they do it? A big part of the secret is an extensive and expensive network of sporting academies underpinned by science and medicine. At the Australian Institute of Sport (AIS), hundreds of youngsters and pros live and train under the eyes of coaches. Another body, the Australian Sports Commission (ASC), ﬁnances programmes of excellence in a total of 96 sports for thousands of sportsmen and women. Both provide intensive coaching, training facilities and nutritional advice. B Inside the academies, science takes centre stage.The AIS employs more than 100 sports scientists and doctors, and collaborates with scores of others in universities and research centres. AIS scientists work across a number of sports, applying skills learned in one – such as building muscle strength in golfers – to others, such as swimming and squash.They are backed up by technicians who design instruments to collect data from athletes.They all focus on one aim: winning.‘We can’t waste our time looking at ethereal scientiﬁc questions that don’t help the coach work with an athlete and improve performance,’ says Peter Fricker, chief of science at AIS. C A lot of their work comes down to measurement – everything from the exact angle of a swimmer’s dive to the second-by-second power output of a cyclist.This data is used to wring improvements out of athletes.The focus is on individuals, tweaking performances to squeeze an extra hundredth of a second here, an extra millimetre there. No gain is too slight to bother with. It’s the tiny, gradual improvements that add up to world-beating results.T o demonstrate how the system works, Bruce Mason at AIS shows off the prototype of a 3D analysis tool for studying swimmers. A wire-frame model of a champion swimmer slices through the water, her arms moving in slow motion. Looking side-on, Mason measures the distance between strokes. From above, he analyses how her spine swivels.When fully developed, this system will enable him to build a biomechanical proﬁle for coaches to use to help budding swimmers. Mason’s contribution to sport also includes the development of the SWAN (SWimming ANalysis) system now used in Australian national competitions. It collects images from digital cameras Test 1 18 © Cambridge University Press www.cambridge.org Cambridge University Press 978-0-521-69307-3 - Cambridge IELTS 6 Cambridge ESOL Excerpt More informationrunning at 50 frames a second and breaks down each part of a swimmer’s performance into factors that can be analysed individually – stroke length, stroke frequency, average duration of each stroke, velocity, start, lap and ﬁnish times, and so on. At the end of each race, SWAN spits out data on each swimmer. D ‘Take a look,’ says Mason, pulling out a sheet of data. He points out the data on the swimmers in second and third place, which shows that the one who ﬁnished third actually swam faster. So why did he ﬁnish 35 hundredths of a second down? ‘His turn times were 44 hundredths of a second behind the other guy,’ says Mason.‘If he can improve on his turns, he can do much better.’This is the kind of accuracy that AIS scientists’ research is bringing to a range of sports. With the Cooperative Research Centre for Micro Technology in Melbourne, they are developing unobtrusive sensors that will be embedded in an athlete’s clothes or running shoes to monitor heart rate, sweating, heat production or any other factor that might have an impact on an athlete’s ability to run.There’s more to it than simply measuring performance. Fricker gives the example of athletes who may be down with coughs and colds 11 or 12 times a year. After years of experimentation, AIS and the University of Newcastle in New South Wales developed a test that measures how much of the immune-system protein immunoglobulin A is present in athletes’ saliva. If IgA levels suddenly fall below a certain level, training is eased or dropped altogether. Soon, IgA levels start rising again, and the danger passes. Since the tests were introduced, AIS athletes in all sports have been remarkably successful at staying healthy. E Using data is a complex business.Well before a championship, sports scientists and coaches start to prepare the athlete by developing a ‘competition model’, based on what they expect will be the winning times.‘Y ou design the model to make that time,’ says Mason.‘A start of this much, each free-swimming period has to be this fast, with a certain stroke frequency and stroke length, with turns done in these times.’ All the training is then geared towards making the athlete hit those targets, both overall and for each segment of the race.Techniques like these have transformed Australia into arguably the world’s most successful sporting nation. F Of course, there’s nothing to stop other countries copying – and many have tried. Some years ago, the AIS unveiled coolant-lined jackets for endurance athletes. At the Atlanta Olympic Games in 1996, these sliced as much as two per cent off cyclists’ and rowers’ times. Now everyone uses them.The same has happened to the ‘altitude tent’, developed by AIS to replicate the effect of altitude training at sea level. But Australia’s success story is about more than easily copied technological ﬁxes, and up to now no nation has replicated its all-encompassing system. Reading 19 © Cambridge University Press www.cambridge.org Cambridge University Press 978-0-521-69307-3 - Cambridge IELTS 6 Cambridge ESOL Excerpt More information导读与参考答案导读问题（导读问题）：AIS与ASC各怎样支持运动员？参考答案：AIS让年轻及职业运动员在教练监督下训练并使用科学与医疗人员；ASC为96项运动的项目提供资金。两者都提供密集训练、设施、营养建议。再问科学工作的目标是什么：B段最后的winning及教练改善运动表现。C段用极小的时间／距离改善累积成绩说明做法，不能简化成只靠运动员天赋。完整原件：Cambridge公开真题样本 · 文章原页Cambridge公开真题样本 · 文章原页日常工具、技术与自然条件计时工具为什么会受到天气限制temporal hours 把白昼或黑夜分别分成十二段，段长随季节变化。本段介绍两类古代计时工具及其使用限制。In order to track temporal hours during the day, inventors created sundials, which indicate time by the length or direction of the sun’s shadow. The sundial’s counterpart, the water clock, was designed to measure temporal hours at night. One of the first water clocks was a basin with a small hole near the bottom through which the water dripped out. The falling water level denoted the passing hour as it dipped below hour lines inscribed on the inner surface. Although these devices performed satisfactorily around the Mediterranean, they could not always be depended on in the cloudy and often freezing weather of northern Europe.需要时看词汇注释sundial：日晷：利用日影显示时间的工具counterpart：功能或地位相对应的事物be depended on：可以依靠、可靠地使用打开原文所在页计时工具：自然周期与技术限制计时工具：自然周期与技术限制下面提供完整阅读语境与导读答案。此公开样本的摘录没有提供这篇全部原题和答案，本补充作为背景阅读，教师问题明确另行标识。Test 1 18 READING READING PASSAGE 1 You should spend about 20 minutes on Questions 1–13, which are based on Reading Passage 1 below. A Chronicle of Timekeeping Our conception of time depends on the way we measure it A According to archaeological evidence, at least 5,000 years ago, and long before the advent of the Roman Empire, the Babylonians began to measure time, introducing calendars to co- ordinate communal activities, to plan the shipment of goods and, in particular, to regulate planting and harvesting. They based their calendars on three natural cycles: the solar day, marked by the successive periods of light and darkness as the earth rotates on its axis; the lunar month, following the phases of the moon as it orbits the earth; and the solar year, deﬁ ned by the changing seasons that accompany our planet’s revolution around the sun. B Before the invention of artiﬁ cial light, the moon had greater social impact. And, for those living near the equator in particular, its waxing and waning was more conspicuous than the passing of the seasons. Hence, the calendars that were developed at the lower latitudes were inﬂ uenced more by the lunar cycle than by the solar year. In more northern climes, however, where seasonal agriculture was practised, the solar year became more crucial. As the Roman Empire expanded northward, it organised its activity chart for the most part around the solar year. C Centuries before the Roman Empire, the Egyptians had formulated a municipal calendar having 12 months of 30 days, with ﬁ ve days added to approximate the solar year. Each period of ten days was marked by the appearance of special groups of stars called decans. At the rise of the star Sirius just before sunrise, which occurred around the all- important annual ﬂ ooding of the Nile, 12 decans could be seen spanning the heavens. The cosmic signiﬁ cance the Egyptians placed in the 12 decans led them to develop a system in which each interval of darkness (and later, each interval of daylight) was divided into a dozen equal parts. These periods became known as temporal hours because their duration varied according to the changing length of days and nights with the passing of the seasons. Summer hours were long, winter ones short; only at the spring and autumn equinoxes www.cambridge.org© in this web service Cambridge University Press Cambridge University Press 978-0-521-17378-0 - Cambridge IELTS 8 Cambridge ESOL Excerpt More informationReading 19 were the hours of daylight and darkness equal. Temporal hours, which were ﬁ rst adopted by the Greeks and then the Romans, who disseminated them through Europe, remained in use for more than 2,500 years. D In order to track temporal hours during the day, inventors created sundials, which indicate time by the length or direction of the sun’s shadow. The sundial’s counterpart, the water clock, was designed to measure temporal hours at night. One of the ﬁ rst water clocks was a basin with a small hole near the bottom through which the water dripped out. The falling water level denoted the passing hour as it dipped below hour lines inscribed on the inner surface. Although these devices performed satisfactorily around the Mediterranean, they could not always be depended on in the cloudy and often freezing weather of northern Europe. E The advent of the mechanical clock meant that although it could be adjusted to maintain temporal hours, it was naturally suited to keeping equal ones. With these, however, arose the question of when to begin counting, and so, in the early 14th century, a number of systems evolved. The schemes that divided the day into 24 equal parts varied according to the start of the count: Italian hours began at sunset, Babylonian hours at sunrise, astronomical hours at midday and ‘great clock’ hours, used for some large public clocks in Germany, at midnight. Eventually these were superseded by ‘small clock’, or French, hours, which split the day into two 12- hour periods commencing at midnight. F The earliest recorded weight - driven mechanical clock was built in 1283 in Bedfordshire in England. The revolutionary aspect of this new timekeeper was neither the descending weight that provided its motive force nor the gear wheels (which had been around for at least 1,300 years) that transferred the power; it was the part called the escapement. In the early 1400s came the invention of the coiled spring or fusee which maintained constant force to the gear wheels of the timekeeper despite the changing tension of its mainspring. By the 16th century, a pendulum clock had been devised, but the pendulum swung in a large arc and thus was not very efﬁ cient. G To address this, a variation on the original escapement was invented in 1670, in England. It was called the anchor escapement, which was a lever- based device shaped like a ship’s anchor. The motion of a pendulum rocks this device so that it catches and then releases each tooth of the escape wheel, in turn allowing it to turn a precise amount. Unlike the original form used in early pendulum clocks, the anchor escapement permitted the pendulum to travel in a very small arc. Moreover, this invention allowed the use of a long pendulum which could beat once a second and thus led to the development of a new ﬂ oor- standing case design, which became known as the grandfather clock. H Today, highly accurate timekeeping instruments set the beat for most electronic devices. Nearly all computers contain a quartz- crystal clock to regulate their operation. Moreover, not only do time signals beamed down from Global Positioning System satellites calibrate the functions of precision navigation equipment, they do so as well for mobile phones, instant stock- trading systems and nationwide power- distribution grids. So integral have these time- based technologies become to day- to- day existence that our dependency on them is recognised only when they fail to work. www.cambridge.org© in this web service Cambridge University Press Cambridge University Press 978-0-521-17378-0 - Cambridge IELTS 8 Cambridge ESOL Excerpt More information导读与参考答案导读问题（导读问题）：三个自然周期分别是什么？参考答案：solar day对应地球自转，lunar month对应月相，solar year对应绕太阳公转产生季节。为什么不同纬度重视不同周期：赤道附近月相较季节更显眼，北方农业更依赖太阳年。读后续水钟与摆钟段，将器械工作条件与技术改进分开；不要把every calendar都说成同一种周期。完整原件：Cambridge公开真题样本 · 文章原页Cambridge公开真题样本 · 文章原页旅游、文化遗产与水资源阶梯井为何既是工程遗迹，也是旅行目的地these monuments 指印度阶梯井。关注遗产修复、工程特点和游客活动的表达。Today, following years of neglect, many of these monuments to medieval engineering have been saved by the Archaeological Survey of India, which has recognised the importance of preserving them as part of the country’s rich history. Tourists flock to wells in far-flung corners of north-western India to gaze in wonder at these architectural marvels from hundreds of years ago, which serve as a reminder of both the ingenuity and artistry of ancient civilisations and of the value of water to human existence.需要时看词汇注释following years of neglect：在多年被忽视之后far-flung corners：偏远地区architectural marvels：令人惊叹的建筑打开原文所在页健康与公共服务一种历史上的健康理解本段回顾一种主要从身体和医疗理解健康的历史观点，后续段落继续扩展到生活环境与公共条件。For much of recent Western history, health has been viewed in the physical sense only. That is, good health has been connected to the smooth mechanical operation of the body, while ill health has been attributed to a breakdown in this machine. Health in this sense has been defined as the absence of disease or illness and is seen in medical terms. According to this view, creating health for people means providing medical care to treat or prevent disease and illness. During this period, there was an emphasis on providing clean water, improved sanitation and housing.需要时看词汇注释be attributed to：被归因于the absence of disease：没有疾病的状态sanitation：环境卫生及相关设施条件打开原文所在页媒体、艺术与娱乐电影声音由哪些部分组成这段把电影声音分成人声、音效和音乐。discussed below 指后文将展开的说明。Though we might think of film as an essentially visual experience, we really cannot afford to underestimate the importance of film sound. A meaningful sound track is often as complicated as the image on the screen, and is ultimately just as much the responsibility of the director. The entire sound track consists of three essential ingredients: the human voice, sound effects and music. These three tracks must be mixed and balanced so as to produce the necessary emphases which in turn create desired effects. Topics which essentially refer to the three previously mentioned tracks are discussed below. They include dialogue, synchronous and asynchronous sound effects, and music.需要时看词汇注释sound track：电影的声音轨道、音轨consists of：由……构成sound effects：音效打开原文所在页电影声音：完整原页与原题证据电影声音：三个组成部分怎样协同Though we might think of film as an essentially visual experience, we really cannot afford to underestimate the importance of film sound. A meaningful sound track is often as complicated as the image on the screen, and is ultimately just as much the responsibility of the director. The entire sound track consists of three essential ingredients: the human voice, sound effects and music. These three tracks must be mixed and balanced so as to produce the necessary emphases which in turn create desired effects. Topics which essentially refer to the three previously mentioned tracks are discussed below. They include dialogue, synchronous and asynchronous sound effects, and music.原题Q14. In the first paragraph, the writer makes a point thatthe director should plan the sound track at an early stage in filming.it would be wrong to overlook the contribution of sound to the artistry of films.the music industry can have a beneficial influence on sound in film.it is important for those working on the sound in a film to have sole responsibility for it.Q24. The audience’s response to different parts of a film can be controlled …选项：A when the audience listens to the dialogue. B if the film reflects the audience’s own concerns. C if voice, sound and music are combined appropriately. D when the director is aware of how the audience will respond. E when the actor’s appearance, voice and moves are consistent with each other.参考答案与证据Q14 B：cannot afford to underestimate直接表明不能忽视声音的重要性；A的early stage未写，C把电影声音偷换成音乐产业，D的sole与导演同样有责任冲突。Q24 C：three tracks must be mixed and balanced→combined appropriately，necessary emphases/create desired effects→控制观众反应。原研究PDF未附这两题答案表，这里是依据可见原文逐句推导的参考答案；不冒称官方答案键。进一步导读：human voice、sound effects、music不是同义词。in turn连接混合平衡、突出重点、产生效果三环；原页随后具体区分同步／异步音效以及配乐。打开同页继续读完整论证，再判断仅听对白为何不足。完整原件：Cambridge Research Notes68 · Appendix5原文；Appendix5原题Q14–26Cambridge Research Notes68 · Appendix5原文Appendix5原题Q14–26 我已看过本单元TOPIC BACKGROUND话题背景学习单元先认识话题中的基本概念，再读生活情境、积累词语和表达。每次可以只学一个情境，新增内容已标红。共用背景可供多科使用的知识与材料。具体阅读、写作、听力、口语任务分别进入练习。BACKGROUND / 先读什么先有内容，再找表达。先认识话题、看清概念，再把常用词放进真实意义里。这里先读，不要求每看一页就交一份练习。一种自然的顺序：选一个感兴趣或即将练到的话题 → 读中英背景与原文锚点 → 留意几组搭配 → 再进入相关练习。已经知道的内容可以跳过。另看：24 个常见词与 20 组跨话题用法 →下载背景读本 PDF · 也可以直接在下面阅读优先学本季话题从口语话题学习语境与表达，也可选择基础背景。打开话题与学习资源 →主题读本先认识概念，再看语境和表达。选一篇开始。新增背景司法与技术：算法风险的真实阅读语境预防、回应与重新融入新增背景公共治理：公交方案怎样落地预算、优先次序与长期成本新增背景社会责任：财富如何用于公共文化参与机会、照护与自主选择新增背景太空与生命：样本怎样成为证据研究价值怎样与现实需求比较TOPIC 01未标记教育谁能学到，学什么，怎样学access to education · practical skillsTOPIC 02未标记工作收入、稳定性与生活安排job security · flexible working arrangementsTOPIC 03未标记科技工具带来什么，又需要什么条件digital access · automationTOPIC 04未标记城市把住房、交通与公共空间放在一起看public transport · housing affordabilityTOPIC 05未标记环境保护：威胁之间的关系资源使用与长期维持resource use · reuse and recyclingTOPIC 06未标记健康与消费：读出作者评价公共服务与日常安排access to services · affordabilityTOPIC 07未标记文化遗产：个人偏好与收藏选择设施、遗产与娱乐cultural facilities · cultural heritageTOPIC 08未标记日常生活：读懂产品召回通知物品、取件与服务安排collection and delivery · dimensions and valueEVERYDAY ENGLISH生活里的英语，也要说具体6 段个人语境01住所与邻里把生活空间说具体02家人朋友用一次互动说明关系03日常选择偏好背后的场合与取舍04兴趣与技能从第一次尝试说到现在05经历与计划变化让听者跟得上事情经过06地点与天气描述环境怎样影响一次活动还有哪些话题值得了解？查看 22 类话题与现有内容的对应关系这部分怎样放进每天的学习 →下载背景读本 PDF ↗教育工作科技城市环境健康文化日常沟通更多话题怎么接六段个人生活← 返回本科内容 已读过这段背景TOPIC 04城市：把住房、交通与公共空间放在一起看城市生活涉及住在哪里、怎样出行，以及能否方便地使用学校、商店和公共空间。住房、交通与服务不能完全分开讨论：房子离工作地点多远，会影响出行安排；公园即使在附近，入口和开放时间也会影响使用。改善城市不只有新建道路这一种选择，还可讨论公共交通、步行条件和空间用途。不同居民的预算、行动条件与日常目的地可能不同。先分清三个概念概念它指什么不要混淆public transport供公众共同使用的交通服务，例如公共汽车、地铁和有轨电车。有线路经过与服务方便可靠不是一回事；站点位置、班次和不同线路之间的连接都影响使用。housing affordability住房支出与个人或家庭能够承担的预算之间的关系。价格低不一定对每个人都负担得起；判断时还需考虑收入以及其他必要生活支出。public space供公众进入或共同使用的空间，例如广场、公园和部分街道空间。公共空间不一定是绿地；有一片绿地也不代表公众能够进入或方便使用。读一段背景英语A city is more than a collection of buildings. It also connects people with the places they need to reach. Consider a family looking for a home. The rent matters, but so do the distance to work, the route to school and the shops nearby. A flat outside the centre may suit them if transport fits their daily schedule. A park can be useful too, but its entrances and opening hours affect who can use it. These examples show why planning involves choices about both space and services. Different residents may have different priorities. A useful discussion of city life can describe a particular need and then consider how a change would affect the people who live there.中文帮助理解城市不仅是建筑的集合，也把居民与日常需要到达的地方连接起来。一个家庭选择住房时，除了租金，还可能考虑工作地点、上学路线和附近商店。市中心以外的住宅是否合适，要看交通能否配合他们的生活安排。公园能否实际使用，也与入口和开放时间有关。因此，城市规划既涉及空间，也涉及服务；不同居民重视的条件不尽相同。具体讨论某类人的需要，再解释一项变化会怎样影响他们，比笼统说城市应更方便更清楚。阅读例句Vehicles can be flowing freely along, at a density still well below what the road can handle, and then suddenly gel into a slow-moving ooze.原文讨论车流的变化。交通容量、交通流量和实际通行速度不是同一指标。The Physics of Traffic Behavior这个话题通常怎样展开以下为教学归纳的讨论角度，不是考试频率排名或原题清单。居民选择居住地点时，怎样权衡住房成本、交通和附近服务？（教学概括，非原题）城市应怎样分配道路、步行区域与公共空间？（教学概括，非原题）改善公共交通时，票价、班次、路线和可靠性分别影响什么？（教学概括，非原题）可以直接理解和借用的搭配本组是教学选用搭配与例句，尚未逐组统计真题频率。搭配与意思放进句子里use public transport使用公共交通He uses public transport to get to work during the week.within walking distance of位于从某地步行可达的距离内The library is within walking distance of the bus station.meet housing needs满足住房需要The plan needs to consider how to meet the housing needs of different households.provide green spaces提供绿地空间A neighbourhood plan can provide green spaces for residents to use.travel to and from work往返工作地点，通勤Residents may need to change buses when they travel to and from work.读过背景后，需要练习时再进入：阅读章 · Task 1 · 口语章。已读过原句或提示的任务，记为学习后应用。同话题的独立阅读题：公共治理：公交方案怎样落地 →从主题目录找到要补的背景补充资料中的类别从这里开始读还要留意什么艺术、媒体与广告、阅读文化与休闲体验与传播方式；广告还要分清告知与说服。商业与金钱、工作工作与经济费用、价值、岗位与工作条件；价格不能代替所有评价。沟通与性格、语言、教育教育与技能表达清晰、学习机会与反馈；能力需要具体表现。环境、太空探索环境与资源资源分配与公共投入；已补独立读本：太空与科研；不能直接套环保观点。住房与城市规划、交通、旅游城市与交通便利、容量、当地生活与访客需求；旅游另需考虑居民影响。健康、食物与饮食、运动健康与生活个人选择、可获得的服务与公共设施；避免未经支持的健康因果。家庭与儿童、休闲日常生活与六段个人语境照顾、共同活动、兴趣与生活安排；用具体事件说明关系。科技科技与变化工具做了什么、使用条件是什么、哪些人能够使用。犯罪与惩罚、政府、社会犯罪与惩罚 · 政府公共支出 · 社会与代际已补齐语境、概念、用法、示范与解释；均为原创基础教学。这部分怎样放进每天的学习每次只选一段：先用 8–12 分钟读懂背景，再花 3–5 分钟看两三组表达。时间计入当天学习，不在原计划之外加量。熟悉的段落直接跳过；累时读懂一段即可。听读时，关注同一意思怎样换说法、句间关系与证据；写作时，重新核对题目问了什么、理由适用于什么条件；口语时，选自己的具体经历，练习把人、地点、变化和结果说清楚。阅读记录与写作稿继续分别保存。隔天只抽两组表达：遮住英语，换一个真实场景说或写一句；能独立用且意思合适，再减少复习。用新语境中的独立表达检查掌握情况，例句记忆与实际运用分别记录。练习话题 · 海洋资源阅读理解 → · 写作练习 →",
+  "links": [
+    {
+      "text": "练习 →",
+      "href": "#pp-background"
+    },
+    {
+      "text": "查看阅读资料 →",
+      "href": "扩展资料目录.html?skill=reading"
+    },
+    {
+      "text": "打开原文所在页",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=17"
+    },
+    {
+      "text": "打开原文所在页",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=26"
+    },
+    {
+      "text": "打开原文所在页",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=47"
+    },
+    {
+      "text": "打开原文所在页",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=62"
+    },
+    {
+      "text": "打开原文所在页",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=65"
+    },
+    {
+      "text": "打开原文所在页",
+      "href": "原始参考/188a4619-ielts-academic-reading-access-arrangement-modified-large-print-text-booklet.pdf#page=5"
+    },
+    {
+      "text": "打开原文所在页",
+      "href": "原始参考/e0428977-hwatai-cambridge5-sample.pdf#page=7"
+    },
+    {
+      "text": "打开原文所在页",
+      "href": "原始参考/ad0a33c0-hwatai-cambridge6-sample.pdf#page=9"
+    },
+    {
+      "text": "Cambridge公开真题样本 · 文章原页",
+      "href": "原始参考/ad0a33c0-hwatai-cambridge6-sample.pdf#page=9"
+    },
+    {
+      "text": "Cambridge公开真题样本 · 文章原页",
+      "href": "原始参考/ad0a33c0-hwatai-cambridge6-sample.pdf#page=9"
+    },
+    {
+      "text": "打开原文所在页",
+      "href": "原始参考/d04994b0-hwatai-cambridge8-sample.pdf#page=10"
+    },
+    {
+      "text": "Cambridge公开真题样本 · 文章原页",
+      "href": "原始参考/d04994b0-hwatai-cambridge8-sample.pdf#page=9"
+    },
+    {
+      "text": "Cambridge公开真题样本 · 文章原页",
+      "href": "原始参考/d04994b0-hwatai-cambridge8-sample.pdf#page=9"
+    },
+    {
+      "text": "打开原文所在页",
+      "href": "原始参考/99437c83-hwatai-cambridge10-sample.pdf#page=9"
+    },
+    {
+      "text": "打开原文所在页",
+      "href": "原始参考/dfacdd41-cambridge-classroom-reading-3.pdf#page=4"
+    },
+    {
+      "text": "打开原文所在页",
+      "href": "原始参考/04f17772-cambridge-research-notes68.pdf#page=30"
+    },
+    {
+      "text": "Cambridge Research Notes68 · Appendix5原文",
+      "href": "原始参考/04f17772-cambridge-research-notes68.pdf#page=30"
+    },
+    {
+      "text": "Appendix5原题Q14–26",
+      "href": "原始参考/04f17772-cambridge-research-notes68.pdf#page=31"
+    },
+    {
+      "text": "Cambridge Research Notes68 · Appendix5原文",
+      "href": "原始参考/04f17772-cambridge-research-notes68.pdf#page=30"
+    },
+    {
+      "text": "Appendix5原题Q14–26",
+      "href": "原始参考/04f17772-cambridge-research-notes68.pdf#page=31"
+    },
+    {
+      "text": "另看：24 个常见词与 20 组跨话题用法 →",
+      "href": "#vocabulary"
+    },
+    {
+      "text": "下载背景读本 PDF",
+      "href": "背景读本-话题与常用表达.pdf"
+    },
+    {
+      "text": "打开话题与学习资源 →",
+      "href": "#resource-update"
+    },
+    {
+      "text": "新增背景司法与技术：算法风险的真实阅读语境预防、回应与重新融入",
+      "href": "#topic-crime"
+    },
+    {
+      "text": "新增背景公共治理：公交方案怎样落地预算、优先次序与长期成本",
+      "href": "#topic-government"
+    },
+    {
+      "text": "新增背景社会责任：财富如何用于公共文化参与机会、照护与自主选择",
+      "href": "#topic-society"
+    },
+    {
+      "text": "新增背景太空与生命：样本怎样成为证据研究价值怎样与现实需求比较",
+      "href": "#topic-space"
+    },
+    {
+      "text": "TOPIC 01未标记教育谁能学到，学什么，怎样学access to education · practical skills",
+      "href": "#topic-education"
+    },
+    {
+      "text": "TOPIC 02未标记工作收入、稳定性与生活安排job security · flexible working arrangements",
+      "href": "#topic-work"
+    },
+    {
+      "text": "TOPIC 03未标记科技工具带来什么，又需要什么条件digital access · automation",
+      "href": "#topic-technology"
+    },
+    {
+      "text": "TOPIC 04未标记城市把住房、交通与公共空间放在一起看public transport · housing affordability",
+      "href": "#topic-cities"
+    },
+    {
+      "text": "TOPIC 05未标记环境保护：威胁之间的关系资源使用与长期维持resource use · reuse and recycling",
+      "href": "#topic-environment"
+    },
+    {
+      "text": "TOPIC 06未标记健康与消费：读出作者评价公共服务与日常安排access to services · affordability",
+      "href": "#topic-health"
+    },
+    {
+      "text": "TOPIC 07未标记文化遗产：个人偏好与收藏选择设施、遗产与娱乐cultural facilities · cultural heritage",
+      "href": "#topic-culture"
+    },
+    {
+      "text": "TOPIC 08未标记日常生活：读懂产品召回通知物品、取件与服务安排collection and delivery · dimensions and value",
+      "href": "#topic-everyday"
+    },
+    {
+      "text": "01住所与邻里把生活空间说具体",
+      "href": "#topic-personal-home_neighbourhood"
+    },
+    {
+      "text": "02家人朋友用一次互动说明关系",
+      "href": "#topic-personal-relationships"
+    },
+    {
+      "text": "03日常选择偏好背后的场合与取舍",
+      "href": "#topic-personal-daily_choices"
+    },
+    {
+      "text": "04兴趣与技能从第一次尝试说到现在",
+      "href": "#topic-personal-interests_skills"
+    },
+    {
+      "text": "05经历与计划变化让听者跟得上事情经过",
+      "href": "#topic-personal-experiences_changes"
+    },
+    {
+      "text": "06地点与天气描述环境怎样影响一次活动",
+      "href": "#topic-personal-places_weather"
+    },
+    {
+      "text": "还有哪些话题值得了解？查看 22 类话题与现有内容的对应关系",
+      "href": "#topic-coverage"
+    },
+    {
+      "text": "这部分怎样放进每天的学习 →",
+      "href": "#topic-use"
+    },
+    {
+      "text": "下载背景读本 PDF ↗",
+      "href": "背景读本-话题与常用表达.pdf"
+    },
+    {
+      "text": "教育",
+      "href": "#topic-education"
+    },
+    {
+      "text": "工作",
+      "href": "#topic-work"
+    },
+    {
+      "text": "科技",
+      "href": "#topic-technology"
+    },
+    {
+      "text": "城市",
+      "href": "#topic-cities"
+    },
+    {
+      "text": "环境",
+      "href": "#topic-environment"
+    },
+    {
+      "text": "健康",
+      "href": "#topic-health"
+    },
+    {
+      "text": "文化",
+      "href": "#topic-culture"
+    },
+    {
+      "text": "日常沟通",
+      "href": "#topic-everyday"
+    },
+    {
+      "text": "更多话题怎么接",
+      "href": "#topic-coverage"
+    },
+    {
+      "text": "六段个人生活",
+      "href": "#topic-personal"
+    },
+    {
+      "text": "← 返回本科内容",
+      "href": "#study-shared-list"
+    },
+    {
+      "text": "The Physics of Traffic Behavior",
+      "href": "原始参考/ec598fcf-inspera-response-3.txt"
+    },
+    {
+      "text": "阅读章",
+      "href": "#reading"
+    },
+    {
+      "text": "Task 1",
+      "href": "#writing1"
+    },
+    {
+      "text": "口语章",
+      "href": "#speaking"
+    },
+    {
+      "text": "公共治理：公交方案怎样落地 →",
+      "href": "#topic-government"
+    },
+    {
+      "text": "文化与休闲",
+      "href": "#topic-culture"
+    },
+    {
+      "text": "工作与经济",
+      "href": "#topic-work"
+    },
+    {
+      "text": "教育与技能",
+      "href": "#topic-education"
+    },
+    {
+      "text": "环境与资源",
+      "href": "#topic-environment"
+    },
+    {
+      "text": "太空与科研",
+      "href": "#topic-space"
+    },
+    {
+      "text": "城市与交通",
+      "href": "#topic-cities"
+    },
+    {
+      "text": "健康与生活",
+      "href": "#topic-health"
+    },
+    {
+      "text": "日常生活与六段个人语境",
+      "href": "#topic-everyday"
+    },
+    {
+      "text": "科技与变化",
+      "href": "#topic-technology"
+    },
+    {
+      "text": "犯罪与惩罚",
+      "href": "#topic-crime"
+    },
+    {
+      "text": "政府公共支出",
+      "href": "#topic-government"
+    },
+    {
+      "text": "社会与代际",
+      "href": "#topic-society"
+    },
+    {
+      "text": "话题 · 海洋资源",
+      "href": "#pr-background-fisheries"
+    },
+    {
+      "text": "阅读理解 →",
+      "href": "#pr-background-fisheries"
+    },
+    {
+      "text": "写作练习 →",
+      "href": "#pr-fisheries-writing"
+    }
+  ],
+  "details": [
+    {
+      "id": "",
+      "title": "家庭背景、教育与文化姐妹的教育经历如何通向艺术收藏",
+      "open": false,
+      "visible": true
+    },
+    {
+      "id": "",
+      "title": "需要时看词汇注释",
+      "open": false,
+      "visible": false
+    },
+    {
+      "id": "",
+      "title": "食物消费与贸易糖不只是餐桌上的食物",
+      "open": false,
+      "visible": true
+    },
+    {
+      "id": "",
+      "title": "需要时看词汇注释",
+      "open": false,
+      "visible": false
+    },
+    {
+      "id": "",
+      "title": "科技、工作与公共服务有算法之外，还需要什么",
+      "open": false,
+      "visible": true
+    },
+    {
+      "id": "",
+      "title": "需要时看词汇注释",
+      "open": false,
+      "visible": false
+    },
+    {
+      "id": "",
+      "title": "环境与资源保护一种动物，也保护它所在的生态系统",
+      "open": false,
+      "visible": true
+    },
+    {
+      "id": "",
+      "title": "需要时看词汇注释",
+      "open": false,
+      "visible": false
+    },
+    {
+      "id": "",
+      "title": "城市、交通与日常服务从买票到上车：交通设施中的可达性",
+      "open": false,
+      "visible": true
+    },
+    {
+      "id": "",
+      "title": "需要时看词汇注释",
+      "open": false,
+      "visible": false
+    },
+    {
+      "id": "",
+      "title": "考古、文化遗产与研究发现遗物之后，还要解释什么",
+      "open": false,
+      "visible": true
+    },
+    {
+      "id": "",
+      "title": "需要时看词汇注释",
+      "open": false,
+      "visible": false
+    },
+    {
+      "id": "",
+      "title": "语言与教育一本词典是怎样开始的",
+      "open": false,
+      "visible": true
+    },
+    {
+      "id": "",
+      "title": "需要时看词汇注释",
+      "open": false,
+      "visible": false
+    },
+    {
+      "id": "",
+      "title": "体育、技能与训练条件运动成绩背后的训练支持",
+      "open": false,
+      "visible": true
+    },
+    {
+      "id": "",
+      "title": "需要时看词汇注释",
+      "open": false,
+      "visible": false
+    },
+    {
+      "id": "",
+      "title": "日常工具、技术与自然条件计时工具为什么会受到天气限制",
+      "open": false,
+      "visible": true
+    },
+    {
+      "id": "",
+      "title": "需要时看词汇注释",
+      "open": false,
+      "visible": false
+    },
+    {
+      "id": "",
+      "title": "旅游、文化遗产与水资源阶梯井为何既是工程遗迹，也是旅行目的地",
+      "open": false,
+      "visible": true
+    },
+    {
+      "id": "",
+      "title": "需要时看词汇注释",
+      "open": false,
+      "visible": false
+    },
+    {
+      "id": "",
+      "title": "健康与公共服务一种历史上的健康理解",
+      "open": false,
+      "visible": true
+    },
+    {
+      "id": "",
+      "title": "需要时看词汇注释",
+      "open": false,
+      "visible": false
+    },
+    {
+      "id": "",
+      "title": "媒体、艺术与娱乐电影声音由哪些部分组成",
+      "open": false,
+      "visible": true
+    },
+    {
+      "id": "",
+      "title": "需要时看词汇注释",
+      "open": false,
+      "visible": false
+    },
+    {
+      "id": "",
+      "title": "中文帮助理解",
+      "open": false,
+      "visible": false
+    }
+  ],
+  "saveFields": [
+    "learning-read-learn-155",
+    "topic-read-cities"
+  ],
+  "images": [],
+  "audio": [],
+  "viewport": 1440,
+  "documentWidth": 1440
+}

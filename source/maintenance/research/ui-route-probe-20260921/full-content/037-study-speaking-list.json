@@ -1,0 +1,1089 @@
+{
+  "requested": "study-speaking-list",
+  "from": [
+    "分类页",
+    "页面链接"
+  ],
+  "actual": "#study-speaking-list",
+  "checkedAt": "2026-09-21T12:50:54.861Z",
+  "title": "学习 / 口语 · IELTS",
+  "label": "学习 / 口语",
+  "panel": "study",
+  "contentRoot": "study",
+  "headings": [
+    {
+      "tag": "H1",
+      "text": "学习 · 口语",
+      "visible": true
+    },
+    {
+      "tag": "H2",
+      "text": "直接开始学习",
+      "visible": false
+    },
+    {
+      "tag": "H2",
+      "text": "继续上次",
+      "visible": false
+    },
+    {
+      "tag": "H3",
+      "text": "旅游信息：一次具体使用经历",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "园艺的未来：有条件地预测",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "住宅与花园：解释实际好处",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "购物方式与不必要消费",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "诚实与儿童：比较观点",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "公寓里种植：给可行方案",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "广告的准确性与购买决定",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "面包与日常饮食",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "理发：习惯与最近变化",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "有竞争心的人：具体事件支撑性格",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "花钱与储蓄：程度和原因",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "不真实的信息：发现问题与核对",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "城市生活：吸引力与不便",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "公园：从空间细节讲清兴趣",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "景点：免费开放与失望原因",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "竞争与参与：比较体育观点",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "真实回答：家乡的四次问答",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "真实讨论：地位象征与未来变化",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "口语 · 从原题开始学",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "工作：收入、稳定性与生活安排",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "居住经验：城市的吸引力与取舍",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "认识的人：竞争心如何体现",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "日常选择：付款与购买教训",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "兴趣与地方：观察公园细节",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "经历与变化：核对一条信息",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "旅行计划：信息怎样帮助行动",
+      "visible": true
+    },
+    {
+      "tag": "H2",
+      "text": "词汇与背景",
+      "visible": false
+    }
+  ],
+  "controls": [
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "← 返回学习",
+      "label": "",
+      "href": "#study",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "查看安排并开始 →",
+      "label": "",
+      "href": "#guide",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "学习项目 →",
+      "label": "",
+      "href": "#learning-projects",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "今天选的内容 →",
+      "label": "",
+      "href": "#plan",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SELECT",
+      "id": "la-study-skill",
+      "type": "select-one",
+      "text": "全部写作Task 1Task 2",
+      "label": "写作类型全部写作Task 1Task 2",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false,
+      "options": [
+        {
+          "value": "",
+          "label": "全部写作"
+        },
+        {
+          "value": "writing1",
+          "label": "Task 1"
+        },
+        {
+          "value": "writing2",
+          "label": "Task 2"
+        }
+      ]
+    },
+    {
+      "tag": "SELECT",
+      "id": "la-study-topic",
+      "type": "select-one",
+      "text": "全部\n健康与消费\n城市与交通\n家庭与关系\n工作与生活\n旅行与地方\n通用",
+      "label": "话题\n全部\n健康与消费\n城市与交通\n家庭与关系\n工作与生活\n旅行与地方\n通用",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false,
+      "options": [
+        {
+          "value": "",
+          "label": "全部"
+        },
+        {
+          "value": "健康与消费",
+          "label": "健康与消费"
+        },
+        {
+          "value": "城市与交通",
+          "label": "城市与交通"
+        },
+        {
+          "value": "家庭与关系",
+          "label": "家庭与关系"
+        },
+        {
+          "value": "工作与生活",
+          "label": "工作与生活"
+        },
+        {
+          "value": "旅行与地方",
+          "label": "旅行与地方"
+        },
+        {
+          "value": "通用",
+          "label": "通用"
+        }
+      ]
+    },
+    {
+      "tag": "SELECT",
+      "id": "la-study-part",
+      "type": "select-one",
+      "text": "全部",
+      "label": "Part\n全部",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false,
+      "options": [
+        {
+          "value": "",
+          "label": "全部"
+        }
+      ]
+    },
+    {
+      "tag": "SELECT",
+      "id": "la-study-type",
+      "type": "select-one",
+      "text": "全部\n匹配题\n图表\n表达与运用\n观点与论证\n选择题",
+      "label": "题型／内容\n全部\n匹配题\n图表\n表达与运用\n观点与论证\n选择题",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false,
+      "options": [
+        {
+          "value": "",
+          "label": "全部"
+        },
+        {
+          "value": "匹配题",
+          "label": "匹配题"
+        },
+        {
+          "value": "图表",
+          "label": "图表"
+        },
+        {
+          "value": "表达与运用",
+          "label": "表达与运用"
+        },
+        {
+          "value": "观点与论证",
+          "label": "观点与论证"
+        },
+        {
+          "value": "选择题",
+          "label": "选择题"
+        }
+      ]
+    },
+    {
+      "tag": "INPUT",
+      "id": "la-study-search",
+      "type": "search",
+      "text": "",
+      "label": "内容或题型",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "进入学习 →",
+      "label": "",
+      "href": "#speaking-new-sep26-journeys",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "加入今天",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "进入学习 →",
+      "label": "",
+      "href": "#speaking-new-sep26-recycling",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "加入今天",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "进入学习 →",
+      "label": "",
+      "href": "#speaking-new-sep26-energy",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "加入今天",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "进入学习 →",
+      "label": "",
+      "href": "#speaking-new-sep26-shoes-shopping",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "加入今天",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "进入学习 →",
+      "label": "",
+      "href": "#speaking-new-sep26-politeness",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "加入今天",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "进入学习 →",
+      "label": "",
+      "href": "#speaking-new-sep26-fruit-vegetables",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "加入今天",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "进入学习 →",
+      "label": "",
+      "href": "#speaking-new-sep26-advertising",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "加入今天",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "进入学习 →",
+      "label": "",
+      "href": "#speaking-new-sep26-paper",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "加入今天",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "进入学习 →",
+      "label": "",
+      "href": "#speaking-new-sep26-school-skills",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "加入今天",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "进入学习 →",
+      "label": "",
+      "href": "#speaking-new-sep26-names-people",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "加入今天",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "进入学习 →",
+      "label": "",
+      "href": "#speaking-new-sep26-decisions-success",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "加入今天",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "进入学习 →",
+      "label": "",
+      "href": "#speaking-new-sep26-organisation",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "加入今天",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "进入学习 →",
+      "label": "",
+      "href": "#speaking-new-sep26-city-spaces",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "加入今天",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "进入学习 →",
+      "label": "",
+      "href": "#speaking-new-sep26-creative-history",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "加入今天",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "进入学习 →",
+      "label": "",
+      "href": "#speaking-new-sep26-media",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "加入今天",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "进入学习 →",
+      "label": "",
+      "href": "#speaking-new-sep26-friends-happiness",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "加入今天",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "进入学习 →",
+      "label": "",
+      "href": "#learn-speaking_part1_natural_answers",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "加入今天",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "进入学习 →",
+      "label": "",
+      "href": "#learn-speaking_part3_explain_compare",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "加入今天",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "进入学习 →",
+      "label": "",
+      "href": "#speaking-first",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "加入今天",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "进入学习 →",
+      "label": "",
+      "href": "#topic-work",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "加入今天",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "进入学习 →",
+      "label": "",
+      "href": "#topic-personal-home_neighbourhood",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "加入今天",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "进入学习 →",
+      "label": "",
+      "href": "#topic-personal-relationships",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "加入今天",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "进入学习 →",
+      "label": "",
+      "href": "#topic-personal-daily_choices",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "加入今天",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "进入学习 →",
+      "label": "",
+      "href": "#topic-personal-interests_skills",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "加入今天",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "进入学习 →",
+      "label": "",
+      "href": "#topic-personal-experiences_changes",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "加入今天",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "进入学习 →",
+      "label": "",
+      "href": "#topic-personal-places_weather",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "加入今天",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "词汇单词、语境与主动运用 →",
+      "label": "",
+      "href": "#study-vocabulary-list",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "短语搭配、用法与配套小练 →",
+      "label": "",
+      "href": "#study-phrases-list",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "共用背景供不同科目使用的阅读材料 →",
+      "label": "",
+      "href": "#study-shared-list",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    }
+  ],
+  "visibleText": "学习 · 口语\n\n26 项内容 · 按需要选一项开始。\n\n← 返回学习\n0% · 0 / 26 单元\n话题\n全部\n健康与消费\n城市与交通\n家庭与关系\n工作与生活\n旅行与地方\n通用\nPart\n全部\n题型／内容\n全部\n匹配题\n图表\n表达与运用\n观点与论证\n选择题\n内容或题型\n\n口语 · 旅行与地方\n\n旅游信息：一次具体使用经历\n\n讲解与配套练习，可按需要选学。\n\n0% · 0 / 1 完成\n进入学习 →\n加入今天\n\n口语 · 通用\n\n园艺的未来：有条件地预测\n\n讲解与配套练习，可按需要选学。\n\n0% · 0 / 1 完成\n进入学习 →\n加入今天\n\n口语 · 通用\n\n住宅与花园：解释实际好处\n\n讲解与配套练习，可按需要选学。\n\n0% · 0 / 1 完成\n进入学习 →\n加入今天\n\n口语 · 健康与消费\n\n购物方式与不必要消费\n\n讲解与配套练习，可按需要选学。\n\n0% · 0 / 1 完成\n进入学习 →\n加入今天\n\n口语 · 家庭与关系\n\n诚实与儿童：比较观点\n\n讲解与配套练习，可按需要选学。\n\n0% · 0 / 1 完成\n进入学习 →\n加入今天\n\n口语 · 通用\n\n公寓里种植：给可行方案\n\n讲解与配套练习，可按需要选学。\n\n0% · 0 / 1 完成\n进入学习 →\n加入今天\n\n口语 · 通用\n\n广告的准确性与购买决定\n\n讲解与配套练习，可按需要选学。\n\n0% · 0 / 1 完成\n进入学习 →\n加入今天\n\n口语 · 通用\n\n面包与日常饮食\n\n讲解与配套练习，可按需要选学。\n\n0% · 0 / 1 完成\n进入学习 →\n加入今天\n\n口语 · 通用\n\n理发：习惯与最近变化\n\n讲解与配套练习，可按需要选学。\n\n0% · 0 / 1 完成\n进入学习 →\n加入今天\n\n口语 · 通用\n\n有竞争心的人：具体事件支撑性格\n\n讲解与配套练习，可按需要选学。\n\n0% · 0 / 1 完成\n进入学习 →\n加入今天\n\n口语 · 通用\n\n花钱与储蓄：程度和原因\n\n讲解与配套练习，可按需要选学。\n\n0% · 0 / 1 完成\n进入学习 →\n加入今天\n\n口语 · 通用\n\n不真实的信息：发现问题与核对\n\n讲解与配套练习，可按需要选学。\n\n0% · 0 / 1 完成\n进入学习 →\n加入今天\n\n口语 · 城市与交通\n\n城市生活：吸引力与不便\n\n讲解与配套练习，可按需要选学。\n\n0% · 0 / 1 完成\n进入学习 →\n加入今天\n\n口语 · 旅行与地方\n\n公园：从空间细节讲清兴趣\n\n讲解与配套练习，可按需要选学。\n\n0% · 0 / 1 完成\n进入学习 →\n加入今天\n\n口语 · 旅行与地方\n\n景点：免费开放与失望原因\n\n讲解与配套练习，可按需要选学。\n\n0% · 0 / 1 完成\n进入学习 →\n加入今天\n\n口语 · 通用\n\n竞争与参与：比较体育观点\n\n讲解与配套练习，可按需要选学。\n\n0% · 0 / 1 完成\n进入学习 →\n加入今天\n\n口语 · 通用\n\n真实回答：家乡的四次问答\n\n讲解与配套练习，可按需要选学。\n\n0% · 0 / 1 完成\n进入学习 →\n加入今天\n\n口语 · 通用\n\n真实讨论：地位象征与未来变化\n\n讲解与配套练习，可按需要选学。\n\n0% · 0 / 1 完成\n进入学习 →\n加入今天\n\n口语 · 通用\n\n口语 · 从原题开始学\n\n讲解与配套练习，可按需要选学。\n\n0% · 0 / 0 完成\n进入学习 →\n加入今天\n\n口语 · 工作与生活\n\n工作：收入、稳定性与生活安排\n\n讲解与配套练习，可按需要选学。\n\n0% · 0 / 3 完成\n进入学习 →\n加入今天\n\n口语 · 城市与交通\n\n居住经验：城市的吸引力与取舍\n\n讲解与配套练习，可按需要选学。\n\n0% · 0 / 1 完成\n进入学习 →\n加入今天\n\n口语 · 通用\n\n认识的人：竞争心如何体现\n\n讲解与配套练习，可按需要选学。\n\n0% · 0 / 1 完成\n进入学习 →\n加入今天\n\n口语 · 通用\n\n日常选择：付款与购买教训\n\n讲解与配套练习，可按需要选学。\n\n0% · 0 / 1 完成\n进入学习 →\n加入今天\n\n口语 · 旅行与地方\n\n兴趣与地方：观察公园细节\n\n讲解与配套练习，可按需要选学。\n\n0% · 0 / 1 完成\n进入学习 →\n加入今天\n\n口语 · 通用\n\n经历与变化：核对一条信息\n\n讲解与配套练习，可按需要选学。\n\n0% · 0 / 1 完成\n进入学习 →\n加入今天\n\n口语 · 旅行与地方\n\n旅行计划：信息怎样帮助行动\n\n讲解与配套练习，可按需要选学。\n\n0% · 0 / 1 完成\n进入学习 →\n加入今天",
+  "allContent": "IELTS / MY STUDY学习 · 口语26 项内容 · 按需要选一项开始。← 返回学习直接开始学习已有默认安排；也可以选板块和 15／30／60 分钟。查看安排并开始 →继续上次选一项内容开始，之后可以从这里继续。学习项目 →今天选的内容 →0% · 0 / 26 单元写作类型全部写作Task 1Task 2话题全部健康与消费城市与交通家庭与关系工作与生活旅行与地方通用26 项内容Part全部题型／内容全部匹配题图表表达与运用观点与论证选择题内容或题型口语 · 旅行与地方旅游信息：一次具体使用经历讲解与配套练习，可按需要选学。0% · 0 / 1 完成进入学习 →加入今天口语 · 通用园艺的未来：有条件地预测讲解与配套练习，可按需要选学。0% · 0 / 1 完成进入学习 →加入今天口语 · 通用住宅与花园：解释实际好处讲解与配套练习，可按需要选学。0% · 0 / 1 完成进入学习 →加入今天口语 · 健康与消费购物方式与不必要消费讲解与配套练习，可按需要选学。0% · 0 / 1 完成进入学习 →加入今天口语 · 家庭与关系诚实与儿童：比较观点讲解与配套练习，可按需要选学。0% · 0 / 1 完成进入学习 →加入今天口语 · 通用公寓里种植：给可行方案讲解与配套练习，可按需要选学。0% · 0 / 1 完成进入学习 →加入今天口语 · 通用广告的准确性与购买决定讲解与配套练习，可按需要选学。0% · 0 / 1 完成进入学习 →加入今天口语 · 通用面包与日常饮食讲解与配套练习，可按需要选学。0% · 0 / 1 完成进入学习 →加入今天口语 · 通用理发：习惯与最近变化讲解与配套练习，可按需要选学。0% · 0 / 1 完成进入学习 →加入今天口语 · 通用有竞争心的人：具体事件支撑性格讲解与配套练习，可按需要选学。0% · 0 / 1 完成进入学习 →加入今天口语 · 通用花钱与储蓄：程度和原因讲解与配套练习，可按需要选学。0% · 0 / 1 完成进入学习 →加入今天口语 · 通用不真实的信息：发现问题与核对讲解与配套练习，可按需要选学。0% · 0 / 1 完成进入学习 →加入今天口语 · 城市与交通城市生活：吸引力与不便讲解与配套练习，可按需要选学。0% · 0 / 1 完成进入学习 →加入今天口语 · 旅行与地方公园：从空间细节讲清兴趣讲解与配套练习，可按需要选学。0% · 0 / 1 完成进入学习 →加入今天口语 · 旅行与地方景点：免费开放与失望原因讲解与配套练习，可按需要选学。0% · 0 / 1 完成进入学习 →加入今天口语 · 通用竞争与参与：比较体育观点讲解与配套练习，可按需要选学。0% · 0 / 1 完成进入学习 →加入今天口语 · 通用真实回答：家乡的四次问答讲解与配套练习，可按需要选学。0% · 0 / 1 完成进入学习 →加入今天口语 · 通用真实讨论：地位象征与未来变化讲解与配套练习，可按需要选学。0% · 0 / 1 完成进入学习 →加入今天口语 · 通用口语 · 从原题开始学讲解与配套练习，可按需要选学。0% · 0 / 0 完成进入学习 →加入今天口语 · 工作与生活工作：收入、稳定性与生活安排讲解与配套练习，可按需要选学。0% · 0 / 3 完成进入学习 →加入今天口语 · 城市与交通居住经验：城市的吸引力与取舍讲解与配套练习，可按需要选学。0% · 0 / 1 完成进入学习 →加入今天口语 · 通用认识的人：竞争心如何体现讲解与配套练习，可按需要选学。0% · 0 / 1 完成进入学习 →加入今天口语 · 通用日常选择：付款与购买教训讲解与配套练习，可按需要选学。0% · 0 / 1 完成进入学习 →加入今天口语 · 旅行与地方兴趣与地方：观察公园细节讲解与配套练习，可按需要选学。0% · 0 / 1 完成进入学习 →加入今天口语 · 通用经历与变化：核对一条信息讲解与配套练习，可按需要选学。0% · 0 / 1 完成进入学习 →加入今天口语 · 旅行与地方旅行计划：信息怎样帮助行动讲解与配套练习，可按需要选学。0% · 0 / 1 完成进入学习 →加入今天词汇与背景词汇单词、语境与主动运用 →短语搭配、用法与配套小练 →共用背景供不同科目使用的阅读材料 →",
+  "links": [
+    {
+      "text": "← 返回学习",
+      "href": "#study"
+    },
+    {
+      "text": "查看安排并开始 →",
+      "href": "#guide"
+    },
+    {
+      "text": "学习项目 →",
+      "href": "#learning-projects"
+    },
+    {
+      "text": "今天选的内容 →",
+      "href": "#plan"
+    },
+    {
+      "text": "进入学习 →",
+      "href": "#speaking-new-sep26-journeys"
+    },
+    {
+      "text": "进入学习 →",
+      "href": "#speaking-new-sep26-recycling"
+    },
+    {
+      "text": "进入学习 →",
+      "href": "#speaking-new-sep26-energy"
+    },
+    {
+      "text": "进入学习 →",
+      "href": "#speaking-new-sep26-shoes-shopping"
+    },
+    {
+      "text": "进入学习 →",
+      "href": "#speaking-new-sep26-politeness"
+    },
+    {
+      "text": "进入学习 →",
+      "href": "#speaking-new-sep26-fruit-vegetables"
+    },
+    {
+      "text": "进入学习 →",
+      "href": "#speaking-new-sep26-advertising"
+    },
+    {
+      "text": "进入学习 →",
+      "href": "#speaking-new-sep26-paper"
+    },
+    {
+      "text": "进入学习 →",
+      "href": "#speaking-new-sep26-school-skills"
+    },
+    {
+      "text": "进入学习 →",
+      "href": "#speaking-new-sep26-names-people"
+    },
+    {
+      "text": "进入学习 →",
+      "href": "#speaking-new-sep26-decisions-success"
+    },
+    {
+      "text": "进入学习 →",
+      "href": "#speaking-new-sep26-organisation"
+    },
+    {
+      "text": "进入学习 →",
+      "href": "#speaking-new-sep26-city-spaces"
+    },
+    {
+      "text": "进入学习 →",
+      "href": "#speaking-new-sep26-creative-history"
+    },
+    {
+      "text": "进入学习 →",
+      "href": "#speaking-new-sep26-media"
+    },
+    {
+      "text": "进入学习 →",
+      "href": "#speaking-new-sep26-friends-happiness"
+    },
+    {
+      "text": "进入学习 →",
+      "href": "#learn-speaking_part1_natural_answers"
+    },
+    {
+      "text": "进入学习 →",
+      "href": "#learn-speaking_part3_explain_compare"
+    },
+    {
+      "text": "进入学习 →",
+      "href": "#speaking-first"
+    },
+    {
+      "text": "进入学习 →",
+      "href": "#topic-work"
+    },
+    {
+      "text": "进入学习 →",
+      "href": "#topic-personal-home_neighbourhood"
+    },
+    {
+      "text": "进入学习 →",
+      "href": "#topic-personal-relationships"
+    },
+    {
+      "text": "进入学习 →",
+      "href": "#topic-personal-daily_choices"
+    },
+    {
+      "text": "进入学习 →",
+      "href": "#topic-personal-interests_skills"
+    },
+    {
+      "text": "进入学习 →",
+      "href": "#topic-personal-experiences_changes"
+    },
+    {
+      "text": "进入学习 →",
+      "href": "#topic-personal-places_weather"
+    },
+    {
+      "text": "词汇单词、语境与主动运用 →",
+      "href": "#study-vocabulary-list"
+    },
+    {
+      "text": "短语搭配、用法与配套小练 →",
+      "href": "#study-phrases-list"
+    },
+    {
+      "text": "共用背景供不同科目使用的阅读材料 →",
+      "href": "#study-shared-list"
+    }
+  ],
+  "details": [],
+  "saveFields": [],
+  "images": [],
+  "audio": [],
+  "viewport": 1440,
+  "documentWidth": 1440
+}

@@ -1,0 +1,27 @@
+<section id="daily-study-home" class="ds-home" aria-labelledby="ds-heading">
+  <header class="ds-heading"><div><p class="ds-eyebrow">YOUR DAILY PRACTICE</p><h1 id="ds-heading">留一点时间，学会一点。</h1><p>今天的内容已经安排好，也可以按你的想法来。</p></div><span class="ds-date" id="ds-date"></span></header>
+  <div id="ds-completed" class="ds-completed" hidden></div>
+  <div class="ds-layout">
+    <div class="ds-setup">
+      <div class="ds-section-label"><span>01</span><h2>今天学多久</h2><small>建议用时，按自己的节奏</small></div>
+      <div id="ds-duration" class="ds-duration" role="group" aria-label="学习时长">
+        <button type="button" data-ds-minutes="15" aria-pressed="false"><strong>15</strong> 分钟<span>轻量练习</span></button>
+        <button type="button" data-ds-minutes="30" aria-pressed="true"><strong>30</strong> 分钟<span>日常积累</span></button>
+        <button type="button" data-ds-minutes="60" aria-pressed="false"><strong>60</strong> 分钟<span>深入练习</span></button>
+      </div>
+      <div class="ds-section-label"><span>02</span><h2>今天学什么</h2><small id="ds-capacity"></small></div>
+      <div id="ds-skills" class="ds-skills" role="group" aria-label="选择学习板块"></div>
+      <p class="ds-selection-note" id="ds-selection-note"></p>
+      <div class="ds-start-row"><button type="button" id="ds-start" class="ds-primary">直接开始学习 <span aria-hidden="true">→</span></button><span id="ds-start-meta"></span></div>
+      <p class="ds-footnote" id="ds-start-note">从第一步开始，中途可以暂停。</p>
+    </div>
+    <aside class="ds-preview" aria-labelledby="ds-plan-title">
+      <div class="ds-preview-heading"><div><p class="ds-eyebrow">TODAY'S PLAN</p><h2 id="ds-plan-title">今天的安排</h2></div><span class="ds-total" id="ds-plan-total">约 30 分钟</span></div>
+      <p id="ds-plan-reason" class="ds-plan-reason"></p>
+      <ol id="ds-steps" class="ds-steps"></ol>
+      <p class="ds-plan-foot">完成一步，再进入下一步。计时结束不会打断作答。</p>
+    </aside>
+  </div>
+  <p id="ds-message" class="ds-message" role="status" aria-live="polite" hidden></p>
+  <noscript><p>请开启 JavaScript 后选择安排；下方的学习内容仍可直接阅读。</p></noscript>
+</section>

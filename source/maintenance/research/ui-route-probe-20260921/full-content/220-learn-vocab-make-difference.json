@@ -1,0 +1,445 @@
+{
+  "requested": "learn-vocab-make-difference",
+  "from": [
+    "内容单元"
+  ],
+  "actual": "#learn-vocab-make-difference",
+  "checkedAt": "2026-09-21T12:53:16.668Z",
+  "title": "学习 / 短语 / make a difference to …｜对……产生影响 · IELTS",
+  "label": "学习 / 短语 / make a difference to …｜对……产生影响",
+  "panel": "phrases",
+  "contentRoot": "learn-vocab-make-difference",
+  "headings": [
+    {
+      "tag": "H3",
+      "text": "意义与结构",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "例句",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "易混点",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "留下本单元首稿",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "核对依据，再修订",
+      "visible": false
+    },
+    {
+      "tag": "H3",
+      "text": "换个情境再用一次",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "make a difference：用可核对结果解释影响",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "make a difference：用可核对结果解释影响",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "基于原题的参考改述",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "姐妹收藏家：教育、财富与公共文化",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "原文 · 印刷页16",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "原文 · 印刷页17",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "原题 · 印刷页18",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "原题 · 印刷页19",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "答案与证据解释",
+      "visible": true
+    }
+  ],
+  "controls": [
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "12\nmake a difference to …｜对……产生影响\n说明一项改变带来了什么效果，避免只写空泛的“很有用”。\n约 8 分钟",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "checkbox",
+      "text": "",
+      "label": "收藏这组搭配 ★",
+      "href": null,
+      "save": "vocabbookmark-extra-vocab-make-difference",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "可选：记录或再练一次",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SELECT",
+      "id": "",
+      "type": "select-one",
+      "text": "",
+      "label": "",
+      "href": null,
+      "save": "enrich-vocab-make-difference-familiarity",
+      "visible": false,
+      "disabled": false,
+      "required": false,
+      "options": [
+        {
+          "value": "",
+          "label": "未标记"
+        },
+        {
+          "value": "K",
+          "label": "K · 以前就会主动用"
+        },
+        {
+          "value": "R",
+          "label": "R · 认识，但平时不用"
+        },
+        {
+          "value": "N",
+          "label": "N · 这次新学的用法"
+        }
+      ]
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "我的答案／口语录音文件与简记",
+      "href": null,
+      "save": "enrich-vocab-make-difference-answer",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "checkbox",
+      "text": "",
+      "label": "",
+      "href": null,
+      "save": "enrich-vocab-make-difference-frozen",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "text",
+      "text": "",
+      "label": "",
+      "href": null,
+      "save": "enrich-vocab-make-difference-saved-at",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "保留首稿，打开反馈",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "修订：哪里变了，为什么",
+      "href": null,
+      "save": "enrich-vocab-make-difference-revision",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "可选：记录或再练一次",
+      "label": "",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "迁移答案／隔日回忆记录",
+      "href": null,
+      "save": "enrich-vocab-make-difference-transfer",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "可选：记录或再练一次",
+      "label": "",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SELECT",
+      "id": "",
+      "type": "select-one",
+      "text": "请选择内容或语境没理解词义或声音没认出词汇选择／搭配不稳证据、逻辑或展开不足语法或句子组织问题暂时独立完成，隔天再检验",
+      "label": "这次最需要补什么？请选择内容或语境没理解词义或声音没认出词汇选择／搭配不稳证据、逻辑或展开不足语法或句子组织问题暂时独立完成，隔天再检验",
+      "href": null,
+      "save": "enrich-vocab-make-difference-diagnosis",
+      "visible": false,
+      "disabled": false,
+      "required": false,
+      "options": [
+        {
+          "value": "",
+          "label": "请选择"
+        },
+        {
+          "value": "内容或语境没理解",
+          "label": "内容或语境没理解"
+        },
+        {
+          "value": "词义或声音没认出",
+          "label": "词义或声音没认出"
+        },
+        {
+          "value": "词汇选择／搭配不稳",
+          "label": "词汇选择／搭配不稳"
+        },
+        {
+          "value": "证据、逻辑或展开不足",
+          "label": "证据、逻辑或展开不足"
+        },
+        {
+          "value": "语法或句子组织问题",
+          "label": "语法或句子组织问题"
+        },
+        {
+          "value": "暂时独立完成，隔天再检验",
+          "label": "暂时独立完成，隔天再检验"
+        }
+      ]
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "配套材料",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "",
+      "label": "",
+      "href": "https://dictionary.cambridge.org/dictionary/english/make-a-difference",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "Cambridge IELTS 21 Academic · Test 1 · 物理页17 / 印刷页16",
+      "label": "",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=17",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "Cambridge IELTS 21 Academic · Test 1 · 物理页19 / 印刷页18",
+      "label": "",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=19",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "Cambridge IELTS 21 Academic · Test 1 · 物理页119 / 印刷页118",
+      "label": "",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=119",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "Cambridge IELTS 21 Academic · Test 1 · 物理页17 / 印刷页16",
+      "label": "",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=17",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "Cambridge IELTS 21 Academic · Test 1 · 物理页19 / 印刷页18",
+      "label": "",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=19",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "Cambridge IELTS 21 Academic · Test 1 · 物理页119 / 印刷页118",
+      "label": "",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=119",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    }
+  ],
+  "visibleText": "12\nmake a difference to …｜对……产生影响\n说明一项改变带来了什么效果，避免只写空泛的“很有用”。\n约 8 分钟\n0% · 0 / 1 完成\n收藏这组搭配 ★\n可选：记录或再练一次\n意义与结构\n\nmake a difference to + 人／事，常用于表示有帮助或产生明显变化。可以说 make a big／small difference，或 make little／no difference。to 后接受影响的对象。\n\n例句\n\nClear examples can make a difference to how confidently learners use new words. 清楚的例句能影响学习者使用新词时的信心。\n\nAn extra bus may make little difference to journey times if traffic remains heavy. 如果道路仍然拥堵，增加一辆公交车可能对行程时间帮助不大。\n\n易混点\n\nmake a difference 不自动说明影响多大，也不说明具体机制；最好说明对什么结果有影响。“有差别”还可以用 there is a difference between A and B，但那是在比较两者，不是在说明某措施带来改变。\n\n留下本单元首稿\n\n本单元先学再用；不记为未见初测。口语可使用原章节录音器，或自行录音并记文件名。\n\n先读短课，再独立应用；保存后看反馈。\n\n① 完成：Regular feedback can make a difference ＿＿＿＿ writing accuracy. ② 用目标表达写“如果不复习错误，多做一张练习卷可能帮助不大”。③ 给第二句提出一个能观察的效果指标。\n\n我的答案／口语录音文件与简记\n保留首稿，打开反馈\n\n先写下自己的答案。\n\n配套材料\nmake a difference：用可核对结果解释影响\nmake a difference：用可核对结果解释影响\n\nQ12说明战争改变收藏方向；末段说1951与1963向National Museum Wales捐赠。参考改述的cultural legacy有全文支持，不虚构参观人数或经济收入。\n\n基于原题的参考改述\n\nBy donating their collections, the sisters made a lasting difference to the cultural resources available in Wales.\n\n此句是对下方真题事实的原创改述，目标搭配不冒称原文用词。\n\n姐妹收藏家：教育、财富与公共文化\n\n先读这一组完整原文页，再完成对应原题。以下时代、数量与观点均按考试文章语境理解。\n\n原文 · 印刷页16\n\nREADING PASSAGE 1\n\nYou should spend about 20 minutes on Questions 1-13, which are based on Reading Passage 1 below.\n\nThe Davies Sisters\n\nBetween 1908 and 1924, Gwendoline and Margaret Davies amassed one of the largest collections of late-nineteenth and early-twentieth-century French paintings in Britain\n\nGwendoline (1882-1951) and Margaret (1884-1963) Davies were the granddaughters of David Davies, a Welshman who amassed a fortune in the shipping and mining industries. In 1907, when Gwendoline came into her inheritance (Margaret would follow in 1909), the sisters were said to be the wealthiest unmarried women in Britain. Their religious upbringing in rural Wales gave them a deep sense of social responsibility and they chose to use their inheritance for cultural and philanthropic* purposes.\n\nWhile there was no real family history of art collecting, the sisters' education was rigorously geared toward such pursuits. Their London school focused on cultural rather than academic study, and they travelled extensively with their governess, Jane Blaker, visiting art galleries and making extensive notes on the collections there.\n\nThe sisters began to make regular art purchases from 1908, which roughly coincided with the dates of their inheritance. They took advice from various people, including the art dealer Hugh Blaker (the brother of Jane Blaker) and David Croal Thompson, who was also an art dealer. While it was long assumed that these men were largely responsible for the nature of the sisters' collection, it has recently been accepted that Gwendoline and Margaret retained a far more active role in the process.\n\nThe sisters' journals reveal their preference for Old Master** paintings. Yet they initially made very few attempts to secure any such works. ·while the sisters were wealthy in relative terms, their income was nothing compared to the fortunes of American art collectors of this period, such as J. Pierpont Morgan. Quite simply, high quality Old Master works were, if not beyond their means, then beyond what they were willing to pay for them. Instead, their early purchases were of the fashionable, safe variety, and included, for example, paintings by the French artist Jean- Baptiste-Camille Corot.\n\n• philanthropic: seeking to promote the welfare of others, often by charitable funding •• Old Master: a highly respected artist of great skill who worked in Europe before about 1800\n\n原文 · 印刷页17\n\nHowever, it was only a few years before their collecting took a new direction and they turned to the work of the French Impressionists***. We know that Hugh Blaker, as a champion of contemporary French art had a hand in the decision, and we know also that they would have seen examples on their various trips to Paris. Whatever the precise reason for this change, their first purchases of Impressionist art, made in October 1912, were scenes of Venice by the French artist Claude Monet. Over the next 12 years, the sisters amassed the bulk of their Impressionist collection, including six further works by Monet, two more by Manet, and three by Renoir, including his well-known painting La Parisienne.\n\nThe First World War (1914-1918) played a part in the development of the sisters' collection. Their initial response to the war effort was to finance the safe passage of artists from occupied Belgium to Wales, as a humanitarian act, but also with the hope of establishing a vibrant artists' community in the area. Later in the conflict, both sisters decided to volunteer at a canteen for troops at Troyes, in northern France; Gwendoline in 1916, followed by Margaret in 1917.\n\nIt was tedious and distressing work, which would have a permanent effect on Gwendoline's health. Yet on one of numerous trips to nearby Paris, she visited the Bernheim-Jeune Gallery. Here she acquired two works by Cézanne - Provenc;al Landscape and The Franc;ois Zola Dam. The paintings were shipped directly to Bath, England, where they became the first works by Cézanne to go on display in a public gallery in Britain.\n\nCommentators have often described the sisters as unlikely pioneer collectors. Much is made of their isolation in rural Wales and the fact that they didn't make friends with artists or gallery owners. Yet they didn't feel obliged to follow fashionable tastes and were free to pursue their own preferences. Although they relied on a trusted circle of advisers, they made frequent trips to London and Paris, and also regularly had paintings sent to their home for consideration.\n\nBy the early 1920s, Gwendoline felt increasingly uncomfortable buying art works when faced with the poverty and social upheaval created by the First World War. Her philanthropic pursuits then became focused almost exclusively on social causes and the development of the sisters' home at Gregynog Hall into a conference center and venue for the Gregynog Festival of Music and Poetry. Gwendoline made her final art purchase in March 1926. Margaret also stopped collecting around this time, but started again in the 1930s acquiring, on a relatively small scale, work by contemporary British artists.\n\nThe sisters collected French Impressionist paintings at a time when such art was routinely ignored by individuals and institutions alike. The Gwendoline and Margaret Davies collection, donated in 1951 and 1963 respectively to the National Museum Wales, contains major examples of work by leading French Impressionists. In collecting paintings that they loved, the sisters created a lasting and meaningful cultural legacy for the people of Wales and beyond.\n\n*** Impressionist: an artist with a style of painting that developed in France in the late 1800s by Renoir, including his well-known painting La Parisienne\n\n原页文字提示：脚注引文保留原页；其后半句涉及 Renoir 作品，属于来源编辑瑕疵，不要把整条脚注当作英语完整定义范例。这里的 Impressionist 指印象派画家。\n\n原题 · 印刷页18\n\nQuestions 1-7\n\nComplete the notes below.\n\nChoose ONE WORD ONLY from the passage for each answer.\n\nWrite your answers in boxes 1-7 on your answer sheet.\n\nGwendoline and Margaret Davies\n\nFamily and early life\n\n• their grandfather's wealth came from 1 ........................................... and transportation businesses • their upbringing gave them a sense of social responsibility • their 2 ........................................... was designed to give them an interest in activities such as collecting art\n\n• their governess took them on trips to art galleries • they took lengthy 3 ........................................... about the things they saw in art galleries\n\nThe sisters as art collectors\n\n• their 4 ........................................... showed they liked Old Master paintings, but they were expensive to buy\n\n• their early purchases were safe, popular paintings • the first Impressionist paintings they bought showed places in 5 ......................................... ..\n\nImpact of First World War\n\n• they helped bring artists from Belgium to Wales • they worked in a 6 ........................................... for soldiers in France\n\nOpinions about the sisters as art collectors\n\n• were not considered typical collectors - they lived in isolation in the countryside and did not have any 7 ........................................... who were artists\n\n原题 · 印刷页19\n\nQuestions 8-13\n\nDo the following statements agree with the information given in Reading Passage 1?\n\nIn boxes 8-13 on your answer sheet, write\n\nTRUE FALSE NOT GIVEN\n\nif the statement agrees with the information if the statement contradicts the information if there is no information on this\n\n8 The Davies sisters' childhood influenced the way they decided to use their wealth.\n\n9 The Jean-Baptiste-Camille Corot paintings in the Davies sisters' collection were purchased from a gallery in France.\n\n10 Hugh Blaker opposed the Davies sisters' decision to buy art by French Impressionists.\n\n11 The exhibition of Cézanne paintings at the Bath gallery was very popular with the public.\n\n12 The impact of the First World War encouraged Gwendoline to reconsider her interest in collecting art.\n\n13 The Davies sisters bought French Impressionist art during a period when very few people were doing so.\n\np.118I 19\n\n答案与证据解释\n\nQ1–7：mining、education、notes、journals、Venice、canteen、friends。依次对应祖父行业、学校教育、画廊笔记、日记偏好、画面中的城市、战时工作地点、没有艺术家朋友。每空一词，transportation对应shipping，不能把已给意思重复填入。Q8 TRUE：宗教成长背景使她们把继承财产用于文化与慈善；Q9 NOT GIVEN：早期买Corot但没有购买画廊所在地；Q10 FALSE：Blaker支持当代法国艺术并参与转向；Q11 NOT GIVEN：英国首次公开展出不等于观众人数很多；Q12 TRUE：战后贫困改变Gwendoline的关注；Q13 TRUE：她们买印象派时个人与机构常忽视这种艺术。背景重点是教育、财力限制与个人偏好的共同作用，不能简化为富有就能买所有画作。\n\n完整原件：Cambridge IELTS 21 Academic · Test 1 · 物理页17 / 印刷页16；Cambridge IELTS 21 Academic · Test 1 · 物理页19 / 印刷页18；Cambridge IELTS 21 Academic · Test 1 · 物理页119 / 印刷页118\n\nCambridge IELTS 21 Academic · Test 1 · 物理页17 / 印刷页16\n\nCambridge IELTS 21 Academic · Test 1 · 物理页19 / 印刷页18\n\nCambridge IELTS 21 Academic · Test 1 · 物理页119 / 印刷页118",
+  "allContent": "12make a difference to …｜对……产生影响说明一项改变带来了什么效果，避免只写空泛的“很有用”。约 8 分钟0% · 0 / 1 完成收藏这组搭配 ★可选：记录或再练一次学习前自评：这个用法熟悉吗？未标记K · 以前就会主动用R · 认识，但平时不用N · 这次新学的用法意义与结构\nmake a difference to + 人／事，常用于表示有帮助或产生明显变化。可以说 make a big／small difference，或 make little／no difference。to 后接受影响的对象。\n例句\nClear examples can make a difference to how confidently learners use new words.\n清楚的例句能影响学习者使用新词时的信心。\nAn extra bus may make little difference to journey times if traffic remains heavy.\n如果道路仍然拥堵，增加一辆公交车可能对行程时间帮助不大。\n易混点\nmake a difference 不自动说明影响多大，也不说明具体机制；最好说明对什么结果有影响。“有差别”还可以用 there is a difference between A and B，但那是在比较两者，不是在说明某措施带来改变。留下本单元首稿本单元先学再用；不记为未见初测。口语可使用原章节录音器，或自行录音并记文件名。先读短课，再独立应用；保存后看反馈。\n① 完成：Regular feedback can make a difference ＿＿＿＿ writing accuracy. ② 用目标表达写“如果不复习错误，多做一张练习卷可能帮助不大”。③ 给第二句提出一个能观察的效果指标。我的答案／口语录音文件与简记保留首稿，打开反馈先写下自己的答案。核对依据，再修订① to。② Doing one more practice paper may make little difference if I do not review my mistakes. 也可用 might not make much difference，保留不确定程度。③ 可观察同类错误在后续写作中是否减少，而不是只统计做题页数。语言参考：I can check whether the same errors occur less often in my next piece of writing.\n自查只记三项：意义是否符合本意；结构是否完整；是否保留必要的范围或条件。参考答案不是唯一合法表达，不根据是否使用这个搭配给雅思分数。修订：哪里变了，为什么换个情境再用一次隔日选一个你真实做过的小改变，写清它对什么结果产生了影响；若还没观察到效果，就用 may，并说明之后怎样检查。可选：记录或再练一次迁移答案／隔日回忆记录可选：记录或再练一次这次最需要补什么？请选择内容或语境没理解词义或声音没认出词汇选择／搭配不稳证据、逻辑或展开不足语法或句子组织问题暂时独立完成，隔天再检验配套材料Cambridge Dictionary：make a difference to …make a difference：用可核对结果解释影响make a difference：用可核对结果解释影响Q12说明战争改变收藏方向；末段说1951与1963向National Museum Wales捐赠。参考改述的cultural legacy有全文支持，不虚构参观人数或经济收入。基于原题的参考改述By donating their collections, the sisters made a lasting difference to the cultural resources available in Wales.此句是对下方真题事实的原创改述，目标搭配不冒称原文用词。姐妹收藏家：教育、财富与公共文化先读这一组完整原文页，再完成对应原题。以下时代、数量与观点均按考试文章语境理解。原文 · 印刷页16READING PASSAGE 1You should spend about 20 minutes on Questions 1-13, which are based on Reading Passage 1 below.The Davies SistersBetween 1908 and 1924, Gwendoline and Margaret Davies amassed one of the largest collections of late-nineteenth and early-twentieth-century French paintings in BritainGwendoline (1882-1951) and Margaret (1884-1963) Davies were the granddaughters of David Davies, a Welshman who amassed a fortune in the shipping and mining industries. In 1907, when Gwendoline came into her inheritance (Margaret would follow in 1909), the sisters were said to be the wealthiest unmarried women in Britain. Their religious upbringing in rural Wales gave them a deep sense of social responsibility and they chose to use their inheritance for cultural and philanthropic* purposes.While there was no real family history of art collecting, the sisters' education was rigorously geared toward such pursuits. Their London school focused on cultural rather than academic study, and they travelled extensively with their governess, Jane Blaker, visiting art galleries and making extensive notes on the collections there.The sisters began to make regular art purchases from 1908, which roughly coincided with the dates of their inheritance. They took advice from various people, including the art dealer Hugh Blaker (the brother of Jane Blaker) and David Croal Thompson, who was also an art dealer. While it was long assumed that these men were largely responsible for the nature of the sisters' collection, it has recently been accepted that Gwendoline and Margaret retained a far more active role in the process.The sisters' journals reveal their preference for Old Master** paintings. Yet they initially made very few attempts to secure any such works. ·while the sisters were wealthy in relative terms, their income was nothing compared to the fortunes of American art collectors of this period, such as J. Pierpont Morgan. Quite simply, high quality Old Master works were, if not beyond their means, then beyond what they were willing to pay for them. Instead, their early purchases were of the fashionable, safe variety, and included, for example, paintings by the French artist Jean- Baptiste-Camille Corot.• philanthropic: seeking to promote the welfare of others, often by charitable funding •• Old Master: a highly respected artist of great skill who worked in Europe before about 1800原文 · 印刷页17However, it was only a few years before their collecting took a new direction and they turned to the work of the French Impressionists***. We know that Hugh Blaker, as a champion of contemporary French art had a hand in the decision, and we know also that they would have seen examples on their various trips to Paris. Whatever the precise reason for this change, their first purchases of Impressionist art, made in October 1912, were scenes of Venice by the French artist Claude Monet. Over the next 12 years, the sisters amassed the bulk of their Impressionist collection, including six further works by Monet, two more by Manet, and three by Renoir, including his well-known painting La Parisienne.The First World War (1914-1918) played a part in the development of the sisters' collection. Their initial response to the war effort was to finance the safe passage of artists from occupied Belgium to Wales, as a humanitarian act, but also with the hope of establishing a vibrant artists' community in the area. Later in the conflict, both sisters decided to volunteer at a canteen for troops at Troyes, in northern France; Gwendoline in 1916, followed by Margaret in 1917.It was tedious and distressing work, which would have a permanent effect on Gwendoline's health. Yet on one of numerous trips to nearby Paris, she visited the Bernheim-Jeune Gallery. Here she acquired two works by Cézanne - Provenc;al Landscape and The Franc;ois Zola Dam. The paintings were shipped directly to Bath, England, where they became the first works by Cézanne to go on display in a public gallery in Britain.Commentators have often described the sisters as unlikely pioneer collectors. Much is made of their isolation in rural Wales and the fact that they didn't make friends with artists or gallery owners. Yet they didn't feel obliged to follow fashionable tastes and were free to pursue their own preferences. Although they relied on a trusted circle of advisers, they made frequent trips to London and Paris, and also regularly had paintings sent to their home for consideration.By the early 1920s, Gwendoline felt increasingly uncomfortable buying art works when faced with the poverty and social upheaval created by the First World War. Her philanthropic pursuits then became focused almost exclusively on social causes and the development of the sisters' home at Gregynog Hall into a conference center and venue for the Gregynog Festival of Music and Poetry. Gwendoline made her final art purchase in March 1926. Margaret also stopped collecting around this time, but started again in the 1930s acquiring, on a relatively small scale, work by contemporary British artists.The sisters collected French Impressionist paintings at a time when such art was routinely ignored by individuals and institutions alike. The Gwendoline and Margaret Davies collection, donated in 1951 and 1963 respectively to the National Museum Wales, contains major examples of work by leading French Impressionists. In collecting paintings that they loved, the sisters created a lasting and meaningful cultural legacy for the people of Wales and beyond.*** Impressionist: an artist with a style of painting that developed in France in the late 1800s by Renoir, including his well-known painting La Parisienne原页文字提示：脚注引文保留原页；其后半句涉及 Renoir 作品，属于来源编辑瑕疵，不要把整条脚注当作英语完整定义范例。这里的 Impressionist 指印象派画家。原题 · 印刷页18Questions 1-7Complete the notes below.Choose ONE WORD ONLY from the passage for each answer.Write your answers in boxes 1-7 on your answer sheet.Gwendoline and Margaret DaviesFamily and early life• their grandfather's wealth came from 1 ........................................... and transportation businesses • their upbringing gave them a sense of social responsibility • their 2 ........................................... was designed to give them an interest in activities such as collecting art• their governess took them on trips to art galleries • they took lengthy 3 ........................................... about the things they saw in art galleriesThe sisters as art collectors• their 4 ........................................... showed they liked Old Master paintings, but they were expensive to buy• their early purchases were safe, popular paintings • the first Impressionist paintings they bought showed places in 5 ......................................... ..Impact of First World War• they helped bring artists from Belgium to Wales • they worked in a 6 ........................................... for soldiers in FranceOpinions about the sisters as art collectors• were not considered typical collectors - they lived in isolation in the countryside and did not have any 7 ........................................... who were artists原题 · 印刷页19Questions 8-13Do the following statements agree with the information given in Reading Passage 1?In boxes 8-13 on your answer sheet, writeTRUE FALSE NOT GIVENif the statement agrees with the information if the statement contradicts the information if there is no information on this8 The Davies sisters' childhood influenced the way they decided to use their wealth.9 The Jean-Baptiste-Camille Corot paintings in the Davies sisters' collection were purchased from a gallery in France.10 Hugh Blaker opposed the Davies sisters' decision to buy art by French Impressionists.11 The exhibition of Cézanne paintings at the Bath gallery was very popular with the public.12 The impact of the First World War encouraged Gwendoline to reconsider her interest in collecting art.13 The Davies sisters bought French Impressionist art during a period when very few people were doing so.p.118I 19答案与证据解释Q1–7：mining、education、notes、journals、Venice、canteen、friends。依次对应祖父行业、学校教育、画廊笔记、日记偏好、画面中的城市、战时工作地点、没有艺术家朋友。每空一词，transportation对应shipping，不能把已给意思重复填入。Q8 TRUE：宗教成长背景使她们把继承财产用于文化与慈善；Q9 NOT GIVEN：早期买Corot但没有购买画廊所在地；Q10 FALSE：Blaker支持当代法国艺术并参与转向；Q11 NOT GIVEN：英国首次公开展出不等于观众人数很多；Q12 TRUE：战后贫困改变Gwendoline的关注；Q13 TRUE：她们买印象派时个人与机构常忽视这种艺术。背景重点是教育、财力限制与个人偏好的共同作用，不能简化为富有就能买所有画作。完整原件：Cambridge IELTS 21 Academic · Test 1 · 物理页17 / 印刷页16；Cambridge IELTS 21 Academic · Test 1 · 物理页19 / 印刷页18；Cambridge IELTS 21 Academic · Test 1 · 物理页119 / 印刷页118Cambridge IELTS 21 Academic · Test 1 · 物理页17 / 印刷页16Cambridge IELTS 21 Academic · Test 1 · 物理页19 / 印刷页18Cambridge IELTS 21 Academic · Test 1 · 物理页119 / 印刷页118",
+  "links": [
+    {
+      "text": "Cambridge Dictionary：make a difference to …",
+      "href": "https://dictionary.cambridge.org/dictionary/english/make-a-difference"
+    },
+    {
+      "text": "Cambridge IELTS 21 Academic · Test 1 · 物理页17 / 印刷页16",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=17"
+    },
+    {
+      "text": "Cambridge IELTS 21 Academic · Test 1 · 物理页19 / 印刷页18",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=19"
+    },
+    {
+      "text": "Cambridge IELTS 21 Academic · Test 1 · 物理页119 / 印刷页118",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=119"
+    },
+    {
+      "text": "Cambridge IELTS 21 Academic · Test 1 · 物理页17 / 印刷页16",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=17"
+    },
+    {
+      "text": "Cambridge IELTS 21 Academic · Test 1 · 物理页19 / 印刷页18",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=19"
+    },
+    {
+      "text": "Cambridge IELTS 21 Academic · Test 1 · 物理页119 / 印刷页118",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=119"
+    }
+  ],
+  "details": [
+    {
+      "id": "",
+      "title": "可选：记录或再练一次",
+      "open": false,
+      "visible": true
+    },
+    {
+      "id": "",
+      "title": "可选：记录或再练一次",
+      "open": false,
+      "visible": false
+    },
+    {
+      "id": "",
+      "title": "可选：记录或再练一次",
+      "open": false,
+      "visible": false
+    },
+    {
+      "id": "",
+      "title": "配套材料",
+      "open": false,
+      "visible": true
+    }
+  ],
+  "saveFields": [
+    "vocabbookmark-extra-vocab-make-difference",
+    "enrich-vocab-make-difference-familiarity",
+    "enrich-vocab-make-difference-answer",
+    "enrich-vocab-make-difference-frozen",
+    "enrich-vocab-make-difference-saved-at",
+    "enrich-vocab-make-difference-revision",
+    "enrich-vocab-make-difference-transfer",
+    "enrich-vocab-make-difference-diagnosis"
+  ],
+  "images": [],
+  "audio": [],
+  "viewport": 1440,
+  "documentWidth": 1440
+}

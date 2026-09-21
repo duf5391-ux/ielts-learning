@@ -1,0 +1,138 @@
+{
+  "requested": "usage-04",
+  "from": [
+    "内容单元"
+  ],
+  "actual": "#usage-04",
+  "checkedAt": "2026-09-21T12:53:19.676Z",
+  "title": "学习 / 短语 / in turn · IELTS",
+  "label": "学习 / 短语 / in turn",
+  "panel": "phrases",
+  "contentRoot": "usage-04",
+  "headings": [
+    {
+      "tag": "H3",
+      "text": "in turn",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "in turn：完整因果链",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "农业补贴：连锁后果与段落主旨",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "原材料 · 第1页",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "原材料 · 第2页",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "原材料 · 第3页",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "原答案",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "具体解释",
+      "visible": true
+    }
+  ],
+  "controls": [
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "checkbox",
+      "text": "",
+      "label": "收藏 in turn",
+      "href": null,
+      "save": "vocab-saved-usage-in-turn",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "An Introduction to Film Sound",
+      "label": "",
+      "href": "原始参考/04f17772-cambridge-research-notes68.pdf",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "农业补贴：连锁后果与段落主旨 · 完整题面、原材料与答案",
+      "label": "",
+      "href": "原始参考/support-248185c4-cambridge-zip-115016_Academic_Reading_sample_task_-_Matching_headings__2_.pdf#page=1",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "农业补贴：连锁后果与段落主旨 · 完整题面、原材料与答案",
+      "label": "",
+      "href": "原始参考/support-248185c4-cambridge-zip-115016_Academic_Reading_sample_task_-_Matching_headings__2_.pdf#page=1",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "checkbox",
+      "text": "",
+      "label": "我已看过本单元",
+      "href": null,
+      "save": "learning-read-usage-04",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    }
+  ],
+  "visibleText": "0% · 0 / 1 完成\n☆\nin turn\n\n这里学习后续影响：前一变化进一步引出下一变化。\n\nA affects B, which in turn affects C；This, in turn, can lead to ...。常与 may、can 连用，避免把可能的影响写成必然。\n\nThese three tracks must be mixed and balanced so as to produce the necessary emphases which in turn create desired effects.\n\nThese three tracks 指前文列出的人声、音效与音乐三种声音轨道。原句的关系是：把三者混合、平衡 → 形成所需的重点 → 产生预期效果；in turn 连接后两环。\n\n原文：\n\nAn Introduction to Film Sound\n\n日常语境例句\n\nBetter lighting can make streets feel safer, which in turn may encourage more people to walk.\n\n更好的照明可以让街道显得更安全，进而可能鼓励更多人步行。\n\n不要用它连接两个没有联系的事实。它还可表示下一环或回报式行动；take turns 才是常见的轮流做某事。当前卡片重点不是轮流义。\n\nin turn：完整因果链\n农业补贴：连锁后果与段落主旨\n\n以下为正式样题原始材料。先按原题要求作答，再看原答案与对应解释；材料描述的是原文中的语境，不把历史数据当作当前事实。\n\n原材料 · 第1页\n\nQuestions 1 – 5\n\nSample Passage 6 has six sections, A-F.\n\nChoose the correct heading for sections A-D and F from the list of headings below.\n\nWrite the correct number i-ix in boxes 1-5 on your answer sheet.\n\nList of Headings\n\ni ii iii iv v vi vii viii ix\n\nThe probable effects of the new international trade agreement The environmental impact of modern farming Farming and soil erosion The effects of government policy in rich countries Governments and management of the environment The effects of government policy in poor countries Farming and food output The effects of government policy on food output The new prospects for world trade\n\n1 Section A\n\n2 Section B\n\n3 Section C\n\n4 Section D\n\nExample Section E vi\n\n5 Section F\n\n原材料 · 第2页\n\nSection A The role of governments in environmental management is difficult but inescapable. Sometimes, the state tries to manage the resources it owns, and does so badly. Often, however, governments act in an even more harmful way. They actually subsidise the exploitation and consumption of natural resources. A whole range of policies, from farm-price support to protection for coal-mining, do environmental damage and (often) make no economic sense. Scrapping them offers a two-fold bonus: a cleaner environment and a more efficient economy. Growth and environmentalism can actually go hand in hand, if politicians have the courage to confront the vested interest that subsidies create.\n\nSection B No activity affects more of the earth's surface than farming. It shapes a third of the planet's land area, not counting Antarctica, and the proportion is rising. World food output per head has risen by 4 per cent between the 1970s and 1980s mainly as a result of increases in yields from land already in cultivation, but also because more land has been brought under the plough. Higher yields have been achieved by increased irrigation, better crop breeding, and a doubling in the use of pesticides and chemical fertilisers in the 1970s and 1980s.\n\nSection C All these activities may have damaging environmental impacts. For example, land clearing for agriculture is the largest single cause of deforestation; chemical fertilisers and pesticides may contaminate water supplies; more intensive farming and the abandonment of fallow periods tend to exacerbate soil erosion; and the spread of monoculture and use of high-yielding varieties of crops have been accompanied by the disappearance of old varieties of food plants which might have provided some insurance against pests or diseases in future. Soil erosion threatens the productivity of land in both rich and poor countries. The United States, where the most careful measurements have been done, discovered in 1982 that about one-fifth of its farmland was losing topsoil at a rate likely to diminish the soil's productivity. The country subsequently embarked upon a program to convert 11 per cent of its cropped land to meadow or forest. Topsoil in India and China is vanishing much faster than in America.\n\nSection D Government policies have frequently compounded the environmental damage that farming can cause. In the rich countries, subsidies for growing crops and price supports for farm output drive up the price of land. The annual value of these subsidies is immense: about $250 billion, or more than all World Bank lending in the 1980s. To increase the output of crops per acre, a farmer's easiest option is to use more of the most readily available inputs: fertilisers and pesticides. Fertiliser use doubled in Denmark in the period 1960-1985 and increased in The Netherlands by 150 per cent. The quantity of pesticides applied has risen too: by 69 per cent in 1975-1984 in Denmark, for example, with a rise of 115 per cent in the frequency of application in the three years from 1981.\n\nIn the late 1980s and early 1990s some efforts were made to reduce farm subsidies. The most dramatic example was that of New Zealand, which scrapped most farm support in 1984. A study of the environmental effects, conducted in 1993, found that the end of fertiliser subsidies had been followed by a fall in fertiliser use (a fall compounded by the decline in world commodity prices, which cut farm incomes). The removal of subsidies also stopped land- clearing and over-stocking, which in the past had been the principal causes of erosion. Farms began to diversify. The one kind of subsidy whose removal appeared to have been bad for the environment was the subsidy to manage soil erosion.\n\n原材料 · 第3页\n\nIn less enlightened countries, and in the European Union, the trend has been to reduce rather than eliminate subsidies, and to introduce new payments to encourage farmers to treat their land in environmentally friendlier ways, or to leave it fallow. It may sound strange but such payments need to be higher than the existing incentives for farmers to grow food crops. Farmers, however, dislike being paid to do nothing. In several countries they have become interested in the possibility of using fuel produced from crop residues either as a replacement for petrol (as ethanol) or as fuel for power stations (as biomass). Such fuels produce far less carbon dioxide than coal or oil, and absorb carbon dioxide as they grow. They are therefore less likely to contribute to the greenhouse effect. But they are rarely competitive with fossil fuels unless subsidised - and growing them does no less environmental harm than other crops.\n\nSection E In poor countries, governments aggravate other sorts of damage. Subsidies for pesticides and artificial fertilisers encourage farmers to use greater quantities than are needed to get the highest economic crop yield. A study by the International Rice Research Institute of pesticide use by farmers in South East Asia found that, with pest-resistant varieties of rice, even moderate applications of pesticide frequently cost farmers more than they saved. Such waste puts farmers on a chemical treadmill: bugs and weeds become resistant to poisons, so next year's poisons must be more lethal. One cost is to human health. Every year some 10,000 people die from pesticide poisoning, almost all of them in the developing countries, and another 400,000 become seriously ill. As for artificial fertilisers, their use world-wide increased by 40 per cent per unit of farmed land between the mid 1970s and late 1980s, mostly in the developing countries. Overuse of fertilisers may cause farmers to stop rotating crops or leaving their land fallow. That, in turn, may make soil erosion worse.\n\nSection F A result of the Uruguay Round of world trade negotiations is likely to be a reduction of 36 per cent in the average levels of farm subsidies paid by the rich countries in 1986-1990. Some of the world's food production will move from Western Europe to regions where subsidies are lower or non-existent, such as the former communist countries and parts of the developing world. Some environmentalists worry about this outcome. It will undoubtedly mean more pressure to convert natural habitat into farmland. But it will also have many desirable environmental effects. The intensity of farming in the rich world should decline, and the use of chemical inputs will diminish. Crops are more likely to be grown in the environments to which they are naturally suited. And more farmers in poor countries will have the money and the incentive to manage their land in ways that are sustainable in the long run. That is important. To feed an increasingly hungry world, farmers need every incentive to use their soil and water effectively and efficiently.\n\n原答案\n\nAnswers:\n\n1 v 2 vii 3 ii 4 iv 5 i\n\n具体解释\n\n原题Q1–5分别为Section A/B/C/D/F，答案v/vii/ii/iv/i；Section E是题面示例vi。A概括政府如何影响环境；B说农业与粮食产量；C论现代农业的环境影响；D看富国政策；F看新国际贸易协定的可能影响。E段从发展中国家肥料补贴讲到过量使用、减少轮作／休耕、加重土壤侵蚀；That, in turn中的That回指前一环节，不是只表示随后某天。F段预测新国际贸易协定带来的生产转移及环境后果；New Zealand研究在D、IRRI研究在E，不能混作F段主旨。\n\n完整原件：农业补贴：连锁后果与段落主旨 · 完整题面、原材料与答案\n\n农业补贴：连锁后果与段落主旨 · 完整题面、原材料与答案\n\n我已看过本单元",
+  "allContent": "0% · 0 / 1 完成☆in turn这里学习后续影响：前一变化进一步引出下一变化。A affects B, which in turn affects C；This, in turn, can lead to ...。常与 may、can 连用，避免把可能的影响写成必然。These three tracks must be mixed and balanced so as to produce the necessary emphases which in turn create desired effects.These three tracks 指前文列出的人声、音效与音乐三种声音轨道。原句的关系是：把三者混合、平衡 → 形成所需的重点 → 产生预期效果；in turn 连接后两环。原文：An Introduction to Film Sound日常语境例句Better lighting can make streets feel safer, which in turn may encourage more people to walk.更好的照明可以让街道显得更安全，进而可能鼓励更多人步行。不要用它连接两个没有联系的事实。它还可表示下一环或回报式行动；take turns 才是常见的轮流做某事。当前卡片重点不是轮流义。in turn：完整因果链农业补贴：连锁后果与段落主旨以下为正式样题原始材料。先按原题要求作答，再看原答案与对应解释；材料描述的是原文中的语境，不把历史数据当作当前事实。原材料 · 第1页Questions 1 – 5Sample Passage 6 has six sections, A-F.Choose the correct heading for sections A-D and F from the list of headings below.Write the correct number i-ix in boxes 1-5 on your answer sheet.List of Headingsi ii iii iv v vi vii viii ixThe probable effects of the new international trade agreement The environmental impact of modern farming Farming and soil erosion The effects of government policy in rich countries Governments and management of the environment The effects of government policy in poor countries Farming and food output The effects of government policy on food output The new prospects for world trade1 Section A2 Section B3 Section C4 Section DExample Section E vi5 Section F原材料 · 第2页Section A The role of governments in environmental management is difficult but inescapable. Sometimes, the state tries to manage the resources it owns, and does so badly. Often, however, governments act in an even more harmful way. They actually subsidise the exploitation and consumption of natural resources. A whole range of policies, from farm-price support to protection for coal-mining, do environmental damage and (often) make no economic sense. Scrapping them offers a two-fold bonus: a cleaner environment and a more efficient economy. Growth and environmentalism can actually go hand in hand, if politicians have the courage to confront the vested interest that subsidies create.Section B No activity affects more of the earth's surface than farming. It shapes a third of the planet's land area, not counting Antarctica, and the proportion is rising. World food output per head has risen by 4 per cent between the 1970s and 1980s mainly as a result of increases in yields from land already in cultivation, but also because more land has been brought under the plough. Higher yields have been achieved by increased irrigation, better crop breeding, and a doubling in the use of pesticides and chemical fertilisers in the 1970s and 1980s.Section C All these activities may have damaging environmental impacts. For example, land clearing for agriculture is the largest single cause of deforestation; chemical fertilisers and pesticides may contaminate water supplies; more intensive farming and the abandonment of fallow periods tend to exacerbate soil erosion; and the spread of monoculture and use of high-yielding varieties of crops have been accompanied by the disappearance of old varieties of food plants which might have provided some insurance against pests or diseases in future. Soil erosion threatens the productivity of land in both rich and poor countries. The United States, where the most careful measurements have been done, discovered in 1982 that about one-fifth of its farmland was losing topsoil at a rate likely to diminish the soil's productivity. The country subsequently embarked upon a program to convert 11 per cent of its cropped land to meadow or forest. Topsoil in India and China is vanishing much faster than in America.Section D Government policies have frequently compounded the environmental damage that farming can cause. In the rich countries, subsidies for growing crops and price supports for farm output drive up the price of land. The annual value of these subsidies is immense: about $250 billion, or more than all World Bank lending in the 1980s. To increase the output of crops per acre, a farmer's easiest option is to use more of the most readily available inputs: fertilisers and pesticides. Fertiliser use doubled in Denmark in the period 1960-1985 and increased in The Netherlands by 150 per cent. The quantity of pesticides applied has risen too: by 69 per cent in 1975-1984 in Denmark, for example, with a rise of 115 per cent in the frequency of application in the three years from 1981.In the late 1980s and early 1990s some efforts were made to reduce farm subsidies. The most dramatic example was that of New Zealand, which scrapped most farm support in 1984. A study of the environmental effects, conducted in 1993, found that the end of fertiliser subsidies had been followed by a fall in fertiliser use (a fall compounded by the decline in world commodity prices, which cut farm incomes). The removal of subsidies also stopped land- clearing and over-stocking, which in the past had been the principal causes of erosion. Farms began to diversify. The one kind of subsidy whose removal appeared to have been bad for the environment was the subsidy to manage soil erosion.原材料 · 第3页In less enlightened countries, and in the European Union, the trend has been to reduce rather than eliminate subsidies, and to introduce new payments to encourage farmers to treat their land in environmentally friendlier ways, or to leave it fallow. It may sound strange but such payments need to be higher than the existing incentives for farmers to grow food crops. Farmers, however, dislike being paid to do nothing. In several countries they have become interested in the possibility of using fuel produced from crop residues either as a replacement for petrol (as ethanol) or as fuel for power stations (as biomass). Such fuels produce far less carbon dioxide than coal or oil, and absorb carbon dioxide as they grow. They are therefore less likely to contribute to the greenhouse effect. But they are rarely competitive with fossil fuels unless subsidised - and growing them does no less environmental harm than other crops.Section E In poor countries, governments aggravate other sorts of damage. Subsidies for pesticides and artificial fertilisers encourage farmers to use greater quantities than are needed to get the highest economic crop yield. A study by the International Rice Research Institute of pesticide use by farmers in South East Asia found that, with pest-resistant varieties of rice, even moderate applications of pesticide frequently cost farmers more than they saved. Such waste puts farmers on a chemical treadmill: bugs and weeds become resistant to poisons, so next year's poisons must be more lethal. One cost is to human health. Every year some 10,000 people die from pesticide poisoning, almost all of them in the developing countries, and another 400,000 become seriously ill. As for artificial fertilisers, their use world-wide increased by 40 per cent per unit of farmed land between the mid 1970s and late 1980s, mostly in the developing countries. Overuse of fertilisers may cause farmers to stop rotating crops or leaving their land fallow. That, in turn, may make soil erosion worse.Section F A result of the Uruguay Round of world trade negotiations is likely to be a reduction of 36 per cent in the average levels of farm subsidies paid by the rich countries in 1986-1990. Some of the world's food production will move from Western Europe to regions where subsidies are lower or non-existent, such as the former communist countries and parts of the developing world. Some environmentalists worry about this outcome. It will undoubtedly mean more pressure to convert natural habitat into farmland. But it will also have many desirable environmental effects. The intensity of farming in the rich world should decline, and the use of chemical inputs will diminish. Crops are more likely to be grown in the environments to which they are naturally suited. And more farmers in poor countries will have the money and the incentive to manage their land in ways that are sustainable in the long run. That is important. To feed an increasingly hungry world, farmers need every incentive to use their soil and water effectively and efficiently.原答案Answers:1 v 2 vii 3 ii 4 iv 5 i具体解释原题Q1–5分别为Section A/B/C/D/F，答案v/vii/ii/iv/i；Section E是题面示例vi。A概括政府如何影响环境；B说农业与粮食产量；C论现代农业的环境影响；D看富国政策；F看新国际贸易协定的可能影响。E段从发展中国家肥料补贴讲到过量使用、减少轮作／休耕、加重土壤侵蚀；That, in turn中的That回指前一环节，不是只表示随后某天。F段预测新国际贸易协定带来的生产转移及环境后果；New Zealand研究在D、IRRI研究在E，不能混作F段主旨。完整原件：农业补贴：连锁后果与段落主旨 · 完整题面、原材料与答案农业补贴：连锁后果与段落主旨 · 完整题面、原材料与答案 我已看过本单元",
+  "links": [
+    {
+      "text": "An Introduction to Film Sound",
+      "href": "原始参考/04f17772-cambridge-research-notes68.pdf"
+    },
+    {
+      "text": "农业补贴：连锁后果与段落主旨 · 完整题面、原材料与答案",
+      "href": "原始参考/support-248185c4-cambridge-zip-115016_Academic_Reading_sample_task_-_Matching_headings__2_.pdf#page=1"
+    },
+    {
+      "text": "农业补贴：连锁后果与段落主旨 · 完整题面、原材料与答案",
+      "href": "原始参考/support-248185c4-cambridge-zip-115016_Academic_Reading_sample_task_-_Matching_headings__2_.pdf#page=1"
+    }
+  ],
+  "details": [],
+  "saveFields": [
+    "vocab-saved-usage-in-turn",
+    "learning-read-usage-04"
+  ],
+  "images": [],
+  "audio": [],
+  "viewport": 1440,
+  "documentWidth": 1440
+}

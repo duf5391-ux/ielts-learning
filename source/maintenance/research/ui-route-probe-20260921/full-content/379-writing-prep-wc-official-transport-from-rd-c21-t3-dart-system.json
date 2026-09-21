@@ -1,0 +1,269 @@
+{
+  "requested": "writing-prep-wc-official-transport-from-rd-c21-t3-dart-system",
+  "from": [
+    "页面链接"
+  ],
+  "actual": "#writing-prep-wc-official-transport-from-rd-c21-t3-dart-system",
+  "checkedAt": "2026-09-21T12:55:47.882Z",
+  "title": "练习 / 写作 · Task 2 / 鼓励替代交通与国际限车规定 · IELTS",
+  "label": "练习 / 写作 · Task 2 / 鼓励替代交通与国际限车规定",
+  "panel": "practice-writing2",
+  "contentRoot": "writing2-case-wc-official-transport",
+  "headings": [
+    {
+      "tag": "H3",
+      "text": "写作前置 · 文中表达",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "reducing noise from roads",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "a future controlled by the private car",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "accessible to people using wheelchairs",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "within a short walk of",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "本次写作任务",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "对照答案，回到证据",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "参考写法",
+      "visible": false
+    },
+    {
+      "tag": "H3",
+      "text": "答后精读",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "篇章结构",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "词语与搭配",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "句子精读",
+      "visible": false
+    }
+  ],
+  "controls": [
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "鼓励替代交通与国际限车规定未作答\n同意程度 · 原题拆段写作 · 参考段落与逐段讲解",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "Cambridge / IELTS Academic Writing sample task",
+      "label": "",
+      "href": "case-assets/writing-official-transport.pdf#page=1",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "Why we need silence｜噪声风险与城市降噪",
+      "label": "",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "回到这份材料的精读",
+      "label": "",
+      "href": "#material-reading-rd-c21-silence-1",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "Dar es Salaam · 城市扩张与交通方案",
+      "label": "",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "回到这份材料的精读",
+      "label": "",
+      "href": "#material-reading-rd-c21-t3-dart-city",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "Dar es Salaam · 公交设计与实际故障",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "回到这份材料的精读",
+      "label": "",
+      "href": "#material-reading-rd-c21-t3-dart-system",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "case-wc-official-transport-answer",
+      "type": "textarea",
+      "text": "",
+      "label": "我的段落",
+      "href": null,
+      "save": "case-wc-official-transport-answer",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "checkbox",
+      "text": "",
+      "label": "",
+      "href": null,
+      "save": "case-wc-official-transport-done",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "hidden",
+      "text": "",
+      "label": "",
+      "href": null,
+      "save": "case-wc-official-transport-saved-at",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "保留作答，查看答案",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "case-wc-official-transport-revision",
+      "type": "textarea",
+      "text": "",
+      "label": "我的修订／证据笔记",
+      "href": null,
+      "save": "case-wc-official-transport-revision",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    }
+  ],
+  "visibleText": "鼓励替代交通与国际限车规定未作答\n同意程度 · 原题拆段写作 · 参考段落与逐段讲解\n0% · 0 / 1 完成\n\n官方样题 · Cambridge / IELTS Academic Writing sample task · PDF 第 1 页\n\n写作前置 · 文中表达\n\n这里是所选阅读材料中适合本题的表达；例句按本题语境编写。\n\nDar es Salaam · 公交设计与实际故障\naccessible to people using wheelchairs\n\n便于轮椅使用者使用\n\n用于说明公共交通替代方案应照顾不同乘客；需配合无台阶入口、站台等具体设计。\n\n本题例句 · 编写示范\n\nBuses should be accessible to people using wheelchairs so that alternatives to cars serve passengers with different mobility needs.\n\n交通题中的替代方式不只是增加车辆，还包括让不同人群能实际使用。\n\nwithin a short walk of\n\n距……很近，步行即可到达\n\n说明住房与公交网络的空间联系；是否足够近应由实际布局支持。\n\n本题例句 · 编写示范\n\nMore residents may choose buses if their homes are within a short walk of a reliable route.\n\n说明公交替代汽车所需的接近性与可靠性，连接设施安排和出行选择。\n\n回到这份材料的精读\n\nThe first car appeared on British roads in 1888. By the year 2000 there may be as many as 29 million vehicles on British roads. Alternative forms of transport should be encouraged and international laws introduced to control car ownership and use. To what extent do you agree or disagree?\n\n本次写作任务\n\n写两个主体段，约180–220词：分别回应encourage alternatives和international laws。题干历史预测按原文保留，不当作今天的数据；不只讨论交通污染。\n\n我的段落\n\n0 词\n\n保留作答，查看答案\n\n先作答；不确定的题也可记录判断与疑点。",
+  "allContent": "鼓励替代交通与国际限车规定未作答同意程度 · 原题拆段写作 · 参考段落与逐段讲解0% · 0 / 1 完成官方样题 · Cambridge / IELTS Academic Writing sample task · PDF 第 1 页写作前置 · 文中表达这里是所选阅读材料中适合本题的表达；例句按本题语境编写。Why we need silence｜噪声风险与城市降噪reducing noise from roads减少道路噪声适合说明鼓励公共交通、步行或骑行可能带来的生活环境收益。需要具体写出减少何种车流或噪声源，不把交通方式改变等同于必然消除所有噪声。本题例句 · 编写示范Replacing some private car journeys with walking or cycling can make residential areas more pleasant by reducing noise from roads.题目讨论鼓励替代交通与限制车辆使用；道路噪声是与车辆使用直接相关的生活环境理由。回到这份材料的精读Dar es Salaam · 城市扩张与交通方案a future controlled by the private car由私家车主导的未来适合描述城市发展的整体方向，随后应解释公共交通如何提供现实替代。本题例句 · 编写示范Investment in reliable public transport can help cities avoid a future controlled by the private car.直接回应交通题鼓励替代交通方式的主张；不自动推出必须统一限制所有地区的汽车拥有量。回到这份材料的精读Dar es Salaam · 公交设计与实际故障accessible to people using wheelchairs便于轮椅使用者使用用于说明公共交通替代方案应照顾不同乘客；需配合无台阶入口、站台等具体设计。本题例句 · 编写示范Buses should be accessible to people using wheelchairs so that alternatives to cars serve passengers with different mobility needs.交通题中的替代方式不只是增加车辆，还包括让不同人群能实际使用。within a short walk of距……很近，步行即可到达说明住房与公交网络的空间联系；是否足够近应由实际布局支持。本题例句 · 编写示范More residents may choose buses if their homes are within a short walk of a reliable route.说明公交替代汽车所需的接近性与可靠性，连接设施安排和出行选择。回到这份材料的精读The first car appeared on British roads in 1888. By the year 2000 there may be as many as 29 million vehicles on British roads. Alternative forms of transport should be encouraged and international laws introduced to control car ownership and use. To what extent do you agree or disagree?本次写作任务写两个主体段，约180–220词：分别回应encourage alternatives和international laws。题干历史预测按原文保留，不当作今天的数据；不只讨论交通污染。我的段落0 词保留作答，查看答案先作答；不确定的题也可记录判断与疑点。对照答案，回到证据参考写法下列段落为针对原题编写的参考写法，用于对照内容和表达；写作没有唯一标准答案。I strongly support making alternatives to private cars more attractive. A dependable bus or rail service can give commuters a practical reason to leave their vehicles at home, particularly when routes connect residential areas with major workplaces. Safe walking and cycling routes can serve shorter journeys. Encouragement should therefore involve reliable infrastructure and convenient connections, not merely publicity asking people to change their behaviour. If the available alternatives are slow or unsafe, restrictions on driving may impose a burden without providing people with a workable way to travel.I am less convinced that car ownership should be governed by uniform international laws. A dense city with frequent public transport and a remote community with limited services have very different needs. A single ownership limit could therefore affect people unfairly while failing to target the busiest roads. International cooperation on vehicle emissions may be useful, but local authorities are better placed to decide when and where to restrict car use. Measures such as parking controls or charges in congested areas can be linked to local conditions. I thus agree with encouraging alternatives, while supporting a more locally adaptable approach to regulation.题目两项主张必须分开回答；只谈替代交通会漏international laws。历史题干中2000年是预测语境；参考段落不把29 million冒充2026年统计。第二段不是完全反对国际合作，而是质疑统一ownership limits，保持部分同意清晰。答后精读篇章结构替代交通如何改变行为—必要条件。国际统一规定的适用差异—地方调节—逐项表态。词语与搭配a workable way to travel：可执行的出行选择。uniform international laws：统一规则，准确对应题目。linked to local conditions：给出监管层级的理由。句子精读If the available alternatives are slow or unsafe, ... → 条件解释为何“鼓励”需要配套。I thus agree with ..., while supporting ... → 用同一句明确两项主张的不同支持程度。我的修订／证据笔记",
+  "links": [
+    {
+      "text": "Cambridge / IELTS Academic Writing sample task",
+      "href": "case-assets/writing-official-transport.pdf#page=1"
+    },
+    {
+      "text": "回到这份材料的精读",
+      "href": "#material-reading-rd-c21-silence-1"
+    },
+    {
+      "text": "回到这份材料的精读",
+      "href": "#material-reading-rd-c21-t3-dart-city"
+    },
+    {
+      "text": "回到这份材料的精读",
+      "href": "#material-reading-rd-c21-t3-dart-system"
+    }
+  ],
+  "details": [
+    {
+      "id": "writing-prep-wc-official-transport-from-rd-c21-silence-1",
+      "title": "Why we need silence｜噪声风险与城市降噪",
+      "open": false,
+      "visible": false
+    },
+    {
+      "id": "writing-prep-wc-official-transport-from-rd-c21-t3-dart-city",
+      "title": "Dar es Salaam · 城市扩张与交通方案",
+      "open": false,
+      "visible": false
+    },
+    {
+      "id": "writing-prep-wc-official-transport-from-rd-c21-t3-dart-system",
+      "title": "Dar es Salaam · 公交设计与实际故障",
+      "open": true,
+      "visible": true
+    }
+  ],
+  "saveFields": [
+    "case-wc-official-transport-answer",
+    "case-wc-official-transport-done",
+    "case-wc-official-transport-saved-at",
+    "case-wc-official-transport-revision"
+  ],
+  "images": [],
+  "audio": [],
+  "viewport": 1440,
+  "documentWidth": 1440
+}

@@ -1,0 +1,312 @@
+{
+  "requested": "material-reading-rd-c21-mapungubwe-2",
+  "from": [
+    "页面链接",
+    "每日安排目标"
+  ],
+  "actual": "#material-reading-rd-c21-mapungubwe-2",
+  "checkedAt": "2026-09-21T12:55:59.423Z",
+  "title": "练习 / 阅读 / Mapungubwe｜贸易、器物与衰落 · IELTS",
+  "label": "练习 / 阅读 / Mapungubwe｜贸易、器物与衰落",
+  "panel": "practice-reading",
+  "contentRoot": "reading-case-rd-c21-mapungubwe-2",
+  "headings": [
+    {
+      "tag": "H4",
+      "text": "共用选项 · 原题 14、15、17",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "对照答案，回到证据",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "D",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "E",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "F",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "G",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "词语与搭配",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "句子精读",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "这篇材料里可用于写作的表达",
+      "visible": true
+    }
+  ],
+  "controls": [
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "Mapungubwe｜贸易、器物与衰落未作答\n段落信息匹配 / 多项选择 / 摘要填空 · 4 段 · 430 词 · 10 题 · 同篇原文另有裁切",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "Cambridge IELTS 21 Academic",
+      "label": "",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=44",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "case-rd-c21-mapungubwe-2-q1",
+      "type": "text",
+      "text": "",
+      "label": "第 14 题作答",
+      "href": null,
+      "save": "case-rd-c21-mapungubwe-2-q1",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "case-rd-c21-mapungubwe-2-q2",
+      "type": "text",
+      "text": "",
+      "label": "第 15 题作答",
+      "href": null,
+      "save": "case-rd-c21-mapungubwe-2-q2",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "case-rd-c21-mapungubwe-2-q3",
+      "type": "text",
+      "text": "",
+      "label": "第 17 题作答",
+      "href": null,
+      "save": "case-rd-c21-mapungubwe-2-q3",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "case-rd-c21-mapungubwe-2-q4",
+      "type": "text",
+      "text": "",
+      "label": "第 20–21 题作答",
+      "href": null,
+      "save": "case-rd-c21-mapungubwe-2-q4",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "case-rd-c21-mapungubwe-2-q5",
+      "type": "text",
+      "text": "",
+      "label": "第 22 题作答",
+      "href": null,
+      "save": "case-rd-c21-mapungubwe-2-q5",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "case-rd-c21-mapungubwe-2-q6",
+      "type": "text",
+      "text": "",
+      "label": "第 23 题作答",
+      "href": null,
+      "save": "case-rd-c21-mapungubwe-2-q6",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "case-rd-c21-mapungubwe-2-q7",
+      "type": "text",
+      "text": "",
+      "label": "第 24 题作答",
+      "href": null,
+      "save": "case-rd-c21-mapungubwe-2-q7",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "case-rd-c21-mapungubwe-2-q8",
+      "type": "text",
+      "text": "",
+      "label": "第 25 题作答",
+      "href": null,
+      "save": "case-rd-c21-mapungubwe-2-q8",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "case-rd-c21-mapungubwe-2-q9",
+      "type": "text",
+      "text": "",
+      "label": "第 26 题作答",
+      "href": null,
+      "save": "case-rd-c21-mapungubwe-2-q9",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "checkbox",
+      "text": "",
+      "label": "",
+      "href": null,
+      "save": "case-rd-c21-mapungubwe-2-done",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "hidden",
+      "text": "",
+      "label": "",
+      "href": null,
+      "save": "case-rd-c21-mapungubwe-2-saved-at",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "保留作答，查看答案",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "核对原答案页",
+      "label": "",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=121",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "case-rd-c21-mapungubwe-2-revision",
+      "type": "textarea",
+      "text": "",
+      "label": "我的修订／证据笔记",
+      "href": null,
+      "save": "case-rd-c21-mapungubwe-2-revision",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "材料精读 · 内容与词句",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "用于写作：题目讨论旅游对当地环境与居民的代价；资源压力能够具体解释游客增长可能产生的成本。",
+      "label": "",
+      "href": "#writing-prep-wc-official-tourism-from-rd-c21-mapungubwe-2",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    }
+  ],
+  "visibleText": "Mapungubwe｜贸易、器物与衰落未作答\n段落信息匹配 / 多项选择 / 摘要填空 · 4 段 · 430 词 · 10 题 · 同篇原文另有裁切\n0% · 0 / 1 完成\n\n真题 · Cambridge IELTS 21 Academic · PDF 第 44 页\n\nQ14/15/17：段落信息匹配A–G。Q20–21：Choose TWO letters A–E，顺序不限。Q22–26：Complete the summary. Choose ONE WORD ONLY from the passage.\n\nDThe Mapungubwe plateau has a very high number of carnivore animal remains and ivory splinters, suggesting that the skins of these large animals and ivory elephant tusks were accumulated, probably for trade with coastal areas reached by the Limpopo River. The presence of glass beads, almost certainly from India, indicate there was trade of some sort with other states on the coast who, in turn, traded with merchants travelling from India by sea. Mapungubwe also benefitted from locally-sourced copper and the gold trade as it passed from the kingdom of Great Zimbabwe (12-15th century), situated to the north of Mapungubwe, to the coastal city of Kosala. It is likely that trade links led to a strengthening of political authority in order to control and even monopolise these lucrative interregional connections.\n\nEArchaeological discoveries reveal that pottery was produced on a scale large enough to suggest the presence of professional potters, and is another indicator of the prosperity of Mapungubwe society. Archaeological finds include spherical vessels with short necks, beakers, and bowls, many of which have decorative stamps. There are also ceramic discs, and whistles. In addition, cattle, sheep, and goat figurines, and small figures of highly stylised humans with elongated bodies and short limbs have been found. The figures may have been used in ceremonies as offerings to ancestors, but their precise function is not known. Other discoveries include small jewellery items made from locally sourced copper.\n\nFBeautifully decorated artefacts made of gold have also been found at Mapungubwe. A type of decoration, found nowhere else except Great Zimbabwe, involved the crafting of gold into small rectangular sheets and carving geometrical patterns into it. These sheets were then used to cover wooden objects (which have not survived) using small tacks, also made of gold. One such object that has been discovered may have been a sceptre, while additional evidence of local gold-working is a rhinoceros figurine made from small hammered sheets, and thousands of small gold beads. These objects were all found at the royal burial site and date to c. 1150. They are the first known indicators that gold had an intrinsic value of its own (as opposed to that of a currency) in southern Africa.\n\nGThe kingdom of Mapungubwe was already in decline by the late 13th century, probably because overpopulation placed too much stress on local resources, a situation that may have been brought to a crisis point by a series of droughts. Trade routes may also have shifted northwards. Certainly, the areas that now prospered were to the north, such as Great Zimbabwe.\n\n共用选项 · 原题 14、15、17\nA\nB\nC\nD\nE\nF\nG\n\n14. a mention of the uncertainty regarding the purpose of certain objects\n\n第 14 题作答\n\n15. the likelihood that a climatic factor increased the problems Mapungubwe faced\n\n第 15 题作答\n\n17. a reference to people who brought goods by ship\n\n第 17 题作答\n\n20–21. The archaeological record reveals information about gold and the kingdom of Mapungubwe. Which TWO pieces of information are mentioned by the writer?\n\nA Not everyone in Mapungubwe used gold as a form of payment.\nB Items of gold were placed close to where Mapungubwe kings were buried.\nC The most valuable item discovered in Mapungubwe was a sceptre made of gold.\nD The way gold was decorated in Mapungubwe was also practised in another kingdom.\nE Working with gold was a respected occupation in the Mapungubwe community.\n第 20–21 题作答\n\n22. The Mapungubwe community's 22 __________ is indicated by the amount of professionally made pottery discovered at the site.\n\n第 22 题作答\n\n23. Other finds include round ceramic objects, 23 __________ and figures of various animals\n\n第 23 题作答\n\n24. as well as models of people with stretched 24 __________.\n\n第 24 题作答\n\n25. It is possible that these had a role in ceremonies to honour 25 __________.\n\n第 25 题作答\n\n26. In addition, pieces of 26 __________ made from a local metal have been found at the site.\n\n第 26 题作答\n保留作答，查看答案\n\n先作答；不确定的题也可记录判断与疑点。\n\n材料精读 · 内容与词句\n\n器物与贸易遗存让作者推测Mapungubwe的跨区域联系、工艺生产和政治权力；金器还显示珍贵材料不只有货币用途。结尾从繁荣转到衰落，并把人口、资源、旱灾和贸易变化作为可能相互作用的因素，而非单一确定原因。\n\nD\nD The Mapungubwe plateau has a very high number of carnivore animal remains and ivory splinters, suggesting that the skins of these large animals and ivory elephant tusks were accumulated, probably for trade with coastal areas reached by the Limpopo River. The presence of glass beads, almost certainly from India, indicate there was trade of some sort with other states on the coast who, in turn, traded with merchants travelling from India by sea. Mapungubwe also benefitted from locally-sourced copper and the gold trade as it passed from the kingdom of Great Zimbabwe (12-15th century), situated to the north of Mapungubwe, to the coastal city of Kosala. It is likely that trade links led to a strengthening of political authority in order to control and even monopolise these lucrative interregional connections.\n\n动物遗骸和象牙碎片使作者推测皮毛、象牙可能沿林波波河与沿海地区交易；玻璃珠则提示通过沿海商人与印度相连的贸易网络。当地铜以及经过该区域的黄金贸易也带来利益。最后进一步推测，为控制甚至垄断有利可图的区域联系，政治权力可能得到强化。器物发现、贸易路径与政治解释之间是逐层推论，并非所有细节都同样确定。\n\nE\nE Archaeological discoveries reveal that pottery was produced on a scale large enough to suggest the presence of professional potters, and is another indicator of the prosperity of Mapungubwe society. Archaeological finds include spherical vessels with short necks, beakers, and bowls, many of which have decorative stamps. There are also ceramic discs, and whistles. In addition, cattle, sheep, and goat figurines, and small figures of highly stylised humans with elongated bodies and short limbs have been found. The figures may have been used in ceremonies as offerings to ancestors, but their precise function is not known. Other discoveries include small jewellery items made from locally sourced copper.\n\n大量陶器提示专业陶工可能存在，也被作者用来说明社会繁荣。器物包括容器、杯、碗、陶盘、哨子和动物或人物小像，其中一些有装饰。这些小像可能用于祭祖，但具体用途尚不清楚；当地铜制首饰则补充了手工业种类。形态可以较直接描述，用途仍需保留不确定性。\n\nF\nF Beautifully decorated artefacts made of gold have also been found at Mapungubwe. A type of decoration, found nowhere else except Great Zimbabwe, involved the crafting of gold into small rectangular sheets and carving geometrical patterns into it. These sheets were then used to cover wooden objects (which have not survived) using small tacks, also made of gold. One such object that has been discovered may have been a sceptre, while additional evidence of local gold-working is a rhinoceros figurine made from small hammered sheets, and thousands of small gold beads. These objects were all found at the royal burial site and date to c. 1150. They are the first known indicators that gold had an intrinsic value of its own (as opposed to that of a currency) in southern Africa.\n\n金器工艺包括把金制成小片、刻上几何图样，再用金钉覆盖木制物品；木质部分没有保存下来。可能的权杖、锤打金片制成的犀牛和大量金珠都来自约1150年的王室墓地。作者将这些解释为当地黄金除了交换货币用途，也具有自身珍贵意义的早期已知线索。first known限定的是目前所知证据，并非断言此前绝不可能存在。\n\nG\nG The kingdom of Mapungubwe was already in decline by the late 13th century, probably because overpopulation placed too much stress on local resources, a situation that may have been brought to a crisis point by a series of droughts. Trade routes may also have shifted northwards. Certainly, the areas that now prospered were to the north, such as Great Zimbabwe.\n\n到13世纪末，王国已走向衰落。作者推测人口过多使资源承压，一系列干旱可能进一步把情况推向危机，贸易路线也可能北移。相比这些可能原因，北方大津巴布韦等地区后来兴盛是文中更明确陈述的趋势。段落保留多种因素共同作用的空间，没有给出唯一被证实的衰落原因。\n\n词语与搭配\nin turn\n\n继而、转而\n\n这里连接贸易链的下一环：沿海国家又与从印度来的商人交易，不是说每件物品都由Mapungubwe直接运到印度。\n\non a scale large enough to suggest\n\n规模大到足以使人推测\n\nlarge enough to...说明达到某种程度，suggest保留由数量到专业分工的推断性。\n\ntheir precise function is not known\n\n它们的确切用途尚不清楚\n\nfunction指器物用途，their回指小像；已知外形不等于已知使用方式。\n\nan intrinsic value of its own\n\n自身具有的内在价值\n\n这里与货币交换价值相对照，描述黄金作为珍贵物品本身的意义。\n\nplaced too much stress on local resources\n\n给当地资源施加了过大压力\n\nplace stress on后接承压对象，local resources可以包括维持人口和生产所需的资源；本段用probably保留因果判断的限度。\n\n句子精读\nThe presence of glass beads, almost certainly from India, indicate there was trade of some sort with other states on the coast who, in turn, traded with merchants travelling from India by sea.\n\n玻璃珠的出现——这些珠子几乎可以确定来自印度——表明当地曾与沿海其他国家进行某种贸易，而这些沿海国家又与乘船从印度来的商人交易。\n\n主干围绕The presence of glass beads说明其提示的贸易联系。almost certainly from India插入说明珠子的可能来源，of some sort保留对贸易具体形式的未知。who指沿海国家所代表的交易方，in turn引出下一环；travelling...修饰merchants。原文使用indicate，本句引用保留原样，阅读时核心名词presence按常规主谓一致应搭配indicates。\n\nThe kingdom of Mapungubwe was already in decline by the late 13th century, probably because overpopulation placed too much stress on local resources, a situation that may have been brought to a crisis point by a series of droughts.\n\n到13世纪末，Mapungubwe王国已在衰落，可能因为人口过多给当地资源带来过大压力，而一系列干旱又可能使这种局面达到危机程度。\n\n主干是The kingdom...was already in decline，by限定到某个时间为止的状态。probably because引入可能原因，a situation概括资源受压的局面，that从句进一步说明旱灾可能如何加剧它。may have been brought是对过去事件的可能性判断，不是确认旱灾是唯一原因。\n\n这篇材料里可用于写作的表达\nplaced too much stress on local resources\n\n给当地资源带来过大压力\n\n可根据句子时态改为place或places，保留place stress on的搭配。谈旅游时应具体说明水、土地或公共设施等资源，不能把古代王国衰落直接当作现代旅游的实证。\n\n用于写作：题目讨论旅游对当地环境与居民的代价；资源压力能够具体解释游客增长可能产生的成本。\n\n读完讲解，可以把原文连起来再读一次；想保留的词句可使用已有收藏功能。",
+  "allContent": "Mapungubwe｜贸易、器物与衰落未作答段落信息匹配 / 多项选择 / 摘要填空 · 4 段 · 430 词 · 10 题 · 同篇原文另有裁切0% · 0 / 1 完成真题 · Cambridge IELTS 21 Academic · PDF 第 44 页Q14/15/17：段落信息匹配A–G。Q20–21：Choose TWO letters A–E，顺序不限。Q22–26：Complete the summary. Choose ONE WORD ONLY from the passage.DThe Mapungubwe plateau has a very high number of carnivore animal remains and ivory splinters, suggesting that the skins of these large animals and ivory elephant tusks were accumulated, probably for trade with coastal areas reached by the Limpopo River. The presence of glass beads, almost certainly from India, indicate there was trade of some sort with other states on the coast who, in turn, traded with merchants travelling from India by sea. Mapungubwe also benefitted from locally-sourced copper and the gold trade as it passed from the kingdom of Great Zimbabwe (12-15th century), situated to the north of Mapungubwe, to the coastal city of Kosala. It is likely that trade links led to a strengthening of political authority in order to control and even monopolise these lucrative interregional connections.EArchaeological discoveries reveal that pottery was produced on a scale large enough to suggest the presence of professional potters, and is another indicator of the prosperity of Mapungubwe society. Archaeological finds include spherical vessels with short necks, beakers, and bowls, many of which have decorative stamps. There are also ceramic discs, and whistles. In addition, cattle, sheep, and goat figurines, and small figures of highly stylised humans with elongated bodies and short limbs have been found. The figures may have been used in ceremonies as offerings to ancestors, but their precise function is not known. Other discoveries include small jewellery items made from locally sourced copper.FBeautifully decorated artefacts made of gold have also been found at Mapungubwe. A type of decoration, found nowhere else except Great Zimbabwe, involved the crafting of gold into small rectangular sheets and carving geometrical patterns into it. These sheets were then used to cover wooden objects (which have not survived) using small tacks, also made of gold. One such object that has been discovered may have been a sceptre, while additional evidence of local gold-working is a rhinoceros figurine made from small hammered sheets, and thousands of small gold beads. These objects were all found at the royal burial site and date to c. 1150. They are the first known indicators that gold had an intrinsic value of its own (as opposed to that of a currency) in southern Africa.GThe kingdom of Mapungubwe was already in decline by the late 13th century, probably because overpopulation placed too much stress on local resources, a situation that may have been brought to a crisis point by a series of droughts. Trade routes may also have shifted northwards. Certainly, the areas that now prospered were to the north, such as Great Zimbabwe.共用选项 · 原题 14、15、17ABCDEFG14. a mention of the uncertainty regarding the purpose of certain objects第 14 题作答15. the likelihood that a climatic factor increased the problems Mapungubwe faced第 15 题作答17. a reference to people who brought goods by ship第 17 题作答20–21. The archaeological record reveals information about gold and the kingdom of Mapungubwe. Which TWO pieces of information are mentioned by the writer?A Not everyone in Mapungubwe used gold as a form of payment.B Items of gold were placed close to where Mapungubwe kings were buried.C The most valuable item discovered in Mapungubwe was a sceptre made of gold.D The way gold was decorated in Mapungubwe was also practised in another kingdom.E Working with gold was a respected occupation in the Mapungubwe community.第 20–21 题作答22. The Mapungubwe community's 22 __________ is indicated by the amount of professionally made pottery discovered at the site.第 22 题作答23. Other finds include round ceramic objects, 23 __________ and figures of various animals第 23 题作答24. as well as models of people with stretched 24 __________.第 24 题作答25. It is possible that these had a role in ceremonies to honour 25 __________.第 25 题作答26. In addition, pieces of 26 __________ made from a local metal have been found at the site.第 26 题作答保留作答，查看答案先作答；不确定的题也可记录判断与疑点。对照答案，回到证据第 14 题 · E不确定性是precise function is not known，对象为figures；不是所有出土器物用途均不明。The figures may have been used in ceremonies as offerings to ancestors, but their precise function is not known.第 15 题 · Gdroughts是气候因素，进一步加剧过度人口带来的资源压力。a situation that may have been brought to a crisis point by a series of droughts第 17 题 · Dmerchants是带货商人，by sea对应by ship。merchants travelling from India by sea第 20–21 题 · B；DB对应王室墓地；D由“found nowhere else except Great Zimbabwe”支持。C把“可能是权杖”升级为“最有价值”，原文没有；E无职业声望信息。These objects were all found at the royal burial site第 22 题 · prosperity专业制陶规模是社会繁荣的指标；题干amount与large enough呼应。another indicator of the prosperity of Mapungubwe society第 23 题 · whistlesceramic discs已由round ceramic objects改写，下一并列项是whistles。There are also ceramic discs, and whistles.第 24 题 · bodiesstretched对应elongated，而limbs被描述为short，应答bodies。humans with elongated bodies and short limbs第 25 题 · ancestorsto honour对应as offerings to，保留祖先的复数。used in ceremonies as offerings to ancestors第 26 题 · jewellery / jewelrylocal metal具体为copper，题干问金属制成的物品而非金属名；原答案接受英美拼写。small jewellery items made from locally sourced copper核对原答案页我的修订／证据笔记材料精读 · 内容与词句器物与贸易遗存让作者推测Mapungubwe的跨区域联系、工艺生产和政治权力；金器还显示珍贵材料不只有货币用途。结尾从繁荣转到衰落，并把人口、资源、旱灾和贸易变化作为可能相互作用的因素，而非单一确定原因。DD The Mapungubwe plateau has a very high number of carnivore animal remains and ivory splinters, suggesting that the skins of these large animals and ivory elephant tusks were accumulated, probably for trade with coastal areas reached by the Limpopo River. The presence of glass beads, almost certainly from India, indicate there was trade of some sort with other states on the coast who, in turn, traded with merchants travelling from India by sea. Mapungubwe also benefitted from locally-sourced copper and the gold trade as it passed from the kingdom of Great Zimbabwe (12-15th century), situated to the north of Mapungubwe, to the coastal city of Kosala. It is likely that trade links led to a strengthening of political authority in order to control and even monopolise these lucrative interregional connections.动物遗骸和象牙碎片使作者推测皮毛、象牙可能沿林波波河与沿海地区交易；玻璃珠则提示通过沿海商人与印度相连的贸易网络。当地铜以及经过该区域的黄金贸易也带来利益。最后进一步推测，为控制甚至垄断有利可图的区域联系，政治权力可能得到强化。器物发现、贸易路径与政治解释之间是逐层推论，并非所有细节都同样确定。EE Archaeological discoveries reveal that pottery was produced on a scale large enough to suggest the presence of professional potters, and is another indicator of the prosperity of Mapungubwe society. Archaeological finds include spherical vessels with short necks, beakers, and bowls, many of which have decorative stamps. There are also ceramic discs, and whistles. In addition, cattle, sheep, and goat figurines, and small figures of highly stylised humans with elongated bodies and short limbs have been found. The figures may have been used in ceremonies as offerings to ancestors, but their precise function is not known. Other discoveries include small jewellery items made from locally sourced copper.大量陶器提示专业陶工可能存在，也被作者用来说明社会繁荣。器物包括容器、杯、碗、陶盘、哨子和动物或人物小像，其中一些有装饰。这些小像可能用于祭祖，但具体用途尚不清楚；当地铜制首饰则补充了手工业种类。形态可以较直接描述，用途仍需保留不确定性。FF Beautifully decorated artefacts made of gold have also been found at Mapungubwe. A type of decoration, found nowhere else except Great Zimbabwe, involved the crafting of gold into small rectangular sheets and carving geometrical patterns into it. These sheets were then used to cover wooden objects (which have not survived) using small tacks, also made of gold. One such object that has been discovered may have been a sceptre, while additional evidence of local gold-working is a rhinoceros figurine made from small hammered sheets, and thousands of small gold beads. These objects were all found at the royal burial site and date to c. 1150. They are the first known indicators that gold had an intrinsic value of its own (as opposed to that of a currency) in southern Africa.金器工艺包括把金制成小片、刻上几何图样，再用金钉覆盖木制物品；木质部分没有保存下来。可能的权杖、锤打金片制成的犀牛和大量金珠都来自约1150年的王室墓地。作者将这些解释为当地黄金除了交换货币用途，也具有自身珍贵意义的早期已知线索。first known限定的是目前所知证据，并非断言此前绝不可能存在。GG The kingdom of Mapungubwe was already in decline by the late 13th century, probably because overpopulation placed too much stress on local resources, a situation that may have been brought to a crisis point by a series of droughts. Trade routes may also have shifted northwards. Certainly, the areas that now prospered were to the north, such as Great Zimbabwe.到13世纪末，王国已走向衰落。作者推测人口过多使资源承压，一系列干旱可能进一步把情况推向危机，贸易路线也可能北移。相比这些可能原因，北方大津巴布韦等地区后来兴盛是文中更明确陈述的趋势。段落保留多种因素共同作用的空间，没有给出唯一被证实的衰落原因。词语与搭配in turn继而、转而这里连接贸易链的下一环：沿海国家又与从印度来的商人交易，不是说每件物品都由Mapungubwe直接运到印度。on a scale large enough to suggest规模大到足以使人推测large enough to...说明达到某种程度，suggest保留由数量到专业分工的推断性。their precise function is not known它们的确切用途尚不清楚function指器物用途，their回指小像；已知外形不等于已知使用方式。an intrinsic value of its own自身具有的内在价值这里与货币交换价值相对照，描述黄金作为珍贵物品本身的意义。placed too much stress on local resources给当地资源施加了过大压力place stress on后接承压对象，local resources可以包括维持人口和生产所需的资源；本段用probably保留因果判断的限度。句子精读The presence of glass beads, almost certainly from India, indicate there was trade of some sort with other states on the coast who, in turn, traded with merchants travelling from India by sea.玻璃珠的出现——这些珠子几乎可以确定来自印度——表明当地曾与沿海其他国家进行某种贸易，而这些沿海国家又与乘船从印度来的商人交易。主干围绕The presence of glass beads说明其提示的贸易联系。almost certainly from India插入说明珠子的可能来源，of some sort保留对贸易具体形式的未知。who指沿海国家所代表的交易方，in turn引出下一环；travelling...修饰merchants。原文使用indicate，本句引用保留原样，阅读时核心名词presence按常规主谓一致应搭配indicates。The kingdom of Mapungubwe was already in decline by the late 13th century, probably because overpopulation placed too much stress on local resources, a situation that may have been brought to a crisis point by a series of droughts.到13世纪末，Mapungubwe王国已在衰落，可能因为人口过多给当地资源带来过大压力，而一系列干旱又可能使这种局面达到危机程度。主干是The kingdom...was already in decline，by限定到某个时间为止的状态。probably because引入可能原因，a situation概括资源受压的局面，that从句进一步说明旱灾可能如何加剧它。may have been brought是对过去事件的可能性判断，不是确认旱灾是唯一原因。这篇材料里可用于写作的表达placed too much stress on local resources给当地资源带来过大压力可根据句子时态改为place或places，保留place stress on的搭配。谈旅游时应具体说明水、土地或公共设施等资源，不能把古代王国衰落直接当作现代旅游的实证。用于写作：题目讨论旅游对当地环境与居民的代价；资源压力能够具体解释游客增长可能产生的成本。读完讲解，可以把原文连起来再读一次；想保留的词句可使用已有收藏功能。",
+  "links": [
+    {
+      "text": "Cambridge IELTS 21 Academic",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=44"
+    },
+    {
+      "text": "核对原答案页",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=121"
+    },
+    {
+      "text": "用于写作：题目讨论旅游对当地环境与居民的代价；资源压力能够具体解释游客增长可能产生的成本。",
+      "href": "#writing-prep-wc-official-tourism-from-rd-c21-mapungubwe-2"
+    }
+  ],
+  "details": [
+    {
+      "id": "material-reading-rd-c21-mapungubwe-2",
+      "title": "材料精读 · 内容与词句",
+      "open": true,
+      "visible": true
+    }
+  ],
+  "saveFields": [
+    "case-rd-c21-mapungubwe-2-q1",
+    "case-rd-c21-mapungubwe-2-q2",
+    "case-rd-c21-mapungubwe-2-q3",
+    "case-rd-c21-mapungubwe-2-q4",
+    "case-rd-c21-mapungubwe-2-q5",
+    "case-rd-c21-mapungubwe-2-q6",
+    "case-rd-c21-mapungubwe-2-q7",
+    "case-rd-c21-mapungubwe-2-q8",
+    "case-rd-c21-mapungubwe-2-q9",
+    "case-rd-c21-mapungubwe-2-done",
+    "case-rd-c21-mapungubwe-2-saved-at",
+    "case-rd-c21-mapungubwe-2-revision"
+  ],
+  "images": [],
+  "audio": [],
+  "viewport": 1440,
+  "documentWidth": 1440
+}

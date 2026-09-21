@@ -1,0 +1,288 @@
+{
+  "requested": "reading-case-rd-c21-t3-saiga-threats",
+  "from": [
+    "内容单元",
+    "每日安排目标"
+  ],
+  "actual": "#reading-case-rd-c21-t3-saiga-threats",
+  "checkedAt": "2026-09-21T12:52:12.087Z",
+  "title": "练习 / 阅读 / Saving the saiga · 栖息地、疾病、气候与恢复 · IELTS",
+  "label": "练习 / 阅读 / Saving the saiga · 栖息地、疾病、气候与恢复",
+  "panel": "practice-reading",
+  "contentRoot": "reading-case-rd-c21-t3-saiga-threats",
+  "headings": [
+    {
+      "tag": "H3",
+      "text": "对照答案，回到证据",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "原文片段 · 1",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "原文片段 · 2",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "原文片段 · 3",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "原文片段 · 4",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "原文片段 · 5",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "词语与搭配",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "句子精读",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "这篇材料里可用于写作的表达",
+      "visible": false
+    }
+  ],
+  "controls": [
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "Saving the saiga · 栖息地、疾病、气候与恢复未作答\n笔记填空 / 事实判断 TFNG · 5 段 · 451 词 · 6 题 · 同篇原文另有裁切",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "Cambridge IELTS 21 Academic",
+      "label": "",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=61",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "case-rd-c21-t3-saiga-threats-q1",
+      "type": "text",
+      "text": "",
+      "label": "第 5 题作答",
+      "href": null,
+      "save": "case-rd-c21-t3-saiga-threats-q1",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "case-rd-c21-t3-saiga-threats-q2",
+      "type": "text",
+      "text": "",
+      "label": "第 6 题作答",
+      "href": null,
+      "save": "case-rd-c21-t3-saiga-threats-q2",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "case-rd-c21-t3-saiga-threats-q3",
+      "type": "text",
+      "text": "",
+      "label": "第 7 题作答",
+      "href": null,
+      "save": "case-rd-c21-t3-saiga-threats-q3",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "case-rd-c21-t3-saiga-threats-q4",
+      "type": "text",
+      "text": "",
+      "label": "第 11 题作答",
+      "href": null,
+      "save": "case-rd-c21-t3-saiga-threats-q4",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "case-rd-c21-t3-saiga-threats-q5",
+      "type": "text",
+      "text": "",
+      "label": "第 12 题作答",
+      "href": null,
+      "save": "case-rd-c21-t3-saiga-threats-q5",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "case-rd-c21-t3-saiga-threats-q6",
+      "type": "text",
+      "text": "",
+      "label": "第 13 题作答",
+      "href": null,
+      "save": "case-rd-c21-t3-saiga-threats-q6",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "checkbox",
+      "text": "",
+      "label": "",
+      "href": null,
+      "save": "case-rd-c21-t3-saiga-threats-done",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "hidden",
+      "text": "",
+      "label": "",
+      "href": null,
+      "save": "case-rd-c21-t3-saiga-threats-saved-at",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "保留作答，查看答案",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "核对原答案页",
+      "label": "",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=123",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "case-rd-c21-t3-saiga-threats-revision",
+      "type": "textarea",
+      "text": "",
+      "label": "我的修订／证据笔记",
+      "href": null,
+      "save": "case-rd-c21-t3-saiga-threats-revision",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "材料精读 · 内容与词句",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "",
+      "label": "",
+      "href": "#writing-prep-wc-bc-overfishing-from-rd-c21-t3-saiga-threats",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "",
+      "label": "",
+      "href": "#writing-prep-wc-bc-overfishing-from-rd-c21-t3-saiga-threats",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    }
+  ],
+  "visibleText": "Saving the saiga · 栖息地、疾病、气候与恢复未作答\n笔记填空 / 事实判断 TFNG · 5 段 · 451 词 · 6 题 · 同篇原文另有裁切\n0% · 0 / 1 完成\n\n真题 · Cambridge IELTS 21 Academic · PDF 第 61, 62 页\n\n按原题号作答。保留考试原文与题目难度；以下是连续原段裁切，未改写原文。\n\n这里包含原文后半部连续5段。两道NOT GIVEN已同时核对完整原文；不是因为裁切省略了答案。种群数和now按原考试文章时间理解。\n\n原文片段 · 1Another threat to the survival of the saiga is loss of habitat, as a result of agricultural expansion and human settlement. Physical barriers such as railways, pipelines and fences can block the seasonal migration routes of this transboundary species. In the worst cases, herds may starve to death after being trapped.\n\n原文片段 · 2Then there is the risk of disease. In 2015, an outbreak of haemorrhagic septicaemia, caused by the normally harmless bacterium Pasteurella multocida, killed over 75% of the global adult saiga population in just three weeks. In 2017, 60% of the Mongolian saiga population - a subspecies found nowhere else in the world - was killed by a virus that spilled over from livestock. These so-called mass mortality events represent an unpredictable and serious threat to the species.\n\n原文片段 · 3Climate change poses a further threat. Although well adapted to cold winters and hot summers, saiga struggle to cope with temperature extremes and unpredictable fluctuations in climate. Experts believe that unusually warm weather may have triggered the 2015 mass mortality event. The steppe region has also become increasingly arid in recent years, and many of the smaller streams that the species normally depended on have dried up and vanished.\n\n原文片段 · 4Recent efforts to save the saiga have been spearheaded by the Altyn Dala Conservation Initiative, a project led by the Association for the Conservation of Biodiversity of Kazakhstan, working in partnership with the Kazakh government's Committee for Forestry and Wildlife, Frankfurt Zoological Society and Fauna and Flora, an international conservation charity. Its purpose is to protect and restore Kazakhstan's steppe, semi-desert and desert ecosystems and the many species they support, including the critically endangered saiga. In 2022 the United Nations recognised the initiative as a World Restoration Flagship project, an accolade reserved for the ten best examples of large-scale ecosystem restoration around the globe.\n\n原文片段 · 5So, how many saiga are there now? By 2000, the global saiga population had hit an all time low of just 21,000 individuals. There was some recovery in the first decade of the new millennium but this was then crushed by devastating mass mortality events that saw the loss of hundreds of thousands of the species. But thanks to the intervention of the Altyn Dala Conservation Initiative, the most recent episodes in the ongoing story of the saiga have been relatively uplifting. Three years ago, the Ustyurt Plateau population in Kazakhstan experienced its largest mass birth of saiga calves in many years. An aerial census two years ago recorded an estimated 842,000 saiga across Kazakhstan as a whole, and according to an aerial survey earlier this year, the saiga population in Kazakhstan now exceeds 1.9 million. The world's strangest-looking antelope remains critically endangered, but the direction of travel is positive.\n\n5. expansion of farms and settlements, causing reduction in the size of the saiga's ______\n\nComplete the notes below. Choose ONE WORD ONLY from the passage for each answer.\n\n第 5 题作答\n\n6. loss of access to the ______ which they use for migration\n\nComplete the notes below. Choose ONE WORD ONLY from the passage for each answer.\n\n第 6 题作答\n\n7. climate change, causing the disappearance of ______ which the saiga relied on\n\nComplete the notes below. Choose ONE WORD ONLY from the passage for each answer.\n\n第 7 题作答\n\n11. Unpredictable fluctuations in climate are threatening the wildlife of Central Asia more than in other parts of the world.\n\nDo the following statements agree with the information given in the reading passage? Write TRUE, FALSE or NOT GIVEN.\n\n第 11 题作答\n\n12. The Altyn Dala Conservation Initiative was formed for the benefit of a number of different animals.\n\nDo the following statements agree with the information given in the reading passage? Write TRUE, FALSE or NOT GIVEN.\n\n第 12 题作答\n\n13. The Altyn Dala Conservation Initiative's recognition as a World Restoration Flagship project attracted additional international funding for the scheme.\n\nDo the following statements agree with the information given in the reading passage? Write TRUE, FALSE or NOT GIVEN.\n\n第 13 题作答\n保留作答，查看答案\n\n先作答；不确定的题也可记录判断与疑点。\n\n材料精读 · 内容与词句",
+  "allContent": "Saving the saiga · 栖息地、疾病、气候与恢复未作答笔记填空 / 事实判断 TFNG · 5 段 · 451 词 · 6 题 · 同篇原文另有裁切0% · 0 / 1 完成真题 · Cambridge IELTS 21 Academic · PDF 第 61, 62 页按原题号作答。保留考试原文与题目难度；以下是连续原段裁切，未改写原文。这里包含原文后半部连续5段。两道NOT GIVEN已同时核对完整原文；不是因为裁切省略了答案。种群数和now按原考试文章时间理解。原文片段 · 1Another threat to the survival of the saiga is loss of habitat, as a result of agricultural expansion and human settlement. Physical barriers such as railways, pipelines and fences can block the seasonal migration routes of this transboundary species. In the worst cases, herds may starve to death after being trapped.原文片段 · 2Then there is the risk of disease. In 2015, an outbreak of haemorrhagic septicaemia, caused by the normally harmless bacterium Pasteurella multocida, killed over 75% of the global adult saiga population in just three weeks. In 2017, 60% of the Mongolian saiga population - a subspecies found nowhere else in the world - was killed by a virus that spilled over from livestock. These so-called mass mortality events represent an unpredictable and serious threat to the species.原文片段 · 3Climate change poses a further threat. Although well adapted to cold winters and hot summers, saiga struggle to cope with temperature extremes and unpredictable fluctuations in climate. Experts believe that unusually warm weather may have triggered the 2015 mass mortality event. The steppe region has also become increasingly arid in recent years, and many of the smaller streams that the species normally depended on have dried up and vanished.原文片段 · 4Recent efforts to save the saiga have been spearheaded by the Altyn Dala Conservation Initiative, a project led by the Association for the Conservation of Biodiversity of Kazakhstan, working in partnership with the Kazakh government's Committee for Forestry and Wildlife, Frankfurt Zoological Society and Fauna and Flora, an international conservation charity. Its purpose is to protect and restore Kazakhstan's steppe, semi-desert and desert ecosystems and the many species they support, including the critically endangered saiga. In 2022 the United Nations recognised the initiative as a World Restoration Flagship project, an accolade reserved for the ten best examples of large-scale ecosystem restoration around the globe.原文片段 · 5So, how many saiga are there now? By 2000, the global saiga population had hit an all time low of just 21,000 individuals. There was some recovery in the first decade of the new millennium but this was then crushed by devastating mass mortality events that saw the loss of hundreds of thousands of the species. But thanks to the intervention of the Altyn Dala Conservation Initiative, the most recent episodes in the ongoing story of the saiga have been relatively uplifting. Three years ago, the Ustyurt Plateau population in Kazakhstan experienced its largest mass birth of saiga calves in many years. An aerial census two years ago recorded an estimated 842,000 saiga across Kazakhstan as a whole, and according to an aerial survey earlier this year, the saiga population in Kazakhstan now exceeds 1.9 million. The world's strangest-looking antelope remains critically endangered, but the direction of travel is positive.5. expansion of farms and settlements, causing reduction in the size of the saiga's ______Complete the notes below. Choose ONE WORD ONLY from the passage for each answer.第 5 题作答6. loss of access to the ______ which they use for migrationComplete the notes below. Choose ONE WORD ONLY from the passage for each answer.第 6 题作答7. climate change, causing the disappearance of ______ which the saiga relied onComplete the notes below. Choose ONE WORD ONLY from the passage for each answer.第 7 题作答11. Unpredictable fluctuations in climate are threatening the wildlife of Central Asia more than in other parts of the world.Do the following statements agree with the information given in the reading passage? Write TRUE, FALSE or NOT GIVEN.第 11 题作答12. The Altyn Dala Conservation Initiative was formed for the benefit of a number of different animals.Do the following statements agree with the information given in the reading passage? Write TRUE, FALSE or NOT GIVEN.第 12 题作答13. The Altyn Dala Conservation Initiative's recognition as a World Restoration Flagship project attracted additional international funding for the scheme.Do the following statements agree with the information given in the reading passage? Write TRUE, FALSE or NOT GIVEN.第 13 题作答保留作答，查看答案先作答；不确定的题也可记录判断与疑点。对照答案，回到证据第 5 题 · habitatcausing与as a result of反向排列同一因果：扩张导致栖息地减少。loss of habitat, as a result of agricultural expansion and human settlement第 6 题 · routes阻断routes就是loss of access；答案是routes，不是作为障碍的fences。Physical barriers ... can block the seasonal migration routes第 7 题 · streamsrelied on对应depended on；disappearance对应vanished。many of the smaller streams that the species normally depended on have dried up and vanished第 11 题 · NOT GIVEN文章说明中亚赛加受威胁，但完整原文没有与世界其他地区比较严重程度；more than缺依据。saiga struggle to cope with temperature extremes and unpredictable fluctuations in climate第 12 题 · TRUEmany species包括赛加但不限于它，对应a number of different animals。protect and restore Kazakhstan's ... ecosystems and the many species they support, including ... saiga第 13 题 · NOT GIVENrecognition和accolade只说明获得认可；完整原文没有说明因此追加国际资金。In 2022 the United Nations recognised the initiative as a World Restoration Flagship project核对原答案页我的修订／证据笔记材料精读 · 内容与词句这部分把保护问题扩展到栖息地、跨境迁徙、疾病和气候的相互作用，再介绍生态系统恢复合作及数量回升。结尾同时保留积极趋势与持续风险；now、今年和几年前都以原文写作时点为准。原文片段 · 1Another threat to the survival of the saiga is loss of habitat, as a result of agricultural expansion and human settlement. Physical barriers such as railways, pipelines and fences can block the seasonal migration routes of this transboundary species. In the worst cases, herds may starve to death after being trapped.农业和定居点扩张挤压栖息地，铁路、管道及围栏又会切断迁徙通道。这里不只是栖息面积减少，还包括原有空间无法连通；受困兽群甚至可能饿死。transboundary 说明赛加活动跨越国界，管理边界与动物活动边界并不重合。原文片段 · 2Then there is the risk of disease. In 2015, an outbreak of haemorrhagic septicaemia, caused by the normally harmless bacterium Pasteurella multocida, killed over 75% of the global adult saiga population in just three weeks. In 2017, 60% of the Mongolian saiga population - a subspecies found nowhere else in the world - was killed by a virus that spilled over from livestock. These so-called mass mortality events represent an unpredictable and serious threat to the species.两次短期大量死亡说明疾病风险的突然性。2015年的病菌平常无害，却引发严重疫情；2017年蒙古亚种又受到从家畜传播来的病毒影响。normally harmless 并不表示永远无害，spilled over 描述病原从一个动物群体传播到另一个群体。原文片段 · 3Climate change poses a further threat. Although well adapted to cold winters and hot summers, saiga struggle to cope with temperature extremes and unpredictable fluctuations in climate. Experts believe that unusually warm weather may have triggered the 2015 mass mortality event. The steppe region has also become increasingly arid in recent years, and many of the smaller streams that the species normally depended on have dried up and vanished.能适应常见的寒冬与炎夏，不等于能承受所有极端温度和不规则波动。专家把异常暖天气视为2015年大量死亡的可能诱因，may have triggered 保留了推测程度。干旱和溪流消失则构成另一条影响路径，涉及动物可获得的水源。原文片段 · 4Recent efforts to save the saiga have been spearheaded by the Altyn Dala Conservation Initiative, a project led by the Association for the Conservation of Biodiversity of Kazakhstan, working in partnership with the Kazakh government's Committee for Forestry and Wildlife, Frankfurt Zoological Society and Fauna and Flora, an international conservation charity. Its purpose is to protect and restore Kazakhstan's steppe, semi-desert and desert ecosystems and the many species they support, including the critically endangered saiga. In 2022 the United Nations recognised the initiative as a World Restoration Flagship project, an accolade reserved for the ten best examples of large-scale ecosystem restoration around the globe.保护行动由 Altyn Dala 项目牵头，并与政府和国际组织合作。目标是修复草原、半沙漠与沙漠生态系统及其中多个物种，赛加只是重点之一。联合国在2022年的认可体现项目受到重视，原文没有把奖项等同于某种新增资源。原文片段 · 5So, how many saiga are there now? By 2000, the global saiga population had hit an all time low of just 21,000 individuals. There was some recovery in the first decade of the new millennium but this was then crushed by devastating mass mortality events that saw the loss of hundreds of thousands of the species. But thanks to the intervention of the Altyn Dala Conservation Initiative, the most recent episodes in the ongoing story of the saiga have been relatively uplifting. Three years ago, the Ustyurt Plateau population in Kazakhstan experienced its largest mass birth of saiga calves in many years. An aerial census two years ago recorded an estimated 842,000 saiga across Kazakhstan as a whole, and according to an aerial survey earlier this year, the saiga population in Kazakhstan now exceeds 1.9 million. The world's strangest-looking antelope remains critically endangered, but the direction of travel is positive.数量变化并非一路上升：2000年降到低点，随后恢复又遭大量死亡打断，之后才出现出生增加和航空调查记录的回升。文末 positive 指发展方向向好，remains 则保留当时仍有严重风险的判断。这里的年份、估算与保护等级都属于原文语境，不能直接当作今天的状态。词语与搭配loss of habitat栖息地丧失habitat 指动物赖以生存的环境；与后文迁徙路线被阻断共同描述生存空间的损害。spilled over from livestock从家畜传播过来spill over 在这里比喻病原跨群体传播；livestock 是家畜总称，不是野生动物。working in partnership with与……协作用于说明组织之间共同开展行动；with 后列举合作方。the direction of travel is positive总体发展方向是积极的travel 在这里是趋势比喻，不指赛加的实际迁徙；并不保证以后不会反复。句子精读Although well adapted to cold winters and hot summers, saiga struggle to cope with temperature extremes and unpredictable fluctuations in climate.赛加虽然很好地适应了寒冷的冬季和炎热的夏季，却难以应对极端温度以及无法预测的气候波动。Although 后省略了与主句一致的主语和系动词，可理解为 although they are well adapted。主句 struggle to cope with 强调应对困难；两个并列名词短语分别指极端程度和变化的不稳定性。Its purpose is to protect and restore Kazakhstan's steppe, semi-desert and desert ecosystems and the many species they support, including the critically endangered saiga.它的目的是保护并修复哈萨克斯坦的草原、半沙漠和沙漠生态系统，以及这些生态系统支持生存的众多物种，其中包括当时处于极危状态的赛加。Its 指保护项目。protect and restore 是并列目的动作；they support 修饰 species，they 回指 ecosystems。including 表示赛加包含在多个受益物种之中，而不是项目唯一保护对象。这篇材料里可用于写作的表达working in partnership with与……共同合作适合说明跨地区生态治理的合作关系，应明确谁和谁合作以及共同处理什么问题。用于写作：过度捕捞涉及跨界鱼群，原文跨境物种保护中的机构协作与共享海域监管高度吻合。protect and restore保护并修复protect 强调避免进一步破坏，restore 强调恢复已经受损的状态；并列时应同时存在预防与修复需要。用于写作：可用于说明限制捕捞的生态目标，并与题目中的渔业生计相衔接。读完讲解，可以把原文连起来再读一次；想保留的词句可使用已有收藏功能。",
+  "links": [
+    {
+      "text": "Cambridge IELTS 21 Academic",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=61"
+    },
+    {
+      "text": "核对原答案页",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=123"
+    },
+    {
+      "text": "用于写作：过度捕捞涉及跨界鱼群，原文跨境物种保护中的机构协作与共享海域监管高度吻合。",
+      "href": "#writing-prep-wc-bc-overfishing-from-rd-c21-t3-saiga-threats"
+    },
+    {
+      "text": "用于写作：可用于说明限制捕捞的生态目标，并与题目中的渔业生计相衔接。",
+      "href": "#writing-prep-wc-bc-overfishing-from-rd-c21-t3-saiga-threats"
+    }
+  ],
+  "details": [
+    {
+      "id": "material-reading-rd-c21-t3-saiga-threats",
+      "title": "材料精读 · 内容与词句",
+      "open": false,
+      "visible": true
+    }
+  ],
+  "saveFields": [
+    "case-rd-c21-t3-saiga-threats-q1",
+    "case-rd-c21-t3-saiga-threats-q2",
+    "case-rd-c21-t3-saiga-threats-q3",
+    "case-rd-c21-t3-saiga-threats-q4",
+    "case-rd-c21-t3-saiga-threats-q5",
+    "case-rd-c21-t3-saiga-threats-q6",
+    "case-rd-c21-t3-saiga-threats-done",
+    "case-rd-c21-t3-saiga-threats-saved-at",
+    "case-rd-c21-t3-saiga-threats-revision"
+  ],
+  "images": [],
+  "audio": [],
+  "viewport": 1440,
+  "documentWidth": 1440
+}

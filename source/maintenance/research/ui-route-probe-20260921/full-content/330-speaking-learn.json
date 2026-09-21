@@ -1,0 +1,106 @@
+{
+  "requested": "speaking-learn",
+  "from": [
+    "页面链接"
+  ],
+  "actual": "#speaking-learn",
+  "checkedAt": "2026-09-21T12:55:08.461Z",
+  "title": "学习 / 口语 / 口语 · 从原题开始学 · IELTS",
+  "label": "学习 / 口语 / 口语 · 从原题开始学",
+  "panel": "speaking",
+  "contentRoot": "speaking-learn",
+  "headings": [
+    {
+      "tag": "H2",
+      "text": "从这份答案开始学",
+      "visible": false
+    },
+    {
+      "tag": "H2",
+      "text": "先回听自己的声音",
+      "visible": false
+    },
+    {
+      "tag": "H3",
+      "text": "我的练习与修订",
+      "visible": false
+    }
+  ],
+  "controls": [
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "作答后复盘：首答录音保存在哪里，准备与实际讲话各多久？题目是否见过、有没有关键词或其他提示？",
+      "href": null,
+      "save": "speaking-practice0",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "声音证据：选一个录音位置，写下实际说出的片段和需要修的一处问题；原因拿不准就记待核验。",
+      "href": null,
+      "save": "speaking-practice1",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "有提示口头练习：按需要从 have had ... for/since ... 或 mean a lot to ... 中选一个，用自己的物品说一句并录下；合法替代同样可用。",
+      "href": null,
+      "save": "speaking-practice2",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "重答记录：新录音在哪里，这一处是否说清？注明关键词支持、看过示例或无提示；用法标 K／R／N，熟题重答与新追问分开。",
+      "href": null,
+      "save": "speaking-practice3",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "保留自己的意思，在这里写修订稿或修复后的片段。",
+      "href": null,
+      "save": "speaking-revision",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    }
+  ],
+  "visibleText": "从这份答案开始学首答保存后回听，只选一个最影响理解的问题：内容未说具体、表达卡住，或某段声音难懂。再打开相应帮助，用自己的意思修复并另存重答，注明提示条件。暂时组织不出时可用本章短讲支架替换这一轮修复；发音问题必须听声音，不能凭稿件判断。先回听自己的声音\n选一处实际发生的问题：没有解释清楚重要性、时间关系含糊、找词阻断表达，或某段声音难懂。先记时间点和原本想表达的意思，再打开参考选一种修复方法。\n一次只修一处。若需要句型或关键词支持，如实标记；修改稿不替代自己的下一次开口。我的练习与修订以下属于教学支持后的使用，和首次答案分开。作答后复盘：首答录音保存在哪里，准备与实际讲话各多久？题目是否见过、有没有关键词或其他提示？声音证据：选一个录音位置，写下实际说出的片段和需要修的一处问题；原因拿不准就记待核验。有提示口头练习：按需要从 have had ... for/since ... 或 mean a lot to ... 中选一个，用自己的物品说一句并录下；合法替代同样可用。重答记录：新录音在哪里，这一处是否说清？注明关键词支持、看过示例或无提示；用法标 K／R／N，熟题重答与新追问分开。保留自己的意思，在这里写修订稿或修复后的片段。",
+  "allContent": "从这份答案开始学首答保存后回听，只选一个最影响理解的问题：内容未说具体、表达卡住，或某段声音难懂。再打开相应帮助，用自己的意思修复并另存重答，注明提示条件。暂时组织不出时可用本章短讲支架替换这一轮修复；发音问题必须听声音，不能凭稿件判断。先回听自己的声音\n选一处实际发生的问题：没有解释清楚重要性、时间关系含糊、找词阻断表达，或某段声音难懂。先记时间点和原本想表达的意思，再打开参考选一种修复方法。\n一次只修一处。若需要句型或关键词支持，如实标记；修改稿不替代自己的下一次开口。我的练习与修订以下属于教学支持后的使用，和首次答案分开。作答后复盘：首答录音保存在哪里，准备与实际讲话各多久？题目是否见过、有没有关键词或其他提示？声音证据：选一个录音位置，写下实际说出的片段和需要修的一处问题；原因拿不准就记待核验。有提示口头练习：按需要从 have had ... for/since ... 或 mean a lot to ... 中选一个，用自己的物品说一句并录下；合法替代同样可用。重答记录：新录音在哪里，这一处是否说清？注明关键词支持、看过示例或无提示；用法标 K／R／N，熟题重答与新追问分开。保留自己的意思，在这里写修订稿或修复后的片段。",
+  "links": [],
+  "details": [],
+  "saveFields": [
+    "speaking-practice0",
+    "speaking-practice1",
+    "speaking-practice2",
+    "speaking-practice3",
+    "speaking-revision"
+  ],
+  "images": [],
+  "audio": [],
+  "viewport": 1440,
+  "documentWidth": 1440
+}

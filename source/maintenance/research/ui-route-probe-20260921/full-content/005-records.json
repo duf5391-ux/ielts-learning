@@ -1,0 +1,474 @@
+{
+  "requested": "records",
+  "from": [
+    "主面板",
+    "页面链接"
+  ],
+  "actual": "#records",
+  "checkedAt": "2026-09-21T12:50:30.211Z",
+  "title": "学习记录与备份 · IELTS",
+  "label": "学习记录与备份",
+  "panel": "records",
+  "contentRoot": "records",
+  "headings": [
+    {
+      "tag": "H2",
+      "text": "新增资源：我的学习与复习",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "已学过",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "我加入的复习",
+      "visible": true
+    },
+    {
+      "tag": "H2",
+      "text": "我的句子本",
+      "visible": true
+    },
+    {
+      "tag": "H2",
+      "text": "我的单词表",
+      "visible": true
+    },
+    {
+      "tag": "H2",
+      "text": "查词历史",
+      "visible": true
+    },
+    {
+      "tag": "H2",
+      "text": "补充单元记录",
+      "visible": true
+    },
+    {
+      "tag": "H1",
+      "text": "留下有用的记录。",
+      "visible": true
+    },
+    {
+      "tag": "H2",
+      "text": "四科作答",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "阅读",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "听力",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "Task 1",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "Task 2",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "口语",
+      "visible": true
+    },
+    {
+      "tag": "H2",
+      "text": "这一轮，我发现了什么？",
+      "visible": true
+    },
+    {
+      "tag": "H2",
+      "text": "让记录留在自己手里",
+      "visible": true
+    }
+  ],
+  "controls": [
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "← 返回学习工作台",
+      "label": "",
+      "href": "#workspace",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "进入 →",
+      "label": "",
+      "href": "#writing-workbench",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "翻译一句话",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "sentence-search",
+      "type": "search",
+      "text": "",
+      "label": "搜索句子",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "sentence-store",
+      "type": "textarea",
+      "text": "",
+      "label": "",
+      "href": null,
+      "save": "sentence-collection-v1",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SELECT",
+      "id": "vr-mode",
+      "type": "select-one",
+      "text": "看英文 · 回忆意思\n看释义 · 拼写词语",
+      "label": "复习方式",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false,
+      "options": [
+        {
+          "value": "recall",
+          "label": "看英文 · 回忆意思"
+        },
+        {
+          "value": "spelling",
+          "label": "看释义 · 拼写词语"
+        }
+      ]
+    },
+    {
+      "tag": "BUTTON",
+      "id": "vr-start",
+      "type": "button",
+      "text": "开始今日复习",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": true,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "vr-practice-all",
+      "type": "button",
+      "text": "加练全部收藏",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": true,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "查看单词表 · 0 个词与词组",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "vr-search",
+      "type": "search",
+      "text": "",
+      "label": "搜索收藏的词语",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SELECT",
+      "id": "vr-filter",
+      "type": "select-one",
+      "text": "全部收藏\n现在该复习\n还未复习\n稍后复习",
+      "label": "单词表范围",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false,
+      "options": [
+        {
+          "value": "all",
+          "label": "全部收藏"
+        },
+        {
+          "value": "due",
+          "label": "现在该复习"
+        },
+        {
+          "value": "new",
+          "label": "还未复习"
+        },
+        {
+          "value": "later",
+          "label": "稍后复习"
+        }
+      ]
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "复习如何安排？",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "lookup-export",
+      "type": "button",
+      "text": "导出查词记录",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "lookup-history-search",
+      "type": "search",
+      "text": "",
+      "label": "搜索查询记录",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SELECT",
+      "id": "lookup-filter",
+      "type": "select-one",
+      "text": "待复习\n全部记录\n已复习\n已收藏",
+      "label": "查词复习状态",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false,
+      "options": [
+        {
+          "value": "pending",
+          "label": "待复习"
+        },
+        {
+          "value": "all",
+          "label": "全部记录"
+        },
+        {
+          "value": "reviewed",
+          "label": "已复习"
+        },
+        {
+          "value": "favorite",
+          "label": "已收藏"
+        }
+      ]
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "lookup-history-store",
+      "type": "textarea",
+      "text": "",
+      "label": "",
+      "href": null,
+      "save": "lookup-history-v1",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "进入章节",
+      "label": "",
+      "href": "#reading",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "进入章节",
+      "label": "",
+      "href": "#listening",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "进入章节",
+      "label": "",
+      "href": "#writing1",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "进入章节",
+      "label": "",
+      "href": "#writing2",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "进入章节",
+      "label": "",
+      "href": "#speaking",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "我的学习笔记",
+      "href": null,
+      "save": "workspace-reflection",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "submit",
+      "text": "导出文字作答",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "submit",
+      "text": "备份学习记录",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "import-state",
+      "type": "file",
+      "text": "",
+      "label": "恢复备份",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    }
+  ],
+  "visibleText": "← 返回学习工作台\n继续我的写作\n\n回到上次题目，查看首稿和修订。写作输入随本册学习记录一并备份。\n\n进入 →\n新增资源：我的学习与复习\n\n新增资源已学 0 / 44；加入复习 0 项。两项分别记录，不计入原五章首次作答。\n\n已学过\n还未标记已学；打开新资源，学习后按需要记录。\n我加入的复习\n在任意新增单元勾选“加入我的复习”，这里会保留入口。\n\n勾选和笔记随原“学习记录 JSON”一并导出。复习完成后可取消加入；这不代表已掌握。查词记录仍在下方生词复习区。\n\nSENTENCE NOTEBOOK\n\n我的句子本\n翻译一句话\n\n在正文或自己的作文中选中一句话，点击「翻译句子」。保留有用的译文，也可以修改后收藏。\n\n搜索句子\n\n0 个收藏句子 · 与学习记录一起备份\n\n选中一句有用的表达，翻译后收藏到这里。\n\nMY VOCABULARY\n\n我的单词表\n\n把查过的词与词组收藏起来，连同原句和搭配一起复习。\n\n0\n已收藏\n0\n现在可复习\n0\n未开始\n看英文 · 回忆意思\n看释义 · 拼写词语\n开始今日复习\n加练全部收藏\n\n查看单词表 · 0 个词与词组\n全部收藏\n现在该复习\n还未复习\n稍后复习\n\n查词后点“收藏到单词表”，或者选中正文词组后收藏。\n\n复习如何安排？\n查词历史\n导出查词记录\n\n每次查询都会留下词语和原句。点击收藏后进入上方单词表，再按间隔复习。\n\n0 个查询词或词组 · 0 个已收藏\n\n待复习\n全部记录\n已复习\n已收藏\n\n点击正文中的英文词，释义和原句会自动留在这里。\n\n旧版待复习／已复习标记继续保留。所有查询、收藏、拼写与复习记录包含在本页学习备份中。\n\n补充单元记录\n\n这里统计实际保留的首稿；打开材料、看过反馈不等于掌握。\n\n0 / 26 个补充练习首稿已保留。另有 0 个可选背景单元。\n\nYOUR LEARNING RECORD\n\n留下有用的记录。\n\n首次答案、修订和实际条件分别保留。这里显示本浏览器已有的记录。\n\n已保留首次作答\n0 / 5 章\n标记读过的语境\n0 / 18 段\n收藏的词与用法\n0 条内容\n四科作答\n用时只统计你填写的首次作答分钟\n阅读\n\n找到判断的证据\n\n待开始\n未记录用时\n进入章节\n听力\n\n听清最终要填什么\n\n待开始\n未记录用时\n进入章节\nTask 1\n\n把图表讲清楚\n\n待开始\n未记录用时\n进入章节\nTask 2\n\n让理由站得住\n\n待开始\n未记录用时\n进入章节\n口语\n\n说清物品的意义\n\n待开始\n未记录用时\n进入章节\n\nA SMALL REFLECTION\n\n这一轮，我发现了什么？\n\n记一处具体的问题，和下次想试的改变。\n\n我的学习笔记\n让记录留在自己手里\n导出文字作答\n备份学习记录\n恢复备份\n\n备份包含文字、首次稿和本页记录；录音请在口语页单独下载。恢复备份会替换当前文字记录。",
+  "allContent": "← 返回学习工作台继续我的写作回到上次题目，查看首稿和修订。写作输入随本册学习记录一并备份。进入 →新增资源：我的学习与复习新增资源已学 0 / 44；加入复习 0 项。两项分别记录，不计入原五章首次作答。已学过还未标记已学；打开新资源，学习后按需要记录。我加入的复习在任意新增单元勾选“加入我的复习”，这里会保留入口。勾选和笔记随原“学习记录 JSON”一并导出。复习完成后可取消加入；这不代表已掌握。查词记录仍在下方生词复习区。\n\nSENTENCE NOTEBOOK我的句子本翻译一句话\n在正文或自己的作文中选中一句话，点击「翻译句子」。保留有用的译文，也可以修改后收藏。\n搜索句子\n0 个收藏句子 · 与学习记录一起备份选中一句有用的表达，翻译后收藏到这里。\n\n\n\nMY VOCABULARY我的单词表把查过的词与词组收藏起来，连同原句和搭配一起复习。0已收藏0现在可复习0未开始看英文 · 回忆意思看释义 · 拼写词语开始今日复习加练全部收藏查看单词表 · 0 个词与词组全部收藏现在该复习还未复习稍后复习查词后点“收藏到单词表”，或者选中正文词组后收藏。复习如何安排？看英文回忆时，可以直接点“不会／模糊／会”，释义和原句按需查看。独立回忆后的“会”：下次在 1、3、7、14、30、60 天后逐步安排；模糊：1 天后；不会：10 分钟后。看过提示后的自评仍会记录，但不会增加独立回忆连续次数。单词表上的快捷自评只标记现在的感觉，不算完成复习，也不改到期时间。拼写仍需先尝试，拼错或查看答案后不能记为独立拼对。单次自评不代表已经掌握。收藏、原句、自填释义、每次复习和拼写答案均包含在“备份学习记录”及“导出查词记录”中。取消收藏只移出复习队列，查询和复习历史继续保留。查词历史导出查词记录\n每次查询都会留下词语和原句。点击收藏后进入上方单词表，再按间隔复习。\n0 个查询词或词组 · 0 个已收藏\n待复习全部记录已复习已收藏\n点击正文中的英文词，释义和原句会自动留在这里。旧版待复习／已复习标记继续保留。所有查询、收藏、拼写与复习记录包含在本页学习备份中。\n补充单元记录这里统计实际保留的首稿；打开材料、看过反馈不等于掌握。0 / 26 个补充练习首稿已保留。另有 0 个可选背景单元。YOUR LEARNING RECORD留下有用的记录。首次答案、修订和实际条件分别保留。这里显示本浏览器已有的记录。已保留首次作答0 / 5 章标记读过的语境0 / 18 段收藏的词与用法0 条内容四科作答用时只统计你填写的首次作答分钟阅读找到判断的证据待开始未记录用时进入章节 听力听清最终要填什么待开始未记录用时进入章节 Task 1把图表讲清楚待开始未记录用时进入章节 Task 2让理由站得住待开始未记录用时进入章节 口语说清物品的意义待开始未记录用时进入章节 A SMALL REFLECTION这一轮，我发现了什么？记一处具体的问题，和下次想试的改变。我的学习笔记让记录留在自己手里导出文字作答备份学习记录恢复备份备份包含文字、首次稿和本页记录；录音请在口语页单独下载。恢复备份会替换当前文字记录。",
+  "links": [
+    {
+      "text": "← 返回学习工作台",
+      "href": "#workspace"
+    },
+    {
+      "text": "进入 →",
+      "href": "#writing-workbench"
+    },
+    {
+      "text": "进入章节",
+      "href": "#reading"
+    },
+    {
+      "text": "进入章节",
+      "href": "#listening"
+    },
+    {
+      "text": "进入章节",
+      "href": "#writing1"
+    },
+    {
+      "text": "进入章节",
+      "href": "#writing2"
+    },
+    {
+      "text": "进入章节",
+      "href": "#speaking"
+    }
+  ],
+  "details": [
+    {
+      "id": "",
+      "title": "查看单词表 · 0 个词与词组",
+      "open": true,
+      "visible": true
+    },
+    {
+      "id": "",
+      "title": "复习如何安排？",
+      "open": false,
+      "visible": true
+    }
+  ],
+  "saveFields": [
+    "sentence-collection-v1",
+    "lookup-history-v1",
+    "workspace-reflection"
+  ],
+  "images": [],
+  "audio": [],
+  "viewport": 1440,
+  "documentWidth": 1440
+}

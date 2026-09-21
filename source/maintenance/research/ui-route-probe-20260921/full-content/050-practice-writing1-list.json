@@ -1,0 +1,513 @@
+{
+  "requested": "practice-writing1-list",
+  "from": [
+    "分类页"
+  ],
+  "actual": "#practice-writing1-list",
+  "checkedAt": "2026-09-21T12:51:04.277Z",
+  "title": "练习 / 写作 · Task 1 · IELTS",
+  "label": "练习 / 写作 · Task 1",
+  "panel": "practice",
+  "contentRoot": "practice",
+  "headings": [
+    {
+      "tag": "H1",
+      "text": "练习 · 写作 · Task 1",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "美国四行业就业：峰值、交叉与最终排名",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "学院咖啡厅改造：保留设施与功能替换",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "雨影沙漠：越山前后的水分变化",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "图书馆用户与满意度：两图的不同分母",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "英国继续教育：人数与学习形式",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "广播与电视受众：同一天的双峰比较",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "制砖：并行成形路径与温度阶段",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "自行车使用率：年龄比较与百分点差",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "Task 1 · 折线图 四行业就业",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "Task 1 · 流程图 砖块制造",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "Task 1 · 平面图 学院咖啡厅改造",
+      "visible": true
+    }
+  ],
+  "controls": [
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "← 返回练习",
+      "label": "",
+      "href": "#practice",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "写作",
+      "label": "",
+      "href": "#practice-writing-list",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SELECT",
+      "id": "la-practice-skill",
+      "type": "select-one",
+      "text": "全部写作Task 1Task 2",
+      "label": "写作类型全部写作Task 1Task 2",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false,
+      "options": [
+        {
+          "value": "",
+          "label": "全部写作"
+        },
+        {
+          "value": "writing1",
+          "label": "Task 1"
+        },
+        {
+          "value": "writing2",
+          "label": "Task 2"
+        }
+      ]
+    },
+    {
+      "tag": "SELECT",
+      "id": "la-practice-topic",
+      "type": "select-one",
+      "text": "全部\n工作与生活\n教育与学习\n通用",
+      "label": "话题\n全部\n工作与生活\n教育与学习\n通用",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false,
+      "options": [
+        {
+          "value": "",
+          "label": "全部"
+        },
+        {
+          "value": "工作与生活",
+          "label": "工作与生活"
+        },
+        {
+          "value": "教育与学习",
+          "label": "教育与学习"
+        },
+        {
+          "value": "通用",
+          "label": "通用"
+        }
+      ]
+    },
+    {
+      "tag": "SELECT",
+      "id": "la-practice-part",
+      "type": "select-one",
+      "text": "全部",
+      "label": "Part全部",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false,
+      "options": [
+        {
+          "value": "",
+          "label": "全部"
+        }
+      ]
+    },
+    {
+      "tag": "SELECT",
+      "id": "la-practice-type",
+      "type": "select-one",
+      "text": "全部\n图表\n填空与信息整理\n表达与运用",
+      "label": "题型／内容\n全部\n图表\n填空与信息整理\n表达与运用",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false,
+      "options": [
+        {
+          "value": "",
+          "label": "全部"
+        },
+        {
+          "value": "图表",
+          "label": "图表"
+        },
+        {
+          "value": "填空与信息整理",
+          "label": "填空与信息整理"
+        },
+        {
+          "value": "表达与运用",
+          "label": "表达与运用"
+        }
+      ]
+    },
+    {
+      "tag": "INPUT",
+      "id": "la-practice-search",
+      "type": "search",
+      "text": "",
+      "label": "内容或题型",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "开始练习 →",
+      "label": "",
+      "href": "#writing1-case-wc-c21-t1-jobs",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "加入今天",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "开始练习 →",
+      "label": "",
+      "href": "#writing1-case-wc-c21-t2-cafe",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "加入今天",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "开始练习 →",
+      "label": "",
+      "href": "#writing1-case-wc-c21-t3-rainshadow",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "加入今天",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "开始练习 →",
+      "label": "",
+      "href": "#writing1-case-wc-c21-t4-library",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "加入今天",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "开始练习 →",
+      "label": "",
+      "href": "#writing1-case-wc-official-education",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "加入今天",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "开始练习 →",
+      "label": "",
+      "href": "#writing1-case-wc-official-audiences",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "加入今天",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "开始练习 →",
+      "label": "",
+      "href": "#writing1-case-wc-official-bricks",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "加入今天",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "开始练习 →",
+      "label": "",
+      "href": "#writing1-case-wc-official-bicycle",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "加入今天",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "开始练习 →",
+      "label": "",
+      "href": "#pr-writing1-jobs",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "加入今天",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "开始练习 →",
+      "label": "",
+      "href": "#pr-writing1-bricks",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "加入今天",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "开始练习 →",
+      "label": "",
+      "href": "#pr-writing1-cafe",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "加入今天",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    }
+  ],
+  "visibleText": "练习 · 写作 · Task 1\n\n11 项内容 · 按需要选一项开始。\n\n← 返回练习\n写作\nTask 1\n0% · 0 / 11 单元\n话题\n全部\n工作与生活\n教育与学习\n通用\n题型／内容\n全部\n图表\n填空与信息整理\n表达与运用\n内容或题型\n\n写作 · Task 1 · 工作与生活\n\n美国四行业就业：峰值、交叉与最终排名\n\n直接作答，完成后核对。\n\n0% · 0 / 1 完成\n开始练习 →\n加入今天\n\n写作 · Task 1 · 通用\n\n学院咖啡厅改造：保留设施与功能替换\n\n直接作答，完成后核对。\n\n0% · 0 / 1 完成\n开始练习 →\n加入今天\n\n写作 · Task 1 · 通用\n\n雨影沙漠：越山前后的水分变化\n\n直接作答，完成后核对。\n\n0% · 0 / 1 完成\n开始练习 →\n加入今天\n\n写作 · Task 1 · 通用\n\n图书馆用户与满意度：两图的不同分母\n\n直接作答，完成后核对。\n\n0% · 0 / 1 完成\n开始练习 →\n加入今天\n\n写作 · Task 1 · 教育与学习\n\n英国继续教育：人数与学习形式\n\n直接作答，完成后核对。\n\n0% · 0 / 1 完成\n开始练习 →\n加入今天\n\n写作 · Task 1 · 通用\n\n广播与电视受众：同一天的双峰比较\n\n直接作答，完成后核对。\n\n0% · 0 / 1 完成\n开始练习 →\n加入今天\n\n写作 · Task 1 · 通用\n\n制砖：并行成形路径与温度阶段\n\n直接作答，完成后核对。\n\n0% · 0 / 1 完成\n开始练习 →\n加入今天\n\n写作 · Task 1 · 通用\n\n自行车使用率：年龄比较与百分点差\n\n直接作答，完成后核对。\n\n0% · 0 / 1 完成\n开始练习 →\n加入今天\n\n写作 · Task 1 · 工作与生活\n\nTask 1 · 折线图 四行业就业\n\n直接作答，完成后核对。\n\n0% · 0 / 2 完成\n开始练习 →\n加入今天\n\n写作 · Task 1 · 通用\n\nTask 1 · 流程图 砖块制造\n\n直接作答，完成后核对。\n\n0% · 0 / 2 完成\n开始练习 →\n加入今天\n\n写作 · Task 1 · 通用\n\nTask 1 · 平面图 学院咖啡厅改造\n\n直接作答，完成后核对。\n\n0% · 0 / 2 完成\n开始练习 →\n加入今天",
+  "allContent": "IELTS / MY STUDY练习 · 写作 · Task 111 项内容 · 按需要选一项开始。← 返回练习写作Task 10% · 0 / 11 单元写作类型全部写作Task 1Task 2话题全部工作与生活教育与学习通用11 项内容Part全部题型／内容全部图表填空与信息整理表达与运用内容或题型写作 · Task 1 · 工作与生活美国四行业就业：峰值、交叉与最终排名直接作答，完成后核对。0% · 0 / 1 完成开始练习 →加入今天写作 · Task 1 · 通用学院咖啡厅改造：保留设施与功能替换直接作答，完成后核对。0% · 0 / 1 完成开始练习 →加入今天写作 · Task 1 · 通用雨影沙漠：越山前后的水分变化直接作答，完成后核对。0% · 0 / 1 完成开始练习 →加入今天写作 · Task 1 · 通用图书馆用户与满意度：两图的不同分母直接作答，完成后核对。0% · 0 / 1 完成开始练习 →加入今天写作 · Task 1 · 教育与学习英国继续教育：人数与学习形式直接作答，完成后核对。0% · 0 / 1 完成开始练习 →加入今天写作 · Task 1 · 通用广播与电视受众：同一天的双峰比较直接作答，完成后核对。0% · 0 / 1 完成开始练习 →加入今天写作 · Task 1 · 通用制砖：并行成形路径与温度阶段直接作答，完成后核对。0% · 0 / 1 完成开始练习 →加入今天写作 · Task 1 · 通用自行车使用率：年龄比较与百分点差直接作答，完成后核对。0% · 0 / 1 完成开始练习 →加入今天写作 · Task 1 · 工作与生活Task 1 · 折线图 四行业就业直接作答，完成后核对。0% · 0 / 2 完成开始练习 →加入今天写作 · Task 1 · 通用Task 1 · 流程图 砖块制造直接作答，完成后核对。0% · 0 / 2 完成开始练习 →加入今天写作 · Task 1 · 通用Task 1 · 平面图 学院咖啡厅改造直接作答，完成后核对。0% · 0 / 2 完成开始练习 →加入今天",
+  "links": [
+    {
+      "text": "← 返回练习",
+      "href": "#practice"
+    },
+    {
+      "text": "写作",
+      "href": "#practice-writing-list"
+    },
+    {
+      "text": "开始练习 →",
+      "href": "#writing1-case-wc-c21-t1-jobs"
+    },
+    {
+      "text": "开始练习 →",
+      "href": "#writing1-case-wc-c21-t2-cafe"
+    },
+    {
+      "text": "开始练习 →",
+      "href": "#writing1-case-wc-c21-t3-rainshadow"
+    },
+    {
+      "text": "开始练习 →",
+      "href": "#writing1-case-wc-c21-t4-library"
+    },
+    {
+      "text": "开始练习 →",
+      "href": "#writing1-case-wc-official-education"
+    },
+    {
+      "text": "开始练习 →",
+      "href": "#writing1-case-wc-official-audiences"
+    },
+    {
+      "text": "开始练习 →",
+      "href": "#writing1-case-wc-official-bricks"
+    },
+    {
+      "text": "开始练习 →",
+      "href": "#writing1-case-wc-official-bicycle"
+    },
+    {
+      "text": "开始练习 →",
+      "href": "#pr-writing1-jobs"
+    },
+    {
+      "text": "开始练习 →",
+      "href": "#pr-writing1-bricks"
+    },
+    {
+      "text": "开始练习 →",
+      "href": "#pr-writing1-cafe"
+    }
+  ],
+  "details": [],
+  "saveFields": [],
+  "images": [],
+  "audio": [],
+  "viewport": 1440,
+  "documentWidth": 1440
+}

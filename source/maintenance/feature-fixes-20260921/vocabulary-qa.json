@@ -1,0 +1,46 @@
+{
+  "pass": true,
+  "checks": [
+    {
+      "name": "Only visible word cards gain direct buttons; saved selects preserved",
+      "status": "pass"
+    },
+    {
+      "name": "Direct familiarity choices persist and restore without opening a dropdown",
+      "status": "pass"
+    },
+    {
+      "name": "Clear while filtered removes the card and refreshes count",
+      "status": "pass"
+    },
+    {
+      "name": "Failed quick mark keeps prior state",
+      "status": "pass"
+    },
+    {
+      "name": "List self-assessment is direct and does not create a review or change schedule",
+      "status": "pass"
+    },
+    {
+      "name": "Recall can be graded before revealing; evidence stored independently",
+      "status": "pass"
+    },
+    {
+      "name": "Revealed answers never count as unaided successful recall",
+      "status": "pass"
+    },
+    {
+      "name": "Failed review does not advance or leave hidden schedule changes",
+      "status": "pass"
+    },
+    {
+      "name": "Spelling does not leak headword; wrong spelling cannot be marked independently correct",
+      "status": "pass"
+    },
+    {
+      "name": "390px direct controls fit and keep existing mobile navigation",
+      "status": "pass"
+    }
+  ],
+  "errors": []
+}

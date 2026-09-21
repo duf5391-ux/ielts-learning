@@ -1,0 +1,332 @@
+{
+  "requested": "learning-projects",
+  "from": [
+    "主面板",
+    "页面链接"
+  ],
+  "actual": "#learning-projects",
+  "checkedAt": "2026-09-21T12:50:50.778Z",
+  "title": "学习项目 · IELTS",
+  "label": "学习项目",
+  "panel": "learning-projects",
+  "contentRoot": "learning-projects",
+  "headings": [
+    {
+      "tag": "H1",
+      "text": "学习项目",
+      "visible": true
+    },
+    {
+      "tag": "H2",
+      "text": "想按顺序学，可以从这一组开始",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "九分机经 · 本次新增",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "近期机经 · 已清洗题组",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "阅读：把判断的依据找清楚",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "写作：教育话题到理由段",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "听力：表单与选择题",
+      "visible": true
+    }
+  ],
+  "controls": [
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "← 返回学习",
+      "label": "",
+      "href": "#study",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "语言起源 · The origin of language",
+      "label": "",
+      "href": "#pr-jiufen-20260921-origin-language-v1",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "成人读写困难 · Task 2",
+      "label": "",
+      "href": "#pr-jiufen-20260921-adult-literacy-v1",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "工作与生活的平衡 · Task 2",
+      "label": "",
+      "href": "#pr-jiufen-20260921-work-life-balance-v1",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "自然灭绝与人为保护 · Task 2",
+      "label": "",
+      "href": "#pr-jiufen-20260921-species-extinction-v1",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "查看本次新内容 →",
+      "label": "",
+      "href": "机经资料/jiufen-reviewed-20260921/index.html",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "空乘岗位咨询 · 9月机经 Part 1",
+      "label": "",
+      "href": "#pr-jijing-202609-listening-01-v1",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "罐头食品简史 · A Brief History Of Canned Food",
+      "label": "",
+      "href": "#pr-jijing-202609-reading-01-v1",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "查看本批已接入内容 →",
+      "label": "",
+      "href": "机经资料/jijing-20260920/index.html",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "判断题：用真题区分反证、未知与观点归属",
+      "label": "",
+      "href": "#reading-tech-judgement",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "健康与消费：读出作者评价",
+      "label": "",
+      "href": "#topic-health",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "阅读 · 从原题开始学",
+      "label": "",
+      "href": "#reading-first",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "教育：谁能学到，学什么，怎样学",
+      "label": "",
+      "href": "#topic-education",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "Task 2 · 教育 小学课堂中的学习与游戏",
+      "label": "",
+      "href": "#pr-writing2-primary",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "听力 · 从原题开始学",
+      "label": "",
+      "href": "#listening-first",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "Listening Part 1 货物运输",
+      "label": "",
+      "href": "#pr-listening-p1",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "Listening Part 2 社区活动",
+      "label": "",
+      "href": "#pr-listening-p2",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "打开我的定制课程 →",
+      "label": "",
+      "href": "#course-window",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    }
+  ],
+  "visibleText": "← 返回学习\n学习项目\n\n按建议顺序完成一组内容，也可以直接进入其中一项。\n\n想按顺序学，可以从这一组开始\n\n顺序是建议；可以跳到你需要的那一项。\n\n新内容 · 2026-09-21\n\n九分机经 · 本次新增\n\n1组阅读14题、3道Task 2：可作答、保存、核对，并回到对应材料与词句。\n\n0% · 0 / 4 项\n语言起源 · The origin of language · 4/5\n成人读写困难 · Task 2 · 3/5\n工作与生活的平衡 · Task 2 · 2/5\n自然灭绝与人为保护 · Task 2 · 4/5\n\n难度为1–5编辑评估。进度只表示本批作答与核对。\n\n查看本次新内容 →\n\n2026年9月 · 回忆整理\n\n近期机经 · 已清洗题组\n\n空乘岗位咨询与罐头食品简史：先完成题组，再核对答案、回到同一材料精读。另附9道Task 2题干参考。\n\n0% · 0 / 2 项\n空乘岗位咨询 · 9月机经 Part 1\n罐头食品简史 · A Brief History Of Canned Food\n查看本批已接入内容 →\n\n进度表示两组练习的作答与核对，不代表掌握度。\n\n阅读：把判断的依据找清楚\n0% · 0 / 3 项\n判断题：用真题区分反证、未知与观点归属\n健康与消费：读出作者评价\n阅读 · 从原题开始学\n写作：教育话题到理由段\n0% · 0 / 2 项\n教育：谁能学到，学什么，怎样学\nTask 2 · 教育 小学课堂中的学习与游戏\n听力：表单与选择题\n0% · 0 / 3 项\n听力 · 从原题开始学\nListening Part 1 货物运输\nListening Part 2 社区活动\n\n打开我的定制课程 →",
+  "allContent": "← 返回学习学习项目按建议顺序完成一组内容，也可以直接进入其中一项。想按顺序学，可以从这一组开始顺序是建议；可以跳到你需要的那一项。新内容 · 2026-09-21九分机经 · 本次新增1组阅读14题、3道Task 2：可作答、保存、核对，并回到对应材料与词句。0% · 0 / 4 项语言起源 · The origin of language · 4/5成人读写困难 · Task 2 · 3/5工作与生活的平衡 · Task 2 · 2/5自然灭绝与人为保护 · Task 2 · 4/5难度为1–5编辑评估。进度只表示本批作答与核对。查看本次新内容 →2026年9月 · 回忆整理近期机经 · 已清洗题组空乘岗位咨询与罐头食品简史：先完成题组，再核对答案、回到同一材料精读。另附9道Task 2题干参考。0% · 0 / 2 项空乘岗位咨询 · 9月机经 Part 1罐头食品简史 · A Brief History Of Canned Food查看本批已接入内容 →进度表示两组练习的作答与核对，不代表掌握度。阅读：把判断的依据找清楚0% · 0 / 3 项判断题：用真题区分反证、未知与观点归属健康与消费：读出作者评价阅读 · 从原题开始学写作：教育话题到理由段0% · 0 / 2 项教育：谁能学到，学什么，怎样学Task 2 · 教育 小学课堂中的学习与游戏听力：表单与选择题0% · 0 / 3 项听力 · 从原题开始学Listening Part 1 货物运输Listening Part 2 社区活动打开我的定制课程 →",
+  "links": [
+    {
+      "text": "← 返回学习",
+      "href": "#study"
+    },
+    {
+      "text": "语言起源 · The origin of language",
+      "href": "#pr-jiufen-20260921-origin-language-v1"
+    },
+    {
+      "text": "成人读写困难 · Task 2",
+      "href": "#pr-jiufen-20260921-adult-literacy-v1"
+    },
+    {
+      "text": "工作与生活的平衡 · Task 2",
+      "href": "#pr-jiufen-20260921-work-life-balance-v1"
+    },
+    {
+      "text": "自然灭绝与人为保护 · Task 2",
+      "href": "#pr-jiufen-20260921-species-extinction-v1"
+    },
+    {
+      "text": "查看本次新内容 →",
+      "href": "机经资料/jiufen-reviewed-20260921/index.html"
+    },
+    {
+      "text": "空乘岗位咨询 · 9月机经 Part 1",
+      "href": "#pr-jijing-202609-listening-01-v1"
+    },
+    {
+      "text": "罐头食品简史 · A Brief History Of Canned Food",
+      "href": "#pr-jijing-202609-reading-01-v1"
+    },
+    {
+      "text": "查看本批已接入内容 →",
+      "href": "机经资料/jijing-20260920/index.html"
+    },
+    {
+      "text": "判断题：用真题区分反证、未知与观点归属",
+      "href": "#reading-tech-judgement"
+    },
+    {
+      "text": "健康与消费：读出作者评价",
+      "href": "#topic-health"
+    },
+    {
+      "text": "阅读 · 从原题开始学",
+      "href": "#reading-first"
+    },
+    {
+      "text": "教育：谁能学到，学什么，怎样学",
+      "href": "#topic-education"
+    },
+    {
+      "text": "Task 2 · 教育 小学课堂中的学习与游戏",
+      "href": "#pr-writing2-primary"
+    },
+    {
+      "text": "听力 · 从原题开始学",
+      "href": "#listening-first"
+    },
+    {
+      "text": "Listening Part 1 货物运输",
+      "href": "#pr-listening-p1"
+    },
+    {
+      "text": "Listening Part 2 社区活动",
+      "href": "#pr-listening-p2"
+    },
+    {
+      "text": "打开我的定制课程 →",
+      "href": "#course-window"
+    }
+  ],
+  "details": [],
+  "saveFields": [],
+  "images": [],
+  "audio": [],
+  "viewport": 1440,
+  "documentWidth": 1440
+}

@@ -1,0 +1,231 @@
+{
+  "requested": "reading-case-rd-c21-silence-2",
+  "from": [
+    "内容单元",
+    "页面链接",
+    "每日安排目标"
+  ],
+  "actual": "#reading-case-rd-c21-silence-2",
+  "checkedAt": "2026-09-21T12:51:57.443Z",
+  "title": "练习 / 阅读 / Why we need silence｜漂浮舱的两项实验 · IELTS",
+  "label": "练习 / 阅读 / Why we need silence｜漂浮舱的两项实验",
+  "panel": "practice-reading",
+  "contentRoot": "reading-case-rd-c21-silence-2",
+  "headings": [
+    {
+      "tag": "H3",
+      "text": "对照答案，回到证据",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "D",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "E（第一段）",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "E（第二段）",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "词语与搭配",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "句子精读",
+      "visible": false
+    }
+  ],
+  "controls": [
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "Why we need silence｜漂浮舱的两项实验未作答\n摘要填空 / 人物／特征匹配 · 3 段 · 311 词 · 5 题 · 同篇原文另有裁切",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "Cambridge IELTS 21 Academic",
+      "label": "",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=21",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "case-rd-c21-silence-2-q1",
+      "type": "text",
+      "text": "",
+      "label": "第 18 题作答",
+      "href": null,
+      "save": "case-rd-c21-silence-2-q1",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "case-rd-c21-silence-2-q2",
+      "type": "text",
+      "text": "",
+      "label": "第 19 题作答",
+      "href": null,
+      "save": "case-rd-c21-silence-2-q2",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "case-rd-c21-silence-2-q3",
+      "type": "text",
+      "text": "",
+      "label": "第 20 题作答",
+      "href": null,
+      "save": "case-rd-c21-silence-2-q3",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "case-rd-c21-silence-2-q4",
+      "type": "text",
+      "text": "",
+      "label": "第 21 题作答",
+      "href": null,
+      "save": "case-rd-c21-silence-2-q4",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "case-rd-c21-silence-2-q5",
+      "type": "text",
+      "text": "",
+      "label": "第 24 题作答",
+      "href": null,
+      "save": "case-rd-c21-silence-2-q5",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "checkbox",
+      "text": "",
+      "label": "",
+      "href": null,
+      "save": "case-rd-c21-silence-2-done",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "hidden",
+      "text": "",
+      "label": "",
+      "href": null,
+      "save": "case-rd-c21-silence-2-saved-at",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "保留作答，查看答案",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "核对原答案页",
+      "label": "",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=119",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "case-rd-c21-silence-2-revision",
+      "type": "textarea",
+      "text": "",
+      "label": "我的修订／证据笔记",
+      "href": null,
+      "save": "case-rd-c21-silence-2-revision",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "材料精读 · 内容与词句",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    }
+  ],
+  "visibleText": "Why we need silence｜漂浮舱的两项实验未作答\n摘要填空 / 人物／特征匹配 · 3 段 · 311 词 · 5 题 · 同篇原文另有裁切\n0% · 0 / 1 完成\n\n真题 · Cambridge IELTS 21 Academic · PDF 第 21 页\n\nQ18–21：Complete the summary. Choose ONE WORD ONLY from the passage for each answer. Q24：Match the statement with the correct person A–D.\n\nDResearchers are also seeking to understand what aspects of silent experiences are most beneficial to our health. One of the best-researched is the flotation tank: a lightproof, soundproof tank of salt water in which a person floats as a form of deep relaxation. While some people experience altered perception in the tanks, involving subtle humming sounds and visual effects, these effects are benign and do not detract from the benefits of the experience, says Justin Feinstein, a clinical neuropsychologist. 'When you don't have external sensory stimuli coming in, the brain tries to fill the void to make sense of this dark and silent world,' he explains. 'In these tanks, some people can even hear the sound of their eyes blinking,' says Feinstein. 'But it is the ability to focus on the breath that helps people reach a relaxed or meditative state.'\n\nE（第一段）E To further explore flotation tanks as a therapeutic tool, Feinstein and his colleagues recruited 50 people with a variety of conditions related to stress and had them answer a questionnaire prior to and following a flotation session. Participants reported decreases in muscle tension, pain and symptoms of their conditions after a single, 1-hour float, alongside an increase in feelings of relaxation and overall wellbeing.\n\nE（第二段）Less is known about what effects sensory deprivation can have on the brain. To investigate, Feinstein's team had 48 people participate in either three 90-minute float sessions or three 90-minute periods of relaxing on a chair which reclined. Participants had their brains scanned using functional magnetic resonance imaging at the beginning and end of the trial. Float sessions uniquely decreased activity in the default mode network (DMN), a collection of brain regions commonly linked with depression. Feinstein says it is an exciting finding, because flotation tanks seem to offer a way of 'resetting' our nervous system to prevent it from getting out of balance.\n\n18. According to Justin Feinstein, flotation tanks allow people to concentrate on their own 18 __________, which helps them relax and enables them to meditate.\n\n第 18 题作答\n\n19. Feinstein and his colleagues conducted an experiment in which 50 people, who were all suffering from stress and related issues, were given a 19 __________ to complete before and after using a flotation tank.\n\n第 19 题作答\n\n20. Participants reported a reduction in their symptoms after an hour in the tank, together with signs of relaxation and improved general 20 __________.\n\n第 20 题作答\n\n21. In another experiment, the researchers had 48 people spend periods of 90 minutes either lying back in a chair or floating in a tank. Brain scans then revealed that those people who had been in a tank had decreased activity in parts of the brain associated with 21 __________.\n\n第 21 题作答\n\n24. When our body's senses are completely deprived of input, our minds compensate for this by creating the illusion of images and sounds.\n\nA Nick Antonio\nB Justin Feinstein\nC Tai Dotan Ben-Soussan\nD Eric Pfeifer\n第 24 题作答\n保留作答，查看答案\n\n先作答；不确定的题也可记录判断与疑点。\n\n材料精读 · 内容与词句",
+  "allContent": "Why we need silence｜漂浮舱的两项实验未作答摘要填空 / 人物／特征匹配 · 3 段 · 311 词 · 5 题 · 同篇原文另有裁切0% · 0 / 1 完成真题 · Cambridge IELTS 21 Academic · PDF 第 21 页Q18–21：Complete the summary. Choose ONE WORD ONLY from the passage for each answer. Q24：Match the statement with the correct person A–D.DResearchers are also seeking to understand what aspects of silent experiences are most beneficial to our health. One of the best-researched is the flotation tank: a lightproof, soundproof tank of salt water in which a person floats as a form of deep relaxation. While some people experience altered perception in the tanks, involving subtle humming sounds and visual effects, these effects are benign and do not detract from the benefits of the experience, says Justin Feinstein, a clinical neuropsychologist. 'When you don't have external sensory stimuli coming in, the brain tries to fill the void to make sense of this dark and silent world,' he explains. 'In these tanks, some people can even hear the sound of their eyes blinking,' says Feinstein. 'But it is the ability to focus on the breath that helps people reach a relaxed or meditative state.'E（第一段）E To further explore flotation tanks as a therapeutic tool, Feinstein and his colleagues recruited 50 people with a variety of conditions related to stress and had them answer a questionnaire prior to and following a flotation session. Participants reported decreases in muscle tension, pain and symptoms of their conditions after a single, 1-hour float, alongside an increase in feelings of relaxation and overall wellbeing.E（第二段）Less is known about what effects sensory deprivation can have on the brain. To investigate, Feinstein's team had 48 people participate in either three 90-minute float sessions or three 90-minute periods of relaxing on a chair which reclined. Participants had their brains scanned using functional magnetic resonance imaging at the beginning and end of the trial. Float sessions uniquely decreased activity in the default mode network (DMN), a collection of brain regions commonly linked with depression. Feinstein says it is an exciting finding, because flotation tanks seem to offer a way of 'resetting' our nervous system to prevent it from getting out of balance.18. According to Justin Feinstein, flotation tanks allow people to concentrate on their own 18 __________, which helps them relax and enables them to meditate.第 18 题作答19. Feinstein and his colleagues conducted an experiment in which 50 people, who were all suffering from stress and related issues, were given a 19 __________ to complete before and after using a flotation tank.第 19 题作答20. Participants reported a reduction in their symptoms after an hour in the tank, together with signs of relaxation and improved general 20 __________.第 20 题作答21. In another experiment, the researchers had 48 people spend periods of 90 minutes either lying back in a chair or floating in a tank. Brain scans then revealed that those people who had been in a tank had decreased activity in parts of the brain associated with 21 __________.第 21 题作答24. When our body's senses are completely deprived of input, our minds compensate for this by creating the illusion of images and sounds.A Nick AntonioB Justin FeinsteinC Tai Dotan Ben-SoussanD Eric Pfeifer第 24 题作答保留作答，查看答案先作答；不确定的题也可记录判断与疑点。对照答案，回到证据第 18 题 · breathconcentrate on与focus on同义；不是描述感官幻觉的humming sounds。the ability to focus on the breath第 19 题 · questionnaire50 people唯一锁定第一项实验，before and after对应prior to and following。answer a questionnaire prior to and following a flotation session第 20 题 · wellbeinggeneral对应overall；答案是整体状态wellbeing，不是症状pain。an increase in feelings of relaxation and overall wellbeing第 21 题 · depressionassociated with对应linked with；48人/90分钟与上一项50人/一小时必须分开。a collection of brain regions commonly linked with depression第 24 题 · BD引语来自Feinstein；visual effects与humming sounds对应images and sounds。the brain tries to fill the void to make sense of this dark and silent world核对原答案页我的修订／证据笔记材料精读 · 内容与词句这一部分围绕漂浮舱提出两个层次的问题：人主观上有什么感受，脑活动发生了什么变化。文章分别介绍问卷与脑扫描研究，并保留科学解释中的不确定性；参与者报告的轻松感不能直接扩大成对所有疾病或所有人的疗效结论。DD Researchers are also seeking to understand what aspects of silent experiences are most beneficial to our health. One of the best-researched is the flotation tank: a lightproof, soundproof tank of salt water in which a person floats as a form of deep relaxation. While some people experience altered perception in the tanks, involving subtle humming sounds and visual effects, these effects are benign and do not detract from the benefits of the experience, says Justin Feinstein, a clinical neuropsychologist. 'When you don't have external sensory stimuli coming in, the brain tries to fill the void to make sense of this dark and silent world,' he explains. 'In these tanks, some people can even hear the sound of their eyes blinking,' says Feinstein. 'But it is the ability to focus on the breath that helps people reach a relaxed or meditative state.'漂浮舱通过遮光、隔音和盐水漂浮减少外界感觉输入。有人会听见轻微嗡鸣或出现视觉感受，Feinstein认为这可能是大脑在缺少外界刺激时尝试填补空白。这些现象在他的描述中是良性的；真正帮助进入放松状态的，是把注意力放在呼吸上的能力。本段是在介绍一种体验及专家解释，并非要求读者自行进行治疗。E（第一段）E To further explore flotation tanks as a therapeutic tool, Feinstein and his colleagues recruited 50 people with a variety of conditions related to stress and had them answer a questionnaire prior to and following a flotation session. Participants reported decreases in muscle tension, pain and symptoms of their conditions after a single, 1-hour float, alongside an increase in feelings of relaxation and overall wellbeing.研究团队招募50名有不同压力相关状况的人，在一次漂浮前后填写问卷。参与者报告一小时后肌肉紧张、疼痛和相关症状减少，放松感与整体舒适感提高。这里的信息来自参与者的前后自报；本段没有交代对照条件或长期追踪，因而只宜理解为此次研究中观察到的短时体验变化。E（第二段）Less is known about what effects sensory deprivation can have on the brain. To investigate, Feinstein's team had 48 people participate in either three 90-minute float sessions or three 90-minute periods of relaxing on a chair which reclined. Participants had their brains scanned using functional magnetic resonance imaging at the beginning and end of the trial. Float sessions uniquely decreased activity in the default mode network (DMN), a collection of brain regions commonly linked with depression. Feinstein says it is an exciting finding, because flotation tanks seem to offer a way of 'resetting' our nervous system to prevent it from getting out of balance.第二项研究改为考察大脑：48人分别接受三次90分钟漂浮或在躺椅上放松，并在研究开始和结束时做功能磁共振扫描。原文报告只有漂浮组出现默认模式网络活动降低，该网络常与抑郁有关。Feinstein把这解释为可能帮助神经系统重获平衡的线索；seem和resetting上的引号提醒读者，这是一种试探性、形象化解释，不等于已经证明能治疗抑郁。词语与搭配external sensory stimuli外界感觉刺激stimuli是stimulus的复数，指来自声音、光线等的感觉输入；这里解释漂浮舱改变了什么环境条件。do not detract from the benefits不会削弱其益处detract from后接价值、效果或吸引力，表示使其减少；文中是专家对特定体验的评价。as a therapeutic tool作为一种治疗或辅助治疗手段as标明研究考察的用途，therapeutic不意味着已经获得对所有疾病的有效性证明。prior to and following a flotation session在一次漂浮体验之前和之后prior to与following平行标明两个测量时点；它们本身并不说明因果或效果能维持多久。句子精读To further explore flotation tanks as a therapeutic tool, Feinstein and his colleagues recruited 50 people with a variety of conditions related to stress and had them answer a questionnaire prior to and following a flotation session.为进一步探索漂浮舱作为治疗手段的作用，Feinstein及其同事招募了50名有多种压力相关状况的人，让他们在一次漂浮体验前后填写问卷。开头To further explore说明研究目的。主干包含recruited和had两个并列动作；with...修饰people，related to stress修饰conditions。have somebody do something表示让某人做某事，所以answer保持动词原形；prior to and following共同修饰填写问卷的时间。Feinstein says it is an exciting finding, because flotation tanks seem to offer a way of 'resetting' our nervous system to prevent it from getting out of balance.Feinstein表示，这是一项令人兴奋的发现，因为漂浮舱似乎提供了一种让神经系统“重置”的方式，以防其失去平衡。says标出评价来自Feinstein；第一个it指前文默认模式网络活动降低的发现。seem to保留推测色彩，'resetting'是引号中的比喻。to prevent说明可能目的，prevent it from doing中的it指神经系统；句子不把这一解释写成已经确定的临床疗效。读完讲解，可以把原文连起来再读一次；想保留的词句可使用已有收藏功能。",
+  "links": [
+    {
+      "text": "Cambridge IELTS 21 Academic",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=21"
+    },
+    {
+      "text": "核对原答案页",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=119"
+    }
+  ],
+  "details": [
+    {
+      "id": "material-reading-rd-c21-silence-2",
+      "title": "材料精读 · 内容与词句",
+      "open": false,
+      "visible": true
+    }
+  ],
+  "saveFields": [
+    "case-rd-c21-silence-2-q1",
+    "case-rd-c21-silence-2-q2",
+    "case-rd-c21-silence-2-q3",
+    "case-rd-c21-silence-2-q4",
+    "case-rd-c21-silence-2-q5",
+    "case-rd-c21-silence-2-done",
+    "case-rd-c21-silence-2-saved-at",
+    "case-rd-c21-silence-2-revision"
+  ],
+  "images": [],
+  "audio": [],
+  "viewport": 1440,
+  "documentWidth": 1440
+}

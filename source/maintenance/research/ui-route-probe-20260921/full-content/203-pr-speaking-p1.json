@@ -1,0 +1,128 @@
+{
+  "requested": "pr-speaking-p1",
+  "from": [
+    "内容单元",
+    "页面链接"
+  ],
+  "actual": "#pr-speaking-p1",
+  "checkedAt": "2026-09-21T12:53:03.246Z",
+  "title": "练习 / 口语 / Speaking Part 1 购物与储蓄 · IELTS",
+  "label": "练习 / 口语 / Speaking Part 1 购物与储蓄",
+  "panel": "practice-speaking",
+  "contentRoot": "pr-speaking-p1",
+  "headings": [],
+  "controls": [
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "Speaking Part 1 购物与储蓄",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "开始录音",
+      "label": "",
+      "href": null,
+      "record": "pr-speaking-p1",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "结束录音",
+      "label": "",
+      "href": null,
+      "stop": "pr-speaking-p1",
+      "visible": true,
+      "disabled": true,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "下载录音",
+      "label": "",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "AUDIO",
+      "id": "",
+      "text": "",
+      "label": "",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "file",
+      "text": "",
+      "label": "载入录音",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "录音文件名 / 要点",
+      "href": null,
+      "save": "pr-speaking-p1-record-note",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "Cambridge IELTS 21 Academic · Test 3 · 物理页75 / 印刷页74",
+      "label": "",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=75",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    }
+  ],
+  "visibleText": "Speaking Part 1 购物与储蓄\n0% · 0 / 0 完成\n\n依次口头回答。\n\nWhen you go shopping, do you usually pay for things by cash or by card?\n\nHave you ever spent money on something you didn't need?\n\nAre you generally careful about how much money you spend?\n\nHow important is it to you to save money for the future?\n\n开始录音结束录音\n载入录音\n\n录音需单独下载保存。\n\n录音文件名 / 要点\n\n选材来源 · Cambridge IELTS 21 Academic · Test 3 · 物理页75 / 印刷页74",
+  "allContent": "Speaking Part 1 购物与储蓄0% · 0 / 0 完成依次口头回答。When you go shopping, do you usually pay for things by cash or by card?Have you ever spent money on something you didn't need?Are you generally careful about how much money you spend?How important is it to you to save money for the future?开始录音结束录音下载录音载入录音 录音需单独下载保存。录音文件名 / 要点选材来源 · Cambridge IELTS 21 Academic · Test 3 · 物理页75 / 印刷页74",
+  "links": [
+    {
+      "text": "Cambridge IELTS 21 Academic · Test 3 · 物理页75 / 印刷页74",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=75"
+    }
+  ],
+  "details": [],
+  "saveFields": [
+    "pr-speaking-p1-record-note"
+  ],
+  "images": [],
+  "audio": [
+    {
+      "src": null,
+      "sources": [],
+      "visible": false,
+      "controls": true
+    }
+  ],
+  "viewport": 1440,
+  "documentWidth": 1440
+}

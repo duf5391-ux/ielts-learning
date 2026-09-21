@@ -1,0 +1,191 @@
+{
+  "reviewer": "authentic_writing_cases, independent of T1/T2 case author",
+  "date": "2026-09-19",
+  "files": [
+    "authentic-reading-cases.json",
+    "reading-remediations.json"
+  ],
+  "scope": {
+    "casesReviewed": 16,
+    "independentOriginalPassages": 6,
+    "focus": [
+      "Semantic sufficiency of cropped context",
+      "Correct and concrete answer explanations",
+      "Original NG versus information lost by cropping",
+      "Exclusion of questions requiring the entire article"
+    ],
+    "rootChecksNotDuplicated": [
+      "Root automatically checked original answer keys119/121",
+      "Root checked paragraph source traceability"
+    ],
+    "originalQuestions": 78
+  },
+  "sourceSnapshotSha256": "cf0f189d3a3c234820fe382b2bc6fc967343d2cb5dd554581e8bc4d14c17a5a5",
+  "caseReviews": [
+    {
+      "caseId": "rd-c21-davies-1",
+      "judgment": "semantic_pass",
+      "notes": "Inheritance, education, notes, journals and childhood-to-philanthropy causation are all present. The advisers contrast does not override the sisters’ agency."
+    },
+    {
+      "caseId": "rd-c21-davies-2",
+      "judgment": "semantic_pass",
+      "notes": "Venice scene / Paris purchase / Bath display are distinct. Champion contradicts opposed. Q11 remains original NOT GIVEN: first public display does not establish popularity."
+    },
+    {
+      "caseId": "rd-c21-davies-3",
+      "judgment": "semantic_pass",
+      "notes": "Friends, post-war reassessment and contemporary neglect of Impressionism are explicit. Ordinary residences/advisers are not conflated with artist friends."
+    },
+    {
+      "caseId": "rd-c21-silence-1",
+      "judgment": "semantic_pass",
+      "notes": "A/B/C retain physiological mechanism / prevalence data / multiple city strategies; Antonio’s forecast is directly attributed. Candidate section list remains complete and crop boundaries are disclosed."
+    },
+    {
+      "caseId": "rd-c21-silence-2",
+      "judgment": "semantic_pass",
+      "notes": "Both studies retain sample size, duration and outcomes: 50/person questionnaire vs48/person MRI. Feinstein attribution remains explicit. The visually confirmed 1-hour OCR correction is now present."
+    },
+    {
+      "caseId": "rd-c21-silence-3",
+      "judgment": "semantic_pass",
+      "notes": "F/G retain voluntariness, garden-vs-silent-room comparison and frequency/duration contrast. All people labels and pronoun referents are resolvable."
+    },
+    {
+      "caseId": "rd-c21-sugar-1",
+      "judgment": "semantic_pass",
+      "notes": "All three local paragraph-function questions retain complete paragraphs and distractor distinctions: subsidy competition, changing sources and correction of plantation misconception."
+    },
+    {
+      "caseId": "rd-c21-sugar-2",
+      "judgment": "semantic_pass",
+      "notes": "Both source paragraphs preserve labour, farm scale, political power, protection and poorer-country consequences. All nine summary options remain present."
+    },
+    {
+      "caseId": "rd-c21-sugar-3",
+      "judgment": "semantic_pass",
+      "notes": "Q30 explicitly asks what the final paragraph suggests; the crop retains the final paragraph plus harm/production context, so its harmful-and-unnecessary inference does not require omitted sections. Q38 is genuine NG: regarded as luxury is not an advertiser’s initial marketing claim."
+    },
+    {
+      "caseId": "rd-c21-dreams-1",
+      "judgment": "semantic_pass",
+      "notes": "Human REM definition and rat/pigeon/whale/dolphin evidence are preserved. Commentary retains uncertainty (may/possibly) and the half-brain reasoning is correct."
+    },
+    {
+      "caseId": "rd-c21-dreams-2",
+      "judgment": "semantic_pass",
+      "notes": "The continuous second half retains memories, limitations, both octopus observations, other-human dreams and sensory differences. NG8/12/13 remain original NG; they do not follow from arbitrary omitted evidence."
+    },
+    {
+      "caseId": "rd-c21-mapungubwe-1",
+      "judgment": "semantic_pass",
+      "notes": "Population peak, surplus trade and the king’s male relatives’ outer residences are all present. King/relative, buried/lived and hectares/population distinctions are correctly explained."
+    },
+    {
+      "caseId": "rd-c21-mapungubwe-2",
+      "judgment": "semantic_pass",
+      "notes": "D–G retain trade, pottery, metalwork and drought context. Two-choice B/D are independently supported; gold currency, most-valuable sceptre and occupational prestige distractors are rejected for the right reasons."
+    },
+    {
+      "caseId": "rd-c21-ai-1",
+      "judgment": "semantic_pass",
+      "notes": "Public perception is separated from author prediction; risk of solutionism is supported by jeopardises and the stated safety/expectation mechanisms."
+    },
+    {
+      "caseId": "rd-c21-ai-2",
+      "judgment": "semantic_pass",
+      "notes": "Government ambitions, neural networks and complete infrastructure/permission/talent paragraph support all five questions. The author’s rejection of instant fairness is correctly distinguished from politicians’ assumption."
+    },
+    {
+      "caseId": "rd-c21-ai-3",
+      "judgment": "semantic_pass",
+      "notes": "Russell/Brooks, adversarial risks and security practice retain their argumentative context. Q37 is original NG; warning against insecure deployment does not prove deployment is always secure. Page48 column order visually verified. Final merged case includes the following three original medical/legal/conclusion paragraphs (7 continuous paragraphs,446 words) and Q34–35. All required evidence is retained; global Q40 remains excluded."
+    }
+  ],
+  "issues": [
+    {
+      "id": "t1t2-cross-01",
+      "caseId": "rd-c21-davies-2",
+      "priority": "low",
+      "issue": "OCR joins the painting title incorrectly as ProvençalL andscape.",
+      "sourcePage": 18,
+      "verifiedOriginal": "Provençal Landscape",
+      "status": "resolved",
+      "verifiedCorrection": "Corrected value is present in final16-case JSON and matches the rendered source page."
+    },
+    {
+      "id": "t1t2-cross-02",
+      "caseId": "rd-c21-silence-2",
+      "priority": "low",
+      "issue": "OCR renders the one-hour duration as I-hour.",
+      "sourcePage": 22,
+      "verifiedOriginal": "1-hour float",
+      "status": "resolved",
+      "verifiedCorrection": "Corrected value is present in final16-case JSON and matches the rendered source page."
+    }
+  ],
+  "visualChecks": [
+    {
+      "page": 48,
+      "purpose": "Confirm actual two-column sequence and medical/legal source context",
+      "image": "writing-source-cache/crossreview-c21-p48.png"
+    },
+    {
+      "page": 18,
+      "purpose": "Verify painting title spelling",
+      "image": "writing-source-cache/crossreview-c21-p18.png"
+    },
+    {
+      "page": 22,
+      "purpose": "Verify experiment duration character",
+      "image": "writing-source-cache/crossreview-c21-p22.png"
+    }
+  ],
+  "remediationsReview": {
+    "replacements": 11,
+    "supplements": 1,
+    "auditIds": [
+      "audit-001",
+      "audit-002",
+      "audit-003",
+      "audit-004",
+      "audit-005",
+      "audit-006",
+      "audit-007",
+      "audit-008",
+      "audit-009",
+      "audit-010",
+      "audit-011",
+      "audit-101"
+    ],
+    "judgment": "pass",
+    "notes": [
+      "All11 replacements now use specific source questions, concrete official answers and explanatory source evidence.",
+      "Miles Q14=viii and Q15=iii independently checked against the original teacher answer page and full original A/B paragraphs.",
+      "Diagram Q6 South African / Q7 French / Q8 Spanish independently checked against the original diagram and answer page.",
+      "The audit101 supplement explicitly retains the earlier questionable status and does not certify the retained old example.",
+      "All existing Cambridge21 answer examples agree with previously semantically reviewed cases; no invented main teaching scenario remains in these12 authored entries."
+    ]
+  },
+  "judgment": "PASS: final16 Cambridge21 cases,11 replacements and1 supplement satisfy the reviewed semantic and evidence requirements. Both minor OCR findings are resolved. An additional6 official cases/23questions match original keys and the diagram/table images do not disclose filled answers.",
+  "officialCasesIncrementalReview": {
+    "file": "authentic-reading-official-cases.json",
+    "cases": 6,
+    "originalQuestions": 23,
+    "judgment": "pass",
+    "keyChecks": {
+      "Miles14-19": "viii,iii,i,ix,iv,vi — original teacher feedback PDF2",
+      "OlderWorkers1-4": "A,C,D,B — original answer PDF1",
+      "Diagram6-8": "South African,French,Spanish — original answer PDF3",
+      "Table9-13": "temperate;early spring;two to five/2-5;sub-tropical;South African tunneling/tunnelling — original answer PDF3",
+      "ShortAnswer4-8": "pieces of metal;(on) the bottom;$5;(the) Retailing Manager;$50,000 — original answer PDF2"
+    },
+    "visualChecks": [
+      "Viewed official-diagram-original.png: numbered6–8 blanks, depth axis and complete choice box; no filled answer labels.",
+      "Viewed official-table-original.png: numbered9–13 blanks with original given cells; no filled answers."
+    ],
+    "issues": []
+  },
+  "remainingOpenIssues": []
+}

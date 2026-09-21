@@ -1,0 +1,620 @@
+{
+  "requested": "guide",
+  "from": [
+    "主面板",
+    "页面链接",
+    "导航按钮"
+  ],
+  "actual": "#guide",
+  "checkedAt": "2026-09-21T12:50:28.779Z",
+  "title": "直接开始学习 · IELTS",
+  "label": "直接开始学习",
+  "panel": "guide",
+  "contentRoot": "guide",
+  "headings": [
+    {
+      "tag": "H1",
+      "text": "学习首页",
+      "visible": false
+    },
+    {
+      "tag": "H2",
+      "text": "先理解，再把英语用起来。",
+      "visible": false
+    },
+    {
+      "tag": "H2",
+      "text": "这一轮，从背景开始",
+      "visible": false
+    },
+    {
+      "tag": "H2",
+      "text": "四科训练，各有重点",
+      "visible": false
+    },
+    {
+      "tag": "H3",
+      "text": "找到判断的证据",
+      "visible": false
+    },
+    {
+      "tag": "H3",
+      "text": "听清最终要填什么",
+      "visible": false
+    },
+    {
+      "tag": "H3",
+      "text": "把图表讲清楚",
+      "visible": false
+    },
+    {
+      "tag": "H3",
+      "text": "让理由站得住",
+      "visible": false
+    },
+    {
+      "tag": "H3",
+      "text": "说清物品的意义",
+      "visible": false
+    },
+    {
+      "tag": "H2",
+      "text": "先从这些话题读起",
+      "visible": false
+    },
+    {
+      "tag": "H3",
+      "text": "教育",
+      "visible": false
+    },
+    {
+      "tag": "H3",
+      "text": "工作",
+      "visible": false
+    },
+    {
+      "tag": "H3",
+      "text": "科技",
+      "visible": false
+    },
+    {
+      "tag": "H3",
+      "text": "今天少一点，也可以。",
+      "visible": false
+    },
+    {
+      "tag": "H1",
+      "text": "今天想学什么",
+      "visible": false
+    },
+    {
+      "tag": "H2",
+      "text": "学会一个具体用法",
+      "visible": false
+    },
+    {
+      "tag": "H2",
+      "text": "直接练一项",
+      "visible": false
+    },
+    {
+      "tag": "H2",
+      "text": "完整做一套",
+      "visible": false
+    },
+    {
+      "tag": "H2",
+      "text": "今天选的内容",
+      "visible": false
+    },
+    {
+      "tag": "H1",
+      "text": "留一点时间，学会一点。",
+      "visible": true
+    },
+    {
+      "tag": "H2",
+      "text": "今天学多久",
+      "visible": true
+    },
+    {
+      "tag": "H2",
+      "text": "今天学什么",
+      "visible": true
+    },
+    {
+      "tag": "H2",
+      "text": "今天的安排",
+      "visible": true
+    }
+  ],
+  "controls": [
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "进入 →",
+      "label": "",
+      "href": "#writing-workbench",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "进入定制学习 →",
+      "label": "",
+      "href": "#course-window",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "查看全部新增与补齐内容 →",
+      "label": "",
+      "href": "#resource-update",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "从话题背景开始",
+      "label": "",
+      "href": "#background",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "next-link",
+      "type": "",
+      "text": "选一个话题",
+      "label": "",
+      "href": "#background",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "01先有内容12 个主题 · 6 段日常语境",
+      "label": "",
+      "href": "#background",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "02再找表达24 个词 · 20 组用法",
+      "label": "",
+      "href": "#vocabulary",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "03带进自己的答案四科分别练习与修订",
+      "label": "",
+      "href": "#reading",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "怎样安排",
+      "label": "",
+      "href": "#plan",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "待开始READING找到判断的证据完整文章 · 13 道题20 分钟首答",
+      "label": "",
+      "href": "#reading",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "待开始LISTENING听清最终要填什么原声 + 表格 · 8 道题首轮约 25 分钟",
+      "label": "",
+      "href": "#listening",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "待开始WRITING 01把图表讲清楚就业折线图 · 初稿与修订20 分钟初稿",
+      "label": "",
+      "href": "#writing1",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "待开始WRITING 02让理由站得住文化娱乐 · 观点与论证40 分钟初稿",
+      "label": "",
+      "href": "#writing2",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "待开始SPEAKING说清物品的意义Part 2 题卡 · 真实录音首轮约 15 分钟",
+      "label": "",
+      "href": "#speaking",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "全部话题",
+      "label": "",
+      "href": "#background",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "01教育access to education / practical skills",
+      "label": "",
+      "href": "#topic-education",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "02工作job security / flexible working arrangements",
+      "label": "",
+      "href": "#topic-work",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "03科技digital access / automation",
+      "label": "",
+      "href": "#topic-technology",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "把学习放进日常",
+      "label": "",
+      "href": "#plan",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "选择学习内容 →",
+      "label": "",
+      "href": "#study",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "选择练习 →",
+      "label": "",
+      "href": "#practice",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "进入测试 →",
+      "label": "",
+      "href": "#tests",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "← 返回学习",
+      "label": "",
+      "href": "#study",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "15 分钟\n轻量练习",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "30 分钟\n日常积累",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "60 分钟\n深入练习",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "帮我安排",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "阅读后写作",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "听力",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "阅读",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "写作",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "口语",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "词汇与短语",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "共用背景",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "ds-start",
+      "type": "button",
+      "text": "直接开始学习\n→",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    }
+  ],
+  "visibleText": "← 返回学习\n\nYOUR DAILY PRACTICE\n\n留一点时间，学会一点。\n\n今天的内容已经安排好，也可以按你的想法来。\n\n9月21日星期一\n01\n今天学多久\n建议用时，按自己的节奏\n15 分钟\n轻量练习\n30 分钟\n日常积累\n60 分钟\n深入练习\n02\n今天学什么\n最多选 2 个板块\n帮我安排\n阅读后写作\n听力\n阅读\n写作\n口语\n词汇与短语\n共用背景\n\n先专注一个板块。完成后，可根据你的反馈继续巩固或换个内容。\n\n直接开始学习\n→\n30 分钟 · 4 步\n\n直接进入第一步；已经做过的材料可以作为复习。\n\nTODAY'S PLAN\n\n今天的安排\n约 30 分钟\n\n听力 · 先从听力开始；也可以按你的需要换板块。\n\n1\n读题，确定要听什么\n5 分钟\n\n读社区活动第11–16题，圈出每题要听的信息和字数限制。先不展开答案。\n\n2\n听原音，留下自己的答案\n15 分钟\n\n播放本题原音，完成第11–16题。先独立写答案，再回听不确定的位置。\n\n3\n核对，再听清一处\n8 分钟\n\n核对答案与字数；选择两处漏听内容，回到原音听清，再遮住答案复述。\n\n4\n留一个下次要听清的点\n2 分钟\n\n说出这次最容易混淆的一处信息。可以用下方「随手记」留下问题；不用为了完成而填写笔记。\n\n完成一步，再进入下一步。计时结束不会打断作答。",
+  "allContent": "写作工作台选题、审题、限时首稿、四维检查与修订，每题单独保存。进入 →把你的材料，做成贴合考试的课程给出技巧、语料或词汇；选取相关考试材料，配上讲解和分阶段练习。进入定制学习 →本轮新增 32 个教学单元 · 136 组用法口语话题优先，四科资源扩充；新学和复习并行，各单元均可直接开始。查看全部新增与补齐内容 →YOUR LEARNING DESK学习首页第一册 · 本地学习 给理解留一点时间先理解，再把英语用起来。从一个话题、一段语境开始。读懂内容，积累表达，自己试着用。从话题背景开始 CONTEXTIELTS / FIELD NOTESWordsin use.READ · THINK · EXPRESSLearn at your own pace.YOUR NEXT STEP这一轮，从背景开始选一个熟悉的主题，看看意思如何组织成自然的英语。原五章首次作答已保留0 / 5选一个话题 按自己的节奏完成，记录真实的进步。01先有内容12 个主题 · 6 段日常语境02再找表达24 个词 · 20 组用法03带进自己的答案四科分别练习与修订PRACTICE WITH PURPOSE四科训练，各有重点怎样安排 待开始READING找到判断的证据完整文章 · 13 道题20 分钟首答待开始LISTENING听清最终要填什么原声 + 表格 · 8 道题首轮约 25 分钟待开始WRITING 01把图表讲清楚就业折线图 · 初稿与修订20 分钟初稿待开始WRITING 02让理由站得住文化娱乐 · 观点与论证40 分钟初稿待开始SPEAKING说清物品的意义Part 2 题卡 · 真实录音首轮约 15 分钟BUILD YOUR BACKGROUND先从这些话题读起全部话题 01教育access to education / practical skills02工作job security / flexible working arrangements03科技digital access / automation↗今天少一点，也可以。选一段背景，留意两三组表达。隔天换一个场景再用一次。把学习放进日常 IELTS / MY STUDY今天想学什么接着学、按顺序做一组，或者直接挑一项。LEARN学会一个具体用法讲解、例子和配套练习放在一起。选择学习内容 →PRACTISE直接练一项按科目、话题或题型挑选。选择练习 →TEST完整做一套四科组合，或单独完成一科。进入测试 →今天选的内容0% · 0 / 0 项从学习或练习中挑几项，加入今天；也可以直接开始。← 返回学习\nYOUR DAILY PRACTICE留一点时间，学会一点。今天的内容已经安排好，也可以按你的想法来。9月21日星期一\n\n\n\n01今天学多久建议用时，按自己的节奏\n\n15 分钟轻量练习\n30 分钟日常积累\n60 分钟深入练习\n\n02今天学什么最多选 2 个板块\n帮我安排阅读后写作听力阅读写作口语词汇与短语共用背景\n先专注一个板块。完成后，可根据你的反馈继续巩固或换个内容。\n直接开始学习→30 分钟 · 4 步\n直接进入第一步；已经做过的材料可以作为复习。\n\n\nTODAY'S PLAN今天的安排约 30 分钟\n听力 · 先从听力开始；也可以按你的需要换板块。\n1读题，确定要听什么5 分钟读社区活动第11–16题，圈出每题要听的信息和字数限制。先不展开答案。2听原音，留下自己的答案15 分钟播放本题原音，完成第11–16题。先独立写答案，再回听不确定的位置。3核对，再听清一处8 分钟核对答案与字数；选择两处漏听内容，回到原音听清，再遮住答案复述。4留一个下次要听清的点2 分钟说出这次最容易混淆的一处信息。可以用下方「随手记」留下问题；不用为了完成而填写笔记。\n完成一步，再进入下一步。计时结束不会打断作答。\n\n\n\n<p>请开启 JavaScript 后选择安排；下方的学习内容仍可直接阅读。</p>\n",
+  "links": [
+    {
+      "text": "进入 →",
+      "href": "#writing-workbench"
+    },
+    {
+      "text": "进入定制学习 →",
+      "href": "#course-window"
+    },
+    {
+      "text": "查看全部新增与补齐内容 →",
+      "href": "#resource-update"
+    },
+    {
+      "text": "从话题背景开始",
+      "href": "#background"
+    },
+    {
+      "text": "选一个话题",
+      "href": "#background"
+    },
+    {
+      "text": "01先有内容12 个主题 · 6 段日常语境",
+      "href": "#background"
+    },
+    {
+      "text": "02再找表达24 个词 · 20 组用法",
+      "href": "#vocabulary"
+    },
+    {
+      "text": "03带进自己的答案四科分别练习与修订",
+      "href": "#reading"
+    },
+    {
+      "text": "怎样安排",
+      "href": "#plan"
+    },
+    {
+      "text": "待开始READING找到判断的证据完整文章 · 13 道题20 分钟首答",
+      "href": "#reading"
+    },
+    {
+      "text": "待开始LISTENING听清最终要填什么原声 + 表格 · 8 道题首轮约 25 分钟",
+      "href": "#listening"
+    },
+    {
+      "text": "待开始WRITING 01把图表讲清楚就业折线图 · 初稿与修订20 分钟初稿",
+      "href": "#writing1"
+    },
+    {
+      "text": "待开始WRITING 02让理由站得住文化娱乐 · 观点与论证40 分钟初稿",
+      "href": "#writing2"
+    },
+    {
+      "text": "待开始SPEAKING说清物品的意义Part 2 题卡 · 真实录音首轮约 15 分钟",
+      "href": "#speaking"
+    },
+    {
+      "text": "全部话题",
+      "href": "#background"
+    },
+    {
+      "text": "01教育access to education / practical skills",
+      "href": "#topic-education"
+    },
+    {
+      "text": "02工作job security / flexible working arrangements",
+      "href": "#topic-work"
+    },
+    {
+      "text": "03科技digital access / automation",
+      "href": "#topic-technology"
+    },
+    {
+      "text": "把学习放进日常",
+      "href": "#plan"
+    },
+    {
+      "text": "选择学习内容 →",
+      "href": "#study"
+    },
+    {
+      "text": "选择练习 →",
+      "href": "#practice"
+    },
+    {
+      "text": "进入测试 →",
+      "href": "#tests"
+    },
+    {
+      "text": "← 返回学习",
+      "href": "#study"
+    }
+  ],
+  "details": [],
+  "saveFields": [],
+  "images": [],
+  "audio": [],
+  "viewport": 1440,
+  "documentWidth": 1440
+}

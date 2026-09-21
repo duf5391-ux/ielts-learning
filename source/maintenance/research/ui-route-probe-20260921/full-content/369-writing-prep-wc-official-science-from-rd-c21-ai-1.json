@@ -1,0 +1,310 @@
+{
+  "requested": "writing-prep-wc-official-science-from-rd-c21-ai-1",
+  "from": [
+    "页面链接"
+  ],
+  "actual": "#writing-prep-wc-official-science-from-rd-c21-ai-1",
+  "checkedAt": "2026-09-21T12:55:41.692Z",
+  "title": "练习 / 写作 · Task 2 / 科研由政府控制：公共利益与研究多样性 · IELTS",
+  "label": "练习 / 写作 · Task 2 / 科研由政府控制：公共利益与研究多样性",
+  "panel": "practice-writing2",
+  "contentRoot": "writing2-case-wc-official-science",
+  "headings": [
+    {
+      "tag": "H3",
+      "text": "写作前置 · 文中表达",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "shed light on",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "setting unrealistic expectations about",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "appropriate data infrastructure",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "reap the benefits of",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "minimise the potential harms",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "be aware of the limitations of",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "本次写作任务",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "对照答案，回到证据",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "参考写法",
+      "visible": false
+    },
+    {
+      "tag": "H3",
+      "text": "答后精读",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "篇章结构",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "词语与搭配",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "句子精读",
+      "visible": false
+    }
+  ],
+  "controls": [
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "科研由政府控制：公共利益与研究多样性未作答\n同意程度 · 原题拆段写作 · 参考段落与逐段讲解",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "IELTS Academic Writing — modified large print",
+      "label": "",
+      "href": "case-assets/writing-official-large-print.pdf#page=10",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "Do animals dream?｜章鱼行为与研究边界",
+      "label": "",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "回到这份材料的精读",
+      "label": "",
+      "href": "#material-reading-rd-c21-dreams-2",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "Artificial Intelligence｜公众想象与解决一切的误区",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "回到这份材料的精读",
+      "label": "",
+      "href": "#material-reading-rd-c21-ai-1",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "Artificial Intelligence｜公共部门实施条件",
+      "label": "",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "回到这份材料的精读",
+      "label": "",
+      "href": "#material-reading-rd-c21-ai-2",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "Artificial Intelligence｜部署边界、医疗与司法案例",
+      "label": "",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "回到这份材料的精读",
+      "label": "",
+      "href": "#material-reading-rd-c21-ai-3",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "case-wc-official-science-answer",
+      "type": "textarea",
+      "text": "",
+      "label": "我的段落",
+      "href": null,
+      "save": "case-wc-official-science-answer",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "checkbox",
+      "text": "",
+      "label": "",
+      "href": null,
+      "save": "case-wc-official-science-done",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "hidden",
+      "text": "",
+      "label": "",
+      "href": null,
+      "save": "case-wc-official-science-saved-at",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "保留作答，查看答案",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "case-wc-official-science-revision",
+      "type": "textarea",
+      "text": "",
+      "label": "我的修订／证据笔记",
+      "href": null,
+      "save": "case-wc-official-science-revision",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    }
+  ],
+  "visibleText": "科研由政府控制：公共利益与研究多样性未作答\n同意程度 · 原题拆段写作 · 参考段落与逐段讲解\n0% · 0 / 1 完成\n\n官方样题 · IELTS Academic Writing — modified large print · PDF 第 10 页\n\n写作前置 · 文中表达\n\n这里是所选阅读材料中适合本题的表达；例句按本题语境编写。\n\nArtificial Intelligence｜公众想象与解决一切的误区\nsetting unrealistic expectations about\n\n对……设定不切实际的预期\n\n可在avoid等动词后保留setting形式，具体说明期待的成果或时间；不把所有期待都说成不切实际。\n\n本题例句 · 编写示范\n\nGovernments should avoid setting unrealistic expectations about how quickly publicly funded research can produce practical benefits.\n\n自编例句，贴合政府科研职责，说明资助研究时如何理解成果周期；并不据此推出应排除私营研究。\n\n回到这份材料的精读\n\nScientific research should be carried out and controlled by governments, rather than by private companies. To what extent do you agree or disagree?\n\n本次写作任务\n\n写两个主体段，约170–210词。区分carried out与controlled：政府监督不必等于政府独占全部执行；针对题中的排他性rather than表态。\n\n我的段落\n\n0 词\n\n保留作答，查看答案\n\n先作答；不确定的题也可记录判断与疑点。",
+  "allContent": "科研由政府控制：公共利益与研究多样性未作答同意程度 · 原题拆段写作 · 参考段落与逐段讲解0% · 0 / 1 完成官方样题 · IELTS Academic Writing — modified large print · PDF 第 10 页写作前置 · 文中表达这里是所选阅读材料中适合本题的表达；例句按本题语境编写。Do animals dream?｜章鱼行为与研究边界shed light on帮助增进理解常见搭配是research/findings may shed light on a process or question。适合讨论基础研究的潜在贡献，同时保留may、could等程度词，不把研究方向写成已经证实的成果。本题例句 · 编写示范Public funding can support basic research that may shed light on how memory works, even when there is no immediate commercial return.科研由政府还是企业控制的题目涉及研究激励；该表达可用于说明公共资金支持无即时商业回报的基础研究这一理由。它是写作中的政策论点，不是原文对资助模式作出的结论。回到这份材料的精读Artificial Intelligence｜公众想象与解决一切的误区setting unrealistic expectations about对……设定不切实际的预期可在avoid等动词后保留setting形式，具体说明期待的成果或时间；不把所有期待都说成不切实际。本题例句 · 编写示范Governments should avoid setting unrealistic expectations about how quickly publicly funded research can produce practical benefits.自编例句，贴合政府科研职责，说明资助研究时如何理解成果周期；并不据此推出应排除私营研究。回到这份材料的精读Artificial Intelligence｜公共部门实施条件appropriate data infrastructure合适的数据基础设施适合具体说明公共科研投入的基础条件；搭配provide或develop时仍需交代研究用途。本题例句 · 编写示范Government funding can provide appropriate data infrastructure for long-term environmental research whose commercial returns are uncertain.自编例句，贴合政府资助具有公共价值、商业回报不确定的科研，具体化资金可以支持什么；不是说科研只能由政府执行。reap the benefits of实际获得……的益处后接能够说明来源的资源、经验或合作成果，避免只写空泛的benefits。本题例句 · 编写示范Public laboratories may reap the benefits of specialist knowledge held by private companies if they are allowed to collaborate.自编例句，直接回应政府与私企研究是否应排他：用有条件的合作说明可以利用不同主体的专业知识。回到这份材料的精读Artificial Intelligence｜部署边界、医疗与司法案例minimise the potential harms尽量减少潜在伤害适合与审查、监管和试验条件相连；不能声称审查可以保证消除全部风险。本题例句 · 编写示范Independent review can help both public and private laboratories minimise the potential harms of experimental treatments.自编例句，直接回应科研应如何受到控制：提出可适用于公共和私营实验室的审查安排，不把监管等同于政府独占所有研究。be aware of the limitations of认识到……的局限后接具体技术或方法；认识边界服务于判断用途，避免演变成空泛反科技态度。本题例句 · 编写示范Research regulators need to be aware of the limitations of a new technology before approving its wider use.自编例句，贴合政府科研监督职责，把能力边界与是否批准扩大应用联系起来。回到这份材料的精读Scientific research should be carried out and controlled by governments, rather than by private companies. To what extent do you agree or disagree?本次写作任务写两个主体段，约170–210词。区分carried out与controlled：政府监督不必等于政府独占全部执行；针对题中的排他性rather than表态。我的段落0 词保留作答，查看答案先作答；不确定的题也可记录判断与疑点。对照答案，回到证据参考写法下列段落为针对原题编写的参考写法，用于对照内容和表达；写作没有唯一标准答案。Government involvement in research is essential where the public benefit is large but the prospect of commercial profit is uncertain. Long-term environmental monitoring, for example, may be socially valuable even when no product can immediately be sold. Public funding can support this work and make its findings available for wider use. Governments also have a responsibility to establish ethical rules and require appropriate safety checks. Leaving every decision to firms seeking a financial return could mean that important questions receive too little attention.However, these arguments do not justify excluding private companies from carrying out research. A firm developing a new material or production method may combine specialist knowledge with the ability to turn a discovery into a usable product. If only government bodies conducted research, potentially useful lines of investigation could be lost. I therefore support public oversight and substantial government funding, but not an exclusive government monopoly. Clear standards, transparent reporting and independent review can apply to both public and private laboratories. This arrangement recognises the risks of commercial interests while retaining the different resources and expertise that companies can contribute.第一段支持公共资助与伦理规则；第二段明确反对排除私企。与原题控制/执行两个动作分别对应。环境监测和新材料为合理例子，没有伪造研究结果或真实机构案例。立场并非第一段同意、第二段反悔：始终赞成监管，反对政府独占。答后精读篇章结构公共利益及市场激励不足—政府职责。私人研发贡献—反对独占—说明公共监督如何与多元执行共存。词语与搭配public oversight：监督，不等于所有研究由政府亲自完成。an exclusive government monopoly：准确回应rather than的排他意味。apply to both public and private laboratories：保持规则一致。句子精读These arguments do not justify excluding private companies ... → These arguments回指公共利益和伦理需求，解释它们不足以推出独占。... while retaining ... → 同时实现监督和利用不同资源。我的修订／证据笔记",
+  "links": [
+    {
+      "text": "IELTS Academic Writing — modified large print",
+      "href": "case-assets/writing-official-large-print.pdf#page=10"
+    },
+    {
+      "text": "回到这份材料的精读",
+      "href": "#material-reading-rd-c21-dreams-2"
+    },
+    {
+      "text": "回到这份材料的精读",
+      "href": "#material-reading-rd-c21-ai-1"
+    },
+    {
+      "text": "回到这份材料的精读",
+      "href": "#material-reading-rd-c21-ai-2"
+    },
+    {
+      "text": "回到这份材料的精读",
+      "href": "#material-reading-rd-c21-ai-3"
+    }
+  ],
+  "details": [
+    {
+      "id": "writing-prep-wc-official-science-from-rd-c21-dreams-2",
+      "title": "Do animals dream?｜章鱼行为与研究边界",
+      "open": false,
+      "visible": false
+    },
+    {
+      "id": "writing-prep-wc-official-science-from-rd-c21-ai-1",
+      "title": "Artificial Intelligence｜公众想象与解决一切的误区",
+      "open": true,
+      "visible": true
+    },
+    {
+      "id": "writing-prep-wc-official-science-from-rd-c21-ai-2",
+      "title": "Artificial Intelligence｜公共部门实施条件",
+      "open": false,
+      "visible": false
+    },
+    {
+      "id": "writing-prep-wc-official-science-from-rd-c21-ai-3",
+      "title": "Artificial Intelligence｜部署边界、医疗与司法案例",
+      "open": false,
+      "visible": false
+    }
+  ],
+  "saveFields": [
+    "case-wc-official-science-answer",
+    "case-wc-official-science-done",
+    "case-wc-official-science-saved-at",
+    "case-wc-official-science-revision"
+  ],
+  "images": [],
+  "audio": [],
+  "viewport": 1440,
+  "documentWidth": 1440
+}

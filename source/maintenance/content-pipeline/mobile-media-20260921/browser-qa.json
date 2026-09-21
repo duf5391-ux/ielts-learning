@@ -1,0 +1,34 @@
+{
+  "candidate_sha256": "7ea735c348907a20b6b808ee403423aea263c29811071067ddca41fa85bfce44",
+  "progressive_entry_sha256": "f5eedbc537283fd4edb1a36782e98559ed776e62ba38d87eeec833ad932761c7",
+  "loader_sha256": "df3d0987757563f6b6dd0333b1da1ea52768b4bd79900e5f9f3ac6b80040d801",
+  "method": "CUA real in-app browser on loopback port 8881; synthetic test value only; compressed dictionary dependencies from current web-publication/dist",
+  "passed": true,
+  "observations": {
+    "loading_shell_visible_before_fields": true,
+    "progressive_ready": true,
+    "saved_field_count": 3353,
+    "inline_media_count": 0,
+    "lazy_images": 58,
+    "audio_preload_none": 32,
+    "workbenches_separate": true,
+    "desktop_no_horizontal_overflow": {"width": 1265, "scrollWidth": 1265},
+    "phone_no_horizontal_overflow": {"width": 375, "scrollWidth": 375},
+    "phone_menu_route_switch": true,
+    "deep_link": "#pr-jijing-202609-reading-01-v1",
+    "synthetic_answer_restored_after_reload": true,
+    "synthetic_answer_cleared_after_check": true,
+    "restored_progress": "7% · 1 / 14 作答与核对",
+    "dictionary_query": "sustainable",
+    "dictionary_result": "本地英汉词典; a. 足可支撑的, 养得起的, 可以忍受的",
+    "audio": {"selector":"#listening-first audio", "currentTime":52.092342,"duration":154.592653,"readyState":4,"error":null,"paused_after_check":true},
+    "original_images": {"route":"#reading-text-miles","count":4,"complete":true,"naturalWidth":951,"naturalHeight":1345}
+  },
+  "resolved_preview_failure": "Initial preview omitted compressed dictionary shard dependencies and returned one 404. Copied all 708 existing public dictionary dependency files and retried successfully; exact hashed controller passed SRI.",
+  "limitations": [
+    "Desktop browser at phone dimensions; not a physical phone performance benchmark.",
+    "Loopback verification does not prove access from every country or ISP.",
+    "Final public build adds hosting metadata/icons and requires deployment-owner verification."
+  ],
+  "real_user_records_read": false
+}

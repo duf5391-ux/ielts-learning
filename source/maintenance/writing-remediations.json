@@ -1,0 +1,337 @@
+{
+  "date": "2026-09-19",
+  "replacements": [
+    {
+      "auditId": "audit-012",
+      "title": "读图起手：用真实就业图核对对象、单位与时间",
+      "caseIds": [
+        "wc-c21-t1-jobs",
+        "wc-official-bicycle"
+      ],
+      "teachingHtml": "\n<p>先读剑桥21 Test 1 的就业原图。题干的对象是美国四个行业的 <strong>number of jobs</strong>，纵轴是 <strong>millions</strong>，横轴是1960、1980、2000、2020。三个信息决定你只能描述“岗位数随时间变化”，不能写工资、人数占比或失业率。</p>\n<p><strong>核对答案：</strong>制造业1960年为15 million，1980年20 million，2000年约17 million，2020年13 million。因此“Manufacturing employment declined throughout the period”不成立：它先升后降。可改成：<em>Manufacturing employment rose from 15 million in 1960 to a peak of 20 million in 1980, before falling to 13 million by 2020.</em></p>\n<p>把同一读图动作迁移到官方自行车表格：该表只给June 2011一个时点，行是年龄组，列是male/female。<strong>51.3%是0–9岁男性组的骑车比例，不是所有骑车者中男孩占51.3%</strong>。年龄组差异也不能当成同一批人多年后的变化。</p>\n<p>本题先答四项再写：①量的名称是什么？②单位是什么？③横轴是时间还是类别？④能比较的分母是否相同？核对答案分别为就业图的jobs / millions / 时间 / 同一单位岗位数；自行车表为participation / % / 年龄类别 / 各年龄与性别组内部比例。</p>\n<p class=\"case-related\">对应原题练习：<a href=\"#wc-c21-t1-jobs\">美国四行业就业：峰值、交叉与最终排名</a> · <a href=\"#wc-official-bicycle\">自行车使用率：年龄比较与百分点差</a></p>",
+      "newStatus": "达标",
+      "reason": "已撤换自编图表，以C21原图和官方原表进行对象、单位及时间口径核验；提供具体错误句及有数据的修正。",
+      "sourceRefs": [
+        {
+          "label": "Cambridge IELTS 21 Academic · Test 1 · Task 1 · PDF 30 页",
+          "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=30",
+          "local_path": "C:\\Users\\Admin1\\Documents\\Codex\\2026-09-12\\referenced-chatgpt-conversation-this-is-an\\outputs\\IELTS-四科学习册\\原始参考\\8ee8170c-Cambridge IELTS 21 - Academic.pdf",
+          "exists": true
+        },
+        {
+          "label": "IELTS Academic Writing — modified large print · Task 1 · PDF 4 页",
+          "href": "case-assets/writing-official-large-print.pdf#page=4",
+          "local_path": "C:\\Users\\Admin1\\Documents\\Codex\\2026-09-12\\referenced-chatgpt-conversation-this-is-an\\outputs\\IELTS-四科学习册\\case-assets\\writing-official-large-print.pdf",
+          "exists": true
+        }
+      ],
+      "verification": {
+        "source_traceability": "每题可追溯到本地原始PDF页",
+        "composition": "原题/原图保持；参考写法明确原创",
+        "context_sufficiency": "保留完整写作题干与完整图形，段落练习不改变原任务",
+        "answer_evidence": "下文具体回答与图中数字、题干对象逐项对应"
+      }
+    },
+    {
+      "auditId": "audit-013",
+      "title": "Overview：用真实原图找全局关系，再选择证据",
+      "caseIds": [
+        "wc-c21-t4-library",
+        "wc-official-audiences"
+      ],
+      "teachingHtml": "\n<p>Overview不是把几个最大数字连在一起。剑桥21图书馆题同时含“用户构成”和“服务满意度”，因此总览应覆盖两种信息。饼图最大项是全日制本科生44%，最小项是academic staff 7%；满意度里staff helpfulness最佳，journals与wi-fi负面反馈最多。</p>\n<p><strong>可直接核对的参考总览：</strong><em>Overall, full-time undergraduates formed the largest group of library users, while academic staff accounted for the smallest share. Satisfaction was strongest for staff helpfulness, whereas journals and wi-fi attracted the highest proportions of dissatisfied responses.</em></p>\n<p>为什么不在总览里抄完所有数字？主体段才用95% very satisfied与20%/19% not satisfied证明判断。注意表格有三列：不能把“fairly satisfied”与“不满意”混在一起。</p>\n<p>再看官方广播/电视折线图。这里最值得写的不是起点都小，而是峰值时段错开、电视峰值更高。<strong>参考总览：</strong><em>Radio attracted its largest audience in the morning, while television viewing peaked in the evening. Television reached a substantially higher peak, and both audiences were small during the early hours.</em>主体证据是广播约27%在早上8点附近，电视约45–47%在晚8点附近。先给关系，再用数据证明关系。</p>\n<p class=\"case-related\">对应原题练习：<a href=\"#wc-c21-t4-library\">图书馆用户与满意度：两图的不同分母</a> · <a href=\"#wc-official-audiences\">广播与电视受众：同一天的双峰比较</a></p>",
+      "newStatus": "达标",
+      "reason": "已用两道独立官方原题展示总览与证据的对应关系，替代泛化/自编范例；总览覆盖每张图。",
+      "sourceRefs": [
+        {
+          "label": "Cambridge IELTS 21 Academic · Test 4 · Task 1 · PDF 95 页",
+          "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=95",
+          "local_path": "C:\\Users\\Admin1\\Documents\\Codex\\2026-09-12\\referenced-chatgpt-conversation-this-is-an\\outputs\\IELTS-四科学习册\\原始参考\\8ee8170c-Cambridge IELTS 21 - Academic.pdf",
+          "exists": true
+        },
+        {
+          "label": "IELTS Academic Writing Sample Tasks (2023) · Task 1B · PDF 4 页",
+          "href": "case-assets/writing-official-sample-tasks-2023.pdf#page=4",
+          "local_path": "C:\\Users\\Admin1\\Documents\\Codex\\2026-09-12\\referenced-chatgpt-conversation-this-is-an\\outputs\\IELTS-四科学习册\\case-assets\\writing-official-sample-tasks-2023.pdf",
+          "exists": true
+        }
+      ],
+      "verification": {
+        "source_traceability": "每题可追溯到本地原始PDF页",
+        "composition": "原题/原图保持；参考写法明确原创",
+        "context_sufficiency": "保留完整写作题干与完整图形，段落练习不改变原任务",
+        "answer_evidence": "下文具体回答与图中数字、题干对象逐项对应"
+      }
+    },
+    {
+      "auditId": "audit-014",
+      "title": "数据精确表达：真实表格里的百分点、比例和近似值",
+      "caseIds": [
+        "wc-official-bicycle",
+        "wc-c21-t4-library"
+      ],
+      "teachingHtml": "\n<p>官方自行车表格的10–17岁一行：male 42.2%，female 24.6%。<strong>差值标准答案是42.2−24.6=17.6个百分点</strong>。参考句：<em>The male participation rate was 17.6 percentage points higher than the female rate among 10–17-year-olds.</em></p>\n<p>“higher by 17.6%”不是同一意思：相对差需要以24.6为基数，(42.2−24.6)/24.6≈71.5%。原题描述没有必要引入这个更复杂的换算；用17.6 percentage points既直接又准确。0–9岁51.3%与50.3%之差则只有1.0个百分点。</p>\n<p>剑桥21图书馆表也可核对：staff helpfulness的very satisfied为95%，opening hours为65%，差30个百分点。<em>The proportion who were very satisfied with staff helpfulness was 30 percentage points higher than the figure for opening hours.</em>这是静态比较，不能写“rose by 30 percentage points”，因为题中没有前后年份。</p>\n<p>读精确表格按给定小数写；读粗线图用about/approximately。两个不同群体的百分比相加前先检查分母：图书馆25%全日制研究生+16%非全日制研究生可以合为41%，因为二者是同一用户总体中的互斥类别；自行车不同年龄组的比例不能随意相加成总体骑行率。</p>\n<p class=\"case-related\">对应原题练习：<a href=\"#wc-official-bicycle\">自行车使用率：年龄比较与百分点差</a> · <a href=\"#wc-c21-t4-library\">图书馆用户与满意度：两图的不同分母</a></p>",
+      "newStatus": "达标",
+      "reason": "全部数值来自官方原表，验证17.6、1.0、30个百分点及41%合并依据，提供具体参考句与错误边界。",
+      "sourceRefs": [
+        {
+          "label": "IELTS Academic Writing — modified large print · Task 1 · PDF 4 页",
+          "href": "case-assets/writing-official-large-print.pdf#page=4",
+          "local_path": "C:\\Users\\Admin1\\Documents\\Codex\\2026-09-12\\referenced-chatgpt-conversation-this-is-an\\outputs\\IELTS-四科学习册\\case-assets\\writing-official-large-print.pdf",
+          "exists": true
+        },
+        {
+          "label": "Cambridge IELTS 21 Academic · Test 4 · Task 1 · PDF 95 页",
+          "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=95",
+          "local_path": "C:\\Users\\Admin1\\Documents\\Codex\\2026-09-12\\referenced-chatgpt-conversation-this-is-an\\outputs\\IELTS-四科学习册\\原始参考\\8ee8170c-Cambridge IELTS 21 - Academic.pdf",
+          "exists": true
+        }
+      ],
+      "verification": {
+        "source_traceability": "每题可追溯到本地原始PDF页",
+        "composition": "原题/原图保持；参考写法明确原创",
+        "context_sufficiency": "保留完整写作题干与完整图形，段落练习不改变原任务",
+        "answer_evidence": "下文具体回答与图中数字、题干对象逐项对应"
+      }
+    },
+    {
+      "auditId": "audit-015",
+      "title": "流程图：真实制砖分支与雨影形成机制",
+      "caseIds": [
+        "wc-official-bricks",
+        "wc-c21-t3-rainshadow"
+      ],
+      "teachingHtml": "\n<p>先沿官方制砖图的箭头走一次：clay挖出→metal grid / roller处理→加入sand + water→两种成形方式之一→drying oven→两档kiln→cooling chamber→packaging→delivery。最关键的分支词是原图中的<strong>or</strong>，不是then。</p>\n<p><strong>分支参考答案：</strong><em>The mixture is shaped into bricks either by a wire cutter or by being placed in moulds.</em>如果写“the bricks are cut and then put into moulds”，就把两条并行路径误写成每块砖都经历的连续操作。</p>\n<p><strong>热处理参考答案：</strong><em>The bricks are dried for 24 to 48 hours, then heated first at 200–980°C and subsequently at 870–1300°C. They are cooled for 48 to 72 hours before packaging.</em>这里24–48与48–72不可对调；原图的温度区间确有重叠，应忠实保留。</p>\n<p>再看剑桥21雨影图。这里不是人工生产，主要用一般现在时描写自然机制：<em>As moist air rises on the windward side, it cools and clouds form. Rain falls before the dry air continues over the mountain towards inland areas.</em>总览应强调迎风坡降雨与背风坡干燥。原图的thousands of kilometres是空间范围，不能改写成“经过数千年”。</p>\n<p class=\"case-related\">对应原题练习：<a href=\"#wc-official-bricks\">制砖：并行成形路径与温度阶段</a> · <a href=\"#wc-c21-t3-rainshadow\">雨影沙漠：越山前后的水分变化</a></p>",
+      "newStatus": "达标",
+      "reason": "以两道真实流程题替代自编循环；分支、数值、自然因果和时空单位均可逐项核验。",
+      "sourceRefs": [
+        {
+          "label": "IELTS Academic Writing Sample Tasks (2023) · Task 1C · PDF 5 页",
+          "href": "case-assets/writing-official-sample-tasks-2023.pdf#page=5",
+          "local_path": "C:\\Users\\Admin1\\Documents\\Codex\\2026-09-12\\referenced-chatgpt-conversation-this-is-an\\outputs\\IELTS-四科学习册\\case-assets\\writing-official-sample-tasks-2023.pdf",
+          "exists": true
+        },
+        {
+          "label": "Cambridge IELTS 21 Academic · Test 3 · Task 1 · PDF 73 页",
+          "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=73",
+          "local_path": "C:\\Users\\Admin1\\Documents\\Codex\\2026-09-12\\referenced-chatgpt-conversation-this-is-an\\outputs\\IELTS-四科学习册\\原始参考\\8ee8170c-Cambridge IELTS 21 - Academic.pdf",
+          "exists": true
+        }
+      ],
+      "verification": {
+        "source_traceability": "每题可追溯到本地原始PDF页",
+        "composition": "原题/原图保持；参考写法明确原创",
+        "context_sufficiency": "保留完整写作题干与完整图形，段落练习不改变原任务",
+        "answer_evidence": "下文具体回答与图中数字、题干对象逐项对应"
+      }
+    },
+    {
+      "auditId": "audit-016",
+      "title": "地图题：咖啡厅改造的定位、替换与保留",
+      "caseIds": [
+        "wc-c21-t2-cafe"
+      ],
+      "teachingHtml": "\n<p>剑桥21 Test 2给出学院咖啡厅before redesign与today两张平面图。两图没有指北针，也没有将来日期，因此用left/right、near the entrance、below the kitchen定位，使用过去与现在的对照。</p>\n<p><strong>功能替换参考答案：</strong><em>The two staff dining rooms along the upper edge of the main seating area have been converted into a takeaway food outlet and a coffee bar respectively.</em>原图左间对应take away food，右间对应coffee bar；respectively要求列举顺序对应，不能只说“更多设施被建了”。</p>\n<p><strong>新增与保留参考答案：</strong><em>An outdoor seating area has been added along the bottom of the café, with a barbecue at its left end. The kitchen and toilets remain in their original positions.</em>这同时覆盖扩展与稳定部分。室内原serving area改为hot meals，左墙加salad bar，入口旁bin改recycling bins，均可在两图中找到。</p>\n<p>写两个主体段时，一段处理室内服务功能，另一段处理室外扩展和保留设施。不要虚构面积、容量、装修原因，也不要把“today”改成未来计划。下方练习使用同一咖啡厅原题；这里和地图资源单元共用原题，不计为两道独立地图题。</p>\n<p class=\"case-related\">对应原题练习：<a href=\"#wc-c21-t2-cafe\">学院咖啡厅改造：保留设施与功能替换</a></p>",
+      "newStatus": "达标",
+      "reason": "自编规划图已由真实咖啡厅前后图替代，明确图上无方位针、无未来规划；具体改造对应有完整参考句。",
+      "sourceRefs": [
+        {
+          "label": "Cambridge IELTS 21 Academic · Test 2 · Task 1 · PDF 52 页",
+          "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=52",
+          "local_path": "C:\\Users\\Admin1\\Documents\\Codex\\2026-09-12\\referenced-chatgpt-conversation-this-is-an\\outputs\\IELTS-四科学习册\\原始参考\\8ee8170c-Cambridge IELTS 21 - Academic.pdf",
+          "exists": true
+        }
+      ],
+      "verification": {
+        "source_traceability": "每题可追溯到本地原始PDF页",
+        "composition": "原题/原图保持；参考写法明确原创",
+        "context_sufficiency": "保留完整写作题干与完整图形，段落练习不改变原任务",
+        "answer_evidence": "下文具体回答与图中数字、题干对象逐项对应"
+      }
+    },
+    {
+      "auditId": "audit-017",
+      "title": "咖啡厅改造：在真实两张平面图间建立对应",
+      "caseIds": [
+        "wc-c21-t2-cafe"
+      ],
+      "teachingHtml": "\n<p>这次导读使用剑桥21 Test 2的college café原题。先找三类信息：<strong>保留</strong>厨房、厕所与中央座位区；<strong>转换</strong>两间职工餐厅变takeaway与coffee bar、统一服务台变hot meals；<strong>新增</strong>salad bar、outdoor seating及barbecue。</p>\n<p><strong>导读问题及参考答案：</strong>“Which changes show a wider range of services?”——<em>The single serving area is now used for hot meals, the former staff dining rooms have become a takeaway outlet and a coffee bar, and a salad bar has been installed.</em>这段说明“服务更丰富”的证据，而不是没有细节地说“the café is more modern”。</p>\n<p>“What has remained unchanged?”——<em>The kitchen and toilets are still in the same locations, and the main central area continues to contain tables and chairs.</em>原图没有明确数字，不能写桌椅数量翻倍。写作中保留这些稳定参照物，读者才知道变化发生在哪里。</p>\n<p>下方case要求Overview加两段主体；先自己写，再查看完整参考写法，逐句核对位置和变化。此题与地图技巧单元共用，同源练法只算一道原题。</p>\n<p class=\"case-related\">对应原题练习：<a href=\"#wc-c21-t2-cafe\">学院咖啡厅改造：保留设施与功能替换</a></p>",
+      "newStatus": "达标",
+      "reason": "删除虚构图书馆导读并换为C21咖啡厅实际图；导读问题有明确有源答案和保留信息，重复引用不虚增题量。",
+      "sourceRefs": [
+        {
+          "label": "Cambridge IELTS 21 Academic · Test 2 · Task 1 · PDF 52 页",
+          "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=52",
+          "local_path": "C:\\Users\\Admin1\\Documents\\Codex\\2026-09-12\\referenced-chatgpt-conversation-this-is-an\\outputs\\IELTS-四科学习册\\原始参考\\8ee8170c-Cambridge IELTS 21 - Academic.pdf",
+          "exists": true
+        }
+      ],
+      "verification": {
+        "source_traceability": "每题可追溯到本地原始PDF页",
+        "composition": "原题/原图保持；参考写法明确原创",
+        "context_sufficiency": "保留完整写作题干与完整图形，段落练习不改变原任务",
+        "answer_evidence": "下文具体回答与图中数字、题干对象逐项对应"
+      }
+    },
+    {
+      "auditId": "audit-018",
+      "title": "真实折线图：就业结构变化与受众时段差异",
+      "caseIds": [
+        "wc-c21-t1-jobs",
+        "wc-official-audiences"
+      ],
+      "teachingHtml": "\n<p>先做剑桥21就业图的比较。1960年制造业15 million最高，医疗2 million最低；2020年零售与医疗均约16 million，并列最高，农业约2 million最低。<strong>主导行业换位</strong>比逐点抄数更值得进入Overview。</p>\n<p><strong>主体段参考开头：</strong><em>Manufacturing employment rose from 15 million in 1960 to 20 million in 1980, before declining to 13 million in 2020. In contrast, healthcare grew from only 2 million to approximately 16 million over the period.</em>一升后降与持续增长形成对照；制造业1980年峰值不能遗漏。</p>\n<p>换一张独立原图：官方广播与电视受众题。二者比较的是同一日的时段，广播早高峰、电视晚高峰。<strong>参考句：</strong><em>Radio listening peaked at about 27% in the morning, whereas television viewing reached roughly 45–47% in the evening.</em>这题用百分比，不可套前题的million；题中1992是调查背景，横轴仍是一天内时间。</p>\n<p>答完后检查三个具体错误：是否把15 million写成15%；是否把广播最高时刻写成电视最高时刻；是否把制造业“先增后减”错误概括为全程下降。两道原题的完整多段参考写法在各自case内。</p>\n<p class=\"case-related\">对应原题练习：<a href=\"#wc-c21-t1-jobs\">美国四行业就业：峰值、交叉与最终排名</a> · <a href=\"#wc-official-audiences\">广播与电视受众：同一天的双峰比较</a></p>",
+      "newStatus": "达标",
+      "reason": "自编交通趋势撤换为两道独立真实折线题，真实单位、峰值和终点比较明确，给出具体参考答案。",
+      "sourceRefs": [
+        {
+          "label": "Cambridge IELTS 21 Academic · Test 1 · Task 1 · PDF 30 页",
+          "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=30",
+          "local_path": "C:\\Users\\Admin1\\Documents\\Codex\\2026-09-12\\referenced-chatgpt-conversation-this-is-an\\outputs\\IELTS-四科学习册\\原始参考\\8ee8170c-Cambridge IELTS 21 - Academic.pdf",
+          "exists": true
+        },
+        {
+          "label": "IELTS Academic Writing Sample Tasks (2023) · Task 1B · PDF 4 页",
+          "href": "case-assets/writing-official-sample-tasks-2023.pdf#page=4",
+          "local_path": "C:\\Users\\Admin1\\Documents\\Codex\\2026-09-12\\referenced-chatgpt-conversation-this-is-an\\outputs\\IELTS-四科学习册\\case-assets\\writing-official-sample-tasks-2023.pdf",
+          "exists": true
+        }
+      ],
+      "verification": {
+        "source_traceability": "每题可追溯到本地原始PDF页",
+        "composition": "原题/原图保持；参考写法明确原创",
+        "context_sufficiency": "保留完整写作题干与完整图形，段落练习不改变原任务",
+        "answer_evidence": "下文具体回答与图中数字、题干对象逐项对应"
+      }
+    },
+    {
+      "auditId": "audit-019",
+      "title": "国际旅游：基于官方原题比较环境代价和社区收益",
+      "caseIds": [
+        "wc-official-tourism"
+      ],
+      "teachingHtml": "\n<p>使用IELTS官方Task 2B原题：国际旅游带来收益，同时影响当地居民与环境；问题是<strong>Do the disadvantages ... outweigh the advantages?</strong>。这是利弊权衡，不是自编的国际协作/本地执行双边讨论。</p>\n<p><strong>立论参考：</strong><em>Unmanaged tourism can create costs that outweigh its benefits when visitor numbers exceed a destination’s capacity.</em>后文必须说明“为什么更重”：住房改成短租影响居民居住，自然栖息地损害可能难以逆转；这类长期代价不能只用一次消费收入抵消。</p>\n<p><strong>具体论证片段：</strong><em>Housing converted into short-term accommodation may become less available to residents, while crowded streets and heavy demand for water can disrupt everyday life. Unlike an extra sale in a restaurant, the loss of affordable housing or a fragile habitat may be difficult to reverse.</em>第一句覆盖local inhabitants，第二句加入environment并完成比较，而不是空写“tourism damages the environment”。</p>\n<p>另一段要公平交代收益：游客消费支持本地商家和就业，文化维护也可能获益；再讨论收入是否真正留在当地。答后对照case的两段参考写法，找出你的比较标准、利益获得者与受损对象。范例为本册编写的参考论证，题干为官方原文，不是假称的官方高分范文。</p>\n<p class=\"case-related\">对应原题练习：<a href=\"#wc-official-tourism\">国际旅游：经济收益与社区成本如何比较</a></p>",
+      "newStatus": "达标",
+      "reason": "将无真实题面的环境双边讨论换为官方旅游利弊原题；两类对象与outweigh指令均得到具体回答。",
+      "sourceRefs": [
+        {
+          "label": "IELTS Academic Writing Sample Tasks (2023) · Task 2B · PDF 7 页",
+          "href": "case-assets/writing-official-sample-tasks-2023.pdf#page=7",
+          "local_path": "C:\\Users\\Admin1\\Documents\\Codex\\2026-09-12\\referenced-chatgpt-conversation-this-is-an\\outputs\\IELTS-四科学习册\\case-assets\\writing-official-sample-tasks-2023.pdf",
+          "exists": true
+        }
+      ],
+      "verification": {
+        "source_traceability": "每题可追溯到本地原始PDF页",
+        "composition": "原题/原图保持；参考写法明确原创",
+        "context_sufficiency": "保留完整写作题干与完整图形，段落练习不改变原任务",
+        "answer_evidence": "下文具体回答与图中数字、题干对象逐项对应"
+      }
+    },
+    {
+      "auditId": "audit-020",
+      "title": "过度捕捞：真实题干中的原因与措施对应",
+      "caseIds": [
+        "wc-bc-overfishing",
+        "wc-bc-graduates"
+      ],
+      "teachingHtml": "\n<p>这两个原因措施题均出自British Council官方IELTS教学材料，按原题保留，不冒称剑桥真题。过度捕捞题同时提到species extinction和millions of people’s livelihood，因而生态保护与社区生计都在任务范围内。</p>\n<p><strong>原因参考：</strong><em>Powerful fishing methods allow operators to take large catches, while weak enforcement gives individual firms little reason to leave fish for future seasons.</em>这里既有捕捞能力，也有激励和监管，不是只给“people are greedy”标签。</p>\n<p><strong>措施参考：</strong><em>Catch quotas and temporary closures can reduce pressure, but they need monitoring and credible penalties. Governments should also support fishing communities during restrictions so that protecting future livelihoods does not leave families without income now.</em>限额对数量压力，监测处罚对执法不足，过渡支持对题干的livelihood。</p>\n<p>再迁移到毕业生失业原题：应用经验不足→相关实习及真实项目；求职方向与职位错配→就业信息、跨行业申请和补充训练。不要在原因段谈技能、措施段却只写惩罚企业，两边失去对应。每题下方都有两段约190词参考论证，用同一问题的完整机制检查自己的段落。</p>\n<p class=\"case-related\">对应原题练习：<a href=\"#wc-bc-overfishing\">过度捕捞：从激励与监管写到对策</a> · <a href=\"#wc-bc-graduates\">高学历毕业生失业：原因和措施一一对应</a></p>",
+      "newStatus": "达标",
+      "reason": "自编社区安全题撤换为两道可追溯的BC官方IELTS原因措施原题，提供因果链和一一对应解法；来源性质明确。",
+      "sourceRefs": [
+        {
+          "label": "British Council — Writing Task 2: Problems and solutions · Worksheet 1 · PDF 7 页",
+          "href": "扩展资料/609824ad-writing_task_2_problems_and_solutions_.pdf#page=7",
+          "local_path": "C:\\Users\\Admin1\\Documents\\Codex\\2026-09-12\\referenced-chatgpt-conversation-this-is-an\\outputs\\IELTS-四科学习册\\扩展资料\\609824ad-writing_task_2_problems_and_solutions_.pdf",
+          "exists": true
+        },
+        {
+          "label": "British Council — Writing Task 2: Developing paragraphs · Worksheet 3 · PDF 10 页",
+          "href": "原始参考/9464a2d7-5bfdf909-writing_task_2_developing_paragraphs.pdf#page=10",
+          "local_path": "C:\\Users\\Admin1\\Documents\\Codex\\2026-09-12\\referenced-chatgpt-conversation-this-is-an\\outputs\\IELTS-四科学习册\\原始参考\\9464a2d7-5bfdf909-writing_task_2_developing_paragraphs.pdf",
+          "exists": true
+        }
+      ],
+      "verification": {
+        "source_traceability": "每题可追溯到本地原始PDF页",
+        "composition": "原题/原图保持；参考写法明确原创",
+        "context_sufficiency": "保留完整写作题干与完整图形，段落练习不改变原任务",
+        "answer_evidence": "下文具体回答与图中数字、题干对象逐项对应"
+      }
+    },
+    {
+      "auditId": "audit-107",
+      "title": "Task 2复习：用四道真实题检查任务回应",
+      "caseIds": [
+        "wc-c21-t1-homes",
+        "wc-c21-t2-entertainment",
+        "wc-c21-t3-placement",
+        "wc-c21-t4-primary"
+      ],
+      "teachingHtml": "\n<p>复习直接回到剑桥21四道原题，先写自己的两段主体再核对。不要把题型名称当作答案；每题都必须保留范围词和动作要求。</p>\n<ol><li><strong>高层住宅：</strong>best way要求评判是不是最佳方案。参考判断为“高层能节省土地，但可负担性与公共设施决定它是否适合，因此有条件赞成”。只写节省土地没有回答best。</li><li><strong>剧院影院：</strong>Discuss both views要求认真解释线上娱乐的便利，同时回应economically与culturally。参考论证分别用时间/地点自由、场馆就业及本地文化共同体验支撑，并明确仍然重要的立场。</li><li><strong>海外学习或实习：</strong>原题为abroad <em>or</em> work placement，不要求两项都做。参考权衡用长期实践能力与可通过资助/本地实习缓解的成本比较，才能完成outweigh。</li><li><strong>小学课堂：</strong>第一问是formal learning是否过多，第二问是play有多重要。参考写法一段讨论正式教学失衡，另一段以假想商店和合作模型解释游戏怎样支持课堂学习，两问各有清楚答案。</li></ol>\n<p>每写完一题，给自己的句子标注“回答题干哪一部分”“理由的机制”“具体例子”“例子怎样支持判断”。例如影院题的本地演出带动技术人员岗位对应economically；共同观看本地故事对应culturally。若只写“important to society”，就还没有完成具体展开。</p>\n<p>四题的完整双段参考写法、结构和句子精读都在对应case中。复习同一道题属于再次练习，不新增独立题数；所有写作范例均为明确标注的参考写法。</p>\n<p class=\"case-related\">对应原题练习：<a href=\"#wc-c21-t1-homes\">高层住宅是否是城市住房的最佳方案</a> · <a href=\"#wc-c21-t2-entertainment\">线上娱乐与剧院影院的经济文化价值</a> · <a href=\"#wc-c21-t3-placement\">本科海外学习或实习：收益能否超过代价</a> · <a href=\"#wc-c21-t4-primary\">小学正式学习与课堂游戏：两个问题分别回应</a></p>",
+      "newStatus": "达标",
+      "reason": "复习中的泛化自编题已换为C21四道实际Task2的范围词核验、具体立场和答案机制，配套完整双段case。",
+      "sourceRefs": [
+        {
+          "label": "Cambridge IELTS 21 Academic · Test 1 · Task 2 · PDF 31 页",
+          "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=31",
+          "local_path": "C:\\Users\\Admin1\\Documents\\Codex\\2026-09-12\\referenced-chatgpt-conversation-this-is-an\\outputs\\IELTS-四科学习册\\原始参考\\8ee8170c-Cambridge IELTS 21 - Academic.pdf",
+          "exists": true
+        },
+        {
+          "label": "Cambridge IELTS 21 Academic · Test 2 · Task 2 · PDF 53 页",
+          "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=53",
+          "local_path": "C:\\Users\\Admin1\\Documents\\Codex\\2026-09-12\\referenced-chatgpt-conversation-this-is-an\\outputs\\IELTS-四科学习册\\原始参考\\8ee8170c-Cambridge IELTS 21 - Academic.pdf",
+          "exists": true
+        },
+        {
+          "label": "Cambridge IELTS 21 Academic · Test 3 · Task 2 · PDF 74 页",
+          "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=74",
+          "local_path": "C:\\Users\\Admin1\\Documents\\Codex\\2026-09-12\\referenced-chatgpt-conversation-this-is-an\\outputs\\IELTS-四科学习册\\原始参考\\8ee8170c-Cambridge IELTS 21 - Academic.pdf",
+          "exists": true
+        },
+        {
+          "label": "Cambridge IELTS 21 Academic · Test 4 · Task 2 · PDF 96 页",
+          "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=96",
+          "local_path": "C:\\Users\\Admin1\\Documents\\Codex\\2026-09-12\\referenced-chatgpt-conversation-this-is-an\\outputs\\IELTS-四科学习册\\原始参考\\8ee8170c-Cambridge IELTS 21 - Academic.pdf",
+          "exists": true
+        }
+      ],
+      "verification": {
+        "source_traceability": "每题可追溯到本地原始PDF页",
+        "composition": "原题/原图保持；参考写法明确原创",
+        "context_sufficiency": "保留完整写作题干与完整图形，段落练习不改变原任务",
+        "answer_evidence": "下文具体回答与图中数字、题干对象逐项对应"
+      }
+    }
+  ],
+  "supplements": [
+    {
+      "auditId": "audit-104",
+      "preserveOriginal": true,
+      "caseIds": [
+        "wc-c21-t1-jobs",
+        "wc-c21-t2-cafe",
+        "wc-c21-t3-rainshadow",
+        "wc-c21-t4-library",
+        "wc-official-education",
+        "wc-official-audiences",
+        "wc-official-bricks",
+        "wc-official-bicycle"
+      ],
+      "title": "补充：8道有源Task 1原题检验同一读图方法",
+      "teachingHtml": "<p>原复习内容保留为可疑材料；补充练习采用8道独立的真题或官方考试样题。对照真实原图练习对象/单位、Overview、分组与证据：就业与广播电视为折线，继续教育为柱状，自行车为表格，图书馆为饼图+表格，咖啡厅为地图，雨影与制砖为自然/制造流程。答后有完整参考段落、数据核对和句子精读。每题只计一次，重复练法不增加独立材料数。</p>",
+      "status": "可疑",
+      "supplementStatus": "达标"
+    }
+  ],
+  "coverageNote": "地图在本地材料库379个PDF（按文件内容去重221份）的可提取文本扫描中仅找到C21咖啡厅一道独立写作原题；另一次地图命中为听力题。未拿同图拆分伪增。",
+  "inventoryEvidence": "writing-source-cache/map-inventory.json",
+  "validation": {
+    "replacements": 10,
+    "supplements": 1,
+    "taskCases": 20,
+    "sourceImagesVisuallyChecked": 8,
+    "modelWords": 3563
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "requested": "writing1-tech-maps",
+  "from": [
+    "内容单元",
+    "页面链接"
+  ],
+  "actual": "#writing1-tech-maps",
+  "checkedAt": "2026-09-21T12:51:25.074Z",
+  "title": "学习 / 写作 · Task 1 / 地图题：咖啡厅改造的定位、替换与保留 · IELTS",
+  "label": "学习 / 写作 · Task 1 / 地图题：咖啡厅改造的定位、替换与保留",
+  "panel": "writing1",
+  "contentRoot": "writing1-tech-maps",
+  "headings": [],
+  "controls": [
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "地图题：咖啡厅改造的定位、替换与保留",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "学院咖啡厅改造：保留设施与功能替换",
+      "label": "",
+      "href": "#writing1-case-wc-c21-t2-cafe",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "Cambridge IELTS 21 Academic · Test 2 · Task 1 · PDF 52 页",
+      "label": "",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=52",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "练原题：学院咖啡厅改造：保留设施与功能替换",
+      "label": "",
+      "href": "#writing1-case-wc-c21-t2-cafe",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "checkbox",
+      "text": "",
+      "label": "我已学习本单元",
+      "href": null,
+      "save": "resource-learned-tech-maps",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "checkbox",
+      "text": "",
+      "label": "加入我的复习",
+      "href": null,
+      "save": "resource-review-tech-maps",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "我的练习答案／证据／下次要改的一步（可留空）",
+      "href": null,
+      "save": "resource-note-tech-maps",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    }
+  ],
+  "visibleText": "地图题：咖啡厅改造的定位、替换与保留\n0% · 0 / 1 完成\n\n剑桥21 Test 2给出学院咖啡厅before redesign与today两张平面图。两图没有指北针，也没有将来日期，因此用left/right、near the entrance、below the kitchen定位，使用过去与现在的对照。\n\n功能替换参考答案：The two staff dining rooms along the upper edge of the main seating area have been converted into a takeaway food outlet and a coffee bar respectively.原图左间对应take away food，右间对应coffee bar；respectively要求列举顺序对应，不能只说“更多设施被建了”。\n\n新增与保留参考答案：An outdoor seating area has been added along the bottom of the café, with a barbecue at its left end. The kitchen and toilets remain in their original positions.这同时覆盖扩展与稳定部分。室内原serving area改为hot meals，左墙加salad bar，入口旁bin改recycling bins，均可在两图中找到。\n\n写两个主体段时，一段处理室内服务功能，另一段处理室外扩展和保留设施。不要虚构面积、容量、装修原因，也不要把“today”改成未来计划。下方练习使用同一咖啡厅原题；这里和地图资源单元共用原题，不计为两道独立地图题。\n\n对应原题练习：学院咖啡厅改造：保留设施与功能替换\n\nCambridge IELTS 21 Academic · Test 2 · Task 1 · PDF 52 页\n\n练原题：学院咖啡厅改造：保留设施与功能替换\n\n本单元的学习记录\n\n 我已学习本单元 加入我的复习\n我的练习答案／证据／下次要改的一步（可留空）",
+  "allContent": "地图题：咖啡厅改造的定位、替换与保留0% · 0 / 1 完成\n剑桥21 Test 2给出学院咖啡厅before redesign与today两张平面图。两图没有指北针，也没有将来日期，因此用left/right、near the entrance、below the kitchen定位，使用过去与现在的对照。\n功能替换参考答案：The two staff dining rooms along the upper edge of the main seating area have been converted into a takeaway food outlet and a coffee bar respectively.原图左间对应take away food，右间对应coffee bar；respectively要求列举顺序对应，不能只说“更多设施被建了”。\n新增与保留参考答案：An outdoor seating area has been added along the bottom of the café, with a barbecue at its left end. The kitchen and toilets remain in their original positions.这同时覆盖扩展与稳定部分。室内原serving area改为hot meals，左墙加salad bar，入口旁bin改recycling bins，均可在两图中找到。\n写两个主体段时，一段处理室内服务功能，另一段处理室外扩展和保留设施。不要虚构面积、容量、装修原因，也不要把“today”改成未来计划。下方练习使用同一咖啡厅原题；这里和地图资源单元共用原题，不计为两道独立地图题。\n对应原题练习：学院咖啡厅改造：保留设施与功能替换Cambridge IELTS 21 Academic · Test 2 · Task 1 · PDF 52 页练原题：学院咖啡厅改造：保留设施与功能替换本单元的学习记录 我已学习本单元 加入我的复习我的练习答案／证据／下次要改的一步（可留空）",
+  "links": [
+    {
+      "text": "学院咖啡厅改造：保留设施与功能替换",
+      "href": "#writing1-case-wc-c21-t2-cafe"
+    },
+    {
+      "text": "Cambridge IELTS 21 Academic · Test 2 · Task 1 · PDF 52 页",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=52"
+    },
+    {
+      "text": "练原题：学院咖啡厅改造：保留设施与功能替换",
+      "href": "#writing1-case-wc-c21-t2-cafe"
+    }
+  ],
+  "details": [],
+  "saveFields": [
+    "resource-learned-tech-maps",
+    "resource-review-tech-maps",
+    "resource-note-tech-maps"
+  ],
+  "images": [],
+  "audio": [],
+  "viewport": 1440,
+  "documentWidth": 1440
+}

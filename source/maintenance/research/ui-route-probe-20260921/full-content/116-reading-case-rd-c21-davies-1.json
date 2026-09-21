@@ -1,0 +1,236 @@
+{
+  "requested": "reading-case-rd-c21-davies-1",
+  "from": [
+    "内容单元",
+    "页面链接",
+    "每日安排目标"
+  ],
+  "actual": "#reading-case-rd-c21-davies-1",
+  "checkedAt": "2026-09-21T12:51:54.468Z",
+  "title": "练习 / 阅读 / The Davies Sisters｜成长背景与收藏起点 · IELTS",
+  "label": "练习 / 阅读 / The Davies Sisters｜成长背景与收藏起点",
+  "panel": "practice-reading",
+  "contentRoot": "reading-case-rd-c21-davies-1",
+  "headings": [
+    {
+      "tag": "H3",
+      "text": "对照答案，回到证据",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "原文第1段",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "原文第2段",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "原文第3段",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "原文第4段",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "词语与搭配",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "句子精读",
+      "visible": false
+    }
+  ],
+  "controls": [
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "The Davies Sisters｜成长背景与收藏起点未作答\n笔记填空 / 事实判断 TFNG · 4 段 · 300 词 · 5 题 · 同篇原文另有裁切",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "Cambridge IELTS 21 Academic",
+      "label": "",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=17",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "case-rd-c21-davies-1-q1",
+      "type": "text",
+      "text": "",
+      "label": "第 1 题作答",
+      "href": null,
+      "save": "case-rd-c21-davies-1-q1",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "case-rd-c21-davies-1-q2",
+      "type": "text",
+      "text": "",
+      "label": "第 2 题作答",
+      "href": null,
+      "save": "case-rd-c21-davies-1-q2",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "case-rd-c21-davies-1-q3",
+      "type": "text",
+      "text": "",
+      "label": "第 3 题作答",
+      "href": null,
+      "save": "case-rd-c21-davies-1-q3",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "case-rd-c21-davies-1-q4",
+      "type": "text",
+      "text": "",
+      "label": "第 4 题作答",
+      "href": null,
+      "save": "case-rd-c21-davies-1-q4",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "case-rd-c21-davies-1-q5",
+      "type": "text",
+      "text": "",
+      "label": "第 8 题作答",
+      "href": null,
+      "save": "case-rd-c21-davies-1-q5",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "checkbox",
+      "text": "",
+      "label": "",
+      "href": null,
+      "save": "case-rd-c21-davies-1-done",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "hidden",
+      "text": "",
+      "label": "",
+      "href": null,
+      "save": "case-rd-c21-davies-1-saved-at",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "保留作答，查看答案",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "核对原答案页",
+      "label": "",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=119",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "case-rd-c21-davies-1-revision",
+      "type": "textarea",
+      "text": "",
+      "label": "我的修订／证据笔记",
+      "href": null,
+      "save": "case-rd-c21-davies-1-revision",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "材料精读 · 内容与词句",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    }
+  ],
+  "visibleText": "The Davies Sisters｜成长背景与收藏起点未作答\n笔记填空 / 事实判断 TFNG · 4 段 · 300 词 · 5 题 · 同篇原文另有裁切\n0% · 0 / 1 完成\n\n真题 · Cambridge IELTS 21 Academic · PDF 第 17 页\n\nQ1–4：Complete the notes. Choose ONE WORD ONLY from the passage for each answer. Q8：TRUE / FALSE / NOT GIVEN。原题号保留。\n\n原文第1段Gwendoline (1882-1951) and Margaret (1884-1963) Davies were the granddaughters of David Davies, a Welshman who amassed a fortune in the shipping and mining industries. In 1907, when Gwendoline came into her inheritance (Margaret would follow in 1909), the sisters were said to be the wealthiest unmarried women in Britain. Their religious upbringing in rural Wales gave them a deep sense of social responsibility and they chose to use their inheritance for cultural and philanthropic* purposes.\n\n原文第2段While there was no real family history of art collecting, the sisters' education was rigorously geared toward such pursuits. Their London school focused on cultural rather than academic study, and they travelled extensively with their governess, Jane Blaker, visiting art galleries and making extensive notes on the collections there.\n\n原文第3段The sisters began to make regular art purchases from 1908, which roughly coincided with the dates of their inheritance. They took advice from various people, including the art dealer Hugh Blaker (the brother of Jane Blaker) and David Croal Thompson, who was also an art dealer. While it was long assumed that these men were largely responsible for the nature of the sisters' collection, it has recently been accepted that Gwendoline and Margaret retained a far more active role in the process.\n\n原文第4段The sisters' journals reveal their preference for Old Master** paintings. Yet they initially made very few attempts to secure any such works. While the sisters were wealthy in relative terms, their income was nothing compared to the fortunes of American art collectors of this period, such as J. Pierpont Morgan. Quite simply, high quality Old Master works were, if not beyond their means, then beyond what they were willing to pay for them. Instead, their early purchases were of the fashionable, safe variety, and included, for example, paintings by the French artist Jean-Baptiste-Camille Corot.\n\n* philanthropic: seeking to promote the welfare of others, often by charitable funding\n\n** Old Master: a highly respected artist of great skill who worked in Europe before about 1800\n\n1. Family and early life: their grandfather's wealth came from 1 __________ and transportation businesses\n\n第 1 题作答\n\n2. their 2 __________ was designed to give them an interest in activities such as collecting art\n\n第 2 题作答\n\n3. they took lengthy 3 __________ about the things they saw in art galleries\n\n第 3 题作答\n\n4. their 4 __________ showed they liked Old Master paintings, but they were expensive to buy\n\n第 4 题作答\n\n8. The Davies sisters' childhood influenced the way they decided to use their wealth.\n\n第 8 题作答\n保留作答，查看答案\n\n先作答；不确定的题也可记录判断与疑点。\n\n材料精读 · 内容与词句",
+  "allContent": "The Davies Sisters｜成长背景与收藏起点未作答笔记填空 / 事实判断 TFNG · 4 段 · 300 词 · 5 题 · 同篇原文另有裁切0% · 0 / 1 完成真题 · Cambridge IELTS 21 Academic · PDF 第 17 页Q1–4：Complete the notes. Choose ONE WORD ONLY from the passage for each answer. Q8：TRUE / FALSE / NOT GIVEN。原题号保留。原文第1段Gwendoline (1882-1951) and Margaret (1884-1963) Davies were the granddaughters of David Davies, a Welshman who amassed a fortune in the shipping and mining industries. In 1907, when Gwendoline came into her inheritance (Margaret would follow in 1909), the sisters were said to be the wealthiest unmarried women in Britain. Their religious upbringing in rural Wales gave them a deep sense of social responsibility and they chose to use their inheritance for cultural and philanthropic* purposes.原文第2段While there was no real family history of art collecting, the sisters' education was rigorously geared toward such pursuits. Their London school focused on cultural rather than academic study, and they travelled extensively with their governess, Jane Blaker, visiting art galleries and making extensive notes on the collections there.原文第3段The sisters began to make regular art purchases from 1908, which roughly coincided with the dates of their inheritance. They took advice from various people, including the art dealer Hugh Blaker (the brother of Jane Blaker) and David Croal Thompson, who was also an art dealer. While it was long assumed that these men were largely responsible for the nature of the sisters' collection, it has recently been accepted that Gwendoline and Margaret retained a far more active role in the process.原文第4段The sisters' journals reveal their preference for Old Master** paintings. Yet they initially made very few attempts to secure any such works. While the sisters were wealthy in relative terms, their income was nothing compared to the fortunes of American art collectors of this period, such as J. Pierpont Morgan. Quite simply, high quality Old Master works were, if not beyond their means, then beyond what they were willing to pay for them. Instead, their early purchases were of the fashionable, safe variety, and included, for example, paintings by the French artist Jean-Baptiste-Camille Corot.* philanthropic: seeking to promote the welfare of others, often by charitable funding** Old Master: a highly respected artist of great skill who worked in Europe before about 18001. Family and early life: their grandfather's wealth came from 1 __________ and transportation businesses第 1 题作答2. their 2 __________ was designed to give them an interest in activities such as collecting art第 2 题作答3. they took lengthy 3 __________ about the things they saw in art galleries第 3 题作答4. their 4 __________ showed they liked Old Master paintings, but they were expensive to buy第 4 题作答8. The Davies sisters' childhood influenced the way they decided to use their wealth.第 8 题作答保留作答，查看答案先作答；不确定的题也可记录判断与疑点。对照答案，回到证据第 1 题 · miningtransportation对应shipping；and并列的另一行业是mining。答案限一词。a fortune in the shipping and mining industries第 2 题 · educationdesigned to give them an interest是was geared toward的改写，主语为education。the sisters' education was rigorously geared toward such pursuits第 3 题 · noteslengthy对应extensive；took notes对应making notes，保留复数。making extensive notes on the collections there第 4 题 · journalsshowed they liked对应reveal their preference；注意不能把其他段落的notes填进来。The sisters' journals reveal their preference for Old Master第 8 题 · TRUE童年教养产生社会责任感，下一分句明确说因此把遗产用于文化及慈善，完整因果支持题干。Their religious upbringing in rural Wales gave them a deep sense of social responsibility核对原答案页我的修订／证据笔记材料精读 · 内容与词句这一部分把姐妹收藏艺术的起点放回家庭财富、成长教育与个人选择中理解：遗产提供条件，社会责任感影响用途，文化教育培养兴趣；她们听取顾问意见，却也有自己的判断。最后一段进一步说明，有购买能力、有个人偏好和愿意支付某个价格，是三个不同层面。原文第1段Gwendoline (1882-1951) and Margaret (1884-1963) Davies were the granddaughters of David Davies, a Welshman who amassed a fortune in the shipping and mining industries. In 1907, when Gwendoline came into her inheritance (Margaret would follow in 1909), the sisters were said to be the wealthiest unmarried women in Britain. Their religious upbringing in rural Wales gave them a deep sense of social responsibility and they chose to use their inheritance for cultural and philanthropic* purposes.姐妹的财富来自祖父经营航运和采矿积累的资产，两人分别在1907年和1909年继承遗产。文中用were said to be转述她们当时被认为是英国最富有的未婚女性，而不是给出精确财富排名。宗教教养和威尔士乡村成长环境使她们产生社会责任感，因此她们选择把钱用于文化和慈善。财富来源与财富用途在这里被连接起来。原文第2段While there was no real family history of art collecting, the sisters' education was rigorously geared toward such pursuits. Their London school focused on cultural rather than academic study, and they travelled extensively with their governess, Jane Blaker, visiting art galleries and making extensive notes on the collections there.家中没有明确的艺术收藏传统，但姐妹接受的教育为这类兴趣准备了条件。学校重视文化学习，她们又随家庭女教师旅行、参观画廊、详细记录藏品。这里的such pursuits回指艺术收藏一类的文化活动；作者强调兴趣可以通过教育和接触逐渐形成，并不一定来自家族收藏传统。原文第3段The sisters began to make regular art purchases from 1908, which roughly coincided with the dates of their inheritance. They took advice from various people, including the art dealer Hugh Blaker (the brother of Jane Blaker) and David Croal Thompson, who was also an art dealer. While it was long assumed that these men were largely responsible for the nature of the sisters' collection, it has recently been accepted that Gwendoline and Margaret retained a far more active role in the process.从1908年起，她们开始规律购画，时间大致与继承遗产相近。两位艺术商提供建议，但对他们影响的理解后来发生了变化：过去常把收藏风格主要归于男性顾问，较新的看法则认为姐妹在选择中比人们原先承认的更主动。最后一句区分的是两种历史解释，并没有否定顾问确实提供过帮助。原文第4段The sisters' journals reveal their preference for Old Master** paintings. Yet they initially made very few attempts to secure any such works. While the sisters were wealthy in relative terms, their income was nothing compared to the fortunes of American art collectors of this period, such as J. Pierpont Morgan. Quite simply, high quality Old Master works were, if not beyond their means, then beyond what they were willing to pay for them. Instead, their early purchases were of the fashionable, safe variety, and included, for example, paintings by the French artist Jean-Baptiste-Camille Corot.日记显示姐妹喜欢欧洲早期大师的作品，可是最初很少购入。原因不是没有兴趣，而是她们虽富裕，与美国大收藏家的财力仍有差距。高质量作品即使并非完全买不起，也超过她们愿意支付的价格，所以早期购藏偏向当时流行、较稳妥的作品。Instead承接前面的现实限制，解释实际购买如何偏离个人偏好。词语与搭配a deep sense of social responsibility强烈的社会责任感sense of后接抽象名词，表示对某种责任或价值的内在意识；这里解释她们为什么把私人财富用于文化和慈善。rigorously geared toward such pursuits受到严格安排，以这类活动为培养方向be geared toward强调设计或安排的方向；such pursuits承接前面的艺术收藏，不等于她们在校期间已经成为收藏家。retained a far more active role保有比过去认识中更积极主动的作用retain表示保持，far修饰比较级more active，强调两种历史看法对姐妹参与程度的估计不同。beyond their means超出她们的财力means在这里是经济能力，与紧接着的beyond what they were willing to pay区分：支付不起与不愿支付并不是一回事。句子精读While it was long assumed that these men were largely responsible for the nature of the sisters' collection, it has recently been accepted that Gwendoline and Margaret retained a far more active role in the process.长期以来，人们一直认为这些男性在很大程度上决定了姐妹收藏的面貌；但最近人们开始认可，格温多琳和玛格丽特在这一过程中发挥了远比原先认为的更主动的作用。While连接两种形成于不同时期的认识，带有对照和让步意味。两处it都是形式主语，真正的内容分别是后面的that从句。these men指上文两位艺术商；the nature of the collection指收藏的风格和构成；the process指收藏选择的过程。long assumed与recently accepted对比的不是谁先买画，而是历史认识怎样改变。Quite simply, high quality Old Master works were, if not beyond their means, then beyond what they were willing to pay for them.简单地说，优质的古典大师作品，即便没有超出她们的财力，也超出了她们愿意为之支付的价格。主干是works were beyond...。插入的if not...then...意为即使不能说达到前一种程度，至少也达到了后一种程度；这里不能把两个限制都理解为已经确定。what they were willing to pay是名词性从句，指她们愿意支付的金额；them指大师作品。读完讲解，可以把原文连起来再读一次；想保留的词句可使用已有收藏功能。",
+  "links": [
+    {
+      "text": "Cambridge IELTS 21 Academic",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=17"
+    },
+    {
+      "text": "核对原答案页",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=119"
+    }
+  ],
+  "details": [
+    {
+      "id": "material-reading-rd-c21-davies-1",
+      "title": "材料精读 · 内容与词句",
+      "open": false,
+      "visible": true
+    }
+  ],
+  "saveFields": [
+    "case-rd-c21-davies-1-q1",
+    "case-rd-c21-davies-1-q2",
+    "case-rd-c21-davies-1-q3",
+    "case-rd-c21-davies-1-q4",
+    "case-rd-c21-davies-1-q5",
+    "case-rd-c21-davies-1-done",
+    "case-rd-c21-davies-1-saved-at",
+    "case-rd-c21-davies-1-revision"
+  ],
+  "images": [],
+  "audio": [],
+  "viewport": 1440,
+  "documentWidth": 1440
+}

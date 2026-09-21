@@ -1,0 +1,574 @@
+{
+  "requested": "pp-writing1",
+  "from": [
+    "页面链接"
+  ],
+  "actual": "#pp-writing1",
+  "checkedAt": "2026-09-21T12:54:31.008Z",
+  "title": "写作 · Task 1练习 · IELTS",
+  "label": "写作 · Task 1练习",
+  "panel": "practice-writing1",
+  "contentRoot": "pp-writing1",
+  "headings": [
+    {
+      "tag": "H2",
+      "text": "练习",
+      "visible": true
+    }
+  ],
+  "controls": [
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "Task 1 · 折线图",
+      "label": "",
+      "href": "#pr-writing1-jobs",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "Task 1 · 流程图",
+      "label": "",
+      "href": "#pr-writing1-bricks",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "Task 1 · 平面图",
+      "label": "",
+      "href": "#pr-writing1-cafe",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "Task 1 · 折线图 四行业就业",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "作答 1\n暂时不会",
+      "href": null,
+      "save": "pr-writing1-jobs-q1",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "暂时不会",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "作答 2\n暂时不会",
+      "href": null,
+      "save": "pr-writing1-jobs-q2",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "暂时不会",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "答案",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "再练一次",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "",
+      "href": null,
+      "save": "pr-writing1-jobs-another",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "",
+      "label": "",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "",
+      "label": "",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "Cambridge IELTS 21 Academic · Test 1 · Task 1",
+      "label": "",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=30",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "Task 1 · 流程图 砖块制造",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "作答 1\n暂时不会",
+      "href": null,
+      "save": "pr-writing1-bricks-q1",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "暂时不会",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "作答 2\n暂时不会",
+      "href": null,
+      "save": "pr-writing1-bricks-q2",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "暂时不会",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "答案",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "再练一次",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "",
+      "href": null,
+      "save": "pr-writing1-bricks-another",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "",
+      "label": "",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "",
+      "label": "",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "IELTS Academic Writing Sample Tasks (2023) · Task 1C",
+      "label": "",
+      "href": "case-assets/writing-official-sample-tasks-2023.pdf#page=5",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "在线来源",
+      "label": "",
+      "href": "https://ielts.org/cdn/Sample-tests/ielts-academic-writing-sample-tasks-2023.pdf#page=5",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "Task 1 · 平面图 学院咖啡厅改造",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "作答 1\n暂时不会",
+      "href": null,
+      "save": "pr-writing1-cafe-q1",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "暂时不会",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "作答 2\n暂时不会",
+      "href": null,
+      "save": "pr-writing1-cafe-q2",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "暂时不会",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "答案",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "再练一次",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "",
+      "href": null,
+      "save": "pr-writing1-cafe-another",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "",
+      "label": "",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "",
+      "label": "",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "Cambridge IELTS 21 Academic · Test 2 · Task 1",
+      "label": "",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=52",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    }
+  ],
+  "visibleText": "练习\nTask 1 · 折线图\nTask 1 · 流程图\nTask 1 · 平面图\nTask 1 · 折线图 四行业就业\n0% · 0 / 2 完成\n\n根据原图作答。\n\n单位：million jobs。年份依次为 1960、1980、2000、2020。\n\nManufacturing：15、20、约17、13；Retail：6、10、15、16；Agriculture：6、3、3、2；Healthcare：2、5、11、16。\n\nThe graph shows employment in four sectors of the US economy from 1960 to 2020.\n\n选出可由原图支持的一句。\n\nA Manufacturing lost seven million jobs between 1960 and 2020.\nB Manufacturing ended two million jobs below its initial level, despite an earlier rise.\nC Healthcare employment increased sixteenfold over the period.\nD Agricultural employment fell during every interval shown.\n作答 1\n暂时不会\n\n写 45–65 个英文词，比较 healthcare 和 retail 的绝对增量、相对增幅及最终水平。不要把岗位数写成就业占比。\n\n作答 2\n暂时不会\n答案\n再练一次\n\n选材来源 · Cambridge IELTS 21 Academic · Test 1 · Task 1\n\nTask 1 · 流程图 砖块制造\n0% · 0 / 2 完成\n\n描述图中实际显示的顺序。\n\n按图中箭头作答。图示数值：干燥 24–48 小时；中温窑 200–980°C；高温窑 870–1300°C；冷却 48–72 小时。\n\nThe diagram presents the manufacture of bricks for construction.\n\n把下句改写为 35–50 个英文词，保留真实流程，写到干燥结束：After being mixed with sand and water, the clay is cut with a wire cutter and then pressed into moulds before being heated at 200–980°C in the drying oven.\n\n作答 1\n暂时不会\n\n只根据图示，哪一句成立？\n\nA Every brick passes through both shaping methods.\nB The complete manufacturing process takes no more than five days.\nC Drying and cooling together account for between 72 and 120 hours, excluding all other stages.\nD The minimum temperature in the second kiln stage exceeds the maximum in the first.\n作答 2\n暂时不会\n答案\n再练一次\n\n选材来源 · IELTS Academic Writing Sample Tasks (2023) · Task 1C · 在线来源\n\nTask 1 · 平面图 学院咖啡厅改造\n0% · 0 / 2 完成\n\n根据两张平面图作答。\n\nThe plans show a college café before its redesign and at present.\n\n写 55–75 个英文词，描述两间原 staff dining rooms 的去向，并对比厨房、厕所和中央座位区。\n\n作答 1\n暂时不会\n\n修改这段文字中所有与图不符或缺少依据的内容，保留能由图支持的变化：The kitchen was moved to the south, while all the indoor tables were removed. A coffee bar replaced the kitchen. The old serving area now offers only hot meals, and the café provides outdoor seating beside a barbecue.\n\n作答 2\n暂时不会\n答案\n再练一次\n\n选材来源 · Cambridge IELTS 21 Academic · Test 2 · Task 1",
+  "allContent": "练习Task 1 · 折线图Task 1 · 流程图Task 1 · 平面图Task 1 · 折线图 四行业就业0% · 0 / 2 完成根据原图作答。单位：million jobs。年份依次为 1960、1980、2000、2020。Manufacturing：15、20、约17、13；Retail：6、10、15、16；Agriculture：6、3、3、2；Healthcare：2、5、11、16。The graph shows employment in four sectors of the US economy from 1960 to 2020.选出可由原图支持的一句。A Manufacturing lost seven million jobs between 1960 and 2020.B Manufacturing ended two million jobs below its initial level, despite an earlier rise.C Healthcare employment increased sixteenfold over the period.D Agricultural employment fell during every interval shown.作答 1暂时不会写 45–65 个英文词，比较 healthcare 和 retail 的绝对增量、相对增幅及最终水平。不要把岗位数写成就业占比。作答 2暂时不会答案1. B。2. 示例：Healthcare employment rose from two million to sixteen million, adding fourteen million jobs and reaching eight times its initial level. Retail added ten million jobs, growing from six million to sixteen million, approximately 2.7 times its starting figure. The two sectors therefore finished at the same level, despite markedly different growth rates.再练一次仍用这张图，写两句 overview，不列出逐年数字；必须同时呈现制造业的主导地位变化和农业的整体走势。作答暂时不会答案示例：Manufacturing was initially the largest employer, but both retail and healthcare had overtaken it by the end of the period. Agriculture declined overall and remained the smallest sector in 2020.选材来源 · Cambridge IELTS 21 Academic · Test 1 · Task 1Task 1 · 流程图 砖块制造0% · 0 / 2 完成描述图中实际显示的顺序。按图中箭头作答。图示数值：干燥 24–48 小时；中温窑 200–980°C；高温窑 870–1300°C；冷却 48–72 小时。The diagram presents the manufacture of bricks for construction.把下句改写为 35–50 个英文词，保留真实流程，写到干燥结束：After being mixed with sand and water, the clay is cut with a wire cutter and then pressed into moulds before being heated at 200–980°C in the drying oven.作答 1暂时不会只根据图示，哪一句成立？A Every brick passes through both shaping methods.B The complete manufacturing process takes no more than five days.C Drying and cooling together account for between 72 and 120 hours, excluding all other stages.D The minimum temperature in the second kiln stage exceeds the maximum in the first.作答 2暂时不会答案1. 示例：After sand and water have been added, the clay mixture is shaped into bricks either with a wire cutter or in moulds. The newly formed bricks are then placed in a drying oven for between 24 and 48 hours.2. C。再练一次用两句英文描述干燥之后、包装之前的流程。写出两组温度和冷却时间，不编写图中未给出的加热时长。作答暂时不会答案The dried bricks pass through a kiln at a moderate temperature of 200–980°C and then a high-temperature stage of 870–1300°C. They are subsequently cooled in a chamber for 48–72 hours.选材来源 · IELTS Academic Writing Sample Tasks (2023) · Task 1C · 在线来源Task 1 · 平面图 学院咖啡厅改造0% · 0 / 2 完成根据两张平面图作答。The plans show a college café before its redesign and at present.写 55–75 个英文词，描述两间原 staff dining rooms 的去向，并对比厨房、厕所和中央座位区。作答 1暂时不会修改这段文字中所有与图不符或缺少依据的内容，保留能由图支持的变化：The kitchen was moved to the south, while all the indoor tables were removed. A coffee bar replaced the kitchen. The old serving area now offers only hot meals, and the café provides outdoor seating beside a barbecue.作答 2暂时不会答案1. 示例：The two former staff dining rooms have been converted into two separate food and drink outlets: takeaway food occupies the room on the left, while a coffee bar has replaced the room on the right. In contrast, the kitchen and toilets remain in their original locations, and the central area is still used for tables and chairs.2. 示例：The kitchen remains in place, and the central indoor seating area has been retained. A coffee bar has replaced the right-hand staff dining room. The former serving area is now labelled 'Hot meals', while outdoor seating and a barbecue have been added.再练一次写两句 overview：一句概括食品供应设施的变化，一句对比保留的室内功能与新增的室外空间。不要猜测客流、营业时间或容纳人数。作答暂时不会答案The café now has a wider range of dedicated food and drink outlets. The kitchen, toilets and central indoor seating area have been retained, while outdoor seating and a barbecue have been added.选材来源 · Cambridge IELTS 21 Academic · Test 2 · Task 1",
+  "links": [
+    {
+      "text": "Task 1 · 折线图",
+      "href": "#pr-writing1-jobs"
+    },
+    {
+      "text": "Task 1 · 流程图",
+      "href": "#pr-writing1-bricks"
+    },
+    {
+      "text": "Task 1 · 平面图",
+      "href": "#pr-writing1-cafe"
+    },
+    {
+      "text": "Cambridge IELTS 21 Academic · Test 1 · Task 1",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=30"
+    },
+    {
+      "text": "IELTS Academic Writing Sample Tasks (2023) · Task 1C",
+      "href": "case-assets/writing-official-sample-tasks-2023.pdf#page=5"
+    },
+    {
+      "text": "在线来源",
+      "href": "https://ielts.org/cdn/Sample-tests/ielts-academic-writing-sample-tasks-2023.pdf#page=5"
+    },
+    {
+      "text": "Cambridge IELTS 21 Academic · Test 2 · Task 1",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=52"
+    }
+  ],
+  "details": [
+    {
+      "id": "pr-writing1-jobs",
+      "title": "Task 1 · 折线图 四行业就业",
+      "open": true,
+      "visible": true
+    },
+    {
+      "id": "answer-check-47",
+      "title": "答案",
+      "open": false,
+      "answerGate": "[\"pr-writing1-jobs-q1\", \"pr-writing1-jobs-q2\"]",
+      "visible": true
+    },
+    {
+      "id": "",
+      "title": "再练一次",
+      "open": false,
+      "visible": true
+    },
+    {
+      "id": "answer-check-48",
+      "title": "答案",
+      "open": false,
+      "answerGate": "[\"pr-writing1-jobs-another\"]",
+      "visible": false
+    },
+    {
+      "id": "pr-writing1-bricks",
+      "title": "Task 1 · 流程图 砖块制造",
+      "open": true,
+      "visible": true
+    },
+    {
+      "id": "answer-check-49",
+      "title": "答案",
+      "open": false,
+      "answerGate": "[\"pr-writing1-bricks-q1\", \"pr-writing1-bricks-q2\"]",
+      "visible": true
+    },
+    {
+      "id": "",
+      "title": "再练一次",
+      "open": false,
+      "visible": true
+    },
+    {
+      "id": "answer-check-50",
+      "title": "答案",
+      "open": false,
+      "answerGate": "[\"pr-writing1-bricks-another\"]",
+      "visible": false
+    },
+    {
+      "id": "pr-writing1-cafe",
+      "title": "Task 1 · 平面图 学院咖啡厅改造",
+      "open": true,
+      "visible": true
+    },
+    {
+      "id": "answer-check-51",
+      "title": "答案",
+      "open": false,
+      "answerGate": "[\"pr-writing1-cafe-q1\", \"pr-writing1-cafe-q2\"]",
+      "visible": true
+    },
+    {
+      "id": "",
+      "title": "再练一次",
+      "open": false,
+      "visible": true
+    },
+    {
+      "id": "answer-check-52",
+      "title": "答案",
+      "open": false,
+      "answerGate": "[\"pr-writing1-cafe-another\"]",
+      "visible": false
+    }
+  ],
+  "saveFields": [
+    "pr-writing1-jobs-q1",
+    "pr-writing1-jobs-q2",
+    "pr-writing1-jobs-another",
+    "pr-writing1-bricks-q1",
+    "pr-writing1-bricks-q2",
+    "pr-writing1-bricks-another",
+    "pr-writing1-cafe-q1",
+    "pr-writing1-cafe-q2",
+    "pr-writing1-cafe-another"
+  ],
+  "images": [
+    {
+      "src": "case-assets/writing-c21-30.png",
+      "alt": "1960至2020年美国制造业、零售业、农业和医疗行业岗位数原图",
+      "visible": true,
+      "complete": true,
+      "width": 1399
+    },
+    {
+      "src": "case-assets/writing-official-5.png",
+      "alt": "官方制砖流程原图：制备、两种成形路径、干燥、两段烧制、冷却、包装、运输",
+      "visible": true,
+      "complete": true,
+      "width": 0
+    },
+    {
+      "src": "case-assets/writing-c21-52.png",
+      "alt": "学院咖啡厅改造前后的原始平面图",
+      "visible": true,
+      "complete": true,
+      "width": 0
+    }
+  ],
+  "audio": [],
+  "viewport": 1440,
+  "documentWidth": 1440
+}

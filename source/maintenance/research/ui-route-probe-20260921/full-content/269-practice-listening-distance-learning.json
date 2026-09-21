@@ -1,0 +1,248 @@
+{
+  "requested": "practice-listening-distance-learning",
+  "from": [
+    "内容单元"
+  ],
+  "actual": "#practice-listening-distance-learning",
+  "checkedAt": "2026-09-21T12:53:57.282Z",
+  "title": "练习 / 听力 / 远程学习：动机与时间安排 · IELTS",
+  "label": "练习 / 听力 / 远程学习：动机与时间安排",
+  "panel": "practice-listening",
+  "contentRoot": "practice-listening-distance-learning",
+  "headings": [
+    {
+      "tag": "H2",
+      "text": "远程学习：动机与时间安排",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "远程学习：动机、时间安排与模块",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "原题",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "原材料 · 第2页",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "原答案",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "具体解释",
+      "visible": false
+    }
+  ],
+  "controls": [
+    {
+      "tag": "AUDIO",
+      "id": "",
+      "text": "",
+      "label": "Recording 4 · 开放大学 · Q27–30",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "Q27\n暂时不会",
+      "href": null,
+      "save": "prereq-listening-24-q27",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "暂时不会",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "Q28\n暂时不会",
+      "href": null,
+      "save": "prereq-listening-24-q28",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "暂时不会",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "Q29\n暂时不会",
+      "href": null,
+      "save": "prereq-listening-24-q29",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "暂时不会",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "Q30\n暂时不会",
+      "href": null,
+      "save": "prereq-listening-24-q30",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "暂时不会",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "听后记录：不确定的题号／已重听或查稿",
+      "href": null,
+      "save": "prereq-listening-24-note",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "作答后查看文字稿",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "核对答案与解释",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "",
+      "label": "",
+      "href": "原始参考/support-50078fae-cambridge-zip-115010_Listening_sample_task_-_Sentence_completion.pdf#page=1",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "",
+      "label": "",
+      "href": "原始参考/support-50078fae-cambridge-zip-115010_Listening_sample_task_-_Sentence_completion.pdf#page=1",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    }
+  ],
+  "visibleText": "远程学习：动机与时间安排\n0% · 0 / 4 完成\n远程学习：动机、时间安排与模块\n\n本题使用 Recording 4 · 开放大学 · Q27–30。先读题并播放下面的原音；原稿与答案可在作答后分别展开。上方课堂音频是另一份材料。\n\n原题\n\nSECTION 3\n\nQuestions 27 – 30\n\nComplete the sentences below.\n\nWrite NO MORE THAN TWO WORDS for each answer.\n\nStudying with the Open University demanded a great deal of 27 …………………… .\n\nStudying and working at the same time improved Rachel’s 28 …………………… skills.\n\nIt was helpful that the course was structured in 29 …………………… .\n\nShe enjoyed meeting other students at 30 …………………… .\n\nQ27\n暂时不会\nQ28\n暂时不会\nQ29\n暂时不会\nQ30\n暂时不会\n听后记录：不确定的题号／已重听或查稿\n作答后查看文字稿\n核对答案与解释",
+  "allContent": "远程学习：动机与时间安排0% · 0 / 4 完成远程学习：动机、时间安排与模块本题使用 Recording 4 · 开放大学 · Q27–30。先读题并播放下面的原音；原稿与答案可在作答后分别展开。上方课堂音频是另一份材料。原题SECTION 3Questions 27 – 30Complete the sentences below.Write NO MORE THAN TWO WORDS for each answer.Studying with the Open University demanded a great deal of 27 …………………… .Studying and working at the same time improved Rachel’s 28 …………………… skills.It was helpful that the course was structured in 29 …………………… .She enjoyed meeting other students at 30 …………………… .Q27暂时不会Q28暂时不会Q29暂时不会Q30暂时不会听后记录：不确定的题号／已重听或查稿作答后查看文字稿原材料 · 第2页Tapescript for IELTS Listening Recording 4Two friends, Rachel and Paul, are discussing studying with the Open University. Rachel has already done a course at the university, but Paul has not. The extract relating to these questions comes from the last part of the recording.Paul The other thing I wanted to ask you was, did you find it hard, studying with the Open University? Rachel You mean, because you’re studying on your own, most of the time? Paul Mm. Rachel Well it took me a while to get used to it. I found I needed to maintain a high level of motivation, because it’s so different from school. There’s no-one saying, ‘Why haven’t you written your assignment yet?' and that sort of thing. Paul Oh dear. Rachel You’ll learn it, Paul. Another thing was that I got very good at time management because I had to fit time for studying round a full-time job. Paul Well I’m hoping to change to working part-time, so that’ll help. Rachel What makes it easier is that the degree is made up of modules, so you can take time off between them if you need to. It isn’t like a traditional three-or four-year course, where you’ve got to do the whole thing of it in one go. Paul That’s good, because I’d like to spend six months travelling next year. Rachel Huh, it’s all right for some. Then even though you’re mostly studying at home, remember you’ve got tutors to help you, and from time to time there are summer schools. They usually last a week. They’re great, because you meet all the other people struggling with the same things as you. I’ve made some really good friends that way. Paul Sounds good. So how do I apply?核对答案与解释原答案Answers:27 motivation28 time(-)management29 modules30 summer school(s)具体解释Q27 motivation 对应 maintain a high level of motivation；Q28 time management 由同时全职工作和学习解释。Q29 modules 对应可以在模块之间休息，不能填 degree。Q30 summer schools 是认识同学的活动，home 是大多数学业进行的地点，不能误填。原题限制两词，time-management 连字符形式及 summer school(s) 的可接受形式见原答案。完整原件：远程学习：动机、时间安排与模块 · 完整题面、原材料与答案远程学习：动机、时间安排与模块 · 完整题面、原材料与答案",
+  "links": [
+    {
+      "text": "远程学习：动机、时间安排与模块 · 完整题面、原材料与答案",
+      "href": "原始参考/support-50078fae-cambridge-zip-115010_Listening_sample_task_-_Sentence_completion.pdf#page=1"
+    },
+    {
+      "text": "远程学习：动机、时间安排与模块 · 完整题面、原材料与答案",
+      "href": "原始参考/support-50078fae-cambridge-zip-115010_Listening_sample_task_-_Sentence_completion.pdf#page=1"
+    }
+  ],
+  "details": [
+    {
+      "id": "answer-check-12",
+      "title": "作答后查看文字稿",
+      "open": false,
+      "answerGate": "[\"prereq-listening-24-q27\", \"prereq-listening-24-q28\", \"prereq-listening-24-q29\", \"prereq-listening-24-q30\"]",
+      "visible": true
+    },
+    {
+      "id": "answer-check-13",
+      "title": "核对答案与解释",
+      "open": false,
+      "answerGate": "[\"prereq-listening-24-q27\", \"prereq-listening-24-q28\", \"prereq-listening-24-q29\", \"prereq-listening-24-q30\"]",
+      "visible": true
+    }
+  ],
+  "saveFields": [
+    "prereq-listening-24-q27",
+    "prereq-listening-24-q28",
+    "prereq-listening-24-q29",
+    "prereq-listening-24-q30",
+    "prereq-listening-24-note"
+  ],
+  "images": [],
+  "audio": [
+    {
+      "src": "原始参考/bb61bf2b-recording-4.mp3",
+      "sources": [],
+      "visible": true,
+      "controls": true
+    }
+  ],
+  "viewport": 1440,
+  "documentWidth": 1440
+}

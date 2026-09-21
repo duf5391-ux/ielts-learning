@@ -1,0 +1,174 @@
+{
+  "requested": "writing1-case-wc-c21-t1-jobs",
+  "from": [
+    "内容单元",
+    "页面链接"
+  ],
+  "actual": "#writing1-case-wc-c21-t1-jobs",
+  "checkedAt": "2026-09-21T12:52:40.376Z",
+  "title": "练习 / 写作 · Task 1 / 美国四行业就业：峰值、交叉与最终排名 · IELTS",
+  "label": "练习 / 写作 · Task 1 / 美国四行业就业：峰值、交叉与最终排名",
+  "panel": "practice-writing1",
+  "contentRoot": "writing1-case-wc-c21-t1-jobs",
+  "headings": [
+    {
+      "tag": "H4",
+      "text": "本次写作任务",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "对照答案，回到证据",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "参考写法",
+      "visible": false
+    },
+    {
+      "tag": "H3",
+      "text": "答后精读",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "篇章结构",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "词语与搭配",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "句子精读",
+      "visible": false
+    }
+  ],
+  "controls": [
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "美国四行业就业：峰值、交叉与最终排名未作答\n折线图 · 原题拆段写作 · 参考段落与逐段讲解",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "Cambridge IELTS 21 Academic",
+      "label": "",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=30",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "",
+      "label": "",
+      "href": "case-assets/writing-c21-30.png",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "case-wc-c21-t1-jobs-answer",
+      "type": "textarea",
+      "text": "",
+      "label": "我的段落",
+      "href": null,
+      "save": "case-wc-c21-t1-jobs-answer",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "checkbox",
+      "text": "",
+      "label": "",
+      "href": null,
+      "save": "case-wc-c21-t1-jobs-done",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "hidden",
+      "text": "",
+      "label": "",
+      "href": null,
+      "save": "case-wc-c21-t1-jobs-saved-at",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "保留作答，查看答案",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "case-wc-c21-t1-jobs-revision",
+      "type": "textarea",
+      "text": "",
+      "label": "我的修订／证据笔记",
+      "href": null,
+      "save": "case-wc-c21-t1-jobs-revision",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    }
+  ],
+  "visibleText": "美国四行业就业：峰值、交叉与最终排名未作答\n折线图 · 原题拆段写作 · 参考段落与逐段讲解\n0% · 0 / 1 完成\n\n真题 · Cambridge IELTS 21 Academic · PDF 第 30 页\n\nThe graph below gives information about the number of jobs in four sectors of the economy in the US between 1960 and 2020.\n\n点击图示可查看大图。\n本次写作任务\n\n先独立写Overview，再写两个主体段（共约150–180词）：一段写制造业与农业，另一段写零售与医疗。必须给出单位，并交代制造业中途的峰值；不逐点流水账。\n\n我的段落\n\n0 词\n\n保留作答，查看答案\n\n先作答；不确定的题也可记录判断与疑点。",
+  "allContent": "美国四行业就业：峰值、交叉与最终排名未作答折线图 · 原题拆段写作 · 参考段落与逐段讲解0% · 0 / 1 完成真题 · Cambridge IELTS 21 Academic · PDF 第 30 页The graph below gives information about the number of jobs in four sectors of the economy in the US between 1960 and 2020.点击图示可查看大图。本次写作任务先独立写Overview，再写两个主体段（共约150–180词）：一段写制造业与农业，另一段写零售与医疗。必须给出单位，并交代制造业中途的峰值；不逐点流水账。我的段落0 词保留作答，查看答案先作答；不确定的题也可记录判断与疑点。对照答案，回到证据参考写法下列段落为针对原题编写的参考写法，用于对照内容和表达；写作没有唯一标准答案。Overall, manufacturing provided the most jobs at the beginning of the period, but it was overtaken by both retail and healthcare by 2020. Healthcare experienced the strongest growth, whereas agricultural employment declined and remained the smallest of the four sectors at the end.Manufacturing employment rose from 15 million in 1960 to a peak of 20 million in 1980. It then fell to approximately 17 million in 2000 and 13 million in 2020. Agriculture followed a different pattern: its workforce dropped from about 6 million to 3 million during the first twenty years, remained at that level in 2000, and decreased to roughly 2 million by the end.By contrast, the number of retail jobs increased throughout, from around 6 million in 1960 to 10 million in 1980 and 15 million in 2000, before reaching about 16 million in 2020. Healthcare grew from only 2 million jobs to 5 million and then 11 million, eventually matching retail at approximately 16 million.原图纵轴是Jobs in millions：15表示1500万个岗位，不是15%或15万人。制造业1980年达到20 million，之后下降；不能概括为1960–2020持续下降。零售与医疗2020年约16 million并列；医疗从2到16增长约14 million，增幅最大。农业1980与2000均约3 million，不能写每阶段都下降。答后精读篇章结构Overview回答主导行业更替与两组趋势。主体一合并峰值后下降的制造业和总体下降的农业。主体二并写增长行业，用最终并列收束比较。词语与搭配rise to a peak of 20 million：峰值位置与单位同时保留。be overtaken by：排名改变；这里由2020年的终点比较支持。eventually matching retail：结果分词短语，不再重复整句。句子精读Manufacturing employment rose from 15 million in 1960 to a peak of 20 million in 1980. → from交代起点，to交代终点；of连接峰值大小。Healthcare grew ... eventually matching retail ... → matching的主语仍是Healthcare，不是2020。我的修订／证据笔记",
+  "links": [
+    {
+      "text": "Cambridge IELTS 21 Academic",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=30"
+    },
+    {
+      "text": "",
+      "href": "case-assets/writing-c21-30.png"
+    }
+  ],
+  "details": [],
+  "saveFields": [
+    "case-wc-c21-t1-jobs-answer",
+    "case-wc-c21-t1-jobs-done",
+    "case-wc-c21-t1-jobs-saved-at",
+    "case-wc-c21-t1-jobs-revision"
+  ],
+  "images": [
+    {
+      "src": "case-assets/writing-c21-30.png",
+      "alt": "美国四行业就业：峰值、交叉与最终排名 · 原题图示，点击查看大图",
+      "visible": true,
+      "complete": true,
+      "width": 1399
+    }
+  ],
+  "audio": [],
+  "viewport": 1440,
+  "documentWidth": 1440
+}

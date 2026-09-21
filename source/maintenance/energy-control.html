@@ -1,0 +1,14 @@
+<div class="energy-control" id="energy-control" role="region" aria-label="学习与休息提醒">
+  <input type="hidden" data-save="energy-control-state" id="energy-control-state" value="">
+  <details>
+    <summary>Energy Control · <span id="energy-summary">安排一小段学习</span></summary>
+    <div class="energy-body">
+      <p>选一段适合现在状态的学习时间，到点提醒休息。可以随时停下；提醒不会替你结束录音、播放或考试计时。</p>
+      <div class="energy-options"><label>学习 <select id="energy-minutes"><option value="5">5 分钟</option><option value="10">10 分钟</option><option value="15" selected>15 分钟</option><option value="25">25 分钟</option></select></label><label>休息 <select id="energy-rest"><option value="2">2 分钟</option><option value="3" selected>3 分钟</option><option value="5">5 分钟</option></select></label></div>
+      <div class="energy-actions"><button type="button" id="energy-start">开始这一段</button><button type="button" id="energy-pause" hidden>暂停提醒计时</button><button type="button" id="energy-take-rest" hidden>现在休息</button><button type="button" id="energy-snooze" hidden>再给我 3 分钟</button><button type="button" id="energy-stop" hidden>结束这一轮</button><button type="button" id="energy-return" hidden>回到刚才的位置</button></div>
+      <p id="energy-message" role="status" aria-live="polite">开始前，选好这次要完成的一件小事。</p>
+      <p id="energy-storage" class="small" hidden></p>
+    </div>
+  </details>
+  <div id="energy-reminder" role="status" aria-live="polite" hidden></div>
+</div>

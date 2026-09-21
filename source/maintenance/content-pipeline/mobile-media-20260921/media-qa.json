@@ -1,0 +1,131 @@
+{
+  "candidate": "C:\\Users\\Admin1\\Documents\\ChatGPT\\ielts\\content-pipeline\\mobile-media-20260921\\开始学习.html",
+  "candidate_sha256": "7ea735c348907a20b6b808ee403423aea263c29811071067ddca41fa85bfce44",
+  "passed": true,
+  "save_fields": 3353,
+  "media_elements": 90,
+  "byte_identical_extracted_media": [
+    {
+      "path": "assets/deferred-media/d9746a71e252bb0f8e733e35.png",
+      "bytes": 277846,
+      "sha256": "d9746a71e252bb0f8e733e3545e003edaad523692917ff40b07c5c50be55f21c"
+    },
+    {
+      "path": "assets/deferred-media/d3afaafcc046eddb87d37fe1.png",
+      "bytes": 310129,
+      "sha256": "d3afaafcc046eddb87d37fe184192fa6f5a734681558b7babf699a9070a8613c"
+    },
+    {
+      "path": "assets/deferred-media/560f129de235f1d4642914fe.png",
+      "bytes": 194389,
+      "sha256": "560f129de235f1d4642914fe6eb2dca23ae9507ab8696dd6282dc8c80f6e6071"
+    },
+    {
+      "path": "assets/deferred-media/d287da2fb560d3fed741eebf.png",
+      "bytes": 140962,
+      "sha256": "d287da2fb560d3fed741eebf45749999a4b1e9b206fe9385e5d5dee91782147a"
+    },
+    {
+      "path": "assets/deferred-media/52869fd84bcce5d02839e9fa.png",
+      "bytes": 259279,
+      "sha256": "52869fd84bcce5d02839e9fa6feece5adeca500df4c1d2886558d091482e35f8"
+    },
+    {
+      "path": "assets/deferred-media/9d8f10911daa5dbe5f5ba009.png",
+      "bytes": 139033,
+      "sha256": "9d8f10911daa5dbe5f5ba009e09349fd27155d27b827260c22372cf94a96cb8b"
+    },
+    {
+      "path": "assets/deferred-media/8c158361e2aac1c78e2522d7.png",
+      "bytes": 750853,
+      "sha256": "8c158361e2aac1c78e2522d75a7b237cfd310ff7878c24f67a36cdcbc576bef3"
+    },
+    {
+      "path": "assets/deferred-media/e22385eaa5a6fc867c0bcf60.png",
+      "bytes": 1142428,
+      "sha256": "e22385eaa5a6fc867c0bcf60afb863cb2f91ba49f67ca3625e0172ecfa300b4e"
+    },
+    {
+      "path": "assets/deferred-media/375791efdf3c048bee6c8590.png",
+      "bytes": 387709,
+      "sha256": "375791efdf3c048bee6c8590ed4e666f20d663fbbbb4b4990ba69bbddd00623d"
+    },
+    {
+      "path": "assets/deferred-media/b697dc06b3c22bdd4b8625f3.png",
+      "bytes": 364523,
+      "sha256": "b697dc06b3c22bdd4b8625f39da3c4f1e15a7f239a436742c045b8f232efcf65"
+    },
+    {
+      "path": "assets/deferred-media/76f2dde71c6639690a44aae2.png",
+      "bytes": 103167,
+      "sha256": "76f2dde71c6639690a44aae22744aa701cd3e868e4cf388046828e75f715afd2"
+    },
+    {
+      "path": "assets/deferred-media/f7299d5bffdb6d1ba8a946be.png",
+      "bytes": 312725,
+      "sha256": "f7299d5bffdb6d1ba8a946beb71a0a18d9030d627f536f291c665c623d3d057c"
+    },
+    {
+      "path": "assets/deferred-media/dae398de6775422fb11c3857.png",
+      "bytes": 354182,
+      "sha256": "dae398de6775422fb11c38574b03b01a9302af7f8e3c90b0aac1053575232f4e"
+    },
+    {
+      "path": "assets/deferred-media/57f65808cad33b173a333432.png",
+      "bytes": 75767,
+      "sha256": "57f65808cad33b173a3334322f1b8917ea21f6ef13a0605a4b07227b3e2256a5"
+    },
+    {
+      "path": "assets/deferred-media/9aac9793ee2445128997f68c.png",
+      "bytes": 71449,
+      "sha256": "9aac9793ee2445128997f68c0de1f7d4b77f1c0e0a9773b1e759f02bee68663c"
+    },
+    {
+      "path": "assets/deferred-media/ce92c481950a411e786f35a4.png",
+      "bytes": 223903,
+      "sha256": "ce92c481950a411e786f35a40e869745a48e97cf030206e28f0fcaa0363a6eb8"
+    },
+    {
+      "path": "assets/deferred-media/30cb59c0ee2521e9e7423fae.png",
+      "bytes": 52253,
+      "sha256": "30cb59c0ee2521e9e7423fae5d0d82618c8f170ab4783e026b0204d140a43c6e"
+    },
+    {
+      "path": "assets/deferred-media/9619c1b353aa1f691282076a.png",
+      "bytes": 195238,
+      "sha256": "9619c1b353aa1f691282076a88dbd90fef9dc3988ace02308bba220f23ea69e2"
+    },
+    {
+      "path": "assets/deferred-media/d9918afe6239647335829b49.png",
+      "bytes": 109261,
+      "sha256": "d9918afe6239647335829b49cb6833fd1fe7dd0128281910e29fb4ab57cc347f"
+    },
+    {
+      "path": "assets/deferred-media/9d796f2edcb8df33da4d8359.mp3",
+      "bytes": 1221172,
+      "sha256": "9d796f2edcb8df33da4d83593189ce3b5e099423326bca33e140526fbed032ff"
+    },
+    {
+      "path": "assets/deferred-media/9ee7575746566a3379ded1b9.png",
+      "bytes": 70060,
+      "sha256": "9ee7575746566a3379ded1b93460adecb0dced8e34977330418450151ae547e4"
+    },
+    {
+      "path": "assets/deferred-media/db6763292844abf87be657a6.mp3",
+      "bytes": 549410,
+      "sha256": "db6763292844abf87be657a6297fdfcd654a40f2dd3771e75359640769b20113"
+    },
+    {
+      "path": "assets/deferred-media/635531d17720f8da1f752475.png",
+      "bytes": 113893,
+      "sha256": "635531d17720f8da1f752475661c27592472fc345fac6ba279878149960837da"
+    },
+    {
+      "path": "assets/deferred-media/eb0f9fcc788b670d6e93a16f.mp3",
+      "bytes": 762402,
+      "sha256": "eb0f9fcc788b670d6e93a16f2431324cc034d59a1c0f5b00f36291c5d4f5092d"
+    }
+  ],
+  "other_media_src_unchanged": true,
+  "browser_evidence": "Initial media-only candidate: CUA at loopback origin; audio #listening-first played to 13.380105s of 154.592653s, readyState4, no error, paused; four Miles Davis PNGs loaded at 951x1345; phone-width document had no horizontal overflow. Combined release needs its own UI verification."
+}

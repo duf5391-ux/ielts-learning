@@ -1,0 +1,13 @@
+const assert=require('node:assert/strict');
+const M=require('./learning-adjust-model.js');
+let count=0;function test(name,f){f();count++;process.stdout.write('PASS '+name+'\n');}
+test('blank and whitespace do not reveal answers',()=>{assert.equal(M.canCheck(['q1'],{q1:'  '}),false);assert.equal(M.canCheck([],{q1:'a'}),false);assert.equal(M.canCheck(['q1','q2'],{q1:'a',q2:''}),false);});
+test('explicit uncertainty is a valid attempt',()=>assert.equal(M.canCheck(['q1'],{q1:'暂时不会'}),true));
+test('first checked answer remains immutable',()=>{const s=M.check(M.initial(),'g',['q1'],{q1:'first'},'2026-09-20');const second=M.check(s,'g',['q1'],{q1:'corrected'},'2026-09-21');assert.equal(second.checked.g.answers.q1,'first');});
+test('progress has an explicit denominator',()=>{assert.deepEqual(M.progress([true,false,true,false]),{done:2,total:4,percent:50});assert.equal(M.progress([]).percent,0);});
+test('partial keys cannot become full listening scores',()=>{const r=M.score({'1':'ROUND','2':'12 years','3':'unverified'},{'1':['round'],'2':['12 years']});assert.equal(r.correct,2);assert.equal(r.verified,2);assert.equal(r.rows.length,2);});
+test('test submission preserves all blanks and freezes original values',()=>{let s=M.startTest(M.initial(),'reading',100,3600000);s=M.submitTest(s,'reading',{'1':'x','2':''},200);assert.equal(s.tests.reading.status,'submitted');assert.equal(s.tests.reading.answers['2'],'');const t=M.startTest(s,'reading',300,3600000);assert.deepEqual(t.tests.reading.answers,{});assert.equal(t.tests.reading.history[0].answers['1'],'x');});
+test('resuming a test does not restart its clock',()=>{const s=M.startTest(M.initial(),'reading',100,3600000);assert.equal(M.startTest(s,'reading',500,3600000).tests.reading.start,100);});
+test('full mock archives each subject once, with queued clocks',()=>{let s=M.startTest(M.initial(),'reading',100,3600000);s=M.queueMock(s,{reading:{'1':'draft'},listening:{},writing:{},speaking:{}},1000);assert.equal(s.tests.reading.history.length,1);assert.equal(s.tests.reading.history[0].answers['1'],'draft');assert.equal(s.tests.reading.status,'queued');s=M.startTest(s,'reading',2000,3600000);assert.equal(s.tests.reading.history.length,1);assert.equal(s.tests.reading.start,2000);assert.equal(s.tests.speaking.start,0);M.read(JSON.stringify(s));});
+test('corrupt records are rejected rather than overwritten',()=>{for(const s of ['{','[]',JSON.stringify({...M.initial(),today:1}),JSON.stringify({...M.initial(),tests:{reading:{status:'submitted',start:0,duration:1,answers:{},history:[]}}})])assert.throws(()=>M.read(s));});
+process.stdout.write(count+' model checks passed\n');

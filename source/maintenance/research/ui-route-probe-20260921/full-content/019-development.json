@@ -1,0 +1,72 @@
+{
+  "requested": "development",
+  "from": [
+    "主面板",
+    "导航按钮"
+  ],
+  "actual": "#development",
+  "checkedAt": "2026-09-21T12:50:41.294Z",
+  "title": "开发工作台 · IELTS",
+  "label": "开发工作台",
+  "panel": "development",
+  "contentRoot": "development",
+  "headings": [
+    {
+      "tag": "H1",
+      "text": "开发工作台",
+      "visible": true
+    },
+    {
+      "tag": "H2",
+      "text": "网站文件",
+      "visible": true
+    },
+    {
+      "tag": "H2",
+      "text": "发布记录",
+      "visible": true
+    }
+  ],
+  "controls": [
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "打开项目仓库 ↗",
+      "label": "",
+      "href": "https://github.com/duf5391-ux/ielts-learning",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "查看发布记录 ↗",
+      "label": "",
+      "href": "https://github.com/duf5391-ux/ielts-learning/actions",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    }
+  ],
+  "visibleText": "开发工作台\n\n网站与内容维护，集中在这里。\n\n网站文件\n\n查看已发布的网页文件和内容版本。\n\n打开项目仓库 ↗\n发布记录\n\n查看每次网站更新的发布结果。\n\n查看发布记录 ↗",
+  "allContent": "\n  DEVELOPMENT开发工作台网站与内容维护，集中在这里。\n  \n    网站文件查看已发布的网页文件和内容版本。打开项目仓库 ↗\n    发布记录查看每次网站更新的发布结果。查看发布记录 ↗\n  \n",
+  "links": [
+    {
+      "text": "打开项目仓库 ↗",
+      "href": "https://github.com/duf5391-ux/ielts-learning"
+    },
+    {
+      "text": "查看发布记录 ↗",
+      "href": "https://github.com/duf5391-ux/ielts-learning/actions"
+    }
+  ],
+  "details": [],
+  "saveFields": [],
+  "images": [],
+  "audio": [],
+  "viewport": 1440,
+  "documentWidth": 1440
+}

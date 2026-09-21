@@ -1,0 +1,445 @@
+{
+  "requested": "learn-vocab-meet-needs",
+  "from": [
+    "内容单元"
+  ],
+  "actual": "#learn-vocab-meet-needs",
+  "checkedAt": "2026-09-21T12:53:09.056Z",
+  "title": "学习 / 短语 / meet someone's needs｜满足具体需要 · IELTS",
+  "label": "学习 / 短语 / meet someone's needs｜满足具体需要",
+  "panel": "phrases",
+  "contentRoot": "learn-vocab-meet-needs",
+  "headings": [
+    {
+      "tag": "H3",
+      "text": "意义与结构",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "例句",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "易混点",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "留下本单元首稿",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "核对依据，再修订",
+      "visible": false
+    },
+    {
+      "tag": "H3",
+      "text": "换个情境再用一次",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "meet needs：具体说明谁的需要",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "meet needs：具体说明谁的需要",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "基于原题的参考改述",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "城市公交：可达性、排队与实施问题",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "原文 · 印刷页64",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "原文 · 印刷页65",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "原题 · 印刷页66",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "原题 · 印刷页67",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "答案与证据解释",
+      "visible": true
+    }
+  ],
+  "controls": [
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "02\nmeet someone's needs｜满足具体需要\n评价教育、交通或公共服务时，把笼统的“好”改为满足谁的什么需要。\n约 8 分钟",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "checkbox",
+      "text": "",
+      "label": "收藏这组搭配 ★",
+      "href": null,
+      "save": "vocabbookmark-extra-vocab-meet-needs",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "可选：记录或再练一次",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SELECT",
+      "id": "",
+      "type": "select-one",
+      "text": "",
+      "label": "",
+      "href": null,
+      "save": "enrich-vocab-meet-needs-familiarity",
+      "visible": false,
+      "disabled": false,
+      "required": false,
+      "options": [
+        {
+          "value": "",
+          "label": "未标记"
+        },
+        {
+          "value": "K",
+          "label": "K · 以前就会主动用"
+        },
+        {
+          "value": "R",
+          "label": "R · 认识，但平时不用"
+        },
+        {
+          "value": "N",
+          "label": "N · 这次新学的用法"
+        }
+      ]
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "我的答案／口语录音文件与简记",
+      "href": null,
+      "save": "enrich-vocab-meet-needs-answer",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "checkbox",
+      "text": "",
+      "label": "",
+      "href": null,
+      "save": "enrich-vocab-meet-needs-frozen",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "text",
+      "text": "",
+      "label": "",
+      "href": null,
+      "save": "enrich-vocab-meet-needs-saved-at",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "保留首稿，打开反馈",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "修订：哪里变了，为什么",
+      "href": null,
+      "save": "enrich-vocab-meet-needs-revision",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "可选：记录或再练一次",
+      "label": "",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "迁移答案／隔日回忆记录",
+      "href": null,
+      "save": "enrich-vocab-meet-needs-transfer",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "可选：记录或再练一次",
+      "label": "",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SELECT",
+      "id": "",
+      "type": "select-one",
+      "text": "请选择内容或语境没理解词义或声音没认出词汇选择／搭配不稳证据、逻辑或展开不足语法或句子组织问题暂时独立完成，隔天再检验",
+      "label": "这次最需要补什么？请选择内容或语境没理解词义或声音没认出词汇选择／搭配不稳证据、逻辑或展开不足语法或句子组织问题暂时独立完成，隔天再检验",
+      "href": null,
+      "save": "enrich-vocab-meet-needs-diagnosis",
+      "visible": false,
+      "disabled": false,
+      "required": false,
+      "options": [
+        {
+          "value": "",
+          "label": "请选择"
+        },
+        {
+          "value": "内容或语境没理解",
+          "label": "内容或语境没理解"
+        },
+        {
+          "value": "词义或声音没认出",
+          "label": "词义或声音没认出"
+        },
+        {
+          "value": "词汇选择／搭配不稳",
+          "label": "词汇选择／搭配不稳"
+        },
+        {
+          "value": "证据、逻辑或展开不足",
+          "label": "证据、逻辑或展开不足"
+        },
+        {
+          "value": "语法或句子组织问题",
+          "label": "语法或句子组织问题"
+        },
+        {
+          "value": "暂时独立完成，隔天再检验",
+          "label": "暂时独立完成，隔天再检验"
+        }
+      ]
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "配套材料",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "",
+      "label": "",
+      "href": "https://dictionary.cambridge.org/dictionary/english/meet-needs",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "Cambridge IELTS 21 Academic · Test 3 · 物理页65 / 印刷页64",
+      "label": "",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=65",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "Cambridge IELTS 21 Academic · Test 3 · 物理页67 / 印刷页66",
+      "label": "",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=67",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "Cambridge IELTS 21 Academic · Test 3 · 物理页123 / 印刷页122",
+      "label": "",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=123",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "Cambridge IELTS 21 Academic · Test 3 · 物理页65 / 印刷页64",
+      "label": "",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=65",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "Cambridge IELTS 21 Academic · Test 3 · 物理页67 / 印刷页66",
+      "label": "",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=67",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "Cambridge IELTS 21 Academic · Test 3 · 物理页123 / 印刷页122",
+      "label": "",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=123",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    }
+  ],
+  "visibleText": "02\nmeet someone's needs｜满足具体需要\n评价教育、交通或公共服务时，把笼统的“好”改为满足谁的什么需要。\n约 8 分钟\n0% · 0 / 1 完成\n收藏这组搭配 ★\n可选：记录或再练一次\n意义与结构\n\nmeet someone's needs 或 meet the needs of + 人／群体，表示提供的东西符合对方需要。这里 meet 不是“见面”；过去式和过去分词都是 met。needs 通常用复数，若已明确一个具体需要也可说 meet a need。\n\n例句\n\nEvening classes can meet the needs of adults who work during the day. 晚课能满足白天工作的成年人的需要。\n\nA single bus route may not meet everyone's travel needs. 一条公交线路可能无法满足所有人的出行需要。\n\n易混点\n\n满足需要不等于满足每个人的所有愿望。尽量写明群体与具体需要，而不是空泛地写 meet people's needs。address a need 可表示着手回应需要，语义不必达到“已经满足”的程度。\n\n留下本单元首稿\n\n本单元先学再用；不记为未见初测。口语可使用原章节录音器，或自行录音并记文件名。\n\n先读短课，再独立应用；保存后看反馈。\n\n① 用 meet 的正确形式填空：Some learners feel that their needs are not being ＿＿＿＿. ② 用目标表达写“灵活的预约时间能满足轮班工作者的需要”。③ 你的教材需要满足哪一种具体需要？写一句英语。\n\n我的答案／口语录音文件与简记\n保留首稿，打开反馈\n\n先写下自己的答案。\n\n配套材料\nmeet needs：具体说明谁的需要\nmeet needs：具体说明谁的需要\n\n原题Q21答案wheelchairs，证据step-free且entire route accessible。这一具体设计对应“需要”，不能泛称系统满足全部居民所有需求。\n\n基于原题的参考改述\n\nStep-free buses help meet the needs of passengers who use wheelchairs.\n\n此句是对下方真题事实的原创改述，目标搭配不冒称原文用词。\n\n城市公交：可达性、排队与实施问题\n\n先读这一组完整原文页，再完成对应原题。以下时代、数量与观点均按考试文章语境理解。\n\n原文 · 印刷页64\n\nREADING PASSAGE 2\n\nYou should spend about 20 minutes on Questions 14-26, which are based on Passage 2 below.\n\nThe problems of getting around the city of\n\nDar es Salaam\n\nDar es Salaam in Tanzania is one of the fastest growing cities in Africa. Its population has increased eightfold since 1980 and swells by half a million people every year. United Nations projections anticipate it will become a megacity within seven years as its population passes 10 million, reaching 13.4 million by 2035. Daniel Hoornweg for the Global Cities Institute forecasts the city could be home to an incredible 73.7 million people by 2100.\n\nToday, four out of five of its people live in single-storey informal settlements on the spreading edges of the city, where the journey to and from the centre regularly takes over two hours. It can be longer if rain turns the dirt roads to mud.\n\nEven in the middle of the day, traffic frequently slows to a stop without warning. It is not unusual for cars and minibuses to queue for 20 minutes at a key intersection. A single suburban rail line serves residents in a few areas to the south but is tiny in the context of the wider city. Outside the centre many rely on boda boda (motorbike taxis) to navigate the narrow side streets and potholed mud roads that make up much of the metropolis. Their safety record is scandalous.\n\nDar es Salaam's reliance on four arterial roads into the city is a legacy of the colonial government that planned the city at the start of the 20th century to cater for a population of 35,000. Most of the current growth is made up of young people arriving from the countryside to find work, and as the population has exploded, Dar es Salaam has grown around those four highways. Nearly all the expansion is happening on the periphery, and nearly all takes place informally without any agreed strategy.\n\nBut Dar es Salaam is pinning its hopes on a solution that could offer a different model for Africa's megacities, giving them an alternative to a future controlled by the private car. Unlike many cities on the continent, Dar es Salaam isn't trying to build a metro. It has chosen a less exciting but cheaper and more achievable method: the bus.\n\nThe DART bus rapid transit (BRT) system runs on bus lanes separated from other traffic, mostly in the middle of the road to reduce stoppages. Ticket purchase and control takes place at stations prior to boarding and the buses are step-free, which means the entire route is accessible to people using wheelchairs or who are travelling with baby buggies.\n\n原文 · 印刷页65\n\n'The new buses are much, much better,' says Paulas George, a young IT worker. He takes the bus every day and it has cut his journey time by two-thirds. He says it is not perfect, though, complaining that drivers often refuse to turn on the air conditioning to save fuel.\n\nThat is not the only problem. A shortage of buses after a serious flood at the main depot during the rainy season means the system is carrying 200,000 people a day - half the expected capacity. Smartcards can't be used as the mechanical readers aren't working either, forcing passengers to buy individual paper tickets for every journey. Each is printed with a scannable QR code, but there are no scanners. Staff stand by the gates and tear tickets as people enter. As a result, queues are considerable at peak times.\n\nMorogoro Road to the north-west of the city was phase I of the BRT project. Phases II and III will install bus lanes along Nyerere Road to the south-west and Kilwa Road to the south. Construction on both routes is due to start imminently. Phase IV, towards Bagamoyo in the north, is in the preliminary design stage. 'Much of the city will have access to a world-class transport system within the space of a few years,' says Chris Kost, the Africa director of ITDP (the Institute for Transportation and Development Policy). All phases are being planned to high standards and, once complete, a third of city residents will be within a short walk of the BRT network.\n\nThe ITDP regrets Africa's obsession with metros. 'With a metro, an international firm will often just parachute in its own system,' says Kost. 'Bus rapid transit allows existing stakeholders to get involved. That's what we did in Dar es Salaam and what we're planning in Nairobi, where the bus bodies will be built in the city and local operators will look after tickets, fare collection and IT ... Bus rapid transit has been transformational for Dar es Salaam. For millions of people in African cities, this is their best hope of ever being connected.'\n\n原题 · 印刷页66\n\nQuestions 14-18\n\nDo the following statements agree with the information given in Reading Passage 2?\n\nIn boxes 14-18 on your answer sheet, write\n\nTRUE FALSE NOT GIVEN\n\nif the statement agrees with the information if the statement contradicts the information if there is no information on this\n\n14 The population of Dar es Salaam is rising more rapidly than was previously predicted.\n\n15 Most of the residents of Dar es Salaam live in high-rise blocks on the edge of the city.\n\n16 Residents have been consulted about their views on the suburban rail line in Dar es Salaam.\n\n17 The majority of the present residential development in Dar es Salaam is unplanned.\n\n18 Dar es Salaam's authorities have decided to follow the public transport plan adopted by a large number of African cities.\n\n原题 · 印刷页67\n\nQuestions 19-26\n\nComplete the notes below.\n\nChoose ONE WORD ONLY from the passage for each answer.\n\nWrite your answers in boxes 19-26 on your answer sheet.\n\nDar es Salaam's DART Bus Rapid Transit system\n\nFeatures • the buses use designated 19 ..................................... to cut down on delays\n\n• passengers pay fares before 20 ................................... ..\n\n• passengers in 21 ..................................... can use every part of the system\n\nProblems • the temperature control is sometimes not activated in order to reduce 22 ..................................... use\n\n• insufficient number of vehicles are available due to the effects of a severe 23 .................................... .\n\n• passengers are unable to use 24 ..................................... because some equipment is out of action • tickets have to be checked manually at station 25 .................................... .\n\n• 26 ..................................... frequently build up during rush hours\n\np. 1221\n\n答案与证据解释\n\nQ14 NOT GIVEN：有多组增长预测，但没有实际比以前预测更快的比较；Q15 FALSE：single-storey与high-rise冲突；Q16 NOT GIVEN：没有铁路居民咨询；Q17 TRUE：without any agreed strategy说明无规划；Q18 FALSE：Unlike many cities说明并非照搬众多城市的地铁计划。Q19–26 lanes/boarding/wheelchairs/fuel/flood/smartcards/gates/queues。轮椅通达性来自step-free；停空调为了节油；洪水使车辆不足；读卡器与扫描器坏了导致人工检票和队列。好处与实施缺陷同时存在，不能只摘“公交更好”。\n\n完整原件：Cambridge IELTS 21 Academic · Test 3 · 物理页65 / 印刷页64；Cambridge IELTS 21 Academic · Test 3 · 物理页67 / 印刷页66；Cambridge IELTS 21 Academic · Test 3 · 物理页123 / 印刷页122\n\nCambridge IELTS 21 Academic · Test 3 · 物理页65 / 印刷页64\n\nCambridge IELTS 21 Academic · Test 3 · 物理页67 / 印刷页66\n\nCambridge IELTS 21 Academic · Test 3 · 物理页123 / 印刷页122",
+  "allContent": "02meet someone's needs｜满足具体需要评价教育、交通或公共服务时，把笼统的“好”改为满足谁的什么需要。约 8 分钟0% · 0 / 1 完成收藏这组搭配 ★可选：记录或再练一次学习前自评：这个用法熟悉吗？未标记K · 以前就会主动用R · 认识，但平时不用N · 这次新学的用法意义与结构\nmeet someone's needs 或 meet the needs of + 人／群体，表示提供的东西符合对方需要。这里 meet 不是“见面”；过去式和过去分词都是 met。needs 通常用复数，若已明确一个具体需要也可说 meet a need。\n例句\nEvening classes can meet the needs of adults who work during the day.\n晚课能满足白天工作的成年人的需要。\nA single bus route may not meet everyone's travel needs.\n一条公交线路可能无法满足所有人的出行需要。\n易混点\n满足需要不等于满足每个人的所有愿望。尽量写明群体与具体需要，而不是空泛地写 meet people's needs。address a need 可表示着手回应需要，语义不必达到“已经满足”的程度。留下本单元首稿本单元先学再用；不记为未见初测。口语可使用原章节录音器，或自行录音并记文件名。先读短课，再独立应用；保存后看反馈。\n① 用 meet 的正确形式填空：Some learners feel that their needs are not being ＿＿＿＿. ② 用目标表达写“灵活的预约时间能满足轮班工作者的需要”。③ 你的教材需要满足哪一种具体需要？写一句英语。我的答案／口语录音文件与简记保留首稿，打开反馈先写下自己的答案。核对依据，再修订① met，构成 are not being met，被动表达需要尚未得到满足。② Flexible appointment times can meet the needs of shift workers. 也可写 meet shift workers' needs。③ 如：The materials need to meet my need for clear explanations of word choice. 这是一个已明确的 need；若列出多种学习需要，可用 learning needs。检查所有格或 of 结构是否完整，以及是否讲清具体对象。\n自查只记三项：意义是否符合本意；结构是否完整；是否保留必要的范围或条件。参考答案不是唯一合法表达，不根据是否使用这个搭配给雅思分数。修订：哪里变了，为什么换个情境再用一次隔日换到公共交通话题，用 meet the needs of 写一句带具体受益群体的评价，并补一句说明什么服务才能满足它。可选：记录或再练一次迁移答案／隔日回忆记录可选：记录或再练一次这次最需要补什么？请选择内容或语境没理解词义或声音没认出词汇选择／搭配不稳证据、逻辑或展开不足语法或句子组织问题暂时独立完成，隔天再检验配套材料Cambridge Dictionary：meet someone's needsmeet needs：具体说明谁的需要meet needs：具体说明谁的需要原题Q21答案wheelchairs，证据step-free且entire route accessible。这一具体设计对应“需要”，不能泛称系统满足全部居民所有需求。基于原题的参考改述Step-free buses help meet the needs of passengers who use wheelchairs.此句是对下方真题事实的原创改述，目标搭配不冒称原文用词。城市公交：可达性、排队与实施问题先读这一组完整原文页，再完成对应原题。以下时代、数量与观点均按考试文章语境理解。原文 · 印刷页64READING PASSAGE 2You should spend about 20 minutes on Questions 14-26, which are based on Passage 2 below.The problems of getting around the city ofDar es SalaamDar es Salaam in Tanzania is one of the fastest growing cities in Africa. Its population has increased eightfold since 1980 and swells by half a million people every year. United Nations projections anticipate it will become a megacity within seven years as its population passes 10 million, reaching 13.4 million by 2035. Daniel Hoornweg for the Global Cities Institute forecasts the city could be home to an incredible 73.7 million people by 2100.Today, four out of five of its people live in single-storey informal settlements on the spreading edges of the city, where the journey to and from the centre regularly takes over two hours. It can be longer if rain turns the dirt roads to mud.Even in the middle of the day, traffic frequently slows to a stop without warning. It is not unusual for cars and minibuses to queue for 20 minutes at a key intersection. A single suburban rail line serves residents in a few areas to the south but is tiny in the context of the wider city. Outside the centre many rely on boda boda (motorbike taxis) to navigate the narrow side streets and potholed mud roads that make up much of the metropolis. Their safety record is scandalous.Dar es Salaam's reliance on four arterial roads into the city is a legacy of the colonial government that planned the city at the start of the 20th century to cater for a population of 35,000. Most of the current growth is made up of young people arriving from the countryside to find work, and as the population has exploded, Dar es Salaam has grown around those four highways. Nearly all the expansion is happening on the periphery, and nearly all takes place informally without any agreed strategy.But Dar es Salaam is pinning its hopes on a solution that could offer a different model for Africa's megacities, giving them an alternative to a future controlled by the private car. Unlike many cities on the continent, Dar es Salaam isn't trying to build a metro. It has chosen a less exciting but cheaper and more achievable method: the bus.The DART bus rapid transit (BRT) system runs on bus lanes separated from other traffic, mostly in the middle of the road to reduce stoppages. Ticket purchase and control takes place at stations prior to boarding and the buses are step-free, which means the entire route is accessible to people using wheelchairs or who are travelling with baby buggies.原文 · 印刷页65'The new buses are much, much better,' says Paulas George, a young IT worker. He takes the bus every day and it has cut his journey time by two-thirds. He says it is not perfect, though, complaining that drivers often refuse to turn on the air conditioning to save fuel.That is not the only problem. A shortage of buses after a serious flood at the main depot during the rainy season means the system is carrying 200,000 people a day - half the expected capacity. Smartcards can't be used as the mechanical readers aren't working either, forcing passengers to buy individual paper tickets for every journey. Each is printed with a scannable QR code, but there are no scanners. Staff stand by the gates and tear tickets as people enter. As a result, queues are considerable at peak times.Morogoro Road to the north-west of the city was phase I of the BRT project. Phases II and III will install bus lanes along Nyerere Road to the south-west and Kilwa Road to the south. Construction on both routes is due to start imminently. Phase IV, towards Bagamoyo in the north, is in the preliminary design stage. 'Much of the city will have access to a world-class transport system within the space of a few years,' says Chris Kost, the Africa director of ITDP (the Institute for Transportation and Development Policy). All phases are being planned to high standards and, once complete, a third of city residents will be within a short walk of the BRT network.The ITDP regrets Africa's obsession with metros. 'With a metro, an international firm will often just parachute in its own system,' says Kost. 'Bus rapid transit allows existing stakeholders to get involved. That's what we did in Dar es Salaam and what we're planning in Nairobi, where the bus bodies will be built in the city and local operators will look after tickets, fare collection and IT ... Bus rapid transit has been transformational for Dar es Salaam. For millions of people in African cities, this is their best hope of ever being connected.'原题 · 印刷页66Questions 14-18Do the following statements agree with the information given in Reading Passage 2?In boxes 14-18 on your answer sheet, writeTRUE FALSE NOT GIVENif the statement agrees with the information if the statement contradicts the information if there is no information on this14 The population of Dar es Salaam is rising more rapidly than was previously predicted.15 Most of the residents of Dar es Salaam live in high-rise blocks on the edge of the city.16 Residents have been consulted about their views on the suburban rail line in Dar es Salaam.17 The majority of the present residential development in Dar es Salaam is unplanned.18 Dar es Salaam's authorities have decided to follow the public transport plan adopted by a large number of African cities.原题 · 印刷页67Questions 19-26Complete the notes below.Choose ONE WORD ONLY from the passage for each answer.Write your answers in boxes 19-26 on your answer sheet.Dar es Salaam's DART Bus Rapid Transit systemFeatures • the buses use designated 19 ..................................... to cut down on delays• passengers pay fares before 20 ................................... ..• passengers in 21 ..................................... can use every part of the systemProblems • the temperature control is sometimes not activated in order to reduce 22 ..................................... use• insufficient number of vehicles are available due to the effects of a severe 23 .................................... .• passengers are unable to use 24 ..................................... because some equipment is out of action • tickets have to be checked manually at station 25 .................................... .• 26 ..................................... frequently build up during rush hoursp. 1221答案与证据解释Q14 NOT GIVEN：有多组增长预测，但没有实际比以前预测更快的比较；Q15 FALSE：single-storey与high-rise冲突；Q16 NOT GIVEN：没有铁路居民咨询；Q17 TRUE：without any agreed strategy说明无规划；Q18 FALSE：Unlike many cities说明并非照搬众多城市的地铁计划。Q19–26 lanes/boarding/wheelchairs/fuel/flood/smartcards/gates/queues。轮椅通达性来自step-free；停空调为了节油；洪水使车辆不足；读卡器与扫描器坏了导致人工检票和队列。好处与实施缺陷同时存在，不能只摘“公交更好”。完整原件：Cambridge IELTS 21 Academic · Test 3 · 物理页65 / 印刷页64；Cambridge IELTS 21 Academic · Test 3 · 物理页67 / 印刷页66；Cambridge IELTS 21 Academic · Test 3 · 物理页123 / 印刷页122Cambridge IELTS 21 Academic · Test 3 · 物理页65 / 印刷页64Cambridge IELTS 21 Academic · Test 3 · 物理页67 / 印刷页66Cambridge IELTS 21 Academic · Test 3 · 物理页123 / 印刷页122",
+  "links": [
+    {
+      "text": "Cambridge Dictionary：meet someone's needs",
+      "href": "https://dictionary.cambridge.org/dictionary/english/meet-needs"
+    },
+    {
+      "text": "Cambridge IELTS 21 Academic · Test 3 · 物理页65 / 印刷页64",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=65"
+    },
+    {
+      "text": "Cambridge IELTS 21 Academic · Test 3 · 物理页67 / 印刷页66",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=67"
+    },
+    {
+      "text": "Cambridge IELTS 21 Academic · Test 3 · 物理页123 / 印刷页122",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=123"
+    },
+    {
+      "text": "Cambridge IELTS 21 Academic · Test 3 · 物理页65 / 印刷页64",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=65"
+    },
+    {
+      "text": "Cambridge IELTS 21 Academic · Test 3 · 物理页67 / 印刷页66",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=67"
+    },
+    {
+      "text": "Cambridge IELTS 21 Academic · Test 3 · 物理页123 / 印刷页122",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=123"
+    }
+  ],
+  "details": [
+    {
+      "id": "",
+      "title": "可选：记录或再练一次",
+      "open": false,
+      "visible": true
+    },
+    {
+      "id": "",
+      "title": "可选：记录或再练一次",
+      "open": false,
+      "visible": false
+    },
+    {
+      "id": "",
+      "title": "可选：记录或再练一次",
+      "open": false,
+      "visible": false
+    },
+    {
+      "id": "",
+      "title": "配套材料",
+      "open": false,
+      "visible": true
+    }
+  ],
+  "saveFields": [
+    "vocabbookmark-extra-vocab-meet-needs",
+    "enrich-vocab-meet-needs-familiarity",
+    "enrich-vocab-meet-needs-answer",
+    "enrich-vocab-meet-needs-frozen",
+    "enrich-vocab-meet-needs-saved-at",
+    "enrich-vocab-meet-needs-revision",
+    "enrich-vocab-meet-needs-transfer",
+    "enrich-vocab-meet-needs-diagnosis"
+  ],
+  "images": [],
+  "audio": [],
+  "viewport": 1440,
+  "documentWidth": 1440
+}

@@ -1,0 +1,249 @@
+{
+  "requested": "reading-feedback",
+  "from": [
+    "页面链接"
+  ],
+  "actual": "#reading-feedback",
+  "checkedAt": "2026-09-21T12:54:54.982Z",
+  "title": "学习 / 阅读 / 阅读 · 从原题开始学 · IELTS",
+  "label": "学习 / 阅读 / 阅读 · 从原题开始学",
+  "panel": "reading",
+  "contentRoot": "reading-feedback",
+  "headings": [
+    {
+      "tag": "H2",
+      "text": "原题核对",
+      "visible": false
+    },
+    {
+      "tag": "H2",
+      "text": "词汇与句子中的真实作用",
+      "visible": false
+    },
+    {
+      "tag": "H2",
+      "text": "反馈后怎么修",
+      "visible": false
+    }
+  ],
+  "controls": [
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "完成后核对 · 答案、讲解与可接受表达",
+      "label": "",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "原书 Test 1 答案页",
+      "label": "",
+      "href": "原始参考/7aa23867-answer-key-01.pdf",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "checkbox",
+      "text": "",
+      "label": "1",
+      "href": null,
+      "save": "reading-correct1",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "checkbox",
+      "text": "",
+      "label": "2",
+      "href": null,
+      "save": "reading-correct2",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "checkbox",
+      "text": "",
+      "label": "3",
+      "href": null,
+      "save": "reading-correct3",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "checkbox",
+      "text": "",
+      "label": "4",
+      "href": null,
+      "save": "reading-correct4",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "checkbox",
+      "text": "",
+      "label": "5",
+      "href": null,
+      "save": "reading-correct5",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "checkbox",
+      "text": "",
+      "label": "6",
+      "href": null,
+      "save": "reading-correct6",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "checkbox",
+      "text": "",
+      "label": "7",
+      "href": null,
+      "save": "reading-correct7",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "checkbox",
+      "text": "",
+      "label": "8",
+      "href": null,
+      "save": "reading-correct8",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "checkbox",
+      "text": "",
+      "label": "9",
+      "href": null,
+      "save": "reading-correct9",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "checkbox",
+      "text": "",
+      "label": "10",
+      "href": null,
+      "save": "reading-correct10",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "checkbox",
+      "text": "",
+      "label": "11",
+      "href": null,
+      "save": "reading-correct11",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "checkbox",
+      "text": "",
+      "label": "12",
+      "href": null,
+      "save": "reading-correct12",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "checkbox",
+      "text": "",
+      "label": "13",
+      "href": null,
+      "save": "reading-correct13",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "记录一条证据：原来怎样写／说，为什么改，下次看什么。",
+      "href": null,
+      "save": "reading-feedback-note",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    }
+  ],
+  "visibleText": "完成后核对 · 答案、讲解与可接受表达原书 Test 1 答案页\n原题核对\n\n\n\n题号\n答案\n定位与判断要点\n\n\n\n\n1\nmining\n开头祖父的财富来自航运和采矿；题干 transportation 已覆盖航运这一侧\n\n\n2\neducation\n第二段解释教育为相关文化活动作准备\n\n\n3\nnotes\n第二段旅行参观时作大量笔记；空格需名词复数\n\n\n4\njournals\n第四段日记显示她们偏爱 Old Master 作品\n\n\n5\nVenice\n第二页第一段说明最早购买的印象派作品描绘威尼斯\n\n\n6\ncanteen\n战争期间志愿服务地点；troops 与题干 soldiers 对应\n\n\n7\nfriends\n第二页讲她们没有与艺术家或画廊业主交朋友\n\n\n8\nTRUE\n成长中的宗教教育与社会责任感影响遗产用途\n\n\n9\nNOT GIVEN\n文中有 Corot 的作品，却没有说明这些作品是否购自法国某画廊；国籍不能证明交易地点\n\n\n10\nFALSE\nHugh Blaker 被描述为当代法国艺术的支持者，并参与转向这类收藏的决定；与“反对购买”矛盾\n\n\n11\nNOT GIVEN\n巴斯公开展出这一事实没有说明公众反应；首次公开展示不等于很受欢迎\n\n\n12\nTRUE\n战争后的贫困和社会动荡使 Gwendoline 对继续购画不安，慈善重点转向社会事务\n\n\n13\nTRUE\n末段说明她们收藏时，这类艺术常被个人和机构忽视\n\n\n\n第 9、11 题不是因为“答案难找”而选 Not Given，而是相关段落只支持较窄的事实，不能确认题干多加的信息。先找到相关位置，再检查题干主张，是本章要修的行为。\n词汇与句子中的真实作用\nchampion 在本文是支持者，不是冠军。a champion of contemporary French art 与 had a hand in the decision 共同帮助判断态度和参与；不能只孤立背一个中文义项。\ntheir education was rigorously geared toward such pursuits 中，their education 是被设计安排的对象，such pursuits 回指前文谈及的文化艺术活动。这句话不是说她们必须已经拥有收藏经验。\nplayed a part in 表示有所作用；本身不等于唯一或决定性原因。阅读因果信息时，不能把“起到作用”自动升级为“完全由此造成”。\n表达参考：\n\nThe course is geared towards the needs of beginners.\nThe training is geared toward practical problem-solving.\nShe is a strong supporter of public libraries. / She is a champion of public libraries.\nPublic transport can play a part in reducing congestion. / Public transport can help reduce congestion.\n\ntoward 与 towards 都可接受。designed to meet beginners' needs 是合法替代表达；表达任务成功与目标结构的独立提取分别记。\n反馈后怎么修\n只挑选最能解释当前表现的一个问题，并用作答证据支持，例如：“第 11 题把展出事实推成了公众欢迎；下一次先圈出题干关于态度或程度的额外主张。”不要笼统评价为“粗心”“词汇差”或“精力不够”。\n首次 13 题得分、解释后正确、隔日正确分别记录。填空按原题一个词的限制和答案评分；教学表达则接受多种自然形式，两种评分规则不能混用。按参考逐题自核：0 / 13只勾选符合原题规则的答案；未确定的先留空。这里记录原始题数，不换算 band。 1 2 3 4 5 6 7 8 9 10 11 12 13记录一条证据：原来怎样写／说，为什么改，下次看什么。",
+  "allContent": "完成后核对 · 答案、讲解与可接受表达原书 Test 1 答案页\n原题核对\n\n\n\n题号\n答案\n定位与判断要点\n\n\n\n\n1\nmining\n开头祖父的财富来自航运和采矿；题干 transportation 已覆盖航运这一侧\n\n\n2\neducation\n第二段解释教育为相关文化活动作准备\n\n\n3\nnotes\n第二段旅行参观时作大量笔记；空格需名词复数\n\n\n4\njournals\n第四段日记显示她们偏爱 Old Master 作品\n\n\n5\nVenice\n第二页第一段说明最早购买的印象派作品描绘威尼斯\n\n\n6\ncanteen\n战争期间志愿服务地点；troops 与题干 soldiers 对应\n\n\n7\nfriends\n第二页讲她们没有与艺术家或画廊业主交朋友\n\n\n8\nTRUE\n成长中的宗教教育与社会责任感影响遗产用途\n\n\n9\nNOT GIVEN\n文中有 Corot 的作品，却没有说明这些作品是否购自法国某画廊；国籍不能证明交易地点\n\n\n10\nFALSE\nHugh Blaker 被描述为当代法国艺术的支持者，并参与转向这类收藏的决定；与“反对购买”矛盾\n\n\n11\nNOT GIVEN\n巴斯公开展出这一事实没有说明公众反应；首次公开展示不等于很受欢迎\n\n\n12\nTRUE\n战争后的贫困和社会动荡使 Gwendoline 对继续购画不安，慈善重点转向社会事务\n\n\n13\nTRUE\n末段说明她们收藏时，这类艺术常被个人和机构忽视\n\n\n\n第 9、11 题不是因为“答案难找”而选 Not Given，而是相关段落只支持较窄的事实，不能确认题干多加的信息。先找到相关位置，再检查题干主张，是本章要修的行为。\n词汇与句子中的真实作用\nchampion 在本文是支持者，不是冠军。a champion of contemporary French art 与 had a hand in the decision 共同帮助判断态度和参与；不能只孤立背一个中文义项。\ntheir education was rigorously geared toward such pursuits 中，their education 是被设计安排的对象，such pursuits 回指前文谈及的文化艺术活动。这句话不是说她们必须已经拥有收藏经验。\nplayed a part in 表示有所作用；本身不等于唯一或决定性原因。阅读因果信息时，不能把“起到作用”自动升级为“完全由此造成”。\n表达参考：\n\nThe course is geared towards the needs of beginners.\nThe training is geared toward practical problem-solving.\nShe is a strong supporter of public libraries. / She is a champion of public libraries.\nPublic transport can play a part in reducing congestion. / Public transport can help reduce congestion.\n\ntoward 与 towards 都可接受。designed to meet beginners' needs 是合法替代表达；表达任务成功与目标结构的独立提取分别记。\n反馈后怎么修\n只挑选最能解释当前表现的一个问题，并用作答证据支持，例如：“第 11 题把展出事实推成了公众欢迎；下一次先圈出题干关于态度或程度的额外主张。”不要笼统评价为“粗心”“词汇差”或“精力不够”。\n首次 13 题得分、解释后正确、隔日正确分别记录。填空按原题一个词的限制和答案评分；教学表达则接受多种自然形式，两种评分规则不能混用。按参考逐题自核：0 / 13只勾选符合原题规则的答案；未确定的先留空。这里记录原始题数，不换算 band。 1 2 3 4 5 6 7 8 9 10 11 12 13记录一条证据：原来怎样写／说，为什么改，下次看什么。",
+  "links": [
+    {
+      "text": "原书 Test 1 答案页",
+      "href": "原始参考/7aa23867-answer-key-01.pdf"
+    }
+  ],
+  "details": [],
+  "saveFields": [
+    "reading-correct1",
+    "reading-correct2",
+    "reading-correct3",
+    "reading-correct4",
+    "reading-correct5",
+    "reading-correct6",
+    "reading-correct7",
+    "reading-correct8",
+    "reading-correct9",
+    "reading-correct10",
+    "reading-correct11",
+    "reading-correct12",
+    "reading-correct13",
+    "reading-feedback-note"
+  ],
+  "images": [],
+  "audio": [],
+  "viewport": 1440,
+  "documentWidth": 1440
+}

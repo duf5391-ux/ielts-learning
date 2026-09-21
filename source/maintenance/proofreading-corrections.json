@@ -1,0 +1,132 @@
+{
+  "reviewDate": "2026-09-20",
+  "scope": "Confirmed transcription corrections; original PDFs and source images remain unchanged.",
+  "rules": [
+    {
+      "id": "copy-003",
+      "old": "Phases II and Ill",
+      "new": "Phases II and III",
+      "reason": "阶段罗马数字被 OCR 成 Ill（大写 I 加两个小写 l）；原页为 Phases II and III。",
+      "reviewer": "reading/reading-findings.json"
+    },
+    {
+      "id": "copy-004",
+      "old": "time- management",
+      "new": "time management",
+      "reason": "正式转写中的断行连字符与后续空格被拼接为非标准的 time- management。此处应使用普通不可数名词短语 time management；答案页同时接受 time-management，不能保留断行伪连字符。",
+      "reviewer": "skills-findings.json"
+    },
+    {
+      "id": "copy-005",
+      "old": "Dares Salaam",
+      "new": "Dar es Salaam",
+      "reason": "城市名在连续原文段中有两处 OCR/转写错误；当前活动块显示 Dares，但原页统一为 Dar es Salaam。",
+      "reviewer": "reading/reading-findings.json"
+    },
+    {
+      "id": "copy-006",
+      "old": "contemporaiy",
+      "new": "contemporary",
+      "reason": "OCR 将 contemporary 中的 r 误读为 i。",
+      "reviewer": "background/background-findings.json"
+    },
+    {
+      "id": "copy-007",
+      "old": "Pasteure//a",
+      "new": "Pasteurella",
+      "reason": "细菌属名被 OCR 插入斜线并截断。",
+      "reviewer": "background/background-findings.json"
+    },
+    {
+      "id": "copy-008",
+      "old": "well-lmown",
+      "new": "well-known",
+      "reason": "OCR 将 known 中的 k 误读为 lm。",
+      "reviewer": "background/background-findings.json"
+    },
+    {
+      "id": "copy-010",
+      "old": "bat ches",
+      "new": "batches",
+      "reason": "PDF 行内断裂产生错误空格。",
+      "reviewer": "background/background-findings.json"
+    },
+    {
+      "id": "copy-011",
+      "old": "piec es",
+      "new": "pieces",
+      "reason": "PDF 行内断裂产生错误空格。",
+      "reviewer": "background/background-findings.json"
+    },
+    {
+      "id": "copy-012",
+      "old": "plea se",
+      "new": "please",
+      "reason": "PDF 行内断裂产生错误空格。",
+      "reviewer": "background/background-findings.json"
+    },
+    {
+      "id": "copy-013",
+      "old": "Cezanne",
+      "new": "Cézanne",
+      "reason": "Davies 复习练习重复了原题段落与题干，姓名同样缺少重音符号；需与主案例同步。",
+      "reviewer": "reading/reading-findings.json"
+    },
+    {
+      "id": "copy-014",
+      "old": "aimost",
+      "new": "almost",
+      "reason": "OCR 将 almost 的 l 误读为 i。",
+      "reviewer": "background/background-findings.json"
+    },
+    {
+      "id": "copy-015",
+      "old": "F ancy",
+      "new": "Fancy",
+      "reason": "PDF 行内断裂产生错误空格。",
+      "reviewer": "background/background-findings.json"
+    },
+    {
+      "id": "copy-016",
+      "old": "ofthe",
+      "new": "of the",
+      "reason": "PDF 转写丢失词间空格。",
+      "reviewer": "background/background-findings.json"
+    },
+    {
+      "id": "copy-017",
+      "old": "lmow",
+      "new": "know",
+      "reason": "OCR 将 k 误读为 lm。",
+      "reviewer": "background/background-findings.json"
+    },
+    {
+      "id": "copy-018",
+      "old": "fo r",
+      "new": "for",
+      "reason": "PDF 行内断裂产生错误空格。",
+      "reviewer": "background/background-findings.json"
+    },
+    {
+      "id": "copy-019",
+      "old": "11 th century",
+      "new": "11th century",
+      "reason": "Restore an ordinal split during PDF transcription.",
+      "reviewer": "reading-cases-b-findings.json"
+    },
+    {
+      "id": "copy-020",
+      "old": "CChhaannggiinngg oouurr UUnnddeerrssttaannddiinngg ooff HHeeaalltthh",
+      "new": "Changing our Understanding of Health",
+      "reason": "Remove duplicated letters introduced when extracting the source heading.",
+      "reviewer": "reading/reading-final-findings.json"
+    },
+    {
+      "id": "copy-021",
+      "old": "mechanics points",
+      "new": "Mechanics Points",
+      "reason": "Use the source service-point name consistently in the authored paraphrase.",
+      "reviewer": "general-vocab-findings.json"
+    }
+  ]
+}

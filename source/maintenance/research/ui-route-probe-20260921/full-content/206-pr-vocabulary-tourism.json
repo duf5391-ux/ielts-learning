@@ -1,0 +1,190 @@
+{
+  "requested": "pr-vocabulary-tourism",
+  "from": [
+    "内容单元",
+    "页面链接"
+  ],
+  "actual": "#pr-vocabulary-tourism",
+  "checkedAt": "2026-09-21T12:53:05.769Z",
+  "title": "学习 / 短语 / 词汇 · 旅游语境 在语境中选择措辞 · IELTS",
+  "label": "学习 / 短语 / 词汇 · 旅游语境 在语境中选择措辞",
+  "panel": "practice-phrases",
+  "contentRoot": "pr-vocabulary-tourism",
+  "headings": [],
+  "controls": [
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "词汇 · 旅游语境 在语境中选择措辞",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "作答 1\n暂时不会",
+      "href": null,
+      "save": "pr-vocabulary-tourism-q1",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "暂时不会",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "作答 2\n暂时不会",
+      "href": null,
+      "save": "pr-vocabulary-tourism-q2",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "暂时不会",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "答案",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "再练一次",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "",
+      "href": null,
+      "save": "pr-vocabulary-tourism-another",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "",
+      "label": "",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "",
+      "label": "",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "IELTS Academic Writing Sample Tasks (2023) · Task 2B",
+      "label": "",
+      "href": "case-assets/writing-official-sample-tasks-2023.pdf#page=7",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "在线来源",
+      "label": "",
+      "href": "https://ielts.org/cdn/Sample-tests/ielts-academic-writing-sample-tasks-2023.pdf#page=7",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    }
+  ],
+  "visibleText": "词汇 · 旅游语境 在语境中选择措辞\n0% · 0 / 2 完成\n\n按给定条件改写，不添加数据。\n\n作答条件：新公交服务开通后，旺季道路拥堵有所缓解但仍存在；旅游提供部分季节性岗位；现有信息不足以判定旅游的总收益大于总成本。\n\n待改写段（自编）：Tourism inevitably eliminates unemployment. The new buses eradicated congestion. Therefore, its advantages outweigh than its disadvantages.\n\nRevise the wording so that each claim matches the information available.\n\n把待改写段写成 40–55 个英文词。保留三个信息：就业作用、交通变化、总利弊尚无法确定。\n\n作答 1\n暂时不会\n\n每空填一个合适的词：① Tourism can contribute ___ local employment. ② More visitors may put pressure ___ public services. ③ Whether the benefits outweigh the costs depends ___ how tourism is managed.\n\n作答 2\n暂时不会\n答案\n再练一次\n\n选材来源 · IELTS Academic Writing Sample Tasks (2023) · Task 2B · 在线来源",
+  "allContent": "词汇 · 旅游语境 在语境中选择措辞0% · 0 / 2 完成按给定条件改写，不添加数据。作答条件：新公交服务开通后，旺季道路拥堵有所缓解但仍存在；旅游提供部分季节性岗位；现有信息不足以判定旅游的总收益大于总成本。待改写段（自编）：Tourism inevitably eliminates unemployment. The new buses eradicated congestion. Therefore, its advantages outweigh than its disadvantages.Revise the wording so that each claim matches the information available.把待改写段写成 40–55 个英文词。保留三个信息：就业作用、交通变化、总利弊尚无法确定。作答 1暂时不会每空填一个合适的词：① Tourism can contribute ___ local employment. ② More visitors may put pressure ___ public services. ③ Whether the benefits outweigh the costs depends ___ how tourism is managed.作答 2暂时不会答案1. 示例：Tourism can provide seasonal employment, although this does not eliminate unemployment. Congestion has eased since the new bus service began, but traffic problems remain. On the information given, it is not possible to conclude that the overall benefits of tourism outweigh its costs.2. ① to；② on；③ on。再练一次用 30–45 个英文词回应：旅游收入增加就一定意味着居民生活改善吗？使用 may 或 can；不使用 inevitable、eradicate 或 impressive。作答暂时不会答案示例：Higher tourism revenue may improve residents' lives if it supports stable jobs and better local services. However, an increase in business income alone does not show that residents benefit, especially where housing costs also rise.选材来源 · IELTS Academic Writing Sample Tasks (2023) · Task 2B · 在线来源",
+  "links": [
+    {
+      "text": "IELTS Academic Writing Sample Tasks (2023) · Task 2B",
+      "href": "case-assets/writing-official-sample-tasks-2023.pdf#page=7"
+    },
+    {
+      "text": "在线来源",
+      "href": "https://ielts.org/cdn/Sample-tests/ielts-academic-writing-sample-tasks-2023.pdf#page=7"
+    }
+  ],
+  "details": [
+    {
+      "id": "answer-check-61",
+      "title": "答案",
+      "open": false,
+      "answerGate": "[\"pr-vocabulary-tourism-q1\", \"pr-vocabulary-tourism-q2\"]",
+      "visible": true
+    },
+    {
+      "id": "",
+      "title": "再练一次",
+      "open": false,
+      "visible": true
+    },
+    {
+      "id": "answer-check-62",
+      "title": "答案",
+      "open": false,
+      "answerGate": "[\"pr-vocabulary-tourism-another\"]",
+      "visible": false
+    }
+  ],
+  "saveFields": [
+    "pr-vocabulary-tourism-q1",
+    "pr-vocabulary-tourism-q2",
+    "pr-vocabulary-tourism-another"
+  ],
+  "images": [],
+  "audio": [],
+  "viewport": 1440,
+  "documentWidth": 1440
+}

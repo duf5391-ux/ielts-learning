@@ -1,0 +1,86 @@
+{
+  "reviewer": "root",
+  "scope": "7 full source reconstructions; selected Part1 separate review",
+  "source_date_status": "site claim, not independently verified",
+  "items": [
+    {
+      "id": "listening-2026-sep-hf-1",
+      "status": "hold",
+      "question_controls": 40,
+      "answer_count": 40,
+      "images": 3,
+      "audio": "Downloaded MP3; browser decode verified; not listened end-to-end",
+      "reasons": [
+        "整套Part2缺统一地图题说明，Part3图示与重录音频未逐项听核；Part1已另交Luna逐题审核"
+      ]
+    },
+    {
+      "id": "listening-2026-sep-hf-2",
+      "status": "hold",
+      "question_controls": 40,
+      "answer_count": 40,
+      "images": 0,
+      "audio": "Downloaded MP3; browser decode verified; not listened end-to-end",
+      "reasons": [
+        "Part3 Q21–25图示缺失，A–G只有字母无位置对应，无法作答"
+      ]
+    },
+    {
+      "id": "listening-2026-sep-hf-3",
+      "status": "hold",
+      "question_controls": 40,
+      "answer_count": 40,
+      "images": 0,
+      "audio": "Downloaded MP3; browser decode verified; not listened end-to-end",
+      "reasons": [
+        "Part2 Q15–20地图缺失，无法对应地点与字母"
+      ]
+    },
+    {
+      "id": "listening-2026-sep-hf-4",
+      "status": "hold",
+      "question_controls": 40,
+      "answer_count": 40,
+      "images": 0,
+      "audio": "Downloaded MP3; browser decode verified; not listened end-to-end",
+      "reasons": [
+        "Part4源题干出现expenders、laugh is likely等破损语句；Q38科学表述未经来源核实",
+        "全音频未逐句核对，不作为合格完整套卷"
+      ]
+    },
+    {
+      "id": "listening-2026-sep-hf-5",
+      "status": "hold",
+      "question_controls": 40,
+      "answer_count": 40,
+      "images": 0,
+      "audio": "Downloaded MP3; browser decode verified; not listened end-to-end",
+      "reasons": [
+        "Part2位置题无地图；Part3 Q21–26缺示意图及对应内容框，无法作答"
+      ]
+    },
+    {
+      "id": "listening-2026-sep-hf-6",
+      "status": "hold",
+      "question_controls": 40,
+      "answer_count": 40,
+      "images": 0,
+      "audio": "Downloaded MP3; browser decode verified; not listened end-to-end",
+      "reasons": [
+        "Part2 Q17–20地图缺失；Part4多处科学概括与语法待核"
+      ]
+    },
+    {
+      "id": "listening-2026-sep-hf-7",
+      "status": "hold",
+      "question_controls": 40,
+      "answer_count": 40,
+      "images": 0,
+      "audio": "Downloaded MP3; browser decode verified; not listened end-to-end",
+      "reasons": [
+        "Q33题干carried on后直接接camel，缺冠词/复数与站方答案不协调",
+        "Part2驾驶证信息有未经证实的泛化，不能作为真实办证说明；全音频未逐句核对"
+      ]
+    }
+  ]
+}

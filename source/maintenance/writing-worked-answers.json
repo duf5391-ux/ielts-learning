@@ -1,0 +1,197 @@
+{
+  "tech-read-chart": {
+    "title": "完整参考范文：通勤方式的变化",
+    "prompt_md": "The line graph shows the percentages of commuters using public transport, cars and bicycles in city L between 2010 and 2025. Summarise the information by selecting and reporting the main features, and make comparisons where relevant. Write at least 150 words.\n\n| 年份 | Public transport | Car | Cycling |\n|---|---:|---:|---:|\n| 2010 | 30% | 60% | 10% |\n| 2015 | 35% | 50% | 15% |\n| 2020 | 40% | 40% | 20% |\n| 2025 | 45% | 30% | 25% |",
+    "answer_title": "参考范文：先概括方向，再比较主要数据",
+    "answer_md": "The line graph compares the proportions of commuters who used public transport, cars and bicycles in city L from 2010 to 2025.\n\nOverall, the shares of public transport and cycling increased, whereas the proportion of car users declined. Cars were the most common choice at the beginning, but public transport had become the largest category by 2025.\n\nIn 2010, cars accounted for 60% of commuters, twice the figure for public transport and six times that for cycling. The share of car users then fell to 50% in 2015 and 40% in 2020, when it was equal to the proportion using public transport. By 2025, the car figure had dropped to 30%, half its initial level.\n\nPublic transport rose from 30% to 45% over the period, while cycling increased from 10% to 25%. Both categories gained 15 percentage points, with increases of five points between each pair of years shown. Public transport remained more common than cycling throughout, and its share was 20 percentage points higher in every year displayed.",
+    "explanations": [
+      {
+        "quote": "Overall, the shares of public transport and cycling increased, whereas the proportion of car users declined.",
+        "evidence": "2010→2025：公共交通30%→45%；骑行10%→25%；汽车60%→30%。",
+        "explanation": "这是概览句：用两升一下降的关系覆盖三个类别，先让读者掌握总体走势。whereas连接相反方向；写的是份额，未擅自推断通勤人数。"
+      },
+      {
+        "quote": "The share of car users then fell to 50% in 2015 and 40% in 2020, when it was equal to the proportion using public transport.",
+        "evidence": "汽车2015年50%、2020年40%；公共交通2020年也是40%。",
+        "explanation": "这一句既给汽车下降过程的中间数据，也指出2020年的重要相等点。when明确限定相等发生的年份，避免把一个时点扩大成全程相同。"
+      },
+      {
+        "quote": "Both categories gained 15 percentage points, with increases of five points between each pair of years shown.",
+        "evidence": "公共交通30、35、40、45%；骑行10、15、20、25%；各相邻观察年份均增加5个百分点。",
+        "explanation": "把走势相同的两个类别合并比较，减少逐数罗列。15是百分比差，因此用percentage points；years shown只声称图上观察点之间的变化，不声称掌握逐年精确数据。"
+      },
+      {
+        "quote": "Public transport remained more common than cycling throughout, and its share was 20 percentage points higher in every year displayed.",
+        "evidence": "30−10、35−15、40−20、45−25均等于20个百分点。",
+        "explanation": "指出两条增长线之间保持不变的差距，是有证据的横向比较。every year displayed将判断限定在图中显示的四个年份。"
+      }
+    ],
+    "contrasts": [
+      {
+        "wrong": "The number of cyclists increased by 15% because cycling became cheaper.",
+        "better": "The share of commuters cycling rose from 10% in 2010 to 25% in 2025, an increase of 15 percentage points.",
+        "why": "图给占比而非人数；25%−10%是15个百分点，相对增幅其实是150%；图也没有价格原因。改句同时修正对象、单位和图外推断。"
+      }
+    ]
+  },
+  "tech-overview": {
+    "title": "示范答案：概览与支持段各自写什么",
+    "prompt_md": "根据本单元通勤图写一段overview，再用一个细节段比较公共交通与骑行。此处练习的是段落功能，不是一篇完整Task 1作文。\n\n| 年份 | 公共交通 | 汽车 | 骑行 |\n|---|---:|---:|---:|\n| 2010 | 30% | 60% | 10% |\n| 2015 | 35% | 50% | 15% |\n| 2020 | 40% | 40% | 20% |\n| 2025 | 45% | 30% | 25% |",
+    "answer_title": "示范答案：一段概览＋一段细节",
+    "answer_md": "Overall, public transport and cycling gained a larger share of commuters, while car use declined. Public transport overtook cars to become the largest category by 2025, although cycling remained the least common of the three options.\n\nPublic transport accounted for 30% of commuters in 2010, compared with 10% for cycling. These figures increased to 35% and 15% respectively in 2015, before reaching 45% and 25% in 2025. The two categories therefore recorded the same increase of 15 percentage points over the whole period, and the gap between them remained at 20 points in each year shown.",
+    "explanations": [
+      {
+        "quote": "Overall, public transport and cycling gained a larger share of commuters, while car use declined.",
+        "evidence": "公共交通30%→45%，骑行10%→25%，汽车60%→30%。",
+        "explanation": "概览先概括三类方向，不塞入所有数据。它回答“整张图主要发生了什么”，不是重复题目里的城市和年份。"
+      },
+      {
+        "quote": "Public transport overtook cars to become the largest category by 2025, although cycling remained the least common of the three options.",
+        "evidence": "2010年汽车60%高于公共交通30%；2025年公共交通45%高于汽车30%和骑行25%。骑行在四个年份都是最低值。",
+        "explanation": "补充排名转换和一个持续特征，让overview不仅有升降。by 2025表示截至该年已超过，未捏造2020至2025之间的精确超越日期。"
+      },
+      {
+        "quote": "These figures increased to 35% and 15% respectively in 2015, before reaching 45% and 25% in 2025.",
+        "evidence": "2015年公共交通35%、骑行15%；2025年公共交通45%、骑行25%。",
+        "explanation": "细节段给实际数字，支持增长判断。respectively沿用前句的公共交通、骑行顺序，不能颠倒对应关系。"
+      },
+      {
+        "quote": "The two categories therefore recorded the same increase of 15 percentage points over the whole period, and the gap between them remained at 20 points in each year shown.",
+        "evidence": "45−30=15，25−10=15；各年公共交通占比减骑行占比均为20个百分点。",
+        "explanation": "在数字后说明比较关系，读者不用自己算。这里相同的是百分点增加量，不是相对增长率。"
+      }
+    ],
+    "contrasts": [
+      {
+        "wrong": "Overall, there were many changes in transport, and the figures were different.",
+        "better": "Overall, the shares of public transport and cycling increased, while the share of car use fell.",
+        "why": "错句没有交代具体特点，几乎适用于任何图。改句点明哪些类别怎样变化，才能实际承担概览的功能。"
+      },
+      {
+        "wrong": "Public transport and cycling had the same percentage growth.",
+        "better": "Public transport and cycling both increased by 15 percentage points.",
+        "why": "公共交通的相对增幅为15÷30=50%，骑行为15÷10=150%；相同的是占比之差。"
+      }
+    ]
+  },
+  "tech-precision": {
+    "title": "示范答案：把数值关系写成准确比较句",
+    "prompt_md": "按以下独立数据写完整比较句；这些是短句练习，不构成一篇Task 1范文。\n\n- 同年借阅构成：纸书60%、电子书25%、有声书15%。\n- 会员人数：2,000→3,000。\n- 电子书借阅占比：20%→30%。\n- 同年车辆数：A有80辆，B有40辆。\n- 另一柱形图：柱高略低于70，未标精确数字。",
+    "answer_title": "可直接采用的比较句与计算依据",
+    "answer_md": "1. Printed books accounted for 60% of loans, compared with 25% for e-books and 15% for audiobooks.\n2. The share of printed books was 35 percentage points higher than that of e-books.\n3. Membership rose from 2,000 to 3,000, an increase of 1,000, or 50%.\n4. The proportion of e-book loans increased from 20% to 30%, a rise of 10 percentage points.\n5. Relative to its initial level, the proportion of e-book loans increased by 50%.\n6. A had twice as many vehicles as B, with 80 compared with 40.\n7. The figure stood at just under 70.",
+    "explanations": [
+      {
+        "quote": "Printed books accounted for 60% of loans, compared with 25% for e-books and 15% for audiobooks.",
+        "evidence": "同一时点三类占比60%、25%、15%，总和100%。",
+        "explanation": "accounted for说明构成，compared with呈现同年类别差异。没有时间变化，因此不用rose或fell。"
+      },
+      {
+        "quote": "Membership rose from 2,000 to 3,000, an increase of 1,000, or 50%.",
+        "evidence": "终值3,000−初值2,000=1,000；1,000÷2,000=50%。",
+        "explanation": "from和to分别给起终值，后半句同时报告增加人数与相对增幅。or表示同一增长的两种计量，不是两个可能答案。"
+      },
+      {
+        "quote": "The proportion of e-book loans increased from 20% to 30%, a rise of 10 percentage points.",
+        "evidence": "30%−20%=10个百分点。",
+        "explanation": "百分比相减用percentage points。也可以只写from 20% to 30%，已经准确，不必每次都额外计算。"
+      },
+      {
+        "quote": "Relative to its initial level, the proportion of e-book loans increased by 50%.",
+        "evidence": "(30−20)÷20=50%。",
+        "explanation": "relative to its initial level明确以初始比例为基准；这一句与上句兼容，50%的相对增长不等于增加50个百分点。"
+      },
+      {
+        "quote": "A had twice as many vehicles as B, with 80 compared with 40.",
+        "evidence": "80÷40=2。",
+        "explanation": "twice as many ... as清楚表示A是B的两倍；many搭配可数复数vehicles，后面数值给出验证。"
+      },
+      {
+        "quote": "The figure stood at just under 70.",
+        "evidence": "柱高略低于70，没有精确标签。",
+        "explanation": "just under保留略低于这一关系，并与图的读数精度相符；不能凭估计补成69.37。"
+      }
+    ],
+    "contrasts": [
+      {
+        "wrong": "Membership increased to 1,000.",
+        "better": "Membership increased by 1,000 to 3,000.",
+        "why": "1,000是变化量，3,000才是终值；by回答增加多少，to回答达到多少。"
+      },
+      {
+        "wrong": "The proportion of e-book loans rose by 10% from 20% to 30%.",
+        "better": "The proportion of e-book loans rose by 10 percentage points, from 20% to 30%.",
+        "why": "原句把百分点差写成相对百分比增长；改句单位与算式一致。"
+      }
+    ]
+  },
+  "tech-process": {
+    "title": "完整参考范文：废纸回收流程",
+    "prompt_md": "The diagram shows a process for recycling waste paper. Summarise the information by selecting and reporting the main features, and make comparisons where relevant. Write at least 150 words.\n\n图示关系：Collect waste paper → Sort；分类后，Unsuitable material → Remove rejects；Usable paper → Make pulp → Press and dry → Recycled paper。",
+    "answer_title": "参考范文：把分支和先后写清楚",
+    "answer_md": "The diagram illustrates how waste paper is processed to produce recycled paper. It shows the main stages from the collection of the waste material to the production of the finished paper.\n\nOverall, the process involves collecting and sorting waste paper before converting the usable material into pulp. This is subsequently pressed and dried to obtain recycled paper. Unsuitable material follows a separate route and is removed after sorting.\n\nAt the beginning of the process, waste paper is collected and then sent for sorting. At this point, the material is divided into two groups according to whether it can be used. The unsuitable material is removed from the process, while the usable paper continues to the next stage.\n\nThe usable paper is then made into pulp. After this conversion, the pulp passes to the pressing and drying stage, which is shown as a single step in the diagram. Recycled paper is the final output of this sequence. The rejected material does not proceed to these later production stages.",
+    "explanations": [
+      {
+        "quote": "Unsuitable material follows a separate route and is removed after sorting.",
+        "evidence": "Sort之后有一条Unsuitable material支线，终点为Remove rejects。",
+        "explanation": "概览直接交代分支，防止把图误写成全部材料依次经过所有步骤。after sorting对应分支出现的位置。"
+      },
+      {
+        "quote": "At the beginning of the process, waste paper is collected and then sent for sorting.",
+        "evidence": "起点Collect waste paper，经箭头指向Sort。",
+        "explanation": "用then将两个阶段按箭头顺序连接。is collected让受处理的废纸作主语，不必编造由谁收集或使用什么车辆。"
+      },
+      {
+        "quote": "The unsuitable material is removed from the process, while the usable paper continues to the next stage.",
+        "evidence": "分类后的两个去向：不适用材料移除；可用纸进入Make pulp。",
+        "explanation": "while对照两个去向，重复明确材料名称，避免用it时把“不适用材料”误指为继续制浆的对象。这里不声称两条支路耗时相同。"
+      },
+      {
+        "quote": "After this conversion, the pulp passes to the pressing and drying stage, which is shown as a single step in the diagram.",
+        "evidence": "Make pulp之后直接连到一个标为Press and dry的框。",
+        "explanation": "顺着箭头写浆料后续处理，并按图把压制、干燥作为同框阶段描述；不添加设备、温度或处理时长。"
+      }
+    ],
+    "contrasts": [
+      {
+        "wrong": "After unsuitable material is removed, it is made into pulp and dried for two days.",
+        "better": "After unsuitable material is removed, the usable paper is made into pulp and then pressed and dried.",
+        "why": "错句it容易指向被移除的不适用材料，且凭空添加两天时长；改句明确对象并保留图上的加工阶段。"
+      }
+    ]
+  },
+  "tech-maps": {
+    "title": "完整参考范文：社区中心前后布局",
+    "prompt_md": "The plans show a community centre in 2010 and 2025. Summarise the information by selecting and reporting the main features, and make comparisons where relevant. Write at least 150 words.\n\n北箭头向上。2010年：西北Reading room、东北Office、西南Garden、东南Entrance。2025年：西北Café、东北Office、西南Study room、东南Entrance。",
+    "answer_title": "参考范文：按区域写改变与保留",
+    "answer_md": "The two plans compare the layout of a community centre in 2010 and 2025. They show the facilities in four parts of the site, with north indicated at the top of each plan.\n\nOverall, the western side of the centre changed substantially, with a café and a study room replacing the reading room and garden respectively. By contrast, the office and entrance on the eastern side remained in their original positions.\n\nIn 2010, the reading room occupied the north-western part of the site, immediately to the west of the office. By 2025, this space had become a café, while the office was still located in the north-east. Thus, the two northern areas continued to lie next to each other, but the function of the western one had changed.\n\nA similar replacement occurred in the southern part of the centre. The garden in the south-west was replaced by a study room, situated to the west of the entrance. The entrance itself remained in the south-east, below the office, in both years.",
+    "explanations": [
+      {
+        "quote": "Overall, the western side of the centre changed substantially, with a café and a study room replacing the reading room and garden respectively.",
+        "evidence": "西北Reading room→Café；西南Garden→Study room。两处变化都在西侧。",
+        "explanation": "概览按位置合并两处用途变化。respectively对应咖啡区替换阅览室、学习室替换花园，不能调换替换对象。"
+      },
+      {
+        "quote": "By contrast, the office and entrance on the eastern side remained in their original positions.",
+        "evidence": "两年均为东北Office、东南Entrance。",
+        "explanation": "把重要的不变内容纳入概览，与西侧变化形成清楚对比。原图只支持位置和标签不变，不推断员工人数或入口宽度。"
+      },
+      {
+        "quote": "By 2025, this space had become a café, while the office was still located in the north-east.",
+        "evidence": "2025年西北格为Café，东北格仍为Office。",
+        "explanation": "this space回指前句西北阅览室所在空间；by 2025表示图示截至该年已改变，不编造具体施工年份。"
+      },
+      {
+        "quote": "The garden in the south-west was replaced by a study room, situated to the west of the entrance.",
+        "evidence": "西南格Garden→Study room；Entrance在右侧东南格。",
+        "explanation": "was replaced by明确旧设施变成新设施，后半句利用未移动的入口作位置锚点。南、西等方向来自图中北箭头。"
+      }
+    ],
+    "contrasts": [
+      {
+        "wrong": "The study room was replaced by a garden, making the centre more popular.",
+        "better": "The garden was replaced by a study room in the south-west of the centre.",
+        "why": "错句把变化方向写反，又添加图中没有的人气结果。改句恢复2010→2025的前后关系，只报告用途和位置。"
+      }
+    ]
+  }
+}

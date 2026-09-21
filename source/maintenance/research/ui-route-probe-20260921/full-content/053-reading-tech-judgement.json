@@ -1,0 +1,241 @@
+{
+  "requested": "reading-tech-judgement",
+  "from": [
+    "内容单元",
+    "页面链接"
+  ],
+  "actual": "#reading-tech-judgement",
+  "checkedAt": "2026-09-21T12:51:06.621Z",
+  "title": "学习 / 阅读 / 判断题：用真题区分反证、未知与观点归属 · IELTS",
+  "label": "学习 / 阅读 / 判断题：用真题区分反证、未知与观点归属",
+  "panel": "reading",
+  "contentRoot": "reading-tech-judgement",
+  "headings": [],
+  "controls": [
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "判断题：用真题区分反证、未知与观点归属",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "The Davies Sisters｜印象派转向与战时收藏",
+      "label": "",
+      "href": "#reading-case-rd-c21-davies-2",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "Do animals dream?｜章鱼行为与研究边界",
+      "label": "",
+      "href": "#reading-case-rd-c21-dreams-2",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "Artificial Intelligence｜部署边界、医疗与司法案例",
+      "label": "",
+      "href": "#reading-case-rd-c21-ai-3",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "Cambridge IELTS 21 Academic · Test 1 · PDF 18 页",
+      "label": "",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=18",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "Cambridge IELTS 21 Academic · Test 1 · PDF 119 页",
+      "label": "",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=119",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "Cambridge IELTS 21 Academic · Test 2 · PDF 40 页",
+      "label": "",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=40",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "Cambridge IELTS 21 Academic · Test 2 · PDF 121 页",
+      "label": "",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=121",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "Cambridge IELTS 21 Academic · Test 2 · PDF 47 页",
+      "label": "",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=47",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "练原题：The Davies Sisters｜印象派转向与战时收藏",
+      "label": "",
+      "href": "#reading-case-rd-c21-davies-2",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "练原题：Do animals dream?｜章鱼行为与研究边界",
+      "label": "",
+      "href": "#reading-case-rd-c21-dreams-2",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "练原题：Artificial Intelligence｜部署边界、医疗与司法案例",
+      "label": "",
+      "href": "#reading-case-rd-c21-ai-3",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "checkbox",
+      "text": "",
+      "label": "我已学习本单元",
+      "href": null,
+      "save": "resource-learned-tech-judgement",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "checkbox",
+      "text": "",
+      "label": "加入我的复习",
+      "href": null,
+      "save": "resource-review-tech-judgement",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "我的练习答案／证据／下次要改的一步（可留空）",
+      "href": null,
+      "save": "resource-note-tech-judgement",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    }
+  ],
+  "visibleText": "判断题：用真题区分反证、未知与观点归属\n0% · 0 / 1 完成\n\n判断前先拆主语、动作与限制词。剑桥21 Davies Q10说Hugh Blaker opposed姐妹购买印象派作品；原文称他为champion并说had a hand in the decision。标准答案FALSE：这是支持并参与，与反对矛盾，不是“没有提到”。\n\n同篇Q11说Bath画展very popular with the public。原文只说作品是首次在英国公共画廊展出的塞尚画作。标准答案NOT GIVEN：“公开展出/首次展出”都不等于受欢迎；完整原篇也没有观众反响。不能把自己的艺术常识补进来。\n\n观点题再加一步核对说话人：AI Q36称Russell的建议impractical，作者实际上说sensible and realistic，所以NO。Q37声称Brooks遭支持者不公批评，全文仅引用他的部署耗时判断，没有对他的回应，因此NOT GIVEN。F/NO需要直接矛盾，NG需要缺少命题中的关系或限定。\n\n继续做原题片段：The Davies Sisters｜印象派转向与战时收藏 · Do animals dream?｜章鱼行为与研究边界 · Artificial Intelligence｜部署边界、医疗与司法案例\n\nCambridge IELTS 21 Academic · Test 1 · PDF 18 页\n\nCambridge IELTS 21 Academic · Test 1 · PDF 119 页\n\nCambridge IELTS 21 Academic · Test 2 · PDF 40 页\n\nCambridge IELTS 21 Academic · Test 2 · PDF 121 页\n\nCambridge IELTS 21 Academic · Test 2 · PDF 47 页\n\n练原题：The Davies Sisters｜印象派转向与战时收藏\n练原题：Do animals dream?｜章鱼行为与研究边界\n练原题：Artificial Intelligence｜部署边界、医疗与司法案例\n\n本单元的学习记录\n\n 我已学习本单元 加入我的复习\n我的练习答案／证据／下次要改的一步（可留空）",
+  "allContent": "判断题：用真题区分反证、未知与观点归属0% · 0 / 1 完成判断前先拆主语、动作与限制词。剑桥21 Davies Q10说Hugh Blaker opposed姐妹购买印象派作品；原文称他为champion并说had a hand in the decision。标准答案FALSE：这是支持并参与，与反对矛盾，不是“没有提到”。同篇Q11说Bath画展very popular with the public。原文只说作品是首次在英国公共画廊展出的塞尚画作。标准答案NOT GIVEN：“公开展出/首次展出”都不等于受欢迎；完整原篇也没有观众反响。不能把自己的艺术常识补进来。观点题再加一步核对说话人：AI Q36称Russell的建议impractical，作者实际上说sensible and realistic，所以NO。Q37声称Brooks遭支持者不公批评，全文仅引用他的部署耗时判断，没有对他的回应，因此NOT GIVEN。F/NO需要直接矛盾，NG需要缺少命题中的关系或限定。继续做原题片段：The Davies Sisters｜印象派转向与战时收藏 · Do animals dream?｜章鱼行为与研究边界 · Artificial Intelligence｜部署边界、医疗与司法案例Cambridge IELTS 21 Academic · Test 1 · PDF 18 页Cambridge IELTS 21 Academic · Test 1 · PDF 119 页Cambridge IELTS 21 Academic · Test 2 · PDF 40 页Cambridge IELTS 21 Academic · Test 2 · PDF 121 页Cambridge IELTS 21 Academic · Test 2 · PDF 47 页练原题：The Davies Sisters｜印象派转向与战时收藏练原题：Do animals dream?｜章鱼行为与研究边界练原题：Artificial Intelligence｜部署边界、医疗与司法案例本单元的学习记录 我已学习本单元 加入我的复习我的练习答案／证据／下次要改的一步（可留空）",
+  "links": [
+    {
+      "text": "The Davies Sisters｜印象派转向与战时收藏",
+      "href": "#reading-case-rd-c21-davies-2"
+    },
+    {
+      "text": "Do animals dream?｜章鱼行为与研究边界",
+      "href": "#reading-case-rd-c21-dreams-2"
+    },
+    {
+      "text": "Artificial Intelligence｜部署边界、医疗与司法案例",
+      "href": "#reading-case-rd-c21-ai-3"
+    },
+    {
+      "text": "Cambridge IELTS 21 Academic · Test 1 · PDF 18 页",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=18"
+    },
+    {
+      "text": "Cambridge IELTS 21 Academic · Test 1 · PDF 119 页",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=119"
+    },
+    {
+      "text": "Cambridge IELTS 21 Academic · Test 2 · PDF 40 页",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=40"
+    },
+    {
+      "text": "Cambridge IELTS 21 Academic · Test 2 · PDF 121 页",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=121"
+    },
+    {
+      "text": "Cambridge IELTS 21 Academic · Test 2 · PDF 47 页",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=47"
+    },
+    {
+      "text": "练原题：The Davies Sisters｜印象派转向与战时收藏",
+      "href": "#reading-case-rd-c21-davies-2"
+    },
+    {
+      "text": "练原题：Do animals dream?｜章鱼行为与研究边界",
+      "href": "#reading-case-rd-c21-dreams-2"
+    },
+    {
+      "text": "练原题：Artificial Intelligence｜部署边界、医疗与司法案例",
+      "href": "#reading-case-rd-c21-ai-3"
+    }
+  ],
+  "details": [],
+  "saveFields": [
+    "resource-learned-tech-judgement",
+    "resource-review-tech-judgement",
+    "resource-note-tech-judgement"
+  ],
+  "images": [],
+  "audio": [],
+  "viewport": 1440,
+  "documentWidth": 1440
+}

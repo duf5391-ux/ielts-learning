@@ -1,0 +1,480 @@
+{
+  "requested": "listening",
+  "from": [
+    "主面板",
+    "页面链接"
+  ],
+  "actual": "#study-listening-list",
+  "checkedAt": "2026-09-21T12:50:34.757Z",
+  "title": "学习 / 听力 · IELTS",
+  "label": "学习 / 听力",
+  "panel": "study",
+  "contentRoot": "study",
+  "headings": [
+    {
+      "tag": "H1",
+      "text": "学习 · 听力",
+      "visible": true
+    },
+    {
+      "tag": "H2",
+      "text": "直接开始学习",
+      "visible": false
+    },
+    {
+      "tag": "H2",
+      "text": "继续上次",
+      "visible": false
+    },
+    {
+      "tag": "H3",
+      "text": "课堂通知：日期、数字与澄清请求",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "会议分工：谁提出顾虑，谁负责执行",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "天气播报：地区、时间与例外条件",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "讲座导入：定义、例子与后文路线",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "单选：听到选项，还要听清最后的决定",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "服务沟通：分清请求、顾虑和最终同意",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "听力 · 从原题开始学",
+      "visible": true
+    },
+    {
+      "tag": "H2",
+      "text": "词汇与背景",
+      "visible": false
+    }
+  ],
+  "controls": [
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "← 返回学习",
+      "label": "",
+      "href": "#study",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "查看安排并开始 →",
+      "label": "",
+      "href": "#guide",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "学习项目 →",
+      "label": "",
+      "href": "#learning-projects",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "今天选的内容 →",
+      "label": "",
+      "href": "#plan",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SELECT",
+      "id": "la-study-skill",
+      "type": "select-one",
+      "text": "全部写作Task 1Task 2",
+      "label": "写作类型全部写作Task 1Task 2",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false,
+      "options": [
+        {
+          "value": "",
+          "label": "全部写作"
+        },
+        {
+          "value": "writing1",
+          "label": "Task 1"
+        },
+        {
+          "value": "writing2",
+          "label": "Task 2"
+        }
+      ]
+    },
+    {
+      "tag": "SELECT",
+      "id": "la-study-topic",
+      "type": "select-one",
+      "text": "全部\n教育与学习\n通用",
+      "label": "话题\n全部\n教育与学习\n通用",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false,
+      "options": [
+        {
+          "value": "",
+          "label": "全部"
+        },
+        {
+          "value": "教育与学习",
+          "label": "教育与学习"
+        },
+        {
+          "value": "通用",
+          "label": "通用"
+        }
+      ]
+    },
+    {
+      "tag": "SELECT",
+      "id": "la-study-part",
+      "type": "select-one",
+      "text": "全部",
+      "label": "Part\n全部",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false,
+      "options": [
+        {
+          "value": "",
+          "label": "全部"
+        }
+      ]
+    },
+    {
+      "tag": "SELECT",
+      "id": "la-study-type",
+      "type": "select-one",
+      "text": "全部\n图表\n填空与信息整理\n理解与方法\n选择题",
+      "label": "题型／内容\n全部\n图表\n填空与信息整理\n理解与方法\n选择题",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false,
+      "options": [
+        {
+          "value": "",
+          "label": "全部"
+        },
+        {
+          "value": "图表",
+          "label": "图表"
+        },
+        {
+          "value": "填空与信息整理",
+          "label": "填空与信息整理"
+        },
+        {
+          "value": "理解与方法",
+          "label": "理解与方法"
+        },
+        {
+          "value": "选择题",
+          "label": "选择题"
+        }
+      ]
+    },
+    {
+      "tag": "INPUT",
+      "id": "la-study-search",
+      "type": "search",
+      "text": "",
+      "label": "内容或题型",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "进入学习 →",
+      "label": "",
+      "href": "#listening-new-new-listening-campus-notes",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "加入今天",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "进入学习 →",
+      "label": "",
+      "href": "#listening-new-new-listening-team-roles",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "加入今天",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "进入学习 →",
+      "label": "",
+      "href": "#listening-new-new-listening-weather-table",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "加入今天",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "进入学习 →",
+      "label": "",
+      "href": "#listening-new-new-listening-lecture-outline",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "加入今天",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "进入学习 →",
+      "label": "",
+      "href": "#learn-listening-insurance-choice",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "加入今天",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "进入学习 →",
+      "label": "",
+      "href": "#learn-listening-customer-request",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "加入今天",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "进入学习 →",
+      "label": "",
+      "href": "#listening-first",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "加入今天",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "词汇单词、语境与主动运用 →",
+      "label": "",
+      "href": "#study-vocabulary-list",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "短语搭配、用法与配套小练 →",
+      "label": "",
+      "href": "#study-phrases-list",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "共用背景供不同科目使用的阅读材料 →",
+      "label": "",
+      "href": "#study-shared-list",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    }
+  ],
+  "visibleText": "学习 · 听力\n\n7 项内容 · 按需要选一项开始。\n\n← 返回学习\n0% · 0 / 7 单元\n话题\n全部\n教育与学习\n通用\nPart\n全部\n题型／内容\n全部\n图表\n填空与信息整理\n理解与方法\n选择题\n内容或题型\n\n听力 · 教育与学习\n\n课堂通知：日期、数字与澄清请求\n\n讲解与配套练习，可按需要选学。\n\n0% · 0 / 5 练习已作答\n进入学习 →\n加入今天\n\n听力 · 通用\n\n会议分工：谁提出顾虑，谁负责执行\n\n讲解与配套练习，可按需要选学。\n\n0% · 0 / 6 练习已作答\n进入学习 →\n加入今天\n\n听力 · 通用\n\n天气播报：地区、时间与例外条件\n\n讲解与配套练习，可按需要选学。\n\n0% · 0 / 6 练习已作答\n进入学习 →\n加入今天\n\n听力 · 通用\n\n讲座导入：定义、例子与后文路线\n\n讲解与配套练习，可按需要选学。\n\n0% · 0 / 5 练习已作答\n进入学习 →\n加入今天\n\n听力 · 通用\n\n单选：听到选项，还要听清最后的决定\n\n讲解与配套练习，可按需要选学。\n\n0% · 0 / 1 完成\n进入学习 →\n加入今天\n\n听力 · 通用\n\n服务沟通：分清请求、顾虑和最终同意\n\n讲解与配套练习，可按需要选学。\n\n0% · 0 / 1 完成\n进入学习 →\n加入今天\n\n听力 · 通用\n\n听力 · 从原题开始学\n\n讲解与配套练习，可按需要选学。\n\n0% · 0 / 8 完成\n进入学习 →\n加入今天",
+  "allContent": "IELTS / MY STUDY学习 · 听力7 项内容 · 按需要选一项开始。← 返回学习直接开始学习已有默认安排；也可以选板块和 15／30／60 分钟。查看安排并开始 →继续上次选一项内容开始，之后可以从这里继续。学习项目 →今天选的内容 →0% · 0 / 7 单元写作类型全部写作Task 1Task 2话题全部教育与学习通用7 项内容Part全部题型／内容全部图表填空与信息整理理解与方法选择题内容或题型听力 · 教育与学习课堂通知：日期、数字与澄清请求讲解与配套练习，可按需要选学。0% · 0 / 5 练习已作答进入学习 →加入今天听力 · 通用会议分工：谁提出顾虑，谁负责执行讲解与配套练习，可按需要选学。0% · 0 / 6 练习已作答进入学习 →加入今天听力 · 通用天气播报：地区、时间与例外条件讲解与配套练习，可按需要选学。0% · 0 / 6 练习已作答进入学习 →加入今天听力 · 通用讲座导入：定义、例子与后文路线讲解与配套练习，可按需要选学。0% · 0 / 5 练习已作答进入学习 →加入今天听力 · 通用单选：听到选项，还要听清最后的决定讲解与配套练习，可按需要选学。0% · 0 / 1 完成进入学习 →加入今天听力 · 通用服务沟通：分清请求、顾虑和最终同意讲解与配套练习，可按需要选学。0% · 0 / 1 完成进入学习 →加入今天听力 · 通用听力 · 从原题开始学讲解与配套练习，可按需要选学。0% · 0 / 8 完成进入学习 →加入今天词汇与背景词汇单词、语境与主动运用 →短语搭配、用法与配套小练 →共用背景供不同科目使用的阅读材料 →",
+  "links": [
+    {
+      "text": "← 返回学习",
+      "href": "#study"
+    },
+    {
+      "text": "查看安排并开始 →",
+      "href": "#guide"
+    },
+    {
+      "text": "学习项目 →",
+      "href": "#learning-projects"
+    },
+    {
+      "text": "今天选的内容 →",
+      "href": "#plan"
+    },
+    {
+      "text": "进入学习 →",
+      "href": "#listening-new-new-listening-campus-notes"
+    },
+    {
+      "text": "进入学习 →",
+      "href": "#listening-new-new-listening-team-roles"
+    },
+    {
+      "text": "进入学习 →",
+      "href": "#listening-new-new-listening-weather-table"
+    },
+    {
+      "text": "进入学习 →",
+      "href": "#listening-new-new-listening-lecture-outline"
+    },
+    {
+      "text": "进入学习 →",
+      "href": "#learn-listening-insurance-choice"
+    },
+    {
+      "text": "进入学习 →",
+      "href": "#learn-listening-customer-request"
+    },
+    {
+      "text": "进入学习 →",
+      "href": "#listening-first"
+    },
+    {
+      "text": "词汇单词、语境与主动运用 →",
+      "href": "#study-vocabulary-list"
+    },
+    {
+      "text": "短语搭配、用法与配套小练 →",
+      "href": "#study-phrases-list"
+    },
+    {
+      "text": "共用背景供不同科目使用的阅读材料 →",
+      "href": "#study-shared-list"
+    }
+  ],
+  "details": [],
+  "saveFields": [],
+  "images": [],
+  "audio": [],
+  "viewport": 1440,
+  "documentWidth": 1440
+}

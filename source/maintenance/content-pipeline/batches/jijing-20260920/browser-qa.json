@@ -1,0 +1,96 @@
+{
+  "candidate_sha256": "dc3e6e39ab1bf2155069f92d6fe952733b9b044684a02d81d7f426578578938a",
+  "browser": "Headless Microsoft Edge 153.0.4234.48",
+  "userProfileUsed": false,
+  "remoteNetworkBlocked": true,
+  "checks": [
+    {
+      "name": "Project visible in existing learning projects",
+      "status": "pass"
+    },
+    {
+      "name": "Practice save, gate, reload: pr-jijing-202609-listening-01-v1",
+      "status": "pass",
+      "detail": {
+        "fields": 10
+      }
+    },
+    {
+      "name": "Practice save, gate, reload: pr-jijing-202609-reading-01-v1",
+      "status": "pass",
+      "detail": {
+        "fields": 13
+      }
+    },
+    {
+      "name": "Local MP3 loaded, decoded and played",
+      "status": "pass",
+      "detail": {
+        "duration": 1476.04898,
+        "currentTime": 0.614265,
+        "readyState": 4,
+        "paused": false,
+        "source": "http://127.0.0.1:63731/%E6%9C%BA%E7%BB%8F%E8%B5%84%E6%96%99/jijing-20260920/ieltsa/assets/494b5ff8b614-2026-sep-hf-1.mp3"
+      }
+    },
+    {
+      "name": "All seven downloaded MP3 files load with finite duration",
+      "status": "pass",
+      "detail": [
+        {
+          "url": "/%E6%9C%BA%E7%BB%8F%E8%B5%84%E6%96%99/jijing-20260920/ieltsa/assets/494b5ff8b614-2026-sep-hf-1.mp3",
+          "duration": 1476.04898
+        },
+        {
+          "url": "/%E6%9C%BA%E7%BB%8F%E8%B5%84%E6%96%99/jijing-20260920/ieltsa/assets/ae29e0063390-2026-sep-hf-2.mp3",
+          "duration": 1563.715918
+        },
+        {
+          "url": "/%E6%9C%BA%E7%BB%8F%E8%B5%84%E6%96%99/jijing-20260920/ieltsa/assets/1edaf6b75938-2026-sep-hf-3.mp3",
+          "duration": 1671.993469
+        },
+        {
+          "url": "/%E6%9C%BA%E7%BB%8F%E8%B5%84%E6%96%99/jijing-20260920/ieltsa/assets/6978653008b1-2026-sep-hf-4.mp3",
+          "duration": 1543.157551
+        },
+        {
+          "url": "/%E6%9C%BA%E7%BB%8F%E8%B5%84%E6%96%99/jijing-20260920/ieltsa/assets/7c1f04733a30-2026-sep-hf-5.mp3",
+          "duration": 1559.484082
+        },
+        {
+          "url": "/%E6%9C%BA%E7%BB%8F%E8%B5%84%E6%96%99/jijing-20260920/ieltsa/assets/26ed67eabaa8-2026-sep-hf-6.mp3",
+          "duration": 1632.261224
+        },
+        {
+          "url": "/%E6%9C%BA%E7%BB%8F%E8%B5%84%E6%96%99/jijing-20260920/ieltsa/assets/ce80d952808b-2026-sep-hf-7.mp3",
+          "duration": 1715.435102
+        }
+      ]
+    },
+    {
+      "name": "New mobile reading content fits viewport",
+      "status": "pass",
+      "detail": {
+        "unitBounds": {
+          "x": 18,
+          "y": 90.890625,
+          "width": 354,
+          "height": 7680.34375
+        },
+        "current": {
+          "width": 390,
+          "scroll": 390,
+          "bodyClass": "ds-enabled",
+          "wide": []
+        },
+        "historicalBaselineEvidence": "content-review/baseline-overflow.json",
+        "historicalBaselineAudit": true
+      }
+    },
+    {
+      "name": "Local archive index opens with external network blocked",
+      "status": "pass"
+    }
+  ],
+  "errors": []
+}

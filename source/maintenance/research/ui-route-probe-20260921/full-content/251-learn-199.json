@@ -1,0 +1,57 @@
+{
+  "requested": "learn-199",
+  "from": [
+    "内容单元"
+  ],
+  "actual": "#learn-199",
+  "checkedAt": "2026-09-21T12:53:39.778Z",
+  "title": "学习 / 词汇 / process · IELTS",
+  "label": "学习 / 词汇 / process",
+  "panel": "vocabulary",
+  "contentRoot": "learn-199",
+  "headings": [
+    {
+      "tag": "H3",
+      "text": "process",
+      "visible": true
+    }
+  ],
+  "controls": [
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "checkbox",
+      "text": "",
+      "label": "收藏 process",
+      "href": null,
+      "save": "vocab-saved-word-process",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "checkbox",
+      "text": "",
+      "label": "我已看过本单元",
+      "href": null,
+      "save": "learning-read-learn-199",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    }
+  ],
+  "visibleText": "0% · 0 / 1 完成\n☆\nprocess\n\n过程；一系列步骤\n\na process of… / a gradual process\n\nLearning to use a new system can be a gradual process.\n\n学会使用新系统可能是一个逐步进行的过程。\n\n描述过程要讲步骤或变化，不只说它很复杂。\n\n我已看过本单元",
+  "allContent": "0% · 0 / 1 完成☆process过程；一系列步骤a process of… / a gradual processLearning to use a new system can be a gradual process.学会使用新系统可能是一个逐步进行的过程。描述过程要讲步骤或变化，不只说它很复杂。 我已看过本单元",
+  "links": [],
+  "details": [],
+  "saveFields": [
+    "vocab-saved-word-process",
+    "learning-read-learn-199"
+  ],
+  "images": [],
+  "audio": [],
+  "viewport": 1440,
+  "documentWidth": 1440
+}

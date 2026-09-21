@@ -1,0 +1,351 @@
+{
+  "requested": "learn-listening-insurance-choice",
+  "from": [
+    "内容单元"
+  ],
+  "actual": "#learn-listening-insurance-choice",
+  "checkedAt": "2026-09-21T12:51:19.514Z",
+  "title": "学习 / 听力 / 单选：听到选项，还要听清最后的决定 · IELTS",
+  "label": "学习 / 听力 / 单选：听到选项，还要听清最后的决定",
+  "panel": "listening",
+  "contentRoot": "learn-listening-insurance-choice",
+  "headings": [
+    {
+      "tag": "H3",
+      "text": "先知道在听什么",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "两组表达",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "运输保险 · 听力 9–10 题",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "SECTION 1 · Questions 9 and 10",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "留下本单元首稿",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "核对依据，再修订",
+      "visible": false
+    },
+    {
+      "tag": "H3",
+      "text": "答案与证据",
+      "visible": false
+    },
+    {
+      "tag": "H3",
+      "text": "分开记录三个结果",
+      "visible": false
+    },
+    {
+      "tag": "H3",
+      "text": "换个情境再用一次",
+      "visible": false
+    }
+  ],
+  "controls": [
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "01\n单选：听到选项，还要听清最后的决定\n接着已有货运填表，练选择保险与交货地点。原来听过这段时，记作复习，不当成陌生初测。\n约 18 分钟",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "查看原图 · 1 页",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "AUDIO",
+      "id": "",
+      "text": "",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "我的答案／口语录音文件与简记",
+      "href": null,
+      "save": "enrich-listening-insurance-choice-answer",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "checkbox",
+      "text": "",
+      "label": "",
+      "href": null,
+      "save": "enrich-listening-insurance-choice-frozen",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "text",
+      "text": "",
+      "label": "",
+      "href": null,
+      "save": "enrich-listening-insurance-choice-saved-at",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "保留首稿，打开反馈",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "修订：哪里变了，为什么",
+      "href": null,
+      "save": "enrich-listening-insurance-choice-revision",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "可选：记录或再练一次",
+      "label": "",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "迁移答案／隔日回忆记录",
+      "href": null,
+      "save": "enrich-listening-insurance-choice-transfer",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "可选：记录或再练一次",
+      "label": "",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SELECT",
+      "id": "",
+      "type": "select-one",
+      "text": "请选择内容或语境没理解词义或声音没认出词汇选择／搭配不稳证据、逻辑或展开不足语法或句子组织问题暂时独立完成，隔天再检验",
+      "label": "这次最需要补什么？请选择内容或语境没理解词义或声音没认出词汇选择／搭配不稳证据、逻辑或展开不足语法或句子组织问题暂时独立完成，隔天再检验",
+      "href": null,
+      "save": "enrich-listening-insurance-choice-diagnosis",
+      "visible": false,
+      "disabled": false,
+      "required": false,
+      "options": [
+        {
+          "value": "",
+          "label": "请选择"
+        },
+        {
+          "value": "内容或语境没理解",
+          "label": "内容或语境没理解"
+        },
+        {
+          "value": "词义或声音没认出",
+          "label": "词义或声音没认出"
+        },
+        {
+          "value": "词汇选择／搭配不稳",
+          "label": "词汇选择／搭配不稳"
+        },
+        {
+          "value": "证据、逻辑或展开不足",
+          "label": "证据、逻辑或展开不足"
+        },
+        {
+          "value": "语法或句子组织问题",
+          "label": "语法或句子组织问题"
+        },
+        {
+          "value": "暂时独立完成，隔天再检验",
+          "label": "暂时独立完成，隔天再检验"
+        }
+      ]
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "配套材料",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "",
+      "label": "",
+      "href": "https://www.cambridgeenglish.org/exams-and-tests/ielts/preparation/",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "",
+      "label": "",
+      "href": "原始参考/7918ea4d-cambridge-zip-115008_Listening_sample_task_-_Multiple_choice.pdf",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "",
+      "label": "",
+      "href": "原始参考/153e493c-listening-115008.txt",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "",
+      "label": "",
+      "href": "原始参考/825804b6-listening-115008.txt",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    }
+  ],
+  "visibleText": "01\n单选：听到选项，还要听清最后的决定\n接着已有货运填表，练选择保险与交货地点。原来听过这段时，记作复习，不当成陌生初测。\n约 18 分钟\n0% · 0 / 1 完成\n先知道在听什么\n\n货运服务里，工作人员会先介绍几个选项，客户才作决定。题目问的是最终选择，不是出现过哪个名词。\n\n读题，圈出 choose / delivered 等决定你要找什么的信息。\n把每个选项压成一个意思：服务等级，或交货地点。不要先猜字母。\n听到某个选项，只暂记为“提到”；听到评价、排除或接受，再更新为“选定”。\n两组表达\ngo for + 选项：选择。I’ll go for the smaller room. 不只是移动方向。\npick something up from + 地点：从某处领取。I can pick the parcel up from the office. 代词要放中间：pick it up。\n\n先按下方原题听一次。若看过原稿，请明确记录“已看稿后的重听”。\n\n运输保险 · 听力 9–10 题\nSECTION 1 · Questions 9 and 10\n\nChoose the correct letter, A, B or C.\n\n9 Type of insurance chosen\n\nEconomy\nStandard\nPremium\n\n10 Customer wants goods delivered to\n\nport\nhome\ndepot\n查看原图 · 1 页\nCambridge Recording 2 · Questions 9–10\n留下本单元首稿\n\n本单元先学再用；不记为未见初测。口语可使用原章节录音器，或自行录音并记文件名。\n\n听 Recording 2，写下 9、10 两题答案。每题再写：最终选择的意思、你听到的决定依据。不确定就标 ?，不要边看稿边算首听。\n\n我的答案／口语录音文件与简记\n保留首稿，打开反馈\n\n先写下自己的答案。\n\n配套材料",
+  "allContent": "01单选：听到选项，还要听清最后的决定接着已有货运填表，练选择保险与交货地点。原来听过这段时，记作复习，不当成陌生初测。约 18 分钟0% · 0 / 1 完成先知道在听什么\n货运服务里，工作人员会先介绍几个选项，客户才作决定。题目问的是最终选择，不是出现过哪个名词。\n\n读题，圈出 choose / delivered 等决定你要找什么的信息。\n把每个选项压成一个意思：服务等级，或交货地点。不要先猜字母。\n听到某个选项，只暂记为“提到”；听到评价、排除或接受，再更新为“选定”。\n\n两组表达\n\ngo for + 选项：选择。I’ll go for the smaller room. 不只是移动方向。\npick something up from + 地点：从某处领取。I can pick the parcel up from the office. 代词要放中间：pick it up。\n\n先按下方原题听一次。若看过原稿，请明确记录“已看稿后的重听”。运输保险 · 听力 9–10 题SECTION 1 · Questions 9 and 10Choose the correct letter, A, B or C.9  Type of insurance chosenEconomyStandardPremium10  Customer wants goods delivered toporthomedepot查看原图 · 1 页学生题页：Questions 9–10Cambridge Recording 2 · Questions 9–10留下本单元首稿本单元先学再用；不记为未见初测。口语可使用原章节录音器，或自行录音并记文件名。听 Recording 2，写下 9、10 两题答案。每题再写：最终选择的意思、你听到的决定依据。不确定就标 ?，不要边看稿边算首听。我的答案／口语录音文件与简记保留首稿，打开反馈先写下自己的答案。核对依据，再修订答案与证据\n9 C；10 A。\n9：介绍三种等级之后，客户提到过去对 Economy 的不满意，并要最高等级；要把“最高等级”对应到 Premium，而不是抓到 Economy 就选它。\n10：工作人员列举不同交货方式；客户自己可以安排运输，接受到港后自行领取，因此是 port。\n分开记录三个结果\n\n首听：0–2 题正确，保留原答。\n错因：没听出声音 / 没懂换说法 / 跟丢决定 / 误看题目，只选有证据的一项。\n查稿重听：能否定位支持选择的意思？用“能 / 仍需看稿”记录。\n\n重听改对说明这一步已理解，不把首听分数改高；2 道题不能换算听力 band。修订：哪里变了，为什么换个情境再用一次隔天做这个换情境练习，不计原题听力分：工作人员说“Delivering to your home costs extra. You can also collect it at our depot.” 客户说“I’m away during the day, so I’ll come and get it myself.” 客户选什么？用一句自己的英语解释，包含 pick up。写完再核对：句中的地点是否与客户自己的安排一致？代词若出现，是否放在 pick 与 up 之间？可选：记录或再练一次迁移答案／隔日回忆记录可选：记录或再练一次这次最需要补什么？请选择内容或语境没理解词义或声音没认出词汇选择／搭配不稳证据、逻辑或展开不足语法或句子组织问题暂时独立完成，隔天再检验配套材料练习题单选题原 PDF原文字稿答案",
+  "links": [
+    {
+      "text": "练习题",
+      "href": "https://www.cambridgeenglish.org/exams-and-tests/ielts/preparation/"
+    },
+    {
+      "text": "单选题原 PDF",
+      "href": "原始参考/7918ea4d-cambridge-zip-115008_Listening_sample_task_-_Multiple_choice.pdf"
+    },
+    {
+      "text": "原文字稿",
+      "href": "原始参考/153e493c-listening-115008.txt"
+    },
+    {
+      "text": "答案",
+      "href": "原始参考/825804b6-listening-115008.txt"
+    }
+  ],
+  "details": [
+    {
+      "id": "",
+      "title": "查看原图 · 1 页",
+      "open": false,
+      "visible": true
+    },
+    {
+      "id": "",
+      "title": "可选：记录或再练一次",
+      "open": false,
+      "visible": false
+    },
+    {
+      "id": "",
+      "title": "可选：记录或再练一次",
+      "open": false,
+      "visible": false
+    },
+    {
+      "id": "",
+      "title": "配套材料",
+      "open": false,
+      "visible": true
+    }
+  ],
+  "saveFields": [
+    "enrich-listening-insurance-choice-answer",
+    "enrich-listening-insurance-choice-frozen",
+    "enrich-listening-insurance-choice-saved-at",
+    "enrich-listening-insurance-choice-revision",
+    "enrich-listening-insurance-choice-transfer",
+    "enrich-listening-insurance-choice-diagnosis"
+  ],
+  "images": [
+    {
+      "src": "assets/deferred-media/30cb59c0ee2521e9e7423fae.png",
+      "alt": "官方学生题页：Questions 9–10",
+      "visible": false,
+      "complete": false,
+      "width": 0
+    }
+  ],
+  "audio": [
+    {
+      "src": "原始参考/c31e6351-recording-2.mp3",
+      "sources": [],
+      "visible": true,
+      "controls": true
+    }
+  ],
+  "viewport": 1440,
+  "documentWidth": 1440
+}

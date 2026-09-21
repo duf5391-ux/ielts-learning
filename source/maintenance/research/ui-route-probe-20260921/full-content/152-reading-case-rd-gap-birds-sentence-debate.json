@@ -1,0 +1,205 @@
+{
+  "requested": "reading-case-rd-gap-birds-sentence-debate",
+  "from": [
+    "内容单元",
+    "页面链接",
+    "每日安排目标"
+  ],
+  "actual": "#reading-case-rd-gap-birds-sentence-debate",
+  "checkedAt": "2026-09-21T12:52:22.266Z",
+  "title": "练习 / 阅读 / 鸟类起源：两方论点与过渡化石 · IELTS",
+  "label": "练习 / 阅读 / 鸟类起源：两方论点与过渡化石",
+  "panel": "practice-reading",
+  "contentRoot": "reading-case-rd-gap-birds-sentence-debate",
+  "headings": [
+    {
+      "tag": "H3",
+      "text": "对照答案，回到证据",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "5",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "6",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "7",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "词语与搭配",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "句子精读",
+      "visible": false
+    }
+  ],
+  "controls": [
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "鸟类起源：两方论点与过渡化石未作答\n句子填空 · 3 段 · 390 词 · 3 题 · 同篇原文另有裁切",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "IELTS Academic Reading official computer sample · The origins of birds",
+      "label": "",
+      "href": "case-assets/reading-gap-origins-birds-original.html",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "case-rd-gap-birds-sentence-debate-q1",
+      "type": "text",
+      "text": "",
+      "label": "第 3 题作答",
+      "href": null,
+      "save": "case-rd-gap-birds-sentence-debate-q1",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "case-rd-gap-birds-sentence-debate-q2",
+      "type": "text",
+      "text": "",
+      "label": "第 4 题作答",
+      "href": null,
+      "save": "case-rd-gap-birds-sentence-debate-q2",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "case-rd-gap-birds-sentence-debate-q3",
+      "type": "text",
+      "text": "",
+      "label": "第 5 题作答",
+      "href": null,
+      "save": "case-rd-gap-birds-sentence-debate-q3",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "checkbox",
+      "text": "",
+      "label": "",
+      "href": null,
+      "save": "case-rd-gap-birds-sentence-debate-done",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "hidden",
+      "text": "",
+      "label": "",
+      "href": null,
+      "save": "case-rd-gap-birds-sentence-debate-saved-at",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "保留作答，查看答案",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "核对原答案页",
+      "label": "",
+      "href": "case-assets/reading-gap-origins-birds-answers.pdf#page=1",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "case-rd-gap-birds-sentence-debate-revision",
+      "type": "textarea",
+      "text": "",
+      "label": "我的修订／证据笔记",
+      "href": null,
+      "save": "case-rd-gap-birds-sentence-debate-revision",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "材料精读 · 内容与词句",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    }
+  ],
+  "visibleText": "鸟类起源：两方论点与过渡化石未作答\n句子填空 · 3 段 · 390 词 · 3 题 · 同篇原文另有裁切\n0% · 0 / 1 完成\n\nAcademic官方机考样题 · IELTS Academic Reading official computer sample · The origins of birds\n\n完成下列原句，填入原文对应词语。本组保留官方原题号；实际官方答案每空均为一个词。\n\n同一篇官方原文的连续三段裁切，不计作另一篇材料。统一字数上限未载于本地QTI，未补造正式上限。\n\n5US ornithologist Alan Feduccia and palaeontologist Larry Martin are two vocal opponents of the dinosaur theory. They contend that birds evolved from some unknown reptile at a time long before dinosaurs. Their reasoning is that flight is most likely to have started from a tree-climbing ancestor, yet all the proposed dinosaurian ancestors were ground-dwellers. But the dino-bird supporters contend that an unknown dinosaurian bird-ancestor could have been tree-dwelling, or that birds evolved flight from the ground up by chasing and leaping after insects. Most of Feduccia and Martin's case against the 'birds-are-dinosaurs' hypothesis is based on differences between birds and dinosaurs. Supporters of cladistics, however, maintain that differences between organisms do not matter, as it is the similarities between them that count. Evolution dictates that organisms will change through time, so it is only the features which persist that carry useful information about their origins.\n\n6Most people on either side of the debate do accept, however, that the ancient winged creature known as Archaeopteryx is an ancestor of today’s birds. This is in spite of the fact that its form is distinctly non-bird-like, with a long bony tail, and teeth instead of a beak. The 'birds-are-dinosaurs' supporters contend that, if clearly-preserved feathers had not been found alongside two of the seven Archaeopteryx specimens, it would probably have been identified as a small dinosaur. However, Archaeopteryx does have some bird-like features, such as a furcula and bird-like feet, that suggest that it is too bird-like to be considered a dinosaur.\n\n7Over the last few decades several dinosaurs with bird-like features and primitive birds with dinosaur-like features have been found in several countries, connecting Archaeopteryx back to dinosaurs, and forwards to modern birds. Sinosauropteryx, excavated from 130-million-year-old rocks in northeast China, is one example. It has a dinosaur skeleton surrounded by a halo of fuzz, thought to be primitive feathers. And a reassessment of other dinosaurs reveals such bird-like features as hollow bones and a foot with three functional toes, characteristics that appeared over 50 million years before Archaeopteryx took to the air. And Rahonavis, a primitive bird from Madagascar is more bird-like than Archaeopteryx, yet retains some distinctive dinosaur features, including a long and vicious claw at the end of its wing. Over a century since Huxley's discovery, it seems that cladistics may have finally settled the 'dino-bird' debate.\n\n3. Feduccia and Martin believe that the ancestor of today’s birds was a kind of early ________ .\n\n第 3 题作答\n\n4. In cladistics, the ________ between organisms’ characteristics are of major importance.\n\n第 4 题作答\n\n5. The dangerous ________ on a primitive bird from Madagascar adds weight to the ‘dino-bird’ argument.\n\n第 5 题作答\n保留作答，查看答案\n\n先作答；不确定的题也可记录判断与疑点。\n\n材料精读 · 内容与词句",
+  "allContent": "鸟类起源：两方论点与过渡化石未作答句子填空 · 3 段 · 390 词 · 3 题 · 同篇原文另有裁切0% · 0 / 1 完成Academic官方机考样题 · IELTS Academic Reading official computer sample · The origins of birds完成下列原句，填入原文对应词语。本组保留官方原题号；实际官方答案每空均为一个词。同一篇官方原文的连续三段裁切，不计作另一篇材料。统一字数上限未载于本地QTI，未补造正式上限。5US ornithologist Alan Feduccia and palaeontologist Larry Martin are two vocal opponents of the dinosaur theory. They contend that birds evolved from some unknown reptile at a time long before dinosaurs. Their reasoning is that flight is most likely to have started from a tree-climbing ancestor, yet all the proposed dinosaurian ancestors were ground-dwellers. But the dino-bird supporters contend that an unknown dinosaurian bird-ancestor could have been tree-dwelling, or that birds evolved flight from the ground up by chasing and leaping after insects. Most of Feduccia and Martin's case against the 'birds-are-dinosaurs' hypothesis is based on differences between birds and dinosaurs. Supporters of cladistics, however, maintain that differences between organisms do not matter, as it is the similarities between them that count. Evolution dictates that organisms will change through time, so it is only the features which persist that carry useful information about their origins.6Most people on either side of the debate do accept, however, that the ancient winged creature known as Archaeopteryx is an ancestor of today’s birds. This is in spite of the fact that its form is distinctly non-bird-like, with a long bony tail, and teeth instead of a beak. The 'birds-are-dinosaurs' supporters contend that, if clearly-preserved feathers had not been found alongside two of the seven Archaeopteryx specimens, it would probably have been identified as a small dinosaur. However, Archaeopteryx does have some bird-like features, such as a furcula and bird-like feet, that suggest that it is too bird-like to be considered a dinosaur.7Over the last few decades several dinosaurs with bird-like features and primitive birds with dinosaur-like features have been found in several countries, connecting Archaeopteryx back to dinosaurs, and forwards to modern birds. Sinosauropteryx, excavated from 130-million-year-old rocks in northeast China, is one example. It has a dinosaur skeleton surrounded by a halo of fuzz, thought to be primitive feathers. And a reassessment of other dinosaurs reveals such bird-like features as hollow bones and a foot with three functional toes, characteristics that appeared over 50 million years before Archaeopteryx took to the air. And Rahonavis, a primitive bird from Madagascar is more bird-like than Archaeopteryx, yet retains some distinctive dinosaur features, including a long and vicious claw at the end of its wing. Over a century since Huxley's discovery, it seems that cladistics may have finally settled the 'dino-bird' debate.3. Feduccia and Martin believe that the ancestor of today’s birds was a kind of early ________ .第 3 题作答4. In cladistics, the ________ between organisms’ characteristics are of major importance.第 4 题作答5. The dangerous ________ on a primitive bird from Madagascar adds weight to the ‘dino-bird’ argument.第 5 题作答保留作答，查看答案先作答；不确定的题也可记录判断与疑点。对照答案，回到证据第 3 题 · reptile题干问Feduccia和Martin，Their/They回指两位反对者；unknown reptile才是他们主张的祖先，不是另一阵营的dinosaur。They contend that birds evolved from some unknown reptile at a time long before dinosaurs.第 4 题 · similaritiesof major importance对应that count；differences do not matter是被否定项，不能只看到differences多次出现就选择。it is the similarities between them that count.第 5 题 · clawdangerous对应vicious，Madagascar锁定Rahonavis；claw位于翼末，不能错拿上一段Archaeopteryx的tail或teeth。including a long and vicious claw at the end of its wing.核对原答案页我的修订／证据笔记材料精读 · 内容与词句材料先交代不同阵营用什么解释飞行起源、看重哪些骨骼特征，再讨论兼有不同特征的化石，最后说明新增发现怎样连接更长的演化链。结尾仍保留seems和may，属于材料当时视角下的判断，不把它改写为无需条件的定论。5US ornithologist Alan Feduccia and palaeontologist Larry Martin are two vocal opponents of the dinosaur theory. They contend that birds evolved from some unknown reptile at a time long before dinosaurs. Their reasoning is that flight is most likely to have started from a tree-climbing ancestor, yet all the proposed dinosaurian ancestors were ground-dwellers. But the dino-bird supporters contend that an unknown dinosaurian bird-ancestor could have been tree-dwelling, or that birds evolved flight from the ground up by chasing and leaping after insects. Most of Feduccia and Martin's case against the 'birds-are-dinosaurs' hypothesis is based on differences between birds and dinosaurs. Supporters of cladistics, however, maintain that differences between organisms do not matter, as it is the similarities between them that count. Evolution dictates that organisms will change through time, so it is only the features which persist that carry useful information about their origins.第5段介绍反对者的树栖起源推理，以及支持者提出的树栖恐龙或地面追逐昆虫的可能解释。随后争论转向比较依据：反对者强调差异，支序分类法的支持者在文中强调保留下来的共同特征。could和most likely表明这里包含假设与可能性，不能把任何一幅起源场景写成已直接观察到的过程。6Most people on either side of the debate do accept, however, that the ancient winged creature known as Archaeopteryx is an ancestor of today’s birds. This is in spite of the fact that its form is distinctly non-bird-like, with a long bony tail, and teeth instead of a beak. The 'birds-are-dinosaurs' supporters contend that, if clearly-preserved feathers had not been found alongside two of the seven Archaeopteryx specimens, it would probably have been identified as a small dinosaur. However, Archaeopteryx does have some bird-like features, such as a furcula and bird-like feet, that suggest that it is too bird-like to be considered a dinosaur.第6段写双方多数人承认始祖鸟与现代鸟类有祖先关系，同时列举长骨尾、牙齿与鸟样足部、叉骨等混合特征。羽毛保存状况影响了人们如何识别标本。文中以这些特征讨论归类边界，不能只看名字中的“鸟”就忽略其复杂性。7Over the last few decades several dinosaurs with bird-like features and primitive birds with dinosaur-like features have been found in several countries, connecting Archaeopteryx back to dinosaurs, and forwards to modern birds. Sinosauropteryx, excavated from 130-million-year-old rocks in northeast China, is one example. It has a dinosaur skeleton surrounded by a halo of fuzz, thought to be primitive feathers. And a reassessment of other dinosaurs reveals such bird-like features as hollow bones and a foot with three functional toes, characteristics that appeared over 50 million years before Archaeopteryx took to the air. And Rahonavis, a primitive bird from Madagascar is more bird-like than Archaeopteryx, yet retains some distinctive dinosaur features, including a long and vicious claw at the end of its wing. Over a century since Huxley's discovery, it seems that cladistics may have finally settled the 'dino-bird' debate.第7段沿两个方向补充过渡联系：一端是带鸟样特征的恐龙，另一端是仍保留恐龙特征的早期鸟类。中华龙鸟周围的绒状物在文中被认为可能是原始羽毛；Rahonavis则展示更接近鸟类却仍有独特爪子的组合。结尾的谨慎语气与前面持续积累的证据相呼应。词语与搭配two vocal opponents两位积极公开反对的人vocal在此指公开、强烈地表达意见，不是专指嗓音特征。the features which persist持续保留下来的特征persist强调特征经过时间仍然存在；which从句限定哪些特征承载相关信息。in spite of the fact that尽管存在……这一事实引出完整从句，与前面的判断形成让步关系；不表示后面的事实被否认。thought to be primitive feathers被认为是原始羽毛thought to be保留解释归属和不确定性，不能直接删去而写成毫无保留的鉴定。句子精读The 'birds-are-dinosaurs' supporters contend that, if clearly-preserved feathers had not been found alongside two of the seven Archaeopteryx specimens, it would probably have been identified as a small dinosaur.支持“鸟类源自恐龙”观点的人认为，如果七个始祖鸟标本中的两个旁边没有发现保存清晰的羽毛，它很可能就会被认作一种小型恐龙。contend that引出这一派的判断；if...had not been found与would probably have been identified构成对过去情况的反事实设想。it指始祖鸟；probably保留可能性，句子不是说这些标本实际上都曾被误认。Over the last few decades several dinosaurs with bird-like features and primitive birds with dinosaur-like features have been found in several countries, connecting Archaeopteryx back to dinosaurs, and forwards to modern birds.在此前几十年间，人们在几个国家发现了多种具有鸟样特征的恐龙，以及保留恐龙样特征的原始鸟类；这些发现把始祖鸟与更早的恐龙及更晚的现代鸟类联系起来。两个并列名词组dinosaurs with...与primitive birds with...共同作主语；have been found强调发现。connecting...补充这些发现形成的联系，back和forwards描述演化联系的两个方向，不是说始祖鸟个体向两个方向变化。读完讲解，可以把原文连起来再读一次；想保留的词句可使用已有收藏功能。",
+  "links": [
+    {
+      "text": "IELTS Academic Reading official computer sample · The origins of birds",
+      "href": "case-assets/reading-gap-origins-birds-original.html"
+    },
+    {
+      "text": "核对原答案页",
+      "href": "case-assets/reading-gap-origins-birds-answers.pdf#page=1"
+    }
+  ],
+  "details": [
+    {
+      "id": "material-reading-rd-gap-birds-sentence-debate",
+      "title": "材料精读 · 内容与词句",
+      "open": false,
+      "visible": true
+    }
+  ],
+  "saveFields": [
+    "case-rd-gap-birds-sentence-debate-q1",
+    "case-rd-gap-birds-sentence-debate-q2",
+    "case-rd-gap-birds-sentence-debate-q3",
+    "case-rd-gap-birds-sentence-debate-done",
+    "case-rd-gap-birds-sentence-debate-saved-at",
+    "case-rd-gap-birds-sentence-debate-revision"
+  ],
+  "images": [],
+  "audio": [],
+  "viewport": 1440,
+  "documentWidth": 1440
+}

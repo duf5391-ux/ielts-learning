@@ -1,0 +1,214 @@
+{
+  "requested": "listening-feedback",
+  "from": [
+    "页面链接"
+  ],
+  "actual": "#listening-feedback",
+  "checkedAt": "2026-09-21T12:55:06.619Z",
+  "title": "学习 / 听力 / 听力 · 从原题开始学 · IELTS",
+  "label": "学习 / 听力 / 听力 · 从原题开始学",
+  "panel": "listening",
+  "contentRoot": "listening-feedback",
+  "headings": [
+    {
+      "tag": "H2",
+      "text": "原题答案与可接受变体",
+      "visible": false
+    },
+    {
+      "tag": "H2",
+      "text": "只深入一个位置：第 8 题",
+      "visible": false
+    },
+    {
+      "tag": "H2",
+      "text": "用法参考与可接受变体",
+      "visible": false
+    }
+  ],
+  "controls": [
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "完成后核对 · 答案、讲解与可接受表达",
+      "label": "",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "学习页",
+      "label": "",
+      "href": "#listening-first",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "答案页文字",
+      "label": "",
+      "href": "原始参考/86b51fb5-listening-115005.txt",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "完整文字稿",
+      "label": "",
+      "href": "原始参考/3d19fa7a-listening-115005.txt",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "checkbox",
+      "text": "",
+      "label": "1",
+      "href": null,
+      "save": "listening-correct1",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "checkbox",
+      "text": "",
+      "label": "2",
+      "href": null,
+      "save": "listening-correct2",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "checkbox",
+      "text": "",
+      "label": "3",
+      "href": null,
+      "save": "listening-correct3",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "checkbox",
+      "text": "",
+      "label": "4",
+      "href": null,
+      "save": "listening-correct4",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "checkbox",
+      "text": "",
+      "label": "5",
+      "href": null,
+      "save": "listening-correct5",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "checkbox",
+      "text": "",
+      "label": "6",
+      "href": null,
+      "save": "listening-correct6",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "checkbox",
+      "text": "",
+      "label": "7",
+      "href": null,
+      "save": "listening-correct7",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "checkbox",
+      "text": "",
+      "label": "8",
+      "href": null,
+      "save": "listening-correct8",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "记录一条证据：原来怎样写／说，为什么改，下次看什么。",
+      "href": null,
+      "save": "listening-feedback-note",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    }
+  ],
+  "visibleText": "完成后核对 · 答案、讲解与可接受表达请先完成学习页并保存首次答案。本页会显示原题答案和录音内容。\n原题答案与可接受变体\n依据答案页文字。下表提供常用写法；遇到其他形式先对照答案，不只与一条参考字符串比较。\n\n\n\n题号\n常用正确写法\n核对重点\n\n\n\n\n1\nMkere\n姓名拼写；名字 Jacob 已印在表中\n\n\n2\nWestall\nCollege 已印在空格后\n\n\n3\nBS8 9PU\n邮编中的字母与数字；不是街道名\n\n\n4\n0.75 m / 75 cm\n接受 metre(s)、meter(s) 等其他列出的形式；单位不能与数值不匹配\n\n\n5\n0.5 m / 50 cm\n也列出 half a metre 等形式；须同时满足题目字数规则\n\n\n6、7\nbooks；toys\n两个答案可任意顺序，每个只填一次；some 可省略\n\n\n8\n1,700\n题目已经印有 £，填写总估值的数字即可\n\n\n\n每道原题各记一题；6、7 按两个不同答案检查，不按固定顺序误判。原答案中的括号表示可选部分、斜线表示替代形式；不要把斜线两边内容连写成一个超长答案。遇到未列出的单位或拼写变体，先标为待核对，不自行宣布必定接受。\n本章不把单词识别、意义理解和最终得分混成同一个指标。例如听懂物品名字却没有正确填写复数，正式题仍按答案规则检查；教学记录可以另外保留“识别意义成功”。\n只深入一个位置：第 8 题\n完整文字稿\n下面是对稿件的概括，不是新的录音：衣服与书估价约 1,500 英镑；玩具再增加约 200 英镑；最后给出的总值为 1,700 英镑。题目要填的是总估值，不能因为首先听到 1,500 就停在那里。\n可以让学习者先填一个最小核对表，再比较自己的首次答案：\n\n\n\n声音里提到的数值\n在话中对应什么\n是本题最终要填的吗\n\n\n\n\n1,500\n衣服和书的主要费用\n否，只是其中一部分\n\n\n200\n玩具的额外费用\n否，另一部分\n\n\n1,700\n说话者最后建议填写的总值\n是\n\n\n\n这里的要点不是看到多个数字就做加法。其他录音里可能有旧价格、折扣、改口或不同方案，关系不同；必须听清这次说的是相加、替代还是比较。\n\n\n\n实际证据\n优先反馈\n\n\n\n\n数字读在纸上认识，但录音中没有认出\n对照稿重听这一小段，关注实际漏掉的位置；关稿后再听，保留是否依赖文字\n\n\n三个数字都听到，却不清楚各自指什么\n把数字分别连到物品组或总值，检查追加部分和最终确认之间的关系\n\n\n能说清总值，但表格填了局部值\n再看题目要的栏目，检查声音信息与所填位置是否一致\n\n\n主要是单位或书写形式出错\n核对题目已有符号、单位和接受形式；不额外加一份全文听写\n\n\n回忆不起首次发生了什么\n写“原因不确定”，通过后续新材料再观察；不补造当时的心理过程\n\n\n\n一次只挑最能解释当前问题的一行。对第 8 题没有困难时，不必为了完成章节故意加做更多数字题。\n用法参考与可接受变体\n原稿中的取件问答使用 picked up from；下面练习两个常用句子。\n\nPlease pick up the box from the college. / Please collect the box from the college.\nI'd like to have the parcel picked up from the office tomorrow. / I'd like a courier to collect the parcel from the office tomorrow.\n\n取件对象、地点与安排意图清楚即可；不要求与上述句子逐字一致。have the parcel picked up 中 picked up 表示包裹被取走；如果写成 have the parcel pick up，包裹反而成了执行取件动作的一方，需要修正。\n这一页可以作为教学支持。看过例句后的正确表达不证明已经无提示掌握；隔日换情境检查时分别记录目标结构和合法替代表达。\n按参考逐题自核：0 / 8只勾选符合原题规则的答案；未确定的先留空。这里记录原始题数，不换算 band。 1 2 3 4 5 6 7 8记录一条证据：原来怎样写／说，为什么改，下次看什么。",
+  "allContent": "完成后核对 · 答案、讲解与可接受表达请先完成学习页并保存首次答案。本页会显示原题答案和录音内容。\n原题答案与可接受变体\n依据答案页文字。下表提供常用写法；遇到其他形式先对照答案，不只与一条参考字符串比较。\n\n\n\n题号\n常用正确写法\n核对重点\n\n\n\n\n1\nMkere\n姓名拼写；名字 Jacob 已印在表中\n\n\n2\nWestall\nCollege 已印在空格后\n\n\n3\nBS8 9PU\n邮编中的字母与数字；不是街道名\n\n\n4\n0.75 m / 75 cm\n接受 metre(s)、meter(s) 等其他列出的形式；单位不能与数值不匹配\n\n\n5\n0.5 m / 50 cm\n也列出 half a metre 等形式；须同时满足题目字数规则\n\n\n6、7\nbooks；toys\n两个答案可任意顺序，每个只填一次；some 可省略\n\n\n8\n1,700\n题目已经印有 £，填写总估值的数字即可\n\n\n\n每道原题各记一题；6、7 按两个不同答案检查，不按固定顺序误判。原答案中的括号表示可选部分、斜线表示替代形式；不要把斜线两边内容连写成一个超长答案。遇到未列出的单位或拼写变体，先标为待核对，不自行宣布必定接受。\n本章不把单词识别、意义理解和最终得分混成同一个指标。例如听懂物品名字却没有正确填写复数，正式题仍按答案规则检查；教学记录可以另外保留“识别意义成功”。\n只深入一个位置：第 8 题\n完整文字稿\n下面是对稿件的概括，不是新的录音：衣服与书估价约 1,500 英镑；玩具再增加约 200 英镑；最后给出的总值为 1,700 英镑。题目要填的是总估值，不能因为首先听到 1,500 就停在那里。\n可以让学习者先填一个最小核对表，再比较自己的首次答案：\n\n\n\n声音里提到的数值\n在话中对应什么\n是本题最终要填的吗\n\n\n\n\n1,500\n衣服和书的主要费用\n否，只是其中一部分\n\n\n200\n玩具的额外费用\n否，另一部分\n\n\n1,700\n说话者最后建议填写的总值\n是\n\n\n\n这里的要点不是看到多个数字就做加法。其他录音里可能有旧价格、折扣、改口或不同方案，关系不同；必须听清这次说的是相加、替代还是比较。\n\n\n\n实际证据\n优先反馈\n\n\n\n\n数字读在纸上认识，但录音中没有认出\n对照稿重听这一小段，关注实际漏掉的位置；关稿后再听，保留是否依赖文字\n\n\n三个数字都听到，却不清楚各自指什么\n把数字分别连到物品组或总值，检查追加部分和最终确认之间的关系\n\n\n能说清总值，但表格填了局部值\n再看题目要的栏目，检查声音信息与所填位置是否一致\n\n\n主要是单位或书写形式出错\n核对题目已有符号、单位和接受形式；不额外加一份全文听写\n\n\n回忆不起首次发生了什么\n写“原因不确定”，通过后续新材料再观察；不补造当时的心理过程\n\n\n\n一次只挑最能解释当前问题的一行。对第 8 题没有困难时，不必为了完成章节故意加做更多数字题。\n用法参考与可接受变体\n原稿中的取件问答使用 picked up from；下面练习两个常用句子。\n\nPlease pick up the box from the college. / Please collect the box from the college.\nI'd like to have the parcel picked up from the office tomorrow. / I'd like a courier to collect the parcel from the office tomorrow.\n\n取件对象、地点与安排意图清楚即可；不要求与上述句子逐字一致。have the parcel picked up 中 picked up 表示包裹被取走；如果写成 have the parcel pick up，包裹反而成了执行取件动作的一方，需要修正。\n这一页可以作为教学支持。看过例句后的正确表达不证明已经无提示掌握；隔日换情境检查时分别记录目标结构和合法替代表达。\n按参考逐题自核：0 / 8只勾选符合原题规则的答案；未确定的先留空。这里记录原始题数，不换算 band。 1 2 3 4 5 6 7 8记录一条证据：原来怎样写／说，为什么改，下次看什么。",
+  "links": [
+    {
+      "text": "学习页",
+      "href": "#listening-first"
+    },
+    {
+      "text": "答案页文字",
+      "href": "原始参考/86b51fb5-listening-115005.txt"
+    },
+    {
+      "text": "完整文字稿",
+      "href": "原始参考/3d19fa7a-listening-115005.txt"
+    }
+  ],
+  "details": [],
+  "saveFields": [
+    "listening-correct1",
+    "listening-correct2",
+    "listening-correct3",
+    "listening-correct4",
+    "listening-correct5",
+    "listening-correct6",
+    "listening-correct7",
+    "listening-correct8",
+    "listening-feedback-note"
+  ],
+  "images": [],
+  "audio": [],
+  "viewport": 1440,
+  "documentWidth": 1440
+}

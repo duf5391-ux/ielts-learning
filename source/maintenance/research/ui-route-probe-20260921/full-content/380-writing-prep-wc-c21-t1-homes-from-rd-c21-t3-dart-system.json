@@ -1,0 +1,228 @@
+{
+  "requested": "writing-prep-wc-c21-t1-homes-from-rd-c21-t3-dart-system",
+  "from": [
+    "页面链接"
+  ],
+  "actual": "#writing-prep-wc-c21-t1-homes-from-rd-c21-t3-dart-system",
+  "checkedAt": "2026-09-21T12:55:48.226Z",
+  "title": "练习 / 写作 · Task 2 / 高层住宅是否是城市住房的最佳方案 · IELTS",
+  "label": "练习 / 写作 · Task 2 / 高层住宅是否是城市住房的最佳方案",
+  "panel": "practice-writing2",
+  "contentRoot": "writing2-case-wc-c21-t1-homes",
+  "headings": [
+    {
+      "tag": "H3",
+      "text": "写作前置 · 文中表达",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "on the periphery",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "within a short walk of",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "本次写作任务",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "对照答案，回到证据",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "参考写法",
+      "visible": false
+    },
+    {
+      "tag": "H3",
+      "text": "答后精读",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "篇章结构",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "词语与搭配",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "句子精读",
+      "visible": false
+    }
+  ],
+  "controls": [
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "高层住宅是否是城市住房的最佳方案未作答\n同意程度 · 原题拆段写作 · 参考段落与逐段讲解",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "Cambridge IELTS 21 Academic",
+      "label": "",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=31",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "Dar es Salaam · 城市扩张与交通方案",
+      "label": "",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "回到这份材料的精读",
+      "label": "",
+      "href": "#material-reading-rd-c21-t3-dart-city",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "Dar es Salaam · 公交设计与实际故障",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "回到这份材料的精读",
+      "label": "",
+      "href": "#material-reading-rd-c21-t3-dart-system",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "case-wc-c21-t1-homes-answer",
+      "type": "textarea",
+      "text": "",
+      "label": "我的段落",
+      "href": null,
+      "save": "case-wc-c21-t1-homes-answer",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "checkbox",
+      "text": "",
+      "label": "",
+      "href": null,
+      "save": "case-wc-c21-t1-homes-done",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "hidden",
+      "text": "",
+      "label": "",
+      "href": null,
+      "save": "case-wc-c21-t1-homes-saved-at",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "保留作答，查看答案",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "case-wc-c21-t1-homes-revision",
+      "type": "textarea",
+      "text": "",
+      "label": "我的修订／证据笔记",
+      "href": null,
+      "save": "case-wc-c21-t1-homes-revision",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    }
+  ],
+  "visibleText": "高层住宅是否是城市住房的最佳方案未作答\n同意程度 · 原题拆段写作 · 参考段落与逐段讲解\n0% · 0 / 1 完成\n\n真题 · Cambridge IELTS 21 Academic · PDF 第 31 页\n\n写作前置 · 文中表达\n\n这里是所选阅读材料中适合本题的表达；例句按本题语境编写。\n\nDar es Salaam · 公交设计与实际故障\nwithin a short walk of\n\n距……很近，步行即可到达\n\n说明住房与公交网络的空间联系；是否足够近应由实际布局支持。\n\n本题例句 · 编写示范\n\nApartment blocks within a short walk of frequent public transport can provide more homes without making every resident dependent on a car.\n\n直接用于比较高层住宅的条件：密度优势需要交通可达性支持。\n\n回到这份材料的精读\n\nThe best way to provide enough homes in large cities is to build tall apartment blocks. To what extent do you agree or disagree with this statement?\n\n本次写作任务\n\n只写两段主体，约170–210词：先解释高层住宅怎样增加住房，再论证best way的适用边界。明确你赞成到什么程度；不把题目弱化为“高层住宅有没有好处”。\n\n我的段落\n\n0 词\n\n保留作答，查看答案\n\n先作答；不确定的题也可记录判断与疑点。",
+  "allContent": "高层住宅是否是城市住房的最佳方案未作答同意程度 · 原题拆段写作 · 参考段落与逐段讲解0% · 0 / 1 完成真题 · Cambridge IELTS 21 Academic · PDF 第 31 页写作前置 · 文中表达这里是所选阅读材料中适合本题的表达；例句按本题语境编写。Dar es Salaam · 城市扩张与交通方案on the periphery在城市外围用于讨论住房位置与服务距离，需要说明外围扩张带来的具体条件，不能据此断定所有郊区住房都不好。本题例句 · 编写示范Building more homes on the periphery may lengthen journeys to work if public transport does not expand at the same time.高层住宅题涉及如何在大城市提供足够住房；这一表达帮助比较外围扩张与紧凑建设的出行影响。回到这份材料的精读Dar es Salaam · 公交设计与实际故障within a short walk of距……很近，步行即可到达说明住房与公交网络的空间联系；是否足够近应由实际布局支持。本题例句 · 编写示范Apartment blocks within a short walk of frequent public transport can provide more homes without making every resident dependent on a car.直接用于比较高层住宅的条件：密度优势需要交通可达性支持。回到这份材料的精读The best way to provide enough homes in large cities is to build tall apartment blocks. To what extent do you agree or disagree with this statement?本次写作任务只写两段主体，约170–210词：先解释高层住宅怎样增加住房，再论证best way的适用边界。明确你赞成到什么程度；不把题目弱化为“高层住宅有没有好处”。我的段落0 词保留作答，查看答案先作答；不确定的题也可记录判断与疑点。对照答案，回到证据参考写法下列段落为针对原题编写的参考写法，用于对照内容和表达；写作没有唯一标准答案。Tall apartment blocks can make an important contribution where urban land is scarce. By placing many homes on the same site, a city can accommodate more residents without continually expanding into surrounding farmland. A development near an existing railway station may also allow more households to reach jobs without long car journeys. These benefits support the use of high-rise housing in well-connected districts. They are especially relevant when the alternative is low-density construction that provides relatively few homes on valuable central land.However, building upwards is not automatically the best response to every housing shortage. If the new flats are unaffordable, an increase in the total housing supply may do little for families who need reasonably priced accommodation. A large tower can also add pressure to schools, water systems and public transport if these services are not expanded. I would therefore favour tall buildings as one part of a wider strategy that also renovates empty properties and provides affordable homes. Their value depends on location, price and supporting infrastructure, rather than height alone.题眼是best way，不只是a useful way。第二段用可负担性与配套条件检验“最佳”的范围。第一段链条：同一地块更多住房→少向农地扩张；交通站点例子用may，不伪装统计研究。两段最后形成“有条件赞成”：认可高层的贡献，同时不支持它作为所有城市的唯一最佳办法。答后精读篇章结构优势机制—条件化例子—回扣城市土地约束。限制条件—影响—明确程度立场。词语与搭配where urban land is scarce：限定论据适用地点。do little for families who ...：解释新增供给为何不必然解决可负担问题。one part of a wider strategy：表达有条件赞成。句子精读If the new flats are unaffordable, an increase ... may do little ... → 条件句直接检验题目的“provide enough homes”。Their value depends on ... rather than height alone. → Their指tall buildings，结尾仍围绕建筑方案。我的修订／证据笔记",
+  "links": [
+    {
+      "text": "Cambridge IELTS 21 Academic",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=31"
+    },
+    {
+      "text": "回到这份材料的精读",
+      "href": "#material-reading-rd-c21-t3-dart-city"
+    },
+    {
+      "text": "回到这份材料的精读",
+      "href": "#material-reading-rd-c21-t3-dart-system"
+    }
+  ],
+  "details": [
+    {
+      "id": "writing-prep-wc-c21-t1-homes-from-rd-c21-t3-dart-city",
+      "title": "Dar es Salaam · 城市扩张与交通方案",
+      "open": false,
+      "visible": false
+    },
+    {
+      "id": "writing-prep-wc-c21-t1-homes-from-rd-c21-t3-dart-system",
+      "title": "Dar es Salaam · 公交设计与实际故障",
+      "open": true,
+      "visible": true
+    }
+  ],
+  "saveFields": [
+    "case-wc-c21-t1-homes-answer",
+    "case-wc-c21-t1-homes-done",
+    "case-wc-c21-t1-homes-saved-at",
+    "case-wc-c21-t1-homes-revision"
+  ],
+  "images": [],
+  "audio": [],
+  "viewport": 1440,
+  "documentWidth": 1440
+}

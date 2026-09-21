@@ -1,0 +1,673 @@
+{
+  "version": 1,
+  "units": [
+    {
+      "id": "pr-reading-davies-statements",
+      "section": "reading",
+      "part": "阅读 · TRUE / FALSE / NOT GIVEN",
+      "title": "The Davies Sisters",
+      "source": {
+        "id": "cambridge21-academic",
+        "title": "Cambridge IELTS 21 Academic",
+        "path": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf",
+        "page": 18,
+        "pages": [
+          18
+        ],
+        "questionPages": [
+          19,
+          20
+        ],
+        "answerPage": 119,
+        "test": "Test 1",
+        "kind": "真题",
+        "originalUnit": "C21 Test 1 Passage 1",
+        "passageTitle": "The Davies Sisters"
+      },
+      "originNote": "原题选练；末尾加练为自编。",
+      "context": [
+        "However, it was only a few years before their collecting took a new direction and they turned to the work of the French Impressionists***. We know that Hugh Blaker, as a champion of contemporary French art had a hand in the decision, and we know also that they would have seen examples on their various trips to Paris. Whatever the precise reason for this change, their first purchases of Impressionist art, made in October 1912, were scenes of Venice by the French artist Claude Monet. Over the next 12 years, the sisters amassed the bulk of their Impressionist collection, including six further works by Monet, two more by Manet, and three by Renoir, including his well-known painting La Parisienne.",
+        "The First World War (1914-1918) played a part in the development of the sisters' collection. Their initial response to the war effort was to finance the safe passage of artists from occupied Belgium to Wales, as a humanitarian act, but also with the hope of establishing a vibrant artists' community in the area. Later in the conflict, both sisters decided to volunteer at a canteen for troops at Troyes, in northern France; Gwendoline in 1916, followed by Margaret in 1917.",
+        "It was tedious and distressing work, which would have a permanent effect on Gwendoline's health. Yet on one of numerous trips to nearby Paris, she visited the Bernheim-Jeune Gallery. Here she acquired two works by Cézanne - Provençal Landscape and The François Zola Dam. The paintings were shipped directly to Bath, England, where they became the first works by Cézanne to go on display in a public gallery in Britain."
+      ],
+      "instructions": "Write TRUE, FALSE or NOT GIVEN for each statement.",
+      "prompt": "",
+      "questions": [
+        {
+          "id": "10",
+          "prompt": "Hugh Blaker opposed the Davies sisters' decision to buy art by French Impressionists."
+        },
+        {
+          "id": "11",
+          "prompt": "The exhibition of Cézanne paintings at the Bath gallery was very popular with the public."
+        }
+      ],
+      "reference": "Q10 FALSE；Q11 NOT GIVEN",
+      "reasoning": [
+        "champion与had a hand in说明支持并参与，和opposed相反，属于明确反证。",
+        "原文只确认首次公开展出，没有观众反响或人数。全文也未提供其受欢迎程度；first与popular不可互换。"
+      ],
+      "pitfalls": [],
+      "sourceCaseIds": [
+        "rd-c21-davies-2"
+      ],
+      "challengeMechanism": "明确反证与缺失评价信息并置；首次展出不等于受欢迎。",
+      "transfer": {
+        "prompt": "Read the text and write TRUE, FALSE or NOT GIVEN.\n\nThe museum first displayed the collection in 2018. A second exhibition followed in 2021, when the organisers extended the opening hours. Neither exhibition charged an entrance fee.\n\nThe 2021 exhibition attracted more visitors than the 2018 exhibition.",
+        "reference": "NOT GIVEN",
+        "reasoning": "No visitor figures or audience comparison are given."
+      }
+    },
+    {
+      "id": "pr-reading-miles-headings",
+      "section": "reading",
+      "part": "阅读 · 段落标题",
+      "title": "Miles Davis",
+      "source": {
+        "id": "1aebaeefcff3",
+        "title": "British Council · Academic Practice Test 2 · Miles Davis · Q14–19",
+        "originalUnit": "British Council · Academic Practice Test 2 · Miles Davis · Q14–19",
+        "path": "原始参考/b09e5747-miles-student.pdf",
+        "page": [
+          1,
+          2
+        ],
+        "answerPage": 2,
+        "answerPath": "原始参考/e885c438-miles-teacher-feedback.pdf",
+        "kind": "官方样题",
+        "questionPages": [
+          3,
+          4
+        ]
+      },
+      "originNote": "原题选练；末尾加练为自编。",
+      "context": [
+        "B\nHaving graduated from high school in 1944, Davis moved to New York City, where he continued his musical education both in the clubs and in the classroom. His enrolment in the prestigious Julliard School of Music was short-lived, however – he soon dropped out, criticising what he perceived as an over-emphasis on the classical European repertoire and a neglect of jazz. Davis did later acknowledge, however, that this time at the school was invaluable in terms of developing his trumpet-playing technique and giving him a solid grounding in music theory. Much of his early training took place in the form of jam sessions and performances in the clubs of 52nd Street, where he played alongside both up- and-coming and established members of the jazz pantheon such as Coleman Hawkins, Eddie ‘Lockjaw’ Davis, and Thelonious Monk.",
+        "C\nIn the late 1940s, Davis collaborated with nine other instrumentalists, including a French horn and a tuba player, to produce The Birth of Cool, an album now renowned for the inchoate sounds of what would later become known as ‘cool’ jazz. In contrast to popular jazz styles of the day, which featured rapid, rollicking beats, shrieking vocals, and short, sharp horn blasts, Davis’ album was the forerunner of a different kind of sound – thin, light horn-playing, hushed drums and a more restrained, formal arrangement. Although it received little acclaim at the time (the liner notes to one of Davis’ later recordings call it a ‘spectacular failure’), in hindsight The Birth of Cool has become recognised as a pivotal moment in jazz history, cementing – alongside his 1958 recording, Kind of Blue – Davis’ legacy as one of the most innovative musicians of his era."
+      ],
+      "instructions": "Choose the correct heading, i–ix, for each paragraph. Use each heading once.",
+      "prompt": "",
+      "questions": [
+        {
+          "id": "15",
+          "prompt": "Paragraph B",
+          "options": [
+            {
+              "id": "i",
+              "text": "A legacy is established"
+            },
+            {
+              "id": "ii",
+              "text": "Formal education unhelpful"
+            },
+            {
+              "id": "iii",
+              "text": "An education in two parts"
+            },
+            {
+              "id": "iv",
+              "text": "Branching out in new directions"
+            },
+            {
+              "id": "v",
+              "text": "Childhood and family life"
+            },
+            {
+              "id": "vi",
+              "text": "Change necessary to stay creative"
+            },
+            {
+              "id": "vii",
+              "text": "Conflicted opinions over Davis’ earlier work"
+            },
+            {
+              "id": "viii",
+              "text": "Davis’ unique style of trumpet playing"
+            },
+            {
+              "id": "ix",
+              "text": "Personal and professional struggles"
+            }
+          ]
+        },
+        {
+          "id": "16",
+          "prompt": "Paragraph C",
+          "options": [
+            {
+              "id": "i",
+              "text": "A legacy is established"
+            },
+            {
+              "id": "ii",
+              "text": "Formal education unhelpful"
+            },
+            {
+              "id": "iii",
+              "text": "An education in two parts"
+            },
+            {
+              "id": "iv",
+              "text": "Branching out in new directions"
+            },
+            {
+              "id": "v",
+              "text": "Childhood and family life"
+            },
+            {
+              "id": "vi",
+              "text": "Change necessary to stay creative"
+            },
+            {
+              "id": "vii",
+              "text": "Conflicted opinions over Davis’ earlier work"
+            },
+            {
+              "id": "viii",
+              "text": "Davis’ unique style of trumpet playing"
+            },
+            {
+              "id": "ix",
+              "text": "Personal and professional struggles"
+            }
+          ]
+        }
+      ],
+      "reference": "Q15 iii；Q16 i",
+      "reasoning": [
+        "课堂与俱乐部是两部分。虽然退学并批评学校，后来仍承认理论与技巧训练有价值，不能选ii。",
+        "先写创新风格，再写当时失败、后来历史认可，段落落点是确立legacy，不是只谈当时意见分歧。"
+      ],
+      "pitfalls": [],
+      "sourceCaseIds": [
+        "rd-official-miles-1"
+      ],
+      "challengeMechanism": "退学和早期失败是显眼细节；整段分别组织双重教育与长期遗产。",
+      "transfer": {
+        "prompt": "Choose the correct heading, i–iii, for the paragraph.\n\nEarly maps of the coast were based on measurements made from boats. These surveys remain useful, but researchers now compare them with satellite images. The images cover large areas quickly, while measurements taken at sea reveal details the cameras cannot capture. Using the two sources together produces a more complete account of coastal change.\n\ni The abandonment of an unreliable technique\nii The growing speed of coastal change\niii Combining two sources of evidence",
+        "reference": "iii",
+        "reasoning": "The paragraph centres on complementary sources rather than replacing one method."
+      }
+    },
+    {
+      "id": "pr-reading-silence-people",
+      "section": "reading",
+      "part": "阅读 · 人物匹配",
+      "title": "Why we need silence",
+      "source": {
+        "id": "cambridge21-academic",
+        "title": "Cambridge IELTS 21 Academic",
+        "path": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf",
+        "page": 21,
+        "pages": [
+          21,
+          22
+        ],
+        "questionPages": [
+          23,
+          24,
+          25
+        ],
+        "answerPage": 119,
+        "test": "Test 1",
+        "kind": "真题",
+        "originalUnit": "C21 Test 1 Passage 2",
+        "passageTitle": "Why we need silence"
+      },
+      "originNote": "原题选练；末尾加练为自编。",
+      "context": [
+        "B The World Health Organization has recently designated excessive noise as an 'underestimated threat' to public health, and has said that people living in cities such as Mumbai, Tokyo and Buenos Aires are being exposed to far more than the recommended 40 decibels of noise at night. A report from the European Environment Agency concluded that noise was an ongoing and widespread issue in Europe, with at least 1 in 5 people consistently exposed to levels considered harmful to health. 'There are no \"earlids\" that can protect your brain from noise,' says Nick Antonio, an acoustic consultant who has contributed to the British and international standards for noise.",
+        "C The good news is that several cities have been working to turn the volume down. One of the first to do so was London. 'By providing recommendations for quieter buses, reducing noise from roads and also controlling noise from aircraft, they were able to make the city quieter,' says Antonio. Other cities have introduced noise-reducing road coatings, for instance, alongside greenery that muffles sound. Some solutions are more specific: Washington DC's ban on petrol-powered leaf blowers came into effect recently, while in New York City, legislation has been approved to fine people who modify their vehicles to make them noisier. 'People are seeing the benefits of these more quiet environments in their cities,' Antonio says. 'I expect we will see much more of this in the future.'",
+        "D Researchers are also seeking to understand what aspects of silent experiences are most beneficial to our health. One of the best-researched is the flotation tank: a lightproof, soundproof tank of salt water in which a person floats as a form of deep relaxation. While some people experience altered perception in the tanks, involving subtle humming sounds and visual effects, these effects are benign and do not detract from the benefits of the experience, says Justin Feinstein, a clinical neuropsychologist. 'When you don't have external sensory stimuli coming in, the brain tries to fill the void to make sense of this dark and silent world,' he explains. 'In these tanks, some people can even hear the sound of their eyes blinking,' says Feinstein. 'But it is the ability to focus on the breath that helps people reach a relaxed or meditative state.'",
+        "F Neurobiologist Tai Dotan Ben-Soussan is also an advocate of silence as a therapy. 'When we find ways to be quiet, we are not only quiet in our environment, but quiet in our inner selves,' she explains. 'This allows us to be more aware of what is happening around us and what the situation may require from us so we can provide [a more] adequate response.'",
+        "Not everyone will benefit from silence to the same extent, but Ben-Soussan says one characteristic is key: the person must need to want to engage in the experience. 'We see from animal models and human studies that volition and intentionality is important,' she says. 'When people do not want silence, it can be very distressing.'",
+        "G Eric Pfeifer, a psychotherapy researcher, also concedes that some people may not benefit from silence, particularly those who are in a heightened state of stress. 'People in these states may not be able to relax or calm down in a silent condition,' he says. Professional guidance can be useful, he adds, allowing people to approach silence slowly so that they can gradually enjoy the benefits. And Pfeifer is convinced that silence is more attainable in everyday life than people think. First, complete silence isn't necessary. In a recent study, he found that participants reported more relaxation and less boredom when they sat quietly in an outdoor garden compared with a completely silent room. Second, Pfeifer believes we don't need a lot of silence to gain benefits. 'You don't need to spend hours in silence,' he says. 'It is likely better to have more frequency of silence for a few minutes at a time than a longer period of silence only once a week. Just finding those places in your daily life where you can find some silence ... can make a big difference.'"
+      ],
+      "instructions": "Match each statement with the correct person, A–D. You may use any letter more than once.",
+      "prompt": "",
+      "questions": [
+        {
+          "id": "22",
+          "prompt": "It is unpleasant and upsetting for people to be placed in a silent environment against their will.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Nick Antonio"
+            },
+            {
+              "id": "B",
+              "text": "Justin Feinstein"
+            },
+            {
+              "id": "C",
+              "text": "Tai Dotan Ben-Soussan"
+            },
+            {
+              "id": "D",
+              "text": "Eric Pfeifer"
+            }
+          ]
+        },
+        {
+          "id": "25",
+          "prompt": "Even a short amount of silent time can have a positive impact.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Nick Antonio"
+            },
+            {
+              "id": "B",
+              "text": "Justin Feinstein"
+            },
+            {
+              "id": "C",
+              "text": "Tai Dotan Ben-Soussan"
+            },
+            {
+              "id": "D",
+              "text": "Eric Pfeifer"
+            }
+          ]
+        },
+        {
+          "id": "26",
+          "prompt": "External and internal quietness makes us more conscious of events occurring in our surroundings and helps us react appropriately to these events.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Nick Antonio"
+            },
+            {
+              "id": "B",
+              "text": "Justin Feinstein"
+            },
+            {
+              "id": "C",
+              "text": "Tai Dotan Ben-Soussan"
+            },
+            {
+              "id": "D",
+              "text": "Eric Pfeifer"
+            }
+          ]
+        }
+      ],
+      "reference": "Q22 C；Q25 D；Q26 C",
+      "reasoning": [
+        "F第二段Ben-Soussan把自愿性列为前提，against their will对应do not want。",
+        "G的Pfeifer明确说几分钟、高频也有益，不要求一次持续数小时。",
+        "F第一段Ben-Soussan提到外部与内在安静，进而更好回应环境。"
+      ],
+      "pitfalls": [],
+      "sourceCaseIds": [
+        "rd-c21-silence-1",
+        "rd-c21-silence-2",
+        "rd-c21-silence-3"
+      ],
+      "challengeMechanism": "两位研究者都认为安静并非对所有人有益；按具体原因和完整观点区分，人物可重复。",
+      "transfer": {
+        "prompt": "Match the statement with the correct person, A–C.\n\nDr Lin argues that an outdoor session works best when participants choose to attend. Dr Shah agrees that outdoor sessions can help, but says their benefits need not depend on a long visit. Dr Hall finds that participants notice more details outside, although she has not tested whether attendance should be voluntary.\n\nA Dr Lin\nB Dr Shah\nC Dr Hall\n\nA brief outdoor session may be beneficial.",
+        "reference": "B",
+        "reasoning": "Dr Shah explicitly removes the need for a long visit."
+      }
+    },
+    {
+      "id": "pr-reading-davies-notes",
+      "section": "reading",
+      "part": "阅读 · 笔记填空",
+      "title": "The Davies Sisters",
+      "source": {
+        "id": "cambridge21-academic",
+        "title": "Cambridge IELTS 21 Academic",
+        "path": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf",
+        "page": 17,
+        "pages": [
+          17
+        ],
+        "questionPages": [
+          19,
+          20
+        ],
+        "answerPage": 119,
+        "test": "Test 1",
+        "kind": "真题",
+        "originalUnit": "C21 Test 1 Passage 1",
+        "passageTitle": "The Davies Sisters"
+      },
+      "originNote": "原题选练；末尾加练为自编。",
+      "context": [
+        "While there was no real family history of art collecting, the sisters' education was rigorously geared toward such pursuits. Their London school focused on cultural rather than academic study, and they travelled extensively with their governess, Jane Blaker, visiting art galleries and making extensive notes on the collections there.",
+        "The sisters began to make regular art purchases from 1908, which roughly coincided with the dates of their inheritance. They took advice from various people, including the art dealer Hugh Blaker (the brother of Jane Blaker) and David Croal Thompson, who was also an art dealer. While it was long assumed that these men were largely responsible for the nature of the sisters' collection, it has recently been accepted that Gwendoline and Margaret retained a far more active role in the process.",
+        "The sisters' journals reveal their preference for Old Master** paintings. Yet they initially made very few attempts to secure any such works. While the sisters were wealthy in relative terms, their income was nothing compared to the fortunes of American art collectors of this period, such as J. Pierpont Morgan. Quite simply, high quality Old Master works were, if not beyond their means, then beyond what they were willing to pay for them. Instead, their early purchases were of the fashionable, safe variety, and included, for example, paintings by the French artist Jean-Baptiste-Camille Corot."
+      ],
+      "instructions": "Complete the notes. Choose ONE WORD ONLY from the passage for each answer.",
+      "prompt": "Early interest in art",
+      "questions": [
+        {
+          "id": "3",
+          "prompt": "they took lengthy 3 __________ about the things they saw in art galleries"
+        },
+        {
+          "id": "4",
+          "prompt": "their 4 __________ showed they liked Old Master paintings, but they were expensive to buy"
+        }
+      ],
+      "reference": "Q3 notes；Q4 journals",
+      "reasoning": [
+        "lengthy对应extensive；took notes对应making notes，保留复数。",
+        "showed they liked对应reveal their preference；注意不能把其他段落的notes填进来。"
+      ],
+      "pitfalls": [],
+      "sourceCaseIds": [
+        "rd-c21-davies-1"
+      ],
+      "challengeMechanism": "notes与journals同域干扰；由题干动作和用途确定名词。",
+      "transfer": {
+        "prompt": "Complete the note. Choose ONE WORD ONLY from the text.\n\nThe engineers recorded structural faults in their logs and prepared estimates of the repair costs. Once the repairs were complete, photographs documented the condition of the bridge; these were included in the final report.\n\nThe final report used __________ to show the condition of the bridge after the work.",
+        "reference": "photographs",
+        "reasoning": "The question asks for evidence of condition after repairs, not the earlier fault records or cost estimates."
+      }
+    },
+    {
+      "id": "pr-reading-sugar-choice",
+      "section": "reading",
+      "part": "阅读 · 选择题",
+      "title": "The World of Sugar",
+      "source": {
+        "id": "cambridge21-academic",
+        "title": "Cambridge IELTS 21 Academic",
+        "path": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf",
+        "page": 26,
+        "pages": [
+          26
+        ],
+        "questionPages": [
+          28,
+          29
+        ],
+        "answerPage": 119,
+        "test": "Test 1",
+        "kind": "真题",
+        "originalUnit": "C21 Test 1 Passage 3",
+        "passageTitle": "The World of Sugar"
+      },
+      "originNote": "原题选练；末尾加练为自编。",
+      "context": [
+        "Ulbe Bosma's The World of Sugar is a genuinely global history. Bosma discusses all the sugar growing places of the world, beginning with Cuba and Java, the largest exporters of the early 20th century. But this is a history not just of cane sugar but also of beet sugar, an equally important form of traded sugar over the last hundred years. Beet sugar is grown mainly in Europe and the United States. It has also been massively subsidised and sold at artificially low prices on world markets, threatening the livelihood of producers of cane sugar.",
+        "Bosma's discussion of the sugar market in Britain gives a sense of the book's range. The sweet-toothed British first bought cane sugar from their own slavery-dependent colonial plantations. Following the abolition of slavery in the British Empire, cane sugar was imported to Britain from places which retained the practice, such as Cuba and Brazil. Towards the end of the 19th century, the British started to import beet sugar from continental Europe. Only in the 20th century was there a move to develop a national beet sugar industry.",
+        "The book provides a global labour history, investigating the wide range of labour regimes associated with growing sugar. Contrary to popular belief, cane sugar production was never just restricted to large, dedicated plantations owned by rich men. For example, in Java, a huge exporter of sugar in the early 20th century, sugar cane was grown together with rice in an extraordinarily labour-intensive way by small farmers."
+      ],
+      "instructions": "Choose the correct letter, A, B, C or D.",
+      "prompt": "",
+      "questions": [
+        {
+          "id": "27",
+          "prompt": "What does the reviewer suggest about the cultivation and trading of sugar in the first paragraph?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Sugar has played a major role in international relations."
+            },
+            {
+              "id": "B",
+              "text": "Beet sugar has been made more internationally competitive."
+            },
+            {
+              "id": "C",
+              "text": "Cane sugar is thought to be of superior quality to beet sugar."
+            },
+            {
+              "id": "D",
+              "text": "New locations for cultivating sugar have increased production."
+            }
+          ]
+        },
+        {
+          "id": "28",
+          "prompt": "In the second paragraph, when discussing the sugar market in Britain, the reviewer stresses",
+          "options": [
+            {
+              "id": "A",
+              "text": "how the sources used changed over time."
+            },
+            {
+              "id": "B",
+              "text": "how developments in agriculture affected trade."
+            },
+            {
+              "id": "C",
+              "text": "the increased demand for sugar over the years."
+            },
+            {
+              "id": "D",
+              "text": "the growing support for ethical methods of cultivation."
+            }
+          ]
+        },
+        {
+          "id": "29",
+          "prompt": "What is the reviewer doing in the third paragraph?",
+          "options": [
+            {
+              "id": "A",
+              "text": "describing an efficient approach to sugar cultivation"
+            },
+            {
+              "id": "B",
+              "text": "explaining why the use of sugar plantations declined"
+            },
+            {
+              "id": "C",
+              "text": "addressing a misconception about the growing of sugar cane"
+            },
+            {
+              "id": "D",
+              "text": "evaluating different approaches to the cultivation of sugar cane"
+            }
+          ]
+        }
+      ],
+      "reference": "Q27 B；Q28 A；Q29 C",
+      "reasoning": [
+        "补贴让甜菜糖以人为低价竞争，支持B。文中并未比较甘蔗糖品质。",
+        "first→Following→Towards the end→Only in the 20th century构成来源随时间变动的序列。",
+        "首句提出劳动力历史，Contrary to popular belief明确纠正普遍误解，小农Java例子服务于该功能。"
+      ],
+      "pitfalls": [],
+      "sourceCaseIds": [
+        "rd-c21-sugar-1"
+      ],
+      "challengeMechanism": "补贴作用的改写；段落功能与提及细节区分；ethical与废奴相邻但不构成主旨。",
+      "transfer": {
+        "prompt": "Choose the correct letter, A, B, C or D.\n\nEarly trials of the sensor produced inconsistent readings. The team did not discard the instrument; instead, they traced the variation to differences in temperature and redesigned its casing. Later trials produced stable results. The original failures therefore contributed directly to the final design.\n\nWhat is the writer doing in this paragraph?\nA Comparing the cost of two instruments\nB Showing how unsuccessful tests informed an improvement\nC Explaining why a research project was abandoned\nD Arguing that temperature cannot be measured reliably",
+        "reference": "B",
+        "reasoning": "The trials exposed a problem that directly led to a successful redesign."
+      }
+    },
+    {
+      "id": "pr-reading-sugar-summary",
+      "section": "reading",
+      "part": "阅读 · 摘要选词",
+      "title": "Sugar cultivation and production",
+      "source": {
+        "id": "cambridge21-academic",
+        "title": "Cambridge IELTS 21 Academic",
+        "path": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf",
+        "page": 26,
+        "pages": [
+          26
+        ],
+        "questionPages": [
+          28,
+          29
+        ],
+        "answerPage": 119,
+        "test": "Test 1",
+        "kind": "真题",
+        "originalUnit": "C21 Test 1 Passage 3",
+        "passageTitle": "The World of Sugar"
+      },
+      "originNote": "原题选练；末尾加练为自编。",
+      "context": [
+        "The World of Sugar is also a story of similarity and continuity in sugar cultivation. For example, imported labour has been used for much large-scale production. German beet fields employed Polish workers; Mexicans and many others, including Sicilians, were vital to US sugar production. Cane cutting, Bosma shows, remains a poorly paid and brutal business to this day in many places in the world. But as well as this, the book is about the continuity of the use of traditional methods on small farms. In the mid 20th-century, this type of sugar production dominated in South Asia and Latin America.",
+        "This is also a history of capitalists and sugar dynasties, as well as corporations that in some cases have remained influential over very long periods. Great firms and great interests have had profound influence on the policies of states. In many places - not just the British Caribbean but Cuba and the Philippines too - a powerful sugar bourgeoisie played a major role in politics and their interests were consequently protected by trade barriers and subsidies. In the battle for control of the industry, it was inevitably the poor countries which came off worse. All this is explored by Bosma with wonderful subtlety and control."
+      ],
+      "instructions": "Complete the summary using the list of words, A–I. Write the correct letter.",
+      "prompt": "The book The World of Sugar points out the similarities in the way that sugar was cultivated around the world.",
+      "questions": [
+        {
+          "id": "31",
+          "prompt": "In the big industries in both Germany and the US, sugar farming depended on 31 __________.",
+          "options": [
+            {
+              "id": "A",
+              "text": "national governments"
+            },
+            {
+              "id": "B",
+              "text": "agricultural developments"
+            },
+            {
+              "id": "C",
+              "text": "less wealthy nations"
+            },
+            {
+              "id": "D",
+              "text": "untrained workers"
+            },
+            {
+              "id": "E",
+              "text": "small-scale cultivation"
+            },
+            {
+              "id": "F",
+              "text": "outdated methods"
+            },
+            {
+              "id": "G",
+              "text": "financial controls"
+            },
+            {
+              "id": "H",
+              "text": "migrant workers"
+            },
+            {
+              "id": "I",
+              "text": "powerful individuals and businesses"
+            }
+          ]
+        },
+        {
+          "id": "32",
+          "prompt": "However, in other parts of the world such as South Asia and Latin America, 32 __________ continued.",
+          "options": [
+            {
+              "id": "A",
+              "text": "national governments"
+            },
+            {
+              "id": "B",
+              "text": "agricultural developments"
+            },
+            {
+              "id": "C",
+              "text": "less wealthy nations"
+            },
+            {
+              "id": "D",
+              "text": "untrained workers"
+            },
+            {
+              "id": "E",
+              "text": "small-scale cultivation"
+            },
+            {
+              "id": "F",
+              "text": "outdated methods"
+            },
+            {
+              "id": "G",
+              "text": "financial controls"
+            },
+            {
+              "id": "H",
+              "text": "migrant workers"
+            },
+            {
+              "id": "I",
+              "text": "powerful individuals and businesses"
+            }
+          ]
+        },
+        {
+          "id": "33",
+          "prompt": "Sugar production has also involved 33 __________ who were eager to protect their markets.",
+          "options": [
+            {
+              "id": "A",
+              "text": "national governments"
+            },
+            {
+              "id": "B",
+              "text": "agricultural developments"
+            },
+            {
+              "id": "C",
+              "text": "less wealthy nations"
+            },
+            {
+              "id": "D",
+              "text": "untrained workers"
+            },
+            {
+              "id": "E",
+              "text": "small-scale cultivation"
+            },
+            {
+              "id": "F",
+              "text": "outdated methods"
+            },
+            {
+              "id": "G",
+              "text": "financial controls"
+            },
+            {
+              "id": "H",
+              "text": "migrant workers"
+            },
+            {
+              "id": "I",
+              "text": "powerful individuals and businesses"
+            }
+          ]
+        }
+      ],
+      "reference": "Q31 H；Q32 E；Q33 I",
+      "reasoning": [
+        "波兰人赴德、墨西哥人等赴美均是跨地迁移劳工，概括为migrant workers。",
+        "small farms与small-scale cultivation对应；F outdated带有落后评价，原文只说traditional。",
+        "资本家、糖业家族与公司合并概括为powerful individuals and businesses。"
+      ],
+      "pitfalls": [],
+      "sourceCaseIds": [
+        "rd-c21-sugar-2"
+      ],
+      "challengeMechanism": "traditional不自动等于outdated；迁移劳动力与未受训练劳动力区分；who的语法与权力主体匹配。",
+      "transfer": {
+        "prompt": "Complete the summary using the list of words, A–D.\n\nLarge tea estates recruited workers from neighbouring countries. Elsewhere, tea continued to be grown on small family plots using techniques passed down through generations. The account does not compare the efficiency of these techniques with modern ones.\n\nA obsolete technology\nB migrant labour\nC local government\nD small-scale farming\n\nThe large estates relied on 1 __________, while 2 __________ continued in other areas.",
+        "reference": "1 B；2 D",
+        "reasoning": "Foreign recruitment supports migrant labour; small family plots support small-scale farming without an efficiency judgement."
+      }
+    }
+  ],
+  "sourceVerification": {
+    "cambridgeAnswerKey": "reading-source-c21-pages.json, PDF page 119; selected answers checked against original key",
+    "officialTypeRules": "https://ielts.org/take-a-test/test-types/ielts-academic-test/ielts-academic-format-reading",
+    "officialSampleIndex": "https://ielts.org/take-a-test/preparation-resources/sample-test-questions/academic-test",
+    "verifiedDate": "2026-09-19",
+    "localSourceBasis": "Existing supplied-source extracts in authentic-reading-cases.json and authentic-reading-official-cases.json. Original question wording and option sets retained; selected text paragraphs preserved. All transfers are newly written.",
+    "headingsAnswerKey": "Supplied British Council teacher-feedback PDF, physical page 2: Q15 iii and Q16 i verified directly using pypdf.",
+    "linkNote": "The old British Council Miles Davis live page now redirects to the general Academic Reading index; local supplied source links are retained instead."
+  }
+}

@@ -1,0 +1,1266 @@
+{
+  "version": "2026-09-16",
+  "checkedAt": "2026-09-16",
+  "season": "2026年9—12月",
+  "region": "中国大陆",
+  "note": "本次新增教学内容，展示时以红色“新增”标记。近期覆盖按两份公开汇编中的主题交叉选择；汇编之间存在引用关系，并非两份独立考场证据。新题分类属非官方回忆，具体场次、原始题干与考场是否出现均待独立核实，不称必考或完整题库。覆盖标签为中文概括；所有情境、讲解、示范及练习均为本项目原创，不是来源范文或官方评分样本。可以先学新内容，也可从熟悉主题开始；每单元仅保留一个可选迁移复习，不以复测通过作为继续学习的门槛。",
+  "sources": [
+    {
+      "id": "joe-2026-09",
+      "title": "Joe Speaking：2026年9—12月口语公开练习汇编",
+      "url": "https://joespeaking.com/ielts-speaking-questions/2026-sep-dec",
+      "updatedAt": "2026-09-07",
+      "note": "已实际打开并核对 Mainland China 部分。页面标示89个大陆回忆主题，明确非官方且持续更新；没有提供可逐场验证的原始考生记录。"
+    },
+    {
+      "id": "shishi-2026-09",
+      "title": "ShiShi AP Center：2026年9—12月口语主题整理",
+      "url": "https://shishiapcs.github.io/esl-speaking-ielts-topics-september-to-december-2026/",
+      "updatedAt": "2026-09-09",
+      "note": "已实际打开并核对新题/保留题分组。页面说明以 Zip IELTS 分类并参考 Joe Speaking，部分问句经过课堂改写；因此只能核实公开汇编的主题与分类，不能把其改写问句当作考场原文。"
+    }
+  ],
+  "topics": [
+    {
+      "id": "sep26-journeys",
+      "title": "出行：把路程、选择与不便说具体",
+      "status": "新增｜近期回忆主题；两份汇编交叉出现，原题待核实",
+      "sourceIds": [
+        "joe-2026-09",
+        "shishi-2026-09"
+      ],
+      "coverage": [
+        "乘车出行",
+        "经常走却不喜欢的短途路线"
+      ],
+      "intro_zh": "旅途回答可从三个层次选材料：路线怎样走，某个条件带来什么体验，自己会怎样调整。journey强调路程，trip通常指一次外出及其活动；不能用traffic表达“交通工具”。不喜欢一段短途路线，可以说换乘、等待或拥挤，不必夸大成危险事故。",
+      "context_en": "Every Thursday, Mina takes a bus to an evening drawing class. The journey is short, but the stop near her home has no shelter. On rainy days, waiting there is less pleasant than the ride itself. She likes a seat near the front because she can see when her stop is coming.",
+      "context_zh": "Mina每周四坐公交去上绘画晚课。路程短，却因站台没有遮雨处而不方便。她喜欢前排，因为容易看见自己快到哪一站。具体条件解释了偏好。",
+      "language": [
+        {
+          "chunk": "change buses",
+          "meaning_zh": "换乘公交",
+          "structure": "change + trains/buses；不需要冠词",
+          "example_en": "I have to change buses outside the library.",
+          "error_zh": "不是change a traffic；traffic是路面交通流量，不是可数的交通工具。"
+        },
+        {
+          "chunk": "get stuck in traffic",
+          "meaning_zh": "遇上堵车而耽搁",
+          "structure": "get stuck in + traffic",
+          "example_en": "We got stuck in traffic on the way back.",
+          "error_zh": "traffic通常不可数；不说many traffics。可说heavy traffic。"
+        },
+        {
+          "chunk": "make the journey more comfortable",
+          "meaning_zh": "让路程更舒服",
+          "structure": "make + 宾语 + 形容词比较级",
+          "example_en": "A small cushion makes the journey more comfortable.",
+          "error_zh": "这里用comfortable描述journey；不是comfortably。"
+        },
+        {
+          "chunk": "allow extra time for",
+          "meaning_zh": "为某环节预留额外时间",
+          "structure": "allow extra time for + 名词/动词-ing",
+          "example_en": "I allow extra time for finding the right platform.",
+          "error_zh": "for后若用动作，应说finding；若说allow myself to find，结构和意思都变了。"
+        }
+      ],
+      "model": {
+        "prompt_en": "Talk about an ordinary journey that you would like to improve.",
+        "answer_en": "I take a bus across town for a drawing class most Thursdays. The ride only takes about twenty minutes, so the distance isn't the problem. What bothers me is the wait at the stop. There is no roof, and my sketchbook once got wet in the rain. I now carry a waterproof folder, but a small shelter would make a bigger difference. I still enjoy the class; I just wish getting there were easier.",
+        "explanation_zh": "开头给路线与频率，接着把“不喜欢”的范围限定为等车，用画本淋湿提供证据，最后提出对应改进。不要把这段当成完整两分钟稿；讲自己的路线时，可补一次等车过程或同伴反应。"
+      },
+      "practice": [
+        {
+          "prompt": "选词：The road was busy, so we got stuck in (traffic / traffics).",
+          "answer": "traffic",
+          "explanation_zh": "表达整体车流时traffic不可数；若需要强调数量，可说a lot of traffic。"
+        },
+        {
+          "prompt": "用allow extra time for改写：I leave early because changing trains may take longer.",
+          "answer": "I allow extra time for changing trains.",
+          "explanation_zh": "for后接changing。改写保留换乘可能耗时的意思；也可直接说I leave early in case the connection takes longer。"
+        }
+      ],
+      "speaking": {
+        "part1_en": "What do you usually do in the first few minutes of a train ride?",
+        "part2_en": "Describe a journey you make regularly. Explain its purpose, one detail of the route and one change that would improve your experience.",
+        "part3_en": "When a city improves transport, should shorter journeys always be its first priority?",
+        "part3_support_zh": "先区分速度与可达性：车快但站远仍不方便。可选择老人、带行李的人或夜班乘客，说明可靠班次、换乘或站台设施怎样影响使用；不必列所有群体。",
+        "part3_model_en": "Speed matters, but a reliable service can be just as valuable. Someone who finishes work late may prefer a bus that arrives predictably to a faster one that runs only occasionally. The priority should reflect where passengers lose time or face difficulty."
+      },
+      "optional_review": {
+        "prompt_en": "What makes waiting in a queue easier for you?",
+        "checkpoints_zh": [
+          "是否转向“排队”的具体条件，而非继续背交通内容？",
+          "是否用一个细节解释easier，而非只重复comfortable？"
+        ]
+      }
+    },
+    {
+      "id": "sep26-recycling",
+      "title": "回收与城市自然：把习惯和实施条件连起来",
+      "status": "新增｜近期回忆主题；两份汇编交叉出现，原题待核实",
+      "sourceIds": [
+        "joe-2026-09",
+        "shishi-2026-09"
+      ],
+      "coverage": [
+        "废弃物分类与回收",
+        "城市中的自然空间"
+      ],
+      "intro_zh": "reduce是减少产生，reuse是重复使用，recycle是把材料重新处理；三者不是同一个动作。先讲自己确实做什么，再讲方便或困难在哪里。Part 3讨论措施时，补上设施、收集或维护条件，就比只说“保护环境很重要”更有内容。各地分类规则不同，以下只描述虚构人物的情境。",
+      "context_en": "At her workplace, Lena keeps an empty container by the printer for scrap paper. Colleagues use the blank sides for rough notes. The office also has labelled bins, but visitors sometimes mix the materials. Lena suggests putting a simple picture above each bin so people can decide where an item belongs.",
+      "context_zh": "Lena在打印机旁收集单面纸，让同事用空白面写草稿。分类箱虽有标签，访客仍可能投错，因此她建议增加图片指引。这里重复用纸与分类收集是两项不同措施。",
+      "language": [
+        {
+          "chunk": "sort waste into different categories",
+          "meaning_zh": "把废弃物分成不同类别",
+          "structure": "sort + 宾语 + into + 类别",
+          "example_en": "We sort waste into different categories at the office.",
+          "error_zh": "这里into表示分类结果；不要把sort out直接当成“分类到各箱”的完整表达。"
+        },
+        {
+          "chunk": "cut down on packaging",
+          "meaning_zh": "减少包装用量",
+          "structure": "cut down on + 名词/动词-ing",
+          "example_en": "The shop is trying to cut down on unnecessary packaging.",
+          "error_zh": "on不要漏；packaging整体不可数，不说many packagings。"
+        },
+        {
+          "chunk": "put something to good use",
+          "meaning_zh": "把某物有效用起来",
+          "structure": "put + 物品 + to good use",
+          "example_en": "We put the blank side of each sheet to good use.",
+          "error_zh": "短语中的use是名词，不是put it to use it。"
+        },
+        {
+          "chunk": "make it easier for someone to",
+          "meaning_zh": "让某人更容易做……",
+          "structure": "make it easier for + 人 + to + 动词原形",
+          "example_en": "Clear labels make it easier for visitors to sort their waste.",
+          "error_zh": "保留形式宾语it；不要说make easier visitors sorting。"
+        }
+      ],
+      "model": {
+        "prompt_en": "Explain a small change that reduced waste in a place you know.",
+        "answer_en": "In this example, our office put a tray beside the printer for paper that had been used on one side. We started using it for rough notes instead of taking a fresh sheet every time. The change was small, but the tray made the habit easy to remember. It didn't solve every waste problem in the office. Still, it gave us a practical starting point, and nobody needed special equipment.",
+        "explanation_zh": "先交代具体措施，再说明“物品放在哪里”怎样改变行为，最后限定作用范围。学习时可把“In this example”删去并换成自己的真实情境；若没有经验，就直接说明是想尝试的做法。"
+      },
+      "practice": [
+        {
+          "prompt": "填空：A refill station could help the shop cut down ___ plastic packaging.",
+          "answer": "on",
+          "explanation_zh": "固定结构cut down on something，意为减少使用或消耗。"
+        },
+        {
+          "prompt": "判断动作：把同一玻璃瓶再次装水，主要是reuse还是recycle？",
+          "answer": "reuse",
+          "explanation_zh": "继续使用同一个瓶子是reuse；把玻璃作为原料加工后再利用才属于recycle。"
+        }
+      ],
+      "speaking": {
+        "part1_en": "Which object at home do you tend to use more than once?",
+        "part2_en": "Describe a small environmental improvement you have seen or would like to try. Explain what changes and what would make the arrangement workable.",
+        "part3_en": "Why can a well-intentioned waste scheme be difficult to maintain?",
+        "part3_support_zh": "沿着“目标—操作—维护”展开：人知道投哪里吗，谁负责后续收集，设施满了怎么办？挑一条机制举例，再说明需要的支持。",
+        "part3_model_en": "A scheme can fail when the instructions are clear but the collection system is unreliable. If bins remain full, people may stop using them correctly. Regular collection and an easy way to report problems could therefore matter as much as publicity."
+      },
+      "optional_review": {
+        "prompt_en": "How could a library make shared equipment easier to return?",
+        "checkpoints_zh": [
+          "是否把设施位置或清楚指引的思路迁移到归还设备？",
+          "是否说明谁做什么，而非只说people should be responsible？"
+        ]
+      }
+    },
+    {
+      "id": "sep26-energy",
+      "title": "疲惫与生活节奏：讲原因、边界和实际调整",
+      "status": "新增｜近期回忆主题；两份汇编交叉出现，原题待核实",
+      "sourceIds": [
+        "joe-2026-09",
+        "shishi-2026-09"
+      ],
+      "coverage": [
+        "疲惫与休息",
+        "帮助他人改善活动习惯",
+        "耗时却不值得的习惯"
+      ],
+      "intro_zh": "tired描述人感到累，tiring描述让人累的活动。口语只需把自己观察到的感受与安排说清楚，不需要诊断原因。讲帮助别人时说明对方的意愿、你提供的具体支持及可观察的变化，不把一次散步写成已经治好了某种问题。",
+      "context_en": "After a busy afternoon, Rui often stays at his desk and scrolls through short videos. He intends to watch one clip, but sometimes loses track of time. His flatmate invites him to walk to a nearby shop instead. Rui enjoys the company, although on some evenings he would simply rather sit quietly.",
+      "context_zh": "Rui忙完常留在桌前刷短视频，本想看一条却忘记时间。室友邀请他步行去附近商店，他喜欢有人陪伴，但有时也只想安静坐着。安排可以随本人感受调整。",
+      "language": [
+        {
+          "chunk": "feel worn out",
+          "meaning_zh": "感到很疲惫",
+          "structure": "feel/be + worn out",
+          "example_en": "I feel worn out after several meetings in a row.",
+          "error_zh": "worn out表示状态；不要说I wear out来表示“我现在很累”。"
+        },
+        {
+          "chunk": "take a break from",
+          "meaning_zh": "暂时离开某项活动休息",
+          "structure": "take a break from + 名词/动词-ing",
+          "example_en": "I take a break from looking at the screen.",
+          "error_zh": "from后用looking；take a rest也可表达休息，但搭配不必强换。"
+        },
+        {
+          "chunk": "lose track of time",
+          "meaning_zh": "忘记时间过去了多久",
+          "structure": "lose track of + time",
+          "example_en": "I sometimes lose track of time while watching clips.",
+          "error_zh": "不是lose the time；lost time通常表达损失的时间，意思不同。"
+        },
+        {
+          "chunk": "fit something into a routine",
+          "meaning_zh": "把某活动安排进日常",
+          "structure": "fit + 活动 + into + 日常安排",
+          "example_en": "We fitted a short walk into our evening routine.",
+          "error_zh": "fit into强调容纳进安排；be fit不等于“安排得下”，后者常表示身体状态或适合。"
+        }
+      ],
+      "model": {
+        "prompt_en": "Describe a habit that sometimes leaves you with less free time than expected.",
+        "answer_en": "I occasionally start watching short videos after dinner and lose track of time. I may not even enjoy the last few clips, but I keep looking for something interesting. Afterwards, I realise I haven't opened the book I wanted to read. I've started putting my phone on a shelf while I make tea. That gives me a moment to choose what to do next, although I still slip back into the habit sometimes.",
+        "explanation_zh": "示范描述一个可观察的过程：开始—不知不觉继续—挤占原本计划—尝试调整。偶尔反复使叙述更准确，不必声称已经彻底解决。学习的是习惯叙述，不是医学或健康建议。"
+      },
+      "practice": [
+        {
+          "prompt": "选词：The long meeting was (tired / tiring), and I felt (tired / tiring).",
+          "answer": "tiring；tired",
+          "explanation_zh": "meeting让人疲惫，用tiring；I感到疲惫，用tired。"
+        },
+        {
+          "prompt": "补全：I took a break from ___ (read) the report.",
+          "answer": "reading",
+          "explanation_zh": "from是介词，后接动词-ing；不是from to read。"
+        }
+      ],
+      "speaking": {
+        "part1_en": "At what point in a busy day do you usually want some quiet time?",
+        "part2_en": "Describe a change you made to your daily routine. Explain what prompted it, what you tried and whether it suited you.",
+        "part3_en": "How can workplaces make demanding days more manageable?",
+        "part3_support_zh": "选任务安排或沟通方式来解释；例如减少不必要的连续会议，让人完成手头工作。区分个人偏好与组织可提供的条件，不推断所有人都应采用同一作息。",
+        "part3_model_en": "Managers could make priorities clearer so that staff do not treat every request as equally urgent. That would help people plan their time and finish one task before moving to another. The useful changes may differ between desk jobs and jobs that depend on a fixed service schedule."
+      },
+      "optional_review": {
+        "prompt_en": "Tell me about something you do to make a busy weekend easier to organise.",
+        "checkpoints_zh": [
+          "是否有原来的困难和一个对应调整？",
+          "是否清楚区分常态、偶尔发生和仍未解决的部分？"
+        ]
+      }
+    },
+    {
+      "id": "sep26-shoes-shopping",
+      "title": "鞋与购物：用实际使用解释价值和服务",
+      "status": "新增｜近期回忆主题；两份汇编交叉出现，原题待核实",
+      "sourceIds": [
+        "joe-2026-09",
+        "shishi-2026-09"
+      ],
+      "coverage": [
+        "鞋的舒适与款式",
+        "购物中的良好服务",
+        "为特别物品积攒钱"
+      ],
+      "intro_zh": "谈鞋可以按使用场合、尺寸感受和购买决定来组织。fit多指尺寸合适，suit可指风格或需要适合，match可指两物搭配。讲“好服务”要说员工做了什么、怎样减少你的困难；说性价比则要联系使用次数、耐用性或功能，不能仅等于便宜。",
+      "context_en": "Nora needs shoes for a job that involves standing at a counter. A shop assistant brings two sizes and suggests walking around before deciding. The cheaper pair presses against her toes. Nora waits until the next payday and buys the pair that fits better, rather than choosing only by the price tag.",
+      "context_zh": "Nora工作时需要站柜台，店员让她试两个尺码并走动比较。便宜那双挤脚，她等下次发薪再买更合脚的一双。决定的依据是工作需要，而不只是标价。",
+      "language": [
+        {
+          "chunk": "try something on",
+          "meaning_zh": "试穿",
+          "structure": "try + 衣物 + on；代词必须置中：try them on",
+          "example_en": "The assistant brought another pair so I could try them on.",
+          "error_zh": "代词不能放最后说try on them；名词可说try on the shoes。"
+        },
+        {
+          "chunk": "fit comfortably",
+          "meaning_zh": "尺寸合适且穿着舒服",
+          "structure": "物品 + fit + 副词",
+          "example_en": "The larger pair fitted comfortably from the start.",
+          "error_zh": "fit comfortably强调穿着尺寸感；suit my style是符合风格，不等于鞋码正确。"
+        },
+        {
+          "chunk": "set money aside for",
+          "meaning_zh": "为某用途留出钱",
+          "structure": "set + money/金额 + aside for + 用途",
+          "example_en": "I set a little money aside for a better pair.",
+          "error_zh": "save money可指省钱或储蓄；set money aside for更明确指专门留作某用。"
+        },
+        {
+          "chunk": "talk someone through the options",
+          "meaning_zh": "逐项向某人解释选择",
+          "structure": "talk + 人 + through + 选项/步骤",
+          "example_en": "She talked me through the options without rushing me.",
+          "error_zh": "through不是to；talk to me仅表示与我交谈，未说明解释了选项。"
+        }
+      ],
+      "model": {
+        "prompt_en": "Tell me about a purchase where advice was useful.",
+        "answer_en": "I was looking for shoes to wear while standing at work. At first, I chose the cheapest pair, but the assistant asked me to walk around in them. They felt tight after a few minutes. She brought a wider pair and explained the difference without pressuring me to buy it. I came back after payday. The advice was useful because it connected the choice to my actual working day, and I felt free to decide.",
+        "explanation_zh": "用“先想买便宜的—试走后发现问题—店员提供替代”说明服务的价值。并非赞美越贵越好；关键是合适的需要和不施压的帮助。"
+      },
+      "practice": [
+        {
+          "prompt": "改错：These shoes look useful. Can I try on them?",
+          "answer": "Can I try them on?",
+          "explanation_zh": "try on为可分短语动词，宾语是them时放在try和on之间。"
+        },
+        {
+          "prompt": "选最贴近尺寸的词：This jacket (fits / matches) me, but the colour doesn't suit me.",
+          "answer": "fits",
+          "explanation_zh": "fits me表示尺寸合适；matches通常说明与另一件物品相配。后半句suit me评价颜色是否适合本人。"
+        }
+      ],
+      "speaking": {
+        "part1_en": "What usually makes you decide that an old pair of shoes needs replacing?",
+        "part2_en": "Describe an occasion when a member of staff helped you make a choice. Explain the problem, their response and why it was useful.",
+        "part3_en": "How can a shop build trust when customers are comparing prices?",
+        "part3_support_zh": "可从信息清楚、解释限制、退换流程选一项。说明如何帮助顾客判断是否适合，再补充价格仍可能是重要限制；不需要替商家写广告。",
+        "part3_model_en": "A shop can explain the differences between products in terms customers can check, such as materials or practical features. Staff should also be clear about limitations. That may build trust, even if a customer eventually chooses a cheaper option elsewhere."
+      },
+      "optional_review": {
+        "prompt_en": "What would you consider before paying for a language class?",
+        "checkpoints_zh": [
+          "是否从鞋转向课程的真实使用需要，例如时间和反馈？",
+          "是否用价格之外的一个维度解释价值？"
+        ]
+      }
+    },
+    {
+      "id": "sep26-politeness",
+      "title": "礼貌与倾听：让互动中的动作支持评价",
+      "status": "新增｜近期回忆主题；两份汇编交叉出现，原题待核实",
+      "sourceIds": [
+        "joe-2026-09",
+        "shishi-2026-09"
+      ],
+      "coverage": [
+        "表达礼貌",
+        "继续倾听不感兴趣的谈话"
+      ],
+      "intro_zh": "礼貌不是只背please和thank you，也可以体现在等别人讲完、说明自己没听清、尊重对方时间。描述不感兴趣的谈话时，讲“我对这个话题了解不多”通常比给对方贴boring标签更具体。Part 3可区分真诚倾听与假装同意：认真听不要求赞同所有观点。",
+      "context_en": "At a family dinner, Dan's uncle talks about repairing old radios. Dan knows little about the subject, but he notices how much the project matters to his uncle. He asks how the repair started and listens to the explanation. Later, he politely says he needs to help clear the table.",
+      "context_zh": "家庭晚饭时，Dan听叔叔讲修旧收音机。他不熟悉这个话题，但注意到叔叔很重视这件事，于是问怎样开始，听完再说明自己要帮忙收桌。既有倾听，也有自然结束。",
+      "language": [
+        {
+          "chunk": "let someone finish",
+          "meaning_zh": "让别人把话说完",
+          "structure": "let + 人 + 动词原形",
+          "example_en": "I let her finish before asking my question.",
+          "error_zh": "let后不用to finish；过去式let形式不变。"
+        },
+        {
+          "chunk": "show an interest in",
+          "meaning_zh": "表现出对……的关注",
+          "structure": "show an interest in + 名词/动词-ing",
+          "example_en": "He showed an interest in how the machine worked.",
+          "error_zh": "注意介词in；be interested in与show an interest in结构不同但都自然。"
+        },
+        {
+          "chunk": "ask someone to clarify",
+          "meaning_zh": "请别人讲清楚",
+          "structure": "ask + 人 + to clarify + 内容",
+          "example_en": "I asked him to clarify the last step.",
+          "error_zh": "ask him clarify缺少to；clarify是动词，不要直接说make clear him。"
+        },
+        {
+          "chunk": "bring a conversation to a close",
+          "meaning_zh": "把谈话自然收尾",
+          "structure": "bring + 谈话 + to a close",
+          "example_en": "I thanked her and brought the conversation to a close.",
+          "error_zh": "close在此是名词；更简单的end the conversation也完全可用。"
+        }
+      ],
+      "model": {
+        "prompt_en": "Talk about a conversation in which you tried to be considerate.",
+        "answer_en": "My uncle once explained how he had repaired an old radio. I didn't know much about the subject, and some of the details were hard to follow. Still, I could see that he was proud of finishing it. I asked which part had caused the most trouble and let him finish his story. When I needed to leave, I thanked him and explained why. I was interested in his experience even though radio repairs aren't a hobby of mine.",
+        "explanation_zh": "回答区分“不熟悉技术”与“不在意这个人”，用提问、等人讲完和说明离开原因体现体谅。可表达听不懂；无需编造自己突然爱上修理。"
+      },
+      "practice": [
+        {
+          "prompt": "填空：I let my colleague ___ (explain) the problem first.",
+          "answer": "explain",
+          "explanation_zh": "let someone do something，do使用动词原形。"
+        },
+        {
+          "prompt": "把命令改成澄清请求：Explain the final point again.（使用Could you）",
+          "answer": "Could you explain the final point again?",
+          "explanation_zh": "Could you加动词原形构成请求；也可说Could you clarify the final point? 语气还会受到说话方式和情境影响。"
+        }
+      ],
+      "speaking": {
+        "part1_en": "What small action makes a conversation feel respectful to you?",
+        "part2_en": "Describe a conversation about an unfamiliar subject. Explain who spoke, how you responded and what you learned about the person or topic.",
+        "part3_en": "Is listening carefully the same as agreeing with another person?",
+        "part3_support_zh": "先作概念区分：倾听是理解对方说什么，同意是接受观点。用讨论计划的例子说明听完再提出疑问如何减少误解；避免把礼貌写成必须顺从。",
+        "part3_model_en": "No. Someone can understand a proposal and still disagree with it. Listening first helps them identify the actual point of disagreement. For example, a colleague might accept the goal of a project but question whether the deadline is realistic."
+      },
+      "optional_review": {
+        "prompt_en": "How would you respond if you missed part of an announcement?",
+        "checkpoints_zh": [
+          "是否直接提出具体澄清，而不是假装听懂？",
+          "若使用ask，后面的人与to do结构是否完整？"
+        ]
+      }
+    },
+    {
+      "id": "sep26-fruit-vegetables",
+      "title": "果蔬与口味：从儿时偏好讲到现在的选择",
+      "status": "新增｜近期回忆主题；两份汇编交叉出现，原题待核实",
+      "sourceIds": [
+        "joe-2026-09",
+        "shishi-2026-09"
+      ],
+      "coverage": [
+        "果蔬与购买习惯",
+        "在家种植的兴趣延伸"
+      ],
+      "intro_zh": "食物回答可从味道、口感、做法或购买便利选一项展开。taste和texture不同：甜苦主要是味道，脆软主要是口感。used to说明过去的习惯或状态，通常暗示现在已改变；be used to说明现在习惯于某事。谈水果时fruit常作整体不可数；不同种类可说different fruits。",
+      "context_en": "As a child, Mei disliked cooked carrots because she found them too soft. Now she sometimes adds thin raw carrot strips to a sandwich because she likes the crunch. She buys a small amount of produce twice a week; her fridge is tiny, so a large shopping trip would leave her with more than she could use.",
+      "context_zh": "Mei小时候不喜欢煮得很软的胡萝卜，现在却会把生的细条放进三明治，因为喜欢脆的口感。冰箱小使她选择一周买两次少量果蔬，偏好与生活条件都有具体解释。",
+      "language": [
+        {
+          "chunk": "used to dislike",
+          "meaning_zh": "过去不喜欢",
+          "structure": "used to + 动词原形",
+          "example_en": "I used to dislike soft cooked carrots.",
+          "error_zh": "不是used to disliked；be used to eating表示习惯吃，含义不同。"
+        },
+        {
+          "chunk": "have a crunchy texture",
+          "meaning_zh": "有脆的口感",
+          "structure": "have + a/an + 形容词 + texture",
+          "example_en": "I like apples that have a crunchy texture.",
+          "error_zh": "texture是口感/质地；不要把crunchy直接当“甜”的同义词。"
+        },
+        {
+          "chunk": "buy small amounts at a time",
+          "meaning_zh": "每次少量购买",
+          "structure": "buy + small amounts + at a time",
+          "example_en": "I buy small amounts at a time because my fridge is small.",
+          "error_zh": "at a time指每一次；on time指准时，不能互换。"
+        },
+        {
+          "chunk": "go to waste",
+          "meaning_zh": "被浪费、未被用上",
+          "structure": "物品/食物 + go to waste",
+          "example_en": "I plan a few meals so the vegetables don't go to waste.",
+          "error_zh": "不是go to wasted；waste在短语中为名词。"
+        }
+      ],
+      "model": {
+        "prompt_en": "Explain how your preference for one food has changed.",
+        "answer_en": "I used to avoid carrots because the ones we had at home were usually cooked until they were very soft. I thought I disliked the vegetable itself. Later, a friend put some thin raw strips in a sandwich, and I enjoyed the crunchy texture. I still don't choose soft cooked carrots very often, but now I know that the way food is prepared can matter as much as the ingredient.",
+        "explanation_zh": "不是只说“以前不喜欢，现在喜欢”，而是找出改变的条件：同一种食材的做法不同。最后一句把这次经历概括成自己的认识，没有把口味宣布为普遍事实。"
+      },
+      "practice": [
+        {
+          "prompt": "选词：I (used to / am used to) dislike pears, but I enjoy them now.",
+          "answer": "used to",
+          "explanation_zh": "上下文对比过去不喜欢与现在喜欢，使用used to加动词原形。"
+        },
+        {
+          "prompt": "补全：I buy a few tomatoes ___ a time so they don't go ___ waste.",
+          "answer": "at；to",
+          "explanation_zh": "at a time表示每次；go to waste是未被使用而浪费。"
+        }
+      ],
+      "speaking": {
+        "part1_en": "Does the way a vegetable is prepared affect whether you enjoy it?",
+        "part2_en": "Describe a food preference that changed as you grew older. Explain what you used to think and which experience made a difference.",
+        "part3_en": "Why might two households shop for fresh food in different ways?",
+        "part3_support_zh": "选择同一比较维度，如储存空间、附近商店或家庭人数。把条件与采购频率连起来，而不是直接将差异归为“年轻人懒”。",
+        "part3_model_en": "Storage space can make a difference. A household with a small fridge may buy a little every few days, while a larger family with more space may plan a weekly trip. Nearby shops and work schedules could also affect what is practical."
+      },
+      "optional_review": {
+        "prompt_en": "Has your preference for a type of clothing changed over time?",
+        "checkpoints_zh": [
+          "是否说明真正发生改变的方面和一个原因？",
+          "used to后是否用原形，并与现在的状态形成清楚关系？"
+        ]
+      }
+    },
+    {
+      "id": "sep26-advertising",
+      "title": "广告：区分吸引注意、记住内容与相信信息",
+      "status": "新增｜近期回忆主题；两份汇编交叉出现，原题待核实",
+      "sourceIds": [
+        "joe-2026-09",
+        "shishi-2026-09"
+      ],
+      "coverage": [
+        "接触广告与童年印象",
+        "名人广告的保留话题延伸"
+      ],
+      "intro_zh": "广告是否吸引注意、是否让人记住品牌、是否促成购买是不同问题。回答自己喜欢哪类广告，可以从声音、信息量或出现时机说起。Part 3解释影响时，用may/can保留条件，不要把一个经历变成广告必然操控所有人的结论。",
+      "context_en": "A short video advert shows a desk lamp being folded into a bag. Priya remembers it because the demonstration is clear and she has little space at home. Before considering a purchase, she checks the lamp's dimensions and reads other information. The advert catches her attention, but it does not answer every practical question.",
+      "context_zh": "一则短视频展示台灯折起来放进包里。Priya因家中空间小而记住了演示，但考虑购买前还检查尺寸与其他资料。注意到了广告，不等于已经决定购买。",
+      "language": [
+        {
+          "chunk": "catch someone's attention",
+          "meaning_zh": "吸引某人的注意",
+          "structure": "catch + 所有格 + attention",
+          "example_en": "The folding demonstration caught my attention.",
+          "error_zh": "attention不可数；不说catch my attentions。过去式是caught。"
+        },
+        {
+          "chunk": "make a claim about",
+          "meaning_zh": "对……提出某种主张",
+          "structure": "make a claim about + 内容",
+          "example_en": "The advert made a claim about how long the lamp would last.",
+          "error_zh": "claim在这里是尚需判断的主张，不自动等于已证实的fact。"
+        },
+        {
+          "chunk": "check the details",
+          "meaning_zh": "核对具体信息",
+          "structure": "check + the details；可接before + 动词-ing",
+          "example_en": "I checked the details before ordering.",
+          "error_zh": "check和look at不完全相同；check强调核实，而非只看一眼。"
+        },
+        {
+          "chunk": "be put off by",
+          "meaning_zh": "因……而失去兴趣",
+          "structure": "be + put off by + 因素",
+          "example_en": "I'm put off by adverts that interrupt a video too often.",
+          "error_zh": "put off doing可表示推迟做事；be put off by在此表示反感或退缩。"
+        }
+      ],
+      "model": {
+        "prompt_en": "Describe the kind of advertising you find useful.",
+        "answer_en": "I find short demonstrations useful when they show what an unfamiliar product actually does. I recently saw a desk lamp being folded into a small bag, which caught my attention because my room has very little storage space. I didn't buy it immediately. I still wanted to check the size and the returns policy. For me, a useful advert gives me a reason to investigate, rather than enough information to make the whole decision.",
+        "explanation_zh": "回答先说明偏好再举例，接着展示广告作用的边界。“引起进一步了解”比直接说广告好或坏更精确；不需要强行使用复杂营销术语。"
+      },
+      "practice": [
+        {
+          "prompt": "补全过去式：The bright image ___ (catch) my attention.",
+          "answer": "caught",
+          "explanation_zh": "catch是不规则动词；过去式caught，不是catched。"
+        },
+        {
+          "prompt": "判断含义：I was put off by the loud music. 是“我推迟播放音乐”还是“吵闹音乐让我反感”？",
+          "answer": "吵闹音乐让我反感。",
+          "explanation_zh": "be put off by说明导致失去兴趣的因素；put off playing music才可能表示推迟播放。"
+        }
+      ],
+      "speaking": {
+        "part1_en": "What makes you skip an advert before it finishes?",
+        "part2_en": "Describe an advert whose presentation you remember. Explain the detail you noticed and whether it changed what you did next.",
+        "part3_en": "Why might a memorable advert still fail to persuade someone to buy?",
+        "part3_support_zh": "把记住与购买区分开：预算、需要、可信度都可成为后续判断。选一个因素说明因果，不必把每个消费者概括为同一类型。",
+        "part3_model_en": "People may remember an entertaining advert without needing the product. Someone could enjoy a clever car advert while having no plan to drive. Price and practical needs still influence the decision, so attention is only one stage of the process."
+      },
+      "optional_review": {
+        "prompt_en": "How do you decide whether an online recommendation is relevant to you?",
+        "checkpoints_zh": [
+          "是否从“吸引人”进一步说明与本人需要是否匹配？",
+          "是否区分对方的主张与已核对的信息？"
+        ]
+      }
+    },
+    {
+      "id": "sep26-paper",
+      "title": "纸张与手写：把工具的用途和限制说清楚",
+      "status": "新增｜近期回忆主题；两份汇编交叉出现，原题待核实",
+      "sourceIds": [
+        "joe-2026-09",
+        "shishi-2026-09"
+      ],
+      "coverage": [
+        "纸张与手写",
+        "手工制作"
+      ],
+      "intro_zh": "谈纸张不需要站队纸质或电子永远更好。可以按任务比较：随手画草图、共享修改、保存原件需要不同工具。paper表示材料通常不可数；a sheet/piece of paper表示一张。paper也可作论文或报纸等可数名词，不能把所有语境一律判为不可数。",
+      "context_en": "Before a group project, Eva sketches a rough layout on a sheet of paper. She can move quickly between arrows, words and small drawings. Once the group agrees on the structure, she transfers it to a shared document. She keeps the original sketch because it reminds her why the group changed its first idea.",
+      "context_zh": "Eva先在纸上用箭头、文字和小图画草稿，确定结构后再转成共享文档。纸与电子在不同步骤提供帮助；原草图还保留了团队改变想法的过程。",
+      "language": [
+        {
+          "chunk": "a sheet of paper",
+          "meaning_zh": "一张纸",
+          "structure": "a/two + sheet(s) of paper",
+          "example_en": "I drew the route on a sheet of paper.",
+          "error_zh": "表示纸材料时不说a paper；但a research paper可指一篇研究论文。"
+        },
+        {
+          "chunk": "jot something down",
+          "meaning_zh": "快速记下",
+          "structure": "jot + 内容 + down；代词置中",
+          "example_en": "I jotted the number down before I forgot it.",
+          "error_zh": "代词应说jot it down；不是jot down it。"
+        },
+        {
+          "chunk": "sketch out an idea",
+          "meaning_zh": "粗略画出或列出一个想法",
+          "structure": "sketch out + 想法/计划",
+          "example_en": "We sketched out the idea before opening the design software.",
+          "error_zh": "sketch out强调初步轮廓，不表示已经完成了精细成品。"
+        },
+        {
+          "chunk": "keep a record of",
+          "meaning_zh": "保留……的记录",
+          "structure": "keep a record of + 内容",
+          "example_en": "I keep a record of the changes in a notebook.",
+          "error_zh": "record在此是名词；a record与records都可，但须与句子数量一致。"
+        }
+      ],
+      "model": {
+        "prompt_en": "Explain a situation in which you still choose to write on paper.",
+        "answer_en": "I usually use paper when I'm trying to organise a new idea. I can draw a box, cross something out and add a quick arrow without thinking about software. Last week, I sketched out a plan for a small exhibition with a friend. We later typed the final version into a shared document. The paper version helped us explore; the digital version made the agreed plan easier to share.",
+        "explanation_zh": "同一项目先探索、后共享，以任务解释工具选择。最后两句可以学习平行比较，但不要在所有题目中硬套“纸用于A，电子用于B”。"
+      },
+      "practice": [
+        {
+          "prompt": "改错：I need two papers to draw this plan.（指两张空白纸）",
+          "answer": "I need two sheets of paper to draw this plan.",
+          "explanation_zh": "用sheets计量纸材料；two papers在其他语境可指两篇论文，不符合此题指定含义。"
+        },
+        {
+          "prompt": "用代词替换the address：I jotted the address down.",
+          "answer": "I jotted it down.",
+          "explanation_zh": "宾语代词放在jotted和down之间；时态保持过去时。"
+        }
+      ],
+      "speaking": {
+        "part1_en": "When did you last choose a pen instead of typing?",
+        "part2_en": "Describe something you planned or made using paper. Explain the stages, the tools and what the finished result was used for.",
+        "part3_en": "Which tasks are easier when people can share a digital document?",
+        "part3_support_zh": "选多人同时修改、异地查看或版本更新来解释，并交代共享权限或设备条件；无需把所有纸质记录都判为过时。",
+        "part3_model_en": "A shared document is helpful when several people need to update the same plan from different places. They can see the latest changes without passing a paper copy around. However, the group still needs a clear way to decide which changes are final."
+      },
+      "optional_review": {
+        "prompt_en": "When would a voice message be more useful than a written message?",
+        "checkpoints_zh": [
+          "是否按沟通任务比较两种工具？",
+          "是否说清楚方便在哪里，而非只用modern或traditional评价？"
+        ]
+      }
+    },
+    {
+      "id": "sep26-school-skills",
+      "title": "中学与学技能：说明困难怎样被拆解",
+      "status": "新增｜近期回忆主题；两份汇编交叉出现，原题待核实",
+      "sourceIds": [
+        "joe-2026-09",
+        "shishi-2026-09"
+      ],
+      "coverage": [
+        "中学经历",
+        "童年学会的技能",
+        "教授新技能的人"
+      ],
+      "intro_zh": "讲学校时别停在“老师很好、课程有趣”。选择一次解释、练习或反馈，说明起初哪里不会、对方做了什么、自己后来能做到什么。teach someone how to do强调教做法；learn to do强调自己学会。成绩之外，也可以用敢提问、能独立完成某一步来表现变化。",
+      "context_en": "In secondary school, Omar struggled to make his science notes useful. His teacher showed him how to turn a paragraph into a labelled diagram. Omar first copied the example, then tried a new paragraph on his own. He still needed help choosing the key details, but he could finally see a way to begin.",
+      "context_zh": "Omar中学时不知道怎样整理科学笔记。老师演示如何把段落转成带标注的图，他先模仿，再独立处理新段落。进步是掌握了起步方法，不等于立即精通。",
+      "language": [
+        {
+          "chunk": "struggle with",
+          "meaning_zh": "在某方面遇到困难",
+          "structure": "struggle with + 名词；struggle to + 动词",
+          "example_en": "I struggled with organising my notes.",
+          "error_zh": "with后用名词或-ing；若接原形要换成struggled to organise。"
+        },
+        {
+          "chunk": "break something down into steps",
+          "meaning_zh": "把任务拆成步骤",
+          "structure": "break + 任务 + down into + 步骤",
+          "example_en": "She broke the task down into three manageable steps.",
+          "error_zh": "过去式broke；break down在其他语境可指设备坏了，需看宾语。"
+        },
+        {
+          "chunk": "show someone how to",
+          "meaning_zh": "给某人示范怎样做",
+          "structure": "show + 人 + how to + 动词原形",
+          "example_en": "He showed me how to label the diagram.",
+          "error_zh": "how to后不使用过去式；不是showed me how labelled。"
+        },
+        {
+          "chunk": "get the hang of",
+          "meaning_zh": "逐渐掌握做法",
+          "structure": "get the hang of + 名词/动词-ing",
+          "example_en": "I gradually got the hang of choosing the main points.",
+          "error_zh": "of后用choosing；表达掌握诀窍，不自动表示已达到专家水平。"
+        }
+      ],
+      "model": {
+        "prompt_en": "Describe a teacher's explanation that changed how you approached a task.",
+        "answer_en": "My science teacher helped me when I couldn't make sense of my own notes. I used to copy almost every sentence from the book. She took one paragraph and showed me how to turn it into a diagram with just a few labels. Then she asked me to try the next paragraph myself. I didn't get everything right, but I understood what to look for. I remember her because she gave me a method I could actually use.",
+        "explanation_zh": "示范的价值在“示范一次—自己试一次”的教学动作，不靠空泛赞美。若用于讲童年技能，可把笔记换成骑车或手工步骤，但必须重新回应技能本身与学习过程。"
+      },
+      "practice": [
+        {
+          "prompt": "填空：He showed me how ___ (use) the tool safely.",
+          "answer": "to use",
+          "explanation_zh": "show someone how to do something说明做法，to后动词原形。"
+        },
+        {
+          "prompt": "两种结构补全：I struggled ___ the task. / I struggled ___ finish it.",
+          "answer": "with；to",
+          "explanation_zh": "with接名词the task；to接动词原形finish。"
+        }
+      ],
+      "speaking": {
+        "part1_en": "Which part of schoolwork became easier once someone explained it differently?",
+        "part2_en": "Describe a person who helped you learn a practical or academic skill. Explain your initial difficulty, their method and one sign of progress.",
+        "part3_en": "When is a demonstration more useful than a long explanation?",
+        "part3_support_zh": "先选有可观察步骤的任务，如操作工具。说明演示让学习者看见顺序，再补充自己试做和反馈如何确认理解；不是所有抽象内容都只靠演示。",
+        "part3_model_en": "A demonstration can help when learners need to see a sequence of actions, such as adjusting a piece of equipment. Watching makes the order visible. They still need a chance to try it themselves, because recognising an action is different from performing it."
+      },
+      "optional_review": {
+        "prompt_en": "How would you explain a simple household task to someone doing it for the first time?",
+        "checkpoints_zh": [
+          "是否说明可执行的步骤，而不是只说practise more？",
+          "是否预留对方尝试或澄清的机会？"
+        ]
+      }
+    },
+    {
+      "id": "sep26-names-people",
+      "title": "名字与人物介绍：建立联系并承认记忆边界",
+      "status": "新增｜近期回忆主题；两份汇编交叉出现，原题待核实",
+      "sourceIds": [
+        "joe-2026-09",
+        "shishi-2026-09"
+      ],
+      "coverage": [
+        "名字与记忆",
+        "令人尊敬的年长者",
+        "受欢迎的人"
+      ],
+      "intro_zh": "名字话题可以讲记忆方法、称呼偏好或没听清时怎样确认。remember doing是记得做过，remember to do是记得去做。人物描述先交代关系，再用一个行为解释感受；受欢迎不必等于外向，年长也不自动等于智慧。不要凭不熟悉的姓名推断背景。",
+      "context_en": "At a new community class, Sam meets several people at once. He repeats a person's name during the conversation and connects it with the project they are working on. If he is unsure about pronunciation, he asks. One older classmate makes this easier by introducing herself again without making him feel awkward.",
+      "context_zh": "Sam在社区课程一次认识多人，会在交谈时重复对方名字并联系其正在做的项目。不确定发音就询问。一位年长同学自然地再次介绍自己，使他不觉得尴尬。",
+      "language": [
+        {
+          "chunk": "put a name to a face",
+          "meaning_zh": "想起某张面孔对应的名字",
+          "structure": "put a name to + a face",
+          "example_en": "I recognised him but couldn't put a name to the face.",
+          "error_zh": "不是give a name to his face；这里表达记起身份，不是给人取名。"
+        },
+        {
+          "chunk": "associate something with",
+          "meaning_zh": "把某事与……联系起来",
+          "structure": "associate + A + with + B",
+          "example_en": "I associate her name with the painting she showed us.",
+          "error_zh": "使用with；不要直接把associate with当成所有情境都等于“联想”，它也可指交往。"
+        },
+        {
+          "chunk": "make someone feel at ease",
+          "meaning_zh": "让某人放松、不拘束",
+          "structure": "make + 人 + feel + at ease",
+          "example_en": "Her friendly introduction made me feel at ease.",
+          "error_zh": "make后用feel原形；不是made me to feel。"
+        },
+        {
+          "chunk": "look up to someone",
+          "meaning_zh": "敬重某人",
+          "structure": "look up to + 人",
+          "example_en": "I look up to her because she treats beginners patiently.",
+          "error_zh": "to不可省；look someone up常表示查找某人信息，意思不同。"
+        }
+      ],
+      "model": {
+        "prompt_en": "Describe someone who helps newcomers feel welcome.",
+        "answer_en": "An older classmate called Lin made me feel welcome at a community art class. On my first day, I couldn't remember everyone's names. Instead of testing me, she introduced herself again and asked what I wanted to make. Later, she invited me to share a table with her group. I look up to her because she notices when someone feels left out and does something simple about it. She isn't the loudest person in the room, but people trust her.",
+        "explanation_zh": "“再次介绍自己、邀请同桌”是可见行为，支撑欢迎新人和令人敬重两种评价。英语人名为原创虚构示例；实际作答应使用自己的关系与观察。"
+      },
+      "practice": [
+        {
+          "prompt": "选结构：Please remember (to ask / asking) how her name is pronounced when you meet her tomorrow.",
+          "answer": "to ask",
+          "explanation_zh": "提醒明天要做的事，用remember to do。remember asking则是回忆已经问过。"
+        },
+        {
+          "prompt": "改错：She made me to feel at ease.",
+          "answer": "She made me feel at ease.",
+          "explanation_zh": "主动语态的make someone do要求动词原形，删除to。"
+        }
+      ],
+      "speaking": {
+        "part1_en": "What do you do when you recognise a person but cannot recall their name?",
+        "part2_en": "Describe a person who made joining a group easier for you. Explain the setting, their actions and why you appreciated them.",
+        "part3_en": "Can a quiet person become well liked in a group?",
+        "part3_support_zh": "把音量或外向程度与可靠、体谅等行为区分。选择一个行为说明别人为何愿意相处，避免以性格标签替代证据。",
+        "part3_model_en": "Yes. People may value someone who listens carefully and follows through on promises. A quiet group member could earn trust by helping reliably without seeking attention. Being well liked can depend on how someone treats others, rather than how often they speak."
+      },
+      "optional_review": {
+        "prompt_en": "What makes you trust someone you have recently started working with?",
+        "checkpoints_zh": [
+          "是否用具体行为支持trust，而非只列三个形容词？",
+          "是否避免根据年龄或外向程度自动推断能力？"
+        ]
+      }
+    },
+    {
+      "id": "sep26-decisions-success",
+      "title": "决定与成功：把目标、困难和结果串起来",
+      "status": "新增｜近期回忆主题；两份汇编交叉出现，原题待核实",
+      "sourceIds": [
+        "joe-2026-09",
+        "shishi-2026-09"
+      ],
+      "coverage": [
+        "满意的重要决定",
+        "克服困难取得成果的人",
+        "值得欣赏的运动参与者"
+      ],
+      "intro_zh": "重要决定不一定是买房或换国家；选择学习方式、是否报名或怎样分配时间也可讲清楚。叙述时区分目标、考虑过的选项、当时可用的信息和结果。描述他人成功，用练习、求助或调整说明过程；对真实公众人物只使用自己能确认的事实，不编造私生活。",
+      "context_en": "Kai wanted to join a weekend running event but had never followed a regular training plan. A friend suggested choosing a shorter distance and practising consistently. Kai changed his target and completed the event at a comfortable pace. He was pleased because the goal matched the time he could realistically give it.",
+      "context_zh": "Kai想参加周末跑步活动，却没有固定练习安排。朋友建议选较短距离并规律准备，他调整目标后完成活动。满意来自目标与可投入时间相匹配，不是必须赢过别人。",
+      "language": [
+        {
+          "chunk": "weigh up the options",
+          "meaning_zh": "权衡几个选择",
+          "structure": "weigh up + options/选择",
+          "example_en": "I weighed up the options before choosing the shorter course.",
+          "error_zh": "这里weigh意为权衡，不是量体重；过去式weighed。"
+        },
+        {
+          "chunk": "set a realistic goal",
+          "meaning_zh": "设定符合实际条件的目标",
+          "structure": "set + a + 形容词 + goal",
+          "example_en": "We set a realistic goal for the first month.",
+          "error_zh": "realistic不等于容易；目标仍可有挑战，但应联系可用条件。"
+        },
+        {
+          "chunk": "stick with a plan",
+          "meaning_zh": "持续执行某计划",
+          "structure": "stick with + 名词；也可stick to a plan",
+          "example_en": "She stuck with the plan even when progress was slow.",
+          "error_zh": "过去式stuck；stick with说明坚持，不代表任何情况下都不能调整。"
+        },
+        {
+          "chunk": "pay off",
+          "meaning_zh": "努力产生好结果",
+          "structure": "努力/准备 + pay off",
+          "example_en": "His regular practice paid off during the event.",
+          "error_zh": "此用法无需宾语；pay off a loan是还清贷款，含义不同。"
+        }
+      ],
+      "model": {
+        "prompt_en": "Describe a decision that helped you achieve a manageable goal.",
+        "answer_en": "I once planned to enter a long charity run with some friends, but I hadn't been running regularly. After looking at my schedule, I chose the shorter route. I felt slightly disappointed at first because I wanted to do what everyone else was doing. The smaller goal made it easier to practise consistently, though. I finished the event and enjoyed it. I was happy with the decision because it suited my starting point and left me wanting to continue.",
+        "explanation_zh": "叙述含原目标、实际限制、调整及结果。感到失望与后来满意可以同时成立，形成自然变化。这里是虚构教学情境，不是运动计划或官方范文。"
+      },
+      "practice": [
+        {
+          "prompt": "填过去式：She ___ (stick) with the plan, and her work ___ (pay) off.",
+          "answer": "stuck；paid",
+          "explanation_zh": "stick和pay分别变为stuck、paid。两个动作属于已完成叙述，保持时间一致。"
+        },
+        {
+          "prompt": "补原因让评价具体：It was a realistic goal because ___.",
+          "answer": "It was a realistic goal because I could practise for it within my existing schedule.",
+          "explanation_zh": "示例把可行性联系到时间条件；也可用已有技能、设备或可获得的支持说明，答案不唯一。"
+        }
+      ],
+      "speaking": {
+        "part1_en": "Do you find it easier to decide when you have fewer options?",
+        "part2_en": "Describe a decision that worked well for you or someone you know. Explain the alternatives, the main difficulty and what happened afterwards.",
+        "part3_en": "Should success always be measured by comparison with other people?",
+        "part3_support_zh": "区分选拔排名与个人进步：比赛可能需要统一名次，个人学习也可看起点与目标。解释为什么不同用途需要不同衡量方式，而不是简单反对竞争。",
+        "part3_model_en": "Comparison can be useful when selecting a winner under shared rules. For personal development, however, progress from someone's starting point may be more meaningful. A beginner who completes a difficult task has achieved something even if more experienced people do it faster."
+      },
+      "optional_review": {
+        "prompt_en": "Tell me about a plan you changed after learning something new.",
+        "checkpoints_zh": [
+          "是否说明新信息与改变之间的联系？",
+          "是否区分当时的理由与事后的结果？"
+        ]
+      }
+    },
+    {
+      "id": "sep26-organisation",
+      "title": "有条理的人：用可见习惯解释可靠",
+      "status": "新增｜近期回忆主题；两份汇编交叉出现，原题待核实",
+      "sourceIds": [
+        "joe-2026-09",
+        "shishi-2026-09"
+      ],
+      "coverage": [
+        "有条理的人",
+        "耗时习惯的取舍"
+      ],
+      "intro_zh": "organised不等于桌面完全空，也不等于计划从不改变。可以从物品能否找到、时间能否协调、变化后能否通知相关人判断。人物描述用一次具体安排作证据，Part 3则从任务规模、合作人数和变化程度解释组织方式，避免给所有人规定同一种日程表。",
+      "context_en": "Before a club meeting, Bea sends a short list of the decisions the group needs to make. She stores the shared files in clearly named folders. When a speaker cancels, she updates the plan and tells everyone which part has changed. Her system is useful because it helps the group recover when the original plan no longer works.",
+      "context_zh": "Bea开会前发待决定事项，把共享文件清楚命名。发言人取消后，她更新安排并告知变化。组织能力体现在遇到变化仍能协调，而不是证明计划永远不出问题。",
+      "language": [
+        {
+          "chunk": "keep track of",
+          "meaning_zh": "持续掌握进度或信息",
+          "structure": "keep track of + 任务/时间/变化",
+          "example_en": "She keeps track of the tasks in a shared list.",
+          "error_zh": "keep track of与lose track of相对；不要机械翻译为keep the tracks。"
+        },
+        {
+          "chunk": "prioritise the tasks",
+          "meaning_zh": "按重要或紧急程度安排任务",
+          "structure": "prioritise + 名词",
+          "example_en": "We prioritised the tasks that depended on other people.",
+          "error_zh": "prioritise不只是做清单，还包括决定先后；美式拼写prioritize同样正确。"
+        },
+        {
+          "chunk": "leave room for changes",
+          "meaning_zh": "为变化保留余地",
+          "structure": "leave room for + 名词/动词-ing",
+          "example_en": "Her schedule leaves room for unexpected changes.",
+          "error_zh": "room在这里表示余地，不可数；不是leave rooms。"
+        },
+        {
+          "chunk": "follow through on a promise",
+          "meaning_zh": "兑现承诺",
+          "structure": "follow through on + 承诺/决定",
+          "example_en": "He follows through on his promises to the team.",
+          "error_zh": "follow up是跟进，follow through on强调把承诺落实；不宜混作完全相同。"
+        }
+      ],
+      "model": {
+        "prompt_en": "Describe someone whose way of organising things helps other people.",
+        "answer_en": "My friend Bea organises a small reading club. Before each meeting, she tells us which chapters we will discuss and where to find the notes. What I appreciate most is how she handles changes. When our usual room was unavailable, she booked another space and sent a clear update with the new entrance marked on a map. Her plans aren't complicated, but they save everyone from guessing. That is why I see her as an organised person.",
+        "explanation_zh": "用“场地更换后的通知”体现有条理，而不是堆punctual、efficient等评价词。说明这种习惯对他人的影响，人物就更立体。"
+      },
+      "practice": [
+        {
+          "prompt": "填空：The shared list helps us keep track ___ unfinished tasks.",
+          "answer": "of",
+          "explanation_zh": "keep track of something是固定搭配。"
+        },
+        {
+          "prompt": "选词：We left (room / rooms) for last-minute changes in the schedule.",
+          "answer": "room",
+          "explanation_zh": "此处room指抽象余地，不是可数房间，因此不加s。"
+        }
+      ],
+      "speaking": {
+        "part1_en": "How do you remember small tasks that do not have a fixed deadline?",
+        "part2_en": "Describe a person with a useful organising habit. Explain how you noticed it and how it affected a shared activity.",
+        "part3_en": "When can detailed planning become unhelpful?",
+        "part3_support_zh": "计划过细可在变化频繁的任务中增加更新负担；但不等于不要计划。可提出保留关键目标与责任、给步骤留弹性的折中方式。",
+        "part3_model_en": "Detailed planning can become costly when the situation changes faster than the plan can be updated. A group may spend more time editing the schedule than doing the work. Clear priorities and responsibilities can still help, while allowing the smaller steps to change."
+      },
+      "optional_review": {
+        "prompt_en": "How would you organise a shared kitchen so that new residents could use it easily?",
+        "checkpoints_zh": [
+          "是否将组织习惯迁移到物品与共同规则，而非照背会议？",
+          "是否说明做法怎样减少别人的猜测或寻找？"
+        ]
+      }
+    },
+    {
+      "id": "sep26-city-spaces",
+      "title": "城市空间：用声音、布局与活动形成画面",
+      "status": "新增｜近期回忆主题；两份汇编交叉出现，原题待核实",
+      "sourceIds": [
+        "joe-2026-09",
+        "shishi-2026-09"
+      ],
+      "coverage": [
+        "嘈杂与拥挤的场所",
+        "喜欢去的城市自然空间",
+        "愿意再去的建筑"
+      ],
+      "intro_zh": "先画一个小画面：入口在哪里、人在做什么、你能听见什么。再解释环境怎样影响活动，例如听不清同伴、能坐下阅读或方便沿河走。crowded强调人密集，noisy强调声音，两者不一定同时出现。自然地、建筑题和拥挤地点题应选与问题匹配的对象，不能只换题目而复用全部内容。",
+      "context_en": "A public library stands beside a narrow riverside garden. Jo likes the upstairs reading area because the windows face the trees. On Saturday mornings, a market fills the square outside. The library remains useful, but the entrance becomes crowded, so Jo chooses a different time when she wants a quiet visit.",
+      "context_zh": "公共图书馆紧邻河边花园，Jo喜欢楼上面向树木的阅读区。周六市场使门口拥挤，她想安静去时会换时间。同一地点的体验会随区域和时段改变。",
+      "language": [
+        {
+          "chunk": "overlook a garden",
+          "meaning_zh": "面向并可俯看花园",
+          "structure": "房间/窗户/建筑 + overlook + 地点",
+          "example_en": "The reading room overlooks a small garden.",
+          "error_zh": "这里overlook是俯看；也可表示忽略，需由宾语和语境判断。"
+        },
+        {
+          "chunk": "be packed with",
+          "meaning_zh": "挤满……",
+          "structure": "be packed with + 人/物",
+          "example_en": "The entrance was packed with visitors.",
+          "error_zh": "packed强调很满；不能用它仅表示有几个人，也不等于一定吵闹。"
+        },
+        {
+          "chunk": "hear someone over the noise",
+          "meaning_zh": "在噪声中听见某人",
+          "structure": "hear + 人 + over + 噪声",
+          "example_en": "I could barely hear my friend over the music.",
+          "error_zh": "over在此表示压过背景声；不是hear about the noise，后者是听说噪声。"
+        },
+        {
+          "chunk": "provide a place to",
+          "meaning_zh": "提供可做某事的场所",
+          "structure": "provide a place to + 动词原形",
+          "example_en": "The garden provides a place to sit between appointments.",
+          "error_zh": "to后用sit；provide people with a place是另一合法结构。"
+        }
+      ],
+      "model": {
+        "prompt_en": "Describe a public place whose atmosphere changes during the week.",
+        "answer_en": "There's a library beside a small riverside garden near my home. On weekday afternoons, the upstairs room is quiet enough for reading, and the windows overlook the trees. On Saturdays, the square outside becomes a market. I enjoy the lively atmosphere, but the entrance can be packed with people carrying bags. I go on different days for different reasons: during the week to read, and occasionally on Saturday to browse the stalls with a friend.",
+        "explanation_zh": "使用同一地点不同时间的对比，分别解释安静与热闹有什么用途。若回答自然空间，应把重点转到花园的路径、植物和活动；若回答建筑，应补布局与室内体验。"
+      },
+      "practice": [
+        {
+          "prompt": "选词：The room was crowded, but everyone was reading silently. 因此它一定noisy吗？",
+          "answer": "不一定。crowded只说明人多密集。",
+          "explanation_zh": "拥挤与嘈杂是不同感官维度；上下文明确大家安静阅读，不应自动推出吵闹。"
+        },
+        {
+          "prompt": "填空：The music was loud, so I couldn't hear her ___ the noise.",
+          "answer": "over",
+          "explanation_zh": "hear someone over the noise表示隔着/压过背景声听见对方。"
+        }
+      ],
+      "speaking": {
+        "part1_en": "Does the time of day change how you use places near your home?",
+        "part2_en": "Describe a place in your city that you use for a particular activity. Explain its layout, atmosphere and one detail that affects your experience.",
+        "part3_en": "How can a public space serve people who want different levels of activity?",
+        "part3_support_zh": "可按空间分区或使用时段解释：热闹活动与安静坐读需要什么条件。说明安排怎样减少相互影响，而不是要求整座城市永远安静。",
+        "part3_model_en": "Separate areas can help when different activities would otherwise interfere with each other. A playground and a quiet seating area could share the same park without being immediately next to each other. Clear paths would also let visitors choose the environment that suits them."
+      },
+      "optional_review": {
+        "prompt_en": "What would make a waiting area more comfortable for different visitors?",
+        "checkpoints_zh": [
+          "是否给出座位、声音、动线等具体条件？",
+          "是否说明某一安排服务哪种需要，而非只说beautiful？"
+        ]
+      }
+    },
+    {
+      "id": "sep26-creative-history",
+      "title": "摄影、手工与历史兴趣：用做事过程描述热情",
+      "status": "新增｜近期回忆主题；两份汇编交叉出现，原题待核实",
+      "sourceIds": [
+        "joe-2026-09",
+        "shishi-2026-09"
+      ],
+      "coverage": [
+        "爱拍照的人",
+        "擅长手工的人",
+        "热爱学习历史的人"
+      ],
+      "intro_zh": "人物兴趣题的共同核心是“他具体怎样投入”。摄影可讲选位置、等待光线、整理照片；手工可讲材料、步骤和修整；历史可讲查资料、对比记录与提出问题。可以学习同一套“动作—产出—意义”结构，但每次须挑对应题目的内容，不能将三个兴趣强塞进一段。",
+      "context_en": "Tao photographs old shopfronts in his neighbourhood. He asks shop owners whether he may take a picture and notes what they tell him about the buildings. At home, he compares the images with older photographs and makes a small handmade album. He leaves a question mark beside details he has not yet checked.",
+      "context_zh": "Tao拍摄老店面，先询问店主是否同意，再记录建筑故事；回家对比旧照片并做相册。未核实的细节标问号。摄影、手工与查历史资料在此项目中相连，但每项活动仍有不同步骤。",
+      "language": [
+        {
+          "chunk": "pay attention to detail",
+          "meaning_zh": "留意细节",
+          "structure": "pay attention to + 名词；detail整体可不加s",
+          "example_en": "She pays attention to detail when arranging the photographs.",
+          "error_zh": "to是介词；若后接动作可说pay attention to keeping the edges straight。"
+        },
+        {
+          "chunk": "experiment with",
+          "meaning_zh": "尝试不同材料、方法或设置",
+          "structure": "experiment with + 名词/动词-ing",
+          "example_en": "He experiments with different angles before taking a picture.",
+          "error_zh": "experiment here不一定是正式科学实验，也可指创作试验；不要因此虚构实验结论。"
+        },
+        {
+          "chunk": "piece together a story",
+          "meaning_zh": "根据零散资料逐步还原故事",
+          "structure": "piece together + 信息/叙述",
+          "example_en": "She used old photographs to piece together the street's history.",
+          "error_zh": "piece在此作动词；拼接资料不等于所有细节都已确定，应承认缺口。"
+        },
+        {
+          "chunk": "be made from",
+          "meaning_zh": "由某材料制作而来",
+          "structure": "成品 + be made from + 材料",
+          "example_en": "The cover was made from discarded cardboard.",
+          "error_zh": "made from常强调制作来源，made of常强调能识别的构成材料；两者有语境重叠，不是一刀切规则。"
+        }
+      ],
+      "model": {
+        "prompt_en": "Describe someone whose hobby involves noticing details that others miss.",
+        "answer_en": "My friend Tao enjoys photographing old shops. He doesn't just take a picture and move on. He looks at the signs, waits until people are out of the doorway and asks permission before photographing the owner. Later, he adds a short note about each place to a handmade album. I like the patience behind the hobby. When we walk together, he often points out a small feature I have passed many times without noticing.",
+        "explanation_zh": "描述兴趣靠观察、等待、询问和整理等动作，最后说明对自己的影响。若转向历史人物题，需补资料来源及疑问；若转向手工人物题，需补制作步骤与成品用途。"
+      },
+      "practice": [
+        {
+          "prompt": "填空：She experimented ___ several ways of folding the cover.",
+          "answer": "with",
+          "explanation_zh": "experiment with something说明试验的材料、方法或安排。"
+        },
+        {
+          "prompt": "把空泛评价加上证据：He pays attention to detail. 追加一个摄影动作。",
+          "answer": "He checks the background before taking each picture.",
+          "explanation_zh": "核查背景给detail提供可观察证据；也可说调整角度或检查边缘，只要与本人确实的动作相关。"
+        }
+      ],
+      "speaking": {
+        "part1_en": "Do you prefer to keep photographs organised or simply leave them on your phone?",
+        "part2_en": "Describe someone who puts care into a creative or historical interest. Choose one project and explain the process, the result and why the activity matters to them.",
+        "part3_en": "What can local objects or photographs add to learning about the past?",
+        "part3_support_zh": "可从日常生活细节切入，说明它们如何把抽象年代联系到衣着、交通或街道；再区分材料能显示什么与仍需其他资料核实什么。",
+        "part3_model_en": "They can make everyday life easier to imagine. A street photograph may show how people travelled or used public space. However, one image captures only a moment, so learners may need other records to understand how typical that scene was."
+      },
+      "optional_review": {
+        "prompt_en": "Describe how someone you know prepares food with particular care.",
+        "checkpoints_zh": [
+          "是否把抽象care转换成具体动作和结果？",
+          "是否根据新活动替换材料与步骤，而不是机械复用摄影词？"
+        ]
+      }
+    },
+    {
+      "id": "sep26-media",
+      "title": "采访与电影：把内容理解和个人评价分开",
+      "status": "新增｜近期回忆主题；两份汇编交叉出现，原题待核实",
+      "sourceIds": [
+        "joe-2026-09",
+        "shishi-2026-09"
+      ],
+      "coverage": [
+        "看过的公众人物采访",
+        "不喜欢的电影"
+      ],
+      "intro_zh": "评价媒体先说内容和预期，再选一个具体细节说明反应。不喜欢电影可因为节奏、人物动机或结尾处理，但“我不喜欢”不等于作品客观上没有价值。采访题应分清受访者表达的观点与自己知道的事实；记不清原话可以概括，别编造引语或真实人物经历。",
+      "context_en": "In a fictional interview used for this lesson, a screenwriter explains why she removed an early version of a film's ending. Arun finds the discussion more interesting than the finished film. The film's final scenes felt rushed to him, while the interview helped him understand the choices behind them. Understanding the reason did not change his personal preference.",
+      "context_zh": "本课虚构采访中，一位编剧解释删去原结尾的原因。Arun仍觉得成片结尾仓促，但采访使他理解了创作选择。理解理由与改变喜好是两回事。",
+      "language": [
+        {
+          "chunk": "live up to expectations",
+          "meaning_zh": "达到预期",
+          "structure": "作品/体验 + live up to + expectations",
+          "example_en": "The film didn't live up to my expectations.",
+          "error_zh": "to不可漏；expectations是本人预期，不自动证明作品客观好坏。"
+        },
+        {
+          "chunk": "find something hard to follow",
+          "meaning_zh": "觉得某内容不易理解或跟上",
+          "structure": "find + 宾语 + hard to follow",
+          "example_en": "I found the sudden changes in time hard to follow.",
+          "error_zh": "是内容hard to follow，不说I am hard to follow来表达自己听不懂；后者会说自己难被理解。"
+        },
+        {
+          "chunk": "give an insight into",
+          "meaning_zh": "使人了解某方面",
+          "structure": "give an insight into + 内容",
+          "example_en": "The interview gave me an insight into the editing process.",
+          "error_zh": "介词into；an insight也可复数insights，不能写a insight。"
+        },
+        {
+          "chunk": "come across as",
+          "meaning_zh": "给人留下某种印象",
+          "structure": "人 + come across as + 形容词/名词",
+          "example_en": "The speaker came across as thoughtful and willing to reconsider.",
+          "error_zh": "这是呈现给你的印象，不等于已证实其私下性格；come across a book则是偶然发现书。"
+        }
+      ],
+      "model": {
+        "prompt_en": "Describe a film that did not work well for you, and explain one specific reason.",
+        "answer_en": "I watched a mystery film with a friend last winter. I enjoyed the setting and wanted to find out how the case would be solved, but the ending felt rushed. A new character appeared very late and explained almost everything. I found that hard to accept because I hadn't been given much chance to understand their role. My friend enjoyed the surprise, so our reactions were different. For me, the conclusion didn't live up to the careful beginning.",
+        "explanation_zh": "示范先承认喜欢的部分，再用新角色突然解释结局说明“不满意在哪里”。朋友不同意见显示评价是个人感受；没有编造片名、真实情节或公众人物事实。"
+      },
+      "practice": [
+        {
+          "prompt": "补全：The interview gave me ___ insight ___ how the team worked.",
+          "answer": "an；into",
+          "explanation_zh": "insight以元音音素开头，单数用an；固定方向是insight into something。"
+        },
+        {
+          "prompt": "选句表达“我觉得故事很难跟上”：A. I was hard to follow. B. I found the story hard to follow.",
+          "answer": "B",
+          "explanation_zh": "B明确难理解的是故事；A通常说明别人难以跟上你的表达或行动。"
+        }
+      ],
+      "speaking": {
+        "part1_en": "Do you ever look for an interview after watching a film or reading a book?",
+        "part2_en": "Describe a piece of media that changed how you understood a creative decision. Explain what you first thought, what you learned and whether your opinion changed.",
+        "part3_en": "Should knowing how a film was made affect how we judge it?",
+        "part3_support_zh": "可区分理解限制与评价成品：制作背景帮助解释选择，但观众仍可评价观看体验。用“理解某个困难却仍不喜欢结果”形成清楚论点。",
+        "part3_model_en": "Background information can help us understand why a decision was made, especially when time or resources were limited. It does not require us to enjoy the result. I would treat the process as useful context while still judging how the film works for an audience."
+      },
+      "optional_review": {
+        "prompt_en": "Can you understand a friend's choice while still preferring something else?",
+        "checkpoints_zh": [
+          "是否明确区分理解理由与同意选择？",
+          "是否用个人评价措辞，避免把印象写成未经核实的事实？"
+        ]
+      }
+    },
+    {
+      "id": "sep26-friends-happiness",
+      "title": "朋友、聚会与快乐：用互动细节建立记忆点",
+      "status": "新增｜近期回忆主题；两份汇编交叉出现，原题待核实",
+      "sourceIds": [
+        "joe-2026-09",
+        "shishi-2026-09"
+      ],
+      "coverage": [
+        "朋友共度的愉快夜晚",
+        "有印象的庆祝聚会",
+        "常表现出快乐的人"
+      ],
+      "intro_zh": "聚会故事不靠豪华场地取胜。谁做了什么、大家怎样回应、你为什么记得，已经能形成完整叙述。描述快乐的人时只谈自己观察到的表现，如主动分享小事、愿意邀请别人；不能仅凭爱笑就断言对方没有烦恼。快乐也可以安静，不必总写热闹大笑。",
+      "context_en": "Four friends gather to celebrate Jun finishing a course. They cook a simple meal and each brings a photograph from the past year. One picture reminds them of a picnic that ended in heavy rain. The evening has no formal programme, but everyone gets time to tell a story, including the quietest person at the table.",
+      "context_zh": "四位朋友为Jun结课庆祝，做简单晚饭并各带一张照片。一张雨中野餐照片引出共同回忆。没有复杂节目，每个人都有说故事的空间，包括最安静的一位。",
+      "language": [
+        {
+          "chunk": "get together",
+          "meaning_zh": "相聚",
+          "structure": "人 + get together；可接for + 活动",
+          "example_en": "We got together for a simple dinner after the course ended.",
+          "error_zh": "过去式got；get-together带连字符时也可作名词“聚会”，语法位置不同。"
+        },
+        {
+          "chunk": "bring back memories",
+          "meaning_zh": "唤起回忆",
+          "structure": "事物 + bring back + memories",
+          "example_en": "The photograph brought back memories of our rainy picnic.",
+          "error_zh": "过去式brought；bring back someone可指带某人回来，需看宾语。"
+        },
+        {
+          "chunk": "make everyone feel included",
+          "meaning_zh": "让每个人觉得被接纳并参与其中",
+          "structure": "make + 人 + feel + included",
+          "example_en": "She asked each person for a story to make everyone feel included.",
+          "error_zh": "included是被包含/接纳的状态；including不能替代此处过去分词。"
+        },
+        {
+          "chunk": "have something to look forward to",
+          "meaning_zh": "有一件值得期待的事",
+          "structure": "have + 事物 + to look forward to",
+          "example_en": "Our monthly dinner gives us something to look forward to.",
+          "error_zh": "look forward to里的to是介词；接动作应为look forward to meeting，而不是meet。"
+        }
+      ],
+      "model": {
+        "prompt_en": "Describe a simple evening with friends that stayed in your memory.",
+        "answer_en": "Three friends came to my flat when I finished an evening course. We made noodles, and each person brought a photograph from the previous year. One showed us sheltering from the rain during a picnic, which brought back a lot of memories. We spent much longer talking about the pictures than eating. I remember the evening because nobody was in a hurry, and even our quietest friend had a story to share. It felt personal without needing an expensive celebration.",
+        "explanation_zh": "完成事件由场合、活动、一个照片细节和意义构成。若转为人物题，应把重点放在谁邀请大家、怎样使人参与；聚会题则保持事件顺序，不直接背人物评价。"
+      },
+      "practice": [
+        {
+          "prompt": "填空：I'm looking forward to ___ (see) everyone again.",
+          "answer": "seeing",
+          "explanation_zh": "look forward to的to是介词，后接-ing；不是表示将来动作的不定式to see。"
+        },
+        {
+          "prompt": "选词：She made the new members feel (included / including).",
+          "answer": "included",
+          "explanation_zh": "新成员感到被接纳，用过去分词included；including表示“包括……”，功能不同。"
+        }
+      ],
+      "speaking": {
+        "part1_en": "Do you prefer to mark a small achievement alone or with other people?",
+        "part2_en": "Describe a gathering that felt personal to you. Explain the occasion, a memorable interaction and why that detail mattered.",
+        "part3_en": "What can make a celebration meaningful when the budget is small?",
+        "part3_support_zh": "可谈共同记忆、参与机会或与当事人有关的小安排。说清它怎样让人被看见、被接纳，而不是宣布花钱多的聚会都没有意义。",
+        "part3_model_en": "A celebration can feel meaningful when it reflects the person being celebrated. Friends might share stories or prepare something connected to a shared experience. These details show attention and give people a way to participate, even when the food and venue are simple."
+      },
+      "optional_review": {
+        "prompt_en": "What could a club do to welcome a new member at their first meeting?",
+        "checkpoints_zh": [
+          "是否说明实际互动如何让新人参与？",
+          "若使用look forward to，动作是否采用-ing形式？"
+        ]
+      }
+    }
+  ]
+}
+

@@ -1,0 +1,2838 @@
+{
+  "requested": "library-files",
+  "from": [
+    "页面链接"
+  ],
+  "actual": "#library-files",
+  "checkedAt": "2026-09-21T12:54:53.306Z",
+  "title": "原始资料 · IELTS",
+  "label": "原始资料",
+  "panel": "library",
+  "contentRoot": "library",
+  "headings": [
+    {
+      "tag": "H1",
+      "text": "资源目录",
+      "visible": true
+    },
+    {
+      "tag": "H2",
+      "text": "文字题目",
+      "visible": true
+    },
+    {
+      "tag": "H2",
+      "text": "原题片段练习",
+      "visible": true
+    },
+    {
+      "tag": "H2",
+      "text": "话题与学习技巧",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "读图起手：用真实就业图核对对象、单位与时间",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "Overview：用真实原图找全局关系，再选择证据",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "数据精确表达：真实表格里的百分点、比例和近似值",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "流程图：真实制砖分支与雨影形成机制",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "地图题：咖啡厅改造的定位、替换与保留",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "阅读起手：用真实噪声文章建立段落地图",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "判断题：用真题区分反证、未知与观点归属",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "标题匹配：Miles Davis原题中的主旨与干扰项",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "信息与人物匹配：证据功能和说话人同时核对",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "填空：真实表格、摘要中的字数和同义转换",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "图示标注：官方蜣螂隧道原图中的深度与形状",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "选择题与复盘：用原段功能排除“只说对一半”",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "旅游信息：一次具体使用经历",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "园艺的未来：有条件地预测",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "住宅与花园：解释实际好处",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "购物方式与不必要消费",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "诚实与儿童：比较观点",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "公寓里种植：给可行方案",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "广告的准确性与购买决定",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "面包与日常饮食",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "理发：习惯与最近变化",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "有竞争心的人：具体事件支撑性格",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "花钱与储蓄：程度和原因",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "不真实的信息：发现问题与核对",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "城市生活：吸引力与不便",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "公园：从空间细节讲清兴趣",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "景点：免费开放与失望原因",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "竞争与参与：比较体育观点",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "司法与技术：算法风险的真实阅读语境",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "公共治理：公交方案怎样落地",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "社会责任：财富如何用于公共文化",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "太空与生命：样本怎样成为证据",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "课堂通知：日期、数字与澄清请求",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "会议分工：谁提出顾虑，谁负责执行",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "天气播报：地区、时间与例外条件",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "讲座导入：定义、例子与后文路线",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "收藏与公共展览：真题中的反证和信息缺口",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "考古器物与糖业：真实摘要的并列顺序和概括",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "城市噪声与考古：原题中的措施、数据和限定",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "人工智能：用真实作者观点题辨别宣传和判断",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "咖啡厅改造：在真实两张平面图间建立对应",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "真实折线图：就业结构变化与受众时段差异",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "国际旅游：基于官方原题比较环境代价和社区收益",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "过度捕捞：真实题干中的原因与措施对应",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "背景读本",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "打印学习册",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "参考与反馈",
+      "visible": true
+    },
+    {
+      "tag": "H2",
+      "text": "只保留有用的记录",
+      "visible": true
+    },
+    {
+      "tag": "H2",
+      "text": "考试要求与反馈标准",
+      "visible": true
+    },
+    {
+      "tag": "H2",
+      "text": "配套文件",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "9月21日新内容 · 九分机经",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "近期机经 · 已清洗内容",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "answer-key-01.pdf",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "ielts-modified-academic-1-source-pages.pdf",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "ielts-modified-academic-1.pdf",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "C21-T1-Task1-question.pdf",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "C21-T1-Task1-response-and-comment.pdf",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "C21-T2-Task1-question.pdf",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "C21-T2-Task1-response-and-comment.pdf",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "C21-T2-Task2-question.pdf",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "C21-T2-Task2-response-and-comment.pdf",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "listening-115005.txt",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "listening-115005.txt",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "recording-1.mp3",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "listening-115010.png",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "recording-4.mp3",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "listening-115010.txt",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "listening-115010.txt",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "cambridge-zip-115049_IELTS_Speaking_Sample_Part_2_Recording.mp3",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "cambridge-zip-115051_Speaking_sample_task_-_Part_2_transcript.pdf",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "ielts-speaking-key-assessment-criteria.pdf",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "ielts-writing-band-descriptors.pdf",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "ielts-writing-key-assessment-criteria.pdf",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "ielts-speaking-band-descriptors.pdf",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "inspera-response-3.txt",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "hwatai-cambridge7-sample-source-pages.pdf",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "official-sample-idp-29-source-pages.pdf",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "cambridge-classroom-reading-3.pdf",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "cambridge-research-notes68.pdf",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "hwatai-cambridge7-sample.pdf",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "hwatai-cambridge8-sample.pdf",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "idp-29.pdf",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "idp-31.pdf",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "hwatai-cambridge5-sample.pdf",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "hwatai-cambridge10-sample.pdf",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "hwatai-cambridge6-sample.pdf",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "91349570-speaking_part_1_developing_fluency_and_coherence_.pdf",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "52ed5765-LearnEnglish-Listening-B1-Meeting-an-old-friend.pdf",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "99acb260-LearnEnglish-Listening-B2-Office-party-planning.pdf",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "17836703-speaking_part_3_overview_and_practice_.pdf",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "2b576094-LearnEnglish-Speaking-B2-Discussing-advantages-and-disadvantages.pdf",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "miles-student.pdf",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "miles-teacher-feedback.pdf",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "older-workers-student.pdf",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "older-workers-answer-key.pdf",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "cambridge-zip-115008_Listening_sample_task_-_Multiple_choice.pdf",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "listening-115008.txt",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "listening-115008.txt",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "recording-2.mp3",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "bec3ddb1-LearnEnglish-Listening-B1-A-phone-call-from-a-customer.pdf",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "416268a0-LE_listening_B1_A_phone_call_from_a_customer.mp3",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "official-task1a-comparison.pdf",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "0bf3495a-academic_writing_task_1_writing_the_overview.pdf",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "official-task1c-bricks.pdf",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "bf171ce7-academic_writing_task_1_grammatical_structures_for_describing_diagrams.pdf",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "official-task2a-opinion.pdf",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "5bfdf909-writing_task_2_developing_paragraphs.pdf",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "official-task2b-outweigh.pdf",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "Cambridge IELTS 21 - Academic.pdf",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "ielts-academic-reading-access-arrangement-modified-large-print-text-booklet.pdf",
+      "visible": true
+    }
+  ],
+  "controls": [
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "← 返回学习工作台",
+      "label": "",
+      "href": "#workspace",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "阅读练习",
+      "label": "",
+      "href": "#pp-reading",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "听力练习",
+      "label": "",
+      "href": "#pp-listening",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "Task 1 练习",
+      "label": "",
+      "href": "#pp-writing1",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "Task 2 练习",
+      "label": "",
+      "href": "#pp-writing2",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "口语练习",
+      "label": "",
+      "href": "#pp-speaking",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "词汇练习",
+      "label": "",
+      "href": "#pp-vocabulary",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "话题练习",
+      "label": "",
+      "href": "#pp-background",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "qt-search",
+      "type": "search",
+      "text": "",
+      "label": "搜索全部文字题目",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "Miles Davis · 标题匹配",
+      "label": "",
+      "href": "#reading-text-miles",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "Older workers · 单项选择",
+      "label": "",
+      "href": "#reading-text-older-workers",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "The Davies Sisters · 原文与 1–13 题",
+      "label": "",
+      "href": "#reading-text-davies",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "英国继续教育 · Task 1",
+      "label": "",
+      "href": "#writing1-text-further-education",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "制砖流程 · Task 1",
+      "label": "",
+      "href": "#writing1-text-bricks",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "美国四行业就业 · Task 1",
+      "label": "",
+      "href": "#writing1-text-us-jobs",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "家庭经济与成年生活 · Task 2",
+      "label": "",
+      "href": "#writing2-text-family-wealth",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "国际旅游利弊 · Task 2",
+      "label": "",
+      "href": "#writing2-text-tourism",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "数字时代的剧院与影院 · Task 2",
+      "label": "",
+      "href": "#writing2-text-theatres",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "运输保险 · 听力 9–10 题",
+      "label": "",
+      "href": "#listening-text-insurance",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "客户来电 · 词汇与判断题",
+      "label": "",
+      "href": "#listening-text-customer-call",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "货运报价单 · 听力 1–8 题",
+      "label": "",
+      "href": "#listening-text-shipping",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "开放大学 · 听力 27–30 题",
+      "label": "",
+      "href": "#listening-text-open-university",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "重要物品 · 口语 Part 2",
+      "label": "",
+      "href": "#speaking-text-important-object",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "阅读 · 38 组",
+      "label": "",
+      "href": "#reading-case-bank",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "Task 1 · 8 组",
+      "label": "",
+      "href": "#writing1-case-bank",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "Task 2 · 12 组",
+      "label": "",
+      "href": "#writing2-case-bank",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "话题与学习技巧",
+      "label": "",
+      "href": "#resource-update",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "学习材料",
+      "label": "",
+      "href": "#library-materials",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "考试要求",
+      "label": "",
+      "href": "#library-rules",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "原始文件",
+      "label": "",
+      "href": "#library-files",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "res-search",
+      "type": "search",
+      "text": "",
+      "label": "查话题或技能",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "全部",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "口语话题",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "补齐背景",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "阅读",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "听力",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "Task 1",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "Task 2",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "新增技巧 · Task 1\n读图起手：用真实就业图核对对象、单位与时间\n\n12 分钟 · 步骤 / 例子 / 练习与解释",
+      "label": "",
+      "href": "#writing1-tech-read-chart",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "新增技巧 · Task 1\nOverview：用真实原图找全局关系，再选择证据\n\n15 分钟 · 步骤 / 例子 / 练习与解释",
+      "label": "",
+      "href": "#writing1-tech-overview",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "新增技巧 · Task 1\n数据精确表达：真实表格里的百分点、比例和近似值\n\n12 分钟 · 步骤 / 例子 / 练习与解释",
+      "label": "",
+      "href": "#writing1-tech-precision",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "新增技巧 · Task 1\n流程图：真实制砖分支与雨影形成机制\n\n15 分钟 · 步骤 / 例子 / 练习与解释",
+      "label": "",
+      "href": "#writing1-tech-process",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "新增技巧 · Task 1\n地图题：咖啡厅改造的定位、替换与保留\n\n15 分钟 · 步骤 / 例子 / 练习与解释",
+      "label": "",
+      "href": "#writing1-tech-maps",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "新增技巧 · 阅读\n阅读起手：用真实噪声文章建立段落地图\n\n12 分钟 · 步骤 / 例子 / 练习与解释",
+      "label": "",
+      "href": "#reading-tech-locate",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "新增技巧 · 阅读\n判断题：用真题区分反证、未知与观点归属\n\n15 分钟 · 步骤 / 例子 / 练习与解释",
+      "label": "",
+      "href": "#reading-tech-judgement",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "新增技巧 · 阅读\n标题匹配：Miles Davis原题中的主旨与干扰项\n\n12 分钟 · 步骤 / 例子 / 练习与解释",
+      "label": "",
+      "href": "#reading-tech-headings",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "新增技巧 · 阅读\n信息与人物匹配：证据功能和说话人同时核对\n\n15 分钟 · 步骤 / 例子 / 练习与解释",
+      "label": "",
+      "href": "#reading-tech-matching",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "新增技巧 · 阅读\n填空：真实表格、摘要中的字数和同义转换\n\n12 分钟 · 步骤 / 例子 / 练习与解释",
+      "label": "",
+      "href": "#reading-tech-completion",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "新增技巧 · 阅读\n图示标注：官方蜣螂隧道原图中的深度与形状\n\n15 分钟 · 步骤 / 例子 / 练习与解释",
+      "label": "",
+      "href": "#reading-tech-diagram",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "新增技巧 · 阅读\n选择题与复盘：用原段功能排除“只说对一半”\n\n15 分钟 · 步骤 / 例子 / 练习与解释",
+      "label": "",
+      "href": "#reading-tech-choices-review",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "口语话题\n旅游信息：一次具体使用经历\n\n真实考试题与原始样题 · 示范与逐项解释",
+      "label": "",
+      "href": "#speaking-new-sep26-journeys",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "口语话题\n园艺的未来：有条件地预测\n\n真实考试题与原始样题 · 示范与逐项解释",
+      "label": "",
+      "href": "#speaking-new-sep26-recycling",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "口语话题\n住宅与花园：解释实际好处\n\n真实考试题与原始样题 · 示范与逐项解释",
+      "label": "",
+      "href": "#speaking-new-sep26-energy",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "口语话题\n购物方式与不必要消费\n\n真实考试题与原始样题 · 示范与逐项解释",
+      "label": "",
+      "href": "#speaking-new-sep26-shoes-shopping",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "口语话题\n诚实与儿童：比较观点\n\n真实考试题与原始样题 · 示范与逐项解释",
+      "label": "",
+      "href": "#speaking-new-sep26-politeness",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "口语话题\n公寓里种植：给可行方案\n\n真实考试题与原始样题 · 示范与逐项解释",
+      "label": "",
+      "href": "#speaking-new-sep26-fruit-vegetables",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "口语话题\n广告的准确性与购买决定\n\n真实考试题与原始样题 · 示范与逐项解释",
+      "label": "",
+      "href": "#speaking-new-sep26-advertising",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "口语话题\n面包与日常饮食\n\n真实考试题与原始样题 · 示范与逐项解释",
+      "label": "",
+      "href": "#speaking-new-sep26-paper",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "口语话题\n理发：习惯与最近变化\n\n真实考试题与原始样题 · 示范与逐项解释",
+      "label": "",
+      "href": "#speaking-new-sep26-school-skills",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "口语话题\n有竞争心的人：具体事件支撑性格\n\n真实考试题与原始样题 · 示范与逐项解释",
+      "label": "",
+      "href": "#speaking-new-sep26-names-people",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "口语话题\n花钱与储蓄：程度和原因\n\n真实考试题与原始样题 · 示范与逐项解释",
+      "label": "",
+      "href": "#speaking-new-sep26-decisions-success",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "口语话题\n不真实的信息：发现问题与核对\n\n真实考试题与原始样题 · 示范与逐项解释",
+      "label": "",
+      "href": "#speaking-new-sep26-organisation",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "口语话题\n城市生活：吸引力与不便\n\n真实考试题与原始样题 · 示范与逐项解释",
+      "label": "",
+      "href": "#speaking-new-sep26-city-spaces",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "口语话题\n公园：从空间细节讲清兴趣\n\n真实考试题与原始样题 · 示范与逐项解释",
+      "label": "",
+      "href": "#speaking-new-sep26-creative-history",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "口语话题\n景点：免费开放与失望原因\n\n真实考试题与原始样题 · 示范与逐项解释",
+      "label": "",
+      "href": "#speaking-new-sep26-media",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "口语话题\n竞争与参与：比较体育观点\n\n真实考试题与原始样题 · 示范与逐项解释",
+      "label": "",
+      "href": "#speaking-new-sep26-friends-happiness",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "新增 · 话题背景\n司法与技术：算法风险的真实阅读语境\n\n6 组表达 · 语境 / 示范 / 解析",
+      "label": "",
+      "href": "#topic-crime",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "新增 · 话题背景\n公共治理：公交方案怎样落地\n\n6 组表达 · 语境 / 示范 / 解析",
+      "label": "",
+      "href": "#topic-government",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "新增 · 话题背景\n社会责任：财富如何用于公共文化\n\n6 组表达 · 语境 / 示范 / 解析",
+      "label": "",
+      "href": "#topic-society",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "新增 · 话题背景\n太空与生命：样本怎样成为证据\n\n6 组表达 · 语境 / 示范 / 解析",
+      "label": "",
+      "href": "#topic-space",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "新增 · 听力\n课堂通知：日期、数字与澄清请求\n\n4 组表达 · 语境 / 示范 / 解析",
+      "label": "",
+      "href": "#listening-new-new-listening-campus-notes",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "新增 · 听力\n会议分工：谁提出顾虑，谁负责执行\n\n4 组表达 · 语境 / 示范 / 解析",
+      "label": "",
+      "href": "#listening-new-new-listening-team-roles",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "新增 · 听力\n天气播报：地区、时间与例外条件\n\n4 组表达 · 语境 / 示范 / 解析",
+      "label": "",
+      "href": "#listening-new-new-listening-weather-table",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "新增 · 听力\n讲座导入：定义、例子与后文路线\n\n4 组表达 · 语境 / 示范 / 解析",
+      "label": "",
+      "href": "#listening-new-new-listening-lecture-outline",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "新增 · 阅读\n收藏与公共展览：真题中的反证和信息缺口\n\n4 组表达 · 语境 / 示范 / 解析",
+      "label": "",
+      "href": "#reading-new-new-reading-urban-tfng",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "新增 · 阅读\n考古器物与糖业：真实摘要的并列顺序和概括\n\n4 组表达 · 语境 / 示范 / 解析",
+      "label": "",
+      "href": "#reading-new-new-reading-refill-summary",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "新增 · 阅读\n城市噪声与考古：原题中的措施、数据和限定\n\n4 组表达 · 语境 / 示范 / 解析",
+      "label": "",
+      "href": "#reading-new-new-reading-transport-information",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "新增 · 阅读\n人工智能：用真实作者观点题辨别宣传和判断\n\n4 组表达 · 语境 / 示范 / 解析",
+      "label": "",
+      "href": "#reading-new-new-reading-ai-views",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "新增 · 写作 Task 1\n咖啡厅改造：在真实两张平面图间建立对应\n\n4 组表达 · 语境 / 示范 / 解析",
+      "label": "",
+      "href": "#writing1-new-new-writing1-library-map",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "新增 · 写作 Task 1\n真实折线图：就业结构变化与受众时段差异\n\n4 组表达 · 语境 / 示范 / 解析",
+      "label": "",
+      "href": "#writing1-new-new-writing1-transport-trends",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "新增 · 写作 Task 2\n国际旅游：基于官方原题比较环境代价和社区收益\n\n4 组表达 · 语境 / 示范 / 解析",
+      "label": "",
+      "href": "#writing2-new-new-writing2-environment-discussion",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "新增 · 写作 Task 2\n过度捕捞：真实题干中的原因与措施对应\n\n4 组表达 · 语境 / 示范 / 解析",
+      "label": "",
+      "href": "#writing2-new-new-writing2-community-causes",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "查看全部资料 →",
+      "label": "",
+      "href": "扩展资料目录.html?skill=all",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "01 / READ\n背景读本\n\n话题、常见词与用法",
+      "label": "",
+      "href": "背景读本-话题与常用表达.pdf",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "02 / PRACTISE\n打印学习册\n\n原题、作答页与练习",
+      "label": "",
+      "href": "学习册-打印版.pdf",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "03 / REVIEW\n参考与反馈\n\n完成首次作答后再看",
+      "label": "",
+      "href": "参考册-完成后再看.pdf",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "考试要求与反馈标准",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "写作评分描述",
+      "label": "",
+      "href": "原始参考/d8a488dc-ielts-writing-band-descriptors.pdf",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "写作四项标准",
+      "label": "",
+      "href": "原始参考/32f690b4-ielts-writing-key-assessment-criteria.pdf",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "口语评分描述",
+      "label": "",
+      "href": "原始参考/914c8d84-ielts-speaking-band-descriptors.pdf",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "口语四项标准",
+      "label": "",
+      "href": "原始参考/d2810144-ielts-speaking-key-assessment-criteria.pdf",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "library-search",
+      "type": "search",
+      "text": "",
+      "label": "查找原始参考",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "新增\n9月21日新内容 · 九分机经\n\n语言起源阅读14题＋3道Task 2 · 每项标注难度",
+      "label": "",
+      "href": "机经资料/jiufen-reviewed-20260921/index.html",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "机经\n近期机经 · 已清洗内容\n\n听力Part 1与独立阅读题组 · 含参考答案和材料精读",
+      "label": "",
+      "href": "机经资料/jijing-20260920/index.html",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "PDF\nanswer-key-01.pdf\n\n原题与参考 · 已存本地",
+      "label": "",
+      "href": "原始参考/7aa23867-answer-key-01.pdf",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "PDF\nielts-modified-academic-1-source-pages.pdf\n\n原题与参考 · 已存本地",
+      "label": "",
+      "href": "原始参考/b929185f-ielts-modified-academic-1-source-pages.pdf",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "PDF\nielts-modified-academic-1.pdf\n\n原题与参考 · 已存本地",
+      "label": "",
+      "href": "原始参考/77d2edb5-ielts-modified-academic-1.pdf",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "PDF\nC21-T1-Task1-question.pdf\n\n原题与参考 · 已存本地",
+      "label": "",
+      "href": "原始参考/a4eb2b3b-C21-T1-Task1-question.pdf",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "PDF\nC21-T1-Task1-response-and-comment.pdf\n\n原题与参考 · 已存本地",
+      "label": "",
+      "href": "原始参考/3cd100d3-C21-T1-Task1-response-and-comment.pdf",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "PDF\nC21-T2-Task1-question.pdf\n\n原题与参考 · 已存本地",
+      "label": "",
+      "href": "原始参考/8860177f-C21-T2-Task1-question.pdf",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "PDF\nC21-T2-Task1-response-and-comment.pdf\n\n原题与参考 · 已存本地",
+      "label": "",
+      "href": "原始参考/45fe3e97-C21-T2-Task1-response-and-comment.pdf",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "PDF\nC21-T2-Task2-question.pdf\n\n原题与参考 · 已存本地",
+      "label": "",
+      "href": "原始参考/c91877df-C21-T2-Task2-question.pdf",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "PDF\nC21-T2-Task2-response-and-comment.pdf\n\n原题与参考 · 已存本地",
+      "label": "",
+      "href": "原始参考/93022ace-C21-T2-Task2-response-and-comment.pdf",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "TXT\nlistening-115005.txt\n\n音频文字与答案 · 已存本地",
+      "label": "",
+      "href": "原始参考/86b51fb5-listening-115005.txt",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "TXT\nlistening-115005.txt\n\n音频文字与答案 · 已存本地",
+      "label": "",
+      "href": "原始参考/3d19fa7a-listening-115005.txt",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "MP3\nrecording-1.mp3\n\n原题与参考 · 已存本地",
+      "label": "",
+      "href": "原始参考/d88d54dd-recording-1.mp3",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "PNG\nlistening-115010.png\n\n原题与参考 · 已存本地",
+      "label": "",
+      "href": "原始参考/608874aa-listening-115010.png",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "MP3\nrecording-4.mp3\n\n原题与参考 · 已存本地",
+      "label": "",
+      "href": "原始参考/bb61bf2b-recording-4.mp3",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "TXT\nlistening-115010.txt\n\n音频文字与答案 · 已存本地",
+      "label": "",
+      "href": "原始参考/a30888bb-listening-115010.txt",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "TXT\nlistening-115010.txt\n\n音频文字与答案 · 已存本地",
+      "label": "",
+      "href": "原始参考/5a330b83-listening-115010.txt",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "MP3\ncambridge-zip-115049_IELTS_Speaking_Sample_Part_2_Recording.mp3\n\n原题与参考 · 已存本地",
+      "label": "",
+      "href": "原始参考/7b07467c-cambridge-zip-115049_IELTS_Speaking_Sample_Part_2_Recording.mp3",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "PDF\ncambridge-zip-115051_Speaking_sample_task_-_Part_2_transcript.pdf\n\n原题与参考 · 已存本地",
+      "label": "",
+      "href": "原始参考/6c68dcc0-cambridge-zip-115051_Speaking_sample_task_-_Part_2_transcript.pdf",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "PDF\nielts-speaking-key-assessment-criteria.pdf\n\n评分与规则 · 已存本地",
+      "label": "",
+      "href": "原始参考/d2810144-ielts-speaking-key-assessment-criteria.pdf",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "PDF\nielts-writing-band-descriptors.pdf\n\n评分与规则 · 已存本地",
+      "label": "",
+      "href": "原始参考/d8a488dc-ielts-writing-band-descriptors.pdf",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "PDF\nielts-writing-key-assessment-criteria.pdf\n\n评分与规则 · 已存本地",
+      "label": "",
+      "href": "原始参考/32f690b4-ielts-writing-key-assessment-criteria.pdf",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "PDF\nielts-speaking-band-descriptors.pdf\n\n评分与规则 · 已存本地",
+      "label": "",
+      "href": "原始参考/914c8d84-ielts-speaking-band-descriptors.pdf",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "TXT\ninspera-response-3.txt\n\n音频文字与答案 · 已存本地",
+      "label": "",
+      "href": "原始参考/ec598fcf-inspera-response-3.txt",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "PDF\nhwatai-cambridge7-sample-source-pages.pdf\n\n原题与参考 · 已存本地",
+      "label": "",
+      "href": "原始参考/f8184cf8-hwatai-cambridge7-sample-source-pages.pdf",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "PDF\nofficial-sample-idp-29-source-pages.pdf\n\n原题与参考 · 已存本地",
+      "label": "",
+      "href": "原始参考/7a2e8056-official-sample-idp-29-source-pages.pdf",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "PDF\ncambridge-classroom-reading-3.pdf\n\n原题与参考 · 已存本地",
+      "label": "",
+      "href": "原始参考/dfacdd41-cambridge-classroom-reading-3.pdf",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "PDF\ncambridge-research-notes68.pdf\n\n原题与参考 · 已存本地",
+      "label": "",
+      "href": "原始参考/04f17772-cambridge-research-notes68.pdf",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "PDF\nhwatai-cambridge7-sample.pdf\n\n原题与参考 · 已存本地",
+      "label": "",
+      "href": "原始参考/237b7194-hwatai-cambridge7-sample.pdf",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "PDF\nhwatai-cambridge8-sample.pdf\n\n原题与参考 · 已存本地",
+      "label": "",
+      "href": "原始参考/d04994b0-hwatai-cambridge8-sample.pdf",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "PDF\nidp-29.pdf\n\n原题与参考 · 已存本地",
+      "label": "",
+      "href": "原始参考/5856a161-idp-29.pdf",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "PDF\nidp-31.pdf\n\n原题与参考 · 已存本地",
+      "label": "",
+      "href": "原始参考/326008c2-idp-31.pdf",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "PDF\nhwatai-cambridge5-sample.pdf\n\n原题与参考 · 已存本地",
+      "label": "",
+      "href": "原始参考/e0428977-hwatai-cambridge5-sample.pdf",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "PDF\nhwatai-cambridge10-sample.pdf\n\n原题与参考 · 已存本地",
+      "label": "",
+      "href": "原始参考/99437c83-hwatai-cambridge10-sample.pdf",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "PDF\nhwatai-cambridge6-sample.pdf\n\n原题与参考 · 已存本地",
+      "label": "",
+      "href": "原始参考/ad0a33c0-hwatai-cambridge6-sample.pdf",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "PDF\n91349570-speaking_part_1_developing_fluency_and_coherence_.pdf\n\n原题与参考 · 已存本地",
+      "label": "",
+      "href": "原始参考/5441af04-91349570-speaking_part_1_developing_fluency_and_coherence_.pdf",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "PDF\n52ed5765-LearnEnglish-Listening-B1-Meeting-an-old-friend.pdf\n\n原题与参考 · 已存本地",
+      "label": "",
+      "href": "原始参考/62ae7f61-52ed5765-LearnEnglish-Listening-B1-Meeting-an-old-friend.pdf",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "PDF\n99acb260-LearnEnglish-Listening-B2-Office-party-planning.pdf\n\n原题与参考 · 已存本地",
+      "label": "",
+      "href": "原始参考/ef4571d3-99acb260-LearnEnglish-Listening-B2-Office-party-planning.pdf",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "PDF\n17836703-speaking_part_3_overview_and_practice_.pdf\n\n原题与参考 · 已存本地",
+      "label": "",
+      "href": "原始参考/2106ed93-17836703-speaking_part_3_overview_and_practice_.pdf",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "PDF\n2b576094-LearnEnglish-Speaking-B2-Discussing-advantages-and-disadvantages.pdf\n\n原题与参考 · 已存本地",
+      "label": "",
+      "href": "原始参考/0112c71b-2b576094-LearnEnglish-Speaking-B2-Discussing-advantages-and-disadvantages.pdf",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "PDF\nmiles-student.pdf\n\n原题与参考 · 已存本地",
+      "label": "",
+      "href": "原始参考/b09e5747-miles-student.pdf",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "PDF\nmiles-teacher-feedback.pdf\n\n原题与参考 · 已存本地",
+      "label": "",
+      "href": "原始参考/e885c438-miles-teacher-feedback.pdf",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "PDF\nolder-workers-student.pdf\n\n原题与参考 · 已存本地",
+      "label": "",
+      "href": "原始参考/2539b427-older-workers-student.pdf",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "PDF\nolder-workers-answer-key.pdf\n\n原题与参考 · 已存本地",
+      "label": "",
+      "href": "原始参考/beeea772-older-workers-answer-key.pdf",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "PDF\ncambridge-zip-115008_Listening_sample_task_-_Multiple_choice.pdf\n\n原题与参考 · 已存本地",
+      "label": "",
+      "href": "原始参考/7918ea4d-cambridge-zip-115008_Listening_sample_task_-_Multiple_choice.pdf",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "TXT\nlistening-115008.txt\n\n音频文字与答案 · 已存本地",
+      "label": "",
+      "href": "原始参考/153e493c-listening-115008.txt",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "TXT\nlistening-115008.txt\n\n音频文字与答案 · 已存本地",
+      "label": "",
+      "href": "原始参考/825804b6-listening-115008.txt",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "MP3\nrecording-2.mp3\n\n原题与参考 · 已存本地",
+      "label": "",
+      "href": "原始参考/c31e6351-recording-2.mp3",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "PDF\nbec3ddb1-LearnEnglish-Listening-B1-A-phone-call-from-a-customer.pdf\n\n原题与参考 · 已存本地",
+      "label": "",
+      "href": "原始参考/2c976e31-bec3ddb1-LearnEnglish-Listening-B1-A-phone-call-from-a-customer.pdf",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "MP3\n416268a0-LE_listening_B1_A_phone_call_from_a_customer.mp3\n\n原题与参考 · 已存本地",
+      "label": "",
+      "href": "原始参考/7e143401-416268a0-LE_listening_B1_A_phone_call_from_a_customer.mp3",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "PDF\nofficial-task1a-comparison.pdf\n\n原题与参考 · 已存本地",
+      "label": "",
+      "href": "原始参考/2d327ea9-official-task1a-comparison.pdf",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "PDF\n0bf3495a-academic_writing_task_1_writing_the_overview.pdf\n\n原题与参考 · 已存本地",
+      "label": "",
+      "href": "原始参考/a4540c18-0bf3495a-academic_writing_task_1_writing_the_overview.pdf",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "PDF\nofficial-task1c-bricks.pdf\n\n原题与参考 · 已存本地",
+      "label": "",
+      "href": "原始参考/d46f0518-official-task1c-bricks.pdf",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "PDF\nbf171ce7-academic_writing_task_1_grammatical_structures_for_describing_diagrams.pdf\n\n原题与参考 · 已存本地",
+      "label": "",
+      "href": "原始参考/967b0405-bf171ce7-academic_writing_task_1_grammatical_structures_for_describing_diagrams.pdf",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "PDF\nofficial-task2a-opinion.pdf\n\n原题与参考 · 已存本地",
+      "label": "",
+      "href": "原始参考/bc92ca24-official-task2a-opinion.pdf",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "PDF\n5bfdf909-writing_task_2_developing_paragraphs.pdf\n\n原题与参考 · 已存本地",
+      "label": "",
+      "href": "原始参考/9464a2d7-5bfdf909-writing_task_2_developing_paragraphs.pdf",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "PDF\nofficial-task2b-outweigh.pdf\n\n原题与参考 · 已存本地",
+      "label": "",
+      "href": "原始参考/82c03e0f-official-task2b-outweigh.pdf",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "PDF\nCambridge IELTS 21 - Academic.pdf\n\n原题与参考 · 已存本地",
+      "label": "",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "PDF\nielts-academic-reading-access-arrangement-modified-large-print-text-booklet.pdf\n\n原题与参考 · 已存本地",
+      "label": "",
+      "href": "原始参考/188a4619-ielts-academic-reading-access-arrangement-modified-large-print-text-booklet.pdf",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    }
+  ],
+  "visibleText": "← 返回学习工作台\n阅读练习\n听力练习\nTask 1 练习\nTask 2 练习\n口语练习\n词汇练习\n话题练习\n\nLEARNING RESOURCES\n\n资源目录\n文字题目\n\n原文、题干和选项可以选词查义。搜索题名或英文原句，直接进入练习。\n\n搜索全部文字题目\n\n14 组题目\n\nMiles Davis · 标题匹配\nOlder workers · 单项选择\nThe Davies Sisters · 原文与 1–13 题\n英国继续教育 · Task 1\n制砖流程 · Task 1\n美国四行业就业 · Task 1\n家庭经济与成年生活 · Task 2\n国际旅游利弊 · Task 2\n数字时代的剧院与影院 · Task 2\n运输保险 · 听力 9–10 题\n客户来电 · 词汇与判断题\n货运报价单 · 听力 1–8 题\n开放大学 · 听力 27–30 题\n重要物品 · 口语 Part 2\n\n按话题和技能选学；题目、音频、学习册和考试要求也在这里。\n\n原题片段练习\n阅读 · 38 组\nTask 1 · 8 组\nTask 2 · 12 组\n话题与学习技巧\n学习材料\n考试要求\n原始文件\n话题与学习技巧\n\n44 个教学单元 · 136 组用法，包含语境、示范、练习与解析。\n\n查话题或技能\n全部\n口语话题\n补齐背景\n阅读\n听力\nTask 1\nTask 2\n\n显示 44 / 44 个教学单元\n\n新增技巧 · Task 1\n读图起手：用真实就业图核对对象、单位与时间\n\n12 分钟 · 步骤 / 例子 / 练习与解释\n\n新增技巧 · Task 1\nOverview：用真实原图找全局关系，再选择证据\n\n15 分钟 · 步骤 / 例子 / 练习与解释\n\n新增技巧 · Task 1\n数据精确表达：真实表格里的百分点、比例和近似值\n\n12 分钟 · 步骤 / 例子 / 练习与解释\n\n新增技巧 · Task 1\n流程图：真实制砖分支与雨影形成机制\n\n15 分钟 · 步骤 / 例子 / 练习与解释\n\n新增技巧 · Task 1\n地图题：咖啡厅改造的定位、替换与保留\n\n15 分钟 · 步骤 / 例子 / 练习与解释\n\n新增技巧 · 阅读\n阅读起手：用真实噪声文章建立段落地图\n\n12 分钟 · 步骤 / 例子 / 练习与解释\n\n新增技巧 · 阅读\n判断题：用真题区分反证、未知与观点归属\n\n15 分钟 · 步骤 / 例子 / 练习与解释\n\n新增技巧 · 阅读\n标题匹配：Miles Davis原题中的主旨与干扰项\n\n12 分钟 · 步骤 / 例子 / 练习与解释\n\n新增技巧 · 阅读\n信息与人物匹配：证据功能和说话人同时核对\n\n15 分钟 · 步骤 / 例子 / 练习与解释\n\n新增技巧 · 阅读\n填空：真实表格、摘要中的字数和同义转换\n\n12 分钟 · 步骤 / 例子 / 练习与解释\n\n新增技巧 · 阅读\n图示标注：官方蜣螂隧道原图中的深度与形状\n\n15 分钟 · 步骤 / 例子 / 练习与解释\n\n新增技巧 · 阅读\n选择题与复盘：用原段功能排除“只说对一半”\n\n15 分钟 · 步骤 / 例子 / 练习与解释\n\n口语话题\n旅游信息：一次具体使用经历\n\n真实考试题与原始样题 · 示范与逐项解释\n\n口语话题\n园艺的未来：有条件地预测\n\n真实考试题与原始样题 · 示范与逐项解释\n\n口语话题\n住宅与花园：解释实际好处\n\n真实考试题与原始样题 · 示范与逐项解释\n\n口语话题\n购物方式与不必要消费\n\n真实考试题与原始样题 · 示范与逐项解释\n\n口语话题\n诚实与儿童：比较观点\n\n真实考试题与原始样题 · 示范与逐项解释\n\n口语话题\n公寓里种植：给可行方案\n\n真实考试题与原始样题 · 示范与逐项解释\n\n口语话题\n广告的准确性与购买决定\n\n真实考试题与原始样题 · 示范与逐项解释\n\n口语话题\n面包与日常饮食\n\n真实考试题与原始样题 · 示范与逐项解释\n\n口语话题\n理发：习惯与最近变化\n\n真实考试题与原始样题 · 示范与逐项解释\n\n口语话题\n有竞争心的人：具体事件支撑性格\n\n真实考试题与原始样题 · 示范与逐项解释\n\n口语话题\n花钱与储蓄：程度和原因\n\n真实考试题与原始样题 · 示范与逐项解释\n\n口语话题\n不真实的信息：发现问题与核对\n\n真实考试题与原始样题 · 示范与逐项解释\n\n口语话题\n城市生活：吸引力与不便\n\n真实考试题与原始样题 · 示范与逐项解释\n\n口语话题\n公园：从空间细节讲清兴趣\n\n真实考试题与原始样题 · 示范与逐项解释\n\n口语话题\n景点：免费开放与失望原因\n\n真实考试题与原始样题 · 示范与逐项解释\n\n口语话题\n竞争与参与：比较体育观点\n\n真实考试题与原始样题 · 示范与逐项解释\n\n新增 · 话题背景\n司法与技术：算法风险的真实阅读语境\n\n6 组表达 · 语境 / 示范 / 解析\n\n新增 · 话题背景\n公共治理：公交方案怎样落地\n\n6 组表达 · 语境 / 示范 / 解析\n\n新增 · 话题背景\n社会责任：财富如何用于公共文化\n\n6 组表达 · 语境 / 示范 / 解析\n\n新增 · 话题背景\n太空与生命：样本怎样成为证据\n\n6 组表达 · 语境 / 示范 / 解析\n\n新增 · 听力\n课堂通知：日期、数字与澄清请求\n\n4 组表达 · 语境 / 示范 / 解析\n\n新增 · 听力\n会议分工：谁提出顾虑，谁负责执行\n\n4 组表达 · 语境 / 示范 / 解析\n\n新增 · 听力\n天气播报：地区、时间与例外条件\n\n4 组表达 · 语境 / 示范 / 解析\n\n新增 · 听力\n讲座导入：定义、例子与后文路线\n\n4 组表达 · 语境 / 示范 / 解析\n\n新增 · 阅读\n收藏与公共展览：真题中的反证和信息缺口\n\n4 组表达 · 语境 / 示范 / 解析\n\n新增 · 阅读\n考古器物与糖业：真实摘要的并列顺序和概括\n\n4 组表达 · 语境 / 示范 / 解析\n\n新增 · 阅读\n城市噪声与考古：原题中的措施、数据和限定\n\n4 组表达 · 语境 / 示范 / 解析\n\n新增 · 阅读\n人工智能：用真实作者观点题辨别宣传和判断\n\n4 组表达 · 语境 / 示范 / 解析\n\n新增 · 写作 Task 1\n咖啡厅改造：在真实两张平面图间建立对应\n\n4 组表达 · 语境 / 示范 / 解析\n\n新增 · 写作 Task 1\n真实折线图：就业结构变化与受众时段差异\n\n4 组表达 · 语境 / 示范 / 解析\n\n新增 · 写作 Task 2\n国际旅游：基于官方原题比较环境代价和社区收益\n\n4 组表达 · 语境 / 示范 / 解析\n\n新增 · 写作 Task 2\n过度捕捞：真实题干中的原因与措施对应\n\n4 组表达 · 语境 / 示范 / 解析\n\n扩展资料已到库\n四科教案与 B1/B2 语境，按用途选读。\n查看全部资料 →\n01 / READ\n背景读本\n\n话题、常见词与用法\n\n02 / PRACTISE\n打印学习册\n\n原题、作答页与练习\n\n03 / REVIEW\n参考与反馈\n\n完成首次作答后再看\n\n考试要求与反馈标准\n只保留有用的记录\n\n听读\n原始正确题数、未答、实际条件。短题组不换 band。\n\n写作\n完整初稿、具体反馈、修订稿。Task 1 与 Task 2 分开。\n\n口语\n真实声音、一处时间点、实际影响。文字不能代替发音证据。\n\n用法\nK 已会用／R 认识少用／N 新学；另记无提示、提示后或合法替代。\n\n考试要求与反馈标准\n科目\t完整任务要求\t怎么评价\nAcademic 阅读\t3 部分、40 题、60 分钟；填写字数按每道原题\t每题 1 分；单篇不转换整科 band。\n听力\t40 题；播放与检查时间按考试形式和指令\t每题 1 分；回放后改对和首听正确分开。\n写作\t共 60 分钟；Task 1 至少 150 词，Task 2 至少 250 词；建议约 20／40 分钟\t每题看任务完成／回应、连贯衔接、词汇、语法四项，等权；整科 Task 2 权重为 Task 1 的两倍。\n口语\tPart 1–3，整体 11–14 分钟；Part 2 有 1 分钟准备，长回答 1–2 分钟\t流利连贯、词汇、语法、发音四项等权；声音和互动证据不能用文字补造。\n\n评分标准：写作评分描述、写作四项标准、口语评分描述、口语四项标准。\n\n配套文件\n58 份文件\n新增\n9月21日新内容 · 九分机经\n\n语言起源阅读14题＋3道Task 2 · 每项标注难度\n\n机经\n近期机经 · 已清洗内容\n\n听力Part 1与独立阅读题组 · 含参考答案和材料精读\n\nPDF\nanswer-key-01.pdf\n\n原题与参考 · 已存本地\n\nPDF\nielts-modified-academic-1-source-pages.pdf\n\n原题与参考 · 已存本地\n\nPDF\nielts-modified-academic-1.pdf\n\n原题与参考 · 已存本地\n\nPDF\nC21-T1-Task1-question.pdf\n\n原题与参考 · 已存本地\n\nPDF\nC21-T1-Task1-response-and-comment.pdf\n\n原题与参考 · 已存本地\n\nPDF\nC21-T2-Task1-question.pdf\n\n原题与参考 · 已存本地\n\nPDF\nC21-T2-Task1-response-and-comment.pdf\n\n原题与参考 · 已存本地\n\nPDF\nC21-T2-Task2-question.pdf\n\n原题与参考 · 已存本地\n\nPDF\nC21-T2-Task2-response-and-comment.pdf\n\n原题与参考 · 已存本地\n\nTXT\nlistening-115005.txt\n\n音频文字与答案 · 已存本地\n\nTXT\nlistening-115005.txt\n\n音频文字与答案 · 已存本地\n\nMP3\nrecording-1.mp3\n\n原题与参考 · 已存本地\n\nPNG\nlistening-115010.png\n\n原题与参考 · 已存本地\n\nMP3\nrecording-4.mp3\n\n原题与参考 · 已存本地\n\nTXT\nlistening-115010.txt\n\n音频文字与答案 · 已存本地\n\nTXT\nlistening-115010.txt\n\n音频文字与答案 · 已存本地\n\nMP3\ncambridge-zip-115049_IELTS_Speaking_Sample_Part_2_Recording.mp3\n\n原题与参考 · 已存本地\n\nPDF\ncambridge-zip-115051_Speaking_sample_task_-_Part_2_transcript.pdf\n\n原题与参考 · 已存本地\n\nPDF\nielts-speaking-key-assessment-criteria.pdf\n\n评分与规则 · 已存本地\n\nPDF\nielts-writing-band-descriptors.pdf\n\n评分与规则 · 已存本地\n\nPDF\nielts-writing-key-assessment-criteria.pdf\n\n评分与规则 · 已存本地\n\nPDF\nielts-speaking-band-descriptors.pdf\n\n评分与规则 · 已存本地\n\nTXT\ninspera-response-3.txt\n\n音频文字与答案 · 已存本地\n\nPDF\nhwatai-cambridge7-sample-source-pages.pdf\n\n原题与参考 · 已存本地\n\nPDF\nofficial-sample-idp-29-source-pages.pdf\n\n原题与参考 · 已存本地\n\nPDF\ncambridge-classroom-reading-3.pdf\n\n原题与参考 · 已存本地\n\nPDF\ncambridge-research-notes68.pdf\n\n原题与参考 · 已存本地\n\nPDF\nhwatai-cambridge7-sample.pdf\n\n原题与参考 · 已存本地\n\nPDF\nhwatai-cambridge8-sample.pdf\n\n原题与参考 · 已存本地\n\nPDF\nidp-29.pdf\n\n原题与参考 · 已存本地\n\nPDF\nidp-31.pdf\n\n原题与参考 · 已存本地\n\nPDF\nhwatai-cambridge5-sample.pdf\n\n原题与参考 · 已存本地\n\nPDF\nhwatai-cambridge10-sample.pdf\n\n原题与参考 · 已存本地\n\nPDF\nhwatai-cambridge6-sample.pdf\n\n原题与参考 · 已存本地\n\nPDF\n91349570-speaking_part_1_developing_fluency_and_coherence_.pdf\n\n原题与参考 · 已存本地\n\nPDF\n52ed5765-LearnEnglish-Listening-B1-Meeting-an-old-friend.pdf\n\n原题与参考 · 已存本地\n\nPDF\n99acb260-LearnEnglish-Listening-B2-Office-party-planning.pdf\n\n原题与参考 · 已存本地\n\nPDF\n17836703-speaking_part_3_overview_and_practice_.pdf\n\n原题与参考 · 已存本地\n\nPDF\n2b576094-LearnEnglish-Speaking-B2-Discussing-advantages-and-disadvantages.pdf\n\n原题与参考 · 已存本地\n\nPDF\nmiles-student.pdf\n\n原题与参考 · 已存本地\n\nPDF\nmiles-teacher-feedback.pdf\n\n原题与参考 · 已存本地\n\nPDF\nolder-workers-student.pdf\n\n原题与参考 · 已存本地\n\nPDF\nolder-workers-answer-key.pdf\n\n原题与参考 · 已存本地\n\nPDF\ncambridge-zip-115008_Listening_sample_task_-_Multiple_choice.pdf\n\n原题与参考 · 已存本地\n\nTXT\nlistening-115008.txt\n\n音频文字与答案 · 已存本地\n\nTXT\nlistening-115008.txt\n\n音频文字与答案 · 已存本地\n\nMP3\nrecording-2.mp3\n\n原题与参考 · 已存本地\n\nPDF\nbec3ddb1-LearnEnglish-Listening-B1-A-phone-call-from-a-customer.pdf\n\n原题与参考 · 已存本地\n\nMP3\n416268a0-LE_listening_B1_A_phone_call_from_a_customer.mp3\n\n原题与参考 · 已存本地\n\nPDF\nofficial-task1a-comparison.pdf\n\n原题与参考 · 已存本地\n\nPDF\n0bf3495a-academic_writing_task_1_writing_the_overview.pdf\n\n原题与参考 · 已存本地\n\nPDF\nofficial-task1c-bricks.pdf\n\n原题与参考 · 已存本地\n\nPDF\nbf171ce7-academic_writing_task_1_grammatical_structures_for_describing_diagrams.pdf\n\n原题与参考 · 已存本地\n\nPDF\nofficial-task2a-opinion.pdf\n\n原题与参考 · 已存本地\n\nPDF\n5bfdf909-writing_task_2_developing_paragraphs.pdf\n\n原题与参考 · 已存本地\n\nPDF\nofficial-task2b-outweigh.pdf\n\n原题与参考 · 已存本地\n\nPDF\nCambridge IELTS 21 - Academic.pdf\n\n原题与参考 · 已存本地\n\nPDF\nielts-academic-reading-access-arrangement-modified-large-print-text-booklet.pdf\n\n原题与参考 · 已存本地",
+  "allContent": "← 返回学习工作台阅读练习听力练习Task 1 练习Task 2 练习口语练习词汇练习话题练习LEARNING RESOURCES资源目录文字题目原文、题干和选项可以选词查义。搜索题名或英文原句，直接进入练习。搜索全部文字题目14 组题目Miles Davis · 标题匹配Older workers · 单项选择The Davies Sisters · 原文与 1–13 题英国继续教育 · Task 1制砖流程 · Task 1美国四行业就业 · Task 1家庭经济与成年生活 · Task 2国际旅游利弊 · Task 2数字时代的剧院与影院 · Task 2运输保险 · 听力 9–10 题客户来电 · 词汇与判断题货运报价单 · 听力 1–8 题开放大学 · 听力 27–30 题重要物品 · 口语 Part 2没有找到匹配题目，请换一个关键词。按话题和技能选学；题目、音频、学习册和考试要求也在这里。原题片段练习阅读 · 38 组Task 1 · 8 组Task 2 · 12 组话题与学习技巧学习材料考试要求原始文件话题与学习技巧44 个教学单元 · 136 组用法，包含语境、示范、练习与解析。查话题或技能全部口语话题补齐背景阅读听力Task 1Task 2显示 44 / 44 个教学单元新增技巧 · Task 1读图起手：用真实就业图核对对象、单位与时间12 分钟 · 步骤 / 例子 / 练习与解释新增技巧 · Task 1Overview：用真实原图找全局关系，再选择证据15 分钟 · 步骤 / 例子 / 练习与解释新增技巧 · Task 1数据精确表达：真实表格里的百分点、比例和近似值12 分钟 · 步骤 / 例子 / 练习与解释新增技巧 · Task 1流程图：真实制砖分支与雨影形成机制15 分钟 · 步骤 / 例子 / 练习与解释新增技巧 · Task 1地图题：咖啡厅改造的定位、替换与保留15 分钟 · 步骤 / 例子 / 练习与解释新增技巧 · 阅读阅读起手：用真实噪声文章建立段落地图12 分钟 · 步骤 / 例子 / 练习与解释新增技巧 · 阅读判断题：用真题区分反证、未知与观点归属15 分钟 · 步骤 / 例子 / 练习与解释新增技巧 · 阅读标题匹配：Miles Davis原题中的主旨与干扰项12 分钟 · 步骤 / 例子 / 练习与解释新增技巧 · 阅读信息与人物匹配：证据功能和说话人同时核对15 分钟 · 步骤 / 例子 / 练习与解释新增技巧 · 阅读填空：真实表格、摘要中的字数和同义转换12 分钟 · 步骤 / 例子 / 练习与解释新增技巧 · 阅读图示标注：官方蜣螂隧道原图中的深度与形状15 分钟 · 步骤 / 例子 / 练习与解释新增技巧 · 阅读选择题与复盘：用原段功能排除“只说对一半”15 分钟 · 步骤 / 例子 / 练习与解释口语话题旅游信息：一次具体使用经历真实考试题与原始样题 · 示范与逐项解释口语话题园艺的未来：有条件地预测真实考试题与原始样题 · 示范与逐项解释口语话题住宅与花园：解释实际好处真实考试题与原始样题 · 示范与逐项解释口语话题购物方式与不必要消费真实考试题与原始样题 · 示范与逐项解释口语话题诚实与儿童：比较观点真实考试题与原始样题 · 示范与逐项解释口语话题公寓里种植：给可行方案真实考试题与原始样题 · 示范与逐项解释口语话题广告的准确性与购买决定真实考试题与原始样题 · 示范与逐项解释口语话题面包与日常饮食真实考试题与原始样题 · 示范与逐项解释口语话题理发：习惯与最近变化真实考试题与原始样题 · 示范与逐项解释口语话题有竞争心的人：具体事件支撑性格真实考试题与原始样题 · 示范与逐项解释口语话题花钱与储蓄：程度和原因真实考试题与原始样题 · 示范与逐项解释口语话题不真实的信息：发现问题与核对真实考试题与原始样题 · 示范与逐项解释口语话题城市生活：吸引力与不便真实考试题与原始样题 · 示范与逐项解释口语话题公园：从空间细节讲清兴趣真实考试题与原始样题 · 示范与逐项解释口语话题景点：免费开放与失望原因真实考试题与原始样题 · 示范与逐项解释口语话题竞争与参与：比较体育观点真实考试题与原始样题 · 示范与逐项解释新增 · 话题背景司法与技术：算法风险的真实阅读语境6 组表达 · 语境 / 示范 / 解析新增 · 话题背景公共治理：公交方案怎样落地6 组表达 · 语境 / 示范 / 解析新增 · 话题背景社会责任：财富如何用于公共文化6 组表达 · 语境 / 示范 / 解析新增 · 话题背景太空与生命：样本怎样成为证据6 组表达 · 语境 / 示范 / 解析新增 · 听力课堂通知：日期、数字与澄清请求4 组表达 · 语境 / 示范 / 解析新增 · 听力会议分工：谁提出顾虑，谁负责执行4 组表达 · 语境 / 示范 / 解析新增 · 听力天气播报：地区、时间与例外条件4 组表达 · 语境 / 示范 / 解析新增 · 听力讲座导入：定义、例子与后文路线4 组表达 · 语境 / 示范 / 解析新增 · 阅读收藏与公共展览：真题中的反证和信息缺口4 组表达 · 语境 / 示范 / 解析新增 · 阅读考古器物与糖业：真实摘要的并列顺序和概括4 组表达 · 语境 / 示范 / 解析新增 · 阅读城市噪声与考古：原题中的措施、数据和限定4 组表达 · 语境 / 示范 / 解析新增 · 阅读人工智能：用真实作者观点题辨别宣传和判断4 组表达 · 语境 / 示范 / 解析新增 · 写作 Task 1咖啡厅改造：在真实两张平面图间建立对应4 组表达 · 语境 / 示范 / 解析新增 · 写作 Task 1真实折线图：就业结构变化与受众时段差异4 组表达 · 语境 / 示范 / 解析新增 · 写作 Task 2国际旅游：基于官方原题比较环境代价和社区收益4 组表达 · 语境 / 示范 / 解析新增 · 写作 Task 2过度捕捞：真实题干中的原因与措施对应4 组表达 · 语境 / 示范 / 解析没有匹配项，试试其他关键词或分类。扩展资料已到库四科教案与 B1/B2 语境，按用途选读。查看全部资料 →01 / READ背景读本话题、常见词与用法02 / PRACTISE打印学习册原题、作答页与练习03 / REVIEW参考与反馈完成首次作答后再看考试要求与反馈标准只保留有用的记录听读原始正确题数、未答、实际条件。短题组不换 band。写作完整初稿、具体反馈、修订稿。Task 1 与 Task 2 分开。口语真实声音、一处时间点、实际影响。文字不能代替发音证据。用法K 已会用／R 认识少用／N 新学；另记无提示、提示后或合法替代。考试要求与反馈标准\n\n\n\n科目\n完整任务要求\n怎么评价\n\n\n\n\nAcademic 阅读\n3 部分、40 题、60 分钟；填写字数按每道原题\n每题 1 分；单篇不转换整科 band。\n\n\n听力\n40 题；播放与检查时间按考试形式和指令\n每题 1 分；回放后改对和首听正确分开。\n\n\n写作\n共 60 分钟；Task 1 至少 150 词，Task 2 至少 250 词；建议约 20／40 分钟\n每题看任务完成／回应、连贯衔接、词汇、语法四项，等权；整科 Task 2 权重为 Task 1 的两倍。\n\n\n口语\nPart 1–3，整体 11–14 分钟；Part 2 有 1 分钟准备，长回答 1–2 分钟\n流利连贯、词汇、语法、发音四项等权；声音和互动证据不能用文字补造。\n\n\n\n评分标准：写作评分描述、写作四项标准、口语评分描述、口语四项标准。配套文件58 份文件新增9月21日新内容 · 九分机经语言起源阅读14题＋3道Task 2 · 每项标注难度机经近期机经 · 已清洗内容听力Part 1与独立阅读题组 · 含参考答案和材料精读PDFanswer-key-01.pdf原题与参考 · 已存本地PDFielts-modified-academic-1-source-pages.pdf原题与参考 · 已存本地PDFielts-modified-academic-1.pdf原题与参考 · 已存本地PDFC21-T1-Task1-question.pdf原题与参考 · 已存本地PDFC21-T1-Task1-response-and-comment.pdf原题与参考 · 已存本地PDFC21-T2-Task1-question.pdf原题与参考 · 已存本地PDFC21-T2-Task1-response-and-comment.pdf原题与参考 · 已存本地PDFC21-T2-Task2-question.pdf原题与参考 · 已存本地PDFC21-T2-Task2-response-and-comment.pdf原题与参考 · 已存本地TXTlistening-115005.txt音频文字与答案 · 已存本地TXTlistening-115005.txt音频文字与答案 · 已存本地MP3recording-1.mp3原题与参考 · 已存本地PNGlistening-115010.png原题与参考 · 已存本地MP3recording-4.mp3原题与参考 · 已存本地TXTlistening-115010.txt音频文字与答案 · 已存本地TXTlistening-115010.txt音频文字与答案 · 已存本地MP3cambridge-zip-115049_IELTS_Speaking_Sample_Part_2_Recording.mp3原题与参考 · 已存本地PDFcambridge-zip-115051_Speaking_sample_task_-_Part_2_transcript.pdf原题与参考 · 已存本地PDFielts-speaking-key-assessment-criteria.pdf评分与规则 · 已存本地PDFielts-writing-band-descriptors.pdf评分与规则 · 已存本地PDFielts-writing-key-assessment-criteria.pdf评分与规则 · 已存本地PDFielts-speaking-band-descriptors.pdf评分与规则 · 已存本地TXTinspera-response-3.txt音频文字与答案 · 已存本地PDFhwatai-cambridge7-sample-source-pages.pdf原题与参考 · 已存本地PDFofficial-sample-idp-29-source-pages.pdf原题与参考 · 已存本地PDFcambridge-classroom-reading-3.pdf原题与参考 · 已存本地PDFcambridge-research-notes68.pdf原题与参考 · 已存本地PDFhwatai-cambridge7-sample.pdf原题与参考 · 已存本地PDFhwatai-cambridge8-sample.pdf原题与参考 · 已存本地PDFidp-29.pdf原题与参考 · 已存本地PDFidp-31.pdf原题与参考 · 已存本地PDFhwatai-cambridge5-sample.pdf原题与参考 · 已存本地PDFhwatai-cambridge10-sample.pdf原题与参考 · 已存本地PDFhwatai-cambridge6-sample.pdf原题与参考 · 已存本地PDF91349570-speaking_part_1_developing_fluency_and_coherence_.pdf原题与参考 · 已存本地PDF52ed5765-LearnEnglish-Listening-B1-Meeting-an-old-friend.pdf原题与参考 · 已存本地PDF99acb260-LearnEnglish-Listening-B2-Office-party-planning.pdf原题与参考 · 已存本地PDF17836703-speaking_part_3_overview_and_practice_.pdf原题与参考 · 已存本地PDF2b576094-LearnEnglish-Speaking-B2-Discussing-advantages-and-disadvantages.pdf原题与参考 · 已存本地PDFmiles-student.pdf原题与参考 · 已存本地PDFmiles-teacher-feedback.pdf原题与参考 · 已存本地PDFolder-workers-student.pdf原题与参考 · 已存本地PDFolder-workers-answer-key.pdf原题与参考 · 已存本地PDFcambridge-zip-115008_Listening_sample_task_-_Multiple_choice.pdf原题与参考 · 已存本地TXTlistening-115008.txt音频文字与答案 · 已存本地TXTlistening-115008.txt音频文字与答案 · 已存本地MP3recording-2.mp3原题与参考 · 已存本地PDFbec3ddb1-LearnEnglish-Listening-B1-A-phone-call-from-a-customer.pdf原题与参考 · 已存本地MP3416268a0-LE_listening_B1_A_phone_call_from_a_customer.mp3原题与参考 · 已存本地PDFofficial-task1a-comparison.pdf原题与参考 · 已存本地PDF0bf3495a-academic_writing_task_1_writing_the_overview.pdf原题与参考 · 已存本地PDFofficial-task1c-bricks.pdf原题与参考 · 已存本地PDFbf171ce7-academic_writing_task_1_grammatical_structures_for_describing_diagrams.pdf原题与参考 · 已存本地PDFofficial-task2a-opinion.pdf原题与参考 · 已存本地PDF5bfdf909-writing_task_2_developing_paragraphs.pdf原题与参考 · 已存本地PDFofficial-task2b-outweigh.pdf原题与参考 · 已存本地PDFCambridge IELTS 21 - Academic.pdf原题与参考 · 已存本地PDFielts-academic-reading-access-arrangement-modified-large-print-text-booklet.pdf原题与参考 · 已存本地没有匹配的文件，换一个关键词试试。",
+  "links": [
+    {
+      "text": "← 返回学习工作台",
+      "href": "#workspace"
+    },
+    {
+      "text": "阅读练习",
+      "href": "#pp-reading"
+    },
+    {
+      "text": "听力练习",
+      "href": "#pp-listening"
+    },
+    {
+      "text": "Task 1 练习",
+      "href": "#pp-writing1"
+    },
+    {
+      "text": "Task 2 练习",
+      "href": "#pp-writing2"
+    },
+    {
+      "text": "口语练习",
+      "href": "#pp-speaking"
+    },
+    {
+      "text": "词汇练习",
+      "href": "#pp-vocabulary"
+    },
+    {
+      "text": "话题练习",
+      "href": "#pp-background"
+    },
+    {
+      "text": "Miles Davis · 标题匹配",
+      "href": "#reading-text-miles"
+    },
+    {
+      "text": "Older workers · 单项选择",
+      "href": "#reading-text-older-workers"
+    },
+    {
+      "text": "The Davies Sisters · 原文与 1–13 题",
+      "href": "#reading-text-davies"
+    },
+    {
+      "text": "英国继续教育 · Task 1",
+      "href": "#writing1-text-further-education"
+    },
+    {
+      "text": "制砖流程 · Task 1",
+      "href": "#writing1-text-bricks"
+    },
+    {
+      "text": "美国四行业就业 · Task 1",
+      "href": "#writing1-text-us-jobs"
+    },
+    {
+      "text": "家庭经济与成年生活 · Task 2",
+      "href": "#writing2-text-family-wealth"
+    },
+    {
+      "text": "国际旅游利弊 · Task 2",
+      "href": "#writing2-text-tourism"
+    },
+    {
+      "text": "数字时代的剧院与影院 · Task 2",
+      "href": "#writing2-text-theatres"
+    },
+    {
+      "text": "运输保险 · 听力 9–10 题",
+      "href": "#listening-text-insurance"
+    },
+    {
+      "text": "客户来电 · 词汇与判断题",
+      "href": "#listening-text-customer-call"
+    },
+    {
+      "text": "货运报价单 · 听力 1–8 题",
+      "href": "#listening-text-shipping"
+    },
+    {
+      "text": "开放大学 · 听力 27–30 题",
+      "href": "#listening-text-open-university"
+    },
+    {
+      "text": "重要物品 · 口语 Part 2",
+      "href": "#speaking-text-important-object"
+    },
+    {
+      "text": "阅读 · 38 组",
+      "href": "#reading-case-bank"
+    },
+    {
+      "text": "Task 1 · 8 组",
+      "href": "#writing1-case-bank"
+    },
+    {
+      "text": "Task 2 · 12 组",
+      "href": "#writing2-case-bank"
+    },
+    {
+      "text": "话题与学习技巧",
+      "href": "#resource-update"
+    },
+    {
+      "text": "学习材料",
+      "href": "#library-materials"
+    },
+    {
+      "text": "考试要求",
+      "href": "#library-rules"
+    },
+    {
+      "text": "原始文件",
+      "href": "#library-files"
+    },
+    {
+      "text": "新增技巧 · Task 1读图起手：用真实就业图核对对象、单位与时间12 分钟 · 步骤 / 例子 / 练习与解释",
+      "href": "#writing1-tech-read-chart"
+    },
+    {
+      "text": "新增技巧 · Task 1Overview：用真实原图找全局关系，再选择证据15 分钟 · 步骤 / 例子 / 练习与解释",
+      "href": "#writing1-tech-overview"
+    },
+    {
+      "text": "新增技巧 · Task 1数据精确表达：真实表格里的百分点、比例和近似值12 分钟 · 步骤 / 例子 / 练习与解释",
+      "href": "#writing1-tech-precision"
+    },
+    {
+      "text": "新增技巧 · Task 1流程图：真实制砖分支与雨影形成机制15 分钟 · 步骤 / 例子 / 练习与解释",
+      "href": "#writing1-tech-process"
+    },
+    {
+      "text": "新增技巧 · Task 1地图题：咖啡厅改造的定位、替换与保留15 分钟 · 步骤 / 例子 / 练习与解释",
+      "href": "#writing1-tech-maps"
+    },
+    {
+      "text": "新增技巧 · 阅读阅读起手：用真实噪声文章建立段落地图12 分钟 · 步骤 / 例子 / 练习与解释",
+      "href": "#reading-tech-locate"
+    },
+    {
+      "text": "新增技巧 · 阅读判断题：用真题区分反证、未知与观点归属15 分钟 · 步骤 / 例子 / 练习与解释",
+      "href": "#reading-tech-judgement"
+    },
+    {
+      "text": "新增技巧 · 阅读标题匹配：Miles Davis原题中的主旨与干扰项12 分钟 · 步骤 / 例子 / 练习与解释",
+      "href": "#reading-tech-headings"
+    },
+    {
+      "text": "新增技巧 · 阅读信息与人物匹配：证据功能和说话人同时核对15 分钟 · 步骤 / 例子 / 练习与解释",
+      "href": "#reading-tech-matching"
+    },
+    {
+      "text": "新增技巧 · 阅读填空：真实表格、摘要中的字数和同义转换12 分钟 · 步骤 / 例子 / 练习与解释",
+      "href": "#reading-tech-completion"
+    },
+    {
+      "text": "新增技巧 · 阅读图示标注：官方蜣螂隧道原图中的深度与形状15 分钟 · 步骤 / 例子 / 练习与解释",
+      "href": "#reading-tech-diagram"
+    },
+    {
+      "text": "新增技巧 · 阅读选择题与复盘：用原段功能排除“只说对一半”15 分钟 · 步骤 / 例子 / 练习与解释",
+      "href": "#reading-tech-choices-review"
+    },
+    {
+      "text": "口语话题旅游信息：一次具体使用经历真实考试题与原始样题 · 示范与逐项解释",
+      "href": "#speaking-new-sep26-journeys"
+    },
+    {
+      "text": "口语话题园艺的未来：有条件地预测真实考试题与原始样题 · 示范与逐项解释",
+      "href": "#speaking-new-sep26-recycling"
+    },
+    {
+      "text": "口语话题住宅与花园：解释实际好处真实考试题与原始样题 · 示范与逐项解释",
+      "href": "#speaking-new-sep26-energy"
+    },
+    {
+      "text": "口语话题购物方式与不必要消费真实考试题与原始样题 · 示范与逐项解释",
+      "href": "#speaking-new-sep26-shoes-shopping"
+    },
+    {
+      "text": "口语话题诚实与儿童：比较观点真实考试题与原始样题 · 示范与逐项解释",
+      "href": "#speaking-new-sep26-politeness"
+    },
+    {
+      "text": "口语话题公寓里种植：给可行方案真实考试题与原始样题 · 示范与逐项解释",
+      "href": "#speaking-new-sep26-fruit-vegetables"
+    },
+    {
+      "text": "口语话题广告的准确性与购买决定真实考试题与原始样题 · 示范与逐项解释",
+      "href": "#speaking-new-sep26-advertising"
+    },
+    {
+      "text": "口语话题面包与日常饮食真实考试题与原始样题 · 示范与逐项解释",
+      "href": "#speaking-new-sep26-paper"
+    },
+    {
+      "text": "口语话题理发：习惯与最近变化真实考试题与原始样题 · 示范与逐项解释",
+      "href": "#speaking-new-sep26-school-skills"
+    },
+    {
+      "text": "口语话题有竞争心的人：具体事件支撑性格真实考试题与原始样题 · 示范与逐项解释",
+      "href": "#speaking-new-sep26-names-people"
+    },
+    {
+      "text": "口语话题花钱与储蓄：程度和原因真实考试题与原始样题 · 示范与逐项解释",
+      "href": "#speaking-new-sep26-decisions-success"
+    },
+    {
+      "text": "口语话题不真实的信息：发现问题与核对真实考试题与原始样题 · 示范与逐项解释",
+      "href": "#speaking-new-sep26-organisation"
+    },
+    {
+      "text": "口语话题城市生活：吸引力与不便真实考试题与原始样题 · 示范与逐项解释",
+      "href": "#speaking-new-sep26-city-spaces"
+    },
+    {
+      "text": "口语话题公园：从空间细节讲清兴趣真实考试题与原始样题 · 示范与逐项解释",
+      "href": "#speaking-new-sep26-creative-history"
+    },
+    {
+      "text": "口语话题景点：免费开放与失望原因真实考试题与原始样题 · 示范与逐项解释",
+      "href": "#speaking-new-sep26-media"
+    },
+    {
+      "text": "口语话题竞争与参与：比较体育观点真实考试题与原始样题 · 示范与逐项解释",
+      "href": "#speaking-new-sep26-friends-happiness"
+    },
+    {
+      "text": "新增 · 话题背景司法与技术：算法风险的真实阅读语境6 组表达 · 语境 / 示范 / 解析",
+      "href": "#topic-crime"
+    },
+    {
+      "text": "新增 · 话题背景公共治理：公交方案怎样落地6 组表达 · 语境 / 示范 / 解析",
+      "href": "#topic-government"
+    },
+    {
+      "text": "新增 · 话题背景社会责任：财富如何用于公共文化6 组表达 · 语境 / 示范 / 解析",
+      "href": "#topic-society"
+    },
+    {
+      "text": "新增 · 话题背景太空与生命：样本怎样成为证据6 组表达 · 语境 / 示范 / 解析",
+      "href": "#topic-space"
+    },
+    {
+      "text": "新增 · 听力课堂通知：日期、数字与澄清请求4 组表达 · 语境 / 示范 / 解析",
+      "href": "#listening-new-new-listening-campus-notes"
+    },
+    {
+      "text": "新增 · 听力会议分工：谁提出顾虑，谁负责执行4 组表达 · 语境 / 示范 / 解析",
+      "href": "#listening-new-new-listening-team-roles"
+    },
+    {
+      "text": "新增 · 听力天气播报：地区、时间与例外条件4 组表达 · 语境 / 示范 / 解析",
+      "href": "#listening-new-new-listening-weather-table"
+    },
+    {
+      "text": "新增 · 听力讲座导入：定义、例子与后文路线4 组表达 · 语境 / 示范 / 解析",
+      "href": "#listening-new-new-listening-lecture-outline"
+    },
+    {
+      "text": "新增 · 阅读收藏与公共展览：真题中的反证和信息缺口4 组表达 · 语境 / 示范 / 解析",
+      "href": "#reading-new-new-reading-urban-tfng"
+    },
+    {
+      "text": "新增 · 阅读考古器物与糖业：真实摘要的并列顺序和概括4 组表达 · 语境 / 示范 / 解析",
+      "href": "#reading-new-new-reading-refill-summary"
+    },
+    {
+      "text": "新增 · 阅读城市噪声与考古：原题中的措施、数据和限定4 组表达 · 语境 / 示范 / 解析",
+      "href": "#reading-new-new-reading-transport-information"
+    },
+    {
+      "text": "新增 · 阅读人工智能：用真实作者观点题辨别宣传和判断4 组表达 · 语境 / 示范 / 解析",
+      "href": "#reading-new-new-reading-ai-views"
+    },
+    {
+      "text": "新增 · 写作 Task 1咖啡厅改造：在真实两张平面图间建立对应4 组表达 · 语境 / 示范 / 解析",
+      "href": "#writing1-new-new-writing1-library-map"
+    },
+    {
+      "text": "新增 · 写作 Task 1真实折线图：就业结构变化与受众时段差异4 组表达 · 语境 / 示范 / 解析",
+      "href": "#writing1-new-new-writing1-transport-trends"
+    },
+    {
+      "text": "新增 · 写作 Task 2国际旅游：基于官方原题比较环境代价和社区收益4 组表达 · 语境 / 示范 / 解析",
+      "href": "#writing2-new-new-writing2-environment-discussion"
+    },
+    {
+      "text": "新增 · 写作 Task 2过度捕捞：真实题干中的原因与措施对应4 组表达 · 语境 / 示范 / 解析",
+      "href": "#writing2-new-new-writing2-community-causes"
+    },
+    {
+      "text": "查看全部资料 →",
+      "href": "扩展资料目录.html?skill=all"
+    },
+    {
+      "text": "01 / READ背景读本话题、常见词与用法",
+      "href": "背景读本-话题与常用表达.pdf"
+    },
+    {
+      "text": "02 / PRACTISE打印学习册原题、作答页与练习",
+      "href": "学习册-打印版.pdf"
+    },
+    {
+      "text": "03 / REVIEW参考与反馈完成首次作答后再看",
+      "href": "参考册-完成后再看.pdf"
+    },
+    {
+      "text": "写作评分描述",
+      "href": "原始参考/d8a488dc-ielts-writing-band-descriptors.pdf"
+    },
+    {
+      "text": "写作四项标准",
+      "href": "原始参考/32f690b4-ielts-writing-key-assessment-criteria.pdf"
+    },
+    {
+      "text": "口语评分描述",
+      "href": "原始参考/914c8d84-ielts-speaking-band-descriptors.pdf"
+    },
+    {
+      "text": "口语四项标准",
+      "href": "原始参考/d2810144-ielts-speaking-key-assessment-criteria.pdf"
+    },
+    {
+      "text": "新增9月21日新内容 · 九分机经语言起源阅读14题＋3道Task 2 · 每项标注难度",
+      "href": "机经资料/jiufen-reviewed-20260921/index.html"
+    },
+    {
+      "text": "机经近期机经 · 已清洗内容听力Part 1与独立阅读题组 · 含参考答案和材料精读",
+      "href": "机经资料/jijing-20260920/index.html"
+    },
+    {
+      "text": "PDFanswer-key-01.pdf原题与参考 · 已存本地",
+      "href": "原始参考/7aa23867-answer-key-01.pdf"
+    },
+    {
+      "text": "PDFielts-modified-academic-1-source-pages.pdf原题与参考 · 已存本地",
+      "href": "原始参考/b929185f-ielts-modified-academic-1-source-pages.pdf"
+    },
+    {
+      "text": "PDFielts-modified-academic-1.pdf原题与参考 · 已存本地",
+      "href": "原始参考/77d2edb5-ielts-modified-academic-1.pdf"
+    },
+    {
+      "text": "PDFC21-T1-Task1-question.pdf原题与参考 · 已存本地",
+      "href": "原始参考/a4eb2b3b-C21-T1-Task1-question.pdf"
+    },
+    {
+      "text": "PDFC21-T1-Task1-response-and-comment.pdf原题与参考 · 已存本地",
+      "href": "原始参考/3cd100d3-C21-T1-Task1-response-and-comment.pdf"
+    },
+    {
+      "text": "PDFC21-T2-Task1-question.pdf原题与参考 · 已存本地",
+      "href": "原始参考/8860177f-C21-T2-Task1-question.pdf"
+    },
+    {
+      "text": "PDFC21-T2-Task1-response-and-comment.pdf原题与参考 · 已存本地",
+      "href": "原始参考/45fe3e97-C21-T2-Task1-response-and-comment.pdf"
+    },
+    {
+      "text": "PDFC21-T2-Task2-question.pdf原题与参考 · 已存本地",
+      "href": "原始参考/c91877df-C21-T2-Task2-question.pdf"
+    },
+    {
+      "text": "PDFC21-T2-Task2-response-and-comment.pdf原题与参考 · 已存本地",
+      "href": "原始参考/93022ace-C21-T2-Task2-response-and-comment.pdf"
+    },
+    {
+      "text": "TXTlistening-115005.txt音频文字与答案 · 已存本地",
+      "href": "原始参考/86b51fb5-listening-115005.txt"
+    },
+    {
+      "text": "TXTlistening-115005.txt音频文字与答案 · 已存本地",
+      "href": "原始参考/3d19fa7a-listening-115005.txt"
+    },
+    {
+      "text": "MP3recording-1.mp3原题与参考 · 已存本地",
+      "href": "原始参考/d88d54dd-recording-1.mp3"
+    },
+    {
+      "text": "PNGlistening-115010.png原题与参考 · 已存本地",
+      "href": "原始参考/608874aa-listening-115010.png"
+    },
+    {
+      "text": "MP3recording-4.mp3原题与参考 · 已存本地",
+      "href": "原始参考/bb61bf2b-recording-4.mp3"
+    },
+    {
+      "text": "TXTlistening-115010.txt音频文字与答案 · 已存本地",
+      "href": "原始参考/a30888bb-listening-115010.txt"
+    },
+    {
+      "text": "TXTlistening-115010.txt音频文字与答案 · 已存本地",
+      "href": "原始参考/5a330b83-listening-115010.txt"
+    },
+    {
+      "text": "MP3cambridge-zip-115049_IELTS_Speaking_Sample_Part_2_Recording.mp3原题与参考 · 已存本地",
+      "href": "原始参考/7b07467c-cambridge-zip-115049_IELTS_Speaking_Sample_Part_2_Recording.mp3"
+    },
+    {
+      "text": "PDFcambridge-zip-115051_Speaking_sample_task_-_Part_2_transcript.pdf原题与参考 · 已存本地",
+      "href": "原始参考/6c68dcc0-cambridge-zip-115051_Speaking_sample_task_-_Part_2_transcript.pdf"
+    },
+    {
+      "text": "PDFielts-speaking-key-assessment-criteria.pdf评分与规则 · 已存本地",
+      "href": "原始参考/d2810144-ielts-speaking-key-assessment-criteria.pdf"
+    },
+    {
+      "text": "PDFielts-writing-band-descriptors.pdf评分与规则 · 已存本地",
+      "href": "原始参考/d8a488dc-ielts-writing-band-descriptors.pdf"
+    },
+    {
+      "text": "PDFielts-writing-key-assessment-criteria.pdf评分与规则 · 已存本地",
+      "href": "原始参考/32f690b4-ielts-writing-key-assessment-criteria.pdf"
+    },
+    {
+      "text": "PDFielts-speaking-band-descriptors.pdf评分与规则 · 已存本地",
+      "href": "原始参考/914c8d84-ielts-speaking-band-descriptors.pdf"
+    },
+    {
+      "text": "TXTinspera-response-3.txt音频文字与答案 · 已存本地",
+      "href": "原始参考/ec598fcf-inspera-response-3.txt"
+    },
+    {
+      "text": "PDFhwatai-cambridge7-sample-source-pages.pdf原题与参考 · 已存本地",
+      "href": "原始参考/f8184cf8-hwatai-cambridge7-sample-source-pages.pdf"
+    },
+    {
+      "text": "PDFofficial-sample-idp-29-source-pages.pdf原题与参考 · 已存本地",
+      "href": "原始参考/7a2e8056-official-sample-idp-29-source-pages.pdf"
+    },
+    {
+      "text": "PDFcambridge-classroom-reading-3.pdf原题与参考 · 已存本地",
+      "href": "原始参考/dfacdd41-cambridge-classroom-reading-3.pdf"
+    },
+    {
+      "text": "PDFcambridge-research-notes68.pdf原题与参考 · 已存本地",
+      "href": "原始参考/04f17772-cambridge-research-notes68.pdf"
+    },
+    {
+      "text": "PDFhwatai-cambridge7-sample.pdf原题与参考 · 已存本地",
+      "href": "原始参考/237b7194-hwatai-cambridge7-sample.pdf"
+    },
+    {
+      "text": "PDFhwatai-cambridge8-sample.pdf原题与参考 · 已存本地",
+      "href": "原始参考/d04994b0-hwatai-cambridge8-sample.pdf"
+    },
+    {
+      "text": "PDFidp-29.pdf原题与参考 · 已存本地",
+      "href": "原始参考/5856a161-idp-29.pdf"
+    },
+    {
+      "text": "PDFidp-31.pdf原题与参考 · 已存本地",
+      "href": "原始参考/326008c2-idp-31.pdf"
+    },
+    {
+      "text": "PDFhwatai-cambridge5-sample.pdf原题与参考 · 已存本地",
+      "href": "原始参考/e0428977-hwatai-cambridge5-sample.pdf"
+    },
+    {
+      "text": "PDFhwatai-cambridge10-sample.pdf原题与参考 · 已存本地",
+      "href": "原始参考/99437c83-hwatai-cambridge10-sample.pdf"
+    },
+    {
+      "text": "PDFhwatai-cambridge6-sample.pdf原题与参考 · 已存本地",
+      "href": "原始参考/ad0a33c0-hwatai-cambridge6-sample.pdf"
+    },
+    {
+      "text": "PDF91349570-speaking_part_1_developing_fluency_and_coherence_.pdf原题与参考 · 已存本地",
+      "href": "原始参考/5441af04-91349570-speaking_part_1_developing_fluency_and_coherence_.pdf"
+    },
+    {
+      "text": "PDF52ed5765-LearnEnglish-Listening-B1-Meeting-an-old-friend.pdf原题与参考 · 已存本地",
+      "href": "原始参考/62ae7f61-52ed5765-LearnEnglish-Listening-B1-Meeting-an-old-friend.pdf"
+    },
+    {
+      "text": "PDF99acb260-LearnEnglish-Listening-B2-Office-party-planning.pdf原题与参考 · 已存本地",
+      "href": "原始参考/ef4571d3-99acb260-LearnEnglish-Listening-B2-Office-party-planning.pdf"
+    },
+    {
+      "text": "PDF17836703-speaking_part_3_overview_and_practice_.pdf原题与参考 · 已存本地",
+      "href": "原始参考/2106ed93-17836703-speaking_part_3_overview_and_practice_.pdf"
+    },
+    {
+      "text": "PDF2b576094-LearnEnglish-Speaking-B2-Discussing-advantages-and-disadvantages.pdf原题与参考 · 已存本地",
+      "href": "原始参考/0112c71b-2b576094-LearnEnglish-Speaking-B2-Discussing-advantages-and-disadvantages.pdf"
+    },
+    {
+      "text": "PDFmiles-student.pdf原题与参考 · 已存本地",
+      "href": "原始参考/b09e5747-miles-student.pdf"
+    },
+    {
+      "text": "PDFmiles-teacher-feedback.pdf原题与参考 · 已存本地",
+      "href": "原始参考/e885c438-miles-teacher-feedback.pdf"
+    },
+    {
+      "text": "PDFolder-workers-student.pdf原题与参考 · 已存本地",
+      "href": "原始参考/2539b427-older-workers-student.pdf"
+    },
+    {
+      "text": "PDFolder-workers-answer-key.pdf原题与参考 · 已存本地",
+      "href": "原始参考/beeea772-older-workers-answer-key.pdf"
+    },
+    {
+      "text": "PDFcambridge-zip-115008_Listening_sample_task_-_Multiple_choice.pdf原题与参考 · 已存本地",
+      "href": "原始参考/7918ea4d-cambridge-zip-115008_Listening_sample_task_-_Multiple_choice.pdf"
+    },
+    {
+      "text": "TXTlistening-115008.txt音频文字与答案 · 已存本地",
+      "href": "原始参考/153e493c-listening-115008.txt"
+    },
+    {
+      "text": "TXTlistening-115008.txt音频文字与答案 · 已存本地",
+      "href": "原始参考/825804b6-listening-115008.txt"
+    },
+    {
+      "text": "MP3recording-2.mp3原题与参考 · 已存本地",
+      "href": "原始参考/c31e6351-recording-2.mp3"
+    },
+    {
+      "text": "PDFbec3ddb1-LearnEnglish-Listening-B1-A-phone-call-from-a-customer.pdf原题与参考 · 已存本地",
+      "href": "原始参考/2c976e31-bec3ddb1-LearnEnglish-Listening-B1-A-phone-call-from-a-customer.pdf"
+    },
+    {
+      "text": "MP3416268a0-LE_listening_B1_A_phone_call_from_a_customer.mp3原题与参考 · 已存本地",
+      "href": "原始参考/7e143401-416268a0-LE_listening_B1_A_phone_call_from_a_customer.mp3"
+    },
+    {
+      "text": "PDFofficial-task1a-comparison.pdf原题与参考 · 已存本地",
+      "href": "原始参考/2d327ea9-official-task1a-comparison.pdf"
+    },
+    {
+      "text": "PDF0bf3495a-academic_writing_task_1_writing_the_overview.pdf原题与参考 · 已存本地",
+      "href": "原始参考/a4540c18-0bf3495a-academic_writing_task_1_writing_the_overview.pdf"
+    },
+    {
+      "text": "PDFofficial-task1c-bricks.pdf原题与参考 · 已存本地",
+      "href": "原始参考/d46f0518-official-task1c-bricks.pdf"
+    },
+    {
+      "text": "PDFbf171ce7-academic_writing_task_1_grammatical_structures_for_describing_diagrams.pdf原题与参考 · 已存本地",
+      "href": "原始参考/967b0405-bf171ce7-academic_writing_task_1_grammatical_structures_for_describing_diagrams.pdf"
+    },
+    {
+      "text": "PDFofficial-task2a-opinion.pdf原题与参考 · 已存本地",
+      "href": "原始参考/bc92ca24-official-task2a-opinion.pdf"
+    },
+    {
+      "text": "PDF5bfdf909-writing_task_2_developing_paragraphs.pdf原题与参考 · 已存本地",
+      "href": "原始参考/9464a2d7-5bfdf909-writing_task_2_developing_paragraphs.pdf"
+    },
+    {
+      "text": "PDFofficial-task2b-outweigh.pdf原题与参考 · 已存本地",
+      "href": "原始参考/82c03e0f-official-task2b-outweigh.pdf"
+    },
+    {
+      "text": "PDFCambridge IELTS 21 - Academic.pdf原题与参考 · 已存本地",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf"
+    },
+    {
+      "text": "PDFielts-academic-reading-access-arrangement-modified-large-print-text-booklet.pdf原题与参考 · 已存本地",
+      "href": "原始参考/188a4619-ielts-academic-reading-access-arrangement-modified-large-print-text-booklet.pdf"
+    }
+  ],
+  "details": [
+    {
+      "id": "library-rules",
+      "title": "考试要求与反馈标准",
+      "open": true,
+      "visible": true
+    }
+  ],
+  "saveFields": [],
+  "images": [],
+  "audio": [],
+  "viewport": 1440,
+  "documentWidth": 1440
+}

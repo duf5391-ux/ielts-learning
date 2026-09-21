@@ -1,0 +1,174 @@
+{
+  "requested": "writing1-case-wc-c21-t3-rainshadow",
+  "from": [
+    "内容单元",
+    "页面链接"
+  ],
+  "actual": "#writing1-case-wc-c21-t3-rainshadow",
+  "checkedAt": "2026-09-21T12:52:41.875Z",
+  "title": "练习 / 写作 · Task 1 / 雨影沙漠：越山前后的水分变化 · IELTS",
+  "label": "练习 / 写作 · Task 1 / 雨影沙漠：越山前后的水分变化",
+  "panel": "practice-writing1",
+  "contentRoot": "writing1-case-wc-c21-t3-rainshadow",
+  "headings": [
+    {
+      "tag": "H4",
+      "text": "本次写作任务",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "对照答案，回到证据",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "参考写法",
+      "visible": false
+    },
+    {
+      "tag": "H3",
+      "text": "答后精读",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "篇章结构",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "词语与搭配",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "句子精读",
+      "visible": false
+    }
+  ],
+  "controls": [
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "雨影沙漠：越山前后的水分变化未作答\n自然流程图 · 原题拆段写作 · 参考段落与逐段讲解",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "Cambridge IELTS 21 Academic",
+      "label": "",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=73",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "",
+      "label": "",
+      "href": "case-assets/writing-c21-73.png",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "case-wc-c21-t3-rainshadow-answer",
+      "type": "textarea",
+      "text": "",
+      "label": "我的段落",
+      "href": null,
+      "save": "case-wc-c21-t3-rainshadow-answer",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "checkbox",
+      "text": "",
+      "label": "",
+      "href": null,
+      "save": "case-wc-c21-t3-rainshadow-done",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "hidden",
+      "text": "",
+      "label": "",
+      "href": null,
+      "save": "case-wc-c21-t3-rainshadow-saved-at",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "保留作答，查看答案",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "case-wc-c21-t3-rainshadow-revision",
+      "type": "textarea",
+      "text": "",
+      "label": "我的修订／证据笔记",
+      "href": null,
+      "save": "case-wc-c21-t3-rainshadow-revision",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    }
+  ],
+  "visibleText": "雨影沙漠：越山前后的水分变化未作答\n自然流程图 · 原题拆段写作 · 参考段落与逐段讲解\n0% · 0 / 1 完成\n\n真题 · Cambridge IELTS 21 Academic · PDF 第 73 页\n\nThe diagram below shows how one type of desert, known as a rain-shadow desert, is formed.\n\n点击图示可查看大图。\n本次写作任务\n\n写Overview与两个主体段（约150–180词），沿原图7个编号描述迎风坡降雨及背风坡干燥；只使用图中可见机制，不添加温度数值或当地名称。\n\n我的段落\n\n0 词\n\n保留作答，查看答案\n\n先作答；不确定的题也可记录判断与疑点。",
+  "allContent": "雨影沙漠：越山前后的水分变化未作答自然流程图 · 原题拆段写作 · 参考段落与逐段讲解0% · 0 / 1 完成真题 · Cambridge IELTS 21 Academic · PDF 第 73 页The diagram below shows how one type of desert, known as a rain-shadow desert, is formed.点击图示可查看大图。本次写作任务写Overview与两个主体段（约150–180词），沿原图7个编号描述迎风坡降雨及背风坡干燥；只使用图中可见机制，不添加温度数值或当地名称。我的段落0 词保留作答，查看答案先作答；不确定的题也可记录判断与疑点。对照答案，回到证据参考写法下列段落为针对原题编写的参考写法，用于对照内容和表达；写作没有唯一标准答案。Overall, rain-shadow deserts form inland after winds have crossed a mountain range. The key contrast is between the windward side, where rising moist air produces clouds and rain, and the leeward side, where the air continues towards the interior in a dry state.The process begins when winds approach the coast from the sea. On reaching the mountains, they are pushed upwards along the windward slope. As the moist air rises, it cools, and clouds form above this side of the mountains. Rain then falls, removing moisture from the air before it passes over the mountain range. These are successive stages rather than two separate routes through the diagram.The remaining dry air continues over the summit and moves down the leeward side. Dry winds subsequently reach areas further inland, where a rain-shadow desert is found. The diagram indicates that the distance from the coast towards this inland area can extend over thousands of kilometres, emphasising that the final dry region lies beyond the mountain barrier.原图7步：海风到岸→被迫抬升→湿空气升高冷却→云形成→下雨→干空气越山→干风抵达内陆。用windward与leeward形成机制对比，而不是编造沙漠经历采矿或开垦。图上仅标thousands of kilometres，不能改为准确3000公里；这是空间尺度，不是形成所需时间。答后精读篇章结构Overview交代终点与关键转变：湿气在越山前被降雨带走。主体一描述迎风坡上的连续阶段。主体二描述背风坡及最终形成的内陆干燥区。词语与搭配on reaching the mountains：on + 动名词表示“一到达”。as the moist air rises：as联系同步发生的上升与冷却。in a dry state：准确描述性质变化而非另加数字。句子精读As the moist air rises, it cools, and clouds form ... → 一个时间/伴随从句连接三个连续变化。where a rain-shadow desert is found → where修饰areas further inland，不指海岸。我的修订／证据笔记",
+  "links": [
+    {
+      "text": "Cambridge IELTS 21 Academic",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=73"
+    },
+    {
+      "text": "",
+      "href": "case-assets/writing-c21-73.png"
+    }
+  ],
+  "details": [],
+  "saveFields": [
+    "case-wc-c21-t3-rainshadow-answer",
+    "case-wc-c21-t3-rainshadow-done",
+    "case-wc-c21-t3-rainshadow-saved-at",
+    "case-wc-c21-t3-rainshadow-revision"
+  ],
+  "images": [
+    {
+      "src": "case-assets/writing-c21-73.png",
+      "alt": "雨影沙漠：越山前后的水分变化 · 原题图示，点击查看大图",
+      "visible": true,
+      "complete": false,
+      "width": 0
+    }
+  ],
+  "audio": [],
+  "viewport": 1440,
+  "documentWidth": 1440
+}

@@ -1,0 +1,224 @@
+{
+  "requested": "writing1-case-wc-official-bricks",
+  "from": [
+    "内容单元",
+    "页面链接"
+  ],
+  "actual": "#writing1-case-wc-official-bricks",
+  "checkedAt": "2026-09-21T12:52:44.879Z",
+  "title": "练习 / 写作 · Task 1 / 制砖：并行成形路径与温度阶段 · IELTS",
+  "label": "练习 / 写作 · Task 1 / 制砖：并行成形路径与温度阶段",
+  "panel": "practice-writing1",
+  "contentRoot": "writing1-case-wc-official-bricks",
+  "headings": [
+    {
+      "tag": "H4",
+      "text": "本次写作任务",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "对照答案，回到证据",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "参考写法",
+      "visible": false
+    },
+    {
+      "tag": "H3",
+      "text": "答后精读",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "篇章结构",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "词语与搭配",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "句子精读",
+      "visible": false
+    },
+    {
+      "tag": "H3",
+      "text": "同题官方考生样本 · Band 8.5 · 1C Script C",
+      "visible": true
+    }
+  ],
+  "controls": [
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "制砖：并行成形路径与温度阶段未作答\n制作流程图 · 原题拆段写作 · 参考段落与逐段讲解",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "IELTS Academic Writing Sample Tasks (2023)",
+      "label": "",
+      "href": "case-assets/writing-official-sample-tasks-2023.pdf#page=5",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "",
+      "label": "",
+      "href": "case-assets/writing-official-5.png",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "case-wc-official-bricks-answer",
+      "type": "textarea",
+      "text": "",
+      "label": "我的段落",
+      "href": null,
+      "save": "case-wc-official-bricks-answer",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "checkbox",
+      "text": "",
+      "label": "",
+      "href": null,
+      "save": "case-wc-official-bricks-done",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "hidden",
+      "text": "",
+      "label": "",
+      "href": null,
+      "save": "case-wc-official-bricks-saved-at",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "保留作答，查看答案",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "case-wc-official-bricks-revision",
+      "type": "textarea",
+      "text": "",
+      "label": "我的修订／证据笔记",
+      "href": null,
+      "save": "case-wc-official-bricks-revision",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "官方作答 · 第16页",
+      "label": "",
+      "href": "case-assets/writing-official-sample-tasks-2023.pdf#page=16",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "考官评语 · 第17页",
+      "label": "",
+      "href": "case-assets/writing-official-sample-tasks-2023.pdf#page=17",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "官方在线原件",
+      "label": "",
+      "href": "https://ielts.org/cdn/Sample-tests/ielts-academic-writing-sample-tasks-2023.pdf#page=16",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    }
+  ],
+  "visibleText": "制砖：并行成形路径与温度阶段未作答\n制作流程图 · 原题拆段写作 · 参考段落与逐段讲解\n0% · 0 / 1 完成\n\n官方样题 · IELTS Academic Writing Sample Tasks (2023) · PDF 第 5 页\n\nThe diagram below shows the process by which bricks are manufactured for the building industry.\n\n点击图示可查看大图。\n本次写作任务\n\n写Overview及两个主体段（约150–180词）。保留wire cutter / mould的二选一分支、24–48小时干燥、两档窑温和48–72小时冷却；按工序分段。\n\n我的段落\n\n0 词\n\n保留作答，查看答案\n\n先作答；不确定的题也可记录判断与疑点。\n\n同题官方考生样本 · Band 8.5 · 1C Script C\n\n优先对照这份同题官方考生稿及考官评语；分数仅属于该原稿。本地参考段落仍为原创教学示范。\n\n官方作答 · 第16页考官评语 · 第17页官方在线原件\n\n先看原样本怎样概括关键阶段，再对照本地短段的分支、时长和温度；8.5仍有概述可改进处。",
+  "allContent": "制砖：并行成形路径与温度阶段未作答制作流程图 · 原题拆段写作 · 参考段落与逐段讲解0% · 0 / 1 完成官方样题 · IELTS Academic Writing Sample Tasks (2023) · PDF 第 5 页The diagram below shows the process by which bricks are manufactured for the building industry.点击图示可查看大图。本次写作任务写Overview及两个主体段（约150–180词）。保留wire cutter / mould的二选一分支、24–48小时干燥、两档窑温和48–72小时冷却；按工序分段。我的段落0 词保留作答，查看答案先作答；不确定的题也可记录判断与疑点。对照答案，回到证据参考写法下列段落为针对原题编写的参考写法，用于对照内容和表达；写作没有唯一标准答案。Overall, brick manufacture begins with the excavation of clay and ends with the packaging and delivery of the finished product. The material passes through preparation, shaping, drying, heating and cooling, with two alternative methods available for forming individual bricks.First, clay is dug from the ground by a mechanical digger and placed on a metal grid above a roller. The material is broken into smaller pieces before sand and water are added. The resulting mixture is then shaped into bricks either by a wire cutter or by being placed in moulds. These are alternative routes at the same stage, rather than consecutive operations that every brick must undergo.The newly formed bricks are dried in an oven for 24 to 48 hours. They are then heated in a kiln, initially at a moderate temperature of 200–980°C and subsequently at a higher temperature of 870–1300°C. After this, they spend 48 to 72 hours in a cooling chamber. Finally, the cooled bricks are packaged and loaded for delivery by truck.原图or连接wire cutter和mould，参考写法用either ... or，不能写先切后入模。干燥24–48h与冷却48–72h不同；窑炉先200–980°C、后870–1300°C，区间重叠是原图数据，不自行“纠正”。被动语态描述材料经历：is dug / are added / are dried；无需凭空添加工人或工厂地点。答后精读篇章结构Overview起终点加主要加工阶段。前段写原料准备与成形分支。后段写热处理、冷却和配送。词语与搭配either by a wire cutter or by being placed in moulds：两种方式保持平行。initially ... subsequently：区分两档窑温。the resulting mixture：回指已经加入沙和水的黏土。句子精读The material is broken into smaller pieces before sand and water are added. → 两个被动结构保留明确先后。They are then heated ... initially ... and subsequently ... → 同一heated谓语承接两个温度阶段。我的修订／证据笔记同题官方考生样本 · Band 8.5 · 1C Script C优先对照这份同题官方考生稿及考官评语；分数仅属于该原稿。本地参考段落仍为原创教学示范。官方作答 · 第16页考官评语 · 第17页官方在线原件先看原样本怎样概括关键阶段，再对照本地短段的分支、时长和温度；8.5仍有概述可改进处。",
+  "links": [
+    {
+      "text": "IELTS Academic Writing Sample Tasks (2023)",
+      "href": "case-assets/writing-official-sample-tasks-2023.pdf#page=5"
+    },
+    {
+      "text": "",
+      "href": "case-assets/writing-official-5.png"
+    },
+    {
+      "text": "官方作答 · 第16页",
+      "href": "case-assets/writing-official-sample-tasks-2023.pdf#page=16"
+    },
+    {
+      "text": "考官评语 · 第17页",
+      "href": "case-assets/writing-official-sample-tasks-2023.pdf#page=17"
+    },
+    {
+      "text": "官方在线原件",
+      "href": "https://ielts.org/cdn/Sample-tests/ielts-academic-writing-sample-tasks-2023.pdf#page=16"
+    }
+  ],
+  "details": [],
+  "saveFields": [
+    "case-wc-official-bricks-answer",
+    "case-wc-official-bricks-done",
+    "case-wc-official-bricks-saved-at",
+    "case-wc-official-bricks-revision"
+  ],
+  "images": [
+    {
+      "src": "case-assets/writing-official-5.png",
+      "alt": "制砖：并行成形路径与温度阶段 · 原题图示，点击查看大图",
+      "visible": true,
+      "complete": false,
+      "width": 0
+    }
+  ],
+  "audio": [],
+  "viewport": 1440,
+  "documentWidth": 1440
+}

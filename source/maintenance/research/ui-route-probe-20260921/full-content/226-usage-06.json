@@ -1,0 +1,73 @@
+{
+  "requested": "usage-06",
+  "from": [
+    "内容单元"
+  ],
+  "actual": "#usage-06",
+  "checkedAt": "2026-09-21T12:53:21.145Z",
+  "title": "学习 / 短语 / as a result of · IELTS",
+  "label": "学习 / 短语 / as a result of",
+  "panel": "phrases",
+  "contentRoot": "usage-06",
+  "headings": [
+    {
+      "tag": "H3",
+      "text": "as a result of",
+      "visible": true
+    }
+  ],
+  "controls": [
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "checkbox",
+      "text": "",
+      "label": "收藏 as a result of",
+      "href": null,
+      "save": "vocab-saved-usage-as-a-result-of",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "Governments, farming and environmental management",
+      "label": "",
+      "href": "原始参考/5856a161-idp-29.pdf",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "checkbox",
+      "text": "",
+      "label": "我已看过本单元",
+      "href": null,
+      "save": "learning-read-usage-06",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    }
+  ],
+  "visibleText": "0% · 0 / 1 完成\n☆\nas a result of\n\n引出造成某个结果的原因：由于。\n\nas a result of + 名词／动名词；as a result of higher costs；as a result of reducing waste。还需要主句表达结果。\n\nWorld food output per head has risen by 4 per cent between the 1970s and 1980s mainly as a result of increases in yields from land already in cultivation, but also because more land has been brought under the plough.\n\n原文涉及历史农业数据，只用来观察句法；其中年代和比例不当作当前事实。\n\n原文：\n\nGovernments, farming and environmental management\n\n日常语境例句\n\nThe school saved money as a result of reducing food waste.\n\n学校通过减少食物浪费节省了开支。\n\nof 是介词，后面不能直接放一个普通完整句。because 后接完整句；because of / as a result of 后接名词或 doing。明确因果依据，不把同时发生当作因果。\n\n我已看过本单元",
+  "allContent": "0% · 0 / 1 完成☆as a result of引出造成某个结果的原因：由于。as a result of + 名词／动名词；as a result of higher costs；as a result of reducing waste。还需要主句表达结果。World food output per head has risen by 4 per cent between the 1970s and 1980s mainly as a result of increases in yields from land already in cultivation, but also because more land has been brought under the plough.原文涉及历史农业数据，只用来观察句法；其中年代和比例不当作当前事实。原文：Governments, farming and environmental management日常语境例句The school saved money as a result of reducing food waste.学校通过减少食物浪费节省了开支。of 是介词，后面不能直接放一个普通完整句。because 后接完整句；because of / as a result of 后接名词或 doing。明确因果依据，不把同时发生当作因果。 我已看过本单元",
+  "links": [
+    {
+      "text": "Governments, farming and environmental management",
+      "href": "原始参考/5856a161-idp-29.pdf"
+    }
+  ],
+  "details": [],
+  "saveFields": [
+    "vocab-saved-usage-as-a-result-of",
+    "learning-read-usage-06"
+  ],
+  "images": [],
+  "audio": [],
+  "viewport": 1440,
+  "documentWidth": 1440
+}

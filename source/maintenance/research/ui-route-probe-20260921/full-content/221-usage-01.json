@@ -1,0 +1,73 @@
+{
+  "requested": "usage-01",
+  "from": [
+    "内容单元"
+  ],
+  "actual": "#usage-01",
+  "checkedAt": "2026-09-21T12:53:17.429Z",
+  "title": "学习 / 短语 / rather than · IELTS",
+  "label": "学习 / 短语 / rather than",
+  "panel": "phrases",
+  "contentRoot": "usage-01",
+  "headings": [
+    {
+      "tag": "H3",
+      "text": "rather than",
+      "visible": true
+    }
+  ],
+  "controls": [
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "checkbox",
+      "text": "",
+      "label": "收藏 rather than",
+      "href": null,
+      "save": "vocab-saved-usage-rather-than",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "Let’s Go Bats",
+      "label": "",
+      "href": "原始参考/237b7194-hwatai-cambridge7-sample.pdf",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "checkbox",
+      "text": "",
+      "label": "我已看过本单元",
+      "href": null,
+      "save": "learning-read-usage-01",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    }
+  ],
+  "visibleText": "0% · 0 / 1 完成\n☆\nrather than\n\n比较两个选择，强调选择前者、排除或弱化后者：而不是。\n\nA rather than B；focus on understanding rather than memorisation；spend time reading rather than scrolling。尽量让 A、B 的语法形式平行。\n\nwhich uses radio echoes rather than sound echoes.\n\n原文子句节选；which 指前文的一种探测设备。这里比较两种信号，radio echoes 与 sound echoes 形式平行。\n\n原文：\n\nLet’s Go Bats\n\n日常语境例句\n\nStudents should learn to explain ideas rather than simply memorise model answers.\n\n学生应该学会解释想法，而不是只背范文答案。\n\n它强调选择或对照，不等于所有场合的 but。A better than B 是程度比较，A rather than B 是选择，不要混用。\n\n我已看过本单元",
+  "allContent": "0% · 0 / 1 完成☆rather than比较两个选择，强调选择前者、排除或弱化后者：而不是。A rather than B；focus on understanding rather than memorisation；spend time reading rather than scrolling。尽量让 A、B 的语法形式平行。which uses radio echoes rather than sound echoes.原文子句节选；which 指前文的一种探测设备。这里比较两种信号，radio echoes 与 sound echoes 形式平行。原文：Let’s Go Bats日常语境例句Students should learn to explain ideas rather than simply memorise model answers.学生应该学会解释想法，而不是只背范文答案。它强调选择或对照，不等于所有场合的 but。A better than B 是程度比较，A rather than B 是选择，不要混用。 我已看过本单元",
+  "links": [
+    {
+      "text": "Let’s Go Bats",
+      "href": "原始参考/237b7194-hwatai-cambridge7-sample.pdf"
+    }
+  ],
+  "details": [],
+  "saveFields": [
+    "vocab-saved-usage-rather-than",
+    "learning-read-usage-01"
+  ],
+  "images": [],
+  "audio": [],
+  "viewport": 1440,
+  "documentWidth": 1440
+}

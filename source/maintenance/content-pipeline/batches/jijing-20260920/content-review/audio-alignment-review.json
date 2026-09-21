@@ -1,0 +1,84 @@
+{
+  "status": "qualified_for_selected_part1",
+  "reviewer": "root",
+  "method": "Independent local unprompted faster-whisper tiny.en ASR cross-checked against source transcript and all ten answer-bearing passages; Edge playback decode check. Machine verification, not a claim of human listening.",
+  "source_audio_sha256": "4a21e218dc61615a79b31d08bff4522f7f4d7576e3e459b6fc18326dc389299d",
+  "items": [
+    {
+      "question": 1,
+      "expected": "money",
+      "start": 98.04,
+      "end": 104.48,
+      "result": "aligned"
+    },
+    {
+      "question": 2,
+      "expected": "168",
+      "start": 110.4,
+      "end": 119.4,
+      "result": "aligned"
+    },
+    {
+      "question": 3,
+      "expected": "maths",
+      "start": 130.4,
+      "end": 136.4,
+      "result": "aligned"
+    },
+    {
+      "question": 4,
+      "expected": "language",
+      "start": 141.4,
+      "end": 147.4,
+      "result": "aligned"
+    },
+    {
+      "question": 5,
+      "expected": "swim",
+      "start": 159.4,
+      "end": 170.4,
+      "result": "aligned"
+    },
+    {
+      "question": 6,
+      "expected": "illness",
+      "start": 218.96,
+      "end": 225.96,
+      "result": "aligned"
+    },
+    {
+      "question": 7,
+      "expected": "cultures",
+      "start": 231.96,
+      "end": 240.36,
+      "result": "aligned"
+    },
+    {
+      "question": 8,
+      "expected": "Eurontas",
+      "start": 250.32,
+      "end": 264.64,
+      "result": "aligned"
+    },
+    {
+      "question": 9,
+      "expected": "team",
+      "start": 293.76,
+      "end": 305.92,
+      "result": "aligned"
+    },
+    {
+      "question": 10,
+      "expected": "uniform",
+      "start": 306.92,
+      "end": 313.92,
+      "result": "aligned"
+    }
+  ],
+  "notes": [
+    "Question 8 name was transcribed phonetically, but the independently recognized spoken spelling E U R O N T A S matches the reference.",
+    "Non-answer ASR differences such as covers/cupboards are recognition uncertainty, not silently substituted into the source transcript.",
+    "Section 1 closing instruction ends about327.92s; subsequent parts are outside approved scope.",
+    "Original exam authenticity, sitting and date remain unknown."
+  ]
+}

@@ -1,0 +1,16 @@
+from pathlib import Path
+from datetime import datetime,timezone
+import json,hashlib
+ROOT=Path(__file__).resolve().parents[1]; HERE=Path(__file__).resolve().parent
+read=lambda p:json.loads(p.read_text(encoding='utf8'))
+manifest=read(ROOT/'github-publication/manifest.json');live=read(HERE/'release-live.json')
+assert live['pass'] and live['checks'][0]['detail']['sha256']==manifest['published_html_sha256']
+status_path=ROOT/'research/github-pages-migration-status.json';old=read(status_path)
+(HERE/'previous-deployment-status.json').write_text(json.dumps(old,ensure_ascii=False,indent=2),encoding='utf8')
+first_path=ROOT/'research/github-publication-probes-20260921T085742.957014Z/summary.json'
+retry_path=ROOT/'research/github-publication-retry-20260921T085924Z/summary.json'
+first,retry=read(first_path),read(retry_path)
+compact=lambda report:[{'resource':r['key'],'nodes':len([n for n in r['nodes'] if n['country']=='CN']),'passed':sum(n['response_checks_passed'] for n in r['nodes'] if n['country']=='CN'),'failed':[{'city':n['city'],'asn':n['asn'],'error':n['error']} for n in r['nodes'] if n['country']=='CN' and not n['response_checks_passed']]} for r in report['resources']]
+status={**old,'status':'succeeded','usability_status':'published_and_browser_verified_with_mainland_network_gaps','source_commit':'46bc80bc1d77638f019f58a2c39bfed65a99c19e','workflow_run_id':35580554064,'workflow_url':'https://github.com/duf5391-ux/ielts-learning/actions/runs/35580554064','updated_at':datetime.now(timezone.utc).isoformat(),'source_html_sha256':manifest['source_html_sha256'],'published_html_sha256':manifest['published_html_sha256'],'published_files':manifest['published_files'],'expanded_bytes':manifest['total_bytes'],'save_fields':manifest['save_fields'],'learning_units':224,'homepage_bytes':live['checks'][0]['detail']['bytes'],'progressive_loading':True,'local_sync_workflow':'publish_github.ps1 with progressive build; exact matching Actions succeeded; live homepage hash verified','verification':{'browser':{'passed':True,'evidence':'feature-fixes-20260921/release-live.json','scope':'3368 fields, 224 units, rest/continue/finish/reload, mobile direct vocabulary marking, new reading gate/save/reload, two audio Range responses'},'mainland_first':compact(first),'mainland_failed_pair_retry':compact(retry),'network_limitations':'Shanghai Mobile remained inaccessible in all three resources; Guilin homepage and Wuhan jijing audio also timed out on retry. A retry may use another physical probe in the same city/ASN. Historical 8/8 success does not describe current reliability.','full_audio_playback':False,'physical_device_tested':False,'real_microphone_tested':False},'evidence':['research/feature-fixes-delivery-20260921.md','feature-fixes-20260921/release-live.json',str(first_path.relative_to(ROOT)).replace('\\','/'),str(retry_path.relative_to(ROOT)).replace('\\','/')],'next':'Four-platform delivery and device verification are tracked separately. Current mainland network gaps remain explicit; no hosting migration, purchase, or universal accessibility claim.'}
+status_path.write_text(json.dumps(status,ensure_ascii=False,indent=2)+'\n',encoding='utf8')
+print(json.dumps({'status':status['status'],'source':status['source_html_sha256'],'live_hash_matches':True,'network_gaps':True}))

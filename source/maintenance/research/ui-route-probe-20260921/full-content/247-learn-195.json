@@ -1,0 +1,57 @@
+{
+  "requested": "learn-195",
+  "from": [
+    "内容单元"
+  ],
+  "actual": "#learn-195",
+  "checkedAt": "2026-09-21T12:53:36.756Z",
+  "title": "学习 / 词汇 / require · IELTS",
+  "label": "学习 / 词汇 / require",
+  "panel": "vocabulary",
+  "contentRoot": "learn-195",
+  "headings": [
+    {
+      "tag": "H3",
+      "text": "require",
+      "visible": true
+    }
+  ],
+  "controls": [
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "checkbox",
+      "text": "",
+      "label": "收藏 require",
+      "href": null,
+      "save": "vocab-saved-word-require",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "checkbox",
+      "text": "",
+      "label": "我已看过本单元",
+      "href": null,
+      "save": "learning-read-learn-195",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    }
+  ],
+  "visibleText": "0% · 0 / 1 完成\n☆\nrequire\n\n需要；要求\n\nrequire something / require someone to do something\n\nThe course requires students to explain their answers.\n\n课程要求学生解释自己的答案。\n\n避免 require someone doing；注意“需要资源”和“要求人做事”的结构差别。\n\n我已看过本单元",
+  "allContent": "0% · 0 / 1 完成☆require需要；要求require something / require someone to do somethingThe course requires students to explain their answers.课程要求学生解释自己的答案。避免 require someone doing；注意“需要资源”和“要求人做事”的结构差别。 我已看过本单元",
+  "links": [],
+  "details": [],
+  "saveFields": [
+    "vocab-saved-word-require",
+    "learning-read-learn-195"
+  ],
+  "images": [],
+  "audio": [],
+  "viewport": 1440,
+  "documentWidth": 1440
+}

@@ -1,0 +1,240 @@
+{
+  "requested": "reading-case-rd-official-short-answer",
+  "from": [
+    "内容单元",
+    "每日安排目标"
+  ],
+  "actual": "#reading-case-rd-official-short-answer",
+  "checkedAt": "2026-09-21T12:52:10.499Z",
+  "title": "练习 / 阅读 / 产品召回：批次、退款与联系人 · IELTS",
+  "label": "练习 / 阅读 / 产品召回：批次、退款与联系人",
+  "panel": "practice-reading",
+  "contentRoot": "reading-case-rd-official-short-answer",
+  "headings": [
+    {
+      "tag": "H3",
+      "text": "对照答案，回到证据",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "1",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "2",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "3",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "4",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "5",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "词语与搭配",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "句子精读",
+      "visible": false
+    }
+  ],
+  "controls": [
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "产品召回：批次、退款与联系人未作答\n短答题 · 5 段 · 223 词 · 5 题",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "Cambridge General Training Reading official sample · Product return",
+      "label": "",
+      "href": "case-assets/reading-official-cambridge-zip-115026_General_Training_Reading_sample_task_-_Short-answer_questions.pdf#page=1",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "case-rd-official-short-answer-q1",
+      "type": "text",
+      "text": "",
+      "label": "第 4 题作答",
+      "href": null,
+      "save": "case-rd-official-short-answer-q1",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "case-rd-official-short-answer-q2",
+      "type": "text",
+      "text": "",
+      "label": "第 5 题作答",
+      "href": null,
+      "save": "case-rd-official-short-answer-q2",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "case-rd-official-short-answer-q3",
+      "type": "text",
+      "text": "",
+      "label": "第 6 题作答",
+      "href": null,
+      "save": "case-rd-official-short-answer-q3",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "case-rd-official-short-answer-q4",
+      "type": "text",
+      "text": "",
+      "label": "第 7 题作答",
+      "href": null,
+      "save": "case-rd-official-short-answer-q4",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "case-rd-official-short-answer-q5",
+      "type": "text",
+      "text": "",
+      "label": "第 8 题作答",
+      "href": null,
+      "save": "case-rd-official-short-answer-q5",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "checkbox",
+      "text": "",
+      "label": "",
+      "href": null,
+      "save": "case-rd-official-short-answer-done",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "hidden",
+      "text": "",
+      "label": "",
+      "href": null,
+      "save": "case-rd-official-short-answer-saved-at",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "保留作答，查看答案",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "核对原答案页",
+      "label": "",
+      "href": "case-assets/reading-official-cambridge-zip-115026_General_Training_Reading_sample_task_-_Short-answer_questions.pdf#page=2",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "case-rd-official-short-answer-revision",
+      "type": "textarea",
+      "text": "",
+      "label": "我的修订／证据笔记",
+      "href": null,
+      "save": "case-rd-official-short-answer-revision",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "材料精读 · 内容与词句",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    }
+  ],
+  "visibleText": "产品召回：批次、退款与联系人未作答\n短答题 · 5 段 · 223 词 · 5 题\n0% · 0 / 1 完成\n\n官方样题 · Cambridge General Training Reading official sample · Product return · PDF 第 1 页\n\nAnswer the questions below. Choose NO MORE THAN THREE WORDS AND/OR A NUMBER from the text for each answer. Write your answers in boxes 4–8.\n\n1Fancy Foods wishes to inform the public that pieces of metal have been found in some jars of Fancy Foods Chicken Curry (Spicy). The batches of the jars involved have numbers from J6617 to J6624. The batch number is printed on the bottom of each jar.\n\n2If you have any jars with these batch numbers, please return them (preferably unopened) to the supermarket where you purchased them. You can also return them to the factory (Fancy Foods Retailers, Blacktown). Fancy Foods will pay $10 for each jar returned unopened and $5 for each jar already opened.\n\n3No payment will be made for empty jars, which do not need to be returned. However, the Retailing Manager will be interested to hear from people who have consumed chicken curry from any of the above batch numbers. In particular, it will be helpful if they can give information about the place of purchase of the product.\n\n4Jars of Fancy Foods Chicken Curry (Coconut) and Fancy Foods Chicken Curry (Mango) have not been affected and do not need to be returned.\n\n5Fancy Foods will pay a reward of $10,000 to $50,000 for information which leads to the conviction of any person found guilty of placing metal pieces in its products. If you have such information, please contact the Customer Relations Manager, Fancy Foods Retailers, Blacktown.\n\n4. What has been found in some Fancy Foods products?\n\n第 4 题作答\n\n5. Where can you find the batch number on the jars?\n\n第 5 题作答\n\n6. How much will you receive for an opened jar of contaminated Chicken Curry?\n\n第 6 题作答\n\n7. If you have eaten Chicken Curry from a jar with one of the batch numbers listed, whom should you contact?\n\n第 7 题作答\n\n8. What is the maximum reward Fancy Foods is offering for information about who contaminated their product?\n\n第 8 题作答\n保留作答，查看答案\n\n先作答；不确定的题也可记录判断与疑点。\n\n材料精读 · 内容与词句",
+  "allContent": "产品召回：批次、退款与联系人未作答短答题 · 5 段 · 223 词 · 5 题0% · 0 / 1 完成官方样题 · Cambridge General Training Reading official sample · Product return · PDF 第 1 页Answer the questions below. Choose NO MORE THAN THREE WORDS AND/OR A NUMBER from the text for each answer. Write your answers in boxes 4–8.1Fancy Foods wishes to inform the public that pieces of metal have been found in some jars of Fancy Foods Chicken Curry (Spicy). The batches of the jars involved have numbers from J6617 to J6624. The batch number is printed on the bottom of each jar.2If you have any jars with these batch numbers, please return them (preferably unopened) to the supermarket where you purchased them. You can also return them to the factory (Fancy Foods Retailers, Blacktown). Fancy Foods will pay $10 for each jar returned unopened and $5 for each jar already opened.3No payment will be made for empty jars, which do not need to be returned. However, the Retailing Manager will be interested to hear from people who have consumed chicken curry from any of the above batch numbers. In particular, it will be helpful if they can give information about the place of purchase of the product.4Jars of Fancy Foods Chicken Curry (Coconut) and Fancy Foods Chicken Curry (Mango) have not been affected and do not need to be returned. 5Fancy Foods will pay a reward of $10,000 to $50,000 for information which leads to the conviction of any person found guilty of placing metal pieces in its products. If you have such information, please contact the Customer Relations Manager, Fancy Foods Retailers, Blacktown.4. What has been found in some Fancy Foods products?第 4 题作答5. Where can you find the batch number on the jars?第 5 题作答6. How much will you receive for an opened jar of contaminated Chicken Curry?第 6 题作答7. If you have eaten Chicken Curry from a jar with one of the batch numbers listed, whom should you contact?第 7 题作答8. What is the maximum reward Fancy Foods is offering for information about who contaminated their product?第 8 题作答保留作答，查看答案先作答；不确定的题也可记录判断与疑点。对照答案，回到证据第 4 题 · pieces of metal问发现的异物，不问产品名称。三词恰好符合上限。pieces of metal have been found in some jars第 5 题 · the bottom；on the bottom是罐底，不是退货地点supermarket。The batch number is printed on the bottom of each jar.第 6 题 · $5opened与unopened对应两种金额，empty则不给钱。$10 for each jar returned unopened and $5 for each jar already opened.第 7 题 · Retailing Manager；the Retailing Manager吃过产品找Retailing Manager；提供谁投放金属的线索找Customer Relations Manager，勿交换两个身份。the Retailing Manager will be interested to hear from people who have consumed chicken curry第 8 题 · $50,000maximum取区间上限，不能取首次看到的10,000。a reward of $10,000 to $50,000核对原答案页我的修订／证据笔记材料精读 · 内容与词句这是一份按适用范围、退回处理、特殊情形和线索联络组织的产品召回告示。准确理解对象和条件，比把所有罐装咖喱视为同一种情况更重要。金额、产品名和联络人均属于本材料中的告示，不作为现实召回指引。1Fancy Foods wishes to inform the public that pieces of metal have been found in some jars of Fancy Foods Chicken Curry (Spicy). The batches of the jars involved have numbers from J6617 to J6624. The batch number is printed on the bottom of each jar.第1段交代发现问题的产品是Spicy口味的部分罐装咖喱，涉及批号J6617至J6624，批号位于罐底。some与明确批号把范围限定住，不能扩大到该品牌所有产品。2If you have any jars with these batch numbers, please return them (preferably unopened) to the supermarket where you purchased them. You can also return them to the factory (Fancy Foods Retailers, Blacktown). Fancy Foods will pay $10 for each jar returned unopened and $5 for each jar already opened.第2段说明持有这些批号产品的人可退到购买超市或工厂，preferably unopened表示最好未开封，并非已经开封就不能退。未开封每罐10美元、已开封每罐5美元是两个不同条件。3No payment will be made for empty jars, which do not need to be returned. However, the Retailing Manager will be interested to hear from people who have consumed chicken curry from any of the above batch numbers. In particular, it will be helpful if they can give information about the place of purchase of the product.第3段单独处理已经吃完的情况：空罐不退款、也不必退回，但吃过有关批次产品的人仍可向零售经理提供信息，尤其是购买地点。没有退款不等于其反馈没有价值。4Jars of Fancy Foods Chicken Curry (Coconut) and Fancy Foods Chicken Curry (Mango) have not been affected and do not need to be returned. 第4段明确Coconut和Mango两种口味未受影响，无须退回；这与第一段指定Spicy口味共同界定召回边界。5Fancy Foods will pay a reward of $10,000 to $50,000 for information which leads to the conviction of any person found guilty of placing metal pieces in its products. If you have such information, please contact the Customer Relations Manager, Fancy Foods Retailers, Blacktown.第5段转为征集导致涉案人员被定罪的线索，奖金范围与普通退货退款不同。此处联络的是客户关系经理，不能与前面接收已食用产品信息的零售经理混同。词语与搭配wishes to inform the public谨此告知公众正式告示中礼貌地引出通知内容；wish to并非表示消息还没有发生。preferably unopened最好尚未开封preferably表达优先选择，不是必须满足的绝对条件。the place of purchase购买地点purchase在这里是购买这一行为，place of说明行为发生地点。leads to the conviction促成定罪lead to后接名词；conviction此处是司法定罪，不是个人的坚定信念。句子精读If you have any jars with these batch numbers, please return them (preferably unopened) to the supermarket where you purchased them.如果你持有任何标有这些批号的罐装产品，请把它们退回购买它们的超市，最好保持未开封状态。If从句限定指令适用的人；these batch numbers回指前段范围。them指相关罐装产品；where引出修饰the supermarket的地点关系。括号中的preferably是偏好条件。No payment will be made for empty jars, which do not need to be returned.空罐不予退款，而且也无须退回。主句的被动语态把重点放在退款安排；which补充说明empty jars，do not need to表示没有退回的必要，不是禁止退回。两项安排只适用于空罐。读完讲解，可以把原文连起来再读一次；想保留的词句可使用已有收藏功能。",
+  "links": [
+    {
+      "text": "Cambridge General Training Reading official sample · Product return",
+      "href": "case-assets/reading-official-cambridge-zip-115026_General_Training_Reading_sample_task_-_Short-answer_questions.pdf#page=1"
+    },
+    {
+      "text": "核对原答案页",
+      "href": "case-assets/reading-official-cambridge-zip-115026_General_Training_Reading_sample_task_-_Short-answer_questions.pdf#page=2"
+    }
+  ],
+  "details": [
+    {
+      "id": "material-reading-rd-official-short-answer",
+      "title": "材料精读 · 内容与词句",
+      "open": false,
+      "visible": true
+    }
+  ],
+  "saveFields": [
+    "case-rd-official-short-answer-q1",
+    "case-rd-official-short-answer-q2",
+    "case-rd-official-short-answer-q3",
+    "case-rd-official-short-answer-q4",
+    "case-rd-official-short-answer-q5",
+    "case-rd-official-short-answer-done",
+    "case-rd-official-short-answer-saved-at",
+    "case-rd-official-short-answer-revision"
+  ],
+  "images": [],
+  "audio": [],
+  "viewport": 1440,
+  "documentWidth": 1440
+}

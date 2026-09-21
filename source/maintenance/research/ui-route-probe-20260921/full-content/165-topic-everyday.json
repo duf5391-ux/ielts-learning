@@ -1,0 +1,138 @@
+{
+  "requested": "topic-everyday",
+  "from": [
+    "内容单元",
+    "页面链接"
+  ],
+  "actual": "#topic-everyday",
+  "checkedAt": "2026-09-21T12:52:32.529Z",
+  "title": "练习 / 阅读 / 日常生活：读懂产品召回通知 · IELTS",
+  "label": "练习 / 阅读 / 日常生活：读懂产品召回通知",
+  "panel": "practice-reading",
+  "contentRoot": "topic-everyday",
+  "headings": [
+    {
+      "tag": "H2",
+      "text": "日常生活：读懂产品召回通知",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "食品召回：批次、金额与联系对象",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "原材料 · 第1页",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "原答案",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "具体解释",
+      "visible": false
+    }
+  ],
+  "controls": [
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "完成后核对答案与解释",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "",
+      "label": "",
+      "href": "原始参考/support-0e37fcad-cambridge-zip-115026_General_Training_Reading_sample_task_-_Short-answer_questions.pdf#page=1",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "",
+      "label": "",
+      "href": "原始参考/support-0e37fcad-cambridge-zip-115026_General_Training_Reading_sample_task_-_Short-answer_questions.pdf#page=1",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "按原题号写出答案\n暂时不会",
+      "href": null,
+      "save": "practice-topic-everyday-q1",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "暂时不会",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "checkbox",
+      "text": "",
+      "label": "已读过这段背景",
+      "href": null,
+      "save": "topic-read-everyday",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    }
+  ],
+  "visibleText": "0% · 0 / 1 完成\n日常生活：读懂产品召回通知\n\n重点理解batch number、opened/unopened、两个Manager。定位词必须结合产品条件。\n\n食品召回：批次、金额与联系对象\n\n以下为 IELTS General Training Reading 正式样题，用于练习生活通知中的条件和信息定位；不作为 Academic Reading 的文体或难度样本。先按原题要求作答，再核对答案与解释。\n\n原材料 · 第1页\n\nQuestions 4 – 8\n\nAnswer the questions below.\n\nChoose NO MORE THAN THREE WORDS AND/OR A NUMBER from the text for each answer.\n\nWrite your answers in boxes 4-8 on your answer sheet.\n\n4 What has been found in some Fancy Foods products?\n\n5 Where can you find the batch number on the jars?\n\n6 How much will you receive for an opened jar of contaminated Chicken Curry?\n\n7 If you have eaten Chicken Curry from a jar with one of the batch numbers listed, whom should you contact?\n\n8 What is the maximum reward Fancy Foods is offering for information about who contaminated their product?\n\nIMPORTANT NOTICE: PRODUCT RETURN\n\nFancy Foods wishes to inform the public that pieces of metal have been found in some jars of Fancy Foods Chicken Curry (Spicy). The batches of the jars involved have numbers from J6617 to J6624. The batch number is printed on the bottom of each jar.\n\nIf you have any jars with these batch numbers, please return them (preferably unopened) to the supermarket where you purchased them. You can also return them to the factory (Fancy Foods Retailers, Blacktown). Fancy Foods will pay $10 for each jar returned unopened and $5 for each jar already opened.\n\nNo payment will be made for empty jars, which do not need to be returned. However, the Retailing Manager will be interested to hear from people who have consumed chicken curry from any of the above batch numbers. In particular, it will be helpful if they can give information about the place of purchase of the product.\n\nJars of Fancy Foods Chicken Curry (Coconut) and Fancy Foods Chicken Curry (Mango) have not been affected and do not need to be returned.\n\nREWARD\n\nFancy Foods will pay a reward of $10,000 to $50,000 for information which leads to the conviction of any person found guilty of placing metal pieces in its products. If you have such information, please contact the Customer Relations Manager, Fancy Foods Retailers, Blacktown.\n\n完成后核对答案与解释\n按原题号写出答案\n暂时不会\n\n本单元的学习记录\n\n已读过这段背景",
+  "allContent": "0% · 0 / 1 完成日常生活：读懂产品召回通知重点理解batch number、opened/unopened、两个Manager。定位词必须结合产品条件。食品召回：批次、金额与联系对象以下为 IELTS General Training Reading 正式样题，用于练习生活通知中的条件和信息定位；不作为 Academic Reading 的文体或难度样本。先按原题要求作答，再核对答案与解释。原材料 · 第1页Questions 4 – 8Answer the questions below.Choose NO MORE THAN THREE WORDS AND/OR A NUMBER from the text for each answer.Write your answers in boxes 4-8 on your answer sheet.4 What has been found in some Fancy Foods products?5 Where can you find the batch number on the jars?6 How much will you receive for an opened jar of contaminated Chicken Curry?7 If you have eaten Chicken Curry from a jar with one of the batch numbers listed, whom should you contact?8 What is the maximum reward Fancy Foods is offering for information about who contaminated their product?IMPORTANT NOTICE: PRODUCT RETURNFancy Foods wishes to inform the public that pieces of metal have been found in some jars of Fancy Foods Chicken Curry (Spicy). The batches of the jars involved have numbers from J6617 to J6624. The batch number is printed on the bottom of each jar.If you have any jars with these batch numbers, please return them (preferably unopened) to the supermarket where you purchased them. You can also return them to the factory (Fancy Foods Retailers, Blacktown). Fancy Foods will pay $10 for each jar returned unopened and $5 for each jar already opened.No payment will be made for empty jars, which do not need to be returned. However, the Retailing Manager will be interested to hear from people who have consumed chicken curry from any of the above batch numbers. In particular, it will be helpful if they can give information about the place of purchase of the product.Jars of Fancy Foods Chicken Curry (Coconut) and Fancy Foods Chicken Curry (Mango) have not been affected and do not need to be returned.REWARDFancy Foods will pay a reward of $10,000 to $50,000 for information which leads to the conviction of any person found guilty of placing metal pieces in its products. If you have such information, please contact the Customer Relations Manager, Fancy Foods Retailers, Blacktown.完成后核对答案与解释原答案Answers4 pieces of metal5 (on) the bottom6 $57 (the) Retailing Manager8 $50,000Words in brackets are optional - they are correct, but not necessary.具体解释Q4 pieces of metal：问题问污染物，不是产品名称。Q5 (on) the bottom：批号的位置不是商店。Q6 $5：opened jar对应5，未开封10；空罐不给钱。Q7 (the) Retailing Manager：吃过受影响食品联系此人；提供破坏者线索才联系Customer Relations Manager，两个角色不能交换。Q8 $50,000：问maximum，应取奖励区间上限。每答最多三词和／或数字。完整原件：食品召回：批次、金额与联系对象 · 完整题面、原材料与答案食品召回：批次、金额与联系对象 · 完整题面、原材料与答案按原题号写出答案暂时不会本单元的学习记录 已读过这段背景",
+  "links": [
+    {
+      "text": "食品召回：批次、金额与联系对象 · 完整题面、原材料与答案",
+      "href": "原始参考/support-0e37fcad-cambridge-zip-115026_General_Training_Reading_sample_task_-_Short-answer_questions.pdf#page=1"
+    },
+    {
+      "text": "食品召回：批次、金额与联系对象 · 完整题面、原材料与答案",
+      "href": "原始参考/support-0e37fcad-cambridge-zip-115026_General_Training_Reading_sample_task_-_Short-answer_questions.pdf#page=1"
+    }
+  ],
+  "details": [
+    {
+      "id": "answer-check-36",
+      "title": "完成后核对答案与解释",
+      "open": false,
+      "answerGate": "[\"practice-topic-everyday-q1\"]",
+      "visible": true
+    }
+  ],
+  "saveFields": [
+    "practice-topic-everyday-q1",
+    "topic-read-everyday"
+  ],
+  "images": [],
+  "audio": [],
+  "viewport": 1440,
+  "documentWidth": 1440
+}

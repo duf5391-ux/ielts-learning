@@ -1,0 +1,137 @@
+{
+  "requested": "speaking-feedback",
+  "from": [
+    "页面链接"
+  ],
+  "actual": "#speaking-feedback",
+  "checkedAt": "2026-09-21T12:55:09.148Z",
+  "title": "学习 / 口语 / 口语 · 从原题开始学 · IELTS",
+  "label": "学习 / 口语 / 口语 · 从原题开始学",
+  "panel": "speaking",
+  "contentRoot": "speaking-feedback",
+  "headings": [
+    {
+      "tag": "H2",
+      "text": "一条具体反馈可以怎样给",
+      "visible": false
+    },
+    {
+      "tag": "H3",
+      "text": "如果首答暂时组织不出：可选的短讲支架",
+      "visible": false
+    },
+    {
+      "tag": "H2",
+      "text": "两个可选结构",
+      "visible": false
+    },
+    {
+      "tag": "H2",
+      "text": "自己说过后，再听真实样例",
+      "visible": false
+    },
+    {
+      "tag": "H2",
+      "text": "与正式口语评价的关系",
+      "visible": false
+    }
+  ],
+  "controls": [
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "完成后核对 · 答案、讲解与可接受表达",
+      "label": "",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "AUDIO",
+      "id": "",
+      "text": "",
+      "label": "",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "示例 MP3 文件",
+      "label": "",
+      "href": "原始参考/7b07467c-cambridge-zip-115049_IELTS_Speaking_Sample_Part_2_Recording.mp3",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "文字稿",
+      "label": "",
+      "href": "原始参考/6c68dcc0-cambridge-zip-115051_Speaking_sample_task_-_Part_2_transcript.pdf",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "口语评价说明",
+      "label": "",
+      "href": "原始参考/d2810144-ielts-speaking-key-assessment-criteria.pdf",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "记录一条证据：原来怎样写／说，为什么改，下次看什么。",
+      "href": null,
+      "save": "speaking-feedback-note",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    }
+  ],
+  "visibleText": "完成后核对 · 答案、讲解与可接受表达先说过再听 · Part 2 考生示例先保留自己的首答，再看例句和示范。\n一条具体反馈可以怎样给\n\n\n\n首答实际出现的情况\n一次可做的修复\n怎么判断\n\n\n\n\n说了物品名称，反复说重要，却没有具体说明\n选择一个真实愿意分享的用途、来历或小经历，把它与重要性连起来\n重答中听者能指出“为什么”，而不只听到更多形容词\n\n\n想说拥有多久，但结构影响意思\n先理清得到它的时间和拥有状态是否持续到现在，再选表达\n新回答的时间关系清楚；不只检查有没有出现现在完成时\n\n\n某个表达想不起来\n先用已会的词解释功能或特点，再按需要补一个表达\n合法换说法同样算沟通成功；不用为了高级词停在那里\n\n\n具体某段声音难懂\n定位这一处，先核对你原本想说的意思，再针对实际听见的问题练一小段\n要听新录音检查，不通过一份改好的文字稿推断发音已改善\n\n\n\n每次只选一行，不把它们变成四份作业。不确定原因时，可以先请对方复述听到的意思，或保留这一处等待反馈；不要根据口音标签笼统评价能力。\n如果首答暂时组织不出：可选的短讲支架\n仅在首答已经保存、实际需要帮助时使用，替换本章原来的 3–5 分钟修复准备与一次重答，不新增一轮练习。先给自己约两分钟，用几个关键词选定一个用途或经历；随后用约半分钟把这件事说清楚。下次相应口语时段再逐步缩短准备、增加展开，向正式的一分钟准备与一至两分钟回答靠近，不要求当天完成全部阶段。\n先缩短准备与讲话时间，练习把一件事说清楚，再逐步扩展到题卡中的其他要点。\n两个可选结构\n持续拥有：I've had it for three years. / I've had it since I started university.\nfor 接一段时间，since 接起点；表达的是拥有状态持续到现在。也可以说 I got it three years ago, and I still use it.，同样把时间与当前关系说清楚。过去得到某物可以用过去时，不要求整段统一用一种时态。\n个人意义：It means a lot to me because my sister made it for me. / It's special to me because it reminds me of our trips together.\n这里表达个人重视程度，不等于市场价格高。来源、使用经验、功能或个人联系都可以支持重要性，不必强写家庭故事或煽情经历。\n选择其中一项，用你自己的物品和意思说一句，再放回短回答中。标 K 以前会用／R 认识但少用／N 本次新学；照着本页说记“有提示”。special to me 等合法替代记任务成功，目标结构的独立提取另记。\n自己说过后，再听真实样例\n这段 Part 2 示例录音回答重要物品题。听听考生怎样交代物品、经历和个人意义。\n示例 MP3 文件 · 文字稿\n听完只回答一个问题：这位考生怎样从物品用途说到对自己的重要性？然后回到自己的物品，决定有没有值得补充的具体信息。若本次时间已用完，示例移到下一次，并替换原定回听活动。\n已核对的文字稿中，考生选择钢琴，提到得到它的经历、弹奏的用途及其个人意义。稿中也保留学习者错误；例如用 I have it for about nine years 表示一直拥有，教学中可以修为 I've had it for about nine years。这只是时间表达的局部修复，不是给原考生重新评分。\n与正式口语评价的关系\n依据本地口语评价说明，完整评价包括流利与连贯、词汇、语法范围与准确性、发音。先处理一个问题是本次教学范围，不意味着其他维度不重要。\n正式口语中，连贯的口头表达可以有自然停顿、简略结构和口语衔接，不按作文标准要求每句话都像书面句。词汇反馈既看范围，也看意思、搭配和必要时的换说法；发音反馈必须依据声音和可理解性。\n题卡要点可帮助组织内容，但不机械转成“一点一分”的评分。完成一个两分钟回答、使用某个句型或减少一次停顿，都不足以单独确定 band。完整表现还需包含其他部分及真实追问。\n记录一条证据：原来怎样写／说，为什么改，下次看什么。",
+  "allContent": "完成后核对 · 答案、讲解与可接受表达先说过再听 · Part 2 考生示例先保留自己的首答，再看例句和示范。\n一条具体反馈可以怎样给\n\n\n\n首答实际出现的情况\n一次可做的修复\n怎么判断\n\n\n\n\n说了物品名称，反复说重要，却没有具体说明\n选择一个真实愿意分享的用途、来历或小经历，把它与重要性连起来\n重答中听者能指出“为什么”，而不只听到更多形容词\n\n\n想说拥有多久，但结构影响意思\n先理清得到它的时间和拥有状态是否持续到现在，再选表达\n新回答的时间关系清楚；不只检查有没有出现现在完成时\n\n\n某个表达想不起来\n先用已会的词解释功能或特点，再按需要补一个表达\n合法换说法同样算沟通成功；不用为了高级词停在那里\n\n\n具体某段声音难懂\n定位这一处，先核对你原本想说的意思，再针对实际听见的问题练一小段\n要听新录音检查，不通过一份改好的文字稿推断发音已改善\n\n\n\n每次只选一行，不把它们变成四份作业。不确定原因时，可以先请对方复述听到的意思，或保留这一处等待反馈；不要根据口音标签笼统评价能力。\n如果首答暂时组织不出：可选的短讲支架\n仅在首答已经保存、实际需要帮助时使用，替换本章原来的 3–5 分钟修复准备与一次重答，不新增一轮练习。先给自己约两分钟，用几个关键词选定一个用途或经历；随后用约半分钟把这件事说清楚。下次相应口语时段再逐步缩短准备、增加展开，向正式的一分钟准备与一至两分钟回答靠近，不要求当天完成全部阶段。\n先缩短准备与讲话时间，练习把一件事说清楚，再逐步扩展到题卡中的其他要点。\n两个可选结构\n持续拥有：I've had it for three years. / I've had it since I started university.\nfor 接一段时间，since 接起点；表达的是拥有状态持续到现在。也可以说 I got it three years ago, and I still use it.，同样把时间与当前关系说清楚。过去得到某物可以用过去时，不要求整段统一用一种时态。\n个人意义：It means a lot to me because my sister made it for me. / It's special to me because it reminds me of our trips together.\n这里表达个人重视程度，不等于市场价格高。来源、使用经验、功能或个人联系都可以支持重要性，不必强写家庭故事或煽情经历。\n选择其中一项，用你自己的物品和意思说一句，再放回短回答中。标 K 以前会用／R 认识但少用／N 本次新学；照着本页说记“有提示”。special to me 等合法替代记任务成功，目标结构的独立提取另记。\n自己说过后，再听真实样例\n这段 Part 2 示例录音回答重要物品题。听听考生怎样交代物品、经历和个人意义。\n示例 MP3 文件 · 文字稿\n听完只回答一个问题：这位考生怎样从物品用途说到对自己的重要性？然后回到自己的物品，决定有没有值得补充的具体信息。若本次时间已用完，示例移到下一次，并替换原定回听活动。\n已核对的文字稿中，考生选择钢琴，提到得到它的经历、弹奏的用途及其个人意义。稿中也保留学习者错误；例如用 I have it for about nine years 表示一直拥有，教学中可以修为 I've had it for about nine years。这只是时间表达的局部修复，不是给原考生重新评分。\n与正式口语评价的关系\n依据本地口语评价说明，完整评价包括流利与连贯、词汇、语法范围与准确性、发音。先处理一个问题是本次教学范围，不意味着其他维度不重要。\n正式口语中，连贯的口头表达可以有自然停顿、简略结构和口语衔接，不按作文标准要求每句话都像书面句。词汇反馈既看范围，也看意思、搭配和必要时的换说法；发音反馈必须依据声音和可理解性。\n题卡要点可帮助组织内容，但不机械转成“一点一分”的评分。完成一个两分钟回答、使用某个句型或减少一次停顿，都不足以单独确定 band。完整表现还需包含其他部分及真实追问。\n记录一条证据：原来怎样写／说，为什么改，下次看什么。",
+  "links": [
+    {
+      "text": "示例 MP3 文件",
+      "href": "原始参考/7b07467c-cambridge-zip-115049_IELTS_Speaking_Sample_Part_2_Recording.mp3"
+    },
+    {
+      "text": "文字稿",
+      "href": "原始参考/6c68dcc0-cambridge-zip-115051_Speaking_sample_task_-_Part_2_transcript.pdf"
+    },
+    {
+      "text": "口语评价说明",
+      "href": "原始参考/d2810144-ielts-speaking-key-assessment-criteria.pdf"
+    }
+  ],
+  "details": [],
+  "saveFields": [
+    "speaking-feedback-note"
+  ],
+  "images": [],
+  "audio": [
+    {
+      "src": "assets/deferred-media/eb0f9fcc788b670d6e93a16f.mp3",
+      "sources": [],
+      "visible": false,
+      "controls": true
+    }
+  ],
+  "viewport": 1440,
+  "documentWidth": 1440
+}

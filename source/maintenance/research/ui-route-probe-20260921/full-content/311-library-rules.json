@@ -1,0 +1,106 @@
+{
+  "requested": "library-rules",
+  "from": [
+    "页面链接"
+  ],
+  "actual": "#library-rules",
+  "checkedAt": "2026-09-21T12:54:52.622Z",
+  "title": "原始资料 · IELTS",
+  "label": "原始资料",
+  "panel": "library",
+  "contentRoot": "library-rules",
+  "headings": [
+    {
+      "tag": "H2",
+      "text": "只保留有用的记录",
+      "visible": true
+    },
+    {
+      "tag": "H2",
+      "text": "考试要求与反馈标准",
+      "visible": true
+    }
+  ],
+  "controls": [
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "考试要求与反馈标准",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "写作评分描述",
+      "label": "",
+      "href": "原始参考/d8a488dc-ielts-writing-band-descriptors.pdf",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "写作四项标准",
+      "label": "",
+      "href": "原始参考/32f690b4-ielts-writing-key-assessment-criteria.pdf",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "口语评分描述",
+      "label": "",
+      "href": "原始参考/914c8d84-ielts-speaking-band-descriptors.pdf",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "口语四项标准",
+      "label": "",
+      "href": "原始参考/d2810144-ielts-speaking-key-assessment-criteria.pdf",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    }
+  ],
+  "visibleText": "考试要求与反馈标准\n只保留有用的记录\n\n听读\n原始正确题数、未答、实际条件。短题组不换 band。\n\n写作\n完整初稿、具体反馈、修订稿。Task 1 与 Task 2 分开。\n\n口语\n真实声音、一处时间点、实际影响。文字不能代替发音证据。\n\n用法\nK 已会用／R 认识少用／N 新学；另记无提示、提示后或合法替代。\n\n考试要求与反馈标准\n科目\t完整任务要求\t怎么评价\nAcademic 阅读\t3 部分、40 题、60 分钟；填写字数按每道原题\t每题 1 分；单篇不转换整科 band。\n听力\t40 题；播放与检查时间按考试形式和指令\t每题 1 分；回放后改对和首听正确分开。\n写作\t共 60 分钟；Task 1 至少 150 词，Task 2 至少 250 词；建议约 20／40 分钟\t每题看任务完成／回应、连贯衔接、词汇、语法四项，等权；整科 Task 2 权重为 Task 1 的两倍。\n口语\tPart 1–3，整体 11–14 分钟；Part 2 有 1 分钟准备，长回答 1–2 分钟\t流利连贯、词汇、语法、发音四项等权；声音和互动证据不能用文字补造。\n\n评分标准：写作评分描述、写作四项标准、口语评分描述、口语四项标准。",
+  "allContent": "考试要求与反馈标准只保留有用的记录听读原始正确题数、未答、实际条件。短题组不换 band。写作完整初稿、具体反馈、修订稿。Task 1 与 Task 2 分开。口语真实声音、一处时间点、实际影响。文字不能代替发音证据。用法K 已会用／R 认识少用／N 新学；另记无提示、提示后或合法替代。考试要求与反馈标准\n\n\n\n科目\n完整任务要求\n怎么评价\n\n\n\n\nAcademic 阅读\n3 部分、40 题、60 分钟；填写字数按每道原题\n每题 1 分；单篇不转换整科 band。\n\n\n听力\n40 题；播放与检查时间按考试形式和指令\n每题 1 分；回放后改对和首听正确分开。\n\n\n写作\n共 60 分钟；Task 1 至少 150 词，Task 2 至少 250 词；建议约 20／40 分钟\n每题看任务完成／回应、连贯衔接、词汇、语法四项，等权；整科 Task 2 权重为 Task 1 的两倍。\n\n\n口语\nPart 1–3，整体 11–14 分钟；Part 2 有 1 分钟准备，长回答 1–2 分钟\n流利连贯、词汇、语法、发音四项等权；声音和互动证据不能用文字补造。\n\n\n\n评分标准：写作评分描述、写作四项标准、口语评分描述、口语四项标准。",
+  "links": [
+    {
+      "text": "写作评分描述",
+      "href": "原始参考/d8a488dc-ielts-writing-band-descriptors.pdf"
+    },
+    {
+      "text": "写作四项标准",
+      "href": "原始参考/32f690b4-ielts-writing-key-assessment-criteria.pdf"
+    },
+    {
+      "text": "口语评分描述",
+      "href": "原始参考/914c8d84-ielts-speaking-band-descriptors.pdf"
+    },
+    {
+      "text": "口语四项标准",
+      "href": "原始参考/d2810144-ielts-speaking-key-assessment-criteria.pdf"
+    }
+  ],
+  "details": [],
+  "saveFields": [],
+  "images": [],
+  "audio": [],
+  "viewport": 1440,
+  "documentWidth": 1440
+}

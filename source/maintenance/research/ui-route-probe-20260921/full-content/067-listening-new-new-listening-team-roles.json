@@ -1,0 +1,363 @@
+{
+  "requested": "listening-new-new-listening-team-roles",
+  "from": [
+    "内容单元",
+    "页面链接"
+  ],
+  "actual": "#listening-new-new-listening-team-roles",
+  "checkedAt": "2026-09-21T12:51:17.201Z",
+  "title": "学习 / 听力 / 会议分工：谁提出顾虑，谁负责执行 · IELTS",
+  "label": "学习 / 听力 / 会议分工：谁提出顾虑，谁负责执行",
+  "panel": "listening",
+  "contentRoot": "listening-new-new-listening-team-roles",
+  "headings": [
+    {
+      "tag": "H3",
+      "text": "给人名建立稳定标签",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "识别同意之后的保留意见",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "对话示范",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "用法与易错",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "involve someone in doing",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "be responsible for",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "specialise in",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "make the most of",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "听后练习",
+      "visible": true
+    }
+  ],
+  "controls": [
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "新增 会议分工：谁提出顾虑，谁负责执行",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "AUDIO",
+      "id": "",
+      "text": "",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "第 1 题\n暂时不会",
+      "href": null,
+      "save": "lesson-listening-team-roles-q1",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "暂时不会",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "第 2 题\n暂时不会",
+      "href": null,
+      "save": "lesson-listening-team-roles-q2",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "暂时不会",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "第 3 题\n暂时不会",
+      "href": null,
+      "save": "lesson-listening-team-roles-q3",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "暂时不会",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "第 4 题\n暂时不会",
+      "href": null,
+      "save": "lesson-listening-team-roles-q4",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "暂时不会",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "第 5 题\n暂时不会",
+      "href": null,
+      "save": "lesson-listening-team-roles-q5",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "暂时不会",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "第 6 题\n暂时不会",
+      "href": null,
+      "save": "lesson-listening-team-roles-q6",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "暂时不会",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "查看参考与解释",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "复习选项：简短再用",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "checkbox",
+      "text": "",
+      "label": "我已读过讲解",
+      "href": null,
+      "save": "resource-learned-new-listening-team-roles",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "checkbox",
+      "text": "",
+      "label": "加入我的复习",
+      "href": null,
+      "save": "resource-review-new-listening-team-roles",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "我的新表达／本次复习记录（可留空）",
+      "href": null,
+      "save": "resource-note-new-listening-team-roles",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "配套材料",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "",
+      "label": "",
+      "href": "https://learnenglish.britishcouncil.org/free-resources/listening/b1/team-meeting-about-diversity",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "",
+      "label": "",
+      "href": "%E6%89%A9%E5%B1%95%E8%B5%84%E6%96%99/2026-09-16-resource-audio/c2159644-49206872-LearnEnglish-Listening-B1-A-team-meeting-about-diversity.pdf",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    }
+  ],
+  "visibleText": "新增 会议分工：谁提出顾虑，谁负责执行\n0% · 0 / 6 练习已作答\n\n新增\n\n给人名建立稳定标签\n\n在纸上写 Nina／Brenda／Stefano 三列。听到一个建议时，先记它的内容；只有在明确分配任务或答应执行时，才放入“负责事项”。提出建议的人不一定执行它。\n\n识别同意之后的保留意见\n\n一句 That sounds good 后面如果跟 but，要继续听顾虑是什么。把顾虑理解成“整个计划被否决”会丢掉后续推进。动作还有先后：讨论先提到 workshops，并不一定意味着 workshops 最先开展。\n\n对话示范\n\nMia: “We could invite a guest speaker.” Jo: “Good idea. I can book the room, but could you contact the speaker?”\n问谁安排场地，答案是 Jo；Mia 先提出的想法并不能推出她负责所有事。\n\n词块先看意思即可，不必背完才播放。\n\n听力音频 · A team meeting about diversity\n\n用法与易错\ninvolve someone in doing\n\n让某人参与做某事\n\nWe involved volunteers in choosing the workshop topics.\n\n易错：in 后接名词或动名词：in choosing，不是 in choose。\n\nbe responsible for\n\n负责某事\n\nRavi is responsible for booking the meeting room.\n\n易错：for 后的动作使用 booking；responsible 不是动词。\n\nspecialise in\n\n专门从事／擅长某领域\n\nThe trainer specialises in helping new teams communicate.\n\n易错：in 后接领域或动名词；美式 specialize 也正确。\n\nmake the most of\n\n充分利用已有机会或资源\n\nWe made the most of the short meeting by preparing questions.\n\n易错：保留 the；不等于拥有最多数量。\n\n听后练习\n\n听听力音频，完成人物匹配。人物可以重复使用：A Nina，B Brenda，C Stefano。\n1. 担心员工只把新文件看成管理层的产物。\n2. 负责寻找合适的培训师。\n3. 负责寻找不同于普通研讨会的有趣场地。\n4. 负责查找其他机构利用团队差异的经验。\n5. 将计划的活动排序：收集员工点子的 workshops；让大家体验差异价值的 team-building sessions。\n6. 迁移练习：上方示范中 Jo 同意负责什么？\n\n第 1 题\n暂时不会\n第 2 题\n暂时不会\n第 3 题\n暂时不会\n第 4 题\n暂时不会\n第 5 题\n暂时不会\n第 6 题\n暂时不会\n查看参考与解释\n复习选项：简短再用\n 我已读过讲解\n 加入我的复习\n我的新表达／本次复习记录（可留空）\n配套材料",
+  "allContent": "新增 会议分工：谁提出顾虑，谁负责执行0% · 0 / 6 练习已作答新增给人名建立稳定标签\n在纸上写 Nina／Brenda／Stefano 三列。听到一个建议时，先记它的内容；只有在明确分配任务或答应执行时，才放入“负责事项”。提出建议的人不一定执行它。\n识别同意之后的保留意见\n一句 That sounds good 后面如果跟 but，要继续听顾虑是什么。把顾虑理解成“整个计划被否决”会丢掉后续推进。动作还有先后：讨论先提到 workshops，并不一定意味着 workshops 最先开展。\n对话示范\nMia: “We could invite a guest speaker.” Jo: “Good idea. I can book the room, but could you contact the speaker?”\n问谁安排场地，答案是 Jo；Mia 先提出的想法并不能推出她负责所有事。\n词块先看意思即可，不必背完才播放。听力音频 · A team meeting about diversity用法与易错involve someone in doing让某人参与做某事We involved volunteers in choosing the workshop topics.易错：in 后接名词或动名词：in choosing，不是 in choose。be responsible for负责某事Ravi is responsible for booking the meeting room.易错：for 后的动作使用 booking；responsible 不是动词。specialise in专门从事／擅长某领域The trainer specialises in helping new teams communicate.易错：in 后接领域或动名词；美式 specialize 也正确。make the most of充分利用已有机会或资源We made the most of the short meeting by preparing questions.易错：保留 the；不等于拥有最多数量。听后练习听听力音频，完成人物匹配。人物可以重复使用：A Nina，B Brenda，C Stefano。\n1. 担心员工只把新文件看成管理层的产物。\n2. 负责寻找合适的培训师。\n3. 负责寻找不同于普通研讨会的有趣场地。\n4. 负责查找其他机构利用团队差异的经验。\n5. 将计划的活动排序：收集员工点子的 workshops；让大家体验差异价值的 team-building sessions。\n6. 迁移练习：上方示范中 Jo 同意负责什么？第 1 题暂时不会第 2 题暂时不会第 3 题暂时不会第 4 题暂时不会第 5 题暂时不会第 6 题暂时不会查看参考与解释1＝B；Brenda 的顾虑是参与感和实际关注度，不是说团队完全没有差异。\n2＝C；Nina 把寻找培训师的行动明确交给 Stefano，他答应执行。\n3＝B；Brenda 接到找场地的任务。不要把“培训师”和“培训地点”合并。\n4＝A；Nina 自己继续查其他机构的经验。\n5＝先 team-building sessions，再 workshops。会话先提到后者，随后补入“在那之前”的活动，要按实际计划排序。\n6＝book the room。联系嘉宾是她请 Mia 做的另一项任务。\n若人名匹配错，重听最后明确分工的一轮；若顺序错，重听插入先行步骤的位置。复习选项：简短再用下次开始新课前，盖住词卡，用 involve 与 be responsible for 各说一句自己的团队分工。任选一题重新解释证据，4 分钟到就结束复习。 我已读过讲解 加入我的复习我的新表达／本次复习记录（可留空）配套材料· A team meeting about diversity配套原课程 PDF（题目、文字稿及答案）",
+  "links": [
+    {
+      "text": "· A team meeting about diversity",
+      "href": "https://learnenglish.britishcouncil.org/free-resources/listening/b1/team-meeting-about-diversity"
+    },
+    {
+      "text": "配套原课程 PDF（题目、文字稿及答案）",
+      "href": "%E6%89%A9%E5%B1%95%E8%B5%84%E6%96%99/2026-09-16-resource-audio/c2159644-49206872-LearnEnglish-Listening-B1-A-team-meeting-about-diversity.pdf"
+    }
+  ],
+  "details": [
+    {
+      "id": "check-listening-team-roles",
+      "title": "查看参考与解释",
+      "open": false,
+      "answerGate": "[\"lesson-listening-team-roles-q1\", \"lesson-listening-team-roles-q2\", \"lesson-listening-team-roles-q3\", \"lesson-listening-team-roles-q4\", \"lesson-listening-team-roles-q5\", \"lesson-listening-team-roles-q6\"]",
+      "visible": true
+    },
+    {
+      "id": "",
+      "title": "复习选项：简短再用",
+      "open": false,
+      "visible": true
+    },
+    {
+      "id": "",
+      "title": "配套材料",
+      "open": false,
+      "visible": true
+    }
+  ],
+  "saveFields": [
+    "lesson-listening-team-roles-q1",
+    "lesson-listening-team-roles-q2",
+    "lesson-listening-team-roles-q3",
+    "lesson-listening-team-roles-q4",
+    "lesson-listening-team-roles-q5",
+    "lesson-listening-team-roles-q6",
+    "resource-learned-new-listening-team-roles",
+    "resource-review-new-listening-team-roles",
+    "resource-note-new-listening-team-roles"
+  ],
+  "images": [],
+  "audio": [
+    {
+      "src": "%E6%89%A9%E5%B1%95%E8%B5%84%E6%96%99/2026-09-16-resource-audio/db869dd3-bfdbdf7e-LE_listening_B1_Team_meeting_about_diversity.mp3",
+      "sources": [],
+      "visible": true,
+      "controls": true
+    }
+  ],
+  "viewport": 1440,
+  "documentWidth": 1440
+}

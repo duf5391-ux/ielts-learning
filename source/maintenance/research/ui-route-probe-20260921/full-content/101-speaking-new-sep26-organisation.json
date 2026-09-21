@@ -1,0 +1,122 @@
+{
+  "requested": "speaking-new-sep26-organisation",
+  "from": [
+    "内容单元",
+    "页面链接"
+  ],
+  "actual": "#speaking-new-sep26-organisation",
+  "checkedAt": "2026-09-21T12:51:43.289Z",
+  "title": "学习 / 口语 / 不真实的信息：发现问题与核对 · IELTS",
+  "label": "学习 / 口语 / 不真实的信息：发现问题与核对",
+  "panel": "speaking",
+  "contentRoot": "speaking-new-sep26-organisation",
+  "headings": [
+    {
+      "tag": "H4",
+      "text": "不真实的信息：发现问题与核对",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "参考作答",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "逐项解释与练习",
+      "visible": true
+    }
+  ],
+  "controls": [
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "不真实的信息：发现问题与核对",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "Cambridge IELTS 21 Academic · Test 2 · 物理页54 / 印刷页53",
+      "label": "",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=54",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "Cambridge IELTS 21 Academic · Test 2 · 物理页54 / 印刷页53",
+      "label": "",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=54",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "checkbox",
+      "text": "",
+      "label": "我已学习本单元",
+      "href": null,
+      "save": "resource-learned-sep26-organisation",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "checkbox",
+      "text": "",
+      "label": "加入我的复习",
+      "href": null,
+      "save": "resource-review-sep26-organisation",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "我的新表达／本次复习记录（可留空）",
+      "href": null,
+      "save": "resource-note-sep26-organisation",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    }
+  ],
+  "visibleText": "不真实的信息：发现问题与核对\n0% · 0 / 1 完成\n不真实的信息：发现问题与核对\n\n本单元使用真实 Part 2 问题。先看完整问题组，再比较参考作答如何逐问落实内容；人物经历为参考作答中的示例，不是原题事实或统一标准答案。\n\nDescribe a time when you read or heard something that you thought was not true.\nwhere you read/heard this\nwhat you read/heard\nwhy you thought it was not true\nand explain how you felt about reading/hearing this thing that you thought was not true.\n参考作答\n\nI remember seeing a message in a group chat saying that our university library would close for an entire month. It appeared just before an important assignment was due, so several people were worried. The message looked like a screenshot of an announcement, but it didn't include a date or a link to the original notice.\n\nI doubted it because I had been in the library that morning and had seen nothing about a long closure. Rather than immediately telling everyone the message was wrong, I checked the library website. The actual notice said that one reading room would close for repairs while the rest of the building remained open.\n\nAt first I felt anxious, because I depended on the library for a quiet place to study. Once I had checked the notice, I felt relieved and a little frustrated that an incomplete message had caused so much confusion. I shared the link with the group and explained the difference. The experience reminded me to check the original context before passing on information that sounds urgent.\n\n逐项解释与练习\n\nwhere=group chat；what=whole library closed one month；why=different recent observation + original notice核对；feelings=anxious→relieved/frustrated。题目是 thought not true，先怀疑再核对比把直觉当证据更清楚。本文事件是原创参考作答，不是新增真题文本。\n\n练习：保留题目中的对象、时间和问法，换成自己的真实经历。先口头作答，再对照上面的具体内容逐项检查；不需要逐字背诵参考作答。\n\n完整原件：Cambridge IELTS 21 Academic · Test 2 · 物理页54 / 印刷页53\n\nCambridge IELTS 21 Academic · Test 2 · 物理页54 / 印刷页53\n\n本单元的学习记录\n\n 我已学习本单元 加入我的复习\n我的新表达／本次复习记录（可留空）",
+  "allContent": "不真实的信息：发现问题与核对0% · 0 / 1 完成不真实的信息：发现问题与核对本单元使用真实 Part 2 问题。先看完整问题组，再比较参考作答如何逐问落实内容；人物经历为参考作答中的示例，不是原题事实或统一标准答案。Describe a time when you read or heard something that you thought was not true.where you read/heard thiswhat you read/heardwhy you thought it was not trueand explain how you felt about reading/hearing this thing that you thought was not true.参考作答I remember seeing a message in a group chat saying that our university library would close for an entire month. It appeared just before an important assignment was due, so several people were worried. The message looked like a screenshot of an announcement, but it didn't include a date or a link to the original notice.I doubted it because I had been in the library that morning and had seen nothing about a long closure. Rather than immediately telling everyone the message was wrong, I checked the library website. The actual notice said that one reading room would close for repairs while the rest of the building remained open.At first I felt anxious, because I depended on the library for a quiet place to study. Once I had checked the notice, I felt relieved and a little frustrated that an incomplete message had caused so much confusion. I shared the link with the group and explained the difference. The experience reminded me to check the original context before passing on information that sounds urgent.逐项解释与练习where=group chat；what=whole library closed one month；why=different recent observation + original notice核对；feelings=anxious→relieved/frustrated。题目是 thought not true，先怀疑再核对比把直觉当证据更清楚。本文事件是原创参考作答，不是新增真题文本。练习：保留题目中的对象、时间和问法，换成自己的真实经历。先口头作答，再对照上面的具体内容逐项检查；不需要逐字背诵参考作答。完整原件：Cambridge IELTS 21 Academic · Test 2 · 物理页54 / 印刷页53Cambridge IELTS 21 Academic · Test 2 · 物理页54 / 印刷页53本单元的学习记录 我已学习本单元 加入我的复习我的新表达／本次复习记录（可留空）",
+  "links": [
+    {
+      "text": "Cambridge IELTS 21 Academic · Test 2 · 物理页54 / 印刷页53",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=54"
+    },
+    {
+      "text": "Cambridge IELTS 21 Academic · Test 2 · 物理页54 / 印刷页53",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=54"
+    }
+  ],
+  "details": [],
+  "saveFields": [
+    "resource-learned-sep26-organisation",
+    "resource-review-sep26-organisation",
+    "resource-note-sep26-organisation"
+  ],
+  "images": [],
+  "audio": [],
+  "viewport": 1440,
+  "documentWidth": 1440
+}

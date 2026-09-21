@@ -1,0 +1,104 @@
+{
+  "requested": "usage-03",
+  "from": [
+    "内容单元"
+  ],
+  "actual": "#usage-03",
+  "checkedAt": "2026-09-21T12:53:18.850Z",
+  "title": "学习 / 短语 / according to · IELTS",
+  "label": "学习 / 短语 / according to",
+  "panel": "phrases",
+  "contentRoot": "usage-03",
+  "headings": [
+    {
+      "tag": "H3",
+      "text": "according to",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "标明消息从哪里来",
+      "visible": true
+    }
+  ],
+  "controls": [
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "checkbox",
+      "text": "",
+      "label": "收藏 according to",
+      "href": null,
+      "save": "vocab-saved-usage-according-to",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "我的改写\n暂时不会",
+      "href": null,
+      "save": "usage-03-application",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "暂时不会",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "完成后核对",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "checkbox",
+      "text": "",
+      "label": "我已看过本单元",
+      "href": null,
+      "save": "learning-read-usage-03",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    }
+  ],
+  "visibleText": "0% · 0 / 1 完成\n☆\naccording to\n\n引述他人、报告或资料提供的信息：据……所说／根据……。\n\nAccording to + 人／报告／调查, + 完整句；according to a recent survey；according to the report。\n\nAccording to some accounts, one evening Huxley went to dinner still thinking about a mystery dinosaur bone in his lab.\n\n原文完整句，来自现有资料正文；只合并排版换行，未引用题干或答案。\n\n原文：\n\nThe origins of birds\n\n日常语境例句\n\nAccording to the course timetable, the library workshop starts at two.\n\n根据课程时间表，图书馆工作坊两点开始。\n\n表达自己的一般观点用 in my view 或 I think，不把 according to me 当常规模板。according to 也可表示依照规则、随条件变化，这些不是引述义。不能凭空写 according to research 来替没有来源的结论增加可信度。\n\n标明消息从哪里来\n\naccording to 后接信息来源，例如一份通知、调查或某个人的说法。引用来源不表示你已证实了其中的结论。\n\n用 according to 改写这条消息（练习情境）：The notice says that the workshop is on Friday at 10 a.m.\n\n我的改写\n暂时不会\n完成后核对\n我已看过本单元",
+  "allContent": "0% · 0 / 1 完成☆according to引述他人、报告或资料提供的信息：据……所说／根据……。According to + 人／报告／调查, + 完整句；according to a recent survey；according to the report。According to some accounts, one evening Huxley went to dinner still thinking about a mystery dinosaur bone in his lab.原文完整句，来自现有资料正文；只合并排版换行，未引用题干或答案。原文：The origins of birds日常语境例句According to the course timetable, the library workshop starts at two.根据课程时间表，图书馆工作坊两点开始。表达自己的一般观点用 in my view 或 I think，不把 according to me 当常规模板。according to 也可表示依照规则、随条件变化，这些不是引述义。不能凭空写 according to research 来替没有来源的结论增加可信度。标明消息从哪里来according to 后接信息来源，例如一份通知、调查或某个人的说法。引用来源不表示你已证实了其中的结论。用 according to 改写这条消息（练习情境）：The notice says that the workshop is on Friday at 10 a.m.我的改写暂时不会完成后核对According to the notice, the workshop is on Friday at 10 a.m.the notice 是信息来源；时间与活动保持原意。according to 后不直接接一个完整的主谓句。 我已看过本单元",
+  "links": [],
+  "details": [
+    {
+      "id": "check-usage-03",
+      "title": "完成后核对",
+      "open": false,
+      "answerGate": "[\"usage-03-application\"]",
+      "visible": true
+    }
+  ],
+  "saveFields": [
+    "vocab-saved-usage-according-to",
+    "usage-03-application",
+    "learning-read-usage-03"
+  ],
+  "images": [],
+  "audio": [],
+  "viewport": 1440,
+  "documentWidth": 1440
+}

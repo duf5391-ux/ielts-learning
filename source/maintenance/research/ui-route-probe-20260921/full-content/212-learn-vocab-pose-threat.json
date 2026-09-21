@@ -1,0 +1,440 @@
+{
+  "requested": "learn-vocab-pose-threat",
+  "from": [
+    "内容单元"
+  ],
+  "actual": "#learn-vocab-pose-threat",
+  "checkedAt": "2026-09-21T12:53:10.605Z",
+  "title": "学习 / 短语 / pose a threat to …｜对……构成威胁 · IELTS",
+  "label": "学习 / 短语 / pose a threat to …｜对……构成威胁",
+  "panel": "phrases",
+  "contentRoot": "learn-vocab-pose-threat",
+  "headings": [
+    {
+      "tag": "H3",
+      "text": "意义与结构",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "例句",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "易混点",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "留下本单元首稿",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "核对依据，再修订",
+      "visible": false
+    },
+    {
+      "tag": "H3",
+      "text": "换个情境再用一次",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "pose a threat：确定威胁对象与机制",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "pose a threat：确定威胁对象与机制",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "赛加羚羊：适应、威胁与保护",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "原文 · 印刷页60",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "原文 · 印刷页61",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "原题 · 印刷页62",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "原题 · 印刷页63",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "答案与证据解释",
+      "visible": true
+    }
+  ],
+  "controls": [
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "04\npose a threat to …｜对……构成威胁\n描述风险的来源、受影响对象及可能后果，不把风险写成已发生的损害。\n约 8 分钟",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "checkbox",
+      "text": "",
+      "label": "收藏这组搭配 ★",
+      "href": null,
+      "save": "vocabbookmark-extra-vocab-pose-threat",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "可选：记录或再练一次",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SELECT",
+      "id": "",
+      "type": "select-one",
+      "text": "",
+      "label": "",
+      "href": null,
+      "save": "enrich-vocab-pose-threat-familiarity",
+      "visible": false,
+      "disabled": false,
+      "required": false,
+      "options": [
+        {
+          "value": "",
+          "label": "未标记"
+        },
+        {
+          "value": "K",
+          "label": "K · 以前就会主动用"
+        },
+        {
+          "value": "R",
+          "label": "R · 认识，但平时不用"
+        },
+        {
+          "value": "N",
+          "label": "N · 这次新学的用法"
+        }
+      ]
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "我的答案／口语录音文件与简记",
+      "href": null,
+      "save": "enrich-vocab-pose-threat-answer",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "checkbox",
+      "text": "",
+      "label": "",
+      "href": null,
+      "save": "enrich-vocab-pose-threat-frozen",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "text",
+      "text": "",
+      "label": "",
+      "href": null,
+      "save": "enrich-vocab-pose-threat-saved-at",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "保留首稿，打开反馈",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "修订：哪里变了，为什么",
+      "href": null,
+      "save": "enrich-vocab-pose-threat-revision",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "可选：记录或再练一次",
+      "label": "",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "迁移答案／隔日回忆记录",
+      "href": null,
+      "save": "enrich-vocab-pose-threat-transfer",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "可选：记录或再练一次",
+      "label": "",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SELECT",
+      "id": "",
+      "type": "select-one",
+      "text": "请选择内容或语境没理解词义或声音没认出词汇选择／搭配不稳证据、逻辑或展开不足语法或句子组织问题暂时独立完成，隔天再检验",
+      "label": "这次最需要补什么？请选择内容或语境没理解词义或声音没认出词汇选择／搭配不稳证据、逻辑或展开不足语法或句子组织问题暂时独立完成，隔天再检验",
+      "href": null,
+      "save": "enrich-vocab-pose-threat-diagnosis",
+      "visible": false,
+      "disabled": false,
+      "required": false,
+      "options": [
+        {
+          "value": "",
+          "label": "请选择"
+        },
+        {
+          "value": "内容或语境没理解",
+          "label": "内容或语境没理解"
+        },
+        {
+          "value": "词义或声音没认出",
+          "label": "词义或声音没认出"
+        },
+        {
+          "value": "词汇选择／搭配不稳",
+          "label": "词汇选择／搭配不稳"
+        },
+        {
+          "value": "证据、逻辑或展开不足",
+          "label": "证据、逻辑或展开不足"
+        },
+        {
+          "value": "语法或句子组织问题",
+          "label": "语法或句子组织问题"
+        },
+        {
+          "value": "暂时独立完成，隔天再检验",
+          "label": "暂时独立完成，隔天再检验"
+        }
+      ]
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "配套材料",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "",
+      "label": "",
+      "href": "https://dictionary.cambridge.org/dictionary/english/pose",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "Cambridge IELTS 21 Academic · Test 3 · 物理页61 / 印刷页60",
+      "label": "",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=61",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "Cambridge IELTS 21 Academic · Test 3 · 物理页63 / 印刷页62",
+      "label": "",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=63",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "Cambridge IELTS 21 Academic · Test 3 · 物理页123 / 印刷页122",
+      "label": "",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=123",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "Cambridge IELTS 21 Academic · Test 3 · 物理页61 / 印刷页60",
+      "label": "",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=61",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "Cambridge IELTS 21 Academic · Test 3 · 物理页63 / 印刷页62",
+      "label": "",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=63",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "Cambridge IELTS 21 Academic · Test 3 · 物理页123 / 印刷页122",
+      "label": "",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=123",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    }
+  ],
+  "visibleText": "04\npose a threat to …｜对……构成威胁\n描述风险的来源、受影响对象及可能后果，不把风险写成已发生的损害。\n约 8 分钟\n0% · 0 / 1 完成\n收藏这组搭配 ★\n可选：记录或再练一次\n意义与结构\n\n主语是威胁来源：X poses a threat to Y。pose 后面接 a threat，to 后面连接受威胁的人、环境或系统。也可说 pose a risk／pose a problem，但这些名词的后续结构要按具体句子处理。\n\n例句\n\nRapid habitat loss poses a threat to local wildlife. 栖息地迅速减少对当地野生动物构成威胁。\n\nFalse health advice may pose a threat to public safety. 错误的健康建议可能威胁公共安全。\n\n易混点\n\nthreat 表示危险或可能的损害，不等于某次损害已被证实。证据有限时可用 may／could，但不要堆成 may possibly perhaps。pose 还有摆姿势、提出问题等义项，不能把所有 pose 都理解成威胁。\n\n留下本单元首稿\n\n本单元先学再用；不记为未见初测。口语可使用原章节录音器，或自行录音并记文件名。\n\n先读短课，再独立应用；保存后看反馈。\n\n① Plastic waste may pose a threat ＿＿＿＿ marine life. ② 改错：Noise pollution poses threat to residents' health. ③ 用目标表达写一个技术或环境风险，讲清楚谁受到威胁。\n\n我的答案／口语录音文件与简记\n保留首稿，打开反馈\n\n先写下自己的答案。\n\n配套材料\npose a threat：确定威胁对象与机制\npose a threat：确定威胁对象与机制\n\n原文Climate change poses a further threat紧接疾病段。Q7 streams与干旱导致小溪消失对应；温度异常可能触发疾病，但may不能改成确定因果。\n\n赛加羚羊：适应、威胁与保护\n\n先读这一组完整原文页，再完成对应原题。以下时代、数量与观点均按考试文章语境理解。\n\n原文 · 印刷页60\n\nREADING PASSAGE 1\n\nYou should spend about 20 minutes on Questions 1-13, which are based on Passage 1 below.\n\nSaving the saiga\n\nThe saiga, a species of antelope native to Central Asia, once roamed the vast grasslands of this region in enormous herds, many millions strong. Regrettably, such spectacular sights are a thing of the past. Today, the saiga is largely confined to a single country: Kazakhstan. This country is estimated to be home to well over 90% of the global saiga population, with Russia, Mongolia and Uzbekistan accounting for the rest.\n\nThe saiga is perfectly adapted to the tough conditions of the remote wilderness of the steppes of Central Asia. One such adaptation is its bizarre bulbous nose, which enables the animal to survive the extreme seasonal temperature swings of the region. The swollen nostrils of the nose serve several purposes: they filter out dust and cool the blood during hot, dry summers, and they warm the cold air before it enters the saiga's lungs in winter. Other seasonal adaptations include a heavy winter coat that the saiga sheds when the weather warms up.\n\nDespite these superb adaptations to harsh conditions, the saiga has no defence against the threats posed by humans. It was almost driven to extinction by hunters in the 19th century. Legal protection ensured its survival for a while, and numbers steadily recovered throughout most of the 20th century. But the respite was only temporary. In the ten years following the break-up of the former Soviet Union in 1991, over 95% of the global population was lost - one of the fastest examples of species loss ever recorded for a mammal.\n\nThe dramatic decline during this decade was due to illegal poaching on an industrial scale. Male saiga are a particular target, because their horns are highly prized by traditional medicine practitioners. Poaching reached epidemic levels after misguided conservationists tried to relieve the pressure on threatened African rhinos by actively encouraging the use of saiga horns in traditional medicine as an alternative to those of rhinos. Male saiga were almost wiped out, leading to a population crash from which the species has been struggling to recover ever since.\n\nAnother threat to the survival of the saiga is loss of habitat, as a result of agricultural expansion and human settlement. Physical barriers such as railways, pipelines and fences can block the seasonal migration routes of this transboundary species. In the worst cases, herds may starve to death after being trapped.\n\n原文 · 印刷页61\n\nThen there is the risk of disease. In 2015, an outbreak of haemorrhagic septicaemia, caused by the normally harmless bacterium Pasteurella multocida, killed over 75% of the global adult saiga population in just three weeks. In 2017, 60% of the Mongolian saiga population - a subspecies found nowhere else in the world - was killed by a virus that spilled over from livestock. These so-called mass mortality events represent an unpredictable and serious threat to the species.\n\nClimate change poses a further threat. Although well adapted to cold winters and hot summers, saiga struggle to cope with temperature extremes and unpredictable fluctuations in climate. Experts believe that unusually warm weather may have triggered the 2015 mass mortality event. The steppe region has also become increasingly arid in recent years, and many of the smaller streams that the species normally depended on have dried up and vanished.\n\nRecent efforts to save the saiga have been spearheaded by the Altyn Dala Conservation Initiative, a project led by the Association for the Conservation of Biodiversity of Kazakhstan, working in partnership with the Kazakh government's Committee for Forestry and Wildlife, Frankfurt Zoological Society and Fauna and Flora, an international conservation charity. Its purpose is to protect and restore Kazakhstan's steppe, semi-desert and desert ecosystems and the many species they support, including the critically endangered saiga. In 2022 the United Nations recognised the initiative as a World Restoration Flagship project, an accolade reserved for the ten best examples of large-scale ecosystem restoration around the globe.\n\nSo, how many saiga are there now? By 2000, the global saiga population had hit an all­ time low of just 21,000 individuals. There was some recovery in the first decade of the new millennium but this was then crushed by devastating mass mortality events that saw the loss of hundreds of thousands of the species. But thanks to the intervention of the Altyn Dala Conservation Initiative, the most recent episodes in the ongoing story of the saiga have been relatively uplifting. Three years ago, the Ustyurt Plateau population in Kazakhstan experienced its largest mass birth of saiga calves in many years. An aerial census two years ago recorded an estimated 842,000 saiga across Kazakhstan as a whole, and according to an aerial survey earlier this year, the saiga population in Kazakhstan now exceeds 1.9 million. The world's strangest-looking antelope remains critically endangered, but the direction of travel is positive.\n\n原题 · 印刷页62\n\nTest 3\n\nQuestions 1-7\n\nComplete the notes below.\n\nChoose ONE WORD ONLY from the passage for each answer.\n\nWrite your answers in boxes 1-7 on your answer sheet.\n\nThe saiga\n\nAdaptations • has a large bulbous nose with swollen nostrils that keep 1 ..................................... out\n\nlower the temperature of its 2 ..................................... in summer\n\nwarm the air entering its lungs in winter\n\n• grows a thick 3 ..................................... in winter, which it loses in spring\n\nReasons for population decline • poaching, especially for the 4 ..................................... of male saiga\n\n• expansion of farms and settlements, causing reduction in the size of the saiga's 5 .................................... .\n\nloss of access to the 6 ..................................... which they use for migration\n\n• various forms of disease, leading to mass mortality events • climate change, causing the disappearance of 7 ..................................... which the saiga relied on\n\n原题 · 印刷页63\n\nQuestions 8-13\n\nDo the following statements agree with the information given in Reading Passage 1?\n\nIn boxes 8-13 on your answer sheet, write\n\nTRUE FALSE NOT GIVEN\n\nif the statement agrees with the information if the statement contradicts the information if there is no information on this\n\n8 Today, numbers of saiga are distributed evenly across four nations in Central Asia: Kazakhstan, Russia, Mongolia and Uzbekistan.\n\n9 For most of the 20th century, the population of saiga were falling.\n\n10 Efforts to protect rhinos in Africa had a significant effect on saiga populations.\n\n11 Unpredictable fluctuations in climate are threatening the wildlife of Central Asia more than in other parts of the world.\n\n12 The Altyn Dala Conservation Initiative was formed for the benefit of a number of different animals.\n\n13 The Altyn Dala Conservation Initiative's recognition as a World Restoration Flagship project attracted additional international funding for the scheme.\n\n113 p. 1221 63\n\n答案与证据解释\n\nQ1–7 dust/blood/coat/horns/habitat/routes/streams：鼻孔过滤尘土、冷却血液，冬毛适应温度；偷猎为角，农业和定居挤占栖息地、屏障挡迁徙路线，干旱使溪流消失。Q8 FALSE：90%以上在哈萨克斯坦，不是四国均匀；Q9 FALSE：20世纪多数时候数量恢复；Q10 TRUE：鼓励用赛加角代替犀牛角反而造成灾难；Q11 NOT GIVEN：没有跨地区严重程度比较；Q12 TRUE：项目保护生态系统及其中许多物种；Q13 NOT GIVEN：联合国认可不等于已说明新增资金。不要把考试文本的now数量移植成当前统计。\n\n完整原件：Cambridge IELTS 21 Academic · Test 3 · 物理页61 / 印刷页60；Cambridge IELTS 21 Academic · Test 3 · 物理页63 / 印刷页62；Cambridge IELTS 21 Academic · Test 3 · 物理页123 / 印刷页122\n\nCambridge IELTS 21 Academic · Test 3 · 物理页61 / 印刷页60\n\nCambridge IELTS 21 Academic · Test 3 · 物理页63 / 印刷页62\n\nCambridge IELTS 21 Academic · Test 3 · 物理页123 / 印刷页122",
+  "allContent": "04pose a threat to …｜对……构成威胁描述风险的来源、受影响对象及可能后果，不把风险写成已发生的损害。约 8 分钟0% · 0 / 1 完成收藏这组搭配 ★可选：记录或再练一次学习前自评：这个用法熟悉吗？未标记K · 以前就会主动用R · 认识，但平时不用N · 这次新学的用法意义与结构\n主语是威胁来源：X poses a threat to Y。pose 后面接 a threat，to 后面连接受威胁的人、环境或系统。也可说 pose a risk／pose a problem，但这些名词的后续结构要按具体句子处理。\n例句\nRapid habitat loss poses a threat to local wildlife.\n栖息地迅速减少对当地野生动物构成威胁。\nFalse health advice may pose a threat to public safety.\n错误的健康建议可能威胁公共安全。\n易混点\nthreat 表示危险或可能的损害，不等于某次损害已被证实。证据有限时可用 may／could，但不要堆成 may possibly perhaps。pose 还有摆姿势、提出问题等义项，不能把所有 pose 都理解成威胁。留下本单元首稿本单元先学再用；不记为未见初测。口语可使用原章节录音器，或自行录音并记文件名。先读短课，再独立应用；保存后看反馈。\n① Plastic waste may pose a threat ＿＿＿＿ marine life. ② 改错：Noise pollution poses threat to residents' health. ③ 用目标表达写一个技术或环境风险，讲清楚谁受到威胁。我的答案／口语录音文件与简记保留首稿，打开反馈先写下自己的答案。核对依据，再修订① to。② Noise pollution poses a threat to residents' health. 单数可数名词 threat 需要限定词。③ 参考：Poor data security could pose a threat to patients' privacy. may／could／can 的选择应符合你实际想表达的可能性；不要为了使用搭配把没有依据的因果写成事实。\n自查只记三项：意义是否符合本意；结构是否完整；是否保留必要的范围或条件。参考答案不是唯一合法表达，不根据是否使用这个搭配给雅思分数。修订：哪里变了，为什么换个情境再用一次隔日把自己的句子改写为 X could threaten Y，再补一句“通过什么途径产生风险”，检查两句是否表达了同一对象。可选：记录或再练一次迁移答案／隔日回忆记录可选：记录或再练一次这次最需要补什么？请选择内容或语境没理解词义或声音没认出词汇选择／搭配不稳证据、逻辑或展开不足语法或句子组织问题暂时独立完成，隔天再检验配套材料Cambridge Dictionary：pose a threat to …pose a threat：确定威胁对象与机制pose a threat：确定威胁对象与机制原文Climate change poses a further threat紧接疾病段。Q7 streams与干旱导致小溪消失对应；温度异常可能触发疾病，但may不能改成确定因果。赛加羚羊：适应、威胁与保护先读这一组完整原文页，再完成对应原题。以下时代、数量与观点均按考试文章语境理解。原文 · 印刷页60READING PASSAGE 1You should spend about 20 minutes on Questions 1-13, which are based on Passage 1 below.Saving the saigaThe saiga, a species of antelope native to Central Asia, once roamed the vast grasslands of this region in enormous herds, many millions strong. Regrettably, such spectacular sights are a thing of the past. Today, the saiga is largely confined to a single country: Kazakhstan. This country is estimated to be home to well over 90% of the global saiga population, with Russia, Mongolia and Uzbekistan accounting for the rest.The saiga is perfectly adapted to the tough conditions of the remote wilderness of the steppes of Central Asia. One such adaptation is its bizarre bulbous nose, which enables the animal to survive the extreme seasonal temperature swings of the region. The swollen nostrils of the nose serve several purposes: they filter out dust and cool the blood during hot, dry summers, and they warm the cold air before it enters the saiga's lungs in winter. Other seasonal adaptations include a heavy winter coat that the saiga sheds when the weather warms up.Despite these superb adaptations to harsh conditions, the saiga has no defence against the threats posed by humans. It was almost driven to extinction by hunters in the 19th century. Legal protection ensured its survival for a while, and numbers steadily recovered throughout most of the 20th century. But the respite was only temporary. In the ten years following the break-up of the former Soviet Union in 1991, over 95% of the global population was lost - one of the fastest examples of species loss ever recorded for a mammal.The dramatic decline during this decade was due to illegal poaching on an industrial scale. Male saiga are a particular target, because their horns are highly prized by traditional medicine practitioners. Poaching reached epidemic levels after misguided conservationists tried to relieve the pressure on threatened African rhinos by actively encouraging the use of saiga horns in traditional medicine as an alternative to those of rhinos. Male saiga were almost wiped out, leading to a population crash from which the species has been struggling to recover ever since.Another threat to the survival of the saiga is loss of habitat, as a result of agricultural expansion and human settlement. Physical barriers such as railways, pipelines and fences can block the seasonal migration routes of this transboundary species. In the worst cases, herds may starve to death after being trapped.原文 · 印刷页61Then there is the risk of disease. In 2015, an outbreak of haemorrhagic septicaemia, caused by the normally harmless bacterium Pasteurella multocida, killed over 75% of the global adult saiga population in just three weeks. In 2017, 60% of the Mongolian saiga population - a subspecies found nowhere else in the world - was killed by a virus that spilled over from livestock. These so-called mass mortality events represent an unpredictable and serious threat to the species.Climate change poses a further threat. Although well adapted to cold winters and hot summers, saiga struggle to cope with temperature extremes and unpredictable fluctuations in climate. Experts believe that unusually warm weather may have triggered the 2015 mass mortality event. The steppe region has also become increasingly arid in recent years, and many of the smaller streams that the species normally depended on have dried up and vanished.Recent efforts to save the saiga have been spearheaded by the Altyn Dala Conservation Initiative, a project led by the Association for the Conservation of Biodiversity of Kazakhstan, working in partnership with the Kazakh government's Committee for Forestry and Wildlife, Frankfurt Zoological Society and Fauna and Flora, an international conservation charity. Its purpose is to protect and restore Kazakhstan's steppe, semi-desert and desert ecosystems and the many species they support, including the critically endangered saiga. In 2022 the United Nations recognised the initiative as a World Restoration Flagship project, an accolade reserved for the ten best examples of large-scale ecosystem restoration around the globe.So, how many saiga are there now? By 2000, the global saiga population had hit an all­ time low of just 21,000 individuals. There was some recovery in the first decade of the new millennium but this was then crushed by devastating mass mortality events that saw the loss of hundreds of thousands of the species. But thanks to the intervention of the Altyn Dala Conservation Initiative, the most recent episodes in the ongoing story of the saiga have been relatively uplifting. Three years ago, the Ustyurt Plateau population in Kazakhstan experienced its largest mass birth of saiga calves in many years. An aerial census two years ago recorded an estimated 842,000 saiga across Kazakhstan as a whole, and according to an aerial survey earlier this year, the saiga population in Kazakhstan now exceeds 1.9 million. The world's strangest-looking antelope remains critically endangered, but the direction of travel is positive.原题 · 印刷页62Test 3Questions 1-7Complete the notes below.Choose ONE WORD ONLY from the passage for each answer.Write your answers in boxes 1-7 on your answer sheet.The saigaAdaptations • has a large bulbous nose with swollen nostrils that keep 1 ..................................... outlower the temperature of its 2 ..................................... in summerwarm the air entering its lungs in winter• grows a thick 3 ..................................... in winter, which it loses in springReasons for population decline • poaching, especially for the 4 ..................................... of male saiga• expansion of farms and settlements, causing reduction in the size of the saiga's 5 .................................... .loss of access to the 6 ..................................... which they use for migration• various forms of disease, leading to mass mortality events • climate change, causing the disappearance of 7 ..................................... which the saiga relied on原题 · 印刷页63Questions 8-13Do the following statements agree with the information given in Reading Passage 1?In boxes 8-13 on your answer sheet, writeTRUE FALSE NOT GIVENif the statement agrees with the information if the statement contradicts the information if there is no information on this8 Today, numbers of saiga are distributed evenly across four nations in Central Asia: Kazakhstan, Russia, Mongolia and Uzbekistan.9 For most of the 20th century, the population of saiga were falling.10 Efforts to protect rhinos in Africa had a significant effect on saiga populations.11 Unpredictable fluctuations in climate are threatening the wildlife of Central Asia more than in other parts of the world.12 The Altyn Dala Conservation Initiative was formed for the benefit of a number of different animals.13 The Altyn Dala Conservation Initiative's recognition as a World Restoration Flagship project attracted additional international funding for the scheme.113 p. 1221 63答案与证据解释Q1–7 dust/blood/coat/horns/habitat/routes/streams：鼻孔过滤尘土、冷却血液，冬毛适应温度；偷猎为角，农业和定居挤占栖息地、屏障挡迁徙路线，干旱使溪流消失。Q8 FALSE：90%以上在哈萨克斯坦，不是四国均匀；Q9 FALSE：20世纪多数时候数量恢复；Q10 TRUE：鼓励用赛加角代替犀牛角反而造成灾难；Q11 NOT GIVEN：没有跨地区严重程度比较；Q12 TRUE：项目保护生态系统及其中许多物种；Q13 NOT GIVEN：联合国认可不等于已说明新增资金。不要把考试文本的now数量移植成当前统计。完整原件：Cambridge IELTS 21 Academic · Test 3 · 物理页61 / 印刷页60；Cambridge IELTS 21 Academic · Test 3 · 物理页63 / 印刷页62；Cambridge IELTS 21 Academic · Test 3 · 物理页123 / 印刷页122Cambridge IELTS 21 Academic · Test 3 · 物理页61 / 印刷页60Cambridge IELTS 21 Academic · Test 3 · 物理页63 / 印刷页62Cambridge IELTS 21 Academic · Test 3 · 物理页123 / 印刷页122",
+  "links": [
+    {
+      "text": "Cambridge Dictionary：pose a threat to …",
+      "href": "https://dictionary.cambridge.org/dictionary/english/pose"
+    },
+    {
+      "text": "Cambridge IELTS 21 Academic · Test 3 · 物理页61 / 印刷页60",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=61"
+    },
+    {
+      "text": "Cambridge IELTS 21 Academic · Test 3 · 物理页63 / 印刷页62",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=63"
+    },
+    {
+      "text": "Cambridge IELTS 21 Academic · Test 3 · 物理页123 / 印刷页122",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=123"
+    },
+    {
+      "text": "Cambridge IELTS 21 Academic · Test 3 · 物理页61 / 印刷页60",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=61"
+    },
+    {
+      "text": "Cambridge IELTS 21 Academic · Test 3 · 物理页63 / 印刷页62",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=63"
+    },
+    {
+      "text": "Cambridge IELTS 21 Academic · Test 3 · 物理页123 / 印刷页122",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=123"
+    }
+  ],
+  "details": [
+    {
+      "id": "",
+      "title": "可选：记录或再练一次",
+      "open": false,
+      "visible": true
+    },
+    {
+      "id": "",
+      "title": "可选：记录或再练一次",
+      "open": false,
+      "visible": false
+    },
+    {
+      "id": "",
+      "title": "可选：记录或再练一次",
+      "open": false,
+      "visible": false
+    },
+    {
+      "id": "",
+      "title": "配套材料",
+      "open": false,
+      "visible": true
+    }
+  ],
+  "saveFields": [
+    "vocabbookmark-extra-vocab-pose-threat",
+    "enrich-vocab-pose-threat-familiarity",
+    "enrich-vocab-pose-threat-answer",
+    "enrich-vocab-pose-threat-frozen",
+    "enrich-vocab-pose-threat-saved-at",
+    "enrich-vocab-pose-threat-revision",
+    "enrich-vocab-pose-threat-transfer",
+    "enrich-vocab-pose-threat-diagnosis"
+  ],
+  "images": [],
+  "audio": [],
+  "viewport": 1440,
+  "documentWidth": 1440
+}

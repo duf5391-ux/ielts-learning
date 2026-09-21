@@ -1,0 +1,2754 @@
+{
+  "requested": "writing2-case-bank",
+  "from": [
+    "页面链接"
+  ],
+  "actual": "#writing2-case-bank",
+  "checkedAt": "2026-09-21T12:54:50.949Z",
+  "title": "写作 · Task 2练习 · IELTS",
+  "label": "写作 · Task 2练习",
+  "panel": "practice-writing2",
+  "contentRoot": "writing2-case-bank",
+  "headings": [
+    {
+      "tag": "H2",
+      "text": "议论文 · 段落练习",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "写作前置 · 文中表达",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "on the periphery",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "within a short walk of",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "本次写作任务",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "对照答案，回到证据",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "参考写法",
+      "visible": false
+    },
+    {
+      "tag": "H3",
+      "text": "答后精读",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "篇章结构",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "词语与搭配",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "句子精读",
+      "visible": false
+    },
+    {
+      "tag": "H3",
+      "text": "写作前置 · 文中表达",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "a vibrant artists' community",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "a lasting and meaningful cultural legacy",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "draw wider audiences",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "no shortage of",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "本次写作任务",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "对照答案，回到证据",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "参考写法",
+      "visible": false
+    },
+    {
+      "tag": "H3",
+      "text": "答后精读",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "篇章结构",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "词语与搭配",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "句子精读",
+      "visible": false
+    },
+    {
+      "tag": "H3",
+      "text": "写作前置 · 文中表达",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "a solid grounding in music theory",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "本次写作任务",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "对照答案，回到证据",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "参考写法",
+      "visible": false
+    },
+    {
+      "tag": "H3",
+      "text": "答后精读",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "篇章结构",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "词语与搭配",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "句子精读",
+      "visible": false
+    },
+    {
+      "tag": "H3",
+      "text": "写作前置 · 文中表达",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "differs from the language used at home",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "little room for independent learning",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "本次写作任务",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "对照答案，回到证据",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "参考写法",
+      "visible": false
+    },
+    {
+      "tag": "H3",
+      "text": "答后精读",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "篇章结构",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "词语与搭配",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "句子精读",
+      "visible": false
+    },
+    {
+      "tag": "H3",
+      "text": "写作前置 · 文中表达",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "essential for day-to-day survival",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "本次写作任务",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "对照答案，回到证据",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "参考写法",
+      "visible": false
+    },
+    {
+      "tag": "H3",
+      "text": "答后精读",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "篇章结构",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "词语与搭配",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "句子精读",
+      "visible": false
+    },
+    {
+      "tag": "H3",
+      "text": "同题官方考生样本 · Band 8.5 · 2A Script C",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "写作前置 · 文中表达",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "noise from aircraft",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "placed too much stress on local resources",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "本次写作任务",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "对照答案，回到证据",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "参考写法",
+      "visible": false
+    },
+    {
+      "tag": "H3",
+      "text": "答后精读",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "篇章结构",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "词语与搭配",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "句子精读",
+      "visible": false
+    },
+    {
+      "tag": "H3",
+      "text": "同题官方考生样本 · Band 7.5 · 2B Script B",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "写作前置 · 文中表达",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "shed light on",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "setting unrealistic expectations about",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "appropriate data infrastructure",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "reap the benefits of",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "minimise the potential harms",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "be aware of the limitations of",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "本次写作任务",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "对照答案，回到证据",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "参考写法",
+      "visible": false
+    },
+    {
+      "tag": "H3",
+      "text": "答后精读",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "篇章结构",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "词语与搭配",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "句子精读",
+      "visible": false
+    },
+    {
+      "tag": "H3",
+      "text": "写作前置 · 文中表达",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "reducing noise from roads",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "a future controlled by the private car",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "accessible to people using wheelchairs",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "within a short walk of",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "本次写作任务",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "对照答案，回到证据",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "参考写法",
+      "visible": false
+    },
+    {
+      "tag": "H3",
+      "text": "答后精读",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "篇章结构",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "词语与搭配",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "句子精读",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "本次写作任务",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "对照答案，回到证据",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "参考写法",
+      "visible": false
+    },
+    {
+      "tag": "H3",
+      "text": "答后精读",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "篇章结构",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "词语与搭配",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "句子精读",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "本次写作任务",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "对照答案，回到证据",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "参考写法",
+      "visible": false
+    },
+    {
+      "tag": "H3",
+      "text": "答后精读",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "篇章结构",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "词语与搭配",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "句子精读",
+      "visible": false
+    },
+    {
+      "tag": "H3",
+      "text": "写作前置 · 文中表达",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "threatening the livelihood of",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "on an industrial scale",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "relieve the pressure on",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "working in partnership with",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "protect and restore",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "本次写作任务",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "对照答案，回到证据",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "参考写法",
+      "visible": false
+    },
+    {
+      "tag": "H3",
+      "text": "答后精读",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "篇章结构",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "词语与搭配",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "句子精读",
+      "visible": false
+    },
+    {
+      "tag": "H3",
+      "text": "写作前置 · 文中表达",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "attempts to reduce consumption",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "a large number of processed foods",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "the social and environmental conditions",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "maintain healthy behaviours and lifestyles",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "本次写作任务",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "对照答案，回到证据",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "参考写法",
+      "visible": false
+    },
+    {
+      "tag": "H3",
+      "text": "答后精读",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "篇章结构",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "词语与搭配",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "句子精读",
+      "visible": false
+    }
+  ],
+  "controls": [
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "search",
+      "text": "",
+      "label": "查找",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SELECT",
+      "id": "",
+      "type": "select-one",
+      "text": "全部\n未作答\n已作答",
+      "label": "进度\n全部\n未作答\n已作答",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false,
+      "options": [
+        {
+          "value": "all",
+          "label": "全部"
+        },
+        {
+          "value": "new",
+          "label": "未作答"
+        },
+        {
+          "value": "done",
+          "label": "已作答"
+        }
+      ]
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "继续未做的一组",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "全部",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "同意程度 · 4",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "讨论双方 · 1",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "利弊权衡 · 2",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "双问 · 1",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "观点选择 · 1",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "原因与措施 · 3",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "高层住宅是否是城市住房的最佳方案未作答\n同意程度 · 原题拆段写作 · 参考段落与逐段讲解",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "Cambridge IELTS 21 Academic",
+      "label": "",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=31",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "Dar es Salaam · 城市扩张与交通方案",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "",
+      "label": "",
+      "href": "#material-reading-rd-c21-t3-dart-city",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "Dar es Salaam · 公交设计与实际故障",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "",
+      "label": "",
+      "href": "#material-reading-rd-c21-t3-dart-system",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "case-wc-c21-t1-homes-answer",
+      "type": "textarea",
+      "text": "",
+      "label": "我的段落",
+      "href": null,
+      "save": "case-wc-c21-t1-homes-answer",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "checkbox",
+      "text": "",
+      "label": "",
+      "href": null,
+      "save": "case-wc-c21-t1-homes-done",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "hidden",
+      "text": "",
+      "label": "",
+      "href": null,
+      "save": "case-wc-c21-t1-homes-saved-at",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "保留作答，查看答案",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "case-wc-c21-t1-homes-revision",
+      "type": "textarea",
+      "text": "",
+      "label": "我的修订／证据笔记",
+      "href": null,
+      "save": "case-wc-c21-t1-homes-revision",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "线上娱乐与剧院影院的经济文化价值未作答\n讨论双方 · 原题拆段写作 · 参考段落与逐段讲解",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "Cambridge IELTS 21 Academic",
+      "label": "",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=53",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "The Davies Sisters｜印象派转向与战时收藏",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "",
+      "label": "",
+      "href": "#material-reading-rd-c21-davies-2",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "The Davies Sisters｜收藏停止与文化遗产",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "",
+      "label": "",
+      "href": "#material-reading-rd-c21-davies-3",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "Miles Davis：困境、跨界与创造力",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "",
+      "label": "",
+      "href": "#material-reading-rd-official-miles-2",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "Artificial Intelligence｜公众想象与解决一切的误区",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "",
+      "label": "",
+      "href": "#material-reading-rd-c21-ai-1",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "case-wc-c21-t2-entertainment-answer",
+      "type": "textarea",
+      "text": "",
+      "label": "我的段落",
+      "href": null,
+      "save": "case-wc-c21-t2-entertainment-answer",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "checkbox",
+      "text": "",
+      "label": "",
+      "href": null,
+      "save": "case-wc-c21-t2-entertainment-done",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "hidden",
+      "text": "",
+      "label": "",
+      "href": null,
+      "save": "case-wc-c21-t2-entertainment-saved-at",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "保留作答，查看答案",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "case-wc-c21-t2-entertainment-revision",
+      "type": "textarea",
+      "text": "",
+      "label": "我的修订／证据笔记",
+      "href": null,
+      "save": "case-wc-c21-t2-entertainment-revision",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "本科海外学习或实习：收益能否超过代价未作答\n利弊权衡 · 原题拆段写作 · 参考段落与逐段讲解",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "Cambridge IELTS 21 Academic",
+      "label": "",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=74",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "Miles Davis：独特音色、双重教育与音乐遗产",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "",
+      "label": "",
+      "href": "#material-reading-rd-official-miles-1",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "case-wc-c21-t3-placement-answer",
+      "type": "textarea",
+      "text": "",
+      "label": "我的段落",
+      "href": null,
+      "save": "case-wc-c21-t3-placement-answer",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "checkbox",
+      "text": "",
+      "label": "",
+      "href": null,
+      "save": "case-wc-c21-t3-placement-done",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "hidden",
+      "text": "",
+      "label": "",
+      "href": null,
+      "save": "case-wc-c21-t3-placement-saved-at",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "保留作答，查看答案",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "case-wc-c21-t3-placement-revision",
+      "type": "textarea",
+      "text": "",
+      "label": "我的修订／证据笔记",
+      "href": null,
+      "save": "case-wc-c21-t3-placement-revision",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "小学正式学习与课堂游戏：两个问题分别回应未作答\n双问 · 原题拆段写作 · 参考段落与逐段讲解",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "Cambridge IELTS 21 Academic",
+      "label": "",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=96",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "Multilingualism · 迁移背景与研究目标",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "",
+      "label": "",
+      "href": "#material-reading-rd-c21-t4-multilingual-background",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "Multilingualism · 教学语言与出人意料的结果",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "",
+      "label": "",
+      "href": "#material-reading-rd-c21-t4-multilingual-findings",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "case-wc-c21-t4-primary-answer",
+      "type": "textarea",
+      "text": "",
+      "label": "我的段落",
+      "href": null,
+      "save": "case-wc-c21-t4-primary-answer",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "checkbox",
+      "text": "",
+      "label": "",
+      "href": null,
+      "save": "case-wc-c21-t4-primary-done",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "hidden",
+      "text": "",
+      "label": "",
+      "href": null,
+      "save": "case-wc-c21-t4-primary-saved-at",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "保留作答，查看答案",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "case-wc-c21-t4-primary-revision",
+      "type": "textarea",
+      "text": "",
+      "label": "我的修订／证据笔记",
+      "href": null,
+      "save": "case-wc-c21-t4-primary-revision",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "家庭财富与成年问题应对：避免绝对化未作答\n同意程度 · 原题拆段写作 · 参考段落与逐段讲解",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "IELTS Academic Writing Sample Tasks (2023)",
+      "label": "",
+      "href": "case-assets/writing-official-sample-tasks-2023.pdf#page=6",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "Multilingualism · 教学语言与出人意料的结果",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "",
+      "label": "",
+      "href": "#material-reading-rd-c21-t4-multilingual-findings",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "case-wc-official-wealth-answer",
+      "type": "textarea",
+      "text": "",
+      "label": "我的段落",
+      "href": null,
+      "save": "case-wc-official-wealth-answer",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "checkbox",
+      "text": "",
+      "label": "",
+      "href": null,
+      "save": "case-wc-official-wealth-done",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "hidden",
+      "text": "",
+      "label": "",
+      "href": null,
+      "save": "case-wc-official-wealth-saved-at",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "保留作答，查看答案",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "case-wc-official-wealth-revision",
+      "type": "textarea",
+      "text": "",
+      "label": "我的修订／证据笔记",
+      "href": null,
+      "save": "case-wc-official-wealth-revision",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "官方作答 · 第21页",
+      "label": "",
+      "href": "case-assets/writing-official-sample-tasks-2023.pdf#page=21",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "考官评语 · 第22页",
+      "label": "",
+      "href": "case-assets/writing-official-sample-tasks-2023.pdf#page=22",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "官方在线原件",
+      "label": "",
+      "href": "https://ielts.org/cdn/Sample-tests/ielts-academic-writing-sample-tasks-2023.pdf#page=21",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "国际旅游：经济收益与社区成本如何比较未作答\n利弊权衡 · 原题拆段写作 · 参考段落与逐段讲解",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "IELTS Academic Writing Sample Tasks (2023)",
+      "label": "",
+      "href": "case-assets/writing-official-sample-tasks-2023.pdf#page=7",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "Why we need silence｜噪声风险与城市降噪",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "",
+      "label": "",
+      "href": "#material-reading-rd-c21-silence-1",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "Mapungubwe｜贸易、器物与衰落",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "",
+      "label": "",
+      "href": "#material-reading-rd-c21-mapungubwe-2",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "case-wc-official-tourism-answer",
+      "type": "textarea",
+      "text": "",
+      "label": "我的段落",
+      "href": null,
+      "save": "case-wc-official-tourism-answer",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "checkbox",
+      "text": "",
+      "label": "",
+      "href": null,
+      "save": "case-wc-official-tourism-done",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "hidden",
+      "text": "",
+      "label": "",
+      "href": null,
+      "save": "case-wc-official-tourism-saved-at",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "保留作答，查看答案",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "case-wc-official-tourism-revision",
+      "type": "textarea",
+      "text": "",
+      "label": "我的修订／证据笔记",
+      "href": null,
+      "save": "case-wc-official-tourism-revision",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "官方作答 · 第25页",
+      "label": "",
+      "href": "case-assets/writing-official-sample-tasks-2023.pdf#page=25",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "考官评语 · 第26页",
+      "label": "",
+      "href": "case-assets/writing-official-sample-tasks-2023.pdf#page=26",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "官方在线原件",
+      "label": "",
+      "href": "https://ielts.org/cdn/Sample-tests/ielts-academic-writing-sample-tasks-2023.pdf#page=25",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "科研由政府控制：公共利益与研究多样性未作答\n同意程度 · 原题拆段写作 · 参考段落与逐段讲解",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "IELTS Academic Writing — modified large print",
+      "label": "",
+      "href": "case-assets/writing-official-large-print.pdf#page=10",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "Do animals dream?｜章鱼行为与研究边界",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "",
+      "label": "",
+      "href": "#material-reading-rd-c21-dreams-2",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "Artificial Intelligence｜公众想象与解决一切的误区",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "",
+      "label": "",
+      "href": "#material-reading-rd-c21-ai-1",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "Artificial Intelligence｜公共部门实施条件",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "",
+      "label": "",
+      "href": "#material-reading-rd-c21-ai-2",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "Artificial Intelligence｜部署边界、医疗与司法案例",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "",
+      "label": "",
+      "href": "#material-reading-rd-c21-ai-3",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "case-wc-official-science-answer",
+      "type": "textarea",
+      "text": "",
+      "label": "我的段落",
+      "href": null,
+      "save": "case-wc-official-science-answer",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "checkbox",
+      "text": "",
+      "label": "",
+      "href": null,
+      "save": "case-wc-official-science-done",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "hidden",
+      "text": "",
+      "label": "",
+      "href": null,
+      "save": "case-wc-official-science-saved-at",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "保留作答，查看答案",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "case-wc-official-science-revision",
+      "type": "textarea",
+      "text": "",
+      "label": "我的修订／证据笔记",
+      "href": null,
+      "save": "case-wc-official-science-revision",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "鼓励替代交通与国际限车规定未作答\n同意程度 · 原题拆段写作 · 参考段落与逐段讲解",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "Cambridge / IELTS Academic Writing sample task",
+      "label": "",
+      "href": "case-assets/writing-official-transport.pdf#page=1",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "Why we need silence｜噪声风险与城市降噪",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "",
+      "label": "",
+      "href": "#material-reading-rd-c21-silence-1",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "Dar es Salaam · 城市扩张与交通方案",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "",
+      "label": "",
+      "href": "#material-reading-rd-c21-t3-dart-city",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "Dar es Salaam · 公交设计与实际故障",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "",
+      "label": "",
+      "href": "#material-reading-rd-c21-t3-dart-system",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "case-wc-official-transport-answer",
+      "type": "textarea",
+      "text": "",
+      "label": "我的段落",
+      "href": null,
+      "save": "case-wc-official-transport-answer",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "checkbox",
+      "text": "",
+      "label": "",
+      "href": null,
+      "save": "case-wc-official-transport-done",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "hidden",
+      "text": "",
+      "label": "",
+      "href": null,
+      "save": "case-wc-official-transport-saved-at",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "保留作答，查看答案",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "case-wc-official-transport-revision",
+      "type": "textarea",
+      "text": "",
+      "label": "我的修订／证据笔记",
+      "href": null,
+      "save": "case-wc-official-transport-revision",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "老年照护费用：政府与家庭如何分担未作答\n观点选择 · 原题拆段写作 · 参考段落与逐段讲解",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "Cambridge / IELTS General Training Writing sample task",
+      "label": "",
+      "href": "case-assets/writing-official-elder-care.pdf#page=1",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "case-wc-official-eldercare-answer",
+      "type": "textarea",
+      "text": "",
+      "label": "我的段落",
+      "href": null,
+      "save": "case-wc-official-eldercare-answer",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "checkbox",
+      "text": "",
+      "label": "",
+      "href": null,
+      "save": "case-wc-official-eldercare-done",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "hidden",
+      "text": "",
+      "label": "",
+      "href": null,
+      "save": "case-wc-official-eldercare-saved-at",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "保留作答，查看答案",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "case-wc-official-eldercare-revision",
+      "type": "textarea",
+      "text": "",
+      "label": "我的修订／证据笔记",
+      "href": null,
+      "save": "case-wc-official-eldercare-revision",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "高学历毕业生失业：原因和措施一一对应未作答\n原因与措施 · 原题拆段写作 · 参考段落与逐段讲解",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "British Council — Writing Task 2: Developing paragraphs",
+      "label": "",
+      "href": "原始参考/9464a2d7-5bfdf909-writing_task_2_developing_paragraphs.pdf#page=10",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "case-wc-bc-graduates-answer",
+      "type": "textarea",
+      "text": "",
+      "label": "我的段落",
+      "href": null,
+      "save": "case-wc-bc-graduates-answer",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "checkbox",
+      "text": "",
+      "label": "",
+      "href": null,
+      "save": "case-wc-bc-graduates-done",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "hidden",
+      "text": "",
+      "label": "",
+      "href": null,
+      "save": "case-wc-bc-graduates-saved-at",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "保留作答，查看答案",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "case-wc-bc-graduates-revision",
+      "type": "textarea",
+      "text": "",
+      "label": "我的修订／证据笔记",
+      "href": null,
+      "save": "case-wc-bc-graduates-revision",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "过度捕捞：从激励与监管写到对策未作答\n原因与措施 · 原题拆段写作 · 参考段落与逐段讲解",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "British Council — Writing Task 2: Problems and solutions",
+      "label": "",
+      "href": "扩展资料/609824ad-writing_task_2_problems_and_solutions_.pdf#page=7",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "The World of Sugar｜全球贸易与误解纠正",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "",
+      "label": "",
+      "href": "#material-reading-rd-c21-sugar-1",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "Saving the saiga · 生存适应与早期数量变化",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "",
+      "label": "",
+      "href": "#material-reading-rd-c21-t3-saiga-adaptation",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "Saving the saiga · 栖息地、疾病、气候与恢复",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "",
+      "label": "",
+      "href": "#material-reading-rd-c21-t3-saiga-threats",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "case-wc-bc-overfishing-answer",
+      "type": "textarea",
+      "text": "",
+      "label": "我的段落",
+      "href": null,
+      "save": "case-wc-bc-overfishing-answer",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "checkbox",
+      "text": "",
+      "label": "",
+      "href": null,
+      "save": "case-wc-bc-overfishing-done",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "hidden",
+      "text": "",
+      "label": "",
+      "href": null,
+      "save": "case-wc-bc-overfishing-saved-at",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "保留作答，查看答案",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "case-wc-bc-overfishing-revision",
+      "type": "textarea",
+      "text": "",
+      "label": "我的修订／证据笔记",
+      "href": null,
+      "save": "case-wc-bc-overfishing-revision",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "儿童肥胖：原因—措施对应而非空泛建议未作答\n原因与措施 · 原题拆段写作 · 参考段落与逐段讲解",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "British Council — Writing Task 2: Problems and solutions",
+      "label": "",
+      "href": "扩展资料/609824ad-writing_task_2_problems_and_solutions_.pdf#page=12",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "The World of Sugar｜工业化、消费与作者立场",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "",
+      "label": "",
+      "href": "#material-reading-rd-c21-sugar-3",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "健康观念变化：年份、十年与三大领域",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "",
+      "label": "",
+      "href": "#material-reading-rd-gap-academic-short-answer-health",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "case-wc-bc-childhealth-answer",
+      "type": "textarea",
+      "text": "",
+      "label": "我的段落",
+      "href": null,
+      "save": "case-wc-bc-childhealth-answer",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "checkbox",
+      "text": "",
+      "label": "",
+      "href": null,
+      "save": "case-wc-bc-childhealth-done",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "hidden",
+      "text": "",
+      "label": "",
+      "href": null,
+      "save": "case-wc-bc-childhealth-saved-at",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "保留作答，查看答案",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "case-wc-bc-childhealth-revision",
+      "type": "textarea",
+      "text": "",
+      "label": "我的修订／证据笔记",
+      "href": null,
+      "save": "case-wc-bc-childhealth-revision",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    }
+  ],
+  "visibleText": "议论文 · 段落练习\n\n用真实题目练习多段写作。先审题并写出自己的段落，再看针对原题的参考写法和修改依据。 共 12 组，来自 12 道不同原题；同源练习已标注。\n\n查找\n进度\n全部\n未作答\n已作答\n继续未做的一组\n全部\n同意程度 · 4\n讨论双方 · 1\n利弊权衡 · 2\n双问 · 1\n观点选择 · 1\n原因与措施 · 3\n\n显示 12 / 12 组 · 已作答 0 组\n\n高层住宅是否是城市住房的最佳方案未作答\n同意程度 · 原题拆段写作 · 参考段落与逐段讲解\n0% · 0 / 1 完成\n\n真题 · Cambridge IELTS 21 Academic · PDF 第 31 页\n\n写作前置 · 文中表达\n\n下面的表达来自阅读材料，例句按本题语境编写。展开相关材料即可查看。\n\nDar es Salaam · 城市扩张与交通方案\nDar es Salaam · 公交设计与实际故障\n\nThe best way to provide enough homes in large cities is to build tall apartment blocks. To what extent do you agree or disagree with this statement?\n\n本次写作任务\n\n只写两段主体，约170–210词：先解释高层住宅怎样增加住房，再论证best way的适用边界。明确你赞成到什么程度；不把题目弱化为“高层住宅有没有好处”。\n\n我的段落\n\n0 词\n\n保留作答，查看答案\n\n先作答；不确定的题也可记录判断与疑点。\n\n线上娱乐与剧院影院的经济文化价值未作答\n讨论双方 · 原题拆段写作 · 参考段落与逐段讲解\n0% · 0 / 1 完成\n\n真题 · Cambridge IELTS 21 Academic · PDF 第 53 页\n\n写作前置 · 文中表达\n\n下面的表达来自阅读材料，例句按本题语境编写。展开相关材料即可查看。\n\nThe Davies Sisters｜印象派转向与战时收藏\nThe Davies Sisters｜收藏停止与文化遗产\nMiles Davis：困境、跨界与创造力\nArtificial Intelligence｜公众想象与解决一切的误区\n\nSome people say that in the digital age, theatres and cinemas are no longer important as people can watch all the entertainment they want online. Others argue that theatres and cinemas are still important both economically and culturally. Discuss both these views and give your own opinion.\n\n本次写作任务\n\n写两段主体，约180–220词：第一段把“线上足够”的理由讲完整，第二段解释剧院影院的经济和文化价值，并明确你的判断。不能只写我喜欢看电影。\n\n我的段落\n\n0 词\n\n保留作答，查看答案\n\n先作答；不确定的题也可记录判断与疑点。\n\n本科海外学习或实习：收益能否超过代价未作答\n利弊权衡 · 原题拆段写作 · 参考段落与逐段讲解\n0% · 0 / 1 完成\n\n真题 · Cambridge IELTS 21 Academic · PDF 第 74 页\n\n写作前置 · 文中表达\n\n下面的表达来自阅读材料，例句按本题语境编写。展开相关材料即可查看。\n\nMiles Davis：独特音色、双重教育与音乐遗产\n\nAll university undergraduate courses should include a period of time spent studying abroad or doing a work placement. Do you think the advantages of this would outweigh the disadvantages?\n\n本次写作任务\n\n写两段主体，约170–210词：一段承认费用和安排的代价，另一段讨论学习/就业收益，并按“能否控制、持续多久、影响多大”作权衡。注意abroad OR work placement，不要强制把两者都做。\n\n我的段落\n\n0 词\n\n保留作答，查看答案\n\n先作答；不确定的题也可记录判断与疑点。\n\n小学正式学习与课堂游戏：两个问题分别回应未作答\n双问 · 原题拆段写作 · 参考段落与逐段讲解\n0% · 0 / 1 完成\n\n真题 · Cambridge IELTS 21 Academic · PDF 第 96 页\n\n写作前置 · 文中表达\n\n下面的表达来自阅读材料，例句按本题语境编写。展开相关材料即可查看。\n\nMultilingualism · 迁移背景与研究目标\nMultilingualism · 教学语言与出人意料的结果\n\nSome people argue that primary schools focus too much on formal learning. To what extent do you agree with this opinion? How important do you think it is for children to play as well as learn in the primary school classroom?\n\n本次写作任务\n\n写两个主体段，约180–220词：第一段回答是否“过分”重视formal learning，第二段回答课堂游戏有多重要及其教育机制。游戏不是课外体育的同义词。\n\n我的段落\n\n0 词\n\n保留作答，查看答案\n\n先作答；不确定的题也可记录判断与疑点。\n\n家庭财富与成年问题应对：避免绝对化未作答\n同意程度 · 原题拆段写作 · 参考段落与逐段讲解\n0% · 0 / 1 完成\n\n官方样题 · IELTS Academic Writing Sample Tasks (2023) · PDF 第 6 页\n\n写作前置 · 文中表达\n\n下面的表达来自阅读材料，例句按本题语境编写。展开相关材料即可查看。\n\nMultilingualism · 教学语言与出人意料的结果\n\nChildren who are brought up in families that do not have large amounts of money are better prepared to deal with the problems of adult life than children brought up by wealthy parents. To what extent do you agree or disagree with this opinion?\n\n本次写作任务\n\n写两段主体，约170–210词：解释有限预算可能培养什么能力，再指出财富不自动决定教养方式。比较双方，不把贫穷浪漫化为必然优势。\n\n我的段落\n\n0 词\n\n保留作答，查看答案\n\n先作答；不确定的题也可记录判断与疑点。\n\n同题官方考生样本 · Band 8.5 · 2A Script C\n\n优先对照这份同题官方考生稿及考官评语；分数仅属于该原稿。本地参考段落仍为原创教学示范。\n\n官方作答 · 第21页考官评语 · 第22页官方在线原件\n\n标出立场与支持关系，再与自己的主体段比较；注意高分考评也指出局部泛化。\n\n国际旅游：经济收益与社区成本如何比较未作答\n利弊权衡 · 原题拆段写作 · 参考段落与逐段讲解\n0% · 0 / 1 完成\n\n官方样题 · IELTS Academic Writing Sample Tasks (2023) · PDF 第 7 页\n\n写作前置 · 文中表达\n\n下面的表达来自阅读材料，例句按本题语境编写。展开相关材料即可查看。\n\nWhy we need silence｜噪声风险与城市降噪\nMapungubwe｜贸易、器物与衰落\n\nInternational tourism has brought enormous benefit to many places. At the same time, there is concern about its impact on local inhabitants and the environment. Do the disadvantages of international tourism outweigh the advantages?\n\n本次写作任务\n\n写两个主体段，约180–220词；同时覆盖local inhabitants与environment。结尾必须比较影响而非只说“都有优缺点”；不杜撰游客比例或经济统计。\n\n我的段落\n\n0 词\n\n保留作答，查看答案\n\n先作答；不确定的题也可记录判断与疑点。\n\n同题官方考生样本 · Band 7.5 · 2B Script B\n\n优先对照这份同题官方考生稿及考官评语；分数仅属于该原稿。本地参考段落仍为原创教学示范。\n\n官方作答 · 第25页考官评语 · 第26页官方在线原件\n\n分别追踪收益、代价和权衡；重点检查提出措施是否替代了对利弊的回答。\n\n科研由政府控制：公共利益与研究多样性未作答\n同意程度 · 原题拆段写作 · 参考段落与逐段讲解\n0% · 0 / 1 完成\n\n官方样题 · IELTS Academic Writing — modified large print · PDF 第 10 页\n\n写作前置 · 文中表达\n\n下面的表达来自阅读材料，例句按本题语境编写。展开相关材料即可查看。\n\nDo animals dream?｜章鱼行为与研究边界\nArtificial Intelligence｜公众想象与解决一切的误区\nArtificial Intelligence｜公共部门实施条件\nArtificial Intelligence｜部署边界、医疗与司法案例\n\nScientific research should be carried out and controlled by governments, rather than by private companies. To what extent do you agree or disagree?\n\n本次写作任务\n\n写两个主体段，约170–210词。区分carried out与controlled：政府监督不必等于政府独占全部执行；针对题中的排他性rather than表态。\n\n我的段落\n\n0 词\n\n保留作答，查看答案\n\n先作答；不确定的题也可记录判断与疑点。\n\n鼓励替代交通与国际限车规定未作答\n同意程度 · 原题拆段写作 · 参考段落与逐段讲解\n0% · 0 / 1 完成\n\n官方样题 · Cambridge / IELTS Academic Writing sample task · PDF 第 1 页\n\n写作前置 · 文中表达\n\n下面的表达来自阅读材料，例句按本题语境编写。展开相关材料即可查看。\n\nWhy we need silence｜噪声风险与城市降噪\nDar es Salaam · 城市扩张与交通方案\nDar es Salaam · 公交设计与实际故障\n\nThe first car appeared on British roads in 1888. By the year 2000 there may be as many as 29 million vehicles on British roads. Alternative forms of transport should be encouraged and international laws introduced to control car ownership and use. To what extent do you agree or disagree?\n\n本次写作任务\n\n写两个主体段，约180–220词：分别回应encourage alternatives和international laws。题干历史预测按原文保留，不当作今天的数据；不只讨论交通污染。\n\n我的段落\n\n0 词\n\n保留作答，查看答案\n\n先作答；不确定的题也可记录判断与疑点。\n\n老年照护费用：政府与家庭如何分担未作答\n观点选择 · 原题拆段写作 · 参考段落与逐段讲解\n0% · 0 / 1 完成\n\n官方样题 · Cambridge / IELTS General Training Writing sample task · PDF 第 1 页\n\nIn Britain, when someone gets old they often go to live in a home with other old people where there are nurses to look after them. Sometimes the government has to pay for this care. Who do you think should pay for this care, the government or the family?\n\n本次写作任务\n\n写两个主体段，约170–210词。提出明确分担原则，再解释家庭在何种条件下出资；原题是GT官方Task2，论证训练可迁移到Academic，但不得伪标Academic真题。\n\n我的段落\n\n0 词\n\n保留作答，查看答案\n\n先作答；不确定的题也可记录判断与疑点。\n\n高学历毕业生失业：原因和措施一一对应未作答\n原因与措施 · 原题拆段写作 · 参考段落与逐段讲解\n0% · 0 / 1 完成\n\n官方教辅 · British Council — Writing Task 2: Developing paragraphs · PDF 第 10 页\n\nIn many countries today there are many highly qualified graduates without employment. What factors may have caused this situation and what, in your opinion, can/should be done about it?\n\n本次写作任务\n\n写两个主体段，约180–220词：第一段构造两个具体原因，第二段让措施分别对应。原题来自官方IELTS教学材料，保持考试任务，不降低难度；不照抄教辅的示范立场。\n\n我的段落\n\n0 词\n\n保留作答，查看答案\n\n先作答；不确定的题也可记录判断与疑点。\n\n过度捕捞：从激励与监管写到对策未作答\n原因与措施 · 原题拆段写作 · 参考段落与逐段讲解\n0% · 0 / 1 完成\n\n官方教辅 · British Council — Writing Task 2: Problems and solutions · PDF 第 7 页\n\n写作前置 · 文中表达\n\n下面的表达来自阅读材料，例句按本题语境编写。展开相关材料即可查看。\n\nThe World of Sugar｜全球贸易与误解纠正\nSaving the saiga · 生存适应与早期数量变化\nSaving the saiga · 栖息地、疾病、气候与恢复\n\nOverfishing of the world’s oceans threatens many species with extinction and is putting the livelihood of millions of people around the world at risk. What are the causes of this problem and what can be done to prevent it from happening?\n\n本次写作任务\n\n写两个主体段，约180–220词。第一段写捕捞能力与逐利/监管，第二段分别提出限制和执行机制；同时照顾生态与依靠渔业的社区，不编造研究数字。\n\n我的段落\n\n0 词\n\n保留作答，查看答案\n\n先作答；不确定的题也可记录判断与疑点。\n\n儿童肥胖：原因—措施对应而非空泛建议未作答\n原因与措施 · 原题拆段写作 · 参考段落与逐段讲解\n0% · 0 / 1 完成\n\n官方教辅 · British Council — Writing Task 2: Problems and solutions · PDF 第 12 页\n\n写作前置 · 文中表达\n\n下面的表达来自阅读材料，例句按本题语境编写。展开相关材料即可查看。\n\nThe World of Sugar｜工业化、消费与作者立场\n健康观念变化：年份、十年与三大领域\n\nA rise in childhood obesity is a real threat to health with an increasing number of children now classified as overweight. What are the causes of the problem and what measures can be taken to solve them?\n\n本次写作任务\n\n写两个主体段，约180–220词：解释饮食环境与活动机会两个原因，再分别匹配学校/社区措施。这里练考试论证，不作个人医疗建议，也不写没有来源的研究数字。\n\n我的段落\n\n0 词\n\n保留作答，查看答案\n\n先作答；不确定的题也可记录判断与疑点。",
+  "allContent": "议论文 · 段落练习用真实题目练习多段写作。先审题并写出自己的段落，再看针对原题的参考写法和修改依据。 共 12 组，来自 12 道不同原题；同源练习已标注。查找进度全部未作答已作答继续未做的一组全部同意程度 · 4讨论双方 · 1利弊权衡 · 2双问 · 1观点选择 · 1原因与措施 · 3显示 12 / 12 组 · 已作答 0 组没有符合条件的练习，试试更换关键词或进度。高层住宅是否是城市住房的最佳方案未作答同意程度 · 原题拆段写作 · 参考段落与逐段讲解0% · 0 / 1 完成真题 · Cambridge IELTS 21 Academic · PDF 第 31 页写作前置 · 文中表达下面的表达来自阅读材料，例句按本题语境编写。展开相关材料即可查看。Dar es Salaam · 城市扩张与交通方案on the periphery在城市外围用于讨论住房位置与服务距离，需要说明外围扩张带来的具体条件，不能据此断定所有郊区住房都不好。本题例句 · 编写示范Building more homes on the periphery may lengthen journeys to work if public transport does not expand at the same time.高层住宅题涉及如何在大城市提供足够住房；这一表达帮助比较外围扩张与紧凑建设的出行影响。回到这份材料的精读Dar es Salaam · 公交设计与实际故障within a short walk of距……很近，步行即可到达说明住房与公交网络的空间联系；是否足够近应由实际布局支持。本题例句 · 编写示范Apartment blocks within a short walk of frequent public transport can provide more homes without making every resident dependent on a car.直接用于比较高层住宅的条件：密度优势需要交通可达性支持。回到这份材料的精读The best way to provide enough homes in large cities is to build tall apartment blocks. To what extent do you agree or disagree with this statement?本次写作任务只写两段主体，约170–210词：先解释高层住宅怎样增加住房，再论证best way的适用边界。明确你赞成到什么程度；不把题目弱化为“高层住宅有没有好处”。我的段落0 词保留作答，查看答案先作答；不确定的题也可记录判断与疑点。对照答案，回到证据参考写法下列段落为针对原题编写的参考写法，用于对照内容和表达；写作没有唯一标准答案。Tall apartment blocks can make an important contribution where urban land is scarce. By placing many homes on the same site, a city can accommodate more residents without continually expanding into surrounding farmland. A development near an existing railway station may also allow more households to reach jobs without long car journeys. These benefits support the use of high-rise housing in well-connected districts. They are especially relevant when the alternative is low-density construction that provides relatively few homes on valuable central land.However, building upwards is not automatically the best response to every housing shortage. If the new flats are unaffordable, an increase in the total housing supply may do little for families who need reasonably priced accommodation. A large tower can also add pressure to schools, water systems and public transport if these services are not expanded. I would therefore favour tall buildings as one part of a wider strategy that also renovates empty properties and provides affordable homes. Their value depends on location, price and supporting infrastructure, rather than height alone.题眼是best way，不只是a useful way。第二段用可负担性与配套条件检验“最佳”的范围。第一段链条：同一地块更多住房→少向农地扩张；交通站点例子用may，不伪装统计研究。两段最后形成“有条件赞成”：认可高层的贡献，同时不支持它作为所有城市的唯一最佳办法。答后精读篇章结构优势机制—条件化例子—回扣城市土地约束。限制条件—影响—明确程度立场。词语与搭配where urban land is scarce：限定论据适用地点。do little for families who ...：解释新增供给为何不必然解决可负担问题。one part of a wider strategy：表达有条件赞成。句子精读If the new flats are unaffordable, an increase ... may do little ... → 条件句直接检验题目的“provide enough homes”。Their value depends on ... rather than height alone. → Their指tall buildings，结尾仍围绕建筑方案。我的修订／证据笔记线上娱乐与剧院影院的经济文化价值未作答讨论双方 · 原题拆段写作 · 参考段落与逐段讲解0% · 0 / 1 完成真题 · Cambridge IELTS 21 Academic · PDF 第 53 页写作前置 · 文中表达下面的表达来自阅读材料，例句按本题语境编写。展开相关材料即可查看。The Davies Sisters｜印象派转向与战时收藏a vibrant artists' community一个充满活力的艺术家社群适合与support、sustain、help build搭配，讨论实体文化空间如何为创作者提供交流和演出机会。这里借用表达描述一种可能作用，不把文中救助艺术家的历史直接当成剧院效果的证据。本题例句 · 编写示范Local theatres can help sustain a vibrant artists' community by giving performers opportunities to work together and reach an audience.题目要求讨论剧院和影院的经济、文化价值；此表达适合展开剧院支持当地艺术生产和创作者交流的文化作用。回到这份材料的精读The Davies Sisters｜收藏停止与文化遗产a lasting and meaningful cultural legacy持久且有意义的文化遗产可用于讨论文化活动对未来的贡献，但要写清通过什么机制传承，例如保留地方戏剧、作品或表演传统，不能只用抽象赞美代替解释。本题例句 · 编写示范Theatres that preserve local plays and performance traditions can leave a lasting and meaningful cultural legacy for future generations.直接服务于实体剧院的文化价值：说明现场演出空间如何承载和传递传统，而不只比较观看的便利程度。回到这份材料的精读Miles Davis：困境、跨界与创造力draw wider audiences吸引范围更广的观众可具体说明线上娱乐的可达性；观众范围扩大不等于线下场所失去全部文化价值。本题例句 · 编写示范Online screenings can draw wider audiences than a small theatre can accommodate, especially when viewers live far from major cities.自编例句，直接回应线上娱乐的覆盖范围优势；can和especially保留条件，也为讨论剧院独有的现场体验留下空间。回到这份材料的精读Artificial Intelligence｜公众想象与解决一切的误区no shortage of大量；不缺可以承认数字内容数量充足，再讨论数量之外的体验差异。本题例句 · 编写示范There is no shortage of films online, but access to a large catalogue does not reproduce the shared experience of a cinema.自编例句，直接回应线上娱乐与影院价值：先承认线上内容丰富，再解释共同观看体验这一文化维度。回到这份材料的精读Some people say that in the digital age, theatres and cinemas are no longer important as people can watch all the entertainment they want online. Others argue that theatres and cinemas are still important both economically and culturally. Discuss both these views and give your own opinion.本次写作任务写两段主体，约180–220词：第一段把“线上足够”的理由讲完整，第二段解释剧院影院的经济和文化价值，并明确你的判断。不能只写我喜欢看电影。我的段落0 词保留作答，查看答案先作答；不确定的题也可记录判断与疑点。对照答案，回到证据参考写法下列段落为针对原题编写的参考写法，用于对照内容和表达；写作没有唯一标准答案。Those who question the importance of theatres and cinemas can point to the convenience of online entertainment. Viewers can choose what to watch and when to watch it, without paying for transport or arranging an evening around a fixed screening time. Online access may be particularly valuable to people living far from major cultural venues or caring for children at home. For these audiences, a subscription can offer a practical alternative to frequent visits. This makes the claim that physical venues are less necessary understandable, especially when the main aim is simply to see a film.Nevertheless, I believe these venues retain functions that a personal screen cannot fully reproduce. Economically, a performance supports performers, technicians and other staff, while audiences may also spend money in nearby businesses. Culturally, theatres can stage local stories and create a shared encounter between performers and spectators. Even in a cinema, an audience experiences a film together rather than as separate individuals at home. Online services can therefore widen access without removing the value of physical venues. The two forms can coexist, serving different circumstances and offering different kinds of participation.第一段真正解释第一方观点：选择时间、出行成本、照顾孩子与地域可达性；没有直接贴标签后马上反驳。第二段分别回应economically与culturally：岗位/周边消费与本地故事/共同体验。立场是仍有价值、可共存；不是讨论互联网是否总体有害。答后精读篇章结构解释线上取代说的合理条件与实际受益者。转折后经济、文化两条机制，最后给出共存判断。词语与搭配a practical alternative to：适合替代某项活动，不等于完全替代所有功能。retain functions that ... cannot fully reproduce：区分可替代与不可完全复制部分。can coexist：立场收束而非非黑即白。句子精读Online access may be particularly valuable to people living ... or caring ... → living与caring平行修饰people。The two forms can coexist, serving ... and offering ... → 两个分词补充共存的理由。我的修订／证据笔记本科海外学习或实习：收益能否超过代价未作答利弊权衡 · 原题拆段写作 · 参考段落与逐段讲解0% · 0 / 1 完成真题 · Cambridge IELTS 21 Academic · PDF 第 74 页写作前置 · 文中表达下面的表达来自阅读材料，例句按本题语境编写。展开相关材料即可查看。Miles Davis：独特音色、双重教育与音乐遗产a solid grounding in music theory扎实的乐理基础可说明专业理论如何支持实践；不把理论学习与工作实习写成只能二选一。本题例句 · 编写示范Music students with a solid grounding in music theory may learn to apply it during a placement in a recording studio.自编例句，适用于本科课程是否应包括实习：音乐专业作为具体例子，说明已有理论知识怎样在工作环境中应用；不代表所有专业都需要录音棚实习。回到这份材料的精读All university undergraduate courses should include a period of time spent studying abroad or doing a work placement. Do you think the advantages of this would outweigh the disadvantages?本次写作任务写两段主体，约170–210词：一段承认费用和安排的代价，另一段讨论学习/就业收益，并按“能否控制、持续多久、影响多大”作权衡。注意abroad OR work placement，不要强制把两者都做。我的段落0 词保留作答，查看答案先作答；不确定的题也可记录判断与疑点。对照答案，回到证据参考写法下列段落为针对原题编写的参考写法，用于对照内容和表达；写作没有唯一标准答案。A compulsory period away from normal university classes can create real difficulties. Studying abroad may involve travel and accommodation costs, while even a local work placement can reduce the time available for paid employment. Students with caring responsibilities may find these demands particularly difficult. Universities also need enough suitable placements; an experience consisting only of routine administrative work would offer limited educational value. These drawbacks matter because the proposal applies to all undergraduate courses, including students and subjects for which arranging an appropriate experience may be challenging.Even so, I consider the potential advantages greater if institutions offer flexible, well-supported options. A relevant placement allows students to apply classroom ideas to actual workplace problems and obtain feedback from experienced colleagues. Overseas study can expose them to different academic approaches and require greater independence. These gains may continue to influence later study and employment, whereas some financial and practical barriers can be reduced through funding and local placement alternatives. The stronger policy is therefore to provide a meaningful choice between suitable forms of experience, with clear learning goals, rather than require every student to travel abroad.题目是abroad or placement，末句明确保留本地实习选项；不能误写所有学生必须出国。outweigh要求比较：长期学习收益与可缓解的成本相对照，而不是两边各列三点后不判断。承认all courses的实施难题，立场带条件但清楚支持收益更大。答后精读篇章结构负担—更脆弱人群—低质量安排的风险。收益机制—长期价值—降低成本的方法—权衡结论。词语与搭配the proposal applies to all ...：抓住题目范围词。may continue to influence ... whereas ...：把持续性作为权衡依据。with clear learning goals：限制支持对象，防止无条件夸大。句子精读These drawbacks matter because the proposal applies to all undergraduate courses ... → because不是重复缺点，而是解释“为什么重要”。... rather than require every student to travel abroad → 排除的是误读后的强制出国，不是否认原题。我的修订／证据笔记小学正式学习与课堂游戏：两个问题分别回应未作答双问 · 原题拆段写作 · 参考段落与逐段讲解0% · 0 / 1 完成真题 · Cambridge IELTS 21 Academic · PDF 第 96 页写作前置 · 文中表达下面的表达来自阅读材料，例句按本题语境编写。展开相关材料即可查看。Multilingualism · 迁移背景与研究目标differs from the language used at home与家庭语言不同适合解释某些儿童理解课堂内容时面临的额外要求，避免把语言差异等同于能力不足。本题例句 · 编写示范When the language of classroom instruction differs from the language used at home, play with pictures and objects may help children understand and express ideas.小学正式学习与游戏题关注课堂学习体验；可用来说明具体情境下游戏和实物活动怎样支持理解，不把游戏宣称为所有语言困难的解决方案。回到这份材料的精读Multilingualism · 教学语言与出人意料的结果little room for independent learning自主学习机会不足用来描述过度由教师控制的课堂，需要说明儿童缺少哪些探索或表达机会。本题例句 · 编写示范A timetable dominated by teacher-led exercises may leave little room for independent learning through play.与小学正式教学和课堂游戏的平衡直接吻合，可具体表达过度正式教学的局限。回到这份材料的精读Some people argue that primary schools focus too much on formal learning. To what extent do you agree with this opinion? How important do you think it is for children to play as well as learn in the primary school classroom?本次写作任务写两个主体段，约180–220词：第一段回答是否“过分”重视formal learning，第二段回答课堂游戏有多重要及其教育机制。游戏不是课外体育的同义词。我的段落0 词保留作答，查看答案先作答；不确定的题也可记录判断与疑点。对照答案，回到证据参考写法下列段落为针对原题编写的参考写法，用于对照内容和表达；写作没有唯一标准答案。I agree that formal learning can receive too much attention when a primary timetable leaves little space for exploration. Direct instruction is necessary for teaching children basic reading and arithmetic, and structured practice helps them become accurate. However, long sequences of worksheets and tests can make pupils focus on producing the expected answer rather than understanding an idea. For example, a child may memorise a calculation procedure but struggle to explain why it works. The problem is therefore not formal teaching itself, but an imbalance that treats written performance as the only useful evidence of learning.Play has an important complementary role inside the classroom. In a pretend shop, children can practise counting, explain prices and take turns serving one another. The activity joins mathematical language with social interaction, giving a purpose to skills that might otherwise appear abstract. Building a model together can similarly require planning, discussion and revision after something fails. Such activities still need thoughtful guidance from the teacher, so that enjoyment supports a clear learning aim. I would consequently regard purposeful play as a regular part of primary education, rather than a reward offered only after all the serious work is finished.第一段明确同意的范围：当formal learning挤压exploration时过多，而非主张取消识字算术。第二段给出课堂内的假想商店与合作模型，回应primary classroom，不跑题到放学后娱乐。play as well as learn提示两者结合；不是“玩”和“学”完全对立。答后精读篇章结构先回答程度，再解释不平衡如何损害理解。另段回答重要性，以具体课堂活动展示机制。词语与搭配an imbalance that ...：把批评集中到比例失衡。an important complementary role：补充作用，不是否定正式教学。purposeful play：有学习目的的课堂游戏。句子精读The problem is therefore not formal teaching itself, but an imbalance ... → 保持部分同意立场一致。... so that enjoyment supports a clear learning aim → 目的从句解释教师指导的作用。我的修订／证据笔记家庭财富与成年问题应对：避免绝对化未作答同意程度 · 原题拆段写作 · 参考段落与逐段讲解0% · 0 / 1 完成官方样题 · IELTS Academic Writing Sample Tasks (2023) · PDF 第 6 页写作前置 · 文中表达下面的表达来自阅读材料，例句按本题语境编写。展开相关材料即可查看。Multilingualism · 教学语言与出人意料的结果essential for day-to-day survival日常生活维持所必需的只在确实涉及生活压力时使用；可以讨论压力带来的某些实际经验，但不要据此美化贫困。本题例句 · 编写示范Some children learn practical skills essential for day-to-day survival, but this does not mean that financial hardship prepares every child better for adulthood.家庭财富题比较成长资源与成年准备；原文提供了生活经验可能培养某些能力的思路，同时例句避免把局部观察扩大为贫困更好的结论。回到这份材料的精读Children who are brought up in families that do not have large amounts of money are better prepared to deal with the problems of adult life than children brought up by wealthy parents. To what extent do you agree or disagree with this opinion?本次写作任务写两段主体，约170–210词：解释有限预算可能培养什么能力，再指出财富不自动决定教养方式。比较双方，不把贫穷浪漫化为必然优势。我的段落0 词保留作答，查看答案先作答；不确定的题也可记录判断与疑点。对照答案，回到证据参考写法下列段落为针对原题编写的参考写法，用于对照内容和表达；写作没有唯一标准答案。Children in families with limited money may gain useful experience of making choices under constraints. If a household cannot afford every desired purchase, a child may have to save gradually, distinguish needs from wants and accept that one decision rules out another. Shared responsibilities can also encourage practical independence. These experiences resemble some of the budgeting and prioritising required in adult life. They provide a plausible reason why growing up without abundant resources could help a person cope with certain financial problems later on.However, I do not think family wealth alone determines how well someone is prepared. Persistent financial insecurity can create stress and restrict access to education or supportive activities, leaving children with fewer resources for future challenges. Conversely, wealthy parents can require their children to manage an allowance, contribute to household tasks and take responsibility for mistakes. Such practices may develop the same judgment and resilience without serious deprivation. I therefore reject the general comparison in the question: preparation depends more on the responsibilities, guidance and opportunities children receive than on whether their parents have a large income.没有把may写成all poor children：有限预算可能培养技能，但严重匮乏也会限制机会。对比对象始终是两类家庭中的孩子及成年应对能力，不转成贫富差距政策文章。第二段以同样责任训练可存在于富裕家庭反驳“财富决定论”，给出明确不同意。答后精读篇章结构承认一方可能的培养机制。反例与变量区分，回应原题总体比较。词语与搭配distinguish needs from wants：与预算管理直接相关。family wealth alone determines：抓住单一变量推断的问题。responsibilities, guidance and opportunities：结尾归纳前文机制。句子精读If a household cannot afford every desired purchase, ... → 假设场景，不声称调查证明。Such practices may develop the same judgment ... → Such practices回指前一句三项养育安排。我的修订／证据笔记同题官方考生样本 · Band 8.5 · 2A Script C优先对照这份同题官方考生稿及考官评语；分数仅属于该原稿。本地参考段落仍为原创教学示范。官方作答 · 第21页考官评语 · 第22页官方在线原件标出立场与支持关系，再与自己的主体段比较；注意高分考评也指出局部泛化。国际旅游：经济收益与社区成本如何比较未作答利弊权衡 · 原题拆段写作 · 参考段落与逐段讲解0% · 0 / 1 完成官方样题 · IELTS Academic Writing Sample Tasks (2023) · PDF 第 7 页写作前置 · 文中表达下面的表达来自阅读材料，例句按本题语境编写。展开相关材料即可查看。Why we need silence｜噪声风险与城市降噪noise from aircraft飞机产生的噪声可用于旅游活动对机场附近居民的影响，须说明航班增长这一具体联系；不能把所有旅游目的地的主要问题一律写成航空噪声。本题例句 · 编写示范Where tourism leads to more frequent flights, noise from aircraft may become an additional burden for residents near airports.题目明确要求考虑旅游对当地居民与环境的影响；条件句把表达限定在航空活动增长的目的地。回到这份材料的精读Mapungubwe｜贸易、器物与衰落placed too much stress on local resources给当地资源带来过大压力可根据句子时态改为place或places，保留place stress on的搭配。谈旅游时应具体说明水、土地或公共设施等资源，不能把古代王国衰落直接当作现代旅游的实证。本题例句 · 编写示范Uncontrolled growth in visitor numbers could place too much stress on local resources, especially water supplies during the dry season.题目讨论旅游对当地环境与居民的代价；资源压力能够具体解释游客增长可能产生的成本。回到这份材料的精读International tourism has brought enormous benefit to many places. At the same time, there is concern about its impact on local inhabitants and the environment. Do the disadvantages of international tourism outweigh the advantages?本次写作任务写两个主体段，约180–220词；同时覆盖local inhabitants与environment。结尾必须比较影响而非只说“都有优缺点”；不杜撰游客比例或经济统计。我的段落0 词保留作答，查看答案先作答；不确定的题也可记录判断与疑点。对照答案，回到证据参考写法下列段落为针对原题编写的参考写法，用于对照内容和表达；写作没有唯一标准答案。International tourism can provide substantial benefits when visitors spend money in local businesses. Hotels, restaurants and transport operators need staff, and smaller enterprises can earn income from guiding, food or crafts. This can be especially valuable in places with few alternative sources of employment. Visitor interest may also give a community an incentive to maintain historic buildings and cultural activities. These benefits are strongest when local residents own businesses or obtain secure jobs, rather than when most revenue leaves the destination through external companies.The costs can nevertheless outweigh those gains where visitor numbers exceed a place’s capacity. Housing converted into short-term accommodation may become less available to residents, while crowded streets and heavy demand for water can disrupt everyday life. Natural sites can also be damaged if waste and access are poorly managed. Unlike an extra sale in a restaurant, the loss of affordable housing or a fragile habitat may be difficult to reverse. I therefore judge the balance to depend on how tourism is controlled: unmanaged expansion can produce greater harm, whereas limits on pressure and a fair local share of income can preserve its advantages.收益讲清谁拿到收入；成本区分居民住房/公共资源与自然环境。比较标准是影响是否可逆以及承载能力，而非无依据地宣布旅游总是坏。结尾提供明确的条件性判断：unmanaged expansion时坏处可能更大；管理有效时能保留优势。答后精读篇章结构收入机制—就业—文化维护—收益归属条件。居民与环境成本—可逆性比较—条件性权衡结论。词语与搭配exceed a place’s capacity：把过量客流与损害联系。a fair local share of income：对应第一段收益归属。difficult to reverse：权衡的重要性而非数点。句子精读Housing converted into short-term accommodation ... → converted into是后置修饰housing，不是一个新的谓语。Unlike an extra sale ..., the loss ... may be difficult to reverse. → 比较收益与损失的不同性质。我的修订／证据笔记同题官方考生样本 · Band 7.5 · 2B Script B优先对照这份同题官方考生稿及考官评语；分数仅属于该原稿。本地参考段落仍为原创教学示范。官方作答 · 第25页考官评语 · 第26页官方在线原件分别追踪收益、代价和权衡；重点检查提出措施是否替代了对利弊的回答。科研由政府控制：公共利益与研究多样性未作答同意程度 · 原题拆段写作 · 参考段落与逐段讲解0% · 0 / 1 完成官方样题 · IELTS Academic Writing — modified large print · PDF 第 10 页写作前置 · 文中表达下面的表达来自阅读材料，例句按本题语境编写。展开相关材料即可查看。Do animals dream?｜章鱼行为与研究边界shed light on帮助增进理解常见搭配是research/findings may shed light on a process or question。适合讨论基础研究的潜在贡献，同时保留may、could等程度词，不把研究方向写成已经证实的成果。本题例句 · 编写示范Public funding can support basic research that may shed light on how memory works, even when there is no immediate commercial return.科研由政府还是企业控制的题目涉及研究激励；该表达可用于说明公共资金支持无即时商业回报的基础研究这一理由。它是写作中的政策论点，不是原文对资助模式作出的结论。回到这份材料的精读Artificial Intelligence｜公众想象与解决一切的误区setting unrealistic expectations about对……设定不切实际的预期可在avoid等动词后保留setting形式，具体说明期待的成果或时间；不把所有期待都说成不切实际。本题例句 · 编写示范Governments should avoid setting unrealistic expectations about how quickly publicly funded research can produce practical benefits.自编例句，贴合政府科研职责，说明资助研究时如何理解成果周期；并不据此推出应排除私营研究。回到这份材料的精读Artificial Intelligence｜公共部门实施条件appropriate data infrastructure合适的数据基础设施适合具体说明公共科研投入的基础条件；搭配provide或develop时仍需交代研究用途。本题例句 · 编写示范Government funding can provide appropriate data infrastructure for long-term environmental research whose commercial returns are uncertain.自编例句，贴合政府资助具有公共价值、商业回报不确定的科研，具体化资金可以支持什么；不是说科研只能由政府执行。reap the benefits of实际获得……的益处后接能够说明来源的资源、经验或合作成果，避免只写空泛的benefits。本题例句 · 编写示范Public laboratories may reap the benefits of specialist knowledge held by private companies if they are allowed to collaborate.自编例句，直接回应政府与私企研究是否应排他：用有条件的合作说明可以利用不同主体的专业知识。回到这份材料的精读Artificial Intelligence｜部署边界、医疗与司法案例minimise the potential harms尽量减少潜在伤害适合与审查、监管和试验条件相连；不能声称审查可以保证消除全部风险。本题例句 · 编写示范Independent review can help both public and private laboratories minimise the potential harms of experimental treatments.自编例句，直接回应科研应如何受到控制：提出可适用于公共和私营实验室的审查安排，不把监管等同于政府独占所有研究。be aware of the limitations of认识到……的局限后接具体技术或方法；认识边界服务于判断用途，避免演变成空泛反科技态度。本题例句 · 编写示范Research regulators need to be aware of the limitations of a new technology before approving its wider use.自编例句，贴合政府科研监督职责，把能力边界与是否批准扩大应用联系起来。回到这份材料的精读Scientific research should be carried out and controlled by governments, rather than by private companies. To what extent do you agree or disagree?本次写作任务写两个主体段，约170–210词。区分carried out与controlled：政府监督不必等于政府独占全部执行；针对题中的排他性rather than表态。我的段落0 词保留作答，查看答案先作答；不确定的题也可记录判断与疑点。对照答案，回到证据参考写法下列段落为针对原题编写的参考写法，用于对照内容和表达；写作没有唯一标准答案。Government involvement in research is essential where the public benefit is large but the prospect of commercial profit is uncertain. Long-term environmental monitoring, for example, may be socially valuable even when no product can immediately be sold. Public funding can support this work and make its findings available for wider use. Governments also have a responsibility to establish ethical rules and require appropriate safety checks. Leaving every decision to firms seeking a financial return could mean that important questions receive too little attention.However, these arguments do not justify excluding private companies from carrying out research. A firm developing a new material or production method may combine specialist knowledge with the ability to turn a discovery into a usable product. If only government bodies conducted research, potentially useful lines of investigation could be lost. I therefore support public oversight and substantial government funding, but not an exclusive government monopoly. Clear standards, transparent reporting and independent review can apply to both public and private laboratories. This arrangement recognises the risks of commercial interests while retaining the different resources and expertise that companies can contribute.第一段支持公共资助与伦理规则；第二段明确反对排除私企。与原题控制/执行两个动作分别对应。环境监测和新材料为合理例子，没有伪造研究结果或真实机构案例。立场并非第一段同意、第二段反悔：始终赞成监管，反对政府独占。答后精读篇章结构公共利益及市场激励不足—政府职责。私人研发贡献—反对独占—说明公共监督如何与多元执行共存。词语与搭配public oversight：监督，不等于所有研究由政府亲自完成。an exclusive government monopoly：准确回应rather than的排他意味。apply to both public and private laboratories：保持规则一致。句子精读These arguments do not justify excluding private companies ... → These arguments回指公共利益和伦理需求，解释它们不足以推出独占。... while retaining ... → 同时实现监督和利用不同资源。我的修订／证据笔记鼓励替代交通与国际限车规定未作答同意程度 · 原题拆段写作 · 参考段落与逐段讲解0% · 0 / 1 完成官方样题 · Cambridge / IELTS Academic Writing sample task · PDF 第 1 页写作前置 · 文中表达下面的表达来自阅读材料，例句按本题语境编写。展开相关材料即可查看。Why we need silence｜噪声风险与城市降噪reducing noise from roads减少道路噪声适合说明鼓励公共交通、步行或骑行可能带来的生活环境收益。需要具体写出减少何种车流或噪声源，不把交通方式改变等同于必然消除所有噪声。本题例句 · 编写示范Replacing some private car journeys with walking or cycling can make residential areas more pleasant by reducing noise from roads.题目讨论鼓励替代交通与限制车辆使用；道路噪声是与车辆使用直接相关的生活环境理由。回到这份材料的精读Dar es Salaam · 城市扩张与交通方案a future controlled by the private car由私家车主导的未来适合描述城市发展的整体方向，随后应解释公共交通如何提供现实替代。本题例句 · 编写示范Investment in reliable public transport can help cities avoid a future controlled by the private car.直接回应交通题鼓励替代交通方式的主张；不自动推出必须统一限制所有地区的汽车拥有量。回到这份材料的精读Dar es Salaam · 公交设计与实际故障accessible to people using wheelchairs便于轮椅使用者使用用于说明公共交通替代方案应照顾不同乘客；需配合无台阶入口、站台等具体设计。本题例句 · 编写示范Buses should be accessible to people using wheelchairs so that alternatives to cars serve passengers with different mobility needs.交通题中的替代方式不只是增加车辆，还包括让不同人群能实际使用。within a short walk of距……很近，步行即可到达说明住房与公交网络的空间联系；是否足够近应由实际布局支持。本题例句 · 编写示范More residents may choose buses if their homes are within a short walk of a reliable route.说明公交替代汽车所需的接近性与可靠性，连接设施安排和出行选择。回到这份材料的精读The first car appeared on British roads in 1888. By the year 2000 there may be as many as 29 million vehicles on British roads. Alternative forms of transport should be encouraged and international laws introduced to control car ownership and use. To what extent do you agree or disagree?本次写作任务写两个主体段，约180–220词：分别回应encourage alternatives和international laws。题干历史预测按原文保留，不当作今天的数据；不只讨论交通污染。我的段落0 词保留作答，查看答案先作答；不确定的题也可记录判断与疑点。对照答案，回到证据参考写法下列段落为针对原题编写的参考写法，用于对照内容和表达；写作没有唯一标准答案。I strongly support making alternatives to private cars more attractive. A dependable bus or rail service can give commuters a practical reason to leave their vehicles at home, particularly when routes connect residential areas with major workplaces. Safe walking and cycling routes can serve shorter journeys. Encouragement should therefore involve reliable infrastructure and convenient connections, not merely publicity asking people to change their behaviour. If the available alternatives are slow or unsafe, restrictions on driving may impose a burden without providing people with a workable way to travel.I am less convinced that car ownership should be governed by uniform international laws. A dense city with frequent public transport and a remote community with limited services have very different needs. A single ownership limit could therefore affect people unfairly while failing to target the busiest roads. International cooperation on vehicle emissions may be useful, but local authorities are better placed to decide when and where to restrict car use. Measures such as parking controls or charges in congested areas can be linked to local conditions. I thus agree with encouraging alternatives, while supporting a more locally adaptable approach to regulation.题目两项主张必须分开回答；只谈替代交通会漏international laws。历史题干中2000年是预测语境；参考段落不把29 million冒充2026年统计。第二段不是完全反对国际合作，而是质疑统一ownership limits，保持部分同意清晰。答后精读篇章结构替代交通如何改变行为—必要条件。国际统一规定的适用差异—地方调节—逐项表态。词语与搭配a workable way to travel：可执行的出行选择。uniform international laws：统一规则，准确对应题目。linked to local conditions：给出监管层级的理由。句子精读If the available alternatives are slow or unsafe, ... → 条件解释为何“鼓励”需要配套。I thus agree with ..., while supporting ... → 用同一句明确两项主张的不同支持程度。我的修订／证据笔记老年照护费用：政府与家庭如何分担未作答观点选择 · 原题拆段写作 · 参考段落与逐段讲解0% · 0 / 1 完成官方样题 · Cambridge / IELTS General Training Writing sample task · PDF 第 1 页In Britain, when someone gets old they often go to live in a home with other old people where there are nurses to look after them. Sometimes the government has to pay for this care. Who do you think should pay for this care, the government or the family?本次写作任务写两个主体段，约170–210词。提出明确分担原则，再解释家庭在何种条件下出资；原题是GT官方Task2，论证训练可迁移到Academic，但不得伪标Academic真题。我的段落0 词保留作答，查看答案先作答；不确定的题也可记录判断与疑点。对照答案，回到证据参考写法下列段落为针对原题编写的参考写法，用于对照内容和表达；写作没有唯一标准答案。The government should guarantee essential care for older people who cannot afford it. The need for nursing support may arise independently of how carefully a person has saved, and the cost can exceed an ordinary household’s resources. If access depends entirely on family payments, an older person with poor relatives or no close family could be left without adequate help. Public funding can establish a minimum standard of care and spread this financial risk across society. This is a stronger basis for essential support than making each family bear an unpredictable burden alone.Families can reasonably contribute when they have sufficient resources, but the contribution should depend on their means. Requiring the same payment from a low-income household and a wealthy one would be unfair and might damage the care of other dependants. A means-tested arrangement could protect essential living costs while asking those able to afford additional support to share the expense. Families may also choose to pay for optional facilities beyond the publicly funded minimum. My view is therefore that the state should secure access to necessary care, with family contributions supplementing that guarantee rather than determining whether care is available at all.原题问谁付钱，答案用政府保障底线、家庭按能力补充的可操作原则回应。没有将“照顾亲人是美德”当成费用分担的全部论据；讨论的是资源、风险和公平。明确来源为GT官方样题；并非声称这是Academic考试题。答后精读篇章结构公共保障理由：风险不可预测、家庭资源不均。按支付能力限定家庭责任，最后重新给出明确分担立场。词语与搭配depend on their means：means指经济能力。a minimum standard of care：基本保障而非无限开支。supplementing that guarantee：补充而非取代公共保障。句子精读If access depends entirely on family payments, ... → 把公平风险与支付规则直接相连。... rather than determining whether care is available at all → 结尾强调家庭收入不应决定基本照护资格。我的修订／证据笔记高学历毕业生失业：原因和措施一一对应未作答原因与措施 · 原题拆段写作 · 参考段落与逐段讲解0% · 0 / 1 完成官方教辅 · British Council — Writing Task 2: Developing paragraphs · PDF 第 10 页In many countries today there are many highly qualified graduates without employment. What factors may have caused this situation and what, in your opinion, can/should be done about it?本次写作任务写两个主体段，约180–220词：第一段构造两个具体原因，第二段让措施分别对应。原题来自官方IELTS教学材料，保持考试任务，不降低难度；不照抄教辅的示范立场。我的段落0 词保留作答，查看答案先作答；不确定的题也可记录判断与疑点。对照答案，回到证据参考写法下列段落为针对原题编写的参考写法，用于对照内容和表达；写作没有唯一标准答案。One reason qualified graduates may struggle to find employment is a mismatch between their education and the requirements of available jobs. A degree can provide substantial theoretical knowledge without giving students enough experience of applying it in a workplace. Employers may consequently hesitate to recruit applicants who need extensive practical training. A second difficulty arises when many students enter the same popular fields while local vacancies are concentrated elsewhere. In that situation, even capable candidates can compete for a limited number of positions, and the possession of a qualification alone does not create demand for their skills.Universities and employers should address the first problem through relevant placements and jointly designed practical projects. These would allow students to demonstrate their abilities and help firms assess potential recruits before offering permanent work. To reduce the second mismatch, students need clearer information about employment patterns and opportunities beyond the most familiar occupations. Careers services could support applications across related industries, while flexible retraining programmes could help graduates acquire additional skills. These measures cannot guarantee a job for every individual, but they respond directly to the gaps in experience and information rather than simply encouraging everyone to obtain another degree.真实题干来自BC教辅第10页；参考论证是重新编写并标明，不冒充官方范文。原因1缺应用经验→实习/实际项目；原因2热门专业与空缺错配→就业信息/跨行业申请/补充培训。最后承认措施边界，避免“政府增加工作岗位”这种无机制口号。答后精读篇章结构两个原因分别说明为什么学历不自动转化为就业。依次给出对应措施、作用机制和可实现边界。词语与搭配a mismatch between ... and ...：明确错配双方。demonstrate their abilities：解释实习为何帮助招聘。respond directly to the gaps ...：回扣原因而不是另起政策话题。句子精读In that situation, even capable candidates can compete for a limited number of positions ... → even强调个人能力不足不是唯一原因。These measures cannot guarantee ... but they respond ... → 承认边界仍支持措施相关性。我的修订／证据笔记过度捕捞：从激励与监管写到对策未作答原因与措施 · 原题拆段写作 · 参考段落与逐段讲解0% · 0 / 1 完成官方教辅 · British Council — Writing Task 2: Problems and solutions · PDF 第 7 页写作前置 · 文中表达下面的表达来自阅读材料，例句按本题语境编写。展开相关材料即可查看。The World of Sugar｜全球贸易与误解纠正threatening the livelihood of威胁……的生计适合用于描述资源衰退或不公平竞争怎样影响依赖某产业谋生的人。可以作为结果分词短语，但要让前面的原因具体可理解。本题例句 · 编写示范Overfishing can deplete local fish stocks, threatening the livelihood of small-scale fishing communities.现有题目明确谈过度捕捞对数百万人生计的风险；表达可直接连接鱼类资源减少与沿海家庭收入受损。回到这份材料的精读Saving the saiga · 生存适应与早期数量变化on an industrial scale以极大的、工业化的规模适合描述技术与设备使资源开采规模扩大；不能把所有小型经营都称为 industrial scale。本题例句 · 编写示范Large vessels can remove fish on an industrial scale, making effective limits on catches essential.过度捕捞题讨论捕捞能力与生态压力，大型船舶造成的规模效应与原文大规模猎杀直接相关。relieve the pressure on减轻……所承受的压力说明措施帮助哪个对象；on 后接鱼群、生态系统等，随后解释压力怎样减少。本题例句 · 编写示范Temporary closures can relieve the pressure on vulnerable fish stocks by allowing them time to reproduce.直接用于过度捕捞的措施段，把休渔与鱼群恢复相连；不套用赛加保护倡议的历史结果。回到这份材料的精读Saving the saiga · 栖息地、疾病、气候与恢复working in partnership with与……共同合作适合说明跨地区生态治理的合作关系，应明确谁和谁合作以及共同处理什么问题。本题例句 · 编写示范Coastal authorities, working in partnership with neighbouring countries, can coordinate limits on catches from shared fish stocks.过度捕捞涉及跨界鱼群，原文跨境物种保护中的机构协作与共享海域监管高度吻合。protect and restore保护并修复protect 强调避免进一步破坏，restore 强调恢复已经受损的状态；并列时应同时存在预防与修复需要。本题例句 · 编写示范Fishing restrictions should protect and restore marine ecosystems while allowing communities time to adapt.可用于说明限制捕捞的生态目标，并与题目中的渔业生计相衔接。回到这份材料的精读Overfishing of the world’s oceans threatens many species with extinction and is putting the livelihood of millions of people around the world at risk. What are the causes of this problem and what can be done to prevent it from happening?本次写作任务写两个主体段，约180–220词。第一段写捕捞能力与逐利/监管，第二段分别提出限制和执行机制；同时照顾生态与依靠渔业的社区，不编造研究数字。我的段落0 词保留作答，查看答案先作答；不确定的题也可记录判断与疑点。对照答案，回到证据参考写法下列段落为针对原题编写的参考写法，用于对照内容和表达；写作没有唯一标准答案。Overfishing can result from the combination of powerful fishing methods and incentives to maximise the immediate catch. Large vessels and efficient equipment allow operators to remove substantial quantities of fish, while each business may fear losing income if competitors continue fishing. Where catch limits are weak or poorly enforced, individual firms have little reason to leave fish in the sea for future seasons. The problem is intensified when the same stocks move across national boundaries, because restrictions in one area may be undermined by heavy fishing elsewhere.Effective action therefore requires both enforceable limits and cooperation between the authorities responsible for shared waters. Catch quotas and temporary closures can reduce pressure on vulnerable stocks, but they need monitoring and credible penalties; a rule that is routinely ignored changes little. Governments should also support fishing communities during restrictions, for example through assistance in moving towards less damaging practices or alternative sources of income. Without that support, measures designed to protect future livelihoods may face resistance from people struggling to survive now. The aim should be to make sustainable fishing a practical long-term choice, rather than simply announce a ban.原因段没有堆抽象名词：设备提高捕捞能力，竞争激励促使当下多捕，跨界鱼群削弱单方限制。措施段逐项承接：限额/休渔对应压力，监测/处罚对应执行，跨区域协作对应跨界问题。livelihood题干范围被保留：过渡支持说明保护鱼群与渔民短期收入怎样协调。答后精读篇章结构能力—激励—执行薄弱—跨界扩大。限制—执行—协作—社区过渡支持。词语与搭配credible penalties：能落实的惩罚，避免只有法规名称。shared waters：衔接跨界鱼群。a practical long-term choice：让结论落在可执行性。句子精读... because restrictions in one area may be undermined by heavy fishing elsewhere → because解释国际协调的必要。Without that support, ... may face resistance ... → 解释社区支持为何不是无关福利。我的修订／证据笔记儿童肥胖：原因—措施对应而非空泛建议未作答原因与措施 · 原题拆段写作 · 参考段落与逐段讲解0% · 0 / 1 完成官方教辅 · British Council — Writing Task 2: Problems and solutions · PDF 第 12 页写作前置 · 文中表达下面的表达来自阅读材料，例句按本题语境编写。展开相关材料即可查看。The World of Sugar｜工业化、消费与作者立场attempts to reduce consumption降低消费量的努力在健康话题里要补清consumption指什么，例如含糖饮料，而不是笼统主张减少所有食品消费。适合描述措施与商业激励之间的关系。本题例句 · 编写示范Attempts to reduce consumption of sugary drinks among children are more likely to succeed when healthier alternatives are affordable and easy to obtain.儿童肥胖题要求提出措施；这句话把减少含糖饮料摄入与可负担替代品联系起来，强调环境支持而非只责怪个人自控。a large number of processed foods大量加工食品可讨论配方、标签或食品环境，但加工食品并非全部有相同营养特征，例句应限定要比较的成分。本题例句 · 编写示范When added sugar is present in a large number of processed foods, clear labels can help parents compare products more easily.适合儿童肥胖措施段中的食品信息环境；条件句聚焦添加糖与标签，避免把所有加工食品概括为有害。回到这份材料的精读健康观念变化：年份、十年与三大领域the social and environmental conditions社会与环境条件适合说明健康行为受到可获得资源与生活环境的影响；必须接具体机制，不把抽象词组当成完整原因。本题例句 · 编写示范Measures to reduce childhood obesity should address the social and environmental conditions that make nutritious food and safe places to play difficult to access.自编例句，直接对应儿童肥胖的原因与措施：把食物和活动空间的可达性作为可以改善的具体条件，不把所有责任归于儿童个人。maintain healthy behaviours and lifestyles维持有益健康的行为与生活方式与提供条件和持续支持搭配；不承诺一项措施可以单独消除儿童肥胖。本题例句 · 编写示范Schools can help children maintain healthy behaviours and lifestyles by providing regular opportunities for physical activity and nutritious meals.自编例句，用学校可采取的具体支持回应儿童肥胖题的措施部分；can表示可能贡献，不宣称所有儿童会因此获得相同结果。回到这份材料的精读A rise in childhood obesity is a real threat to health with an increasing number of children now classified as overweight. What are the causes of the problem and what measures can be taken to solve them?本次写作任务写两个主体段，约180–220词：解释饮食环境与活动机会两个原因，再分别匹配学校/社区措施。这里练考试论证，不作个人医疗建议，也不写没有来源的研究数字。我的段落0 词保留作答，查看答案先作答；不确定的题也可记录判断与疑点。对照答案，回到证据参考写法下列段落为针对原题编写的参考写法，用于对照内容和表达；写作没有唯一标准答案。One contributing factor is that energy-dense convenience foods can be easier to obtain than balanced meals in children’s daily surroundings. Busy households may rely on ready-made options, and frequent promotion of snacks can make these products particularly appealing. At the same time, some children have limited opportunities to be physically active. Long periods spent sitting at school or using screens may be combined with a lack of safe places to play nearby. These circumstances can reinforce one another: an environment that encourages frequent snacking while making activity inconvenient creates persistent difficulties for healthy routines.Responses should make healthier routines easier to maintain, rather than rely only on telling children to show more self-control. Schools can provide balanced meals and practical food education, while clear information for families can help them compare everyday choices. The lack of activity opportunities also needs a direct response. Safe routes to school, accessible play areas and regular opportunities for movement during the school day can reduce barriers to being active. Parents, schools and local authorities each influence part of this environment, so coordinated changes are more likely to be useful than an isolated awareness campaign that leaves the underlying conditions unchanged.原因1食品获取/营销环境→学校均衡供餐和实用信息；原因2活动机会不足→安全路线、场地、在校活动。不用“kids are lazy”作为单一原因；解释环境如何影响日常选择，避免道德评判。参考段落是任务论证示范，未用虚构数字、未经核验研究或诊疗建议增加权威感。答后精读篇章结构饮食与活动环境两个原因，最后交代相互强化。按同样次序匹配措施，并解释为何宣传单独不够。词语与搭配contributing factor：因素之一，避免假装唯一原因。reduce barriers to being active：措施如何起效。underlying conditions：回指便利食品与活动机会环境。句子精读These circumstances can reinforce one another ... → 指代上文两类环境而非增加新原因。... rather than rely only on telling children ... → 论证措施应改变条件，不只发口号。我的修订／证据笔记",
+  "links": [
+    {
+      "text": "Cambridge IELTS 21 Academic",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=31"
+    },
+    {
+      "text": "回到这份材料的精读",
+      "href": "#material-reading-rd-c21-t3-dart-city"
+    },
+    {
+      "text": "回到这份材料的精读",
+      "href": "#material-reading-rd-c21-t3-dart-system"
+    },
+    {
+      "text": "Cambridge IELTS 21 Academic",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=53"
+    },
+    {
+      "text": "回到这份材料的精读",
+      "href": "#material-reading-rd-c21-davies-2"
+    },
+    {
+      "text": "回到这份材料的精读",
+      "href": "#material-reading-rd-c21-davies-3"
+    },
+    {
+      "text": "回到这份材料的精读",
+      "href": "#material-reading-rd-official-miles-2"
+    },
+    {
+      "text": "回到这份材料的精读",
+      "href": "#material-reading-rd-c21-ai-1"
+    },
+    {
+      "text": "Cambridge IELTS 21 Academic",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=74"
+    },
+    {
+      "text": "回到这份材料的精读",
+      "href": "#material-reading-rd-official-miles-1"
+    },
+    {
+      "text": "Cambridge IELTS 21 Academic",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=96"
+    },
+    {
+      "text": "回到这份材料的精读",
+      "href": "#material-reading-rd-c21-t4-multilingual-background"
+    },
+    {
+      "text": "回到这份材料的精读",
+      "href": "#material-reading-rd-c21-t4-multilingual-findings"
+    },
+    {
+      "text": "IELTS Academic Writing Sample Tasks (2023)",
+      "href": "case-assets/writing-official-sample-tasks-2023.pdf#page=6"
+    },
+    {
+      "text": "回到这份材料的精读",
+      "href": "#material-reading-rd-c21-t4-multilingual-findings"
+    },
+    {
+      "text": "官方作答 · 第21页",
+      "href": "case-assets/writing-official-sample-tasks-2023.pdf#page=21"
+    },
+    {
+      "text": "考官评语 · 第22页",
+      "href": "case-assets/writing-official-sample-tasks-2023.pdf#page=22"
+    },
+    {
+      "text": "官方在线原件",
+      "href": "https://ielts.org/cdn/Sample-tests/ielts-academic-writing-sample-tasks-2023.pdf#page=21"
+    },
+    {
+      "text": "IELTS Academic Writing Sample Tasks (2023)",
+      "href": "case-assets/writing-official-sample-tasks-2023.pdf#page=7"
+    },
+    {
+      "text": "回到这份材料的精读",
+      "href": "#material-reading-rd-c21-silence-1"
+    },
+    {
+      "text": "回到这份材料的精读",
+      "href": "#material-reading-rd-c21-mapungubwe-2"
+    },
+    {
+      "text": "官方作答 · 第25页",
+      "href": "case-assets/writing-official-sample-tasks-2023.pdf#page=25"
+    },
+    {
+      "text": "考官评语 · 第26页",
+      "href": "case-assets/writing-official-sample-tasks-2023.pdf#page=26"
+    },
+    {
+      "text": "官方在线原件",
+      "href": "https://ielts.org/cdn/Sample-tests/ielts-academic-writing-sample-tasks-2023.pdf#page=25"
+    },
+    {
+      "text": "IELTS Academic Writing — modified large print",
+      "href": "case-assets/writing-official-large-print.pdf#page=10"
+    },
+    {
+      "text": "回到这份材料的精读",
+      "href": "#material-reading-rd-c21-dreams-2"
+    },
+    {
+      "text": "回到这份材料的精读",
+      "href": "#material-reading-rd-c21-ai-1"
+    },
+    {
+      "text": "回到这份材料的精读",
+      "href": "#material-reading-rd-c21-ai-2"
+    },
+    {
+      "text": "回到这份材料的精读",
+      "href": "#material-reading-rd-c21-ai-3"
+    },
+    {
+      "text": "Cambridge / IELTS Academic Writing sample task",
+      "href": "case-assets/writing-official-transport.pdf#page=1"
+    },
+    {
+      "text": "回到这份材料的精读",
+      "href": "#material-reading-rd-c21-silence-1"
+    },
+    {
+      "text": "回到这份材料的精读",
+      "href": "#material-reading-rd-c21-t3-dart-city"
+    },
+    {
+      "text": "回到这份材料的精读",
+      "href": "#material-reading-rd-c21-t3-dart-system"
+    },
+    {
+      "text": "Cambridge / IELTS General Training Writing sample task",
+      "href": "case-assets/writing-official-elder-care.pdf#page=1"
+    },
+    {
+      "text": "British Council — Writing Task 2: Developing paragraphs",
+      "href": "原始参考/9464a2d7-5bfdf909-writing_task_2_developing_paragraphs.pdf#page=10"
+    },
+    {
+      "text": "British Council — Writing Task 2: Problems and solutions",
+      "href": "扩展资料/609824ad-writing_task_2_problems_and_solutions_.pdf#page=7"
+    },
+    {
+      "text": "回到这份材料的精读",
+      "href": "#material-reading-rd-c21-sugar-1"
+    },
+    {
+      "text": "回到这份材料的精读",
+      "href": "#material-reading-rd-c21-t3-saiga-adaptation"
+    },
+    {
+      "text": "回到这份材料的精读",
+      "href": "#material-reading-rd-c21-t3-saiga-threats"
+    },
+    {
+      "text": "British Council — Writing Task 2: Problems and solutions",
+      "href": "扩展资料/609824ad-writing_task_2_problems_and_solutions_.pdf#page=12"
+    },
+    {
+      "text": "回到这份材料的精读",
+      "href": "#material-reading-rd-c21-sugar-3"
+    },
+    {
+      "text": "回到这份材料的精读",
+      "href": "#material-reading-rd-gap-academic-short-answer-health"
+    }
+  ],
+  "details": [
+    {
+      "id": "writing2-case-wc-c21-t1-homes",
+      "title": "高层住宅是否是城市住房的最佳方案未作答同意程度 · 原题拆段写作 · 参考段落与逐段讲解",
+      "open": true,
+      "visible": true
+    },
+    {
+      "id": "writing-prep-wc-c21-t1-homes-from-rd-c21-t3-dart-city",
+      "title": "Dar es Salaam · 城市扩张与交通方案",
+      "open": false,
+      "visible": true
+    },
+    {
+      "id": "writing-prep-wc-c21-t1-homes-from-rd-c21-t3-dart-system",
+      "title": "Dar es Salaam · 公交设计与实际故障",
+      "open": false,
+      "visible": true
+    },
+    {
+      "id": "writing2-case-wc-c21-t2-entertainment",
+      "title": "线上娱乐与剧院影院的经济文化价值未作答讨论双方 · 原题拆段写作 · 参考段落与逐段讲解",
+      "open": true,
+      "visible": true
+    },
+    {
+      "id": "writing-prep-wc-c21-t2-entertainment-from-rd-c21-davies-2",
+      "title": "The Davies Sisters｜印象派转向与战时收藏",
+      "open": false,
+      "visible": true
+    },
+    {
+      "id": "writing-prep-wc-c21-t2-entertainment-from-rd-c21-davies-3",
+      "title": "The Davies Sisters｜收藏停止与文化遗产",
+      "open": false,
+      "visible": true
+    },
+    {
+      "id": "writing-prep-wc-c21-t2-entertainment-from-rd-official-miles-2",
+      "title": "Miles Davis：困境、跨界与创造力",
+      "open": false,
+      "visible": true
+    },
+    {
+      "id": "writing-prep-wc-c21-t2-entertainment-from-rd-c21-ai-1",
+      "title": "Artificial Intelligence｜公众想象与解决一切的误区",
+      "open": false,
+      "visible": true
+    },
+    {
+      "id": "writing2-case-wc-c21-t3-placement",
+      "title": "本科海外学习或实习：收益能否超过代价未作答利弊权衡 · 原题拆段写作 · 参考段落与逐段讲解",
+      "open": true,
+      "visible": true
+    },
+    {
+      "id": "writing-prep-wc-c21-t3-placement-from-rd-official-miles-1",
+      "title": "Miles Davis：独特音色、双重教育与音乐遗产",
+      "open": false,
+      "visible": true
+    },
+    {
+      "id": "writing2-case-wc-c21-t4-primary",
+      "title": "小学正式学习与课堂游戏：两个问题分别回应未作答双问 · 原题拆段写作 · 参考段落与逐段讲解",
+      "open": true,
+      "visible": true
+    },
+    {
+      "id": "writing-prep-wc-c21-t4-primary-from-rd-c21-t4-multilingual-background",
+      "title": "Multilingualism · 迁移背景与研究目标",
+      "open": false,
+      "visible": true
+    },
+    {
+      "id": "writing-prep-wc-c21-t4-primary-from-rd-c21-t4-multilingual-findings",
+      "title": "Multilingualism · 教学语言与出人意料的结果",
+      "open": false,
+      "visible": true
+    },
+    {
+      "id": "writing2-case-wc-official-wealth",
+      "title": "家庭财富与成年问题应对：避免绝对化未作答同意程度 · 原题拆段写作 · 参考段落与逐段讲解",
+      "open": true,
+      "visible": true
+    },
+    {
+      "id": "writing-prep-wc-official-wealth-from-rd-c21-t4-multilingual-findings",
+      "title": "Multilingualism · 教学语言与出人意料的结果",
+      "open": false,
+      "visible": true
+    },
+    {
+      "id": "writing2-case-wc-official-tourism",
+      "title": "国际旅游：经济收益与社区成本如何比较未作答利弊权衡 · 原题拆段写作 · 参考段落与逐段讲解",
+      "open": true,
+      "visible": true
+    },
+    {
+      "id": "writing-prep-wc-official-tourism-from-rd-c21-silence-1",
+      "title": "Why we need silence｜噪声风险与城市降噪",
+      "open": false,
+      "visible": true
+    },
+    {
+      "id": "writing-prep-wc-official-tourism-from-rd-c21-mapungubwe-2",
+      "title": "Mapungubwe｜贸易、器物与衰落",
+      "open": false,
+      "visible": true
+    },
+    {
+      "id": "writing2-case-wc-official-science",
+      "title": "科研由政府控制：公共利益与研究多样性未作答同意程度 · 原题拆段写作 · 参考段落与逐段讲解",
+      "open": true,
+      "visible": true
+    },
+    {
+      "id": "writing-prep-wc-official-science-from-rd-c21-dreams-2",
+      "title": "Do animals dream?｜章鱼行为与研究边界",
+      "open": false,
+      "visible": true
+    },
+    {
+      "id": "writing-prep-wc-official-science-from-rd-c21-ai-1",
+      "title": "Artificial Intelligence｜公众想象与解决一切的误区",
+      "open": false,
+      "visible": true
+    },
+    {
+      "id": "writing-prep-wc-official-science-from-rd-c21-ai-2",
+      "title": "Artificial Intelligence｜公共部门实施条件",
+      "open": false,
+      "visible": true
+    },
+    {
+      "id": "writing-prep-wc-official-science-from-rd-c21-ai-3",
+      "title": "Artificial Intelligence｜部署边界、医疗与司法案例",
+      "open": false,
+      "visible": true
+    },
+    {
+      "id": "writing2-case-wc-official-transport",
+      "title": "鼓励替代交通与国际限车规定未作答同意程度 · 原题拆段写作 · 参考段落与逐段讲解",
+      "open": true,
+      "visible": true
+    },
+    {
+      "id": "writing-prep-wc-official-transport-from-rd-c21-silence-1",
+      "title": "Why we need silence｜噪声风险与城市降噪",
+      "open": false,
+      "visible": true
+    },
+    {
+      "id": "writing-prep-wc-official-transport-from-rd-c21-t3-dart-city",
+      "title": "Dar es Salaam · 城市扩张与交通方案",
+      "open": false,
+      "visible": true
+    },
+    {
+      "id": "writing-prep-wc-official-transport-from-rd-c21-t3-dart-system",
+      "title": "Dar es Salaam · 公交设计与实际故障",
+      "open": false,
+      "visible": true
+    },
+    {
+      "id": "writing2-case-wc-official-eldercare",
+      "title": "老年照护费用：政府与家庭如何分担未作答观点选择 · 原题拆段写作 · 参考段落与逐段讲解",
+      "open": true,
+      "visible": true
+    },
+    {
+      "id": "writing2-case-wc-bc-graduates",
+      "title": "高学历毕业生失业：原因和措施一一对应未作答原因与措施 · 原题拆段写作 · 参考段落与逐段讲解",
+      "open": true,
+      "visible": true
+    },
+    {
+      "id": "writing2-case-wc-bc-overfishing",
+      "title": "过度捕捞：从激励与监管写到对策未作答原因与措施 · 原题拆段写作 · 参考段落与逐段讲解",
+      "open": true,
+      "visible": true
+    },
+    {
+      "id": "writing-prep-wc-bc-overfishing-from-rd-c21-sugar-1",
+      "title": "The World of Sugar｜全球贸易与误解纠正",
+      "open": false,
+      "visible": true
+    },
+    {
+      "id": "writing-prep-wc-bc-overfishing-from-rd-c21-t3-saiga-adaptation",
+      "title": "Saving the saiga · 生存适应与早期数量变化",
+      "open": false,
+      "visible": true
+    },
+    {
+      "id": "writing-prep-wc-bc-overfishing-from-rd-c21-t3-saiga-threats",
+      "title": "Saving the saiga · 栖息地、疾病、气候与恢复",
+      "open": false,
+      "visible": true
+    },
+    {
+      "id": "writing2-case-wc-bc-childhealth",
+      "title": "儿童肥胖：原因—措施对应而非空泛建议未作答原因与措施 · 原题拆段写作 · 参考段落与逐段讲解",
+      "open": true,
+      "visible": true
+    },
+    {
+      "id": "writing-prep-wc-bc-childhealth-from-rd-c21-sugar-3",
+      "title": "The World of Sugar｜工业化、消费与作者立场",
+      "open": false,
+      "visible": true
+    },
+    {
+      "id": "writing-prep-wc-bc-childhealth-from-rd-gap-academic-short-answer-health",
+      "title": "健康观念变化：年份、十年与三大领域",
+      "open": false,
+      "visible": true
+    }
+  ],
+  "saveFields": [
+    "case-wc-c21-t1-homes-answer",
+    "case-wc-c21-t1-homes-done",
+    "case-wc-c21-t1-homes-saved-at",
+    "case-wc-c21-t1-homes-revision",
+    "case-wc-c21-t2-entertainment-answer",
+    "case-wc-c21-t2-entertainment-done",
+    "case-wc-c21-t2-entertainment-saved-at",
+    "case-wc-c21-t2-entertainment-revision",
+    "case-wc-c21-t3-placement-answer",
+    "case-wc-c21-t3-placement-done",
+    "case-wc-c21-t3-placement-saved-at",
+    "case-wc-c21-t3-placement-revision",
+    "case-wc-c21-t4-primary-answer",
+    "case-wc-c21-t4-primary-done",
+    "case-wc-c21-t4-primary-saved-at",
+    "case-wc-c21-t4-primary-revision",
+    "case-wc-official-wealth-answer",
+    "case-wc-official-wealth-done",
+    "case-wc-official-wealth-saved-at",
+    "case-wc-official-wealth-revision",
+    "case-wc-official-tourism-answer",
+    "case-wc-official-tourism-done",
+    "case-wc-official-tourism-saved-at",
+    "case-wc-official-tourism-revision",
+    "case-wc-official-science-answer",
+    "case-wc-official-science-done",
+    "case-wc-official-science-saved-at",
+    "case-wc-official-science-revision",
+    "case-wc-official-transport-answer",
+    "case-wc-official-transport-done",
+    "case-wc-official-transport-saved-at",
+    "case-wc-official-transport-revision",
+    "case-wc-official-eldercare-answer",
+    "case-wc-official-eldercare-done",
+    "case-wc-official-eldercare-saved-at",
+    "case-wc-official-eldercare-revision",
+    "case-wc-bc-graduates-answer",
+    "case-wc-bc-graduates-done",
+    "case-wc-bc-graduates-saved-at",
+    "case-wc-bc-graduates-revision",
+    "case-wc-bc-overfishing-answer",
+    "case-wc-bc-overfishing-done",
+    "case-wc-bc-overfishing-saved-at",
+    "case-wc-bc-overfishing-revision",
+    "case-wc-bc-childhealth-answer",
+    "case-wc-bc-childhealth-done",
+    "case-wc-bc-childhealth-saved-at",
+    "case-wc-bc-childhealth-revision"
+  ],
+  "images": [],
+  "audio": [],
+  "viewport": 1440,
+  "documentWidth": 1440
+}

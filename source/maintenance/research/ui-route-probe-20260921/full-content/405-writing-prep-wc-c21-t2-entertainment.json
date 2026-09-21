@@ -1,0 +1,300 @@
+{
+  "requested": "writing-prep-wc-c21-t2-entertainment",
+  "from": [
+    "每日安排目标"
+  ],
+  "actual": "#writing-prep-wc-c21-t2-entertainment",
+  "checkedAt": "2026-09-21T12:56:04.063Z",
+  "title": "练习 / 写作 · Task 2 / 线上娱乐与剧院影院的经济文化价值 · IELTS",
+  "label": "练习 / 写作 · Task 2 / 线上娱乐与剧院影院的经济文化价值",
+  "panel": "practice-writing2",
+  "contentRoot": "writing2-case-wc-c21-t2-entertainment",
+  "headings": [
+    {
+      "tag": "H3",
+      "text": "写作前置 · 文中表达",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "a vibrant artists' community",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "a lasting and meaningful cultural legacy",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "draw wider audiences",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "no shortage of",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "本次写作任务",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "对照答案，回到证据",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "参考写法",
+      "visible": false
+    },
+    {
+      "tag": "H3",
+      "text": "答后精读",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "篇章结构",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "词语与搭配",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "句子精读",
+      "visible": false
+    }
+  ],
+  "controls": [
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "线上娱乐与剧院影院的经济文化价值未作答\n讨论双方 · 原题拆段写作 · 参考段落与逐段讲解",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "Cambridge IELTS 21 Academic",
+      "label": "",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=53",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "The Davies Sisters｜印象派转向与战时收藏",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "回到这份材料的精读",
+      "label": "",
+      "href": "#material-reading-rd-c21-davies-2",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "The Davies Sisters｜收藏停止与文化遗产",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "回到这份材料的精读",
+      "label": "",
+      "href": "#material-reading-rd-c21-davies-3",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "Miles Davis：困境、跨界与创造力",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "回到这份材料的精读",
+      "label": "",
+      "href": "#material-reading-rd-official-miles-2",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "Artificial Intelligence｜公众想象与解决一切的误区",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "回到这份材料的精读",
+      "label": "",
+      "href": "#material-reading-rd-c21-ai-1",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "case-wc-c21-t2-entertainment-answer",
+      "type": "textarea",
+      "text": "",
+      "label": "我的段落",
+      "href": null,
+      "save": "case-wc-c21-t2-entertainment-answer",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "checkbox",
+      "text": "",
+      "label": "",
+      "href": null,
+      "save": "case-wc-c21-t2-entertainment-done",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "hidden",
+      "text": "",
+      "label": "",
+      "href": null,
+      "save": "case-wc-c21-t2-entertainment-saved-at",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "保留作答，查看答案",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "case-wc-c21-t2-entertainment-revision",
+      "type": "textarea",
+      "text": "",
+      "label": "我的修订／证据笔记",
+      "href": null,
+      "save": "case-wc-c21-t2-entertainment-revision",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    }
+  ],
+  "visibleText": "线上娱乐与剧院影院的经济文化价值未作答\n讨论双方 · 原题拆段写作 · 参考段落与逐段讲解\n0% · 0 / 1 完成\n\n真题 · Cambridge IELTS 21 Academic · PDF 第 53 页\n\n写作前置 · 文中表达\n\n下面的表达来自阅读材料，例句按本题语境编写。展开相关材料即可查看。\n\nThe Davies Sisters｜印象派转向与战时收藏\na vibrant artists' community\n\n一个充满活力的艺术家社群\n\n适合与support、sustain、help build搭配，讨论实体文化空间如何为创作者提供交流和演出机会。这里借用表达描述一种可能作用，不把文中救助艺术家的历史直接当成剧院效果的证据。\n\n本题例句 · 编写示范\n\nLocal theatres can help sustain a vibrant artists' community by giving performers opportunities to work together and reach an audience.\n\n题目要求讨论剧院和影院的经济、文化价值；此表达适合展开剧院支持当地艺术生产和创作者交流的文化作用。\n\n回到这份材料的精读\n\nThe Davies Sisters｜收藏停止与文化遗产\na lasting and meaningful cultural legacy\n\n持久且有意义的文化遗产\n\n可用于讨论文化活动对未来的贡献，但要写清通过什么机制传承，例如保留地方戏剧、作品或表演传统，不能只用抽象赞美代替解释。\n\n本题例句 · 编写示范\n\nTheatres that preserve local plays and performance traditions can leave a lasting and meaningful cultural legacy for future generations.\n\n直接服务于实体剧院的文化价值：说明现场演出空间如何承载和传递传统，而不只比较观看的便利程度。\n\n回到这份材料的精读\n\nMiles Davis：困境、跨界与创造力\ndraw wider audiences\n\n吸引范围更广的观众\n\n可具体说明线上娱乐的可达性；观众范围扩大不等于线下场所失去全部文化价值。\n\n本题例句 · 编写示范\n\nOnline screenings can draw wider audiences than a small theatre can accommodate, especially when viewers live far from major cities.\n\n自编例句，直接回应线上娱乐的覆盖范围优势；can和especially保留条件，也为讨论剧院独有的现场体验留下空间。\n\n回到这份材料的精读\n\nArtificial Intelligence｜公众想象与解决一切的误区\nno shortage of\n\n大量；不缺\n\n可以承认数字内容数量充足，再讨论数量之外的体验差异。\n\n本题例句 · 编写示范\n\nThere is no shortage of films online, but access to a large catalogue does not reproduce the shared experience of a cinema.\n\n自编例句，直接回应线上娱乐与影院价值：先承认线上内容丰富，再解释共同观看体验这一文化维度。\n\n回到这份材料的精读\n\nSome people say that in the digital age, theatres and cinemas are no longer important as people can watch all the entertainment they want online. Others argue that theatres and cinemas are still important both economically and culturally. Discuss both these views and give your own opinion.\n\n本次写作任务\n\n写两段主体，约180–220词：第一段把“线上足够”的理由讲完整，第二段解释剧院影院的经济和文化价值，并明确你的判断。不能只写我喜欢看电影。\n\n我的段落\n\n0 词\n\n保留作答，查看答案\n\n先作答；不确定的题也可记录判断与疑点。",
+  "allContent": "线上娱乐与剧院影院的经济文化价值未作答讨论双方 · 原题拆段写作 · 参考段落与逐段讲解0% · 0 / 1 完成真题 · Cambridge IELTS 21 Academic · PDF 第 53 页写作前置 · 文中表达下面的表达来自阅读材料，例句按本题语境编写。展开相关材料即可查看。The Davies Sisters｜印象派转向与战时收藏a vibrant artists' community一个充满活力的艺术家社群适合与support、sustain、help build搭配，讨论实体文化空间如何为创作者提供交流和演出机会。这里借用表达描述一种可能作用，不把文中救助艺术家的历史直接当成剧院效果的证据。本题例句 · 编写示范Local theatres can help sustain a vibrant artists' community by giving performers opportunities to work together and reach an audience.题目要求讨论剧院和影院的经济、文化价值；此表达适合展开剧院支持当地艺术生产和创作者交流的文化作用。回到这份材料的精读The Davies Sisters｜收藏停止与文化遗产a lasting and meaningful cultural legacy持久且有意义的文化遗产可用于讨论文化活动对未来的贡献，但要写清通过什么机制传承，例如保留地方戏剧、作品或表演传统，不能只用抽象赞美代替解释。本题例句 · 编写示范Theatres that preserve local plays and performance traditions can leave a lasting and meaningful cultural legacy for future generations.直接服务于实体剧院的文化价值：说明现场演出空间如何承载和传递传统，而不只比较观看的便利程度。回到这份材料的精读Miles Davis：困境、跨界与创造力draw wider audiences吸引范围更广的观众可具体说明线上娱乐的可达性；观众范围扩大不等于线下场所失去全部文化价值。本题例句 · 编写示范Online screenings can draw wider audiences than a small theatre can accommodate, especially when viewers live far from major cities.自编例句，直接回应线上娱乐的覆盖范围优势；can和especially保留条件，也为讨论剧院独有的现场体验留下空间。回到这份材料的精读Artificial Intelligence｜公众想象与解决一切的误区no shortage of大量；不缺可以承认数字内容数量充足，再讨论数量之外的体验差异。本题例句 · 编写示范There is no shortage of films online, but access to a large catalogue does not reproduce the shared experience of a cinema.自编例句，直接回应线上娱乐与影院价值：先承认线上内容丰富，再解释共同观看体验这一文化维度。回到这份材料的精读Some people say that in the digital age, theatres and cinemas are no longer important as people can watch all the entertainment they want online. Others argue that theatres and cinemas are still important both economically and culturally. Discuss both these views and give your own opinion.本次写作任务写两段主体，约180–220词：第一段把“线上足够”的理由讲完整，第二段解释剧院影院的经济和文化价值，并明确你的判断。不能只写我喜欢看电影。我的段落0 词保留作答，查看答案先作答；不确定的题也可记录判断与疑点。对照答案，回到证据参考写法下列段落为针对原题编写的参考写法，用于对照内容和表达；写作没有唯一标准答案。Those who question the importance of theatres and cinemas can point to the convenience of online entertainment. Viewers can choose what to watch and when to watch it, without paying for transport or arranging an evening around a fixed screening time. Online access may be particularly valuable to people living far from major cultural venues or caring for children at home. For these audiences, a subscription can offer a practical alternative to frequent visits. This makes the claim that physical venues are less necessary understandable, especially when the main aim is simply to see a film.Nevertheless, I believe these venues retain functions that a personal screen cannot fully reproduce. Economically, a performance supports performers, technicians and other staff, while audiences may also spend money in nearby businesses. Culturally, theatres can stage local stories and create a shared encounter between performers and spectators. Even in a cinema, an audience experiences a film together rather than as separate individuals at home. Online services can therefore widen access without removing the value of physical venues. The two forms can coexist, serving different circumstances and offering different kinds of participation.第一段真正解释第一方观点：选择时间、出行成本、照顾孩子与地域可达性；没有直接贴标签后马上反驳。第二段分别回应economically与culturally：岗位/周边消费与本地故事/共同体验。立场是仍有价值、可共存；不是讨论互联网是否总体有害。答后精读篇章结构解释线上取代说的合理条件与实际受益者。转折后经济、文化两条机制，最后给出共存判断。词语与搭配a practical alternative to：适合替代某项活动，不等于完全替代所有功能。retain functions that ... cannot fully reproduce：区分可替代与不可完全复制部分。can coexist：立场收束而非非黑即白。句子精读Online access may be particularly valuable to people living ... or caring ... → living与caring平行修饰people。The two forms can coexist, serving ... and offering ... → 两个分词补充共存的理由。我的修订／证据笔记",
+  "links": [
+    {
+      "text": "Cambridge IELTS 21 Academic",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=53"
+    },
+    {
+      "text": "回到这份材料的精读",
+      "href": "#material-reading-rd-c21-davies-2"
+    },
+    {
+      "text": "回到这份材料的精读",
+      "href": "#material-reading-rd-c21-davies-3"
+    },
+    {
+      "text": "回到这份材料的精读",
+      "href": "#material-reading-rd-official-miles-2"
+    },
+    {
+      "text": "回到这份材料的精读",
+      "href": "#material-reading-rd-c21-ai-1"
+    }
+  ],
+  "details": [
+    {
+      "id": "writing-prep-wc-c21-t2-entertainment-from-rd-c21-davies-2",
+      "title": "The Davies Sisters｜印象派转向与战时收藏",
+      "open": true,
+      "visible": true
+    },
+    {
+      "id": "writing-prep-wc-c21-t2-entertainment-from-rd-c21-davies-3",
+      "title": "The Davies Sisters｜收藏停止与文化遗产",
+      "open": true,
+      "visible": true
+    },
+    {
+      "id": "writing-prep-wc-c21-t2-entertainment-from-rd-official-miles-2",
+      "title": "Miles Davis：困境、跨界与创造力",
+      "open": true,
+      "visible": true
+    },
+    {
+      "id": "writing-prep-wc-c21-t2-entertainment-from-rd-c21-ai-1",
+      "title": "Artificial Intelligence｜公众想象与解决一切的误区",
+      "open": true,
+      "visible": true
+    }
+  ],
+  "saveFields": [
+    "case-wc-c21-t2-entertainment-answer",
+    "case-wc-c21-t2-entertainment-done",
+    "case-wc-c21-t2-entertainment-saved-at",
+    "case-wc-c21-t2-entertainment-revision"
+  ],
+  "images": [],
+  "audio": [],
+  "viewport": 1440,
+  "documentWidth": 1440
+}

@@ -1,0 +1,473 @@
+{
+  "requested": "learn-speaking_part3_explain_compare",
+  "from": [
+    "内容单元"
+  ],
+  "actual": "#learn-speaking_part3_explain_compare",
+  "checkedAt": "2026-09-21T12:51:47.717Z",
+  "title": "学习 / 口语 / 真实讨论：地位象征与未来变化 · IELTS",
+  "label": "学习 / 口语 / 真实讨论：地位象征与未来变化",
+  "panel": "speaking",
+  "contentRoot": "learn-speaking_part3_explain_compare",
+  "headings": [
+    {
+      "tag": "H3",
+      "text": "说清观点，接一次追问",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "第一遍：用自己的内容回答",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "真实讨论：地位象征与未来变化",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "完整正式题面",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "官方样本节选：地位象征与未来追问（未附本段官方分数）",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "回答与证据解释",
+      "visible": false
+    },
+    {
+      "tag": "H3",
+      "text": "保留第一遍的观察",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "只修一处，再录一遍",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "第二遍：同一问，改进一处",
+      "visible": false
+    }
+  ],
+  "controls": [
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "真实讨论：地位象征与未来变化",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "开始录音",
+      "label": "",
+      "href": null,
+      "record": "prereq-speaking_part3_explain_compare-first",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "结束录音",
+      "label": "",
+      "href": null,
+      "stop": "prereq-speaking_part3_explain_compare-first",
+      "visible": true,
+      "disabled": true,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "下载录音",
+      "label": "",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "AUDIO",
+      "id": "",
+      "text": "",
+      "label": "",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "file",
+      "text": "",
+      "label": "载入录音",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "text",
+      "text": "",
+      "label": "录音文件名",
+      "href": null,
+      "save": "prereq-speaking_part3_explain_compare-first-record-note",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "说完后查看正式题页与考生转写",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "",
+      "label": "",
+      "href": "原始参考/support-45086163-cambridge-zip-115053_Speaking_sample_task_-_Part_3.pdf#page=1",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "",
+      "label": "",
+      "href": "原始参考/support-26a8963b-cambridge-zip-115057_Speaking_sample_task_-_Part_3_transcript.pdf#page=1",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "",
+      "label": "",
+      "href": "原始参考/support-45086163-cambridge-zip-115053_Speaking_sample_task_-_Part_3.pdf#page=1",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "",
+      "label": "",
+      "href": "原始参考/support-26a8963b-cambridge-zip-115057_Speaking_sample_task_-_Part_3_transcript.pdf#page=1",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "第一遍录音文件名／时间点／我听到的问题\n暂时不会",
+      "href": null,
+      "save": "enrich-speaking_part3_explain_compare-answer",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "暂时不会",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "checkbox",
+      "text": "",
+      "label": "",
+      "href": null,
+      "save": "enrich-speaking_part3_explain_compare-frozen",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "text",
+      "text": "",
+      "label": "",
+      "href": null,
+      "save": "enrich-speaking_part3_explain_compare-saved-at",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "保留首稿，打开反馈",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "开始录音",
+      "label": "",
+      "href": null,
+      "record": "prereq-speaking_part3_explain_compare-retry",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "结束录音",
+      "label": "",
+      "href": null,
+      "stop": "prereq-speaking_part3_explain_compare-retry",
+      "visible": false,
+      "disabled": true,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "下载录音",
+      "label": "",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "AUDIO",
+      "id": "",
+      "text": "",
+      "label": "",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "text",
+      "text": "",
+      "label": "录音文件名",
+      "href": null,
+      "save": "prereq-speaking_part3_explain_compare-retry-record-note",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "file",
+      "text": "",
+      "label": "载入录音",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "两遍相比：这一处是否更清楚？",
+      "href": null,
+      "save": "enrich-speaking_part3_explain_compare-revision",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "可选：记录或再练一次",
+      "label": "",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "迁移答案／隔日回忆记录",
+      "href": null,
+      "save": "enrich-speaking_part3_explain_compare-transfer",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "可选：记录或再练一次",
+      "label": "",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SELECT",
+      "id": "",
+      "type": "select-one",
+      "text": "请选择内容或语境没理解词义或声音没认出词汇选择／搭配不稳证据、逻辑或展开不足语法或句子组织问题暂时独立完成，隔天再检验",
+      "label": "这次最需要补什么？请选择内容或语境没理解词义或声音没认出词汇选择／搭配不稳证据、逻辑或展开不足语法或句子组织问题暂时独立完成，隔天再检验",
+      "href": null,
+      "save": "enrich-speaking_part3_explain_compare-diagnosis",
+      "visible": false,
+      "disabled": false,
+      "required": false,
+      "options": [
+        {
+          "value": "",
+          "label": "请选择"
+        },
+        {
+          "value": "内容或语境没理解",
+          "label": "内容或语境没理解"
+        },
+        {
+          "value": "词义或声音没认出",
+          "label": "词义或声音没认出"
+        },
+        {
+          "value": "词汇选择／搭配不稳",
+          "label": "词汇选择／搭配不稳"
+        },
+        {
+          "value": "证据、逻辑或展开不足",
+          "label": "证据、逻辑或展开不足"
+        },
+        {
+          "value": "语法或句子组织问题",
+          "label": "语法或句子组织问题"
+        },
+        {
+          "value": "暂时独立完成，隔天再检验",
+          "label": "暂时独立完成，隔天再检验"
+        }
+      ]
+    }
+  ],
+  "visibleText": "真实讨论：地位象征与未来变化\n0% · 0 / 1 完成\n说清观点，接一次追问\n\n本次只练地位象征。先口答这一问：给出观点、一个具体原因和适用范围；随即回答追问 Can you tell me a little bit more about that? 录下整段，再展开下方考生片段。\n\nWhat kind of things give status to people in your country?\n\n第一遍：用自己的内容回答\n开始录音结束录音载入录音 \n\n两遍录音分别下载保存；文字备份不含音频。\n\n录音文件名\n说完后查看正式题页与考生转写\n保留第一遍的观察\n\n先回听自己的录音，记下文件名和一处需要修改的时间点。下载第一遍声音，再保留下面的文字记录。\n\n第一遍录音文件名／时间点／我听到的问题\n暂时不会\n保留首稿，打开反馈\n\n先写下自己的答案。",
+  "allContent": "真实讨论：地位象征与未来变化0% · 0 / 1 完成说清观点，接一次追问本次只练地位象征。先口答这一问：给出观点、一个具体原因和适用范围；随即回答追问 Can you tell me a little bit more about that? 录下整段，再展开下方考生片段。What kind of things give status to people in your country?第一遍：用自己的内容回答开始录音结束录音下载录音载入录音 两遍录音分别下载保存；文字备份不含音频。录音文件名说完后查看正式题页与考生转写真实讨论：地位象征与未来变化完整正式题面Part 3 – Two-way discussionLet’s consider first of all how people’s values have changed.• What kind of things give status to people in your country? • Have things changed since your parents’ time?Finally, let’s talk about the role of advertising.• Do you think advertising influences what people buy?官方样本节选：地位象征与未来追问（未附本段官方分数）Part 3 – Two-way discussionTranscriptExaminer: We’ve been talking about things we own. I’d like to discuss with you one or two more general questions relating to this topic. First, let’s consider values and the way they can change. In Switzerland, what kind of possessions do you think give status to people?Candidate: The first thing which comes in my mind is the car. Yes, because lots of people like to have posh cars or expensive cars to show their status, their place in the society.Examiner: Is that a new development?Candidate: No, I think it isn’t.Examiner: People have thought like that for quite a long time?Candidate: Yes. Another thing is probably the clothing. It starts already when you are young. When the children go to school they want to have posh labels on their jumpers or good shoes.Examiner: What do you think of this way of thinking, that I need to have a car or certain clothes to show my status?Candidate: Probably it’s sometimes a replacement for something you don’t have, so if your wife has left you or your girlfriend, you just buy some new, I don’t know, new watches or new clothes to make you satisfied again.Examiner: You don’t think of it as a healthy way of thinking?Candidate: It’s probably not honest to yourself. You can understand what I mean?Examiner: Yes. And do you think this will change? In the future, will cars and designer clothes be status symbols in the same way?Candidate: I’m sure that clothes will be ... that the thing with the clothes will be the same. I’m not so sure about the cars because cars cause lots of environmental problems and probably in some years, a few years, this will change because it’s not reasonable to drive a car anymore.Examiner: Can you tell me a little bit more about that? ...回答与证据解释第一组问答以汽车、服装说明地位象征；追问要求评价和未来判断。回答预测衣服仍重要，但汽车可能因环境问题改变；probably / not so sure 呈现不确定性。示范不是事实调查：应标为考生观点。原表达 first thing which comes in my mind 可改为 first thing that comes to mind；in the society 一般改为 in society。完整原件：Speaking Part 3 正式题面；Speaking Part 3 原录音转写Speaking Part 3 正式题面Speaking Part 3 原录音转写保留第一遍的观察先回听自己的录音，记下文件名和一处需要修改的时间点。下载第一遍声音，再保留下面的文字记录。第一遍录音文件名／时间点／我听到的问题暂时不会保留首稿，打开反馈先写下自己的答案。只修一处，再录一遍回听第一遍：原因怎样支持观点？追问后是否增加了具体内容，还是重复上一句？找一处影响理解的停顿或理由缺口，记下时间点，只改这一处，再回答同一问和追问。例如：In some professions, qualifications carry more weight than expensive possessions because they signal specialised training. 追问时可解释某个具体职业为什么重视资格；用 in some professions 限定范围。这是原创示例，不必套用同一立场。第二遍：同一问，改进一处开始录音结束录音下载录音录音文件名载入录音 两遍录音分别下载保存；文字备份不含音频。两遍相比：这一处是否更清楚？下一次练未来变化：Do you think this will change in the future? 给一个可能的变化和条件。下方官方题页还有广告话题；本次转写没有覆盖完整广告讨论，留作之后独立选题。可选：记录或再练一次迁移答案／隔日回忆记录可选：记录或再练一次这次最需要补什么？请选择内容或语境没理解词义或声音没认出词汇选择／搭配不稳证据、逻辑或展开不足语法或句子组织问题暂时独立完成，隔天再检验",
+  "links": [
+    {
+      "text": "Speaking Part 3 正式题面",
+      "href": "原始参考/support-45086163-cambridge-zip-115053_Speaking_sample_task_-_Part_3.pdf#page=1"
+    },
+    {
+      "text": "Speaking Part 3 原录音转写",
+      "href": "原始参考/support-26a8963b-cambridge-zip-115057_Speaking_sample_task_-_Part_3_transcript.pdf#page=1"
+    },
+    {
+      "text": "Speaking Part 3 正式题面",
+      "href": "原始参考/support-45086163-cambridge-zip-115053_Speaking_sample_task_-_Part_3.pdf#page=1"
+    },
+    {
+      "text": "Speaking Part 3 原录音转写",
+      "href": "原始参考/support-26a8963b-cambridge-zip-115057_Speaking_sample_task_-_Part_3_transcript.pdf#page=1"
+    }
+  ],
+  "details": [
+    {
+      "id": "answer-check-15",
+      "title": "说完后查看正式题页与考生转写",
+      "open": false,
+      "answerGate": "[\"enrich-speaking_part3_explain_compare-answer\"]",
+      "visible": true
+    },
+    {
+      "id": "",
+      "title": "可选：记录或再练一次",
+      "open": false,
+      "visible": false
+    },
+    {
+      "id": "",
+      "title": "可选：记录或再练一次",
+      "open": false,
+      "visible": false
+    }
+  ],
+  "saveFields": [
+    "prereq-speaking_part3_explain_compare-first-record-note",
+    "enrich-speaking_part3_explain_compare-answer",
+    "enrich-speaking_part3_explain_compare-frozen",
+    "enrich-speaking_part3_explain_compare-saved-at",
+    "prereq-speaking_part3_explain_compare-retry-record-note",
+    "enrich-speaking_part3_explain_compare-revision",
+    "enrich-speaking_part3_explain_compare-transfer",
+    "enrich-speaking_part3_explain_compare-diagnosis"
+  ],
+  "images": [],
+  "audio": [
+    {
+      "src": null,
+      "sources": [],
+      "visible": false,
+      "controls": true
+    },
+    {
+      "src": null,
+      "sources": [],
+      "visible": false,
+      "controls": true
+    }
+  ],
+  "viewport": 1440,
+  "documentWidth": 1440
+}

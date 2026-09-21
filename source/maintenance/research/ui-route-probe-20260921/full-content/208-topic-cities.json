@@ -1,0 +1,173 @@
+{
+  "requested": "topic-cities",
+  "from": [
+    "内容单元",
+    "页面链接"
+  ],
+  "actual": "#topic-cities",
+  "checkedAt": "2026-09-21T12:53:07.442Z",
+  "title": "学习 / 共用背景 / 城市：把住房、交通与公共空间放在一起看 · IELTS",
+  "label": "学习 / 共用背景 / 城市：把住房、交通与公共空间放在一起看",
+  "panel": "background",
+  "contentRoot": "topic-cities",
+  "headings": [
+    {
+      "tag": "H2",
+      "text": "城市：把住房、交通与公共空间放在一起看",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "先分清三个概念",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "读一段背景英语",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "这个话题通常怎样展开",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "可以直接理解和借用的搭配",
+      "visible": true
+    }
+  ],
+  "controls": [
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "← 返回本科内容",
+      "label": "",
+      "href": "#study-shared-list",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "checkbox",
+      "text": "",
+      "label": "已读过这段背景",
+      "href": null,
+      "save": "topic-read-cities",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "中文帮助理解",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "The Physics of Traffic Behavior",
+      "label": "",
+      "href": "原始参考/ec598fcf-inspera-response-3.txt",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "阅读章",
+      "label": "",
+      "href": "#reading",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "Task 1",
+      "label": "",
+      "href": "#writing1",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "口语章",
+      "label": "",
+      "href": "#speaking",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "公共治理：公交方案怎样落地 →",
+      "label": "",
+      "href": "#topic-government",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    }
+  ],
+  "visibleText": "0% · 0 / 1 完成\n← 返回本科内容\n已读过这段背景\n\nTOPIC 04\n\n城市：把住房、交通与公共空间放在一起看\n\n城市生活涉及住在哪里、怎样出行，以及能否方便地使用学校、商店和公共空间。住房、交通与服务不能完全分开讨论：房子离工作地点多远，会影响出行安排；公园即使在附近，入口和开放时间也会影响使用。改善城市不只有新建道路这一种选择，还可讨论公共交通、步行条件和空间用途。不同居民的预算、行动条件与日常目的地可能不同。\n\n先分清三个概念\n概念\t它指什么\t不要混淆\npublic transport\t供公众共同使用的交通服务，例如公共汽车、地铁和有轨电车。\t有线路经过与服务方便可靠不是一回事；站点位置、班次和不同线路之间的连接都影响使用。\nhousing affordability\t住房支出与个人或家庭能够承担的预算之间的关系。\t价格低不一定对每个人都负担得起；判断时还需考虑收入以及其他必要生活支出。\npublic space\t供公众进入或共同使用的空间，例如广场、公园和部分街道空间。\t公共空间不一定是绿地；有一片绿地也不代表公众能够进入或方便使用。\n读一段背景英语\nA city is more than a collection of buildings. It also connects people with the places they need to reach. Consider a family looking for a home. The rent matters, but so do the distance to work, the route to school and the shops nearby. A flat outside the centre may suit them if transport fits their daily schedule. A park can be useful too, but its entrances and opening hours affect who can use it. These examples show why planning involves choices about both space and services. Different residents may have different priorities. A useful discussion of city life can describe a particular need and then consider how a change would affect the people who live there.\n中文帮助理解\n\n阅读例句\n\nVehicles can be flowing freely along, at a density still well below what the road can handle, and then suddenly gel into a slow-moving ooze.\n\n原文讨论车流的变化。交通容量、交通流量和实际通行速度不是同一指标。\n\nThe Physics of Traffic Behavior\n这个话题通常怎样展开\n\n以下为教学归纳的讨论角度，不是考试频率排名或原题清单。\n\n居民选择居住地点时，怎样权衡住房成本、交通和附近服务？（教学概括，非原题）\n城市应怎样分配道路、步行区域与公共空间？（教学概括，非原题）\n改善公共交通时，票价、班次、路线和可靠性分别影响什么？（教学概括，非原题）\n可以直接理解和借用的搭配\n\n本组是教学选用搭配与例句，尚未逐组统计真题频率。\n\n搭配与意思\t放进句子里\nuse public transport\n使用公共交通\tHe uses public transport to get to work during the week.\nwithin walking distance of\n位于从某地步行可达的距离内\tThe library is within walking distance of the bus station.\nmeet housing needs\n满足住房需要\tThe plan needs to consider how to meet the housing needs of different households.\nprovide green spaces\n提供绿地空间\tA neighbourhood plan can provide green spaces for residents to use.\ntravel to and from work\n往返工作地点，通勤\tResidents may need to change buses when they travel to and from work.\n\n读过背景后，需要练习时再进入：阅读章 · Task 1 · 口语章。已读过原句或提示的任务，记为学习后应用。\n\n同话题的独立阅读题：公共治理：公交方案怎样落地 →",
+  "allContent": "0% · 0 / 1 完成← 返回本科内容 已读过这段背景TOPIC 04城市：把住房、交通与公共空间放在一起看城市生活涉及住在哪里、怎样出行，以及能否方便地使用学校、商店和公共空间。住房、交通与服务不能完全分开讨论：房子离工作地点多远，会影响出行安排；公园即使在附近，入口和开放时间也会影响使用。改善城市不只有新建道路这一种选择，还可讨论公共交通、步行条件和空间用途。不同居民的预算、行动条件与日常目的地可能不同。先分清三个概念概念它指什么不要混淆public transport供公众共同使用的交通服务，例如公共汽车、地铁和有轨电车。有线路经过与服务方便可靠不是一回事；站点位置、班次和不同线路之间的连接都影响使用。housing affordability住房支出与个人或家庭能够承担的预算之间的关系。价格低不一定对每个人都负担得起；判断时还需考虑收入以及其他必要生活支出。public space供公众进入或共同使用的空间，例如广场、公园和部分街道空间。公共空间不一定是绿地；有一片绿地也不代表公众能够进入或方便使用。读一段背景英语A city is more than a collection of buildings. It also connects people with the places they need to reach. Consider a family looking for a home. The rent matters, but so do the distance to work, the route to school and the shops nearby. A flat outside the centre may suit them if transport fits their daily schedule. A park can be useful too, but its entrances and opening hours affect who can use it. These examples show why planning involves choices about both space and services. Different residents may have different priorities. A useful discussion of city life can describe a particular need and then consider how a change would affect the people who live there.中文帮助理解城市不仅是建筑的集合，也把居民与日常需要到达的地方连接起来。一个家庭选择住房时，除了租金，还可能考虑工作地点、上学路线和附近商店。市中心以外的住宅是否合适，要看交通能否配合他们的生活安排。公园能否实际使用，也与入口和开放时间有关。因此，城市规划既涉及空间，也涉及服务；不同居民重视的条件不尽相同。具体讨论某类人的需要，再解释一项变化会怎样影响他们，比笼统说城市应更方便更清楚。阅读例句Vehicles can be flowing freely along, at a density still well below what the road can handle, and then suddenly gel into a slow-moving ooze.原文讨论车流的变化。交通容量、交通流量和实际通行速度不是同一指标。The Physics of Traffic Behavior这个话题通常怎样展开以下为教学归纳的讨论角度，不是考试频率排名或原题清单。居民选择居住地点时，怎样权衡住房成本、交通和附近服务？（教学概括，非原题）城市应怎样分配道路、步行区域与公共空间？（教学概括，非原题）改善公共交通时，票价、班次、路线和可靠性分别影响什么？（教学概括，非原题）可以直接理解和借用的搭配本组是教学选用搭配与例句，尚未逐组统计真题频率。搭配与意思放进句子里use public transport使用公共交通He uses public transport to get to work during the week.within walking distance of位于从某地步行可达的距离内The library is within walking distance of the bus station.meet housing needs满足住房需要The plan needs to consider how to meet the housing needs of different households.provide green spaces提供绿地空间A neighbourhood plan can provide green spaces for residents to use.travel to and from work往返工作地点，通勤Residents may need to change buses when they travel to and from work.读过背景后，需要练习时再进入：阅读章 · Task 1 · 口语章。已读过原句或提示的任务，记为学习后应用。同话题的独立阅读题：公共治理：公交方案怎样落地 →",
+  "links": [
+    {
+      "text": "← 返回本科内容",
+      "href": "#study-shared-list"
+    },
+    {
+      "text": "The Physics of Traffic Behavior",
+      "href": "原始参考/ec598fcf-inspera-response-3.txt"
+    },
+    {
+      "text": "阅读章",
+      "href": "#reading"
+    },
+    {
+      "text": "Task 1",
+      "href": "#writing1"
+    },
+    {
+      "text": "口语章",
+      "href": "#speaking"
+    },
+    {
+      "text": "公共治理：公交方案怎样落地 →",
+      "href": "#topic-government"
+    }
+  ],
+  "details": [
+    {
+      "id": "",
+      "title": "中文帮助理解",
+      "open": false,
+      "visible": true
+    }
+  ],
+  "saveFields": [
+    "topic-read-cities"
+  ],
+  "images": [],
+  "audio": [],
+  "viewport": 1440,
+  "documentWidth": 1440
+}

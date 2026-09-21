@@ -1,0 +1,174 @@
+{
+  "requested": "writing1-case-wc-official-audiences",
+  "from": [
+    "内容单元",
+    "页面链接"
+  ],
+  "actual": "#writing1-case-wc-official-audiences",
+  "checkedAt": "2026-09-21T12:52:44.121Z",
+  "title": "练习 / 写作 · Task 1 / 广播与电视受众：同一天的双峰比较 · IELTS",
+  "label": "练习 / 写作 · Task 1 / 广播与电视受众：同一天的双峰比较",
+  "panel": "practice-writing1",
+  "contentRoot": "writing1-case-wc-official-audiences",
+  "headings": [
+    {
+      "tag": "H4",
+      "text": "本次写作任务",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "对照答案，回到证据",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "参考写法",
+      "visible": false
+    },
+    {
+      "tag": "H3",
+      "text": "答后精读",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "篇章结构",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "词语与搭配",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "句子精读",
+      "visible": false
+    }
+  ],
+  "controls": [
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "广播与电视受众：同一天的双峰比较未作答\n折线图 · 原题拆段写作 · 参考段落与逐段讲解",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "IELTS Academic Writing Sample Tasks (2023)",
+      "label": "",
+      "href": "case-assets/writing-official-sample-tasks-2023.pdf#page=4",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "",
+      "label": "",
+      "href": "case-assets/writing-official-4.png",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "case-wc-official-audiences-answer",
+      "type": "textarea",
+      "text": "",
+      "label": "我的段落",
+      "href": null,
+      "save": "case-wc-official-audiences-answer",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "checkbox",
+      "text": "",
+      "label": "",
+      "href": null,
+      "save": "case-wc-official-audiences-done",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "hidden",
+      "text": "",
+      "label": "",
+      "href": null,
+      "save": "case-wc-official-audiences-saved-at",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "保留作答，查看答案",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "case-wc-official-audiences-revision",
+      "type": "textarea",
+      "text": "",
+      "label": "我的修订／证据笔记",
+      "href": null,
+      "save": "case-wc-official-audiences-revision",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    }
+  ],
+  "visibleText": "广播与电视受众：同一天的双峰比较未作答\n折线图 · 原题拆段写作 · 参考段落与逐段讲解\n0% · 0 / 1 完成\n\n官方样题 · IELTS Academic Writing Sample Tasks (2023) · PDF 第 4 页\n\nThe graph below shows radio and television audiences throughout the day in 1992.\n\n点击图示可查看大图。\n本次写作任务\n\n保留图中一天的完整时间轴，写Overview及两个主体段（约150–180词）。须写清百分比人群、广播早高峰与电视晚高峰；不能把一天内的时段变化写成年增长。\n\n我的段落\n\n0 词\n\n保留作答，查看答案\n\n先作答；不确定的题也可记录判断与疑点。",
+  "allContent": "广播与电视受众：同一天的双峰比较未作答折线图 · 原题拆段写作 · 参考段落与逐段讲解0% · 0 / 1 完成官方样题 · IELTS Academic Writing Sample Tasks (2023) · PDF 第 4 页The graph below shows radio and television audiences throughout the day in 1992.点击图示可查看大图。本次写作任务保留图中一天的完整时间轴，写Overview及两个主体段（约150–180词）。须写清百分比人群、广播早高峰与电视晚高峰；不能把一天内的时段变化写成年增长。我的段落0 词保留作答，查看答案先作答；不确定的题也可记录判断与疑点。对照答案，回到证据参考写法下列段落为针对原题编写的参考写法，用于对照内容和表达；写作没有唯一标准答案。Overall, radio attracted its largest audience in the morning, while television viewing was concentrated in the evening. Television reached a substantially higher peak than radio, and both media had very small audiences during the early hours of the morning.At 6 a.m., approximately 5% of the UK population aged over four listened to the radio, while virtually nobody was watching television. Radio listening rose rapidly to a peak of about 27% at around 8 a.m. It then generally declined through the day, despite a modest recovery in the late afternoon. By late evening, the figure had fallen to well below 10%, and it approached zero during the night.Television viewing remained below 10% throughout the morning before rising around lunchtime and overtaking radio early in the afternoon. After a brief period near 15%, the television audience increased sharply in the late afternoon and evening, peaking at roughly 45–47% around 8 p.m. It subsequently dropped steeply, especially after midnight, and was only a few per cent by the following morning.对象是UK population over 4 years old；百分比不能写成millions。图题范围October–December 1992，横轴6am到次日6am。广播峰值约27%，电视约45–47%；粗线图允许about，不需要虚构47.3%。“overtaking radio early in the afternoon”来自两线相交；不能把晚间电视优势扩成全天每时段都更高。答后精读篇章结构Overview先比峰值出现时段，再比峰值大小。广播段按主要升降，不追逐每个小波动。电视段突出午后反超、晚间最高、午夜后下降。词语与搭配was concentrated in the evening：集中发生的时间。despite a modest recovery：概括主趋势中的小反向变化。virtually nobody：接近零，不强行写0.0%。句子精读It then generally declined ... despite a modest recovery ... → generally给真实波动留空间。After a brief period near 15%, ... → 介词短语给出第二次明显上涨前的平台。我的修订／证据笔记",
+  "links": [
+    {
+      "text": "IELTS Academic Writing Sample Tasks (2023)",
+      "href": "case-assets/writing-official-sample-tasks-2023.pdf#page=4"
+    },
+    {
+      "text": "",
+      "href": "case-assets/writing-official-4.png"
+    }
+  ],
+  "details": [],
+  "saveFields": [
+    "case-wc-official-audiences-answer",
+    "case-wc-official-audiences-done",
+    "case-wc-official-audiences-saved-at",
+    "case-wc-official-audiences-revision"
+  ],
+  "images": [
+    {
+      "src": "case-assets/writing-official-4.png",
+      "alt": "广播与电视受众：同一天的双峰比较 · 原题图示，点击查看大图",
+      "visible": true,
+      "complete": false,
+      "width": 0
+    }
+  ],
+  "audio": [],
+  "viewport": 1440,
+  "documentWidth": 1440
+}

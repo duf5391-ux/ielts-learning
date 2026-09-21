@@ -1,0 +1,270 @@
+{
+  "requested": "material-reading-rd-c21-ai-2",
+  "from": [
+    "页面链接",
+    "每日安排目标"
+  ],
+  "actual": "#material-reading-rd-c21-ai-2",
+  "checkedAt": "2026-09-21T12:56:00.685Z",
+  "title": "练习 / 阅读 / Artificial Intelligence｜公共部门实施条件 · IELTS",
+  "label": "练习 / 阅读 / Artificial Intelligence｜公共部门实施条件",
+  "panel": "practice-reading",
+  "contentRoot": "reading-case-rd-c21-ai-2",
+  "headings": [
+    {
+      "tag": "H4",
+      "text": "共用选项 · 原题 30、31、32、33",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "对照答案，回到证据",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "原文第4段",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "原文第5段",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "原文第6段",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "词语与搭配",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "句子精读",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "这篇材料里可用于写作的表达",
+      "visible": true
+    }
+  ],
+  "controls": [
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "Artificial Intelligence｜公共部门实施条件未作答\n选择题 / 选词摘要填空 · 3 段 · 223 词 · 5 题 · 同篇原文另有裁切",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "Cambridge IELTS 21 Academic",
+      "label": "",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=47",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "case-rd-c21-ai-2-q1",
+      "type": "text",
+      "text": "",
+      "label": "第 29 题作答",
+      "href": null,
+      "save": "case-rd-c21-ai-2-q1",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "case-rd-c21-ai-2-q2",
+      "type": "text",
+      "text": "",
+      "label": "第 30 题作答",
+      "href": null,
+      "save": "case-rd-c21-ai-2-q2",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "case-rd-c21-ai-2-q3",
+      "type": "text",
+      "text": "",
+      "label": "第 31 题作答",
+      "href": null,
+      "save": "case-rd-c21-ai-2-q3",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "case-rd-c21-ai-2-q4",
+      "type": "text",
+      "text": "",
+      "label": "第 32 题作答",
+      "href": null,
+      "save": "case-rd-c21-ai-2-q4",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "case-rd-c21-ai-2-q5",
+      "type": "text",
+      "text": "",
+      "label": "第 33 题作答",
+      "href": null,
+      "save": "case-rd-c21-ai-2-q5",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "checkbox",
+      "text": "",
+      "label": "",
+      "href": null,
+      "save": "case-rd-c21-ai-2-done",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "hidden",
+      "text": "",
+      "label": "",
+      "href": null,
+      "save": "case-rd-c21-ai-2-saved-at",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "保留作答，查看答案",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "核对原答案页",
+      "label": "",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=121",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "case-rd-c21-ai-2-revision",
+      "type": "textarea",
+      "text": "",
+      "label": "我的修订／证据笔记",
+      "href": null,
+      "save": "case-rd-c21-ai-2-revision",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "材料精读 · 内容与词句",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "用于写作：自编例句，贴合政府资助具有公共价值、商业回报不确定的科研，具体化资金可以支持什么；不是说科研只能由政府执行。",
+      "label": "",
+      "href": "#writing-prep-wc-official-science-from-rd-c21-ai-2",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "用于写作：自编例句，直接回应政府与私企研究是否应排他：用有条件的合作说明可以利用不同主体的专业知识。",
+      "label": "",
+      "href": "#writing-prep-wc-official-science-from-rd-c21-ai-2",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    }
+  ],
+  "visibleText": "Artificial Intelligence｜公共部门实施条件未作答\n选择题 / 选词摘要填空 · 3 段 · 223 词 · 5 题 · 同篇原文另有裁切\n0% · 0 / 1 完成\n\n真题 · Cambridge IELTS 21 Academic · PDF 第 47 页\n\nQ29：Choose A–D. Q30–33：Complete the summary using words A–I. 原选项完整保留。\n\n原文第4段We are now seeing governments pledge support to national AI initiatives and compete in a technological race to dominate the burgeoning machine-learning sector. While many politicians proclaim the transformative effects of the coming 'AI revolution', they fail to realise the complexity around deploying advanced machine learning systems in the real world.\n\n原文第5段One of the most promising varieties of AI technologies are neural networks. This form of machine learning is loosely modelled on the neuronal structure of the human brain, but on a much smaller scale. But what many politicians do not understand is that simply adding a neural network to a problem will not automatically mean that you'll find a solution. Similarly, adding a neural network to a system of government does not mean it will be instantaneously more inclusive or fair.\n\n原文第6段AI systems need a lot of data to function, but the public sector typically does not have the appropriate data infrastructure to support advanced machine learning. Most of the data remains stored in offline archives. The few digitised sources of data that exist tend to be buried in bureaucracy. More often than not, data is spread across different government departments that each require special permissions to be accessed. Above all, the public sector typically lacks the human talent with the right technological capabilities to fully reap the benefits of machine intelligence.\n\n共用选项 · 原题 30、31、32、33\nA reliability\nB funding\nC skills\nD prejudices\nE computers\nF equality\nG framework\nH confidentiality\nI approval\n\n29. In the fourth paragraph, the writer suggests that many politicians may\n\nA have failed to appreciate the true potential of AI initiatives.\nB have misunderstood the function of the machine-learning sector.\nC be unaware of the challenges of implementing national AI initiatives.\nD be too keen to enter the race to dominate the machine-learning sector.\n第 29 题作答\n\n30. Neural networks are a promising area of AI technology for governments. However, many politicians overestimate their capabilities, believing that the mere addition of a neural network will produce solutions and promote 30 __________.\n\n第 30 题作答\n\n31. Most public sector organisations have not set up the necessary 31 __________ to manage the huge amount of data required to enable AI to function.\n\n第 31 题作答\n\n32. Complex bureaucracy is another issue, as each person involved needs 32 __________ to access the relevant data, which is often spread across different departments.\n\n第 32 题作答\n\n33. But the main problem is that few public sector employees have the 33 __________ to take full advantage of machine intelligence.\n\n第 33 题作答\n保留作答，查看答案\n\n先作答；不确定的题也可记录判断与疑点。\n\n材料精读 · 内容与词句\n\n这三段把AI的宏大承诺拉回公共部门的实施条件。先写政治热情与实际复杂性的落差，再解释神经网络不自动带来结果，最后列出数据、组织流程与人才等条件。它讨论的是技术部署的能力边界，不是说所有政府永远不能使用AI。\n\n原文第4段\nWe are now seeing governments pledge support to national AI initiatives and compete in a technological race to dominate the burgeoning machine-learning sector. While many politicians proclaim the transformative effects of the coming 'AI revolution', they fail to realise the complexity around deploying advanced machine learning systems in the real world.\n\n第4段写政府承诺支持国家AI项目，并争取在增长中的产业占据优势。While连接政治人物宣称的变革与作者指出的部署复杂性，重点在愿景与实施之间的距离。many限制为许多政治人物，不能扩大为全部。\n\n原文第5段\nOne of the most promising varieties of AI technologies are neural networks. This form of machine learning is loosely modelled on the neuronal structure of the human brain, but on a much smaller scale. But what many politicians do not understand is that simply adding a neural network to a problem will not automatically mean that you'll find a solution. Similarly, adding a neural network to a system of government does not mean it will be instantaneously more inclusive or fair.\n\n第5段介绍神经网络对人脑结构的松散模拟，loosely和on a much smaller scale都限制类比程度。接着指出，把神经网络加入某个问题或政府系统，不会自动意味着找到解决方案或立即获得公平与包容。否定的是自动、即时的效果，而不是说相关技术毫无用途。\n\n原文第6段\nAI systems need a lot of data to function, but the public sector typically does not have the appropriate data infrastructure to support advanced machine learning. Most of the data remains stored in offline archives. The few digitised sources of data that exist tend to be buried in bureaucracy. More often than not, data is spread across different government departments that each require special permissions to be accessed. Above all, the public sector typically lacks the human talent with the right technological capabilities to fully reap the benefits of machine intelligence.\n\n第6段把前段抽象的“复杂性”具体化：数据基础设施不足、资料仍离线、数字资料受行政流程阻碍、部门间访问需要权限，以及专业人才不足。typically、tend to和More often than not均表达常见倾向；Above all把人才放在作者强调的位置。\n\n词语与搭配\npledge support to\n\n承诺支持……\n\npledge是作出承诺，不等于支持措施已经落实或取得成效。\n\nloosely modelled on\n\n对……作松散的模拟\n\nbe modelled on说明参考对象；loosely提示结构借鉴并不等于完整复制。\n\nappropriate data infrastructure\n\n合适的数据基础设施\n\ninfrastructure是支持工作运行的基础系统；appropriate强调要符合实际用途，不是设备越多越好。\n\nburied in bureaucracy\n\n受繁琐行政程序阻碍，难以实际获取或使用\n\nburied是比喻，不表示资料真的埋在地下；需要结合数据访问的语境理解。\n\nreap the benefits of\n\n获得并享受到……的益处\n\nreap本义是收获；这里强调实际取得利益，与仅宣布使用某项技术不同。\n\n句子精读\nWhile many politicians proclaim the transformative effects of the coming 'AI revolution', they fail to realise the complexity around deploying advanced machine learning systems in the real world.\n\n虽然许多政治人物宣扬即将到来的“AI革命”的变革效果，他们却没有认识到在现实世界部署先进机器学习系统的复杂性。\n\nWhile建立让步与转折；they回指many politicians。around deploying中的deploying是动名词，说明复杂性围绕何种实际工作产生。coming指被宣称即将到来的变化，不表明相关结果已经实现。\n\nAbove all, the public sector typically lacks the human talent with the right technological capabilities to fully reap the benefits of machine intelligence.\n\n尤其重要的是，公共部门通常缺乏具备合适技术能力的人才，因而难以充分获得机器智能的益处。\n\nAbove all标出作者特别强调的条件。with the right technological capabilities修饰human talent，to fully reap...说明所需能力服务的目标；typically保留“通常”的范围，不能去掉后写成所有公共部门都没有人才。\n\n这篇材料里可用于写作的表达\nappropriate data infrastructure\n\n合适的数据基础设施\n\n适合具体说明公共科研投入的基础条件；搭配provide或develop时仍需交代研究用途。\n\n用于写作：自编例句，贴合政府资助具有公共价值、商业回报不确定的科研，具体化资金可以支持什么；不是说科研只能由政府执行。\n\nreap the benefits of\n\n实际获得……的益处\n\n后接能够说明来源的资源、经验或合作成果，避免只写空泛的benefits。\n\n用于写作：自编例句，直接回应政府与私企研究是否应排他：用有条件的合作说明可以利用不同主体的专业知识。\n\n读完讲解，可以把原文连起来再读一次；想保留的词句可使用已有收藏功能。",
+  "allContent": "Artificial Intelligence｜公共部门实施条件未作答选择题 / 选词摘要填空 · 3 段 · 223 词 · 5 题 · 同篇原文另有裁切0% · 0 / 1 完成真题 · Cambridge IELTS 21 Academic · PDF 第 47 页Q29：Choose A–D. Q30–33：Complete the summary using words A–I. 原选项完整保留。原文第4段We are now seeing governments pledge support to national AI initiatives and compete in a technological race to dominate the burgeoning machine-learning sector. While many politicians proclaim the transformative effects of the coming 'AI revolution', they fail to realise the complexity around deploying advanced machine learning systems in the real world.原文第5段One of the most promising varieties of AI technologies are neural networks. This form of machine learning is loosely modelled on the neuronal structure of the human brain, but on a much smaller scale. But what many politicians do not understand is that simply adding a neural network to a problem will not automatically mean that you'll find a solution. Similarly, adding a neural network to a system of government does not mean it will be instantaneously more inclusive or fair.原文第6段AI systems need a lot of data to function, but the public sector typically does not have the appropriate data infrastructure to support advanced machine learning. Most of the data remains stored in offline archives. The few digitised sources of data that exist tend to be buried in bureaucracy. More often than not, data is spread across different government departments that each require special permissions to be accessed. Above all, the public sector typically lacks the human talent with the right technological capabilities to fully reap the benefits of machine intelligence.共用选项 · 原题 30、31、32、33A reliabilityB fundingC skillsD prejudicesE computersF equalityG frameworkH confidentialityI approval29. In the fourth paragraph, the writer suggests that many politicians mayA have failed to appreciate the true potential of AI initiatives.B have misunderstood the function of the machine-learning sector.C be unaware of the challenges of implementing national AI initiatives.D be too keen to enter the race to dominate the machine-learning sector.第 29 题作答30. Neural networks are a promising area of AI technology for governments. However, many politicians overestimate their capabilities, believing that the mere addition of a neural network will produce solutions and promote 30 __________.第 30 题作答31. Most public sector organisations have not set up the necessary 31 __________ to manage the huge amount of data required to enable AI to function.第 31 题作答32. Complex bureaucracy is another issue, as each person involved needs 32 __________ to access the relevant data, which is often spread across different departments.第 32 题作答33. But the main problem is that few public sector employees have the 33 __________ to take full advantage of machine intelligence.第 33 题作答保留作答，查看答案先作答；不确定的题也可记录判断与疑点。对照答案，回到证据第 29 题 · Cunaware of challenges对应fail to realise complexity；国家竞争只是背景。they fail to realise the complexity around deploying advanced machine learning systems in the real world第 30 题 · Finclusive or fair概括为equality；注意摘要描述政治家过度期待，不是作者认可。does not mean it will be instantaneously more inclusive or fair第 31 题 · Gdata infrastructure对应管理数据的framework，不只是computers。does not have the appropriate data infrastructure第 32 题 · Ipermissions对应approval；confidentiality是保密性，不是取得访问权。each require special permissions to be accessed第 33 题 · Ccapabilities概括为skills；Above all对应摘要main problem。lacks the human talent with the right technological capabilities核对原答案页我的修订／证据笔记材料精读 · 内容与词句这三段把AI的宏大承诺拉回公共部门的实施条件。先写政治热情与实际复杂性的落差，再解释神经网络不自动带来结果，最后列出数据、组织流程与人才等条件。它讨论的是技术部署的能力边界，不是说所有政府永远不能使用AI。原文第4段We are now seeing governments pledge support to national AI initiatives and compete in a technological race to dominate the burgeoning machine-learning sector. While many politicians proclaim the transformative effects of the coming 'AI revolution', they fail to realise the complexity around deploying advanced machine learning systems in the real world.第4段写政府承诺支持国家AI项目，并争取在增长中的产业占据优势。While连接政治人物宣称的变革与作者指出的部署复杂性，重点在愿景与实施之间的距离。many限制为许多政治人物，不能扩大为全部。原文第5段One of the most promising varieties of AI technologies are neural networks. This form of machine learning is loosely modelled on the neuronal structure of the human brain, but on a much smaller scale. But what many politicians do not understand is that simply adding a neural network to a problem will not automatically mean that you'll find a solution. Similarly, adding a neural network to a system of government does not mean it will be instantaneously more inclusive or fair.第5段介绍神经网络对人脑结构的松散模拟，loosely和on a much smaller scale都限制类比程度。接着指出，把神经网络加入某个问题或政府系统，不会自动意味着找到解决方案或立即获得公平与包容。否定的是自动、即时的效果，而不是说相关技术毫无用途。原文第6段AI systems need a lot of data to function, but the public sector typically does not have the appropriate data infrastructure to support advanced machine learning. Most of the data remains stored in offline archives. The few digitised sources of data that exist tend to be buried in bureaucracy. More often than not, data is spread across different government departments that each require special permissions to be accessed. Above all, the public sector typically lacks the human talent with the right technological capabilities to fully reap the benefits of machine intelligence.第6段把前段抽象的“复杂性”具体化：数据基础设施不足、资料仍离线、数字资料受行政流程阻碍、部门间访问需要权限，以及专业人才不足。typically、tend to和More often than not均表达常见倾向；Above all把人才放在作者强调的位置。词语与搭配pledge support to承诺支持……pledge是作出承诺，不等于支持措施已经落实或取得成效。loosely modelled on对……作松散的模拟be modelled on说明参考对象；loosely提示结构借鉴并不等于完整复制。appropriate data infrastructure合适的数据基础设施infrastructure是支持工作运行的基础系统；appropriate强调要符合实际用途，不是设备越多越好。buried in bureaucracy受繁琐行政程序阻碍，难以实际获取或使用buried是比喻，不表示资料真的埋在地下；需要结合数据访问的语境理解。reap the benefits of获得并享受到……的益处reap本义是收获；这里强调实际取得利益，与仅宣布使用某项技术不同。句子精读While many politicians proclaim the transformative effects of the coming 'AI revolution', they fail to realise the complexity around deploying advanced machine learning systems in the real world.虽然许多政治人物宣扬即将到来的“AI革命”的变革效果，他们却没有认识到在现实世界部署先进机器学习系统的复杂性。While建立让步与转折；they回指many politicians。around deploying中的deploying是动名词，说明复杂性围绕何种实际工作产生。coming指被宣称即将到来的变化，不表明相关结果已经实现。Above all, the public sector typically lacks the human talent with the right technological capabilities to fully reap the benefits of machine intelligence.尤其重要的是，公共部门通常缺乏具备合适技术能力的人才，因而难以充分获得机器智能的益处。Above all标出作者特别强调的条件。with the right technological capabilities修饰human talent，to fully reap...说明所需能力服务的目标；typically保留“通常”的范围，不能去掉后写成所有公共部门都没有人才。这篇材料里可用于写作的表达appropriate data infrastructure合适的数据基础设施适合具体说明公共科研投入的基础条件；搭配provide或develop时仍需交代研究用途。用于写作：自编例句，贴合政府资助具有公共价值、商业回报不确定的科研，具体化资金可以支持什么；不是说科研只能由政府执行。reap the benefits of实际获得……的益处后接能够说明来源的资源、经验或合作成果，避免只写空泛的benefits。用于写作：自编例句，直接回应政府与私企研究是否应排他：用有条件的合作说明可以利用不同主体的专业知识。读完讲解，可以把原文连起来再读一次；想保留的词句可使用已有收藏功能。",
+  "links": [
+    {
+      "text": "Cambridge IELTS 21 Academic",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=47"
+    },
+    {
+      "text": "核对原答案页",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=121"
+    },
+    {
+      "text": "用于写作：自编例句，贴合政府资助具有公共价值、商业回报不确定的科研，具体化资金可以支持什么；不是说科研只能由政府执行。",
+      "href": "#writing-prep-wc-official-science-from-rd-c21-ai-2"
+    },
+    {
+      "text": "用于写作：自编例句，直接回应政府与私企研究是否应排他：用有条件的合作说明可以利用不同主体的专业知识。",
+      "href": "#writing-prep-wc-official-science-from-rd-c21-ai-2"
+    }
+  ],
+  "details": [
+    {
+      "id": "material-reading-rd-c21-ai-2",
+      "title": "材料精读 · 内容与词句",
+      "open": true,
+      "visible": true
+    }
+  ],
+  "saveFields": [
+    "case-rd-c21-ai-2-q1",
+    "case-rd-c21-ai-2-q2",
+    "case-rd-c21-ai-2-q3",
+    "case-rd-c21-ai-2-q4",
+    "case-rd-c21-ai-2-q5",
+    "case-rd-c21-ai-2-done",
+    "case-rd-c21-ai-2-saved-at",
+    "case-rd-c21-ai-2-revision"
+  ],
+  "images": [],
+  "audio": [],
+  "viewport": 1440,
+  "documentWidth": 1440
+}

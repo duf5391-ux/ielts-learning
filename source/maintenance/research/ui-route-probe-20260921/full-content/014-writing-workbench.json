@@ -1,0 +1,4215 @@
+{
+  "requested": "writing-workbench",
+  "from": [
+    "主面板",
+    "页面链接"
+  ],
+  "actual": "#writing-workbench",
+  "checkedAt": "2026-09-21T12:50:38.428Z",
+  "title": "写作工作台 · IELTS",
+  "label": "写作工作台",
+  "panel": "writing-workbench",
+  "contentRoot": "writing-workbench",
+  "headings": [
+    {
+      "tag": "H1",
+      "text": "写作工作台",
+      "visible": true
+    },
+    {
+      "tag": "H2",
+      "text": "四行业就业",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "01 / 审题与提纲",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "02 / 留下自己的首稿",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "03 / 四维检查与修订",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "任务完成 / 回应 · TA / TR",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "组织与衔接 · CC",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "词汇使用 · LR",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "语法范围与准确性 · GRA",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "04 / 只练一个动作，再换题检查",
+      "visible": true
+    },
+    {
+      "tag": "H2",
+      "text": "砖块制造",
+      "visible": false
+    },
+    {
+      "tag": "H3",
+      "text": "01 / 审题与提纲",
+      "visible": false
+    },
+    {
+      "tag": "H3",
+      "text": "02 / 留下自己的首稿",
+      "visible": false
+    },
+    {
+      "tag": "H3",
+      "text": "03 / 四维检查与修订",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "任务完成 / 回应 · TA / TR",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "组织与衔接 · CC",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "词汇使用 · LR",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "语法范围与准确性 · GRA",
+      "visible": false
+    },
+    {
+      "tag": "H3",
+      "text": "04 / 只练一个动作，再换题检查",
+      "visible": false
+    },
+    {
+      "tag": "H2",
+      "text": "学院咖啡厅改造",
+      "visible": false
+    },
+    {
+      "tag": "H3",
+      "text": "01 / 审题与提纲",
+      "visible": false
+    },
+    {
+      "tag": "H3",
+      "text": "02 / 留下自己的首稿",
+      "visible": false
+    },
+    {
+      "tag": "H3",
+      "text": "03 / 四维检查与修订",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "任务完成 / 回应 · TA / TR",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "组织与衔接 · CC",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "词汇使用 · LR",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "语法范围与准确性 · GRA",
+      "visible": false
+    },
+    {
+      "tag": "H3",
+      "text": "04 / 只练一个动作，再换题检查",
+      "visible": false
+    },
+    {
+      "tag": "H2",
+      "text": "小学课堂中的学习与游戏",
+      "visible": false
+    },
+    {
+      "tag": "H3",
+      "text": "01 / 审题与提纲",
+      "visible": false
+    },
+    {
+      "tag": "H3",
+      "text": "02 / 留下自己的首稿",
+      "visible": false
+    },
+    {
+      "tag": "H3",
+      "text": "03 / 四维检查与修订",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "任务完成 / 回应 · TA / TR",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "组织与衔接 · CC",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "词汇使用 · LR",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "语法范围与准确性 · GRA",
+      "visible": false
+    },
+    {
+      "tag": "H3",
+      "text": "04 / 只练一个动作，再换题检查",
+      "visible": false
+    },
+    {
+      "tag": "H2",
+      "text": "旅游收益与居民成本",
+      "visible": false
+    },
+    {
+      "tag": "H3",
+      "text": "01 / 审题与提纲",
+      "visible": false
+    },
+    {
+      "tag": "H3",
+      "text": "02 / 留下自己的首稿",
+      "visible": false
+    },
+    {
+      "tag": "H3",
+      "text": "03 / 四维检查与修订",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "任务完成 / 回应 · TA / TR",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "组织与衔接 · CC",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "词汇使用 · LR",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "语法范围与准确性 · GRA",
+      "visible": false
+    },
+    {
+      "tag": "H3",
+      "text": "04 / 只练一个动作，再换题检查",
+      "visible": false
+    },
+    {
+      "tag": "H2",
+      "text": "高层住宅是否是最佳方案",
+      "visible": false
+    },
+    {
+      "tag": "H3",
+      "text": "01 / 审题与提纲",
+      "visible": false
+    },
+    {
+      "tag": "H3",
+      "text": "02 / 留下自己的首稿",
+      "visible": false
+    },
+    {
+      "tag": "H3",
+      "text": "03 / 四维检查与修订",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "任务完成 / 回应 · TA / TR",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "组织与衔接 · CC",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "词汇使用 · LR",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "语法范围与准确性 · GRA",
+      "visible": false
+    },
+    {
+      "tag": "H3",
+      "text": "04 / 只练一个动作，再换题检查",
+      "visible": false
+    }
+  ],
+  "controls": [
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "← 返回学习工作台",
+      "label": "",
+      "href": "#workspace",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SELECT",
+      "id": "ww-task-picker",
+      "type": "select-one",
+      "text": "Task 1 · 折线图 · 四行业就业\nTask 1 · 流程图 · 砖块制造\nTask 1 · 平面图 · 学院咖啡厅改造\nTask 2 · 教育 · 小学课堂中的学习与游戏\nTask 2 · 旅游 · 旅游收益与居民成本\nTask 2 · 城市住房 · 高层住宅是否是最佳方案",
+      "label": "选一道题，或继续上次作答\nTask 1 · 折线图 · 四行业就业\nTask 1 · 流程图 · 砖块制造\nTask 1 · 平面图 · 学院咖啡厅改造\nTask 2 · 教育 · 小学课堂中的学习与游戏\nTask 2 · 旅游 · 旅游收益与居民成本\nTask 2 · 城市住房 · 高层住宅是否是最佳方案",
+      "href": null,
+      "save": "ww-active-task",
+      "visible": true,
+      "disabled": false,
+      "required": false,
+      "options": [
+        {
+          "value": "ww-jobs",
+          "label": "Task 1 · 折线图 · 四行业就业"
+        },
+        {
+          "value": "ww-bricks",
+          "label": "Task 1 · 流程图 · 砖块制造"
+        },
+        {
+          "value": "ww-cafe",
+          "label": "Task 1 · 平面图 · 学院咖啡厅改造"
+        },
+        {
+          "value": "ww-primary",
+          "label": "Task 2 · 教育 · 小学课堂中的学习与游戏"
+        },
+        {
+          "value": "ww-tourism",
+          "label": "Task 2 · 旅游 · 旅游收益与居民成本"
+        },
+        {
+          "value": "ww-housing",
+          "label": "Task 2 · 城市住房 · 高层住宅是否是最佳方案"
+        }
+      ]
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "学习记录与备份 →",
+      "label": "",
+      "href": "#records",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "01 审题",
+      "label": "",
+      "href": "#ww-jobs-plan",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "02 首稿",
+      "label": "",
+      "href": "#ww-jobs-draft",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "03 检查与修订",
+      "label": "",
+      "href": "#ww-jobs-review",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "04 再练",
+      "label": "",
+      "href": "#ww-jobs-next",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "Cambridge IELTS 21 Academic · Test 1 · Task 1",
+      "label": "",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=30",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "打开原有局部练习与参考",
+      "label": "",
+      "href": "#pr-writing1-jobs",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "回到本科学习",
+      "label": "",
+      "href": "#writing1",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "图表范围、单位与时间：我在比较什么？",
+      "href": null,
+      "save": "ww-jobs-plan-1",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "Overview：两条最重要的总体变化是什么？",
+      "href": null,
+      "save": "ww-jobs-plan-2",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "细节组 A：哪些趋势适合放在一起？写出数据证据。",
+      "href": null,
+      "save": "ww-jobs-plan-3",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "细节组 B：相同终点、不同增量，怎样比较？",
+      "href": null,
+      "save": "ww-jobs-plan-4",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "需要提示：看一种审题与展开方法",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "checkbox",
+      "text": "",
+      "label": "以前写过这题 / 看过答案",
+      "href": null,
+      "save": "ww-jobs-seen-before",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "checkbox",
+      "text": "",
+      "label": "本次参考过提示、词典或范例",
+      "href": null,
+      "save": "ww-jobs-used-help",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "开始 20 分钟",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "重置计时",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "hidden",
+      "text": "",
+      "label": "",
+      "href": null,
+      "save": "ww-jobs-timer",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "hidden",
+      "text": "",
+      "label": "",
+      "href": null,
+      "save": "ww-jobs-first-at",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "首稿 · 保留后锁定，修改在下方进行",
+      "href": null,
+      "save": "ww-jobs-first",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "保留首稿，开始修订",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SELECT",
+      "id": "",
+      "type": "select-one",
+      "text": "尚未检查\n发现问题，待修订\n已核对并处理\n仍不确定",
+      "label": "检查结果\n尚未检查\n发现问题，待修订\n已核对并处理\n仍不确定",
+      "href": null,
+      "save": "ww-jobs-check-task",
+      "visible": true,
+      "disabled": false,
+      "required": false,
+      "options": [
+        {
+          "value": "unreviewed",
+          "label": "尚未检查"
+        },
+        {
+          "value": "needs-work",
+          "label": "发现问题，待修订"
+        },
+        {
+          "value": "checked",
+          "label": "已核对并处理"
+        },
+        {
+          "value": "uncertain",
+          "label": "仍不确定"
+        }
+      ]
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "证据：摘一句原文 → 问题 / 判断依据 → 怎样改",
+      "href": null,
+      "save": "ww-jobs-evidence-task",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SELECT",
+      "id": "",
+      "type": "select-one",
+      "text": "尚未检查\n发现问题，待修订\n已核对并处理\n仍不确定",
+      "label": "检查结果\n尚未检查\n发现问题，待修订\n已核对并处理\n仍不确定",
+      "href": null,
+      "save": "ww-jobs-check-coherence",
+      "visible": true,
+      "disabled": false,
+      "required": false,
+      "options": [
+        {
+          "value": "unreviewed",
+          "label": "尚未检查"
+        },
+        {
+          "value": "needs-work",
+          "label": "发现问题，待修订"
+        },
+        {
+          "value": "checked",
+          "label": "已核对并处理"
+        },
+        {
+          "value": "uncertain",
+          "label": "仍不确定"
+        }
+      ]
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "证据：摘一句原文 → 问题 / 判断依据 → 怎样改",
+      "href": null,
+      "save": "ww-jobs-evidence-coherence",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SELECT",
+      "id": "",
+      "type": "select-one",
+      "text": "尚未检查\n发现问题，待修订\n已核对并处理\n仍不确定",
+      "label": "检查结果\n尚未检查\n发现问题，待修订\n已核对并处理\n仍不确定",
+      "href": null,
+      "save": "ww-jobs-check-lexical",
+      "visible": true,
+      "disabled": false,
+      "required": false,
+      "options": [
+        {
+          "value": "unreviewed",
+          "label": "尚未检查"
+        },
+        {
+          "value": "needs-work",
+          "label": "发现问题，待修订"
+        },
+        {
+          "value": "checked",
+          "label": "已核对并处理"
+        },
+        {
+          "value": "uncertain",
+          "label": "仍不确定"
+        }
+      ]
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "证据：摘一句原文 → 问题 / 判断依据 → 怎样改",
+      "href": null,
+      "save": "ww-jobs-evidence-lexical",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SELECT",
+      "id": "",
+      "type": "select-one",
+      "text": "尚未检查\n发现问题，待修订\n已核对并处理\n仍不确定",
+      "label": "检查结果\n尚未检查\n发现问题，待修订\n已核对并处理\n仍不确定",
+      "href": null,
+      "save": "ww-jobs-check-grammar",
+      "visible": true,
+      "disabled": false,
+      "required": false,
+      "options": [
+        {
+          "value": "unreviewed",
+          "label": "尚未检查"
+        },
+        {
+          "value": "needs-work",
+          "label": "发现问题，待修订"
+        },
+        {
+          "value": "checked",
+          "label": "已核对并处理"
+        },
+        {
+          "value": "uncertain",
+          "label": "仍不确定"
+        }
+      ]
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "证据：摘一句原文 → 问题 / 判断依据 → 怎样改",
+      "href": null,
+      "save": "ww-jobs-evidence-grammar",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "修订稿 · 与首稿分开保存",
+      "href": null,
+      "save": "ww-jobs-revision",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "另存本次修订版本",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "导出本题作答与反馈请求",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "这次最重要的修改：原来是什么、为什么改、现在怎样更清楚？",
+      "href": null,
+      "save": "ww-jobs-reason",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "hidden",
+      "text": "",
+      "label": "",
+      "href": null,
+      "save": "ww-jobs-versions",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "查看已保留的修订版本",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "我的局部练习",
+      "href": null,
+      "save": "ww-jobs-micro",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "展开参考与核对方法",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SELECT",
+      "id": "",
+      "type": "select-one",
+      "text": "回应题目 / 概览\n组织与展开\n词汇与搭配\n句子与语法\n换题独立检查",
+      "label": "下次优先处理\n回应题目 / 概览\n组织与展开\n词汇与搭配\n句子与语法\n换题独立检查",
+      "href": null,
+      "save": "ww-jobs-next-focus",
+      "visible": true,
+      "disabled": false,
+      "required": false,
+      "options": [
+        {
+          "value": "task",
+          "label": "回应题目 / 概览"
+        },
+        {
+          "value": "coherence",
+          "label": "组织与展开"
+        },
+        {
+          "value": "lexical",
+          "label": "词汇与搭配"
+        },
+        {
+          "value": "grammar",
+          "label": "句子与语法"
+        },
+        {
+          "value": "transfer",
+          "label": "换题独立检查"
+        }
+      ]
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "date",
+      "text": "",
+      "label": "计划复查日期",
+      "href": null,
+      "save": "ww-jobs-next-date",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "下一次具体做什么？到什么状态算完成？",
+      "href": null,
+      "save": "ww-jobs-next-note",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "打开下一题 →",
+      "label": "",
+      "href": "#ww-bricks",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "01 审题",
+      "label": "",
+      "href": "#ww-bricks-plan",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "02 首稿",
+      "label": "",
+      "href": "#ww-bricks-draft",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "03 检查与修订",
+      "label": "",
+      "href": "#ww-bricks-review",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "04 再练",
+      "label": "",
+      "href": "#ww-bricks-next",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "IELTS Academic Writing Sample Tasks (2023) · Task 1C",
+      "label": "",
+      "href": "case-assets/writing-official-sample-tasks-2023.pdf#page=5",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "打开原有局部练习与参考",
+      "label": "",
+      "href": "#pr-writing1-bricks",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "回到本科学习",
+      "label": "",
+      "href": "#writing1",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "起点、终点与整体性质：原料怎样变成成品？",
+      "href": null,
+      "save": "ww-bricks-plan-1",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "Overview：如何概括主要阶段，而不逐个抄标签？",
+      "href": null,
+      "save": "ww-bricks-plan-2",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "前半程：两种成形方式是什么关系？",
+      "href": null,
+      "save": "ww-bricks-plan-3",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "后半程：温度与时长分别属于哪一步？",
+      "href": null,
+      "save": "ww-bricks-plan-4",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "需要提示：看一种审题与展开方法",
+      "label": "",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "checkbox",
+      "text": "",
+      "label": "以前写过这题 / 看过答案",
+      "href": null,
+      "save": "ww-bricks-seen-before",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "checkbox",
+      "text": "",
+      "label": "本次参考过提示、词典或范例",
+      "href": null,
+      "save": "ww-bricks-used-help",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "开始 20 分钟",
+      "label": "",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "重置计时",
+      "label": "",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "hidden",
+      "text": "",
+      "label": "",
+      "href": null,
+      "save": "ww-bricks-timer",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "hidden",
+      "text": "",
+      "label": "",
+      "href": null,
+      "save": "ww-bricks-first-at",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "首稿 · 保留后锁定，修改在下方进行",
+      "href": null,
+      "save": "ww-bricks-first",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "保留首稿，开始修订",
+      "label": "",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SELECT",
+      "id": "",
+      "type": "select-one",
+      "text": "尚未检查发现问题，待修订已核对并处理仍不确定",
+      "label": "检查结果尚未检查发现问题，待修订已核对并处理仍不确定",
+      "href": null,
+      "save": "ww-bricks-check-task",
+      "visible": false,
+      "disabled": false,
+      "required": false,
+      "options": [
+        {
+          "value": "unreviewed",
+          "label": "尚未检查"
+        },
+        {
+          "value": "needs-work",
+          "label": "发现问题，待修订"
+        },
+        {
+          "value": "checked",
+          "label": "已核对并处理"
+        },
+        {
+          "value": "uncertain",
+          "label": "仍不确定"
+        }
+      ]
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "证据：摘一句原文 → 问题 / 判断依据 → 怎样改",
+      "href": null,
+      "save": "ww-bricks-evidence-task",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SELECT",
+      "id": "",
+      "type": "select-one",
+      "text": "尚未检查发现问题，待修订已核对并处理仍不确定",
+      "label": "检查结果尚未检查发现问题，待修订已核对并处理仍不确定",
+      "href": null,
+      "save": "ww-bricks-check-coherence",
+      "visible": false,
+      "disabled": false,
+      "required": false,
+      "options": [
+        {
+          "value": "unreviewed",
+          "label": "尚未检查"
+        },
+        {
+          "value": "needs-work",
+          "label": "发现问题，待修订"
+        },
+        {
+          "value": "checked",
+          "label": "已核对并处理"
+        },
+        {
+          "value": "uncertain",
+          "label": "仍不确定"
+        }
+      ]
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "证据：摘一句原文 → 问题 / 判断依据 → 怎样改",
+      "href": null,
+      "save": "ww-bricks-evidence-coherence",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SELECT",
+      "id": "",
+      "type": "select-one",
+      "text": "尚未检查发现问题，待修订已核对并处理仍不确定",
+      "label": "检查结果尚未检查发现问题，待修订已核对并处理仍不确定",
+      "href": null,
+      "save": "ww-bricks-check-lexical",
+      "visible": false,
+      "disabled": false,
+      "required": false,
+      "options": [
+        {
+          "value": "unreviewed",
+          "label": "尚未检查"
+        },
+        {
+          "value": "needs-work",
+          "label": "发现问题，待修订"
+        },
+        {
+          "value": "checked",
+          "label": "已核对并处理"
+        },
+        {
+          "value": "uncertain",
+          "label": "仍不确定"
+        }
+      ]
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "证据：摘一句原文 → 问题 / 判断依据 → 怎样改",
+      "href": null,
+      "save": "ww-bricks-evidence-lexical",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SELECT",
+      "id": "",
+      "type": "select-one",
+      "text": "尚未检查发现问题，待修订已核对并处理仍不确定",
+      "label": "检查结果尚未检查发现问题，待修订已核对并处理仍不确定",
+      "href": null,
+      "save": "ww-bricks-check-grammar",
+      "visible": false,
+      "disabled": false,
+      "required": false,
+      "options": [
+        {
+          "value": "unreviewed",
+          "label": "尚未检查"
+        },
+        {
+          "value": "needs-work",
+          "label": "发现问题，待修订"
+        },
+        {
+          "value": "checked",
+          "label": "已核对并处理"
+        },
+        {
+          "value": "uncertain",
+          "label": "仍不确定"
+        }
+      ]
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "证据：摘一句原文 → 问题 / 判断依据 → 怎样改",
+      "href": null,
+      "save": "ww-bricks-evidence-grammar",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "修订稿 · 与首稿分开保存",
+      "href": null,
+      "save": "ww-bricks-revision",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "另存本次修订版本",
+      "label": "",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "导出本题作答与反馈请求",
+      "label": "",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "这次最重要的修改：原来是什么、为什么改、现在怎样更清楚？",
+      "href": null,
+      "save": "ww-bricks-reason",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "hidden",
+      "text": "",
+      "label": "",
+      "href": null,
+      "save": "ww-bricks-versions",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "查看已保留的修订版本",
+      "label": "",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "我的局部练习",
+      "href": null,
+      "save": "ww-bricks-micro",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "展开参考与核对方法",
+      "label": "",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SELECT",
+      "id": "",
+      "type": "select-one",
+      "text": "回应题目 / 概览组织与展开词汇与搭配句子与语法换题独立检查",
+      "label": "下次优先处理回应题目 / 概览组织与展开词汇与搭配句子与语法换题独立检查",
+      "href": null,
+      "save": "ww-bricks-next-focus",
+      "visible": false,
+      "disabled": false,
+      "required": false,
+      "options": [
+        {
+          "value": "task",
+          "label": "回应题目 / 概览"
+        },
+        {
+          "value": "coherence",
+          "label": "组织与展开"
+        },
+        {
+          "value": "lexical",
+          "label": "词汇与搭配"
+        },
+        {
+          "value": "grammar",
+          "label": "句子与语法"
+        },
+        {
+          "value": "transfer",
+          "label": "换题独立检查"
+        }
+      ]
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "date",
+      "text": "",
+      "label": "计划复查日期",
+      "href": null,
+      "save": "ww-bricks-next-date",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "下一次具体做什么？到什么状态算完成？",
+      "href": null,
+      "save": "ww-bricks-next-note",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "打开下一题 →",
+      "label": "",
+      "href": "#ww-cafe",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "01 审题",
+      "label": "",
+      "href": "#ww-cafe-plan",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "02 首稿",
+      "label": "",
+      "href": "#ww-cafe-draft",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "03 检查与修订",
+      "label": "",
+      "href": "#ww-cafe-review",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "04 再练",
+      "label": "",
+      "href": "#ww-cafe-next",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "Cambridge IELTS 21 Academic · Test 2 · Task 1",
+      "label": "",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=52",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "打开原有局部练习与参考",
+      "label": "",
+      "href": "#pr-writing1-cafe",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "回到本科学习",
+      "label": "",
+      "href": "#writing1",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "两张图的时间关系与场所用途是什么？",
+      "href": null,
+      "save": "ww-cafe-plan-1",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "Overview：最显著的整体布局变化有哪些？",
+      "href": null,
+      "save": "ww-cafe-plan-2",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "细节组 A：选一个区域，记录新增、移除或搬迁的设施。",
+      "href": null,
+      "save": "ww-cafe-plan-3",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "细节组 B：另一地区怎样变化？哪些设施保持原位？",
+      "href": null,
+      "save": "ww-cafe-plan-4",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "需要提示：看一种审题与展开方法",
+      "label": "",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "checkbox",
+      "text": "",
+      "label": "以前写过这题 / 看过答案",
+      "href": null,
+      "save": "ww-cafe-seen-before",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "checkbox",
+      "text": "",
+      "label": "本次参考过提示、词典或范例",
+      "href": null,
+      "save": "ww-cafe-used-help",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "开始 20 分钟",
+      "label": "",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "重置计时",
+      "label": "",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "hidden",
+      "text": "",
+      "label": "",
+      "href": null,
+      "save": "ww-cafe-timer",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "hidden",
+      "text": "",
+      "label": "",
+      "href": null,
+      "save": "ww-cafe-first-at",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "首稿 · 保留后锁定，修改在下方进行",
+      "href": null,
+      "save": "ww-cafe-first",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "保留首稿，开始修订",
+      "label": "",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SELECT",
+      "id": "",
+      "type": "select-one",
+      "text": "尚未检查发现问题，待修订已核对并处理仍不确定",
+      "label": "检查结果尚未检查发现问题，待修订已核对并处理仍不确定",
+      "href": null,
+      "save": "ww-cafe-check-task",
+      "visible": false,
+      "disabled": false,
+      "required": false,
+      "options": [
+        {
+          "value": "unreviewed",
+          "label": "尚未检查"
+        },
+        {
+          "value": "needs-work",
+          "label": "发现问题，待修订"
+        },
+        {
+          "value": "checked",
+          "label": "已核对并处理"
+        },
+        {
+          "value": "uncertain",
+          "label": "仍不确定"
+        }
+      ]
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "证据：摘一句原文 → 问题 / 判断依据 → 怎样改",
+      "href": null,
+      "save": "ww-cafe-evidence-task",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SELECT",
+      "id": "",
+      "type": "select-one",
+      "text": "尚未检查发现问题，待修订已核对并处理仍不确定",
+      "label": "检查结果尚未检查发现问题，待修订已核对并处理仍不确定",
+      "href": null,
+      "save": "ww-cafe-check-coherence",
+      "visible": false,
+      "disabled": false,
+      "required": false,
+      "options": [
+        {
+          "value": "unreviewed",
+          "label": "尚未检查"
+        },
+        {
+          "value": "needs-work",
+          "label": "发现问题，待修订"
+        },
+        {
+          "value": "checked",
+          "label": "已核对并处理"
+        },
+        {
+          "value": "uncertain",
+          "label": "仍不确定"
+        }
+      ]
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "证据：摘一句原文 → 问题 / 判断依据 → 怎样改",
+      "href": null,
+      "save": "ww-cafe-evidence-coherence",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SELECT",
+      "id": "",
+      "type": "select-one",
+      "text": "尚未检查发现问题，待修订已核对并处理仍不确定",
+      "label": "检查结果尚未检查发现问题，待修订已核对并处理仍不确定",
+      "href": null,
+      "save": "ww-cafe-check-lexical",
+      "visible": false,
+      "disabled": false,
+      "required": false,
+      "options": [
+        {
+          "value": "unreviewed",
+          "label": "尚未检查"
+        },
+        {
+          "value": "needs-work",
+          "label": "发现问题，待修订"
+        },
+        {
+          "value": "checked",
+          "label": "已核对并处理"
+        },
+        {
+          "value": "uncertain",
+          "label": "仍不确定"
+        }
+      ]
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "证据：摘一句原文 → 问题 / 判断依据 → 怎样改",
+      "href": null,
+      "save": "ww-cafe-evidence-lexical",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SELECT",
+      "id": "",
+      "type": "select-one",
+      "text": "尚未检查发现问题，待修订已核对并处理仍不确定",
+      "label": "检查结果尚未检查发现问题，待修订已核对并处理仍不确定",
+      "href": null,
+      "save": "ww-cafe-check-grammar",
+      "visible": false,
+      "disabled": false,
+      "required": false,
+      "options": [
+        {
+          "value": "unreviewed",
+          "label": "尚未检查"
+        },
+        {
+          "value": "needs-work",
+          "label": "发现问题，待修订"
+        },
+        {
+          "value": "checked",
+          "label": "已核对并处理"
+        },
+        {
+          "value": "uncertain",
+          "label": "仍不确定"
+        }
+      ]
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "证据：摘一句原文 → 问题 / 判断依据 → 怎样改",
+      "href": null,
+      "save": "ww-cafe-evidence-grammar",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "修订稿 · 与首稿分开保存",
+      "href": null,
+      "save": "ww-cafe-revision",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "另存本次修订版本",
+      "label": "",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "导出本题作答与反馈请求",
+      "label": "",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "这次最重要的修改：原来是什么、为什么改、现在怎样更清楚？",
+      "href": null,
+      "save": "ww-cafe-reason",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "hidden",
+      "text": "",
+      "label": "",
+      "href": null,
+      "save": "ww-cafe-versions",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "查看已保留的修订版本",
+      "label": "",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "我的局部练习",
+      "href": null,
+      "save": "ww-cafe-micro",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "展开参考与核对方法",
+      "label": "",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SELECT",
+      "id": "",
+      "type": "select-one",
+      "text": "回应题目 / 概览组织与展开词汇与搭配句子与语法换题独立检查",
+      "label": "下次优先处理回应题目 / 概览组织与展开词汇与搭配句子与语法换题独立检查",
+      "href": null,
+      "save": "ww-cafe-next-focus",
+      "visible": false,
+      "disabled": false,
+      "required": false,
+      "options": [
+        {
+          "value": "task",
+          "label": "回应题目 / 概览"
+        },
+        {
+          "value": "coherence",
+          "label": "组织与展开"
+        },
+        {
+          "value": "lexical",
+          "label": "词汇与搭配"
+        },
+        {
+          "value": "grammar",
+          "label": "句子与语法"
+        },
+        {
+          "value": "transfer",
+          "label": "换题独立检查"
+        }
+      ]
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "date",
+      "text": "",
+      "label": "计划复查日期",
+      "href": null,
+      "save": "ww-cafe-next-date",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "下一次具体做什么？到什么状态算完成？",
+      "href": null,
+      "save": "ww-cafe-next-note",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "打开下一题 →",
+      "label": "",
+      "href": "#ww-jobs",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "01 审题",
+      "label": "",
+      "href": "#ww-primary-plan",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "02 首稿",
+      "label": "",
+      "href": "#ww-primary-draft",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "03 检查与修订",
+      "label": "",
+      "href": "#ww-primary-review",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "04 再练",
+      "label": "",
+      "href": "#ww-primary-next",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "Cambridge IELTS 21 Academic · Test 4 · Task 2",
+      "label": "",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=96",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "打开原有局部练习与参考",
+      "label": "",
+      "href": "#pr-writing2-primary",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "回到本科学习",
+      "label": "",
+      "href": "#writing2",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "题目有几个问题？分别要求我判断什么？",
+      "href": null,
+      "save": "ww-primary-plan-1",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "我的完整立场：对 formal learning 的程度判断 + 游戏的重要性。",
+      "href": null,
+      "save": "ww-primary-plan-2",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "主体段 A：一个理由 → 为什么成立 → 课堂例子。",
+      "href": null,
+      "save": "ww-primary-plan-3",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "主体段 B：如何补足另一问？可接受的边界是什么？",
+      "href": null,
+      "save": "ww-primary-plan-4",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "需要提示：看一种审题与展开方法",
+      "label": "",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "checkbox",
+      "text": "",
+      "label": "以前写过这题 / 看过答案",
+      "href": null,
+      "save": "ww-primary-seen-before",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "checkbox",
+      "text": "",
+      "label": "本次参考过提示、词典或范例",
+      "href": null,
+      "save": "ww-primary-used-help",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "开始 40 分钟",
+      "label": "",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "重置计时",
+      "label": "",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "hidden",
+      "text": "",
+      "label": "",
+      "href": null,
+      "save": "ww-primary-timer",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "hidden",
+      "text": "",
+      "label": "",
+      "href": null,
+      "save": "ww-primary-first-at",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "首稿 · 保留后锁定，修改在下方进行",
+      "href": null,
+      "save": "ww-primary-first",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "保留首稿，开始修订",
+      "label": "",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SELECT",
+      "id": "",
+      "type": "select-one",
+      "text": "尚未检查发现问题，待修订已核对并处理仍不确定",
+      "label": "检查结果尚未检查发现问题，待修订已核对并处理仍不确定",
+      "href": null,
+      "save": "ww-primary-check-task",
+      "visible": false,
+      "disabled": false,
+      "required": false,
+      "options": [
+        {
+          "value": "unreviewed",
+          "label": "尚未检查"
+        },
+        {
+          "value": "needs-work",
+          "label": "发现问题，待修订"
+        },
+        {
+          "value": "checked",
+          "label": "已核对并处理"
+        },
+        {
+          "value": "uncertain",
+          "label": "仍不确定"
+        }
+      ]
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "证据：摘一句原文 → 问题 / 判断依据 → 怎样改",
+      "href": null,
+      "save": "ww-primary-evidence-task",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SELECT",
+      "id": "",
+      "type": "select-one",
+      "text": "尚未检查发现问题，待修订已核对并处理仍不确定",
+      "label": "检查结果尚未检查发现问题，待修订已核对并处理仍不确定",
+      "href": null,
+      "save": "ww-primary-check-coherence",
+      "visible": false,
+      "disabled": false,
+      "required": false,
+      "options": [
+        {
+          "value": "unreviewed",
+          "label": "尚未检查"
+        },
+        {
+          "value": "needs-work",
+          "label": "发现问题，待修订"
+        },
+        {
+          "value": "checked",
+          "label": "已核对并处理"
+        },
+        {
+          "value": "uncertain",
+          "label": "仍不确定"
+        }
+      ]
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "证据：摘一句原文 → 问题 / 判断依据 → 怎样改",
+      "href": null,
+      "save": "ww-primary-evidence-coherence",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SELECT",
+      "id": "",
+      "type": "select-one",
+      "text": "尚未检查发现问题，待修订已核对并处理仍不确定",
+      "label": "检查结果尚未检查发现问题，待修订已核对并处理仍不确定",
+      "href": null,
+      "save": "ww-primary-check-lexical",
+      "visible": false,
+      "disabled": false,
+      "required": false,
+      "options": [
+        {
+          "value": "unreviewed",
+          "label": "尚未检查"
+        },
+        {
+          "value": "needs-work",
+          "label": "发现问题，待修订"
+        },
+        {
+          "value": "checked",
+          "label": "已核对并处理"
+        },
+        {
+          "value": "uncertain",
+          "label": "仍不确定"
+        }
+      ]
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "证据：摘一句原文 → 问题 / 判断依据 → 怎样改",
+      "href": null,
+      "save": "ww-primary-evidence-lexical",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SELECT",
+      "id": "",
+      "type": "select-one",
+      "text": "尚未检查发现问题，待修订已核对并处理仍不确定",
+      "label": "检查结果尚未检查发现问题，待修订已核对并处理仍不确定",
+      "href": null,
+      "save": "ww-primary-check-grammar",
+      "visible": false,
+      "disabled": false,
+      "required": false,
+      "options": [
+        {
+          "value": "unreviewed",
+          "label": "尚未检查"
+        },
+        {
+          "value": "needs-work",
+          "label": "发现问题，待修订"
+        },
+        {
+          "value": "checked",
+          "label": "已核对并处理"
+        },
+        {
+          "value": "uncertain",
+          "label": "仍不确定"
+        }
+      ]
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "证据：摘一句原文 → 问题 / 判断依据 → 怎样改",
+      "href": null,
+      "save": "ww-primary-evidence-grammar",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "修订稿 · 与首稿分开保存",
+      "href": null,
+      "save": "ww-primary-revision",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "另存本次修订版本",
+      "label": "",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "导出本题作答与反馈请求",
+      "label": "",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "这次最重要的修改：原来是什么、为什么改、现在怎样更清楚？",
+      "href": null,
+      "save": "ww-primary-reason",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "hidden",
+      "text": "",
+      "label": "",
+      "href": null,
+      "save": "ww-primary-versions",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "查看已保留的修订版本",
+      "label": "",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "我的局部练习",
+      "href": null,
+      "save": "ww-primary-micro",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "展开参考与核对方法",
+      "label": "",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SELECT",
+      "id": "",
+      "type": "select-one",
+      "text": "回应题目 / 概览组织与展开词汇与搭配句子与语法换题独立检查",
+      "label": "下次优先处理回应题目 / 概览组织与展开词汇与搭配句子与语法换题独立检查",
+      "href": null,
+      "save": "ww-primary-next-focus",
+      "visible": false,
+      "disabled": false,
+      "required": false,
+      "options": [
+        {
+          "value": "task",
+          "label": "回应题目 / 概览"
+        },
+        {
+          "value": "coherence",
+          "label": "组织与展开"
+        },
+        {
+          "value": "lexical",
+          "label": "词汇与搭配"
+        },
+        {
+          "value": "grammar",
+          "label": "句子与语法"
+        },
+        {
+          "value": "transfer",
+          "label": "换题独立检查"
+        }
+      ]
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "date",
+      "text": "",
+      "label": "计划复查日期",
+      "href": null,
+      "save": "ww-primary-next-date",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "下一次具体做什么？到什么状态算完成？",
+      "href": null,
+      "save": "ww-primary-next-note",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "打开下一题 →",
+      "label": "",
+      "href": "#ww-housing",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "01 审题",
+      "label": "",
+      "href": "#ww-tourism-plan",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "02 首稿",
+      "label": "",
+      "href": "#ww-tourism-draft",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "03 检查与修订",
+      "label": "",
+      "href": "#ww-tourism-review",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "04 再练",
+      "label": "",
+      "href": "#ww-tourism-next",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "IELTS Academic Writing Sample Tasks (2023) · Task 2B",
+      "label": "",
+      "href": "case-assets/writing-official-sample-tasks-2023.pdf#page=7",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "打开原有局部练习与参考",
+      "label": "",
+      "href": "#pr-writing2-tourism",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "回到本科学习",
+      "label": "",
+      "href": "#writing2",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "outweigh 要求什么判断？涉及哪些受影响对象？",
+      "href": null,
+      "save": "ww-tourism-plan-1",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "我的结论：哪一方更重？比较依据是什么？",
+      "href": null,
+      "save": "ww-tourism-plan-2",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "优势段：收益 → 作用机制 → 对谁有利？",
+      "href": null,
+      "save": "ww-tourism-plan-3",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "不利段与权衡：持续时间、影响范围或可缓解程度如何比较？",
+      "href": null,
+      "save": "ww-tourism-plan-4",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "需要提示：看一种审题与展开方法",
+      "label": "",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "checkbox",
+      "text": "",
+      "label": "以前写过这题 / 看过答案",
+      "href": null,
+      "save": "ww-tourism-seen-before",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "checkbox",
+      "text": "",
+      "label": "本次参考过提示、词典或范例",
+      "href": null,
+      "save": "ww-tourism-used-help",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "开始 40 分钟",
+      "label": "",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "重置计时",
+      "label": "",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "hidden",
+      "text": "",
+      "label": "",
+      "href": null,
+      "save": "ww-tourism-timer",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "hidden",
+      "text": "",
+      "label": "",
+      "href": null,
+      "save": "ww-tourism-first-at",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "首稿 · 保留后锁定，修改在下方进行",
+      "href": null,
+      "save": "ww-tourism-first",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "保留首稿，开始修订",
+      "label": "",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SELECT",
+      "id": "",
+      "type": "select-one",
+      "text": "尚未检查发现问题，待修订已核对并处理仍不确定",
+      "label": "检查结果尚未检查发现问题，待修订已核对并处理仍不确定",
+      "href": null,
+      "save": "ww-tourism-check-task",
+      "visible": false,
+      "disabled": false,
+      "required": false,
+      "options": [
+        {
+          "value": "unreviewed",
+          "label": "尚未检查"
+        },
+        {
+          "value": "needs-work",
+          "label": "发现问题，待修订"
+        },
+        {
+          "value": "checked",
+          "label": "已核对并处理"
+        },
+        {
+          "value": "uncertain",
+          "label": "仍不确定"
+        }
+      ]
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "证据：摘一句原文 → 问题 / 判断依据 → 怎样改",
+      "href": null,
+      "save": "ww-tourism-evidence-task",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SELECT",
+      "id": "",
+      "type": "select-one",
+      "text": "尚未检查发现问题，待修订已核对并处理仍不确定",
+      "label": "检查结果尚未检查发现问题，待修订已核对并处理仍不确定",
+      "href": null,
+      "save": "ww-tourism-check-coherence",
+      "visible": false,
+      "disabled": false,
+      "required": false,
+      "options": [
+        {
+          "value": "unreviewed",
+          "label": "尚未检查"
+        },
+        {
+          "value": "needs-work",
+          "label": "发现问题，待修订"
+        },
+        {
+          "value": "checked",
+          "label": "已核对并处理"
+        },
+        {
+          "value": "uncertain",
+          "label": "仍不确定"
+        }
+      ]
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "证据：摘一句原文 → 问题 / 判断依据 → 怎样改",
+      "href": null,
+      "save": "ww-tourism-evidence-coherence",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SELECT",
+      "id": "",
+      "type": "select-one",
+      "text": "尚未检查发现问题，待修订已核对并处理仍不确定",
+      "label": "检查结果尚未检查发现问题，待修订已核对并处理仍不确定",
+      "href": null,
+      "save": "ww-tourism-check-lexical",
+      "visible": false,
+      "disabled": false,
+      "required": false,
+      "options": [
+        {
+          "value": "unreviewed",
+          "label": "尚未检查"
+        },
+        {
+          "value": "needs-work",
+          "label": "发现问题，待修订"
+        },
+        {
+          "value": "checked",
+          "label": "已核对并处理"
+        },
+        {
+          "value": "uncertain",
+          "label": "仍不确定"
+        }
+      ]
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "证据：摘一句原文 → 问题 / 判断依据 → 怎样改",
+      "href": null,
+      "save": "ww-tourism-evidence-lexical",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SELECT",
+      "id": "",
+      "type": "select-one",
+      "text": "尚未检查发现问题，待修订已核对并处理仍不确定",
+      "label": "检查结果尚未检查发现问题，待修订已核对并处理仍不确定",
+      "href": null,
+      "save": "ww-tourism-check-grammar",
+      "visible": false,
+      "disabled": false,
+      "required": false,
+      "options": [
+        {
+          "value": "unreviewed",
+          "label": "尚未检查"
+        },
+        {
+          "value": "needs-work",
+          "label": "发现问题，待修订"
+        },
+        {
+          "value": "checked",
+          "label": "已核对并处理"
+        },
+        {
+          "value": "uncertain",
+          "label": "仍不确定"
+        }
+      ]
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "证据：摘一句原文 → 问题 / 判断依据 → 怎样改",
+      "href": null,
+      "save": "ww-tourism-evidence-grammar",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "修订稿 · 与首稿分开保存",
+      "href": null,
+      "save": "ww-tourism-revision",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "另存本次修订版本",
+      "label": "",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "导出本题作答与反馈请求",
+      "label": "",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "这次最重要的修改：原来是什么、为什么改、现在怎样更清楚？",
+      "href": null,
+      "save": "ww-tourism-reason",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "hidden",
+      "text": "",
+      "label": "",
+      "href": null,
+      "save": "ww-tourism-versions",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "查看已保留的修订版本",
+      "label": "",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "我的局部练习",
+      "href": null,
+      "save": "ww-tourism-micro",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "展开参考与核对方法",
+      "label": "",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SELECT",
+      "id": "",
+      "type": "select-one",
+      "text": "回应题目 / 概览组织与展开词汇与搭配句子与语法换题独立检查",
+      "label": "下次优先处理回应题目 / 概览组织与展开词汇与搭配句子与语法换题独立检查",
+      "href": null,
+      "save": "ww-tourism-next-focus",
+      "visible": false,
+      "disabled": false,
+      "required": false,
+      "options": [
+        {
+          "value": "task",
+          "label": "回应题目 / 概览"
+        },
+        {
+          "value": "coherence",
+          "label": "组织与展开"
+        },
+        {
+          "value": "lexical",
+          "label": "词汇与搭配"
+        },
+        {
+          "value": "grammar",
+          "label": "句子与语法"
+        },
+        {
+          "value": "transfer",
+          "label": "换题独立检查"
+        }
+      ]
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "date",
+      "text": "",
+      "label": "计划复查日期",
+      "href": null,
+      "save": "ww-tourism-next-date",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "下一次具体做什么？到什么状态算完成？",
+      "href": null,
+      "save": "ww-tourism-next-note",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "打开下一题 →",
+      "label": "",
+      "href": "#ww-primary",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "01 审题",
+      "label": "",
+      "href": "#ww-housing-plan",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "02 首稿",
+      "label": "",
+      "href": "#ww-housing-draft",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "03 检查与修订",
+      "label": "",
+      "href": "#ww-housing-review",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "04 再练",
+      "label": "",
+      "href": "#ww-housing-next",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "Cambridge IELTS 21 Academic · Test 1 · Task 2",
+      "label": "",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=31",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "打开原有局部练习与参考",
+      "label": "",
+      "href": "#pr-writing2-housing",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "回到本科学习",
+      "label": "",
+      "href": "#writing2",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "题目核心判断是“有用”还是“最佳”？范围是什么？",
+      "href": null,
+      "save": "ww-housing-plan-1",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "我的程度立场：在哪些条件下成立，哪些不成立？",
+      "href": null,
+      "save": "ww-housing-plan-2",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "主体段 A：高层怎样增加供给？这一机制需要什么条件？",
+      "href": null,
+      "save": "ww-housing-plan-3",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "主体段 B：另一办法或约束如何影响“最佳”的判断？",
+      "href": null,
+      "save": "ww-housing-plan-4",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "需要提示：看一种审题与展开方法",
+      "label": "",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "checkbox",
+      "text": "",
+      "label": "以前写过这题 / 看过答案",
+      "href": null,
+      "save": "ww-housing-seen-before",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "checkbox",
+      "text": "",
+      "label": "本次参考过提示、词典或范例",
+      "href": null,
+      "save": "ww-housing-used-help",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "开始 40 分钟",
+      "label": "",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "重置计时",
+      "label": "",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "hidden",
+      "text": "",
+      "label": "",
+      "href": null,
+      "save": "ww-housing-timer",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "hidden",
+      "text": "",
+      "label": "",
+      "href": null,
+      "save": "ww-housing-first-at",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "首稿 · 保留后锁定，修改在下方进行",
+      "href": null,
+      "save": "ww-housing-first",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "保留首稿，开始修订",
+      "label": "",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SELECT",
+      "id": "",
+      "type": "select-one",
+      "text": "尚未检查发现问题，待修订已核对并处理仍不确定",
+      "label": "检查结果尚未检查发现问题，待修订已核对并处理仍不确定",
+      "href": null,
+      "save": "ww-housing-check-task",
+      "visible": false,
+      "disabled": false,
+      "required": false,
+      "options": [
+        {
+          "value": "unreviewed",
+          "label": "尚未检查"
+        },
+        {
+          "value": "needs-work",
+          "label": "发现问题，待修订"
+        },
+        {
+          "value": "checked",
+          "label": "已核对并处理"
+        },
+        {
+          "value": "uncertain",
+          "label": "仍不确定"
+        }
+      ]
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "证据：摘一句原文 → 问题 / 判断依据 → 怎样改",
+      "href": null,
+      "save": "ww-housing-evidence-task",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SELECT",
+      "id": "",
+      "type": "select-one",
+      "text": "尚未检查发现问题，待修订已核对并处理仍不确定",
+      "label": "检查结果尚未检查发现问题，待修订已核对并处理仍不确定",
+      "href": null,
+      "save": "ww-housing-check-coherence",
+      "visible": false,
+      "disabled": false,
+      "required": false,
+      "options": [
+        {
+          "value": "unreviewed",
+          "label": "尚未检查"
+        },
+        {
+          "value": "needs-work",
+          "label": "发现问题，待修订"
+        },
+        {
+          "value": "checked",
+          "label": "已核对并处理"
+        },
+        {
+          "value": "uncertain",
+          "label": "仍不确定"
+        }
+      ]
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "证据：摘一句原文 → 问题 / 判断依据 → 怎样改",
+      "href": null,
+      "save": "ww-housing-evidence-coherence",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SELECT",
+      "id": "",
+      "type": "select-one",
+      "text": "尚未检查发现问题，待修订已核对并处理仍不确定",
+      "label": "检查结果尚未检查发现问题，待修订已核对并处理仍不确定",
+      "href": null,
+      "save": "ww-housing-check-lexical",
+      "visible": false,
+      "disabled": false,
+      "required": false,
+      "options": [
+        {
+          "value": "unreviewed",
+          "label": "尚未检查"
+        },
+        {
+          "value": "needs-work",
+          "label": "发现问题，待修订"
+        },
+        {
+          "value": "checked",
+          "label": "已核对并处理"
+        },
+        {
+          "value": "uncertain",
+          "label": "仍不确定"
+        }
+      ]
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "证据：摘一句原文 → 问题 / 判断依据 → 怎样改",
+      "href": null,
+      "save": "ww-housing-evidence-lexical",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SELECT",
+      "id": "",
+      "type": "select-one",
+      "text": "尚未检查发现问题，待修订已核对并处理仍不确定",
+      "label": "检查结果尚未检查发现问题，待修订已核对并处理仍不确定",
+      "href": null,
+      "save": "ww-housing-check-grammar",
+      "visible": false,
+      "disabled": false,
+      "required": false,
+      "options": [
+        {
+          "value": "unreviewed",
+          "label": "尚未检查"
+        },
+        {
+          "value": "needs-work",
+          "label": "发现问题，待修订"
+        },
+        {
+          "value": "checked",
+          "label": "已核对并处理"
+        },
+        {
+          "value": "uncertain",
+          "label": "仍不确定"
+        }
+      ]
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "证据：摘一句原文 → 问题 / 判断依据 → 怎样改",
+      "href": null,
+      "save": "ww-housing-evidence-grammar",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "修订稿 · 与首稿分开保存",
+      "href": null,
+      "save": "ww-housing-revision",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "另存本次修订版本",
+      "label": "",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "导出本题作答与反馈请求",
+      "label": "",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "这次最重要的修改：原来是什么、为什么改、现在怎样更清楚？",
+      "href": null,
+      "save": "ww-housing-reason",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "hidden",
+      "text": "",
+      "label": "",
+      "href": null,
+      "save": "ww-housing-versions",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "查看已保留的修订版本",
+      "label": "",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "我的局部练习",
+      "href": null,
+      "save": "ww-housing-micro",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "展开参考与核对方法",
+      "label": "",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SELECT",
+      "id": "",
+      "type": "select-one",
+      "text": "回应题目 / 概览组织与展开词汇与搭配句子与语法换题独立检查",
+      "label": "下次优先处理回应题目 / 概览组织与展开词汇与搭配句子与语法换题独立检查",
+      "href": null,
+      "save": "ww-housing-next-focus",
+      "visible": false,
+      "disabled": false,
+      "required": false,
+      "options": [
+        {
+          "value": "task",
+          "label": "回应题目 / 概览"
+        },
+        {
+          "value": "coherence",
+          "label": "组织与展开"
+        },
+        {
+          "value": "lexical",
+          "label": "词汇与搭配"
+        },
+        {
+          "value": "grammar",
+          "label": "句子与语法"
+        },
+        {
+          "value": "transfer",
+          "label": "换题独立检查"
+        }
+      ]
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "date",
+      "text": "",
+      "label": "计划复查日期",
+      "href": null,
+      "save": "ww-housing-next-date",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "下一次具体做什么？到什么状态算完成？",
+      "href": null,
+      "save": "ww-housing-next-note",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "打开下一题 →",
+      "label": "",
+      "href": "#ww-tourism",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "考试要求与本区用法",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "",
+      "label": "",
+      "href": "https://ielts.org/take-a-test/test-types/ielts-academic-test/ielts-academic-format-writing",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "",
+      "label": "",
+      "href": "https://ielts.org/cdn/ielts-guides/ielts-writing-band-descriptors.pdf",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    }
+  ],
+  "visibleText": "← 返回学习工作台\n\nWRITE · REVIEW · REWRITE\n\n写作工作台\n\n从一份首稿开始，找出一个具体问题，再写得更清楚。\n\nTask 1 与 Task 2 共用审题、写作、检查和修订流程。每道题的记录单独保留。\n\n选一道题，或继续上次作答\nTask 1 · 折线图 · 四行业就业\nTask 1 · 流程图 · 砖块制造\nTask 1 · 平面图 · 学院咖啡厅改造\nTask 2 · 教育 · 小学课堂中的学习与游戏\nTask 2 · 旅游 · 旅游收益与居民成本\nTask 2 · 城市住房 · 高层住宅是否是最佳方案\n学习记录与备份 →\n\n四行业就业 · 尚未开始\n\nTask 1 · 折线图\n四行业就业\n\n选出主要变化，再用成组比较支持概览\n\n01 审题\n02 首稿\n03 检查与修订\n04 再练\n01 / 审题与提纲\nThe graph shows employment in four sectors of the US economy from 1960 to 2020.\n\n题意沿用现有练习文字；正式题面、图示与完整要求以原件为准。Cambridge IELTS 21 Academic · Test 1 · Task 1\n\n打开原有局部练习与参考\n回到本科学习\n\n用自己的话概括与比较图示，至少 150 词，建议约 20 分钟。 可直接开始首稿；提纲为可选准备。\n\n图表范围、单位与时间：我在比较什么？\nOverview：两条最重要的总体变化是什么？\n细节组 A：哪些趋势适合放在一起？写出数据证据。\n细节组 B：相同终点、不同增量，怎样比较？\n需要提示：看一种审题与展开方法\n02 / 留下自己的首稿\n 以前写过这题 / 看过答案\n 本次参考过提示、词典或范例\n20:00\n开始 20 分钟\n重置计时\n到时保留输入，刷新后继续计时。\n首稿 · 保留后锁定，修改在下方进行\n0 词（估算） · 距建议最低字数还差 150 词\n保留首稿，开始修订\n03 / 四维检查与修订\n\n先找一个最影响表达的问题，摘出自己的句子，再修改。检查结果是你的判断，不会换算 band。\n\n任务完成 / 回应 · TA / TR\n\n概览是否概括主要特征？细节是否准确且覆盖关键比较？有没有写图中没有的原因？\n\n检查结果\n尚未检查\n发现问题，待修订\n已核对并处理\n仍不确定\n证据：摘一句原文 → 问题 / 判断依据 → 怎样改\n组织与衔接 · CC\n\n每段是否承担清楚的功能？句子之间关系是否真实？代词指向是否明确？不要只统计连接词。\n\n检查结果\n尚未检查\n发现问题，待修订\n已核对并处理\n仍不确定\n证据：摘一句原文 → 问题 / 判断依据 → 怎样改\n词汇使用 · LR\n\n关键词含义、搭配与拼写是否准确？替换词是否保留原意？优先修正用错的词。\n\n检查结果\n尚未检查\n发现问题，待修订\n已核对并处理\n仍不确定\n证据：摘一句原文 → 问题 / 判断依据 → 怎样改\n语法范围与准确性 · GRA\n\n时态、主谓、冠词与标点是否正确？复杂句是否表达需要的关系？检查一条复杂句与一条简单句。\n\n检查结果\n尚未检查\n发现问题，待修订\n已核对并处理\n仍不确定\n证据：摘一句原文 → 问题 / 判断依据 → 怎样改\n修订稿 · 与首稿分开保存\n0 词（估算） · 距建议最低字数还差 150 词\n另存本次修订版本\n导出本题作答与反馈请求\n这次最重要的修改：原来是什么、为什么改、现在怎样更清楚？\n查看已保留的修订版本\n04 / 只练一个动作，再换题检查\n\n用两句写 overview：一条写最大行业的变化，一条写农业的整体走势。先不列逐年数字。\n\n我的局部练习\n展开参考与核对方法\n下次优先处理\n回应题目 / 概览\n组织与展开\n词汇与搭配\n句子与语法\n换题独立检查\n计划复查日期\n重看原图，在不列细节数字的情况下写两句概览，再逐项核对是否概括主要特征。\n下一次具体做什么？到什么状态算完成？\n\n换到砖块流程图，只写两句总览；检查你能否根据图的类型改变概览方式。 打开下一题 →\n\n同题修订属于熟题练习；新题是否真的未见，请按自己的接触情况记录。\n\n所有输入随本册「备份学习记录」保存；本题导出包含首稿、修订、检查证据与反馈请求。这里提供自检与修订工具，不自动评分。\n\n考试要求与本区用法",
+  "allContent": "← 返回学习工作台WRITE · REVIEW · REWRITE写作工作台从一份首稿开始，找出一个具体问题，再写得更清楚。Task 1 与 Task 2 共用审题、写作、检查和修订流程。每道题的记录单独保留。\n选一道题，或继续上次作答Task 1 · 折线图 · 四行业就业Task 1 · 流程图 · 砖块制造Task 1 · 平面图 · 学院咖啡厅改造Task 2 · 教育 · 小学课堂中的学习与游戏Task 2 · 旅游 · 旅游收益与居民成本Task 2 · 城市住房 · 高层住宅是否是最佳方案学习记录与备份 →四行业就业 · 尚未开始\n\nTask 1 · 折线图四行业就业选出主要变化，再用成组比较支持概览\n01 审题02 首稿03 检查与修订04 再练\n01 / 审题与提纲The graph shows employment in four sectors of the US economy from 1960 to 2020.\n题意沿用现有练习文字；正式题面、图示与完整要求以原件为准。Cambridge IELTS 21 Academic · Test 1 · Task 1\n打开原有局部练习与参考回到本科学习\n用自己的话概括与比较图示，至少 150 词，建议约 20 分钟。 可直接开始首稿；提纲为可选准备。\n图表范围、单位与时间：我在比较什么？Overview：两条最重要的总体变化是什么？细节组 A：哪些趋势适合放在一起？写出数据证据。细节组 B：相同终点、不同增量，怎样比较？\n需要提示：看一种审题与展开方法先分清净变化与中途峰值：制造业从 15 到 13 million，净减少 2 million；不能把 1980 年峰值 20 到终点 13 的差当作全期净变化。零售和医疗都在 16 million 结束，但分别从 6 与 2 起步。概览突出主导行业改变与农业整体下降，细节段再用数字支持。Retail and healthcare both employed sixteen million people in 2020, although healthcare had started from a much lower base.这句把共同终点与不同起点放在同一个比较里。它不能替代整篇概览，也不解释图中未给出的社会原因。以上为本地教学示范，不是官方范文或评分。\n\n02 / 留下自己的首稿 以前写过这题 / 看过答案 本次参考过提示、词典或范例\n20:00开始 20 分钟重置计时到时保留输入，刷新后继续计时。\n首稿 · 保留后锁定，修改在下方进行\n0 词（估算） · 距建议最低字数还差 150 词保留首稿，开始修订\n\n03 / 四维检查与修订先找一个最影响表达的问题，摘出自己的句子，再修改。检查结果是你的判断，不会换算 band。任务完成 / 回应 · TA / TR概览是否概括主要特征？细节是否准确且覆盖关键比较？有没有写图中没有的原因？检查结果尚未检查发现问题，待修订已核对并处理仍不确定证据：摘一句原文 → 问题 / 判断依据 → 怎样改组织与衔接 · CC每段是否承担清楚的功能？句子之间关系是否真实？代词指向是否明确？不要只统计连接词。检查结果尚未检查发现问题，待修订已核对并处理仍不确定证据：摘一句原文 → 问题 / 判断依据 → 怎样改词汇使用 · LR关键词含义、搭配与拼写是否准确？替换词是否保留原意？优先修正用错的词。检查结果尚未检查发现问题，待修订已核对并处理仍不确定证据：摘一句原文 → 问题 / 判断依据 → 怎样改语法范围与准确性 · GRA时态、主谓、冠词与标点是否正确？复杂句是否表达需要的关系？检查一条复杂句与一条简单句。检查结果尚未检查发现问题，待修订已核对并处理仍不确定证据：摘一句原文 → 问题 / 判断依据 → 怎样改\n修订稿 · 与首稿分开保存\n0 词（估算） · 距建议最低字数还差 150 词另存本次修订版本导出本题作答与反馈请求\n这次最重要的修改：原来是什么、为什么改、现在怎样更清楚？\n查看已保留的修订版本尚未另存修订版本。当前修订稿仍会自动保存。\n04 / 只练一个动作，再换题检查用两句写 overview：一条写最大行业的变化，一条写农业的整体走势。先不列逐年数字。我的局部练习\n展开参考与核对方法Manufacturing was the largest employer at the beginning, but retail and healthcare had both overtaken it by 2020. Agricultural employment declined overall and was the lowest at the end of the period.参考为编写内容；有其他准确且满足要求的表达。\n下次优先处理回应题目 / 概览组织与展开词汇与搭配句子与语法换题独立检查计划复查日期\n重看原图，在不列细节数字的情况下写两句概览，再逐项核对是否概括主要特征。下一次具体做什么？到什么状态算完成？\n换到砖块流程图，只写两句总览；检查你能否根据图的类型改变概览方式。 打开下一题 →\n同题修订属于熟题练习；新题是否真的未见，请按自己的接触情况记录。\nTask 1 · 流程图砖块制造区分顺序与分支，准确描述工序\n01 审题02 首稿03 检查与修订04 再练\n01 / 审题与提纲The diagram presents the manufacture of bricks for construction.\n题意沿用现有练习文字；正式题面、图示与完整要求以原件为准。IELTS Academic Writing Sample Tasks (2023) · Task 1C\n打开原有局部练习与参考回到本科学习\n用自己的话概括与比较图示，至少 150 词，建议约 20 分钟。 可直接开始首稿；提纲为可选准备。\n起点、终点与整体性质：原料怎样变成成品？Overview：如何概括主要阶段，而不逐个抄标签？前半程：两种成形方式是什么关系？后半程：温度与时长分别属于哪一步？\n需要提示：看一种审题与展开方法先沿箭头走一遍：成形有 wire cutter 与 mould 两条路径，随后都进入干燥，并非每块砖先切再压。温度属于两段 kiln，24–48 hours 属于干燥，48–72 hours 属于冷却。总览可以概括从取土到配送的工业过程，不必机械数出可能有歧义的步骤总数。The clay mixture is shaped into bricks either with a wire cutter or in moulds before being dried for 24 to 48 hours.either ... or ... 表达备选成形路径，before 表达共同后续步骤。被动语态把砖与原料放在信息中心，但不要求每一句都用被动。以上为本地教学示范，不是官方范文或评分。\n\n02 / 留下自己的首稿 以前写过这题 / 看过答案 本次参考过提示、词典或范例\n20:00开始 20 分钟重置计时到时保留输入，刷新后继续计时。\n首稿 · 保留后锁定，修改在下方进行\n0 词（估算） · 距建议最低字数还差 150 词保留首稿，开始修订\n\n03 / 四维检查与修订先找一个最影响表达的问题，摘出自己的句子，再修改。检查结果是你的判断，不会换算 band。任务完成 / 回应 · TA / TR概览是否概括主要特征？细节是否准确且覆盖关键比较？有没有写图中没有的原因？检查结果尚未检查发现问题，待修订已核对并处理仍不确定证据：摘一句原文 → 问题 / 判断依据 → 怎样改组织与衔接 · CC每段是否承担清楚的功能？句子之间关系是否真实？代词指向是否明确？不要只统计连接词。检查结果尚未检查发现问题，待修订已核对并处理仍不确定证据：摘一句原文 → 问题 / 判断依据 → 怎样改词汇使用 · LR关键词含义、搭配与拼写是否准确？替换词是否保留原意？优先修正用错的词。检查结果尚未检查发现问题，待修订已核对并处理仍不确定证据：摘一句原文 → 问题 / 判断依据 → 怎样改语法范围与准确性 · GRA时态、主谓、冠词与标点是否正确？复杂句是否表达需要的关系？检查一条复杂句与一条简单句。检查结果尚未检查发现问题，待修订已核对并处理仍不确定证据：摘一句原文 → 问题 / 判断依据 → 怎样改\n修订稿 · 与首稿分开保存\n0 词（估算） · 距建议最低字数还差 150 词另存本次修订版本导出本题作答与反馈请求\n这次最重要的修改：原来是什么、为什么改、现在怎样更清楚？\n查看已保留的修订版本尚未另存修订版本。当前修订稿仍会自动保存。\n04 / 只练一个动作，再换题检查写两句，描述干燥之后、包装之前的流程。保留两段温度与冷却时间，不推算完整工期。我的局部练习\n展开参考与核对方法The dried bricks pass through a kiln at a moderate temperature of 200–980°C and then at a higher temperature of 870–1300°C. They are subsequently cooled in a chamber for 48–72 hours.参考为编写内容；有其他准确且满足要求的表达。\n下次优先处理回应题目 / 概览组织与展开词汇与搭配句子与语法换题独立检查计划复查日期\n重看原图，在不列细节数字的情况下写两句概览，再逐项核对是否概括主要特征。下一次具体做什么？到什么状态算完成？\n换到咖啡厅平面图，只写总览和两条位置变化；不要沿用制造过程的时间顺序。 打开下一题 →\n同题修订属于熟题练习；新题是否真的未见，请按自己的接触情况记录。\nTask 1 · 平面图学院咖啡厅改造用空间分组呈现变化，避免逐项罗列\n01 审题02 首稿03 检查与修订04 再练\n01 / 审题与提纲The plans show a college café before its redesign and at present.\n题意沿用现有练习文字；正式题面、图示与完整要求以原件为准。Cambridge IELTS 21 Academic · Test 2 · Task 1\n打开原有局部练习与参考回到本科学习\n用自己的话概括与比较图示，至少 150 词，建议约 20 分钟。 可直接开始首稿；提纲为可选准备。\n两张图的时间关系与场所用途是什么？Overview：最显著的整体布局变化有哪些？细节组 A：选一个区域，记录新增、移除或搬迁的设施。细节组 B：另一地区怎样变化？哪些设施保持原位？\n需要提示：看一种审题与展开方法先在原图核对每个设施的旧位置和新位置，再选择按区域或按功能分段。只有旧设施消失、同处出现新设施，才使用 replaced by；设施仍在但改到别处，用 relocated 或 moved。图未给出方位标时，用 to the left of、near the entrance 等实际可见参照，不自行指定东西南北。The seating area has been relocated closer to the entrance.这只是“设施搬迁”的表达示范，并非对本题图面的事实断言。写进作文前，必须核对图中是否真的同时显示搬迁与靠近入口。以上为本地教学示范，不是官方范文或评分。\n\n02 / 留下自己的首稿 以前写过这题 / 看过答案 本次参考过提示、词典或范例\n20:00开始 20 分钟重置计时到时保留输入，刷新后继续计时。\n首稿 · 保留后锁定，修改在下方进行\n0 词（估算） · 距建议最低字数还差 150 词保留首稿，开始修订\n\n03 / 四维检查与修订先找一个最影响表达的问题，摘出自己的句子，再修改。检查结果是你的判断，不会换算 band。任务完成 / 回应 · TA / TR概览是否概括主要特征？细节是否准确且覆盖关键比较？有没有写图中没有的原因？检查结果尚未检查发现问题，待修订已核对并处理仍不确定证据：摘一句原文 → 问题 / 判断依据 → 怎样改组织与衔接 · CC每段是否承担清楚的功能？句子之间关系是否真实？代词指向是否明确？不要只统计连接词。检查结果尚未检查发现问题，待修订已核对并处理仍不确定证据：摘一句原文 → 问题 / 判断依据 → 怎样改词汇使用 · LR关键词含义、搭配与拼写是否准确？替换词是否保留原意？优先修正用错的词。检查结果尚未检查发现问题，待修订已核对并处理仍不确定证据：摘一句原文 → 问题 / 判断依据 → 怎样改语法范围与准确性 · GRA时态、主谓、冠词与标点是否正确？复杂句是否表达需要的关系？检查一条复杂句与一条简单句。检查结果尚未检查发现问题，待修订已核对并处理仍不确定证据：摘一句原文 → 问题 / 判断依据 → 怎样改\n修订稿 · 与首稿分开保存\n0 词（估算） · 距建议最低字数还差 150 词另存本次修订版本导出本题作答与反馈请求\n这次最重要的修改：原来是什么、为什么改、现在怎样更清楚？\n查看已保留的修订版本尚未另存修订版本。当前修订稿仍会自动保存。\n04 / 只练一个动作，再换题检查从原图找一处确定的改动，分别记录旧位置、新位置，再写一句比较；另写一句总览。我的局部练习\n展开参考与核对方法核对标准：两个位置都有原图依据；变化动词与图相符；总览概括整体变化，不只重复某一个设施名称。本题没有唯一写法，返回原图逐项核对。参考为编写内容；有其他准确且满足要求的表达。\n下次优先处理回应题目 / 概览组织与展开词汇与搭配句子与语法换题独立检查计划复查日期\n重看原图，在不列细节数字的情况下写两句概览，再逐项核对是否概括主要特征。下一次具体做什么？到什么状态算完成？\n换到就业折线图，只写一条静态比较和一条动态变化，检查是否能正确切换表达。 打开下一题 →\n同题修订属于熟题练习；新题是否真的未见，请按自己的接触情况记录。\nTask 2 · 教育小学课堂中的学习与游戏回应两个问题，并把游戏的价值写成因果链\n01 审题02 首稿03 检查与修订04 再练\n01 / 审题与提纲Some people argue that primary schools focus too much on formal learning. To what extent do you agree with this opinion? How important do you think it is for children to play as well as learn in the primary school classroom?\n题意沿用现有练习文字；正式题面、图示与完整要求以原件为准。Cambridge IELTS 21 Academic · Test 4 · Task 2\n打开原有局部练习与参考回到本科学习\n回应题目，用理由与例子支持立场，至少 250 词，建议约 40 分钟。 可直接开始首稿；提纲为可选准备。\n题目有几个问题？分别要求我判断什么？我的完整立场：对 formal learning 的程度判断 + 游戏的重要性。主体段 A：一个理由 → 为什么成立 → 课堂例子。主体段 B：如何补足另一问？可接受的边界是什么？\n需要提示：看一种审题与展开方法“游戏有用”没有直接回答学校是否过分重视正式学习。先写清赞同程度，再解释游戏在课堂里承担什么功能。发展理由时，把抽象结果拆成可观察过程：儿童轮流参与游戏 → 必须倾听同伴并协商规则 → 有机会练习协作。例子应支持这个过程，不必编造调查比例。Structured games can complement formal lessons because children have to listen to one another and agree on rules. For example, a small-group shop game gives pupils a reason to practise numbers while taking turns as customers and sellers.这是自编假设课堂例子：它连接活动、机制与学习结果，没有把“有趣”直接等同“有效”。完整文章仍需明确回答两问并维持立场。以上为本地教学示范，不是官方范文或评分。\n\n02 / 留下自己的首稿 以前写过这题 / 看过答案 本次参考过提示、词典或范例\n40:00开始 40 分钟重置计时到时保留输入，刷新后继续计时。\n首稿 · 保留后锁定，修改在下方进行\n0 词（估算） · 距建议最低字数还差 250 词保留首稿，开始修订\n\n03 / 四维检查与修订先找一个最影响表达的问题，摘出自己的句子，再修改。检查结果是你的判断，不会换算 band。任务完成 / 回应 · TA / TR所有问句是否回应？立场是否一直清楚？理由是否解释了为什么，并有相关例子或证据？检查结果尚未检查发现问题，待修订已核对并处理仍不确定证据：摘一句原文 → 问题 / 判断依据 → 怎样改组织与衔接 · CC每段是否承担清楚的功能？句子之间关系是否真实？代词指向是否明确？不要只统计连接词。检查结果尚未检查发现问题，待修订已核对并处理仍不确定证据：摘一句原文 → 问题 / 判断依据 → 怎样改词汇使用 · LR关键词含义、搭配与拼写是否准确？替换词是否保留原意？优先修正用错的词。检查结果尚未检查发现问题，待修订已核对并处理仍不确定证据：摘一句原文 → 问题 / 判断依据 → 怎样改语法范围与准确性 · GRA时态、主谓、冠词与标点是否正确？复杂句是否表达需要的关系？检查一条复杂句与一条简单句。检查结果尚未检查发现问题，待修订已核对并处理仍不确定证据：摘一句原文 → 问题 / 判断依据 → 怎样改\n修订稿 · 与首稿分开保存\n0 词（估算） · 距建议最低字数还差 250 词另存本次修订版本导出本题作答与反馈请求\n这次最重要的修改：原来是什么、为什么改、现在怎样更清楚？\n查看已保留的修订版本尚未另存修订版本。当前修订稿仍会自动保存。\n04 / 只练一个动作，再换题检查写 2–3 句立场与理由，同时回答两问；随后用一句说明什么情况下游戏不能替代直接讲授。我的局部练习\n展开参考与核对方法一种可行方向：部分学校过度依赖正式训练；有结构的游戏对语言与合作练习重要，但新概念仍需要清楚讲授。核对你的句子是否明确包含程度、重要性和边界，而不只说 play is useful。参考为编写内容；有其他准确且满足要求的表达。\n下次优先处理回应题目 / 概览组织与展开词汇与搭配句子与语法换题独立检查计划复查日期\n把题目每个问句单独列出；为每一问写一句明确回答，再核对首稿有没有漏答。下一次具体做什么？到什么状态算完成？\n换到高层住宅题，先圈定 best，再用一句比较性立场回应；不要只说高层有优点。 打开下一题 →\n同题修订属于熟题练习；新题是否真的未见，请按自己的接触情况记录。\nTask 2 · 旅游旅游收益与居民成本比较利弊的分量，说明为什么一方更重要\n01 审题02 首稿03 检查与修订04 再练\n01 / 审题与提纲International tourism has brought enormous benefit to many places. At the same time, there is concern about its impact on local inhabitants and the environment. Do the disadvantages of international tourism outweigh the advantages?\n题意沿用现有练习文字；正式题面、图示与完整要求以原件为准。IELTS Academic Writing Sample Tasks (2023) · Task 2B\n打开原有局部练习与参考回到本科学习\n回应题目，用理由与例子支持立场，至少 250 词，建议约 40 分钟。 可直接开始首稿；提纲为可选准备。\noutweigh 要求什么判断？涉及哪些受影响对象？我的结论：哪一方更重？比较依据是什么？优势段：收益 → 作用机制 → 对谁有利？不利段与权衡：持续时间、影响范围或可缓解程度如何比较？\n需要提示：看一种审题与展开方法两边各列两个点不等于完成 outweigh。选择一条比较尺度，例如影响持续多久、影响谁、能否缓解，并在结论中解释为何这使一方更重。承认旅游创造收入后，可进一步问：收入是否留在当地、住房压力是否持续。政策例子是论证中的假设条件，不能当作题目已给出的事实。Tourism can support local shops, but this benefit may be seasonal. If homes are converted into holiday rentals throughout the year, residents may face a more persistent cost than the temporary jobs can offset.这是自编假设情境。seasonal 与 persistent 提供同一比较尺度；if 和 may 保留条件，避免把所有旅游城市说成同一种情况。以上为本地教学示范，不是官方范文或评分。\n\n02 / 留下自己的首稿 以前写过这题 / 看过答案 本次参考过提示、词典或范例\n40:00开始 40 分钟重置计时到时保留输入，刷新后继续计时。\n首稿 · 保留后锁定，修改在下方进行\n0 词（估算） · 距建议最低字数还差 250 词保留首稿，开始修订\n\n03 / 四维检查与修订先找一个最影响表达的问题，摘出自己的句子，再修改。检查结果是你的判断，不会换算 band。任务完成 / 回应 · TA / TR所有问句是否回应？立场是否一直清楚？理由是否解释了为什么，并有相关例子或证据？检查结果尚未检查发现问题，待修订已核对并处理仍不确定证据：摘一句原文 → 问题 / 判断依据 → 怎样改组织与衔接 · CC每段是否承担清楚的功能？句子之间关系是否真实？代词指向是否明确？不要只统计连接词。检查结果尚未检查发现问题，待修订已核对并处理仍不确定证据：摘一句原文 → 问题 / 判断依据 → 怎样改词汇使用 · LR关键词含义、搭配与拼写是否准确？替换词是否保留原意？优先修正用错的词。检查结果尚未检查发现问题，待修订已核对并处理仍不确定证据：摘一句原文 → 问题 / 判断依据 → 怎样改语法范围与准确性 · GRA时态、主谓、冠词与标点是否正确？复杂句是否表达需要的关系？检查一条复杂句与一条简单句。检查结果尚未检查发现问题，待修订已核对并处理仍不确定证据：摘一句原文 → 问题 / 判断依据 → 怎样改\n修订稿 · 与首稿分开保存\n0 词（估算） · 距建议最低字数还差 250 词另存本次修订版本导出本题作答与反馈请求\n这次最重要的修改：原来是什么、为什么改、现在怎样更清楚？\n查看已保留的修订版本尚未另存修订版本。当前修订稿仍会自动保存。\n04 / 只练一个动作，再换题检查用 60–80 词写一个权衡段：承认一项收益，说明一项居民成本，再明确为何其中一项更重。我的局部练习\n展开参考与核对方法自核：有一项明确收益、一项明确成本、一条共同比较尺度，以及权衡结论。若只写 However tourism also causes pollution，再罗列另一点，还需要补上为何更重。参考为编写内容；有其他准确且满足要求的表达。\n下次优先处理回应题目 / 概览组织与展开词汇与搭配句子与语法换题独立检查计划复查日期\n把题目每个问句单独列出；为每一问写一句明确回答，再核对首稿有没有漏答。下一次具体做什么？到什么状态算完成？\n换到小学课堂题，用同样的“条件—机制—结果”写一个游戏例子；这次必须回应两问。 打开下一题 →\n同题修订属于熟题练习；新题是否真的未见，请按自己的接触情况记录。\nTask 2 · 城市住房高层住宅是否是最佳方案辨清 best 的比较要求，补足条件与因果\n01 审题02 首稿03 检查与修订04 再练\n01 / 审题与提纲The best way to provide enough homes in large cities is to build tall apartment blocks. To what extent do you agree or disagree with this statement?\n题意沿用现有练习文字；正式题面、图示与完整要求以原件为准。Cambridge IELTS 21 Academic · Test 1 · Task 2\n打开原有局部练习与参考回到本科学习\n回应题目，用理由与例子支持立场，至少 250 词，建议约 40 分钟。 可直接开始首稿；提纲为可选准备。\n题目核心判断是“有用”还是“最佳”？范围是什么？我的程度立场：在哪些条件下成立，哪些不成立？主体段 A：高层怎样增加供给？这一机制需要什么条件？主体段 B：另一办法或约束如何影响“最佳”的判断？\n需要提示：看一种审题与展开方法“一栋楼能容纳更多住户”支持用地效率，却不能单独证明所有城市都应建高层，也不能保证房价下降。先区分供给数量与可负担性，再比较土地、基础设施与成本等条件。选少量相关条件展开，比列出许多没有解释的城市问题更有用。Tall apartment blocks can accommodate more households on a limited site, which makes them useful in areas where land is scarce. However, this does not automatically make housing affordable, because construction and maintenance costs may still be high.自编教学例句先说明机制，再限定推论。which 指向前句的空间效率；however 转向可负担性。文章还需解释这些条件如何影响最佳方案的判断。以上为本地教学示范，不是官方范文或评分。\n\n02 / 留下自己的首稿 以前写过这题 / 看过答案 本次参考过提示、词典或范例\n40:00开始 40 分钟重置计时到时保留输入，刷新后继续计时。\n首稿 · 保留后锁定，修改在下方进行\n0 词（估算） · 距建议最低字数还差 250 词保留首稿，开始修订\n\n03 / 四维检查与修订先找一个最影响表达的问题，摘出自己的句子，再修改。检查结果是你的判断，不会换算 band。任务完成 / 回应 · TA / TR所有问句是否回应？立场是否一直清楚？理由是否解释了为什么，并有相关例子或证据？检查结果尚未检查发现问题，待修订已核对并处理仍不确定证据：摘一句原文 → 问题 / 判断依据 → 怎样改组织与衔接 · CC每段是否承担清楚的功能？句子之间关系是否真实？代词指向是否明确？不要只统计连接词。检查结果尚未检查发现问题，待修订已核对并处理仍不确定证据：摘一句原文 → 问题 / 判断依据 → 怎样改词汇使用 · LR关键词含义、搭配与拼写是否准确？替换词是否保留原意？优先修正用错的词。检查结果尚未检查发现问题，待修订已核对并处理仍不确定证据：摘一句原文 → 问题 / 判断依据 → 怎样改语法范围与准确性 · GRA时态、主谓、冠词与标点是否正确？复杂句是否表达需要的关系？检查一条复杂句与一条简单句。检查结果尚未检查发现问题，待修订已核对并处理仍不确定证据：摘一句原文 → 问题 / 判断依据 → 怎样改\n修订稿 · 与首稿分开保存\n0 词（估算） · 距建议最低字数还差 250 词另存本次修订版本导出本题作答与反馈请求\n这次最重要的修改：原来是什么、为什么改、现在怎样更清楚？\n查看已保留的修订版本尚未另存修订版本。当前修订稿仍会自动保存。\n04 / 只练一个动作，再换题检查改写 Tall buildings contain more homes, so they are the best solution everywhere and will make housing affordable. 保留合理优点，删除无依据的绝对推论，补一个条件。我的局部练习\n展开参考与核对方法Tall apartment blocks can help cities provide more homes where land is scarce, although their affordability depends partly on construction costs and the type of housing supplied.参考为编写内容；有其他准确且满足要求的表达。\n下次优先处理回应题目 / 概览组织与展开词汇与搭配句子与语法换题独立检查计划复查日期\n把题目每个问句单独列出；为每一问写一句明确回答，再核对首稿有没有漏答。下一次具体做什么？到什么状态算完成？\n换到旅游题，写一句明确的利弊权衡，再为结论补一条比较依据。 打开下一题 →\n同题修订属于熟题练习；新题是否真的未见，请按自己的接触情况记录。\n所有输入随本册「备份学习记录」保存；本题导出包含首稿、修订、检查证据与反馈请求。这里提供自检与修订工具，不自动评分。考试要求与本区用法Academic Writing 共 60 分钟，两题都要完成。Task 1 至少 150 词、约 20 分钟；Task 2 至少 250 词、约 40 分钟。Task 2 对写作成绩的权重为 Task 1 的两倍。这里的计时可暂停，用于练习。计数按英文单词、数字及常见缩写估算，不代表考试系统的精确计数。查看提示后请保留“参考过帮助”记录。IELTS 官方考试要求 · 官方四维评分描述",
+  "links": [
+    {
+      "text": "← 返回学习工作台",
+      "href": "#workspace"
+    },
+    {
+      "text": "学习记录与备份 →",
+      "href": "#records"
+    },
+    {
+      "text": "01 审题",
+      "href": "#ww-jobs-plan"
+    },
+    {
+      "text": "02 首稿",
+      "href": "#ww-jobs-draft"
+    },
+    {
+      "text": "03 检查与修订",
+      "href": "#ww-jobs-review"
+    },
+    {
+      "text": "04 再练",
+      "href": "#ww-jobs-next"
+    },
+    {
+      "text": "Cambridge IELTS 21 Academic · Test 1 · Task 1",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=30"
+    },
+    {
+      "text": "打开原有局部练习与参考",
+      "href": "#pr-writing1-jobs"
+    },
+    {
+      "text": "回到本科学习",
+      "href": "#writing1"
+    },
+    {
+      "text": "打开下一题 →",
+      "href": "#ww-bricks"
+    },
+    {
+      "text": "01 审题",
+      "href": "#ww-bricks-plan"
+    },
+    {
+      "text": "02 首稿",
+      "href": "#ww-bricks-draft"
+    },
+    {
+      "text": "03 检查与修订",
+      "href": "#ww-bricks-review"
+    },
+    {
+      "text": "04 再练",
+      "href": "#ww-bricks-next"
+    },
+    {
+      "text": "IELTS Academic Writing Sample Tasks (2023) · Task 1C",
+      "href": "case-assets/writing-official-sample-tasks-2023.pdf#page=5"
+    },
+    {
+      "text": "打开原有局部练习与参考",
+      "href": "#pr-writing1-bricks"
+    },
+    {
+      "text": "回到本科学习",
+      "href": "#writing1"
+    },
+    {
+      "text": "打开下一题 →",
+      "href": "#ww-cafe"
+    },
+    {
+      "text": "01 审题",
+      "href": "#ww-cafe-plan"
+    },
+    {
+      "text": "02 首稿",
+      "href": "#ww-cafe-draft"
+    },
+    {
+      "text": "03 检查与修订",
+      "href": "#ww-cafe-review"
+    },
+    {
+      "text": "04 再练",
+      "href": "#ww-cafe-next"
+    },
+    {
+      "text": "Cambridge IELTS 21 Academic · Test 2 · Task 1",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=52"
+    },
+    {
+      "text": "打开原有局部练习与参考",
+      "href": "#pr-writing1-cafe"
+    },
+    {
+      "text": "回到本科学习",
+      "href": "#writing1"
+    },
+    {
+      "text": "打开下一题 →",
+      "href": "#ww-jobs"
+    },
+    {
+      "text": "01 审题",
+      "href": "#ww-primary-plan"
+    },
+    {
+      "text": "02 首稿",
+      "href": "#ww-primary-draft"
+    },
+    {
+      "text": "03 检查与修订",
+      "href": "#ww-primary-review"
+    },
+    {
+      "text": "04 再练",
+      "href": "#ww-primary-next"
+    },
+    {
+      "text": "Cambridge IELTS 21 Academic · Test 4 · Task 2",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=96"
+    },
+    {
+      "text": "打开原有局部练习与参考",
+      "href": "#pr-writing2-primary"
+    },
+    {
+      "text": "回到本科学习",
+      "href": "#writing2"
+    },
+    {
+      "text": "打开下一题 →",
+      "href": "#ww-housing"
+    },
+    {
+      "text": "01 审题",
+      "href": "#ww-tourism-plan"
+    },
+    {
+      "text": "02 首稿",
+      "href": "#ww-tourism-draft"
+    },
+    {
+      "text": "03 检查与修订",
+      "href": "#ww-tourism-review"
+    },
+    {
+      "text": "04 再练",
+      "href": "#ww-tourism-next"
+    },
+    {
+      "text": "IELTS Academic Writing Sample Tasks (2023) · Task 2B",
+      "href": "case-assets/writing-official-sample-tasks-2023.pdf#page=7"
+    },
+    {
+      "text": "打开原有局部练习与参考",
+      "href": "#pr-writing2-tourism"
+    },
+    {
+      "text": "回到本科学习",
+      "href": "#writing2"
+    },
+    {
+      "text": "打开下一题 →",
+      "href": "#ww-primary"
+    },
+    {
+      "text": "01 审题",
+      "href": "#ww-housing-plan"
+    },
+    {
+      "text": "02 首稿",
+      "href": "#ww-housing-draft"
+    },
+    {
+      "text": "03 检查与修订",
+      "href": "#ww-housing-review"
+    },
+    {
+      "text": "04 再练",
+      "href": "#ww-housing-next"
+    },
+    {
+      "text": "Cambridge IELTS 21 Academic · Test 1 · Task 2",
+      "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=31"
+    },
+    {
+      "text": "打开原有局部练习与参考",
+      "href": "#pr-writing2-housing"
+    },
+    {
+      "text": "回到本科学习",
+      "href": "#writing2"
+    },
+    {
+      "text": "打开下一题 →",
+      "href": "#ww-tourism"
+    },
+    {
+      "text": "IELTS 官方考试要求",
+      "href": "https://ielts.org/take-a-test/test-types/ielts-academic-test/ielts-academic-format-writing"
+    },
+    {
+      "text": "官方四维评分描述",
+      "href": "https://ielts.org/cdn/ielts-guides/ielts-writing-band-descriptors.pdf"
+    }
+  ],
+  "details": [
+    {
+      "id": "",
+      "title": "需要提示：看一种审题与展开方法",
+      "open": false,
+      "visible": true
+    },
+    {
+      "id": "",
+      "title": "查看已保留的修订版本",
+      "open": false,
+      "visible": true
+    },
+    {
+      "id": "",
+      "title": "展开参考与核对方法",
+      "open": false,
+      "visible": true
+    },
+    {
+      "id": "",
+      "title": "需要提示：看一种审题与展开方法",
+      "open": false,
+      "visible": false
+    },
+    {
+      "id": "",
+      "title": "查看已保留的修订版本",
+      "open": false,
+      "visible": false
+    },
+    {
+      "id": "",
+      "title": "展开参考与核对方法",
+      "open": false,
+      "visible": false
+    },
+    {
+      "id": "",
+      "title": "需要提示：看一种审题与展开方法",
+      "open": false,
+      "visible": false
+    },
+    {
+      "id": "",
+      "title": "查看已保留的修订版本",
+      "open": false,
+      "visible": false
+    },
+    {
+      "id": "",
+      "title": "展开参考与核对方法",
+      "open": false,
+      "visible": false
+    },
+    {
+      "id": "",
+      "title": "需要提示：看一种审题与展开方法",
+      "open": false,
+      "visible": false
+    },
+    {
+      "id": "",
+      "title": "查看已保留的修订版本",
+      "open": false,
+      "visible": false
+    },
+    {
+      "id": "",
+      "title": "展开参考与核对方法",
+      "open": false,
+      "visible": false
+    },
+    {
+      "id": "",
+      "title": "需要提示：看一种审题与展开方法",
+      "open": false,
+      "visible": false
+    },
+    {
+      "id": "",
+      "title": "查看已保留的修订版本",
+      "open": false,
+      "visible": false
+    },
+    {
+      "id": "",
+      "title": "展开参考与核对方法",
+      "open": false,
+      "visible": false
+    },
+    {
+      "id": "",
+      "title": "需要提示：看一种审题与展开方法",
+      "open": false,
+      "visible": false
+    },
+    {
+      "id": "",
+      "title": "查看已保留的修订版本",
+      "open": false,
+      "visible": false
+    },
+    {
+      "id": "",
+      "title": "展开参考与核对方法",
+      "open": false,
+      "visible": false
+    },
+    {
+      "id": "",
+      "title": "考试要求与本区用法",
+      "open": false,
+      "visible": true
+    }
+  ],
+  "saveFields": [
+    "ww-active-task",
+    "ww-jobs-plan-1",
+    "ww-jobs-plan-2",
+    "ww-jobs-plan-3",
+    "ww-jobs-plan-4",
+    "ww-jobs-seen-before",
+    "ww-jobs-used-help",
+    "ww-jobs-timer",
+    "ww-jobs-first-at",
+    "ww-jobs-first",
+    "ww-jobs-check-task",
+    "ww-jobs-evidence-task",
+    "ww-jobs-check-coherence",
+    "ww-jobs-evidence-coherence",
+    "ww-jobs-check-lexical",
+    "ww-jobs-evidence-lexical",
+    "ww-jobs-check-grammar",
+    "ww-jobs-evidence-grammar",
+    "ww-jobs-revision",
+    "ww-jobs-reason",
+    "ww-jobs-versions",
+    "ww-jobs-micro",
+    "ww-jobs-next-focus",
+    "ww-jobs-next-date",
+    "ww-jobs-next-note",
+    "ww-bricks-plan-1",
+    "ww-bricks-plan-2",
+    "ww-bricks-plan-3",
+    "ww-bricks-plan-4",
+    "ww-bricks-seen-before",
+    "ww-bricks-used-help",
+    "ww-bricks-timer",
+    "ww-bricks-first-at",
+    "ww-bricks-first",
+    "ww-bricks-check-task",
+    "ww-bricks-evidence-task",
+    "ww-bricks-check-coherence",
+    "ww-bricks-evidence-coherence",
+    "ww-bricks-check-lexical",
+    "ww-bricks-evidence-lexical",
+    "ww-bricks-check-grammar",
+    "ww-bricks-evidence-grammar",
+    "ww-bricks-revision",
+    "ww-bricks-reason",
+    "ww-bricks-versions",
+    "ww-bricks-micro",
+    "ww-bricks-next-focus",
+    "ww-bricks-next-date",
+    "ww-bricks-next-note",
+    "ww-cafe-plan-1",
+    "ww-cafe-plan-2",
+    "ww-cafe-plan-3",
+    "ww-cafe-plan-4",
+    "ww-cafe-seen-before",
+    "ww-cafe-used-help",
+    "ww-cafe-timer",
+    "ww-cafe-first-at",
+    "ww-cafe-first",
+    "ww-cafe-check-task",
+    "ww-cafe-evidence-task",
+    "ww-cafe-check-coherence",
+    "ww-cafe-evidence-coherence",
+    "ww-cafe-check-lexical",
+    "ww-cafe-evidence-lexical",
+    "ww-cafe-check-grammar",
+    "ww-cafe-evidence-grammar",
+    "ww-cafe-revision",
+    "ww-cafe-reason",
+    "ww-cafe-versions",
+    "ww-cafe-micro",
+    "ww-cafe-next-focus",
+    "ww-cafe-next-date",
+    "ww-cafe-next-note",
+    "ww-primary-plan-1",
+    "ww-primary-plan-2",
+    "ww-primary-plan-3",
+    "ww-primary-plan-4",
+    "ww-primary-seen-before",
+    "ww-primary-used-help",
+    "ww-primary-timer",
+    "ww-primary-first-at",
+    "ww-primary-first",
+    "ww-primary-check-task",
+    "ww-primary-evidence-task",
+    "ww-primary-check-coherence",
+    "ww-primary-evidence-coherence",
+    "ww-primary-check-lexical",
+    "ww-primary-evidence-lexical",
+    "ww-primary-check-grammar",
+    "ww-primary-evidence-grammar",
+    "ww-primary-revision",
+    "ww-primary-reason",
+    "ww-primary-versions",
+    "ww-primary-micro",
+    "ww-primary-next-focus",
+    "ww-primary-next-date",
+    "ww-primary-next-note",
+    "ww-tourism-plan-1",
+    "ww-tourism-plan-2",
+    "ww-tourism-plan-3",
+    "ww-tourism-plan-4",
+    "ww-tourism-seen-before",
+    "ww-tourism-used-help",
+    "ww-tourism-timer",
+    "ww-tourism-first-at",
+    "ww-tourism-first",
+    "ww-tourism-check-task",
+    "ww-tourism-evidence-task",
+    "ww-tourism-check-coherence",
+    "ww-tourism-evidence-coherence",
+    "ww-tourism-check-lexical",
+    "ww-tourism-evidence-lexical",
+    "ww-tourism-check-grammar",
+    "ww-tourism-evidence-grammar",
+    "ww-tourism-revision",
+    "ww-tourism-reason",
+    "ww-tourism-versions",
+    "ww-tourism-micro",
+    "ww-tourism-next-focus",
+    "ww-tourism-next-date",
+    "ww-tourism-next-note",
+    "ww-housing-plan-1",
+    "ww-housing-plan-2",
+    "ww-housing-plan-3",
+    "ww-housing-plan-4",
+    "ww-housing-seen-before",
+    "ww-housing-used-help",
+    "ww-housing-timer",
+    "ww-housing-first-at",
+    "ww-housing-first",
+    "ww-housing-check-task",
+    "ww-housing-evidence-task",
+    "ww-housing-check-coherence",
+    "ww-housing-evidence-coherence",
+    "ww-housing-check-lexical",
+    "ww-housing-evidence-lexical",
+    "ww-housing-check-grammar",
+    "ww-housing-evidence-grammar",
+    "ww-housing-revision",
+    "ww-housing-reason",
+    "ww-housing-versions",
+    "ww-housing-micro",
+    "ww-housing-next-focus",
+    "ww-housing-next-date",
+    "ww-housing-next-note"
+  ],
+  "images": [
+    {
+      "src": "case-assets/writing-c21-30.png",
+      "alt": "1960至2020年美国制造业、零售业、农业和医疗行业岗位数原图",
+      "visible": true,
+      "complete": false,
+      "width": 0
+    },
+    {
+      "src": "case-assets/writing-official-5.png",
+      "alt": "官方制砖流程原图：制备、两种成形路径、干燥、两段烧制、冷却、包装、运输",
+      "visible": false,
+      "complete": false,
+      "width": 0
+    },
+    {
+      "src": "case-assets/writing-c21-52.png",
+      "alt": "学院咖啡厅改造前后的原始平面图",
+      "visible": false,
+      "complete": false,
+      "width": 0
+    }
+  ],
+  "audio": [],
+  "viewport": 1440,
+  "documentWidth": 1440
+}

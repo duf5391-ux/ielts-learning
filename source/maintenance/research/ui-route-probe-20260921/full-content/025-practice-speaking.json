@@ -1,0 +1,247 @@
+{
+  "requested": "practice-speaking",
+  "from": [
+    "主面板",
+    "页面链接"
+  ],
+  "actual": "#practice-speaking-list",
+  "checkedAt": "2026-09-21T12:50:46.591Z",
+  "title": "练习 / 口语 · IELTS",
+  "label": "练习 / 口语",
+  "panel": "practice",
+  "contentRoot": "practice",
+  "headings": [
+    {
+      "tag": "H1",
+      "text": "练习 · 口语",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "Speaking Part 1 购物与储蓄",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "Speaking Part 2 一个有竞争心的人",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "Speaking Part 3 体育中的竞争与参与",
+      "visible": true
+    }
+  ],
+  "controls": [
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "← 返回练习",
+      "label": "",
+      "href": "#practice",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SELECT",
+      "id": "la-practice-skill",
+      "type": "select-one",
+      "text": "全部写作Task 1Task 2",
+      "label": "写作类型全部写作Task 1Task 2",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false,
+      "options": [
+        {
+          "value": "",
+          "label": "全部写作"
+        },
+        {
+          "value": "writing1",
+          "label": "Task 1"
+        },
+        {
+          "value": "writing2",
+          "label": "Task 2"
+        }
+      ]
+    },
+    {
+      "tag": "SELECT",
+      "id": "la-practice-topic",
+      "type": "select-one",
+      "text": "全部\n通用",
+      "label": "话题\n全部\n通用",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false,
+      "options": [
+        {
+          "value": "",
+          "label": "全部"
+        },
+        {
+          "value": "通用",
+          "label": "通用"
+        }
+      ]
+    },
+    {
+      "tag": "SELECT",
+      "id": "la-practice-part",
+      "type": "select-one",
+      "text": "全部\nPart 1\nPart 2\nPart 3",
+      "label": "Part\n全部\nPart 1\nPart 2\nPart 3",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false,
+      "options": [
+        {
+          "value": "",
+          "label": "全部"
+        },
+        {
+          "value": "Part 1",
+          "label": "Part 1"
+        },
+        {
+          "value": "Part 2",
+          "label": "Part 2"
+        },
+        {
+          "value": "Part 3",
+          "label": "Part 3"
+        }
+      ]
+    },
+    {
+      "tag": "SELECT",
+      "id": "la-practice-type",
+      "type": "select-one",
+      "text": "全部\n表达与运用",
+      "label": "题型／内容\n全部\n表达与运用",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false,
+      "options": [
+        {
+          "value": "",
+          "label": "全部"
+        },
+        {
+          "value": "表达与运用",
+          "label": "表达与运用"
+        }
+      ]
+    },
+    {
+      "tag": "INPUT",
+      "id": "la-practice-search",
+      "type": "search",
+      "text": "",
+      "label": "内容或题型",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "开始练习 →",
+      "label": "",
+      "href": "#pr-speaking-p1",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "加入今天",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "开始练习 →",
+      "label": "",
+      "href": "#pr-speaking-p2",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "加入今天",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "开始练习 →",
+      "label": "",
+      "href": "#pr-speaking-p3",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "加入今天",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    }
+  ],
+  "visibleText": "练习 · 口语\n\n3 项内容 · 按需要选一项开始。\n\n← 返回练习\n0% · 0 / 3 单元\n话题\n全部\n通用\nPart\n全部\nPart 1\nPart 2\nPart 3\n题型／内容\n全部\n表达与运用\n内容或题型\n\n口语 · 通用\n\nSpeaking Part 1 购物与储蓄\n\n直接作答，完成后核对。\n\n0% · 0 / 0 完成\n开始练习 →\n加入今天\n\n口语 · 通用\n\nSpeaking Part 2 一个有竞争心的人\n\n直接作答，完成后核对。\n\n0% · 0 / 0 完成\n开始练习 →\n加入今天\n\n口语 · 通用\n\nSpeaking Part 3 体育中的竞争与参与\n\n直接作答，完成后核对。\n\n0% · 0 / 0 完成\n开始练习 →\n加入今天",
+  "allContent": "IELTS / MY STUDY练习 · 口语3 项内容 · 按需要选一项开始。← 返回练习0% · 0 / 3 单元写作类型全部写作Task 1Task 2话题全部通用3 项内容Part全部Part 1Part 2Part 3题型／内容全部表达与运用内容或题型口语 · 通用Speaking Part 1 购物与储蓄直接作答，完成后核对。0% · 0 / 0 完成开始练习 →加入今天口语 · 通用Speaking Part 2 一个有竞争心的人直接作答，完成后核对。0% · 0 / 0 完成开始练习 →加入今天口语 · 通用Speaking Part 3 体育中的竞争与参与直接作答，完成后核对。0% · 0 / 0 完成开始练习 →加入今天",
+  "links": [
+    {
+      "text": "← 返回练习",
+      "href": "#practice"
+    },
+    {
+      "text": "开始练习 →",
+      "href": "#pr-speaking-p1"
+    },
+    {
+      "text": "开始练习 →",
+      "href": "#pr-speaking-p2"
+    },
+    {
+      "text": "开始练习 →",
+      "href": "#pr-speaking-p3"
+    }
+  ],
+  "details": [],
+  "saveFields": [],
+  "images": [],
+  "audio": [],
+  "viewport": 1440,
+  "documentWidth": 1440
+}

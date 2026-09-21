@@ -1,0 +1,3643 @@
+{
+  "scope": "Sequential inspection in a fresh synthetic browser context",
+  "results": [
+    {
+      "requested": "sentence-learning",
+      "kind": "mobile-personal-pass",
+      "actual": "#sentence-learning",
+      "title": "学习记录与备份 · IELTS",
+      "topLabel": "学习记录与备份",
+      "activeNav": [
+        {
+          "go": "workspace",
+          "label": "学习工作台"
+        }
+      ],
+      "panels": [
+        {
+          "id": "records",
+          "owner": "workspace",
+          "title": "学习记录与备份",
+          "x": 18,
+          "y": -689,
+          "w": 354,
+          "h": 4795
+        }
+      ],
+      "headings": [
+        {
+          "tag": "H2",
+          "text": "新增资源：我的学习与复习",
+          "x": 40,
+          "y": -443,
+          "w": 313,
+          "h": 35
+        },
+        {
+          "tag": "H3",
+          "text": "已学过",
+          "x": 63,
+          "y": -301,
+          "w": 267,
+          "h": 30
+        },
+        {
+          "tag": "H3",
+          "text": "我加入的复习",
+          "x": 63,
+          "y": -130,
+          "w": 267,
+          "h": 30
+        },
+        {
+          "tag": "H2",
+          "text": "我的句子本",
+          "x": 33,
+          "y": 167,
+          "w": 156,
+          "h": 33
+        },
+        {
+          "tag": "H2",
+          "text": "我的单词表",
+          "x": 52,
+          "y": 721,
+          "w": 286,
+          "h": 42
+        },
+        {
+          "tag": "H3",
+          "text": "sustainable",
+          "x": 81,
+          "y": 1305,
+          "w": 114,
+          "h": 30
+        },
+        {
+          "tag": "H2",
+          "text": "查词历史",
+          "x": 35,
+          "y": 1805,
+          "w": 92,
+          "h": 35
+        },
+        {
+          "tag": "H2",
+          "text": "补充单元记录",
+          "x": 37,
+          "y": 2294,
+          "w": 316,
+          "h": 35
+        },
+        {
+          "tag": "H1",
+          "text": "留下有用的记录。",
+          "x": 18,
+          "y": 2538,
+          "w": 354,
+          "h": 38
+        },
+        {
+          "tag": "H2",
+          "text": "四科作答",
+          "x": 35,
+          "y": 2841,
+          "w": 320,
+          "h": 27
+        },
+        {
+          "tag": "H3",
+          "text": "阅读",
+          "x": 77,
+          "y": 2935,
+          "w": 209,
+          "h": 20
+        },
+        {
+          "tag": "H3",
+          "text": "听力",
+          "x": 77,
+          "y": 3044,
+          "w": 209,
+          "h": 20
+        },
+        {
+          "tag": "H3",
+          "text": "Task 1",
+          "x": 77,
+          "y": 3153,
+          "w": 209,
+          "h": 20
+        },
+        {
+          "tag": "H3",
+          "text": "Task 2",
+          "x": 77,
+          "y": 3262,
+          "w": 209,
+          "h": 20
+        },
+        {
+          "tag": "H3",
+          "text": "口语",
+          "x": 77,
+          "y": 3371,
+          "w": 209,
+          "h": 20
+        },
+        {
+          "tag": "H2",
+          "text": "这一轮，我发现了什么？",
+          "x": 41,
+          "y": 3556,
+          "w": 308,
+          "h": 32
+        },
+        {
+          "tag": "H2",
+          "text": "让记录留在自己手里",
+          "x": 38,
+          "y": 3894,
+          "w": 314,
+          "h": 27
+        }
+      ],
+      "controls": [
+        {
+          "tag": "A",
+          "id": "",
+          "text": "← 返回学习工作台",
+          "href": "#workspace",
+          "disabled": false,
+          "x": 18,
+          "y": -689,
+          "w": 116,
+          "h": 32
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "进入 →",
+          "href": "#writing-workbench",
+          "disabled": false,
+          "x": 34,
+          "y": -524,
+          "w": 46,
+          "h": 24
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "翻译一句话",
+          "href": null,
+          "disabled": false,
+          "x": 259,
+          "y": 138,
+          "w": 98,
+          "h": 44
+        },
+        {
+          "tag": "INPUT",
+          "id": "sentence-search",
+          "text": "搜索原句或译文",
+          "href": null,
+          "disabled": false,
+          "x": 33,
+          "y": 311,
+          "w": 324,
+          "h": 46
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "查看 / 修改",
+          "href": null,
+          "disabled": false,
+          "x": 52,
+          "y": 554,
+          "w": 98,
+          "h": 44
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "取消收藏",
+          "href": null,
+          "disabled": false,
+          "x": 158,
+          "y": 554,
+          "w": 84,
+          "h": 44
+        },
+        {
+          "tag": "SELECT",
+          "id": "vr-mode",
+          "text": "看英文 · 回忆意思\n看释义 · 拼写词语",
+          "href": null,
+          "disabled": false,
+          "x": 52,
+          "y": 947,
+          "w": 286,
+          "h": 41
+        },
+        {
+          "tag": "BUTTON",
+          "id": "vr-start",
+          "text": "开始今日复习",
+          "href": null,
+          "disabled": false,
+          "x": 52,
+          "y": 996,
+          "w": 139,
+          "h": 44
+        },
+        {
+          "tag": "BUTTON",
+          "id": "vr-practice-all",
+          "text": "加练全部收藏",
+          "href": null,
+          "disabled": false,
+          "x": 199,
+          "y": 996,
+          "w": 139,
+          "h": 44
+        },
+        {
+          "tag": "SUMMARY",
+          "id": "",
+          "text": "查看单词表 · 1 个词与词组",
+          "href": null,
+          "disabled": false,
+          "x": 66,
+          "y": 1118,
+          "w": 258,
+          "h": 45
+        },
+        {
+          "tag": "INPUT",
+          "id": "vr-search",
+          "text": "搜索收藏的词语",
+          "href": null,
+          "disabled": false,
+          "x": 66,
+          "y": 1185,
+          "w": 258,
+          "h": 44
+        },
+        {
+          "tag": "SELECT",
+          "id": "vr-filter",
+          "text": "全部收藏\n现在该复习\n还未复习\n稍后复习",
+          "href": null,
+          "disabled": false,
+          "x": 66,
+          "y": 1237,
+          "w": 258,
+          "h": 41
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "不会",
+          "href": null,
+          "disabled": false,
+          "x": 81,
+          "y": 1344,
+          "w": 72,
+          "h": 44
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "模糊",
+          "href": null,
+          "disabled": false,
+          "x": 159,
+          "y": 1344,
+          "w": 72,
+          "h": 44
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "会",
+          "href": null,
+          "disabled": false,
+          "x": 237,
+          "y": 1344,
+          "w": 72,
+          "h": 44
+        },
+        {
+          "tag": "SUMMARY",
+          "id": "",
+          "text": "释义与原句",
+          "href": null,
+          "disabled": false,
+          "x": 95,
+          "y": 1441,
+          "w": 200,
+          "h": 42
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "复习这个词",
+          "href": null,
+          "disabled": false,
+          "x": 81,
+          "y": 1504,
+          "w": 71,
+          "h": 66
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "查详细用法",
+          "href": null,
+          "disabled": false,
+          "x": 160,
+          "y": 1504,
+          "w": 71,
+          "h": 66
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "取消收藏",
+          "href": null,
+          "disabled": false,
+          "x": 238,
+          "y": 1504,
+          "w": 71,
+          "h": 66
+        },
+        {
+          "tag": "SUMMARY",
+          "id": "",
+          "text": "补充释义与我的例句",
+          "href": null,
+          "disabled": false,
+          "x": 95,
+          "y": 1591,
+          "w": 200,
+          "h": 44
+        },
+        {
+          "tag": "TEXTAREA",
+          "id": "",
+          "text": "留空使用词典释义",
+          "href": null,
+          "disabled": false,
+          "x": 95,
+          "y": 1671,
+          "w": 200,
+          "h": 70
+        },
+        {
+          "tag": "TEXTAREA",
+          "id": "",
+          "text": "",
+          "href": null,
+          "disabled": false,
+          "x": 95,
+          "y": 1777,
+          "w": 200,
+          "h": 70
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "",
+          "href": null,
+          "disabled": false,
+          "x": 95,
+          "y": 1857,
+          "w": 80,
+          "h": 44
+        },
+        {
+          "tag": "SUMMARY",
+          "id": "",
+          "text": "复习如何安排？",
+          "href": null,
+          "disabled": false,
+          "x": 66,
+          "y": 1699,
+          "w": 258,
+          "h": 44
+        },
+        {
+          "tag": "BUTTON",
+          "id": "lookup-export",
+          "text": "导出查词记录",
+          "href": null,
+          "disabled": false,
+          "x": 245,
+          "y": 1805,
+          "w": 110,
+          "h": 40
+        },
+        {
+          "tag": "INPUT",
+          "id": "lookup-history-search",
+          "text": "搜索查询记录",
+          "href": null,
+          "disabled": false,
+          "x": 35,
+          "y": 1948,
+          "w": 216,
+          "h": 42
+        },
+        {
+          "tag": "SELECT",
+          "id": "lookup-filter",
+          "text": "待复习\n全部记录\n已复习\n已收藏",
+          "href": null,
+          "disabled": false,
+          "x": 261,
+          "y": 1948,
+          "w": 94,
+          "h": 42
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "sustainable",
+          "href": null,
+          "disabled": false,
+          "x": 35,
+          "y": 2022,
+          "w": 108,
+          "h": 32
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "取消收藏",
+          "href": null,
+          "disabled": false,
+          "x": 35,
+          "y": 2125,
+          "w": 74,
+          "h": 36
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "旧标记：待复习 → 已复习",
+          "href": null,
+          "disabled": false,
+          "x": 117,
+          "y": 2125,
+          "w": 165,
+          "h": 36
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "进入章节",
+          "href": "#reading",
+          "disabled": false,
+          "x": 298,
+          "y": 2987,
+          "w": 57,
+          "h": 20
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "进入章节",
+          "href": "#listening",
+          "disabled": false,
+          "x": 298,
+          "y": 3096,
+          "w": 57,
+          "h": 20
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "进入章节",
+          "href": "#writing1",
+          "disabled": false,
+          "x": 298,
+          "y": 3205,
+          "w": 57,
+          "h": 20
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "进入章节",
+          "href": "#writing2",
+          "disabled": false,
+          "x": 298,
+          "y": 3314,
+          "w": 57,
+          "h": 20
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "进入章节",
+          "href": "#speaking",
+          "disabled": false,
+          "x": 298,
+          "y": 3423,
+          "w": 57,
+          "h": 20
+        },
+        {
+          "tag": "TEXTAREA",
+          "id": "",
+          "text": "例如：我认得这个词，但放进自己的句子时总是搭错介词。下次先说一个简单例句。",
+          "href": null,
+          "disabled": false,
+          "x": 41,
+          "y": 3678,
+          "w": 308,
+          "h": 145
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "导出文字作答",
+          "href": null,
+          "disabled": false,
+          "x": 38,
+          "y": 3939,
+          "w": 86,
+          "h": 37
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "备份学习记录",
+          "href": null,
+          "disabled": false,
+          "x": 133,
+          "y": 3939,
+          "w": 86,
+          "h": 37
+        },
+        {
+          "tag": "INPUT",
+          "id": "import-state",
+          "text": "",
+          "href": null,
+          "disabled": false,
+          "x": 100,
+          "y": 3995,
+          "w": 180,
+          "h": 18
+        }
+      ],
+      "hiddenVisible": [],
+      "bodyWidth": 390,
+      "viewport": 390,
+      "scrollY": 869,
+      "visibleText": "← 返回学习工作台\n继续我的写作\n\n回到上次题目，查看首稿和修订。写作输入随本册学习记录一并备份。\n\n进入 →\n新增资源：我的学习与复习\n\n新增资源已学 0 / 44；加入复习 0 项。两项分别记录，不计入原五章首次作答。\n\n已学过\n还未标记已学；打开新资源，学习后按需要记录。\n我加入的复习\n在任意新增单元勾选“加入我的复习”，这里会保留入口。\n\n勾选和笔记随原“学习记录 JSON”一并导出。复习完成后可取消加入；这不代表已掌握。查词记录仍在下方生词复习区。\n\nSENTENCE NOTEBOOK\n\n我的句子本\n翻译一句话\n\n在正文或自己的作文中选中一句话，点击「翻译句子」。保留有用的译文，也可以修改后收藏。\n\n搜索句子\n\n1 个收藏句子 · 与学习记录一起备份\n\nPublic transport can reduce traffic congestion.\n\n公共交通能够缓解交通拥堵。\n\n英 → 中 · 手动修订译文\n\n查看 / 修改\n取消收藏\n\nMY VOCABULARY\n\n我的单词表\n\n把查过的词与词组收藏起来，连同原句和搭配一起复习。\n\n1\n已收藏\n1\n现在可复习\n1\n未开始\n看英文 · 回忆意思\n看释义 · 拼写词语\n开始今日复习\n加练全部收藏\n\nsustainable：已标记“会”。复习时间保持不变。\n\n查看单词表 · 1 个词与词组\n全部收藏\n现在该复习\n还未复习\n稍后复习\nsustainable\n新收藏\n不会\n模糊\n会\n\n当前自评：会 · 不计为完成复习\n\n释义与原句\n复习这个词\n查详细用法\n取消收藏\n补充释义与我的例句\n复习如何安排？\n查词历史\n导出查词记录\n\n每次查询都会留下词语和原句。点击收藏后进入上方单词表，再按间隔复习。\n\n1 个查询词或词组 · 1 个已收藏\n\n待复习\n全部记录\n已复习\n已收藏\nsustainable\n已收藏\n\n可持续的\n\n查询 1 次 · 最近 2020/1/1 08:00:00\n\n取消收藏旧标记：待复习 → 已复习\n\n旧版待复习／已复习标记继续保留。所有查询、收藏、拼写与复习记录包含在本页学习备份中。\n\n补充单元记录\n\n这里统计实际保留的首稿；打开材料、看过反馈不等于掌握。\n\n0 / 26 个补充练习首稿已保留。另有 0 个可选背景单元。\n\nYOUR LEARNING RECORD\n\n留下有用的记录。\n\n首次答案、修订和实际条件分别保留。这里显示本浏览器已有的记录。\n\n已保留首次作答\n0\n/ 5 章\n标记读过的语境\n0\n/ 18 段\n收藏的词与用法\n0\n条内容\n四科作答\n用时只统计你填写的首次作答分钟\n阅读\n\n找到判断的证据\n\n待开始\n未记录用时\n进入章节\n听力\n\n听清最终要填什么\n\n待开始\n未记录用时\n进入章节\nTask 1\n\n把图表讲清楚\n\n待开始\n未记录用时\n进入章节\nTask 2\n\n让理由站得住\n\n待开始\n未记录用时\n进入章节\n口语\n\n说清物品的意义\n\n待开始\n未记录用时\n进入章节\n\nA SMALL REFLECTION\n\n这一轮，我发现了什么？\n\n记一处具体的问题，和下次想试的改变。\n\n我的学习笔记\n让记录留在自己手里\n导出文字作答\n备份学习记录\n恢复备份\n\n备份包含文字、首次稿和本页记录；录音请在口语页单独下载。恢复备份会替换当前文字记录。",
+      "overflow": []
+    },
+    {
+      "requested": "writing-workbench",
+      "kind": "mobile-personal-pass",
+      "actual": "#ww-tourism",
+      "title": "写作工作台 · IELTS",
+      "topLabel": "写作工作台",
+      "activeNav": [
+        {
+          "go": "workspace",
+          "label": "学习工作台"
+        }
+      ],
+      "panels": [
+        {
+          "id": "writing-workbench",
+          "owner": "workspace",
+          "title": "写作工作台",
+          "x": 18,
+          "y": 180,
+          "w": 354,
+          "h": 6468
+        }
+      ],
+      "headings": [
+        {
+          "tag": "H1",
+          "text": "写作工作台",
+          "x": 18,
+          "y": 270,
+          "w": 354,
+          "h": 38
+        },
+        {
+          "tag": "H2",
+          "text": "旅游收益与居民成本",
+          "x": 18,
+          "y": 639,
+          "w": 354,
+          "h": 38
+        },
+        {
+          "tag": "H3",
+          "text": "01 / 审题与提纲",
+          "x": 18,
+          "y": 827,
+          "w": 354,
+          "h": 32
+        },
+        {
+          "tag": "H3",
+          "text": "02 / 留下自己的首稿",
+          "x": 18,
+          "y": 2149,
+          "w": 354,
+          "h": 32
+        },
+        {
+          "tag": "H3",
+          "text": "03 / 四维检查与修订",
+          "x": 18,
+          "y": 2992,
+          "w": 354,
+          "h": 32
+        },
+        {
+          "tag": "H3",
+          "text": "04 / 只练一个动作，再换题检查",
+          "x": 18,
+          "y": 5519,
+          "w": 354,
+          "h": 32
+        }
+      ],
+      "controls": [
+        {
+          "tag": "A",
+          "id": "",
+          "text": "← 返回学习工作台",
+          "href": "#workspace",
+          "disabled": false,
+          "x": 18,
+          "y": 180,
+          "w": 116,
+          "h": 32
+        },
+        {
+          "tag": "SELECT",
+          "id": "ww-task-picker",
+          "text": "Task 1 · 折线图 · 四行业就业\nTask 1 · 流程图 · 砖块制造\nTask 1 · 平面图 · 学院咖啡厅改造\nTask 2 · 教育 · 小学课堂中的学习与游戏\nTask 2 · 旅游 · 旅游收益与居民成本\nTask 2 · 城市住房 · 高层住宅是否是最佳方",
+          "href": null,
+          "disabled": false,
+          "x": 18,
+          "y": 487,
+          "w": 354,
+          "h": 43
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "学习记录与备份 →",
+          "href": "#records",
+          "disabled": false,
+          "x": 18,
+          "y": 532,
+          "w": 116,
+          "h": 19
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "01 审题",
+          "href": "#ww-tourism-plan",
+          "disabled": false,
+          "x": 18,
+          "y": 744,
+          "w": 69,
+          "h": 38
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "02 首稿",
+          "href": "#ww-tourism-draft",
+          "disabled": false,
+          "x": 95,
+          "y": 744,
+          "w": 69,
+          "h": 38
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "03 检查与修订",
+          "href": "#ww-tourism-review",
+          "disabled": false,
+          "x": 172,
+          "y": 744,
+          "w": 108,
+          "h": 38
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "04 再练",
+          "href": "#ww-tourism-next",
+          "disabled": false,
+          "x": 288,
+          "y": 744,
+          "w": 69,
+          "h": 38
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "IELTS Academic Writing Sample Tasks (2023) · Task 2B",
+          "href": "case-assets/writing-official-sample-tasks-2023.pdf#page=7",
+          "disabled": false,
+          "x": 18,
+          "y": 1147,
+          "w": 339,
+          "h": 39
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "打开原有局部练习与参考",
+          "href": "#pr-writing2-tourism",
+          "disabled": false,
+          "x": 18,
+          "y": 1202,
+          "w": 143,
+          "h": 22
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "回到本科学习",
+          "href": "#writing2",
+          "disabled": false,
+          "x": 181,
+          "y": 1202,
+          "w": 78,
+          "h": 22
+        },
+        {
+          "tag": "TEXTAREA",
+          "id": "",
+          "text": "",
+          "href": null,
+          "disabled": false,
+          "x": 18,
+          "y": 1333,
+          "w": 354,
+          "h": 98
+        },
+        {
+          "tag": "TEXTAREA",
+          "id": "",
+          "text": "",
+          "href": null,
+          "disabled": false,
+          "x": 18,
+          "y": 1514,
+          "w": 354,
+          "h": 98
+        },
+        {
+          "tag": "TEXTAREA",
+          "id": "",
+          "text": "",
+          "href": null,
+          "disabled": false,
+          "x": 18,
+          "y": 1695,
+          "w": 354,
+          "h": 98
+        },
+        {
+          "tag": "TEXTAREA",
+          "id": "",
+          "text": "",
+          "href": null,
+          "disabled": false,
+          "x": 18,
+          "y": 1900,
+          "w": 354,
+          "h": 98
+        },
+        {
+          "tag": "SUMMARY",
+          "id": "",
+          "text": "需要提示：看一种审题与展开方法",
+          "href": null,
+          "disabled": false,
+          "x": 35,
+          "y": 2036,
+          "w": 320,
+          "h": 55
+        },
+        {
+          "tag": "INPUT",
+          "id": "",
+          "text": "",
+          "href": null,
+          "disabled": false,
+          "x": 22,
+          "y": 2200,
+          "w": 13,
+          "h": 13
+        },
+        {
+          "tag": "INPUT",
+          "id": "",
+          "text": "",
+          "href": null,
+          "disabled": false,
+          "x": 22,
+          "y": 2240,
+          "w": 13,
+          "h": 13
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "开始 40 分钟",
+          "href": null,
+          "disabled": false,
+          "x": 111,
+          "y": 2275,
+          "w": 101,
+          "h": 44
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "重置计时",
+          "href": null,
+          "disabled": false,
+          "x": 220,
+          "y": 2275,
+          "w": 76,
+          "h": 44
+        },
+        {
+          "tag": "TEXTAREA",
+          "id": "",
+          "text": "",
+          "href": null,
+          "disabled": false,
+          "x": 18,
+          "y": 2394,
+          "w": 354,
+          "h": 450
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "保留首稿，开始修订",
+          "href": null,
+          "disabled": false,
+          "x": 18,
+          "y": 2895,
+          "w": 146,
+          "h": 44
+        },
+        {
+          "tag": "SELECT",
+          "id": "",
+          "text": "尚未检查\n发现问题，待修订\n已核对并处理\n仍不确定",
+          "href": null,
+          "disabled": false,
+          "x": 36,
+          "y": 3252,
+          "w": 318,
+          "h": 43
+        },
+        {
+          "tag": "TEXTAREA",
+          "id": "",
+          "text": "",
+          "href": null,
+          "disabled": false,
+          "x": 36,
+          "y": 3340,
+          "w": 318,
+          "h": 92
+        },
+        {
+          "tag": "SELECT",
+          "id": "",
+          "text": "尚未检查\n发现问题，待修订\n已核对并处理\n仍不确定",
+          "href": null,
+          "disabled": false,
+          "x": 36,
+          "y": 3638,
+          "w": 318,
+          "h": 43
+        },
+        {
+          "tag": "TEXTAREA",
+          "id": "",
+          "text": "",
+          "href": null,
+          "disabled": false,
+          "x": 36,
+          "y": 3725,
+          "w": 318,
+          "h": 92
+        },
+        {
+          "tag": "SELECT",
+          "id": "",
+          "text": "尚未检查\n发现问题，待修订\n已核对并处理\n仍不确定",
+          "href": null,
+          "disabled": false,
+          "x": 36,
+          "y": 4023,
+          "w": 318,
+          "h": 43
+        },
+        {
+          "tag": "TEXTAREA",
+          "id": "",
+          "text": "",
+          "href": null,
+          "disabled": false,
+          "x": 36,
+          "y": 4110,
+          "w": 318,
+          "h": 92
+        },
+        {
+          "tag": "SELECT",
+          "id": "",
+          "text": "尚未检查\n发现问题，待修订\n已核对并处理\n仍不确定",
+          "href": null,
+          "disabled": false,
+          "x": 36,
+          "y": 4408,
+          "w": 318,
+          "h": 43
+        },
+        {
+          "tag": "TEXTAREA",
+          "id": "",
+          "text": "",
+          "href": null,
+          "disabled": false,
+          "x": 36,
+          "y": 4496,
+          "w": 318,
+          "h": 92
+        },
+        {
+          "tag": "TEXTAREA",
+          "id": "",
+          "text": "",
+          "href": null,
+          "disabled": false,
+          "x": 18,
+          "y": 4671,
+          "w": 354,
+          "h": 450
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "另存本次修订版本",
+          "href": null,
+          "disabled": false,
+          "x": 18,
+          "y": 5173,
+          "w": 132,
+          "h": 44
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "导出本题作答与反馈请求",
+          "href": null,
+          "disabled": false,
+          "x": 158,
+          "y": 5173,
+          "w": 174,
+          "h": 44
+        },
+        {
+          "tag": "TEXTAREA",
+          "id": "",
+          "text": "",
+          "href": null,
+          "disabled": false,
+          "x": 18,
+          "y": 5285,
+          "w": 354,
+          "h": 98
+        },
+        {
+          "tag": "SUMMARY",
+          "id": "",
+          "text": "查看已保留的修订版本",
+          "href": null,
+          "disabled": false,
+          "x": 35,
+          "y": 5406,
+          "w": 320,
+          "h": 55
+        },
+        {
+          "tag": "TEXTAREA",
+          "id": "",
+          "text": "",
+          "href": null,
+          "disabled": false,
+          "x": 18,
+          "y": 5663,
+          "w": 354,
+          "h": 148
+        },
+        {
+          "tag": "SUMMARY",
+          "id": "",
+          "text": "展开参考与核对方法",
+          "href": null,
+          "disabled": false,
+          "x": 35,
+          "y": 5834,
+          "w": 320,
+          "h": 55
+        },
+        {
+          "tag": "SELECT",
+          "id": "",
+          "text": "回应题目 / 概览\n组织与展开\n词汇与搭配\n句子与语法\n换题独立检查",
+          "href": null,
+          "disabled": false,
+          "x": 18,
+          "y": 5951,
+          "w": 145,
+          "h": 43
+        },
+        {
+          "tag": "INPUT",
+          "id": "",
+          "text": "",
+          "href": null,
+          "disabled": false,
+          "x": 18,
+          "y": 6071,
+          "w": 154,
+          "h": 48
+        },
+        {
+          "tag": "TEXTAREA",
+          "id": "",
+          "text": "",
+          "href": null,
+          "disabled": false,
+          "x": 18,
+          "y": 6253,
+          "w": 354,
+          "h": 72
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "打开下一题 →",
+          "href": "#ww-primary",
+          "disabled": false,
+          "x": 218,
+          "y": 6375,
+          "w": 88,
+          "h": 19
+        },
+        {
+          "tag": "SUMMARY",
+          "id": "",
+          "text": "考试要求与本区用法",
+          "href": null,
+          "disabled": false,
+          "x": 35,
+          "y": 6592,
+          "w": 320,
+          "h": 55
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "",
+          "href": "https://ielts.org/take-a-test/test-types/ielts-academic-test/ielts-academic-format-writing",
+          "disabled": false,
+          "x": 35,
+          "y": 6854,
+          "w": 122,
+          "h": 19
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "",
+          "href": "https://ielts.org/cdn/ielts-guides/ielts-writing-band-descriptors.pdf",
+          "disabled": false,
+          "x": 169,
+          "y": 6854,
+          "w": 112,
+          "h": 19
+        }
+      ],
+      "hiddenVisible": [],
+      "bodyWidth": 390,
+      "viewport": 390,
+      "scrollY": 0,
+      "visibleText": "← 返回学习工作台\n\nWRITE · REVIEW · REWRITE\n\n写作工作台\n\n从一份首稿开始，找出一个具体问题，再写得更清楚。\n\nTask 1 与 Task 2 共用审题、写作、检查和修订流程。每道题的记录单独保留。\n\n选一道题，或继续上次作答\nTask 1 · 折线图 · 四行业就业\nTask 1 · 流程图 · 砖块制造\nTask 1 · 平面图 · 学院咖啡厅改造\nTask 2 · 教育 · 小学课堂中的学习与游戏\nTask 2 · 旅游 · 旅游收益与居民成本\nTask 2 · 城市住房 · 高层住宅是否是最佳方案\n学习记录与备份 →\n\n旅游收益与居民成本 · 尚未开始\n\nTask 2 · 旅游\n旅游收益与居民成本\n\n比较利弊的分量，说明为什么一方更重要\n\n01 审题\n02 首稿\n03 检查与修订\n04 再练\n01 / 审题与提纲\nInternational tourism has brought enormous benefit to many places. At the same time, there is concern about its impact on local inhabitants and the environment. Do the disadvantages of international tourism outweigh the advantages?\n\n题意沿用现有练习文字；正式题面、图示与完整要求以原件为准。IELTS Academic Writing Sample Tasks (2023) · Task 2B\n\n打开原有局部练习与参考\n回到本科学习\n\n回应题目，用理由与例子支持立场，至少 250 词，建议约 40 分钟。 可直接开始首稿；提纲为可选准备。\n\noutweigh 要求什么判断？涉及哪些受影响对象？\n我的结论：哪一方更重？比较依据是什么？\n优势段：收益 → 作用机制 → 对谁有利？\n不利段与权衡：持续时间、影响范围或可缓解程度如何比较？\n需要提示：看一种审题与展开方法\n02 / 留下自己的首稿\n 以前写过这题 / 看过答案\n 本次参考过提示、词典或范例\n40:00\n开始 40 分钟\n重置计时\n到时保留输入，刷新后继续计时。\n首稿 · 保留后锁定，修改在下方进行\n0 词（估算） · 距建议最低字数还差 250 词\n保留首稿，开始修订\n03 / 四维检查与修订\n\n先找一个最影响表达的问题，摘出自己的句子，再修改。检查结果是你的判断，不会换算 band。\n\n任务完成 / 回应 · TA / TR\n\n所有问句是否回应？立场是否一直清楚？理由是否解释了为什么，并有相关例子或证据？\n\n检查结果\n尚未检查\n发现问题，待修订\n已核对并处理\n仍不确定\n证据：摘一句原文 → 问题 / 判断依据 → 怎样改\n组织与衔接 · CC\n\n每段是否承担清楚的功能？句子之间关系是否真实？代词指向是否明确？不要只统计连接词。\n\n检查结果\n尚未检查\n发现问题，待修订\n已核对并处理\n仍不确定\n证据：摘一句原文 → 问题 / 判断依据 → 怎样改\n词汇使用 · LR\n\n关键词含义、搭配与拼写是否准确？替换词是否保留原意？优先修正用错的词。\n\n检查结果\n尚未检查\n发现问题，待修订\n已核对并处理\n仍不确定\n证据：摘一句原文 → 问题 / 判断依据 → 怎样改\n语法范围与准确性 · GRA\n\n时态、主谓、冠词与标点是否正确？复杂句是否表达需要的关系？检查一条复杂句与一条简单句。\n\n检查结果\n尚未检查\n发现问题，待修订\n已核对并处理\n仍不确定\n证据：摘一句原文 → 问题 / 判断依据 → 怎样改\n修订稿 · 与首稿分开保存\n0 词（估算） · 距建议最低字数还差 250 词\n另存本次修订版本\n导出本题作答与反馈请求\n这次最重要的修改：原来是什么、为什么改、现在怎样更清楚？\n查看已保留的修订版本\n04 / 只练一个动作，再换题检查\n\n用 60–80 词写一个权衡段：承认一项收益，说明一项居民成本，再明确为何其中一项更重。\n\n我的局部练习\n展开参考与核对方法\n下次优先处理\n回应题目 / 概览\n组织与展开\n词汇与搭配\n句子与语法\n换题独立检查\n计划复查日期\n把题目每个问句单独列出；为每一问写一句明确回答，再核对首稿有没有漏答。\n下一次具体做什么？到什么状态算完成？\n\n换到小学课堂题，用同样的“条件—机制—结果”写一个游戏例子；这次必须回应两问。 打开下一题 →\n\n同题修订属于熟题练习；新题是否真的未见，请按自己的接触情况记录。\n\n所有输入随本册「备份学习记录」保存；本题导出包含首稿、修订、检查证据与反馈请求。这里提供自检与修订工具，不自动评分。\n\n考试要求与本区用法",
+      "overflow": []
+    },
+    {
+      "requested": "ww-tourism-draft",
+      "kind": "writing-draft-click",
+      "actual": "#ww-tourism-draft",
+      "title": "写作工作台 · IELTS",
+      "topLabel": "写作工作台",
+      "activeNav": [
+        {
+          "go": "workspace",
+          "label": "学习工作台"
+        }
+      ],
+      "panels": [
+        {
+          "id": "writing-workbench",
+          "owner": "workspace",
+          "title": "写作工作台",
+          "x": 18,
+          "y": -1829,
+          "w": 354,
+          "h": 6468
+        }
+      ],
+      "headings": [
+        {
+          "tag": "H1",
+          "text": "写作工作台",
+          "x": 18,
+          "y": -1739,
+          "w": 354,
+          "h": 38
+        },
+        {
+          "tag": "H2",
+          "text": "旅游收益与居民成本",
+          "x": 18,
+          "y": -1370,
+          "w": 354,
+          "h": 38
+        },
+        {
+          "tag": "H3",
+          "text": "01 / 审题与提纲",
+          "x": 18,
+          "y": -1182,
+          "w": 354,
+          "h": 32
+        },
+        {
+          "tag": "H3",
+          "text": "02 / 留下自己的首稿",
+          "x": 18,
+          "y": 140,
+          "w": 354,
+          "h": 32
+        },
+        {
+          "tag": "H3",
+          "text": "03 / 四维检查与修订",
+          "x": 18,
+          "y": 983,
+          "w": 354,
+          "h": 32
+        },
+        {
+          "tag": "H3",
+          "text": "04 / 只练一个动作，再换题检查",
+          "x": 18,
+          "y": 3510,
+          "w": 354,
+          "h": 32
+        }
+      ],
+      "controls": [
+        {
+          "tag": "A",
+          "id": "",
+          "text": "← 返回学习工作台",
+          "href": "#workspace",
+          "disabled": false,
+          "x": 18,
+          "y": -1829,
+          "w": 116,
+          "h": 32
+        },
+        {
+          "tag": "SELECT",
+          "id": "ww-task-picker",
+          "text": "Task 1 · 折线图 · 四行业就业\nTask 1 · 流程图 · 砖块制造\nTask 1 · 平面图 · 学院咖啡厅改造\nTask 2 · 教育 · 小学课堂中的学习与游戏\nTask 2 · 旅游 · 旅游收益与居民成本\nTask 2 · 城市住房 · 高层住宅是否是最佳方",
+          "href": null,
+          "disabled": false,
+          "x": 18,
+          "y": -1522,
+          "w": 354,
+          "h": 43
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "学习记录与备份 →",
+          "href": "#records",
+          "disabled": false,
+          "x": 18,
+          "y": -1477,
+          "w": 116,
+          "h": 19
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "01 审题",
+          "href": "#ww-tourism-plan",
+          "disabled": false,
+          "x": 18,
+          "y": -1265,
+          "w": 69,
+          "h": 38
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "02 首稿",
+          "href": "#ww-tourism-draft",
+          "disabled": false,
+          "x": 95,
+          "y": -1265,
+          "w": 69,
+          "h": 38
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "03 检查与修订",
+          "href": "#ww-tourism-review",
+          "disabled": false,
+          "x": 172,
+          "y": -1265,
+          "w": 108,
+          "h": 38
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "04 再练",
+          "href": "#ww-tourism-next",
+          "disabled": false,
+          "x": 288,
+          "y": -1265,
+          "w": 69,
+          "h": 38
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "IELTS Academic Writing Sample Tasks (2023) · Task 2B",
+          "href": "case-assets/writing-official-sample-tasks-2023.pdf#page=7",
+          "disabled": false,
+          "x": 18,
+          "y": -862,
+          "w": 339,
+          "h": 39
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "打开原有局部练习与参考",
+          "href": "#pr-writing2-tourism",
+          "disabled": false,
+          "x": 18,
+          "y": -807,
+          "w": 143,
+          "h": 22
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "回到本科学习",
+          "href": "#writing2",
+          "disabled": false,
+          "x": 181,
+          "y": -807,
+          "w": 78,
+          "h": 22
+        },
+        {
+          "tag": "TEXTAREA",
+          "id": "",
+          "text": "",
+          "href": null,
+          "disabled": false,
+          "x": 18,
+          "y": -676,
+          "w": 354,
+          "h": 98
+        },
+        {
+          "tag": "TEXTAREA",
+          "id": "",
+          "text": "",
+          "href": null,
+          "disabled": false,
+          "x": 18,
+          "y": -495,
+          "w": 354,
+          "h": 98
+        },
+        {
+          "tag": "TEXTAREA",
+          "id": "",
+          "text": "",
+          "href": null,
+          "disabled": false,
+          "x": 18,
+          "y": -314,
+          "w": 354,
+          "h": 98
+        },
+        {
+          "tag": "TEXTAREA",
+          "id": "",
+          "text": "",
+          "href": null,
+          "disabled": false,
+          "x": 18,
+          "y": -109,
+          "w": 354,
+          "h": 98
+        },
+        {
+          "tag": "SUMMARY",
+          "id": "",
+          "text": "需要提示：看一种审题与展开方法",
+          "href": null,
+          "disabled": false,
+          "x": 35,
+          "y": 27,
+          "w": 320,
+          "h": 55
+        },
+        {
+          "tag": "INPUT",
+          "id": "",
+          "text": "",
+          "href": null,
+          "disabled": false,
+          "x": 22,
+          "y": 191,
+          "w": 13,
+          "h": 13
+        },
+        {
+          "tag": "INPUT",
+          "id": "",
+          "text": "",
+          "href": null,
+          "disabled": false,
+          "x": 22,
+          "y": 231,
+          "w": 13,
+          "h": 13
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "开始 40 分钟",
+          "href": null,
+          "disabled": false,
+          "x": 111,
+          "y": 266,
+          "w": 101,
+          "h": 44
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "重置计时",
+          "href": null,
+          "disabled": false,
+          "x": 220,
+          "y": 266,
+          "w": 76,
+          "h": 44
+        },
+        {
+          "tag": "TEXTAREA",
+          "id": "",
+          "text": "",
+          "href": null,
+          "disabled": false,
+          "x": 18,
+          "y": 385,
+          "w": 354,
+          "h": 450
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "保留首稿，开始修订",
+          "href": null,
+          "disabled": false,
+          "x": 18,
+          "y": 886,
+          "w": 146,
+          "h": 44
+        },
+        {
+          "tag": "SELECT",
+          "id": "",
+          "text": "尚未检查\n发现问题，待修订\n已核对并处理\n仍不确定",
+          "href": null,
+          "disabled": false,
+          "x": 36,
+          "y": 1243,
+          "w": 318,
+          "h": 43
+        },
+        {
+          "tag": "TEXTAREA",
+          "id": "",
+          "text": "",
+          "href": null,
+          "disabled": false,
+          "x": 36,
+          "y": 1331,
+          "w": 318,
+          "h": 92
+        },
+        {
+          "tag": "SELECT",
+          "id": "",
+          "text": "尚未检查\n发现问题，待修订\n已核对并处理\n仍不确定",
+          "href": null,
+          "disabled": false,
+          "x": 36,
+          "y": 1629,
+          "w": 318,
+          "h": 43
+        },
+        {
+          "tag": "TEXTAREA",
+          "id": "",
+          "text": "",
+          "href": null,
+          "disabled": false,
+          "x": 36,
+          "y": 1716,
+          "w": 318,
+          "h": 92
+        },
+        {
+          "tag": "SELECT",
+          "id": "",
+          "text": "尚未检查\n发现问题，待修订\n已核对并处理\n仍不确定",
+          "href": null,
+          "disabled": false,
+          "x": 36,
+          "y": 2014,
+          "w": 318,
+          "h": 43
+        },
+        {
+          "tag": "TEXTAREA",
+          "id": "",
+          "text": "",
+          "href": null,
+          "disabled": false,
+          "x": 36,
+          "y": 2101,
+          "w": 318,
+          "h": 92
+        },
+        {
+          "tag": "SELECT",
+          "id": "",
+          "text": "尚未检查\n发现问题，待修订\n已核对并处理\n仍不确定",
+          "href": null,
+          "disabled": false,
+          "x": 36,
+          "y": 2399,
+          "w": 318,
+          "h": 43
+        },
+        {
+          "tag": "TEXTAREA",
+          "id": "",
+          "text": "",
+          "href": null,
+          "disabled": false,
+          "x": 36,
+          "y": 2487,
+          "w": 318,
+          "h": 92
+        },
+        {
+          "tag": "TEXTAREA",
+          "id": "",
+          "text": "",
+          "href": null,
+          "disabled": false,
+          "x": 18,
+          "y": 2662,
+          "w": 354,
+          "h": 450
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "另存本次修订版本",
+          "href": null,
+          "disabled": false,
+          "x": 18,
+          "y": 3164,
+          "w": 132,
+          "h": 44
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "导出本题作答与反馈请求",
+          "href": null,
+          "disabled": false,
+          "x": 158,
+          "y": 3164,
+          "w": 174,
+          "h": 44
+        },
+        {
+          "tag": "TEXTAREA",
+          "id": "",
+          "text": "",
+          "href": null,
+          "disabled": false,
+          "x": 18,
+          "y": 3276,
+          "w": 354,
+          "h": 98
+        },
+        {
+          "tag": "SUMMARY",
+          "id": "",
+          "text": "查看已保留的修订版本",
+          "href": null,
+          "disabled": false,
+          "x": 35,
+          "y": 3397,
+          "w": 320,
+          "h": 55
+        },
+        {
+          "tag": "TEXTAREA",
+          "id": "",
+          "text": "",
+          "href": null,
+          "disabled": false,
+          "x": 18,
+          "y": 3654,
+          "w": 354,
+          "h": 148
+        },
+        {
+          "tag": "SUMMARY",
+          "id": "",
+          "text": "展开参考与核对方法",
+          "href": null,
+          "disabled": false,
+          "x": 35,
+          "y": 3825,
+          "w": 320,
+          "h": 55
+        },
+        {
+          "tag": "SELECT",
+          "id": "",
+          "text": "回应题目 / 概览\n组织与展开\n词汇与搭配\n句子与语法\n换题独立检查",
+          "href": null,
+          "disabled": false,
+          "x": 18,
+          "y": 3942,
+          "w": 145,
+          "h": 43
+        },
+        {
+          "tag": "INPUT",
+          "id": "",
+          "text": "",
+          "href": null,
+          "disabled": false,
+          "x": 18,
+          "y": 4062,
+          "w": 154,
+          "h": 48
+        },
+        {
+          "tag": "TEXTAREA",
+          "id": "",
+          "text": "",
+          "href": null,
+          "disabled": false,
+          "x": 18,
+          "y": 4244,
+          "w": 354,
+          "h": 72
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "打开下一题 →",
+          "href": "#ww-primary",
+          "disabled": false,
+          "x": 218,
+          "y": 4366,
+          "w": 88,
+          "h": 19
+        },
+        {
+          "tag": "SUMMARY",
+          "id": "",
+          "text": "考试要求与本区用法",
+          "href": null,
+          "disabled": false,
+          "x": 35,
+          "y": 4583,
+          "w": 320,
+          "h": 55
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "",
+          "href": "https://ielts.org/take-a-test/test-types/ielts-academic-test/ielts-academic-format-writing",
+          "disabled": false,
+          "x": 35,
+          "y": 4845,
+          "w": 122,
+          "h": 19
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "",
+          "href": "https://ielts.org/cdn/ielts-guides/ielts-writing-band-descriptors.pdf",
+          "disabled": false,
+          "x": 169,
+          "y": 4845,
+          "w": 112,
+          "h": 19
+        }
+      ],
+      "hiddenVisible": [],
+      "bodyWidth": 390,
+      "viewport": 390,
+      "scrollY": 2009,
+      "visibleText": "← 返回学习工作台\n\nWRITE · REVIEW · REWRITE\n\n写作工作台\n\n从一份首稿开始，找出一个具体问题，再写得更清楚。\n\nTask 1 与 Task 2 共用审题、写作、检查和修订流程。每道题的记录单独保留。\n\n选一道题，或继续上次作答\nTask 1 · 折线图 · 四行业就业\nTask 1 · 流程图 · 砖块制造\nTask 1 · 平面图 · 学院咖啡厅改造\nTask 2 · 教育 · 小学课堂中的学习与游戏\nTask 2 · 旅游 · 旅游收益与居民成本\nTask 2 · 城市住房 · 高层住宅是否是最佳方案\n学习记录与备份 →\n\n旅游收益与居民成本 · 尚未开始\n\nTask 2 · 旅游\n旅游收益与居民成本\n\n比较利弊的分量，说明为什么一方更重要\n\n01 审题\n02 首稿\n03 检查与修订\n04 再练\n01 / 审题与提纲\nInternational tourism has brought enormous benefit to many places. At the same time, there is concern about its impact on local inhabitants and the environment. Do the disadvantages of international tourism outweigh the advantages?\n\n题意沿用现有练习文字；正式题面、图示与完整要求以原件为准。IELTS Academic Writing Sample Tasks (2023) · Task 2B\n\n打开原有局部练习与参考\n回到本科学习\n\n回应题目，用理由与例子支持立场，至少 250 词，建议约 40 分钟。 可直接开始首稿；提纲为可选准备。\n\noutweigh 要求什么判断？涉及哪些受影响对象？\n我的结论：哪一方更重？比较依据是什么？\n优势段：收益 → 作用机制 → 对谁有利？\n不利段与权衡：持续时间、影响范围或可缓解程度如何比较？\n需要提示：看一种审题与展开方法\n02 / 留下自己的首稿\n 以前写过这题 / 看过答案\n 本次参考过提示、词典或范例\n40:00\n开始 40 分钟\n重置计时\n到时保留输入，刷新后继续计时。\n首稿 · 保留后锁定，修改在下方进行\n0 词（估算） · 距建议最低字数还差 250 词\n保留首稿，开始修订\n03 / 四维检查与修订\n\n先找一个最影响表达的问题，摘出自己的句子，再修改。检查结果是你的判断，不会换算 band。\n\n任务完成 / 回应 · TA / TR\n\n所有问句是否回应？立场是否一直清楚？理由是否解释了为什么，并有相关例子或证据？\n\n检查结果\n尚未检查\n发现问题，待修订\n已核对并处理\n仍不确定\n证据：摘一句原文 → 问题 / 判断依据 → 怎样改\n组织与衔接 · CC\n\n每段是否承担清楚的功能？句子之间关系是否真实？代词指向是否明确？不要只统计连接词。\n\n检查结果\n尚未检查\n发现问题，待修订\n已核对并处理\n仍不确定\n证据：摘一句原文 → 问题 / 判断依据 → 怎样改\n词汇使用 · LR\n\n关键词含义、搭配与拼写是否准确？替换词是否保留原意？优先修正用错的词。\n\n检查结果\n尚未检查\n发现问题，待修订\n已核对并处理\n仍不确定\n证据：摘一句原文 → 问题 / 判断依据 → 怎样改\n语法范围与准确性 · GRA\n\n时态、主谓、冠词与标点是否正确？复杂句是否表达需要的关系？检查一条复杂句与一条简单句。\n\n检查结果\n尚未检查\n发现问题，待修订\n已核对并处理\n仍不确定\n证据：摘一句原文 → 问题 / 判断依据 → 怎样改\n修订稿 · 与首稿分开保存\n0 词（估算） · 距建议最低字数还差 250 词\n另存本次修订版本\n导出本题作答与反馈请求\n这次最重要的修改：原来是什么、为什么改、现在怎样更清楚？\n查看已保留的修订版本\n04 / 只练一个动作，再换题检查\n\n用 60–80 词写一个权衡段：承认一项收益，说明一项居民成本，再明确为何其中一项更重。\n\n我的局部练习\n展开参考与核对方法\n下次优先处理\n回应题目 / 概览\n组织与展开\n词汇与搭配\n句子与语法\n换题独立检查\n计划复查日期\n把题目每个问句单独列出；为每一问写一句明确回答，再核对首稿有没有漏答。\n下一次具体做什么？到什么状态算完成？\n\n换到小学课堂题，用同样的“条件—机制—结果”写一个游戏例子；这次必须回应两问。 打开下一题 →\n\n同题修订属于熟题练习；新题是否真的未见，请按自己的接触情况记录。\n\n所有输入随本册「备份学习记录」保存；本题导出包含首稿、修订、检查证据与反馈请求。这里提供自检与修订工具，不自动评分。\n\n考试要求与本区用法",
+      "overflow": []
+    },
+    {
+      "requested": "study-speaking-list",
+      "kind": "mobile-personal-pass",
+      "actual": "#study-speaking-list",
+      "title": "学习 / 口语 · IELTS",
+      "topLabel": "学习 / 口语",
+      "activeNav": [
+        {
+          "go": "study",
+          "label": "学习"
+        }
+      ],
+      "panels": [
+        {
+          "id": "study",
+          "owner": "study",
+          "title": "学习",
+          "x": 18,
+          "y": 180,
+          "w": 354,
+          "h": 7964
+        }
+      ],
+      "headings": [
+        {
+          "tag": "H1",
+          "text": "学习 · 口语",
+          "x": 18,
+          "y": 202,
+          "w": 354,
+          "h": 36
+        },
+        {
+          "tag": "H3",
+          "text": "旅游信息：一次具体使用经历",
+          "x": 37,
+          "y": 853,
+          "w": 316,
+          "h": 27
+        },
+        {
+          "tag": "H3",
+          "text": "园艺的未来：有条件地预测",
+          "x": 37,
+          "y": 1137,
+          "w": 316,
+          "h": 27
+        },
+        {
+          "tag": "H3",
+          "text": "住宅与花园：解释实际好处",
+          "x": 37,
+          "y": 1420,
+          "w": 316,
+          "h": 27
+        },
+        {
+          "tag": "H3",
+          "text": "购物方式与不必要消费",
+          "x": 37,
+          "y": 1704,
+          "w": 316,
+          "h": 27
+        },
+        {
+          "tag": "H3",
+          "text": "诚实与儿童：比较观点",
+          "x": 37,
+          "y": 1988,
+          "w": 316,
+          "h": 27
+        },
+        {
+          "tag": "H3",
+          "text": "公寓里种植：给可行方案",
+          "x": 37,
+          "y": 2271,
+          "w": 316,
+          "h": 27
+        },
+        {
+          "tag": "H3",
+          "text": "广告的准确性与购买决定",
+          "x": 37,
+          "y": 2555,
+          "w": 316,
+          "h": 27
+        },
+        {
+          "tag": "H3",
+          "text": "面包与日常饮食",
+          "x": 37,
+          "y": 2838,
+          "w": 316,
+          "h": 27
+        },
+        {
+          "tag": "H3",
+          "text": "理发：习惯与最近变化",
+          "x": 37,
+          "y": 3122,
+          "w": 316,
+          "h": 27
+        },
+        {
+          "tag": "H3",
+          "text": "有竞争心的人：具体事件支撑性格",
+          "x": 37,
+          "y": 3405,
+          "w": 316,
+          "h": 27
+        },
+        {
+          "tag": "H3",
+          "text": "花钱与储蓄：程度和原因",
+          "x": 37,
+          "y": 3689,
+          "w": 316,
+          "h": 27
+        },
+        {
+          "tag": "H3",
+          "text": "不真实的信息：发现问题与核对",
+          "x": 37,
+          "y": 3973,
+          "w": 316,
+          "h": 27
+        },
+        {
+          "tag": "H3",
+          "text": "城市生活：吸引力与不便",
+          "x": 37,
+          "y": 4256,
+          "w": 316,
+          "h": 27
+        },
+        {
+          "tag": "H3",
+          "text": "公园：从空间细节讲清兴趣",
+          "x": 37,
+          "y": 4540,
+          "w": 316,
+          "h": 27
+        },
+        {
+          "tag": "H3",
+          "text": "景点：免费开放与失望原因",
+          "x": 37,
+          "y": 4823,
+          "w": 316,
+          "h": 27
+        },
+        {
+          "tag": "H3",
+          "text": "竞争与参与：比较体育观点",
+          "x": 37,
+          "y": 5107,
+          "w": 316,
+          "h": 27
+        },
+        {
+          "tag": "H3",
+          "text": "真实回答：家乡的四次问答",
+          "x": 37,
+          "y": 5390,
+          "w": 316,
+          "h": 27
+        },
+        {
+          "tag": "H3",
+          "text": "真实讨论：地位象征与未来变化",
+          "x": 37,
+          "y": 5674,
+          "w": 316,
+          "h": 27
+        },
+        {
+          "tag": "H3",
+          "text": "口语 · 从原题开始学",
+          "x": 37,
+          "y": 5957,
+          "w": 316,
+          "h": 27
+        },
+        {
+          "tag": "H3",
+          "text": "工作：收入、稳定性与生活安排",
+          "x": 37,
+          "y": 6241,
+          "w": 316,
+          "h": 27
+        },
+        {
+          "tag": "H3",
+          "text": "居住经验：城市的吸引力与取舍",
+          "x": 37,
+          "y": 6525,
+          "w": 316,
+          "h": 27
+        },
+        {
+          "tag": "H3",
+          "text": "认识的人：竞争心如何体现",
+          "x": 37,
+          "y": 6808,
+          "w": 316,
+          "h": 27
+        },
+        {
+          "tag": "H3",
+          "text": "日常选择：付款与购买教训",
+          "x": 37,
+          "y": 7092,
+          "w": 316,
+          "h": 27
+        },
+        {
+          "tag": "H3",
+          "text": "兴趣与地方：观察公园细节",
+          "x": 37,
+          "y": 7375,
+          "w": 316,
+          "h": 27
+        },
+        {
+          "tag": "H3",
+          "text": "经历与变化：核对一条信息",
+          "x": 37,
+          "y": 7659,
+          "w": 316,
+          "h": 27
+        },
+        {
+          "tag": "H3",
+          "text": "旅行计划：信息怎样帮助行动",
+          "x": 37,
+          "y": 7942,
+          "w": 316,
+          "h": 27
+        }
+      ],
+      "controls": [
+        {
+          "tag": "A",
+          "id": "",
+          "text": "← 返回学习",
+          "href": "#study",
+          "disabled": false,
+          "x": 18,
+          "y": 333,
+          "w": 74,
+          "h": 32
+        },
+        {
+          "tag": "SELECT",
+          "id": "la-study-topic",
+          "text": "全部\n健康与消费\n城市与交通\n家庭与关系\n工作与生活\n旅行与地方\n通用",
+          "href": null,
+          "disabled": false,
+          "x": 34,
+          "y": 465,
+          "w": 322,
+          "h": 40
+        },
+        {
+          "tag": "SELECT",
+          "id": "la-study-part",
+          "text": "全部",
+          "href": null,
+          "disabled": false,
+          "x": 34,
+          "y": 547,
+          "w": 322,
+          "h": 40
+        },
+        {
+          "tag": "SELECT",
+          "id": "la-study-type",
+          "text": "全部\n匹配题\n图表\n表达与运用\n观点与论证\n选择题",
+          "href": null,
+          "disabled": false,
+          "x": 34,
+          "y": 629,
+          "w": 322,
+          "h": 40
+        },
+        {
+          "tag": "INPUT",
+          "id": "la-study-search",
+          "text": "搜索本类内容",
+          "href": null,
+          "disabled": false,
+          "x": 34,
+          "y": 712,
+          "w": 322,
+          "h": 40
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "进入学习 →",
+          "href": "#speaking-new-sep26-journeys",
+          "disabled": false,
+          "x": 37,
+          "y": 1002,
+          "w": 74,
+          "h": 24
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "加入今天",
+          "href": null,
+          "disabled": false,
+          "x": 267,
+          "y": 992,
+          "w": 86,
+          "h": 44
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "进入学习 →",
+          "href": "#speaking-new-sep26-recycling",
+          "disabled": false,
+          "x": 37,
+          "y": 1286,
+          "w": 74,
+          "h": 24
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "加入今天",
+          "href": null,
+          "disabled": false,
+          "x": 267,
+          "y": 1276,
+          "w": 86,
+          "h": 44
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "进入学习 →",
+          "href": "#speaking-new-sep26-energy",
+          "disabled": false,
+          "x": 37,
+          "y": 1569,
+          "w": 74,
+          "h": 24
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "加入今天",
+          "href": null,
+          "disabled": false,
+          "x": 267,
+          "y": 1559,
+          "w": 86,
+          "h": 44
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "进入学习 →",
+          "href": "#speaking-new-sep26-shoes-shopping",
+          "disabled": false,
+          "x": 37,
+          "y": 1853,
+          "w": 74,
+          "h": 24
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "加入今天",
+          "href": null,
+          "disabled": false,
+          "x": 267,
+          "y": 1843,
+          "w": 86,
+          "h": 44
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "进入学习 →",
+          "href": "#speaking-new-sep26-politeness",
+          "disabled": false,
+          "x": 37,
+          "y": 2137,
+          "w": 74,
+          "h": 24
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "加入今天",
+          "href": null,
+          "disabled": false,
+          "x": 267,
+          "y": 2126,
+          "w": 86,
+          "h": 44
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "进入学习 →",
+          "href": "#speaking-new-sep26-fruit-vegetables",
+          "disabled": false,
+          "x": 37,
+          "y": 2420,
+          "w": 74,
+          "h": 24
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "加入今天",
+          "href": null,
+          "disabled": false,
+          "x": 267,
+          "y": 2410,
+          "w": 86,
+          "h": 44
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "进入学习 →",
+          "href": "#speaking-new-sep26-advertising",
+          "disabled": false,
+          "x": 37,
+          "y": 2704,
+          "w": 74,
+          "h": 24
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "加入今天",
+          "href": null,
+          "disabled": false,
+          "x": 267,
+          "y": 2693,
+          "w": 86,
+          "h": 44
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "进入学习 →",
+          "href": "#speaking-new-sep26-paper",
+          "disabled": false,
+          "x": 37,
+          "y": 2987,
+          "w": 74,
+          "h": 24
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "加入今天",
+          "href": null,
+          "disabled": false,
+          "x": 267,
+          "y": 2977,
+          "w": 86,
+          "h": 44
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "进入学习 →",
+          "href": "#speaking-new-sep26-school-skills",
+          "disabled": false,
+          "x": 37,
+          "y": 3271,
+          "w": 74,
+          "h": 24
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "加入今天",
+          "href": null,
+          "disabled": false,
+          "x": 267,
+          "y": 3261,
+          "w": 86,
+          "h": 44
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "进入学习 →",
+          "href": "#speaking-new-sep26-names-people",
+          "disabled": false,
+          "x": 37,
+          "y": 3554,
+          "w": 74,
+          "h": 24
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "加入今天",
+          "href": null,
+          "disabled": false,
+          "x": 267,
+          "y": 3544,
+          "w": 86,
+          "h": 44
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "进入学习 →",
+          "href": "#speaking-new-sep26-decisions-success",
+          "disabled": false,
+          "x": 37,
+          "y": 3838,
+          "w": 74,
+          "h": 24
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "加入今天",
+          "href": null,
+          "disabled": false,
+          "x": 267,
+          "y": 3828,
+          "w": 86,
+          "h": 44
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "进入学习 →",
+          "href": "#speaking-new-sep26-organisation",
+          "disabled": false,
+          "x": 37,
+          "y": 4121,
+          "w": 74,
+          "h": 24
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "加入今天",
+          "href": null,
+          "disabled": false,
+          "x": 267,
+          "y": 4111,
+          "w": 86,
+          "h": 44
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "进入学习 →",
+          "href": "#speaking-new-sep26-city-spaces",
+          "disabled": false,
+          "x": 37,
+          "y": 4405,
+          "w": 74,
+          "h": 24
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "加入今天",
+          "href": null,
+          "disabled": false,
+          "x": 267,
+          "y": 4395,
+          "w": 86,
+          "h": 44
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "进入学习 →",
+          "href": "#speaking-new-sep26-creative-history",
+          "disabled": false,
+          "x": 37,
+          "y": 4689,
+          "w": 74,
+          "h": 24
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "加入今天",
+          "href": null,
+          "disabled": false,
+          "x": 267,
+          "y": 4678,
+          "w": 86,
+          "h": 44
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "进入学习 →",
+          "href": "#speaking-new-sep26-media",
+          "disabled": false,
+          "x": 37,
+          "y": 4972,
+          "w": 74,
+          "h": 24
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "加入今天",
+          "href": null,
+          "disabled": false,
+          "x": 267,
+          "y": 4962,
+          "w": 86,
+          "h": 44
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "进入学习 →",
+          "href": "#speaking-new-sep26-friends-happiness",
+          "disabled": false,
+          "x": 37,
+          "y": 5256,
+          "w": 74,
+          "h": 24
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "加入今天",
+          "href": null,
+          "disabled": false,
+          "x": 267,
+          "y": 5246,
+          "w": 86,
+          "h": 44
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "进入学习 →",
+          "href": "#learn-speaking_part1_natural_answers",
+          "disabled": false,
+          "x": 37,
+          "y": 5539,
+          "w": 74,
+          "h": 24
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "加入今天",
+          "href": null,
+          "disabled": false,
+          "x": 267,
+          "y": 5529,
+          "w": 86,
+          "h": 44
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "进入学习 →",
+          "href": "#learn-speaking_part3_explain_compare",
+          "disabled": false,
+          "x": 37,
+          "y": 5823,
+          "w": 74,
+          "h": 24
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "加入今天",
+          "href": null,
+          "disabled": false,
+          "x": 267,
+          "y": 5813,
+          "w": 86,
+          "h": 44
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "进入学习 →",
+          "href": "#speaking-first",
+          "disabled": false,
+          "x": 37,
+          "y": 6106,
+          "w": 74,
+          "h": 24
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "加入今天",
+          "href": null,
+          "disabled": false,
+          "x": 267,
+          "y": 6096,
+          "w": 86,
+          "h": 44
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "进入学习 →",
+          "href": "#topic-work",
+          "disabled": false,
+          "x": 37,
+          "y": 6390,
+          "w": 74,
+          "h": 24
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "加入今天",
+          "href": null,
+          "disabled": false,
+          "x": 267,
+          "y": 6380,
+          "w": 86,
+          "h": 44
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "进入学习 →",
+          "href": "#topic-personal-home_neighbourhood",
+          "disabled": false,
+          "x": 37,
+          "y": 6674,
+          "w": 74,
+          "h": 24
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "加入今天",
+          "href": null,
+          "disabled": false,
+          "x": 267,
+          "y": 6663,
+          "w": 86,
+          "h": 44
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "进入学习 →",
+          "href": "#topic-personal-relationships",
+          "disabled": false,
+          "x": 37,
+          "y": 6957,
+          "w": 74,
+          "h": 24
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "加入今天",
+          "href": null,
+          "disabled": false,
+          "x": 267,
+          "y": 6947,
+          "w": 86,
+          "h": 44
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "进入学习 →",
+          "href": "#topic-personal-daily_choices",
+          "disabled": false,
+          "x": 37,
+          "y": 7241,
+          "w": 74,
+          "h": 24
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "加入今天",
+          "href": null,
+          "disabled": false,
+          "x": 267,
+          "y": 7230,
+          "w": 86,
+          "h": 44
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "进入学习 →",
+          "href": "#topic-personal-interests_skills",
+          "disabled": false,
+          "x": 37,
+          "y": 7524,
+          "w": 74,
+          "h": 24
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "加入今天",
+          "href": null,
+          "disabled": false,
+          "x": 267,
+          "y": 7514,
+          "w": 86,
+          "h": 44
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "进入学习 →",
+          "href": "#topic-personal-experiences_changes",
+          "disabled": false,
+          "x": 37,
+          "y": 7808,
+          "w": 74,
+          "h": 24
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "加入今天",
+          "href": null,
+          "disabled": false,
+          "x": 267,
+          "y": 7798,
+          "w": 86,
+          "h": 44
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "进入学习 →",
+          "href": "#topic-personal-places_weather",
+          "disabled": false,
+          "x": 37,
+          "y": 8091,
+          "w": 74,
+          "h": 24
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "加入今天",
+          "href": null,
+          "disabled": false,
+          "x": 267,
+          "y": 8081,
+          "w": 86,
+          "h": 44
+        }
+      ],
+      "hiddenVisible": [],
+      "bodyWidth": 390,
+      "viewport": 390,
+      "scrollY": 0,
+      "visibleText": "学习 · 口语\n\n26 项内容 · 按需要选一项开始。\n\n← 返回学习\n0% · 0 / 26 单元\n话题\n全部\n健康与消费\n城市与交通\n家庭与关系\n工作与生活\n旅行与地方\n通用\nPart\n全部\n题型／内容\n全部\n匹配题\n图表\n表达与运用\n观点与论证\n选择题\n内容或题型\n\n口语 · 旅行与地方\n\n旅游信息：一次具体使用经历\n\n讲解与配套练习，可按需要选学。\n\n0% · 0 / 1 完成\n进入学习 →\n加入今天\n\n口语 · 通用\n\n园艺的未来：有条件地预测\n\n讲解与配套练习，可按需要选学。\n\n0% · 0 / 1 完成\n进入学习 →\n加入今天\n\n口语 · 通用\n\n住宅与花园：解释实际好处\n\n讲解与配套练习，可按需要选学。\n\n0% · 0 / 1 完成\n进入学习 →\n加入今天\n\n口语 · 健康与消费\n\n购物方式与不必要消费\n\n讲解与配套练习，可按需要选学。\n\n0% · 0 / 1 完成\n进入学习 →\n加入今天\n\n口语 · 家庭与关系\n\n诚实与儿童：比较观点\n\n讲解与配套练习，可按需要选学。\n\n0% · 0 / 1 完成\n进入学习 →\n加入今天\n\n口语 · 通用\n\n公寓里种植：给可行方案\n\n讲解与配套练习，可按需要选学。\n\n0% · 0 / 1 完成\n进入学习 →\n加入今天\n\n口语 · 通用\n\n广告的准确性与购买决定\n\n讲解与配套练习，可按需要选学。\n\n0% · 0 / 1 完成\n进入学习 →\n加入今天\n\n口语 · 通用\n\n面包与日常饮食\n\n讲解与配套练习，可按需要选学。\n\n0% · 0 / 1 完成\n进入学习 →\n加入今天\n\n口语 · 通用\n\n理发：习惯与最近变化\n\n讲解与配套练习，可按需要选学。\n\n0% · 0 / 1 完成\n进入学习 →\n加入今天\n\n口语 · 通用\n\n有竞争心的人：具体事件支撑性格\n\n讲解与配套练习，可按需要选学。\n\n0% · 0 / 1 完成\n进入学习 →\n加入今天\n\n口语 · 通用\n\n花钱与储蓄：程度和原因\n\n讲解与配套练习，可按需要选学。\n\n0% · 0 / 1 完成\n进入学习 →\n加入今天\n\n口语 · 通用\n\n不真实的信息：发现问题与核对\n\n讲解与配套练习，可按需要选学。\n\n0% · 0 / 1 完成\n进入学习 →\n加入今天\n\n口语 · 城市与交通\n\n城市生活：吸引力与不便\n\n讲解与配套练习，可按需要选学。\n\n0% · 0 / 1 完成\n进入学习 →\n加入今天\n\n口语 · 旅行与地方\n\n公园：从空间细节讲清兴趣\n\n讲解与配套练习，可按需要选学。\n\n0% · 0 / 1 完成\n进入学习 →\n加入今天\n\n口语 · 旅行与地方\n\n景点：免费开放与失望原因\n\n讲解与配套练习，可按需要选学。\n\n0% · 0 / 1 完成\n进入学习 →\n加入今天\n\n口语 · 通用\n\n竞争与参与：比较体育观点\n\n讲解与配套练习，可按需要选学。\n\n0% · 0 / 1 完成\n进入学习 →\n加入今天\n\n口语 · 通用\n\n真实回答：家乡的四次问答\n\n讲解与配套练习，可按需要选学。\n\n0% · 0 / 1 完成\n进入学习 →\n加入今天\n\n口语 · 通用\n\n真实讨论：地位象征与未来变化\n\n讲解与配套练习，可按需要选学。\n\n0% · 0 / 1 完成\n进入学习 →\n加入今天\n\n口语 · 通用\n\n口语 · 从原题开始学\n\n讲解与配套练习，可按需要选学。\n\n0% · 0 / 0 完成\n进入学习 →\n加入今天\n\n口语 · 工作与生活\n\n工作：收入、稳定性与生活安排\n\n讲解与配套练习，可按需要选学。\n\n0% · 0 / 3 完成\n进入学习 →\n加入今天\n\n口语 · 城市与交通\n\n居住经验：城市的吸引力与取舍\n\n讲解与配套练习，可按需要选学。\n\n0% · 0 / 1 完成\n进入学习 →\n加入今天\n\n口语 · 通用\n\n认识的人：竞争心如何体现\n\n讲解与配套练习，可按需要选学。\n\n0% · 0 / 1 完成\n进入学习 →\n加入今天\n\n口语 · 通用\n\n日常选择：付款与购买教训\n\n讲解与配套练习，可按需要选学。\n\n0% · 0 / 1 完成\n进入学习 →\n加入今天\n\n口语 · 旅行与地方\n\n兴趣与地方：观察公园细节\n\n讲解与配套练习，可按需要选学。\n\n0% · 0 / 1 完成\n进入学习 →\n加入今天\n\n口语 · 通用\n\n经历与变化：核对一条信息\n\n讲解与配套练习，可按需要选学。\n\n0% · 0 / 1 完成\n进入学习 →\n加入今天\n\n口语 · 旅行与地方\n\n旅行计划：信息怎样帮助行动\n\n讲解与配套练习，可按需要选学。\n\n0% · 0 / 1 完成\n进入学习 →\n加入今天",
+      "overflow": []
+    },
+    {
+      "requested": "speaking-first",
+      "kind": "mobile-personal-pass",
+      "actual": "#speaking-first",
+      "title": "学习 / 口语 / 口语 · 从原题开始学 · IELTS",
+      "topLabel": "学习 / 口语 / 口语 · 从原题开始学",
+      "activeNav": [
+        {
+          "go": "study",
+          "label": "学习"
+        }
+      ],
+      "panels": [
+        {
+          "id": "speaking",
+          "owner": "study",
+          "title": "口语",
+          "x": 18,
+          "y": 180,
+          "w": 354,
+          "h": 2014
+        }
+      ],
+      "headings": [
+        {
+          "tag": "H2",
+          "text": "先做自己的答案",
+          "x": 18,
+          "y": 361,
+          "w": 354,
+          "h": 33
+        },
+        {
+          "tag": "H3",
+          "text": "重要物品 · 口语 Part 2",
+          "x": 34,
+          "y": 542,
+          "w": 322,
+          "h": 29
+        },
+        {
+          "tag": "H3",
+          "text": "我的首次作答",
+          "x": 39,
+          "y": 1513,
+          "w": 312,
+          "h": 24
+        },
+        {
+          "tag": "H2",
+          "text": "A. 熟题与同题追问分开记",
+          "x": 38,
+          "y": 2416,
+          "w": 314,
+          "h": 30
+        },
+        {
+          "tag": "H2",
+          "text": "B. 一个新追问",
+          "x": 38,
+          "y": 2771,
+          "w": 314,
+          "h": 30
+        },
+        {
+          "tag": "H2",
+          "text": "C. 换到另一个语境的短表达",
+          "x": 38,
+          "y": 3095,
+          "w": 314,
+          "h": 30
+        },
+        {
+          "tag": "H2",
+          "text": "后续完整口语检查",
+          "x": 38,
+          "y": 3468,
+          "w": 314,
+          "h": 30
+        }
+      ],
+      "controls": [
+        {
+          "tag": "A",
+          "id": "",
+          "text": "← 学习 / 口语",
+          "href": "#study-speaking-list",
+          "disabled": false,
+          "x": 18,
+          "y": 180,
+          "w": 88,
+          "h": 24
+        },
+        {
+          "tag": "SUMMARY",
+          "id": "",
+          "text": "查看原图 · 1 页",
+          "href": null,
+          "disabled": false,
+          "x": 34,
+          "y": 1397,
+          "w": 322,
+          "h": 54
+        },
+        {
+          "tag": "SELECT",
+          "id": "",
+          "text": "首次独立\n学习后应用／已看背景\n见过材料／熟题\n使用提示",
+          "href": null,
+          "disabled": false,
+          "x": 39,
+          "y": 1579,
+          "w": 150,
+          "h": 37
+        },
+        {
+          "tag": "INPUT",
+          "id": "",
+          "text": "",
+          "href": null,
+          "disabled": false,
+          "x": 201,
+          "y": 1579,
+          "w": 150,
+          "h": 39
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "开始录音",
+          "href": null,
+          "disabled": false,
+          "x": 39,
+          "y": 1691,
+          "w": 78,
+          "h": 41
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "结束并保留",
+          "href": null,
+          "disabled": true,
+          "x": 121,
+          "y": 1691,
+          "w": 89,
+          "h": 41
+        },
+        {
+          "tag": "INPUT",
+          "id": "",
+          "text": "",
+          "href": null,
+          "disabled": false,
+          "x": 39,
+          "y": 1776,
+          "w": 312,
+          "h": 20
+        },
+        {
+          "tag": "TEXTAREA",
+          "id": "",
+          "text": "",
+          "href": null,
+          "disabled": false,
+          "x": 39,
+          "y": 1877,
+          "w": 312,
+          "h": 78
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "保存首次作答，进入学习",
+          "href": null,
+          "disabled": false,
+          "x": 39,
+          "y": 1979,
+          "w": 312,
+          "h": 45
+        },
+        {
+          "tag": "SUMMARY",
+          "id": "",
+          "text": "可选：换一道题再试",
+          "href": null,
+          "disabled": false,
+          "x": 38,
+          "y": 2118,
+          "w": 314,
+          "h": 56
+        },
+        {
+          "tag": "SUMMARY",
+          "id": "",
+          "text": "",
+          "href": null,
+          "disabled": false,
+          "x": 52,
+          "y": 2887,
+          "w": 286,
+          "h": 56
+        },
+        {
+          "tag": "SUMMARY",
+          "id": "",
+          "text": "",
+          "href": null,
+          "disabled": false,
+          "x": 52,
+          "y": 3381,
+          "w": 286,
+          "h": 56
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "",
+          "href": "https://ielts.org/take-a-test/test-types/ielts-academic-test/ielts-academic-format-speaking",
+          "disabled": false,
+          "x": 226,
+          "y": 3542,
+          "w": 78,
+          "h": 17
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "",
+          "href": null,
+          "disabled": false,
+          "x": 38,
+          "y": 4222,
+          "w": 78,
+          "h": 41
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "",
+          "href": null,
+          "disabled": true,
+          "x": 120,
+          "y": 4222,
+          "w": 89,
+          "h": 41
+        },
+        {
+          "tag": "INPUT",
+          "id": "",
+          "text": "",
+          "href": null,
+          "disabled": false,
+          "x": 38,
+          "y": 4307,
+          "w": 314,
+          "h": 20
+        },
+        {
+          "tag": "TEXTAREA",
+          "id": "",
+          "text": "",
+          "href": null,
+          "disabled": false,
+          "x": 38,
+          "y": 4408,
+          "w": 314,
+          "h": 194
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "",
+          "href": "原始参考/support-2e9c2a8e-cambridge-zip-115047_Speaking_sample_task_-_Part_2.pdf#page=1",
+          "disabled": false,
+          "x": 124,
+          "y": 6505,
+          "w": 165,
+          "h": 19
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "",
+          "href": "原始参考/6c68dcc0-cambridge-zip-115051_Speaking_sample_task_-_Part_2_transcript.pdf#page=1",
+          "disabled": false,
+          "x": 54,
+          "y": 6531,
+          "w": 179,
+          "h": 19
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "",
+          "href": "原始参考/support-2e9c2a8e-cambridge-zip-115047_Speaking_sample_task_-_Part_2.pdf#page=1",
+          "disabled": false,
+          "x": 71,
+          "y": 6585,
+          "w": 165,
+          "h": 19
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "",
+          "href": "原始参考/6c68dcc0-cambridge-zip-115051_Speaking_sample_task_-_Part_2_transcript.pdf#page=1",
+          "disabled": false,
+          "x": 71,
+          "y": 6651,
+          "w": 179,
+          "h": 19
+        }
+      ],
+      "hiddenVisible": [],
+      "bodyWidth": 390,
+      "viewport": 390,
+      "scrollY": 0,
+      "visibleText": "← 学习 / 口语\n口语 · 从原题开始学\n0% · 0 / 0 完成\n先做自己的答案\n\n先只看Part 2 重要物品题卡，确认录音能收音后，给自己一分钟准备并记少量关键词，随后实际说 1—2 分钟，到两分钟停止。先不看或听示例，不先写完整稿；提前结束也保留原音，注明是否练过题目及实际时长。\n\n重要物品 · 口语 Part 2\nPart 2 – Individual long turn\nCandidate Task Card\n\nDescribe something you own which is very important to you.\n\nYou should say:\n\nwhere you got it from\nhow long you have had it\nwhat you use it for\n\nand explain why it is important to you.\n\nYou will have to talk about the topic for 1 to 2 minutes.\n\nYou have one minute to think about what you’re going to say.\n\nYou can make some notes to help you if you wish.\n\nRounding off questions\nIs it valuable in terms of money?\nWould it be easy to replace?\n查看原图 · 1 页\n我的首次作答\n本次条件\n首次独立\n学习后应用／已看背景\n见过材料／熟题\n使用提示\n实际用时（分钟）\n\n准备 1 分钟，随后说 1–2 分钟。点击录音会请求麦克风权限；也可以用自己的录音器。\n\n开始录音结束并保留\n或载入已有录音\n\n录音请单独下载保存；文字导出不包含音频。\n\n录音文件名、实际时长或原稿保存位置\n保存首次作答，进入学习\n\n首次稿尚未保存。\n\n可选：换一道题再试",
+      "overflow": []
+    },
+    {
+      "requested": "speaking-new-sep26-journeys",
+      "kind": "mobile-personal-pass",
+      "actual": "#speaking-new-sep26-journeys",
+      "title": "学习 / 口语 / 旅游信息：一次具体使用经历 · IELTS",
+      "topLabel": "学习 / 口语 / 旅游信息：一次具体使用经历",
+      "activeNav": [
+        {
+          "go": "study",
+          "label": "学习"
+        }
+      ],
+      "panels": [
+        {
+          "id": "speaking",
+          "owner": "study",
+          "title": "口语",
+          "x": 18,
+          "y": 180,
+          "w": 354,
+          "h": 2002
+        }
+      ],
+      "headings": [],
+      "controls": [
+        {
+          "tag": "A",
+          "id": "",
+          "text": "← 学习 / 口语",
+          "href": "#study-speaking-list",
+          "disabled": false,
+          "x": 18,
+          "y": 180,
+          "w": 88,
+          "h": 24
+        },
+        {
+          "tag": "SUMMARY",
+          "id": "",
+          "text": "旅游信息：一次具体使用经历",
+          "href": null,
+          "disabled": false,
+          "x": 32,
+          "y": 290,
+          "w": 326,
+          "h": 59
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "Cambridge IELTS 21 Academic · Test 1 · 物理页32 / 印刷页31",
+          "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=32",
+          "disabled": false,
+          "x": 36,
+          "y": 1734,
+          "w": 307,
+          "h": 42
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "Cambridge IELTS 21 Academic · Test 1 · 物理页32 / 印刷页31",
+          "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=32",
+          "disabled": false,
+          "x": 53,
+          "y": 1812,
+          "w": 271,
+          "h": 42
+        },
+        {
+          "tag": "INPUT",
+          "id": "",
+          "text": "",
+          "href": null,
+          "disabled": false,
+          "x": 57,
+          "y": 1939,
+          "w": 13,
+          "h": 13
+        },
+        {
+          "tag": "INPUT",
+          "id": "",
+          "text": "",
+          "href": null,
+          "disabled": false,
+          "x": 179,
+          "y": 1939,
+          "w": 13,
+          "h": 13
+        },
+        {
+          "tag": "TEXTAREA",
+          "id": "",
+          "text": "",
+          "href": null,
+          "disabled": false,
+          "x": 53,
+          "y": 2006,
+          "w": 284,
+          "h": 101
+        }
+      ],
+      "hiddenVisible": [],
+      "bodyWidth": 390,
+      "viewport": 390,
+      "scrollY": 0,
+      "visibleText": "← 学习 / 口语\n旅游信息：一次具体使用经历\n旅游信息：一次具体使用经历\n0% · 0 / 1 完成\n旅游信息：一次具体使用经历\n\n本单元使用真实 Part 2 问题。先看完整问题组，再比较参考作答如何逐问落实内容；人物经历为参考作答中的示例，不是原题事实或统一标准答案。\n\nDescribe a time when you used information for tourists, for example from a guidebook or online.\nwhere you got this information\nwhat place this information was about\nwhat information you got\nand explain whether this information was very helpful for you.\n参考作答\n\nI'd like to talk about some information I found on a museum's website before a weekend trip. I was planning to visit the city with my cousin, and neither of us knew the area well. We only had one afternoon there, so I wanted to find out what we could realistically fit in.\n\nThe website explained how to get from the railway station to the museum. It also showed the opening hours, the ticket prices and the times of the guided tours. The most useful detail was that the last admission was earlier than the closing time. Without that warning, we might have arrived too late.\n\nI saved the directions on my phone and booked a tour for the middle of the afternoon. The information was helpful because we spent less time making decisions after we arrived. One bus stop had temporarily moved, so we still had to ask someone for help. Even so, having the basic plan meant that this small problem didn't spoil the visit.\n\n逐项解释与练习\n\n题卡四点依次落在 museum website（来源）、museum in a city（地点）、交通／开放时间／最后入场时间（内容）、节省决策时间但公交站临时改变（有帮助与局限）。最后一项不是只说 useful：last admission 的具体后果解释了价值。练习核对：来源不应只说 online 而不说明什么网页；也无需编成网页永远准确。\n\n练习：保留题目中的对象、时间和问法，换成自己的真实经历。先口头作答，再对照上面的具体内容逐项检查；不需要逐字背诵参考作答。\n\n完整原件：Cambridge IELTS 21 Academic · Test 1 · 物理页32 / 印刷页31\n\nCambridge IELTS 21 Academic · Test 1 · 物理页32 / 印刷页31\n\n本单元的学习记录\n\n 我已学习本单元 加入我的复习\n我的新表达／本次复习记录（可留空）",
+      "overflow": []
+    },
+    {
+      "requested": "pr-speaking-p1",
+      "kind": "mobile-personal-pass",
+      "actual": "#pr-speaking-p1",
+      "title": "练习 / 口语 / Speaking Part 1 购物与储蓄 · IELTS",
+      "topLabel": "练习 / 口语 / Speaking Part 1 购物与储蓄",
+      "activeNav": [
+        {
+          "go": "practice",
+          "label": "练习"
+        }
+      ],
+      "panels": [
+        {
+          "id": "practice-speaking",
+          "owner": "practice",
+          "title": "口语练习",
+          "x": 18,
+          "y": 180,
+          "w": 354,
+          "h": 1067
+        }
+      ],
+      "headings": [],
+      "controls": [
+        {
+          "tag": "A",
+          "id": "",
+          "text": "← 练习 / 口语",
+          "href": "#practice-speaking-list",
+          "disabled": false,
+          "x": 18,
+          "y": 180,
+          "w": 88,
+          "h": 24
+        },
+        {
+          "tag": "SUMMARY",
+          "id": "",
+          "text": "Speaking Part 1\n购物与储蓄",
+          "href": null,
+          "disabled": false,
+          "x": 33,
+          "y": 354,
+          "w": 324,
+          "h": 108
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "开始录音",
+          "href": null,
+          "disabled": false,
+          "x": 38,
+          "y": 905,
+          "w": 78,
+          "h": 41
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "结束录音",
+          "href": null,
+          "disabled": true,
+          "x": 126,
+          "y": 905,
+          "w": 78,
+          "h": 41
+        },
+        {
+          "tag": "INPUT",
+          "id": "",
+          "text": "",
+          "href": null,
+          "disabled": false,
+          "x": 33,
+          "y": 982,
+          "w": 324,
+          "h": 20
+        },
+        {
+          "tag": "TEXTAREA",
+          "id": "",
+          "text": "",
+          "href": null,
+          "disabled": false,
+          "x": 33,
+          "y": 1084,
+          "w": 324,
+          "h": 76
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "Cambridge IELTS 21 Academic · Test 3 · 物理页75 / 印刷页74",
+          "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=75",
+          "disabled": false,
+          "x": 33,
+          "y": 1185,
+          "w": 321,
+          "h": 38
+        }
+      ],
+      "hiddenVisible": [],
+      "bodyWidth": 390,
+      "viewport": 390,
+      "scrollY": 0,
+      "visibleText": "← 练习 / 口语\nSpeaking Part 1 购物与储蓄\nSpeaking Part 1\n购物与储蓄\n0% · 0 / 0 完成\n\n依次口头回答。\n\nWhen you go shopping, do you usually pay for things by cash or by card?\n\nHave you ever spent money on something you didn't need?\n\nAre you generally careful about how much money you spend?\n\nHow important is it to you to save money for the future?\n\n开始录音结束录音\n载入录音\n\n录音需单独下载保存。\n\n录音文件名 / 要点\n\n选材来源 · Cambridge IELTS 21 Academic · Test 3 · 物理页75 / 印刷页74",
+      "overflow": []
+    },
+    {
+      "requested": "pr-speaking-p2",
+      "kind": "mobile-personal-pass",
+      "actual": "#pr-speaking-p2",
+      "title": "练习 / 口语 / Speaking Part 2 一个有竞争心的人 · IELTS",
+      "topLabel": "练习 / 口语 / Speaking Part 2 一个有竞争心的人",
+      "activeNav": [
+        {
+          "go": "practice",
+          "label": "练习"
+        }
+      ],
+      "panels": [
+        {
+          "id": "practice-speaking",
+          "owner": "practice",
+          "title": "口语练习",
+          "x": 18,
+          "y": 180,
+          "w": 354,
+          "h": 1159
+        }
+      ],
+      "headings": [],
+      "controls": [
+        {
+          "tag": "A",
+          "id": "",
+          "text": "← 练习 / 口语",
+          "href": "#practice-speaking-list",
+          "disabled": false,
+          "x": 18,
+          "y": 180,
+          "w": 88,
+          "h": 24
+        },
+        {
+          "tag": "SUMMARY",
+          "id": "",
+          "text": "Speaking Part 2\n一个有竞争心的人",
+          "href": null,
+          "disabled": false,
+          "x": 33,
+          "y": 354,
+          "w": 324,
+          "h": 108
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "开始录音",
+          "href": null,
+          "disabled": false,
+          "x": 38,
+          "y": 997,
+          "w": 78,
+          "h": 41
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "结束录音",
+          "href": null,
+          "disabled": true,
+          "x": 126,
+          "y": 997,
+          "w": 78,
+          "h": 41
+        },
+        {
+          "tag": "INPUT",
+          "id": "",
+          "text": "",
+          "href": null,
+          "disabled": false,
+          "x": 33,
+          "y": 1075,
+          "w": 324,
+          "h": 20
+        },
+        {
+          "tag": "TEXTAREA",
+          "id": "",
+          "text": "",
+          "href": null,
+          "disabled": false,
+          "x": 33,
+          "y": 1177,
+          "w": 324,
+          "h": 76
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "Cambridge IELTS 21 Academic · Test 4 · 物理页97 / 印刷页96",
+          "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=97",
+          "disabled": false,
+          "x": 33,
+          "y": 1277,
+          "w": 321,
+          "h": 38
+        }
+      ],
+      "hiddenVisible": [],
+      "bodyWidth": 390,
+      "viewport": 390,
+      "scrollY": 0,
+      "visibleText": "← 练习 / 口语\nSpeaking Part 2 一个有竞争心的人\nSpeaking Part 2\n一个有竞争心的人\n0% · 0 / 0 完成\n\n准备 1 分钟，然后连续说 1–2 分钟。\n\nDescribe a person you know who is very competitive.\n\nYou should say:\n\nwho this person is\n\nwhat this person is competitive about\n\nhow successful this person is\n\nand explain why you think this person is so competitive.\n\n开始作答。\n\n开始录音结束录音\n载入录音\n\n录音需单独下载保存。\n\n录音文件名 / 要点\n\n选材来源 · Cambridge IELTS 21 Academic · Test 4 · 物理页97 / 印刷页96",
+      "overflow": []
+    },
+    {
+      "requested": "pr-speaking-p3",
+      "kind": "mobile-personal-pass",
+      "actual": "#pr-speaking-p3",
+      "title": "练习 / 口语 / Speaking Part 3 体育中的竞争与参与 · IELTS",
+      "topLabel": "练习 / 口语 / Speaking Part 3 体育中的竞争与参与",
+      "activeNav": [
+        {
+          "go": "practice",
+          "label": "练习"
+        }
+      ],
+      "panels": [
+        {
+          "id": "practice-speaking",
+          "owner": "practice",
+          "title": "口语练习",
+          "x": 18,
+          "y": 180,
+          "w": 354,
+          "h": 940
+        }
+      ],
+      "headings": [],
+      "controls": [
+        {
+          "tag": "A",
+          "id": "",
+          "text": "← 练习 / 口语",
+          "href": "#practice-speaking-list",
+          "disabled": false,
+          "x": 18,
+          "y": 180,
+          "w": 88,
+          "h": 24
+        },
+        {
+          "tag": "SUMMARY",
+          "id": "",
+          "text": "Speaking Part 3\n体育中的竞争与参与",
+          "href": null,
+          "disabled": false,
+          "x": 33,
+          "y": 354,
+          "w": 324,
+          "h": 108
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "开始录音",
+          "href": null,
+          "disabled": false,
+          "x": 38,
+          "y": 778,
+          "w": 78,
+          "h": 41
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "结束录音",
+          "href": null,
+          "disabled": true,
+          "x": 126,
+          "y": 778,
+          "w": 78,
+          "h": 41
+        },
+        {
+          "tag": "INPUT",
+          "id": "",
+          "text": "",
+          "href": null,
+          "disabled": false,
+          "x": 33,
+          "y": 856,
+          "w": 324,
+          "h": 20
+        },
+        {
+          "tag": "TEXTAREA",
+          "id": "",
+          "text": "",
+          "href": null,
+          "disabled": false,
+          "x": 33,
+          "y": 958,
+          "w": 324,
+          "h": 76
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "Cambridge IELTS 21 Academic · Test 4 · 物理页97 / 印刷页96",
+          "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=97",
+          "disabled": false,
+          "x": 33,
+          "y": 1058,
+          "w": 321,
+          "h": 38
+        }
+      ],
+      "hiddenVisible": [],
+      "bodyWidth": 390,
+      "viewport": 390,
+      "scrollY": 0,
+      "visibleText": "← 练习 / 口语\nSpeaking Part 3 体育中的竞争与参与\nSpeaking Part 3\n体育中的竞争与参与\n0% · 0 / 0 完成\n\n依次口头回答。\n\nHow important is it to be very competitive at sport?\n\nWhy do some people think that taking part in sport is more important than winning?\n\n开始录音结束录音\n载入录音\n\n录音需单独下载保存。\n\n录音文件名 / 要点\n\n选材来源 · Cambridge IELTS 21 Academic · Test 4 · 物理页97 / 印刷页96",
+      "overflow": []
+    },
+    {
+      "requested": "test-speaking",
+      "kind": "mobile-personal-pass",
+      "actual": "#test-speaking",
+      "title": "口语整科测试 · IELTS",
+      "topLabel": "口语整科测试",
+      "activeNav": [
+        {
+          "go": "tests",
+          "label": "测试"
+        }
+      ],
+      "panels": [
+        {
+          "id": "test-speaking",
+          "owner": "tests",
+          "title": "口语整科测试",
+          "x": 18,
+          "y": 180,
+          "w": 354,
+          "h": 450
+        }
+      ],
+      "headings": [
+        {
+          "tag": "H1",
+          "text": "口语整科测试",
+          "x": 18,
+          "y": 226,
+          "w": 354,
+          "h": 36
+        }
+      ],
+      "controls": [
+        {
+          "tag": "A",
+          "id": "",
+          "text": "← 全部测试",
+          "href": "#tests",
+          "disabled": false,
+          "x": 18,
+          "y": 194,
+          "w": 74,
+          "h": 19
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "开始本次测试",
+          "href": null,
+          "disabled": false,
+          "x": 109,
+          "y": 438,
+          "w": 112,
+          "h": 44
+        },
+        {
+          "tag": "SUMMARY",
+          "id": "",
+          "text": "以往作答 · 0 次",
+          "href": null,
+          "disabled": false,
+          "x": 32,
+          "y": 570,
+          "w": 326,
+          "h": 59
+        }
+      ],
+      "hiddenVisible": [],
+      "bodyWidth": 390,
+      "viewport": 390,
+      "scrollY": 0,
+      "visibleText": "← 全部测试\n口语整科测试\n\nPart 1 + Part 2 + Part 3\n\nCambridge 官方公开样题组合。Part 2 准备 1 分钟、说 1–2 分钟；本地自练按 11–14 分钟安排。\n\n尚未开始\n开始本次测试\n0% · 0 / 3 已作答\n以往作答 · 0 次",
+      "overflow": []
+    }
+  ],
+  "checks": [
+    {
+      "name": "单词表直接标记会",
+      "text": "sustainable\n新收藏\n不会\n模糊\n会\n\n当前自评：会 · 不计为完成复习\n\n释义与原句\n复习这个词\n查详细用法\n取消收藏\n补充释义与我的例句",
+      "saved": {
+        "key": "sustainable",
+        "term": "sustainable",
+        "meaning": "可持续的",
+        "favorite": true,
+        "lastAt": "2020-01-01T00:00:00Z",
+        "selfAssessment": {
+          "grade": "known",
+          "at": "2026-09-21T12:21:11.645Z",
+          "source": "word-list"
+        }
+      }
+    },
+    {
+      "name": "句子本保存后的学习与返回控件",
+      "text": "Public transport can reduce traffic congestion.\n\n公共交通能够缓解交通拥堵。\n\n英 → 中 · 手动修订译文\n\n查看 / 修改\n取消收藏",
+      "links": []
+    },
+    {
+      "name": "写作工作台阶段导航",
+      "steps": [
+        {
+          "text": "01 审题",
+          "href": "#ww-tourism-plan"
+        },
+        {
+          "text": "02 首稿",
+          "href": "#ww-tourism-draft"
+        },
+        {
+          "text": "03 检查与修订",
+          "href": "#ww-tourism-review"
+        },
+        {
+          "text": "04 再练",
+          "href": "#ww-tourism-next"
+        },
+        {
+          "text": "打开原有局部练习与参考",
+          "href": "#pr-writing2-tourism"
+        },
+        {
+          "text": "回到本科学习",
+          "href": "#writing2"
+        },
+        {
+          "text": "打开下一题 →",
+          "href": "#ww-primary"
+        }
+      ]
+    },
+    {
+      "name": "口语页面动作检查",
+      "route": "study-speaking-list",
+      "controls": []
+    },
+    {
+      "name": "口语页面动作检查",
+      "route": "speaking-first",
+      "controls": [
+        {
+          "tag": "BUTTON",
+          "record": "speaking",
+          "id": "",
+          "text": "开始录音",
+          "src": null,
+          "y": 1691
+        },
+        {
+          "tag": "BUTTON",
+          "stop": "speaking",
+          "id": "",
+          "text": "结束并保留",
+          "src": null,
+          "y": 1691
+        },
+        {
+          "tag": "INPUT",
+          "id": "",
+          "text": "",
+          "accept": "audio/*",
+          "src": null,
+          "y": 1776
+        },
+        {
+          "tag": "BUTTON",
+          "record": "speaking-review",
+          "id": "",
+          "text": "",
+          "src": null,
+          "y": 4222
+        },
+        {
+          "tag": "BUTTON",
+          "stop": "speaking-review",
+          "id": "",
+          "text": "",
+          "src": null,
+          "y": 4222
+        },
+        {
+          "tag": "INPUT",
+          "id": "",
+          "text": "",
+          "accept": "audio/*",
+          "src": null,
+          "y": 4307
+        }
+      ]
+    },
+    {
+      "name": "口语页面动作检查",
+      "route": "speaking-new-sep26-journeys",
+      "controls": []
+    },
+    {
+      "name": "口语页面动作检查",
+      "route": "pr-speaking-p1",
+      "controls": [
+        {
+          "tag": "BUTTON",
+          "record": "pr-speaking-p1",
+          "id": "",
+          "text": "开始录音",
+          "src": null,
+          "y": 905
+        },
+        {
+          "tag": "BUTTON",
+          "stop": "pr-speaking-p1",
+          "id": "",
+          "text": "结束录音",
+          "src": null,
+          "y": 905
+        },
+        {
+          "tag": "INPUT",
+          "id": "",
+          "text": "",
+          "accept": "audio/*",
+          "src": null,
+          "y": 982
+        }
+      ]
+    },
+    {
+      "name": "口语页面动作检查",
+      "route": "pr-speaking-p2",
+      "controls": [
+        {
+          "tag": "BUTTON",
+          "record": "pr-speaking-p2",
+          "id": "",
+          "text": "开始录音",
+          "src": null,
+          "y": 997
+        },
+        {
+          "tag": "BUTTON",
+          "stop": "pr-speaking-p2",
+          "id": "",
+          "text": "结束录音",
+          "src": null,
+          "y": 997
+        },
+        {
+          "tag": "INPUT",
+          "id": "",
+          "text": "",
+          "accept": "audio/*",
+          "src": null,
+          "y": 1075
+        }
+      ]
+    },
+    {
+      "name": "口语页面动作检查",
+      "route": "pr-speaking-p3",
+      "controls": [
+        {
+          "tag": "BUTTON",
+          "record": "pr-speaking-p3",
+          "id": "",
+          "text": "开始录音",
+          "src": null,
+          "y": 778
+        },
+        {
+          "tag": "BUTTON",
+          "stop": "pr-speaking-p3",
+          "id": "",
+          "text": "结束录音",
+          "src": null,
+          "y": 778
+        },
+        {
+          "tag": "INPUT",
+          "id": "",
+          "text": "",
+          "accept": "audio/*",
+          "src": null,
+          "y": 856
+        }
+      ]
+    },
+    {
+      "name": "口语页面动作检查",
+      "route": "test-speaking",
+      "controls": []
+    }
+  ],
+  "errors": []
+}

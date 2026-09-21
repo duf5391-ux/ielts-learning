@@ -1,0 +1,385 @@
+{
+  "requested": "learn-vocab-allocate-resources",
+  "from": [
+    "内容单元"
+  ],
+  "actual": "#learn-vocab-allocate-resources",
+  "checkedAt": "2026-09-21T12:53:15.891Z",
+  "title": "学习 / 短语 / allocate … to／for …｜分配有限资源 · IELTS",
+  "label": "学习 / 短语 / allocate … to／for …｜分配有限资源",
+  "panel": "phrases",
+  "contentRoot": "learn-vocab-allocate-resources",
+  "headings": [
+    {
+      "tag": "H3",
+      "text": "意义与结构",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "例句",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "易混点",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "留下本单元首稿",
+      "visible": true
+    },
+    {
+      "tag": "H3",
+      "text": "核对依据，再修订",
+      "visible": false
+    },
+    {
+      "tag": "H3",
+      "text": "换个情境再用一次",
+      "visible": false
+    },
+    {
+      "tag": "H4",
+      "text": "allocate resources to：资源投到哪里",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "allocate resources to：资源投到哪里",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "能源与环境：产业陈述的范围",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "原材料 · 第1页",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "原材料 · 第2页",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "原题",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "原题",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "原答案",
+      "visible": true
+    },
+    {
+      "tag": "H4",
+      "text": "具体解释",
+      "visible": true
+    }
+  ],
+  "controls": [
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "11\nallocate … to／for …｜分配有限资源\n安排时间、经费或人员时，讲清资源总量与分配用途。\n约 8 分钟",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "checkbox",
+      "text": "",
+      "label": "收藏这组搭配 ★",
+      "href": null,
+      "save": "vocabbookmark-extra-vocab-allocate-resources",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "可选：记录或再练一次",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SELECT",
+      "id": "",
+      "type": "select-one",
+      "text": "",
+      "label": "",
+      "href": null,
+      "save": "enrich-vocab-allocate-resources-familiarity",
+      "visible": false,
+      "disabled": false,
+      "required": false,
+      "options": [
+        {
+          "value": "",
+          "label": "未标记"
+        },
+        {
+          "value": "K",
+          "label": "K · 以前就会主动用"
+        },
+        {
+          "value": "R",
+          "label": "R · 认识，但平时不用"
+        },
+        {
+          "value": "N",
+          "label": "N · 这次新学的用法"
+        }
+      ]
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "我的答案／口语录音文件与简记",
+      "href": null,
+      "save": "enrich-vocab-allocate-resources-answer",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "checkbox",
+      "text": "",
+      "label": "",
+      "href": null,
+      "save": "enrich-vocab-allocate-resources-frozen",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "id": "",
+      "type": "text",
+      "text": "",
+      "label": "",
+      "href": null,
+      "save": "enrich-vocab-allocate-resources-saved-at",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "type": "button",
+      "text": "保留首稿，打开反馈",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "修订：哪里变了，为什么",
+      "href": null,
+      "save": "enrich-vocab-allocate-resources-revision",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "可选：记录或再练一次",
+      "label": "",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "",
+      "type": "textarea",
+      "text": "",
+      "label": "迁移答案／隔日回忆记录",
+      "href": null,
+      "save": "enrich-vocab-allocate-resources-transfer",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "可选：记录或再练一次",
+      "label": "",
+      "href": null,
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "SELECT",
+      "id": "",
+      "type": "select-one",
+      "text": "请选择内容或语境没理解词义或声音没认出词汇选择／搭配不稳证据、逻辑或展开不足语法或句子组织问题暂时独立完成，隔天再检验",
+      "label": "这次最需要补什么？请选择内容或语境没理解词义或声音没认出词汇选择／搭配不稳证据、逻辑或展开不足语法或句子组织问题暂时独立完成，隔天再检验",
+      "href": null,
+      "save": "enrich-vocab-allocate-resources-diagnosis",
+      "visible": false,
+      "disabled": false,
+      "required": false,
+      "options": [
+        {
+          "value": "",
+          "label": "请选择"
+        },
+        {
+          "value": "内容或语境没理解",
+          "label": "内容或语境没理解"
+        },
+        {
+          "value": "词义或声音没认出",
+          "label": "词义或声音没认出"
+        },
+        {
+          "value": "词汇选择／搭配不稳",
+          "label": "词汇选择／搭配不稳"
+        },
+        {
+          "value": "证据、逻辑或展开不足",
+          "label": "证据、逻辑或展开不足"
+        },
+        {
+          "value": "语法或句子组织问题",
+          "label": "语法或句子组织问题"
+        },
+        {
+          "value": "暂时独立完成，隔天再检验",
+          "label": "暂时独立完成，隔天再检验"
+        }
+      ]
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "text": "配套材料",
+      "label": "",
+      "href": null,
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "",
+      "label": "",
+      "href": "https://dictionary.cambridge.org/dictionary/english/allocate",
+      "visible": false,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "能源与环境：产业陈述的范围 · 完整题面、原材料与答案",
+      "label": "",
+      "href": "原始参考/support-c970341e-cambridge-zip-115024_General_Training_Reading_sample_task_-_Multiple_choice.pdf#page=1",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "type": "",
+      "text": "能源与环境：产业陈述的范围 · 完整题面、原材料与答案",
+      "label": "",
+      "href": "原始参考/support-c970341e-cambridge-zip-115024_General_Training_Reading_sample_task_-_Multiple_choice.pdf#page=1",
+      "visible": true,
+      "disabled": false,
+      "required": false
+    }
+  ],
+  "visibleText": "11\nallocate … to／for …｜分配有限资源\n安排时间、经费或人员时，讲清资源总量与分配用途。\n约 8 分钟\n0% · 0 / 1 完成\n收藏这组搭配 ★\n可选：记录或再练一次\n意义与结构\n\nallocate + 资源 + to + 接收者／用途，例如 allocate funds to schools；allocate + 时间／经费 + for + 活动，也很常见，例如 allocate time for revision。to 也可能引出动词不定式表示目的，要看后面是名词还是动词。\n\n例句\n\nThe council allocated more funds to public libraries. 议会向公共图书馆分配了更多经费。\n\nI allocate ten minutes each evening for reviewing yesterday's mistakes. 我每晚安排十分钟复习昨天的错误。\n\n易混点\n\nallocate 表示分配已有或计划中的资源，不等于创造更多资源。time 通常不可数；十分钟用 ten minutes。简单的 set aside time for 也可以表达预留时间。\n\n留下本单元首稿\n\n本单元先学再用；不记为未见初测。口语可使用原章节录音器，或自行录音并记文件名。\n\n先读短课，再独立应用；保存后看反馈。\n\n① 完成：The school allocated extra funding ＿＿＿＿ language support. ② 用目标表达写“我每周给写作修改安排三十分钟”。③ 如果可用总时间没有增加，为什么不能只说给每一科都 allocate more time？\n\n我的答案／口语录音文件与简记\n保留首稿，打开反馈\n\n先写下自己的答案。\n\n配套材料\nallocate resources to：资源投到哪里\nallocate resources to：资源投到哪里\n\n原文完整句The worldwide coal industry allocates extensive resources to researching and developing new technologies and ways of capturing greenhouse gases。to后接researching/developing，不是to research。Q3 B具体指出气化技术。\n\n能源与环境：产业陈述的范围\n\n以下为正式样题原始材料。先按原题要求作答，再看原答案与对应解释；材料描述的是原文中的语境，不把历史数据当作当前事实。\n\n原材料 · 第1页\n\n[Note: This is an extract from a General Training Reading text on the subject of coal. The text preceding this extract catalogued the general belief that extracting and using coal is bad for the environment.]\n\nGreenhouse gases arise from a wide range of sources and their increasing concentration is largely related to the compound effects of increased population, improved living standards and changes in lifestyle. From a current base of 5 billion, the United Nations predicts that the global population may stabilise in the twenty-first century between 8 and 14 billion, with more than 90 per cent of the projected increase taking place in the world’s developing nations. The associated activities to support that growth, particularly to produce the required energy and food, will cause further increases in greenhouse gas emissions. The challenge, therefore, is to attain a sustainable balance between population, economic growth and the environment.\n\nThe major greenhouse gas emissions from human activities are carbon dioxide (CO2), methane and nitrous oxide. Chlorofluorocarbons (CFCs) are the only major contributor to the greenhouse effect that does not occur naturally, coming from such sources as refrigeration, plastics and manufacture. Coal’s total contribution to greenhouse gas emissions is thought to be about 18 per cent, with about half of this coming from electricity generation.\n\nThe worldwide coal industry allocates extensive resources to researching and developing new technologies and ways of capturing greenhouse gases. Efficiencies are likely to be improved dramatically, and hence CO2 emissions reduced, through combustion and gasification techniques which are now at pilot and demonstration stages.\n\nClean coal is another avenue for improving fuel conversion efficiency. Investigations are under way into super-clean coal (35 per cent ash) and ultraclean coal (less than 1 per cent ash). Super-clean coal has the potential to enhance the combustion efficiency of conventional pulverised fuel power plants. Ultraclean coal will enable coal to be used in advanced power systems such as coal-fired gas turbines which, when operated in combined cycle, have the potential to achieve much greater efficiencies.\n\nDefendants of mining point out that, environmentally, coal mining has two important factors in its favour. It makes only temporary use of the land and produces no toxic chemical wastes. By carefully preplanning projects, implementing pollution control measures, monitoring the effects of mining and rehabilitating mined areas, the coal industry minimises the impact on the neighbouring community, the immediate environment and long-term land capability.\n\n原页文字提示：原题引文保留原页拼写：Defendants of mining。这里语义上指采矿的支持者；自己的表达请用 defenders of mining，不把原题拼写当作推荐搭配。\n\n原材料 · 第2页\n\nDust levels are controlled by spraying roads and stockpiles, and water pollution is controlled by carefully separating clean water runoff from runoff which contains sediments or salt from mine workings. The latter is treated and reused for dust suppression. Noise is controlled by modifying equipment and by using insulation and sound enclosures around machinery.\n\nSince mining activities represent only a temporary use of the land, extensive rehabilitation measures are adopted to ensure that land capability after mining meets agreed and appropriate standards which, in some cases, are superior to the land’s pre-mining condition. Where the mining is underground, the surface area can be simultaneously used for forests, cattle grazing and crop raising, or even reservoirs and urban development, with little or no disruption to the existing land use. In all cases, mining is subject to stringent controls and approvals processes.\n\n原题\n\nQuestions 1 – 5\n\nChoose the correct letter, A, B, C or D.\n\nWrite your answers in boxes 1-5 on your answer sheet.\n\n1 The global increase in greenhouse gases has been attributed to\n\nA industrial pollution in developing countries. B coal mining and electricity generation. C reduced rainfall in many parts of the world. D trends in population and lifestyle.\n\n2 The proportion of all greenhouse gases created by coal is approximately\n\nA 14 per cent. B 18 per cent. C 27 per cent. D 90 per cent.\n\n3 Current research aims to increase the energy-producing efficiency of coal by\n\nA burning it at a lower temperature. B developing new gasification techniques. C extracting CO2 from it. D recycling greenhouse gases.\n\n4 Compared with ordinary coal, new, ‘clean’ coals may generate power\n\nA more cleanly and more efficiently. B more cleanly but less efficiently. C more cleanly but at higher cost. D more cleanly but much more slowly.\n\n5 To control dust at mine sites, mining companies often use\n\nA chemicals which may be toxic. B topsoil taken from the site before mining. C fresh water from nearby dams. D runoff water containing sediments.\n\n原题\n\nQuestion 6\n\nChoose the most suitable title for the text from the list below.\n\nWrite the correct letter, A, B, C or D, in box 6 on your answer sheet.\n\nA Pollution control in coal mining B The greenhouse effect C The coal industry and the environment D Sustainable population growth\n\n原答案\n\nAnswers\n\n1 D 2 B 3 B 4 A 5 D 6 C\n\n具体解释\n\nQ1 D：首段把温室气体增长关联人口、生活水平与生活方式；Q2 B：coal总贡献18%，其中约一半来自发电，不能把18%再随意换成题中其它数。Q3 B：燃烧与气化技术对应提高效率；Q4 A：clean煤更洁净且更高效；Q5 D：含沉淀物的径流水经处理后抑尘；Q6 C：全文讨论煤产业与环境，A只涵盖控制污染一部分。语境是原正式样题中的产业论述及历史预测，并非今日排放数据核验。\n\n完整原件：能源与环境：产业陈述的范围 · 完整题面、原材料与答案\n\n能源与环境：产业陈述的范围 · 完整题面、原材料与答案",
+  "allContent": "11allocate … to／for …｜分配有限资源安排时间、经费或人员时，讲清资源总量与分配用途。约 8 分钟0% · 0 / 1 完成收藏这组搭配 ★可选：记录或再练一次学习前自评：这个用法熟悉吗？未标记K · 以前就会主动用R · 认识，但平时不用N · 这次新学的用法意义与结构\nallocate + 资源 + to + 接收者／用途，例如 allocate funds to schools；allocate + 时间／经费 + for + 活动，也很常见，例如 allocate time for revision。to 也可能引出动词不定式表示目的，要看后面是名词还是动词。\n例句\nThe council allocated more funds to public libraries.\n议会向公共图书馆分配了更多经费。\nI allocate ten minutes each evening for reviewing yesterday's mistakes.\n我每晚安排十分钟复习昨天的错误。\n易混点\nallocate 表示分配已有或计划中的资源，不等于创造更多资源。time 通常不可数；十分钟用 ten minutes。简单的 set aside time for 也可以表达预留时间。留下本单元首稿本单元先学再用；不记为未见初测。口语可使用原章节录音器，或自行录音并记文件名。先读短课，再独立应用；保存后看反馈。\n① 完成：The school allocated extra funding ＿＿＿＿ language support. ② 用目标表达写“我每周给写作修改安排三十分钟”。③ 如果可用总时间没有增加，为什么不能只说给每一科都 allocate more time？我的答案／口语录音文件与简记保留首稿，打开反馈先写下自己的答案。核对依据，再修订① to 是自然答案；for language support 也能表达用于此目的，不能一概判错。② I allocate thirty minutes each week for revising my writing. 也可写 allocate thirty minutes a week to revising my writing；to 后这里接动名词活动。③ 资源分配需要取舍，句子应交代减少什么或从哪里腾出时间。英语参考：I will allocate more time to revision by reducing the number of new exercises.\n自查只记三项：意义是否符合本意；结构是否完整；是否保留必要的范围或条件。参考答案不是唯一合法表达，不根据是否使用这个搭配给雅思分数。修订：哪里变了，为什么换个情境再用一次隔日写出一个符合你实际总时间的分配句，再检查各部分加起来是否超过总量。用语言表达真实安排，不把练习例句当固定学习处方。可选：记录或再练一次迁移答案／隔日回忆记录可选：记录或再练一次这次最需要补什么？请选择内容或语境没理解词义或声音没认出词汇选择／搭配不稳证据、逻辑或展开不足语法或句子组织问题暂时独立完成，隔天再检验配套材料Cambridge Dictionary：allocate … to／for …allocate resources to：资源投到哪里allocate resources to：资源投到哪里原文完整句The worldwide coal industry allocates extensive resources to researching and developing new technologies and ways of capturing greenhouse gases。to后接researching/developing，不是to research。Q3 B具体指出气化技术。能源与环境：产业陈述的范围以下为正式样题原始材料。先按原题要求作答，再看原答案与对应解释；材料描述的是原文中的语境，不把历史数据当作当前事实。原材料 · 第1页[Note: This is an extract from a General Training Reading text on the subject of coal. The text preceding this extract catalogued the general belief that extracting and using coal is bad for the environment.]Greenhouse gases arise from a wide range of sources and their increasing concentration is largely related to the compound effects of increased population, improved living standards and changes in lifestyle. From a current base of 5 billion, the United Nations predicts that the global population may stabilise in the twenty-first century between 8 and 14 billion, with more than 90 per cent of the projected increase taking place in the world’s developing nations. The associated activities to support that growth, particularly to produce the required energy and food, will cause further increases in greenhouse gas emissions. The challenge, therefore, is to attain a sustainable balance between population, economic growth and the environment.The major greenhouse gas emissions from human activities are carbon dioxide (CO2), methane and nitrous oxide. Chlorofluorocarbons (CFCs) are the only major contributor to the greenhouse effect that does not occur naturally, coming from such sources as refrigeration, plastics and manufacture. Coal’s total contribution to greenhouse gas emissions is thought to be about 18 per cent, with about half of this coming from electricity generation.The worldwide coal industry allocates extensive resources to researching and developing new technologies and ways of capturing greenhouse gases. Efficiencies are likely to be improved dramatically, and hence CO2 emissions reduced, through combustion and gasification techniques which are now at pilot and demonstration stages.Clean coal is another avenue for improving fuel conversion efficiency. Investigations are under way into super-clean coal (35 per cent ash) and ultraclean coal (less than 1 per cent ash). Super-clean coal has the potential to enhance the combustion efficiency of conventional pulverised fuel power plants. Ultraclean coal will enable coal to be used in advanced power systems such as coal-fired gas turbines which, when operated in combined cycle, have the potential to achieve much greater efficiencies.Defendants of mining point out that, environmentally, coal mining has two important factors in its favour. It makes only temporary use of the land and produces no toxic chemical wastes. By carefully preplanning projects, implementing pollution control measures, monitoring the effects of mining and rehabilitating mined areas, the coal industry minimises the impact on the neighbouring community, the immediate environment and long-term land capability.原页文字提示：原题引文保留原页拼写：Defendants of mining。这里语义上指采矿的支持者；自己的表达请用 defenders of mining，不把原题拼写当作推荐搭配。原材料 · 第2页Dust levels are controlled by spraying roads and stockpiles, and water pollution is controlled by carefully separating clean water runoff from runoff which contains sediments or salt from mine workings. The latter is treated and reused for dust suppression. Noise is controlled by modifying equipment and by using insulation and sound enclosures around machinery.Since mining activities represent only a temporary use of the land, extensive rehabilitation measures are adopted to ensure that land capability after mining meets agreed and appropriate standards which, in some cases, are superior to the land’s pre-mining condition. Where the mining is underground, the surface area can be simultaneously used for forests, cattle grazing and crop raising, or even reservoirs and urban development, with little or no disruption to the existing land use. In all cases, mining is subject to stringent controls and approvals processes.原题Questions 1 – 5Choose the correct letter, A, B, C or D.Write your answers in boxes 1-5 on your answer sheet.1 The global increase in greenhouse gases has been attributed toA industrial pollution in developing countries. B coal mining and electricity generation. C reduced rainfall in many parts of the world. D trends in population and lifestyle.2 The proportion of all greenhouse gases created by coal is approximatelyA 14 per cent. B 18 per cent. C 27 per cent. D 90 per cent.3 Current research aims to increase the energy-producing efficiency of coal byA burning it at a lower temperature. B developing new gasification techniques. C extracting CO2 from it. D recycling greenhouse gases.4 Compared with ordinary coal, new, ‘clean’ coals may generate powerA more cleanly and more efficiently. B more cleanly but less efficiently. C more cleanly but at higher cost. D more cleanly but much more slowly.5 To control dust at mine sites, mining companies often useA chemicals which may be toxic. B topsoil taken from the site before mining. C fresh water from nearby dams. D runoff water containing sediments.原题Question 6Choose the most suitable title for the text from the list below.Write the correct letter, A, B, C or D, in box 6 on your answer sheet.A Pollution control in coal mining B The greenhouse effect C The coal industry and the environment D Sustainable population growth原答案Answers1 D 2 B 3 B 4 A 5 D 6 C具体解释Q1 D：首段把温室气体增长关联人口、生活水平与生活方式；Q2 B：coal总贡献18%，其中约一半来自发电，不能把18%再随意换成题中其它数。Q3 B：燃烧与气化技术对应提高效率；Q4 A：clean煤更洁净且更高效；Q5 D：含沉淀物的径流水经处理后抑尘；Q6 C：全文讨论煤产业与环境，A只涵盖控制污染一部分。语境是原正式样题中的产业论述及历史预测，并非今日排放数据核验。完整原件：能源与环境：产业陈述的范围 · 完整题面、原材料与答案能源与环境：产业陈述的范围 · 完整题面、原材料与答案",
+  "links": [
+    {
+      "text": "Cambridge Dictionary：allocate … to／for …",
+      "href": "https://dictionary.cambridge.org/dictionary/english/allocate"
+    },
+    {
+      "text": "能源与环境：产业陈述的范围 · 完整题面、原材料与答案",
+      "href": "原始参考/support-c970341e-cambridge-zip-115024_General_Training_Reading_sample_task_-_Multiple_choice.pdf#page=1"
+    },
+    {
+      "text": "能源与环境：产业陈述的范围 · 完整题面、原材料与答案",
+      "href": "原始参考/support-c970341e-cambridge-zip-115024_General_Training_Reading_sample_task_-_Multiple_choice.pdf#page=1"
+    }
+  ],
+  "details": [
+    {
+      "id": "",
+      "title": "可选：记录或再练一次",
+      "open": false,
+      "visible": true
+    },
+    {
+      "id": "",
+      "title": "可选：记录或再练一次",
+      "open": false,
+      "visible": false
+    },
+    {
+      "id": "",
+      "title": "可选：记录或再练一次",
+      "open": false,
+      "visible": false
+    },
+    {
+      "id": "",
+      "title": "配套材料",
+      "open": false,
+      "visible": true
+    }
+  ],
+  "saveFields": [
+    "vocabbookmark-extra-vocab-allocate-resources",
+    "enrich-vocab-allocate-resources-familiarity",
+    "enrich-vocab-allocate-resources-answer",
+    "enrich-vocab-allocate-resources-frozen",
+    "enrich-vocab-allocate-resources-saved-at",
+    "enrich-vocab-allocate-resources-revision",
+    "enrich-vocab-allocate-resources-transfer",
+    "enrich-vocab-allocate-resources-diagnosis"
+  ],
+  "images": [],
+  "audio": [],
+  "viewport": 1440,
+  "documentWidth": 1440
+}
