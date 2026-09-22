@@ -1,0 +1,57 @@
+{
+  "candidate_sha256": "8650db419b3ce44f821cc3444152a05afe668bca939d6dfb91c99aa2d402c075",
+  "file": "C:\\Users\\Admin1\\Documents\\ChatGPT\\ielts\\product-repair-20260922\\qa\\combined-first-candidate.html",
+  "checks": [
+    {
+      "name": "word card search is in first phone viewport",
+      "data": {
+        "top": -661.625,
+        "bottom": -617.53125
+      }
+    },
+    {
+      "name": "word card curriculum favorite reaches independent word list",
+      "data": true
+    },
+    {
+      "name": "word production details inventory",
+      "data": [
+        "用选中的词造句（可选）",
+        "完成后核对",
+        "词卡说明与来源"
+      ]
+    },
+    {
+      "name": "word sentence exercise existing field writes and restores",
+      "data": {
+        "field": "prereq-vocab-terms"
+      }
+    },
+    {
+      "name": "global search carries curriculum into card search",
+      "data": true
+    },
+    {
+      "name": "lookup history has independent panel and return to words",
+      "data": true
+    },
+    {
+      "name": "old daily actual answer close reading health and reload",
+      "data": true
+    },
+    {
+      "name": "category filter return and persistent self choice",
+      "data": true
+    },
+    {
+      "name": "test independently saved submitted and history retained after retry",
+      "data": true
+    },
+    {
+      "name": "personal source save and reload",
+      "data": true
+    }
+  ],
+  "errors": [],
+  "pass": true
+}

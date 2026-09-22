@@ -1,0 +1,30 @@
+{
+  "formalBaseline": "2f870d2c02b4ab48a0c64668aef59c19dbbdcb0d446df8a76a497723886b5d85",
+  "architectureBaseSha256": "4ecf1855ac95cff99a9d79012c9568feb44424ddb21641fe641c9fcb3a752107",
+  "candidateSha256": "83346245cc01a3c48dcac31ce6c2b8a30744391cf6e4ae99f8db105103e6d166",
+  "fields": 3371,
+  "units": 227,
+  "newUnits": [
+    "jiufen-close-2017137445982277634-v1",
+    "jiufen-close-2017137445957111811-v1",
+    "jiufen-close-2017137445986471939-v1"
+  ],
+  "assets": [
+    {
+      "path": "机经资料/jiufen-topic-20260921/2017137445982277634.html",
+      "source": "C:\\Users\\Admin1\\Documents\\ChatGPT\\ielts\\content-pipeline\\batches\\jiufen-jijing-20260921\\reviewed-assets\\机经资料\\jiufen-topic-20260921\\2017137445982277634.html",
+      "sha256": "2dba198de070b576c36fccaedb46f3c3eaae5a65134fce14cdb6cfeef5ddd492"
+    },
+    {
+      "path": "机经资料/jiufen-topic-20260921/2017137445957111811.html",
+      "source": "C:\\Users\\Admin1\\Documents\\ChatGPT\\ielts\\content-pipeline\\batches\\jiufen-jijing-20260921\\reviewed-assets\\机经资料\\jiufen-topic-20260921\\2017137445957111811.html",
+      "sha256": "834a777983a7a99d917c09309be0859a9a937b1a2b87f52bb0e5bf7774745d7d"
+    },
+    {
+      "path": "机经资料/jiufen-topic-20260921/2017137445986471939.html",
+      "source": "C:\\Users\\Admin1\\Documents\\ChatGPT\\ielts\\content-pipeline\\batches\\jiufen-jijing-20260921\\reviewed-assets\\机经资料\\jiufen-topic-20260921\\2017137445986471939.html",
+      "sha256": "aa93ddae330ee224462bccd0f96ed8717ba40d83020a7b355952ae0bc6cfc4de"
+    }
+  ],
+  "status": "candidate-unpublished"
+}

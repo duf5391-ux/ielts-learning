@@ -1,0 +1,376 @@
+{
+  "schemaVersion": "jiufen-listening-reviewed-v1",
+  "packageId": "cleaned-luna-20260921-listening",
+  "title": "九分机经 Part 1 听力逐题审阅小批",
+  "createdAt": "2026-09-21",
+  "sourceIndex": "downloads/jiufen-jijing-20260921/materials-index.json",
+  "usePolicy": "两份完整 Part 1 各含10题；答案是可追溯的项目参考，不称官方答案。可作为练习，隔离验证后可作部分短测；不作为已核实整卷测试。",
+  "unitCount": 2,
+  "units": [
+    {
+      "sourceId": "2072889406625742849",
+      "sourceTitle": "Horseback-trip",
+      "sourceRawPath": "downloads/jiufen-jijing-20260921/raw/exams/2072889406625742849.json",
+      "sourceSha256": "3067d7b1fadb829e2d0d4cda7a30d374d9926926e98390f123981fea8c0a53f8",
+      "partId": "2072884383917342722",
+      "partLabel": "Part 1",
+      "groupId": "2072884383938314241",
+      "audioLocalPath": "downloads/jiufen-jijing-20260921/assets/audio/1a76a7c2e9e62b1e09621126.mp3",
+      "audioUrl": "https://static.9fnnn.com/practice/part/2072884383917342722/part-exam-audio/2080693018247286811.mp3",
+      "audioSha256": "9c65cfc466aee9d505a90d5bd7688bc0f430ac185e8abd2ccb9add7da18495e0",
+      "audioSemanticVerification": "not-listened",
+      "unitDifficulty": {
+        "level": 3,
+        "reason": "单一笔记填空但包含路线顺序、时间定位、对比转折和同义替换；转写证据对每题都给出明确答案，编辑难度按信息处理要求判为3/5。"
+      },
+      "answerBasis": "项目参考答案：依据本地 articleJson 转写、题面和来源解析候选整理；不是官方答案。",
+      "useStatus": {
+        "practice": "proposed",
+        "partialTest": "proposed-after-isolated-QA",
+        "fullTest": "blocked"
+      },
+      "sourceLimitations": [
+        "原下载记录标为机经参考资料；本包不认证题目真实性或命中率。",
+        "audioSemanticVerification=not-listened：本轮核对了本地音频存在、路径和指纹，但没有实际播放逐句听辨。",
+        "转写与题面/解析候选一致处可作项目参考；若后续实听发现转写漏词、数字或专名差异，应回写为 unknown 或更新答案依据。"
+      ],
+      "questions": [
+        {
+          "sourceQuestionId": "2072884383938314242",
+          "number": 1,
+          "prompt": "Might see large numbers of ____",
+          "blankContext": "Might see large numbers of ____",
+          "wordLimit": "NO MORE THAN TWO WORDS",
+          "answer": "birds",
+          "acceptableVariants": [
+            "birds"
+          ],
+          "evidenceQuote": "And also, at one point when we stopped for a picnic, I was lying in a field looking up and saw a huge flock of birds. They were obviously migrating.",
+          "explanation": "The transcript says “a huge flock of birds”; this directly supplies the plural noun after “large numbers of”.",
+          "reviewStatus": "transcript-supported-reference",
+          "questionType": "fill-in-the-blank"
+        },
+        {
+          "sourceQuestionId": "2072884383942508545",
+          "number": 2,
+          "prompt": "Type of accommodation: a ____",
+          "blankContext": "Type of accommodation: a ____",
+          "wordLimit": "NO MORE THAN TWO WORDS",
+          "answer": "tent",
+          "acceptableVariants": [
+            "tent"
+          ],
+          "evidenceQuote": "Oh, and another thing, you don't stay in a hotel. You stay in a tent, so you don't have to come back to town in the evening.",
+          "explanation": "The speaker contrasts hotel with tent and then confirms the latter as the accommodation.",
+          "reviewStatus": "transcript-supported-reference",
+          "questionType": "fill-in-the-blank"
+        },
+        {
+          "sourceQuestionId": "2072884383946702849",
+          "number": 3,
+          "prompt": "Final destination: ____",
+          "blankContext": "Final destination: ____",
+          "wordLimit": "NO MORE THAN TWO WORDS",
+          "answer": "mountains",
+          "acceptableVariants": [
+            "mountains",
+            "the mountains"
+          ],
+          "evidenceQuote": "Where you're really heading for is the mountains, and when you set out, you can only see them in the far distance.",
+          "explanation": "Valleys are mentioned as the morning route, but the stated final destination is the mountains.",
+          "reviewStatus": "transcript-supported-reference",
+          "questionType": "fill-in-the-blank"
+        },
+        {
+          "sourceQuestionId": "2072884383946702850",
+          "number": 4,
+          "prompt": "Evening activity: chance to have a ____",
+          "blankContext": "Evening activity: chance to have a ____",
+          "wordLimit": "NO MORE THAN TWO WORDS",
+          "answer": "swim",
+          "acceptableVariants": [
+            "swim"
+          ],
+          "evidenceQuote": "But on that first evening, when you've been riding all day, you get the opportunity to go for a swim, and you really enjoy that.",
+          "explanation": "“Go for a swim” completes the evening activity; the answer is the noun after “a”.",
+          "reviewStatus": "transcript-supported-reference",
+          "questionType": "fill-in-the-blank"
+        },
+        {
+          "sourceQuestionId": "2072884383946702851",
+          "number": 5,
+          "prompt": "Explore the valley and have lunch by a ____",
+          "blankContext": "Explore the valley and have lunch by a ____",
+          "wordLimit": "NO MORE THAN TWO WORDS",
+          "answer": "waterfall",
+          "acceptableVariants": [
+            "waterfall"
+          ],
+          "evidenceQuote": "At the end of it, there's a waterfall. It's an amazing place to stop for lunch.",
+          "explanation": "The waterfall is introduced as the place where the group stops for lunch.",
+          "reviewStatus": "transcript-supported-reference",
+          "questionType": "fill-in-the-blank"
+        },
+        {
+          "sourceQuestionId": "2072884383950897154",
+          "number": 6,
+          "prompt": "Afternoon trip to a ____",
+          "blankContext": "Afternoon trip to a ____",
+          "wordLimit": "NO MORE THAN TWO WORDS",
+          "answer": "cave",
+          "acceptableVariants": [
+            "cave"
+          ],
+          "evidenceQuote": "And in the afternoon, there's a trip that goes to a cave. You can even ride into it.",
+          "explanation": "The afternoon destination is explicitly named as a cave.",
+          "reviewStatus": "transcript-supported-reference",
+          "questionType": "fill-in-the-blank"
+        },
+        {
+          "sourceQuestionId": "2072884383950897155",
+          "number": 7,
+          "prompt": "unsuitable if you have ____ problems",
+          "blankContext": "unsuitable if you have ____ problems",
+          "wordLimit": "NO MORE THAN TWO WORDS",
+          "answer": "back",
+          "acceptableVariants": [
+            "back"
+          ],
+          "evidenceQuote": "It was okay, actually, but what you've got to watch for is that you don't have any trouble with your back. Riding can really aggravate that.",
+          "explanation": "The speaker corrects the possible knee concern and identifies back problems as the relevant risk.",
+          "reviewStatus": "transcript-supported-reference",
+          "questionType": "fill-in-the-blank"
+        },
+        {
+          "sourceQuestionId": "2072884383950897156",
+          "number": 8,
+          "prompt": "rocky paths so take ____",
+          "blankContext": "rocky paths so take ____",
+          "wordLimit": "NO MORE THAN TWO WORDS",
+          "answer": "walking boots",
+          "acceptableVariants": [
+            "walking boots"
+          ],
+          "evidenceQuote": "So make sure you have walking boots, not just normal riding boots.",
+          "explanation": "The required footwear is walking boots; “normal riding boots” is explicitly contrasted.",
+          "reviewStatus": "transcript-supported-reference",
+          "questionType": "fill-in-the-blank"
+        },
+        {
+          "sourceQuestionId": "2072884383955091458",
+          "number": 9,
+          "prompt": "Book online to get a ____",
+          "blankContext": "Book online to get a ____",
+          "wordLimit": "NO MORE THAN TWO WORDS",
+          "answer": "discount",
+          "acceptableVariants": [
+            "discount"
+          ],
+          "evidenceQuote": "When I was looking at the website, I saw that if I register online, I can get a discount.",
+          "explanation": "Registering online is the transcript’s equivalent of booking online and is followed by the benefit “a discount”.",
+          "reviewStatus": "transcript-supported-reference",
+          "questionType": "fill-in-the-blank"
+        },
+        {
+          "sourceQuestionId": "2072884383955091459",
+          "number": 10,
+          "prompt": "Inform your ____ company about the type of holiday booked",
+          "blankContext": "Inform your ____ company about the type of holiday booked",
+          "wordLimit": "NO MORE THAN TWO WORDS",
+          "answer": "insurance",
+          "acceptableVariants": [
+            "insurance"
+          ],
+          "evidenceQuote": "you have to make sure that your insurance company know that you're going on an adventure trip to make sure that you're covered in case anything happens.",
+          "explanation": "The company to notify is the insurance company, not the boss mentioned immediately beforehand.",
+          "reviewStatus": "transcript-supported-reference",
+          "questionType": "fill-in-the-blank"
+        }
+      ]
+    },
+    {
+      "sourceId": "2033383348044922882",
+      "sourceTitle": "Lifeguard Application",
+      "sourceRawPath": "downloads/jiufen-jijing-20260921/raw/exams/2033383348044922882.json",
+      "sourceSha256": "e75f65e023d73ba5303d3303b55675211fb54bbc46f45bc84d400719b306a066",
+      "partId": "2033382999737335809",
+      "partLabel": "Part 1",
+      "groupId": "2033382022305120258",
+      "audioLocalPath": "downloads/jiufen-jijing-20260921/assets/audio/90564cd5513daf54447f3413.mp3",
+      "audioUrl": "https://static.9fnnn.com/practice/part/2033382999737335809/part-exam-audio/2080693018247286901.mp3",
+      "audioSha256": "2ce3ffec5da8a64f2da3f94dca171d584f8b11a080090fdc812cec770007c0c4",
+      "audioSemanticVerification": "not-listened",
+      "unitDifficulty": {
+        "level": 3,
+        "reason": "表格填空包含拼写、电话号码、自我纠正月份和时间偏好；答案定位清晰，但数字与拼写仍需要听辨，编辑难度判为3/5。"
+      },
+      "answerBasis": "项目参考答案：依据本地 articleJson 转写、题面和来源解析候选整理；不是官方答案。",
+      "useStatus": {
+        "practice": "proposed",
+        "partialTest": "proposed-after-isolated-QA",
+        "fullTest": "blocked"
+      },
+      "sourceLimitations": [
+        "原下载记录标为机经参考资料；本包不认证题目真实性或命中率。",
+        "audioSemanticVerification=not-listened：本轮核对了本地音频存在、路径和指纹，但没有实际播放逐句听辨。",
+        "转写与题面/解析候选一致处可作项目参考；若后续实听发现转写漏词、数字或专名差异，应回写为 unknown 或更新答案依据。"
+      ],
+      "questions": [
+        {
+          "sourceQuestionId": "2033379555706241025",
+          "number": 1,
+          "prompt": "Address: 130 South Main Street, Lake ____",
+          "blankContext": "Address: 130 South Main Street, Lake ____",
+          "wordLimit": "ONE WORD AND/OR A NUMBER",
+          "answer": "Elsinore",
+          "acceptableVariants": [
+            "Elsinore",
+            "E-L-S-I-N-O-R-E"
+          ],
+          "evidenceQuote": "Oh, it's E-L-S-I-N-O-R-E, Elsinore.",
+          "explanation": "The place name is first queried and then spelled out and repeated, so the project reference answer is Elsinore.",
+          "reviewStatus": "transcript-supported-reference",
+          "questionType": "fill-in-the-blank"
+        },
+        {
+          "sourceQuestionId": "2033379674010779650",
+          "number": 2,
+          "prompt": "Contact number: ____ (cellphone)",
+          "blankContext": "Contact number: ____ (cellphone)",
+          "wordLimit": "ONE WORD AND/OR A NUMBER",
+          "answer": "007896245",
+          "acceptableVariants": [
+            "007896245",
+            "007-896-245",
+            "zero double seven, eight nine six, two four five"
+          ],
+          "evidenceQuote": "Actually, it's easier to reach me by my cellphone number. It's zero double seven, eight, nine, six, two, four, five.",
+          "explanation": "The transcript first gives a home number, then clearly selects the cellphone number; digits are normalized for the answer field.",
+          "reviewStatus": "transcript-supported-reference",
+          "questionType": "fill-in-the-blank"
+        },
+        {
+          "sourceQuestionId": "2033379947034804226",
+          "number": 3,
+          "prompt": "has a part-time job as a ____",
+          "blankContext": "has a part-time job as a ____",
+          "wordLimit": "ONE WORD AND/OR A NUMBER",
+          "answer": "waiter",
+          "acceptableVariants": [
+            "waiter"
+          ],
+          "evidenceQuote": "I now work as a waiter, and that's just a part-time gig.",
+          "explanation": "The occupation is waiter; serving and cleaning are described as duties, not the answer.",
+          "reviewStatus": "transcript-supported-reference",
+          "questionType": "fill-in-the-blank"
+        },
+        {
+          "sourceQuestionId": "2033380000935804929",
+          "number": 4,
+          "prompt": "hope to work in a high school as a ____ coach",
+          "blankContext": "hope to work in a high school as a ____ coach",
+          "wordLimit": "ONE WORD AND/OR A NUMBER",
+          "answer": "baseball",
+          "acceptableVariants": [
+            "baseball"
+          ],
+          "evidenceQuote": "I want to become a baseball coach for a local high school.",
+          "explanation": "The word before “coach” is baseball.",
+          "reviewStatus": "transcript-supported-reference",
+          "questionType": "fill-in-the-blank"
+        },
+        {
+          "sourceQuestionId": "2033380051351339009",
+          "number": 5,
+          "prompt": "worked at the ____ as a lifeguard",
+          "blankContext": "worked at the ____ as a lifeguard",
+          "wordLimit": "ONE WORD AND/OR A NUMBER",
+          "answer": "beach",
+          "acceptableVariants": [
+            "beach"
+          ],
+          "evidenceQuote": "I also worked part-time as a rescue diver for a local beach last summer.",
+          "explanation": "The location is a local beach; “rescue diver” identifies the role.",
+          "reviewStatus": "transcript-supported-reference",
+          "questionType": "fill-in-the-blank"
+        },
+        {
+          "sourceQuestionId": "2033380097484488705",
+          "number": 6,
+          "prompt": "Other relevant skills: ____",
+          "blankContext": "Other relevant skills: ____",
+          "wordLimit": "ONE WORD AND/OR A NUMBER",
+          "answer": "diving",
+          "acceptableVariants": [
+            "diving"
+          ],
+          "evidenceQuote": "I'm good at diving. You know, my previous job requires training in that.",
+          "explanation": "The requested skill is diving, stated immediately after the interviewer asks about relevant lifeguarding skills.",
+          "reviewStatus": "transcript-supported-reference",
+          "questionType": "fill-in-the-blank"
+        },
+        {
+          "sourceQuestionId": "2033380188177924098",
+          "number": 7,
+          "prompt": "Need a certificate: it expires in ____",
+          "blankContext": "Need a certificate: it expires in ____",
+          "wordLimit": "ONE WORD AND/OR A NUMBER",
+          "answer": "October",
+          "acceptableVariants": [
+            "October"
+          ],
+          "evidenceQuote": "but mine is about to expire in November. Oh, wait, let me check. It's a month earlier in October.",
+          "explanation": "November is self-corrected; the final stated month is October.",
+          "reviewStatus": "transcript-supported-reference",
+          "questionType": "fill-in-the-blank"
+        },
+        {
+          "sourceQuestionId": "2033380267378966530",
+          "number": 8,
+          "prompt": "Preferred working time: ____ mornings",
+          "blankContext": "Preferred working time: ____ mornings",
+          "wordLimit": "ONE WORD AND/OR A NUMBER",
+          "answer": "Saturday",
+          "acceptableVariants": [
+            "Saturday"
+          ],
+          "evidenceQuote": "I can work on Saturday mornings then.",
+          "explanation": "Sunday and weekdays are discussed as unavailable or occupied; the confirmed preference is Saturday mornings.",
+          "reviewStatus": "transcript-supported-reference",
+          "questionType": "fill-in-the-blank"
+        },
+        {
+          "sourceQuestionId": "2033380314942373890",
+          "number": 9,
+          "prompt": "He can start to work at ____ o'clock.",
+          "blankContext": "He can start to work at ____ o'clock.",
+          "wordLimit": "ONE WORD AND/OR A NUMBER",
+          "answer": "6",
+          "acceptableVariants": [
+            "6",
+            "six"
+          ],
+          "evidenceQuote": "And I can start from six o'clock in the morning. I'm a morning person.",
+          "explanation": "The start time is six o’clock; the numeric form is used in the answer field.",
+          "reviewStatus": "transcript-supported-reference",
+          "questionType": "fill-in-the-blank"
+        },
+        {
+          "sourceQuestionId": "2033380368738516994",
+          "number": 10,
+          "prompt": "Source of information: ____",
+          "blankContext": "Source of information: ____",
+          "wordLimit": "ONE WORD AND/OR A NUMBER",
+          "answer": "radio",
+          "acceptableVariants": [
+            "radio"
+          ],
+          "evidenceQuote": "I heard it on radio this morning while driving. I wouldn't say I like reading newspapers.",
+          "explanation": "The source is radio; newspapers are mentioned only as something the speaker does not like reading.",
+          "reviewStatus": "transcript-supported-reference",
+          "questionType": "fill-in-the-blank"
+        }
+      ]
+    }
+  ]
+}

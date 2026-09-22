@@ -1,0 +1,205 @@
+{
+  "file": "C:/Users/Admin1/Documents/ChatGPT/ielts/product-repair-20260922/qa/combined-first-candidate.html",
+  "sha256": "8650db419b3ce44f821cc3444152a05afe668bca939d6dfb91c99aa2d402c075",
+  "mobile": false,
+  "checks": [
+    {
+      "name": "primary navigation labels",
+      "data": [
+        "学习",
+        "单词",
+        "复习",
+        "句子",
+        "练习",
+        "测试",
+        "写作工作台",
+        "工作台"
+      ]
+    },
+    {
+      "name": "entry vocabulary-review",
+      "data": {
+        "active": "vocabulary-review",
+        "overflow": false,
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "entry word-review",
+      "data": {
+        "active": "word-review",
+        "overflow": false,
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "entry sentence-learning",
+      "data": {
+        "active": "sentence-learning",
+        "overflow": false,
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "entry practice",
+      "data": {
+        "active": "practice",
+        "overflow": false,
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "entry tests",
+      "data": {
+        "active": "tests",
+        "overflow": false,
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "entry writing-workbench",
+      "data": {
+        "active": "writing-workbench",
+        "overflow": false,
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "entry workspace",
+      "data": {
+        "active": "workspace",
+        "overflow": false,
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "three synthetic word row bounds",
+      "data": [
+        {
+          "text": "sustainable\n新收藏\n不会\n模糊\n会\n释义、原句与更多操作",
+          "top": 358.03125,
+          "bottom": 494.3125
+        },
+        {
+          "text": "curriculum\n新收藏\n不会\n模糊\n会\n释义、原句与更多操作",
+          "top": 494.3125,
+          "bottom": 630.59375
+        },
+        {
+          "text": "opportunity\n新收藏\n不会\n模糊\n会\n释义、原句与更多操作",
+          "top": 630.59375,
+          "bottom": 766.875
+        }
+      ]
+    },
+    {
+      "name": "word mark persists after reload",
+      "data": true
+    },
+    {
+      "name": "review starts in independent panel",
+      "data": {
+        "hash": "#word-review",
+        "text": "单词复习\n我的单词\n重看句子\n3\n已收藏\n3\n现在可复习\n3\n未开始\n看英文 · 回忆意思\n看释义 · 拼写词语\n开始今日复习\n加练全部收藏\n\n本轮 1 / 3 · 已完成 0\n\n暂停本轮\n\n先想一想：这个词是什么意思？怎么用？\n\nsustainable\n\n直接选择这次是否记得；需要时再查看释义。\n\n不会 · 10 分钟后\n模糊 · 1 天后\n会 · 1 天后\n查看释义与原句\n复习如何安排？"
+      }
+    },
+    {
+      "name": "review grade advances",
+      "data": "本轮 2 / 3 · 已完成 1\n\n暂停本轮\n\n先想一想：这个词是什么意思？怎么用？\n\ncurriculum\n\n直接选择这次是否记得；需要时再查看释义。\n\n不会 · 10 分钟后\n模糊 · 1 天后\n会 · 1 天后\n查看释义与原句"
+    },
+    {
+      "name": "review pause and reload",
+      "data": "单词复习\n我的单词\n重看句子\n3\n已收藏\n2\n现在可复习\n2\n未开始\n看英文 · 回忆意思\n看释义 · 拼写词语\n开始今日复习\n加练全部收藏\n复习如何安排？"
+    },
+    {
+      "name": "home global search returns practice writing",
+      "data": "搜索结果 · 1\n成人读写困难 · Task 2\n\n练习 · 写作 · Task 2 · 机经 · 9月21日新增 · 难度 3/5 · 参考置信度中 · 九分学长\n\n未开始\n＋ 自选"
+    },
+    {
+      "name": "search direct material entry",
+      "data": "#pr-jiufen-20260921-adult-literacy-v1"
+    },
+    {
+      "name": "search return",
+      "data": {
+        "hash": "#study",
+        "query": "成人读写困难",
+        "practiceQuery": "",
+        "rows": 1
+      }
+    },
+    {
+      "name": "personal materials promise corrected",
+      "data": true
+    },
+    {
+      "name": "daily bottom controls bounds",
+      "data": [
+        {
+          "id": "daily-study-dock",
+          "text": "阅读 · 第 1 / 2 步 · 建议 17 分钟\n\n阅读 · The Davies Sisters｜成长背景与收藏起点\n\n阅读本单元原文并完成题目，按自己的节奏作答。\n\n本步 0:00\n暂停\n随手记\n查看安排\n休息\n收工\n完成这一步 →",
+          "rect": {
+            "x": 340,
+            "y": 884.8125,
+            "width": 980,
+            "height": 103.1875,
+            "top": 884.8125,
+            "right": 1320,
+            "bottom": 988,
+            "left": 340
+          }
+        },
+        {
+          "id": "hs-rest",
+          "text": "休息",
+          "rect": {
+            "x": 1079.421875,
+            "y": 914.40625,
+            "width": 48,
+            "height": 44,
+            "top": 914.40625,
+            "right": 1127.421875,
+            "bottom": 958.40625,
+            "left": 1079.421875
+          }
+        },
+        {
+          "id": "hs-finish",
+          "text": "收工",
+          "rect": {
+            "x": 1136.421875,
+            "y": 914.40625,
+            "width": 48,
+            "height": 44,
+            "top": 914.40625,
+            "right": 1184.421875,
+            "bottom": 958.40625,
+            "left": 1136.421875
+          }
+        },
+        {
+          "id": "ds-next",
+          "text": "完成这一步 →",
+          "rect": {
+            "x": 1193.421875,
+            "y": 915.203125,
+            "width": 105.578125,
+            "height": 42.390625,
+            "top": 915.203125,
+            "right": 1299,
+            "bottom": 957.59375,
+            "left": 1193.421875
+          }
+        }
+      ]
+    },
+    {
+      "name": "daily health functions usable",
+      "data": true
+    }
+  ],
+  "findings": [],
+  "errors": [],
+  "executionPass": true,
+  "pass": true
+}

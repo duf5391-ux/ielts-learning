@@ -1,0 +1,133 @@
+{
+  "pass": true,
+  "target": "https://duf5391-ux.github.io/ielts-learning/",
+  "source_html_sha256": "e2b9e12e58c8f03de4b43b8ec6bdb1b81a15130ddceb6b80ea5fff6a3d742075",
+  "transformed_source_sha256": "0da42024b053a8da6c07caad7075c8c492f5ffa1269014c693127f1fc99bb4fe",
+  "expected_homepage_sha256": "0bab2fa197699cb83087528a3769e4be81035420b70933eedcf56b1707a95336",
+  "publication_manifest_sha256": "666b4d865a3b608df2cd1ed9af76bc344aefa37079bac5b48166ff9a1389471c",
+  "checks": [
+    {
+      "name": "Progressive homepage, manifest, full fields and controllers match the final source"
+    },
+    {
+      "name": "390px five primary controls and four More entries navigate correctly",
+      "data": [
+        {
+          "id": "practice",
+          "text": "练习"
+        },
+        {
+          "id": "tests",
+          "text": "测试"
+        },
+        {
+          "id": "writing-workbench",
+          "text": "写作工作台"
+        },
+        {
+          "id": "workspace",
+          "text": "工作台"
+        }
+      ]
+    },
+    {
+      "name": "Global word search opens the matching topic card on the first screen; favorite survives reload",
+      "data": {
+        "box": {
+          "x": 18,
+          "y": 544.15625,
+          "width": 354,
+          "height": 358.1875
+        },
+        "titleBox": {
+          "x": 37,
+          "y": 623.15625,
+          "width": 316,
+          "height": 31.046875
+        },
+        "favoriteBox": {
+          "x": 295,
+          "y": 563.15625,
+          "width": 58,
+          "height": 44
+        },
+        "searchBox": {
+          "x": 18,
+          "y": 295.375,
+          "width": 354,
+          "height": 44.09375
+        }
+      }
+    },
+    {
+      "name": "Global search crosses into a writing task and returns to the same results"
+    },
+    {
+      "name": "All 32 writing tasks are listed; the living-alone first draft is immediately editable and survives reload",
+      "data": {
+        "x": 18,
+        "y": 338.34375,
+        "width": 354,
+        "height": 450.3125
+      }
+    },
+    {
+      "name": "Study/rest dock stays above bottom navigation; rest, resume, finish and reload preserve state",
+      "data": {
+        "studying": [
+          {
+            "id": "product-mobile-nav",
+            "x": 0,
+            "y": 790,
+            "width": 390,
+            "height": 54,
+            "top": 790,
+            "right": 390,
+            "bottom": 844,
+            "left": 0
+          },
+          {
+            "id": "daily-study-dock",
+            "x": 10,
+            "y": 637.359375,
+            "width": 370,
+            "height": 142.640625,
+            "top": 637.359375,
+            "right": 380,
+            "bottom": 780,
+            "left": 10
+          }
+        ],
+        "resting": [
+          {
+            "id": "product-mobile-nav",
+            "x": 0,
+            "y": 790,
+            "width": 390,
+            "height": 54,
+            "top": 790,
+            "right": 390,
+            "bottom": 844,
+            "left": 0
+          },
+          {
+            "id": "daily-study-dock",
+            "x": 10,
+            "y": 612.671875,
+            "width": 370,
+            "height": 167.328125,
+            "top": 612.671875,
+            "right": 380,
+            "bottom": 780,
+            "left": 10
+          }
+        ]
+      }
+    }
+  ],
+  "errors": [],
+  "base": "https://duf5391-ux.github.io/ielts-learning/",
+  "homepage_sha256": "0bab2fa197699cb83087528a3769e4be81035420b70933eedcf56b1707a95336",
+  "progressive_manifest_sha256": "6ef1b8fc7dabd81b5f2a0335d0d4b1d1c185964ea555db03d6109fbdfb0714df",
+  "at": "2026-09-22T00:06:26.046Z"
+}

@@ -1,0 +1,1458 @@
+{
+  "errors": [],
+  "pages": [
+    {
+      "name": "test-reading",
+      "hash": "#test-reading",
+      "active": [
+        {
+          "id": "test-reading",
+          "text": "← 全部测试\n阅读整科测试\n\n3 篇文章 · 40 题\n\nCambridge IELTS 21 Academic · Test 1。题目、图表和字数要求均保留原页。\n\n60:00\n继续本次\n提交本次作答\n0% · 0 / 40 已作答\nPassage 1 · Q1–13\n0% · 0 / 13 已作答\nQ1\nQ2\nQ3\nQ4\nQ5\nQ6\nQ7\nQ8\nQ9\nQ10\nQ11\nQ12\nQ13\nPassage 2 · Q14–26\n0% · 0 / 13 已作答\nQ14\nQ15\nQ16\nQ17\nQ18\nQ19\nQ20\nQ21\nQ22\nQ23\nQ24\nQ25\nQ26\nPassage 3 · Q27–40\n0% · 0 / 14 已作答\nQ27\nQ28\nQ29\nQ30\nQ31\nQ32\nQ33\nQ34\nQ35\nQ36\nQ37\nQ38\nQ39\nQ40\n以往作答 · 0 次"
+        }
+      ],
+      "controls": [
+        {
+          "tag": "A",
+          "id": "",
+          "text": "i.\nIELTS\n我的备考工作区",
+          "type": "",
+          "href": "#study"
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "学习",
+          "type": "button",
+          "href": null,
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "练习",
+          "type": "button",
+          "href": null,
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "测试",
+          "type": "button",
+          "href": null,
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "工作台",
+          "type": "button",
+          "href": null,
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "开发工作台",
+          "type": "button",
+          "href": null,
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "直接开始学习 →",
+          "type": "",
+          "href": "#guide"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "自选清单 →",
+          "type": "",
+          "href": "#plan"
+        },
+        {
+          "tag": "BUTTON",
+          "id": "lookup-open",
+          "text": "查词",
+          "type": "button",
+          "href": null,
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "我的记录",
+          "type": "",
+          "href": "#records"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "← 全部测试",
+          "type": "",
+          "href": "#tests"
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "继续本次",
+          "type": "button",
+          "href": null,
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "提交本次作答",
+          "type": "button",
+          "href": null,
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "INPUT",
+          "id": "",
+          "text": "",
+          "type": "text",
+          "href": null,
+          "value": "",
+          "disabled": false,
+          "save": "full-test-reading-q1"
+        },
+        {
+          "tag": "INPUT",
+          "id": "",
+          "text": "",
+          "type": "text",
+          "href": null,
+          "value": "",
+          "disabled": false,
+          "save": "full-test-reading-q2"
+        },
+        {
+          "tag": "INPUT",
+          "id": "",
+          "text": "",
+          "type": "text",
+          "href": null,
+          "value": "",
+          "disabled": false,
+          "save": "full-test-reading-q3"
+        },
+        {
+          "tag": "INPUT",
+          "id": "",
+          "text": "",
+          "type": "text",
+          "href": null,
+          "value": "",
+          "disabled": false,
+          "save": "full-test-reading-q4"
+        },
+        {
+          "tag": "INPUT",
+          "id": "",
+          "text": "",
+          "type": "text",
+          "href": null,
+          "value": "",
+          "disabled": false,
+          "save": "full-test-reading-q5"
+        },
+        {
+          "tag": "INPUT",
+          "id": "",
+          "text": "",
+          "type": "text",
+          "href": null,
+          "value": "",
+          "disabled": false,
+          "save": "full-test-reading-q6"
+        },
+        {
+          "tag": "INPUT",
+          "id": "",
+          "text": "",
+          "type": "text",
+          "href": null,
+          "value": "",
+          "disabled": false,
+          "save": "full-test-reading-q7"
+        },
+        {
+          "tag": "INPUT",
+          "id": "",
+          "text": "",
+          "type": "text",
+          "href": null,
+          "value": "",
+          "disabled": false,
+          "save": "full-test-reading-q8"
+        },
+        {
+          "tag": "INPUT",
+          "id": "",
+          "text": "",
+          "type": "text",
+          "href": null,
+          "value": "",
+          "disabled": false,
+          "save": "full-test-reading-q9"
+        },
+        {
+          "tag": "INPUT",
+          "id": "",
+          "text": "",
+          "type": "text",
+          "href": null,
+          "value": "",
+          "disabled": false,
+          "save": "full-test-reading-q10"
+        },
+        {
+          "tag": "INPUT",
+          "id": "",
+          "text": "",
+          "type": "text",
+          "href": null,
+          "value": "",
+          "disabled": false,
+          "save": "full-test-reading-q11"
+        },
+        {
+          "tag": "INPUT",
+          "id": "",
+          "text": "",
+          "type": "text",
+          "href": null,
+          "value": "",
+          "disabled": false,
+          "save": "full-test-reading-q12"
+        },
+        {
+          "tag": "INPUT",
+          "id": "",
+          "text": "",
+          "type": "text",
+          "href": null,
+          "value": "",
+          "disabled": false,
+          "save": "full-test-reading-q13"
+        },
+        {
+          "tag": "INPUT",
+          "id": "",
+          "text": "",
+          "type": "text",
+          "href": null,
+          "value": "",
+          "disabled": false,
+          "save": "full-test-reading-q14"
+        },
+        {
+          "tag": "INPUT",
+          "id": "",
+          "text": "",
+          "type": "text",
+          "href": null,
+          "value": "",
+          "disabled": false,
+          "save": "full-test-reading-q15"
+        },
+        {
+          "tag": "INPUT",
+          "id": "",
+          "text": "",
+          "type": "text",
+          "href": null,
+          "value": "",
+          "disabled": false,
+          "save": "full-test-reading-q16"
+        },
+        {
+          "tag": "INPUT",
+          "id": "",
+          "text": "",
+          "type": "text",
+          "href": null,
+          "value": "",
+          "disabled": false,
+          "save": "full-test-reading-q17"
+        },
+        {
+          "tag": "INPUT",
+          "id": "",
+          "text": "",
+          "type": "text",
+          "href": null,
+          "value": "",
+          "disabled": false,
+          "save": "full-test-reading-q18"
+        },
+        {
+          "tag": "INPUT",
+          "id": "",
+          "text": "",
+          "type": "text",
+          "href": null,
+          "value": "",
+          "disabled": false,
+          "save": "full-test-reading-q19"
+        },
+        {
+          "tag": "INPUT",
+          "id": "",
+          "text": "",
+          "type": "text",
+          "href": null,
+          "value": "",
+          "disabled": false,
+          "save": "full-test-reading-q20"
+        },
+        {
+          "tag": "INPUT",
+          "id": "",
+          "text": "",
+          "type": "text",
+          "href": null,
+          "value": "",
+          "disabled": false,
+          "save": "full-test-reading-q21"
+        },
+        {
+          "tag": "INPUT",
+          "id": "",
+          "text": "",
+          "type": "text",
+          "href": null,
+          "value": "",
+          "disabled": false,
+          "save": "full-test-reading-q22"
+        },
+        {
+          "tag": "INPUT",
+          "id": "",
+          "text": "",
+          "type": "text",
+          "href": null,
+          "value": "",
+          "disabled": false,
+          "save": "full-test-reading-q23"
+        },
+        {
+          "tag": "INPUT",
+          "id": "",
+          "text": "",
+          "type": "text",
+          "href": null,
+          "value": "",
+          "disabled": false,
+          "save": "full-test-reading-q24"
+        },
+        {
+          "tag": "INPUT",
+          "id": "",
+          "text": "",
+          "type": "text",
+          "href": null,
+          "value": "",
+          "disabled": false,
+          "save": "full-test-reading-q25"
+        },
+        {
+          "tag": "INPUT",
+          "id": "",
+          "text": "",
+          "type": "text",
+          "href": null,
+          "value": "",
+          "disabled": false,
+          "save": "full-test-reading-q26"
+        },
+        {
+          "tag": "INPUT",
+          "id": "",
+          "text": "",
+          "type": "text",
+          "href": null,
+          "value": "",
+          "disabled": false,
+          "save": "full-test-reading-q27"
+        },
+        {
+          "tag": "INPUT",
+          "id": "",
+          "text": "",
+          "type": "text",
+          "href": null,
+          "value": "",
+          "disabled": false,
+          "save": "full-test-reading-q28"
+        },
+        {
+          "tag": "INPUT",
+          "id": "",
+          "text": "",
+          "type": "text",
+          "href": null,
+          "value": "",
+          "disabled": false,
+          "save": "full-test-reading-q29"
+        },
+        {
+          "tag": "INPUT",
+          "id": "",
+          "text": "",
+          "type": "text",
+          "href": null,
+          "value": "",
+          "disabled": false,
+          "save": "full-test-reading-q30"
+        },
+        {
+          "tag": "INPUT",
+          "id": "",
+          "text": "",
+          "type": "text",
+          "href": null,
+          "value": "",
+          "disabled": false,
+          "save": "full-test-reading-q31"
+        },
+        {
+          "tag": "INPUT",
+          "id": "",
+          "text": "",
+          "type": "text",
+          "href": null,
+          "value": "",
+          "disabled": false,
+          "save": "full-test-reading-q32"
+        },
+        {
+          "tag": "INPUT",
+          "id": "",
+          "text": "",
+          "type": "text",
+          "href": null,
+          "value": "",
+          "disabled": false,
+          "save": "full-test-reading-q33"
+        },
+        {
+          "tag": "INPUT",
+          "id": "",
+          "text": "",
+          "type": "text",
+          "href": null,
+          "value": "",
+          "disabled": false,
+          "save": "full-test-reading-q34"
+        },
+        {
+          "tag": "INPUT",
+          "id": "",
+          "text": "",
+          "type": "text",
+          "href": null,
+          "value": "",
+          "disabled": false,
+          "save": "full-test-reading-q35"
+        },
+        {
+          "tag": "INPUT",
+          "id": "",
+          "text": "",
+          "type": "text",
+          "href": null,
+          "value": "",
+          "disabled": false,
+          "save": "full-test-reading-q36"
+        },
+        {
+          "tag": "INPUT",
+          "id": "",
+          "text": "",
+          "type": "text",
+          "href": null,
+          "value": "",
+          "disabled": false,
+          "save": "full-test-reading-q37"
+        },
+        {
+          "tag": "INPUT",
+          "id": "",
+          "text": "",
+          "type": "text",
+          "href": null,
+          "value": "",
+          "disabled": false,
+          "save": "full-test-reading-q38"
+        },
+        {
+          "tag": "INPUT",
+          "id": "",
+          "text": "",
+          "type": "text",
+          "href": null,
+          "value": "",
+          "disabled": false,
+          "save": "full-test-reading-q39"
+        },
+        {
+          "tag": "INPUT",
+          "id": "",
+          "text": "",
+          "type": "text",
+          "href": null,
+          "value": "",
+          "disabled": false,
+          "save": "full-test-reading-q40"
+        }
+      ],
+      "overflow": false
+    },
+    {
+      "name": "test-listening",
+      "hash": "#test-listening",
+      "active": [
+        {
+          "id": "test-listening",
+          "text": "← 全部测试\n听力整科测试\n\n4 Parts · 40 题 · 完整原音\n\n官方机考体验题 · 40题。选择题可填字母，提交后核对参考答案。\n\n32:00\n继续本次\n提交本次作答\n0% · 0 / 40 已作答\n\n按录音指示完成四个 Part。此处使用官方机考体验题，计时为本地练习计时。\n\nPart 1 · Q1–10\n0% · 0 / 10 已作答\nNote Completion\n\nOne word and/or a number\n\nPhone call about second-hand furniture\n\nItems:\n\nDining table:          - \n[ 1 ______ ]\nshape\n\n                             -  medium size\n\n                             - \n[ 2 ______ ]\nold\n\n                             -  price: £25.00\n\n\nDining chairs:         - set of\n[ 3 ______ ]\nchairs\n\n                              - seats covered in\n[ 4 ______ ]\nmaterial\n\n                              - in\n[ 5 ______ ]\ncondition\n\n                              - price: £20.00\n\n\nDesk:                     - length: 1 metre 20\n\n                              - 3 drawers. Top drawer has a\n[ 6 ______ ]\n.\n                              \n                              - price: £\n[ 7 ______ ]\n\n\n\nAddress:\n[ 8 ______ ]\nOld Lane, Stonethorpe\n\n\n\nDirections:\nTake the Hawcroft road out of Stonethorpe. Go past the secondary school, then turn\n[ 9 ______ ]\nat the crossroads. House is down this road, opposite the\n[ 10 ______ ]\n .\nQ1\nQ2\nQ3\nQ4\nQ5\nQ6\nQ7\nQ8\nQ9\nQ10\nPart 2 · Q11–20\n0% · 0 / 10 已作答\nMatching\n\nWho is responsible for each area?\n\nStaff Responsibilities\n\nA. Finance\nB. Food\nC. Health\nD. Kids' Counselling\nE. Organisation\nF. Rooms\nG. Sport\nH. Trips\nPeople\n\n\nMary Brown [ 11 ______ ]\n\nJohn Stevens [ 12 ______ ]\n\nAlison Jones [ 13 ______ ]\n\nTim Smith [ 14 ______ ]\n\nJenny James [ 15 ______ ]\n\nPlan, Map, Diagram Labelling\n\nA. Cookery room\nB. Games room\nC. Kitchen\nD. Pottery room\nE. Sports complex\nF. Staff accommodation\n[ 16 ______ ]\n[ 17 ______ ]\n[ 18 ______ ]\n[ 19 ______ ]\n[ 20 ______ ]\nQ11\nQ12\nQ13\nQ14\nQ15\nQ16\nQ17\nQ18\nQ19\nQ20\nPart 3 · Q21–30\n0% · 0 / 10 已作答\nMatching\n\nWhich feature do the speakers identify for each of the following categories of fossil?\n\nFeatures\n\nA. They are a very rare type of plant fossil.\nB. They do not contain any organic matter.\nC. They are found in soft, wet ground.\nD. They can be found far from normal fossil areas.\nE. They are three-dimensional.\nF. They provide information about plant cells.\nFossil categories\n\n\nImpression fossils [ 21 ______ ]\n\nCast fossils [ 22 ______ ]\n\nPermineralisation fossils [ 23 ______ ]\n\nCompaction fossils [ 24 ______ ]\n\nFusain fossils [ 25 ______ ]\n\nFlow-chart Completion Objective\n\nA. contamination\nB. vehicle\nC. heat\nD. results\nE. radiation\nF. site\nG. microbes\nH. water\nA spacecraft lands on a planet and sends out a rover.\nThe rover is directed to a [ 26 ______ ] which has organic material.\nIt collects a sample from below the surface (in order to avoid the effects of [ 27 ______ ]).\nThe soil and rocks are checked to look for evidence of fossils.\nThe sample is converted to powder.\nThe sample is subjected to [ 28 ______ ] .\nA mass spectrometer is used to search for potential proof of life, e.g [ 29 ______ ] .\nThe [ 30 ______ ] are compared with existing data from Earth.\nQ21\nQ22\nQ23\nQ24\nQ25\nQ26\nQ27\nQ28\nQ29\nQ30\nPart 4 · Q31–40\n0% · 0 / 10 已作答\nMC Questions\n\nQuestion 31\nParticipants in the Learner Persistence study were all drawn from the same\nA. age group.\nB. geographical area.\nC. socio-economic level.\nQuestion 32\nThe study showed that when starting their course, older students were most concerned about\nA. effects on their home life.\nB. implications for their future career.\nC. financial constraints.\nTable Completion\n\nOne word only\n\n \nResearch findings\n\n         \n\tSocial and Environmental Factors\tOther Factors\tPersonal Characteristics\n  First level of importance\tEffective support\tPerceived success in study\tEnjoyment of a\n[ 33 ______ ]\n\n  Second level of importance\tPositive experiences at\n[ 34 ______ ]\n\tGood\n[ 35 ______ ]\n\tMany\n[ 36 ______ ]\n in daily life\n  Third level of importance\tGood interaction with the\n[ 37 ______ ]\n\tNo family problems\tCapacity for multi-tasking\nNote Completion\n\nOne word only\n\n\n\nRecommendations\n\nAsk new students to complete questionnaires to gauge their level of\n[ 38 ______ ]\n .\nTrain selected students to act as\n[ 39 ______ ]\n .\nOutside office hours, offer\n[ 40 ______ ]\nhelp.\nQ31\nQ32\nQ33\nQ34\nQ35\nQ36\nQ37\nQ38\nQ39\nQ40\n以往作答 · 0 次"
+        }
+      ],
+      "controls": [
+        {
+          "tag": "A",
+          "id": "",
+          "text": "i.\nIELTS\n我的备考工作区",
+          "type": "",
+          "href": "#study"
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "学习",
+          "type": "button",
+          "href": null,
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "练习",
+          "type": "button",
+          "href": null,
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "测试",
+          "type": "button",
+          "href": null,
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "工作台",
+          "type": "button",
+          "href": null,
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "开发工作台",
+          "type": "button",
+          "href": null,
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "直接开始学习 →",
+          "type": "",
+          "href": "#guide"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "自选清单 →",
+          "type": "",
+          "href": "#plan"
+        },
+        {
+          "tag": "BUTTON",
+          "id": "lookup-open",
+          "text": "查词",
+          "type": "button",
+          "href": null,
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "我的记录",
+          "type": "",
+          "href": "#records"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "← 全部测试",
+          "type": "",
+          "href": "#tests"
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "继续本次",
+          "type": "button",
+          "href": null,
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "提交本次作答",
+          "type": "button",
+          "href": null,
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "INPUT",
+          "id": "",
+          "text": "",
+          "type": "text",
+          "href": null,
+          "value": "",
+          "disabled": false,
+          "save": "full-test-listening-q1"
+        },
+        {
+          "tag": "INPUT",
+          "id": "",
+          "text": "",
+          "type": "text",
+          "href": null,
+          "value": "",
+          "disabled": false,
+          "save": "full-test-listening-q2"
+        },
+        {
+          "tag": "INPUT",
+          "id": "",
+          "text": "",
+          "type": "text",
+          "href": null,
+          "value": "",
+          "disabled": false,
+          "save": "full-test-listening-q3"
+        },
+        {
+          "tag": "INPUT",
+          "id": "",
+          "text": "",
+          "type": "text",
+          "href": null,
+          "value": "",
+          "disabled": false,
+          "save": "full-test-listening-q4"
+        },
+        {
+          "tag": "INPUT",
+          "id": "",
+          "text": "",
+          "type": "text",
+          "href": null,
+          "value": "",
+          "disabled": false,
+          "save": "full-test-listening-q5"
+        },
+        {
+          "tag": "INPUT",
+          "id": "",
+          "text": "",
+          "type": "text",
+          "href": null,
+          "value": "",
+          "disabled": false,
+          "save": "full-test-listening-q6"
+        },
+        {
+          "tag": "INPUT",
+          "id": "",
+          "text": "",
+          "type": "text",
+          "href": null,
+          "value": "",
+          "disabled": false,
+          "save": "full-test-listening-q7"
+        },
+        {
+          "tag": "INPUT",
+          "id": "",
+          "text": "",
+          "type": "text",
+          "href": null,
+          "value": "",
+          "disabled": false,
+          "save": "full-test-listening-q8"
+        },
+        {
+          "tag": "INPUT",
+          "id": "",
+          "text": "",
+          "type": "text",
+          "href": null,
+          "value": "",
+          "disabled": false,
+          "save": "full-test-listening-q9"
+        },
+        {
+          "tag": "INPUT",
+          "id": "",
+          "text": "",
+          "type": "text",
+          "href": null,
+          "value": "",
+          "disabled": false,
+          "save": "full-test-listening-q10"
+        },
+        {
+          "tag": "INPUT",
+          "id": "",
+          "text": "",
+          "type": "text",
+          "href": null,
+          "value": "",
+          "disabled": false,
+          "save": "full-test-listening-q11"
+        },
+        {
+          "tag": "INPUT",
+          "id": "",
+          "text": "",
+          "type": "text",
+          "href": null,
+          "value": "",
+          "disabled": false,
+          "save": "full-test-listening-q12"
+        },
+        {
+          "tag": "INPUT",
+          "id": "",
+          "text": "",
+          "type": "text",
+          "href": null,
+          "value": "",
+          "disabled": false,
+          "save": "full-test-listening-q13"
+        },
+        {
+          "tag": "INPUT",
+          "id": "",
+          "text": "",
+          "type": "text",
+          "href": null,
+          "value": "",
+          "disabled": false,
+          "save": "full-test-listening-q14"
+        },
+        {
+          "tag": "INPUT",
+          "id": "",
+          "text": "",
+          "type": "text",
+          "href": null,
+          "value": "",
+          "disabled": false,
+          "save": "full-test-listening-q15"
+        },
+        {
+          "tag": "INPUT",
+          "id": "",
+          "text": "",
+          "type": "text",
+          "href": null,
+          "value": "",
+          "disabled": false,
+          "save": "full-test-listening-q16"
+        },
+        {
+          "tag": "INPUT",
+          "id": "",
+          "text": "",
+          "type": "text",
+          "href": null,
+          "value": "",
+          "disabled": false,
+          "save": "full-test-listening-q17"
+        },
+        {
+          "tag": "INPUT",
+          "id": "",
+          "text": "",
+          "type": "text",
+          "href": null,
+          "value": "",
+          "disabled": false,
+          "save": "full-test-listening-q18"
+        },
+        {
+          "tag": "INPUT",
+          "id": "",
+          "text": "",
+          "type": "text",
+          "href": null,
+          "value": "",
+          "disabled": false,
+          "save": "full-test-listening-q19"
+        },
+        {
+          "tag": "INPUT",
+          "id": "",
+          "text": "",
+          "type": "text",
+          "href": null,
+          "value": "",
+          "disabled": false,
+          "save": "full-test-listening-q20"
+        },
+        {
+          "tag": "INPUT",
+          "id": "",
+          "text": "",
+          "type": "text",
+          "href": null,
+          "value": "",
+          "disabled": false,
+          "save": "full-test-listening-q21"
+        },
+        {
+          "tag": "INPUT",
+          "id": "",
+          "text": "",
+          "type": "text",
+          "href": null,
+          "value": "",
+          "disabled": false,
+          "save": "full-test-listening-q22"
+        },
+        {
+          "tag": "INPUT",
+          "id": "",
+          "text": "",
+          "type": "text",
+          "href": null,
+          "value": "",
+          "disabled": false,
+          "save": "full-test-listening-q23"
+        },
+        {
+          "tag": "INPUT",
+          "id": "",
+          "text": "",
+          "type": "text",
+          "href": null,
+          "value": "",
+          "disabled": false,
+          "save": "full-test-listening-q24"
+        },
+        {
+          "tag": "INPUT",
+          "id": "",
+          "text": "",
+          "type": "text",
+          "href": null,
+          "value": "",
+          "disabled": false,
+          "save": "full-test-listening-q25"
+        },
+        {
+          "tag": "INPUT",
+          "id": "",
+          "text": "",
+          "type": "text",
+          "href": null,
+          "value": "",
+          "disabled": false,
+          "save": "full-test-listening-q26"
+        },
+        {
+          "tag": "INPUT",
+          "id": "",
+          "text": "",
+          "type": "text",
+          "href": null,
+          "value": "",
+          "disabled": false,
+          "save": "full-test-listening-q27"
+        },
+        {
+          "tag": "INPUT",
+          "id": "",
+          "text": "",
+          "type": "text",
+          "href": null,
+          "value": "",
+          "disabled": false,
+          "save": "full-test-listening-q28"
+        },
+        {
+          "tag": "INPUT",
+          "id": "",
+          "text": "",
+          "type": "text",
+          "href": null,
+          "value": "",
+          "disabled": false,
+          "save": "full-test-listening-q29"
+        },
+        {
+          "tag": "INPUT",
+          "id": "",
+          "text": "",
+          "type": "text",
+          "href": null,
+          "value": "",
+          "disabled": false,
+          "save": "full-test-listening-q30"
+        },
+        {
+          "tag": "INPUT",
+          "id": "",
+          "text": "",
+          "type": "text",
+          "href": null,
+          "value": "",
+          "disabled": false,
+          "save": "full-test-listening-q31"
+        },
+        {
+          "tag": "INPUT",
+          "id": "",
+          "text": "",
+          "type": "text",
+          "href": null,
+          "value": "",
+          "disabled": false,
+          "save": "full-test-listening-q32"
+        },
+        {
+          "tag": "INPUT",
+          "id": "",
+          "text": "",
+          "type": "text",
+          "href": null,
+          "value": "",
+          "disabled": false,
+          "save": "full-test-listening-q33"
+        },
+        {
+          "tag": "INPUT",
+          "id": "",
+          "text": "",
+          "type": "text",
+          "href": null,
+          "value": "",
+          "disabled": false,
+          "save": "full-test-listening-q34"
+        },
+        {
+          "tag": "INPUT",
+          "id": "",
+          "text": "",
+          "type": "text",
+          "href": null,
+          "value": "",
+          "disabled": false,
+          "save": "full-test-listening-q35"
+        },
+        {
+          "tag": "INPUT",
+          "id": "",
+          "text": "",
+          "type": "text",
+          "href": null,
+          "value": "",
+          "disabled": false,
+          "save": "full-test-listening-q36"
+        },
+        {
+          "tag": "INPUT",
+          "id": "",
+          "text": "",
+          "type": "text",
+          "href": null,
+          "value": "",
+          "disabled": false,
+          "save": "full-test-listening-q37"
+        },
+        {
+          "tag": "INPUT",
+          "id": "",
+          "text": "",
+          "type": "text",
+          "href": null,
+          "value": "",
+          "disabled": false,
+          "save": "full-test-listening-q38"
+        },
+        {
+          "tag": "INPUT",
+          "id": "",
+          "text": "",
+          "type": "text",
+          "href": null,
+          "value": "",
+          "disabled": false,
+          "save": "full-test-listening-q39"
+        },
+        {
+          "tag": "INPUT",
+          "id": "",
+          "text": "",
+          "type": "text",
+          "href": null,
+          "value": "",
+          "disabled": false,
+          "save": "full-test-listening-q40"
+        }
+      ],
+      "overflow": false
+    },
+    {
+      "name": "test-writing",
+      "hash": "#test-writing",
+      "active": [
+        {
+          "id": "test-writing",
+          "text": "← 全部测试\n写作整科测试\n\nTask 1 + Task 2\n\nCambridge IELTS 21 Academic · Test 1。建议分别用 20 / 40 分钟，至少 150 / 250 词。\n\n60:00\n继续本次\n提交本次作答\n0% · 0 / 2 已作答\nTask 1\n0% · 0 / 1 已作答\nTask 1 作文\n\n0 词（空白分隔计数）\n\nTask 2\n0% · 0 / 1 已作答\nTask 2 作文\n\n0 词（空白分隔计数）\n\n以往作答 · 0 次"
+        }
+      ],
+      "controls": [
+        {
+          "tag": "A",
+          "id": "",
+          "text": "i.\nIELTS\n我的备考工作区",
+          "type": "",
+          "href": "#study"
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "学习",
+          "type": "button",
+          "href": null,
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "练习",
+          "type": "button",
+          "href": null,
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "测试",
+          "type": "button",
+          "href": null,
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "工作台",
+          "type": "button",
+          "href": null,
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "开发工作台",
+          "type": "button",
+          "href": null,
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "直接开始学习 →",
+          "type": "",
+          "href": "#guide"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "自选清单 →",
+          "type": "",
+          "href": "#plan"
+        },
+        {
+          "tag": "BUTTON",
+          "id": "lookup-open",
+          "text": "查词",
+          "type": "button",
+          "href": null,
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "我的记录",
+          "type": "",
+          "href": "#records"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "← 全部测试",
+          "type": "",
+          "href": "#tests"
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "继续本次",
+          "type": "button",
+          "href": null,
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "提交本次作答",
+          "type": "button",
+          "href": null,
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "TEXTAREA",
+          "id": "",
+          "text": "",
+          "type": "textarea",
+          "href": null,
+          "value": "",
+          "disabled": false,
+          "save": "full-test-writing-task1"
+        },
+        {
+          "tag": "TEXTAREA",
+          "id": "",
+          "text": "",
+          "type": "textarea",
+          "href": null,
+          "value": "",
+          "disabled": false,
+          "save": "full-test-writing-task2"
+        }
+      ],
+      "overflow": false
+    },
+    {
+      "name": "test-speaking",
+      "hash": "#test-speaking",
+      "active": [
+        {
+          "id": "test-speaking",
+          "text": "← 全部测试\n口语整科测试\n\nPart 1 + Part 2 + Part 3\n\nCambridge 官方公开样题组合。Part 2 准备 1 分钟、说 1–2 分钟；本地自练按 11–14 分钟安排。\n\n14:00\n继续本次\n提交本次作答\n0% · 0 / 3 已作答\nPart 1\n0% · 0 / 1 已作答\nSpeaking sample task – Part 1\nPart 1 Introduction and interview\n\n[This part of the test begins with the examiner introducing himself or herself and\nchecking the candidate’s identification. It then continues as an interview.]\n\n\nLet’s talk about your home town or village.\n\n• What kind of place is it?\n• What’s the most interesting part of your town/village?\n• What kind of jobs do the people in your town/village do?\n• Would you say it’s a good place to live? (Why?)\n\n\n\nLet’s move on to talk about accommodation.\n\n• Tell me about the kind of accommodation you live in?\n• How long have you lived there?\n• What do you like about living there?\n• What sort of accommodation would you most like to live in?\n\n\n开始录音结束录音载入录音 \n\n结束后请下载录音；文字备份不包含声音。\n\nPart 1 录音文件名（或记录未能作答的位置）\nPart 2\n0% · 0 / 1 已作答\nSpeaking sample task – Part 2\nPart 2 – Individual long turn\n\n\nCandidate Task Card\n\nDescribe something you own which is very important to you.\n\nYou should say:\n\nwhere you got it from\nhow long you have had it\nwhat you use it for\n\nand explain why it is important to you.\n\n\nYou will have to talk about the topic for 1 to 2 minutes.\nYou have one minute to think about what you're going to say.\nYou can make some notes to help you if you wish.\n\n\n\nRounding off questions\n\n• Is it valuable in terms of money?\n• Would it be easy to replace?\n\n\n开始录音结束录音载入录音 \n\n结束后请下载录音；文字备份不包含声音。\n\nPart 2 录音文件名（或记录未能作答的位置）\nPart 3\n0% · 0 / 1 已作答\nSpeaking sample task – Part 3\nPart 3 – Two-way discussion\n\n\nLet’s consider first of all how people’s values have changed.\n\n• What kind of things give status to people in your country?\n• Have things changed since your parents’ time?\n\nFinally, let’s talk about the role of advertising.\n\n• Do you think advertising influences what people buy?\n\n\n开始录音结束录音载入录音 \n\n结束后请下载录音；文字备份不包含声音。\n\nPart 3 录音文件名（或记录未能作答的位置）\n以往作答 · 0 次"
+        }
+      ],
+      "controls": [
+        {
+          "tag": "A",
+          "id": "",
+          "text": "i.\nIELTS\n我的备考工作区",
+          "type": "",
+          "href": "#study"
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "学习",
+          "type": "button",
+          "href": null,
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "练习",
+          "type": "button",
+          "href": null,
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "测试",
+          "type": "button",
+          "href": null,
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "工作台",
+          "type": "button",
+          "href": null,
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "开发工作台",
+          "type": "button",
+          "href": null,
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "直接开始学习 →",
+          "type": "",
+          "href": "#guide"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "自选清单 →",
+          "type": "",
+          "href": "#plan"
+        },
+        {
+          "tag": "BUTTON",
+          "id": "lookup-open",
+          "text": "查词",
+          "type": "button",
+          "href": null,
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "我的记录",
+          "type": "",
+          "href": "#records"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "← 全部测试",
+          "type": "",
+          "href": "#tests"
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "继续本次",
+          "type": "button",
+          "href": null,
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "提交本次作答",
+          "type": "button",
+          "href": null,
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "开始录音",
+          "type": "button",
+          "href": null,
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "结束录音",
+          "type": "button",
+          "href": null,
+          "value": "",
+          "disabled": true
+        },
+        {
+          "tag": "INPUT",
+          "id": "",
+          "text": "",
+          "type": "file",
+          "href": null,
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "INPUT",
+          "id": "",
+          "text": "",
+          "type": "text",
+          "href": null,
+          "value": "",
+          "disabled": false,
+          "save": "full-test-speaking-1-record-note"
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "开始录音",
+          "type": "button",
+          "href": null,
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "结束录音",
+          "type": "button",
+          "href": null,
+          "value": "",
+          "disabled": true
+        },
+        {
+          "tag": "INPUT",
+          "id": "",
+          "text": "",
+          "type": "file",
+          "href": null,
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "INPUT",
+          "id": "",
+          "text": "",
+          "type": "text",
+          "href": null,
+          "value": "",
+          "disabled": false,
+          "save": "full-test-speaking-2-record-note"
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "开始录音",
+          "type": "button",
+          "href": null,
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "结束录音",
+          "type": "button",
+          "href": null,
+          "value": "",
+          "disabled": true
+        },
+        {
+          "tag": "INPUT",
+          "id": "",
+          "text": "",
+          "type": "file",
+          "href": null,
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "INPUT",
+          "id": "",
+          "text": "",
+          "type": "text",
+          "href": null,
+          "value": "",
+          "disabled": false,
+          "save": "full-test-speaking-3-record-note"
+        }
+      ],
+      "overflow": false
+    }
+  ],
+  "targets": [
+    {
+      "text": "学习",
+      "route": "study"
+    },
+    {
+      "text": "练习",
+      "route": "practice"
+    },
+    {
+      "text": "测试",
+      "route": "tests"
+    },
+    {
+      "text": "工作台",
+      "route": "workspace"
+    },
+    {
+      "text": "开发工作台",
+      "route": "development"
+    },
+    {
+      "text": "回到学习路线",
+      "route": "guide"
+    },
+    {
+      "text": "回到学习路线",
+      "route": "guide"
+    },
+    {
+      "text": "回到学习路线",
+      "route": "guide"
+    },
+    {
+      "text": "回到学习路线",
+      "route": "guide"
+    },
+    {
+      "text": "回到学习路线",
+      "route": "guide"
+    }
+  ]
+}

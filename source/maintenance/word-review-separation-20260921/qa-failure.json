@@ -1,0 +1,12 @@
+{
+  "pass": false,
+  "target": "candidate",
+  "checks": [
+    "Initialized exact page 657c4b0655d1304de18af00b9b4623ec9fd5675692caf4050ba714187e60b976",
+    "三个独立一级入口各自高亮并只显示自己的页面",
+    "单词页直接标记可见，未伪造复习记录或改到期时间",
+    "从单词进入独立复习页，完成返回原表，刷新保留同一份历史"
+  ],
+  "errors": [],
+  "error": "page.waitForFunction: Timeout 30000ms exceeded.\n    at go (C:\\Users\\Admin1\\Documents\\ChatGPT\\ielts\\word-review-separation-20260921\\qa.cjs:6:83)\n    at async main (C:\\Users\\Admin1\\Documents\\ChatGPT\\ielts\\word-review-separation-20260921\\qa.cjs:18:2)"
+}

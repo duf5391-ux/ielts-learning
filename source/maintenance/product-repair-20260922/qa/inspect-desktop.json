@@ -1,0 +1,1195 @@
+{
+  "errors": [],
+  "pages": [
+    {
+      "hash": "#guide",
+      "active": [
+        {
+          "id": "guide",
+          "text": "← 返回学习\n\nYOUR DAILY PRACTICE\n\n留一点时间，学会一点。\n\n今天的内容已经安排好，也可以按你的想法来。\n\n9月22日星期二\n01\n今天学多久\n建议用时，按自己的节奏\n15 分钟\n轻量练习\n30 分钟\n日常积累\n60 分钟\n深入练习\n02\n今天学什么\n最多选 2 个板块\n帮我安排\n阅读后写作\n听力\n阅读\n写作\n口语\n词汇与短语\n共用背景\n\n先专注一个板块。完成后，可根据你的反馈继续巩固或换个内容。\n\n直接开始学习\n→\n30 分钟 · 4 步\n\n直接进入第一步；已经做过的材料可以作为复习。\n\nTODAY'S PLAN\n\n今天的安排\n约 30 分钟\n\n听力 · 先从听力开始；也可以按你的需要换板块。\n\n1\n读题，确定要听什么\n5 分钟\n\n读社区活动第11–16题，圈出每题要听的信息和字数限制。先不展开答案。\n\n2\n听原音，留下自己的答案\n15 分钟\n\n播放本题原音，完成第11–16题。先独立写答案，再回听不确定的位置。\n\n3\n核对，再听清一处\n8 分钟\n\n核对答案与字数；选择两处漏听内容，回到原音听清，再遮住答案复述。\n\n4\n留一个下次要听清的点\n2 分钟\n\n说出这次最容易混淆的一处信息。可以用下方「随手记」留下问题；不用为了完成而填写笔记。\n\n完成一步，再进入下一步。计时结束不会打断作答。"
+        }
+      ],
+      "controls": [
+        {
+          "tag": "A",
+          "id": "",
+          "text": "i.\nIELTS\n我的备考工作区",
+          "type": "",
+          "href": "#study"
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "学习",
+          "type": "button",
+          "href": null,
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "练习",
+          "type": "button",
+          "href": null,
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "测试",
+          "type": "button",
+          "href": null,
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "工作台",
+          "type": "button",
+          "href": null,
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "开发工作台",
+          "type": "button",
+          "href": null,
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "直接开始学习 →",
+          "type": "",
+          "href": "#guide"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "自选清单 →",
+          "type": "",
+          "href": "#plan"
+        },
+        {
+          "tag": "BUTTON",
+          "id": "lookup-open",
+          "text": "查词",
+          "type": "button",
+          "href": null,
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "我的记录",
+          "type": "",
+          "href": "#records"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "← 返回学习",
+          "type": "",
+          "href": "#study"
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "15 分钟\n轻量练习",
+          "type": "button",
+          "href": null,
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "30 分钟\n日常积累",
+          "type": "button",
+          "href": null,
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "60 分钟\n深入练习",
+          "type": "button",
+          "href": null,
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "帮我安排",
+          "type": "button",
+          "href": null,
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "阅读后写作",
+          "type": "button",
+          "href": null,
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "听力",
+          "type": "button",
+          "href": null,
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "阅读",
+          "type": "button",
+          "href": null,
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "写作",
+          "type": "button",
+          "href": null,
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "口语",
+          "type": "button",
+          "href": null,
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "词汇与短语",
+          "type": "button",
+          "href": null,
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "共用背景",
+          "type": "button",
+          "href": null,
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "ds-start",
+          "text": "直接开始学习\n→",
+          "type": "button",
+          "href": null,
+          "value": "",
+          "disabled": false
+        }
+      ],
+      "overflow": false
+    },
+    {
+      "hash": "#study",
+      "active": [
+        {
+          "id": "study",
+          "text": "学习\n\n选一科学方法，或从词汇、短语开始。\n\n直接开始学习\n\n已有默认安排；也可以选板块和 15／30／60 分钟。\n\n查看安排并开始 →\n继续上次\n选一项内容开始，之后可以从这里继续。\n学习项目 →\n自选清单 →\n\nLISTENING\n\n听力\n\n7 项学习内容\n\n0% · 0 / 7 单元\n进入听力 →\n\nREADING\n\n阅读\n\n18 项学习内容\n\n0% · 0 / 18 单元\n进入阅读 →\n\nWRITING\n\n写作\n\n15 项学习内容\n\n0% · 0 / 15 单元\n进入写作 →\n\nSPEAKING\n\n口语\n\n26 项学习内容\n\n0% · 0 / 26 单元\n进入口语 →\n词汇与背景\n词汇\n单词、语境与主动运用 →\n短语\n搭配、用法与配套小练 →\n共用背景\n供不同科目使用的阅读材料 →\n我的学习\n我的单词表\n收藏词语、直接标记、回忆复习 →\n我的句子本\n重看收藏的句子与译文 →\n写作工作台\n审题、首稿、检查与修订 →\n\n按题目与技巧查找学习资源 →"
+        }
+      ],
+      "controls": [
+        {
+          "tag": "A",
+          "id": "",
+          "text": "i.\nIELTS\n我的备考工作区",
+          "type": "",
+          "href": "#study"
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "学习",
+          "type": "button",
+          "href": null,
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "练习",
+          "type": "button",
+          "href": null,
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "测试",
+          "type": "button",
+          "href": null,
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "工作台",
+          "type": "button",
+          "href": null,
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "开发工作台",
+          "type": "button",
+          "href": null,
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "直接开始学习 →",
+          "type": "",
+          "href": "#guide"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "自选清单 →",
+          "type": "",
+          "href": "#plan"
+        },
+        {
+          "tag": "BUTTON",
+          "id": "lookup-open",
+          "text": "查词",
+          "type": "button",
+          "href": null,
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "我的记录",
+          "type": "",
+          "href": "#records"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "查看安排并开始 →",
+          "type": "",
+          "href": "#guide"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "学习项目 →",
+          "type": "",
+          "href": "#learning-projects"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "自选清单 →",
+          "type": "",
+          "href": "#plan"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "进入听力 →",
+          "type": "",
+          "href": "#study-listening-list"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "进入阅读 →",
+          "type": "",
+          "href": "#study-reading-list"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "进入写作 →",
+          "type": "",
+          "href": "#study-writing-list"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "进入口语 →",
+          "type": "",
+          "href": "#study-speaking-list"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "词汇\n单词、语境与主动运用 →",
+          "type": "",
+          "href": "#study-vocabulary-list"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "短语\n搭配、用法与配套小练 →",
+          "type": "",
+          "href": "#study-phrases-list"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "共用背景\n供不同科目使用的阅读材料 →",
+          "type": "",
+          "href": "#study-shared-list"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "我的单词表\n收藏词语、直接标记、回忆复习 →",
+          "type": "",
+          "href": "#vocabulary-review"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "我的句子本\n重看收藏的句子与译文 →",
+          "type": "",
+          "href": "#sentence-learning"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "写作工作台\n审题、首稿、检查与修订 →",
+          "type": "",
+          "href": "#writing-workbench"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "按题目与技巧查找学习资源 →",
+          "type": "",
+          "href": "#resource-update"
+        }
+      ],
+      "overflow": false
+    },
+    {
+      "hash": "#practice",
+      "active": [
+        {
+          "id": "practice",
+          "text": "练习\n\n先选一科，再按话题、题型或 Part 找练习。\n\nLISTENING\n\n听力\n\n10 项练习\n\n0% · 0 / 10 单元\n进入听力 →\n\nREADING\n\n阅读\n\n56 项练习\n\n0% · 0 / 56 单元\n进入阅读 →\n\nWRITING\n\n写作\n\n31 项练习\n\n0% · 0 / 31 单元\n进入写作 →\n\nSPEAKING\n\n口语\n\n3 项练习\n\n0% · 0 / 3 单元\n进入口语 →\n表达练习\n词汇 · 语境改写与填空 →"
+        }
+      ],
+      "controls": [
+        {
+          "tag": "A",
+          "id": "",
+          "text": "i.\nIELTS\n我的备考工作区",
+          "type": "",
+          "href": "#study"
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "学习",
+          "type": "button",
+          "href": null,
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "练习",
+          "type": "button",
+          "href": null,
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "测试",
+          "type": "button",
+          "href": null,
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "工作台",
+          "type": "button",
+          "href": null,
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "开发工作台",
+          "type": "button",
+          "href": null,
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "直接开始学习 →",
+          "type": "",
+          "href": "#guide"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "自选清单 →",
+          "type": "",
+          "href": "#plan"
+        },
+        {
+          "tag": "BUTTON",
+          "id": "lookup-open",
+          "text": "查词",
+          "type": "button",
+          "href": null,
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "我的记录",
+          "type": "",
+          "href": "#records"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "进入听力 →",
+          "type": "",
+          "href": "#practice-listening-list"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "进入阅读 →",
+          "type": "",
+          "href": "#practice-reading-list"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "进入写作 →",
+          "type": "",
+          "href": "#practice-writing-list"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "进入口语 →",
+          "type": "",
+          "href": "#practice-speaking-list"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "词汇 · 语境改写与填空 →",
+          "type": "",
+          "href": "#practice-vocabulary-list"
+        }
+      ],
+      "overflow": false
+    },
+    {
+      "hash": "#test",
+      "active": [
+        {
+          "id": "guide",
+          "text": "← 返回学习\n\nYOUR DAILY PRACTICE\n\n留一点时间，学会一点。\n\n今天的内容已经安排好，也可以按你的想法来。\n\n9月22日星期二\n01\n今天学多久\n建议用时，按自己的节奏\n15 分钟\n轻量练习\n30 分钟\n日常积累\n60 分钟\n深入练习\n02\n今天学什么\n最多选 2 个板块\n帮我安排\n阅读后写作\n听力\n阅读\n写作\n口语\n词汇与短语\n共用背景\n\n先专注一个板块。完成后，可根据你的反馈继续巩固或换个内容。\n\n直接开始学习\n→\n30 分钟 · 4 步\n\n直接进入第一步；已经做过的材料可以作为复习。\n\nTODAY'S PLAN\n\n今天的安排\n约 30 分钟\n\n听力 · 先从听力开始；也可以按你的需要换板块。\n\n1\n读题，确定要听什么\n5 分钟\n\n读社区活动第11–16题，圈出每题要听的信息和字数限制。先不展开答案。\n\n2\n听原音，留下自己的答案\n15 分钟\n\n播放本题原音，完成第11–16题。先独立写答案，再回听不确定的位置。\n\n3\n核对，再听清一处\n8 分钟\n\n核对答案与字数；选择两处漏听内容，回到原音听清，再遮住答案复述。\n\n4\n留一个下次要听清的点\n2 分钟\n\n说出这次最容易混淆的一处信息。可以用下方「随手记」留下问题；不用为了完成而填写笔记。\n\n完成一步，再进入下一步。计时结束不会打断作答。"
+        }
+      ],
+      "controls": [
+        {
+          "tag": "A",
+          "id": "",
+          "text": "i.\nIELTS\n我的备考工作区",
+          "type": "",
+          "href": "#study"
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "学习",
+          "type": "button",
+          "href": null,
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "练习",
+          "type": "button",
+          "href": null,
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "测试",
+          "type": "button",
+          "href": null,
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "工作台",
+          "type": "button",
+          "href": null,
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "开发工作台",
+          "type": "button",
+          "href": null,
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "直接开始学习 →",
+          "type": "",
+          "href": "#guide"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "自选清单 →",
+          "type": "",
+          "href": "#plan"
+        },
+        {
+          "tag": "BUTTON",
+          "id": "lookup-open",
+          "text": "查词",
+          "type": "button",
+          "href": null,
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "我的记录",
+          "type": "",
+          "href": "#records"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "← 返回学习",
+          "type": "",
+          "href": "#study"
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "15 分钟\n轻量练习",
+          "type": "button",
+          "href": null,
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "30 分钟\n日常积累",
+          "type": "button",
+          "href": null,
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "60 分钟\n深入练习",
+          "type": "button",
+          "href": null,
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "帮我安排",
+          "type": "button",
+          "href": null,
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "阅读后写作",
+          "type": "button",
+          "href": null,
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "听力",
+          "type": "button",
+          "href": null,
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "阅读",
+          "type": "button",
+          "href": null,
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "写作",
+          "type": "button",
+          "href": null,
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "口语",
+          "type": "button",
+          "href": null,
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "词汇与短语",
+          "type": "button",
+          "href": null,
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "共用背景",
+          "type": "button",
+          "href": null,
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "ds-start",
+          "text": "直接开始学习\n→",
+          "type": "button",
+          "href": null,
+          "value": "",
+          "disabled": false
+        }
+      ],
+      "overflow": false
+    },
+    {
+      "hash": "#workspace",
+      "active": [
+        {
+          "id": "workspace",
+          "text": "工作台\n\n整理原始资料和个人材料，查看学习记录与备份。\n\n原始资料\n\n原题、图表、音频和配套文件。\n\n查找资料 →\n我的资料\n\n导入、编辑和整理自己的材料。\n\n管理资料 →\n记录与备份\n\n查看已保留的答案，导出或恢复记录。\n\n查看记录 →\n资料接入进度\n\n查看新资料处理情况与定制课程预留窗口。\n\n查看进度 →"
+        }
+      ],
+      "controls": [
+        {
+          "tag": "A",
+          "id": "",
+          "text": "i.\nIELTS\n我的备考工作区",
+          "type": "",
+          "href": "#study"
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "学习",
+          "type": "button",
+          "href": null,
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "练习",
+          "type": "button",
+          "href": null,
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "测试",
+          "type": "button",
+          "href": null,
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "工作台",
+          "type": "button",
+          "href": null,
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "开发工作台",
+          "type": "button",
+          "href": null,
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "直接开始学习 →",
+          "type": "",
+          "href": "#guide"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "自选清单 →",
+          "type": "",
+          "href": "#plan"
+        },
+        {
+          "tag": "BUTTON",
+          "id": "lookup-open",
+          "text": "查词",
+          "type": "button",
+          "href": null,
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "我的记录",
+          "type": "",
+          "href": "#records"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "查找资料 →",
+          "type": "",
+          "href": "#library"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "管理资料 →",
+          "type": "",
+          "href": "#materials"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "查看记录 →",
+          "type": "",
+          "href": "#records"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "查看进度 →",
+          "type": "",
+          "href": "#course-design"
+        }
+      ],
+      "overflow": false
+    },
+    {
+      "hash": "#plan",
+      "active": [
+        {
+          "id": "plan",
+          "text": "← 返回学习\n自选清单\n\n从学习或练习中加入想做的内容，按自己的节奏选择；清单保留到你手动移除。\n\n还没选内容，直接去学习或练习中挑选即可。\n去选择内容 →"
+        }
+      ],
+      "controls": [
+        {
+          "tag": "A",
+          "id": "",
+          "text": "i.\nIELTS\n我的备考工作区",
+          "type": "",
+          "href": "#study"
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "学习",
+          "type": "button",
+          "href": null,
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "练习",
+          "type": "button",
+          "href": null,
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "测试",
+          "type": "button",
+          "href": null,
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "工作台",
+          "type": "button",
+          "href": null,
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "开发工作台",
+          "type": "button",
+          "href": null,
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "直接开始学习 →",
+          "type": "",
+          "href": "#guide"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "自选清单 →",
+          "type": "",
+          "href": "#plan"
+        },
+        {
+          "tag": "BUTTON",
+          "id": "lookup-open",
+          "text": "查词",
+          "type": "button",
+          "href": null,
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "我的记录",
+          "type": "",
+          "href": "#records"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "← 返回学习",
+          "type": "",
+          "href": "#study"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "去选择内容 →",
+          "type": "",
+          "href": "#study"
+        }
+      ],
+      "overflow": false
+    },
+    {
+      "hash": "#records",
+      "active": [
+        {
+          "id": "records",
+          "text": "← 返回工作台\n\nYOUR LEARNING RECORD\n\n学习记录与备份\n\n首次答案、修订和实际条件分别保留。这里显示本浏览器已有的记录。\n\n我的单词表\n我的句子本\n写作工作台\n新增资源：我的学习与复习\n\n新增资源已学 0 / 44；加入复习 0 项。两项分别记录，不计入原五章首次作答。\n\n已学过\n还未标记已学；打开新资源，学习后按需要记录。\n我加入的复习\n在任意新增单元勾选“加入我的复习”，这里会保留入口。\n\n勾选和笔记随原“学习记录 JSON”一并导出。复习完成后可取消加入；这不代表已掌握。查词记录仍在下方生词复习区。\n\n查词历史\n导出查词记录\n\n每次查询都会留下词语和原句。点击收藏后进入上方单词表，再按间隔复习。\n\n0 个查询词或词组 · 0 个已收藏\n\n待复习\n全部记录\n已复习\n已收藏\n\n点击正文中的英文词，释义和原句会自动留在这里。\n\n旧版待复习／已复习标记继续保留。所有查询、收藏、拼写与复习记录包含在本页学习备份中。\n\n补充单元记录\n\n这里统计实际保留的首稿；打开材料、看过反馈不等于掌握。\n\n0 / 26 个补充练习首稿已保留。另有 0 个可选背景单元。\n\n已保留首次作答\n0 / 5 章\n标记读过的语境\n0 / 18 段\n收藏的词与用法\n0 条内容\n四科作答\n用时只统计你填写的首次作答分钟\n阅读\n\n找到判断的证据\n\n待开始\n未记录用时\n进入章节\n听力\n\n听清最终要填什么\n\n待开始\n未记录用时\n进入章节\nTask 1\n\n把图表讲清楚\n\n待开始\n未记录用时\n进入章节\nTask 2\n\n让理由站得住\n\n待开始\n未记录用时\n进入章节\n口语\n\n说清物品的意义\n\n待开始\n未记录用时\n进入章节\n\nA SMALL REFLECTION\n\n这一轮，我发现了什么？\n\n记一处具体的问题，和下次想试的改变。\n\n我的学习笔记\n让记录留在自己手里\n导出文字作答\n备份学习记录\n恢复备份\n\n备份包含文字、首次稿和本页记录；录音请在口语页单独下载。恢复备份会替换当前文字记录。"
+        }
+      ],
+      "controls": [
+        {
+          "tag": "A",
+          "id": "",
+          "text": "i.\nIELTS\n我的备考工作区",
+          "type": "",
+          "href": "#study"
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "学习",
+          "type": "button",
+          "href": null,
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "练习",
+          "type": "button",
+          "href": null,
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "测试",
+          "type": "button",
+          "href": null,
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "工作台",
+          "type": "button",
+          "href": null,
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "开发工作台",
+          "type": "button",
+          "href": null,
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "直接开始学习 →",
+          "type": "",
+          "href": "#guide"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "自选清单 →",
+          "type": "",
+          "href": "#plan"
+        },
+        {
+          "tag": "BUTTON",
+          "id": "lookup-open",
+          "text": "查词",
+          "type": "button",
+          "href": null,
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "我的记录",
+          "type": "",
+          "href": "#records"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "← 返回工作台",
+          "type": "",
+          "href": "#workspace"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "我的单词表",
+          "type": "",
+          "href": "#vocabulary-review"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "我的句子本",
+          "type": "",
+          "href": "#sentence-learning"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "写作工作台",
+          "type": "",
+          "href": "#writing-workbench"
+        },
+        {
+          "tag": "BUTTON",
+          "id": "lookup-export",
+          "text": "导出查词记录",
+          "type": "button",
+          "href": null,
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "INPUT",
+          "id": "lookup-history-search",
+          "text": "",
+          "type": "search",
+          "href": null,
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "SELECT",
+          "id": "lookup-filter",
+          "text": "待复习\n全部记录\n已复习\n已收藏",
+          "type": "select-one",
+          "href": null,
+          "value": "all",
+          "disabled": false
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "进入章节",
+          "type": "",
+          "href": "#reading"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "进入章节",
+          "type": "",
+          "href": "#listening"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "进入章节",
+          "type": "",
+          "href": "#writing1"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "进入章节",
+          "type": "",
+          "href": "#writing2"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "进入章节",
+          "type": "",
+          "href": "#speaking"
+        },
+        {
+          "tag": "TEXTAREA",
+          "id": "",
+          "text": "",
+          "type": "textarea",
+          "href": null,
+          "value": "",
+          "disabled": false,
+          "save": "workspace-reflection"
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "导出文字作答",
+          "type": "submit",
+          "href": null,
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "备份学习记录",
+          "type": "submit",
+          "href": null,
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "INPUT",
+          "id": "import-state",
+          "text": "",
+          "type": "file",
+          "href": null,
+          "value": "",
+          "disabled": false
+        }
+      ],
+      "overflow": false
+    }
+  ]
+}

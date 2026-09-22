@@ -1,0 +1,198 @@
+[
+  {
+    "stratum": "listening / exam / acquired",
+    "population": 337,
+    "sampleSourceId": "2021438150788349954",
+    "title": "Party Room Hire",
+    "reviewStatus": "pending"
+  },
+  {
+    "stratum": "listening / exam / acquired",
+    "population": 337,
+    "sampleSourceId": "2017124496739766275",
+    "title": "Group Hotel Booking",
+    "reviewStatus": "pending"
+  },
+  {
+    "stratum": "listening / exam / acquired",
+    "population": 337,
+    "sampleSourceId": "2017124496957870082",
+    "title": "Taxation",
+    "reviewStatus": "pending"
+  },
+  {
+    "stratum": "listening / exam / acquired",
+    "population": 337,
+    "sampleSourceId": "2017124496794292226",
+    "title": "Guitar-Making",
+    "reviewStatus": "pending"
+  },
+  {
+    "stratum": "listening / exam / acquired",
+    "population": 337,
+    "sampleSourceId": "2017124496752349185",
+    "title": "Sumerton Childcare",
+    "reviewStatus": "pending"
+  },
+  {
+    "stratum": "listening / exam / missing",
+    "population": 3,
+    "sampleSourceId": "2099853084604841985",
+    "title": "Advertising Effect",
+    "reviewStatus": "pending"
+  },
+  {
+    "stratum": "listening / exam / missing",
+    "population": 3,
+    "sampleSourceId": "2017124496769126401",
+    "title": "Biblio Stack",
+    "reviewStatus": "pending"
+  },
+  {
+    "stratum": "listening / exam / missing",
+    "population": 3,
+    "sampleSourceId": "2017124496802680834",
+    "title": "Karrara Sports & Leisure Centre",
+    "reviewStatus": "pending"
+  },
+  {
+    "stratum": "listening / memory_link / acquired",
+    "population": 71,
+    "sampleSourceId": "2080608039632175106",
+    "title": "Synaesthesia - Recall",
+    "reviewStatus": "pending"
+  },
+  {
+    "stratum": "listening / memory_link / acquired",
+    "population": 71,
+    "sampleSourceId": "2079487885665959937",
+    "title": "The AUV - Recall",
+    "reviewStatus": "pending"
+  },
+  {
+    "stratum": "listening / memory_link / acquired",
+    "population": 71,
+    "sampleSourceId": "2080503756718931969",
+    "title": "The Development of Tinned Food - Recall",
+    "reviewStatus": "pending"
+  },
+  {
+    "stratum": "listening / memory_link / acquired",
+    "population": 71,
+    "sampleSourceId": "2080503049500557314",
+    "title": "Middens - Recall",
+    "reviewStatus": "pending"
+  },
+  {
+    "stratum": "listening / memory_link / acquired",
+    "population": 71,
+    "sampleSourceId": "2067412151778250753",
+    "title": "Re-using Old Metal - Recall",
+    "reviewStatus": "pending"
+  },
+  {
+    "stratum": "reading / exam / acquired",
+    "population": 273,
+    "sampleSourceId": "2051168670866575362",
+    "title": "The History of the Pencil V2",
+    "reviewStatus": "pending"
+  },
+  {
+    "stratum": "reading / exam / acquired",
+    "population": 273,
+    "sampleSourceId": "2026890821288689666",
+    "title": "Ahead of its time",
+    "reviewStatus": "pending"
+  },
+  {
+    "stratum": "reading / exam / acquired",
+    "population": 273,
+    "sampleSourceId": "2017137445869031425",
+    "title": "The Clipper Races",
+    "reviewStatus": "pending"
+  },
+  {
+    "stratum": "reading / exam / acquired",
+    "population": 273,
+    "sampleSourceId": "2071522493547462658",
+    "title": "Lawrence Johnston and Hidcote Garden V2",
+    "reviewStatus": "pending"
+  },
+  {
+    "stratum": "reading / exam / acquired",
+    "population": 273,
+    "sampleSourceId": "2017137445973889026",
+    "title": "The Analysis of Fear",
+    "reviewStatus": "pending"
+  },
+  {
+    "stratum": "reading / memory_link / acquired",
+    "population": 37,
+    "sampleSourceId": "2067486981068263426",
+    "title": "Brassicas - Recall",
+    "reviewStatus": "pending"
+  },
+  {
+    "stratum": "reading / memory_link / acquired",
+    "population": 37,
+    "sampleSourceId": "2098782541570981889",
+    "title": "Bravery and Courage - Recall",
+    "reviewStatus": "pending"
+  },
+  {
+    "stratum": "reading / memory_link / acquired",
+    "population": 37,
+    "sampleSourceId": "2068230230377037825",
+    "title": "Self-Perceptions - Recall",
+    "reviewStatus": "pending"
+  },
+  {
+    "stratum": "reading / memory_link / acquired",
+    "population": 37,
+    "sampleSourceId": "2067507470192971778",
+    "title": "Re-dating Cave Art - Recall",
+    "reviewStatus": "pending"
+  },
+  {
+    "stratum": "reading / memory_link / acquired",
+    "population": 37,
+    "sampleSourceId": "2067772870286688258",
+    "title": "The Rebirth of the Circus - Recall",
+    "reviewStatus": "pending"
+  },
+  {
+    "stratum": "writing / writing / acquired",
+    "population": 342,
+    "sampleSourceId": "2082013055228116994",
+    "title": "Age of leaders",
+    "reviewStatus": "pending"
+  },
+  {
+    "stratum": "writing / writing / acquired",
+    "population": 342,
+    "sampleSourceId": "2083005290686496770",
+    "title": "Science Education Decline",
+    "reviewStatus": "pending"
+  },
+  {
+    "stratum": "writing / writing / acquired",
+    "population": 342,
+    "sampleSourceId": "2083113244240691202",
+    "title": "Advertising Impact Debate",
+    "reviewStatus": "pending"
+  },
+  {
+    "stratum": "writing / writing / acquired",
+    "population": 342,
+    "sampleSourceId": "2084292499095486465",
+    "title": "TV Preference Survey",
+    "reviewStatus": "pending"
+  },
+  {
+    "stratum": "writing / writing / acquired",
+    "population": 342,
+    "sampleSourceId": "2083101133225639937",
+    "title": "Alien Contact Debate",
+    "reviewStatus": "pending"
+  }
+]

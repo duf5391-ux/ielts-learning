@@ -1,0 +1,124 @@
+/* A compact index and direct tools, on the established warm paper palette. */
+#study>.la-heading,#practice>.la-heading{margin:0 0 12px;padding:0;border:0}
+#study>.la-heading h1,#practice>.la-heading h1{font-size:28px;margin:0}
+#study .la-heading p[hidden],#practice .la-heading p[hidden],[hidden].la-section-links{display:none!important}
+#la-study-quick{display:flex;flex-direction:column;gap:6px;padding:0;margin:0 0 14px;border:0;background:none}
+.product-today{display:block;font-weight:650;font-size:14px;padding:8px 0;color:#285540}
+#la-resume{background:none;border:0;box-shadow:none;padding:0;margin:0;font-size:13px}
+#la-resume:empty,#la-resume[hidden]{display:none!important}
+.product-quick-links{display:flex;gap:20px;font-size:12px}
+.product-search{display:flex;align-items:center;gap:10px;width:100%;margin:10px 0}
+.product-search input{min-width:0;flex:1;border:1px solid #b9c8bd;border-radius:8px;padding:11px 12px;background:#fffefa;font:inherit;font-size:14px}
+.product-search [role=status]{font-size:11px;white-space:nowrap;color:#5b6f62}
+#la-study-location,#la-practice-location{display:flex;gap:4px;flex-wrap:wrap;margin:0 0 8px}
+.product-scope{font-size:12px;padding:5px 10px;border-radius:5px;text-decoration:none;color:#456552}
+.product-scope[aria-current]{background:#285540;color:#fff}
+.product-filters{margin:0 0 12px;border:0;background:none;padding:0}
+.product-filters>summary{cursor:pointer;color:#567362;font-size:12px;padding:5px 0}
+.product-filters .la-toolbar{margin:8px 0 12px;padding:12px;background:#f0f4ed;border:0;border-radius:6px;display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:12px}
+.product-filters .la-toolbar label[hidden]{display:none!important}
+.product-filters .la-toolbar label{font-size:11px;min-width:0}
+.product-filters select{width:100%;max-width:100%;padding:8px;border:1px solid #c8d4c9;border-radius:4px;background:white}
+.product-content-list{display:block}
+.product-content-group{margin:0 0 26px;padding:0;border:0;background:none;scroll-margin-top:90px}
+.product-content-group>h2{font-size:15px;font-weight:650;margin:0;padding:11px 0;border-bottom:2px solid #cfdbd1;color:#285540}
+.product-content-row{display:flex;align-items:center;gap:16px;padding:12px 0;margin:0;border:0;border-bottom:1px solid #e1e7df;border-radius:0;box-shadow:none;background:none}
+.product-row-content{flex:1;min-width:0}
+.product-content-title{font-size:15px;line-height:1.5;text-decoration:none;color:#234b37;font-weight:550;display:inline-block}
+.product-content-title:hover{text-decoration:underline}
+.product-row-meta{font-size:11px!important;line-height:1.55!important;color:#6b7c70;margin:4px 0 0!important}
+.product-row-actions{display:flex;align-items:center;gap:10px;flex-shrink:0}
+.product-row-state{font-size:10px;white-space:nowrap;color:#637768}
+.product-row-actions button{border:0;background:none;color:#456f54;font-size:11px;padding:9px 7px;min-height:36px;border-radius:4px;cursor:pointer}
+.product-row-actions button[aria-pressed=true]{background:#e7eee4}
+.product-index-foot{display:flex;flex-wrap:wrap;gap:12px;font-size:12px;padding:12px 0;border-top:1px solid #d5e0d5}
+.product-empty{padding:24px 0}
+#workspace .la-grid{display:block}
+#workspace .la-card{border:0;border-bottom:1px solid #dbe3d9;border-radius:0;box-shadow:none;background:none;padding:18px 0}
+#workspace .la-card h2{font-size:18px;margin:0 0 4px}
+#workspace .la-card p{font-size:13px;margin:4px 0}
+#workspace .la-heading{margin-bottom:16px}
+#workspace-navigation nav{overflow-y:auto;min-height:0}
+#workspace-navigation nav button{flex-shrink:0}
+.word-tool-links{display:flex;flex-wrap:wrap;gap:16px;font-size:12px;margin:0 0 12px}
+#vocabulary-review,#word-review{padding:0;background:none;border:0;border-radius:0}
+#vocabulary-review .vr-heading h1,#word-review h1{font-size:27px;margin:0 0 8px}
+#vocabulary-review .vr-heading>div>p{display:none}
+#vocabulary-review .vr-library{border:0;padding:0}
+#vocabulary-review .vr-library>summary{display:none}
+#word-list-status:empty,#vr-status:empty{display:none}
+#word-review button,#word-review input,#word-review select{border:1px solid #bfcdb8;border-radius:7px;padding:10px 13px;background:#fffefa;color:#244534;font:inherit;font-size:13px;max-width:100%;min-height:40px}
+#word-review button{cursor:pointer}
+#word-review button:disabled{opacity:.5;cursor:default}
+#word-review .vr-primary{background:#285540;color:#fff;border-color:#285540}
+#word-review button:focus-visible,#word-review input:focus-visible,#word-review select:focus-visible{outline:3px solid #819b60;outline-offset:2px}
+.vr-list{display:block}
+.vr-list-card{border:0;border-bottom:1px solid #d9e3d7;border-radius:0;padding:12px 0;background:none}
+.vr-card-heading{flex-wrap:nowrap;align-items:center}
+.vr-list-card h3{font-size:19px}
+.vr-list-card .vr-quick-marks{margin:7px 0;display:flex;gap:8px}
+.vr-list-card .vr-quick-marks button{min-height:36px;padding:7px 14px;flex:1}
+.product-word-details{margin:3px 0 0;border:0;background:none}
+.product-word-details>summary{font-size:11px;color:#58745e;cursor:pointer;padding:3px 0}
+.product-word-details .vr-muted{font-size:11px}
+#sentence-learning .st-kicker{display:none}
+#sentence-learning .st-sentence{border:0;border-bottom:1px solid #d8e2d5;border-radius:0;background:none;box-shadow:none;padding:12px 0;margin:0}
+#sentence-learning .st-sentence blockquote{margin:0 0 6px;padding:0;border:0;background:none;font-size:15px;line-height:1.55}
+#sentence-learning .st-sentence p{margin:4px 0;font-size:12px;line-height:1.55}
+#sentence-learning .st-sentence button,#sentence-learning .st-sentence a{font-size:12px}
+.product-sentence-about{margin-top:16px;border:0;border-top:1px solid #dce5d8;padding:10px 0;background:none}
+.product-sentence-about>summary{font-size:12px;color:#527259;cursor:pointer}
+.workspace-topbar a[hidden]{display:none!important}
+.product-topic-about,.product-topic-practice{margin:18px 0;border:0;border-top:1px solid #d3decf;padding:10px 0;background:none}
+.product-topic-about>summary,.product-topic-practice>summary{font-size:13px;cursor:pointer;color:#456e4e}
+#topical-vocabulary>h2{font-size:25px;margin:5px 0 12px}
+#topical-vocabulary>.la-part-progress{display:none}
+#topical-vocabulary .tv-controls{margin:0 0 8px}
+.product-crumb-detail:empty{display:none}
+#product-mobile-nav{display:none}
+@media(max-width:700px){
+  .workspace-content{padding-left:18px!important;padding-right:18px!important}
+  main{padding-bottom:90px!important}
+  #study>.la-heading,#practice>.la-heading{display:none}
+  #energy-control{margin:0 0 12px!important;padding:0!important}
+  #energy-control>details{border:0!important;border-bottom:1px solid #dae4d8!important;border-radius:0!important;padding:0!important}
+  #energy-control>details>summary{padding:7px 0!important;font-size:11px!important}
+  #la-study-quick{gap:4px;margin-bottom:8px}
+  .product-today{font-size:13px;padding:3px 0}
+  .product-quick-links{font-size:11px;gap:16px}
+  .product-search{margin:8px 0}
+  .product-search input{padding:9px 10px;font-size:13px}
+  .product-search [role=status]{font-size:10px}
+  .product-scope{font-size:11px;padding:4px 8px}
+  .product-filters{margin-bottom:4px}
+  .product-filters .la-toolbar{grid-template-columns:repeat(2,minmax(0,1fr))}
+  .product-content-group>h2{font-size:13px;padding:8px 0}
+  .product-content-row{gap:8px;padding:10px 0}
+  .product-content-title{font-size:14px;line-height:1.45}
+  .product-row-meta{font-size:10px!important;line-height:1.45!important}
+  .product-row-actions{flex-direction:column;gap:0;align-items:flex-end}
+  .product-row-actions button{font-size:10px;padding:5px;min-height:32px}
+  .product-row-state{font-size:9px}
+  #product-mobile-nav{display:grid;grid-template-columns:repeat(5,1fr);position:fixed;bottom:0;left:0;right:0;z-index:1050;height:calc(54px + env(safe-area-inset-bottom));padding:0 6px env(safe-area-inset-bottom);background:#fffefa;border-top:1px solid #cbd9cc;box-shadow:0 -3px 14px #234b3708}
+  #product-mobile-nav a,#product-mobile-nav button{display:flex;align-items:center;justify-content:center;color:#506757;font:600 12px/1.2 system-ui;text-decoration:none;border:0;background:none;border-radius:0;min-width:0;padding:10px 4px}
+  #product-mobile-nav [aria-current]{color:#234c35;background:#eaf0e5;border-top:3px solid #3b6847}
+  body.nav-open #product-mobile-nav{display:none}
+  #workspace-navigation nav button[data-go=study],#workspace-navigation nav button[data-go=vocabulary-review],#workspace-navigation nav button[data-go=word-review],#workspace-navigation nav button[data-go=sentence-learning]{display:none}
+  .ds-dock{bottom:calc(64px + env(safe-area-inset-bottom))!important}
+  #energy-reminder{bottom:calc(64px + env(safe-area-inset-bottom))!important}
+  body.ds-dock-active main{padding-bottom:calc(var(--hs-dock-space,240px) + 65px)!important}
+  body.product-input-focused #product-mobile-nav{position:static;height:54px;padding:0}
+  body.product-input-focused .ds-dock{bottom:8px!important}
+  #vocabulary-review .vr-heading h1,#word-review h1{font-size:23px;margin:0 0 5px}
+  #vocabulary-review .vr-controls{margin:7px 0;flex-wrap:nowrap}
+  #vocabulary-review .vr-controls>select{width:auto;max-width:112px}
+  #vocabulary-review .vr-controls input,#vocabulary-review .vr-controls select{font-size:12px;padding:8px;min-height:36px}
+  .vr-list-card{padding:9px 0}
+  .vr-list-card .vr-tag{font-size:9px;padding:3px 5px}
+  .vr-list-card .vr-quick-marks{margin:5px 0}
+  .vr-list-card .vr-quick-marks button{min-height:34px;padding:6px 8px;font-size:12px}
+  .word-tool-links{margin-bottom:7px;gap:12px;font-size:11px}
+  #word-review .vr-stats{margin:12px 0}
+  #word-review .vr-grades{grid-template-columns:repeat(3,minmax(0,1fr))}
+  #word-review .vr-grades button{font-size:11px;padding:8px 4px}
+}

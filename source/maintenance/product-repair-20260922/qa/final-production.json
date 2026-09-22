@@ -1,0 +1,28 @@
+{
+  "candidate_sha256": "e2b9e12e58c8f03de4b43b8ec6bdb1b81a15130ddceb6b80ea5fff6a3d742075",
+  "errors": [],
+  "fields": [
+    {
+      "key": "prereq-vocab-terms",
+      "label": "本次词或词组 + 义项／来源句",
+      "value": "curriculum — 课程体系；学校安排的学习内容"
+    },
+    {
+      "key": "prereq-vocab-use",
+      "label": "我的两句表达\n暂时不会",
+      "value": ""
+    },
+    {
+      "key": "prereq-vocab-revision",
+      "label": "我修改了什么／还不确定什么",
+      "value": ""
+    },
+    {
+      "key": "prereq-vocab-later",
+      "label": "隔天换情境的两句表达",
+      "value": ""
+    }
+  ],
+  "sentenceField": "prereq-vocab-use",
+  "pass": true
+}

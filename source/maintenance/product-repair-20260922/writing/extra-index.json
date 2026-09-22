@@ -1,0 +1,502 @@
+[
+  {
+    "id": "ww-jobs",
+    "origin": "writing1-case-wc-c21-t1-jobs",
+    "sameSourceRoutes": [
+      "writing1-case-wc-c21-t1-jobs",
+      "writing1-first",
+      "writing1-text-us-jobs",
+      "pr-writing1-jobs",
+      "test-writing"
+    ],
+    "title": "美国四行业就业：峰值、交叉与最终排名",
+    "skill": "writing1",
+    "topic": "折线图",
+    "description": "The graph below gives information about the number of jobs in four sectors of the economy in the US between 1960 and 2020.",
+    "source": "Cambridge IELTS 21 Academic",
+    "referenceConfidence": "高（题面与来源已核对；练习讲解为编写内容）",
+    "mode": "writing",
+    "tool": "writing-workbench"
+  },
+  {
+    "id": "ww-cafe",
+    "origin": "writing1-case-wc-c21-t2-cafe",
+    "sameSourceRoutes": [
+      "writing1-case-wc-c21-t2-cafe",
+      "pr-writing1-cafe"
+    ],
+    "title": "学院咖啡厅改造：保留设施与功能替换",
+    "skill": "writing1",
+    "topic": "地图",
+    "description": "The plans below show a college café before it was redesigned and how it looks now.",
+    "source": "Cambridge IELTS 21 Academic",
+    "referenceConfidence": "高（题面与来源已核对；练习讲解为编写内容）",
+    "mode": "writing",
+    "tool": "writing-workbench"
+  },
+  {
+    "id": "ww-wc-c21-t3-rainshadow-v1",
+    "origin": "writing1-case-wc-c21-t3-rainshadow",
+    "sameSourceRoutes": [
+      "writing1-case-wc-c21-t3-rainshadow"
+    ],
+    "title": "雨影沙漠：越山前后的水分变化",
+    "skill": "writing1",
+    "topic": "自然流程图",
+    "description": "The diagram below shows how one type of desert, known as a rain-shadow desert, is formed.",
+    "source": "Cambridge IELTS 21 Academic",
+    "referenceConfidence": "高（题面与来源已核对；练习讲解为编写内容）",
+    "mode": "writing",
+    "tool": "writing-workbench"
+  },
+  {
+    "id": "ww-wc-c21-t4-library-v1",
+    "origin": "writing1-case-wc-c21-t4-library",
+    "sameSourceRoutes": [
+      "writing1-case-wc-c21-t4-library"
+    ],
+    "title": "图书馆用户与满意度：两图的不同分母",
+    "skill": "writing1",
+    "topic": "饼图与表格",
+    "description": "The chart and table below show the results of a survey of library users at a university.",
+    "source": "Cambridge IELTS 21 Academic",
+    "referenceConfidence": "高（题面与来源已核对；练习讲解为编写内容）",
+    "mode": "writing",
+    "tool": "writing-workbench"
+  },
+  {
+    "id": "ww-wc-official-education-v1",
+    "origin": "writing1-case-wc-official-education",
+    "sameSourceRoutes": [
+      "writing1-case-wc-official-education",
+      "writing1-text-further-education",
+      "learn-writing1_compare_groups"
+    ],
+    "title": "英国继续教育：人数与学习形式",
+    "skill": "writing1",
+    "topic": "柱状图",
+    "description": "The chart below shows the number of men and women in further education in Britain in three periods and whether they were studying full-time or part-time.",
+    "source": "IELTS Academic Writing Sample Tasks (2023)",
+    "referenceConfidence": "高（题面与来源已核对；练习讲解为编写内容）",
+    "mode": "writing",
+    "tool": "writing-workbench"
+  },
+  {
+    "id": "ww-wc-official-audiences-v1",
+    "origin": "writing1-case-wc-official-audiences",
+    "sameSourceRoutes": [
+      "writing1-case-wc-official-audiences"
+    ],
+    "title": "广播与电视受众：同一天的双峰比较",
+    "skill": "writing1",
+    "topic": "折线图",
+    "description": "The graph below shows radio and television audiences throughout the day in 1992.",
+    "source": "IELTS Academic Writing Sample Tasks (2023)",
+    "referenceConfidence": "高（题面与来源已核对；练习讲解为编写内容）",
+    "mode": "writing",
+    "tool": "writing-workbench"
+  },
+  {
+    "id": "ww-bricks",
+    "origin": "writing1-case-wc-official-bricks",
+    "sameSourceRoutes": [
+      "writing1-case-wc-official-bricks",
+      "writing1-text-bricks",
+      "pr-writing1-bricks",
+      "learn-writing1_process_branches"
+    ],
+    "title": "制砖：并行成形路径与温度阶段",
+    "skill": "writing1",
+    "topic": "制作流程图",
+    "description": "The diagram below shows the process by which bricks are manufactured for the building industry.",
+    "source": "IELTS Academic Writing Sample Tasks (2023)",
+    "referenceConfidence": "高（题面与来源已核对；练习讲解为编写内容）",
+    "mode": "writing",
+    "tool": "writing-workbench"
+  },
+  {
+    "id": "ww-wc-official-bicycle-v1",
+    "origin": "writing1-case-wc-official-bicycle",
+    "sameSourceRoutes": [
+      "writing1-case-wc-official-bicycle"
+    ],
+    "title": "自行车使用率：年龄比较与百分点差",
+    "skill": "writing1",
+    "topic": "表格",
+    "description": "The table below gives information about the percentage of the population by age group in one town who rode a bicycle in June 2011.",
+    "source": "IELTS Academic Writing — modified large print",
+    "referenceConfidence": "高（题面与来源已核对；练习讲解为编写内容）",
+    "mode": "writing",
+    "tool": "writing-workbench"
+  },
+  {
+    "id": "ww-housing",
+    "origin": "writing2-case-wc-c21-t1-homes",
+    "sameSourceRoutes": [
+      "writing2-case-wc-c21-t1-homes",
+      "pr-writing2-housing",
+      "test-writing"
+    ],
+    "title": "高层住宅是否是城市住房的最佳方案",
+    "skill": "writing2",
+    "topic": "同意程度",
+    "description": "The best way to provide enough homes in large cities is to build tall apartment blocks. To what extent do you agree or disagree with this statement?",
+    "source": "Cambridge IELTS 21 Academic",
+    "referenceConfidence": "高（题面与来源已核对；练习讲解为编写内容）",
+    "mode": "writing",
+    "tool": "writing-workbench"
+  },
+  {
+    "id": "ww-wc-c21-t2-entertainment-v1",
+    "origin": "writing2-case-wc-c21-t2-entertainment",
+    "sameSourceRoutes": [
+      "writing2-case-wc-c21-t2-entertainment",
+      "writing2-first",
+      "writing2-text-theatres"
+    ],
+    "title": "线上娱乐与剧院影院的经济文化价值",
+    "skill": "writing2",
+    "topic": "讨论双方",
+    "description": "Some people say that in the digital age, theatres and cinemas are no longer important as people can watch all the entertainment they want online. Others argue that theatres and cinemas are still important both economically and culturally. Discuss both these views and give your own opinion.",
+    "source": "Cambridge IELTS 21 Academic",
+    "referenceConfidence": "高（题面与来源已核对；练习讲解为编写内容）",
+    "mode": "writing",
+    "tool": "writing-workbench"
+  },
+  {
+    "id": "ww-wc-c21-t3-placement-v1",
+    "origin": "writing2-case-wc-c21-t3-placement",
+    "sameSourceRoutes": [
+      "writing2-case-wc-c21-t3-placement"
+    ],
+    "title": "本科海外学习或实习：收益能否超过代价",
+    "skill": "writing2",
+    "topic": "利弊权衡",
+    "description": "All university undergraduate courses should include a period of time spent studying abroad or doing a work placement. Do you think the advantages of this would outweigh the disadvantages?",
+    "source": "Cambridge IELTS 21 Academic",
+    "referenceConfidence": "高（题面与来源已核对；练习讲解为编写内容）",
+    "mode": "writing",
+    "tool": "writing-workbench"
+  },
+  {
+    "id": "ww-primary",
+    "origin": "writing2-case-wc-c21-t4-primary",
+    "sameSourceRoutes": [
+      "writing2-case-wc-c21-t4-primary",
+      "pr-writing2-primary"
+    ],
+    "title": "小学正式学习与课堂游戏：两个问题分别回应",
+    "skill": "writing2",
+    "topic": "双问",
+    "description": "Some people argue that primary schools focus too much on formal learning. To what extent do you agree with this opinion? How important do you think it is for children to play as well as learn in the primary school classroom?",
+    "source": "Cambridge IELTS 21 Academic",
+    "referenceConfidence": "高（题面与来源已核对；练习讲解为编写内容）",
+    "mode": "writing",
+    "tool": "writing-workbench"
+  },
+  {
+    "id": "ww-wc-official-wealth-v1",
+    "origin": "writing2-case-wc-official-wealth",
+    "sameSourceRoutes": [
+      "writing2-case-wc-official-wealth",
+      "writing2-text-family-wealth",
+      "learn-writing2_position_mechanism"
+    ],
+    "title": "家庭财富与成年问题应对：避免绝对化",
+    "skill": "writing2",
+    "topic": "同意程度",
+    "description": "Children who are brought up in families that do not have large amounts of money are better prepared to deal with the problems of adult life than children brought up by wealthy parents. To what extent do you agree or disagree with this opinion?",
+    "source": "IELTS Academic Writing Sample Tasks (2023)",
+    "referenceConfidence": "高（题面与来源已核对；练习讲解为编写内容）",
+    "mode": "writing",
+    "tool": "writing-workbench"
+  },
+  {
+    "id": "ww-tourism",
+    "origin": "writing2-case-wc-official-tourism",
+    "sameSourceRoutes": [
+      "writing2-case-wc-official-tourism",
+      "writing2-text-tourism",
+      "pr-writing2-tourism",
+      "learn-writing2_weigh_consequences"
+    ],
+    "title": "国际旅游：经济收益与社区成本如何比较",
+    "skill": "writing2",
+    "topic": "利弊权衡",
+    "description": "International tourism has brought enormous benefit to many places. At the same time, there is concern about its impact on local inhabitants and the environment. Do the disadvantages of international tourism outweigh the advantages?",
+    "source": "IELTS Academic Writing Sample Tasks (2023)",
+    "referenceConfidence": "高（题面与来源已核对；练习讲解为编写内容）",
+    "mode": "writing",
+    "tool": "writing-workbench"
+  },
+  {
+    "id": "ww-wc-official-science-v1",
+    "origin": "writing2-case-wc-official-science",
+    "sameSourceRoutes": [
+      "writing2-case-wc-official-science"
+    ],
+    "title": "科研由政府控制：公共利益与研究多样性",
+    "skill": "writing2",
+    "topic": "同意程度",
+    "description": "Scientific research should be carried out and controlled by governments, rather than by private companies. To what extent do you agree or disagree?",
+    "source": "IELTS Academic Writing — modified large print",
+    "referenceConfidence": "高（题面与来源已核对；练习讲解为编写内容）",
+    "mode": "writing",
+    "tool": "writing-workbench"
+  },
+  {
+    "id": "ww-wc-official-transport-v1",
+    "origin": "writing2-case-wc-official-transport",
+    "sameSourceRoutes": [
+      "writing2-case-wc-official-transport"
+    ],
+    "title": "鼓励替代交通与国际限车规定",
+    "skill": "writing2",
+    "topic": "同意程度",
+    "description": "The first car appeared on British roads in 1888. By the year 2000 there may be as many as 29 million vehicles on British roads. Alternative forms of transport should be encouraged and international laws introduced to control car ownership and use. To what extent do you agree or disagree?",
+    "source": "Cambridge / IELTS Academic Writing sample task",
+    "referenceConfidence": "高（题面与来源已核对；练习讲解为编写内容）",
+    "mode": "writing",
+    "tool": "writing-workbench"
+  },
+  {
+    "id": "ww-wc-official-eldercare-v1",
+    "origin": "writing2-case-wc-official-eldercare",
+    "sameSourceRoutes": [
+      "writing2-case-wc-official-eldercare"
+    ],
+    "title": "老年照护费用：政府与家庭如何分担",
+    "skill": "writing2",
+    "topic": "观点选择",
+    "description": "In Britain, when someone gets old they often go to live in a home with other old people where there are nurses to look after them. Sometimes the government has to pay for this care. Who do you think should pay for this care, the government or the family?",
+    "source": "Cambridge / IELTS General Training Writing sample task",
+    "referenceConfidence": "高（题面与来源已核对；练习讲解为编写内容）",
+    "mode": "writing",
+    "tool": "writing-workbench"
+  },
+  {
+    "id": "ww-wc-bc-graduates-v1",
+    "origin": "writing2-case-wc-bc-graduates",
+    "sameSourceRoutes": [
+      "writing2-case-wc-bc-graduates"
+    ],
+    "title": "高学历毕业生失业：原因和措施一一对应",
+    "skill": "writing2",
+    "topic": "原因与措施",
+    "description": "In many countries today there are many highly qualified graduates without employment. What factors may have caused this situation and what, in your opinion, can/should be done about it?",
+    "source": "British Council — Writing Task 2: Developing paragraphs",
+    "referenceConfidence": "高（题面与来源已核对；练习讲解为编写内容）",
+    "mode": "writing",
+    "tool": "writing-workbench"
+  },
+  {
+    "id": "ww-wc-bc-overfishing-v1",
+    "origin": "writing2-case-wc-bc-overfishing",
+    "sameSourceRoutes": [
+      "writing2-case-wc-bc-overfishing"
+    ],
+    "title": "过度捕捞：从激励与监管写到对策",
+    "skill": "writing2",
+    "topic": "原因与措施",
+    "description": "Overfishing of the world’s oceans threatens many species with extinction and is putting the livelihood of millions of people around the world at risk. What are the causes of this problem and what can be done to prevent it from happening?",
+    "source": "British Council — Writing Task 2: Problems and solutions",
+    "referenceConfidence": "高（题面与来源已核对；练习讲解为编写内容）",
+    "mode": "writing",
+    "tool": "writing-workbench"
+  },
+  {
+    "id": "ww-wc-bc-childhealth-v1",
+    "origin": "writing2-case-wc-bc-childhealth",
+    "sameSourceRoutes": [
+      "writing2-case-wc-bc-childhealth"
+    ],
+    "title": "儿童肥胖：原因—措施对应而非空泛建议",
+    "skill": "writing2",
+    "topic": "原因与措施",
+    "description": "A rise in childhood obesity is a real threat to health with an increasing number of children now classified as overweight. What are the causes of the problem and what measures can be taken to solve them?",
+    "source": "British Council — Writing Task 2: Problems and solutions",
+    "referenceConfidence": "高（题面与来源已核对；练习讲解为编写内容）",
+    "mode": "writing",
+    "tool": "writing-workbench"
+  },
+  {
+    "id": "ww-jiufen-20260921-adult-literacy-v1",
+    "origin": "pr-jiufen-20260921-adult-literacy-v1",
+    "sameSourceRoutes": [
+      "pr-jiufen-20260921-adult-literacy-v1"
+    ],
+    "title": "成人读写困难 · Task 2",
+    "skill": "writing2",
+    "topic": "Task 2",
+    "description": "Despite better access to education, many adults today still cannot read or write. In what ways are they disadvantaged? What can governments do to help them? Give reasons for your answer and include any relevant examples from your own knowledge or experience.",
+    "source": "九分学长",
+    "referenceConfidence": "中（原题已下载，具体考场与日期未核实）",
+    "mode": "writing",
+    "tool": "writing-workbench"
+  },
+  {
+    "id": "ww-jiufen-20260921-work-life-balance-v1",
+    "origin": "pr-jiufen-20260921-work-life-balance-v1",
+    "sameSourceRoutes": [
+      "pr-jiufen-20260921-work-life-balance-v1"
+    ],
+    "title": "工作与生活的平衡 · Task 2",
+    "skill": "writing2",
+    "topic": "Task 2",
+    "description": "Many people find it hard to balance their work with other parts of their lives. What are the reasons for this? How can this problem be overcome? Give reasons for your answer and include any relevant examples from your own knowledge or experience.",
+    "source": "九分学长",
+    "referenceConfidence": "中（原题已下载，具体考场与日期未核实）",
+    "mode": "writing",
+    "tool": "writing-workbench"
+  },
+  {
+    "id": "ww-jiufen-20260921-species-extinction-v1",
+    "origin": "pr-jiufen-20260921-species-extinction-v1",
+    "sameSourceRoutes": [
+      "pr-jiufen-20260921-species-extinction-v1"
+    ],
+    "title": "自然灭绝与人为保护 · Task 2",
+    "skill": "writing2",
+    "topic": "Task 2",
+    "description": "It is a natural process for animal species to become extinct. There is no reason why people should try to prevent this from happening. To what extent do you agree or disagree? Give reasons for your answer and include any relevant examples from your own knowledge or experience.",
+    "source": "九分学长",
+    "referenceConfidence": "中（原题已下载，具体考场与日期未核实）",
+    "mode": "writing",
+    "tool": "writing-workbench"
+  },
+  {
+    "id": "ww-ieltsa-writing-202609-1-2-reference-v1",
+    "origin": "pr-ieltsa-writing-202609-1-2-reference-v1",
+    "sameSourceRoutes": [
+      "pr-ieltsa-writing-202609-1-2-reference-v1"
+    ],
+    "title": "全球文化趋同",
+    "skill": "writing2",
+    "topic": "Task 2",
+    "description": "Differences between countries become less evident each year. Nowadays, all over the world people share the same fashions, advertising, brands, eating habits and TV channels. Do the advantages outweigh the disadvantages?",
+    "source": "IELTS Actual Tests",
+    "referenceConfidence": "中（题干参考；具体考场与日期未核实）",
+    "mode": "writing",
+    "tool": "writing-workbench"
+  },
+  {
+    "id": "ww-ieltsa-writing-202609-2-2-reference-v1",
+    "origin": "pr-ieltsa-writing-202609-2-2-reference-v1",
+    "sameSourceRoutes": [
+      "pr-ieltsa-writing-202609-2-2-reference-v1"
+    ],
+    "title": "偏远自然地区旅游",
+    "skill": "writing2",
+    "topic": "Task 2",
+    "description": "Today more and more people like to go to untouched and unexplored natural places to travel. What are the advantages and disadvantages for these tourists and the countries?",
+    "source": "IELTS Actual Tests",
+    "referenceConfidence": "中（题干参考；具体考场与日期未核实）",
+    "mode": "writing",
+    "tool": "writing-workbench"
+  },
+  {
+    "id": "ww-ieltsa-writing-202609-3-2-reference-v1",
+    "origin": "pr-ieltsa-writing-202609-3-2-reference-v1",
+    "sameSourceRoutes": [
+      "pr-ieltsa-writing-202609-3-2-reference-v1"
+    ],
+    "title": "广告对消费者的影响",
+    "skill": "writing2",
+    "topic": "Task 2",
+    "description": "Customers today need to face a lot of advertising from competing companies. To what extent are customers influenced by advertisements? What measures can be taken to protect these customers?",
+    "source": "IELTS Actual Tests",
+    "referenceConfidence": "中（题干参考；具体考场与日期未核实）",
+    "mode": "writing",
+    "tool": "writing-workbench"
+  },
+  {
+    "id": "ww-ieltsa-writing-202609-4-2-reference-v2",
+    "origin": "pr-ieltsa-writing-202609-4-2-reference-v2",
+    "sameSourceRoutes": [
+      "pr-ieltsa-writing-202609-4-2-reference-v2"
+    ],
+    "title": "儿童在校注意力",
+    "skill": "writing2",
+    "topic": "Task 2",
+    "description": "Children find it difficult to concentrate or pay attention at school. What are the reasons for this, and how can this problem be solved?",
+    "source": "IELTS Actual Tests",
+    "referenceConfidence": "中（题干参考；具体考场与日期未核实）",
+    "mode": "writing",
+    "tool": "writing-workbench"
+  },
+  {
+    "id": "ww-ieltsa-writing-202609-5-2-reference-v1",
+    "origin": "pr-ieltsa-writing-202609-5-2-reference-v1",
+    "sameSourceRoutes": [
+      "pr-ieltsa-writing-202609-5-2-reference-v1"
+    ],
+    "title": "儿童学习数学",
+    "skill": "writing2",
+    "topic": "Task 2",
+    "description": "Many school children dislike learning math. What are the reasons and what are the best ways to make them enjoy math?",
+    "source": "IELTS Actual Tests",
+    "referenceConfidence": "中（题干参考；具体考场与日期未核实）",
+    "mode": "writing",
+    "tool": "writing-workbench"
+  },
+  {
+    "id": "ww-ieltsa-writing-202609-6-2-reference-v1",
+    "origin": "pr-ieltsa-writing-202609-6-2-reference-v1",
+    "sameSourceRoutes": [
+      "pr-ieltsa-writing-202609-6-2-reference-v1"
+    ],
+    "title": "网络学习与学校",
+    "skill": "writing2",
+    "topic": "Task 2",
+    "description": "Some people believe that schools are no longer necessary, because students can get so much information through the Internet, and study just as well at home. To what extent do you agree or disagree?",
+    "source": "IELTS Actual Tests",
+    "referenceConfidence": "中（题干参考；具体考场与日期未核实）",
+    "mode": "writing",
+    "tool": "writing-workbench"
+  },
+  {
+    "id": "ww-ieltsa-writing-202609-7-2-reference-v1",
+    "origin": "pr-ieltsa-writing-202609-7-2-reference-v1",
+    "sameSourceRoutes": [
+      "pr-ieltsa-writing-202609-7-2-reference-v1"
+    ],
+    "title": "中学国际新闻课程",
+    "skill": "writing2",
+    "topic": "Task 2",
+    "description": "Some people think secondary school students should study international news as one of their subjects. Other people say this is a waste of valuable school time. Discuss both these views and give your own opinion.",
+    "source": "IELTS Actual Tests",
+    "referenceConfidence": "中（题干参考；具体考场与日期未核实）",
+    "mode": "writing",
+    "tool": "writing-workbench"
+  },
+  {
+    "id": "ww-ieltsa-writing-202609-8-2-reference-v1",
+    "origin": "pr-ieltsa-writing-202609-8-2-reference-v1",
+    "sameSourceRoutes": [
+      "pr-ieltsa-writing-202609-8-2-reference-v1"
+    ],
+    "title": "驾驶最低年龄",
+    "skill": "writing2",
+    "topic": "Task 2",
+    "description": "Some people say that the best way to improve road safety is to increase the minimum legal age for driving cars or riding motor bikes. To what extent do you agree or disagree?",
+    "source": "IELTS Actual Tests",
+    "referenceConfidence": "中（题干参考；具体考场与日期未核实）",
+    "mode": "writing",
+    "tool": "writing-workbench"
+  },
+  {
+    "id": "ww-ieltsa-writing-202609-10-2-reference-v1",
+    "origin": "pr-ieltsa-writing-202609-10-2-reference-v1",
+    "sameSourceRoutes": [
+      "pr-ieltsa-writing-202609-10-2-reference-v1"
+    ],
+    "title": "独居趋势",
+    "skill": "writing2",
+    "topic": "Task 2",
+    "description": "An increasing number of people tend to live by themselves. What are the causes? Is it a positive or negative development?",
+    "source": "IELTS Actual Tests",
+    "referenceConfidence": "中（题干参考；具体考场与日期未核实）",
+    "mode": "writing",
+    "tool": "writing-workbench"
+  }
+]

@@ -1,227 +1,449 @@
 {
-  "production_sha256": "2f870d2c02b4ab48a0c64668aef59c19dbbdcb0d446df8a76a497723886b5d85",
+  "production_sha256": "e2b9e12e58c8f03de4b43b8ec6bdb1b81a15130ddceb6b80ea5fff6a3d742075",
   "base_commit": "46bc80bc1d77638f019f58a2c39bfed65a99c19e",
   "files": [
     {
       "path": "production/开始学习.html",
-      "bytes": 4036331,
-      "sha256": "2f870d2c02b4ab48a0c64668aef59c19dbbdcb0d446df8a76a497723886b5d85",
+      "bytes": 4561393,
+      "sha256": "e2b9e12e58c8f03de4b43b8ec6bdb1b81a15130ddceb6b80ea5fff6a3d742075",
       "role": "current-production-source"
     },
     {
       "path": "production/extracted/authentic-case-script.js",
       "bytes": 4186,
       "sha256": "8ad452476b21bde744c83d6bdd5e43bab1a38d8c94a21a22637d6d6f354d442b",
-      "role": "current-production-extract"
+      "role": "historical-2f870-baseline-extract"
     },
     {
       "path": "production/extracted/course-window-nav.js",
       "bytes": 234,
       "sha256": "f73105b68c4850924809a989de7a115f695fcb728a1fe2f8bca57145d25f2e91",
-      "role": "current-production-extract"
+      "role": "historical-2f870-baseline-extract"
     },
     {
       "path": "production/extracted/course-window-script.js",
       "bytes": 56712,
       "sha256": "477d13a8375218b7ba449258612d5d6b7be7918b86f114a653bbc0485e9055e0",
-      "role": "current-production-extract"
+      "role": "historical-2f870-baseline-extract"
     },
     {
       "path": "production/extracted/daily-study-home.html",
       "bytes": 2259,
       "sha256": "1f16310788427803e63d99d4e4f6ccd3719a98c16c62c05cebfe96c6bbf561a4",
-      "role": "current-production-extract"
+      "role": "historical-2f870-baseline-extract"
     },
     {
       "path": "production/extracted/daily-study-model-script.js",
       "bytes": 16688,
       "sha256": "a81796319f2441810ac8f04ce43fc6a9db67de613d5bee0e067c68372bfa4921",
-      "role": "current-production-extract"
+      "role": "historical-2f870-baseline-extract"
     },
     {
       "path": "production/extracted/daily-study-script.js",
       "bytes": 17599,
       "sha256": "3a66115f60feb5e9fbd487771746c8e2cc064e7a3b01fd72c35258d3de264582",
-      "role": "current-production-extract"
+      "role": "historical-2f870-baseline-extract"
     },
     {
       "path": "production/extracted/energy-control-model-script.js",
       "bytes": 2750,
       "sha256": "123c46508d7240f35b204860430ebaff1355aeda4ab975ec1ce116624e785a0f",
-      "role": "current-production-extract"
+      "role": "historical-2f870-baseline-extract"
     },
     {
       "path": "production/extracted/energy-control-script.js",
       "bytes": 6921,
       "sha256": "bf6a25aa7a6dc709d2b247894f6b9bcff3ab879e424bdffd4d9daed8fddcd06c",
-      "role": "current-production-extract"
+      "role": "historical-2f870-baseline-extract"
     },
     {
       "path": "production/extracted/health-study-bridge-script.js",
       "bytes": 3761,
       "sha256": "d7176697361116822392546ee47dbd899957e6727ea4b738b84681fdc08683fb",
-      "role": "current-production-extract"
+      "role": "historical-2f870-baseline-extract"
     },
     {
       "path": "production/extracted/health-study-ui-script.js",
       "bytes": 5470,
       "sha256": "fea39a33942f4677a5a1ef8a5e76de2c4c07b907f0c3e919a09ceace77110334",
-      "role": "current-production-extract"
+      "role": "historical-2f870-baseline-extract"
     },
     {
       "path": "production/extracted/learning-adjust-model-script.js",
       "bytes": 4487,
       "sha256": "93f0355e601c262e72d8089b2ae212029e97c52dacc444a36e15a8d960d19598",
-      "role": "current-production-extract"
+      "role": "historical-2f870-baseline-extract"
     },
     {
       "path": "production/extracted/learning-adjust-script.js",
       "bytes": 24359,
       "sha256": "99aa3f53f0b1395521538370aee1534208f9fbc218f44d2ef1f1b17ca68164ee",
-      "role": "current-production-extract"
+      "role": "historical-2f870-baseline-extract"
     },
     {
       "path": "production/extracted/library.html",
       "bytes": 49553,
       "sha256": "cc6ebe4ed7c9a946fde964799c063b065c06af8578593f22dea1dc023b1e9451",
-      "role": "current-production-extract"
+      "role": "historical-2f870-baseline-extract"
     },
     {
       "path": "production/extracted/lookup-controller.js",
       "bytes": 16430,
       "sha256": "8d031d50f4f047316b29207d295d9ace6ebe37f144d0de54c36a51a3c7de5f65",
-      "role": "current-production-extract"
+      "role": "historical-2f870-baseline-extract"
     },
     {
       "path": "production/extracted/material-reading-script.js",
       "bytes": 3072,
       "sha256": "a7adf89198a3207357d72594c2cc80872d23d2f0cf719910fd7b4eef7373eb3b",
-      "role": "current-production-extract"
+      "role": "historical-2f870-baseline-extract"
     },
     {
       "path": "production/extracted/practice.html",
       "bytes": 1713,
       "sha256": "774d2f7486fcac67ba37c3bbb012d1fbefdc01edcbb86592512e097b9dd48e8d",
-      "role": "current-production-extract"
+      "role": "historical-2f870-baseline-extract"
     },
     {
       "path": "production/extracted/prerequisite-interactions-script.js",
       "bytes": 714,
       "sha256": "a23d0cdc79d9a8cb4b7674ceaba4df2e7a2e1ac18bc1043de3ea69984fffa7ec",
-      "role": "current-production-extract"
+      "role": "historical-2f870-baseline-extract"
     },
     {
       "path": "production/extracted/qt-script.js",
       "bytes": 717,
       "sha256": "d9e55d2d844ee7024285f49d61826ea3889f0285085f8e0e1be32d9665c93e50",
-      "role": "current-production-extract"
+      "role": "historical-2f870-baseline-extract"
     },
     {
       "path": "production/extracted/record-concurrency-model-script.js",
       "bytes": 4322,
       "sha256": "bd9857b850477c3aa241a87ef2abb3b5c63e205567df1c2451de7bce66962fdd",
-      "role": "current-production-extract"
+      "role": "historical-2f870-baseline-extract"
     },
     {
       "path": "production/extracted/records.html",
       "bytes": 8552,
       "sha256": "1c95ce4b52718683f4073a9e3cad40ee5e12167ca9a0cdb3367565baff1be079",
-      "role": "current-production-extract"
+      "role": "historical-2f870-baseline-extract"
     },
     {
       "path": "production/extracted/script-1.js",
       "bytes": 20363,
       "sha256": "108516b9b6fb51c639935346b5b4fd82a5fd2e1bd48553cce328bca527bb23d1",
-      "role": "current-production-extract"
+      "role": "historical-2f870-baseline-extract"
     },
     {
       "path": "production/extracted/script-11.js",
       "bytes": 13257,
       "sha256": "82029d53fe6922834309a44c53e494b356f0d861c9581059d2ef6e67e71855c3",
-      "role": "current-production-extract"
+      "role": "historical-2f870-baseline-extract"
     },
     {
       "path": "production/extracted/script-19.js",
       "bytes": 15798,
       "sha256": "19a3422fa179cdeaeb7f6ec4bc53e06e367960b5c2610b37e3f2ab954b45c59a",
-      "role": "current-production-extract"
+      "role": "historical-2f870-baseline-extract"
     },
     {
       "path": "production/extracted/script-2.js",
       "bytes": 2024,
       "sha256": "c951833cf7fec47cddc87c6afc4b38e9cdeaac18d7072856d868a17a237567e3",
-      "role": "current-production-extract"
+      "role": "historical-2f870-baseline-extract"
     },
     {
       "path": "production/extracted/script-3.js",
       "bytes": 9958,
       "sha256": "a551866cbe2c122ce42bb494f82b3d74b9c462a783209453ad7d763d7d77d73f",
-      "role": "current-production-extract"
+      "role": "historical-2f870-baseline-extract"
     },
     {
       "path": "production/extracted/script-4.js",
       "bytes": 12490,
       "sha256": "ef529ba43a3a0fb074a45b393a93281b8515738b6a48065078788fa84e37b824",
-      "role": "current-production-extract"
+      "role": "historical-2f870-baseline-extract"
     },
     {
       "path": "production/extracted/script-5.js",
       "bytes": 3810,
       "sha256": "a95d78691d7b72319d1705ffb237bf3c41dd81c3bba51e27e4e73427e5d239cb",
-      "role": "current-production-extract"
+      "role": "historical-2f870-baseline-extract"
     },
     {
       "path": "production/extracted/selection-tools-script.js",
       "bytes": 12581,
       "sha256": "358c5d8eea21b047a826c8f4fcb306135d8d99ce29dbd4e31a167c6e7fb02c40",
-      "role": "current-production-extract"
+      "role": "historical-2f870-baseline-extract"
     },
     {
       "path": "production/extracted/sentence-learning.html",
       "bytes": 698,
       "sha256": "b041f8de5791478a490791e047be1797c1897d43f5327f63f210068bfe97458a",
-      "role": "current-production-extract"
+      "role": "historical-2f870-baseline-extract"
     },
     {
       "path": "production/extracted/study.html",
       "bytes": 2547,
       "sha256": "629acd68323dd2f37e0b882159e4bd17ab3d0fac6e021763a3a025c0e7b91b4f",
-      "role": "current-production-extract"
+      "role": "historical-2f870-baseline-extract"
     },
     {
       "path": "production/extracted/topical-vocabulary.html",
       "bytes": 1054643,
       "sha256": "6dba2cdb7b7cd47315cc51c166113395382e5712ea74911710510c858ea1efec",
-      "role": "current-production-extract"
+      "role": "historical-2f870-baseline-extract"
     },
     {
       "path": "production/extracted/vocabulary-quick-marks-script.js",
       "bytes": 3017,
       "sha256": "91021bb0ff9022ee3b27c0b825eae7626dd288347f41f8b7b9cb51dc13930c34",
-      "role": "current-production-extract"
+      "role": "historical-2f870-baseline-extract"
     },
     {
       "path": "production/extracted/vocabulary-review-controller.js",
       "bytes": 18078,
       "sha256": "b79709b9e6b587505f342ca08a81a1755c01b8e17824efb2b061ecaab72a80ff",
-      "role": "current-production-extract"
+      "role": "historical-2f870-baseline-extract"
     },
     {
       "path": "production/extracted/vocabulary-review.html",
       "bytes": 86,
       "sha256": "9a526db570063c61110e7f20ee26327765751c444d7b4005d474f27e9ca50914",
-      "role": "current-production-extract"
+      "role": "historical-2f870-baseline-extract"
     },
     {
       "path": "production/extracted/workspace.html",
       "bytes": 1585,
       "sha256": "dc2d137bef4dcfaba816b21159536004a4d0a7dad1c1eb51f27ee5145cca3373",
-      "role": "current-production-extract"
+      "role": "historical-2f870-baseline-extract"
     },
     {
       "path": "production/extracted/writing-workbench.html",
       "bytes": 62526,
       "sha256": "7a889771b7439a17f0c0e3f22623e1f68a86f52a600fd83b8d6467c884f35f06",
+      "role": "historical-2f870-baseline-extract"
+    },
+    {
+      "path": "production/current-extracted/record-concurrency-model-script.js",
+      "bytes": 4241,
+      "sha256": "cf16b79ce2a356b56c4ff48656e2024a7854e12d5f3e2071a981398a24d6f425",
+      "role": "current-production-extract"
+    },
+    {
+      "path": "production/current-extracted/script-1.js",
+      "bytes": 24384,
+      "sha256": "726159b00f1ee6b2903ba20477a57784dc01e18fbf3242fa3a7d71b3a511122a",
+      "role": "current-production-extract"
+    },
+    {
+      "path": "production/current-extracted/script-2.js",
+      "bytes": 2016,
+      "sha256": "94a40c466be534687473120944071e3d425421d894c65bb31d320470b014d32e",
+      "role": "current-production-extract"
+    },
+    {
+      "path": "production/current-extracted/script-3.js",
+      "bytes": 9909,
+      "sha256": "9268a402ea79a50986a596a77f17e30608ab94aa405984030efe74a31b7dc73e",
+      "role": "current-production-extract"
+    },
+    {
+      "path": "production/current-extracted/script-4.js",
+      "bytes": 12461,
+      "sha256": "884bd5f82330859956a451efced9ac886bed785934f8ffa3a8b89597d18cded0",
+      "role": "current-production-extract"
+    },
+    {
+      "path": "production/current-extracted/script-5.js",
+      "bytes": 3810,
+      "sha256": "a95d78691d7b72319d1705ffb237bf3c41dd81c3bba51e27e4e73427e5d239cb",
+      "role": "current-production-extract"
+    },
+    {
+      "path": "production/current-extracted/lookup-controller.js",
+      "bytes": 20236,
+      "sha256": "2cfe59d04417e25539d3d82362bf52db541b3a45c7af32b7c6b5b957f0d6cd50",
+      "role": "current-production-extract"
+    },
+    {
+      "path": "production/current-extracted/vocabulary-review-controller.js",
+      "bytes": 19267,
+      "sha256": "8de57b5d1f0cc61cc149700171088eea6ff1d9773b07f9ffb0cb3206cbb1cf81",
+      "role": "current-production-extract"
+    },
+    {
+      "path": "production/current-extracted/script-11.js",
+      "bytes": 13243,
+      "sha256": "1260116b4a4ef8efc38cf792ccdb7eac42e1de04f6685b2e3598ac8d689636c1",
+      "role": "current-production-extract"
+    },
+    {
+      "path": "production/current-extracted/qt-script.js",
+      "bytes": 712,
+      "sha256": "0aa625896e2ab372cd048f149a200d916ccb2633c84d9b85e75ec189e3ee660a",
+      "role": "current-production-extract"
+    },
+    {
+      "path": "production/current-extracted/authentic-case-script.js",
+      "bytes": 4169,
+      "sha256": "767d1b59b47fae374ffbb86d1901e19bfb058974473a915caf78ed941ac2950b",
+      "role": "current-production-extract"
+    },
+    {
+      "path": "production/current-extracted/course-window-script.js",
+      "bytes": 57716,
+      "sha256": "df20a1fa153484f0b7f29dca9bd6fa65372b6778c3bfce5ca9b5d052f1785cb7",
+      "role": "current-production-extract"
+    },
+    {
+      "path": "production/current-extracted/course-window-nav.js",
+      "bytes": 234,
+      "sha256": "f73105b68c4850924809a989de7a115f695fcb728a1fe2f8bca57145d25f2e91",
+      "role": "current-production-extract"
+    },
+    {
+      "path": "production/current-extracted/selection-tools-script.js",
+      "bytes": 15017,
+      "sha256": "6d4a0c5376cb253dc48f46970de8b6946c5b621b64192de63f764d6cd2e1daee",
+      "role": "current-production-extract"
+    },
+    {
+      "path": "production/current-extracted/script-20.js",
+      "bytes": 17090,
+      "sha256": "bce230b13eeec28b169863df96c84239157e0b31df6a312cd58dd165f53b3381",
+      "role": "current-production-extract"
+    },
+    {
+      "path": "production/current-extracted/writing-entry-controller.js",
+      "bytes": 5643,
+      "sha256": "090f2b6deff6ba3da093d9f3ca10ce56e9e979ff42b62adad9028c8d7f01a0eb",
+      "role": "current-production-extract"
+    },
+    {
+      "path": "production/current-extracted/energy-control-model-script.js",
+      "bytes": 2705,
+      "sha256": "b4137a4697cdd50a6a649959c7d6f6cfeb958f41924edf4b91d02fb7192d82ff",
+      "role": "current-production-extract"
+    },
+    {
+      "path": "production/current-extracted/energy-control-script.js",
+      "bytes": 6921,
+      "sha256": "bf6a25aa7a6dc709d2b247894f6b9bcff3ab879e424bdffd4d9daed8fddcd06c",
+      "role": "current-production-extract"
+    },
+    {
+      "path": "production/current-extracted/prerequisite-interactions-script.js",
+      "bytes": 700,
+      "sha256": "e62e309b17d71af9f06077935096e44a6eb35cc2e8aa4c9e0ea490cc4d6f389c",
+      "role": "current-production-extract"
+    },
+    {
+      "path": "production/current-extracted/learning-adjust-model-script.js",
+      "bytes": 4487,
+      "sha256": "93f0355e601c262e72d8089b2ae212029e97c52dacc444a36e15a8d960d19598",
+      "role": "current-production-extract"
+    },
+    {
+      "path": "production/current-extracted/learning-adjust-script.js",
+      "bytes": 29018,
+      "sha256": "4bff9c69b3d6fb96ce8d90f3608eefe402ab35497e9688f6a8028238dfda0362",
+      "role": "current-production-extract"
+    },
+    {
+      "path": "production/current-extracted/daily-study-model-script.js",
+      "bytes": 16688,
+      "sha256": "a81796319f2441810ac8f04ce43fc6a9db67de613d5bee0e067c68372bfa4921",
+      "role": "current-production-extract"
+    },
+    {
+      "path": "production/current-extracted/daily-study-script.js",
+      "bytes": 17599,
+      "sha256": "3a66115f60feb5e9fbd487771746c8e2cc064e7a3b01fd72c35258d3de264582",
+      "role": "current-production-extract"
+    },
+    {
+      "path": "production/current-extracted/health-study-bridge-script.js",
+      "bytes": 3761,
+      "sha256": "d7176697361116822392546ee47dbd899957e6727ea4b738b84681fdc08683fb",
+      "role": "current-production-extract"
+    },
+    {
+      "path": "production/current-extracted/health-study-ui-script.js",
+      "bytes": 5470,
+      "sha256": "fea39a33942f4677a5a1ef8a5e76de2c4c07b907f0c3e919a09ceace77110334",
+      "role": "current-production-extract"
+    },
+    {
+      "path": "production/current-extracted/material-reading-script.js",
+      "bytes": 3072,
+      "sha256": "a7adf89198a3207357d72594c2cc80872d23d2f0cf719910fd7b4eef7373eb3b",
+      "role": "current-production-extract"
+    },
+    {
+      "path": "production/current-extracted/vocabulary-quick-marks-script.js",
+      "bytes": 3017,
+      "sha256": "91021bb0ff9022ee3b27c0b825eae7626dd288347f41f8b7b9cb51dc13930c34",
+      "role": "current-production-extract"
+    },
+    {
+      "path": "production/current-extracted/product-entry-controller.js",
+      "bytes": 3716,
+      "sha256": "4abc219718866ca94b055b1426d8d9ff07ff8fe937e82c8f92d768fccf95943f",
+      "role": "current-production-extract"
+    },
+    {
+      "path": "production/current-extracted/study.html",
+      "bytes": 3965,
+      "sha256": "cde256555d5395e9c42bb965a5030f33ab483bc3a9f843008c90f32588c280a0",
+      "role": "current-production-extract"
+    },
+    {
+      "path": "production/current-extracted/workspace.html",
+      "bytes": 1093,
+      "sha256": "065448fb1fa5e6751c02e28352f0eb634ae163a9cfb8731f27aaf0dd79aaa501",
+      "role": "current-production-extract"
+    },
+    {
+      "path": "production/current-extracted/library.html",
+      "bytes": 32379,
+      "sha256": "3f90f9383ec16078fef34ba57c61b7752f0e17f8fc407fe3e2edc30b031aa470",
+      "role": "current-production-extract"
+    },
+    {
+      "path": "production/current-extracted/records.html",
+      "bytes": 6707,
+      "sha256": "1905db3ea10687c9857a049287d298fc4c663e3acb8939643aff69713612226e",
+      "role": "current-production-extract"
+    },
+    {
+      "path": "production/current-extracted/vocabulary-review.html",
+      "bytes": 212,
+      "sha256": "1ecb9678e7fa295e2ec939f1e08c451e2baf282ebe663b02d7b959d2a3a825d7",
+      "role": "current-production-extract"
+    },
+    {
+      "path": "production/current-extracted/sentence-learning.html",
+      "bytes": 984,
+      "sha256": "8ececf418a7be1223f20565ae6ca9d203a0708f8a2820ef93782bc2e40401042",
+      "role": "current-production-extract"
+    },
+    {
+      "path": "production/current-extracted/writing-workbench.html",
+      "bytes": 399989,
+      "sha256": "3173b3da1a28c804821540e2a9c6416249aa63656027ffe1a5b27f3a21eab865",
+      "role": "current-production-extract"
+    },
+    {
+      "path": "production/current-extracted/course-window.html",
+      "bytes": 813,
+      "sha256": "2a0d883b31a723a112693825b0cd9272b489830d15e6d3bf58748b9a57d42d70",
+      "role": "current-production-extract"
+    },
+    {
+      "path": "production/current-extracted/course-design.html",
+      "bytes": 1649,
+      "sha256": "946b560aad62a7d3d72b1885312ecafe254e08cc654a327d46baa18cd8020761",
       "role": "current-production-extract"
     },
     {
@@ -232,8 +454,8 @@
     },
     {
       "path": "maintenance/AGENTS.md",
-      "bytes": 10173,
-      "sha256": "2415d7cacf63ac1a614b9b256b2482e080f81283f32763da2f01dabda5025e2f",
+      "bytes": 11488,
+      "sha256": "19e54ca6b49d00dd9e27484e49915f92997a7aabcc010bb44e18b1c10af062fc",
       "role": "maintenance-history-not-all-current"
     },
     {
@@ -1030,8 +1252,8 @@
     },
     {
       "path": "maintenance/PUBLIC_DEPLOYMENT.md",
-      "bytes": 7541,
-      "sha256": "db35ada21a031439552b9f99c59b439c1fa49020952ceba73bf12695e6d5d9db",
+      "bytes": 7811,
+      "sha256": "3edeb92d32992ccb58c578b47f89fd94204b98d51315a258ba05b6737483fba3",
       "role": "maintenance-history-not-all-current"
     },
     {
@@ -1318,8 +1540,8 @@
     },
     {
       "path": "maintenance/README.md",
-      "bytes": 28518,
-      "sha256": "1384500e9a2c2d8c22b818b91a16ed151d6ac88cb9225e2eae91894d6a33d6c3",
+      "bytes": 29844,
+      "sha256": "6d7948f834f4afdd5a35edd99fcc075e6e223ffab852ccafb93190ad9ed08371",
       "role": "maintenance-history-not-all-current"
     },
     {
@@ -1593,6 +1815,12 @@
       "role": "maintenance-history-not-all-current"
     },
     {
+      "path": "maintenance/content-pipeline/quality_contract_v1.json",
+      "bytes": 2502,
+      "sha256": "d3201545783b3037c1b15416427b1dc8a04cf4b43bb9fa099736d498cba56467",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
       "path": "maintenance/content-pipeline/intensive/reading-base.json",
       "bytes": 72934,
       "sha256": "0109a3c465bce0f657a7c5201bd70fda086dd1bedecee527729118c01d57d7cc",
@@ -1785,6 +2013,18 @@
       "role": "maintenance-history-not-all-current"
     },
     {
+      "path": "maintenance/content-pipeline/batches/jiufen-jijing-20260921/integrate_reviewed.py",
+      "bytes": 8757,
+      "sha256": "649e86192e6139c68ef2aac6b45bba4b1ee4d1d5226e2c1d2b7c36d40d5ef384",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/content-pipeline/batches/jiufen-jijing-20260921/reviewed-integration.json",
+      "bytes": 1646,
+      "sha256": "1056e45845524e770ad81c315c9a36b114360ee9d491255ebe78222fb8c2254b",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
       "path": "maintenance/content-pipeline/batches/jijing-20260920/approved/index.html",
       "bytes": 1369,
       "sha256": "c74c142e4ab1cc61aa79e08f157478080f6fb964725225ab8ce0c76f8215a08b",
@@ -1860,6 +2100,66 @@
       "path": "maintenance/content-pipeline/batches/jijing-20260920/content-review/writing-clean.json",
       "bytes": 37154,
       "sha256": "869ad6017a905dac4f017eb5bbffbd569a17f1d2bc3d202eb74a14cf12fb5b2c",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/content-pipeline/batches/jiufen-jijing-20260921/cleaned-luna-20260921/listening-review.md",
+      "bytes": 2698,
+      "sha256": "9bb1a762af256455ed92c8e349a68aa96fc0c13b990515efc1a2992d01a7c13e",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/content-pipeline/batches/jiufen-jijing-20260921/cleaned-luna-20260921/listening-reviewed.json",
+      "bytes": 18502,
+      "sha256": "c3700d24ef93c2d27ea2a04e1a4d5e4cb10c3746779e9740a870a105e446e1cf",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/content-pipeline/batches/jiufen-jijing-20260921/cleaned-luna-20260921/listening-root-reviewed.json",
+      "bytes": 19394,
+      "sha256": "e63f7b6e461c09969c112fe6cc79ad83e842556922a2ac2ea9ad3193ff6c91c2",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/content-pipeline/batches/jiufen-jijing-20260921/cleaned-luna-20260921/package.json",
+      "bytes": 27298,
+      "sha256": "9d0ab3c2161b32fb169835ceb605c9870e17e162429d54858b9297da0224f936",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/content-pipeline/batches/jiufen-jijing-20260921/cleaned-luna-20260921/review.md",
+      "bytes": 3139,
+      "sha256": "408b445c1d5a4ab1f2b65a52df75485ce4609e45502166bbf4b2ded265e478df",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/content-pipeline/batches/jiufen-jijing-20260921/cleaned-luna-20260921/reviewed-package.json",
+      "bytes": 28081,
+      "sha256": "7b48d419b678684394d6f2d62d54c67979c526a6d248784e64c59c447a6dcc87",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/content-pipeline/batches/jiufen-jijing-20260921/cleaned-luna-20260921/root-review.json",
+      "bytes": 557,
+      "sha256": "ae4897a383c63f64a71152cbe74fed22be2b39dc0888b94d8d8ad833bd4b39f9",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/content-pipeline/batches/jiufen-jijing-20260921/reviewed-assets/机经资料/jiufen-topic-20260921/2017137445957111811.html",
+      "bytes": 6410,
+      "sha256": "834a777983a7a99d917c09309be0859a9a937b1a2b87f52bb0e5bf7774745d7d",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/content-pipeline/batches/jiufen-jijing-20260921/reviewed-assets/机经资料/jiufen-topic-20260921/2017137445982277634.html",
+      "bytes": 6818,
+      "sha256": "2dba198de070b576c36fccaedb46f3c3eaae5a65134fce14cdb6cfeef5ddd492",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/content-pipeline/batches/jiufen-jijing-20260921/reviewed-assets/机经资料/jiufen-topic-20260921/2017137445986471939.html",
+      "bytes": 5858,
+      "sha256": "aa93ddae330ee224462bccd0f96ed8717ba40d83020a7b355952ae0bc6cfc4de",
       "role": "maintenance-history-not-all-current"
     },
     {
@@ -2097,6 +2397,24 @@
       "role": "maintenance-history-not-all-current"
     },
     {
+      "path": "maintenance/feature-fixes-20260921/jijing/assets/机经资料/jijing-20260920/index.html",
+      "bytes": 3593,
+      "sha256": "2b7f2cdf41f46fccf6035969624d3d63f37377052cce62c15f106e41e0af8b30",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/feature-fixes-20260921/jijing/assets/机经资料/jijing-20260920/writing-task2.html",
+      "bytes": 9643,
+      "sha256": "94f63edd0767071b4b0393e01a72b2fa5f11ef122d8c8656939809730099f397",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/feature-fixes-20260921/jijing/assets/机经资料/jiufen-reviewed-20260921/index.html",
+      "bytes": 5839,
+      "sha256": "8b89d4b43e3bcbdeefb5b749d0d99fcf4210f77d1c65b004feb4a41da9c94f37",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
       "path": "maintenance/feature-fixes-20260921/writing-speaking/combined/README.md",
       "bytes": 1695,
       "sha256": "3a90b0a53de1ba89be143d167446ff06b16743f74818b90729de0dc375ff5f8e",
@@ -2121,22 +2439,1780 @@
       "role": "maintenance-history-not-all-current"
     },
     {
-      "path": "maintenance/feature-fixes-20260921/jijing/assets/机经资料/jijing-20260920/index.html",
-      "bytes": 3593,
-      "sha256": "2b7f2cdf41f46fccf6035969624d3d63f37377052cce62c15f106e41e0af8b30",
+      "path": "maintenance/architecture-repair-20260921/build.py",
+      "bytes": 21995,
+      "sha256": "e36f8630887f3c825bd6680de9ac781939c9d0ba1b6f6bc715381bda40e4ca04",
       "role": "maintenance-history-not-all-current"
     },
     {
-      "path": "maintenance/feature-fixes-20260921/jijing/assets/机经资料/jijing-20260920/writing-task2.html",
-      "bytes": 9643,
-      "sha256": "94f63edd0767071b4b0393e01a72b2fa5f11ef122d8c8656939809730099f397",
+      "path": "maintenance/architecture-repair-20260921/combined-static.json",
+      "bytes": 223,
+      "sha256": "4a42c567ea9d5f4300ede0f50eab63574ff7bfb6b1dc7fbbafb6a768feb4acaf",
       "role": "maintenance-history-not-all-current"
     },
     {
-      "path": "maintenance/feature-fixes-20260921/jijing/assets/机经资料/jiufen-reviewed-20260921/index.html",
-      "bytes": 5839,
-      "sha256": "8b89d4b43e3bcbdeefb5b749d0d99fcf4210f77d1c65b004feb4a41da9c94f37",
+      "path": "maintenance/architecture-repair-20260921/installation.json",
+      "bytes": 2119,
+      "sha256": "ba603f6051213afcb0a9e5d75b148f0bf2436487cd711e173c6b28158aa8c572",
       "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/architecture-repair-20260921/install_formal.py",
+      "bytes": 2480,
+      "sha256": "aa390fae81b621361f791aa0cbba4833f23d210a03808acb685b002ee4bb469d",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/architecture-repair-20260921/manifest.json",
+      "bytes": 318,
+      "sha256": "af262b6dd17c44078ab12d842f447939f087db15e6681a4606abe8e265096fee",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/architecture-repair-20260921/prior-publication-status.json",
+      "bytes": 5541,
+      "sha256": "77e7056defd6767691194220fbad080fb165c35bfdfc94521243aba9ac99646d",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/architecture-repair-20260921/qa-candidate.json",
+      "bytes": 114541,
+      "sha256": "12f93be27323eadab6faf14347a215fef9dce40b5f7926320875b712e0bbd203",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/architecture-repair-20260921/qa-combined.json",
+      "bytes": 114699,
+      "sha256": "a83c1e93d74baff48af16db692b1a537bbb5f01b900dd075e6d9ef0a3812bb94",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/architecture-repair-20260921/qa-live.json",
+      "bytes": 2131,
+      "sha256": "0a8e6f6f2e6740bcd6858a83879e8aa5af7b1c82a729598e25d6a3368845e2c4",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/architecture-repair-20260921/qa.cjs",
+      "bytes": 11690,
+      "sha256": "ea5f73d805a49119ec361f442c4d4e6735ecb118e441fef78d7da42483defb33",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/architecture-repair-20260921/qa_health.cjs",
+      "bytes": 6710,
+      "sha256": "ca11d74dbf78c8bdf20f8797588ebf51f5ab00299262e7c5a1f28d5c573824ff",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/architecture-repair-20260921/release-candidate.json",
+      "bytes": 1009,
+      "sha256": "9d5bdb4786d1cb3492f1b787f3d8d45ba6051cc65397becc0e56b3b3977af2bb",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/architecture-repair-20260921/release-live.json",
+      "bytes": 1680,
+      "sha256": "25c4c8316238fd5b5a0344581bedebdb5400fd8cadb776c5f74dd1bcfcf3f9cb",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/architecture-repair-20260921/release-packed.json",
+      "bytes": 1021,
+      "sha256": "0b58679fe80523fc483d2dec94b287ce87cf649be9e11c70c3c40f5e05801cbb",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/architecture-repair-20260921/validate_combined.py",
+      "bytes": 1830,
+      "sha256": "17a70bcdc94db1defac4a5a618af125b67d27fda626280496f163083c803c3ad",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/architecture-repair-20260921/combined-syntax/0.js",
+      "bytes": 4241,
+      "sha256": "cf16b79ce2a356b56c4ff48656e2024a7854e12d5f3e2071a981398a24d6f425",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/architecture-repair-20260921/combined-syntax/1.js",
+      "bytes": 20300,
+      "sha256": "2b4c7efdeee015cf3501494590cb593ae2c771d26a5ad7504876ccdb6130a05a",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/architecture-repair-20260921/combined-syntax/10.js",
+      "bytes": 18225,
+      "sha256": "bfc16fada7727b7ede454d90a752b77bc8712d1e8ffba5d84d2dab07adbfbd1d",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/architecture-repair-20260921/combined-syntax/11.js",
+      "bytes": 13243,
+      "sha256": "1260116b4a4ef8efc38cf792ccdb7eac42e1de04f6685b2e3598ac8d689636c1",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/architecture-repair-20260921/combined-syntax/12.js",
+      "bytes": 712,
+      "sha256": "0aa625896e2ab372cd048f149a200d916ccb2633c84d9b85e75ec189e3ee660a",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/architecture-repair-20260921/combined-syntax/13.js",
+      "bytes": 4169,
+      "sha256": "767d1b59b47fae374ffbb86d1901e19bfb058974473a915caf78ed941ac2950b",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/architecture-repair-20260921/combined-syntax/15.js",
+      "bytes": 57716,
+      "sha256": "df20a1fa153484f0b7f29dca9bd6fa65372b6778c3bfce5ca9b5d052f1785cb7",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/architecture-repair-20260921/combined-syntax/16.js",
+      "bytes": 234,
+      "sha256": "f73105b68c4850924809a989de7a115f695fcb728a1fe2f8bca57145d25f2e91",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/architecture-repair-20260921/combined-syntax/18.js",
+      "bytes": 12445,
+      "sha256": "2e25930390d6a439aa3b92e8a203371e7f1d21077e6e61457eddf14a7331e34a",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/architecture-repair-20260921/combined-syntax/19.js",
+      "bytes": 15798,
+      "sha256": "19a3422fa179cdeaeb7f6ec4bc53e06e367960b5c2610b37e3f2ab954b45c59a",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/architecture-repair-20260921/combined-syntax/2.js",
+      "bytes": 2016,
+      "sha256": "94a40c466be534687473120944071e3d425421d894c65bb31d320470b014d32e",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/architecture-repair-20260921/combined-syntax/20.js",
+      "bytes": 2705,
+      "sha256": "b4137a4697cdd50a6a649959c7d6f6cfeb958f41924edf4b91d02fb7192d82ff",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/architecture-repair-20260921/combined-syntax/21.js",
+      "bytes": 6921,
+      "sha256": "bf6a25aa7a6dc709d2b247894f6b9bcff3ab879e424bdffd4d9daed8fddcd06c",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/architecture-repair-20260921/combined-syntax/22.js",
+      "bytes": 700,
+      "sha256": "e62e309b17d71af9f06077935096e44a6eb35cc2e8aa4c9e0ea490cc4d6f389c",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/architecture-repair-20260921/combined-syntax/24.js",
+      "bytes": 4487,
+      "sha256": "93f0355e601c262e72d8089b2ae212029e97c52dacc444a36e15a8d960d19598",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/architecture-repair-20260921/combined-syntax/25.js",
+      "bytes": 26266,
+      "sha256": "e5baf5a79dc23e387c82d235192b996c4cf8058be8959ff911db68b736c5f6ec",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/architecture-repair-20260921/combined-syntax/27.js",
+      "bytes": 16688,
+      "sha256": "a81796319f2441810ac8f04ce43fc6a9db67de613d5bee0e067c68372bfa4921",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/architecture-repair-20260921/combined-syntax/28.js",
+      "bytes": 17599,
+      "sha256": "3a66115f60feb5e9fbd487771746c8e2cc064e7a3b01fd72c35258d3de264582",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/architecture-repair-20260921/combined-syntax/29.js",
+      "bytes": 3761,
+      "sha256": "d7176697361116822392546ee47dbd899957e6727ea4b738b84681fdc08683fb",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/architecture-repair-20260921/combined-syntax/3.js",
+      "bytes": 9909,
+      "sha256": "9268a402ea79a50986a596a77f17e30608ab94aa405984030efe74a31b7dc73e",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/architecture-repair-20260921/combined-syntax/30.js",
+      "bytes": 5470,
+      "sha256": "fea39a33942f4677a5a1ef8a5e76de2c4c07b907f0c3e919a09ceace77110334",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/architecture-repair-20260921/combined-syntax/31.js",
+      "bytes": 3072,
+      "sha256": "a7adf89198a3207357d72594c2cc80872d23d2f0cf719910fd7b4eef7373eb3b",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/architecture-repair-20260921/combined-syntax/32.js",
+      "bytes": 3017,
+      "sha256": "91021bb0ff9022ee3b27c0b825eae7626dd288347f41f8b7b9cb51dc13930c34",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/architecture-repair-20260921/combined-syntax/4.js",
+      "bytes": 12461,
+      "sha256": "884bd5f82330859956a451efced9ac886bed785934f8ffa3a8b89597d18cded0",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/architecture-repair-20260921/combined-syntax/5.js",
+      "bytes": 3810,
+      "sha256": "a95d78691d7b72319d1705ffb237bf3c41dd81c3bba51e27e4e73427e5d239cb",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/architecture-repair-20260921/combined-syntax/9.js",
+      "bytes": 16430,
+      "sha256": "8d031d50f4f047316b29207d295d9ace6ebe37f144d0de54c36a51a3c7de5f65",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/architecture-repair-20260921/current-extracted/authentic-case-script.js",
+      "bytes": 4169,
+      "sha256": "767d1b59b47fae374ffbb86d1901e19bfb058974473a915caf78ed941ac2950b",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/architecture-repair-20260921/current-extracted/course-design.html",
+      "bytes": 1649,
+      "sha256": "946b560aad62a7d3d72b1885312ecafe254e08cc654a327d46baa18cd8020761",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/architecture-repair-20260921/current-extracted/course-window-nav.js",
+      "bytes": 234,
+      "sha256": "f73105b68c4850924809a989de7a115f695fcb728a1fe2f8bca57145d25f2e91",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/architecture-repair-20260921/current-extracted/course-window-script.js",
+      "bytes": 57716,
+      "sha256": "df20a1fa153484f0b7f29dca9bd6fa65372b6778c3bfce5ca9b5d052f1785cb7",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/architecture-repair-20260921/current-extracted/course-window.html",
+      "bytes": 813,
+      "sha256": "2a0d883b31a723a112693825b0cd9272b489830d15e6d3bf58748b9a57d42d70",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/architecture-repair-20260921/current-extracted/daily-study-model-script.js",
+      "bytes": 16688,
+      "sha256": "a81796319f2441810ac8f04ce43fc6a9db67de613d5bee0e067c68372bfa4921",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/architecture-repair-20260921/current-extracted/daily-study-script.js",
+      "bytes": 17599,
+      "sha256": "3a66115f60feb5e9fbd487771746c8e2cc064e7a3b01fd72c35258d3de264582",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/architecture-repair-20260921/current-extracted/energy-control-model-script.js",
+      "bytes": 2705,
+      "sha256": "b4137a4697cdd50a6a649959c7d6f6cfeb958f41924edf4b91d02fb7192d82ff",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/architecture-repair-20260921/current-extracted/energy-control-script.js",
+      "bytes": 6921,
+      "sha256": "bf6a25aa7a6dc709d2b247894f6b9bcff3ab879e424bdffd4d9daed8fddcd06c",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/architecture-repair-20260921/current-extracted/health-study-bridge-script.js",
+      "bytes": 3761,
+      "sha256": "d7176697361116822392546ee47dbd899957e6727ea4b738b84681fdc08683fb",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/architecture-repair-20260921/current-extracted/health-study-ui-script.js",
+      "bytes": 5470,
+      "sha256": "fea39a33942f4677a5a1ef8a5e76de2c4c07b907f0c3e919a09ceace77110334",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/architecture-repair-20260921/current-extracted/learning-adjust-model-script.js",
+      "bytes": 4487,
+      "sha256": "93f0355e601c262e72d8089b2ae212029e97c52dacc444a36e15a8d960d19598",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/architecture-repair-20260921/current-extracted/learning-adjust-script.js",
+      "bytes": 29018,
+      "sha256": "4bff9c69b3d6fb96ce8d90f3608eefe402ab35497e9688f6a8028238dfda0362",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/architecture-repair-20260921/current-extracted/library.html",
+      "bytes": 32379,
+      "sha256": "3f90f9383ec16078fef34ba57c61b7752f0e17f8fc407fe3e2edc30b031aa470",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/architecture-repair-20260921/current-extracted/lookup-controller.js",
+      "bytes": 20236,
+      "sha256": "2cfe59d04417e25539d3d82362bf52db541b3a45c7af32b7c6b5b957f0d6cd50",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/architecture-repair-20260921/current-extracted/material-reading-script.js",
+      "bytes": 3072,
+      "sha256": "a7adf89198a3207357d72594c2cc80872d23d2f0cf719910fd7b4eef7373eb3b",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/architecture-repair-20260921/current-extracted/prerequisite-interactions-script.js",
+      "bytes": 700,
+      "sha256": "e62e309b17d71af9f06077935096e44a6eb35cc2e8aa4c9e0ea490cc4d6f389c",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/architecture-repair-20260921/current-extracted/product-entry-controller.js",
+      "bytes": 3716,
+      "sha256": "4abc219718866ca94b055b1426d8d9ff07ff8fe937e82c8f92d768fccf95943f",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/architecture-repair-20260921/current-extracted/qt-script.js",
+      "bytes": 712,
+      "sha256": "0aa625896e2ab372cd048f149a200d916ccb2633c84d9b85e75ec189e3ee660a",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/architecture-repair-20260921/current-extracted/record-concurrency-model-script.js",
+      "bytes": 4241,
+      "sha256": "cf16b79ce2a356b56c4ff48656e2024a7854e12d5f3e2071a981398a24d6f425",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/architecture-repair-20260921/current-extracted/records.html",
+      "bytes": 6707,
+      "sha256": "1905db3ea10687c9857a049287d298fc4c663e3acb8939643aff69713612226e",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/architecture-repair-20260921/current-extracted/script-1.js",
+      "bytes": 24384,
+      "sha256": "726159b00f1ee6b2903ba20477a57784dc01e18fbf3242fa3a7d71b3a511122a",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/architecture-repair-20260921/current-extracted/script-11.js",
+      "bytes": 13243,
+      "sha256": "1260116b4a4ef8efc38cf792ccdb7eac42e1de04f6685b2e3598ac8d689636c1",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/architecture-repair-20260921/current-extracted/script-2.js",
+      "bytes": 2016,
+      "sha256": "94a40c466be534687473120944071e3d425421d894c65bb31d320470b014d32e",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/architecture-repair-20260921/current-extracted/script-20.js",
+      "bytes": 17090,
+      "sha256": "bce230b13eeec28b169863df96c84239157e0b31df6a312cd58dd165f53b3381",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/architecture-repair-20260921/current-extracted/script-3.js",
+      "bytes": 9909,
+      "sha256": "9268a402ea79a50986a596a77f17e30608ab94aa405984030efe74a31b7dc73e",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/architecture-repair-20260921/current-extracted/script-4.js",
+      "bytes": 12461,
+      "sha256": "884bd5f82330859956a451efced9ac886bed785934f8ffa3a8b89597d18cded0",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/architecture-repair-20260921/current-extracted/script-5.js",
+      "bytes": 3810,
+      "sha256": "a95d78691d7b72319d1705ffb237bf3c41dd81c3bba51e27e4e73427e5d239cb",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/architecture-repair-20260921/current-extracted/selection-tools-script.js",
+      "bytes": 15017,
+      "sha256": "6d4a0c5376cb253dc48f46970de8b6946c5b621b64192de63f764d6cd2e1daee",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/architecture-repair-20260921/current-extracted/sentence-learning.html",
+      "bytes": 984,
+      "sha256": "8ececf418a7be1223f20565ae6ca9d203a0708f8a2820ef93782bc2e40401042",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/architecture-repair-20260921/current-extracted/study.html",
+      "bytes": 3965,
+      "sha256": "cde256555d5395e9c42bb965a5030f33ab483bc3a9f843008c90f32588c280a0",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/architecture-repair-20260921/current-extracted/vocabulary-quick-marks-script.js",
+      "bytes": 3017,
+      "sha256": "91021bb0ff9022ee3b27c0b825eae7626dd288347f41f8b7b9cb51dc13930c34",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/architecture-repair-20260921/current-extracted/vocabulary-review-controller.js",
+      "bytes": 19267,
+      "sha256": "8de57b5d1f0cc61cc149700171088eea6ff1d9773b07f9ffb0cb3206cbb1cf81",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/architecture-repair-20260921/current-extracted/vocabulary-review.html",
+      "bytes": 212,
+      "sha256": "1ecb9678e7fa295e2ec939f1e08c451e2baf282ebe663b02d7b959d2a3a825d7",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/architecture-repair-20260921/current-extracted/workspace.html",
+      "bytes": 1093,
+      "sha256": "065448fb1fa5e6751c02e28352f0eb634ae163a9cfb8731f27aaf0dd79aaa501",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/architecture-repair-20260921/current-extracted/writing-entry-controller.js",
+      "bytes": 5643,
+      "sha256": "090f2b6deff6ba3da093d9f3ca10ce56e9e979ff42b62adad9028c8d7f01a0eb",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/architecture-repair-20260921/current-extracted/writing-workbench.html",
+      "bytes": 399989,
+      "sha256": "3173b3da1a28c804821540e2a9c6416249aa63656027ffe1a5b27f3a21eab865",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/architecture-repair-20260921/syntax/authentic-case-script.js",
+      "bytes": 4169,
+      "sha256": "767d1b59b47fae374ffbb86d1901e19bfb058974473a915caf78ed941ac2950b",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/architecture-repair-20260921/syntax/course-window-nav.js",
+      "bytes": 234,
+      "sha256": "f73105b68c4850924809a989de7a115f695fcb728a1fe2f8bca57145d25f2e91",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/architecture-repair-20260921/syntax/course-window-script.js",
+      "bytes": 57716,
+      "sha256": "df20a1fa153484f0b7f29dca9bd6fa65372b6778c3bfce5ca9b5d052f1785cb7",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/architecture-repair-20260921/syntax/daily-study-model-script.js",
+      "bytes": 16688,
+      "sha256": "a81796319f2441810ac8f04ce43fc6a9db67de613d5bee0e067c68372bfa4921",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/architecture-repair-20260921/syntax/daily-study-script.js",
+      "bytes": 17599,
+      "sha256": "3a66115f60feb5e9fbd487771746c8e2cc064e7a3b01fd72c35258d3de264582",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/architecture-repair-20260921/syntax/energy-control-model-script.js",
+      "bytes": 2705,
+      "sha256": "b4137a4697cdd50a6a649959c7d6f6cfeb958f41924edf4b91d02fb7192d82ff",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/architecture-repair-20260921/syntax/energy-control-script.js",
+      "bytes": 6921,
+      "sha256": "bf6a25aa7a6dc709d2b247894f6b9bcff3ab879e424bdffd4d9daed8fddcd06c",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/architecture-repair-20260921/syntax/health-study-bridge-script.js",
+      "bytes": 3761,
+      "sha256": "d7176697361116822392546ee47dbd899957e6727ea4b738b84681fdc08683fb",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/architecture-repair-20260921/syntax/health-study-ui-script.js",
+      "bytes": 5470,
+      "sha256": "fea39a33942f4677a5a1ef8a5e76de2c4c07b907f0c3e919a09ceace77110334",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/architecture-repair-20260921/syntax/learning-adjust-model-script.js",
+      "bytes": 4487,
+      "sha256": "93f0355e601c262e72d8089b2ae212029e97c52dacc444a36e15a8d960d19598",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/architecture-repair-20260921/syntax/learning-adjust-script.js",
+      "bytes": 25593,
+      "sha256": "b8756ea35346a1d87a00dead54c533037663ae7ee2900a28ce1fe26a74ea8b40",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/architecture-repair-20260921/syntax/lookup-controller.js",
+      "bytes": 16430,
+      "sha256": "8d031d50f4f047316b29207d295d9ace6ebe37f144d0de54c36a51a3c7de5f65",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/architecture-repair-20260921/syntax/material-reading-script.js",
+      "bytes": 3072,
+      "sha256": "a7adf89198a3207357d72594c2cc80872d23d2f0cf719910fd7b4eef7373eb3b",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/architecture-repair-20260921/syntax/prerequisite-interactions-script.js",
+      "bytes": 700,
+      "sha256": "e62e309b17d71af9f06077935096e44a6eb35cc2e8aa4c9e0ea490cc4d6f389c",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/architecture-repair-20260921/syntax/qt-script.js",
+      "bytes": 712,
+      "sha256": "0aa625896e2ab372cd048f149a200d916ccb2633c84d9b85e75ec189e3ee660a",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/architecture-repair-20260921/syntax/record-concurrency-model-script.js",
+      "bytes": 4241,
+      "sha256": "cf16b79ce2a356b56c4ff48656e2024a7854e12d5f3e2071a981398a24d6f425",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/architecture-repair-20260921/syntax/script-1.js",
+      "bytes": 20300,
+      "sha256": "2b4c7efdeee015cf3501494590cb593ae2c771d26a5ad7504876ccdb6130a05a",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/architecture-repair-20260921/syntax/script-11.js",
+      "bytes": 13243,
+      "sha256": "1260116b4a4ef8efc38cf792ccdb7eac42e1de04f6685b2e3598ac8d689636c1",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/architecture-repair-20260921/syntax/script-19.js",
+      "bytes": 15798,
+      "sha256": "19a3422fa179cdeaeb7f6ec4bc53e06e367960b5c2610b37e3f2ab954b45c59a",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/architecture-repair-20260921/syntax/script-2.js",
+      "bytes": 2016,
+      "sha256": "94a40c466be534687473120944071e3d425421d894c65bb31d320470b014d32e",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/architecture-repair-20260921/syntax/script-3.js",
+      "bytes": 9909,
+      "sha256": "9268a402ea79a50986a596a77f17e30608ab94aa405984030efe74a31b7dc73e",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/architecture-repair-20260921/syntax/script-4.js",
+      "bytes": 12461,
+      "sha256": "884bd5f82330859956a451efced9ac886bed785934f8ffa3a8b89597d18cded0",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/architecture-repair-20260921/syntax/script-5.js",
+      "bytes": 3810,
+      "sha256": "a95d78691d7b72319d1705ffb237bf3c41dd81c3bba51e27e4e73427e5d239cb",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/architecture-repair-20260921/syntax/selection-tools-script.js",
+      "bytes": 12445,
+      "sha256": "2e25930390d6a439aa3b92e8a203371e7f1d21077e6e61457eddf14a7331e34a",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/architecture-repair-20260921/syntax/vocabulary-quick-marks-script.js",
+      "bytes": 3017,
+      "sha256": "91021bb0ff9022ee3b27c0b825eae7626dd288347f41f8b7b9cb51dc13930c34",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/architecture-repair-20260921/syntax/vocabulary-review-controller.js",
+      "bytes": 18225,
+      "sha256": "bfc16fada7727b7ede454d90a752b77bc8712d1e8ffba5d84d2dab07adbfbd1d",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/word-review-separation-20260921/build.py",
+      "bytes": 6186,
+      "sha256": "6a610bb04b1bfa54d64ac58a896febecd1d49ba639e94d4ebf817ebaf94d2b94",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/word-review-separation-20260921/handoff.md",
+      "bytes": 1389,
+      "sha256": "d7279e6b6b4f1f982f02cb2b800e2e36b081995275ca298bb75d1dad8d7c6dd1",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/word-review-separation-20260921/latest-live-verification.json",
+      "bytes": 627,
+      "sha256": "03b2ceca0daba999d1b1d9b6cb1fe46f7b2c1ae5e8d1a77ac5c679e74bfc939f",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/word-review-separation-20260921/learning-adjust-script.js",
+      "bytes": 26376,
+      "sha256": "a39dcbc88ebefc6770e13cd5e6e630a295a821aa63bd2811cec027e9f50d27d2",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/word-review-separation-20260921/lookup-controller.js",
+      "bytes": 19462,
+      "sha256": "20d9b66f5fb2ecc2f1b5d5ab99ac260ce0e4bf47c26b8c787f3da7742a1bb028",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/word-review-separation-20260921/manifest.json",
+      "bytes": 277,
+      "sha256": "8e20e239a66b0dc9c2365c0bcac38f8256e24e0de2659f9f749c5f81b91eadac",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/word-review-separation-20260921/qa-candidate.json",
+      "bytes": 752,
+      "sha256": "54c6acad18e93dbd46a4a608eca3cae55658c3a835cf0e78b06f2509afdd0300",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/word-review-separation-20260921/qa-failure.json",
+      "bytes": 688,
+      "sha256": "bb0c01a826d52e22ae718a9ffb1965b83ce5739604bc3b5d731d7b8f53ffa051",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/word-review-separation-20260921/qa.cjs",
+      "bytes": 7920,
+      "sha256": "676e2d389f0d8bbaf570a8f316dc8ad6f5bc0102d2f22d8173629e5ad3f1bd82",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/word-review-separation-20260921/verify_latest_live.cjs",
+      "bytes": 4239,
+      "sha256": "7b8a42fd68818449fe85555b25ecd40824399e243faea639c7a5f87b9bea4302",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/word-review-separation-20260921/vocabulary-review-controller.js",
+      "bytes": 19106,
+      "sha256": "7bfeb5244cfadf9dac8e81fa6b9747391717fc60e40c4f5b75eaf15d3cbc31f0",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/product-repair-20260922/accept.py",
+      "bytes": 2046,
+      "sha256": "41d49ce538e022109a8c8fde50c0b9b53b336a5cfe75d7bd383431238dd7188e",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/product-repair-20260922/build.py",
+      "bytes": 3542,
+      "sha256": "55aa6aff34c8fd457d6edbceaa23bba6776f948b7a067b7cbf1e62125a5681bb",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/product-repair-20260922/complete-release.py",
+      "bytes": 7839,
+      "sha256": "596cca4ecbbe053e9666635a343049a7f4fda28e5abb086c1d442c276763439a",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/product-repair-20260922/component-equivalence.json",
+      "bytes": 1504,
+      "sha256": "8b242fabae4a56135b40f9958fdc692869c02f74f243d1d0f650d0e94b302ecf",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/product-repair-20260922/deployment.json",
+      "bytes": 238,
+      "sha256": "d2e354289a16beea25219753258dc06cffea1ccfdc932f247fe2d020767cad8a",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/product-repair-20260922/install.py",
+      "bytes": 1600,
+      "sha256": "beb52d0fc57f7ffee79aa627e20722ae024c0dbcdde7e769cb3bce8e28994dcd",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/product-repair-20260922/installation.json",
+      "bytes": 588,
+      "sha256": "47dc5ea9a808f629025cbca011adb38e15019c706f4ccff2d0b2e14c1ef92087",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/product-repair-20260922/prior-publication-status.json",
+      "bytes": 2730,
+      "sha256": "ba6b14e24403c812e3a750de02b9046221253a9a09ed3d0f00f4047eebba62b7",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/product-repair-20260922/publication-build.json",
+      "bytes": 545,
+      "sha256": "0a2dcfdfcda8af841810446f2a809896638ee2c2b7a3d89d56787bae1f2b1ca5",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/product-repair-20260922/README.md",
+      "bytes": 2334,
+      "sha256": "da034cb49e0c9f6aea1978436b31efd9e3546eac8c7dbf3cc39cb30c49f139af",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/product-repair-20260922/release-acceptance.json",
+      "bytes": 2293,
+      "sha256": "e8bf8aa5b7cac113001ecc3d905872d73c76461cc66e1c515211f817c3951abf",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/product-repair-20260922/release-live.json",
+      "bytes": 1426,
+      "sha256": "2d5a451249fc0745a28f729f1dafc8545b262dc1b58b0254f96695c56f3e67f9",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/product-repair-20260922/static.json",
+      "bytes": 246,
+      "sha256": "d48cc4a34af59ba3fb86695fa407eb3dcadf51848c6d7bfc18a73fd8744181fe",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/product-repair-20260922/task-state.json",
+      "bytes": 1085,
+      "sha256": "755089a90d7424576faa933ba12dae425f79b24acee0fc0cd480f80c29fcd902",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/product-repair-20260922/verify-release.py",
+      "bytes": 2561,
+      "sha256": "677fc1d9eae7bd93e42f8bbd5de2b9f4b2912f58f791639198e1da01cc3011ea",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/product-repair-20260922/frontend/catalog-baseline.json",
+      "bytes": 258417,
+      "sha256": "3a7f6878c572ea9500df92dccda20aa5d3079198d7f6261e1a0106d60bf05c1a",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/product-repair-20260922/frontend/integrate.py",
+      "bytes": 6629,
+      "sha256": "fd14422ee2ce6482ddbb1924fe0fd2a5a6eac9f61183478326492372b34d40d4",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/product-repair-20260922/frontend/learning-adjust-script.js",
+      "bytes": 26266,
+      "sha256": "e5baf5a79dc23e387c82d235192b996c4cf8058be8959ff911db68b736c5f6ec",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/product-repair-20260922/frontend/lookup-controller.js",
+      "bytes": 20197,
+      "sha256": "d8b0db9912a7ec6f6def9d405e65913a242f08d0ed8034fe82117c00b1109f6f",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/product-repair-20260922/frontend/manifest.json",
+      "bytes": 375,
+      "sha256": "600006a1c434ef6ed509fad99864003db3550b508f807abeaf5da1e4c1e95733",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/product-repair-20260922/frontend/qa-combined-failure.json",
+      "bytes": 1455,
+      "sha256": "9fa76d2a8f5aa03e259061721ecdff3a0b48e3e5f6d1c4ede0549ed2c68b5275",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/product-repair-20260922/frontend/qa-combined.cjs",
+      "bytes": 15856,
+      "sha256": "4d421507a6118c00a2b90975eb6bc1477ce575e220ba9e4251bc3ac50f114626",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/product-repair-20260922/frontend/qa-combined.json",
+      "bytes": 1651,
+      "sha256": "68546217c212063edb0e3b9f007407dc9f558d61a76f58c53de6a09f12132f81",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/product-repair-20260922/frontend/qa-combined.md",
+      "bytes": 2133,
+      "sha256": "41984556927a1f872e74e1aa6c2d041b31960bac5579b3e883f1135ae10e03c5",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/product-repair-20260922/frontend/qa-failure.json",
+      "bytes": 864,
+      "sha256": "6bdaea80b8eb5da22c598c2dc8bd56ee7419d868905f818f8a075f3605b36c70",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/product-repair-20260922/frontend/qa-live.json",
+      "bytes": 3646,
+      "sha256": "af28a28303109011786960c2e06870c35cd4bb72dda167b513d9e0d2e54ae63a",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/product-repair-20260922/frontend/qa-packed-word-geometry.json",
+      "bytes": 457,
+      "sha256": "3598f8e4743b8b3854002da0f600fcf504b465803897fa6c32d09dc6407b3f25",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/product-repair-20260922/frontend/qa-packed.json",
+      "bytes": 3708,
+      "sha256": "10785304965010b9b8f5a4eba5cbeba52e24498b78d99b3049520fb3d12de1c5",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/product-repair-20260922/frontend/qa-release-notes.md",
+      "bytes": 2027,
+      "sha256": "34313713ef63f72c15e25949301ec12bd4594a1120dae97ef82090235158eda8",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/product-repair-20260922/frontend/qa-release.cjs",
+      "bytes": 11355,
+      "sha256": "958675de5cbf58aa6cbff94054b587c8a7783713dc1515fcc666bf3a2a01255a",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/product-repair-20260922/frontend/qa.cjs",
+      "bytes": 11943,
+      "sha256": "8ddd3dd9aa64ab5f297d668ff67831ce5039246582faa76bed2699c8df121c2e",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/product-repair-20260922/frontend/qa.json",
+      "bytes": 1313,
+      "sha256": "079a6bad3e991fa9588f6d2ed5f2b76ea479e278f42afbc8d53b5bf1b63e6d9a",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/product-repair-20260922/frontend/README.md",
+      "bytes": 3160,
+      "sha256": "38570ec8c8a0b66d394caeb22a785471467e5d9e19c2173fe3c3073d70f34756",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/product-repair-20260922/frontend/selection-tools-script.js",
+      "bytes": 14984,
+      "sha256": "0e640adf0d2eb060060b022679747d18f966abf768a2d4dbd55d93f7437d29ff",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/product-repair-20260922/frontend/speaking-first.html",
+      "bytes": 3129,
+      "sha256": "309a5b232e083583df6309271597f15692449b15d2c9ccd306b73894fb2f79ba",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/product-repair-20260922/frontend/speaking-new-sep26-journeys.html",
+      "bytes": 3372,
+      "sha256": "54efe3303558b5dea68edeebfbace3c758ef1e87090a4d1344e0ec05bca83cb7",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/product-repair-20260922/frontend/speaking-recorder.js",
+      "bytes": 11081,
+      "sha256": "0b4c9dba5d06a4f08257878e1c54a99c733f2c3d81a3e22428b31651d7bf34b1",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/product-repair-20260922/frontend/study.html",
+      "bytes": 3094,
+      "sha256": "9342340ded33ab5fae1b5ab7e10ef5b953fccca7702dec5979659af54caae165",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/product-repair-20260922/frontend/syntax.json",
+      "bytes": 1966,
+      "sha256": "79361b417d987951114e2ca0e13e98a0720ad1e724c38ff3ad33a69a61273d8c",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/product-repair-20260922/frontend/topical-vocabulary.html",
+      "bytes": 1054643,
+      "sha256": "6dba2cdb7b7cd47315cc51c166113395382e5712ea74911710510c858ea1efec",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/product-repair-20260922/frontend/vocabulary-review-controller.js",
+      "bytes": 18570,
+      "sha256": "44b91cd13a25265dc7ee60fcd1e17bd43f9957f374cb29c5d2eefbfc44fdbb53",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/product-repair-20260922/navigation/catalog-view.js",
+      "bytes": 7273,
+      "sha256": "5331e9aaba6788e59907160f654b7530d8e9f8e15fff93ebcef408256d6262ef",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/product-repair-20260922/navigation/integrate.py",
+      "bytes": 12291,
+      "sha256": "338d7870156ab6535fc07813f3c5d2f81e410e4e08a6286c356ec56978a26920",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/product-repair-20260922/navigation/learning-adjust-script.js",
+      "bytes": 28100,
+      "sha256": "99eaebbe6d4005b802e280620956739c4574b47566eb602f8002aad65ef64d40",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/product-repair-20260922/navigation/navigation.css",
+      "bytes": 9781,
+      "sha256": "e54802fdb08098b6015c84e321bd6bfeefda104d9fc94bb57d6df79b499f60d8",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/product-repair-20260922/navigation/navigation.js",
+      "bytes": 3664,
+      "sha256": "b3df84cf04fce1b71c3f3dcf35d6c3089e9e6dd493ed2fa2e9890ae5a313e894",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/product-repair-20260922/navigation/product-entry-controller.js",
+      "bytes": 2467,
+      "sha256": "846f43b074c112081ec522407379b4fb0070ad9ebe420c4bcb97e23c1f56e1e8",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/product-repair-20260922/navigation/vocabulary-review-controller.js",
+      "bytes": 19197,
+      "sha256": "ebc2087b36ca451d048ee9acf5e0ff295033633b1d342ffc8f1be763a31d6d4a",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/product-repair-20260922/qa/actions-formal.json",
+      "bytes": 25909,
+      "sha256": "d10edf7e0671b5a89041afa7ac6663fe361f26b3b7b74324d6130a5b12d5b3bf",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/product-repair-20260922/qa/actions-packed-mobile.json",
+      "bytes": 25637,
+      "sha256": "069b00b8eb91774bdaf3350cee2da12f9854fbd96bdc84e14110cdd97f6cca6f",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/product-repair-20260922/qa/assemble-final-report.cjs",
+      "bytes": 4608,
+      "sha256": "10d3f76da903084aa88698e0b5fe4d984a88cd31a8187178cf8228433a6fc807",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/product-repair-20260922/qa/audit_final_diff.py",
+      "bytes": 1232,
+      "sha256": "c7e09b127099764329ba8fc093266ef2019ea31507fc93db865f53fb3cf9540c",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/product-repair-20260922/qa/baseline-findings.md",
+      "bytes": 4283,
+      "sha256": "dfb3f3c1ad20b91da373c905f8ca3c2c2b21b69bdb70a3e798f81f84cecbdd16",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/product-repair-20260922/qa/combined-compatibility.cjs",
+      "bytes": 8072,
+      "sha256": "21bfbf6b75e772db9c7394e83ee0b9a22723c54cbc9bf8cb4366bc9892f00430",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/product-repair-20260922/qa/combined-first-compatibility.json",
+      "bytes": 1470,
+      "sha256": "1ec48185d6a5a909bedd9da13331494d939dc6a93ce6b855e1c9f7d812dbc8db",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/product-repair-20260922/qa/combined-first-desktop.json",
+      "bytes": 6000,
+      "sha256": "ad551c723d852c52a4e636d2f23e389920a1897e17786f92e4de47bd1ad14ee3",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/product-repair-20260922/qa/combined-first-mobile.json",
+      "bytes": 7420,
+      "sha256": "d27f93eb32a757d05d9dfbde2d118c84fb85c35f5a52fd9fcdc5d4656e73d859",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/product-repair-20260922/qa/combined-first-routes-progress.json",
+      "bytes": 73943,
+      "sha256": "c9c3d9f68763990928400c2cbbc29366389ce7e0a505a85d3841f360081d0032",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/product-repair-20260922/qa/combined-first-routes.json",
+      "bytes": 75771,
+      "sha256": "26ffcdf59a7fd3935235c1df1b50a9dc6708d475b3ba6b262c644137177d1dee",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/product-repair-20260922/qa/entry-depth-mobile.json",
+      "bytes": 13772,
+      "sha256": "882df3d8f48dfa4d59b4fb6c28c732ea67ace5304b04b104eae4e369d05d7a5e",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/product-repair-20260922/qa/final-diff.json",
+      "bytes": 1509,
+      "sha256": "43d9a82c88bfb17e0108dfab3ed0093862e901e5c983f009f06a6498fa0e9184",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/product-repair-20260922/qa/final-production.cjs",
+      "bytes": 1585,
+      "sha256": "b538bf4893eedc29e3e60c4cd821ddefc8423e58374c4ddba631dc0aaa030fee",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/product-repair-20260922/qa/final-production.json",
+      "bytes": 719,
+      "sha256": "2d3bd09bc8b88703dec25f1e88562bada29e727a6ebb2a630c7a9d283ecbf046",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/product-repair-20260922/qa/final-report.md",
+      "bytes": 1627,
+      "sha256": "1a3a18ff965c09895287ec4529a13b0c2d54568c3c913d088cc594935b9d0ad6",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/product-repair-20260922/qa/final-targeted.cjs",
+      "bytes": 4320,
+      "sha256": "778ced631ad681bb5f3a5111be71ece96a6b9478f41592c8e538b7194f7499cb",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/product-repair-20260922/qa/final-targeted.json",
+      "bytes": 1376,
+      "sha256": "9e7b24e6af4e30b62882ac5954da94bfae5a091b1f0510bfb20177f55d915ee9",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/product-repair-20260922/qa/inspect-desktop.json",
+      "bytes": 33910,
+      "sha256": "6d8fc78a97776b5ece9bc05d1b109b7de0bc52526de32025ecffb6047d3d15b1",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/product-repair-20260922/qa/journey-actions.cjs",
+      "bytes": 5879,
+      "sha256": "8b5a3653a32b345e87388573341107d36928cff590ba1ee4d757593f7f6737b9",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/product-repair-20260922/qa/journey-entry-depth.cjs",
+      "bytes": 3057,
+      "sha256": "0eab31580441be237a0928aec5ab51174f1f2ca247b9cda63b1634089fa82d95",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/product-repair-20260922/qa/journey-inspect.cjs",
+      "bytes": 912,
+      "sha256": "8875699f1c697f69e54d22f52c0ebef8d7cfe70e788571703ae7e81370dfa6e5",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/product-repair-20260922/qa/journey-lib.cjs",
+      "bytes": 3208,
+      "sha256": "29a29d6d296bcd9b5bda0029817d7607a334497c6c80c53657ca5aa439e0291f",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/product-repair-20260922/qa/journey-probe.cjs",
+      "bytes": 1336,
+      "sha256": "b13bd8187f64ca702eb4fddd096cd194f8179820462ee8fea296dc5d22264ec2",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/product-repair-20260922/qa/journey-progressive.cjs",
+      "bytes": 1968,
+      "sha256": "c1366caab3b8e35e0ab0df8797ea4ab16b5c54d77fd6f12f4747860aff3f8aac",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/product-repair-20260922/qa/journey-tests.cjs",
+      "bytes": 1225,
+      "sha256": "c9594d2b73f06c4bbcfe6c5ff6ee7089d927d4baf00bd83b44cfa9a1534139ee",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/product-repair-20260922/qa/legacy-routes.cjs",
+      "bytes": 1757,
+      "sha256": "45d16e4db71940ecf5948dcbfeb4ef9e7bb5b04546d273ee7fc0afc4452ab6ad",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/product-repair-20260922/qa/mainland-request-preview.json",
+      "bytes": 6235,
+      "sha256": "f73114f026faa6712eced0b1c0364ba82823aded364231e82e75b9b1a02b34d1",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/product-repair-20260922/qa/nav-initial-desktop.json",
+      "bytes": 6437,
+      "sha256": "4eb1e0775753f9efe4a0d3e675e1c87611d84385addc238e3668e0e172645d04",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/product-repair-20260922/qa/nav-initial-mobile.json",
+      "bytes": 7873,
+      "sha256": "3ab7326148b48bfde7f25364a1b57d63a6077ea3f399fb13e5dad66e01826dde",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/product-repair-20260922/qa/nav-initial-targeted.json",
+      "bytes": 1974,
+      "sha256": "71320e514713cd5c81d7575f6c33244eaa5f4021bab6647071dacf5d3614b991",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/product-repair-20260922/qa/nav-review-label.json",
+      "bytes": 342,
+      "sha256": "719bc1737d2dd0dbafdf9f8062fc97c7681543b1f0ab36ce7bb15e211aaf359d",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/product-repair-20260922/qa/navigation-initial-findings.md",
+      "bytes": 2413,
+      "sha256": "ce1a3d66945248f4bbbedd9fcc61aae9489c8ba116f2fb8e2b333aa3f17ca8ac",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/product-repair-20260922/qa/navigation-regression.cjs",
+      "bytes": 6660,
+      "sha256": "284d71fbd26b0b8ff7795875c62b04f6343057a38a29cd213ea33b1c935ad21b",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/product-repair-20260922/qa/navigation-review-label.cjs",
+      "bytes": 1037,
+      "sha256": "17b63fb9588591d6094ff36999be04dd4ef0424e6f373a9d09dd4e16929e020f",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/product-repair-20260922/qa/navigation-targeted.cjs",
+      "bytes": 2223,
+      "sha256": "e1ecb8d8cc8c2413c757a592b89edd69ac239449d9709eaa9ed7cd02a9b4f7d4",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/product-repair-20260922/qa/probe-desktop.json",
+      "bytes": 107411,
+      "sha256": "e7848140daebfb8b83aed8fe543052b1c358719155140ccac61a6a82bf0b225d",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/product-repair-20260922/qa/progressive-results.json",
+      "bytes": 1078,
+      "sha256": "8b00645e5003fa51e5797604f1bb5f3138807840cd3b369299825175fe62f9f7",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/product-repair-20260922/qa/qa-final.json",
+      "bytes": 4122,
+      "sha256": "e0dfad20f2897e7a67aa688b253ac4498b91e8eeabdb8fcb93139c4ae3c9d148",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/product-repair-20260922/qa/tests-inspection.json",
+      "bytes": 41454,
+      "sha256": "c406d84023546d658adbd8d8f4d2af1708b58620b3a712dc72ac939b8d257d6b",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/product-repair-20260922/syntax/0.js",
+      "bytes": 4241,
+      "sha256": "cf16b79ce2a356b56c4ff48656e2024a7854e12d5f3e2071a981398a24d6f425",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/product-repair-20260922/syntax/1.js",
+      "bytes": 24384,
+      "sha256": "726159b00f1ee6b2903ba20477a57784dc01e18fbf3242fa3a7d71b3a511122a",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/product-repair-20260922/syntax/10.js",
+      "bytes": 19267,
+      "sha256": "8de57b5d1f0cc61cc149700171088eea6ff1d9773b07f9ffb0cb3206cbb1cf81",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/product-repair-20260922/syntax/11.js",
+      "bytes": 13243,
+      "sha256": "1260116b4a4ef8efc38cf792ccdb7eac42e1de04f6685b2e3598ac8d689636c1",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/product-repair-20260922/syntax/12.js",
+      "bytes": 712,
+      "sha256": "0aa625896e2ab372cd048f149a200d916ccb2633c84d9b85e75ec189e3ee660a",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/product-repair-20260922/syntax/13.js",
+      "bytes": 4169,
+      "sha256": "767d1b59b47fae374ffbb86d1901e19bfb058974473a915caf78ed941ac2950b",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/product-repair-20260922/syntax/15.js",
+      "bytes": 57716,
+      "sha256": "df20a1fa153484f0b7f29dca9bd6fa65372b6778c3bfce5ca9b5d052f1785cb7",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/product-repair-20260922/syntax/16.js",
+      "bytes": 234,
+      "sha256": "f73105b68c4850924809a989de7a115f695fcb728a1fe2f8bca57145d25f2e91",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/product-repair-20260922/syntax/18.js",
+      "bytes": 15017,
+      "sha256": "6d4a0c5376cb253dc48f46970de8b6946c5b621b64192de63f764d6cd2e1daee",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/product-repair-20260922/syntax/2.js",
+      "bytes": 2016,
+      "sha256": "94a40c466be534687473120944071e3d425421d894c65bb31d320470b014d32e",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/product-repair-20260922/syntax/20.js",
+      "bytes": 17090,
+      "sha256": "bce230b13eeec28b169863df96c84239157e0b31df6a312cd58dd165f53b3381",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/product-repair-20260922/syntax/21.js",
+      "bytes": 5643,
+      "sha256": "090f2b6deff6ba3da093d9f3ca10ce56e9e979ff42b62adad9028c8d7f01a0eb",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/product-repair-20260922/syntax/22.js",
+      "bytes": 2705,
+      "sha256": "b4137a4697cdd50a6a649959c7d6f6cfeb958f41924edf4b91d02fb7192d82ff",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/product-repair-20260922/syntax/23.js",
+      "bytes": 6921,
+      "sha256": "bf6a25aa7a6dc709d2b247894f6b9bcff3ab879e424bdffd4d9daed8fddcd06c",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/product-repair-20260922/syntax/24.js",
+      "bytes": 700,
+      "sha256": "e62e309b17d71af9f06077935096e44a6eb35cc2e8aa4c9e0ea490cc4d6f389c",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/product-repair-20260922/syntax/26.js",
+      "bytes": 4487,
+      "sha256": "93f0355e601c262e72d8089b2ae212029e97c52dacc444a36e15a8d960d19598",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/product-repair-20260922/syntax/27.js",
+      "bytes": 29018,
+      "sha256": "4bff9c69b3d6fb96ce8d90f3608eefe402ab35497e9688f6a8028238dfda0362",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/product-repair-20260922/syntax/29.js",
+      "bytes": 16688,
+      "sha256": "a81796319f2441810ac8f04ce43fc6a9db67de613d5bee0e067c68372bfa4921",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/product-repair-20260922/syntax/3.js",
+      "bytes": 9909,
+      "sha256": "9268a402ea79a50986a596a77f17e30608ab94aa405984030efe74a31b7dc73e",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/product-repair-20260922/syntax/30.js",
+      "bytes": 17599,
+      "sha256": "3a66115f60feb5e9fbd487771746c8e2cc064e7a3b01fd72c35258d3de264582",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/product-repair-20260922/syntax/31.js",
+      "bytes": 3761,
+      "sha256": "d7176697361116822392546ee47dbd899957e6727ea4b738b84681fdc08683fb",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/product-repair-20260922/syntax/32.js",
+      "bytes": 5470,
+      "sha256": "fea39a33942f4677a5a1ef8a5e76de2c4c07b907f0c3e919a09ceace77110334",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/product-repair-20260922/syntax/33.js",
+      "bytes": 3072,
+      "sha256": "a7adf89198a3207357d72594c2cc80872d23d2f0cf719910fd7b4eef7373eb3b",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/product-repair-20260922/syntax/34.js",
+      "bytes": 3017,
+      "sha256": "91021bb0ff9022ee3b27c0b825eae7626dd288347f41f8b7b9cb51dc13930c34",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/product-repair-20260922/syntax/35.js",
+      "bytes": 3716,
+      "sha256": "4abc219718866ca94b055b1426d8d9ff07ff8fe937e82c8f92d768fccf95943f",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/product-repair-20260922/syntax/4.js",
+      "bytes": 12461,
+      "sha256": "884bd5f82330859956a451efced9ac886bed785934f8ffa3a8b89597d18cded0",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/product-repair-20260922/syntax/5.js",
+      "bytes": 3810,
+      "sha256": "a95d78691d7b72319d1705ffb237bf3c41dd81c3bba51e27e4e73427e5d239cb",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/product-repair-20260922/syntax/9.js",
+      "bytes": 20236,
+      "sha256": "2cfe59d04417e25539d3d82362bf52db541b3a45c7af32b7c6b5b957f0d6cd50",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/product-repair-20260922/writing/build_sources.py",
+      "bytes": 6455,
+      "sha256": "6fe05f627f92cbf8d83c378e86c139132a18284f2c447c2e6374212aaebcef70",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/product-repair-20260922/writing/entry.js",
+      "bytes": 5554,
+      "sha256": "415fa55569cbb7a39098e99b20442f1e13d14509812ec8e3b8f2bc2cbacf3332",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/product-repair-20260922/writing/extra-index.json",
+      "bytes": 23162,
+      "sha256": "5f03baabd306fd1d3cc53181cda833bce1a794706a7a3e36bf11bb9c3c3cca6d",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/product-repair-20260922/writing/inspect_writing.py",
+      "bytes": 1449,
+      "sha256": "5ab56e32e6abfab60dcb2e56fa27ed4592492631fa989d8fe6a01999ea6b23bb",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/product-repair-20260922/writing/integrate.py",
+      "bytes": 15106,
+      "sha256": "f3e90fa25c7f4761f852055e9f6c2f0ea717e4f7883964b6c73308977be1cf3c",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/product-repair-20260922/writing/inventory.json",
+      "bytes": 986719,
+      "sha256": "b4c9d1d3c60b2b895fb077500eb5c1744fa2391687b466b725de11d519faf30d",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/product-repair-20260922/writing/original-controller.js",
+      "bytes": 15798,
+      "sha256": "19a3422fa179cdeaeb7f6ec4bc53e06e367960b5c2610b37e3f2ab954b45c59a",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/product-repair-20260922/writing/original-workbench.html",
+      "bytes": 62509,
+      "sha256": "25c6708080dbc0ee4450986bb775f7cf8d53ff2c9d4bb15c415ae5a7fa83a738",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/product-repair-20260922/writing/qa-combined.json",
+      "bytes": 1713,
+      "sha256": "c3bbcd5ec04e4866e12d579d88c91487734b4f8e0b06b05017b4af1302113562",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/product-repair-20260922/writing/qa-results.json",
+      "bytes": 1473,
+      "sha256": "6962f17d64c88b4b648e5b5085b3a7089867497b3915a0190079f4f8746d7e06",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/product-repair-20260922/writing/qa.cjs",
+      "bytes": 12656,
+      "sha256": "6b1f38df2594fc3a68e0f2d4ef3ebc4b89394f69f3f1ed1bda7d32abb5c43841",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/product-repair-20260922/writing/qa_combined.cjs",
+      "bytes": 14293,
+      "sha256": "cd92b5f70062369f71b0231be8976ee30e0b33688b885d809fd492a8640c8a8c",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/product-repair-20260922/writing/qa_static.py",
+      "bytes": 3965,
+      "sha256": "dbe4a0ef0ca7640d9ab2a64de9f9dfcb85faf5fc1de024655430ad529d7ab243",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/product-repair-20260922/writing/question-detail.json",
+      "bytes": 93648,
+      "sha256": "d639f582e3c5e8c92bfe7050b207980b1469dad59e55d5f38c1a000a6ee8aac9",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/product-repair-20260922/writing/question-map.json",
+      "bytes": 19793,
+      "sha256": "202022777093e5b23a9088b3ac37be5de52cf840187684f9ac10f3c6c8dbf0bc",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/product-repair-20260922/writing/questions.json",
+      "bytes": 92650,
+      "sha256": "89c8fa97b380a0a233b67fd67158ade5571089bc41e674a7ab0e37903c22c1ec",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/product-repair-20260922/writing/README.md",
+      "bytes": 4213,
+      "sha256": "9c143ad137c5a9c32ab7342ee2a454e50ab8bd73e464fb1cc7d18930d9183ec0",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/product-repair-20260922/writing/run_combined.py",
+      "bytes": 2213,
+      "sha256": "719d020b5969dd18d4ae89d87f8b506898a0e6b004740fba64755e1e7360e093",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/product-repair-20260922/writing/source-check.json",
+      "bytes": 249,
+      "sha256": "e65df0fc443ddef53a44470bceb1653c1764b9ed8303d2f44d840b6714cc818c",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/product-repair-20260922/writing/stages.js",
+      "bytes": 624,
+      "sha256": "f1da5b12f7664e97a57626112639e8d33cbd93514420ea64573e4adf152729a9",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/product-repair-20260922/writing/static-results.json",
+      "bytes": 384,
+      "sha256": "48183635eeed277ed61a663cf1ff440bd02d3e9a74fdb3e3b423068127674450",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/product-repair-20260922/writing/writing.css",
+      "bytes": 5492,
+      "sha256": "5e24770d4fb03563c8ace9e04ddfa65347658c5619140e5766cb42e6c020c5bd",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/product-repair-20260922/frontend/syntax/authentic-case-script.js",
+      "bytes": 4169,
+      "sha256": "767d1b59b47fae374ffbb86d1901e19bfb058974473a915caf78ed941ac2950b",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/product-repair-20260922/frontend/syntax/course-window-nav.js",
+      "bytes": 234,
+      "sha256": "f73105b68c4850924809a989de7a115f695fcb728a1fe2f8bca57145d25f2e91",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/product-repair-20260922/frontend/syntax/course-window-script.js",
+      "bytes": 57716,
+      "sha256": "df20a1fa153484f0b7f29dca9bd6fa65372b6778c3bfce5ca9b5d052f1785cb7",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/product-repair-20260922/frontend/syntax/daily-study-model-script.js",
+      "bytes": 16688,
+      "sha256": "a81796319f2441810ac8f04ce43fc6a9db67de613d5bee0e067c68372bfa4921",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/product-repair-20260922/frontend/syntax/daily-study-script.js",
+      "bytes": 17599,
+      "sha256": "3a66115f60feb5e9fbd487771746c8e2cc064e7a3b01fd72c35258d3de264582",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/product-repair-20260922/frontend/syntax/energy-control-model-script.js",
+      "bytes": 2705,
+      "sha256": "b4137a4697cdd50a6a649959c7d6f6cfeb958f41924edf4b91d02fb7192d82ff",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/product-repair-20260922/frontend/syntax/energy-control-script.js",
+      "bytes": 6921,
+      "sha256": "bf6a25aa7a6dc709d2b247894f6b9bcff3ab879e424bdffd4d9daed8fddcd06c",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/product-repair-20260922/frontend/syntax/health-study-bridge-script.js",
+      "bytes": 3761,
+      "sha256": "d7176697361116822392546ee47dbd899957e6727ea4b738b84681fdc08683fb",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/product-repair-20260922/frontend/syntax/health-study-ui-script.js",
+      "bytes": 5470,
+      "sha256": "fea39a33942f4677a5a1ef8a5e76de2c4c07b907f0c3e919a09ceace77110334",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/product-repair-20260922/frontend/syntax/learning-adjust-model-script.js",
+      "bytes": 4487,
+      "sha256": "93f0355e601c262e72d8089b2ae212029e97c52dacc444a36e15a8d960d19598",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/product-repair-20260922/frontend/syntax/learning-adjust-script.js",
+      "bytes": 26777,
+      "sha256": "be2aa6282eb69a09c715cbdf5ed713cc2d58cd01481c574c5fd0e3db9ade5cfa",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/product-repair-20260922/frontend/syntax/lookup-controller.js",
+      "bytes": 20236,
+      "sha256": "2cfe59d04417e25539d3d82362bf52db541b3a45c7af32b7c6b5b957f0d6cd50",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/product-repair-20260922/frontend/syntax/material-reading-script.js",
+      "bytes": 3072,
+      "sha256": "a7adf89198a3207357d72594c2cc80872d23d2f0cf719910fd7b4eef7373eb3b",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/product-repair-20260922/frontend/syntax/prerequisite-interactions-script.js",
+      "bytes": 700,
+      "sha256": "e62e309b17d71af9f06077935096e44a6eb35cc2e8aa4c9e0ea490cc4d6f389c",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/product-repair-20260922/frontend/syntax/qt-script.js",
+      "bytes": 712,
+      "sha256": "0aa625896e2ab372cd048f149a200d916ccb2633c84d9b85e75ec189e3ee660a",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/product-repair-20260922/frontend/syntax/record-concurrency-model-script.js",
+      "bytes": 4241,
+      "sha256": "cf16b79ce2a356b56c4ff48656e2024a7854e12d5f3e2071a981398a24d6f425",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/product-repair-20260922/frontend/syntax/script-1.js",
+      "bytes": 24384,
+      "sha256": "726159b00f1ee6b2903ba20477a57784dc01e18fbf3242fa3a7d71b3a511122a",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/product-repair-20260922/frontend/syntax/script-11.js",
+      "bytes": 13243,
+      "sha256": "1260116b4a4ef8efc38cf792ccdb7eac42e1de04f6685b2e3598ac8d689636c1",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/product-repair-20260922/frontend/syntax/script-19.js",
+      "bytes": 15798,
+      "sha256": "19a3422fa179cdeaeb7f6ec4bc53e06e367960b5c2610b37e3f2ab954b45c59a",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/product-repair-20260922/frontend/syntax/script-2.js",
+      "bytes": 2016,
+      "sha256": "94a40c466be534687473120944071e3d425421d894c65bb31d320470b014d32e",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/product-repair-20260922/frontend/syntax/script-3.js",
+      "bytes": 9909,
+      "sha256": "9268a402ea79a50986a596a77f17e30608ab94aa405984030efe74a31b7dc73e",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/product-repair-20260922/frontend/syntax/script-4.js",
+      "bytes": 12461,
+      "sha256": "884bd5f82330859956a451efced9ac886bed785934f8ffa3a8b89597d18cded0",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/product-repair-20260922/frontend/syntax/script-5.js",
+      "bytes": 3810,
+      "sha256": "a95d78691d7b72319d1705ffb237bf3c41dd81c3bba51e27e4e73427e5d239cb",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/product-repair-20260922/frontend/syntax/selection-tools-script.js",
+      "bytes": 15017,
+      "sha256": "6d4a0c5376cb253dc48f46970de8b6946c5b621b64192de63f764d6cd2e1daee",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/product-repair-20260922/frontend/syntax/vocabulary-quick-marks-script.js",
+      "bytes": 3017,
+      "sha256": "91021bb0ff9022ee3b27c0b825eae7626dd288347f41f8b7b9cb51dc13930c34",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/product-repair-20260922/frontend/syntax/vocabulary-review-controller.js",
+      "bytes": 18577,
+      "sha256": "b9918c94a53830d061fb7395b8401b93ed36dbadc7a4ecc23b8c65eff1e42f5b",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/tools/archive_recent_jijing.py",
+      "bytes": 8637,
+      "sha256": "f1135a148b9ecd2d9492328a414c61d87c4f080f19e61b7b36118a97adfb1c6c",
+      "role": "own-build-tool-not-downloaded-repositories"
+    },
+    {
+      "path": "maintenance/tools/finalize_mobile_release.py",
+      "bytes": 2388,
+      "sha256": "16ae4deaeca26d369688e79a5b1176d77166946256d339d4048a5f8a5213718a",
+      "role": "own-build-tool-not-downloaded-repositories"
+    },
+    {
+      "path": "maintenance/tools/integrate_recent_jijing.py",
+      "bytes": 15880,
+      "sha256": "863c62b487c5e2173376dacf58d5a83d39e403e29958d798c622efb927ef7ab6",
+      "role": "own-build-tool-not-downloaded-repositories"
+    },
+    {
+      "path": "maintenance/tools/prepare_jijing_listening.py",
+      "bytes": 5062,
+      "sha256": "700c2aa841d8a1002c825b8fdfc3c5b9c3b12a4d082a2d8141650986f3ec068a",
+      "role": "own-build-tool-not-downloaded-repositories"
+    },
+    {
+      "path": "maintenance/tools/prepare_mobile_media.py",
+      "bytes": 7212,
+      "sha256": "e60717765577f61fbe8535d6b0cfc133c8ba0ddc0e0cd3f218ce894f1e8efb92",
+      "role": "own-build-tool-not-downloaded-repositories"
+    },
+    {
+      "path": "maintenance/tools/prepare_mobile_release.py",
+      "bytes": 3464,
+      "sha256": "c15af95d8d9d3d724651beda56d5bf14d58025395ec73aecb53aa471f0354202",
+      "role": "own-build-tool-not-downloaded-repositories"
+    },
+    {
+      "path": "maintenance/tools/progressive_loader.css",
+      "bytes": 2291,
+      "sha256": "4b6aaa6250440ef19659c4ee3c2dec43e28f33224e0c027bd157845a3c1523a1",
+      "role": "own-build-tool-not-downloaded-repositories"
+    },
+    {
+      "path": "maintenance/tools/progressive_loader.js",
+      "bytes": 8972,
+      "sha256": "df3d0987757563f6b6dd0333b1da1ea52768b4bd79900e5f9f3ac6b80040d801",
+      "role": "own-build-tool-not-downloaded-repositories"
+    },
+    {
+      "path": "maintenance/tools/progressive_web.py",
+      "bytes": 14690,
+      "sha256": "2857c3e17556bdefb3135840b9f62a4c2e20d682b02339fa197695791d153100",
+      "role": "own-build-tool-not-downloaded-repositories"
+    },
+    {
+      "path": "maintenance/tools/qa_jijing_browser.cjs",
+      "bytes": 7273,
+      "sha256": "545a6e3501e62c5eae07b01a60626eedf259e943d7a127b968a3e267f69b0b53",
+      "role": "own-build-tool-not-downloaded-repositories"
+    },
+    {
+      "path": "maintenance/tools/qa_jijing_integration.cjs",
+      "bytes": 11617,
+      "sha256": "1c0dcc2d1e6038544aeb8e8d9d76a50955567c2e818e863539023f2707c2efd6",
+      "role": "own-build-tool-not-downloaded-repositories"
+    },
+    {
+      "path": "maintenance/tools/qa_mobile_media.py",
+      "bytes": 2868,
+      "sha256": "4cf3d473031830fd7b8f69d053229211ce4a16fe132857575ec885aca753d018",
+      "role": "own-build-tool-not-downloaded-repositories"
+    },
+    {
+      "path": "maintenance/tools/qa_mobile_release_static.py",
+      "bytes": 3273,
+      "sha256": "55260ce04076db70f0aa2c7190e443ef5e3dffef60ef8f1c6267689f75afdea3",
+      "role": "own-build-tool-not-downloaded-repositories"
+    },
+    {
+      "path": "maintenance/tools/runtime_performance.py",
+      "bytes": 9369,
+      "sha256": "66e06c8d9d2f887e30228eafa2172993951b07a98a4c8be980386a26103a97b6",
+      "role": "own-build-tool-not-downloaded-repositories"
+    },
+    {
+      "path": "maintenance/tools/serve_mobile_media.py",
+      "bytes": 1377,
+      "sha256": "ac8c6a1c2562b5c35718669a2edecef176f0b3605577d25743d6a157606d70e7",
+      "role": "own-build-tool-not-downloaded-repositories"
+    },
+    {
+      "path": "maintenance/tools/verify_jijing_audio.py",
+      "bytes": 1312,
+      "sha256": "540201bb4d3ad6b9e4c328884b3b9cec0985a2d4e2b085d26401237d9b98299d",
+      "role": "own-build-tool-not-downloaded-repositories"
+    },
+    {
+      "path": "maintenance/tools/workspace_split.py",
+      "bytes": 6673,
+      "sha256": "bbb5f3f140cd80c8612f939d10b380f3f6391ade65d449db4d60c76260de4425",
+      "role": "own-build-tool-not-downloaded-repositories"
     },
     {
       "path": "maintenance/web-publication/prepare.py",
@@ -5319,9 +7395,111 @@
       "role": "probe-evidence"
     },
     {
+      "path": "maintenance/research/content-tensor-20260921/browser-check.json",
+      "bytes": 221,
+      "sha256": "8e5829f1b079dda18217e06297ffad579e01b9af390393168109c28292df7081",
+      "role": "probe-evidence"
+    },
+    {
+      "path": "maintenance/research/content-tensor-20260921/fragment-context-audit.json",
+      "bytes": 37203,
+      "sha256": "439047fd65213db29e5e2ab398dc35d8c2736f3b070b6b566d47ba40cffcdd0c",
+      "role": "probe-evidence"
+    },
+    {
+      "path": "maintenance/research/content-tensor-20260921/graph.json",
+      "bytes": 21215865,
+      "sha256": "378b719df545c347043a7ce86055f2768e01aa9bbd340a0e7c81d05053207d5b",
+      "role": "probe-evidence"
+    },
+    {
+      "path": "maintenance/research/content-tensor-20260921/normalized-sources.json",
+      "bytes": 1048200,
+      "sha256": "2c2fd839ee9e4fb6cad1d3ecb79537f45467e96cd32ca6a3bcd87d3addd98b5b",
+      "role": "probe-evidence"
+    },
+    {
+      "path": "maintenance/research/content-tensor-20260921/quality-audit.json",
+      "bytes": 734905,
+      "sha256": "0243cfc56760473770cb4fc863a6311cec01aa509070f3c45dee4fd422b0ba85",
+      "role": "probe-evidence"
+    },
+    {
+      "path": "maintenance/research/content-tensor-20260921/question-readiness-summary.json",
+      "bytes": 1143,
+      "sha256": "811d92cd6fe3dfdf871d22a53cd92e91e07ead1d41dd64f36d8c069460fcc764",
+      "role": "probe-evidence"
+    },
+    {
+      "path": "maintenance/research/content-tensor-20260921/question-readiness.json",
+      "bytes": 7084822,
+      "sha256": "813ac009f6e0f15f90632a8293235f61b34dd3b54c7001fafc709da91b1c4e52",
+      "role": "probe-evidence"
+    },
+    {
+      "path": "maintenance/research/content-tensor-20260921/semantic-review-sample.json",
+      "bytes": 5605,
+      "sha256": "2874cac0ffc43561c5d6a15a784942772016509ed7fecb321fc71a9c79e10631",
+      "role": "probe-evidence"
+    },
+    {
+      "path": "maintenance/research/content-tensor-20260921/validation.json",
+      "bytes": 1012,
+      "sha256": "6683711b34e3532bc59403f8f018002d55b22979c594b7dfca492bd02e0fefe6",
+      "role": "probe-evidence"
+    },
+    {
+      "path": "maintenance/research/content-tensor-20260921/内容关系全局.png",
+      "bytes": 730170,
+      "sha256": "e53a4b646a97a4cdc3feed080324496b0418d216c70c86aa25f370dd83f3cc66",
+      "role": "probe-evidence"
+    },
+    {
+      "path": "maintenance/research/content-tensor-20260921/内容关系邻域.png",
+      "bytes": 600694,
+      "sha256": "91d99c1d005e2c3795e1fac0ac63ce03a46dcf21fc79d93812d875342fbfc8a3",
+      "role": "probe-evidence"
+    },
+    {
+      "path": "maintenance/research/content-tensor-20260921/内容分级张量图.html",
+      "bytes": 21228821,
+      "sha256": "9212fea7ae317ae5eebdbfd96a61d89aab4cc3d7031ef142e34b8ea75eac3c59",
+      "role": "probe-evidence"
+    },
+    {
+      "path": "maintenance/research/tensor-tree-20260921/graph.json",
+      "bytes": 1980320,
+      "sha256": "250eb7818fd2eb6e392a3f3e03f9093e23c7fa20725c8c1385d6e2b497208642",
+      "role": "probe-evidence"
+    },
+    {
+      "path": "maintenance/research/tensor-tree-20260921/validation.json",
+      "bytes": 599,
+      "sha256": "4ee6dfbdd7801cde0b9a682b470f7160c6ac1a3cf683bbcb5248a9e8c1732018",
+      "role": "probe-evidence"
+    },
+    {
+      "path": "maintenance/research/tensor-tree-20260921/分级张量立体树.html",
+      "bytes": 1992269,
+      "sha256": "7df55f0016a0b10f082f6f63a5c14f176d441bfa88c027e351132cade1d03466",
+      "role": "probe-evidence"
+    },
+    {
+      "path": "maintenance/research/audit_question_readiness_20260921.py",
+      "bytes": 3977,
+      "sha256": "8d9ca79dfd5990f5a348d49b24ccd6c29885bf3d708063a2043440d717e8906a",
+      "role": "audit-or-probe-tool"
+    },
+    {
       "path": "maintenance/research/audit_vocabulary_deep_20260919.py",
       "bytes": 31178,
       "sha256": "863206f4aadae545b828f5a78fb0ba72366596167cdf08053ecde406738b2c77",
+      "role": "audit-or-probe-tool"
+    },
+    {
+      "path": "maintenance/research/build_content_tensor_20260921.py",
+      "bytes": 13868,
+      "sha256": "25d90da1caa9116afe3a7a88d32a5dd2082a14bdd641967ddb47fcdaae63f9e0",
       "role": "audit-or-probe-tool"
     },
     {
@@ -5337,9 +7515,21 @@
       "role": "audit-or-probe-tool"
     },
     {
+      "path": "maintenance/research/build_tensor_tree_20260921.py",
+      "bytes": 9809,
+      "sha256": "b92206db1fd99e7a2b644cfc772f8d4d03a0aeea3ad4066eb110e1eb0d679bee",
+      "role": "audit-or-probe-tool"
+    },
+    {
       "path": "maintenance/research/complete_local_learning_review.py",
       "bytes": 11872,
       "sha256": "9405faf8f89f04788a4b14823b6df7a682105e7b1e6e1295f8b8e42df64ffaa2",
+      "role": "audit-or-probe-tool"
+    },
+    {
+      "path": "maintenance/research/content_graph_contracts.py",
+      "bytes": 8189,
+      "sha256": "fa1f8b7d38c15f3368df2b99cab39480cb6f9216944d2466a9f9972adaa98e2a",
       "role": "audit-or-probe-tool"
     },
     {
@@ -5362,8 +7552,8 @@
     },
     {
       "path": "maintenance/research/github-pages-migration-status.json",
-      "bytes": 5543,
-      "sha256": "49f31a80c97ddf123c020416554a0ecc03702f5f29b0647f153238f8547c5ac5",
+      "bytes": 2730,
+      "sha256": "ba6b14e24403c812e3a750de02b9046221253a9a09ed3d0f00f4047eebba62b7",
       "role": "audit-or-probe-tool"
     },
     {
@@ -5422,8 +7612,14 @@
     },
     {
       "path": "maintenance/research/package_source_snapshot_20260921.py",
-      "bytes": 4283,
-      "sha256": "7105bba6b25125e3efb7d0e869e975c88ce1318783e508e0b19405d1fd0d6675",
+      "bytes": 5992,
+      "sha256": "89df452128ffd30083172371b1dc274fd596b23199eea931e0548f5ec657d601",
+      "role": "audit-or-probe-tool"
+    },
+    {
+      "path": "maintenance/research/prepare_architecture_checks_20260921.py",
+      "bytes": 5571,
+      "sha256": "85a7dab51cca487c64517c28fa9e577c6de1d300b2a6446dca51ceb87760554b",
       "role": "audit-or-probe-tool"
     },
     {
@@ -5499,6 +7695,12 @@
       "role": "audit-or-probe-tool"
     },
     {
+      "path": "maintenance/research/qa_tensor_graph_20260921.cjs",
+      "bytes": 1831,
+      "sha256": "be2775df172adfc6abd200b92605023d4487c431e95d0d7713c8730b33d3fd03",
+      "role": "audit-or-probe-tool"
+    },
+    {
       "path": "maintenance/research/recheck_current_architecture.py",
       "bytes": 16064,
       "sha256": "7757c387fdb9efe60a814bdde22c4047411db754990d738b829ecdfd5c8223a7",
@@ -5508,6 +7710,18 @@
       "path": "maintenance/research/recheck_direction_20260920.py",
       "bytes": 4603,
       "sha256": "c281984470a416adaa5812b9ca353d0984a36c1896d612bc68617f3795c65d36",
+      "role": "audit-or-probe-tool"
+    },
+    {
+      "path": "maintenance/research/record_architecture_delivery_20260921.py",
+      "bytes": 4483,
+      "sha256": "b0b85b29cbb3df0969662ea4c17f58086d12f50043233ba89039e351eba10088",
+      "role": "audit-or-probe-tool"
+    },
+    {
+      "path": "maintenance/research/recover_architecture_probes.py",
+      "bytes": 1978,
+      "sha256": "2a363d736d0e52dca725d344aa41af722b8ee99ae2237d8ca1a6ddf71dd04f3d",
       "role": "audit-or-probe-tool"
     },
     {
@@ -5526,6 +7740,12 @@
       "path": "maintenance/research/ui-structure-probe-20260921.md",
       "bytes": 13413,
       "sha256": "038844702d91e293bf7860dafffea8219bd2034501283c7a1113b1f35a04d40b",
+      "role": "audit-or-probe-tool"
+    },
+    {
+      "path": "maintenance/research/validate_content_quality_20260921.py",
+      "bytes": 7891,
+      "sha256": "af5b5d72b93ab36cfc284b164f5ec61c905166343fb01a3b9bf93294d36ea0c9",
       "role": "audit-or-probe-tool"
     },
     {
@@ -5569,6 +7789,72 @@
       "bytes": 7951,
       "sha256": "afa8b47627a24b5cfe4b6fc351d12743b655d89d95a4ced60b37b73e2d8ce64a",
       "role": "audit-or-probe-tool"
+    },
+    {
+      "path": "maintenance/research/tensor_tree_viewer.html",
+      "bytes": 12697,
+      "sha256": "b9a1ef0f563d2bd900c1029995c830170757136310270155f6367e1ab890bd81",
+      "role": "architecture-review-and-delivery"
+    },
+    {
+      "path": "maintenance/research/kimi-content-quality-task-20260921.json",
+      "bytes": 410,
+      "sha256": "efd2cabbc6f5daba11d6444ebd24dc22c23048a8d56697506bdc2441cc837f03",
+      "role": "architecture-review-and-delivery"
+    },
+    {
+      "path": "maintenance/research/kimi-content-quality-architecture-review-20260921.md",
+      "bytes": 8684,
+      "sha256": "cc3e9f2e12f4f1380e7bc7f98e891666226c9d19b600888f7caadae1eeebdc9a",
+      "role": "architecture-review-and-delivery"
+    },
+    {
+      "path": "maintenance/research/kimi-review-resolution-20260921.md",
+      "bytes": 2456,
+      "sha256": "80d5e86f81cd9b843deab6213628f4d4d4c6faea47af861fee26617fb6143602",
+      "role": "architecture-review-and-delivery"
+    },
+    {
+      "path": "maintenance/research/architecture-content-delivery-20260921.md",
+      "bytes": 4068,
+      "sha256": "130dfed5b643b4a6ad17dc736757554a4d07e25dacef416ac7e06a86045f715a",
+      "role": "architecture-review-and-delivery"
+    },
+    {
+      "path": "maintenance/research/product-entry-decisions-20260922.md",
+      "bytes": 1672,
+      "sha256": "fd6ab7f935a40313fdc8986c2e47023e8f1fef01ffbddc131f2989c8fdc9bbaa",
+      "role": "product-review-and-delivery"
+    },
+    {
+      "path": "maintenance/research/product-entry-design-kimi-20260922.md",
+      "bytes": 25308,
+      "sha256": "e9de6f4ee8af85d55f8fa6cf3352996c3ad3682af91d7f3868db7db7b34810fb",
+      "role": "product-review-and-delivery"
+    },
+    {
+      "path": "maintenance/research/product-entry-user-evidence-20260922.md",
+      "bytes": 2151,
+      "sha256": "20db7f01ac8062df1cbc222c1e5e82eb8438ae5cfe1da889f54e26a6623089fd",
+      "role": "product-review-and-delivery"
+    },
+    {
+      "path": "maintenance/research/product-entry-visual-review-kimi-20260922.md",
+      "bytes": 3507,
+      "sha256": "0a1cb115ec5881b66be74b3506bee8beb77be23412f02e1483e2aedae336a970",
+      "role": "product-review-and-delivery"
+    },
+    {
+      "path": "maintenance/research/product-pm-kimi-20260922.md",
+      "bytes": 17118,
+      "sha256": "d169854244376b67531c9a681ec4f4f017057ad5e9fa8002e45c1350d53bc425",
+      "role": "product-review-and-delivery"
+    },
+    {
+      "path": "maintenance/research/product-redesign-delivery-20260922.md",
+      "bytes": 3764,
+      "sha256": "b77d74acbd5d5fcde084b51333cb4d6814f235b94256e7e4dc5a450ae8addbc0",
+      "role": "product-review-and-delivery"
     },
     {
       "path": "drafts/lookup-controller.js",

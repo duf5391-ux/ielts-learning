@@ -1,0 +1,13 @@
+{
+  "pass": true,
+  "errors": [],
+  "nodes": 8286,
+  "checks": [
+    "graph parsed",
+    "search selects source",
+    "one-hop neighborhood",
+    "3D rotation",
+    "reset"
+  ],
+  "checkedAt": "2026-09-21T14:13:44.306Z"
+}

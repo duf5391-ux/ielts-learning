@@ -1,0 +1,44 @@
+{
+  "deployment": {
+    "conclusion": "success",
+    "databaseId": 35670336528,
+    "headSha": "c84dab611f943c9e24b9a595321462392c96ef4a",
+    "status": "completed",
+    "updatedAt": "2026-09-22T00:04:23Z",
+    "url": "https://github.com/duf5391-ux/ielts-learning/actions/runs/35670336528"
+  },
+  "source_html_sha256": "e2b9e12e58c8f03de4b43b8ec6bdb1b81a15130ddceb6b80ea5fff6a3d742075",
+  "checks": [
+    {
+      "name": "homepage",
+      "status": 200,
+      "sha256": "0bab2fa197699cb83087528a3769e4be81035420b70933eedcf56b1707a95336",
+      "bytes": 159012
+    },
+    {
+      "name": "progressive_manifest",
+      "status": 200,
+      "sha256": "6ef1b8fc7dabd81b5f2a0335d0d4b1d1c185964ea555db03d6109fbdfb0714df",
+      "bytes": 9706
+    },
+    {
+      "name": "official_audio",
+      "status": 206,
+      "content_type": "audio/mp3",
+      "content_range": "bytes 0-1023/24925666",
+      "prefix": "ID3",
+      "scope": "First 1024 bytes; not full playback"
+    },
+    {
+      "name": "jijing_audio",
+      "status": 206,
+      "content_type": "audio/mp3",
+      "content_range": "bytes 0-1023/17713258",
+      "prefix": "ID3",
+      "scope": "First 1024 bytes; not full playback"
+    }
+  ],
+  "network_scope": "Local HTTP requests using the existing process proxy; mainland direct access measured separately.",
+  "pass": true,
+  "checked_at": "2026-09-22T00:06:22.418063+00:00"
+}

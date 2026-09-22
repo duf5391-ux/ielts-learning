@@ -1,0 +1,14 @@
+{
+  "pass": true,
+  "url": "https://duf5391-ux.github.io/ielts-learning/",
+  "sourceSha256": "e2b9e12e58c8f03de4b43b8ec6bdb1b81a15130ddceb6b80ea5fff6a3d742075",
+  "liveSha256": "0bab2fa197699cb83087528a3769e4be81035420b70933eedcf56b1707a95336",
+  "at": "2026-09-22T00:06:31.836Z",
+  "checks": [
+    "Live fingerprint matches latest successful publication; all saved fields assembled",
+    "1440px: words/review/sentences visible and one click away",
+    "390px: words/review/sentences visible and one click away",
+    "Direct self-assessment and separate review work, share one history and survive reload"
+  ],
+  "errors": []
+}

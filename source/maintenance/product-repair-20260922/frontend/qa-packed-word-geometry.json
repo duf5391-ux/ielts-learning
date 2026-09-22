@@ -1,0 +1,28 @@
+{
+  "homepage_sha256": "0bab2fa197699cb83087528a3769e4be81035420b70933eedcf56b1707a95336",
+  "search": {
+    "x": 18,
+    "y": 295.375,
+    "width": 354,
+    "height": 44.09375
+  },
+  "title": {
+    "x": 37,
+    "y": 623.15625,
+    "width": 316,
+    "height": 31.046875
+  },
+  "favorite": {
+    "x": 295,
+    "y": 563.15625,
+    "width": 58,
+    "height": 44
+  },
+  "nav": {
+    "x": 0,
+    "y": 790,
+    "width": 390,
+    "height": 54
+  },
+  "pass": true
+}

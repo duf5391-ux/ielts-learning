@@ -1,0 +1,41 @@
+{
+  "contractChecks": {
+    "activityMappingEquality": true,
+    "entryRoutesAsserted": 10,
+    "eventCount": 0,
+    "recordRuntime": "legacy fields only; new attempt/exposure contracts NOT implemented",
+    "testEligible": 0
+  },
+  "sources": 1063,
+  "bySubject": {
+    "listening": 411,
+    "reading": 310,
+    "writing": 342
+  },
+  "confidence": {
+    "高": 411,
+    "低": 310,
+    "中": 342
+  },
+  "nodeTypes": {
+    "root": 1,
+    "entry": 11,
+    "source": 1063,
+    "fragment": 2199,
+    "activity": 5002,
+    "record": 5,
+    "exposure": 2,
+    "artifact": 3
+  },
+  "activitiesByState": {
+    "needs_validation": 679,
+    "needs_design": 2121,
+    "conditional": 679,
+    "blocked": 74,
+    "prepared": 1445,
+    "published": 4
+  },
+  "sourceHashMismatches": [],
+  "canonicalAnswers": "原索引标准答案字段0；不从参考置信度推断答案正确",
+  "speaking": "本批未取得口语材料；政策高置信已定义，没有凭空增加口语题"
+}

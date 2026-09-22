@@ -1,0 +1,246 @@
+{
+  "schemaVersion": "jiufen-clean-luna-reading-v1",
+  "packageId": "cleaned-luna-20260921",
+  "title": "九分机经阅读低置信纯精读小批",
+  "createdAt": "2026-09-21",
+  "sourceIndex": "downloads/jiufen-jijing-20260921/reading-slices-index.json",
+  "usePolicy": "阅读机经参考置信度低；本包用于话题、词块、长句、指代与篇章内容精读，不用于统计命中率、自动判分或伪造标准答案。",
+  "unitCount": 3,
+  "units": [
+    {
+      "id": "jiufen-close-2017137445982277634-v1",
+      "sourceId": "2017137445982277634",
+      "sourceTitle": "The Voynich Manuscript",
+      "sourceLocalPath": "downloads/jiufen-jijing-20260921/materials/2017137445982277634.html",
+      "sourceSha256": "b21259c85b1b6adf6654979e9d8e72de9e66de7de0f544083836600a064940b2",
+      "sourceTextLocalPath": "downloads/jiufen-jijing-20260921/text/2017137445982277634.md",
+      "sourceTextSha256": "15f9ee54d7a953ad7d9e2f09770d42e4fbc0adc88a9c22e75f9b58136f27e239",
+      "sourceSlicePath": "downloads/jiufen-jijing-20260921/reading-slices/2017137445982277634.html",
+      "sourceSliceSha256": "f112fe6f20ee1ba0f0a32a51c2dd8746bc3c2d6c01322dec6a587eb4774d3bdc",
+      "paragraphRange": [
+        4,
+        4
+      ],
+      "paragraphLabel": "C",
+      "fragmentId": "jiufen-reading-2017137445982277634-p4-4-v1",
+      "originalParagraphs": [
+        "(C) The Voynich manuscript has continued to defy the efforts of world-class experts. In 1944, a team was assembled to tackle the mystery, led by William Friedman, the renowned American code breaker. They began with the most basic code-breaking task: analysing the relative frequencies of the characters making up the text, looking for signs of an underlying structure. Yet Friedman's team soon found themselves in deep water. The precise size of the “alphabet” of the Voynich manuscript was unclear: it is possible to make out more than 70 distinct symbols among the 170,000-character text. Furthermore, Friedman discovered that some words and phrases appeared more often than expected in a standard language, casting doubt on claims that the manuscript concealed a real language, as encryption typically reduces word frequencies. Friedman concluded that the most plausible resolution of this paradox was that “Voynichese” is some sort of specially created artificial language, whose words are devised from concepts rather than linguistics. So could the Voynich manuscript be the earliest-known example of an artificial language? “Friedman's hypothesis commands respect because of the lifetime of cryptanalytic expertise he brought to bear,” says Rob Churchill, co-author of The Voynich Manuscript. That still leaves a host of questions unanswered, however, such as the identity of the author and the meaning of the bizarre drawings. “It does little to advance our understanding of the manuscript as a whole,” says Churchill."
+      ],
+      "precedingContext": "(B) It is certainly strange: page after page of drawings of weird plants, astrological symbolism and human figures, accompanied by a script that looks like some form of shorthand. What does it say — and what are the drawings about? Voynich himself believed that the manuscript was the work of the 13th-century English monk Roger Bacon, famed for his knowledge of alchemy, philosophy and science. In 1921 Voynich's view that Bacon was the writer appeared to win support from the work of William Newbold, Professor of Philosophy at the University of Pennsylvania, who claimed to have found the key to the cipher system used by Bacon. According to Newbold, the manuscript proved that Bacon had access to a microscope centuries before they were supposedly first invented. The claim that this medieval monk had observed living cells created a sensation. It soon became clear, however, that Newbold had fallen victim to wishful thinking. Other scholars showed that his “decoding” methods produced a host of possible interpretations.",
+      "followingContext": "(D) Even though Friedman was working more than 60 years ago, he suspected that major insights would come from using the device that had already transformed code-breaking: the computer. In this he was right — it is now the key tool for uncovering clues about the manuscript's language. The insights so far have been perplexing. For example, in 2001 another leading Voynich scholar, Dr Gabriel Landini of Birmingham University in the UK, published the results of his study of the manuscript using a pattern-detecting method called spectral analysis. This revealed evidence that the manuscript contains genuine words, rather than random nonsense, consistent with the existence of some underlying natural language. Yet the following year, Voynich expert René Zandbergen of the European Space Agency in Darmstadt, Germany, showed that the entropy of the text (a measure of the rate of transfer of information) was consistent with Friedman's suspicions that an artificial language had been used.",
+      "title": "The Voynich Manuscript：统计线索与人工语言假说",
+      "topic": "语言与传播",
+      "confidence": "low",
+      "confidenceBasis": "用户指定的阅读机经参考策略；非实测命中率",
+      "difficulty": {
+        "level": 4,
+        "reason": "段落同时处理字符频率、符号数量、加密与语言类型等抽象概念，并把 Friedman 的推断与仍未解决的问题并置。",
+        "assessor": "Luna初评，主任务复核",
+        "version": 1,
+        "status": "已编辑评估"
+      },
+      "explanation": "本段先交代 Friedman 团队怎样从字符的相对频率入手寻找文本结构，再说明符号数量和词语频率使他们难以把文本直接当作普通语言。文中把“Voynichese”作为 Friedman 认为最有可能的解释：一种由概念而非普通语言学规则构成的人工语言；这只是文中转述的假说。结尾明确保留作者身份和图画含义等未解问题，不能把人工语言判断写成手稿已经被破译或已证实的结论。",
+      "vocabulary": [
+        {
+          "term": "relative frequencies",
+          "quote": "analysing the relative frequencies of the characters",
+          "meaning": "相对频率；比较不同字符出现的频率",
+          "usage": "这里指 Friedman 团队用来寻找文本潜在结构的分析入口；不要把它理解成已经得到唯一译文。"
+        },
+        {
+          "term": "underlying structure",
+          "quote": "looking for signs of an underlying structure",
+          "meaning": "潜在结构；隐藏在表面形式下的组织规律",
+          "usage": "underlying 修饰 structure，常用于说明数据或文本背后的规律；本段把它作为研究目标。"
+        },
+        {
+          "term": "cast doubt on",
+          "quote": "casting doubt on claims that the manuscript concealed a real language",
+          "meaning": "使……受到怀疑",
+          "usage": "cast doubt on 后接被质疑的说法；本段说词语频率的观察让“真实语言”这一说法变得不确定。"
+        },
+        {
+          "term": "devised from concepts",
+          "quote": "whose words are devised from concepts rather than linguistics",
+          "meaning": "从概念构造出来，而不是依据普通语言学",
+          "usage": "devised from 表示设计来源；rather than 连接两种构造依据，属于文中对 Friedman 假说的概括。"
+        }
+      ],
+      "sentences": [
+        {
+          "quote": "The precise size of the “alphabet” of the Voynich manuscript was unclear: it is possible to make out more than 70 distinct symbols among the 170,000-character text.",
+          "meaning": "伏尼契手稿“字母表”的确切规模并不清楚：在这篇十七万字符的文本中，可以辨认出七十多个不同符号。",
+          "structure": "主句说明规模不确定，冒号后用 it is possible to make out 具体说明可观察到的现象；170,000-character 是复合形容词修饰 text；数量和观察都应归于文中研究描述。"
+        },
+        {
+          "quote": "Friedman concluded that the most plausible resolution of this paradox was that “Voynichese” is some sort of specially created artificial language, whose words are devised from concepts rather than linguistics.",
+          "meaning": "Friedman 得出的结论是，对这一矛盾最可能的解释是：“Voynichese”属于某种特意创造的人工语言，其词语来自概念而不是普通语言学。",
+          "structure": "concluded 后的第一个 that 从句作宾语；在这个从句里，the most plausible resolution of this paradox 是主语，was 是系动词，第二个 that 从句作表语，说明具体解释。whose 引导非限制性定语从句，回指 artificial language。"
+        }
+      ],
+      "sourceLimitations": [
+        "该材料来自本批阅读机经归档，confidence=low 仅表示用户指定的资料使用策略，不是实测命中率。",
+        "本单元只保留一个原文段及其相邻上下文；原题、来源解析和标准答案不进入精读内容，也不据此建立自动判分。",
+        "解释按文章内部措辞归属作者、研究者或文中引述者；段落中的历史、考古或技术说法未在本批次独立验证，不应当作无条件的科学定论。",
+        "本段相邻段落还呈现自然语言与人工语言两种解释；精读应保留这种争议，不把其中一种推断升级为事实。"
+      ]
+    },
+    {
+      "id": "jiufen-close-2017137445957111811-v1",
+      "sourceId": "2017137445957111811",
+      "sourceTitle": "Insect-inspired robots",
+      "sourceLocalPath": "downloads/jiufen-jijing-20260921/materials/2017137445957111811.html",
+      "sourceSha256": "3b6f5ec6ebfdde40798f1d2816518cf630ee0c288b5e2304f8e097209790ee2e",
+      "sourceTextLocalPath": "downloads/jiufen-jijing-20260921/text/2017137445957111811.md",
+      "sourceTextSha256": "84b5e22009d392ab1616dfdb51bed9aa7d9381e24b0834b263ac30819b78216a",
+      "sourceSlicePath": "downloads/jiufen-jijing-20260921/reading-slices/2017137445957111811.html",
+      "sourceSliceSha256": "3587e6528ce7c3c48402f780c50ced71e08c9502b338c9664e68d6a369ce1001",
+      "paragraphRange": [
+        5,
+        5
+      ],
+      "paragraphLabel": "C",
+      "fragmentId": "jiufen-reading-2017137445957111811-p5-5-v1",
+      "originalParagraphs": [
+        "C For three decades, Professor Ruediger Wehner has journeyed from Switzerland to the Sahara Desert where Cataglyphis, a tiny ant with a brain weighing just 0.1 mg, performs acts of navigational genius when it leaves its nest, forages for food and returns successfully. Cataglyphis uses polarised light, caused when air molecules scatter light, to orient and steer itself. Wehner’s team found that the ant has a set of specialised photoreceptors along the upper rim of its eyes that detect polarised light, while other receptors perform different navigational tasks. As the sun moves, the ant notes its direction each time it leaves the nest and updates its internal compass. Using other eye receptors it stores a snapshot image of landmarks close to the nest entrance in its eyes and compares this with what it sees as it returns. The ant also has a way of measuring distance travelled, while a path integrator periodically informs the ant of its current position relative to its point of departure. Rather than integrate all the information it receives in its brain, the ant actually performs a number of complex calculations in different organs. Like a super-computer, the ant has many separate sub-routines going on simultaneously. Using the ant’s ability to steer by polarised light and to store and reuse landscape images, Wehner and colleagues have built “Sahabot,” a small vehicle that uses polarisers and a CCD camera to store 360° images of its surroundings. It navigates by using polarised sunlight and comparing the current images of landmarks to the ones in its memory."
+      ],
+      "precedingContext": "B Dr Alex Zelinsky suggested that the method by which wasps use landmarks to find their way back to the nest may one day be part of a system for navigating cars that know where to go. A research team led by Dr Zelinsky has shown that a robot can navigate its way among 50 different landmarks by recognising them individually using a panoramic camera. “The inspiration came from biology, where wasps use a practical method turn back and look to orient themselves as they emerge from their nest. By flying to and fro, they look at the wasp nest from different angles and perspectives so they can recognise it again,” he explained. The robot’s panoramic camera logs the surrounding area and its key landmarks, which are then stored in its computer according to how reliable they are as navigational aids. The landmarks are then scaled, from small to large, so that the robot can recognise whether it is getting closer to or further away from them. Their location is built into a map in its mind, which operates at different scales and instructs the robot whether to turn left or right at a particular mark. The technology provides a general way for a machine to navigate an unknown landscape.",
+      "followingContext": "D Professor Robert Michelson had a different desert challenge – to design a flying robot that can not only navigate but also stay aloft and hover in the thin atmosphere of Mars. Drawing inspiration from insect flight, he has gone beyond nature to devise a completely new concept for a flying machine. The “Entomopter” is a sort of double-ended dragonfly whose wings beat reciprocally. Michelson says that the flapping-wing design gives the craft unusually high lift compared with a fixed-wing flyer, enabling it to fly slowly or hover in the thin Martian air – whereas a fixed-wing craft would have to move at more than 400 km/h and could not stop to explore.",
+      "title": "Insect-inspired robots：蚂蚁导航与仿生车辆",
+      "topic": "科技与工程",
+      "confidence": "low",
+      "confidenceBasis": "用户指定的阅读机经参考策略；非实测命中率",
+      "difficulty": {
+        "level": 4,
+        "reason": "段落信息密度高，连续解释偏振光、眼部感受器、内部罗盘、路径积分与图像比较，再转到 Sahabot 原型。",
+        "assessor": "Luna初评，主任务复核",
+        "version": 1,
+        "status": "已编辑评估"
+      },
+      "explanation": "本段围绕 Cataglyphis 沙漠蚂蚁的导航展开：文中称蚂蚁用偏振光定向、记录太阳方向、比较巢穴附近地标，并以路径积分估算相对出发点的位置。作者还强调，部分计算在不同器官中并行完成；随后把这些能力与 Wehner 团队制作的 Sahabot 联系起来，说明车辆用偏振器和 CCD 摄像机保存环境图像。这里是文章对研究和仿生原型的叙述，不等于已证明所有昆虫都以同样机制工作，也不等于原型已经成为可用产品。",
+      "vocabulary": [
+        {
+          "term": "polarised light",
+          "quote": "Cataglyphis uses polarised light, caused when air molecules scatter light, to orient and steer itself.",
+          "meaning": "偏振光",
+          "usage": "caused when air molecules scatter light 是补充说明偏振光成因的分词短语；to orient and steer itself 说明文中蚂蚁利用这种光的目的。"
+        },
+        {
+          "term": "relative to",
+          "quote": "a path integrator periodically informs the ant of its current position relative to its point of departure",
+          "meaning": "相对于；以某个参照点比较位置",
+          "usage": "relative to 后接参照对象；point of departure 在这里是出发点，不是抽象的“出发观点”。"
+        },
+        {
+          "term": "sub-routines",
+          "quote": "the ant has many separate sub-routines going on simultaneously",
+          "meaning": "同时运行的分支程序或子过程",
+          "usage": "going on simultaneously 表示并行发生；作者用计算机作比喻来解释多个器官的协同处理。"
+        },
+        {
+          "term": "store and reuse",
+          "quote": "the ant’s ability to steer by polarised light and to store and reuse landscape images",
+          "meaning": "保存并重新使用",
+          "usage": "store and reuse 并列两个动作，landscape images 指地标环境图像；本段随后把它连接到 Sahabot。"
+        }
+      ],
+      "sentences": [
+        {
+          "quote": "Rather than integrate all the information it receives in its brain, the ant actually performs a number of complex calculations in different organs.",
+          "meaning": "蚂蚁并不是把接收到的全部信息都在大脑中整合，而是在不同器官中实际完成若干复杂计算。",
+          "structure": "Rather than + 动词原形构成对照；主句用 actually 强调文章所述机制，performs 后接 a number of calculations，in different organs 说明地点。"
+        },
+        {
+          "quote": "It navigates by using polarised sunlight and comparing the current images of landmarks to the ones in its memory.",
+          "meaning": "它通过利用偏振阳光，并把当前看到的地标图像与记忆中的图像比较来导航。",
+          "structure": "by using... and comparing... 是方式状语中的并列动名词；the ones 代替前面的 images，避免重复，to 表示比较对象。"
+        }
+      ],
+      "sourceLimitations": [
+        "该材料来自本批阅读机经归档，confidence=low 仅表示用户指定的资料使用策略，不是实测命中率。",
+        "本单元只保留一个原文段及其相邻上下文；原题、来源解析和标准答案不进入精读内容，也不据此建立自动判分。",
+        "解释按文章内部措辞归属作者、研究者或文中引述者；段落中的历史、考古或技术说法未在本批次独立验证，不应当作无条件的科学定论。",
+        "该段使用“导航天才”“像超级计算机”等作者性比喻；精读解释保留其说明作用，不把比喻当作测量结论。"
+      ]
+    },
+    {
+      "id": "jiufen-close-2017137445986471939-v1",
+      "sourceId": "2017137445986471939",
+      "sourceTitle": "Neanderthal Technology",
+      "sourceLocalPath": "downloads/jiufen-jijing-20260921/materials/2017137445986471939.html",
+      "sourceSha256": "276f8c2f546b64962c39c547d1618aa91804af3c6feadbcbc536163414a40997",
+      "sourceTextLocalPath": "downloads/jiufen-jijing-20260921/text/2017137445986471939.md",
+      "sourceTextSha256": "690e40446cb0eaa4f9fd46532deeeb97e12d9b916bdb44e3740aa9d3ee7801ab",
+      "sourceSlicePath": "downloads/jiufen-jijing-20260921/reading-slices/2017137445986471939.html",
+      "sourceSliceSha256": "73615b2de7074a5f6a720e4978089d125f8315d24697f935d1f893494987d8b7",
+      "paragraphRange": [
+        5,
+        5
+      ],
+      "paragraphLabel": "D",
+      "fragmentId": "jiufen-reading-2017137445986471939-p5-5-v1",
+      "originalParagraphs": [
+        "D From the West European caves more evidence of built structures is available, and some of it goes back a long way in time. In the Grotte du Lazaret, near Nice, at a date during the last ice age but one, claims for some sort of skin tent within the cave have been advanced, on the basis of arrangements of large stones out from the cave wall that might have supported timber struts for a covering of skins up to the rock face above. At Lazaret, what might be openings in the hypothesised tents seem to point away from the cave mouth, and finds of wolf and fox foot bones, without the rest of the skeletons, inside these 'tents' have been thought to indicate the use of animal pelts as bed coverings. The two patches of ash at Lazaret that mark ancient fires, with stone tools around them evidently made and used on the spot, are edged with small marine mollusc shells, prompting the excavator to suggest that seaweed had been used as bedding around the fires. The cave of Baume-Bonne in the Basses-Alpes region of France, another early site, boasts ten square metres of cobbles brought up from the local river and laid down, as though to take care of a puddle area in the cave, with the smoothest and roundest surfaces of the stones uppermost, and there are other similar cases."
+      ],
+      "precedingContext": "C In Central and Eastern Europe, where caves are less readily available, such open-air sites as have been discovered were mostly located near water: bottom-land was a good area to be for people and animals, and also because the sedimentation pattern of lakes and stream courses has aided archaeological preservation – whereas erosion has presumably blown away sites which were out in the open. Some of the open-air sites in Germany, Central Europe and Russia have provided valuable information about Neanderthal man and his way of life. From Moldova, for example, comes evidence that has been interpreted as the remains of wind-breaks, or even a large tent-ring, up to about 8 x 5 m in size, of mainly mammoth bones enclosing a dense concentration of stone tools, animal bones and ash.",
+      "followingContext": "E The ash encountered in concentrations at some sites testifies to the Neanderthal people's use of fire: not surprising, since use of fire was, by Neanderthal times, an already ancient accomplishment of evolving humanity, and survival in the sub-arctic conditions faced by the Neanderthalers is inconceivable without control of fire. Fire gave warmth, light, heat for cooking and defence against predatory animals. A charred piece of birch from Krapina in Croatia is thought to be the remains of a fire-making twirl stick. But Neanderthal hearths, in the sense of specially constructed places for fire, are fewer and harder to identify with certainty than the mere ash piles that are a regular feature of their sites. They seem often to have just lit a small fire (40–50 cm across) on the existing ground surface of the cave, without preparation. Judging from the shallow penetration of heat effects under the ash, this fire was only of short duration. Sometimes the fires were larger in size, up to one metre across, and quite irregular in shape. It is not always easy to decide how much additional structure some fires possessed: claims of stone circles to contain the fire run up against the fact that stones tend to litter the cave floors everywhere and those around a fire can quite accidentally look as though they were arranged in a circle.",
+      "title": "Neanderthal Technology：洞穴结构与遗址证据",
+      "topic": "历史与文明",
+      "confidence": "low",
+      "confidenceBasis": "用户指定的阅读机经参考策略；非实测命中率",
+      "difficulty": {
+        "level": 4,
+        "reason": "段落把假设性帐篷结构、动物骨骼、灰烬、贝壳和铺石等多类证据串联起来，长句中多次区分推测、发现和解释。",
+        "assessor": "Luna初评，主任务复核",
+        "version": 1,
+        "status": "已编辑评估"
+      },
+      "explanation": "本段从西欧洞穴遗址的建筑证据开始，先说明 Grotte du Lazaret 中的石块排列被用来提出洞内皮帐篷的假设，再把帐篷开口方向和不完整的狼、狐脚骨联系到“可能用兽皮作铺盖”的解释。随后，作者描述灰烬、石器、海洋软体动物贝壳及 Baume-Bonne 铺石，并明确说海藻用途是发掘者提出的推测。段落的重点是考古材料如何被解释为居住结构和生活方式线索，而不是宣布这些解释已经毫无争议地证实。",
+      "vocabulary": [
+        {
+          "term": "built structures",
+          "quote": "From the West European caves more evidence of built structures is available",
+          "meaning": "建造的结构；人工搭建的遗迹",
+          "usage": "built 作过去分词作定语，structures 在此泛指洞穴中的人工构造证据。"
+        },
+        {
+          "term": "have been advanced",
+          "quote": "claims for some sort of skin tent within the cave have been advanced",
+          "meaning": "（某种主张）已被提出",
+          "usage": "被动结构突出主张的提出，而不是把皮帐篷存在写成已证事实；后面的 on the basis of 说明依据。"
+        },
+        {
+          "term": "animal pelts",
+          "quote": "the use of animal pelts as bed coverings",
+          "meaning": "动物皮毛；兽皮",
+          "usage": "pelts 指带毛的动物皮；as bed coverings 表示用途，文中用 have been thought to indicate 保留推测距离。"
+        },
+        {
+          "term": "prompting",
+          "quote": "prompting the excavator to suggest that seaweed had been used as bedding around the fires",
+          "meaning": "促使；引发某人提出解释",
+          "usage": "prompting 引出结果，suggest that 表示发掘者的解释；不能删掉 suggest 而改成确定事实。"
+        }
+      ],
+      "sentences": [
+        {
+          "quote": "At Lazaret, what might be openings in the hypothesised tents seem to point away from the cave mouth, and finds of wolf and fox foot bones, without the rest of the skeletons, inside these 'tents' have been thought to indicate the use of animal pelts as bed coverings.",
+          "meaning": "在 Lazaret，假设中的帐篷上那些可能是开口的部位，似乎朝着背离洞口的方向；这些“帐篷”内发现了狼和狐的脚骨，却没有其余骨骼，这被认为表明兽皮可能被用作铺盖。",
+          "structure": "what might be openings in the hypothesised tents 是主语从句；主句用 seem to 保留不确定性。and 连接第二个分句，have been thought to indicate 又把发现与解释分开，without the rest of the skeletons 是插入的补充信息。"
+        },
+        {
+          "quote": "The cave of Baume-Bonne in the Basses-Alpes region of France, another early site, boasts ten square metres of cobbles brought up from the local river and laid down, as though to take care of a puddle area in the cave, with the smoothest and roundest surfaces of the stones uppermost, and there are other similar cases.",
+          "meaning": "法国 Basses-Alpes 地区的 Baume-Bonne 洞穴也是早期遗址之一，那里有十平方米从当地河流搬来并铺设的鹅卵石，仿佛是为了处理洞内积水区域；石头最光滑、最圆的一面朝上，此外还有类似案例。",
+          "structure": "主语后用同位语 another early site 补充说明；brought up... and laid down 是过去分词短语修饰 cobbles。as though to... 表示推测用途，with...uppermost 描述铺石状态，末尾 and there are... 补充同类证据。"
+        }
+      ],
+      "sourceLimitations": [
+        "该材料来自本批阅读机经归档，confidence=low 仅表示用户指定的资料使用策略，不是实测命中率。",
+        "本单元只保留一个原文段及其相邻上下文；原题、来源解析和标准答案不进入精读内容，也不据此建立自动判分。",
+        "解释按文章内部措辞归属作者、研究者或文中引述者；段落中的历史、考古或技术说法未在本批次独立验证，不应当作无条件的科学定论。",
+        "段落中的皮帐篷、海藻铺垫和积水区用途都通过 claims、might、have been thought、suggest 或 as though 表达，后续教学必须保留这些证据等级。"
+      ]
+    }
+  ],
+  "reviewStatus": "主任务已读完3段、18处引用和解释，修正2处实质错误及1处词释表述；尚未发布"
+}

@@ -1,0 +1,20 @@
+{
+  "units": 3,
+  "quoteChecks": 18,
+  "sourceHashes": 3,
+  "corrections": [
+    {
+      "sourceId": "2017137445982277634",
+      "issue": "the most plausible resolution 是嵌套从句的主语，不能误称表语"
+    },
+    {
+      "sourceId": "2017137445986471939",
+      "issue": "point away from the cave mouth 表示背离洞口，原译朝向洞口之外方向错误"
+    },
+    {
+      "sourceId": "2017137445957111811",
+      "issue": "词释改为偏振光；用法去掉usage等维护字样"
+    }
+  ],
+  "published": false
+}

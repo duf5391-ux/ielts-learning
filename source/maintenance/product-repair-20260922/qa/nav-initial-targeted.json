@@ -1,0 +1,87 @@
+{
+  "checks": [
+    {
+      "name": "more stable visible actions",
+      "items": [
+        {
+          "text": "练习",
+          "rect": {
+            "x": 19,
+            "y": 113.296875,
+            "width": 205,
+            "height": 54,
+            "top": 113.296875,
+            "right": 224,
+            "bottom": 167.296875,
+            "left": 19
+          }
+        },
+        {
+          "text": "测试",
+          "rect": {
+            "x": 19,
+            "y": 176.296875,
+            "width": 205,
+            "height": 54,
+            "top": 176.296875,
+            "right": 224,
+            "bottom": 230.296875,
+            "left": 19
+          }
+        },
+        {
+          "text": "写作工作台",
+          "rect": {
+            "x": 19,
+            "y": 239.296875,
+            "width": 205,
+            "height": 54,
+            "top": 239.296875,
+            "right": 224,
+            "bottom": 293.296875,
+            "left": 19
+          }
+        },
+        {
+          "text": "工作台",
+          "rect": {
+            "x": 19,
+            "y": 302.296875,
+            "width": 205,
+            "height": 54,
+            "top": 302.296875,
+            "right": 224,
+            "bottom": 356.296875,
+            "left": 19
+          }
+        }
+      ]
+    },
+    {
+      "name": "JQ01 return filters preserved",
+      "query": "语言",
+      "topic": "机经 · 9月21日新增",
+      "rows": 1
+    },
+    {
+      "name": "location label word-review",
+      "label": "复习",
+      "title": "复习 · IELTS",
+      "owner": "word-review"
+    },
+    {
+      "name": "location label vocabulary-review",
+      "label": "我的单词表",
+      "title": "我的单词表 · IELTS",
+      "owner": "vocabulary-review"
+    },
+    {
+      "name": "location label sentence-learning",
+      "label": "我的句子本",
+      "title": "我的句子本 · IELTS",
+      "owner": "sentence-learning"
+    }
+  ],
+  "errors": [],
+  "pass": true
+}

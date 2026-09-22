@@ -1,0 +1,41 @@
+{
+  "version": 1,
+  "identity": ["sourceId", "sourceSha256", "fragmentId", "activityId", "contentVersion", "exposureFamily"],
+  "versionRules": {
+    "rawAndDerivedHashes": "Separate sourceVersion (raw SHA) from derivedSourceVersion (HTML/text SHA)",
+    "authoredActivity": "contentVersion is a fingerprint of the reviewed pedagogical payload; source hash cannot substitute",
+    "plannedActivity": "contentVersion=null with not-authored status; cannot publish or create attempts"
+  },
+  "recordContract": {
+    "runtimeStatus": "Existing saved fields remain implemented; new attempt and exposure contracts are not yet wired",
+    "attempt": ["attemptId", "activityId", "contentVersion", "startedAt", "scope", "responsesByQuestion", "feedbackOpenedAt"],
+    "materialExposure": ["eventId", "sourceId", "sourceVersion", "fragmentId", "kind", "at"],
+    "answerExposure": ["eventId", "activityId", "contentVersion", "sourceQuestionId", "kind", "at"],
+    "unknownHistory": "Do not fabricate historical exposure or treat no recorded events as unexposed",
+    "testGate": "Requires implemented attempt/exposure checks, explicit scope/time/answer basis; default false"
+  },
+  "confidence": {
+    "kind": "ordinal-user-reference-policy",
+    "bySubject": {"listening":"高", "speaking":"高", "writing":"中", "reading":"低"},
+    "predictionProbability": null,
+    "independentAnswerReliability": "separate-evidence-required"
+  },
+  "difficulty": {
+    "scale": [1,2,3,4,5],
+    "unknown": null,
+    "requiredWhenKnown": ["reason", "assessor", "version"],
+    "prohibitedInference": "Do not convert unreported-sample source accuracy or a subject default into a validated difficulty coefficient"
+  },
+  "activityRules": {
+    "topicResource": ["readable fragment", "surrounding context", "source identity"],
+    "study": ["specific explanation", "exact source quotations", "clear learning action"],
+    "practice": ["complete prompt", "required media", "saved response", "explicit feedback status"],
+    "test": ["validated task", "declared scope and conditions", "independent answer/rubric basis", "shared-material exposure check", "separate attempt identity"]
+  },
+  "publicationRules": [
+    "Only verified routes may be marked published",
+    "New material is not automatically a course or full test",
+    "Same-source uses may share content, never silently overwrite old answers",
+    "Difficulty, confidence and source appear at entries; technical cleaning details remain in maintenance files"
+  ]
+}

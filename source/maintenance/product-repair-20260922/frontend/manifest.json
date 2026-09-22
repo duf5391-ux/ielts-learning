@@ -1,0 +1,13 @@
+{
+  "baseline": "83346245cc01a3c48dcac31ce6c2b8a30744391cf6e4ae99f8db105103e6d166",
+  "candidate": "134285e35366e5a326a896be520e11195b4c96bcae825f1391ef042b89b81179",
+  "fields": 3403,
+  "scope": [
+    "02",
+    "03",
+    "14",
+    "15"
+  ],
+  "navigationChanged": false,
+  "recordingStorage": "IndexedDB, per-task append-only takes; JSON backup excludes audio"
+}

@@ -1,0 +1,410 @@
+{
+  "mobile": true,
+  "paths": [
+    {
+      "name": "单词复习",
+      "homeEntry": {
+        "text": "我的单词表\n收藏词语、直接标记、回忆复习 →",
+        "top": 2263.09375,
+        "viewportTop": 2263.09375,
+        "withinInitialViewport": false
+      },
+      "totalClicks": 1,
+      "finalRoute": "#vocabulary-review",
+      "finalTitle": "我的单词表"
+    },
+    {
+      "name": "最近精读",
+      "homeEntry": {
+        "text": "进入阅读 →",
+        "top": 1182.493896484375,
+        "viewportTop": 1182.493896484375,
+        "withinInitialViewport": false
+      },
+      "clicksToList": 1,
+      "cards": [
+        {
+          "id": "reading-tech-locate",
+          "title": "阅读起手：用真实噪声文章建立段落地图",
+          "top": 707.546875
+        },
+        {
+          "id": "reading-tech-judgement",
+          "title": "判断题：用真题区分反证、未知与观点归属",
+          "top": 1017.703125
+        },
+        {
+          "id": "reading-tech-headings",
+          "title": "标题匹配：Miles Davis原题中的主旨与干扰项",
+          "top": 1327.859375
+        },
+        {
+          "id": "reading-tech-matching",
+          "title": "信息与人物匹配：证据功能和说话人同时核对",
+          "top": 1638.015625
+        },
+        {
+          "id": "reading-tech-completion",
+          "title": "填空：真实表格、摘要中的字数和同义转换",
+          "top": 1948.171875
+        },
+        {
+          "id": "reading-tech-diagram",
+          "title": "图示标注：官方蜣螂隧道原图中的深度与形状",
+          "top": 2258.328125
+        },
+        {
+          "id": "reading-tech-choices-review",
+          "title": "选择题与复盘：用原段功能排除“只说对一半”",
+          "top": 2568.484375
+        },
+        {
+          "id": "reading-new-new-reading-urban-tfng",
+          "title": "收藏与公共展览：真题中的反证和信息缺口",
+          "top": 2878.640625
+        },
+        {
+          "id": "reading-new-new-reading-refill-summary",
+          "title": "考古器物与糖业：真实摘要的并列顺序和概括",
+          "top": 3188.796875
+        },
+        {
+          "id": "reading-new-new-reading-transport-information",
+          "title": "城市噪声与考古：原题中的措施、数据和限定",
+          "top": 3498.953125
+        },
+        {
+          "id": "reading-new-new-reading-ai-views",
+          "title": "人工智能：用真实作者观点题辨别宣传和判断",
+          "top": 3809.109375
+        },
+        {
+          "id": "learn-reading-headings-miles",
+          "title": "标题匹配：用整段意思判断 Miles Davis 的人生阶段",
+          "top": 4119.265625
+        },
+        {
+          "id": "learn-reading-choice-older-workers",
+          "title": "单选题：Older workers 中的条件、范围与替换表达",
+          "top": 4429.421875
+        },
+        {
+          "id": "reading-first",
+          "title": "阅读 · 从原题开始学",
+          "top": 4739.578125
+        },
+        {
+          "id": "topic-technology",
+          "title": "科技：工具带来什么，又需要什么条件",
+          "top": 5023.140625
+        },
+        {
+          "id": "jiufen-close-2017137445982277634-v1",
+          "title": "The Voynich Manuscript：统计线索与人工语言假说",
+          "top": 5333.296875
+        },
+        {
+          "id": "jiufen-close-2017137445957111811-v1",
+          "title": "Insect-inspired robots：蚂蚁导航与仿生车辆",
+          "top": 5685.25
+        },
+        {
+          "id": "jiufen-close-2017137445986471939-v1",
+          "title": "Neanderthal Technology：洞穴结构与遗址证据",
+          "top": 6037.203125
+        }
+      ],
+      "targetPosition": {
+        "text": "阅读 · 语言与传播\n\nThe Voynich Manuscript：统计线索与人工语言假说\n\n原文、相邻语境、内容理解、词块和长句关系。\n\n0% · 0 / 1 读过\n\n难度 4/5 · 参考置信度低 · 九分学长\n\n进入学习 →\n加入自选",
+        "top": 5333.296875,
+        "viewportTop": 3504.296875,
+        "withinInitialViewport": false
+      },
+      "index": 16,
+      "totalClicks": 2,
+      "finalRoute": "#jiufen-close-2017137445982277634-v1",
+      "finalTitle": "阅读学习"
+    },
+    {
+      "name": "新口语",
+      "homeEntry": {
+        "text": "进入口语 →",
+        "top": 1747.052978515625,
+        "viewportTop": 1747.052978515625,
+        "withinInitialViewport": false
+      },
+      "clicksToList": 1,
+      "cards": [
+        {
+          "id": "speaking-new-sep26-journeys",
+          "title": "旅游信息：一次具体使用经历",
+          "top": 789.640625
+        },
+        {
+          "id": "speaking-new-sep26-recycling",
+          "title": "园艺的未来：有条件地预测",
+          "top": 1073.203125
+        },
+        {
+          "id": "speaking-new-sep26-energy",
+          "title": "住宅与花园：解释实际好处",
+          "top": 1356.765625
+        },
+        {
+          "id": "speaking-new-sep26-shoes-shopping",
+          "title": "购物方式与不必要消费",
+          "top": 1640.328125
+        },
+        {
+          "id": "speaking-new-sep26-politeness",
+          "title": "诚实与儿童：比较观点",
+          "top": 1923.890625
+        },
+        {
+          "id": "speaking-new-sep26-fruit-vegetables",
+          "title": "公寓里种植：给可行方案",
+          "top": 2207.453125
+        },
+        {
+          "id": "speaking-new-sep26-advertising",
+          "title": "广告的准确性与购买决定",
+          "top": 2491.015625
+        },
+        {
+          "id": "speaking-new-sep26-paper",
+          "title": "面包与日常饮食",
+          "top": 2774.578125
+        },
+        {
+          "id": "speaking-new-sep26-school-skills",
+          "title": "理发：习惯与最近变化",
+          "top": 3058.140625
+        },
+        {
+          "id": "speaking-new-sep26-names-people",
+          "title": "有竞争心的人：具体事件支撑性格",
+          "top": 3341.703125
+        },
+        {
+          "id": "speaking-new-sep26-decisions-success",
+          "title": "花钱与储蓄：程度和原因",
+          "top": 3625.265625
+        },
+        {
+          "id": "speaking-new-sep26-organisation",
+          "title": "不真实的信息：发现问题与核对",
+          "top": 3908.828125
+        },
+        {
+          "id": "speaking-new-sep26-city-spaces",
+          "title": "城市生活：吸引力与不便",
+          "top": 4192.390625
+        },
+        {
+          "id": "speaking-new-sep26-creative-history",
+          "title": "公园：从空间细节讲清兴趣",
+          "top": 4475.953125
+        },
+        {
+          "id": "speaking-new-sep26-media",
+          "title": "景点：免费开放与失望原因",
+          "top": 4759.515625
+        },
+        {
+          "id": "speaking-new-sep26-friends-happiness",
+          "title": "竞争与参与：比较体育观点",
+          "top": 5043.078125
+        },
+        {
+          "id": "learn-speaking_part1_natural_answers",
+          "title": "真实回答：家乡的四次问答",
+          "top": 5326.640625
+        },
+        {
+          "id": "learn-speaking_part3_explain_compare",
+          "title": "真实讨论：地位象征与未来变化",
+          "top": 5610.203125
+        },
+        {
+          "id": "speaking-first",
+          "title": "口语 · 从原题开始学",
+          "top": 5893.765625
+        },
+        {
+          "id": "topic-work",
+          "title": "工作：收入、稳定性与生活安排",
+          "top": 6177.328125
+        },
+        {
+          "id": "topic-personal-home_neighbourhood",
+          "title": "居住经验：城市的吸引力与取舍",
+          "top": 6460.890625
+        },
+        {
+          "id": "topic-personal-relationships",
+          "title": "认识的人：竞争心如何体现",
+          "top": 6744.453125
+        },
+        {
+          "id": "topic-personal-daily_choices",
+          "title": "日常选择：付款与购买教训",
+          "top": 7028.015625
+        },
+        {
+          "id": "topic-personal-interests_skills",
+          "title": "兴趣与地方：观察公园细节",
+          "top": 7311.578125
+        },
+        {
+          "id": "topic-personal-experiences_changes",
+          "title": "经历与变化：核对一条信息",
+          "top": 7595.140625
+        },
+        {
+          "id": "topic-personal-places_weather",
+          "title": "旅行计划：信息怎样帮助行动",
+          "top": 7878.703125
+        }
+      ],
+      "targetPosition": {
+        "text": "口语 · 旅行与地方\n\n旅游信息：一次具体使用经历\n\n讲解与配套练习，可按需要选学。\n\n0% · 0 / 1 完成\n进入学习 →\n加入自选",
+        "top": 789.640625,
+        "viewportTop": -1077.359375,
+        "withinInitialViewport": false
+      },
+      "index": 1,
+      "totalClicks": 2,
+      "finalRoute": "#speaking-new-sep26-journeys",
+      "finalTitle": "口语学习"
+    },
+    {
+      "name": "写作工作台",
+      "homeEntry": {
+        "text": "写作工作台\n审题、首稿、检查与修订 →",
+        "top": 2506.73388671875,
+        "viewportTop": 2506.73388671875,
+        "withinInitialViewport": false
+      },
+      "totalClicks": 1,
+      "finalRoute": "#writing-workbench",
+      "finalTitle": "写作工作台"
+    },
+    {
+      "name": "写作练习新题",
+      "clicksToList": 4,
+      "cards": [
+        {
+          "id": "writing2-case-wc-c21-t1-homes",
+          "title": "高层住宅是否是城市住房的最佳方案",
+          "top": 707.546875
+        },
+        {
+          "id": "writing2-case-wc-c21-t2-entertainment",
+          "title": "线上娱乐与剧院影院的经济文化价值",
+          "top": 991.109375
+        },
+        {
+          "id": "writing2-case-wc-c21-t3-placement",
+          "title": "本科海外学习或实习：收益能否超过代价",
+          "top": 1274.671875
+        },
+        {
+          "id": "writing2-case-wc-c21-t4-primary",
+          "title": "小学正式学习与课堂游戏：两个问题分别回应",
+          "top": 1584.828125
+        },
+        {
+          "id": "writing2-case-wc-official-wealth",
+          "title": "家庭财富与成年问题应对：避免绝对化",
+          "top": 1894.984375
+        },
+        {
+          "id": "writing2-case-wc-official-tourism",
+          "title": "国际旅游：经济收益与社区成本如何比较",
+          "top": 2205.140625
+        },
+        {
+          "id": "writing2-case-wc-official-science",
+          "title": "科研由政府控制：公共利益与研究多样性",
+          "top": 2515.296875
+        },
+        {
+          "id": "writing2-case-wc-official-transport",
+          "title": "鼓励替代交通与国际限车规定",
+          "top": 2825.453125
+        },
+        {
+          "id": "writing2-case-wc-official-eldercare",
+          "title": "老年照护费用：政府与家庭如何分担",
+          "top": 3109.015625
+        },
+        {
+          "id": "writing2-case-wc-bc-graduates",
+          "title": "高学历毕业生失业：原因和措施一一对应",
+          "top": 3392.578125
+        },
+        {
+          "id": "writing2-case-wc-bc-overfishing",
+          "title": "过度捕捞：从激励与监管写到对策",
+          "top": 3702.734375
+        },
+        {
+          "id": "writing2-case-wc-bc-childhealth",
+          "title": "儿童肥胖：原因—措施对应而非空泛建议",
+          "top": 3986.296875
+        },
+        {
+          "id": "pr-writing2-primary",
+          "title": "Task 2 · 教育 小学课堂中的学习与游戏",
+          "top": 4296.453125
+        },
+        {
+          "id": "pr-writing2-tourism",
+          "title": "Task 2 · 旅游 旅游收益与居民成本",
+          "top": 4606.609375
+        },
+        {
+          "id": "pr-writing2-housing",
+          "title": "Task 2 · 城市住房 高层住宅是否是最佳方案",
+          "top": 4890.171875
+        },
+        {
+          "id": "learn-background_family_children",
+          "title": "家庭与儿童：财富是否决定成年应对能力",
+          "top": 5200.328125
+        },
+        {
+          "id": "pr-fisheries-writing",
+          "title": "写作 · 海洋资源：执行捕捞上限",
+          "top": 5510.484375
+        },
+        {
+          "id": "pr-jiufen-20260921-adult-literacy-v1",
+          "title": "成人读写困难 · Task 2",
+          "top": 5794.046875
+        },
+        {
+          "id": "pr-jiufen-20260921-work-life-balance-v1",
+          "title": "工作与生活的平衡 · Task 2",
+          "top": 6167
+        },
+        {
+          "id": "pr-jiufen-20260921-species-extinction-v1",
+          "title": "自然灭绝与人为保护 · Task 2",
+          "top": 6539.953125
+        }
+      ],
+      "targetPosition": {
+        "text": "写作 · Task 2 · 机经 · 9月21日新增\n\n成人读写困难 · Task 2\n\n新内容 · 2026-09-21 · 难度系数 3/5 · 中等。新Task 2题目；写作保存、题意核对与题干词句回读。\n\n0% · 0 / 2 作答与核对\n\n难度 3/5 · 参考置信度中 · 九分学长\n\n开始练习 →\n加入自选",
+        "top": 5794.046875,
+        "viewportTop": 5631.046875,
+        "withinInitialViewport": false
+      },
+      "index": 18,
+      "totalClicks": 5,
+      "finalRoute": "#pr-jiufen-20260921-adult-literacy-v1",
+      "finalTitle": "写作 · Task 2练习"
+    }
+  ],
+  "errors": []
+}

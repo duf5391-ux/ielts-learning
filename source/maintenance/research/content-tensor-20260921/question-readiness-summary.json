@@ -1,0 +1,49 @@
+{
+  "questionObjects": 7351,
+  "bySubject": {
+    "listening": 3370,
+    "reading": 3639,
+    "writing": 342
+  },
+  "parts": 952,
+  "skippedSources": 111,
+  "checkCounts": {
+    "uniqueId": {
+      "pass": 7351
+    },
+    "questionNumber": {
+      "pass": 7351
+    },
+    "promptPresence": {
+      "group-context-needs-mapping": 3712,
+      "direct": 3294,
+      "missing": 345
+    },
+    "instructionsPresence": {
+      "pass": 7009,
+      "review": 342
+    },
+    "optionsPresence": {
+      "group-or-type-review": 5054,
+      "present": 2297
+    },
+    "sourceAnalysis": {
+      "present-unverified": 7008,
+      "missing": 343
+    },
+    "mediaPresence": {
+      "pass": 3370,
+      "not-required": 3981
+    },
+    "canonicalAnswer": {
+      "absent": 7351
+    }
+  },
+  "practiceAutomaticallyPromoted": 0,
+  "testEligible": 0,
+  "limits": [
+    "Presence checks only; source analyses are not verified answers",
+    "Writing task objects are counted separately from listening/reading questions",
+    "Shared group prompts require explicit question-to-blank mapping; unknown is not pass"
+  ]
+}

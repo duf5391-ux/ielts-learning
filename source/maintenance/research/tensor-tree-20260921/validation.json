@@ -1,0 +1,30 @@
+{
+  "nodes": 3890,
+  "edges": 6026,
+  "nodeTypes": {
+    "root": 1,
+    "route": 429,
+    "field": 3368,
+    "document": 9,
+    "function": 42,
+    "state": 24,
+    "issue": 17
+  },
+  "relations": {
+    "contains": 480,
+    "declared_owner": 424,
+    "observed_redirect": 13,
+    "binds_field": 3368,
+    "observed_href": 1655,
+    "function_entry": 27,
+    "observed_state": 24,
+    "issue_affects": 35
+  },
+  "tensorShape": [
+    3890,
+    3890,
+    8
+  ],
+  "danglingEdges": 0,
+  "baseline_sha256": "2f870d2c02b4ab48a0c64668aef59c19dbbdcb0d446df8a76a497723886b5d85"
+}

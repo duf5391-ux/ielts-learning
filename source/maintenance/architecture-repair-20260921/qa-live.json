@@ -1,0 +1,84 @@
+{
+  "pass": true,
+  "target": "https://duf5391-ux.github.io/ielts-learning/",
+  "checkedAt": "2026-09-21T14:24:59.009Z",
+  "checks": [
+    {
+      "name": "旧字段3368个全部保留",
+      "status": "pass"
+    },
+    {
+      "name": "三个已有学习工具归学习，独立页头、返回与续学一致",
+      "status": "pass"
+    },
+    {
+      "name": "旧单词收藏恢复，直接标记仍可用",
+      "status": "pass"
+    },
+    {
+      "name": "旧句子记录在独立学习页恢复",
+      "status": "pass"
+    },
+    {
+      "name": "记录页保留旧答案，词句本不再内嵌",
+      "status": "pass"
+    },
+    {
+      "name": "Task 1和Task 2旧地址分别进入正确分类",
+      "status": "pass"
+    },
+    {
+      "name": "旅游词汇统一到练习/词汇，分类可实际进入",
+      "status": "pass"
+    },
+    {
+      "name": "每日教育背景目标的页面与返回均属共用背景",
+      "status": "pass"
+    },
+    {
+      "name": "原始资料与学习资源索引分离，原目标ID保留",
+      "status": "pass"
+    },
+    {
+      "name": "题组包装入口聚焦集合",
+      "status": "pass"
+    },
+    {
+      "name": "持久自选清单与每日安排分清",
+      "status": "pass"
+    },
+    {
+      "name": "定制课程只留待开放窗口，制课导入试学均隐藏",
+      "status": "pass"
+    },
+    {
+      "name": "资料接入进度与定制课程占位分开",
+      "status": "pass"
+    },
+    {
+      "name": "刷新恢复词汇自评",
+      "status": "pass"
+    },
+    {
+      "name": "本轮逐地址重开完成（数量见记录；smoke不重复全量）",
+      "detail": {
+        "count": 0
+      },
+      "status": "pass"
+    },
+    {
+      "name": "桌面与手机九个架构界面布局无横向溢出",
+      "status": "pass"
+    },
+    {
+      "name": "桌面与手机九个架构界面布局无横向溢出",
+      "status": "pass"
+    },
+    {
+      "name": "三份精读从阅读和背景共用同一单元，入口标注、上下文、全文和保存恢复通过",
+      "status": "pass"
+    }
+  ],
+  "errors": [],
+  "routes": []
+}

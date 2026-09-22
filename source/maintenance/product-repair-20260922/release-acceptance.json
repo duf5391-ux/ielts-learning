@@ -1,0 +1,57 @@
+{
+  "candidate_sha256": "e2b9e12e58c8f03de4b43b8ec6bdb1b81a15130ddceb6b80ea5fff6a3d742075",
+  "checked_at": "2026-09-21T18:34:12.912302+00:00",
+  "evidence": [
+    {
+      "path": "static.json",
+      "sha256": "d48cc4a34af59ba3fb86695fa407eb3dcadf51848c6d7bfc18a73fd8744181fe"
+    },
+    {
+      "path": "component-equivalence.json",
+      "sha256": "8b242fabae4a56135b40f9958fdc692869c02f74f243d1d0f650d0e94b302ecf"
+    },
+    {
+      "path": "frontend/qa-combined.json",
+      "sha256": "68546217c212063edb0e3b9f007407dc9f558d61a76f58c53de6a09f12132f81"
+    },
+    {
+      "path": "writing/qa-combined.json",
+      "sha256": "c3bbcd5ec04e4866e12d579d88c91487734b4f8e0b06b05017b4af1302113562"
+    },
+    {
+      "path": "qa/qa-final.json",
+      "sha256": "e0dfad20f2897e7a67aa688b253ac4498b91e8eeabdb8fcb93139c4ae3c9d148"
+    },
+    {
+      "path": "qa/final-targeted.json",
+      "sha256": "9e7b24e6af4e30b62882ac5954da94bfae5a091b1f0510bfb20177f55d915ee9"
+    },
+    {
+      "path": "qa/final-production.json",
+      "sha256": "2d3bd09bc8b88703dec25f1e88562bada29e727a6ebb2a630c7a9d283ecbf046"
+    },
+    {
+      "path": "qa/final-diff.json",
+      "sha256": "43d9a82c88bfb17e0108dfab3ed0093862e901e5c983f009f06a6498fa0e9184"
+    },
+    {
+      "path": "qa/combined-first-desktop.json",
+      "sha256": "ad551c723d852c52a4e636d2f23e389920a1897e17786f92e4de47bd1ad14ee3"
+    },
+    {
+      "path": "qa/combined-first-mobile.json",
+      "sha256": "d27f93eb32a757d05d9dfbde2d118c84fb85c35f5a52fd9fcdc5d4656e73d859"
+    },
+    {
+      "path": "qa/combined-first-compatibility.json",
+      "sha256": "1ec48185d6a5a909bedd9da13331494d939dc6a93ce6b855e1c9f7d812dbc8db"
+    },
+    {
+      "path": "qa/combined-first-routes.json",
+      "sha256": "26ffcdf59a7fd3935235c1df1b50a9dc6708d475b3ba6b262c644137177d1dee"
+    }
+  ],
+  "scope": "Accepted for formal source installation. Progressive packed and HTTPS release QA still required.",
+  "prior_check_limits": "Unchanged reliability/catalog/daily components inherit the preceding combination checks via exact script SHA. Final navigation and writing are directly checked. The old compatibility report initial word-card scroll failure is superseded by final-targeted pass.",
+  "pass": true
+}

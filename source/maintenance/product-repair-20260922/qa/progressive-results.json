@@ -1,0 +1,52 @@
+{
+  "checks": [
+    {
+      "name": "choice made during loading opens requested section after initialization",
+      "pass": true,
+      "choices": [
+        {
+          "route": "#study",
+          "text": "IELTS\n学习册"
+        },
+        {
+          "route": "#guide",
+          "text": "直接开始"
+        },
+        {
+          "route": "#study",
+          "text": "学习内容"
+        },
+        {
+          "route": "#practice",
+          "text": "练习"
+        }
+      ],
+      "route": "#practice",
+      "errors": []
+    },
+    {
+      "name": "controlled chunk failure preserves old record; reload restores deep link",
+      "pass": true,
+      "choices": [
+        {
+          "route": "#study",
+          "text": "IELTS\n学习册"
+        },
+        {
+          "route": "#guide",
+          "text": "直接开始"
+        },
+        {
+          "route": "#study",
+          "text": "学习内容"
+        },
+        {
+          "route": "#practice",
+          "text": "练习"
+        }
+      ],
+      "route": "#records",
+      "errors": []
+    }
+  ]
+}

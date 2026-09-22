@@ -1,0 +1,50 @@
+{
+  "pass": true,
+  "target": "C:\\Users\\Admin1\\Documents\\ChatGPT\\ielts\\product-repair-20260922\\frontend\\combined-frozen-8650db.html",
+  "candidate_sha256": "8650db419b3ce44f821cc3444152a05afe668bca939d6dfb91c99aa2d402c075",
+  "checks": [
+    {
+      "name": "Exact candidate loaded",
+      "detail": "8650db419b3ce44f821cc3444152a05afe668bca939d6dfb91c99aa2d402c075"
+    },
+    {
+      "name": "02: topic favorite, source, direct self-assessment, cancellation and reload agree"
+    },
+    {
+      "name": "02: failed favorite rolls back both checkbox and list"
+    },
+    {
+      "name": "Combined: independent review page retains failed-save retry and completed review"
+    },
+    {
+      "name": "03: exact material source, old unknown source, source highlight and return"
+    },
+    {
+      "name": "03: failed sentence save keeps old collection and editable draft"
+    },
+    {
+      "name": "14: saved first answer progresses from 0/1 to 1/1 and survives reload"
+    },
+    {
+      "name": "15: real browser synthetic microphone, per-task persistence, two takes, first-take replay and reload"
+    },
+    {
+      "name": "15: saved audio download contains bytes",
+      "detail": 4272
+    },
+    {
+      "name": "Combined: 390px recording blocks finish; persisted take permits finish and replays after reload"
+    },
+    {
+      "name": "15: permission rejection recovers controls and permits text draft"
+    },
+    {
+      "name": "15: audio persistence failure is explicit and prior takes remain"
+    },
+    {
+      "name": "Desktop and 390px controls stay within viewport"
+    }
+  ],
+  "errors": [],
+  "at": "2026-09-21T18:23:00.477Z"
+}

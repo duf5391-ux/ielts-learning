@@ -1,0 +1,52 @@
+{
+  "base_sha256": "8650db419b3ce44f821cc3444152a05afe668bca939d6dfb91c99aa2d402c075",
+  "candidate_sha256": "e2b9e12e58c8f03de4b43b8ec6bdb1b81a15130ddceb6b80ea5fff6a3d742075",
+  "changed_scripts": [
+    "writing-entry-controller",
+    "product-entry-controller",
+    "unnamed-20"
+  ],
+  "unchanged_scripts": [
+    "record-concurrency-model-script",
+    "unnamed-1",
+    "unnamed-2",
+    "unnamed-3",
+    "unnamed-4",
+    "unnamed-5",
+    "lookup-glossary",
+    "unnamed-7",
+    "unnamed-8",
+    "lookup-controller",
+    "vocabulary-review-controller",
+    "unnamed-11",
+    "qt-script",
+    "authentic-case-script",
+    "course-window-data",
+    "course-window-script",
+    "course-window-nav",
+    "sentence-local-pairs",
+    "selection-tools-script",
+    "writing-question-map",
+    "energy-control-model-script",
+    "energy-control-script",
+    "prerequisite-interactions-script",
+    "learning-adjust-data",
+    "learning-adjust-model-script",
+    "learning-adjust-script",
+    "daily-study-catalog",
+    "daily-study-model-script",
+    "daily-study-script",
+    "health-study-bridge-script",
+    "health-study-ui-script",
+    "material-reading-script",
+    "vocabulary-quick-marks-script"
+  ],
+  "required_unchanged": {
+    "learning-adjust-script": true,
+    "daily-study-script": true,
+    "daily-study-model-script": true,
+    "record-concurrency-model-script": true,
+    "health-study-bridge-script": true,
+    "health-study-ui-script": true
+  }
+}

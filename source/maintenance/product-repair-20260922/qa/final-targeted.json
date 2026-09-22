@@ -1,0 +1,66 @@
+{
+  "candidate_sha256": "e2b9e12e58c8f03de4b43b8ec6bdb1b81a15130ddceb6b80ea5fff6a3d742075",
+  "checks": [
+    {
+      "name": "word to topic cards opens search in initial phone viewport",
+      "data": {
+        "x": 18,
+        "y": 295.375,
+        "width": 354,
+        "height": 44.09375
+      }
+    },
+    {
+      "name": "curriculum source actions",
+      "data": [
+        "去单词表",
+        "新学",
+        "认识少用",
+        "已会用",
+        "清除",
+        "本地词典",
+        "用这个词造句"
+      ]
+    },
+    {
+      "name": "card favorite and original sentence draft restore",
+      "data": {
+        "field": "prereq-vocab-terms"
+      }
+    },
+    {
+      "name": "NAV01 global search origin query and result retained",
+      "data": true
+    },
+    {
+      "name": "JQ03 new category goes to top",
+      "data": true
+    },
+    {
+      "name": "return restores source list scroll",
+      "data": {
+        "before": 517,
+        "after": 517
+      }
+    },
+    {
+      "name": "final mobile daily dock and health actions",
+      "data": {
+        "dock": {
+          "x": 10,
+          "y": 637.359375,
+          "width": 370,
+          "height": 142.640625
+        },
+        "nav": {
+          "x": 0,
+          "y": 790,
+          "width": 390,
+          "height": 54
+        }
+      }
+    }
+  ],
+  "errors": [],
+  "pass": true
+}

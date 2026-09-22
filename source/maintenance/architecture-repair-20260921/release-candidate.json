@@ -1,0 +1,41 @@
+{
+  "pass": true,
+  "target": "candidate",
+  "checkedAt": "2026-09-21T14:16:00.908Z",
+  "checks": [
+    {
+      "name": "Homepage and full control initialization",
+      "status": "pass",
+      "detail": {
+        "bytes": 4079199,
+        "sha256": "83346245cc01a3c48dcac31ce6c2b8a30744391cf6e4ae99f8db105103e6d166",
+        "progressive": false
+      }
+    },
+    {
+      "name": "All 3371 saved fields and 227 learning units assembled",
+      "status": "pass"
+    },
+    {
+      "name": "Rest pauses daily study and prevents advancement",
+      "status": "pass"
+    },
+    {
+      "name": "Continue ends rest and resumes study",
+      "status": "pass"
+    },
+    {
+      "name": "Finish completes and restores after reload",
+      "status": "pass"
+    },
+    {
+      "name": "Published direct vocabulary mark is usable on mobile",
+      "status": "pass"
+    },
+    {
+      "name": "New reading deep link, difficulty, empty-answer gate and saved response",
+      "status": "pass"
+    }
+  ],
+  "errors": []
+}

@@ -1,0 +1,1552 @@
+[
+  {
+    "sourceId": "2016777336785571842",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2017137445965500418",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2026548860543401986",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2084525421475987457",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2017137445944528897",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2017137445982277634",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2017137445969694723",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2087008972141858817",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2063871798731182081",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2017137445843865602",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2051168670866575362",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2027010525068099585",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2083537343270141954",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2017137445915168770",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2017137445948723201",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2031539536272130050",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2051173834394537985",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2027217447373340673",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2029529655675551745",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2083798697532522498",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2039230812471791618",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2017137446011637762",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2017137445885808644",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2017137445856448516",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2017137445890002945",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2017137445965500417",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2017137445936140289",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2061655211043295234",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2039249304562536450",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2017137445856448515",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2070468321867268097",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2017137445999054852",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2017137446020026370",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2017137445923557377",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2017137446011637763",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2017137445885808643",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2098339869517500417",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2094695313828294658",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2070474303930433538",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2017137445927751681",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2098329531707379714",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2070479175396425730",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2067134329310515202",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2017137445822894081",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2017137445902585857",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2017137445969694724",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2017137445827088386",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2098315583738171393",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2083565165720158210",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2017137445978083332",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2059138245116624897",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2017137445885808642",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2098334757042606082",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2017137445957111811",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2017137445944528899",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2017137445864837124",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2017137445986471939",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2017137445848059907",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2026542514917965825",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2017137445906780161",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2051195409483272193",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2017137445940334594",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2017137445873225730",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2017137445848059906",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2017137445915168769",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2017137445923557379",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2094701427374501889",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2017137445931945989",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2018938319750664193",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2083551950118371329",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2017137445835476994",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2065363082307223553",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2069384182220558338",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2086077090558967809",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2017137445927751682",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2087378664233172993",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2098355588057616386",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2017137445931945987",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2017137445952917506",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2083812436285652994",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2017137445994860548",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2017137445961306114",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2017137445961306115",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2032294318268055554",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2017137446028414977",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2017137445919363073",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2084506521724059650",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2083874979888824321",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2017137445835476996",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2083898551881498625",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2018937870721060865",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2098344769064357889",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2017137445990666241",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2017137445999054851",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2017137445856448514",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2087089141217071106",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2017137445982277633",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2069378538465759234",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2017137445948723203",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2017137445999054850",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2071522493547462658",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2098373241165926401",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2039255772934279169",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2017137445898391555",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2087367343437578241",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2086991294228434946",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2017137445919363075",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2017137445877420033",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2062787709631512578",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2017137445864837123",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2017137445915168771",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2061649466436456450",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2017137445894197249",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2039214374939889666",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2017137445831282690",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2051188830495150082",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2017137445952917507",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2032340644712251394",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2065384151424483329",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2017137445969694722",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2017137445990666242",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2087054610552426498",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2087014491845922818",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2017137445973889028",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2017137445910974466",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2087430533001314305",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2017137445894197251",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2087003543655518210",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2072342265255268353",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2031691395389554689",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2087078060117561345",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2017088315125764097",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2017137445994860547",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2094705592150601729",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2087349250686517249",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2016878334334046209",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2027200392309866497",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2027189311877251074",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2017137445936140290",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2074391885423116290",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2017067274563325954",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2017137446007443458",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2017137446015832065",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2087426267800993794",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2017135407969964033",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2017137445994860546",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2083787165939597314",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2017137445822894083",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2087355455957958658",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2017137445906780162",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2028322598247038978",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2017137445831282691",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2017137445931945986",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2026890821288689666",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2059578887835811842",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2039222046997188610",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2017137445877420035",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2017137445990666243",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2017137445835476995",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2017137446007443457",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2094715062339579905",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2017137445873225731",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2017137445944528898",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2089266304784072706",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2016734588640526338",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2039239871488954370",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2017137445839671298",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2027211323798552578",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2017137445957111810",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2083032895997394946",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2017137446003249154",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2087084700397047810",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2017137445827088387",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2087068130341916673",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2017137445881614339",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2026900914650578945",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2094709849499185154",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2017137445839671297",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2017137445986471937",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2071422589235937282",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2089260572445573122",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2017137445986471938",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2087062522846875649",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2017137445843865603",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2017137445864837122",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2017137445978083330",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2029534633798500353",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2017137446003249153",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2087372830757421058",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2018938179899985922",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2017137446015832066",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2098361569789431810",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2017137445869031427",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2017137445982277635",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2017137445860642819",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2094732905663770626",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2017137445923557378",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2017137445973889027",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2017137445852254209",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2017137445848059905",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2061672455014027265",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2017137446020026371",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2087046753970917377",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2094990118005321730",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2017137445927751683",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2094320666641195010",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2017137446028414979",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2098366997239779330",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2026968243518406658",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2029918118929334273",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2032328898140274690",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2026959793455464449",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2017137445869031426",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2017137445881614338",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2094727566155395074",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2017137445860642820",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2017137445940334595",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2017137445910974465",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2027204839308099585",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2048010667774545921",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2017137445890002946",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2051183514571345921",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2027196300808257537",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2082782761832742914",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2051178617000005634",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2029492625222500353",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2089255134308139010",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2032286370749841410",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2032350660626317314",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2017137445940334596",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2017137445852254211",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2039262733515984898",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2086794659980967938",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2029905333637971969",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2087107859187863554",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2083912679597604866",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2086997082074353666",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2017137445860642818",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2017137445894197250",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2026536248367742978",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2017137445822894082",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2017137445873225732",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2059562072237735937",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2031684890984546305",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2017137445931945988",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2017137445978083331",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2017137445948723202",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2026909542610731010",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2017137445869031425",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2018938080192991234",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2032266857518039041",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2017137445881614337",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2017137446024220674",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2017137445877420034",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2017137445902585858",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2017137445973889026",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2084474402910044161",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2017137445919363074",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2026524802170847233",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2032345415636582402",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2059586945504837634",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2017137445936140291",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2087361510154764289",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2017137445852254210",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2017137446024220675",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2087096361312948225",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2093249119968100353",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2087437080242749442",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2017137445999054853",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2084114270246207489",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2029920343550427137",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2017137446028414978",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2100895426585563138",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2067486981068263426",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2067514885252681730",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2067500415734353921",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2067510911581655041",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2067498864563294210",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2067509545962409985",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2067495643228770305",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2067769090388312065",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2067619184561459201",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2067993887777013762",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2098779810890334209",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2067606715994574849",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2067505973547864066",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2067513272077225985",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2067516066356105218",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2067610439072714754",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2067616926503374850",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2067512110074662913",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2098981983209209858",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2067484882678943746",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2067491978988326913",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2067503054350028802",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2068179563620925442",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2067490763103088641",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2067507470192971778",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2098634736068022273",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2067501518806945794",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2067772870286688258",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2067621096505577473",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2067496968221986817",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2067612996650242049",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2068230230377037825",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2067493897576222722",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2068149921593753602",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2067775888285548546",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2067764742467928066",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  },
+  {
+    "sourceId": "2098782541570981889",
+    "contiguousCoverage": true,
+    "adjacentContextMatches": true
+  }
+]

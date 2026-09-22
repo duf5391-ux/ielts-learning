@@ -1,0 +1,161 @@
+{
+  "provider": "github-pages",
+  "status": "succeeded",
+  "usability_status": "published_and_browser_verified_with_mainland_network_gaps",
+  "url": "https://duf5391-ux.github.io/ielts-learning/",
+  "repository": "duf5391-ux/ielts-learning",
+  "source_commit": "46bc80bc1d77638f019f58a2c39bfed65a99c19e",
+  "workflow_run_id": 35580554064,
+  "workflow_url": "https://github.com/duf5391-ux/ielts-learning/actions/runs/35580554064",
+  "updated_at": "2026-09-21T09:03:53.609336+00:00",
+  "access_mode": "public",
+  "https_enforced": true,
+  "source_html_sha256": "2f870d2c02b4ab48a0c64668aef59c19dbbdcb0d446df8a76a497723886b5d85",
+  "published_html_sha256": "7049eb1b4979563e13dfbfc91cf4554f7c3161fee3b184f833b2e5d8613dda68",
+  "published_files": 1085,
+  "expanded_bytes": 261299690,
+  "save_fields": 3368,
+  "local_sync_workflow": "publish_github.ps1 with progressive build; exact matching Actions succeeded; live homepage hash verified",
+  "verification": {
+    "browser": {
+      "passed": true,
+      "evidence": "feature-fixes-20260921/release-live.json",
+      "scope": "3368 fields, 224 units, rest/continue/finish/reload, mobile direct vocabulary marking, new reading gate/save/reload, two audio Range responses"
+    },
+    "mainland_first": [
+      {
+        "resource": "homepage",
+        "nodes": 9,
+        "passed": 6,
+        "failed": [
+          {
+            "city": "Shanghai",
+            "asn": 9808,
+            "error": "Request timed out while establishing the TCP connection."
+          },
+          {
+            "city": "Wuhan",
+            "asn": 151185,
+            "error": "Request timed out while establishing the TCP connection."
+          },
+          {
+            "city": "Guilin",
+            "asn": 4134,
+            "error": "Request timed out during the TLS handshake."
+          }
+        ]
+      },
+      {
+        "resource": "official_audio",
+        "nodes": 9,
+        "passed": 6,
+        "failed": [
+          {
+            "city": "Beijing",
+            "asn": 9808,
+            "error": "Request timed out while establishing the TCP connection."
+          },
+          {
+            "city": "Shanghai",
+            "asn": 9808,
+            "error": "Request timed out while establishing the TCP connection."
+          },
+          {
+            "city": "Beijing",
+            "asn": 45090,
+            "error": "Request timed out while establishing the TCP connection."
+          }
+        ]
+      },
+      {
+        "resource": "jijing_audio",
+        "nodes": 9,
+        "passed": 5,
+        "failed": [
+          {
+            "city": "Beijing",
+            "asn": 9808,
+            "error": "Request timed out while establishing the TCP connection."
+          },
+          {
+            "city": "Shanghai",
+            "asn": 9808,
+            "error": "Request timed out while establishing the TCP connection."
+          },
+          {
+            "city": "Wuhan",
+            "asn": 151185,
+            "error": "Request timed out while establishing the TCP connection."
+          },
+          {
+            "city": "Guilin",
+            "asn": 4134,
+            "error": "Request timed out while establishing the TCP connection."
+          }
+        ]
+      }
+    ],
+    "mainland_failed_pair_retry": [
+      {
+        "resource": "homepage",
+        "nodes": 3,
+        "passed": 1,
+        "failed": [
+          {
+            "city": "Shanghai",
+            "asn": 9808,
+            "error": "Request timed out while establishing the TCP connection."
+          },
+          {
+            "city": "Guilin",
+            "asn": 4134,
+            "error": "Request timed out while waiting for the first response byte."
+          }
+        ]
+      },
+      {
+        "resource": "official_audio",
+        "nodes": 3,
+        "passed": 2,
+        "failed": [
+          {
+            "city": "Shanghai",
+            "asn": 9808,
+            "error": "Request timed out while establishing the TCP connection."
+          }
+        ]
+      },
+      {
+        "resource": "jijing_audio",
+        "nodes": 4,
+        "passed": 2,
+        "failed": [
+          {
+            "city": "Shanghai",
+            "asn": 9808,
+            "error": "Request timed out while establishing the TCP connection."
+          },
+          {
+            "city": "Wuhan",
+            "asn": 151185,
+            "error": "Request timed out while establishing the TCP connection."
+          }
+        ]
+      }
+    ],
+    "network_limitations": "Shanghai Mobile remained inaccessible in all three resources; Guilin homepage and Wuhan jijing audio also timed out on retry. A retry may use another physical probe in the same city/ASN. Historical 8/8 success does not describe current reliability.",
+    "full_audio_playback": false,
+    "physical_device_tested": false,
+    "real_microphone_tested": false
+  },
+  "evidence": [
+    "research/feature-fixes-delivery-20260921.md",
+    "feature-fixes-20260921/release-live.json",
+    "research/github-publication-probes-20260921T085742.957014Z/summary.json",
+    "research/github-publication-retry-20260921T085924Z/summary.json"
+  ],
+  "next": "Four-platform delivery and device verification are tracked separately. Current mainland network gaps remain explicit; no hosting migration, purchase, or universal accessibility claim.",
+  "learning_units": 224,
+  "homepage_bytes": 140646,
+  "progressive_loading": true
+}

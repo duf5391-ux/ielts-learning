@@ -1,0 +1,71 @@
+<!doctype html><html lang="zh-CN"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>IELTS · 分级张量立体关系树</title>
+<style>
+*{box-sizing:border-box}body{margin:0;background:#0e1720;color:#dde6ec;font:14px system-ui,"Microsoft YaHei",sans-serif}header{padding:20px 26px;border-bottom:1px solid #30404e;display:flex;justify-content:space-between;gap:20px}h1{font-size:21px;margin:0 0 6px}p{margin:4px 0;color:#a7bac7;line-height:1.7}main{display:grid;grid-template-columns:270px 1fr 340px;height:calc(100vh - 94px);min-height:640px}aside{overflow:auto;padding:20px;border-right:1px solid #30404e}.right{border-left:1px solid #30404e;border-right:0}h2{font-size:14px;letter-spacing:.08em;color:#adc5d5;margin:24px 0 12px}h2:first-child{margin-top:0}label{display:flex;gap:8px;margin:9px 0;align-items:center}input[type=search],select,button{font:inherit;color:#dde6ec;background:#1b2a36;border:1px solid #405567;border-radius:5px;padding:9px;max-width:100%}input[type=search]{width:100%}button{cursor:pointer}button:hover{background:#2c4659}input[type=checkbox]{accent-color:#71d3ac}#view{position:relative;overflow:hidden;background:radial-gradient(ellipse at 45% 45%,#1b3041,#0b141e)}canvas{width:100%;height:100%;display:block;touch-action:none}#hud{position:absolute;left:20px;top:18px;pointer-events:none;color:#a9c4d4;line-height:1.8}#legend{position:absolute;bottom:17px;left:20px;right:20px;display:flex;gap:14px;flex-wrap:wrap;font-size:12px;pointer-events:none}.dot{display:inline-block;width:8px;height:8px;border-radius:50%;margin-right:5px}#results button,.neighbor{width:100%;text-align:left;margin:3px 0;font-size:12px}code{overflow-wrap:anywhere;color:#82d5b4}#detail{overflow-wrap:anywhere;line-height:1.7;font-size:12px}#detail b{color:#fff}#detail pre{white-space:pre-wrap;font:12px system-ui;color:#b6cbd8}.pill{display:inline-block;border:1px solid #46616e;padding:3px 8px;margin:3px 5px 3px 0;border-radius:20px;font-size:11px}#status{font-size:12px;color:#90b5c9;margin:12px 0}.muted{color:#7f9bab;font-size:12px}.warning{color:#eeae9d}.tools{display:flex;gap:6px;flex-wrap:wrap;margin:10px 0}@media(max-width:1050px){main{grid-template-columns:220px 1fr}.right{display:none}}@media(max-width:650px){main{grid-template-columns:170px 1fr}header{padding:12px}aside{padding:12px}header p{display:none}}
+</style>
+<header><div><h1>IELTS / 分级张量立体关系树</h1><p>当前实现的证据模型 · 层级 × 功能归属 × 实体层 · 可旋转、筛选、检查邻接关系</p></div><div><code id="shape"></code><p style="font-size:12px">基线 2f870d2c · 已复现问题 17 项</p></div></header>
+<main><aside><h2>定位对象</h2><input type="search" id="search" placeholder="词句、route、保存字段…"><div class="tools"><button id="reset">全局</button><button id="focus">一跳邻域</button></div><div id="results"></div><h2>实体层</h2><div id="layers"></div><h2>关系切片</h2><select id="relation"><option value="all">所有关系类型</option></select><label><input id="links" type="checkbox" checked>显示跨层关系</label><label><input id="names" type="checkbox" checked>显示关键节点名称</label><h2>检查方式</h2><p class="muted">拖动旋转 · 滚轮缩放 · 点击节点读取证据。字段层默认折叠；搜索可找到全部字段。</p><p class="muted">灰线表示层级；彩线表示引用或观察。链接存在不等于操作通过，交叉连线不自动算错误。</p><div id="status"></div></aside>
+<section id="view"><canvas id="scene" aria-label="可交互三维关系图"></canvas><div id="hud"></div><div id="legend"></div></section>
+<aside class="right"><h2>节点与证据</h2><div id="detail">点击一个节点查看它的入口、实际归属与探针记录。</div><h2>直接关系</h2><div id="neighbors"></div></aside></main>
+<script id="graph-data" type="application/json">__GRAPH_JSON__</script>
+<script>
+'use strict';
+const graph=JSON.parse(document.querySelector('#graph-data').textContent);
+const $=s=>document.querySelector(s), colors={root:'#ffffff',route:'#72d6ab',function:'#8ca9ee',document:'#d1b37d',state:'#73cce6',field:'#9b8dbe',issue:'#f08e7d'};
+const typeNames={root:'系统根',route:'入口 / 内容',function:'功能',document:'独立页面',state:'动态状态',field:'保存字段',issue:'已复现问题'};
+const groups=['study','practice','tests','workspace','development','resources','global','unknown','总入口','词句与写作','安排与接续','学习内容','资料与设置','issues'];
+const byId=new Map(graph.nodes.map(n=>[n.id,n]));
+const adjacency=new Map(graph.nodes.map(n=>[n.id,[]]));
+graph.edges.forEach(e=>{adjacency.get(e.source).push(e);adjacency.get(e.target).push(e)});
+let enabled=new Set(['root','route','function','document','state','issue']), selected=null, neighborhood=null;
+let yaw=-.42,pitch=.31,zoom=.83,projected=[],w=900,h=800,drag=null,moved=false;
+const canvas=$('#scene'),ctx=canvas.getContext('2d'),parent=$('#view');
+const buckets=new Map();
+for(const n of graph.nodes){const k=n.group+'|'+n.kind+'|'+n.depth;if(!buckets.has(k))buckets.set(k,[]);buckets.get(k).push(n)}
+const unknownGroups=[...new Set(graph.nodes.map(n=>n.group))].filter(x=>!groups.includes(x));groups.push(...unknownGroups);
+const zLayers={root:-130,function:-220,route:0,document:170,state:300,field:450,issue:-390};
+for(const list of buckets.values())list.forEach((n,i)=>{
+ const group=groups.indexOf(n.group), spread=Math.min(180,Math.max(20,list.length*2));
+ const t=list.length===1?.5:i/(list.length-1);
+ n.xyz=[(n.kind==='field'?5:n.depth)*145-300+(i%5)*7,(group-(groups.length-1)/2)*66+(t-.5)*spread,zLayers[n.kind]+Math.sin(i*2.399)*22];
+});
+$('#shape').textContent='A[i, j, r] · '+graph.tensor.shape.join(' × ');
+for(const kind of Object.keys(typeNames)){
+ const lab=document.createElement('label'), cb=document.createElement('input');cb.type='checkbox';cb.checked=enabled.has(kind);
+ cb.addEventListener('change',()=>{cb.checked?enabled.add(kind):enabled.delete(kind);render()});
+ lab.append(cb,document.createTextNode(typeNames[kind]+' · '+graph.nodes.filter(n=>n.kind===kind).length));$('#layers').append(lab);
+ const s=document.createElement('span'),dot=document.createElement('i');dot.className='dot';dot.style.background=colors[kind];s.append(dot,document.createTextNode(typeNames[kind]));$('#legend').append(s);
+}
+for(const relation of graph.relations){const o=document.createElement('option');o.value=relation;o.textContent=relation+' / '+graph.semantics[relation];$('#relation').append(o)}
+function project(n){let [x,y,z]=n.viewXYZ||n.xyz;const xx=x*Math.cos(yaw)-z*Math.sin(yaw), zz=x*Math.sin(yaw)+z*Math.cos(yaw), yy=y*Math.cos(pitch)-zz*Math.sin(pitch), z2=y*Math.sin(pitch)+zz*Math.cos(pitch);const scale=zoom*Math.min(w/1100,h/1100);return{x:w/2+xx*scale,y:h/2+yy*scale,z:z2,n}}
+function render(){ctx.clearRect(0,0,w,h);const visible=graph.nodes.filter(n=>(enabled.has(n.kind)||n.id===selected)&&(neighborhood===null||neighborhood.has(n.id)));for(const n of graph.nodes)delete n.viewXYZ;if(neighborhood){const layers=new Map();for(const n of visible){if(!layers.has(n.depth))layers.set(n.depth,[]);layers.get(n.depth).push(n)}for(const [depth,ns] of layers)ns.forEach((n,i)=>n.viewXYZ=[depth*190-310,(i-(ns.length-1)/2)*Math.min(70,600/Math.max(1,ns.length-1)),zLayers[n.kind]*.4]);}const ids=new Set(visible.map(n=>n.id));const pmap=new Map(visible.map(n=>[n.id,project(n)]));projected=[...pmap.values()].sort((a,b)=>a.z-b.z);
+ const rel=$('#relation').value;let drawn=0;
+ for(const e of graph.edges){if(!ids.has(e.source)||!ids.has(e.target))continue;if(rel!=='all'&&rel!==e.relation)continue;if(!$('#links').checked&&!['contains','binds_field'].includes(e.relation))continue;
+  const a=pmap.get(e.source),b=pmap.get(e.target),highlight=e.source===selected||e.target===selected;
+  ctx.strokeStyle=highlight?'#e6f3ff':e.relation==='issue_affects'?'#a25952':e.relation==='contains'?'#526272':e.relation==='observed_redirect'?'#ccaa70':'#426774';
+  ctx.globalAlpha=highlight?.95:e.relation==='contains'?.28:.12;ctx.lineWidth=highlight?1.6:.6;ctx.beginPath();ctx.moveTo(a.x,a.y);ctx.lineTo(b.x,b.y);ctx.stroke();drawn++;
+ }
+ ctx.globalAlpha=1;
+ for(const p of projected){const n=p.n, sel=n.id===selected,r=sel?7:n.kind==='root'?6:n.kind==='issue'?4.8:n.kind==='field'?1.6:3;ctx.fillStyle=colors[n.kind];ctx.beginPath();ctx.arc(p.x,p.y,r,0,Math.PI*2);ctx.fill();if(sel){ctx.strokeStyle='#fff';ctx.lineWidth=2;ctx.stroke()}
+  if($('#names').checked&&(sel||n.kind==='issue'||n.kind==='root'||(neighborhood&&visible.length<70)||(n.kind==='route'&&n.routeType==='panel'))){ctx.font=sel?'bold 13px system-ui':'11px system-ui';ctx.fillStyle=sel?'#fff':n.kind==='issue'?'#e6a397':'#a8c1ce';const text=n.label.length>20?n.label.slice(0,20)+'…':n.label;ctx.fillText(text,p.x+9,p.y-5)}
+ }
+ $('#hud').textContent='X 层级深度 · Y 功能归属 · Z 实体层\n'+visible.length+' 个可见节点 / '+drawn+' 条关系';$('#hud').style.whiteSpace='pre-line';
+ $('#status').textContent='全图 '+graph.nodes.length+' 节点，'+graph.edges.length+' 条已记录关系。字段未执行保存验证。';
+}
+function choose(id){selected=id;const n=byId.get(id);$('#detail').replaceChildren();const title=document.createElement('b');title.textContent=n.label;const pre=document.createElement('pre');pre.textContent=JSON.stringify(Object.fromEntries(Object.entries(n).filter(([k])=>k!=='xyz')),null,2);$('#detail').append(title,pre);$('#neighbors').replaceChildren();
+ const es=adjacency.get(id);for(const e of es.slice(0,100)){const other=e.source===id?e.target:e.source,b=document.createElement('button');b.className='neighbor';b.textContent=(e.source===id?'→ ':'← ')+e.relation+' · '+byId.get(other).label;b.title=e.evidence;b.onclick=()=>choose(other);$('#neighbors').append(b)}
+ if(es.length>100){const p=document.createElement('p');p.textContent='仅列前100条；完整关系保存在graph.json。';$('#neighbors').append(p)}render();
+}
+$('#search').addEventListener('input',()=>{const q=$('#search').value.trim().toLowerCase();$('#results').replaceChildren();if(!q)return;const found=graph.nodes.filter(n=>(n.id+' '+n.label).toLowerCase().includes(q));for(const n of found.slice(0,25)){const b=document.createElement('button');b.textContent=typeNames[n.kind]+' · '+n.label;b.onclick=()=>{neighborhood=null;choose(n.id)};$('#results').append(b)}const p=document.createElement('p');p.className='muted';p.textContent=found.length+' 个匹配，显示前25个';$('#results').append(p)});
+$('#focus').onclick=()=>{if(!selected)return;const source=byId.get(selected).sourceId;if(graph.schema==='ielts-content-lineage-v1'&&source){const family=graph.nodes.filter(n=>n.sourceId===source).map(n=>n.id);const set=new Set(family);for(const e of graph.edges)if(set.has(e.source)&&byId.get(e.target).kind==='entry')family.push(e.target);neighborhood=new Set(family);}else neighborhood=new Set([selected,...adjacency.get(selected).flatMap(e=>[e.source,e.target])]);render()};
+$('#reset').onclick=()=>{neighborhood=null;yaw=-.42;pitch=.31;zoom=.83;render()};
+for(const id of ['relation','links','names'])$('#'+id).addEventListener('change',render);
+canvas.addEventListener('pointerdown',e=>{drag={x:e.clientX,y:e.clientY,startX:e.clientX,startY:e.clientY};moved=false;canvas.setPointerCapture(e.pointerId)});
+canvas.addEventListener('pointermove',e=>{if(!drag)return;const dx=e.clientX-drag.x,dy=e.clientY-drag.y;if(Math.hypot(e.clientX-drag.startX,e.clientY-drag.startY)>4)moved=true;yaw+=dx*.005;pitch=Math.max(-1.35,Math.min(1.35,pitch+dy*.005));drag.x=e.clientX;drag.y=e.clientY;render()});
+canvas.addEventListener('pointerup',e=>{if(!moved){const r=canvas.getBoundingClientRect(),x=e.clientX-r.left,y=e.clientY-r.top;const near=projected.map(p=>({p,d:Math.hypot(p.x-x,p.y-y)})).filter(x=>x.d<13).sort((a,b)=>a.d-b.d);if(near.length)choose(near[0].p.n.id)}drag=null});
+canvas.addEventListener('pointercancel',()=>{drag=null});canvas.addEventListener('wheel',e=>{e.preventDefault();zoom=Math.max(.2,Math.min(5,zoom*Math.exp(-e.deltaY*.001)));render()},{passive:false});
+new ResizeObserver(()=>{const r=parent.getBoundingClientRect();w=r.width;h=r.height;const d=window.devicePixelRatio||1;canvas.width=Math.round(w*d);canvas.height=Math.round(h*d);ctx.setTransform(d,0,0,d,0,0);render()}).observe(parent);
+choose('route:vocabulary-review');
+if(graph.schema==='ielts-content-lineage-v1')$('#focus').textContent='同源用途链';
+window.tensorInspector={graph,choose,getView:()=>({selected,neighborhood:neighborhood&&[...neighborhood],visible:projected.length,yaw,pitch,zoom})};
+</script></html>

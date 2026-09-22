@@ -1,0 +1,96 @@
+{
+  "pass": true,
+  "candidate_sha256": "e2b9e12e58c8f03de4b43b8ec6bdb1b81a15130ddceb6b80ea5fff6a3d742075",
+  "checked_at": "2026-09-21T18:33:09.227Z",
+  "scope": "Independent navigation, discovery, mobile layout and representative legacy learner journeys; synthetic isolated browser records only.",
+  "candidate": "product-repair-20260922/candidate.html",
+  "direct_final_evidence": [
+    {
+      "file": "qa/final-targeted.json",
+      "checks": [
+        "word to topic cards opens search in initial phone viewport",
+        "curriculum source actions",
+        "card favorite and original sentence draft restore",
+        "NAV01 global search origin query and result retained",
+        "JQ03 new category goes to top",
+        "return restores source list scroll",
+        "final mobile daily dock and health actions"
+      ]
+    },
+    {
+      "file": "qa/final-production.json",
+      "checks": [
+        "Actual curriculum card link opens the existing production exercise",
+        "Selected word is populated; prereq-vocab-use sentence answer persists after reload"
+      ]
+    }
+  ],
+  "inherited_evidence": {
+    "verified_sha256": "8650db419b3ce44f821cc3444152a05afe668bca939d6dfb91c99aa2d402c075",
+    "continuity": "qa/final-diff.json verifies exact unchanged navigation/catalog, record, daily and health scripts. Changed word-entry behavior is rechecked on the final SHA; writing changes are covered by the separate writing QA.",
+    "files": [
+      {
+        "file": "qa/combined-first-desktop.json",
+        "checks": "8 navigation entries, global search/return, three-word library and review actions, daily health"
+      },
+      {
+        "file": "qa/combined-first-mobile.json",
+        "checks": "same representative actions plus bottom navigation/more drawer and geometry"
+      },
+      {
+        "file": "qa/combined-first-compatibility.json",
+        "checks": [
+          "global search carries curriculum into card search",
+          "lookup history has independent panel and return to words",
+          "old daily actual answer close reading health and reload",
+          "category filter return and persistent self choice",
+          "test independently saved submitted and history retained after retry",
+          "personal source save and reload"
+        ],
+        "excluded": "Its failed initial word-card scroll measurement is superseded by the final-targeted pass."
+      },
+      {
+        "file": "qa/combined-first-routes.json",
+        "checks": "429 original targets exist and routing leaves exactly one active main panel; reachability only"
+      }
+    ]
+  },
+  "resolved_findings": [
+    {
+      "id": "JQ-01",
+      "result": "Filtered category and search remain when returning."
+    },
+    {
+      "id": "JQ-02",
+      "result": "Personal-material page no longer promises currently unavailable course generation."
+    },
+    {
+      "id": "JQ-03",
+      "result": "New category opens at scroll 0; returning restores 517 to 517 in final test."
+    },
+    {
+      "id": "NAV-01",
+      "result": "Global search opens cross-mode content and returns to the original query with one result."
+    },
+    {
+      "id": "NAV-02",
+      "result": "Word-card entry opens search at y295–339 in 390×844 final viewport."
+    }
+  ],
+  "screenshots": [
+    "qa/final-mobile-topical-search.png",
+    "qa/final-mobile-word-production.png",
+    "qa/final-mobile-search-return.png",
+    "qa/final-mobile-return-position.png",
+    "qa/combined-first-mobile-vocabulary-review.png",
+    "qa/combined-first-mobile-more.png",
+    "qa/combined-first-mobile-daily-start.png"
+  ],
+  "blocking_findings": [],
+  "limitations": [
+    "Desktop Edge and simulated 390×844 phone viewport; not real-device verification.",
+    "429 routes were checked for reachability on the immediately preceding 8650 candidate, not for completing every lesson.",
+    "Final writing feature/content validation belongs to separate writing QA; audio persistence and microphone tests belong to frontend QA.",
+    "This report does not establish public deployment, mainland access or final progressive-bundle verification."
+  ]
+}

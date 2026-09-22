@@ -1,0 +1,16 @@
+{
+  "sha256": "995eaf1ba6dbe896e117a580ce4cdafae854bd3d1ab3ed684e0c7b318f0c05ee",
+  "oldFields": 3371,
+  "newFields": 4059,
+  "addedFields": 688,
+  "oldUnits": 227,
+  "newUnits": 236,
+  "questions": 32,
+  "newQuestions": 26,
+  "task1": 8,
+  "task2": 24,
+  "idsUnique": true,
+  "protectedControllersUnchanged": true,
+  "existingDefaultsPreserved": true,
+  "pass": true
+}

@@ -1,0 +1,24 @@
+{
+  "pass": false,
+  "target": "C:\\Users\\Admin1\\Documents\\ChatGPT\\ielts\\product-repair-20260922\\frontend\\candidate.html",
+  "checks": [
+    {
+      "name": "Exact candidate loaded",
+      "detail": "02e3f9a3ee717ded0fff6217d6c3984934974a56cd9988fc97d3b830bf52bd05"
+    },
+    {
+      "name": "02: topic favorite, source, direct self-assessment, cancellation and reload agree"
+    },
+    {
+      "name": "02: failed favorite rolls back both checkbox and list"
+    },
+    {
+      "name": "03: exact material source, old unknown source, source highlight and return"
+    },
+    {
+      "name": "03: failed sentence save keeps old collection and editable draft"
+    }
+  ],
+  "errors": [],
+  "error": "page.waitForFunction: Timeout 30000ms exceeded.\n    at main (C:\\Users\\Admin1\\Documents\\ChatGPT\\ielts\\product-repair-20260922\\frontend\\qa.cjs:20:921)"
+}

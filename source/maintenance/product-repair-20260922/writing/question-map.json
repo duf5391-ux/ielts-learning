@@ -1,0 +1,720 @@
+[
+  {
+    "id": "ww-jobs",
+    "questionId": "wc-c21-t1-jobs",
+    "origin": "writing1-case-wc-c21-t1-jobs",
+    "title": "美国四行业就业：峰值、交叉与最终排名",
+    "skill": "writing1",
+    "version": 1,
+    "existing": true,
+    "aliases": [
+      {
+        "route": "writing1-case-wc-c21-t1-jobs",
+        "label": "练习段落",
+        "fields": [
+          "case-wc-c21-t1-jobs-answer",
+          "case-wc-c21-t1-jobs-revision"
+        ]
+      },
+      {
+        "route": "writing1-first",
+        "label": "学习",
+        "fields": [
+          "writing1-essay",
+          "writing1-revision"
+        ]
+      },
+      {
+        "route": "writing1-text-us-jobs",
+        "label": "学习",
+        "fields": []
+      },
+      {
+        "route": "pr-writing1-jobs",
+        "label": "练习局部",
+        "fields": [
+          "pr-writing1-jobs-q1",
+          "pr-writing1-jobs-q2"
+        ]
+      },
+      {
+        "route": "test-writing",
+        "label": "测试",
+        "fields": [
+          "full-test-writing-task1"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ww-cafe",
+    "questionId": "wc-c21-t2-cafe",
+    "origin": "writing1-case-wc-c21-t2-cafe",
+    "title": "学院咖啡厅改造：保留设施与功能替换",
+    "skill": "writing1",
+    "version": 1,
+    "existing": true,
+    "aliases": [
+      {
+        "route": "writing1-case-wc-c21-t2-cafe",
+        "label": "练习段落",
+        "fields": [
+          "case-wc-c21-t2-cafe-answer",
+          "case-wc-c21-t2-cafe-revision"
+        ]
+      },
+      {
+        "route": "pr-writing1-cafe",
+        "label": "练习局部",
+        "fields": [
+          "pr-writing1-cafe-q1",
+          "pr-writing1-cafe-q2"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ww-wc-c21-t3-rainshadow-v1",
+    "questionId": "wc-c21-t3-rainshadow",
+    "origin": "writing1-case-wc-c21-t3-rainshadow",
+    "title": "雨影沙漠：越山前后的水分变化",
+    "skill": "writing1",
+    "version": 1,
+    "existing": false,
+    "aliases": [
+      {
+        "route": "writing1-case-wc-c21-t3-rainshadow",
+        "label": "练习段落",
+        "fields": [
+          "case-wc-c21-t3-rainshadow-answer",
+          "case-wc-c21-t3-rainshadow-revision"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ww-wc-c21-t4-library-v1",
+    "questionId": "wc-c21-t4-library",
+    "origin": "writing1-case-wc-c21-t4-library",
+    "title": "图书馆用户与满意度：两图的不同分母",
+    "skill": "writing1",
+    "version": 1,
+    "existing": false,
+    "aliases": [
+      {
+        "route": "writing1-case-wc-c21-t4-library",
+        "label": "练习段落",
+        "fields": [
+          "case-wc-c21-t4-library-answer",
+          "case-wc-c21-t4-library-revision"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ww-wc-official-education-v1",
+    "questionId": "wc-official-education",
+    "origin": "writing1-case-wc-official-education",
+    "title": "英国继续教育：人数与学习形式",
+    "skill": "writing1",
+    "version": 1,
+    "existing": false,
+    "aliases": [
+      {
+        "route": "writing1-case-wc-official-education",
+        "label": "练习段落",
+        "fields": [
+          "case-wc-official-education-answer",
+          "case-wc-official-education-revision"
+        ]
+      },
+      {
+        "route": "writing1-text-further-education",
+        "label": "学习",
+        "fields": []
+      },
+      {
+        "route": "learn-writing1_compare_groups",
+        "label": "学习局部",
+        "fields": [
+          "enrich-writing1_compare_groups-answer",
+          "enrich-writing1_compare_groups-revision"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ww-wc-official-audiences-v1",
+    "questionId": "wc-official-audiences",
+    "origin": "writing1-case-wc-official-audiences",
+    "title": "广播与电视受众：同一天的双峰比较",
+    "skill": "writing1",
+    "version": 1,
+    "existing": false,
+    "aliases": [
+      {
+        "route": "writing1-case-wc-official-audiences",
+        "label": "练习段落",
+        "fields": [
+          "case-wc-official-audiences-answer",
+          "case-wc-official-audiences-revision"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ww-bricks",
+    "questionId": "wc-official-bricks",
+    "origin": "writing1-case-wc-official-bricks",
+    "title": "制砖：并行成形路径与温度阶段",
+    "skill": "writing1",
+    "version": 1,
+    "existing": true,
+    "aliases": [
+      {
+        "route": "writing1-case-wc-official-bricks",
+        "label": "练习段落",
+        "fields": [
+          "case-wc-official-bricks-answer",
+          "case-wc-official-bricks-revision"
+        ]
+      },
+      {
+        "route": "writing1-text-bricks",
+        "label": "学习",
+        "fields": []
+      },
+      {
+        "route": "pr-writing1-bricks",
+        "label": "练习局部",
+        "fields": [
+          "pr-writing1-bricks-q1",
+          "pr-writing1-bricks-q2"
+        ]
+      },
+      {
+        "route": "learn-writing1_process_branches",
+        "label": "学习局部",
+        "fields": [
+          "enrich-writing1_process_branches-answer",
+          "enrich-writing1_process_branches-revision"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ww-wc-official-bicycle-v1",
+    "questionId": "wc-official-bicycle",
+    "origin": "writing1-case-wc-official-bicycle",
+    "title": "自行车使用率：年龄比较与百分点差",
+    "skill": "writing1",
+    "version": 1,
+    "existing": false,
+    "aliases": [
+      {
+        "route": "writing1-case-wc-official-bicycle",
+        "label": "练习段落",
+        "fields": [
+          "case-wc-official-bicycle-answer",
+          "case-wc-official-bicycle-revision"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ww-housing",
+    "questionId": "wc-c21-t1-homes",
+    "origin": "writing2-case-wc-c21-t1-homes",
+    "title": "高层住宅是否是城市住房的最佳方案",
+    "skill": "writing2",
+    "version": 1,
+    "existing": true,
+    "aliases": [
+      {
+        "route": "writing2-case-wc-c21-t1-homes",
+        "label": "练习段落",
+        "fields": [
+          "case-wc-c21-t1-homes-answer",
+          "case-wc-c21-t1-homes-revision"
+        ]
+      },
+      {
+        "route": "pr-writing2-housing",
+        "label": "练习局部",
+        "fields": [
+          "pr-writing2-housing-q1",
+          "pr-writing2-housing-q2"
+        ]
+      },
+      {
+        "route": "test-writing",
+        "label": "测试",
+        "fields": [
+          "full-test-writing-task2"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ww-wc-c21-t2-entertainment-v1",
+    "questionId": "wc-c21-t2-entertainment",
+    "origin": "writing2-case-wc-c21-t2-entertainment",
+    "title": "线上娱乐与剧院影院的经济文化价值",
+    "skill": "writing2",
+    "version": 1,
+    "existing": false,
+    "aliases": [
+      {
+        "route": "writing2-case-wc-c21-t2-entertainment",
+        "label": "练习段落",
+        "fields": [
+          "case-wc-c21-t2-entertainment-answer",
+          "case-wc-c21-t2-entertainment-revision"
+        ]
+      },
+      {
+        "route": "writing2-first",
+        "label": "学习",
+        "fields": [
+          "writing2-essay",
+          "writing2-revision"
+        ]
+      },
+      {
+        "route": "writing2-text-theatres",
+        "label": "学习",
+        "fields": []
+      }
+    ]
+  },
+  {
+    "id": "ww-wc-c21-t3-placement-v1",
+    "questionId": "wc-c21-t3-placement",
+    "origin": "writing2-case-wc-c21-t3-placement",
+    "title": "本科海外学习或实习：收益能否超过代价",
+    "skill": "writing2",
+    "version": 1,
+    "existing": false,
+    "aliases": [
+      {
+        "route": "writing2-case-wc-c21-t3-placement",
+        "label": "练习段落",
+        "fields": [
+          "case-wc-c21-t3-placement-answer",
+          "case-wc-c21-t3-placement-revision"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ww-primary",
+    "questionId": "wc-c21-t4-primary",
+    "origin": "writing2-case-wc-c21-t4-primary",
+    "title": "小学正式学习与课堂游戏：两个问题分别回应",
+    "skill": "writing2",
+    "version": 1,
+    "existing": true,
+    "aliases": [
+      {
+        "route": "writing2-case-wc-c21-t4-primary",
+        "label": "练习段落",
+        "fields": [
+          "case-wc-c21-t4-primary-answer",
+          "case-wc-c21-t4-primary-revision"
+        ]
+      },
+      {
+        "route": "pr-writing2-primary",
+        "label": "练习局部",
+        "fields": [
+          "pr-writing2-primary-q1",
+          "pr-writing2-primary-q2"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ww-wc-official-wealth-v1",
+    "questionId": "wc-official-wealth",
+    "origin": "writing2-case-wc-official-wealth",
+    "title": "家庭财富与成年问题应对：避免绝对化",
+    "skill": "writing2",
+    "version": 1,
+    "existing": false,
+    "aliases": [
+      {
+        "route": "writing2-case-wc-official-wealth",
+        "label": "练习段落",
+        "fields": [
+          "case-wc-official-wealth-answer",
+          "case-wc-official-wealth-revision"
+        ]
+      },
+      {
+        "route": "writing2-text-family-wealth",
+        "label": "学习",
+        "fields": []
+      },
+      {
+        "route": "learn-writing2_position_mechanism",
+        "label": "学习局部",
+        "fields": [
+          "enrich-writing2_position_mechanism-answer",
+          "enrich-writing2_position_mechanism-revision"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ww-tourism",
+    "questionId": "wc-official-tourism",
+    "origin": "writing2-case-wc-official-tourism",
+    "title": "国际旅游：经济收益与社区成本如何比较",
+    "skill": "writing2",
+    "version": 1,
+    "existing": true,
+    "aliases": [
+      {
+        "route": "writing2-case-wc-official-tourism",
+        "label": "练习段落",
+        "fields": [
+          "case-wc-official-tourism-answer",
+          "case-wc-official-tourism-revision"
+        ]
+      },
+      {
+        "route": "writing2-text-tourism",
+        "label": "学习",
+        "fields": []
+      },
+      {
+        "route": "pr-writing2-tourism",
+        "label": "练习局部",
+        "fields": [
+          "pr-writing2-tourism-q1",
+          "pr-writing2-tourism-q2"
+        ]
+      },
+      {
+        "route": "learn-writing2_weigh_consequences",
+        "label": "学习局部",
+        "fields": [
+          "enrich-writing2_weigh_consequences-answer",
+          "enrich-writing2_weigh_consequences-revision"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ww-wc-official-science-v1",
+    "questionId": "wc-official-science",
+    "origin": "writing2-case-wc-official-science",
+    "title": "科研由政府控制：公共利益与研究多样性",
+    "skill": "writing2",
+    "version": 1,
+    "existing": false,
+    "aliases": [
+      {
+        "route": "writing2-case-wc-official-science",
+        "label": "练习段落",
+        "fields": [
+          "case-wc-official-science-answer",
+          "case-wc-official-science-revision"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ww-wc-official-transport-v1",
+    "questionId": "wc-official-transport",
+    "origin": "writing2-case-wc-official-transport",
+    "title": "鼓励替代交通与国际限车规定",
+    "skill": "writing2",
+    "version": 1,
+    "existing": false,
+    "aliases": [
+      {
+        "route": "writing2-case-wc-official-transport",
+        "label": "练习段落",
+        "fields": [
+          "case-wc-official-transport-answer",
+          "case-wc-official-transport-revision"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ww-wc-official-eldercare-v1",
+    "questionId": "wc-official-eldercare",
+    "origin": "writing2-case-wc-official-eldercare",
+    "title": "老年照护费用：政府与家庭如何分担",
+    "skill": "writing2",
+    "version": 1,
+    "existing": false,
+    "aliases": [
+      {
+        "route": "writing2-case-wc-official-eldercare",
+        "label": "练习段落",
+        "fields": [
+          "case-wc-official-eldercare-answer",
+          "case-wc-official-eldercare-revision"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ww-wc-bc-graduates-v1",
+    "questionId": "wc-bc-graduates",
+    "origin": "writing2-case-wc-bc-graduates",
+    "title": "高学历毕业生失业：原因和措施一一对应",
+    "skill": "writing2",
+    "version": 1,
+    "existing": false,
+    "aliases": [
+      {
+        "route": "writing2-case-wc-bc-graduates",
+        "label": "练习段落",
+        "fields": [
+          "case-wc-bc-graduates-answer",
+          "case-wc-bc-graduates-revision"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ww-wc-bc-overfishing-v1",
+    "questionId": "wc-bc-overfishing",
+    "origin": "writing2-case-wc-bc-overfishing",
+    "title": "过度捕捞：从激励与监管写到对策",
+    "skill": "writing2",
+    "version": 1,
+    "existing": false,
+    "aliases": [
+      {
+        "route": "writing2-case-wc-bc-overfishing",
+        "label": "练习段落",
+        "fields": [
+          "case-wc-bc-overfishing-answer",
+          "case-wc-bc-overfishing-revision"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ww-wc-bc-childhealth-v1",
+    "questionId": "wc-bc-childhealth",
+    "origin": "writing2-case-wc-bc-childhealth",
+    "title": "儿童肥胖：原因—措施对应而非空泛建议",
+    "skill": "writing2",
+    "version": 1,
+    "existing": false,
+    "aliases": [
+      {
+        "route": "writing2-case-wc-bc-childhealth",
+        "label": "练习段落",
+        "fields": [
+          "case-wc-bc-childhealth-answer",
+          "case-wc-bc-childhealth-revision"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ww-jiufen-20260921-adult-literacy-v1",
+    "questionId": "pr-jiufen-20260921-adult-literacy-v1",
+    "origin": "pr-jiufen-20260921-adult-literacy-v1",
+    "title": "成人读写困难 · Task 2",
+    "skill": "writing2",
+    "version": 1,
+    "existing": false,
+    "aliases": [
+      {
+        "route": "pr-jiufen-20260921-adult-literacy-v1",
+        "label": "练习",
+        "fields": [
+          "pr-jiufen-20260921-adult-literacy-v1-essay"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ww-jiufen-20260921-work-life-balance-v1",
+    "questionId": "pr-jiufen-20260921-work-life-balance-v1",
+    "origin": "pr-jiufen-20260921-work-life-balance-v1",
+    "title": "工作与生活的平衡 · Task 2",
+    "skill": "writing2",
+    "version": 1,
+    "existing": false,
+    "aliases": [
+      {
+        "route": "pr-jiufen-20260921-work-life-balance-v1",
+        "label": "练习",
+        "fields": [
+          "pr-jiufen-20260921-work-life-balance-v1-essay"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ww-jiufen-20260921-species-extinction-v1",
+    "questionId": "pr-jiufen-20260921-species-extinction-v1",
+    "origin": "pr-jiufen-20260921-species-extinction-v1",
+    "title": "自然灭绝与人为保护 · Task 2",
+    "skill": "writing2",
+    "version": 1,
+    "existing": false,
+    "aliases": [
+      {
+        "route": "pr-jiufen-20260921-species-extinction-v1",
+        "label": "练习",
+        "fields": [
+          "pr-jiufen-20260921-species-extinction-v1-essay"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ww-ieltsa-writing-202609-1-2-reference-v1",
+    "questionId": "ieltsa-writing-202609-1-2-reference-v1",
+    "origin": "pr-ieltsa-writing-202609-1-2-reference-v1",
+    "title": "全球文化趋同",
+    "skill": "writing2",
+    "version": 1,
+    "existing": false,
+    "aliases": [
+      {
+        "route": "pr-ieltsa-writing-202609-1-2-reference-v1",
+        "label": "完整题面",
+        "fields": []
+      }
+    ]
+  },
+  {
+    "id": "ww-ieltsa-writing-202609-2-2-reference-v1",
+    "questionId": "ieltsa-writing-202609-2-2-reference-v1",
+    "origin": "pr-ieltsa-writing-202609-2-2-reference-v1",
+    "title": "偏远自然地区旅游",
+    "skill": "writing2",
+    "version": 1,
+    "existing": false,
+    "aliases": [
+      {
+        "route": "pr-ieltsa-writing-202609-2-2-reference-v1",
+        "label": "完整题面",
+        "fields": []
+      }
+    ]
+  },
+  {
+    "id": "ww-ieltsa-writing-202609-3-2-reference-v1",
+    "questionId": "ieltsa-writing-202609-3-2-reference-v1",
+    "origin": "pr-ieltsa-writing-202609-3-2-reference-v1",
+    "title": "广告对消费者的影响",
+    "skill": "writing2",
+    "version": 1,
+    "existing": false,
+    "aliases": [
+      {
+        "route": "pr-ieltsa-writing-202609-3-2-reference-v1",
+        "label": "完整题面",
+        "fields": []
+      }
+    ]
+  },
+  {
+    "id": "ww-ieltsa-writing-202609-4-2-reference-v2",
+    "questionId": "ieltsa-writing-202609-4-2-reference-v2",
+    "origin": "pr-ieltsa-writing-202609-4-2-reference-v2",
+    "title": "儿童在校注意力",
+    "skill": "writing2",
+    "version": 2,
+    "existing": false,
+    "aliases": [
+      {
+        "route": "pr-ieltsa-writing-202609-4-2-reference-v2",
+        "label": "完整题面",
+        "fields": []
+      }
+    ]
+  },
+  {
+    "id": "ww-ieltsa-writing-202609-5-2-reference-v1",
+    "questionId": "ieltsa-writing-202609-5-2-reference-v1",
+    "origin": "pr-ieltsa-writing-202609-5-2-reference-v1",
+    "title": "儿童学习数学",
+    "skill": "writing2",
+    "version": 1,
+    "existing": false,
+    "aliases": [
+      {
+        "route": "pr-ieltsa-writing-202609-5-2-reference-v1",
+        "label": "完整题面",
+        "fields": []
+      }
+    ]
+  },
+  {
+    "id": "ww-ieltsa-writing-202609-6-2-reference-v1",
+    "questionId": "ieltsa-writing-202609-6-2-reference-v1",
+    "origin": "pr-ieltsa-writing-202609-6-2-reference-v1",
+    "title": "网络学习与学校",
+    "skill": "writing2",
+    "version": 1,
+    "existing": false,
+    "aliases": [
+      {
+        "route": "pr-ieltsa-writing-202609-6-2-reference-v1",
+        "label": "完整题面",
+        "fields": []
+      }
+    ]
+  },
+  {
+    "id": "ww-ieltsa-writing-202609-7-2-reference-v1",
+    "questionId": "ieltsa-writing-202609-7-2-reference-v1",
+    "origin": "pr-ieltsa-writing-202609-7-2-reference-v1",
+    "title": "中学国际新闻课程",
+    "skill": "writing2",
+    "version": 1,
+    "existing": false,
+    "aliases": [
+      {
+        "route": "pr-ieltsa-writing-202609-7-2-reference-v1",
+        "label": "完整题面",
+        "fields": []
+      }
+    ]
+  },
+  {
+    "id": "ww-ieltsa-writing-202609-8-2-reference-v1",
+    "questionId": "ieltsa-writing-202609-8-2-reference-v1",
+    "origin": "pr-ieltsa-writing-202609-8-2-reference-v1",
+    "title": "驾驶最低年龄",
+    "skill": "writing2",
+    "version": 1,
+    "existing": false,
+    "aliases": [
+      {
+        "route": "pr-ieltsa-writing-202609-8-2-reference-v1",
+        "label": "完整题面",
+        "fields": []
+      }
+    ]
+  },
+  {
+    "id": "ww-ieltsa-writing-202609-10-2-reference-v1",
+    "questionId": "ieltsa-writing-202609-10-2-reference-v1",
+    "origin": "pr-ieltsa-writing-202609-10-2-reference-v1",
+    "title": "独居趋势",
+    "skill": "writing2",
+    "version": 1,
+    "existing": false,
+    "aliases": [
+      {
+        "route": "pr-ieltsa-writing-202609-10-2-reference-v1",
+        "label": "完整题面",
+        "fields": []
+      }
+    ]
+  }
+]

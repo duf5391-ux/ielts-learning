@@ -1,0 +1,11 @@
+{
+  "source_html_sha256": "e2b9e12e58c8f03de4b43b8ec6bdb1b81a15130ddceb6b80ea5fff6a3d742075",
+  "published_html_sha256": "0bab2fa197699cb83087528a3769e4be81035420b70933eedcf56b1707a95336",
+  "progressive_manifest_sha256": "6ef1b8fc7dabd81b5f2a0335d0d4b1d1c185964ea555db03d6109fbdfb0714df",
+  "published_files": 1093,
+  "bytes": 261890674,
+  "source_fields": 4091,
+  "packed_pass": true,
+  "commit": "c84dab611f943c9e24b9a595321462392c96ef4a",
+  "initial_push": "HTTP 408; remote confirmed still previous commit, retrying same commit"
+}

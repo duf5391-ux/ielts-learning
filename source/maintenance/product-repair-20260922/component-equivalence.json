@@ -1,0 +1,19 @@
+{
+  "pass": true,
+  "candidate_sha256": "e2b9e12e58c8f03de4b43b8ec6bdb1b81a15130ddceb6b80ea5fff6a3d742075",
+  "tested_combination": "8650db419b3ce44f821cc3444152a05afe668bca939d6dfb91c99aa2d402c075",
+  "unchanged_components": {
+    "lookup-controller": "b0b4bbcc23afc4229fd402a1e5a0ba580bc067cd43e683817c427233a56f8813",
+    "vocabulary-review-controller": "44ceffc3c9277208664aa16f5c517032862b0c21871df7e24e4f496a7e04ac16",
+    "selection-tools-script": "2f4e6b6caf6bf05efee15e258acd25a334a88582612b70e4cf78005f8f22c8a8",
+    "learning-adjust-script": "84f0a84d266c30eee1091ece96ef5e76c010b9465ff645f5cb8f10809ec1b2e8",
+    "record-concurrency-model-script": "5e0890924a48b7490c16369e60aaf19be41dfe18158f57a2f5cfdaf426a6ec14",
+    "health-study-bridge-script": "a44818f84c6deb6fe30f0aa8d8cda242d1e2a985ea78bdf5316ce3c24dec0d8e",
+    "health-study-ui-script": "8144bd989d546046e76eb56696bdd488d3559788ffea05674b554416b1e25e2c",
+    "energy-control-script": "0248f614bb32d11cb9b2078bcbdc6ec42a18b5bd00c79da7e603d1b53ac5c6b8",
+    "daily-study-script": "634d5deadc7bb71c0269ee80aa3ae9bce3e89574f8b47e28efa4cea8aebbd090",
+    "daily-study-model-script": "4464303af89d917236f7f7f6f03ae6a126c6cb65ae38b0a09fccb21e74885dd2",
+    "speaking-recorder": "9c18e8022c9242b188661da3ea56735f1e93e1724984e6cd651c38302c2b0ed2"
+  },
+  "meaning": "The 13-check reliability run applies to these byte-identical components; navigation delta and writing directory are separately tested on final candidate."
+}

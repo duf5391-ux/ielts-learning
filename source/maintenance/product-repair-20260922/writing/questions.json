@@ -1,0 +1,1225 @@
+[
+  {
+    "id": "ww-jobs",
+    "questionId": "wc-c21-t1-jobs",
+    "version": 1,
+    "title": "美国四行业就业：峰值、交叉与最终排名",
+    "skill": "writing1",
+    "type": "折线图",
+    "prompt": "The graph below gives information about the number of jobs in four sectors of the economy in the US between 1960 and 2020.",
+    "instruction": "Summarise the information by selecting and reporting the main features, and make comparisons where relevant. Write at least 150 words.",
+    "image": "case-assets/writing-c21-30.png",
+    "sourceHtml": "<p class=\"case-source\">真题 · <a href=\"原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=30\" rel=\"noopener\" target=\"_blank\">Cambridge IELTS 21 Academic</a> · PDF 第 30 页</p>",
+    "source": {
+      "id": "8ee8170c-Cambridge IELTS 21 - Academic",
+      "originalUnit": "Cambridge IELTS 21 Academic · Test 1 · Task 1",
+      "title": "Cambridge IELTS 21 Academic",
+      "path": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf",
+      "page": 30,
+      "test": "Test 1 · Task 1",
+      "kind": "真题",
+      "sha256": "3b01561014db74bbaefd101b40e05f00eaa84008bbdbdbd6632c1d72a1212c68"
+    },
+    "origin": "writing1-case-wc-c21-t1-jobs",
+    "aliases": [
+      {
+        "route": "writing1-case-wc-c21-t1-jobs",
+        "label": "练习段落",
+        "fields": [
+          "case-wc-c21-t1-jobs-answer",
+          "case-wc-c21-t1-jobs-revision"
+        ]
+      },
+      {
+        "route": "writing1-first",
+        "label": "学习",
+        "fields": [
+          "writing1-essay",
+          "writing1-revision"
+        ]
+      },
+      {
+        "route": "writing1-text-us-jobs",
+        "label": "学习",
+        "fields": []
+      },
+      {
+        "route": "pr-writing1-jobs",
+        "label": "练习局部",
+        "fields": [
+          "pr-writing1-jobs-q1",
+          "pr-writing1-jobs-q2"
+        ]
+      },
+      {
+        "route": "test-writing",
+        "label": "测试",
+        "fields": [
+          "full-test-writing-task1"
+        ]
+      }
+    ],
+    "existing": true,
+    "prepHtml": "",
+    "confidence": "高（题面与来源已核对；练习讲解为编写内容）"
+  },
+  {
+    "id": "ww-cafe",
+    "questionId": "wc-c21-t2-cafe",
+    "version": 1,
+    "title": "学院咖啡厅改造：保留设施与功能替换",
+    "skill": "writing1",
+    "type": "地图",
+    "prompt": "The plans below show a college café before it was redesigned and how it looks now.",
+    "instruction": "Summarise the information by selecting and reporting the main features, and make comparisons where relevant. Write at least 150 words.",
+    "image": "case-assets/writing-c21-52.png",
+    "sourceHtml": "<p class=\"case-source\">真题 · <a href=\"原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=52\" rel=\"noopener\" target=\"_blank\">Cambridge IELTS 21 Academic</a> · PDF 第 52 页</p>",
+    "source": {
+      "id": "8ee8170c-Cambridge IELTS 21 - Academic",
+      "originalUnit": "Cambridge IELTS 21 Academic · Test 2 · Task 1",
+      "title": "Cambridge IELTS 21 Academic",
+      "path": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf",
+      "page": 52,
+      "test": "Test 2 · Task 1",
+      "kind": "真题",
+      "sha256": "3b01561014db74bbaefd101b40e05f00eaa84008bbdbdbd6632c1d72a1212c68"
+    },
+    "origin": "writing1-case-wc-c21-t2-cafe",
+    "aliases": [
+      {
+        "route": "writing1-case-wc-c21-t2-cafe",
+        "label": "练习段落",
+        "fields": [
+          "case-wc-c21-t2-cafe-answer",
+          "case-wc-c21-t2-cafe-revision"
+        ]
+      },
+      {
+        "route": "pr-writing1-cafe",
+        "label": "练习局部",
+        "fields": [
+          "pr-writing1-cafe-q1",
+          "pr-writing1-cafe-q2"
+        ]
+      }
+    ],
+    "existing": true,
+    "prepHtml": "",
+    "confidence": "高（题面与来源已核对；练习讲解为编写内容）"
+  },
+  {
+    "id": "ww-wc-c21-t3-rainshadow-v1",
+    "questionId": "wc-c21-t3-rainshadow",
+    "version": 1,
+    "title": "雨影沙漠：越山前后的水分变化",
+    "skill": "writing1",
+    "type": "自然流程图",
+    "prompt": "The diagram below shows how one type of desert, known as a rain-shadow desert, is formed.",
+    "instruction": "Summarise the information by selecting and reporting the main features, and make comparisons where relevant. Write at least 150 words.",
+    "image": "case-assets/writing-c21-73.png",
+    "sourceHtml": "<p class=\"case-source\">真题 · <a href=\"原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=73\" rel=\"noopener\" target=\"_blank\">Cambridge IELTS 21 Academic</a> · PDF 第 73 页</p>",
+    "source": {
+      "id": "8ee8170c-Cambridge IELTS 21 - Academic",
+      "originalUnit": "Cambridge IELTS 21 Academic · Test 3 · Task 1",
+      "title": "Cambridge IELTS 21 Academic",
+      "path": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf",
+      "page": 73,
+      "test": "Test 3 · Task 1",
+      "kind": "真题",
+      "sha256": "3b01561014db74bbaefd101b40e05f00eaa84008bbdbdbd6632c1d72a1212c68"
+    },
+    "origin": "writing1-case-wc-c21-t3-rainshadow",
+    "aliases": [
+      {
+        "route": "writing1-case-wc-c21-t3-rainshadow",
+        "label": "练习段落",
+        "fields": [
+          "case-wc-c21-t3-rainshadow-answer",
+          "case-wc-c21-t3-rainshadow-revision"
+        ]
+      }
+    ],
+    "existing": false,
+    "prepHtml": "",
+    "confidence": "高（题面与来源已核对；练习讲解为编写内容）"
+  },
+  {
+    "id": "ww-wc-c21-t4-library-v1",
+    "questionId": "wc-c21-t4-library",
+    "version": 1,
+    "title": "图书馆用户与满意度：两图的不同分母",
+    "skill": "writing1",
+    "type": "饼图与表格",
+    "prompt": "The chart and table below show the results of a survey of library users at a university.",
+    "instruction": "Summarise the information by selecting and reporting the main features, and make comparisons where relevant. Write at least 150 words.",
+    "image": "case-assets/writing-c21-95.png",
+    "sourceHtml": "<p class=\"case-source\">真题 · <a href=\"原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=95\" rel=\"noopener\" target=\"_blank\">Cambridge IELTS 21 Academic</a> · PDF 第 95 页</p>",
+    "source": {
+      "id": "8ee8170c-Cambridge IELTS 21 - Academic",
+      "originalUnit": "Cambridge IELTS 21 Academic · Test 4 · Task 1",
+      "title": "Cambridge IELTS 21 Academic",
+      "path": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf",
+      "page": 95,
+      "test": "Test 4 · Task 1",
+      "kind": "真题",
+      "sha256": "3b01561014db74bbaefd101b40e05f00eaa84008bbdbdbd6632c1d72a1212c68"
+    },
+    "origin": "writing1-case-wc-c21-t4-library",
+    "aliases": [
+      {
+        "route": "writing1-case-wc-c21-t4-library",
+        "label": "练习段落",
+        "fields": [
+          "case-wc-c21-t4-library-answer",
+          "case-wc-c21-t4-library-revision"
+        ]
+      }
+    ],
+    "existing": false,
+    "prepHtml": "",
+    "confidence": "高（题面与来源已核对；练习讲解为编写内容）"
+  },
+  {
+    "id": "ww-wc-official-education-v1",
+    "questionId": "wc-official-education",
+    "version": 1,
+    "title": "英国继续教育：人数与学习形式",
+    "skill": "writing1",
+    "type": "柱状图",
+    "prompt": "The chart below shows the number of men and women in further education in Britain in three periods and whether they were studying full-time or part-time.",
+    "instruction": "Summarise the information by selecting and reporting the main features, and make comparisons where relevant. Write at least 150 words.",
+    "image": "case-assets/writing-official-3.png",
+    "sourceHtml": "<p class=\"case-source\">官方样题 · <a href=\"case-assets/writing-official-sample-tasks-2023.pdf#page=3\" rel=\"noopener\" target=\"_blank\">IELTS Academic Writing Sample Tasks (2023)</a> · PDF 第 3 页</p>",
+    "source": {
+      "id": "writing-official-sample-tasks-2023",
+      "originalUnit": "IELTS Academic Writing Sample Tasks (2023) · Task 1A",
+      "title": "IELTS Academic Writing Sample Tasks (2023)",
+      "path": "case-assets/writing-official-sample-tasks-2023.pdf",
+      "page": 3,
+      "test": "Task 1A",
+      "kind": "官方样题",
+      "sha256": "f9b5b43fbb3f070741f970ecf2adbfaaef8b2f520eb5e2d350bae39557b1c7af"
+    },
+    "origin": "writing1-case-wc-official-education",
+    "aliases": [
+      {
+        "route": "writing1-case-wc-official-education",
+        "label": "练习段落",
+        "fields": [
+          "case-wc-official-education-answer",
+          "case-wc-official-education-revision"
+        ]
+      },
+      {
+        "route": "writing1-text-further-education",
+        "label": "学习",
+        "fields": []
+      },
+      {
+        "route": "learn-writing1_compare_groups",
+        "label": "学习局部",
+        "fields": [
+          "enrich-writing1_compare_groups-answer",
+          "enrich-writing1_compare_groups-revision"
+        ]
+      }
+    ],
+    "existing": false,
+    "prepHtml": "",
+    "confidence": "高（题面与来源已核对；练习讲解为编写内容）"
+  },
+  {
+    "id": "ww-wc-official-audiences-v1",
+    "questionId": "wc-official-audiences",
+    "version": 1,
+    "title": "广播与电视受众：同一天的双峰比较",
+    "skill": "writing1",
+    "type": "折线图",
+    "prompt": "The graph below shows radio and television audiences throughout the day in 1992.",
+    "instruction": "Summarise the information by selecting and reporting the main features, and make comparisons where relevant. Write at least 150 words.",
+    "image": "case-assets/writing-official-4.png",
+    "sourceHtml": "<p class=\"case-source\">官方样题 · <a href=\"case-assets/writing-official-sample-tasks-2023.pdf#page=4\" rel=\"noopener\" target=\"_blank\">IELTS Academic Writing Sample Tasks (2023)</a> · PDF 第 4 页</p>",
+    "source": {
+      "id": "writing-official-sample-tasks-2023",
+      "originalUnit": "IELTS Academic Writing Sample Tasks (2023) · Task 1B",
+      "title": "IELTS Academic Writing Sample Tasks (2023)",
+      "path": "case-assets/writing-official-sample-tasks-2023.pdf",
+      "page": 4,
+      "test": "Task 1B",
+      "kind": "官方样题",
+      "sha256": "f9b5b43fbb3f070741f970ecf2adbfaaef8b2f520eb5e2d350bae39557b1c7af"
+    },
+    "origin": "writing1-case-wc-official-audiences",
+    "aliases": [
+      {
+        "route": "writing1-case-wc-official-audiences",
+        "label": "练习段落",
+        "fields": [
+          "case-wc-official-audiences-answer",
+          "case-wc-official-audiences-revision"
+        ]
+      }
+    ],
+    "existing": false,
+    "prepHtml": "",
+    "confidence": "高（题面与来源已核对；练习讲解为编写内容）"
+  },
+  {
+    "id": "ww-bricks",
+    "questionId": "wc-official-bricks",
+    "version": 1,
+    "title": "制砖：并行成形路径与温度阶段",
+    "skill": "writing1",
+    "type": "制作流程图",
+    "prompt": "The diagram below shows the process by which bricks are manufactured for the building industry.",
+    "instruction": "Summarise the information by selecting and reporting the main features, and make comparisons where relevant. Write at least 150 words.",
+    "image": "case-assets/writing-official-5.png",
+    "sourceHtml": "<p class=\"case-source\">官方样题 · <a href=\"case-assets/writing-official-sample-tasks-2023.pdf#page=5\" rel=\"noopener\" target=\"_blank\">IELTS Academic Writing Sample Tasks (2023)</a> · PDF 第 5 页</p>",
+    "source": {
+      "id": "writing-official-sample-tasks-2023",
+      "originalUnit": "IELTS Academic Writing Sample Tasks (2023) · Task 1C",
+      "title": "IELTS Academic Writing Sample Tasks (2023)",
+      "path": "case-assets/writing-official-sample-tasks-2023.pdf",
+      "page": 5,
+      "test": "Task 1C",
+      "kind": "官方样题",
+      "sha256": "f9b5b43fbb3f070741f970ecf2adbfaaef8b2f520eb5e2d350bae39557b1c7af"
+    },
+    "origin": "writing1-case-wc-official-bricks",
+    "aliases": [
+      {
+        "route": "writing1-case-wc-official-bricks",
+        "label": "练习段落",
+        "fields": [
+          "case-wc-official-bricks-answer",
+          "case-wc-official-bricks-revision"
+        ]
+      },
+      {
+        "route": "writing1-text-bricks",
+        "label": "学习",
+        "fields": []
+      },
+      {
+        "route": "pr-writing1-bricks",
+        "label": "练习局部",
+        "fields": [
+          "pr-writing1-bricks-q1",
+          "pr-writing1-bricks-q2"
+        ]
+      },
+      {
+        "route": "learn-writing1_process_branches",
+        "label": "学习局部",
+        "fields": [
+          "enrich-writing1_process_branches-answer",
+          "enrich-writing1_process_branches-revision"
+        ]
+      }
+    ],
+    "existing": true,
+    "prepHtml": "",
+    "confidence": "高（题面与来源已核对；练习讲解为编写内容）"
+  },
+  {
+    "id": "ww-wc-official-bicycle-v1",
+    "questionId": "wc-official-bicycle",
+    "version": 1,
+    "title": "自行车使用率：年龄比较与百分点差",
+    "skill": "writing1",
+    "type": "表格",
+    "prompt": "The table below gives information about the percentage of the population by age group in one town who rode a bicycle in June 2011.",
+    "instruction": "Summarise the information by selecting and reporting the main features, and make comparisons where relevant. Write at least 150 words.",
+    "image": "case-assets/writing-bicycle-4.png",
+    "sourceHtml": "<p class=\"case-source\">官方样题 · <a href=\"case-assets/writing-official-large-print.pdf#page=4\" rel=\"noopener\" target=\"_blank\">IELTS Academic Writing — modified large print</a> · PDF 第 4 页</p>",
+    "source": {
+      "id": "writing-official-large-print",
+      "originalUnit": "IELTS Academic Writing — modified large print · Task 1",
+      "title": "IELTS Academic Writing — modified large print",
+      "path": "case-assets/writing-official-large-print.pdf",
+      "page": 4,
+      "test": "Task 1",
+      "kind": "官方样题",
+      "sha256": "63da18c3c3e5d70058552a7f9319b3984b8700eda9bc2ab4e687c898ea4a9651"
+    },
+    "origin": "writing1-case-wc-official-bicycle",
+    "aliases": [
+      {
+        "route": "writing1-case-wc-official-bicycle",
+        "label": "练习段落",
+        "fields": [
+          "case-wc-official-bicycle-answer",
+          "case-wc-official-bicycle-revision"
+        ]
+      }
+    ],
+    "existing": false,
+    "prepHtml": "",
+    "confidence": "高（题面与来源已核对；练习讲解为编写内容）"
+  },
+  {
+    "id": "ww-housing",
+    "questionId": "wc-c21-t1-homes",
+    "version": 1,
+    "title": "高层住宅是否是城市住房的最佳方案",
+    "skill": "writing2",
+    "type": "同意程度",
+    "prompt": "The best way to provide enough homes in large cities is to build tall apartment blocks. To what extent do you agree or disagree with this statement?",
+    "instruction": "Give reasons for your answer and include any relevant examples from your own knowledge or experience. Write at least 250 words.",
+    "image": null,
+    "sourceHtml": "<p class=\"case-source\">真题 · <a href=\"原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=31\" rel=\"noopener\" target=\"_blank\">Cambridge IELTS 21 Academic</a> · PDF 第 31 页</p>",
+    "source": {
+      "id": "8ee8170c-Cambridge IELTS 21 - Academic",
+      "originalUnit": "Cambridge IELTS 21 Academic · Test 1 · Task 2",
+      "title": "Cambridge IELTS 21 Academic",
+      "path": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf",
+      "page": 31,
+      "test": "Test 1 · Task 2",
+      "kind": "真题",
+      "sha256": "3b01561014db74bbaefd101b40e05f00eaa84008bbdbdbd6632c1d72a1212c68"
+    },
+    "origin": "writing2-case-wc-c21-t1-homes",
+    "aliases": [
+      {
+        "route": "writing2-case-wc-c21-t1-homes",
+        "label": "练习段落",
+        "fields": [
+          "case-wc-c21-t1-homes-answer",
+          "case-wc-c21-t1-homes-revision"
+        ]
+      },
+      {
+        "route": "pr-writing2-housing",
+        "label": "练习局部",
+        "fields": [
+          "pr-writing2-housing-q1",
+          "pr-writing2-housing-q2"
+        ]
+      },
+      {
+        "route": "test-writing",
+        "label": "测试",
+        "fields": [
+          "full-test-writing-task2"
+        ]
+      }
+    ],
+    "existing": true,
+    "prepHtml": "<section class=\"material-writing\" data-writing-case=\"wc-c21-t1-homes\" id=\"writing-prep-wc-c21-t1-homes\"><h3>写作前置 · 文中表达</h3><p class=\"mr-prep-note\">下面的表达来自阅读材料，例句按本题语境编写。选择确实需要的表达即可。</p><details class=\"mr-source-group\" data-reading-source=\"rd-c21-t3-dart-city\" id=\"writing-prep-wc-c21-t1-homes-from-rd-c21-t3-dart-city\"><summary>Dar es Salaam · 城市扩张与交通方案</summary><article class=\"mr-phrase\"><h4 lang=\"en\">on the periphery</h4><p>在城市外围</p><p>用于讨论住房位置与服务距离，需要说明外围扩张带来的具体条件，不能据此断定所有郊区住房都不好。</p><p class=\"mr-example-label\">本题例句 · 编写示范</p><blockquote lang=\"en\">Building more homes on the periphery may lengthen journeys to work if public transport does not expand at the same time.</blockquote><p>高层住宅题涉及如何在大城市提供足够住房；这一表达帮助比较外围扩张与紧凑建设的出行影响。</p></article><p><a href=\"#material-reading-rd-c21-t3-dart-city\">回到这份材料的精读</a></p></details><details class=\"mr-source-group\" data-reading-source=\"rd-c21-t3-dart-system\" id=\"writing-prep-wc-c21-t1-homes-from-rd-c21-t3-dart-system\"><summary>Dar es Salaam · 公交设计与实际故障</summary><article class=\"mr-phrase\"><h4 lang=\"en\">within a short walk of</h4><p>距……很近，步行即可到达</p><p>说明住房与公交网络的空间联系；是否足够近应由实际布局支持。</p><p class=\"mr-example-label\">本题例句 · 编写示范</p><blockquote lang=\"en\">Apartment blocks within a short walk of frequent public transport can provide more homes without making every resident dependent on a car.</blockquote><p>直接用于比较高层住宅的条件：密度优势需要交通可达性支持。</p></article><p><a href=\"#material-reading-rd-c21-t3-dart-system\">回到这份材料的精读</a></p></details></section>",
+    "confidence": "高（题面与来源已核对；练习讲解为编写内容）"
+  },
+  {
+    "id": "ww-wc-c21-t2-entertainment-v1",
+    "questionId": "wc-c21-t2-entertainment",
+    "version": 1,
+    "title": "线上娱乐与剧院影院的经济文化价值",
+    "skill": "writing2",
+    "type": "讨论双方",
+    "prompt": "Some people say that in the digital age, theatres and cinemas are no longer important as people can watch all the entertainment they want online. Others argue that theatres and cinemas are still important both economically and culturally. Discuss both these views and give your own opinion.",
+    "instruction": "Give reasons for your answer and include any relevant examples from your own knowledge or experience. Write at least 250 words.",
+    "image": null,
+    "sourceHtml": "<p class=\"case-source\">真题 · <a href=\"原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=53\" rel=\"noopener\" target=\"_blank\">Cambridge IELTS 21 Academic</a> · PDF 第 53 页</p>",
+    "source": {
+      "id": "8ee8170c-Cambridge IELTS 21 - Academic",
+      "originalUnit": "Cambridge IELTS 21 Academic · Test 2 · Task 2",
+      "title": "Cambridge IELTS 21 Academic",
+      "path": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf",
+      "page": 53,
+      "test": "Test 2 · Task 2",
+      "kind": "真题",
+      "sha256": "3b01561014db74bbaefd101b40e05f00eaa84008bbdbdbd6632c1d72a1212c68"
+    },
+    "origin": "writing2-case-wc-c21-t2-entertainment",
+    "aliases": [
+      {
+        "route": "writing2-case-wc-c21-t2-entertainment",
+        "label": "练习段落",
+        "fields": [
+          "case-wc-c21-t2-entertainment-answer",
+          "case-wc-c21-t2-entertainment-revision"
+        ]
+      },
+      {
+        "route": "writing2-first",
+        "label": "学习",
+        "fields": [
+          "writing2-essay",
+          "writing2-revision"
+        ]
+      },
+      {
+        "route": "writing2-text-theatres",
+        "label": "学习",
+        "fields": []
+      }
+    ],
+    "existing": false,
+    "prepHtml": "<section class=\"material-writing\" data-writing-case=\"wc-c21-t2-entertainment\" id=\"writing-prep-wc-c21-t2-entertainment\"><h3>写作前置 · 文中表达</h3><p class=\"mr-prep-note\">下面的表达来自阅读材料，例句按本题语境编写。选择确实需要的表达即可。</p><details class=\"mr-source-group\" data-reading-source=\"rd-c21-davies-2\" id=\"writing-prep-wc-c21-t2-entertainment-from-rd-c21-davies-2\"><summary>The Davies Sisters｜印象派转向与战时收藏</summary><article class=\"mr-phrase\"><h4 lang=\"en\">a vibrant artists' community</h4><p>一个充满活力的艺术家社群</p><p>适合与support、sustain、help build搭配，讨论实体文化空间如何为创作者提供交流和演出机会。这里借用表达描述一种可能作用，不把文中救助艺术家的历史直接当成剧院效果的证据。</p><p class=\"mr-example-label\">本题例句 · 编写示范</p><blockquote lang=\"en\">Local theatres can help sustain a vibrant artists' community by giving performers opportunities to work together and reach an audience.</blockquote><p>题目要求讨论剧院和影院的经济、文化价值；此表达适合展开剧院支持当地艺术生产和创作者交流的文化作用。</p></article><p><a href=\"#material-reading-rd-c21-davies-2\">回到这份材料的精读</a></p></details><details class=\"mr-source-group\" data-reading-source=\"rd-c21-davies-3\" id=\"writing-prep-wc-c21-t2-entertainment-from-rd-c21-davies-3\"><summary>The Davies Sisters｜收藏停止与文化遗产</summary><article class=\"mr-phrase\"><h4 lang=\"en\">a lasting and meaningful cultural legacy</h4><p>持久且有意义的文化遗产</p><p>可用于讨论文化活动对未来的贡献，但要写清通过什么机制传承，例如保留地方戏剧、作品或表演传统，不能只用抽象赞美代替解释。</p><p class=\"mr-example-label\">本题例句 · 编写示范</p><blockquote lang=\"en\">Theatres that preserve local plays and performance traditions can leave a lasting and meaningful cultural legacy for future generations.</blockquote><p>直接服务于实体剧院的文化价值：说明现场演出空间如何承载和传递传统，而不只比较观看的便利程度。</p></article><p><a href=\"#material-reading-rd-c21-davies-3\">回到这份材料的精读</a></p></details><details class=\"mr-source-group\" data-reading-source=\"rd-official-miles-2\" id=\"writing-prep-wc-c21-t2-entertainment-from-rd-official-miles-2\"><summary>Miles Davis：困境、跨界与创造力</summary><article class=\"mr-phrase\"><h4 lang=\"en\">draw wider audiences</h4><p>吸引范围更广的观众</p><p>可具体说明线上娱乐的可达性；观众范围扩大不等于线下场所失去全部文化价值。</p><p class=\"mr-example-label\">本题例句 · 编写示范</p><blockquote lang=\"en\">Online screenings can draw wider audiences than a small theatre can accommodate, especially when viewers live far from major cities.</blockquote><p>自编例句，直接回应线上娱乐的覆盖范围优势；can和especially保留条件，也为讨论剧院独有的现场体验留下空间。</p></article><p><a href=\"#material-reading-rd-official-miles-2\">回到这份材料的精读</a></p></details><details class=\"mr-source-group\" data-reading-source=\"rd-c21-ai-1\" id=\"writing-prep-wc-c21-t2-entertainment-from-rd-c21-ai-1\"><summary>Artificial Intelligence｜公众想象与解决一切的误区</summary><article class=\"mr-phrase\"><h4 lang=\"en\">no shortage of</h4><p>大量；不缺</p><p>可以承认数字内容数量充足，再讨论数量之外的体验差异。</p><p class=\"mr-example-label\">本题例句 · 编写示范</p><blockquote lang=\"en\">There is no shortage of films online, but access to a large catalogue does not reproduce the shared experience of a cinema.</blockquote><p>自编例句，直接回应线上娱乐与影院价值：先承认线上内容丰富，再解释共同观看体验这一文化维度。</p></article><p><a href=\"#material-reading-rd-c21-ai-1\">回到这份材料的精读</a></p></details></section>",
+    "confidence": "高（题面与来源已核对；练习讲解为编写内容）"
+  },
+  {
+    "id": "ww-wc-c21-t3-placement-v1",
+    "questionId": "wc-c21-t3-placement",
+    "version": 1,
+    "title": "本科海外学习或实习：收益能否超过代价",
+    "skill": "writing2",
+    "type": "利弊权衡",
+    "prompt": "All university undergraduate courses should include a period of time spent studying abroad or doing a work placement. Do you think the advantages of this would outweigh the disadvantages?",
+    "instruction": "Give reasons for your answer and include any relevant examples from your own knowledge or experience. Write at least 250 words.",
+    "image": null,
+    "sourceHtml": "<p class=\"case-source\">真题 · <a href=\"原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=74\" rel=\"noopener\" target=\"_blank\">Cambridge IELTS 21 Academic</a> · PDF 第 74 页</p>",
+    "source": {
+      "id": "8ee8170c-Cambridge IELTS 21 - Academic",
+      "originalUnit": "Cambridge IELTS 21 Academic · Test 3 · Task 2",
+      "title": "Cambridge IELTS 21 Academic",
+      "path": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf",
+      "page": 74,
+      "test": "Test 3 · Task 2",
+      "kind": "真题",
+      "sha256": "3b01561014db74bbaefd101b40e05f00eaa84008bbdbdbd6632c1d72a1212c68"
+    },
+    "origin": "writing2-case-wc-c21-t3-placement",
+    "aliases": [
+      {
+        "route": "writing2-case-wc-c21-t3-placement",
+        "label": "练习段落",
+        "fields": [
+          "case-wc-c21-t3-placement-answer",
+          "case-wc-c21-t3-placement-revision"
+        ]
+      }
+    ],
+    "existing": false,
+    "prepHtml": "<section class=\"material-writing\" data-writing-case=\"wc-c21-t3-placement\" id=\"writing-prep-wc-c21-t3-placement\"><h3>写作前置 · 文中表达</h3><p class=\"mr-prep-note\">下面的表达来自阅读材料，例句按本题语境编写。选择确实需要的表达即可。</p><details class=\"mr-source-group\" data-reading-source=\"rd-official-miles-1\" id=\"writing-prep-wc-c21-t3-placement-from-rd-official-miles-1\"><summary>Miles Davis：独特音色、双重教育与音乐遗产</summary><article class=\"mr-phrase\"><h4 lang=\"en\">a solid grounding in music theory</h4><p>扎实的乐理基础</p><p>可说明专业理论如何支持实践；不把理论学习与工作实习写成只能二选一。</p><p class=\"mr-example-label\">本题例句 · 编写示范</p><blockquote lang=\"en\">Music students with a solid grounding in music theory may learn to apply it during a placement in a recording studio.</blockquote><p>自编例句，适用于本科课程是否应包括实习：音乐专业作为具体例子，说明已有理论知识怎样在工作环境中应用；不代表所有专业都需要录音棚实习。</p></article><p><a href=\"#material-reading-rd-official-miles-1\">回到这份材料的精读</a></p></details></section>",
+    "confidence": "高（题面与来源已核对；练习讲解为编写内容）"
+  },
+  {
+    "id": "ww-primary",
+    "questionId": "wc-c21-t4-primary",
+    "version": 1,
+    "title": "小学正式学习与课堂游戏：两个问题分别回应",
+    "skill": "writing2",
+    "type": "双问",
+    "prompt": "Some people argue that primary schools focus too much on formal learning. To what extent do you agree with this opinion? How important do you think it is for children to play as well as learn in the primary school classroom?",
+    "instruction": "Give reasons for your answer and include any relevant examples from your own knowledge or experience. Write at least 250 words.",
+    "image": null,
+    "sourceHtml": "<p class=\"case-source\">真题 · <a href=\"原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf#page=96\" rel=\"noopener\" target=\"_blank\">Cambridge IELTS 21 Academic</a> · PDF 第 96 页</p>",
+    "source": {
+      "id": "8ee8170c-Cambridge IELTS 21 - Academic",
+      "originalUnit": "Cambridge IELTS 21 Academic · Test 4 · Task 2",
+      "title": "Cambridge IELTS 21 Academic",
+      "path": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf",
+      "page": 96,
+      "test": "Test 4 · Task 2",
+      "kind": "真题",
+      "sha256": "3b01561014db74bbaefd101b40e05f00eaa84008bbdbdbd6632c1d72a1212c68"
+    },
+    "origin": "writing2-case-wc-c21-t4-primary",
+    "aliases": [
+      {
+        "route": "writing2-case-wc-c21-t4-primary",
+        "label": "练习段落",
+        "fields": [
+          "case-wc-c21-t4-primary-answer",
+          "case-wc-c21-t4-primary-revision"
+        ]
+      },
+      {
+        "route": "pr-writing2-primary",
+        "label": "练习局部",
+        "fields": [
+          "pr-writing2-primary-q1",
+          "pr-writing2-primary-q2"
+        ]
+      }
+    ],
+    "existing": true,
+    "prepHtml": "<section class=\"material-writing\" data-writing-case=\"wc-c21-t4-primary\" id=\"writing-prep-wc-c21-t4-primary\"><h3>写作前置 · 文中表达</h3><p class=\"mr-prep-note\">下面的表达来自阅读材料，例句按本题语境编写。选择确实需要的表达即可。</p><details class=\"mr-source-group\" data-reading-source=\"rd-c21-t4-multilingual-background\" id=\"writing-prep-wc-c21-t4-primary-from-rd-c21-t4-multilingual-background\"><summary>Multilingualism · 迁移背景与研究目标</summary><article class=\"mr-phrase\"><h4 lang=\"en\">differs from the language used at home</h4><p>与家庭语言不同</p><p>适合解释某些儿童理解课堂内容时面临的额外要求，避免把语言差异等同于能力不足。</p><p class=\"mr-example-label\">本题例句 · 编写示范</p><blockquote lang=\"en\">When the language of classroom instruction differs from the language used at home, play with pictures and objects may help children understand and express ideas.</blockquote><p>小学正式学习与游戏题关注课堂学习体验；可用来说明具体情境下游戏和实物活动怎样支持理解，不把游戏宣称为所有语言困难的解决方案。</p></article><p><a href=\"#material-reading-rd-c21-t4-multilingual-background\">回到这份材料的精读</a></p></details><details class=\"mr-source-group\" data-reading-source=\"rd-c21-t4-multilingual-findings\" id=\"writing-prep-wc-c21-t4-primary-from-rd-c21-t4-multilingual-findings\"><summary>Multilingualism · 教学语言与出人意料的结果</summary><article class=\"mr-phrase\"><h4 lang=\"en\">little room for independent learning</h4><p>自主学习机会不足</p><p>用来描述过度由教师控制的课堂，需要说明儿童缺少哪些探索或表达机会。</p><p class=\"mr-example-label\">本题例句 · 编写示范</p><blockquote lang=\"en\">A timetable dominated by teacher-led exercises may leave little room for independent learning through play.</blockquote><p>与小学正式教学和课堂游戏的平衡直接吻合，可具体表达过度正式教学的局限。</p></article><p><a href=\"#material-reading-rd-c21-t4-multilingual-findings\">回到这份材料的精读</a></p></details></section>",
+    "confidence": "高（题面与来源已核对；练习讲解为编写内容）"
+  },
+  {
+    "id": "ww-wc-official-wealth-v1",
+    "questionId": "wc-official-wealth",
+    "version": 1,
+    "title": "家庭财富与成年问题应对：避免绝对化",
+    "skill": "writing2",
+    "type": "同意程度",
+    "prompt": "Children who are brought up in families that do not have large amounts of money are better prepared to deal with the problems of adult life than children brought up by wealthy parents. To what extent do you agree or disagree with this opinion?",
+    "instruction": "Give reasons for your answer and include any relevant examples from your own knowledge or experience. Write at least 250 words.",
+    "image": null,
+    "sourceHtml": "<p class=\"case-source\">官方样题 · <a href=\"case-assets/writing-official-sample-tasks-2023.pdf#page=6\" rel=\"noopener\" target=\"_blank\">IELTS Academic Writing Sample Tasks (2023)</a> · PDF 第 6 页</p>",
+    "source": {
+      "id": "writing-official-sample-tasks-2023",
+      "originalUnit": "IELTS Academic Writing Sample Tasks (2023) · Task 2A",
+      "title": "IELTS Academic Writing Sample Tasks (2023)",
+      "path": "case-assets/writing-official-sample-tasks-2023.pdf",
+      "page": 6,
+      "test": "Task 2A",
+      "kind": "官方样题",
+      "sha256": "f9b5b43fbb3f070741f970ecf2adbfaaef8b2f520eb5e2d350bae39557b1c7af"
+    },
+    "origin": "writing2-case-wc-official-wealth",
+    "aliases": [
+      {
+        "route": "writing2-case-wc-official-wealth",
+        "label": "练习段落",
+        "fields": [
+          "case-wc-official-wealth-answer",
+          "case-wc-official-wealth-revision"
+        ]
+      },
+      {
+        "route": "writing2-text-family-wealth",
+        "label": "学习",
+        "fields": []
+      },
+      {
+        "route": "learn-writing2_position_mechanism",
+        "label": "学习局部",
+        "fields": [
+          "enrich-writing2_position_mechanism-answer",
+          "enrich-writing2_position_mechanism-revision"
+        ]
+      }
+    ],
+    "existing": false,
+    "prepHtml": "<section class=\"material-writing\" data-writing-case=\"wc-official-wealth\" id=\"writing-prep-wc-official-wealth\"><h3>写作前置 · 文中表达</h3><p class=\"mr-prep-note\">下面的表达来自阅读材料，例句按本题语境编写。选择确实需要的表达即可。</p><details class=\"mr-source-group\" data-reading-source=\"rd-c21-t4-multilingual-findings\" id=\"writing-prep-wc-official-wealth-from-rd-c21-t4-multilingual-findings\"><summary>Multilingualism · 教学语言与出人意料的结果</summary><article class=\"mr-phrase\"><h4 lang=\"en\">essential for day-to-day survival</h4><p>日常生活维持所必需的</p><p>只在确实涉及生活压力时使用；可以讨论压力带来的某些实际经验，但不要据此美化贫困。</p><p class=\"mr-example-label\">本题例句 · 编写示范</p><blockquote lang=\"en\">Some children learn practical skills essential for day-to-day survival, but this does not mean that financial hardship prepares every child better for adulthood.</blockquote><p>家庭财富题比较成长资源与成年准备；原文提供了生活经验可能培养某些能力的思路，同时例句避免把局部观察扩大为贫困更好的结论。</p></article><p><a href=\"#material-reading-rd-c21-t4-multilingual-findings\">回到这份材料的精读</a></p></details></section>",
+    "confidence": "高（题面与来源已核对；练习讲解为编写内容）"
+  },
+  {
+    "id": "ww-tourism",
+    "questionId": "wc-official-tourism",
+    "version": 1,
+    "title": "国际旅游：经济收益与社区成本如何比较",
+    "skill": "writing2",
+    "type": "利弊权衡",
+    "prompt": "International tourism has brought enormous benefit to many places. At the same time, there is concern about its impact on local inhabitants and the environment. Do the disadvantages of international tourism outweigh the advantages?",
+    "instruction": "Give reasons for your answer and include any relevant examples from your own knowledge or experience. Write at least 250 words.",
+    "image": null,
+    "sourceHtml": "<p class=\"case-source\">官方样题 · <a href=\"case-assets/writing-official-sample-tasks-2023.pdf#page=7\" rel=\"noopener\" target=\"_blank\">IELTS Academic Writing Sample Tasks (2023)</a> · PDF 第 7 页</p>",
+    "source": {
+      "id": "writing-official-sample-tasks-2023",
+      "originalUnit": "IELTS Academic Writing Sample Tasks (2023) · Task 2B",
+      "title": "IELTS Academic Writing Sample Tasks (2023)",
+      "path": "case-assets/writing-official-sample-tasks-2023.pdf",
+      "page": 7,
+      "test": "Task 2B",
+      "kind": "官方样题",
+      "sha256": "f9b5b43fbb3f070741f970ecf2adbfaaef8b2f520eb5e2d350bae39557b1c7af"
+    },
+    "origin": "writing2-case-wc-official-tourism",
+    "aliases": [
+      {
+        "route": "writing2-case-wc-official-tourism",
+        "label": "练习段落",
+        "fields": [
+          "case-wc-official-tourism-answer",
+          "case-wc-official-tourism-revision"
+        ]
+      },
+      {
+        "route": "writing2-text-tourism",
+        "label": "学习",
+        "fields": []
+      },
+      {
+        "route": "pr-writing2-tourism",
+        "label": "练习局部",
+        "fields": [
+          "pr-writing2-tourism-q1",
+          "pr-writing2-tourism-q2"
+        ]
+      },
+      {
+        "route": "learn-writing2_weigh_consequences",
+        "label": "学习局部",
+        "fields": [
+          "enrich-writing2_weigh_consequences-answer",
+          "enrich-writing2_weigh_consequences-revision"
+        ]
+      }
+    ],
+    "existing": true,
+    "prepHtml": "<section class=\"material-writing\" data-writing-case=\"wc-official-tourism\" id=\"writing-prep-wc-official-tourism\"><h3>写作前置 · 文中表达</h3><p class=\"mr-prep-note\">下面的表达来自阅读材料，例句按本题语境编写。选择确实需要的表达即可。</p><details class=\"mr-source-group\" data-reading-source=\"rd-c21-silence-1\" id=\"writing-prep-wc-official-tourism-from-rd-c21-silence-1\"><summary>Why we need silence｜噪声风险与城市降噪</summary><article class=\"mr-phrase\"><h4 lang=\"en\">noise from aircraft</h4><p>飞机产生的噪声</p><p>可用于旅游活动对机场附近居民的影响，须说明航班增长这一具体联系；不能把所有旅游目的地的主要问题一律写成航空噪声。</p><p class=\"mr-example-label\">本题例句 · 编写示范</p><blockquote lang=\"en\">Where tourism leads to more frequent flights, noise from aircraft may become an additional burden for residents near airports.</blockquote><p>题目明确要求考虑旅游对当地居民与环境的影响；条件句把表达限定在航空活动增长的目的地。</p></article><p><a href=\"#material-reading-rd-c21-silence-1\">回到这份材料的精读</a></p></details><details class=\"mr-source-group\" data-reading-source=\"rd-c21-mapungubwe-2\" id=\"writing-prep-wc-official-tourism-from-rd-c21-mapungubwe-2\"><summary>Mapungubwe｜贸易、器物与衰落</summary><article class=\"mr-phrase\"><h4 lang=\"en\">placed too much stress on local resources</h4><p>给当地资源带来过大压力</p><p>可根据句子时态改为place或places，保留place stress on的搭配。谈旅游时应具体说明水、土地或公共设施等资源，不能把古代王国衰落直接当作现代旅游的实证。</p><p class=\"mr-example-label\">本题例句 · 编写示范</p><blockquote lang=\"en\">Uncontrolled growth in visitor numbers could place too much stress on local resources, especially water supplies during the dry season.</blockquote><p>题目讨论旅游对当地环境与居民的代价；资源压力能够具体解释游客增长可能产生的成本。</p></article><p><a href=\"#material-reading-rd-c21-mapungubwe-2\">回到这份材料的精读</a></p></details></section>",
+    "confidence": "高（题面与来源已核对；练习讲解为编写内容）"
+  },
+  {
+    "id": "ww-wc-official-science-v1",
+    "questionId": "wc-official-science",
+    "version": 1,
+    "title": "科研由政府控制：公共利益与研究多样性",
+    "skill": "writing2",
+    "type": "同意程度",
+    "prompt": "Scientific research should be carried out and controlled by governments, rather than by private companies. To what extent do you agree or disagree?",
+    "instruction": "Give reasons for your answer and include any relevant examples from your own knowledge or experience. Write at least 250 words.",
+    "image": null,
+    "sourceHtml": "<p class=\"case-source\">官方样题 · <a href=\"case-assets/writing-official-large-print.pdf#page=10\" rel=\"noopener\" target=\"_blank\">IELTS Academic Writing — modified large print</a> · PDF 第 10 页</p>",
+    "source": {
+      "id": "writing-official-large-print",
+      "originalUnit": "IELTS Academic Writing — modified large print · Task 2",
+      "title": "IELTS Academic Writing — modified large print",
+      "path": "case-assets/writing-official-large-print.pdf",
+      "page": 10,
+      "test": "Task 2",
+      "kind": "官方样题",
+      "sha256": "63da18c3c3e5d70058552a7f9319b3984b8700eda9bc2ab4e687c898ea4a9651"
+    },
+    "origin": "writing2-case-wc-official-science",
+    "aliases": [
+      {
+        "route": "writing2-case-wc-official-science",
+        "label": "练习段落",
+        "fields": [
+          "case-wc-official-science-answer",
+          "case-wc-official-science-revision"
+        ]
+      }
+    ],
+    "existing": false,
+    "prepHtml": "<section class=\"material-writing\" data-writing-case=\"wc-official-science\" id=\"writing-prep-wc-official-science\"><h3>写作前置 · 文中表达</h3><p class=\"mr-prep-note\">下面的表达来自阅读材料，例句按本题语境编写。选择确实需要的表达即可。</p><details class=\"mr-source-group\" data-reading-source=\"rd-c21-dreams-2\" id=\"writing-prep-wc-official-science-from-rd-c21-dreams-2\"><summary>Do animals dream?｜章鱼行为与研究边界</summary><article class=\"mr-phrase\"><h4 lang=\"en\">shed light on</h4><p>帮助增进理解</p><p>常见搭配是research/findings may shed light on a process or question。适合讨论基础研究的潜在贡献，同时保留may、could等程度词，不把研究方向写成已经证实的成果。</p><p class=\"mr-example-label\">本题例句 · 编写示范</p><blockquote lang=\"en\">Public funding can support basic research that may shed light on how memory works, even when there is no immediate commercial return.</blockquote><p>科研由政府还是企业控制的题目涉及研究激励；该表达可用于说明公共资金支持无即时商业回报的基础研究这一理由。它是写作中的政策论点，不是原文对资助模式作出的结论。</p></article><p><a href=\"#material-reading-rd-c21-dreams-2\">回到这份材料的精读</a></p></details><details class=\"mr-source-group\" data-reading-source=\"rd-c21-ai-1\" id=\"writing-prep-wc-official-science-from-rd-c21-ai-1\"><summary>Artificial Intelligence｜公众想象与解决一切的误区</summary><article class=\"mr-phrase\"><h4 lang=\"en\">setting unrealistic expectations about</h4><p>对……设定不切实际的预期</p><p>可在avoid等动词后保留setting形式，具体说明期待的成果或时间；不把所有期待都说成不切实际。</p><p class=\"mr-example-label\">本题例句 · 编写示范</p><blockquote lang=\"en\">Governments should avoid setting unrealistic expectations about how quickly publicly funded research can produce practical benefits.</blockquote><p>自编例句，贴合政府科研职责，说明资助研究时如何理解成果周期；并不据此推出应排除私营研究。</p></article><p><a href=\"#material-reading-rd-c21-ai-1\">回到这份材料的精读</a></p></details><details class=\"mr-source-group\" data-reading-source=\"rd-c21-ai-2\" id=\"writing-prep-wc-official-science-from-rd-c21-ai-2\"><summary>Artificial Intelligence｜公共部门实施条件</summary><article class=\"mr-phrase\"><h4 lang=\"en\">appropriate data infrastructure</h4><p>合适的数据基础设施</p><p>适合具体说明公共科研投入的基础条件；搭配provide或develop时仍需交代研究用途。</p><p class=\"mr-example-label\">本题例句 · 编写示范</p><blockquote lang=\"en\">Government funding can provide appropriate data infrastructure for long-term environmental research whose commercial returns are uncertain.</blockquote><p>自编例句，贴合政府资助具有公共价值、商业回报不确定的科研，具体化资金可以支持什么；不是说科研只能由政府执行。</p></article><article class=\"mr-phrase\"><h4 lang=\"en\">reap the benefits of</h4><p>实际获得……的益处</p><p>后接能够说明来源的资源、经验或合作成果，避免只写空泛的benefits。</p><p class=\"mr-example-label\">本题例句 · 编写示范</p><blockquote lang=\"en\">Public laboratories may reap the benefits of specialist knowledge held by private companies if they are allowed to collaborate.</blockquote><p>自编例句，直接回应政府与私企研究是否应排他：用有条件的合作说明可以利用不同主体的专业知识。</p></article><p><a href=\"#material-reading-rd-c21-ai-2\">回到这份材料的精读</a></p></details><details class=\"mr-source-group\" data-reading-source=\"rd-c21-ai-3\" id=\"writing-prep-wc-official-science-from-rd-c21-ai-3\"><summary>Artificial Intelligence｜部署边界、医疗与司法案例</summary><article class=\"mr-phrase\"><h4 lang=\"en\">minimise the potential harms</h4><p>尽量减少潜在伤害</p><p>适合与审查、监管和试验条件相连；不能声称审查可以保证消除全部风险。</p><p class=\"mr-example-label\">本题例句 · 编写示范</p><blockquote lang=\"en\">Independent review can help both public and private laboratories minimise the potential harms of experimental treatments.</blockquote><p>自编例句，直接回应科研应如何受到控制：提出可适用于公共和私营实验室的审查安排，不把监管等同于政府独占所有研究。</p></article><article class=\"mr-phrase\"><h4 lang=\"en\">be aware of the limitations of</h4><p>认识到……的局限</p><p>后接具体技术或方法；认识边界服务于判断用途，避免演变成空泛反科技态度。</p><p class=\"mr-example-label\">本题例句 · 编写示范</p><blockquote lang=\"en\">Research regulators need to be aware of the limitations of a new technology before approving its wider use.</blockquote><p>自编例句，贴合政府科研监督职责，把能力边界与是否批准扩大应用联系起来。</p></article><p><a href=\"#material-reading-rd-c21-ai-3\">回到这份材料的精读</a></p></details></section>",
+    "confidence": "高（题面与来源已核对；练习讲解为编写内容）"
+  },
+  {
+    "id": "ww-wc-official-transport-v1",
+    "questionId": "wc-official-transport",
+    "version": 1,
+    "title": "鼓励替代交通与国际限车规定",
+    "skill": "writing2",
+    "type": "同意程度",
+    "prompt": "The first car appeared on British roads in 1888. By the year 2000 there may be as many as 29 million vehicles on British roads. Alternative forms of transport should be encouraged and international laws introduced to control car ownership and use. To what extent do you agree or disagree?",
+    "instruction": "Give reasons for your answer and include any relevant examples from your own knowledge or experience. Write at least 250 words.",
+    "image": null,
+    "sourceHtml": "<p class=\"case-source\">官方样题 · <a href=\"case-assets/writing-official-transport.pdf#page=1\" rel=\"noopener\" target=\"_blank\">Cambridge / IELTS Academic Writing sample task</a> · PDF 第 1 页</p>",
+    "source": {
+      "id": "writing-official-transport",
+      "originalUnit": "Cambridge / IELTS Academic Writing sample task · Task 2A",
+      "title": "Cambridge / IELTS Academic Writing sample task",
+      "path": "case-assets/writing-official-transport.pdf",
+      "page": 1,
+      "test": "Task 2A",
+      "kind": "官方样题",
+      "sha256": "517ed812097338f32583a3ebe16d447cf9a85ea90409f4469ef2a1dcb1618f18"
+    },
+    "origin": "writing2-case-wc-official-transport",
+    "aliases": [
+      {
+        "route": "writing2-case-wc-official-transport",
+        "label": "练习段落",
+        "fields": [
+          "case-wc-official-transport-answer",
+          "case-wc-official-transport-revision"
+        ]
+      }
+    ],
+    "existing": false,
+    "prepHtml": "<section class=\"material-writing\" data-writing-case=\"wc-official-transport\" id=\"writing-prep-wc-official-transport\"><h3>写作前置 · 文中表达</h3><p class=\"mr-prep-note\">下面的表达来自阅读材料，例句按本题语境编写。选择确实需要的表达即可。</p><details class=\"mr-source-group\" data-reading-source=\"rd-c21-silence-1\" id=\"writing-prep-wc-official-transport-from-rd-c21-silence-1\"><summary>Why we need silence｜噪声风险与城市降噪</summary><article class=\"mr-phrase\"><h4 lang=\"en\">reducing noise from roads</h4><p>减少道路噪声</p><p>适合说明鼓励公共交通、步行或骑行可能带来的生活环境收益。需要具体写出减少何种车流或噪声源，不把交通方式改变等同于必然消除所有噪声。</p><p class=\"mr-example-label\">本题例句 · 编写示范</p><blockquote lang=\"en\">Replacing some private car journeys with walking or cycling can make residential areas more pleasant by reducing noise from roads.</blockquote><p>题目讨论鼓励替代交通与限制车辆使用；道路噪声是与车辆使用直接相关的生活环境理由。</p></article><p><a href=\"#material-reading-rd-c21-silence-1\">回到这份材料的精读</a></p></details><details class=\"mr-source-group\" data-reading-source=\"rd-c21-t3-dart-city\" id=\"writing-prep-wc-official-transport-from-rd-c21-t3-dart-city\"><summary>Dar es Salaam · 城市扩张与交通方案</summary><article class=\"mr-phrase\"><h4 lang=\"en\">a future controlled by the private car</h4><p>由私家车主导的未来</p><p>适合描述城市发展的整体方向，随后应解释公共交通如何提供现实替代。</p><p class=\"mr-example-label\">本题例句 · 编写示范</p><blockquote lang=\"en\">Investment in reliable public transport can help cities avoid a future controlled by the private car.</blockquote><p>直接回应交通题鼓励替代交通方式的主张；不自动推出必须统一限制所有地区的汽车拥有量。</p></article><p><a href=\"#material-reading-rd-c21-t3-dart-city\">回到这份材料的精读</a></p></details><details class=\"mr-source-group\" data-reading-source=\"rd-c21-t3-dart-system\" id=\"writing-prep-wc-official-transport-from-rd-c21-t3-dart-system\"><summary>Dar es Salaam · 公交设计与实际故障</summary><article class=\"mr-phrase\"><h4 lang=\"en\">accessible to people using wheelchairs</h4><p>便于轮椅使用者使用</p><p>用于说明公共交通替代方案应照顾不同乘客；需配合无台阶入口、站台等具体设计。</p><p class=\"mr-example-label\">本题例句 · 编写示范</p><blockquote lang=\"en\">Buses should be accessible to people using wheelchairs so that alternatives to cars serve passengers with different mobility needs.</blockquote><p>交通题中的替代方式不只是增加车辆，还包括让不同人群能实际使用。</p></article><article class=\"mr-phrase\"><h4 lang=\"en\">within a short walk of</h4><p>距……很近，步行即可到达</p><p>说明住房与公交网络的空间联系；是否足够近应由实际布局支持。</p><p class=\"mr-example-label\">本题例句 · 编写示范</p><blockquote lang=\"en\">More residents may choose buses if their homes are within a short walk of a reliable route.</blockquote><p>说明公交替代汽车所需的接近性与可靠性，连接设施安排和出行选择。</p></article><p><a href=\"#material-reading-rd-c21-t3-dart-system\">回到这份材料的精读</a></p></details></section>",
+    "confidence": "高（题面与来源已核对；练习讲解为编写内容）"
+  },
+  {
+    "id": "ww-wc-official-eldercare-v1",
+    "questionId": "wc-official-eldercare",
+    "version": 1,
+    "title": "老年照护费用：政府与家庭如何分担",
+    "skill": "writing2",
+    "type": "观点选择",
+    "prompt": "In Britain, when someone gets old they often go to live in a home with other old people where there are nurses to look after them. Sometimes the government has to pay for this care. Who do you think should pay for this care, the government or the family?",
+    "instruction": "Give reasons for your answer and include any relevant examples from your own knowledge or experience. Write at least 250 words.",
+    "image": null,
+    "sourceHtml": "<p class=\"case-source\">官方样题 · <a href=\"case-assets/writing-official-elder-care.pdf#page=1\" rel=\"noopener\" target=\"_blank\">Cambridge / IELTS General Training Writing sample task</a> · PDF 第 1 页</p>",
+    "source": {
+      "id": "writing-official-elder-care",
+      "originalUnit": "Cambridge / IELTS General Training Writing sample task · Task 2",
+      "title": "Cambridge / IELTS General Training Writing sample task",
+      "path": "case-assets/writing-official-elder-care.pdf",
+      "page": 1,
+      "test": "Task 2",
+      "kind": "官方样题",
+      "sha256": "89aaee37c110e038fa1676636d33127d4d09f4ee3f47573bf086e3030d5fec07"
+    },
+    "origin": "writing2-case-wc-official-eldercare",
+    "aliases": [
+      {
+        "route": "writing2-case-wc-official-eldercare",
+        "label": "练习段落",
+        "fields": [
+          "case-wc-official-eldercare-answer",
+          "case-wc-official-eldercare-revision"
+        ]
+      }
+    ],
+    "existing": false,
+    "prepHtml": "",
+    "confidence": "高（题面与来源已核对；练习讲解为编写内容）"
+  },
+  {
+    "id": "ww-wc-bc-graduates-v1",
+    "questionId": "wc-bc-graduates",
+    "version": 1,
+    "title": "高学历毕业生失业：原因和措施一一对应",
+    "skill": "writing2",
+    "type": "原因与措施",
+    "prompt": "In many countries today there are many highly qualified graduates without employment. What factors may have caused this situation and what, in your opinion, can/should be done about it?",
+    "instruction": "Give reasons for your answer and include any relevant examples from your own knowledge or experience. Write at least 250 words.",
+    "image": null,
+    "sourceHtml": "<p class=\"case-source\">官方教辅 · <a href=\"原始参考/9464a2d7-5bfdf909-writing_task_2_developing_paragraphs.pdf#page=10\" rel=\"noopener\" target=\"_blank\">British Council — Writing Task 2: Developing paragraphs</a> · PDF 第 10 页</p>",
+    "source": {
+      "id": "9464a2d7-5bfdf909-writing_task_2_developing_paragraphs",
+      "originalUnit": "British Council — Writing Task 2: Developing paragraphs · Worksheet 3",
+      "title": "British Council — Writing Task 2: Developing paragraphs",
+      "path": "原始参考/9464a2d7-5bfdf909-writing_task_2_developing_paragraphs.pdf",
+      "page": 10,
+      "test": "Worksheet 3",
+      "kind": "官方教辅",
+      "sha256": "27e90c086727e88f7b06035e7faebfae91ff52aea7a2f46bf11bee36f50e63e4"
+    },
+    "origin": "writing2-case-wc-bc-graduates",
+    "aliases": [
+      {
+        "route": "writing2-case-wc-bc-graduates",
+        "label": "练习段落",
+        "fields": [
+          "case-wc-bc-graduates-answer",
+          "case-wc-bc-graduates-revision"
+        ]
+      }
+    ],
+    "existing": false,
+    "prepHtml": "",
+    "confidence": "高（题面与来源已核对；练习讲解为编写内容）"
+  },
+  {
+    "id": "ww-wc-bc-overfishing-v1",
+    "questionId": "wc-bc-overfishing",
+    "version": 1,
+    "title": "过度捕捞：从激励与监管写到对策",
+    "skill": "writing2",
+    "type": "原因与措施",
+    "prompt": "Overfishing of the world’s oceans threatens many species with extinction and is putting the livelihood of millions of people around the world at risk. What are the causes of this problem and what can be done to prevent it from happening?",
+    "instruction": "Give reasons for your answer and include any relevant examples from your own knowledge or experience. Write at least 250 words.",
+    "image": null,
+    "sourceHtml": "<p class=\"case-source\">官方教辅 · <a href=\"扩展资料/609824ad-writing_task_2_problems_and_solutions_.pdf#page=7\" rel=\"noopener\" target=\"_blank\">British Council — Writing Task 2: Problems and solutions</a> · PDF 第 7 页</p>",
+    "source": {
+      "id": "609824ad-writing_task_2_problems_and_solutions_",
+      "originalUnit": "British Council — Writing Task 2: Problems and solutions · Worksheet 1",
+      "title": "British Council — Writing Task 2: Problems and solutions",
+      "path": "扩展资料/609824ad-writing_task_2_problems_and_solutions_.pdf",
+      "page": 7,
+      "test": "Worksheet 1",
+      "kind": "官方教辅",
+      "sha256": "26b2516d21ab293691d1f22d606830fddb71f3e80f0e5a060b9b6d7552cd0207"
+    },
+    "origin": "writing2-case-wc-bc-overfishing",
+    "aliases": [
+      {
+        "route": "writing2-case-wc-bc-overfishing",
+        "label": "练习段落",
+        "fields": [
+          "case-wc-bc-overfishing-answer",
+          "case-wc-bc-overfishing-revision"
+        ]
+      }
+    ],
+    "existing": false,
+    "prepHtml": "<section class=\"material-writing\" data-writing-case=\"wc-bc-overfishing\" id=\"writing-prep-wc-bc-overfishing\"><h3>写作前置 · 文中表达</h3><p class=\"mr-prep-note\">下面的表达来自阅读材料，例句按本题语境编写。选择确实需要的表达即可。</p><details class=\"mr-source-group\" data-reading-source=\"rd-c21-sugar-1\" id=\"writing-prep-wc-bc-overfishing-from-rd-c21-sugar-1\"><summary>The World of Sugar｜全球贸易与误解纠正</summary><article class=\"mr-phrase\"><h4 lang=\"en\">threatening the livelihood of</h4><p>威胁……的生计</p><p>适合用于描述资源衰退或不公平竞争怎样影响依赖某产业谋生的人。可以作为结果分词短语，但要让前面的原因具体可理解。</p><p class=\"mr-example-label\">本题例句 · 编写示范</p><blockquote lang=\"en\">Overfishing can deplete local fish stocks, threatening the livelihood of small-scale fishing communities.</blockquote><p>现有题目明确谈过度捕捞对数百万人生计的风险；表达可直接连接鱼类资源减少与沿海家庭收入受损。</p></article><p><a href=\"#material-reading-rd-c21-sugar-1\">回到这份材料的精读</a></p></details><details class=\"mr-source-group\" data-reading-source=\"rd-c21-t3-saiga-adaptation\" id=\"writing-prep-wc-bc-overfishing-from-rd-c21-t3-saiga-adaptation\"><summary>Saving the saiga · 生存适应与早期数量变化</summary><article class=\"mr-phrase\"><h4 lang=\"en\">on an industrial scale</h4><p>以极大的、工业化的规模</p><p>适合描述技术与设备使资源开采规模扩大；不能把所有小型经营都称为 industrial scale。</p><p class=\"mr-example-label\">本题例句 · 编写示范</p><blockquote lang=\"en\">Large vessels can remove fish on an industrial scale, making effective limits on catches essential.</blockquote><p>过度捕捞题讨论捕捞能力与生态压力，大型船舶造成的规模效应与原文大规模猎杀直接相关。</p></article><article class=\"mr-phrase\"><h4 lang=\"en\">relieve the pressure on</h4><p>减轻……所承受的压力</p><p>说明措施帮助哪个对象；on 后接鱼群、生态系统等，随后解释压力怎样减少。</p><p class=\"mr-example-label\">本题例句 · 编写示范</p><blockquote lang=\"en\">Temporary closures can relieve the pressure on vulnerable fish stocks by allowing them time to reproduce.</blockquote><p>直接用于过度捕捞的措施段，把休渔与鱼群恢复相连；不套用赛加保护倡议的历史结果。</p></article><p><a href=\"#material-reading-rd-c21-t3-saiga-adaptation\">回到这份材料的精读</a></p></details><details class=\"mr-source-group\" data-reading-source=\"rd-c21-t3-saiga-threats\" id=\"writing-prep-wc-bc-overfishing-from-rd-c21-t3-saiga-threats\"><summary>Saving the saiga · 栖息地、疾病、气候与恢复</summary><article class=\"mr-phrase\"><h4 lang=\"en\">working in partnership with</h4><p>与……共同合作</p><p>适合说明跨地区生态治理的合作关系，应明确谁和谁合作以及共同处理什么问题。</p><p class=\"mr-example-label\">本题例句 · 编写示范</p><blockquote lang=\"en\">Coastal authorities, working in partnership with neighbouring countries, can coordinate limits on catches from shared fish stocks.</blockquote><p>过度捕捞涉及跨界鱼群，原文跨境物种保护中的机构协作与共享海域监管高度吻合。</p></article><article class=\"mr-phrase\"><h4 lang=\"en\">protect and restore</h4><p>保护并修复</p><p>protect 强调避免进一步破坏，restore 强调恢复已经受损的状态；并列时应同时存在预防与修复需要。</p><p class=\"mr-example-label\">本题例句 · 编写示范</p><blockquote lang=\"en\">Fishing restrictions should protect and restore marine ecosystems while allowing communities time to adapt.</blockquote><p>可用于说明限制捕捞的生态目标，并与题目中的渔业生计相衔接。</p></article><p><a href=\"#material-reading-rd-c21-t3-saiga-threats\">回到这份材料的精读</a></p></details></section>",
+    "confidence": "高（题面与来源已核对；练习讲解为编写内容）"
+  },
+  {
+    "id": "ww-wc-bc-childhealth-v1",
+    "questionId": "wc-bc-childhealth",
+    "version": 1,
+    "title": "儿童肥胖：原因—措施对应而非空泛建议",
+    "skill": "writing2",
+    "type": "原因与措施",
+    "prompt": "A rise in childhood obesity is a real threat to health with an increasing number of children now classified as overweight. What are the causes of the problem and what measures can be taken to solve them?",
+    "instruction": "Give reasons for your answer and include any relevant examples from your own knowledge or experience. Write at least 250 words.",
+    "image": null,
+    "sourceHtml": "<p class=\"case-source\">官方教辅 · <a href=\"扩展资料/609824ad-writing_task_2_problems_and_solutions_.pdf#page=12\" rel=\"noopener\" target=\"_blank\">British Council — Writing Task 2: Problems and solutions</a> · PDF 第 12 页</p>",
+    "source": {
+      "id": "609824ad-writing_task_2_problems_and_solutions_",
+      "originalUnit": "British Council — Writing Task 2: Problems and solutions · Worksheet 5",
+      "title": "British Council — Writing Task 2: Problems and solutions",
+      "path": "扩展资料/609824ad-writing_task_2_problems_and_solutions_.pdf",
+      "page": 12,
+      "test": "Worksheet 5",
+      "kind": "官方教辅",
+      "sha256": "26b2516d21ab293691d1f22d606830fddb71f3e80f0e5a060b9b6d7552cd0207"
+    },
+    "origin": "writing2-case-wc-bc-childhealth",
+    "aliases": [
+      {
+        "route": "writing2-case-wc-bc-childhealth",
+        "label": "练习段落",
+        "fields": [
+          "case-wc-bc-childhealth-answer",
+          "case-wc-bc-childhealth-revision"
+        ]
+      }
+    ],
+    "existing": false,
+    "prepHtml": "<section class=\"material-writing\" data-writing-case=\"wc-bc-childhealth\" id=\"writing-prep-wc-bc-childhealth\"><h3>写作前置 · 文中表达</h3><p class=\"mr-prep-note\">下面的表达来自阅读材料，例句按本题语境编写。选择确实需要的表达即可。</p><details class=\"mr-source-group\" data-reading-source=\"rd-c21-sugar-3\" id=\"writing-prep-wc-bc-childhealth-from-rd-c21-sugar-3\"><summary>The World of Sugar｜工业化、消费与作者立场</summary><article class=\"mr-phrase\"><h4 lang=\"en\">attempts to reduce consumption</h4><p>降低消费量的努力</p><p>在健康话题里要补清consumption指什么，例如含糖饮料，而不是笼统主张减少所有食品消费。适合描述措施与商业激励之间的关系。</p><p class=\"mr-example-label\">本题例句 · 编写示范</p><blockquote lang=\"en\">Attempts to reduce consumption of sugary drinks among children are more likely to succeed when healthier alternatives are affordable and easy to obtain.</blockquote><p>儿童肥胖题要求提出措施；这句话把减少含糖饮料摄入与可负担替代品联系起来，强调环境支持而非只责怪个人自控。</p></article><article class=\"mr-phrase\"><h4 lang=\"en\">a large number of processed foods</h4><p>大量加工食品</p><p>可讨论配方、标签或食品环境，但加工食品并非全部有相同营养特征，例句应限定要比较的成分。</p><p class=\"mr-example-label\">本题例句 · 编写示范</p><blockquote lang=\"en\">When added sugar is present in a large number of processed foods, clear labels can help parents compare products more easily.</blockquote><p>适合儿童肥胖措施段中的食品信息环境；条件句聚焦添加糖与标签，避免把所有加工食品概括为有害。</p></article><p><a href=\"#material-reading-rd-c21-sugar-3\">回到这份材料的精读</a></p></details><details class=\"mr-source-group\" data-reading-source=\"rd-gap-academic-short-answer-health\" id=\"writing-prep-wc-bc-childhealth-from-rd-gap-academic-short-answer-health\"><summary>健康观念变化：年份、十年与三大领域</summary><article class=\"mr-phrase\"><h4 lang=\"en\">the social and environmental conditions</h4><p>社会与环境条件</p><p>适合说明健康行为受到可获得资源与生活环境的影响；必须接具体机制，不把抽象词组当成完整原因。</p><p class=\"mr-example-label\">本题例句 · 编写示范</p><blockquote lang=\"en\">Measures to reduce childhood obesity should address the social and environmental conditions that make nutritious food and safe places to play difficult to access.</blockquote><p>自编例句，直接对应儿童肥胖的原因与措施：把食物和活动空间的可达性作为可以改善的具体条件，不把所有责任归于儿童个人。</p></article><article class=\"mr-phrase\"><h4 lang=\"en\">maintain healthy behaviours and lifestyles</h4><p>维持有益健康的行为与生活方式</p><p>与提供条件和持续支持搭配；不承诺一项措施可以单独消除儿童肥胖。</p><p class=\"mr-example-label\">本题例句 · 编写示范</p><blockquote lang=\"en\">Schools can help children maintain healthy behaviours and lifestyles by providing regular opportunities for physical activity and nutritious meals.</blockquote><p>自编例句，用学校可采取的具体支持回应儿童肥胖题的措施部分；can表示可能贡献，不宣称所有儿童会因此获得相同结果。</p></article><p><a href=\"#material-reading-rd-gap-academic-short-answer-health\">回到这份材料的精读</a></p></details></section>",
+    "confidence": "高（题面与来源已核对；练习讲解为编写内容）"
+  },
+  {
+    "id": "ww-jiufen-20260921-adult-literacy-v1",
+    "questionId": "pr-jiufen-20260921-adult-literacy-v1",
+    "version": 1,
+    "title": "成人读写困难 · Task 2",
+    "skill": "writing2",
+    "type": "Task 2",
+    "prompt": "Despite better access to education, many adults today still cannot read or write. In what ways are they disadvantaged? What can governments do to help them? Give reasons for your answer and include any relevant examples from your own knowledge or experience.",
+    "instruction": "Write at least 250 words.",
+    "image": null,
+    "sourceHtml": "<p class=\"small\">来源：<a href=\"https://www.9fnnn.com/\" rel=\"noopener\" target=\"_blank\">九分学长</a> · 资料ID 2083004583069663233 · <a href=\"机经资料/jiufen-reviewed-20260921/index.html\" rel=\"noopener\" target=\"_blank\">本次新内容目录</a></p><p class=\"small\">题意约束 3/5；论点抽象度 3/5；组织负荷 3/5</p>",
+    "source": {
+      "title": "九分学长",
+      "kind": "非官方题目参考",
+      "url": "https://www.9fnnn.com/"
+    },
+    "origin": "pr-jiufen-20260921-adult-literacy-v1",
+    "aliases": [
+      {
+        "route": "pr-jiufen-20260921-adult-literacy-v1",
+        "label": "练习",
+        "fields": [
+          "pr-jiufen-20260921-adult-literacy-v1-essay"
+        ]
+      }
+    ],
+    "existing": false,
+    "prepHtml": "",
+    "confidence": "中（原题已下载，具体考场与日期未核实）",
+    "difficultyHtml": "<div class=\"jj-update-meta\"><span class=\"jj-update-badge\">新内容 · 2026-09-21</span><span class=\"jj-update-badge\">难度系数 3/5 · 中等</span></div><details class=\"jj-difficulty\"><summary>难度依据</summary><p>须同时解释成人读写困难带来的具体不利处境，并提出由政府实施的对应帮助；不能只写儿童教育。</p><p class=\"small\">题意约束 3/5；论点抽象度 3/5；组织负荷 3/5</p><p class=\"small\">1–5为同科材料的编辑评估，数值越大任务负荷越高；不是官方Band或你的掌握度。</p></details>"
+  },
+  {
+    "id": "ww-jiufen-20260921-work-life-balance-v1",
+    "questionId": "pr-jiufen-20260921-work-life-balance-v1",
+    "version": 1,
+    "title": "工作与生活的平衡 · Task 2",
+    "skill": "writing2",
+    "type": "Task 2",
+    "prompt": "Many people find it hard to balance their work with other parts of their lives. What are the reasons for this? How can this problem be overcome? Give reasons for your answer and include any relevant examples from your own knowledge or experience.",
+    "instruction": "Write at least 250 words.",
+    "image": null,
+    "sourceHtml": "<p class=\"small\">来源：<a href=\"https://www.9fnnn.com/\" rel=\"noopener\" target=\"_blank\">九分学长</a> · 资料ID 2082721901793837057 · <a href=\"机经资料/jiufen-reviewed-20260921/index.html\" rel=\"noopener\" target=\"_blank\">本次新内容目录</a></p><p class=\"small\">题意约束 2/5；论点抽象度 2/5；组织负荷 2/5</p>",
+    "source": {
+      "title": "九分学长",
+      "kind": "非官方题目参考",
+      "url": "https://www.9fnnn.com/"
+    },
+    "origin": "pr-jiufen-20260921-work-life-balance-v1",
+    "aliases": [
+      {
+        "route": "pr-jiufen-20260921-work-life-balance-v1",
+        "label": "练习",
+        "fields": [
+          "pr-jiufen-20260921-work-life-balance-v1-essay"
+        ]
+      }
+    ],
+    "existing": false,
+    "prepHtml": "",
+    "confidence": "中（原题已下载，具体考场与日期未核实）",
+    "difficultyHtml": "<div class=\"jj-update-meta\"><span class=\"jj-update-badge\">新内容 · 2026-09-21</span><span class=\"jj-update-badge\">难度系数 2/5 · 较易</span></div><details class=\"jj-difficulty\"><summary>难度依据</summary><p>常见生活议题，任务是原因与解决办法；主要负荷是建立原因和措施的具体对应，避免只罗列建议。</p><p class=\"small\">题意约束 2/5；论点抽象度 2/5；组织负荷 2/5</p><p class=\"small\">1–5为同科材料的编辑评估，数值越大任务负荷越高；不是官方Band或你的掌握度。</p></details>"
+  },
+  {
+    "id": "ww-jiufen-20260921-species-extinction-v1",
+    "questionId": "pr-jiufen-20260921-species-extinction-v1",
+    "version": 1,
+    "title": "自然灭绝与人为保护 · Task 2",
+    "skill": "writing2",
+    "type": "Task 2",
+    "prompt": "It is a natural process for animal species to become extinct. There is no reason why people should try to prevent this from happening. To what extent do you agree or disagree? Give reasons for your answer and include any relevant examples from your own knowledge or experience.",
+    "instruction": "Write at least 250 words.",
+    "image": null,
+    "sourceHtml": "<p class=\"small\">来源：<a href=\"https://www.9fnnn.com/\" rel=\"noopener\" target=\"_blank\">九分学长</a> · 资料ID 2082028220178825218 · <a href=\"机经资料/jiufen-reviewed-20260921/index.html\" rel=\"noopener\" target=\"_blank\">本次新内容目录</a></p><p class=\"small\">题意约束 4/5；论点抽象度 4/5；组织负荷 3/5</p>",
+    "source": {
+      "title": "九分学长",
+      "kind": "非官方题目参考",
+      "url": "https://www.9fnnn.com/"
+    },
+    "origin": "pr-jiufen-20260921-species-extinction-v1",
+    "aliases": [
+      {
+        "route": "pr-jiufen-20260921-species-extinction-v1",
+        "label": "练习",
+        "fields": [
+          "pr-jiufen-20260921-species-extinction-v1-essay"
+        ]
+      }
+    ],
+    "existing": false,
+    "prepHtml": "",
+    "confidence": "中（原题已下载，具体考场与日期未核实）",
+    "difficultyHtml": "<div class=\"jj-update-meta\"><span class=\"jj-update-badge\">新内容 · 2026-09-21</span><span class=\"jj-update-badge\">难度系数 4/5 · 较难</span></div><details class=\"jj-difficulty\"><summary>难度依据</summary><p>需判断自然过程能否推出不应阻止的主张；可从原因、影响或保护成本等角度论证，不要求固定立场或论证框架。</p><p class=\"small\">题意约束 4/5；论点抽象度 4/5；组织负荷 3/5</p><p class=\"small\">1–5为同科材料的编辑评估，数值越大任务负荷越高；不是官方Band或你的掌握度。</p></details>"
+  },
+  {
+    "id": "ww-ieltsa-writing-202609-1-2-reference-v1",
+    "questionId": "ieltsa-writing-202609-1-2-reference-v1",
+    "version": 1,
+    "title": "全球文化趋同",
+    "skill": "writing2",
+    "type": "Task 2",
+    "prompt": "Differences between countries become less evident each year. Nowadays, all over the world people share the same fashions, advertising, brands, eating habits and TV channels. Do the advantages outweigh the disadvantages?",
+    "instruction": "Give reasons for your answer and include any relevant examples from your own knowledge or experience. Write at least 250 words.",
+    "image": null,
+    "sourceHtml": "<p class=\"ww-muted\">IELTS Actual Tests 题干参考；来源标为2026年9月回忆，具体考场未核实。<a href=\"https://ieltsactualtests.com/zh/writing/2026-09-1\" rel=\"noopener\" target=\"_blank\">原始来源</a> · <a href=\"机经资料/jijing-20260920/writing-task2.html#ieltsa-writing-202609-1-2-reference-v1\">本批保留题面</a></p>",
+    "source": {
+      "title": "IELTS Actual Tests",
+      "kind": "非官方题目参考",
+      "url": "https://ieltsactualtests.com/zh/writing/2026-09-1"
+    },
+    "origin": "pr-ieltsa-writing-202609-1-2-reference-v1",
+    "aliases": [
+      {
+        "route": "pr-ieltsa-writing-202609-1-2-reference-v1",
+        "label": "完整题面",
+        "fields": []
+      }
+    ],
+    "existing": false,
+    "newOrigin": true,
+    "prepHtml": "",
+    "confidence": "中（题干参考；具体考场与日期未核实）",
+    "difficultyHtml": "<div class=\"jj-update-meta\"><span class=\"jj-update-badge\">难度系数 3/5 · 中等</span></div><details class=\"jj-difficulty\"><summary>难度依据</summary><p>需比较文化趋同的利弊并作出权衡，不能只列两边现象。</p><p class=\"small\">题意约束 3/5；论点展开 3/5；组织负荷 3/5</p><p class=\"small\">1–5为同科材料的编辑评估，数值越大任务负荷越高；不是官方Band或你的掌握度。</p></details>"
+  },
+  {
+    "id": "ww-ieltsa-writing-202609-2-2-reference-v1",
+    "questionId": "ieltsa-writing-202609-2-2-reference-v1",
+    "version": 1,
+    "title": "偏远自然地区旅游",
+    "skill": "writing2",
+    "type": "Task 2",
+    "prompt": "Today more and more people like to go to untouched and unexplored natural places to travel. What are the advantages and disadvantages for these tourists and the countries?",
+    "instruction": "Give reasons for your answer and include any relevant examples from your own knowledge or experience. Write at least 250 words.",
+    "image": null,
+    "sourceHtml": "<p class=\"ww-muted\">IELTS Actual Tests 题干参考；来源标为2026年9月回忆，具体考场未核实。<a href=\"https://ieltsactualtests.com/zh/writing/2026-09-2\" rel=\"noopener\" target=\"_blank\">原始来源</a> · <a href=\"机经资料/jijing-20260920/writing-task2.html#ieltsa-writing-202609-2-2-reference-v1\">本批保留题面</a></p>",
+    "source": {
+      "title": "IELTS Actual Tests",
+      "kind": "非官方题目参考",
+      "url": "https://ieltsactualtests.com/zh/writing/2026-09-2"
+    },
+    "origin": "pr-ieltsa-writing-202609-2-2-reference-v1",
+    "aliases": [
+      {
+        "route": "pr-ieltsa-writing-202609-2-2-reference-v1",
+        "label": "完整题面",
+        "fields": []
+      }
+    ],
+    "existing": false,
+    "newOrigin": true,
+    "prepHtml": "",
+    "confidence": "中（题干参考；具体考场与日期未核实）",
+    "difficultyHtml": "<div class=\"jj-update-meta\"><span class=\"jj-update-badge\">难度系数 4/5 · 较难</span></div><details class=\"jj-difficulty\"><summary>难度依据</summary><p>同时覆盖游客与目的地国家两类主体，各自利弊的组织负荷较高。</p><p class=\"small\">题意约束 4/5；论点展开 4/5；组织负荷 4/5</p><p class=\"small\">1–5为同科材料的编辑评估，数值越大任务负荷越高；不是官方Band或你的掌握度。</p></details>"
+  },
+  {
+    "id": "ww-ieltsa-writing-202609-3-2-reference-v1",
+    "questionId": "ieltsa-writing-202609-3-2-reference-v1",
+    "version": 1,
+    "title": "广告对消费者的影响",
+    "skill": "writing2",
+    "type": "Task 2",
+    "prompt": "Customers today need to face a lot of advertising from competing companies. To what extent are customers influenced by advertisements? What measures can be taken to protect these customers?",
+    "instruction": "Give reasons for your answer and include any relevant examples from your own knowledge or experience. Write at least 250 words.",
+    "image": null,
+    "sourceHtml": "<p class=\"ww-muted\">IELTS Actual Tests 题干参考；来源标为2026年9月回忆，具体考场未核实。<a href=\"https://ieltsactualtests.com/zh/writing/2026-09-3\" rel=\"noopener\" target=\"_blank\">原始来源</a> · <a href=\"机经资料/jijing-20260920/writing-task2.html#ieltsa-writing-202609-3-2-reference-v1\">本批保留题面</a></p>",
+    "source": {
+      "title": "IELTS Actual Tests",
+      "kind": "非官方题目参考",
+      "url": "https://ieltsactualtests.com/zh/writing/2026-09-3"
+    },
+    "origin": "pr-ieltsa-writing-202609-3-2-reference-v1",
+    "aliases": [
+      {
+        "route": "pr-ieltsa-writing-202609-3-2-reference-v1",
+        "label": "完整题面",
+        "fields": []
+      }
+    ],
+    "existing": false,
+    "newOrigin": true,
+    "prepHtml": "",
+    "confidence": "中（题干参考；具体考场与日期未核实）",
+    "difficultyHtml": "<div class=\"jj-update-meta\"><span class=\"jj-update-badge\">难度系数 4/5 · 较难</span></div><details class=\"jj-difficulty\"><summary>难度依据</summary><p>一问程度、一问保护措施，需把影响机制与措施对象说清楚。</p><p class=\"small\">题意约束 4/5；论点展开 4/5；组织负荷 4/5</p><p class=\"small\">1–5为同科材料的编辑评估，数值越大任务负荷越高；不是官方Band或你的掌握度。</p></details>"
+  },
+  {
+    "id": "ww-ieltsa-writing-202609-4-2-reference-v2",
+    "questionId": "ieltsa-writing-202609-4-2-reference-v2",
+    "version": 2,
+    "title": "儿童在校注意力",
+    "skill": "writing2",
+    "type": "Task 2",
+    "prompt": "Children find it difficult to concentrate or pay attention at school. What are the reasons for this, and how can this problem be solved?",
+    "instruction": "Give reasons for your answer and include any relevant examples from your own knowledge or experience. Write at least 250 words.",
+    "image": null,
+    "sourceHtml": "<p class=\"ww-muted\">IELTS Actual Tests 题干参考；来源标为2026年9月回忆，具体考场未核实。<a href=\"https://ieltsactualtests.com/zh/writing/2026-09-4\" rel=\"noopener\" target=\"_blank\">原始来源</a> · <a href=\"机经资料/jijing-20260920/writing-task2.html#ieltsa-writing-202609-4-2-reference-v2\">本批保留题面</a></p><p class=\"ww-muted\">此题沿用已发布 v2：仅整理英文语法与搭配，题意不变。</p>",
+    "source": {
+      "title": "IELTS Actual Tests",
+      "kind": "非官方题目参考",
+      "url": "https://ieltsactualtests.com/zh/writing/2026-09-4"
+    },
+    "origin": "pr-ieltsa-writing-202609-4-2-reference-v2",
+    "aliases": [
+      {
+        "route": "pr-ieltsa-writing-202609-4-2-reference-v2",
+        "label": "完整题面",
+        "fields": []
+      }
+    ],
+    "existing": false,
+    "newOrigin": true,
+    "prepHtml": "",
+    "confidence": "中（题干参考；具体考场与日期未核实）",
+    "difficultyHtml": "<div class=\"jj-update-meta\"><span class=\"jj-update-badge\">难度系数 2/5 · 较易</span></div><details class=\"jj-difficulty\"><summary>难度依据</summary><p>熟悉的学校情境，需把具体原因与可实行的解决办法对应。</p><p class=\"small\">题意约束 2/5；论点展开 2/5；组织负荷 2/5</p><p class=\"small\">1–5为同科材料的编辑评估，数值越大任务负荷越高；不是官方Band或你的掌握度。</p></details>"
+  },
+  {
+    "id": "ww-ieltsa-writing-202609-5-2-reference-v1",
+    "questionId": "ieltsa-writing-202609-5-2-reference-v1",
+    "version": 1,
+    "title": "儿童学习数学",
+    "skill": "writing2",
+    "type": "Task 2",
+    "prompt": "Many school children dislike learning math. What are the reasons and what are the best ways to make them enjoy math?",
+    "instruction": "Give reasons for your answer and include any relevant examples from your own knowledge or experience. Write at least 250 words.",
+    "image": null,
+    "sourceHtml": "<p class=\"ww-muted\">IELTS Actual Tests 题干参考；来源标为2026年9月回忆，具体考场未核实。<a href=\"https://ieltsactualtests.com/zh/writing/2026-09-5\" rel=\"noopener\" target=\"_blank\">原始来源</a> · <a href=\"机经资料/jijing-20260920/writing-task2.html#ieltsa-writing-202609-5-2-reference-v1\">本批保留题面</a></p>",
+    "source": {
+      "title": "IELTS Actual Tests",
+      "kind": "非官方题目参考",
+      "url": "https://ieltsactualtests.com/zh/writing/2026-09-5"
+    },
+    "origin": "pr-ieltsa-writing-202609-5-2-reference-v1",
+    "aliases": [
+      {
+        "route": "pr-ieltsa-writing-202609-5-2-reference-v1",
+        "label": "完整题面",
+        "fields": []
+      }
+    ],
+    "existing": false,
+    "newOrigin": true,
+    "prepHtml": "",
+    "confidence": "中（题干参考；具体考场与日期未核实）",
+    "difficultyHtml": "<div class=\"jj-update-meta\"><span class=\"jj-update-badge\">难度系数 2/5 · 较易</span></div><details class=\"jj-difficulty\"><summary>难度依据</summary><p>熟悉的学习体验，需解释不喜欢的原因和促进兴趣的办法。</p><p class=\"small\">题意约束 2/5；论点展开 2/5；组织负荷 2/5</p><p class=\"small\">1–5为同科材料的编辑评估，数值越大任务负荷越高；不是官方Band或你的掌握度。</p></details>"
+  },
+  {
+    "id": "ww-ieltsa-writing-202609-6-2-reference-v1",
+    "questionId": "ieltsa-writing-202609-6-2-reference-v1",
+    "version": 1,
+    "title": "网络学习与学校",
+    "skill": "writing2",
+    "type": "Task 2",
+    "prompt": "Some people believe that schools are no longer necessary, because students can get so much information through the Internet, and study just as well at home. To what extent do you agree or disagree?",
+    "instruction": "Give reasons for your answer and include any relevant examples from your own knowledge or experience. Write at least 250 words.",
+    "image": null,
+    "sourceHtml": "<p class=\"ww-muted\">IELTS Actual Tests 题干参考；来源标为2026年9月回忆，具体考场未核实。<a href=\"https://ieltsactualtests.com/zh/writing/2026-09-6\" rel=\"noopener\" target=\"_blank\">原始来源</a> · <a href=\"机经资料/jijing-20260920/writing-task2.html#ieltsa-writing-202609-6-2-reference-v1\">本批保留题面</a></p>",
+    "source": {
+      "title": "IELTS Actual Tests",
+      "kind": "非官方题目参考",
+      "url": "https://ieltsactualtests.com/zh/writing/2026-09-6"
+    },
+    "origin": "pr-ieltsa-writing-202609-6-2-reference-v1",
+    "aliases": [
+      {
+        "route": "pr-ieltsa-writing-202609-6-2-reference-v1",
+        "label": "完整题面",
+        "fields": []
+      }
+    ],
+    "existing": false,
+    "newOrigin": true,
+    "prepHtml": "",
+    "confidence": "中（题干参考；具体考场与日期未核实）",
+    "difficultyHtml": "<div class=\"jj-update-meta\"><span class=\"jj-update-badge\">难度系数 3/5 · 中等</span></div><details class=\"jj-difficulty\"><summary>难度依据</summary><p>须区分获取信息与学校的其他功能，回应“不再必要”的较强主张。</p><p class=\"small\">题意约束 3/5；论点展开 3/5；组织负荷 3/5</p><p class=\"small\">1–5为同科材料的编辑评估，数值越大任务负荷越高；不是官方Band或你的掌握度。</p></details>"
+  },
+  {
+    "id": "ww-ieltsa-writing-202609-7-2-reference-v1",
+    "questionId": "ieltsa-writing-202609-7-2-reference-v1",
+    "version": 1,
+    "title": "中学国际新闻课程",
+    "skill": "writing2",
+    "type": "Task 2",
+    "prompt": "Some people think secondary school students should study international news as one of their subjects. Other people say this is a waste of valuable school time. Discuss both these views and give your own opinion.",
+    "instruction": "Give reasons for your answer and include any relevant examples from your own knowledge or experience. Write at least 250 words.",
+    "image": null,
+    "sourceHtml": "<p class=\"ww-muted\">IELTS Actual Tests 题干参考；来源标为2026年9月回忆，具体考场未核实。<a href=\"https://ieltsactualtests.com/zh/writing/2026-09-7\" rel=\"noopener\" target=\"_blank\">原始来源</a> · <a href=\"机经资料/jijing-20260920/writing-task2.html#ieltsa-writing-202609-7-2-reference-v1\">本批保留题面</a></p>",
+    "source": {
+      "title": "IELTS Actual Tests",
+      "kind": "非官方题目参考",
+      "url": "https://ieltsactualtests.com/zh/writing/2026-09-7"
+    },
+    "origin": "pr-ieltsa-writing-202609-7-2-reference-v1",
+    "aliases": [
+      {
+        "route": "pr-ieltsa-writing-202609-7-2-reference-v1",
+        "label": "完整题面",
+        "fields": []
+      }
+    ],
+    "existing": false,
+    "newOrigin": true,
+    "prepHtml": "",
+    "confidence": "中（题干参考；具体考场与日期未核实）",
+    "difficultyHtml": "<div class=\"jj-update-meta\"><span class=\"jj-update-badge\">难度系数 3/5 · 中等</span></div><details class=\"jj-difficulty\"><summary>难度依据</summary><p>两种看法与自身意见都要覆盖，说明课程机会成本。</p><p class=\"small\">题意约束 3/5；论点展开 3/5；组织负荷 3/5</p><p class=\"small\">1–5为同科材料的编辑评估，数值越大任务负荷越高；不是官方Band或你的掌握度。</p></details>"
+  },
+  {
+    "id": "ww-ieltsa-writing-202609-8-2-reference-v1",
+    "questionId": "ieltsa-writing-202609-8-2-reference-v1",
+    "version": 1,
+    "title": "驾驶最低年龄",
+    "skill": "writing2",
+    "type": "Task 2",
+    "prompt": "Some people say that the best way to improve road safety is to increase the minimum legal age for driving cars or riding motor bikes. To what extent do you agree or disagree?",
+    "instruction": "Give reasons for your answer and include any relevant examples from your own knowledge or experience. Write at least 250 words.",
+    "image": null,
+    "sourceHtml": "<p class=\"ww-muted\">IELTS Actual Tests 题干参考；来源标为2026年9月回忆，具体考场未核实。<a href=\"https://ieltsactualtests.com/zh/writing/2026-09-8\" rel=\"noopener\" target=\"_blank\">原始来源</a> · <a href=\"机经资料/jijing-20260920/writing-task2.html#ieltsa-writing-202609-8-2-reference-v1\">本批保留题面</a></p>",
+    "source": {
+      "title": "IELTS Actual Tests",
+      "kind": "非官方题目参考",
+      "url": "https://ieltsactualtests.com/zh/writing/2026-09-8"
+    },
+    "origin": "pr-ieltsa-writing-202609-8-2-reference-v1",
+    "aliases": [
+      {
+        "route": "pr-ieltsa-writing-202609-8-2-reference-v1",
+        "label": "完整题面",
+        "fields": []
+      }
+    ],
+    "existing": false,
+    "newOrigin": true,
+    "prepHtml": "",
+    "confidence": "中（题干参考；具体考场与日期未核实）",
+    "difficultyHtml": "<div class=\"jj-update-meta\"><span class=\"jj-update-badge\">难度系数 4/5 · 较难</span></div><details class=\"jj-difficulty\"><summary>难度依据</summary><p>“最好的办法”要求比较措施效果，不能只证明提高年龄有一点作用。</p><p class=\"small\">题意约束 4/5；论点展开 4/5；组织负荷 4/5</p><p class=\"small\">1–5为同科材料的编辑评估，数值越大任务负荷越高；不是官方Band或你的掌握度。</p></details>"
+  },
+  {
+    "id": "ww-ieltsa-writing-202609-10-2-reference-v1",
+    "questionId": "ieltsa-writing-202609-10-2-reference-v1",
+    "version": 1,
+    "title": "独居趋势",
+    "skill": "writing2",
+    "type": "Task 2",
+    "prompt": "An increasing number of people tend to live by themselves. What are the causes? Is it a positive or negative development?",
+    "instruction": "Give reasons for your answer and include any relevant examples from your own knowledge or experience. Write at least 250 words.",
+    "image": null,
+    "sourceHtml": "<p class=\"ww-muted\">IELTS Actual Tests 题干参考；来源标为2026年9月回忆，具体考场未核实。<a href=\"https://ieltsactualtests.com/zh/writing/2026-09-10\" rel=\"noopener\" target=\"_blank\">原始来源</a> · <a href=\"机经资料/jijing-20260920/writing-task2.html#ieltsa-writing-202609-10-2-reference-v1\">本批保留题面</a></p>",
+    "source": {
+      "title": "IELTS Actual Tests",
+      "kind": "非官方题目参考",
+      "url": "https://ieltsactualtests.com/zh/writing/2026-09-10"
+    },
+    "origin": "pr-ieltsa-writing-202609-10-2-reference-v1",
+    "aliases": [
+      {
+        "route": "pr-ieltsa-writing-202609-10-2-reference-v1",
+        "label": "完整题面",
+        "fields": []
+      }
+    ],
+    "existing": false,
+    "newOrigin": true,
+    "prepHtml": "",
+    "confidence": "中（题干参考；具体考场与日期未核实）",
+    "difficultyHtml": "<div class=\"jj-update-meta\"><span class=\"jj-update-badge\">难度系数 3/5 · 中等</span></div><details class=\"jj-difficulty\"><summary>难度依据</summary><p>同时解释独居的原因并评价趋势，避免把个人选择等同于统一社会结果。</p><p class=\"small\">题意约束 3/5；论点展开 3/5；组织负荷 3/5</p><p class=\"small\">1–5为同科材料的编辑评估，数值越大任务负荷越高；不是官方Band或你的掌握度。</p></details>"
+  }
+]

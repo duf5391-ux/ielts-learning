@@ -1,0 +1,275 @@
+[
+  {
+    "key": "homepage",
+    "label": "首页",
+    "audio": false,
+    "url": "https://duf5391-ux.github.io/ielts-learning/",
+    "request": {
+      "type": "http",
+      "target": "duf5391-ux.github.io",
+      "locations": [
+        {
+          "country": "CN",
+          "city": "Beijing",
+          "asn": 9808,
+          "limit": 1
+        },
+        {
+          "country": "CN",
+          "city": "Shanghai",
+          "asn": 9808,
+          "limit": 1
+        },
+        {
+          "country": "CN",
+          "city": "Guangzhou",
+          "asn": 4134,
+          "limit": 1
+        },
+        {
+          "country": "CN",
+          "city": "Tianjin",
+          "asn": 4837,
+          "limit": 1
+        },
+        {
+          "country": "CN",
+          "city": "Shanghai",
+          "asn": 17621,
+          "limit": 1
+        },
+        {
+          "country": "CN",
+          "city": "Wuhan",
+          "asn": 151185,
+          "limit": 1
+        },
+        {
+          "country": "CN",
+          "city": "Guilin",
+          "asn": 4134,
+          "limit": 1
+        },
+        {
+          "country": "CN",
+          "city": "Nanning",
+          "asn": 4837,
+          "limit": 1
+        },
+        {
+          "country": "CN",
+          "city": "Beijing",
+          "asn": 45090,
+          "limit": 1
+        },
+        {
+          "country": "CN",
+          "city": "Shenzhen",
+          "asn": 37963,
+          "limit": 1
+        },
+        {
+          "country": "US",
+          "limit": 2
+        },
+        {
+          "country": "SG",
+          "limit": 2
+        }
+      ],
+      "inProgressUpdates": true,
+      "measurementOptions": {
+        "protocol": "HTTPS",
+        "port": 443,
+        "request": {
+          "method": "GET",
+          "path": "/ielts-learning/"
+        }
+      }
+    }
+  },
+  {
+    "key": "official_audio",
+    "label": "完整听力音频",
+    "audio": true,
+    "url": "https://duf5391-ux.github.io/ielts-learning/%E5%8E%9F%E5%A7%8B%E5%8F%82%E8%80%83/precise-official-listening-full.mp3",
+    "request": {
+      "type": "http",
+      "target": "duf5391-ux.github.io",
+      "locations": [
+        {
+          "country": "CN",
+          "city": "Beijing",
+          "asn": 9808,
+          "limit": 1
+        },
+        {
+          "country": "CN",
+          "city": "Shanghai",
+          "asn": 9808,
+          "limit": 1
+        },
+        {
+          "country": "CN",
+          "city": "Guangzhou",
+          "asn": 4134,
+          "limit": 1
+        },
+        {
+          "country": "CN",
+          "city": "Tianjin",
+          "asn": 4837,
+          "limit": 1
+        },
+        {
+          "country": "CN",
+          "city": "Shanghai",
+          "asn": 17621,
+          "limit": 1
+        },
+        {
+          "country": "CN",
+          "city": "Wuhan",
+          "asn": 151185,
+          "limit": 1
+        },
+        {
+          "country": "CN",
+          "city": "Guilin",
+          "asn": 4134,
+          "limit": 1
+        },
+        {
+          "country": "CN",
+          "city": "Nanning",
+          "asn": 4837,
+          "limit": 1
+        },
+        {
+          "country": "CN",
+          "city": "Beijing",
+          "asn": 45090,
+          "limit": 1
+        },
+        {
+          "country": "CN",
+          "city": "Shenzhen",
+          "asn": 37963,
+          "limit": 1
+        },
+        {
+          "country": "US",
+          "limit": 2
+        },
+        {
+          "country": "SG",
+          "limit": 2
+        }
+      ],
+      "inProgressUpdates": true,
+      "measurementOptions": {
+        "protocol": "HTTPS",
+        "port": 443,
+        "request": {
+          "method": "GET",
+          "path": "/ielts-learning/%E5%8E%9F%E5%A7%8B%E5%8F%82%E8%80%83/precise-official-listening-full.mp3",
+          "headers": {
+            "Range": "bytes=0-1023"
+          }
+        }
+      }
+    }
+  },
+  {
+    "key": "jijing_audio",
+    "label": "最新机经音频",
+    "audio": true,
+    "url": "https://duf5391-ux.github.io/ielts-learning/%E6%9C%BA%E7%BB%8F%E8%B5%84%E6%96%99/jijing-20260920/ieltsa/assets/494b5ff8b614-2026-sep-hf-1.mp3",
+    "request": {
+      "type": "http",
+      "target": "duf5391-ux.github.io",
+      "locations": [
+        {
+          "country": "CN",
+          "city": "Beijing",
+          "asn": 9808,
+          "limit": 1
+        },
+        {
+          "country": "CN",
+          "city": "Shanghai",
+          "asn": 9808,
+          "limit": 1
+        },
+        {
+          "country": "CN",
+          "city": "Guangzhou",
+          "asn": 4134,
+          "limit": 1
+        },
+        {
+          "country": "CN",
+          "city": "Tianjin",
+          "asn": 4837,
+          "limit": 1
+        },
+        {
+          "country": "CN",
+          "city": "Shanghai",
+          "asn": 17621,
+          "limit": 1
+        },
+        {
+          "country": "CN",
+          "city": "Wuhan",
+          "asn": 151185,
+          "limit": 1
+        },
+        {
+          "country": "CN",
+          "city": "Guilin",
+          "asn": 4134,
+          "limit": 1
+        },
+        {
+          "country": "CN",
+          "city": "Nanning",
+          "asn": 4837,
+          "limit": 1
+        },
+        {
+          "country": "CN",
+          "city": "Beijing",
+          "asn": 45090,
+          "limit": 1
+        },
+        {
+          "country": "CN",
+          "city": "Shenzhen",
+          "asn": 37963,
+          "limit": 1
+        },
+        {
+          "country": "US",
+          "limit": 2
+        },
+        {
+          "country": "SG",
+          "limit": 2
+        }
+      ],
+      "inProgressUpdates": true,
+      "measurementOptions": {
+        "protocol": "HTTPS",
+        "port": 443,
+        "request": {
+          "method": "GET",
+          "path": "/ielts-learning/%E6%9C%BA%E7%BB%8F%E8%B5%84%E6%96%99/jijing-20260920/ieltsa/assets/494b5ff8b614-2026-sep-hf-1.mp3",
+          "headers": {
+            "Range": "bytes=0-1023"
+          }
+        }
+      }
+    }
+  }
+]

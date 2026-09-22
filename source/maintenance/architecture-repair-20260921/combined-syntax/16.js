@@ -1,0 +1,1 @@
+(()=>{const sync=()=>{if(!document.getElementById("course-window")?.hidden){const label=document.getElementById("current-page-label");if(label)label.textContent="定制学习";}};window.addEventListener("hashchange",sync);sync();})();

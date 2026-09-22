@@ -1,0 +1,3946 @@
+{
+  "pass": true,
+  "target": "combined",
+  "checkedAt": "2026-09-21T14:14:52.212Z",
+  "checks": [
+    {
+      "name": "旧字段3368个全部保留",
+      "status": "pass"
+    },
+    {
+      "name": "三个已有学习工具归学习，独立页头、返回与续学一致",
+      "status": "pass"
+    },
+    {
+      "name": "旧单词收藏恢复，直接标记仍可用",
+      "status": "pass"
+    },
+    {
+      "name": "旧句子记录在独立学习页恢复",
+      "status": "pass"
+    },
+    {
+      "name": "记录页保留旧答案，词句本不再内嵌",
+      "status": "pass"
+    },
+    {
+      "name": "Task 1和Task 2旧地址分别进入正确分类",
+      "status": "pass"
+    },
+    {
+      "name": "旅游词汇统一到练习/词汇，分类可实际进入",
+      "status": "pass"
+    },
+    {
+      "name": "每日教育背景目标的页面与返回均属共用背景",
+      "status": "pass"
+    },
+    {
+      "name": "原始资料与学习资源索引分离，原目标ID保留",
+      "status": "pass"
+    },
+    {
+      "name": "题组包装入口聚焦集合",
+      "status": "pass"
+    },
+    {
+      "name": "持久自选清单与每日安排分清",
+      "status": "pass"
+    },
+    {
+      "name": "定制课程只留待开放窗口，制课导入试学均隐藏",
+      "status": "pass"
+    },
+    {
+      "name": "资料接入进度与定制课程占位分开",
+      "status": "pass"
+    },
+    {
+      "name": "刷新恢复词汇自评",
+      "status": "pass"
+    },
+    {
+      "name": "429个原有地址顺序重开，目标存在且仅一个主面板显示",
+      "detail": {
+        "count": 429
+      },
+      "status": "pass"
+    },
+    {
+      "name": "桌面与手机九个架构界面布局无横向溢出",
+      "status": "pass"
+    },
+    {
+      "name": "桌面与手机九个架构界面布局无横向溢出",
+      "status": "pass"
+    },
+    {
+      "name": "三份精读从阅读和背景共用同一单元，入口标注、上下文、全文和保存恢复通过",
+      "status": "pass"
+    }
+  ],
+  "errors": [],
+  "routes": [
+    {
+      "requested": "background",
+      "actual": "#background",
+      "targetExists": true,
+      "active": [
+        "background"
+      ],
+      "title": "共用背景 · IELTS"
+    },
+    {
+      "requested": "vocabulary",
+      "actual": "#study-vocabulary-list",
+      "targetExists": true,
+      "active": [
+        "study"
+      ],
+      "title": "学习 / 词汇 · IELTS"
+    },
+    {
+      "requested": "guide",
+      "actual": "#guide",
+      "targetExists": true,
+      "active": [
+        "guide"
+      ],
+      "title": "直接开始学习 · IELTS"
+    },
+    {
+      "requested": "plan",
+      "actual": "#plan",
+      "targetExists": true,
+      "active": [
+        "plan"
+      ],
+      "title": "自选清单 · IELTS"
+    },
+    {
+      "requested": "records",
+      "actual": "#records",
+      "targetExists": true,
+      "active": [
+        "records"
+      ],
+      "title": "学习记录与备份 · IELTS"
+    },
+    {
+      "requested": "library",
+      "actual": "#library",
+      "targetExists": true,
+      "active": [
+        "library"
+      ],
+      "title": "原始资料 · IELTS"
+    },
+    {
+      "requested": "reading",
+      "actual": "#study-reading-list",
+      "targetExists": true,
+      "active": [
+        "study"
+      ],
+      "title": "学习 / 阅读 · IELTS"
+    },
+    {
+      "requested": "writing1",
+      "actual": "#study-writing1-list",
+      "targetExists": true,
+      "active": [
+        "study"
+      ],
+      "title": "学习 / 写作 · Task 1 · IELTS"
+    },
+    {
+      "requested": "writing2",
+      "actual": "#study-writing2-list",
+      "targetExists": true,
+      "active": [
+        "study"
+      ],
+      "title": "学习 / 写作 · Task 2 · IELTS"
+    },
+    {
+      "requested": "listening",
+      "actual": "#study-listening-list",
+      "targetExists": true,
+      "active": [
+        "study"
+      ],
+      "title": "学习 / 听力 · IELTS"
+    },
+    {
+      "requested": "speaking",
+      "actual": "#study-speaking-list",
+      "targetExists": true,
+      "active": [
+        "study"
+      ],
+      "title": "学习 / 口语 · IELTS"
+    },
+    {
+      "requested": "materials",
+      "actual": "#materials",
+      "targetExists": true,
+      "active": [
+        "materials"
+      ],
+      "title": "我的资料 · IELTS"
+    },
+    {
+      "requested": "course-window",
+      "actual": "#course-window",
+      "targetExists": true,
+      "active": [
+        "course-window"
+      ],
+      "title": "定制课程 · 待开放 · IELTS"
+    },
+    {
+      "requested": "writing-workbench",
+      "actual": "#writing-workbench",
+      "targetExists": true,
+      "active": [
+        "writing-workbench"
+      ],
+      "title": "写作工作台 · IELTS"
+    },
+    {
+      "requested": "study",
+      "actual": "#study",
+      "targetExists": true,
+      "active": [
+        "study"
+      ],
+      "title": "学习 · IELTS"
+    },
+    {
+      "requested": "practice",
+      "actual": "#practice",
+      "targetExists": true,
+      "active": [
+        "practice"
+      ],
+      "title": "练习 · IELTS"
+    },
+    {
+      "requested": "tests",
+      "actual": "#tests",
+      "targetExists": true,
+      "active": [
+        "tests"
+      ],
+      "title": "测试 · IELTS"
+    },
+    {
+      "requested": "workspace",
+      "actual": "#workspace",
+      "targetExists": true,
+      "active": [
+        "workspace"
+      ],
+      "title": "工作台 · IELTS"
+    },
+    {
+      "requested": "development",
+      "actual": "#development",
+      "targetExists": true,
+      "active": [
+        "development"
+      ],
+      "title": "开发工作台 · IELTS"
+    },
+    {
+      "requested": "phrases",
+      "actual": "#study-phrases-list",
+      "targetExists": true,
+      "active": [
+        "study"
+      ],
+      "title": "学习 / 短语 · IELTS"
+    },
+    {
+      "requested": "practice-reading",
+      "actual": "#practice-reading-list",
+      "targetExists": true,
+      "active": [
+        "practice"
+      ],
+      "title": "练习 / 阅读 · IELTS"
+    },
+    {
+      "requested": "practice-listening",
+      "actual": "#practice-listening-list",
+      "targetExists": true,
+      "active": [
+        "practice"
+      ],
+      "title": "练习 / 听力 · IELTS"
+    },
+    {
+      "requested": "practice-writing1",
+      "actual": "#practice-writing1-list",
+      "targetExists": true,
+      "active": [
+        "practice"
+      ],
+      "title": "练习 / 写作 · Task 1 · IELTS"
+    },
+    {
+      "requested": "practice-writing2",
+      "actual": "#practice-writing2-list",
+      "targetExists": true,
+      "active": [
+        "practice"
+      ],
+      "title": "练习 / 写作 · Task 2 · IELTS"
+    },
+    {
+      "requested": "practice-speaking",
+      "actual": "#practice-speaking-list",
+      "targetExists": true,
+      "active": [
+        "practice"
+      ],
+      "title": "练习 / 口语 · IELTS"
+    },
+    {
+      "requested": "practice-phrases",
+      "actual": "#study-phrases-list",
+      "targetExists": true,
+      "active": [
+        "study"
+      ],
+      "title": "学习 / 短语 · IELTS"
+    },
+    {
+      "requested": "test-listening",
+      "actual": "#test-listening",
+      "targetExists": true,
+      "active": [
+        "test-listening"
+      ],
+      "title": "听力整科测试 · IELTS"
+    },
+    {
+      "requested": "test-reading",
+      "actual": "#test-reading",
+      "targetExists": true,
+      "active": [
+        "test-reading"
+      ],
+      "title": "阅读整科测试 · IELTS"
+    },
+    {
+      "requested": "test-writing",
+      "actual": "#test-writing",
+      "targetExists": true,
+      "active": [
+        "test-writing"
+      ],
+      "title": "写作整科测试 · IELTS"
+    },
+    {
+      "requested": "test-speaking",
+      "actual": "#test-speaking",
+      "targetExists": true,
+      "active": [
+        "test-speaking"
+      ],
+      "title": "口语整科测试 · IELTS"
+    },
+    {
+      "requested": "learning-projects",
+      "actual": "#learning-projects",
+      "targetExists": true,
+      "active": [
+        "learning-projects"
+      ],
+      "title": "学习项目 · IELTS"
+    },
+    {
+      "requested": "my-vocabulary-materials",
+      "actual": "#my-vocabulary-materials",
+      "targetExists": true,
+      "active": [
+        "my-vocabulary-materials"
+      ],
+      "title": "我的词汇资料 · IELTS"
+    },
+    {
+      "requested": "my-topic-materials",
+      "actual": "#my-topic-materials",
+      "targetExists": true,
+      "active": [
+        "my-topic-materials"
+      ],
+      "title": "我的话题资料 · IELTS"
+    },
+    {
+      "requested": "study-listening-list",
+      "actual": "#study-listening-list",
+      "targetExists": true,
+      "active": [
+        "study"
+      ],
+      "title": "学习 / 听力 · IELTS"
+    },
+    {
+      "requested": "study-reading-list",
+      "actual": "#study-reading-list",
+      "targetExists": true,
+      "active": [
+        "study"
+      ],
+      "title": "学习 / 阅读 · IELTS"
+    },
+    {
+      "requested": "study-writing-list",
+      "actual": "#study-writing-list",
+      "targetExists": true,
+      "active": [
+        "study"
+      ],
+      "title": "学习 / 写作 · IELTS"
+    },
+    {
+      "requested": "study-speaking-list",
+      "actual": "#study-speaking-list",
+      "targetExists": true,
+      "active": [
+        "study"
+      ],
+      "title": "学习 / 口语 · IELTS"
+    },
+    {
+      "requested": "study-vocabulary-list",
+      "actual": "#study-vocabulary-list",
+      "targetExists": true,
+      "active": [
+        "study"
+      ],
+      "title": "学习 / 词汇 · IELTS"
+    },
+    {
+      "requested": "study-phrases-list",
+      "actual": "#study-phrases-list",
+      "targetExists": true,
+      "active": [
+        "study"
+      ],
+      "title": "学习 / 短语 · IELTS"
+    },
+    {
+      "requested": "study-shared-list",
+      "actual": "#study-shared-list",
+      "targetExists": true,
+      "active": [
+        "study"
+      ],
+      "title": "学习 / 共用背景 · IELTS"
+    },
+    {
+      "requested": "study-writing1-list",
+      "actual": "#study-writing1-list",
+      "targetExists": true,
+      "active": [
+        "study"
+      ],
+      "title": "学习 / 写作 · Task 1 · IELTS"
+    },
+    {
+      "requested": "study-writing2-list",
+      "actual": "#study-writing2-list",
+      "targetExists": true,
+      "active": [
+        "study"
+      ],
+      "title": "学习 / 写作 · Task 2 · IELTS"
+    },
+    {
+      "requested": "practice-listening-list",
+      "actual": "#practice-listening-list",
+      "targetExists": true,
+      "active": [
+        "practice"
+      ],
+      "title": "练习 / 听力 · IELTS"
+    },
+    {
+      "requested": "practice-reading-list",
+      "actual": "#practice-reading-list",
+      "targetExists": true,
+      "active": [
+        "practice"
+      ],
+      "title": "练习 / 阅读 · IELTS"
+    },
+    {
+      "requested": "practice-writing-list",
+      "actual": "#practice-writing-list",
+      "targetExists": true,
+      "active": [
+        "practice"
+      ],
+      "title": "练习 / 写作 · IELTS"
+    },
+    {
+      "requested": "practice-speaking-list",
+      "actual": "#practice-speaking-list",
+      "targetExists": true,
+      "active": [
+        "practice"
+      ],
+      "title": "练习 / 口语 · IELTS"
+    },
+    {
+      "requested": "practice-vocabulary-list",
+      "actual": "#practice-vocabulary-list",
+      "targetExists": true,
+      "active": [
+        "practice"
+      ],
+      "title": "练习 / 词汇 · IELTS"
+    },
+    {
+      "requested": "practice-phrases-list",
+      "actual": "#practice-phrases-list",
+      "targetExists": true,
+      "active": [
+        "practice"
+      ],
+      "title": "练习 / 短语 · IELTS"
+    },
+    {
+      "requested": "practice-shared-list",
+      "actual": "#practice-shared-list",
+      "targetExists": true,
+      "active": [
+        "practice"
+      ],
+      "title": "练习 / 共用背景 · IELTS"
+    },
+    {
+      "requested": "practice-writing1-list",
+      "actual": "#practice-writing1-list",
+      "targetExists": true,
+      "active": [
+        "practice"
+      ],
+      "title": "练习 / 写作 · Task 1 · IELTS"
+    },
+    {
+      "requested": "practice-writing2-list",
+      "actual": "#practice-writing2-list",
+      "targetExists": true,
+      "active": [
+        "practice"
+      ],
+      "title": "练习 / 写作 · Task 2 · IELTS"
+    },
+    {
+      "requested": "reading-tech-locate",
+      "actual": "#reading-tech-locate",
+      "targetExists": true,
+      "active": [
+        "reading"
+      ],
+      "title": "学习 / 阅读 / 阅读起手：用真实噪声文章建立段落地图 · IELTS"
+    },
+    {
+      "requested": "reading-tech-judgement",
+      "actual": "#reading-tech-judgement",
+      "targetExists": true,
+      "active": [
+        "reading"
+      ],
+      "title": "学习 / 阅读 / 判断题：用真题区分反证、未知与观点归属 · IELTS"
+    },
+    {
+      "requested": "reading-tech-headings",
+      "actual": "#reading-tech-headings",
+      "targetExists": true,
+      "active": [
+        "reading"
+      ],
+      "title": "学习 / 阅读 / 标题匹配：Miles Davis原题中的主旨与干扰项 · IELTS"
+    },
+    {
+      "requested": "reading-tech-matching",
+      "actual": "#reading-tech-matching",
+      "targetExists": true,
+      "active": [
+        "reading"
+      ],
+      "title": "学习 / 阅读 / 信息与人物匹配：证据功能和说话人同时核对 · IELTS"
+    },
+    {
+      "requested": "reading-tech-completion",
+      "actual": "#reading-tech-completion",
+      "targetExists": true,
+      "active": [
+        "reading"
+      ],
+      "title": "学习 / 阅读 / 填空：真实表格、摘要中的字数和同义转换 · IELTS"
+    },
+    {
+      "requested": "reading-tech-diagram",
+      "actual": "#reading-tech-diagram",
+      "targetExists": true,
+      "active": [
+        "reading"
+      ],
+      "title": "学习 / 阅读 / 图示标注：官方蜣螂隧道原图中的深度与形状 · IELTS"
+    },
+    {
+      "requested": "reading-tech-choices-review",
+      "actual": "#reading-tech-choices-review",
+      "targetExists": true,
+      "active": [
+        "reading"
+      ],
+      "title": "学习 / 阅读 / 选择题与复盘：用原段功能排除“只说对一半” · IELTS"
+    },
+    {
+      "requested": "reading-new-new-reading-urban-tfng",
+      "actual": "#reading-new-new-reading-urban-tfng",
+      "targetExists": true,
+      "active": [
+        "reading"
+      ],
+      "title": "学习 / 阅读 / 收藏与公共展览：真题中的反证和信息缺口 · IELTS"
+    },
+    {
+      "requested": "reading-new-new-reading-refill-summary",
+      "actual": "#reading-new-new-reading-refill-summary",
+      "targetExists": true,
+      "active": [
+        "reading"
+      ],
+      "title": "学习 / 阅读 / 考古器物与糖业：真实摘要的并列顺序和概括 · IELTS"
+    },
+    {
+      "requested": "reading-new-new-reading-transport-information",
+      "actual": "#reading-new-new-reading-transport-information",
+      "targetExists": true,
+      "active": [
+        "reading"
+      ],
+      "title": "学习 / 阅读 / 城市噪声与考古：原题中的措施、数据和限定 · IELTS"
+    },
+    {
+      "requested": "reading-new-new-reading-ai-views",
+      "actual": "#reading-new-new-reading-ai-views",
+      "targetExists": true,
+      "active": [
+        "reading"
+      ],
+      "title": "学习 / 阅读 / 人工智能：用真实作者观点题辨别宣传和判断 · IELTS"
+    },
+    {
+      "requested": "learn-reading-headings-miles",
+      "actual": "#learn-reading-headings-miles",
+      "targetExists": true,
+      "active": [
+        "reading"
+      ],
+      "title": "学习 / 阅读 / 标题匹配：用整段意思判断 Miles Davis 的人生阶段 · IELTS"
+    },
+    {
+      "requested": "learn-reading-choice-older-workers",
+      "actual": "#learn-reading-choice-older-workers",
+      "targetExists": true,
+      "active": [
+        "reading"
+      ],
+      "title": "学习 / 阅读 / 单选题：Older workers 中的条件、范围与替换表达 · IELTS"
+    },
+    {
+      "requested": "reading-first",
+      "actual": "#reading-first",
+      "targetExists": true,
+      "active": [
+        "reading"
+      ],
+      "title": "学习 / 阅读 / 阅读 · 从原题开始学 · IELTS"
+    },
+    {
+      "requested": "listening-new-new-listening-campus-notes",
+      "actual": "#listening-new-new-listening-campus-notes",
+      "targetExists": true,
+      "active": [
+        "listening"
+      ],
+      "title": "学习 / 听力 / 课堂通知：日期、数字与澄清请求 · IELTS"
+    },
+    {
+      "requested": "listening-new-new-listening-team-roles",
+      "actual": "#listening-new-new-listening-team-roles",
+      "targetExists": true,
+      "active": [
+        "listening"
+      ],
+      "title": "学习 / 听力 / 会议分工：谁提出顾虑，谁负责执行 · IELTS"
+    },
+    {
+      "requested": "listening-new-new-listening-weather-table",
+      "actual": "#listening-new-new-listening-weather-table",
+      "targetExists": true,
+      "active": [
+        "listening"
+      ],
+      "title": "学习 / 听力 / 天气播报：地区、时间与例外条件 · IELTS"
+    },
+    {
+      "requested": "listening-new-new-listening-lecture-outline",
+      "actual": "#listening-new-new-listening-lecture-outline",
+      "targetExists": true,
+      "active": [
+        "listening"
+      ],
+      "title": "学习 / 听力 / 讲座导入：定义、例子与后文路线 · IELTS"
+    },
+    {
+      "requested": "learn-listening-insurance-choice",
+      "actual": "#learn-listening-insurance-choice",
+      "targetExists": true,
+      "active": [
+        "listening"
+      ],
+      "title": "学习 / 听力 / 单选：听到选项，还要听清最后的决定 · IELTS"
+    },
+    {
+      "requested": "learn-listening-customer-request",
+      "actual": "#learn-listening-customer-request",
+      "targetExists": true,
+      "active": [
+        "listening"
+      ],
+      "title": "学习 / 听力 / 服务沟通：分清请求、顾虑和最终同意 · IELTS"
+    },
+    {
+      "requested": "listening-first",
+      "actual": "#listening-first",
+      "targetExists": true,
+      "active": [
+        "listening"
+      ],
+      "title": "学习 / 听力 / 听力 · 从原题开始学 · IELTS"
+    },
+    {
+      "requested": "writing1-tech-read-chart",
+      "actual": "#writing1-tech-read-chart",
+      "targetExists": true,
+      "active": [
+        "writing1"
+      ],
+      "title": "学习 / 写作 · Task 1 / 读图起手：用真实就业图核对对象、单位与时间 · IELTS"
+    },
+    {
+      "requested": "writing1-tech-overview",
+      "actual": "#writing1-tech-overview",
+      "targetExists": true,
+      "active": [
+        "writing1"
+      ],
+      "title": "学习 / 写作 · Task 1 / Overview：用真实原图找全局关系，再选择证据 · IELTS"
+    },
+    {
+      "requested": "writing1-tech-precision",
+      "actual": "#writing1-tech-precision",
+      "targetExists": true,
+      "active": [
+        "writing1"
+      ],
+      "title": "学习 / 写作 · Task 1 / 数据精确表达：真实表格里的百分点、比例和近似值 · IELTS"
+    },
+    {
+      "requested": "writing1-tech-process",
+      "actual": "#writing1-tech-process",
+      "targetExists": true,
+      "active": [
+        "writing1"
+      ],
+      "title": "学习 / 写作 · Task 1 / 流程图：真实制砖分支与雨影形成机制 · IELTS"
+    },
+    {
+      "requested": "writing1-tech-maps",
+      "actual": "#writing1-tech-maps",
+      "targetExists": true,
+      "active": [
+        "writing1"
+      ],
+      "title": "学习 / 写作 · Task 1 / 地图题：咖啡厅改造的定位、替换与保留 · IELTS"
+    },
+    {
+      "requested": "writing1-new-new-writing1-library-map",
+      "actual": "#writing1-new-new-writing1-library-map",
+      "targetExists": true,
+      "active": [
+        "writing1"
+      ],
+      "title": "学习 / 写作 · Task 1 / 咖啡厅改造：在真实两张平面图间建立对应 · IELTS"
+    },
+    {
+      "requested": "writing1-new-new-writing1-transport-trends",
+      "actual": "#writing1-new-new-writing1-transport-trends",
+      "targetExists": true,
+      "active": [
+        "writing1"
+      ],
+      "title": "学习 / 写作 · Task 1 / 真实折线图：就业结构变化与受众时段差异 · IELTS"
+    },
+    {
+      "requested": "learn-writing1_compare_groups",
+      "actual": "#learn-writing1_compare_groups",
+      "targetExists": true,
+      "active": [
+        "writing1"
+      ],
+      "title": "学习 / 写作 · Task 1 / 柱状图：先比较，再用数据支持 · IELTS"
+    },
+    {
+      "requested": "learn-writing1_process_branches",
+      "actual": "#learn-writing1_process_branches",
+      "targetExists": true,
+      "active": [
+        "writing1"
+      ],
+      "title": "学习 / 写作 · Task 1 / 流程图：把顺序和替代路线说清楚 · IELTS"
+    },
+    {
+      "requested": "writing1-first",
+      "actual": "#writing1-first",
+      "targetExists": true,
+      "active": [
+        "writing1"
+      ],
+      "title": "学习 / 写作 · Task 1 / 写作 · Task 1 · 从原题开始学 · IELTS"
+    },
+    {
+      "requested": "writing2-new-new-writing2-environment-discussion",
+      "actual": "#writing2-new-new-writing2-environment-discussion",
+      "targetExists": true,
+      "active": [
+        "writing2"
+      ],
+      "title": "学习 / 写作 · Task 2 / 国际旅游：基于官方原题比较环境代价和社区收益 · IELTS"
+    },
+    {
+      "requested": "writing2-new-new-writing2-community-causes",
+      "actual": "#writing2-new-new-writing2-community-causes",
+      "targetExists": true,
+      "active": [
+        "writing2"
+      ],
+      "title": "学习 / 写作 · Task 2 / 过度捕捞：真实题干中的原因与措施对应 · IELTS"
+    },
+    {
+      "requested": "learn-writing2_position_mechanism",
+      "actual": "#learn-writing2_position_mechanism",
+      "targetExists": true,
+      "active": [
+        "writing2"
+      ],
+      "title": "学习 / 写作 · Task 2 / 观点题：把立场变成能解释的理由 · IELTS"
+    },
+    {
+      "requested": "learn-writing2_weigh_consequences",
+      "actual": "#learn-writing2_weigh_consequences",
+      "targetExists": true,
+      "active": [
+        "writing2"
+      ],
+      "title": "学习 / 写作 · Task 2 / 利弊权衡：说明为什么一边更重要 · IELTS"
+    },
+    {
+      "requested": "writing2-first",
+      "actual": "#writing2-first",
+      "targetExists": true,
+      "active": [
+        "writing2"
+      ],
+      "title": "学习 / 写作 · Task 2 / 写作 · Task 2 · 从原题开始学 · IELTS"
+    },
+    {
+      "requested": "topic-education",
+      "actual": "#topic-education",
+      "targetExists": true,
+      "active": [
+        "background"
+      ],
+      "title": "学习 / 共用背景 / 教育：谁能学到，学什么，怎样学 · IELTS"
+    },
+    {
+      "requested": "topic-technology",
+      "actual": "#topic-technology",
+      "targetExists": true,
+      "active": [
+        "reading"
+      ],
+      "title": "学习 / 阅读 / 科技：工具带来什么，又需要什么条件 · IELTS"
+    },
+    {
+      "requested": "speaking-new-sep26-journeys",
+      "actual": "#speaking-new-sep26-journeys",
+      "targetExists": true,
+      "active": [
+        "speaking"
+      ],
+      "title": "学习 / 口语 / 旅游信息：一次具体使用经历 · IELTS"
+    },
+    {
+      "requested": "speaking-new-sep26-recycling",
+      "actual": "#speaking-new-sep26-recycling",
+      "targetExists": true,
+      "active": [
+        "speaking"
+      ],
+      "title": "学习 / 口语 / 园艺的未来：有条件地预测 · IELTS"
+    },
+    {
+      "requested": "speaking-new-sep26-energy",
+      "actual": "#speaking-new-sep26-energy",
+      "targetExists": true,
+      "active": [
+        "speaking"
+      ],
+      "title": "学习 / 口语 / 住宅与花园：解释实际好处 · IELTS"
+    },
+    {
+      "requested": "speaking-new-sep26-shoes-shopping",
+      "actual": "#speaking-new-sep26-shoes-shopping",
+      "targetExists": true,
+      "active": [
+        "speaking"
+      ],
+      "title": "学习 / 口语 / 购物方式与不必要消费 · IELTS"
+    },
+    {
+      "requested": "speaking-new-sep26-politeness",
+      "actual": "#speaking-new-sep26-politeness",
+      "targetExists": true,
+      "active": [
+        "speaking"
+      ],
+      "title": "学习 / 口语 / 诚实与儿童：比较观点 · IELTS"
+    },
+    {
+      "requested": "speaking-new-sep26-fruit-vegetables",
+      "actual": "#speaking-new-sep26-fruit-vegetables",
+      "targetExists": true,
+      "active": [
+        "speaking"
+      ],
+      "title": "学习 / 口语 / 公寓里种植：给可行方案 · IELTS"
+    },
+    {
+      "requested": "speaking-new-sep26-advertising",
+      "actual": "#speaking-new-sep26-advertising",
+      "targetExists": true,
+      "active": [
+        "speaking"
+      ],
+      "title": "学习 / 口语 / 广告的准确性与购买决定 · IELTS"
+    },
+    {
+      "requested": "speaking-new-sep26-paper",
+      "actual": "#speaking-new-sep26-paper",
+      "targetExists": true,
+      "active": [
+        "speaking"
+      ],
+      "title": "学习 / 口语 / 面包与日常饮食 · IELTS"
+    },
+    {
+      "requested": "speaking-new-sep26-school-skills",
+      "actual": "#speaking-new-sep26-school-skills",
+      "targetExists": true,
+      "active": [
+        "speaking"
+      ],
+      "title": "学习 / 口语 / 理发：习惯与最近变化 · IELTS"
+    },
+    {
+      "requested": "speaking-new-sep26-names-people",
+      "actual": "#speaking-new-sep26-names-people",
+      "targetExists": true,
+      "active": [
+        "speaking"
+      ],
+      "title": "学习 / 口语 / 有竞争心的人：具体事件支撑性格 · IELTS"
+    },
+    {
+      "requested": "speaking-new-sep26-decisions-success",
+      "actual": "#speaking-new-sep26-decisions-success",
+      "targetExists": true,
+      "active": [
+        "speaking"
+      ],
+      "title": "学习 / 口语 / 花钱与储蓄：程度和原因 · IELTS"
+    },
+    {
+      "requested": "speaking-new-sep26-organisation",
+      "actual": "#speaking-new-sep26-organisation",
+      "targetExists": true,
+      "active": [
+        "speaking"
+      ],
+      "title": "学习 / 口语 / 不真实的信息：发现问题与核对 · IELTS"
+    },
+    {
+      "requested": "speaking-new-sep26-city-spaces",
+      "actual": "#speaking-new-sep26-city-spaces",
+      "targetExists": true,
+      "active": [
+        "speaking"
+      ],
+      "title": "学习 / 口语 / 城市生活：吸引力与不便 · IELTS"
+    },
+    {
+      "requested": "speaking-new-sep26-creative-history",
+      "actual": "#speaking-new-sep26-creative-history",
+      "targetExists": true,
+      "active": [
+        "speaking"
+      ],
+      "title": "学习 / 口语 / 公园：从空间细节讲清兴趣 · IELTS"
+    },
+    {
+      "requested": "speaking-new-sep26-media",
+      "actual": "#speaking-new-sep26-media",
+      "targetExists": true,
+      "active": [
+        "speaking"
+      ],
+      "title": "学习 / 口语 / 景点：免费开放与失望原因 · IELTS"
+    },
+    {
+      "requested": "speaking-new-sep26-friends-happiness",
+      "actual": "#speaking-new-sep26-friends-happiness",
+      "targetExists": true,
+      "active": [
+        "speaking"
+      ],
+      "title": "学习 / 口语 / 竞争与参与：比较体育观点 · IELTS"
+    },
+    {
+      "requested": "learn-speaking_part1_natural_answers",
+      "actual": "#learn-speaking_part1_natural_answers",
+      "targetExists": true,
+      "active": [
+        "speaking"
+      ],
+      "title": "学习 / 口语 / 真实回答：家乡的四次问答 · IELTS"
+    },
+    {
+      "requested": "learn-speaking_part3_explain_compare",
+      "actual": "#learn-speaking_part3_explain_compare",
+      "targetExists": true,
+      "active": [
+        "speaking"
+      ],
+      "title": "学习 / 口语 / 真实讨论：地位象征与未来变化 · IELTS"
+    },
+    {
+      "requested": "speaking-first",
+      "actual": "#speaking-first",
+      "targetExists": true,
+      "active": [
+        "speaking"
+      ],
+      "title": "学习 / 口语 / 口语 · 从原题开始学 · IELTS"
+    },
+    {
+      "requested": "topic-work",
+      "actual": "#topic-work",
+      "targetExists": true,
+      "active": [
+        "speaking"
+      ],
+      "title": "学习 / 口语 / 工作：收入、稳定性与生活安排 · IELTS"
+    },
+    {
+      "requested": "topic-personal-home_neighbourhood",
+      "actual": "#topic-personal-home_neighbourhood",
+      "targetExists": true,
+      "active": [
+        "speaking"
+      ],
+      "title": "学习 / 口语 / 居住经验：城市的吸引力与取舍 · IELTS"
+    },
+    {
+      "requested": "topic-personal-relationships",
+      "actual": "#topic-personal-relationships",
+      "targetExists": true,
+      "active": [
+        "speaking"
+      ],
+      "title": "学习 / 口语 / 认识的人：竞争心如何体现 · IELTS"
+    },
+    {
+      "requested": "topic-personal-daily_choices",
+      "actual": "#topic-personal-daily_choices",
+      "targetExists": true,
+      "active": [
+        "speaking"
+      ],
+      "title": "学习 / 口语 / 日常选择：付款与购买教训 · IELTS"
+    },
+    {
+      "requested": "topic-personal-interests_skills",
+      "actual": "#topic-personal-interests_skills",
+      "targetExists": true,
+      "active": [
+        "speaking"
+      ],
+      "title": "学习 / 口语 / 兴趣与地方：观察公园细节 · IELTS"
+    },
+    {
+      "requested": "topic-personal-experiences_changes",
+      "actual": "#topic-personal-experiences_changes",
+      "targetExists": true,
+      "active": [
+        "speaking"
+      ],
+      "title": "学习 / 口语 / 经历与变化：核对一条信息 · IELTS"
+    },
+    {
+      "requested": "topic-personal-places_weather",
+      "actual": "#topic-personal-places_weather",
+      "targetExists": true,
+      "active": [
+        "speaking"
+      ],
+      "title": "学习 / 口语 / 旅行计划：信息怎样帮助行动 · IELTS"
+    },
+    {
+      "requested": "reading-case-rd-c21-davies-1",
+      "actual": "#reading-case-rd-c21-davies-1",
+      "targetExists": true,
+      "active": [
+        "practice-reading"
+      ],
+      "title": "练习 / 阅读 / The Davies Sisters｜成长背景与收藏起点 · IELTS"
+    },
+    {
+      "requested": "reading-case-rd-c21-davies-2",
+      "actual": "#reading-case-rd-c21-davies-2",
+      "targetExists": true,
+      "active": [
+        "practice-reading"
+      ],
+      "title": "练习 / 阅读 / The Davies Sisters｜印象派转向与战时收藏 · IELTS"
+    },
+    {
+      "requested": "reading-case-rd-c21-davies-3",
+      "actual": "#reading-case-rd-c21-davies-3",
+      "targetExists": true,
+      "active": [
+        "practice-reading"
+      ],
+      "title": "练习 / 阅读 / The Davies Sisters｜收藏停止与文化遗产 · IELTS"
+    },
+    {
+      "requested": "reading-case-rd-c21-silence-1",
+      "actual": "#reading-case-rd-c21-silence-1",
+      "targetExists": true,
+      "active": [
+        "practice-reading"
+      ],
+      "title": "练习 / 阅读 / Why we need silence｜噪声风险与城市降噪 · IELTS"
+    },
+    {
+      "requested": "reading-case-rd-c21-silence-2",
+      "actual": "#reading-case-rd-c21-silence-2",
+      "targetExists": true,
+      "active": [
+        "practice-reading"
+      ],
+      "title": "练习 / 阅读 / Why we need silence｜漂浮舱的两项实验 · IELTS"
+    },
+    {
+      "requested": "reading-case-rd-c21-silence-3",
+      "actual": "#reading-case-rd-c21-silence-3",
+      "targetExists": true,
+      "active": [
+        "practice-reading"
+      ],
+      "title": "练习 / 阅读 / Why we need silence｜主动安静与短时收益 · IELTS"
+    },
+    {
+      "requested": "reading-case-rd-c21-sugar-1",
+      "actual": "#reading-case-rd-c21-sugar-1",
+      "targetExists": true,
+      "active": [
+        "practice-reading"
+      ],
+      "title": "练习 / 阅读 / The World of Sugar｜全球贸易与误解纠正 · IELTS"
+    },
+    {
+      "requested": "reading-case-rd-c21-sugar-2",
+      "actual": "#reading-case-rd-c21-sugar-2",
+      "targetExists": true,
+      "active": [
+        "practice-reading"
+      ],
+      "title": "练习 / 阅读 / The World of Sugar｜劳动组织与行业权力 · IELTS"
+    },
+    {
+      "requested": "reading-case-rd-c21-sugar-3",
+      "actual": "#reading-case-rd-c21-sugar-3",
+      "targetExists": true,
+      "active": [
+        "practice-reading"
+      ],
+      "title": "练习 / 阅读 / The World of Sugar｜工业化、消费与作者立场 · IELTS"
+    },
+    {
+      "requested": "reading-case-rd-c21-dreams-1",
+      "actual": "#reading-case-rd-c21-dreams-1",
+      "targetExists": true,
+      "active": [
+        "practice-reading"
+      ],
+      "title": "练习 / 阅读 / Do animals dream?｜跨物种睡眠研究 · IELTS"
+    },
+    {
+      "requested": "reading-case-rd-c21-dreams-2",
+      "actual": "#reading-case-rd-c21-dreams-2",
+      "targetExists": true,
+      "active": [
+        "practice-reading"
+      ],
+      "title": "练习 / 阅读 / Do animals dream?｜章鱼行为与研究边界 · IELTS"
+    },
+    {
+      "requested": "reading-case-rd-c21-mapungubwe-1",
+      "actual": "#reading-case-rd-c21-mapungubwe-1",
+      "targetExists": true,
+      "active": [
+        "practice-reading"
+      ],
+      "title": "练习 / 阅读 / Mapungubwe｜农业、居所与社会等级 · IELTS"
+    },
+    {
+      "requested": "reading-case-rd-c21-mapungubwe-2",
+      "actual": "#reading-case-rd-c21-mapungubwe-2",
+      "targetExists": true,
+      "active": [
+        "practice-reading"
+      ],
+      "title": "练习 / 阅读 / Mapungubwe｜贸易、器物与衰落 · IELTS"
+    },
+    {
+      "requested": "reading-case-rd-c21-ai-1",
+      "actual": "#reading-case-rd-c21-ai-1",
+      "targetExists": true,
+      "active": [
+        "practice-reading"
+      ],
+      "title": "练习 / 阅读 / Artificial Intelligence｜公众想象与解决一切的误区 · IELTS"
+    },
+    {
+      "requested": "reading-case-rd-c21-ai-2",
+      "actual": "#reading-case-rd-c21-ai-2",
+      "targetExists": true,
+      "active": [
+        "practice-reading"
+      ],
+      "title": "练习 / 阅读 / Artificial Intelligence｜公共部门实施条件 · IELTS"
+    },
+    {
+      "requested": "reading-case-rd-c21-ai-3",
+      "actual": "#reading-case-rd-c21-ai-3",
+      "targetExists": true,
+      "active": [
+        "practice-reading"
+      ],
+      "title": "练习 / 阅读 / Artificial Intelligence｜部署边界、医疗与司法案例 · IELTS"
+    },
+    {
+      "requested": "reading-case-rd-official-miles-1",
+      "actual": "#reading-case-rd-official-miles-1",
+      "targetExists": true,
+      "active": [
+        "practice-reading"
+      ],
+      "title": "练习 / 阅读 / Miles Davis：独特音色、双重教育与音乐遗产 · IELTS"
+    },
+    {
+      "requested": "reading-case-rd-official-miles-2",
+      "actual": "#reading-case-rd-official-miles-2",
+      "targetExists": true,
+      "active": [
+        "practice-reading"
+      ],
+      "title": "练习 / 阅读 / Miles Davis：困境、跨界与创造力 · IELTS"
+    },
+    {
+      "requested": "reading-case-rd-official-older-workers",
+      "actual": "#reading-case-rd-official-older-workers",
+      "targetExists": true,
+      "active": [
+        "practice-reading"
+      ],
+      "title": "练习 / 阅读 / Older workers：薪资条件与两种继续工作的动机 · IELTS"
+    },
+    {
+      "requested": "reading-case-rd-official-diagram",
+      "actual": "#reading-case-rd-official-diagram",
+      "targetExists": true,
+      "active": [
+        "practice-reading"
+      ],
+      "title": "练习 / 阅读 / 蜣螂隧道：用深度和形状读图 · IELTS"
+    },
+    {
+      "requested": "reading-case-rd-official-table",
+      "actual": "#reading-case-rd-official-table",
+      "targetExists": true,
+      "active": [
+        "practice-reading"
+      ],
+      "title": "练习 / 阅读 / 蜣螂物种：沿表格列名核对信息 · IELTS"
+    },
+    {
+      "requested": "reading-case-rd-official-short-answer",
+      "actual": "#reading-case-rd-official-short-answer",
+      "targetExists": true,
+      "active": [
+        "practice-reading"
+      ],
+      "title": "练习 / 阅读 / 产品召回：批次、退款与联系人 · IELTS"
+    },
+    {
+      "requested": "reading-case-rd-c21-t3-saiga-adaptation",
+      "actual": "#reading-case-rd-c21-t3-saiga-adaptation",
+      "targetExists": true,
+      "active": [
+        "practice-reading"
+      ],
+      "title": "练习 / 阅读 / Saving the saiga · 生存适应与早期数量变化 · IELTS"
+    },
+    {
+      "requested": "reading-case-rd-c21-t3-saiga-threats",
+      "actual": "#reading-case-rd-c21-t3-saiga-threats",
+      "targetExists": true,
+      "active": [
+        "practice-reading"
+      ],
+      "title": "练习 / 阅读 / Saving the saiga · 栖息地、疾病、气候与恢复 · IELTS"
+    },
+    {
+      "requested": "reading-case-rd-c21-t3-dart-city",
+      "actual": "#reading-case-rd-c21-t3-dart-city",
+      "targetExists": true,
+      "active": [
+        "practice-reading"
+      ],
+      "title": "练习 / 阅读 / Dar es Salaam · 城市扩张与交通方案 · IELTS"
+    },
+    {
+      "requested": "reading-case-rd-c21-t3-dart-system",
+      "actual": "#reading-case-rd-c21-t3-dart-system",
+      "targetExists": true,
+      "active": [
+        "practice-reading"
+      ],
+      "title": "练习 / 阅读 / Dar es Salaam · 公交设计与实际故障 · IELTS"
+    },
+    {
+      "requested": "reading-case-rd-c21-t3-past-discoveries",
+      "actual": "#reading-case-rd-c21-t3-past-discoveries",
+      "targetExists": true,
+      "active": [
+        "practice-reading"
+      ],
+      "title": "练习 / 阅读 / Rethinking the Past · 发现怎样改变既有认识 · IELTS"
+    },
+    {
+      "requested": "reading-case-rd-c21-t3-past-art",
+      "actual": "#reading-case-rd-c21-t3-past-art",
+      "targetExists": true,
+      "active": [
+        "practice-reading"
+      ],
+      "title": "练习 / 阅读 / Rethinking the Past · 艺术年代、研究争议与脑容量 · IELTS"
+    },
+    {
+      "requested": "reading-case-rd-c21-t3-past-preconceptions",
+      "actual": "#reading-case-rd-c21-t3-past-preconceptions",
+      "targetExists": true,
+      "active": [
+        "practice-reading"
+      ],
+      "title": "练习 / 阅读 / Rethinking the Past · 渐进变化与性别预设 · IELTS"
+    },
+    {
+      "requested": "reading-case-rd-c21-t4-hyacinth-problem",
+      "actual": "#reading-case-rd-c21-t4-hyacinth-problem",
+      "targetExists": true,
+      "active": [
+        "practice-reading"
+      ],
+      "title": "练习 / 阅读 / Water hyacinth · 入侵植物与能源问题 · IELTS"
+    },
+    {
+      "requested": "reading-case-rd-c21-t4-hyacinth-biogas",
+      "actual": "#reading-case-rd-c21-t4-hyacinth-biogas",
+      "targetExists": true,
+      "active": [
+        "practice-reading"
+      ],
+      "title": "练习 / 阅读 / Water hyacinth · 沼气流程、收益与价格障碍 · IELTS"
+    },
+    {
+      "requested": "reading-case-rd-c21-t4-multilingual-background",
+      "actual": "#reading-case-rd-c21-t4-multilingual-background",
+      "targetExists": true,
+      "active": [
+        "practice-reading"
+      ],
+      "title": "练习 / 阅读 / Multilingualism · 迁移背景与研究目标 · IELTS"
+    },
+    {
+      "requested": "reading-case-rd-c21-t4-multilingual-findings",
+      "actual": "#reading-case-rd-c21-t4-multilingual-findings",
+      "targetExists": true,
+      "active": [
+        "practice-reading"
+      ],
+      "title": "练习 / 阅读 / Multilingualism · 教学语言与出人意料的结果 · IELTS"
+    },
+    {
+      "requested": "reading-case-rd-c21-t4-globe-search",
+      "actual": "#reading-case-rd-c21-t4-globe-search",
+      "targetExists": true,
+      "active": [
+        "practice-reading"
+      ],
+      "title": "练习 / 阅读 / The Globemakers · 从生日礼物到制作难题 · IELTS"
+    },
+    {
+      "requested": "reading-case-rd-c21-t4-globe-craft",
+      "actual": "#reading-case-rd-c21-t4-globe-craft",
+      "targetExists": true,
+      "active": [
+        "practice-reading"
+      ],
+      "title": "练习 / 阅读 / The Globemakers · 制作细节、历史匠人与书评判断 · IELTS"
+    },
+    {
+      "requested": "reading-case-rd-gap-birds-sentence-history",
+      "actual": "#reading-case-rd-gap-birds-sentence-history",
+      "targetExists": true,
+      "active": [
+        "practice-reading"
+      ],
+      "title": "练习 / 阅读 / 鸟类起源：理论提出、反驳与新证据 · IELTS"
+    },
+    {
+      "requested": "reading-case-rd-gap-birds-sentence-debate",
+      "actual": "#reading-case-rd-gap-birds-sentence-debate",
+      "targetExists": true,
+      "active": [
+        "practice-reading"
+      ],
+      "title": "练习 / 阅读 / 鸟类起源：两方论点与过渡化石 · IELTS"
+    },
+    {
+      "requested": "reading-case-rd-gap-academic-short-answer-health",
+      "actual": "#reading-case-rd-gap-academic-short-answer-health",
+      "targetExists": true,
+      "active": [
+        "practice-reading"
+      ],
+      "title": "练习 / 阅读 / 健康观念变化：年份、十年与三大领域 · IELTS"
+    },
+    {
+      "requested": "pr-reading-davies-statements",
+      "actual": "#pr-reading-davies-statements",
+      "targetExists": true,
+      "active": [
+        "practice-reading"
+      ],
+      "title": "练习 / 阅读 / 阅读 · TRUE / FALSE / NOT GIVEN The Davies Sisters · IELTS"
+    },
+    {
+      "requested": "pr-reading-miles-headings",
+      "actual": "#pr-reading-miles-headings",
+      "targetExists": true,
+      "active": [
+        "practice-reading"
+      ],
+      "title": "练习 / 阅读 / 阅读 · 段落标题 Miles Davis · IELTS"
+    },
+    {
+      "requested": "pr-reading-silence-people",
+      "actual": "#pr-reading-silence-people",
+      "targetExists": true,
+      "active": [
+        "practice-reading"
+      ],
+      "title": "练习 / 阅读 / 阅读 · 人物匹配 Why we need silence · IELTS"
+    },
+    {
+      "requested": "pr-reading-davies-notes",
+      "actual": "#pr-reading-davies-notes",
+      "targetExists": true,
+      "active": [
+        "practice-reading"
+      ],
+      "title": "练习 / 阅读 / 阅读 · 笔记填空 The Davies Sisters · IELTS"
+    },
+    {
+      "requested": "pr-reading-sugar-choice",
+      "actual": "#pr-reading-sugar-choice",
+      "targetExists": true,
+      "active": [
+        "practice-reading"
+      ],
+      "title": "练习 / 阅读 / 阅读 · 选择题 The World of Sugar · IELTS"
+    },
+    {
+      "requested": "pr-reading-sugar-summary",
+      "actual": "#pr-reading-sugar-summary",
+      "targetExists": true,
+      "active": [
+        "practice-reading"
+      ],
+      "title": "练习 / 阅读 / 阅读 · 摘要选词 Sugar cultivation and production · IELTS"
+    },
+    {
+      "requested": "topic-crime",
+      "actual": "#topic-crime",
+      "targetExists": true,
+      "active": [
+        "practice-reading"
+      ],
+      "title": "练习 / 阅读 / 司法与技术：算法风险的真实阅读语境 · IELTS"
+    },
+    {
+      "requested": "topic-government",
+      "actual": "#topic-government",
+      "targetExists": true,
+      "active": [
+        "practice-reading"
+      ],
+      "title": "练习 / 阅读 / 公共治理：公交方案怎样落地 · IELTS"
+    },
+    {
+      "requested": "topic-society",
+      "actual": "#topic-society",
+      "targetExists": true,
+      "active": [
+        "practice-reading"
+      ],
+      "title": "练习 / 阅读 / 社会责任：财富如何用于公共文化 · IELTS"
+    },
+    {
+      "requested": "topic-environment",
+      "actual": "#topic-environment",
+      "targetExists": true,
+      "active": [
+        "practice-reading"
+      ],
+      "title": "练习 / 阅读 / 环境保护：威胁之间的关系 · IELTS"
+    },
+    {
+      "requested": "topic-health",
+      "actual": "#topic-health",
+      "targetExists": true,
+      "active": [
+        "practice-reading"
+      ],
+      "title": "练习 / 阅读 / 健康与消费：读出作者评价 · IELTS"
+    },
+    {
+      "requested": "topic-everyday",
+      "actual": "#topic-everyday",
+      "targetExists": true,
+      "active": [
+        "practice-reading"
+      ],
+      "title": "练习 / 阅读 / 日常生活：读懂产品召回通知 · IELTS"
+    },
+    {
+      "requested": "learn-background_food_consumption",
+      "actual": "#learn-background_food_consumption",
+      "targetExists": true,
+      "active": [
+        "practice-reading"
+      ],
+      "title": "练习 / 阅读 / 食物与消费：来源、产业与后果 · IELTS"
+    },
+    {
+      "requested": "learn-background_travel_tourism",
+      "actual": "#learn-background_travel_tourism",
+      "targetExists": true,
+      "active": [
+        "practice-reading"
+      ],
+      "title": "练习 / 阅读 / 旅行活动：一份骑行说明的完整语境 · IELTS"
+    },
+    {
+      "requested": "learn-background_media_advertising",
+      "actual": "#learn-background_media_advertising",
+      "targetExists": true,
+      "active": [
+        "practice-reading"
+      ],
+      "title": "练习 / 阅读 / 媒体信息：新闻承诺与实际能力 · IELTS"
+    },
+    {
+      "requested": "pr-background-fisheries",
+      "actual": "#pr-background-fisheries",
+      "targetExists": true,
+      "active": [
+        "practice-reading"
+      ],
+      "title": "练习 / 阅读 / 阅读 · 海洋资源：捕捞与鱼群恢复 · IELTS"
+    },
+    {
+      "requested": "pr-listening-p1",
+      "actual": "#pr-listening-p1",
+      "targetExists": true,
+      "active": [
+        "practice-listening"
+      ],
+      "title": "练习 / 听力 / Listening Part 1 货物运输 · IELTS"
+    },
+    {
+      "requested": "pr-listening-p2",
+      "actual": "#pr-listening-p2",
+      "targetExists": true,
+      "active": [
+        "practice-listening"
+      ],
+      "title": "练习 / 听力 / Listening Part 2 社区活动 · IELTS"
+    },
+    {
+      "requested": "pr-listening-p3",
+      "actual": "#pr-listening-p3",
+      "targetExists": true,
+      "active": [
+        "practice-listening"
+      ],
+      "title": "练习 / 听力 / Listening Part 3 远程学习 · IELTS"
+    },
+    {
+      "requested": "pr-listening-p4",
+      "actual": "#pr-listening-p4",
+      "targetExists": true,
+      "active": [
+        "practice-listening"
+      ],
+      "title": "练习 / 听力 / Listening Part 4 学习研究 · IELTS"
+    },
+    {
+      "requested": "topic-space",
+      "actual": "#topic-space",
+      "targetExists": true,
+      "active": [
+        "practice-listening"
+      ],
+      "title": "练习 / 听力 / 太空与生命：样本怎样成为证据 · IELTS"
+    },
+    {
+      "requested": "writing1-case-wc-c21-t1-jobs",
+      "actual": "#writing1-case-wc-c21-t1-jobs",
+      "targetExists": true,
+      "active": [
+        "practice-writing1"
+      ],
+      "title": "练习 / 写作 · Task 1 / 美国四行业就业：峰值、交叉与最终排名 · IELTS"
+    },
+    {
+      "requested": "writing1-case-wc-c21-t2-cafe",
+      "actual": "#writing1-case-wc-c21-t2-cafe",
+      "targetExists": true,
+      "active": [
+        "practice-writing1"
+      ],
+      "title": "练习 / 写作 · Task 1 / 学院咖啡厅改造：保留设施与功能替换 · IELTS"
+    },
+    {
+      "requested": "writing1-case-wc-c21-t3-rainshadow",
+      "actual": "#writing1-case-wc-c21-t3-rainshadow",
+      "targetExists": true,
+      "active": [
+        "practice-writing1"
+      ],
+      "title": "练习 / 写作 · Task 1 / 雨影沙漠：越山前后的水分变化 · IELTS"
+    },
+    {
+      "requested": "writing1-case-wc-c21-t4-library",
+      "actual": "#writing1-case-wc-c21-t4-library",
+      "targetExists": true,
+      "active": [
+        "practice-writing1"
+      ],
+      "title": "练习 / 写作 · Task 1 / 图书馆用户与满意度：两图的不同分母 · IELTS"
+    },
+    {
+      "requested": "writing1-case-wc-official-education",
+      "actual": "#writing1-case-wc-official-education",
+      "targetExists": true,
+      "active": [
+        "practice-writing1"
+      ],
+      "title": "练习 / 写作 · Task 1 / 英国继续教育：人数与学习形式 · IELTS"
+    },
+    {
+      "requested": "writing1-case-wc-official-audiences",
+      "actual": "#writing1-case-wc-official-audiences",
+      "targetExists": true,
+      "active": [
+        "practice-writing1"
+      ],
+      "title": "练习 / 写作 · Task 1 / 广播与电视受众：同一天的双峰比较 · IELTS"
+    },
+    {
+      "requested": "writing1-case-wc-official-bricks",
+      "actual": "#writing1-case-wc-official-bricks",
+      "targetExists": true,
+      "active": [
+        "practice-writing1"
+      ],
+      "title": "练习 / 写作 · Task 1 / 制砖：并行成形路径与温度阶段 · IELTS"
+    },
+    {
+      "requested": "writing1-case-wc-official-bicycle",
+      "actual": "#writing1-case-wc-official-bicycle",
+      "targetExists": true,
+      "active": [
+        "practice-writing1"
+      ],
+      "title": "练习 / 写作 · Task 1 / 自行车使用率：年龄比较与百分点差 · IELTS"
+    },
+    {
+      "requested": "pr-writing1-jobs",
+      "actual": "#pr-writing1-jobs",
+      "targetExists": true,
+      "active": [
+        "practice-writing1"
+      ],
+      "title": "练习 / 写作 · Task 1 / Task 1 · 折线图 四行业就业 · IELTS"
+    },
+    {
+      "requested": "pr-writing1-bricks",
+      "actual": "#pr-writing1-bricks",
+      "targetExists": true,
+      "active": [
+        "practice-writing1"
+      ],
+      "title": "练习 / 写作 · Task 1 / Task 1 · 流程图 砖块制造 · IELTS"
+    },
+    {
+      "requested": "pr-writing1-cafe",
+      "actual": "#pr-writing1-cafe",
+      "targetExists": true,
+      "active": [
+        "practice-writing1"
+      ],
+      "title": "练习 / 写作 · Task 1 / Task 1 · 平面图 学院咖啡厅改造 · IELTS"
+    },
+    {
+      "requested": "writing2-case-wc-c21-t1-homes",
+      "actual": "#writing2-case-wc-c21-t1-homes",
+      "targetExists": true,
+      "active": [
+        "practice-writing2"
+      ],
+      "title": "练习 / 写作 · Task 2 / 高层住宅是否是城市住房的最佳方案 · IELTS"
+    },
+    {
+      "requested": "writing2-case-wc-c21-t2-entertainment",
+      "actual": "#writing2-case-wc-c21-t2-entertainment",
+      "targetExists": true,
+      "active": [
+        "practice-writing2"
+      ],
+      "title": "练习 / 写作 · Task 2 / 线上娱乐与剧院影院的经济文化价值 · IELTS"
+    },
+    {
+      "requested": "writing2-case-wc-c21-t3-placement",
+      "actual": "#writing2-case-wc-c21-t3-placement",
+      "targetExists": true,
+      "active": [
+        "practice-writing2"
+      ],
+      "title": "练习 / 写作 · Task 2 / 本科海外学习或实习：收益能否超过代价 · IELTS"
+    },
+    {
+      "requested": "writing2-case-wc-c21-t4-primary",
+      "actual": "#writing2-case-wc-c21-t4-primary",
+      "targetExists": true,
+      "active": [
+        "practice-writing2"
+      ],
+      "title": "练习 / 写作 · Task 2 / 小学正式学习与课堂游戏：两个问题分别回应 · IELTS"
+    },
+    {
+      "requested": "writing2-case-wc-official-wealth",
+      "actual": "#writing2-case-wc-official-wealth",
+      "targetExists": true,
+      "active": [
+        "practice-writing2"
+      ],
+      "title": "练习 / 写作 · Task 2 / 家庭财富与成年问题应对：避免绝对化 · IELTS"
+    },
+    {
+      "requested": "writing2-case-wc-official-tourism",
+      "actual": "#writing2-case-wc-official-tourism",
+      "targetExists": true,
+      "active": [
+        "practice-writing2"
+      ],
+      "title": "练习 / 写作 · Task 2 / 国际旅游：经济收益与社区成本如何比较 · IELTS"
+    },
+    {
+      "requested": "writing2-case-wc-official-science",
+      "actual": "#writing2-case-wc-official-science",
+      "targetExists": true,
+      "active": [
+        "practice-writing2"
+      ],
+      "title": "练习 / 写作 · Task 2 / 科研由政府控制：公共利益与研究多样性 · IELTS"
+    },
+    {
+      "requested": "writing2-case-wc-official-transport",
+      "actual": "#writing2-case-wc-official-transport",
+      "targetExists": true,
+      "active": [
+        "practice-writing2"
+      ],
+      "title": "练习 / 写作 · Task 2 / 鼓励替代交通与国际限车规定 · IELTS"
+    },
+    {
+      "requested": "writing2-case-wc-official-eldercare",
+      "actual": "#writing2-case-wc-official-eldercare",
+      "targetExists": true,
+      "active": [
+        "practice-writing2"
+      ],
+      "title": "练习 / 写作 · Task 2 / 老年照护费用：政府与家庭如何分担 · IELTS"
+    },
+    {
+      "requested": "writing2-case-wc-bc-graduates",
+      "actual": "#writing2-case-wc-bc-graduates",
+      "targetExists": true,
+      "active": [
+        "practice-writing2"
+      ],
+      "title": "练习 / 写作 · Task 2 / 高学历毕业生失业：原因和措施一一对应 · IELTS"
+    },
+    {
+      "requested": "writing2-case-wc-bc-overfishing",
+      "actual": "#writing2-case-wc-bc-overfishing",
+      "targetExists": true,
+      "active": [
+        "practice-writing2"
+      ],
+      "title": "练习 / 写作 · Task 2 / 过度捕捞：从激励与监管写到对策 · IELTS"
+    },
+    {
+      "requested": "writing2-case-wc-bc-childhealth",
+      "actual": "#writing2-case-wc-bc-childhealth",
+      "targetExists": true,
+      "active": [
+        "practice-writing2"
+      ],
+      "title": "练习 / 写作 · Task 2 / 儿童肥胖：原因—措施对应而非空泛建议 · IELTS"
+    },
+    {
+      "requested": "pr-writing2-primary",
+      "actual": "#pr-writing2-primary",
+      "targetExists": true,
+      "active": [
+        "practice-writing2"
+      ],
+      "title": "练习 / 写作 · Task 2 / Task 2 · 教育 小学课堂中的学习与游戏 · IELTS"
+    },
+    {
+      "requested": "pr-writing2-tourism",
+      "actual": "#pr-writing2-tourism",
+      "targetExists": true,
+      "active": [
+        "practice-writing2"
+      ],
+      "title": "练习 / 写作 · Task 2 / Task 2 · 旅游 旅游收益与居民成本 · IELTS"
+    },
+    {
+      "requested": "pr-writing2-housing",
+      "actual": "#pr-writing2-housing",
+      "targetExists": true,
+      "active": [
+        "practice-writing2"
+      ],
+      "title": "练习 / 写作 · Task 2 / Task 2 · 城市住房 高层住宅是否是最佳方案 · IELTS"
+    },
+    {
+      "requested": "learn-background_family_children",
+      "actual": "#learn-background_family_children",
+      "targetExists": true,
+      "active": [
+        "practice-writing2"
+      ],
+      "title": "练习 / 写作 · Task 2 / 家庭与儿童：财富是否决定成年应对能力 · IELTS"
+    },
+    {
+      "requested": "pr-fisheries-writing",
+      "actual": "#pr-fisheries-writing",
+      "targetExists": true,
+      "active": [
+        "practice-writing2"
+      ],
+      "title": "练习 / 写作 · Task 2 / 写作 · 海洋资源：执行捕捞上限 · IELTS"
+    },
+    {
+      "requested": "pr-speaking-p1",
+      "actual": "#pr-speaking-p1",
+      "targetExists": true,
+      "active": [
+        "practice-speaking"
+      ],
+      "title": "练习 / 口语 / Speaking Part 1 购物与储蓄 · IELTS"
+    },
+    {
+      "requested": "pr-speaking-p2",
+      "actual": "#pr-speaking-p2",
+      "targetExists": true,
+      "active": [
+        "practice-speaking"
+      ],
+      "title": "练习 / 口语 / Speaking Part 2 一个有竞争心的人 · IELTS"
+    },
+    {
+      "requested": "pr-speaking-p3",
+      "actual": "#pr-speaking-p3",
+      "targetExists": true,
+      "active": [
+        "practice-speaking"
+      ],
+      "title": "练习 / 口语 / Speaking Part 3 体育中的竞争与参与 · IELTS"
+    },
+    {
+      "requested": "pr-vocabulary-tourism",
+      "actual": "#pr-vocabulary-tourism",
+      "targetExists": true,
+      "active": [
+        "practice-phrases"
+      ],
+      "title": "练习 / 词汇 / 词汇 · 旅游语境 在语境中选择措辞 · IELTS"
+    },
+    {
+      "requested": "learn-155",
+      "actual": "#learn-155",
+      "targetExists": true,
+      "active": [
+        "background"
+      ],
+      "title": "学习 / 共用背景 / 阅读材料中的话题背景 · IELTS"
+    },
+    {
+      "requested": "topic-cities",
+      "actual": "#topic-cities",
+      "targetExists": true,
+      "active": [
+        "background"
+      ],
+      "title": "学习 / 共用背景 / 城市：把住房、交通与公共空间放在一起看 · IELTS"
+    },
+    {
+      "requested": "learn-vocab-take-into-account",
+      "actual": "#learn-vocab-take-into-account",
+      "targetExists": true,
+      "active": [
+        "phrases"
+      ],
+      "title": "学习 / 短语 / take … into account｜把条件纳入判断 · IELTS"
+    },
+    {
+      "requested": "learn-vocab-meet-needs",
+      "actual": "#learn-vocab-meet-needs",
+      "targetExists": true,
+      "active": [
+        "phrases"
+      ],
+      "title": "学习 / 短语 / meet someone's needs｜满足具体需要 · IELTS"
+    },
+    {
+      "requested": "learn-vocab-raise-awareness",
+      "actual": "#learn-vocab-raise-awareness",
+      "targetExists": true,
+      "active": [
+        "phrases"
+      ],
+      "title": "学习 / 短语 / raise awareness of …｜提高对某事的认识 · IELTS"
+    },
+    {
+      "requested": "learn-vocab-pose-threat",
+      "actual": "#learn-vocab-pose-threat",
+      "targetExists": true,
+      "active": [
+        "phrases"
+      ],
+      "title": "学习 / 短语 / pose a threat to …｜对……构成威胁 · IELTS"
+    },
+    {
+      "requested": "learn-vocab-strike-balance",
+      "actual": "#learn-vocab-strike-balance",
+      "targetExists": true,
+      "active": [
+        "phrases"
+      ],
+      "title": "学习 / 短语 / strike a balance between … and …｜兼顾两种需求 · IELTS"
+    },
+    {
+      "requested": "learn-vocab-take-measures",
+      "actual": "#learn-vocab-take-measures",
+      "targetExists": true,
+      "active": [
+        "phrases"
+      ],
+      "title": "学习 / 短语 / take measures to …｜采取具体措施 · IELTS"
+    },
+    {
+      "requested": "learn-vocab-make-progress",
+      "actual": "#learn-vocab-make-progress",
+      "targetExists": true,
+      "active": [
+        "phrases"
+      ],
+      "title": "学习 / 短语 / make progress｜取得进展 · IELTS"
+    },
+    {
+      "requested": "learn-vocab-draw-distinction",
+      "actual": "#learn-vocab-draw-distinction",
+      "targetExists": true,
+      "active": [
+        "phrases"
+      ],
+      "title": "学习 / 短语 / draw a distinction between … and …｜区分两个概念 · IELTS"
+    },
+    {
+      "requested": "learn-vocab-reach-conclusion",
+      "actual": "#learn-vocab-reach-conclusion",
+      "targetExists": true,
+      "active": [
+        "phrases"
+      ],
+      "title": "学习 / 短语 / reach a conclusion｜根据证据形成结论 · IELTS"
+    },
+    {
+      "requested": "learn-vocab-address-problem",
+      "actual": "#learn-vocab-address-problem",
+      "targetExists": true,
+      "active": [
+        "phrases"
+      ],
+      "title": "学习 / 短语 / address a problem｜着手处理问题 · IELTS"
+    },
+    {
+      "requested": "learn-vocab-allocate-resources",
+      "actual": "#learn-vocab-allocate-resources",
+      "targetExists": true,
+      "active": [
+        "phrases"
+      ],
+      "title": "学习 / 短语 / allocate … to／for …｜分配有限资源 · IELTS"
+    },
+    {
+      "requested": "learn-vocab-make-difference",
+      "actual": "#learn-vocab-make-difference",
+      "targetExists": true,
+      "active": [
+        "phrases"
+      ],
+      "title": "学习 / 短语 / make a difference to …｜对……产生影响 · IELTS"
+    },
+    {
+      "requested": "usage-01",
+      "actual": "#usage-01",
+      "targetExists": true,
+      "active": [
+        "phrases"
+      ],
+      "title": "学习 / 短语 / rather than · IELTS"
+    },
+    {
+      "requested": "usage-02",
+      "actual": "#usage-02",
+      "targetExists": true,
+      "active": [
+        "phrases"
+      ],
+      "title": "学习 / 短语 / in order to · IELTS"
+    },
+    {
+      "requested": "usage-03",
+      "actual": "#usage-03",
+      "targetExists": true,
+      "active": [
+        "phrases"
+      ],
+      "title": "学习 / 短语 / according to · IELTS"
+    },
+    {
+      "requested": "usage-04",
+      "actual": "#usage-04",
+      "targetExists": true,
+      "active": [
+        "phrases"
+      ],
+      "title": "学习 / 短语 / in turn · IELTS"
+    },
+    {
+      "requested": "usage-05",
+      "actual": "#usage-05",
+      "targetExists": true,
+      "active": [
+        "phrases"
+      ],
+      "title": "学习 / 短语 / as a result · IELTS"
+    },
+    {
+      "requested": "usage-06",
+      "actual": "#usage-06",
+      "targetExists": true,
+      "active": [
+        "phrases"
+      ],
+      "title": "学习 / 短语 / as a result of · IELTS"
+    },
+    {
+      "requested": "usage-07",
+      "actual": "#usage-07",
+      "targetExists": true,
+      "active": [
+        "phrases"
+      ],
+      "title": "学习 / 短语 / in addition · IELTS"
+    },
+    {
+      "requested": "usage-08",
+      "actual": "#usage-08",
+      "targetExists": true,
+      "active": [
+        "phrases"
+      ],
+      "title": "学习 / 短语 / in addition to · IELTS"
+    },
+    {
+      "requested": "usage-09",
+      "actual": "#usage-09",
+      "targetExists": true,
+      "active": [
+        "phrases"
+      ],
+      "title": "学习 / 短语 / as well as · IELTS"
+    },
+    {
+      "requested": "usage-10",
+      "actual": "#usage-10",
+      "targetExists": true,
+      "active": [
+        "phrases"
+      ],
+      "title": "学习 / 短语 / not only … but (also) · IELTS"
+    },
+    {
+      "requested": "usage-11",
+      "actual": "#usage-11",
+      "targetExists": true,
+      "active": [
+        "phrases"
+      ],
+      "title": "学习 / 短语 / responsible for · IELTS"
+    },
+    {
+      "requested": "usage-12",
+      "actual": "#usage-12",
+      "targetExists": true,
+      "active": [
+        "phrases"
+      ],
+      "title": "学习 / 短语 / contribute to · IELTS"
+    },
+    {
+      "requested": "usage-13",
+      "actual": "#usage-13",
+      "targetExists": true,
+      "active": [
+        "phrases"
+      ],
+      "title": "学习 / 短语 / associated with · IELTS"
+    },
+    {
+      "requested": "usage-14",
+      "actual": "#usage-14",
+      "targetExists": true,
+      "active": [
+        "phrases"
+      ],
+      "title": "学习 / 短语 / likely to · IELTS"
+    },
+    {
+      "requested": "usage-15",
+      "actual": "#usage-15",
+      "targetExists": true,
+      "active": [
+        "phrases"
+      ],
+      "title": "学习 / 短语 / access to · IELTS"
+    },
+    {
+      "requested": "usage-16",
+      "actual": "#usage-16",
+      "targetExists": true,
+      "active": [
+        "phrases"
+      ],
+      "title": "学习 / 短语 / focus on · IELTS"
+    },
+    {
+      "requested": "usage-17",
+      "actual": "#usage-17",
+      "targetExists": true,
+      "active": [
+        "phrases"
+      ],
+      "title": "学习 / 短语 / affect / effect on · IELTS"
+    },
+    {
+      "requested": "usage-18",
+      "actual": "#usage-18",
+      "targetExists": true,
+      "active": [
+        "phrases"
+      ],
+      "title": "学习 / 短语 / sustainable · IELTS"
+    },
+    {
+      "requested": "usage-19",
+      "actual": "#usage-19",
+      "targetExists": true,
+      "active": [
+        "phrases"
+      ],
+      "title": "学习 / 短语 / a (wide / whole) range of · IELTS"
+    },
+    {
+      "requested": "usage-20",
+      "actual": "#usage-20",
+      "targetExists": true,
+      "active": [
+        "phrases"
+      ],
+      "title": "学习 / 短语 / provide · IELTS"
+    },
+    {
+      "requested": "learn-189",
+      "actual": "#learn-189",
+      "targetExists": true,
+      "active": [
+        "vocabulary"
+      ],
+      "title": "学习 / 词汇 / evidence · IELTS"
+    },
+    {
+      "requested": "learn-190",
+      "actual": "#learn-190",
+      "targetExists": true,
+      "active": [
+        "vocabulary"
+      ],
+      "title": "学习 / 词汇 / approach · IELTS"
+    },
+    {
+      "requested": "learn-191",
+      "actual": "#learn-191",
+      "targetExists": true,
+      "active": [
+        "vocabulary"
+      ],
+      "title": "学习 / 词汇 / source · IELTS"
+    },
+    {
+      "requested": "learn-192",
+      "actual": "#learn-192",
+      "targetExists": true,
+      "active": [
+        "vocabulary"
+      ],
+      "title": "学习 / 词汇 / research · IELTS"
+    },
+    {
+      "requested": "learn-193",
+      "actual": "#learn-193",
+      "targetExists": true,
+      "active": [
+        "vocabulary"
+      ],
+      "title": "学习 / 词汇 / alternative · IELTS"
+    },
+    {
+      "requested": "learn-194",
+      "actual": "#learn-194",
+      "targetExists": true,
+      "active": [
+        "vocabulary"
+      ],
+      "title": "学习 / 词汇 / solution · IELTS"
+    },
+    {
+      "requested": "learn-195",
+      "actual": "#learn-195",
+      "targetExists": true,
+      "active": [
+        "vocabulary"
+      ],
+      "title": "学习 / 词汇 / require · IELTS"
+    },
+    {
+      "requested": "learn-196",
+      "actual": "#learn-196",
+      "targetExists": true,
+      "active": [
+        "vocabulary"
+      ],
+      "title": "学习 / 词汇 / offer · IELTS"
+    },
+    {
+      "requested": "learn-197",
+      "actual": "#learn-197",
+      "targetExists": true,
+      "active": [
+        "vocabulary"
+      ],
+      "title": "学习 / 词汇 / improve · IELTS"
+    },
+    {
+      "requested": "learn-198",
+      "actual": "#learn-198",
+      "targetExists": true,
+      "active": [
+        "vocabulary"
+      ],
+      "title": "学习 / 词汇 / development · IELTS"
+    },
+    {
+      "requested": "learn-199",
+      "actual": "#learn-199",
+      "targetExists": true,
+      "active": [
+        "vocabulary"
+      ],
+      "title": "学习 / 词汇 / process · IELTS"
+    },
+    {
+      "requested": "learn-200",
+      "actual": "#learn-200",
+      "targetExists": true,
+      "active": [
+        "vocabulary"
+      ],
+      "title": "学习 / 词汇 / ability · IELTS"
+    },
+    {
+      "requested": "learn-201",
+      "actual": "#learn-201",
+      "targetExists": true,
+      "active": [
+        "vocabulary"
+      ],
+      "title": "学习 / 词汇 / impact · IELTS"
+    },
+    {
+      "requested": "learn-202",
+      "actual": "#learn-202",
+      "targetExists": true,
+      "active": [
+        "vocabulary"
+      ],
+      "title": "学习 / 词汇 / effect · IELTS"
+    },
+    {
+      "requested": "learn-203",
+      "actual": "#learn-203",
+      "targetExists": true,
+      "active": [
+        "vocabulary"
+      ],
+      "title": "学习 / 词汇 / range · IELTS"
+    },
+    {
+      "requested": "learn-204",
+      "actual": "#learn-204",
+      "targetExists": true,
+      "active": [
+        "vocabulary"
+      ],
+      "title": "学习 / 词汇 / complex · IELTS"
+    },
+    {
+      "requested": "learn-205",
+      "actual": "#learn-205",
+      "targetExists": true,
+      "active": [
+        "vocabulary"
+      ],
+      "title": "学习 / 词汇 / appropriate · IELTS"
+    },
+    {
+      "requested": "learn-206",
+      "actual": "#learn-206",
+      "targetExists": true,
+      "active": [
+        "vocabulary"
+      ],
+      "title": "学习 / 词汇 / value · IELTS"
+    },
+    {
+      "requested": "learn-207",
+      "actual": "#learn-207",
+      "targetExists": true,
+      "active": [
+        "vocabulary"
+      ],
+      "title": "学习 / 词汇 / public · IELTS"
+    },
+    {
+      "requested": "learn-208",
+      "actual": "#learn-208",
+      "targetExists": true,
+      "active": [
+        "vocabulary"
+      ],
+      "title": "学习 / 词汇 / community · IELTS"
+    },
+    {
+      "requested": "learn-209",
+      "actual": "#learn-209",
+      "targetExists": true,
+      "active": [
+        "vocabulary"
+      ],
+      "title": "学习 / 词汇 / technology · IELTS"
+    },
+    {
+      "requested": "learn-210",
+      "actual": "#learn-210",
+      "targetExists": true,
+      "active": [
+        "vocabulary"
+      ],
+      "title": "学习 / 词汇 / energy · IELTS"
+    },
+    {
+      "requested": "learn-211",
+      "actual": "#learn-211",
+      "targetExists": true,
+      "active": [
+        "vocabulary"
+      ],
+      "title": "学习 / 词汇 / goods · IELTS"
+    },
+    {
+      "requested": "learn-212",
+      "actual": "#learn-212",
+      "targetExists": true,
+      "active": [
+        "vocabulary"
+      ],
+      "title": "学习 / 词汇 / social · IELTS"
+    },
+    {
+      "requested": "topical-vocabulary",
+      "actual": "#topical-vocabulary",
+      "targetExists": true,
+      "active": [
+        "vocabulary"
+      ],
+      "title": "学习 / 词汇 / 按话题选词汇 · IELTS"
+    },
+    {
+      "requested": "practice-listening-shipping-form",
+      "actual": "#practice-listening-shipping-form",
+      "targetExists": true,
+      "active": [
+        "practice-listening"
+      ],
+      "title": "练习 / 听力 / 运输表单：姓名、地址、尺寸与总价 · IELTS"
+    },
+    {
+      "requested": "practice-listening-insurance",
+      "actual": "#practice-listening-insurance",
+      "targetExists": true,
+      "active": [
+        "practice-listening"
+      ],
+      "title": "练习 / 听力 / 运输保险：选项与最终决定 · IELTS"
+    },
+    {
+      "requested": "practice-listening-overseas",
+      "actual": "#practice-listening-overseas",
+      "targetExists": true,
+      "active": [
+        "practice-listening"
+      ],
+      "title": "练习 / 听力 / 海外生活：困难与社区信息 · IELTS"
+    },
+    {
+      "requested": "practice-listening-distance-learning",
+      "actual": "#practice-listening-distance-learning",
+      "targetExists": true,
+      "active": [
+        "practice-listening"
+      ],
+      "title": "练习 / 听力 / 远程学习：动机与时间安排 · IELTS"
+    },
+    {
+      "requested": "pr-jijing-202609-listening-01-v1",
+      "actual": "#pr-jijing-202609-listening-01-v1",
+      "targetExists": true,
+      "active": [
+        "practice-listening"
+      ],
+      "title": "练习 / 听力 / 空乘岗位咨询 · 9月机经 Part 1 · IELTS"
+    },
+    {
+      "requested": "pr-jijing-202609-reading-01-v1",
+      "actual": "#pr-jijing-202609-reading-01-v1",
+      "targetExists": true,
+      "active": [
+        "practice-reading"
+      ],
+      "title": "练习 / 阅读 / 罐头食品简史 · A Brief History Of Canned Food · IELTS"
+    },
+    {
+      "requested": "pr-jiufen-20260921-origin-language-v1",
+      "actual": "#pr-jiufen-20260921-origin-language-v1",
+      "targetExists": true,
+      "active": [
+        "practice-reading"
+      ],
+      "title": "练习 / 阅读 / 语言起源 · The origin of language · IELTS"
+    },
+    {
+      "requested": "pr-jiufen-20260921-adult-literacy-v1",
+      "actual": "#pr-jiufen-20260921-adult-literacy-v1",
+      "targetExists": true,
+      "active": [
+        "practice-writing2"
+      ],
+      "title": "练习 / 写作 · Task 2 / 成人读写困难 · Task 2 · IELTS"
+    },
+    {
+      "requested": "pr-jiufen-20260921-work-life-balance-v1",
+      "actual": "#pr-jiufen-20260921-work-life-balance-v1",
+      "targetExists": true,
+      "active": [
+        "practice-writing2"
+      ],
+      "title": "练习 / 写作 · Task 2 / 工作与生活的平衡 · Task 2 · IELTS"
+    },
+    {
+      "requested": "pr-jiufen-20260921-species-extinction-v1",
+      "actual": "#pr-jiufen-20260921-species-extinction-v1",
+      "targetExists": true,
+      "active": [
+        "practice-writing2"
+      ],
+      "title": "练习 / 写作 · Task 2 / 自然灭绝与人为保护 · Task 2 · IELTS"
+    },
+    {
+      "requested": "pp-background",
+      "actual": "#pp-background",
+      "targetExists": true,
+      "active": [
+        "background"
+      ],
+      "title": "共用背景 · IELTS"
+    },
+    {
+      "requested": "resource-update",
+      "actual": "#resource-update",
+      "targetExists": true,
+      "active": [
+        "resource-update"
+      ],
+      "title": "学习资源索引 · IELTS"
+    },
+    {
+      "requested": "topic-culture",
+      "actual": "#topic-culture",
+      "targetExists": true,
+      "active": [
+        "practice-reading"
+      ],
+      "title": "阅读练习 · IELTS"
+    },
+    {
+      "requested": "topic-coverage",
+      "actual": "#topic-coverage",
+      "targetExists": true,
+      "active": [
+        "background"
+      ],
+      "title": "共用背景 · IELTS"
+    },
+    {
+      "requested": "topic-use",
+      "actual": "#topic-use",
+      "targetExists": true,
+      "active": [
+        "background"
+      ],
+      "title": "共用背景 · IELTS"
+    },
+    {
+      "requested": "topic-personal",
+      "actual": "#topic-personal",
+      "targetExists": true,
+      "active": [
+        "speaking"
+      ],
+      "title": "口语 · IELTS"
+    },
+    {
+      "requested": "vocabulary-review",
+      "actual": "#vocabulary-review",
+      "targetExists": true,
+      "active": [
+        "vocabulary-review"
+      ],
+      "title": "我的单词表 · IELTS"
+    },
+    {
+      "requested": "sentence-learning",
+      "actual": "#sentence-learning",
+      "targetExists": true,
+      "active": [
+        "sentence-learning"
+      ],
+      "title": "我的句子本 · IELTS"
+    },
+    {
+      "requested": "pp-vocabulary",
+      "actual": "#pp-vocabulary",
+      "targetExists": true,
+      "active": [
+        "practice-phrases"
+      ],
+      "title": "词汇练习 · IELTS"
+    },
+    {
+      "requested": "prereq-vocabulary-usage",
+      "actual": "#prereq-vocabulary-usage",
+      "targetExists": true,
+      "active": [
+        "vocabulary"
+      ],
+      "title": "学习 / 词汇 / 按话题选词汇 · IELTS"
+    },
+    {
+      "requested": "core-words",
+      "actual": "#core-words",
+      "targetExists": true,
+      "active": [
+        "vocabulary"
+      ],
+      "title": "词汇 · IELTS"
+    },
+    {
+      "requested": "usage-cards",
+      "actual": "#usage-cards",
+      "targetExists": true,
+      "active": [
+        "phrases"
+      ],
+      "title": "短语 · IELTS"
+    },
+    {
+      "requested": "pp-reading",
+      "actual": "#pp-reading",
+      "targetExists": true,
+      "active": [
+        "practice-reading"
+      ],
+      "title": "阅读练习 · IELTS"
+    },
+    {
+      "requested": "pp-listening",
+      "actual": "#pp-listening",
+      "targetExists": true,
+      "active": [
+        "practice-listening"
+      ],
+      "title": "听力练习 · IELTS"
+    },
+    {
+      "requested": "pp-writing1",
+      "actual": "#pp-writing1",
+      "targetExists": true,
+      "active": [
+        "practice-writing1"
+      ],
+      "title": "Task 1 练习 · IELTS"
+    },
+    {
+      "requested": "pp-writing2",
+      "actual": "#pp-writing2",
+      "targetExists": true,
+      "active": [
+        "practice-writing2"
+      ],
+      "title": "Task 2 练习 · IELTS"
+    },
+    {
+      "requested": "pp-speaking",
+      "actual": "#pp-speaking",
+      "targetExists": true,
+      "active": [
+        "practice-speaking"
+      ],
+      "title": "口语练习 · IELTS"
+    },
+    {
+      "requested": "reading-text-miles",
+      "actual": "#reading-text-miles",
+      "targetExists": true,
+      "active": [
+        "reading"
+      ],
+      "title": "学习 / 阅读 / 标题匹配：用整段意思判断 Miles Davis 的人生阶段 · IELTS"
+    },
+    {
+      "requested": "reading-text-older-workers",
+      "actual": "#reading-text-older-workers",
+      "targetExists": true,
+      "active": [
+        "reading"
+      ],
+      "title": "学习 / 阅读 / 单选题：Older workers 中的条件、范围与替换表达 · IELTS"
+    },
+    {
+      "requested": "reading-text-davies",
+      "actual": "#reading-text-davies",
+      "targetExists": true,
+      "active": [
+        "reading"
+      ],
+      "title": "学习 / 阅读 / 阅读 · 从原题开始学 · IELTS"
+    },
+    {
+      "requested": "writing1-text-further-education",
+      "actual": "#writing1-text-further-education",
+      "targetExists": true,
+      "active": [
+        "writing1"
+      ],
+      "title": "学习 / 写作 · Task 1 / 柱状图：先比较，再用数据支持 · IELTS"
+    },
+    {
+      "requested": "writing1-text-bricks",
+      "actual": "#writing1-text-bricks",
+      "targetExists": true,
+      "active": [
+        "writing1"
+      ],
+      "title": "学习 / 写作 · Task 1 / 流程图：把顺序和替代路线说清楚 · IELTS"
+    },
+    {
+      "requested": "writing1-text-us-jobs",
+      "actual": "#writing1-text-us-jobs",
+      "targetExists": true,
+      "active": [
+        "writing1"
+      ],
+      "title": "学习 / 写作 · Task 1 / 写作 · Task 1 · 从原题开始学 · IELTS"
+    },
+    {
+      "requested": "writing2-text-family-wealth",
+      "actual": "#writing2-text-family-wealth",
+      "targetExists": true,
+      "active": [
+        "writing2"
+      ],
+      "title": "学习 / 写作 · Task 2 / 观点题：把立场变成能解释的理由 · IELTS"
+    },
+    {
+      "requested": "writing2-text-tourism",
+      "actual": "#writing2-text-tourism",
+      "targetExists": true,
+      "active": [
+        "writing2"
+      ],
+      "title": "学习 / 写作 · Task 2 / 利弊权衡：说明为什么一边更重要 · IELTS"
+    },
+    {
+      "requested": "writing2-text-theatres",
+      "actual": "#writing2-text-theatres",
+      "targetExists": true,
+      "active": [
+        "writing2"
+      ],
+      "title": "学习 / 写作 · Task 2 / 写作 · Task 2 · 从原题开始学 · IELTS"
+    },
+    {
+      "requested": "listening-text-insurance",
+      "actual": "#listening-text-insurance",
+      "targetExists": true,
+      "active": [
+        "listening"
+      ],
+      "title": "学习 / 听力 / 单选：听到选项，还要听清最后的决定 · IELTS"
+    },
+    {
+      "requested": "listening-text-customer-call",
+      "actual": "#listening-text-customer-call",
+      "targetExists": true,
+      "active": [
+        "listening"
+      ],
+      "title": "学习 / 听力 / 服务沟通：分清请求、顾虑和最终同意 · IELTS"
+    },
+    {
+      "requested": "listening-text-shipping",
+      "actual": "#listening-text-shipping",
+      "targetExists": true,
+      "active": [
+        "listening"
+      ],
+      "title": "学习 / 听力 / 听力 · 从原题开始学 · IELTS"
+    },
+    {
+      "requested": "listening-text-open-university",
+      "actual": "#listening-text-open-university",
+      "targetExists": true,
+      "active": [
+        "listening"
+      ],
+      "title": "听力 · IELTS"
+    },
+    {
+      "requested": "speaking-text-important-object",
+      "actual": "#speaking-text-important-object",
+      "targetExists": true,
+      "active": [
+        "speaking"
+      ],
+      "title": "学习 / 口语 / 口语 · 从原题开始学 · IELTS"
+    },
+    {
+      "requested": "reading-case-bank",
+      "actual": "#reading-case-bank",
+      "targetExists": true,
+      "active": [
+        "practice-reading"
+      ],
+      "title": "阅读原题片段 · IELTS"
+    },
+    {
+      "requested": "writing1-case-bank",
+      "actual": "#writing1-case-bank",
+      "targetExists": true,
+      "active": [
+        "practice-writing1"
+      ],
+      "title": "Task 1 原题片段 · IELTS"
+    },
+    {
+      "requested": "writing2-case-bank",
+      "actual": "#writing2-case-bank",
+      "targetExists": true,
+      "active": [
+        "practice-writing2"
+      ],
+      "title": "Task 2 原题片段 · IELTS"
+    },
+    {
+      "requested": "library-materials",
+      "actual": "#library-materials",
+      "targetExists": true,
+      "active": [
+        "library"
+      ],
+      "title": "原始资料 · IELTS"
+    },
+    {
+      "requested": "library-rules",
+      "actual": "#library-rules",
+      "targetExists": true,
+      "active": [
+        "library"
+      ],
+      "title": "原始资料 · IELTS"
+    },
+    {
+      "requested": "library-files",
+      "actual": "#library-files",
+      "targetExists": true,
+      "active": [
+        "library"
+      ],
+      "title": "原始资料 · IELTS"
+    },
+    {
+      "requested": "reading-learn",
+      "actual": "#reading-learn",
+      "targetExists": true,
+      "active": [
+        "reading"
+      ],
+      "title": "学习 / 阅读 / 阅读 · 从原题开始学 · IELTS"
+    },
+    {
+      "requested": "reading-feedback",
+      "actual": "#reading-feedback",
+      "targetExists": true,
+      "active": [
+        "reading"
+      ],
+      "title": "学习 / 阅读 / 阅读 · 从原题开始学 · IELTS"
+    },
+    {
+      "requested": "reading-review",
+      "actual": "#reading-review",
+      "targetExists": true,
+      "active": [
+        "reading"
+      ],
+      "title": "学习 / 阅读 / 阅读 · 从原题开始学 · IELTS"
+    },
+    {
+      "requested": "material-reading-rd-c21-davies-1",
+      "actual": "#material-reading-rd-c21-davies-1",
+      "targetExists": true,
+      "active": [
+        "practice-reading"
+      ],
+      "title": "练习 / 阅读 / The Davies Sisters｜成长背景与收藏起点 · IELTS"
+    },
+    {
+      "requested": "material-reading-rd-c21-davies-2",
+      "actual": "#material-reading-rd-c21-davies-2",
+      "targetExists": true,
+      "active": [
+        "practice-reading"
+      ],
+      "title": "练习 / 阅读 / The Davies Sisters｜印象派转向与战时收藏 · IELTS"
+    },
+    {
+      "requested": "material-reading-rd-c21-davies-3",
+      "actual": "#material-reading-rd-c21-davies-3",
+      "targetExists": true,
+      "active": [
+        "practice-reading"
+      ],
+      "title": "练习 / 阅读 / The Davies Sisters｜收藏停止与文化遗产 · IELTS"
+    },
+    {
+      "requested": "ww-jobs",
+      "actual": "#ww-jobs",
+      "targetExists": true,
+      "active": [
+        "writing-workbench"
+      ],
+      "title": "写作工作台 · IELTS"
+    },
+    {
+      "requested": "writing1-learn",
+      "actual": "#writing1-learn",
+      "targetExists": true,
+      "active": [
+        "writing1"
+      ],
+      "title": "学习 / 写作 · Task 1 / 写作 · Task 1 · 从原题开始学 · IELTS"
+    },
+    {
+      "requested": "writing1-feedback",
+      "actual": "#writing1-feedback",
+      "targetExists": true,
+      "active": [
+        "writing1"
+      ],
+      "title": "学习 / 写作 · Task 1 / 写作 · Task 1 · 从原题开始学 · IELTS"
+    },
+    {
+      "requested": "writing1-review",
+      "actual": "#writing1-review",
+      "targetExists": true,
+      "active": [
+        "writing1"
+      ],
+      "title": "学习 / 写作 · Task 1 / 写作 · Task 1 · 从原题开始学 · IELTS"
+    },
+    {
+      "requested": "ww-primary",
+      "actual": "#ww-primary",
+      "targetExists": true,
+      "active": [
+        "writing-workbench"
+      ],
+      "title": "写作工作台 · IELTS"
+    },
+    {
+      "requested": "writing2-learn",
+      "actual": "#writing2-learn",
+      "targetExists": true,
+      "active": [
+        "writing2"
+      ],
+      "title": "学习 / 写作 · Task 2 / 写作 · Task 2 · 从原题开始学 · IELTS"
+    },
+    {
+      "requested": "writing2-feedback",
+      "actual": "#writing2-feedback",
+      "targetExists": true,
+      "active": [
+        "writing2"
+      ],
+      "title": "学习 / 写作 · Task 2 / 写作 · Task 2 · 从原题开始学 · IELTS"
+    },
+    {
+      "requested": "writing2-review",
+      "actual": "#writing2-review",
+      "targetExists": true,
+      "active": [
+        "writing2"
+      ],
+      "title": "学习 / 写作 · Task 2 / 写作 · Task 2 · 从原题开始学 · IELTS"
+    },
+    {
+      "requested": "listening-learn",
+      "actual": "#listening-learn",
+      "targetExists": true,
+      "active": [
+        "listening"
+      ],
+      "title": "学习 / 听力 / 听力 · 从原题开始学 · IELTS"
+    },
+    {
+      "requested": "listening-feedback",
+      "actual": "#listening-feedback",
+      "targetExists": true,
+      "active": [
+        "listening"
+      ],
+      "title": "学习 / 听力 / 听力 · 从原题开始学 · IELTS"
+    },
+    {
+      "requested": "listening-review",
+      "actual": "#listening-review",
+      "targetExists": true,
+      "active": [
+        "listening"
+      ],
+      "title": "学习 / 听力 / 听力 · 从原题开始学 · IELTS"
+    },
+    {
+      "requested": "speaking-learn",
+      "actual": "#speaking-learn",
+      "targetExists": true,
+      "active": [
+        "speaking"
+      ],
+      "title": "学习 / 口语 / 口语 · 从原题开始学 · IELTS"
+    },
+    {
+      "requested": "speaking-feedback",
+      "actual": "#speaking-feedback",
+      "targetExists": true,
+      "active": [
+        "speaking"
+      ],
+      "title": "学习 / 口语 / 口语 · 从原题开始学 · IELTS"
+    },
+    {
+      "requested": "speaking-review",
+      "actual": "#speaking-review",
+      "targetExists": true,
+      "active": [
+        "speaking"
+      ],
+      "title": "学习 / 口语 / 口语 · 从原题开始学 · IELTS"
+    },
+    {
+      "requested": "ww-jobs-plan",
+      "actual": "#ww-jobs-plan",
+      "targetExists": true,
+      "active": [
+        "writing-workbench"
+      ],
+      "title": "写作工作台 · IELTS"
+    },
+    {
+      "requested": "ww-jobs-draft",
+      "actual": "#ww-jobs-draft",
+      "targetExists": true,
+      "active": [
+        "writing-workbench"
+      ],
+      "title": "写作工作台 · IELTS"
+    },
+    {
+      "requested": "ww-jobs-review",
+      "actual": "#ww-jobs-review",
+      "targetExists": true,
+      "active": [
+        "writing-workbench"
+      ],
+      "title": "写作工作台 · IELTS"
+    },
+    {
+      "requested": "ww-jobs-next",
+      "actual": "#ww-jobs-next",
+      "targetExists": true,
+      "active": [
+        "writing-workbench"
+      ],
+      "title": "写作工作台 · IELTS"
+    },
+    {
+      "requested": "ww-bricks",
+      "actual": "#ww-bricks",
+      "targetExists": true,
+      "active": [
+        "writing-workbench"
+      ],
+      "title": "写作工作台 · IELTS"
+    },
+    {
+      "requested": "ww-bricks-plan",
+      "actual": "#ww-bricks-plan",
+      "targetExists": true,
+      "active": [
+        "writing-workbench"
+      ],
+      "title": "写作工作台 · IELTS"
+    },
+    {
+      "requested": "ww-bricks-draft",
+      "actual": "#ww-bricks-draft",
+      "targetExists": true,
+      "active": [
+        "writing-workbench"
+      ],
+      "title": "写作工作台 · IELTS"
+    },
+    {
+      "requested": "ww-bricks-review",
+      "actual": "#ww-bricks-review",
+      "targetExists": true,
+      "active": [
+        "writing-workbench"
+      ],
+      "title": "写作工作台 · IELTS"
+    },
+    {
+      "requested": "ww-bricks-next",
+      "actual": "#ww-bricks-next",
+      "targetExists": true,
+      "active": [
+        "writing-workbench"
+      ],
+      "title": "写作工作台 · IELTS"
+    },
+    {
+      "requested": "ww-cafe",
+      "actual": "#ww-cafe",
+      "targetExists": true,
+      "active": [
+        "writing-workbench"
+      ],
+      "title": "写作工作台 · IELTS"
+    },
+    {
+      "requested": "ww-cafe-plan",
+      "actual": "#ww-cafe-plan",
+      "targetExists": true,
+      "active": [
+        "writing-workbench"
+      ],
+      "title": "写作工作台 · IELTS"
+    },
+    {
+      "requested": "ww-cafe-draft",
+      "actual": "#ww-cafe-draft",
+      "targetExists": true,
+      "active": [
+        "writing-workbench"
+      ],
+      "title": "写作工作台 · IELTS"
+    },
+    {
+      "requested": "ww-cafe-review",
+      "actual": "#ww-cafe-review",
+      "targetExists": true,
+      "active": [
+        "writing-workbench"
+      ],
+      "title": "写作工作台 · IELTS"
+    },
+    {
+      "requested": "ww-cafe-next",
+      "actual": "#ww-cafe-next",
+      "targetExists": true,
+      "active": [
+        "writing-workbench"
+      ],
+      "title": "写作工作台 · IELTS"
+    },
+    {
+      "requested": "ww-primary-plan",
+      "actual": "#ww-primary-plan",
+      "targetExists": true,
+      "active": [
+        "writing-workbench"
+      ],
+      "title": "写作工作台 · IELTS"
+    },
+    {
+      "requested": "ww-primary-draft",
+      "actual": "#ww-primary-draft",
+      "targetExists": true,
+      "active": [
+        "writing-workbench"
+      ],
+      "title": "写作工作台 · IELTS"
+    },
+    {
+      "requested": "ww-primary-review",
+      "actual": "#ww-primary-review",
+      "targetExists": true,
+      "active": [
+        "writing-workbench"
+      ],
+      "title": "写作工作台 · IELTS"
+    },
+    {
+      "requested": "ww-primary-next",
+      "actual": "#ww-primary-next",
+      "targetExists": true,
+      "active": [
+        "writing-workbench"
+      ],
+      "title": "写作工作台 · IELTS"
+    },
+    {
+      "requested": "ww-housing",
+      "actual": "#ww-housing",
+      "targetExists": true,
+      "active": [
+        "writing-workbench"
+      ],
+      "title": "写作工作台 · IELTS"
+    },
+    {
+      "requested": "ww-tourism-plan",
+      "actual": "#ww-tourism-plan",
+      "targetExists": true,
+      "active": [
+        "writing-workbench"
+      ],
+      "title": "写作工作台 · IELTS"
+    },
+    {
+      "requested": "ww-tourism-draft",
+      "actual": "#ww-tourism-draft",
+      "targetExists": true,
+      "active": [
+        "writing-workbench"
+      ],
+      "title": "写作工作台 · IELTS"
+    },
+    {
+      "requested": "ww-tourism-review",
+      "actual": "#ww-tourism-review",
+      "targetExists": true,
+      "active": [
+        "writing-workbench"
+      ],
+      "title": "写作工作台 · IELTS"
+    },
+    {
+      "requested": "ww-tourism-next",
+      "actual": "#ww-tourism-next",
+      "targetExists": true,
+      "active": [
+        "writing-workbench"
+      ],
+      "title": "写作工作台 · IELTS"
+    },
+    {
+      "requested": "ww-housing-plan",
+      "actual": "#ww-housing-plan",
+      "targetExists": true,
+      "active": [
+        "writing-workbench"
+      ],
+      "title": "写作工作台 · IELTS"
+    },
+    {
+      "requested": "ww-housing-draft",
+      "actual": "#ww-housing-draft",
+      "targetExists": true,
+      "active": [
+        "writing-workbench"
+      ],
+      "title": "写作工作台 · IELTS"
+    },
+    {
+      "requested": "ww-housing-review",
+      "actual": "#ww-housing-review",
+      "targetExists": true,
+      "active": [
+        "writing-workbench"
+      ],
+      "title": "写作工作台 · IELTS"
+    },
+    {
+      "requested": "ww-housing-next",
+      "actual": "#ww-housing-next",
+      "targetExists": true,
+      "active": [
+        "writing-workbench"
+      ],
+      "title": "写作工作台 · IELTS"
+    },
+    {
+      "requested": "ww-tourism",
+      "actual": "#ww-tourism",
+      "targetExists": true,
+      "active": [
+        "writing-workbench"
+      ],
+      "title": "写作工作台 · IELTS"
+    },
+    {
+      "requested": "writing-prep-wc-c21-t2-entertainment-from-rd-c21-davies-2",
+      "actual": "#writing-prep-wc-c21-t2-entertainment-from-rd-c21-davies-2",
+      "targetExists": true,
+      "active": [
+        "practice-writing2"
+      ],
+      "title": "练习 / 写作 · Task 2 / 线上娱乐与剧院影院的经济文化价值 · IELTS"
+    },
+    {
+      "requested": "writing-prep-wc-c21-t2-entertainment-from-rd-c21-davies-3",
+      "actual": "#writing-prep-wc-c21-t2-entertainment-from-rd-c21-davies-3",
+      "targetExists": true,
+      "active": [
+        "practice-writing2"
+      ],
+      "title": "练习 / 写作 · Task 2 / 线上娱乐与剧院影院的经济文化价值 · IELTS"
+    },
+    {
+      "requested": "writing-prep-wc-official-transport-from-rd-c21-silence-1",
+      "actual": "#writing-prep-wc-official-transport-from-rd-c21-silence-1",
+      "targetExists": true,
+      "active": [
+        "practice-writing2"
+      ],
+      "title": "练习 / 写作 · Task 2 / 鼓励替代交通与国际限车规定 · IELTS"
+    },
+    {
+      "requested": "writing-prep-wc-official-tourism-from-rd-c21-silence-1",
+      "actual": "#writing-prep-wc-official-tourism-from-rd-c21-silence-1",
+      "targetExists": true,
+      "active": [
+        "practice-writing2"
+      ],
+      "title": "练习 / 写作 · Task 2 / 国际旅游：经济收益与社区成本如何比较 · IELTS"
+    },
+    {
+      "requested": "writing-prep-wc-bc-overfishing-from-rd-c21-sugar-1",
+      "actual": "#writing-prep-wc-bc-overfishing-from-rd-c21-sugar-1",
+      "targetExists": true,
+      "active": [
+        "practice-writing2"
+      ],
+      "title": "练习 / 写作 · Task 2 / 过度捕捞：从激励与监管写到对策 · IELTS"
+    },
+    {
+      "requested": "writing-prep-wc-bc-childhealth-from-rd-c21-sugar-3",
+      "actual": "#writing-prep-wc-bc-childhealth-from-rd-c21-sugar-3",
+      "targetExists": true,
+      "active": [
+        "practice-writing2"
+      ],
+      "title": "练习 / 写作 · Task 2 / 儿童肥胖：原因—措施对应而非空泛建议 · IELTS"
+    },
+    {
+      "requested": "writing-prep-wc-official-science-from-rd-c21-dreams-2",
+      "actual": "#writing-prep-wc-official-science-from-rd-c21-dreams-2",
+      "targetExists": true,
+      "active": [
+        "practice-writing2"
+      ],
+      "title": "练习 / 写作 · Task 2 / 科研由政府控制：公共利益与研究多样性 · IELTS"
+    },
+    {
+      "requested": "writing-prep-wc-official-tourism-from-rd-c21-mapungubwe-2",
+      "actual": "#writing-prep-wc-official-tourism-from-rd-c21-mapungubwe-2",
+      "targetExists": true,
+      "active": [
+        "practice-writing2"
+      ],
+      "title": "练习 / 写作 · Task 2 / 国际旅游：经济收益与社区成本如何比较 · IELTS"
+    },
+    {
+      "requested": "writing-prep-wc-official-science-from-rd-c21-ai-1",
+      "actual": "#writing-prep-wc-official-science-from-rd-c21-ai-1",
+      "targetExists": true,
+      "active": [
+        "practice-writing2"
+      ],
+      "title": "练习 / 写作 · Task 2 / 科研由政府控制：公共利益与研究多样性 · IELTS"
+    },
+    {
+      "requested": "writing-prep-wc-c21-t2-entertainment-from-rd-c21-ai-1",
+      "actual": "#writing-prep-wc-c21-t2-entertainment-from-rd-c21-ai-1",
+      "targetExists": true,
+      "active": [
+        "practice-writing2"
+      ],
+      "title": "练习 / 写作 · Task 2 / 线上娱乐与剧院影院的经济文化价值 · IELTS"
+    },
+    {
+      "requested": "writing-prep-wc-official-science-from-rd-c21-ai-2",
+      "actual": "#writing-prep-wc-official-science-from-rd-c21-ai-2",
+      "targetExists": true,
+      "active": [
+        "practice-writing2"
+      ],
+      "title": "练习 / 写作 · Task 2 / 科研由政府控制：公共利益与研究多样性 · IELTS"
+    },
+    {
+      "requested": "writing-prep-wc-official-science-from-rd-c21-ai-3",
+      "actual": "#writing-prep-wc-official-science-from-rd-c21-ai-3",
+      "targetExists": true,
+      "active": [
+        "practice-writing2"
+      ],
+      "title": "练习 / 写作 · Task 2 / 科研由政府控制：公共利益与研究多样性 · IELTS"
+    },
+    {
+      "requested": "writing-prep-wc-c21-t3-placement-from-rd-official-miles-1",
+      "actual": "#writing-prep-wc-c21-t3-placement-from-rd-official-miles-1",
+      "targetExists": true,
+      "active": [
+        "practice-writing2"
+      ],
+      "title": "练习 / 写作 · Task 2 / 本科海外学习或实习：收益能否超过代价 · IELTS"
+    },
+    {
+      "requested": "writing-prep-wc-c21-t2-entertainment-from-rd-official-miles-2",
+      "actual": "#writing-prep-wc-c21-t2-entertainment-from-rd-official-miles-2",
+      "targetExists": true,
+      "active": [
+        "practice-writing2"
+      ],
+      "title": "练习 / 写作 · Task 2 / 线上娱乐与剧院影院的经济文化价值 · IELTS"
+    },
+    {
+      "requested": "writing-prep-wc-bc-overfishing-from-rd-c21-t3-saiga-adaptation",
+      "actual": "#writing-prep-wc-bc-overfishing-from-rd-c21-t3-saiga-adaptation",
+      "targetExists": true,
+      "active": [
+        "practice-writing2"
+      ],
+      "title": "练习 / 写作 · Task 2 / 过度捕捞：从激励与监管写到对策 · IELTS"
+    },
+    {
+      "requested": "writing-prep-wc-bc-overfishing-from-rd-c21-t3-saiga-threats",
+      "actual": "#writing-prep-wc-bc-overfishing-from-rd-c21-t3-saiga-threats",
+      "targetExists": true,
+      "active": [
+        "practice-writing2"
+      ],
+      "title": "练习 / 写作 · Task 2 / 过度捕捞：从激励与监管写到对策 · IELTS"
+    },
+    {
+      "requested": "writing-prep-wc-c21-t1-homes-from-rd-c21-t3-dart-city",
+      "actual": "#writing-prep-wc-c21-t1-homes-from-rd-c21-t3-dart-city",
+      "targetExists": true,
+      "active": [
+        "practice-writing2"
+      ],
+      "title": "练习 / 写作 · Task 2 / 高层住宅是否是城市住房的最佳方案 · IELTS"
+    },
+    {
+      "requested": "writing-prep-wc-official-transport-from-rd-c21-t3-dart-city",
+      "actual": "#writing-prep-wc-official-transport-from-rd-c21-t3-dart-city",
+      "targetExists": true,
+      "active": [
+        "practice-writing2"
+      ],
+      "title": "练习 / 写作 · Task 2 / 鼓励替代交通与国际限车规定 · IELTS"
+    },
+    {
+      "requested": "writing-prep-wc-official-transport-from-rd-c21-t3-dart-system",
+      "actual": "#writing-prep-wc-official-transport-from-rd-c21-t3-dart-system",
+      "targetExists": true,
+      "active": [
+        "practice-writing2"
+      ],
+      "title": "练习 / 写作 · Task 2 / 鼓励替代交通与国际限车规定 · IELTS"
+    },
+    {
+      "requested": "writing-prep-wc-c21-t1-homes-from-rd-c21-t3-dart-system",
+      "actual": "#writing-prep-wc-c21-t1-homes-from-rd-c21-t3-dart-system",
+      "targetExists": true,
+      "active": [
+        "practice-writing2"
+      ],
+      "title": "练习 / 写作 · Task 2 / 高层住宅是否是城市住房的最佳方案 · IELTS"
+    },
+    {
+      "requested": "writing-prep-wc-c21-t4-primary-from-rd-c21-t4-multilingual-background",
+      "actual": "#writing-prep-wc-c21-t4-primary-from-rd-c21-t4-multilingual-background",
+      "targetExists": true,
+      "active": [
+        "practice-writing2"
+      ],
+      "title": "练习 / 写作 · Task 2 / 小学正式学习与课堂游戏：两个问题分别回应 · IELTS"
+    },
+    {
+      "requested": "writing-prep-wc-c21-t4-primary-from-rd-c21-t4-multilingual-findings",
+      "actual": "#writing-prep-wc-c21-t4-primary-from-rd-c21-t4-multilingual-findings",
+      "targetExists": true,
+      "active": [
+        "practice-writing2"
+      ],
+      "title": "练习 / 写作 · Task 2 / 小学正式学习与课堂游戏：两个问题分别回应 · IELTS"
+    },
+    {
+      "requested": "writing-prep-wc-official-wealth-from-rd-c21-t4-multilingual-findings",
+      "actual": "#writing-prep-wc-official-wealth-from-rd-c21-t4-multilingual-findings",
+      "targetExists": true,
+      "active": [
+        "practice-writing2"
+      ],
+      "title": "练习 / 写作 · Task 2 / 家庭财富与成年问题应对：避免绝对化 · IELTS"
+    },
+    {
+      "requested": "writing-prep-wc-bc-childhealth-from-rd-gap-academic-short-answer-health",
+      "actual": "#writing-prep-wc-bc-childhealth-from-rd-gap-academic-short-answer-health",
+      "targetExists": true,
+      "active": [
+        "practice-writing2"
+      ],
+      "title": "练习 / 写作 · Task 2 / 儿童肥胖：原因—措施对应而非空泛建议 · IELTS"
+    },
+    {
+      "requested": "material-reading-rd-official-miles-1",
+      "actual": "#material-reading-rd-official-miles-1",
+      "targetExists": true,
+      "active": [
+        "practice-reading"
+      ],
+      "title": "练习 / 阅读 / Miles Davis：独特音色、双重教育与音乐遗产 · IELTS"
+    },
+    {
+      "requested": "material-reading-rd-official-miles-2",
+      "actual": "#material-reading-rd-official-miles-2",
+      "targetExists": true,
+      "active": [
+        "practice-reading"
+      ],
+      "title": "练习 / 阅读 / Miles Davis：困境、跨界与创造力 · IELTS"
+    },
+    {
+      "requested": "material-reading-rd-c21-silence-1",
+      "actual": "#material-reading-rd-c21-silence-1",
+      "targetExists": true,
+      "active": [
+        "practice-reading"
+      ],
+      "title": "练习 / 阅读 / Why we need silence｜噪声风险与城市降噪 · IELTS"
+    },
+    {
+      "requested": "material-reading-rd-c21-silence-2",
+      "actual": "#material-reading-rd-c21-silence-2",
+      "targetExists": true,
+      "active": [
+        "practice-reading"
+      ],
+      "title": "练习 / 阅读 / Why we need silence｜漂浮舱的两项实验 · IELTS"
+    },
+    {
+      "requested": "material-reading-rd-c21-silence-3",
+      "actual": "#material-reading-rd-c21-silence-3",
+      "targetExists": true,
+      "active": [
+        "practice-reading"
+      ],
+      "title": "练习 / 阅读 / Why we need silence｜主动安静与短时收益 · IELTS"
+    },
+    {
+      "requested": "material-reading-rd-c21-sugar-1",
+      "actual": "#material-reading-rd-c21-sugar-1",
+      "targetExists": true,
+      "active": [
+        "practice-reading"
+      ],
+      "title": "练习 / 阅读 / The World of Sugar｜全球贸易与误解纠正 · IELTS"
+    },
+    {
+      "requested": "material-reading-rd-c21-sugar-2",
+      "actual": "#material-reading-rd-c21-sugar-2",
+      "targetExists": true,
+      "active": [
+        "practice-reading"
+      ],
+      "title": "练习 / 阅读 / The World of Sugar｜劳动组织与行业权力 · IELTS"
+    },
+    {
+      "requested": "material-reading-rd-c21-sugar-3",
+      "actual": "#material-reading-rd-c21-sugar-3",
+      "targetExists": true,
+      "active": [
+        "practice-reading"
+      ],
+      "title": "练习 / 阅读 / The World of Sugar｜工业化、消费与作者立场 · IELTS"
+    },
+    {
+      "requested": "material-reading-rd-c21-t3-dart-city",
+      "actual": "#material-reading-rd-c21-t3-dart-city",
+      "targetExists": true,
+      "active": [
+        "practice-reading"
+      ],
+      "title": "练习 / 阅读 / Dar es Salaam · 城市扩张与交通方案 · IELTS"
+    },
+    {
+      "requested": "material-reading-rd-c21-t3-dart-system",
+      "actual": "#material-reading-rd-c21-t3-dart-system",
+      "targetExists": true,
+      "active": [
+        "practice-reading"
+      ],
+      "title": "练习 / 阅读 / Dar es Salaam · 公交设计与实际故障 · IELTS"
+    },
+    {
+      "requested": "material-reading-rd-c21-ai-1",
+      "actual": "#material-reading-rd-c21-ai-1",
+      "targetExists": true,
+      "active": [
+        "practice-reading"
+      ],
+      "title": "练习 / 阅读 / Artificial Intelligence｜公众想象与解决一切的误区 · IELTS"
+    },
+    {
+      "requested": "material-reading-rd-c21-t4-multilingual-background",
+      "actual": "#material-reading-rd-c21-t4-multilingual-background",
+      "targetExists": true,
+      "active": [
+        "practice-reading"
+      ],
+      "title": "练习 / 阅读 / Multilingualism · 迁移背景与研究目标 · IELTS"
+    },
+    {
+      "requested": "material-reading-rd-c21-t4-multilingual-findings",
+      "actual": "#material-reading-rd-c21-t4-multilingual-findings",
+      "targetExists": true,
+      "active": [
+        "practice-reading"
+      ],
+      "title": "练习 / 阅读 / Multilingualism · 教学语言与出人意料的结果 · IELTS"
+    },
+    {
+      "requested": "material-reading-rd-c21-mapungubwe-2",
+      "actual": "#material-reading-rd-c21-mapungubwe-2",
+      "targetExists": true,
+      "active": [
+        "practice-reading"
+      ],
+      "title": "练习 / 阅读 / Mapungubwe｜贸易、器物与衰落 · IELTS"
+    },
+    {
+      "requested": "material-reading-rd-c21-dreams-2",
+      "actual": "#material-reading-rd-c21-dreams-2",
+      "targetExists": true,
+      "active": [
+        "practice-reading"
+      ],
+      "title": "练习 / 阅读 / Do animals dream?｜章鱼行为与研究边界 · IELTS"
+    },
+    {
+      "requested": "material-reading-rd-c21-ai-2",
+      "actual": "#material-reading-rd-c21-ai-2",
+      "targetExists": true,
+      "active": [
+        "practice-reading"
+      ],
+      "title": "练习 / 阅读 / Artificial Intelligence｜公共部门实施条件 · IELTS"
+    },
+    {
+      "requested": "material-reading-rd-c21-ai-3",
+      "actual": "#material-reading-rd-c21-ai-3",
+      "targetExists": true,
+      "active": [
+        "practice-reading"
+      ],
+      "title": "练习 / 阅读 / Artificial Intelligence｜部署边界、医疗与司法案例 · IELTS"
+    },
+    {
+      "requested": "material-reading-rd-c21-t3-saiga-adaptation",
+      "actual": "#material-reading-rd-c21-t3-saiga-adaptation",
+      "targetExists": true,
+      "active": [
+        "practice-reading"
+      ],
+      "title": "练习 / 阅读 / Saving the saiga · 生存适应与早期数量变化 · IELTS"
+    },
+    {
+      "requested": "material-reading-rd-c21-t3-saiga-threats",
+      "actual": "#material-reading-rd-c21-t3-saiga-threats",
+      "targetExists": true,
+      "active": [
+        "practice-reading"
+      ],
+      "title": "练习 / 阅读 / Saving the saiga · 栖息地、疾病、气候与恢复 · IELTS"
+    },
+    {
+      "requested": "material-reading-rd-gap-academic-short-answer-health",
+      "actual": "#material-reading-rd-gap-academic-short-answer-health",
+      "targetExists": true,
+      "active": [
+        "practice-reading"
+      ],
+      "title": "练习 / 阅读 / 健康观念变化：年份、十年与三大领域 · IELTS"
+    },
+    {
+      "requested": "writing-prep-wc-c21-t2-entertainment",
+      "actual": "#writing-prep-wc-c21-t2-entertainment",
+      "targetExists": true,
+      "active": [
+        "practice-writing2"
+      ],
+      "title": "练习 / 写作 · Task 2 / 线上娱乐与剧院影院的经济文化价值 · IELTS"
+    },
+    {
+      "requested": "writing-prep-wc-official-transport",
+      "actual": "#writing-prep-wc-official-transport",
+      "targetExists": true,
+      "active": [
+        "practice-writing2"
+      ],
+      "title": "练习 / 写作 · Task 2 / 鼓励替代交通与国际限车规定 · IELTS"
+    },
+    {
+      "requested": "writing-prep-wc-official-tourism",
+      "actual": "#writing-prep-wc-official-tourism",
+      "targetExists": true,
+      "active": [
+        "practice-writing2"
+      ],
+      "title": "练习 / 写作 · Task 2 / 国际旅游：经济收益与社区成本如何比较 · IELTS"
+    },
+    {
+      "requested": "writing-prep-wc-bc-overfishing",
+      "actual": "#writing-prep-wc-bc-overfishing",
+      "targetExists": true,
+      "active": [
+        "practice-writing2"
+      ],
+      "title": "练习 / 写作 · Task 2 / 过度捕捞：从激励与监管写到对策 · IELTS"
+    },
+    {
+      "requested": "writing-prep-wc-bc-childhealth",
+      "actual": "#writing-prep-wc-bc-childhealth",
+      "targetExists": true,
+      "active": [
+        "practice-writing2"
+      ],
+      "title": "练习 / 写作 · Task 2 / 儿童肥胖：原因—措施对应而非空泛建议 · IELTS"
+    },
+    {
+      "requested": "material-reading-rd-c21-dreams-1",
+      "actual": "#material-reading-rd-c21-dreams-1",
+      "targetExists": true,
+      "active": [
+        "practice-reading"
+      ],
+      "title": "练习 / 阅读 / Do animals dream?｜跨物种睡眠研究 · IELTS"
+    },
+    {
+      "requested": "writing-prep-wc-official-science",
+      "actual": "#writing-prep-wc-official-science",
+      "targetExists": true,
+      "active": [
+        "practice-writing2"
+      ],
+      "title": "练习 / 写作 · Task 2 / 科研由政府控制：公共利益与研究多样性 · IELTS"
+    },
+    {
+      "requested": "material-reading-rd-c21-mapungubwe-1",
+      "actual": "#material-reading-rd-c21-mapungubwe-1",
+      "targetExists": true,
+      "active": [
+        "practice-reading"
+      ],
+      "title": "练习 / 阅读 / Mapungubwe｜农业、居所与社会等级 · IELTS"
+    },
+    {
+      "requested": "writing-prep-wc-c21-t1-homes",
+      "actual": "#writing-prep-wc-c21-t1-homes",
+      "targetExists": true,
+      "active": [
+        "practice-writing2"
+      ],
+      "title": "练习 / 写作 · Task 2 / 高层住宅是否是城市住房的最佳方案 · IELTS"
+    },
+    {
+      "requested": "material-reading-rd-c21-t3-past-discoveries",
+      "actual": "#material-reading-rd-c21-t3-past-discoveries",
+      "targetExists": true,
+      "active": [
+        "practice-reading"
+      ],
+      "title": "练习 / 阅读 / Rethinking the Past · 发现怎样改变既有认识 · IELTS"
+    },
+    {
+      "requested": "material-reading-rd-c21-t3-past-art",
+      "actual": "#material-reading-rd-c21-t3-past-art",
+      "targetExists": true,
+      "active": [
+        "practice-reading"
+      ],
+      "title": "练习 / 阅读 / Rethinking the Past · 艺术年代、研究争议与脑容量 · IELTS"
+    },
+    {
+      "requested": "material-reading-rd-c21-t3-past-preconceptions",
+      "actual": "#material-reading-rd-c21-t3-past-preconceptions",
+      "targetExists": true,
+      "active": [
+        "practice-reading"
+      ],
+      "title": "练习 / 阅读 / Rethinking the Past · 渐进变化与性别预设 · IELTS"
+    },
+    {
+      "requested": "material-reading-rd-c21-t4-hyacinth-problem",
+      "actual": "#material-reading-rd-c21-t4-hyacinth-problem",
+      "targetExists": true,
+      "active": [
+        "practice-reading"
+      ],
+      "title": "练习 / 阅读 / Water hyacinth · 入侵植物与能源问题 · IELTS"
+    },
+    {
+      "requested": "material-reading-rd-c21-t4-hyacinth-biogas",
+      "actual": "#material-reading-rd-c21-t4-hyacinth-biogas",
+      "targetExists": true,
+      "active": [
+        "practice-reading"
+      ],
+      "title": "练习 / 阅读 / Water hyacinth · 沼气流程、收益与价格障碍 · IELTS"
+    },
+    {
+      "requested": "writing-prep-wc-c21-t4-primary",
+      "actual": "#writing-prep-wc-c21-t4-primary",
+      "targetExists": true,
+      "active": [
+        "practice-writing2"
+      ],
+      "title": "练习 / 写作 · Task 2 / 小学正式学习与课堂游戏：两个问题分别回应 · IELTS"
+    },
+    {
+      "requested": "writing-prep-wc-official-wealth",
+      "actual": "#writing-prep-wc-official-wealth",
+      "targetExists": true,
+      "active": [
+        "practice-writing2"
+      ],
+      "title": "练习 / 写作 · Task 2 / 家庭财富与成年问题应对：避免绝对化 · IELTS"
+    },
+    {
+      "requested": "material-reading-rd-c21-t4-globe-search",
+      "actual": "#material-reading-rd-c21-t4-globe-search",
+      "targetExists": true,
+      "active": [
+        "practice-reading"
+      ],
+      "title": "练习 / 阅读 / The Globemakers · 从生日礼物到制作难题 · IELTS"
+    },
+    {
+      "requested": "material-reading-rd-c21-t4-globe-craft",
+      "actual": "#material-reading-rd-c21-t4-globe-craft",
+      "targetExists": true,
+      "active": [
+        "practice-reading"
+      ],
+      "title": "练习 / 阅读 / The Globemakers · 制作细节、历史匠人与书评判断 · IELTS"
+    },
+    {
+      "requested": "writing-prep-wc-c21-t3-placement",
+      "actual": "#writing-prep-wc-c21-t3-placement",
+      "targetExists": true,
+      "active": [
+        "practice-writing2"
+      ],
+      "title": "练习 / 写作 · Task 2 / 本科海外学习或实习：收益能否超过代价 · IELTS"
+    },
+    {
+      "requested": "material-reading-rd-official-older-workers",
+      "actual": "#material-reading-rd-official-older-workers",
+      "targetExists": true,
+      "active": [
+        "practice-reading"
+      ],
+      "title": "练习 / 阅读 / Older workers：薪资条件与两种继续工作的动机 · IELTS"
+    },
+    {
+      "requested": "material-reading-rd-official-diagram",
+      "actual": "#material-reading-rd-official-diagram",
+      "targetExists": true,
+      "active": [
+        "practice-reading"
+      ],
+      "title": "练习 / 阅读 / 蜣螂隧道：用深度和形状读图 · IELTS"
+    },
+    {
+      "requested": "material-reading-rd-official-table",
+      "actual": "#material-reading-rd-official-table",
+      "targetExists": true,
+      "active": [
+        "practice-reading"
+      ],
+      "title": "练习 / 阅读 / 蜣螂物种：沿表格列名核对信息 · IELTS"
+    },
+    {
+      "requested": "material-reading-rd-official-short-answer",
+      "actual": "#material-reading-rd-official-short-answer",
+      "targetExists": true,
+      "active": [
+        "practice-reading"
+      ],
+      "title": "练习 / 阅读 / 产品召回：批次、退款与联系人 · IELTS"
+    },
+    {
+      "requested": "material-reading-rd-gap-birds-sentence-history",
+      "actual": "#material-reading-rd-gap-birds-sentence-history",
+      "targetExists": true,
+      "active": [
+        "practice-reading"
+      ],
+      "title": "练习 / 阅读 / 鸟类起源：理论提出、反驳与新证据 · IELTS"
+    },
+    {
+      "requested": "material-reading-rd-gap-birds-sentence-debate",
+      "actual": "#material-reading-rd-gap-birds-sentence-debate",
+      "targetExists": true,
+      "active": [
+        "practice-reading"
+      ],
+      "title": "练习 / 阅读 / 鸟类起源：两方论点与过渡化石 · IELTS"
+    }
+  ]
+}
