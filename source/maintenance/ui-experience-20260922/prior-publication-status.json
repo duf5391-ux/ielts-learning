@@ -1,0 +1,94 @@
+{
+  "provider": "github-pages",
+  "status": "succeeded",
+  "usability_status": "published_browser_verified_mainland_partial",
+  "url": "https://duf5391-ux.github.io/ielts-learning/",
+  "repository": "duf5391-ux/ielts-learning",
+  "source_commit": "55d94a75eb3ad5174bf9234a2ed9a86b8db49097",
+  "workflow_run_id": 35680317051,
+  "workflow_url": "https://github.com/duf5391-ux/ielts-learning/actions/runs/35680317051",
+  "updated_at": "2026-09-22T02:46:54.349048+00:00",
+  "access_mode": "public",
+  "https_enforced": true,
+  "source_html_sha256": "3ba0baa50a6482d10b516112f0cfb2b8cb454b700ef11a141c30b4fbd65dabdc",
+  "published_html_sha256": "4e3d8f43dadf06515e0f1548f0dad471af3629623f703e8fddb1e6902b9c8569",
+  "published_files": 1093,
+  "expanded_bytes": 261935597,
+  "save_fields": 4092,
+  "local_sync_workflow": "publish_github.ps1 pushed successfully; Actions status request returned a transient EOF; independent gh run view confirmed matching commit deployed successfully.",
+  "verification": {
+    "browser": {
+      "passed": true,
+      "evidence": [
+        "ui-polish-20260922/verification.json",
+        "ui-polish-20260922/packed-verification.json",
+        "ui-polish-20260922/live-verification.json"
+      ],
+      "checksPerTarget": 56,
+      "viewportStatesPerTarget": 24,
+      "legacyRoutes": 429,
+      "legacyBinding": "ui-polish-20260922/route-binding.json"
+    },
+    "mainland": {
+      "at": "2026-09-22T02:43:39.753459+00:00",
+      "evidence": "research/github-publication-probes-20260922T024319.000006Z/summary.json",
+      "resources": [
+        {
+          "key": "homepage",
+          "passed": 7,
+          "returned": 9,
+          "unallocated": 1,
+          "failures": [
+            {
+              "city": "Beijing",
+              "asn": 9808,
+              "error": "Request timed out while establishing the TCP connection."
+            },
+            {
+              "city": "Shanghai",
+              "asn": 9808,
+              "error": "Request timed out while establishing the TCP connection."
+            }
+          ]
+        },
+        {
+          "key": "official_audio",
+          "passed": 8,
+          "returned": 9,
+          "unallocated": 1,
+          "failures": [
+            {
+              "city": "Shanghai",
+              "asn": 9808,
+              "error": "Request timed out while establishing the TCP connection."
+            }
+          ]
+        },
+        {
+          "key": "jijing_audio",
+          "passed": 8,
+          "returned": 9,
+          "unallocated": 1,
+          "failures": [
+            {
+              "city": "Wuhan",
+              "asn": 151185,
+              "error": "Request timed out while establishing the TCP connection."
+            }
+          ]
+        }
+      ],
+      "limits": "大陆首页7/9、两条音频分别8/9。北京与上海移动首页超时，上海移动完整听力、武汉电信机经音频超时；天津联通未分配。只代表当时已分配节点，音频为前1024字节响应，不等于完整播放。"
+    }
+  },
+  "evidence": [
+    "research/product-word-workspace-delivery-20260922.md",
+    "ui-polish-20260922/installation.json",
+    "ui-polish-20260922/live-verification.json"
+  ],
+  "next": "Real device microphone/keyboard and four-platform installation checks remain separate. No personal cloud sync or nationwide access claim.",
+  "learning_units": 236,
+  "homepage_bytes": 186062,
+  "progressive_loading": true,
+  "previousVerification": "ui-polish-20260922/prior-publication-status.json"
+}

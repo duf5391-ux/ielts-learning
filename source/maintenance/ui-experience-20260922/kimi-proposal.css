@@ -1,0 +1,82 @@
+/* kimi-proposal.css — Kimi K3 视觉/交互升级提案（对应 kimi-review.md 10 条）
+   性质：纯增量样式提案，供 Codex 主线程评估并入；不改 data-save 键名、ID、路由。
+   身份色保持暖白深绿：--ui-accent:#275d47 / --ui-paper:#fffef9 / --ui-wash:#f3f5ef。
+   编号与 kimi-review.md 问题一一对应。*/
+
+/* ── 1. 自测科目卡：状态章 + 图标位 + 历史入口 ─────────────────── */
+.la-subject-card{position:relative;display:flex;flex-direction:column}
+.la-subject-card .la-subject-icon{position:absolute;top:20px;right:20px;width:30px;height:30px;border-radius:9px;display:grid;place-items:center;background:#e8f0df;color:#315f42}
+.la-subject-card .la-subject-icon .ui-icon{width:17px;height:17px}
+.la-test-state{display:inline-flex;align-items:center;gap:6px;width:fit-content;margin-top:4px;padding:5px 11px;border-radius:20px;font-size:11px;font-weight:600;letter-spacing:.02em}
+.la-test-state[data-state=idle]{border:1px solid #ccd9c6;color:#6d7f68;background:transparent}
+.la-test-state[data-state=doing]{background:#e2ecd9;color:#2c6642;border:1px solid #c5d6bb}
+.la-test-state[data-state=done]{background:#2c6144;color:#fffef9;border:1px solid #2c6144}
+.la-test-history-link{display:inline-flex;align-items:center;gap:6px;margin:18px 2px 0;font-size:13px;font-weight:600;color:#2c5a3d;text-decoration:none}
+.la-test-history-link:hover{text-decoration:underline;text-underline-offset:3px}
+
+/* ── 2. 移动端自测卡单列 ─────────────────────────────────────── */
+@media(max-width:700px){
+  #tests .la-test-selection{grid-template-columns:1fr!important}
+  .la-subject-card .la-subject-icon{top:16px;right:16px}
+}
+
+/* ── 3. 修复 workspace 网格选择器失配（la-grid → la-workspace-grid）── */
+#workspace .la-workspace-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:16px}
+@media(max-width:700px){#workspace .la-workspace-grid{grid-template-columns:1fr}}
+
+/* ── 4. 资料与记录卡：图标 + meta + hover 微交互 ─────────────────── */
+#workspace .la-card{position:relative;transition:transform .16s,box-shadow .16s,border-color .16s}
+#workspace .la-card:hover{transform:translateY(-2px);box-shadow:0 8px 22px #1f493612;border-color:#c4d6bd}
+#workspace .la-card .la-card-icon{width:34px;height:34px;border-radius:10px;display:grid;place-items:center;background:#e8f0df;color:#315f42;margin-bottom:12px}
+#workspace .la-card .la-card-icon .ui-icon{width:18px;height:18px}
+#workspace .la-card .la-card-meta{font-size:11px;color:#7a8a72;margin-top:8px;letter-spacing:.01em}
+
+/* ── 5. 写作目录行：草稿状态章 + 搜索吸附 ─────────────────────── */
+#writing-workbench .ww-topic-card{position:relative}
+.ww-row-state{display:inline-block;margin-left:10px;padding:4px 10px;border-radius:14px;font-size:10px;font-weight:650;vertical-align:2px;letter-spacing:.02em}
+.ww-row-state[data-state=idle]{border:1px solid #ccd9c6;color:#7a8a72}
+.ww-row-state[data-state=draft]{background:#e2ecd9;color:#2c6642;border:1px solid #c5d6bb}
+.ww-row-state[data-state=revised]{background:#2c6144;color:#fffef9;border:1px solid #2c6144}
+#writing-workbench .ww-switcher{position:sticky;top:8px;z-index:5;background:#fffefa;padding:10px 0}
+
+/* ── 6. 写作步骤条（.ww-progress 此前无样式）──────────────────── */
+.ww-progress{display:flex;align-items:center;gap:6px;flex-wrap:wrap;margin:14px 0 22px;padding:6px;background:#eaf0e4;border:1px solid #dce6d5;border-radius:12px;width:fit-content;max-width:100%}
+.ww-progress a{position:relative;display:inline-flex;align-items:center;gap:7px;padding:9px 14px;min-height:38px;border-radius:9px;font-size:12px;font-weight:600;color:#44604b;text-decoration:none;border:1px solid transparent;white-space:nowrap}
+.ww-progress a[data-step-done]{background:#e2ecd9;color:#2c6642;border-color:#c5d6bb}
+.ww-progress a[data-step-done]::before{content:"✓";font-size:11px}
+.ww-progress a[aria-current=step]{background:#275d47;color:#fffef9;box-shadow:0 3px 9px #244e3826}
+.ww-progress a:hover:not([aria-current=step]){background:#f4f8ee}
+.ww-progress button{margin-left:auto;padding:9px 13px;min-height:38px;border-radius:9px;border:1px solid #cdd9c4;background:#fffef9;font-size:12px;color:#3d6743}
+.ww-progress button:hover{border-color:#a9c29c;background:#f4f8ee}
+
+/* ── 7. 输入控件键盘焦点环（补齐 input/select/textarea）────────── */
+input:focus-visible,select:focus-visible,textarea:focus-visible{
+  outline:3px solid #7a9c80!important;outline-offset:2px;border-color:#6b9977!important}
+.product-search input:focus-visible{box-shadow:0 0 0 3px #dfeadc} /* 保留原阴影作为附加强调 */
+.ww-essay:focus-visible,.la-test-sheet input:focus-visible{border-color:#4c8563}
+
+/* ── 8. 移动端复习底部浮层与底栏间距 ─────────────────────────── */
+@media(max-width:700px){
+  #word-review .vr-round-panel,#word-review [data-round-panel]{
+    margin-bottom:calc(87px + env(safe-area-inset-bottom))!important}
+  #word-review .vr-round-panel button,#word-review [data-round-panel] button{
+    min-height:44px;white-space:nowrap}
+}
+
+/* ── 9. 字段级保存反馈 chip（配合现有 role=status 通报）────────── */
+.ui-save-chip{position:absolute;right:10px;bottom:10px;padding:6px 12px;border-radius:16px;
+  background:#2c6144;color:#fffef9;font-size:11px;font-weight:600;letter-spacing:.02em;
+  box-shadow:0 4px 12px #214d3530;opacity:1;transition:opacity .4s}
+.ui-save-chip[data-fading]{opacity:0}
+@media(prefers-reduced-motion:reduce){.ui-save-chip{transition:none}}
+
+/* ── 10. 通用空状态（沿用 ui-history-empty 视觉）────────────────── */
+.ui-empty{background:#eef3e6;border:1px dashed #cbd9bd;border-radius:16px;
+  padding:30px 24px;text-align:center;color:#65775d;line-height:1.9}
+.ui-empty p{margin:0;font-size:13px}
+.ui-empty button,.ui-empty a{display:inline-block;margin-top:12px;padding:10px 18px;
+  background:#315f42;color:#fffef9;border:0;border-radius:9px;font-size:13px;text-decoration:none;cursor:pointer}
+.ui-empty button:hover,.ui-empty a:hover{background:#27503a}
+
+/* 注：第 1/4/5/6 条需要 Codex 在现有渲染函数中补状态节点与 aria 属性；
+   本文件只提供视觉层。所有状态读取复用已有 data-save 字段，不新增存储键。*/

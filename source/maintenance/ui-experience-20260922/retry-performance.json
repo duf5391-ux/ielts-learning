@@ -1,0 +1,156 @@
+{
+  "elapsedMs": 2598,
+  "errors": [],
+  "top": [
+    {
+      "function": "querySelector",
+      "url": "",
+      "line": 0,
+      "ms": 1853
+    },
+    {
+      "function": "(program)",
+      "url": "",
+      "line": 0,
+      "ms": 143
+    },
+    {
+      "function": "querySelector",
+      "url": "",
+      "line": 0,
+      "ms": 102
+    },
+    {
+      "function": "querySelector",
+      "url": "",
+      "line": 0,
+      "ms": 94
+    },
+    {
+      "function": "querySelector",
+      "url": "",
+      "line": 0,
+      "ms": 74
+    },
+    {
+      "function": "querySelectorAll",
+      "url": "",
+      "line": 0,
+      "ms": 64
+    },
+    {
+      "function": "querySelector",
+      "url": "",
+      "line": 0,
+      "ms": 56
+    },
+    {
+      "function": "querySelector",
+      "url": "",
+      "line": 0,
+      "ms": 46
+    },
+    {
+      "function": "querySelectorAll",
+      "url": "",
+      "line": 0,
+      "ms": 40
+    },
+    {
+      "function": "querySelector",
+      "url": "",
+      "line": 0,
+      "ms": 34
+    },
+    {
+      "function": "",
+      "url": "",
+      "line": 5605,
+      "ms": 25
+    },
+    {
+      "function": "(idle)",
+      "url": "",
+      "line": 0,
+      "ms": 22
+    },
+    {
+      "function": "scrollIntoView",
+      "url": "",
+      "line": 0,
+      "ms": 9
+    },
+    {
+      "function": "querySelector",
+      "url": "",
+      "line": 0,
+      "ms": 9
+    },
+    {
+      "function": "querySelector",
+      "url": "",
+      "line": 0,
+      "ms": 8
+    },
+    {
+      "function": "$",
+      "url": "",
+      "line": 3,
+      "ms": 7
+    },
+    {
+      "function": "querySelectorAll",
+      "url": "",
+      "line": 0,
+      "ms": 6
+    },
+    {
+      "function": "querySelectorAll",
+      "url": "",
+      "line": 0,
+      "ms": 6
+    },
+    {
+      "function": "batch",
+      "url": "",
+      "line": 27,
+      "ms": 5
+    },
+    {
+      "function": "confirm",
+      "url": "",
+      "line": 0,
+      "ms": 5
+    },
+    {
+      "function": "records",
+      "url": "",
+      "line": 6,
+      "ms": 5
+    },
+    {
+      "function": "",
+      "url": "",
+      "line": 68,
+      "ms": 4
+    },
+    {
+      "function": "querySelectorAll",
+      "url": "",
+      "line": 0,
+      "ms": 4
+    },
+    {
+      "function": "querySelectorAll",
+      "url": "",
+      "line": 0,
+      "ms": 4
+    },
+    {
+      "function": "$$",
+      "url": "",
+      "line": 3,
+      "ms": 4
+    }
+  ]
+}

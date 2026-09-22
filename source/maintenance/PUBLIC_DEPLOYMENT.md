@@ -1,3 +1,5 @@
+最新已发布：a96477bc正式册，4092字段、236单元，Actions 35693328358；首页SHA 9c338fae。本轮前端／交互与大陆复测见 research/product-ui-experience-delivery-20260922.md。下方旧数字为历史。
+
 最新已发布：3ba0baa5正式册，4092字段、236单元，Actions 35680317051；首页SHA4e3d8f43。本轮单词整合、双端UI和大陆探测见 research/product-word-workspace-delivery-20260922.md。下方旧数字为历史。
 
 当前最新已发布：e2b9e12e 正式册，4091字段、236单元，Actions 35670336528；首页SHA 0bab2fa1。发布包、HTTPS与本轮大陆证据见 research/product-redesign-delivery-20260922.md。下方旧数字为历史。

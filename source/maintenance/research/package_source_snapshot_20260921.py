@@ -32,7 +32,7 @@ for i,s in enumerate(doc.find_all('script')):
     if s.get('type','') in ['', 'text/javascript'] and s.string:
         f=extract/((s.get('id') or 'script-'+str(i))+'.js');f.write_text(str(s.string),encoding='utf8')
         copy(f,Path('production/current-extracted')/f.name,'current-production-extract')
-for id in ['study','workspace','library','records','vocabulary-review','word-review','word-library','review-history','lookup-learning','sentence-learning','writing-workbench','course-window','course-design']:
+for id in ['study','workspace','library','records','vocabulary-review','word-review','word-library','review-history','lookup-learning','sentence-learning','tests','test-reading','test-listening','test-writing','test-speaking','writing-workbench','course-window','course-design']:
     f=extract/(id+'.html');f.write_text(str(doc.find(id=id)),encoding='utf8');copy(f,Path('production/current-extracted')/f.name,'current-production-extract')
 
 extensions = {'.py', '.js', '.cjs', '.css', '.json', '.ps1', '.md', '.html'}
@@ -42,7 +42,7 @@ for f in ROOT.iterdir():
 
 excluded_parts = {'stage', 'site', 'dist', 'backup', 'backups', 'formal-backup',
                   'baseline', 'source-snapshot', '__pycache__', 'node_modules', '.git'}
-for directory in ['content-pipeline', 'feature-fixes-20260921', 'architecture-repair-20260921','word-review-separation-20260921','product-repair-20260922','ui-polish-20260922']:
+for directory in ['content-pipeline', 'feature-fixes-20260921', 'architecture-repair-20260921','word-review-separation-20260921','product-repair-20260922','ui-polish-20260922','ui-experience-20260922']:
     for f in (ROOT / directory).rglob('*'):
         if (f.is_file() and f.suffix in extensions and f.stat().st_size < 3_000_000
                 and not excluded_parts.intersection(f.relative_to(ROOT).parts)):
@@ -91,7 +91,7 @@ assert not hits, 'Possible credential in: ' + ', '.join(hits)
     production_sha256=EXPECTED, base_commit='46bc80bc1d77638f019f58a2c39bfed65a99c19e',
     files=manifest, exclusions=['credentials, browser profiles, personal learning records',
     'downloaded tool repositories, archives, duplicate media, unrelated projects',
-    'historical full-page candidates and failed probe selector attempts']),
+    'large historical full-page candidates; selected failure reports remain as investigation evidence']),
     ensure_ascii=False, indent=2), encoding='utf-8')
 print(json.dumps(dict(files=len(manifest), bytes=sum(x['bytes'] for x in manifest),
                      credential_pattern_matches=len(hits)), ensure_ascii=False))

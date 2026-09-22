@@ -1,0 +1,23 @@
+{
+  "target": "packed",
+  "source_sha256": "a96477bc2cab9a26764a8b19af06f2ccb701ac4e0b986504432431628b318ae1",
+  "errors": [],
+  "pass": false,
+  "failure": "locator.click: Timeout 15000ms exceeded.\nCall log:\n\u001b[2m  - waiting for locator('[data-test-retry=reading]')\u001b[22m\n\u001b[2m    - locator resolved to <button type=\"button\" data-test-retry=\"reading\">再做一轮</button>\u001b[22m\n\u001b[2m  - attempting click action\u001b[22m\n\u001b[2m    - waiting for element to be visible, enabled and stable\u001b[22m\n\u001b[2m    - element is visible, enabled and stable\u001b[22m\n\u001b[2m    - scrolling into view if needed\u001b[22m\n\u001b[2m    - done scrolling\u001b[22m\n\u001b[2m    - performing click action\u001b[22m\n\n    at C:\\Users\\Admin1\\Documents\\ChatGPT\\ielts\\ui-experience-20260922\\verify.cjs:11:638",
+  "checks": [
+    "four subject cards expose real status and history",
+    "1440-tests no overflow and one active panel",
+    "self test card shows progress from actual saved answer",
+    "submitted answers lock",
+    "latest submitted result appears in history immediately"
+  ],
+  "shots": [
+    {
+      "name": "1440-tests",
+      "overflow": false,
+      "active": [
+        "tests"
+      ]
+    }
+  ]
+}

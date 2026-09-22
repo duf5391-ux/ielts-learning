@@ -1,11 +1,11 @@
 {
-  "production_sha256": "3ba0baa50a6482d10b516112f0cfb2b8cb454b700ef11a141c30b4fbd65dabdc",
+  "production_sha256": "a96477bc2cab9a26764a8b19af06f2ccb701ac4e0b986504432431628b318ae1",
   "base_commit": "46bc80bc1d77638f019f58a2c39bfed65a99c19e",
   "files": [
     {
       "path": "production/开始学习.html",
-      "bytes": 4598619,
-      "sha256": "3ba0baa50a6482d10b516112f0cfb2b8cb454b700ef11a141c30b4fbd65dabdc",
+      "bytes": 4634751,
+      "sha256": "a96477bc2cab9a26764a8b19af06f2ccb701ac4e0b986504432431628b318ae1",
       "role": "current-production-source"
     },
     {
@@ -316,8 +316,8 @@
     },
     {
       "path": "production/current-extracted/writing-entry-controller.js",
-      "bytes": 5643,
-      "sha256": "090f2b6deff6ba3da093d9f3ca10ce56e9e979ff42b62adad9028c8d7f01a0eb",
+      "bytes": 6212,
+      "sha256": "951e72a55298b8fc5bc75ece2813695563939f225a4a1cfea9667911c2c34f03",
       "role": "current-production-extract"
     },
     {
@@ -346,8 +346,8 @@
     },
     {
       "path": "production/current-extracted/learning-adjust-script.js",
-      "bytes": 29113,
-      "sha256": "ff1311b4c9c9156fa2b220caedec9cfa8aeea798be363b12179420a247243761",
+      "bytes": 29560,
+      "sha256": "8d515000e767707783b25e548beee0fe485a325e829249f8b5c4fc7e81493ec1",
       "role": "current-production-extract"
     },
     {
@@ -411,6 +411,12 @@
       "role": "current-production-extract"
     },
     {
+      "path": "production/current-extracted/ux-upgrade-controller.js",
+      "bytes": 7191,
+      "sha256": "cd2ef94f97c2087d1a75f1e71bbb283ad8e647dbe5030bda09a835c9e09045bc",
+      "role": "current-production-extract"
+    },
+    {
       "path": "production/current-extracted/study.html",
       "bytes": 3971,
       "sha256": "d112c097e292ac0979acc6edf123157b09a8c3e789f4a94d03f1aedf68df14c8",
@@ -418,20 +424,20 @@
     },
     {
       "path": "production/current-extracted/workspace.html",
-      "bytes": 1093,
-      "sha256": "065448fb1fa5e6751c02e28352f0eb634ae163a9cfb8731f27aaf0dd79aaa501",
+      "bytes": 1325,
+      "sha256": "34637a066906be594942ad92d5e240e5351da65685d2e05b87d85aedd9694e0d",
       "role": "current-production-extract"
     },
     {
       "path": "production/current-extracted/library.html",
       "bytes": 32379,
-      "sha256": "3f90f9383ec16078fef34ba57c61b7752f0e17f8fc407fe3e2edc30b031aa470",
+      "sha256": "3aac07f7e48f3972ea6e6cd845d6097ba0fa3a01397b661dde9203c817a540c2",
       "role": "current-production-extract"
     },
     {
       "path": "production/current-extracted/records.html",
-      "bytes": 6707,
-      "sha256": "1905db3ea10687c9857a049287d298fc4c663e3acb8939643aff69713612226e",
+      "bytes": 7001,
+      "sha256": "59569d4f7548221855264dd7e4379f03ce1cb9471cfe7821a5ffb015c7af31ac",
       "role": "current-production-extract"
     },
     {
@@ -471,21 +477,51 @@
       "role": "current-production-extract"
     },
     {
+      "path": "production/current-extracted/tests.html",
+      "bytes": 3692,
+      "sha256": "b57dcdff443ec5d2ce41858c5568373cb6c7bc54acd7f4d10a651c11ad9322e0",
+      "role": "current-production-extract"
+    },
+    {
+      "path": "production/current-extracted/test-reading.html",
+      "bytes": 12629,
+      "sha256": "e7ee567205c492da42cc16f3ce8c59bc6dcd1698258ec2352b8916b33412bc08",
+      "role": "current-production-extract"
+    },
+    {
+      "path": "production/current-extracted/test-listening.html",
+      "bytes": 20817,
+      "sha256": "b6e3d79c3d554f36d60b9105ce98fe93d4673a78bc6e3d4d7f8eb9fb92e3320d",
+      "role": "current-production-extract"
+    },
+    {
+      "path": "production/current-extracted/test-writing.html",
+      "bytes": 4531,
+      "sha256": "2cd25dbb2cf3c096ee78313feb7513f9adfde822c14a77d049d7336df33b0ad0",
+      "role": "current-production-extract"
+    },
+    {
+      "path": "production/current-extracted/test-speaking.html",
+      "bytes": 6346,
+      "sha256": "bd0b2d4834fdd52004361bef3ad273f874770eff669774e4cac31b42e7763455",
+      "role": "current-production-extract"
+    },
+    {
       "path": "production/current-extracted/writing-workbench.html",
-      "bytes": 399983,
-      "sha256": "dbb56d9b8463b4cdf75a672e221169d80739b97053c3fa26739821ea245f2878",
+      "bytes": 400595,
+      "sha256": "a8479d4dc83cfc7445ad084f41ecefe47e7765b9c27b73a73b0adad388cc27c1",
       "role": "current-production-extract"
     },
     {
       "path": "production/current-extracted/course-window.html",
       "bytes": 813,
-      "sha256": "2a0d883b31a723a112693825b0cd9272b489830d15e6d3bf58748b9a57d42d70",
+      "sha256": "296841485da1ed61f4c7daceec7f3619c9d67642ca9107a9bbd43d933123afc8",
       "role": "current-production-extract"
     },
     {
       "path": "production/current-extracted/course-design.html",
       "bytes": 1649,
-      "sha256": "946b560aad62a7d3d72b1885312ecafe254e08cc654a327d46baa18cd8020761",
+      "sha256": "31a5bedaf29b2bd3a3303d3e05e64cbd3fa7e6e1c6af3d600948b499239d5f98",
       "role": "current-production-extract"
     },
     {
@@ -496,8 +532,8 @@
     },
     {
       "path": "maintenance/AGENTS.md",
-      "bytes": 14004,
-      "sha256": "0b4b129ce0d21e1e97374b649e7ac5e19ae5d683cc5e38ba10bcd12316b73812",
+      "bytes": 14587,
+      "sha256": "ef24cbda199580a513a2bf4d6fd5ccb11e7d6a17dc87a5e10753fe6a0895b102",
       "role": "maintenance-history-not-all-current"
     },
     {
@@ -1294,8 +1330,8 @@
     },
     {
       "path": "maintenance/PUBLIC_DEPLOYMENT.md",
-      "bytes": 8285,
-      "sha256": "aee0ee17c1ce66bf2b5ae2355e770a20ca328059cdf5bbd1e55c84b60d68371c",
+      "bytes": 8516,
+      "sha256": "f4d326da4d7f394ec658c8c065ddc0846d10f6dff2f08440f5f6b144ad27e1a1",
       "role": "maintenance-history-not-all-current"
     },
     {
@@ -1582,8 +1618,8 @@
     },
     {
       "path": "maintenance/README.md",
-      "bytes": 33122,
-      "sha256": "8ec03ec46e346653529b63aaa52d696f8efdb37acac0cd4fbf96cedafb086592",
+      "bytes": 34344,
+      "sha256": "aa61dd770bda21c1872cadab0356cca16ad5ef728541a116cd40ef50ba7577d4",
       "role": "maintenance-history-not-all-current"
     },
     {
@@ -2735,7 +2771,7 @@
     {
       "path": "maintenance/architecture-repair-20260921/current-extracted/course-design.html",
       "bytes": 1649,
-      "sha256": "946b560aad62a7d3d72b1885312ecafe254e08cc654a327d46baa18cd8020761",
+      "sha256": "31a5bedaf29b2bd3a3303d3e05e64cbd3fa7e6e1c6af3d600948b499239d5f98",
       "role": "maintenance-history-not-all-current"
     },
     {
@@ -2753,7 +2789,7 @@
     {
       "path": "maintenance/architecture-repair-20260921/current-extracted/course-window.html",
       "bytes": 813,
-      "sha256": "2a0d883b31a723a112693825b0cd9272b489830d15e6d3bf58748b9a57d42d70",
+      "sha256": "296841485da1ed61f4c7daceec7f3619c9d67642ca9107a9bbd43d933123afc8",
       "role": "maintenance-history-not-all-current"
     },
     {
@@ -2800,14 +2836,14 @@
     },
     {
       "path": "maintenance/architecture-repair-20260921/current-extracted/learning-adjust-script.js",
-      "bytes": 29113,
-      "sha256": "ff1311b4c9c9156fa2b220caedec9cfa8aeea798be363b12179420a247243761",
+      "bytes": 29560,
+      "sha256": "8d515000e767707783b25e548beee0fe485a325e829249f8b5c4fc7e81493ec1",
       "role": "maintenance-history-not-all-current"
     },
     {
       "path": "maintenance/architecture-repair-20260921/current-extracted/library.html",
       "bytes": 32379,
-      "sha256": "3f90f9383ec16078fef34ba57c61b7752f0e17f8fc407fe3e2edc30b031aa470",
+      "sha256": "3aac07f7e48f3972ea6e6cd845d6097ba0fa3a01397b661dde9203c817a540c2",
       "role": "maintenance-history-not-all-current"
     },
     {
@@ -2854,8 +2890,8 @@
     },
     {
       "path": "maintenance/architecture-repair-20260921/current-extracted/records.html",
-      "bytes": 6707,
-      "sha256": "1905db3ea10687c9857a049287d298fc4c663e3acb8939643aff69713612226e",
+      "bytes": 7001,
+      "sha256": "59569d4f7548221855264dd7e4379f03ce1cb9471cfe7821a5ffb015c7af31ac",
       "role": "maintenance-history-not-all-current"
     },
     {
@@ -2925,6 +2961,42 @@
       "role": "maintenance-history-not-all-current"
     },
     {
+      "path": "maintenance/architecture-repair-20260921/current-extracted/test-listening.html",
+      "bytes": 20817,
+      "sha256": "b6e3d79c3d554f36d60b9105ce98fe93d4673a78bc6e3d4d7f8eb9fb92e3320d",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/architecture-repair-20260921/current-extracted/test-reading.html",
+      "bytes": 12629,
+      "sha256": "e7ee567205c492da42cc16f3ce8c59bc6dcd1698258ec2352b8916b33412bc08",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/architecture-repair-20260921/current-extracted/test-speaking.html",
+      "bytes": 6346,
+      "sha256": "bd0b2d4834fdd52004361bef3ad273f874770eff669774e4cac31b42e7763455",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/architecture-repair-20260921/current-extracted/test-writing.html",
+      "bytes": 4531,
+      "sha256": "2cd25dbb2cf3c096ee78313feb7513f9adfde822c14a77d049d7336df33b0ad0",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/architecture-repair-20260921/current-extracted/tests.html",
+      "bytes": 3692,
+      "sha256": "b57dcdff443ec5d2ce41858c5568373cb6c7bc54acd7f4d10a651c11ad9322e0",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/architecture-repair-20260921/current-extracted/ux-upgrade-controller.js",
+      "bytes": 7191,
+      "sha256": "cd2ef94f97c2087d1a75f1e71bbb283ad8e647dbe5030bda09a835c9e09045bc",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
       "path": "maintenance/architecture-repair-20260921/current-extracted/vocabulary-quick-marks-script.js",
       "bytes": 3017,
       "sha256": "91021bb0ff9022ee3b27c0b825eae7626dd288347f41f8b7b9cb51dc13930c34",
@@ -2974,20 +3046,20 @@
     },
     {
       "path": "maintenance/architecture-repair-20260921/current-extracted/workspace.html",
-      "bytes": 1093,
-      "sha256": "065448fb1fa5e6751c02e28352f0eb634ae163a9cfb8731f27aaf0dd79aaa501",
+      "bytes": 1325,
+      "sha256": "34637a066906be594942ad92d5e240e5351da65685d2e05b87d85aedd9694e0d",
       "role": "maintenance-history-not-all-current"
     },
     {
       "path": "maintenance/architecture-repair-20260921/current-extracted/writing-entry-controller.js",
-      "bytes": 5643,
-      "sha256": "090f2b6deff6ba3da093d9f3ca10ce56e9e979ff42b62adad9028c8d7f01a0eb",
+      "bytes": 6212,
+      "sha256": "951e72a55298b8fc5bc75ece2813695563939f225a4a1cfea9667911c2c34f03",
       "role": "maintenance-history-not-all-current"
     },
     {
       "path": "maintenance/architecture-repair-20260921/current-extracted/writing-workbench.html",
-      "bytes": 399983,
-      "sha256": "dbb56d9b8463b4cdf75a672e221169d80739b97053c3fa26739821ea245f2878",
+      "bytes": 400595,
+      "sha256": "a8479d4dc83cfc7445ad084f41ecefe47e7765b9c27b73a73b0adad388cc27c1",
       "role": "maintenance-history-not-all-current"
     },
     {
@@ -4578,6 +4650,432 @@
       "path": "maintenance/ui-polish-20260922/syntax/writing-entry-controller.js",
       "bytes": 5732,
       "sha256": "83191c02cbd2c06882fc3ffc57470ed5bc59bb4658f24aebac021e2f1fc25c91",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/ui-experience-20260922/action.json",
+      "bytes": 203,
+      "sha256": "58e51a0662aa24922690c775abc9bc0cbae6a87fa6ced586b8c8d322833543bc",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/ui-experience-20260922/build.json",
+      "bytes": 238,
+      "sha256": "8341fd279eade3218362625ac8784ef3fa7809d32d1b6f301fc4fcfe132cf188",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/ui-experience-20260922/build.py",
+      "bytes": 10084,
+      "sha256": "1005e3ea2e9773ef15739296c2d13ad987742e179e91200e336897ed9e6407fc",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/ui-experience-20260922/check-graph.cjs",
+      "bytes": 1004,
+      "sha256": "a8b67649b30f4a5b2df36f41967975b9c8d64c3b90ae934fa306a02abdd8f7e6",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/ui-experience-20260922/finalize.py",
+      "bytes": 9770,
+      "sha256": "2adcd32a2f61b023751410c81b7ca2691e3ea46911d58dada2a37797a07f6146",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/ui-experience-20260922/graph-verification.json",
+      "bytes": 104,
+      "sha256": "61a0134004cc94e2d13c6ef6d4b8399f6d569177bf24e9ceb8449a7a2770e445",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/ui-experience-20260922/graph.py",
+      "bytes": 8325,
+      "sha256": "95044a6c59aa710ce417fcc9b952c405eb8c52c4f9f7aa11f2e3801c38bfcc97",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/ui-experience-20260922/inspect.cjs",
+      "bytes": 1557,
+      "sha256": "e4837e5ab45a109d3e07e2f4bbbc6465da50fb8c085be3971309052ddd5c9db6",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/ui-experience-20260922/inspection.json",
+      "bytes": 113552,
+      "sha256": "191a83e409e4fe26100a2a7a2fa591e1185ad191d8b0396dc0386859fd3c0554",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/ui-experience-20260922/install.py",
+      "bytes": 1266,
+      "sha256": "b302375b4e862e6b1bae40331f813b5ea9c0570c34e9db239f35494cac905e39",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/ui-experience-20260922/installation.json",
+      "bytes": 614,
+      "sha256": "f9edf702395453e31be77354e8e9f7481b68a46c15952de4e63c528dc1f5d846",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/ui-experience-20260922/interface-tensor.html",
+      "bytes": 1227680,
+      "sha256": "dfa09daaaa671c4d1fbc31b70806f0ded5cd8d274a3928f1cf9de715d38aa074",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/ui-experience-20260922/interface-tensor.json",
+      "bytes": 1547333,
+      "sha256": "08eb3db6c4eb22d5746d749f73c44807cf80f07198473edd7ed2d60c5198c9bc",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/ui-experience-20260922/kimi-proposal.css",
+      "bytes": 6675,
+      "sha256": "2bd97ed50a1ab66a91dc478bbdacffc729f6d755a7e2498377a6444e015257cf",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/ui-experience-20260922/kimi-review.md",
+      "bytes": 4082,
+      "sha256": "76ddd8ccf36463e144d638d9e52ce54e1bd00051762ce929d1d2ebd5dee9c021",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/ui-experience-20260922/kimi-task.json",
+      "bytes": 297,
+      "sha256": "5ba6c5b34f8e6ea567697674801c3f0a2460c772e0127fa97635fabdf88bfdc7",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/ui-experience-20260922/kimi-verification.json",
+      "bytes": 611,
+      "sha256": "b31a7455e7daa77aed12c159519e3b55bd7b65faa883e1da62212cc87b36241b",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/ui-experience-20260922/live-index.html",
+      "bytes": 206567,
+      "sha256": "9c338faeeeb0ce0fac56e85c32e50cf343703c9a476537c08f9493bc2bbbbab9",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/ui-experience-20260922/live-verification.json",
+      "bytes": 4743,
+      "sha256": "117db74d2cb73a81666eebb7c2a9b7c5728e58053a640ece4446c32b24d373b0",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/ui-experience-20260922/mainland-summary.json",
+      "bytes": 43587,
+      "sha256": "8d3e70d9219134aa4e9c98504ee1b41d685a61bfb07b9272f5f18791f695044a",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/ui-experience-20260922/packed-timeout-investigation.json",
+      "bytes": 1248,
+      "sha256": "5d0877b09c4a39dacd0bfcf993cb45d217dde85d3bcf7e82bbe6ddb124d3d0c0",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/ui-experience-20260922/packed-verification.json",
+      "bytes": 4705,
+      "sha256": "147bb852769e9b28917d466b7f2640490a66e43d728f434178b231c6301a1380",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/ui-experience-20260922/prior-publication-status.json",
+      "bytes": 3611,
+      "sha256": "790df6e27089574ba5fa66e3f6982a339b973685d84c9bef19235b2f65bd5dd0",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/ui-experience-20260922/probe-retry-performance.cjs",
+      "bytes": 1542,
+      "sha256": "ed95c643dcdaba4ea5f141755d33349491ef01b35f021da0327643dbba3dcce1",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/ui-experience-20260922/README.md",
+      "bytes": 3631,
+      "sha256": "d9a2ded2ea4e982571d0058dc10446e6888235c55c41414df35771d8d5bbedda",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/ui-experience-20260922/release.json",
+      "bytes": 4806,
+      "sha256": "f79b2a941b1036c8dec6b18c083db6fc9ad434cfb975483058bad64c9fc90eb7",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/ui-experience-20260922/retry-performance.json",
+      "bytes": 2414,
+      "sha256": "52bf2f2511c555bc54ff8d4276961146dd0f929bec04535609fd57c1336fb3e0",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/ui-experience-20260922/upgrade.css",
+      "bytes": 20450,
+      "sha256": "b197bf342efdb751600a36d8742a7793e4179e0ef54186296963bfcc1ecf5077",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/ui-experience-20260922/upgrade.js",
+      "bytes": 7141,
+      "sha256": "1041313ad8c393159aaa93cbea473340be3b64f4ad44ef34c9c97c60817252d7",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/ui-experience-20260922/verification.json",
+      "bytes": 4708,
+      "sha256": "1a7e976a19ebdd8ea6f296731f0376d4582fdc74194b5340849ec3e2549c7e89",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/ui-experience-20260922/verify.cjs",
+      "bytes": 9366,
+      "sha256": "820217e74ee2cd87518f6340a5095bb4c4515b7eab130b4659213e7b3836f3e2",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/ui-experience-20260922/inspection/records.html",
+      "bytes": 6707,
+      "sha256": "1905db3ea10687c9857a049287d298fc4c663e3acb8939643aff69713612226e",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/ui-experience-20260922/inspection/sentence-tool.html",
+      "bytes": 4,
+      "sha256": "dc937b59892604f5a86ac96936cd7ff09e25f18ae6b758e8014a24c7fa039e91",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/ui-experience-20260922/inspection/test-reading.html",
+      "bytes": 10770,
+      "sha256": "7b2b922b1eabdbb9a859af5c7b770ec8e11ac670665fc2632014e50840d93b09",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/ui-experience-20260922/inspection/test-writing.html",
+      "bytes": 3098,
+      "sha256": "be496fb523e4f1a0672d4f1455ed0fcf3ee9d64b0f709f3087d930246a52a977",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/ui-experience-20260922/inspection/tests.html",
+      "bytes": 1696,
+      "sha256": "13735667861d6e8e9953ed53c33d86c1fd1f4a31859aebc0e74767549cb74eb2",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/ui-experience-20260922/inspection/word-lookup.html",
+      "bytes": 814,
+      "sha256": "8885503d863b4254199475da630386d4a4417bb29b697f41d01d7d2b8fc44c81",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/ui-experience-20260922/inspection/workspace.html",
+      "bytes": 1093,
+      "sha256": "065448fb1fa5e6751c02e28352f0eb634ae163a9cfb8731f27aaf0dd79aaa501",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/ui-experience-20260922/inspection/writing-workbench.html",
+      "bytes": 399983,
+      "sha256": "dbb56d9b8463b4cdf75a672e221169d80739b97053c3fa26739821ea245f2878",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/ui-experience-20260922/syntax/authentic-case-script.js",
+      "bytes": 4186,
+      "sha256": "8ad452476b21bde744c83d6bdd5e43bab1a38d8c94a21a22637d6d6f354d442b",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/ui-experience-20260922/syntax/course-window-nav.js",
+      "bytes": 234,
+      "sha256": "f73105b68c4850924809a989de7a115f695fcb728a1fe2f8bca57145d25f2e91",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/ui-experience-20260922/syntax/course-window-script.js",
+      "bytes": 58094,
+      "sha256": "d11d0a1935b2cbdc2526dbf718ac013ddf56195e43e9984dd38df5d124ad9e75",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/ui-experience-20260922/syntax/daily-study-model-script.js",
+      "bytes": 16934,
+      "sha256": "123f64deb0c4946d5797bb277b26ebf0c06107d967bddc781c494f3db8fbe2ef",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/ui-experience-20260922/syntax/daily-study-script.js",
+      "bytes": 17777,
+      "sha256": "e88b3a0f93871a4ef6266ba85f8ede6eaa7a379417e3ba6d9e93ce1f21c4c7ab",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/ui-experience-20260922/syntax/energy-control-model-script.js",
+      "bytes": 2750,
+      "sha256": "123c46508d7240f35b204860430ebaff1355aeda4ab975ec1ce116624e785a0f",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/ui-experience-20260922/syntax/energy-control-script.js",
+      "bytes": 7017,
+      "sha256": "a547c6b0b3a1983b1fdb09f00a6192d5cc8275891d54c864daf12ad7e12c25db",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/ui-experience-20260922/syntax/health-study-bridge-script.js",
+      "bytes": 3831,
+      "sha256": "d2b4a3fc88ee2e94dde45fc508cfd1232fbcbb887fa235b61bc9203bd6f80654",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/ui-experience-20260922/syntax/health-study-ui-script.js",
+      "bytes": 5551,
+      "sha256": "0aee625d4b0cdafc66929006ea516901839989d4d4253e9bfc2789e8a07bbfc8",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/ui-experience-20260922/syntax/learning-adjust-model-script.js",
+      "bytes": 4545,
+      "sha256": "c2e6e38d41c62bba9bc5ef28b533da3d53daa64416441bba0b949d312db00642",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/ui-experience-20260922/syntax/learning-adjust-script.js",
+      "bytes": 29819,
+      "sha256": "051e6169f66626eb951aa92d6dfe87f7f19cd54554810860f8f45fc86c99523e",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/ui-experience-20260922/syntax/lookup-controller.js",
+      "bytes": 20593,
+      "sha256": "e2b82c178e25994e437bc22616087c85d900b938f379ba6bce36528a2b0d4a5d",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/ui-experience-20260922/syntax/material-reading-script.js",
+      "bytes": 3115,
+      "sha256": "a2aabf42738b789b6a6a3614ccd51bf9c0e518c4b411ceff04430a7f6a7f4670",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/ui-experience-20260922/syntax/prerequisite-interactions-script.js",
+      "bytes": 714,
+      "sha256": "a23d0cdc79d9a8cb4b7674ceaba4df2e7a2e1ac18bc1043de3ea69984fffa7ec",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/ui-experience-20260922/syntax/product-entry-controller.js",
+      "bytes": 3998,
+      "sha256": "3f42433225c5ccc60aa3676f0cfc64d7cf16387ff213fde1afb7724599970e71",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/ui-experience-20260922/syntax/qt-script.js",
+      "bytes": 717,
+      "sha256": "d9e55d2d844ee7024285f49d61826ea3889f0285085f8e0e1be32d9665c93e50",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/ui-experience-20260922/syntax/record-concurrency-model-script.js",
+      "bytes": 4322,
+      "sha256": "bd9857b850477c3aa241a87ef2abb3b5c63e205567df1c2451de7bce66962fdd",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/ui-experience-20260922/syntax/script-1.js",
+      "bytes": 24608,
+      "sha256": "7fd360e88984f3c2243f6ae2f6632cf98f38f890bd2f723953603019228f10ea",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/ui-experience-20260922/syntax/script-18.js",
+      "bytes": 17382,
+      "sha256": "98ebd1d68b16f0237ab4064c0a0aba85ef1161537f7630a98347cee73fdec7c0",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/ui-experience-20260922/syntax/script-2.js",
+      "bytes": 2024,
+      "sha256": "c951833cf7fec47cddc87c6afc4b38e9cdeaac18d7072856d868a17a237567e3",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/ui-experience-20260922/syntax/script-3.js",
+      "bytes": 9959,
+      "sha256": "47187a422f101f8a0ee499d888a94aef0cac0bad1b7c25611df1ef4ae79397d3",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/ui-experience-20260922/syntax/script-4.js",
+      "bytes": 12490,
+      "sha256": "ef529ba43a3a0fb074a45b393a93281b8515738b6a48065078788fa84e37b824",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/ui-experience-20260922/syntax/script-5.js",
+      "bytes": 3869,
+      "sha256": "81c73836f96b0627a6ed6aa4542fdd7100c25e7a39207d78b7b67cd624cf0037",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/ui-experience-20260922/syntax/script-9.js",
+      "bytes": 13257,
+      "sha256": "82029d53fe6922834309a44c53e494b356f0d861c9581059d2ef6e67e71855c3",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/ui-experience-20260922/syntax/selection-tools-script.js",
+      "bytes": 15177,
+      "sha256": "30d3020a04e224eca0cc39a5be84b957b2bcdc61d33de5970aac4769792e24a9",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/ui-experience-20260922/syntax/ux-upgrade-controller.js",
+      "bytes": 7191,
+      "sha256": "cd2ef94f97c2087d1a75f1e71bbb283ad8e647dbe5030bda09a835c9e09045bc",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/ui-experience-20260922/syntax/vocabulary-quick-marks-script.js",
+      "bytes": 3072,
+      "sha256": "7227d76dbfa50ded53c45992a930bd220adb1e181eff1e84af780f45c8053f02",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/ui-experience-20260922/syntax/vocabulary-review-controller.js",
+      "bytes": 18651,
+      "sha256": "2838bdbb57925ef967928f5d5dcbf847623c8b62f3603c6e79ec5d9279f08ded",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/ui-experience-20260922/syntax/word-history-controller.js",
+      "bytes": 4036,
+      "sha256": "56ee9ac0649d660b5a455850d4712881ead29798018a698d450a46f0d4a593b0",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/ui-experience-20260922/syntax/word-learning-controller.js",
+      "bytes": 9013,
+      "sha256": "f6e6ec5189206f2e09d86b77880dc158c52ccc69f3355f70d786fa2a30236bc7",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/ui-experience-20260922/syntax/word-navigation-controller.js",
+      "bytes": 2490,
+      "sha256": "aaa44f98c79fed50cbe12b7691b23a6ed632dd189405e890f085a7b5ca3f3bc0",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/ui-experience-20260922/syntax/writing-entry-controller.js",
+      "bytes": 6301,
+      "sha256": "c92c46589c2609479cb0d76a4be4dbe0ac77323507085f08a501233b9483aa4a",
       "role": "maintenance-history-not-all-current"
     },
     {
@@ -8020,8 +8518,8 @@
     },
     {
       "path": "maintenance/research/github-pages-migration-status.json",
-      "bytes": 3611,
-      "sha256": "790df6e27089574ba5fa66e3f6982a339b973685d84c9bef19235b2f65bd5dd0",
+      "bytes": 4806,
+      "sha256": "f79b2a941b1036c8dec6b18c083db6fc9ad434cfb975483058bad64c9fc90eb7",
       "role": "audit-or-probe-tool"
     },
     {
@@ -8080,8 +8578,8 @@
     },
     {
       "path": "maintenance/research/package_source_snapshot_20260921.py",
-      "bytes": 6077,
-      "sha256": "c691cd2283d2eaa154b351add34fab1880e30255f9782b90afa7756c538266f4",
+      "bytes": 6203,
+      "sha256": "3bd21c74bbb485677d7ca494434455fe218069e7bb0922840ac2b167e7adb04f",
       "role": "audit-or-probe-tool"
     },
     {
@@ -8325,6 +8823,12 @@
       "role": "product-review-and-delivery"
     },
     {
+      "path": "maintenance/research/product-ui-experience-delivery-20260922.md",
+      "bytes": 3419,
+      "sha256": "72753bcb05d709e146831e30223a16f071a732b598ce2b4e30a8b7ae2e4ae03a",
+      "role": "product-review-and-delivery"
+    },
+    {
       "path": "maintenance/research/product-word-workspace-delivery-20260922.md",
       "bytes": 3363,
       "sha256": "2a22492234de60e05ed2a08d4275b765e93e366d85863092e9330ad58137ce9f",
@@ -8346,6 +8850,6 @@
   "exclusions": [
     "credentials, browser profiles, personal learning records",
     "downloaded tool repositories, archives, duplicate media, unrelated projects",
-    "historical full-page candidates and failed probe selector attempts"
+    "large historical full-page candidates; selected failure reports remain as investigation evidence"
   ]
 }

@@ -99,7 +99,7 @@
         const p=unitProgress(u),activity=p.done===p.total&&p.total?'done':p.done?'started':'new';
         return(!topic||u.topic===topic)&&(!type||u.category===type)&&(!part||u.part===part)&&(!difficulty||String(u.difficulty?.level||'')===difficulty)&&(!confidence||u.referenceConfidence===confidence)&&(!status||status===activity)&&(!q||q.split(' ').every(term=>(corpus.get(u.id)||'').includes(term)));
       });
-      root.querySelector('.la-heading h1').textContent=mode==='study'?'学习':'练习';
+      root.querySelector('.la-heading h1').textContent=mode==='study'?'学习库':'专项练习';
       root.querySelector('.la-heading > p:last-child').textContent='';
       $('#la-'+mode+'-progress').hidden=true;
       const search=$('#la-'+mode+'-search');search.placeholder=mode==='study'?'搜索全部内容、题型或话题':'搜索练习题目、题型或话题';
@@ -231,7 +231,7 @@
         else result.append(el('p',id==='writing'?'Task 1 与 Task 2 原稿均已保留。可打开参考标准检查回应题意、组织、词汇与语法。':'三个 Part 的录音文件记录均已保留。下载声音后，可按流利与连贯、词汇、语法、发音回听。'));
         const nextId=Object.keys(data.tests)[Object.keys(data.tests).indexOf(id)+1];if(active&&nextId)result.append(button('继续下一科：'+data.tests[nextId].label,()=>{location.hash='test-'+nextId;renderTests();}));
       }
-      const hist=panel.querySelector('[data-test-history]');hist.replaceChildren(el('summary','以往作答 · '+(t?.history.length||0)+' 次'));for(const h of [...(t?.history||[])].reverse()){const p=el('pre',new Date(h.start).toLocaleString()+' · '+(h.status==='submitted'?'已提交':'保留的草稿')+'\n'+Object.entries(h.answers).map(([q,a])=>q+': '+a).join('\n'));hist.append(p);}
+      const hist=panel.querySelector('[data-test-history]');hist.replaceChildren(el('summary','历次作答 · '+((t?.history.length||0)+(submitted?1:0))+' 次'));if(submitted){const recent=el('div','','ux-current-result');recent.append(el('h3','最近一次 · 本次已提交'),el('p',new Date(t.submittedAt).toLocaleString()),button('查看本次结果',()=>result.scrollIntoView({block:'start'})));hist.append(recent);}else if(!t?.history.length)hist.append(el('p','还没有往期作答。新一轮开始后，之前的提交或草稿会保留在这里。','ux-history-empty'));for(const h of [...(t?.history||[])].reverse()){const p=el('pre',new Date(h.start).toLocaleString()+' · '+(h.status==='submitted'?'已提交':'保留的草稿')+'\n'+Object.entries(h.answers).map(([q,a])=>q+': '+a).join('\n'));hist.append(p);}
     }
     renderClocks();
   }

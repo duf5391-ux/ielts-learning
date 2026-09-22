@@ -1,0 +1,3579 @@
+{
+  "errors": [],
+  "shots": [
+    {
+      "name": "before-1440-test-reading",
+      "hash": "#test-reading",
+      "active": [
+        {
+          "id": "test-reading",
+          "text": "← 全部测试\n阅读整科测试\n\n3 篇文章 · 40 题\n\nCambridge IELTS 21 Academic · Test 1。题目、图表和字数要求均保留原页。\n\n尚未开始\n开始本次测试\n0% · 0 / 40 已作答\n以往作答 · 0 次"
+        }
+      ],
+      "controls": [
+        {
+          "tag": "A",
+          "id": "",
+          "text": "i.\nIELTS\n我的备考工作区",
+          "type": "",
+          "href": "#study"
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "学习库",
+          "type": "button",
+          "href": null,
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "单词",
+          "type": "button",
+          "href": null,
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "专项练习",
+          "type": "button",
+          "href": null,
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "自测",
+          "type": "button",
+          "href": null,
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "写作训练",
+          "type": "button",
+          "href": null,
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "资料与记录",
+          "type": "button",
+          "href": null,
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "lookup-open",
+          "text": "查词",
+          "type": "button",
+          "href": null,
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "← 全部测试",
+          "type": "",
+          "href": "#tests"
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "开始本次测试",
+          "type": "button",
+          "href": null,
+          "value": "",
+          "disabled": false
+        }
+      ],
+      "overflow": false
+    },
+    {
+      "name": "before-1440-test-writing",
+      "hash": "#test-writing",
+      "active": [
+        {
+          "id": "test-writing",
+          "text": "← 全部测试\n写作整科测试\n\nTask 1 + Task 2\n\nCambridge IELTS 21 Academic · Test 1。建议分别用 20 / 40 分钟，至少 150 / 250 词。\n\n尚未开始\n开始本次测试\n0% · 0 / 2 已作答\n以往作答 · 0 次"
+        }
+      ],
+      "controls": [
+        {
+          "tag": "A",
+          "id": "",
+          "text": "i.\nIELTS\n我的备考工作区",
+          "type": "",
+          "href": "#study"
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "学习库",
+          "type": "button",
+          "href": null,
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "单词",
+          "type": "button",
+          "href": null,
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "专项练习",
+          "type": "button",
+          "href": null,
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "自测",
+          "type": "button",
+          "href": null,
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "写作训练",
+          "type": "button",
+          "href": null,
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "资料与记录",
+          "type": "button",
+          "href": null,
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "lookup-open",
+          "text": "查词",
+          "type": "button",
+          "href": null,
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "← 全部测试",
+          "type": "",
+          "href": "#tests"
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "开始本次测试",
+          "type": "button",
+          "href": null,
+          "value": "",
+          "disabled": false
+        }
+      ],
+      "overflow": false
+    },
+    {
+      "name": "before-1440-records",
+      "hash": "#records",
+      "active": [
+        {
+          "id": "records",
+          "text": "← 返回工作台\n\nYOUR LEARNING RECORD\n\n学习记录与备份\n\n首次答案、修订和实际条件分别保留。这里显示本浏览器已有的记录。\n\n我的单词表\n我的句子本\n写作工作台\n新增资源：我的学习与复习\n\n新增资源已学 0 / 44；加入复习 0 项。两项分别记录，不计入原五章首次作答。\n\n已学过\n还未标记已学；打开新资源，学习后按需要记录。\n我加入的复习\n在任意新增单元勾选“加入我的复习”，这里会保留入口。\n\n勾选和笔记随原“学习记录 JSON”一并导出。复习完成后可取消加入；这不代表已掌握。查词记录仍在下方生词复习区。\n\n补充单元记录\n\n这里统计实际保留的首稿；打开材料、看过反馈不等于掌握。\n\n0 / 26 个补充练习首稿已保留。另有 0 个可选背景单元。\n\n已保留首次作答\n0 / 5 章\n标记读过的语境\n0 / 18 段\n收藏的词与用法\n0 条内容\n四科作答\n用时只统计你填写的首次作答分钟\n阅读\n\n找到判断的证据\n\n待开始\n未记录用时\n进入章节\n听力\n\n听清最终要填什么\n\n待开始\n未记录用时\n进入章节\nTask 1\n\n把图表讲清楚\n\n待开始\n未记录用时\n进入章节\nTask 2\n\n让理由站得住\n\n待开始\n未记录用时\n进入章节\n口语\n\n说清物品的意义\n\n待开始\n未记录用时\n进入章节\n\nA SMALL REFLECTION\n\n这一轮，我发现了什么？\n\n记一处具体的问题，和下次想试的改变。\n\n我的学习笔记\n让记录留在自己手里\n导出文字作答\n备份学习记录\n恢复备份\n\n备份包含文字、首次稿和本页记录；录音请在口语页单独下载。恢复备份会替换当前文字记录。"
+        }
+      ],
+      "controls": [
+        {
+          "tag": "A",
+          "id": "",
+          "text": "i.\nIELTS\n我的备考工作区",
+          "type": "",
+          "href": "#study"
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "学习库",
+          "type": "button",
+          "href": null,
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "单词",
+          "type": "button",
+          "href": null,
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "专项练习",
+          "type": "button",
+          "href": null,
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "自测",
+          "type": "button",
+          "href": null,
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "写作训练",
+          "type": "button",
+          "href": null,
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "资料与记录",
+          "type": "button",
+          "href": null,
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "lookup-open",
+          "text": "查词",
+          "type": "button",
+          "href": null,
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "← 返回工作台",
+          "type": "",
+          "href": "#workspace"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "我的单词表",
+          "type": "",
+          "href": "#vocabulary-review"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "我的句子本",
+          "type": "",
+          "href": "#sentence-learning"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "写作工作台",
+          "type": "",
+          "href": "#writing-workbench"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "进入章节",
+          "type": "",
+          "href": "#reading"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "进入章节",
+          "type": "",
+          "href": "#listening"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "进入章节",
+          "type": "",
+          "href": "#writing1"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "进入章节",
+          "type": "",
+          "href": "#writing2"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "进入章节",
+          "type": "",
+          "href": "#speaking"
+        },
+        {
+          "tag": "TEXTAREA",
+          "id": "",
+          "text": "",
+          "type": "textarea",
+          "href": null,
+          "value": "",
+          "disabled": false,
+          "save": "workspace-reflection"
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "导出文字作答",
+          "type": "submit",
+          "href": null,
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "备份学习记录",
+          "type": "submit",
+          "href": null,
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "INPUT",
+          "id": "import-state",
+          "text": "",
+          "type": "file",
+          "href": null,
+          "value": "",
+          "disabled": false
+        }
+      ],
+      "overflow": false
+    },
+    {
+      "name": "before-1440-library",
+      "hash": "#library",
+      "active": [
+        {
+          "id": "library",
+          "text": "← 返回工作台\n\nSOURCE MATERIALS\n\n原始资料\n\n查找原题、图表、音频与配套文件；学习活动从学习或练习进入。\n\n学习材料\n考试要求\n原始文件\n01 / READ\n背景读本\n\n话题、常见词与用法\n\n02 / PRACTISE\n打印学习册\n\n原题、作答页与练习\n\n03 / REVIEW\n参考与反馈\n\n完成首次作答后再看\n\n考试要求与反馈标准\n配套文件\n58 份文件\n新增\n9月21日新内容 · 九分机经\n\n语言起源阅读14题＋3道Task 2 · 每项标注难度\n\n机经\n近期机经 · 已清洗内容\n\n听力Part 1与独立阅读题组 · 含参考答案和材料精读\n\nPDF\nanswer-key-01.pdf\n\n原题与参考 · 已存本地\n\nPDF\nielts-modified-academic-1-source-pages.pdf\n\n原题与参考 · 已存本地\n\nPDF\nielts-modified-academic-1.pdf\n\n原题与参考 · 已存本地\n\nPDF\nC21-T1-Task1-question.pdf\n\n原题与参考 · 已存本地\n\nPDF\nC21-T1-Task1-response-and-comment.pdf\n\n原题与参考 · 已存本地\n\nPDF\nC21-T2-Task1-question.pdf\n\n原题与参考 · 已存本地\n\nPDF\nC21-T2-Task1-response-and-comment.pdf\n\n原题与参考 · 已存本地\n\nPDF\nC21-T2-Task2-question.pdf\n\n原题与参考 · 已存本地\n\nPDF\nC21-T2-Task2-response-and-comment.pdf\n\n原题与参考 · 已存本地\n\nTXT\nlistening-115005.txt\n\n音频文字与答案 · 已存本地\n\nTXT\nlistening-115005.txt\n\n音频文字与答案 · 已存本地\n\nMP3\nrecording-1.mp3\n\n原题与参考 · 已存本地\n\nPNG\nlistening-115010.png\n\n原题与参考 · 已存本地\n\nMP3\nrecording-4.mp3\n\n原题与参考 · 已存本地\n\nTXT\nlistening-115010.txt\n\n音频文字与答案 · 已存本地\n\nTXT\nlistening-115010.txt\n\n音频文字与答案 · 已存本地\n\nMP3\ncambridge-zip-115049_IELTS_Speaking_Sample_Part_2_Recording.mp3\n\n原题与参考 · 已存本地\n\nPDF\ncambridge-zip-115051_Speaking_sample_task_-_Part_2_transcript.pdf\n\n原题与参考 · 已存本地\n\nPDF\nielts-speaking-key-assessment-criteria.pdf\n\n评分与规则 · 已存本地\n\nPDF\nielts-writing-band-descriptors.pdf\n\n评分与规则 · 已存本地\n\nPDF\nielts-writing-key-assessment-criteria.pdf\n\n评分与规则 · 已存本地\n\nPDF\nielts-speaking-band-descriptors.pdf\n\n评分与规则 · 已存本地\n\nTXT\ninspera-response-3.txt\n\n音频文字与答案 · 已存本地\n\nPDF\nhwatai-cambridge7-sample-source-pages.pdf\n\n原题与参考 · 已存本地\n\nPDF\nofficial-sample-idp-29-source-pages.pdf\n\n原题与参考 · 已存本地\n\nPDF\ncambridge-classroom-reading-3.pdf\n\n原题与参考 · 已存本地\n\nPDF\ncambridge-research-notes68.pdf\n\n原题与参考 · 已存本地\n\nPDF\nhwatai-cambridge7-sample.pdf\n\n原题与参考 · 已存本地\n\nPDF\nhwatai-cambridge8-sample.pdf\n\n原题与参考 · 已存本地\n\nPDF\nidp-29.pdf\n\n原题与参考 · 已存本地\n\nPDF\nidp-31.pdf\n\n原题与参考 · 已存本地\n\nPDF\nhwatai-cambridge5-sample.pdf\n\n原题与参考 · 已存本地\n\nPDF\nhwatai-cambridge10-sample.pdf\n\n原题与参考 · 已存本地\n\nPDF\nhwatai-cambridge6-sample.pdf\n\n原题与参考 · 已存本地\n\nPDF\n91349570-speaking_part_1_developing_fluency_and_coherence_.pdf\n\n原题与参考 · 已存本地\n\nPDF\n52ed5765-LearnEnglish-Listening-B1-Meeting-an-old-friend.pdf\n\n原题与参考 · 已存本地\n\nPDF\n99acb260-LearnEnglish-Listening-B2-Office-party-planning.pdf\n\n原题与参考 · 已存本地\n\nPDF\n17836703-speaking_part_3_overview_and_practice_.pdf\n\n原题与参考 · 已存本地\n\nPDF\n2b576094-LearnEnglish-Speaking-B2-Discussing-advantages-and-disadvantages.pdf\n\n原题与参考 · 已存本地\n\nPDF\nmiles-student.pdf\n\n原题与参考 · 已存本地\n\nPDF\nmiles-teacher-feedback.pdf\n\n原题与参考 · 已存本地\n\nPDF\nolder-workers-student.pdf\n\n原题与参考 · 已存本地\n\nPDF\nolder-workers-answer-key.pdf\n\n原题与参考 · 已存本地\n\nPDF\ncambridge-zip-115008_Listening_sample_task_-_Multiple_choice.pdf\n\n原题与参考 · 已存本地\n\nTXT\nlistening-115008.txt\n\n音频文字与答案 · 已存本地\n\nTXT\nlistening-115008.txt\n\n音频文字与答案 · 已存本地\n\nMP3\nrecording-2.mp3\n\n原题与参考 · 已存本地\n\nPDF\nbec3ddb1-LearnEnglish-Listening-B1-A-phone-call-from-a-customer.pdf\n\n原题与参考 · 已存本地\n\nMP3\n416268a0-LE_listening_B1_A_phone_call_from_a_customer.mp3\n\n原题与参考 · 已存本地\n\nPDF\nofficial-task1a-comparison.pdf\n\n原题与参考 · 已存本地\n\nPDF\n0bf3495a-academic_writing_task_1_writing_the_overview.pdf\n\n原题与参考 · 已存本地\n\nPDF\nofficial-task1c-bricks.pdf\n\n原题与参考 · 已存本地\n\nPDF\nbf171ce7-academic_writing_task_1_grammatical_structures_for_describing_diagrams.pdf\n\n原题与参考 · 已存本地\n\nPDF\nofficial-task2a-opinion.pdf\n\n原题与参考 · 已存本地\n\nPDF\n5bfdf909-writing_task_2_developing_paragraphs.pdf\n\n原题与参考 · 已存本地\n\nPDF\nofficial-task2b-outweigh.pdf\n\n原题与参考 · 已存本地\n\nPDF\nCambridge IELTS 21 - Academic.pdf\n\n原题与参考 · 已存本地\n\nPDF\nielts-academic-reading-access-arrangement-modified-large-print-text-booklet.pdf\n\n原题与参考 · 已存本地\n\n想按题目或技巧学习？打开学习资源索引 →"
+        }
+      ],
+      "controls": [
+        {
+          "tag": "A",
+          "id": "",
+          "text": "i.\nIELTS\n我的备考工作区",
+          "type": "",
+          "href": "#study"
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "学习库",
+          "type": "button",
+          "href": null,
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "单词",
+          "type": "button",
+          "href": null,
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "专项练习",
+          "type": "button",
+          "href": null,
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "自测",
+          "type": "button",
+          "href": null,
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "写作训练",
+          "type": "button",
+          "href": null,
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "资料与记录",
+          "type": "button",
+          "href": null,
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "lookup-open",
+          "text": "查词",
+          "type": "button",
+          "href": null,
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "← 返回工作台",
+          "type": "",
+          "href": "#workspace"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "学习材料",
+          "type": "",
+          "href": "#library-materials"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "考试要求",
+          "type": "",
+          "href": "#library-rules"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "原始文件",
+          "type": "",
+          "href": "#library-files"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "01 / READ\n背景读本\n\n话题、常见词与用法",
+          "type": "",
+          "href": "背景读本-话题与常用表达.pdf"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "02 / PRACTISE\n打印学习册\n\n原题、作答页与练习",
+          "type": "",
+          "href": "学习册-打印版.pdf"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "03 / REVIEW\n参考与反馈\n\n完成首次作答后再看",
+          "type": "",
+          "href": "参考册-完成后再看.pdf"
+        },
+        {
+          "tag": "INPUT",
+          "id": "library-search",
+          "text": "",
+          "type": "search",
+          "href": null,
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "新增\n9月21日新内容 · 九分机经\n\n语言起源阅读14题＋3道Task 2 · 每项标注难度",
+          "type": "",
+          "href": "机经资料/jiufen-reviewed-20260921/index.html"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "机经\n近期机经 · 已清洗内容\n\n听力Part 1与独立阅读题组 · 含参考答案和材料精读",
+          "type": "",
+          "href": "机经资料/jijing-20260920/index.html"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "PDF\nanswer-key-01.pdf\n\n原题与参考 · 已存本地",
+          "type": "",
+          "href": "原始参考/7aa23867-answer-key-01.pdf"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "PDF\nielts-modified-academic-1-source-pages.pdf\n\n原题与参考 · 已存本地",
+          "type": "",
+          "href": "原始参考/b929185f-ielts-modified-academic-1-source-pages.pdf"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "PDF\nielts-modified-academic-1.pdf\n\n原题与参考 · 已存本地",
+          "type": "",
+          "href": "原始参考/77d2edb5-ielts-modified-academic-1.pdf"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "PDF\nC21-T1-Task1-question.pdf\n\n原题与参考 · 已存本地",
+          "type": "",
+          "href": "原始参考/a4eb2b3b-C21-T1-Task1-question.pdf"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "PDF\nC21-T1-Task1-response-and-comment.pdf\n\n原题与参考 · 已存本地",
+          "type": "",
+          "href": "原始参考/3cd100d3-C21-T1-Task1-response-and-comment.pdf"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "PDF\nC21-T2-Task1-question.pdf\n\n原题与参考 · 已存本地",
+          "type": "",
+          "href": "原始参考/8860177f-C21-T2-Task1-question.pdf"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "PDF\nC21-T2-Task1-response-and-comment.pdf\n\n原题与参考 · 已存本地",
+          "type": "",
+          "href": "原始参考/45fe3e97-C21-T2-Task1-response-and-comment.pdf"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "PDF\nC21-T2-Task2-question.pdf\n\n原题与参考 · 已存本地",
+          "type": "",
+          "href": "原始参考/c91877df-C21-T2-Task2-question.pdf"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "PDF\nC21-T2-Task2-response-and-comment.pdf\n\n原题与参考 · 已存本地",
+          "type": "",
+          "href": "原始参考/93022ace-C21-T2-Task2-response-and-comment.pdf"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "TXT\nlistening-115005.txt\n\n音频文字与答案 · 已存本地",
+          "type": "",
+          "href": "原始参考/86b51fb5-listening-115005.txt"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "TXT\nlistening-115005.txt\n\n音频文字与答案 · 已存本地",
+          "type": "",
+          "href": "原始参考/3d19fa7a-listening-115005.txt"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "MP3\nrecording-1.mp3\n\n原题与参考 · 已存本地",
+          "type": "",
+          "href": "原始参考/d88d54dd-recording-1.mp3"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "PNG\nlistening-115010.png\n\n原题与参考 · 已存本地",
+          "type": "",
+          "href": "原始参考/608874aa-listening-115010.png"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "MP3\nrecording-4.mp3\n\n原题与参考 · 已存本地",
+          "type": "",
+          "href": "原始参考/bb61bf2b-recording-4.mp3"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "TXT\nlistening-115010.txt\n\n音频文字与答案 · 已存本地",
+          "type": "",
+          "href": "原始参考/a30888bb-listening-115010.txt"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "TXT\nlistening-115010.txt\n\n音频文字与答案 · 已存本地",
+          "type": "",
+          "href": "原始参考/5a330b83-listening-115010.txt"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "MP3\ncambridge-zip-115049_IELTS_Speaking_Sample_Part_2_Recording.mp3\n\n原题与参考 · 已存本地",
+          "type": "",
+          "href": "原始参考/7b07467c-cambridge-zip-115049_IELTS_Speaking_Sample_Part_2_Recording.mp3"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "PDF\ncambridge-zip-115051_Speaking_sample_task_-_Part_2_transcript.pdf\n\n原题与参考 · 已存本地",
+          "type": "",
+          "href": "原始参考/6c68dcc0-cambridge-zip-115051_Speaking_sample_task_-_Part_2_transcript.pdf"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "PDF\nielts-speaking-key-assessment-criteria.pdf\n\n评分与规则 · 已存本地",
+          "type": "",
+          "href": "原始参考/d2810144-ielts-speaking-key-assessment-criteria.pdf"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "PDF\nielts-writing-band-descriptors.pdf\n\n评分与规则 · 已存本地",
+          "type": "",
+          "href": "原始参考/d8a488dc-ielts-writing-band-descriptors.pdf"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "PDF\nielts-writing-key-assessment-criteria.pdf\n\n评分与规则 · 已存本地",
+          "type": "",
+          "href": "原始参考/32f690b4-ielts-writing-key-assessment-criteria.pdf"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "PDF\nielts-speaking-band-descriptors.pdf\n\n评分与规则 · 已存本地",
+          "type": "",
+          "href": "原始参考/914c8d84-ielts-speaking-band-descriptors.pdf"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "TXT\ninspera-response-3.txt\n\n音频文字与答案 · 已存本地",
+          "type": "",
+          "href": "原始参考/ec598fcf-inspera-response-3.txt"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "PDF\nhwatai-cambridge7-sample-source-pages.pdf\n\n原题与参考 · 已存本地",
+          "type": "",
+          "href": "原始参考/f8184cf8-hwatai-cambridge7-sample-source-pages.pdf"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "PDF\nofficial-sample-idp-29-source-pages.pdf\n\n原题与参考 · 已存本地",
+          "type": "",
+          "href": "原始参考/7a2e8056-official-sample-idp-29-source-pages.pdf"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "PDF\ncambridge-classroom-reading-3.pdf\n\n原题与参考 · 已存本地",
+          "type": "",
+          "href": "原始参考/dfacdd41-cambridge-classroom-reading-3.pdf"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "PDF\ncambridge-research-notes68.pdf\n\n原题与参考 · 已存本地",
+          "type": "",
+          "href": "原始参考/04f17772-cambridge-research-notes68.pdf"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "PDF\nhwatai-cambridge7-sample.pdf\n\n原题与参考 · 已存本地",
+          "type": "",
+          "href": "原始参考/237b7194-hwatai-cambridge7-sample.pdf"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "PDF\nhwatai-cambridge8-sample.pdf\n\n原题与参考 · 已存本地",
+          "type": "",
+          "href": "原始参考/d04994b0-hwatai-cambridge8-sample.pdf"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "PDF\nidp-29.pdf\n\n原题与参考 · 已存本地",
+          "type": "",
+          "href": "原始参考/5856a161-idp-29.pdf"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "PDF\nidp-31.pdf\n\n原题与参考 · 已存本地",
+          "type": "",
+          "href": "原始参考/326008c2-idp-31.pdf"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "PDF\nhwatai-cambridge5-sample.pdf\n\n原题与参考 · 已存本地",
+          "type": "",
+          "href": "原始参考/e0428977-hwatai-cambridge5-sample.pdf"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "PDF\nhwatai-cambridge10-sample.pdf\n\n原题与参考 · 已存本地",
+          "type": "",
+          "href": "原始参考/99437c83-hwatai-cambridge10-sample.pdf"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "PDF\nhwatai-cambridge6-sample.pdf\n\n原题与参考 · 已存本地",
+          "type": "",
+          "href": "原始参考/ad0a33c0-hwatai-cambridge6-sample.pdf"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "PDF\n91349570-speaking_part_1_developing_fluency_and_coherence_.pdf\n\n原题与参考 · 已存本地",
+          "type": "",
+          "href": "原始参考/5441af04-91349570-speaking_part_1_developing_fluency_and_coherence_.pdf"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "PDF\n52ed5765-LearnEnglish-Listening-B1-Meeting-an-old-friend.pdf\n\n原题与参考 · 已存本地",
+          "type": "",
+          "href": "原始参考/62ae7f61-52ed5765-LearnEnglish-Listening-B1-Meeting-an-old-friend.pdf"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "PDF\n99acb260-LearnEnglish-Listening-B2-Office-party-planning.pdf\n\n原题与参考 · 已存本地",
+          "type": "",
+          "href": "原始参考/ef4571d3-99acb260-LearnEnglish-Listening-B2-Office-party-planning.pdf"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "PDF\n17836703-speaking_part_3_overview_and_practice_.pdf\n\n原题与参考 · 已存本地",
+          "type": "",
+          "href": "原始参考/2106ed93-17836703-speaking_part_3_overview_and_practice_.pdf"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "PDF\n2b576094-LearnEnglish-Speaking-B2-Discussing-advantages-and-disadvantages.pdf\n\n原题与参考 · 已存本地",
+          "type": "",
+          "href": "原始参考/0112c71b-2b576094-LearnEnglish-Speaking-B2-Discussing-advantages-and-disadvantages.pdf"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "PDF\nmiles-student.pdf\n\n原题与参考 · 已存本地",
+          "type": "",
+          "href": "原始参考/b09e5747-miles-student.pdf"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "PDF\nmiles-teacher-feedback.pdf\n\n原题与参考 · 已存本地",
+          "type": "",
+          "href": "原始参考/e885c438-miles-teacher-feedback.pdf"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "PDF\nolder-workers-student.pdf\n\n原题与参考 · 已存本地",
+          "type": "",
+          "href": "原始参考/2539b427-older-workers-student.pdf"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "PDF\nolder-workers-answer-key.pdf\n\n原题与参考 · 已存本地",
+          "type": "",
+          "href": "原始参考/beeea772-older-workers-answer-key.pdf"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "PDF\ncambridge-zip-115008_Listening_sample_task_-_Multiple_choice.pdf\n\n原题与参考 · 已存本地",
+          "type": "",
+          "href": "原始参考/7918ea4d-cambridge-zip-115008_Listening_sample_task_-_Multiple_choice.pdf"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "TXT\nlistening-115008.txt\n\n音频文字与答案 · 已存本地",
+          "type": "",
+          "href": "原始参考/153e493c-listening-115008.txt"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "TXT\nlistening-115008.txt\n\n音频文字与答案 · 已存本地",
+          "type": "",
+          "href": "原始参考/825804b6-listening-115008.txt"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "MP3\nrecording-2.mp3\n\n原题与参考 · 已存本地",
+          "type": "",
+          "href": "原始参考/c31e6351-recording-2.mp3"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "PDF\nbec3ddb1-LearnEnglish-Listening-B1-A-phone-call-from-a-customer.pdf\n\n原题与参考 · 已存本地",
+          "type": "",
+          "href": "原始参考/2c976e31-bec3ddb1-LearnEnglish-Listening-B1-A-phone-call-from-a-customer.pdf"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "MP3\n416268a0-LE_listening_B1_A_phone_call_from_a_customer.mp3\n\n原题与参考 · 已存本地",
+          "type": "",
+          "href": "原始参考/7e143401-416268a0-LE_listening_B1_A_phone_call_from_a_customer.mp3"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "PDF\nofficial-task1a-comparison.pdf\n\n原题与参考 · 已存本地",
+          "type": "",
+          "href": "原始参考/2d327ea9-official-task1a-comparison.pdf"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "PDF\n0bf3495a-academic_writing_task_1_writing_the_overview.pdf\n\n原题与参考 · 已存本地",
+          "type": "",
+          "href": "原始参考/a4540c18-0bf3495a-academic_writing_task_1_writing_the_overview.pdf"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "PDF\nofficial-task1c-bricks.pdf\n\n原题与参考 · 已存本地",
+          "type": "",
+          "href": "原始参考/d46f0518-official-task1c-bricks.pdf"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "PDF\nbf171ce7-academic_writing_task_1_grammatical_structures_for_describing_diagrams.pdf\n\n原题与参考 · 已存本地",
+          "type": "",
+          "href": "原始参考/967b0405-bf171ce7-academic_writing_task_1_grammatical_structures_for_describing_diagrams.pdf"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "PDF\nofficial-task2a-opinion.pdf\n\n原题与参考 · 已存本地",
+          "type": "",
+          "href": "原始参考/bc92ca24-official-task2a-opinion.pdf"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "PDF\n5bfdf909-writing_task_2_developing_paragraphs.pdf\n\n原题与参考 · 已存本地",
+          "type": "",
+          "href": "原始参考/9464a2d7-5bfdf909-writing_task_2_developing_paragraphs.pdf"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "PDF\nofficial-task2b-outweigh.pdf\n\n原题与参考 · 已存本地",
+          "type": "",
+          "href": "原始参考/82c03e0f-official-task2b-outweigh.pdf"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "PDF\nCambridge IELTS 21 - Academic.pdf\n\n原题与参考 · 已存本地",
+          "type": "",
+          "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "PDF\nielts-academic-reading-access-arrangement-modified-large-print-text-booklet.pdf\n\n原题与参考 · 已存本地",
+          "type": "",
+          "href": "原始参考/188a4619-ielts-academic-reading-access-arrangement-modified-large-print-text-booklet.pdf"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "打开学习资源索引 →",
+          "type": "",
+          "href": "#resource-update"
+        }
+      ],
+      "overflow": false
+    },
+    {
+      "name": "before-1440-writing-task",
+      "hash": "#ww-jobs",
+      "active": [
+        {
+          "id": "writing-workbench",
+          "text": "写作训练\n\n四行业就业 · 尚未开始\n\n题面、首稿与修订在同一处。写过的内容会自动保留。\n\nTask 1 · 折线图\n四行业就业\n\n同题各处作答分别保存；工作台首稿与修订可从任一入口继续。\n\n回到原题入口\n查看题面与图表 · 来源\n提纲\n首稿\n检查与修订\n可选 · 再写\n题面\n换题\n首稿 · 美国四行业就业：峰值、交叉与最终排名\n以前写过这题 / 看过答案\n本次参考过提示、词典或范例\n20:00\n开始 20 分钟\n重置计时\n到时保留输入，刷新后继续计时。\n首稿 · 保留后锁定，在「检查与修订」中修改\n0 词（估算） · 距建议最低字数还差 150 词\n保留首稿，开始修订\n\n所有输入随本册「备份学习记录」保存；本题导出包含首稿、修订、检查证据与反馈请求。这里提供自检与修订工具，不自动评分。\n\n考试要求与本区用法"
+        }
+      ],
+      "controls": [
+        {
+          "tag": "A",
+          "id": "",
+          "text": "i.\nIELTS\n我的备考工作区",
+          "type": "",
+          "href": "#study"
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "学习库",
+          "type": "button",
+          "href": null,
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "单词",
+          "type": "button",
+          "href": null,
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "专项练习",
+          "type": "button",
+          "href": null,
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "自测",
+          "type": "button",
+          "href": null,
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "写作训练",
+          "type": "button",
+          "href": null,
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "资料与记录",
+          "type": "button",
+          "href": null,
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "lookup-open",
+          "text": "查词",
+          "type": "button",
+          "href": null,
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "回到原题入口",
+          "type": "",
+          "href": "#writing1-case-wc-c21-t1-jobs"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "提纲",
+          "type": "",
+          "href": "#ww-jobs-plan"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "首稿",
+          "type": "",
+          "href": "#ww-jobs-draft"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "检查与修订",
+          "type": "",
+          "href": "#ww-jobs-review"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "可选 · 再写",
+          "type": "",
+          "href": "#ww-jobs-next"
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "题面",
+          "type": "button",
+          "href": null,
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "换题",
+          "type": "button",
+          "href": null,
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "INPUT",
+          "id": "",
+          "text": "",
+          "type": "checkbox",
+          "href": null,
+          "value": "on",
+          "disabled": false,
+          "save": "ww-jobs-seen-before"
+        },
+        {
+          "tag": "INPUT",
+          "id": "",
+          "text": "",
+          "type": "checkbox",
+          "href": null,
+          "value": "on",
+          "disabled": false,
+          "save": "ww-jobs-used-help"
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "开始 20 分钟",
+          "type": "button",
+          "href": null,
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "重置计时",
+          "type": "button",
+          "href": null,
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "TEXTAREA",
+          "id": "",
+          "text": "",
+          "type": "textarea",
+          "href": null,
+          "value": "",
+          "disabled": false,
+          "save": "ww-jobs-first"
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "保留首稿，开始修订",
+          "type": "button",
+          "href": null,
+          "value": "",
+          "disabled": false
+        }
+      ],
+      "overflow": false
+    },
+    {
+      "name": "before-1440-lookup",
+      "hash": "#tests",
+      "active": [
+        {
+          "id": "tests",
+          "text": "自测\n\n完整套题与单科测试单独作答；学习和练习记录不计入测试进度。\n\n听力\n\n4 Parts · 40 题 · 完整原音\n\n官方机考体验题 · 40题。选择题可填字母，提交后核对参考答案。\n\n选择听力测试 →\n阅读\n\n3 篇文章 · 40 题\n\nCambridge IELTS 21 Academic · Test 1。题目、图表和字数要求均保留原页。\n\n选择阅读测试 →\n写作\n\nTask 1 + Task 2\n\nCambridge IELTS 21 Academic · Test 1。建议分别用 20 / 40 分钟，至少 150 / 250 词。\n\n选择写作测试 →\n口语\n\nPart 1 + Part 2 + Part 3\n\nCambridge 官方公开样题组合。Part 2 准备 1 分钟、说 1–2 分钟；本地自练按 11–14 分钟安排。\n\n选择口语测试 →\n四科组合测试\n\n依次完成听力、阅读、写作和口语。使用公开样题与 Cambridge 21 材料组合，各科分别保存；口语可另行完成。\n\n0% · 0 / 4 科已提交\n开始四科组合测试"
+        }
+      ],
+      "controls": [
+        {
+          "tag": "A",
+          "id": "",
+          "text": "i.\nIELTS\n我的备考工作区",
+          "type": "",
+          "href": "#study"
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "学习库",
+          "type": "button",
+          "href": null,
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "单词",
+          "type": "button",
+          "href": null,
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "专项练习",
+          "type": "button",
+          "href": null,
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "自测",
+          "type": "button",
+          "href": null,
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "写作训练",
+          "type": "button",
+          "href": null,
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "资料与记录",
+          "type": "button",
+          "href": null,
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "lookup-open",
+          "text": "查词",
+          "type": "button",
+          "href": null,
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "选择听力测试 →",
+          "type": "",
+          "href": "#test-listening"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "选择阅读测试 →",
+          "type": "",
+          "href": "#test-reading"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "选择写作测试 →",
+          "type": "",
+          "href": "#test-writing"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "选择口语测试 →",
+          "type": "",
+          "href": "#test-speaking"
+        },
+        {
+          "tag": "BUTTON",
+          "id": "la-start-mock",
+          "text": "开始四科组合测试",
+          "type": "button",
+          "href": null,
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "lookup-close",
+          "text": "×",
+          "type": "button",
+          "href": null,
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "INPUT",
+          "id": "lookup-input",
+          "text": "",
+          "type": "text",
+          "href": null,
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "查询",
+          "type": "submit",
+          "href": null,
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "打开查词与复习记录 →",
+          "type": "",
+          "href": "#records"
+        }
+      ],
+      "overflow": false
+    },
+    {
+      "name": "before-1440-sentence-popup",
+      "hash": "#sentence-learning",
+      "active": [
+        {
+          "id": "sentence-learning",
+          "text": "背单词\n复习\n句子\n查词与历史\n句子\n翻译一句话\n搜索句子\n\n0 个收藏句子 · 与学习记录一起备份\n\n选中一句有用的表达，翻译后收藏到这里。\n\n如何收藏句子"
+        }
+      ],
+      "controls": [
+        {
+          "tag": "A",
+          "id": "",
+          "text": "i.\nIELTS\n我的备考工作区",
+          "type": "",
+          "href": "#study"
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "学习库",
+          "type": "button",
+          "href": null,
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "单词",
+          "type": "button",
+          "href": null,
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "专项练习",
+          "type": "button",
+          "href": null,
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "自测",
+          "type": "button",
+          "href": null,
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "写作训练",
+          "type": "button",
+          "href": null,
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "资料与记录",
+          "type": "button",
+          "href": null,
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "lookup-open",
+          "text": "查词",
+          "type": "button",
+          "href": null,
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "背单词",
+          "type": "",
+          "href": "#vocabulary-review"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "复习",
+          "type": "",
+          "href": "#word-review"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "句子",
+          "type": "",
+          "href": "#sentence-learning"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "查词与历史",
+          "type": "",
+          "href": "#lookup-learning"
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "翻译一句话",
+          "type": "button",
+          "href": null,
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "INPUT",
+          "id": "sentence-search",
+          "text": "",
+          "type": "search",
+          "href": null,
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "sentence-close",
+          "text": "×",
+          "type": "button",
+          "href": null,
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "TEXTAREA",
+          "id": "sentence-source",
+          "text": "",
+          "type": "textarea",
+          "href": null,
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "SELECT",
+          "id": "sentence-direction",
+          "text": "英文 → 中文\n中文 → 英文",
+          "type": "select-one",
+          "href": null,
+          "value": "en|zh-CN",
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "sentence-translate",
+          "text": "联网翻译",
+          "type": "button",
+          "href": null,
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "TEXTAREA",
+          "id": "sentence-result",
+          "text": "",
+          "type": "textarea",
+          "href": null,
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "sentence-save",
+          "text": "☆ 收藏句子",
+          "type": "button",
+          "href": null,
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "A",
+          "id": "sentence-notebook-link",
+          "text": "打开句子本 →",
+          "type": "",
+          "href": "#sentence-learning"
+        },
+        {
+          "tag": "A",
+          "id": "sentence-bing",
+          "text": "在必应翻译中打开 ↗",
+          "type": "",
+          "href": "https://www.bing.com/translator?from=en&to=zh-CN&text="
+        }
+      ],
+      "overflow": false
+    },
+    {
+      "name": "before-390-test-reading",
+      "hash": "#test-reading",
+      "active": [
+        {
+          "id": "test-reading",
+          "text": "← 全部测试\n阅读整科测试\n\n3 篇文章 · 40 题\n\nCambridge IELTS 21 Academic · Test 1。题目、图表和字数要求均保留原页。\n\n尚未开始\n开始本次测试\n0% · 0 / 40 已作答\n以往作答 · 0 次"
+        }
+      ],
+      "controls": [
+        {
+          "tag": "A",
+          "id": "",
+          "text": "i.\nIELTS\n我的备考工作区",
+          "type": "",
+          "href": "#study"
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "自测",
+          "type": "button",
+          "href": null,
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "资料与记录",
+          "type": "button",
+          "href": null,
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "mobile-menu",
+          "text": "☰",
+          "type": "submit",
+          "href": null,
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "lookup-open",
+          "text": "查词",
+          "type": "button",
+          "href": null,
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "← 全部测试",
+          "type": "",
+          "href": "#tests"
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "开始本次测试",
+          "type": "button",
+          "href": null,
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "学习",
+          "type": "",
+          "href": "#study"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "单词",
+          "type": "",
+          "href": "#vocabulary-review"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "练习",
+          "type": "",
+          "href": "#practice"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "写作",
+          "type": "",
+          "href": "#writing-workbench"
+        },
+        {
+          "tag": "BUTTON",
+          "id": "product-more",
+          "text": "更多",
+          "type": "button",
+          "href": null,
+          "value": "",
+          "disabled": false
+        }
+      ],
+      "overflow": false
+    },
+    {
+      "name": "before-390-test-writing",
+      "hash": "#test-writing",
+      "active": [
+        {
+          "id": "test-writing",
+          "text": "← 全部测试\n写作整科测试\n\nTask 1 + Task 2\n\nCambridge IELTS 21 Academic · Test 1。建议分别用 20 / 40 分钟，至少 150 / 250 词。\n\n尚未开始\n开始本次测试\n0% · 0 / 2 已作答\n以往作答 · 0 次"
+        }
+      ],
+      "controls": [
+        {
+          "tag": "A",
+          "id": "",
+          "text": "i.\nIELTS\n我的备考工作区",
+          "type": "",
+          "href": "#study"
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "自测",
+          "type": "button",
+          "href": null,
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "资料与记录",
+          "type": "button",
+          "href": null,
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "mobile-menu",
+          "text": "☰",
+          "type": "submit",
+          "href": null,
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "lookup-open",
+          "text": "查词",
+          "type": "button",
+          "href": null,
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "← 全部测试",
+          "type": "",
+          "href": "#tests"
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "开始本次测试",
+          "type": "button",
+          "href": null,
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "学习",
+          "type": "",
+          "href": "#study"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "单词",
+          "type": "",
+          "href": "#vocabulary-review"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "练习",
+          "type": "",
+          "href": "#practice"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "写作",
+          "type": "",
+          "href": "#writing-workbench"
+        },
+        {
+          "tag": "BUTTON",
+          "id": "product-more",
+          "text": "更多",
+          "type": "button",
+          "href": null,
+          "value": "",
+          "disabled": false
+        }
+      ],
+      "overflow": false
+    },
+    {
+      "name": "before-390-records",
+      "hash": "#records",
+      "active": [
+        {
+          "id": "records",
+          "text": "← 返回工作台\n\nYOUR LEARNING RECORD\n\n学习记录与备份\n\n首次答案、修订和实际条件分别保留。这里显示本浏览器已有的记录。\n\n我的单词表\n我的句子本\n写作工作台\n新增资源：我的学习与复习\n\n新增资源已学 0 / 44；加入复习 0 项。两项分别记录，不计入原五章首次作答。\n\n已学过\n还未标记已学；打开新资源，学习后按需要记录。\n我加入的复习\n在任意新增单元勾选“加入我的复习”，这里会保留入口。\n\n勾选和笔记随原“学习记录 JSON”一并导出。复习完成后可取消加入；这不代表已掌握。查词记录仍在下方生词复习区。\n\n补充单元记录\n\n这里统计实际保留的首稿；打开材料、看过反馈不等于掌握。\n\n0 / 26 个补充练习首稿已保留。另有 0 个可选背景单元。\n\n已保留首次作答\n0\n/ 5 章\n标记读过的语境\n0\n/ 18 段\n收藏的词与用法\n0\n条内容\n四科作答\n用时只统计你填写的首次作答分钟\n阅读\n\n找到判断的证据\n\n待开始\n未记录用时\n进入章节\n听力\n\n听清最终要填什么\n\n待开始\n未记录用时\n进入章节\nTask 1\n\n把图表讲清楚\n\n待开始\n未记录用时\n进入章节\nTask 2\n\n让理由站得住\n\n待开始\n未记录用时\n进入章节\n口语\n\n说清物品的意义\n\n待开始\n未记录用时\n进入章节\n\nA SMALL REFLECTION\n\n这一轮，我发现了什么？\n\n记一处具体的问题，和下次想试的改变。\n\n我的学习笔记\n让记录留在自己手里\n导出文字作答\n备份学习记录\n恢复备份\n\n备份包含文字、首次稿和本页记录；录音请在口语页单独下载。恢复备份会替换当前文字记录。"
+        }
+      ],
+      "controls": [
+        {
+          "tag": "A",
+          "id": "",
+          "text": "i.\nIELTS\n我的备考工作区",
+          "type": "",
+          "href": "#study"
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "自测",
+          "type": "button",
+          "href": null,
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "资料与记录",
+          "type": "button",
+          "href": null,
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "mobile-menu",
+          "text": "☰",
+          "type": "submit",
+          "href": null,
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "lookup-open",
+          "text": "查词",
+          "type": "button",
+          "href": null,
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "← 返回工作台",
+          "type": "",
+          "href": "#workspace"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "我的单词表",
+          "type": "",
+          "href": "#vocabulary-review"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "我的句子本",
+          "type": "",
+          "href": "#sentence-learning"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "写作工作台",
+          "type": "",
+          "href": "#writing-workbench"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "进入章节",
+          "type": "",
+          "href": "#reading"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "进入章节",
+          "type": "",
+          "href": "#listening"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "进入章节",
+          "type": "",
+          "href": "#writing1"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "进入章节",
+          "type": "",
+          "href": "#writing2"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "进入章节",
+          "type": "",
+          "href": "#speaking"
+        },
+        {
+          "tag": "TEXTAREA",
+          "id": "",
+          "text": "",
+          "type": "textarea",
+          "href": null,
+          "value": "",
+          "disabled": false,
+          "save": "workspace-reflection"
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "导出文字作答",
+          "type": "submit",
+          "href": null,
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "备份学习记录",
+          "type": "submit",
+          "href": null,
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "INPUT",
+          "id": "import-state",
+          "text": "",
+          "type": "file",
+          "href": null,
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "学习",
+          "type": "",
+          "href": "#study"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "单词",
+          "type": "",
+          "href": "#vocabulary-review"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "练习",
+          "type": "",
+          "href": "#practice"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "写作",
+          "type": "",
+          "href": "#writing-workbench"
+        },
+        {
+          "tag": "BUTTON",
+          "id": "product-more",
+          "text": "更多",
+          "type": "button",
+          "href": null,
+          "value": "",
+          "disabled": false
+        }
+      ],
+      "overflow": false
+    },
+    {
+      "name": "before-390-library",
+      "hash": "#library",
+      "active": [
+        {
+          "id": "library",
+          "text": "← 返回工作台\n\nSOURCE MATERIALS\n\n原始资料\n\n查找原题、图表、音频与配套文件；学习活动从学习或练习进入。\n\n学习材料\n考试要求\n原始文件\n01 / READ\n背景读本\n\n话题、常见词与用法\n\n02 / PRACTISE\n打印学习册\n\n原题、作答页与练习\n\n03 / REVIEW\n参考与反馈\n\n完成首次作答后再看\n\n考试要求与反馈标准\n配套文件\n58 份文件\n新增\n9月21日新内容 · 九分机经\n\n语言起源阅读14题＋3道Task 2 · 每项标注难度\n\n机经\n近期机经 · 已清洗内容\n\n听力Part 1与独立阅读题组 · 含参考答案和材料精读\n\nPDF\nanswer-key-01.pdf\n\n原题与参考 · 已存本地\n\nPDF\nielts-modified-academic-1-source-pages.pdf\n\n原题与参考 · 已存本地\n\nPDF\nielts-modified-academic-1.pdf\n\n原题与参考 · 已存本地\n\nPDF\nC21-T1-Task1-question.pdf\n\n原题与参考 · 已存本地\n\nPDF\nC21-T1-Task1-response-and-comment.pdf\n\n原题与参考 · 已存本地\n\nPDF\nC21-T2-Task1-question.pdf\n\n原题与参考 · 已存本地\n\nPDF\nC21-T2-Task1-response-and-comment.pdf\n\n原题与参考 · 已存本地\n\nPDF\nC21-T2-Task2-question.pdf\n\n原题与参考 · 已存本地\n\nPDF\nC21-T2-Task2-response-and-comment.pdf\n\n原题与参考 · 已存本地\n\nTXT\nlistening-115005.txt\n\n音频文字与答案 · 已存本地\n\nTXT\nlistening-115005.txt\n\n音频文字与答案 · 已存本地\n\nMP3\nrecording-1.mp3\n\n原题与参考 · 已存本地\n\nPNG\nlistening-115010.png\n\n原题与参考 · 已存本地\n\nMP3\nrecording-4.mp3\n\n原题与参考 · 已存本地\n\nTXT\nlistening-115010.txt\n\n音频文字与答案 · 已存本地\n\nTXT\nlistening-115010.txt\n\n音频文字与答案 · 已存本地\n\nMP3\ncambridge-zip-115049_IELTS_Speaking_Sample_Part_2_Recording.mp3\n\n原题与参考 · 已存本地\n\nPDF\ncambridge-zip-115051_Speaking_sample_task_-_Part_2_transcript.pdf\n\n原题与参考 · 已存本地\n\nPDF\nielts-speaking-key-assessment-criteria.pdf\n\n评分与规则 · 已存本地\n\nPDF\nielts-writing-band-descriptors.pdf\n\n评分与规则 · 已存本地\n\nPDF\nielts-writing-key-assessment-criteria.pdf\n\n评分与规则 · 已存本地\n\nPDF\nielts-speaking-band-descriptors.pdf\n\n评分与规则 · 已存本地\n\nTXT\ninspera-response-3.txt\n\n音频文字与答案 · 已存本地\n\nPDF\nhwatai-cambridge7-sample-source-pages.pdf\n\n原题与参考 · 已存本地\n\nPDF\nofficial-sample-idp-29-source-pages.pdf\n\n原题与参考 · 已存本地\n\nPDF\ncambridge-classroom-reading-3.pdf\n\n原题与参考 · 已存本地\n\nPDF\ncambridge-research-notes68.pdf\n\n原题与参考 · 已存本地\n\nPDF\nhwatai-cambridge7-sample.pdf\n\n原题与参考 · 已存本地\n\nPDF\nhwatai-cambridge8-sample.pdf\n\n原题与参考 · 已存本地\n\nPDF\nidp-29.pdf\n\n原题与参考 · 已存本地\n\nPDF\nidp-31.pdf\n\n原题与参考 · 已存本地\n\nPDF\nhwatai-cambridge5-sample.pdf\n\n原题与参考 · 已存本地\n\nPDF\nhwatai-cambridge10-sample.pdf\n\n原题与参考 · 已存本地\n\nPDF\nhwatai-cambridge6-sample.pdf\n\n原题与参考 · 已存本地\n\nPDF\n91349570-speaking_part_1_developing_fluency_and_coherence_.pdf\n\n原题与参考 · 已存本地\n\nPDF\n52ed5765-LearnEnglish-Listening-B1-Meeting-an-old-friend.pdf\n\n原题与参考 · 已存本地\n\nPDF\n99acb260-LearnEnglish-Listening-B2-Office-party-planning.pdf\n\n原题与参考 · 已存本地\n\nPDF\n17836703-speaking_part_3_overview_and_practice_.pdf\n\n原题与参考 · 已存本地\n\nPDF\n2b576094-LearnEnglish-Speaking-B2-Discussing-advantages-and-disadvantages.pdf\n\n原题与参考 · 已存本地\n\nPDF\nmiles-student.pdf\n\n原题与参考 · 已存本地\n\nPDF\nmiles-teacher-feedback.pdf\n\n原题与参考 · 已存本地\n\nPDF\nolder-workers-student.pdf\n\n原题与参考 · 已存本地\n\nPDF\nolder-workers-answer-key.pdf\n\n原题与参考 · 已存本地\n\nPDF\ncambridge-zip-115008_Listening_sample_task_-_Multiple_choice.pdf\n\n原题与参考 · 已存本地\n\nTXT\nlistening-115008.txt\n\n音频文字与答案 · 已存本地\n\nTXT\nlistening-115008.txt\n\n音频文字与答案 · 已存本地\n\nMP3\nrecording-2.mp3\n\n原题与参考 · 已存本地\n\nPDF\nbec3ddb1-LearnEnglish-Listening-B1-A-phone-call-from-a-customer.pdf\n\n原题与参考 · 已存本地\n\nMP3\n416268a0-LE_listening_B1_A_phone_call_from_a_customer.mp3\n\n原题与参考 · 已存本地\n\nPDF\nofficial-task1a-comparison.pdf\n\n原题与参考 · 已存本地\n\nPDF\n0bf3495a-academic_writing_task_1_writing_the_overview.pdf\n\n原题与参考 · 已存本地\n\nPDF\nofficial-task1c-bricks.pdf\n\n原题与参考 · 已存本地\n\nPDF\nbf171ce7-academic_writing_task_1_grammatical_structures_for_describing_diagrams.pdf\n\n原题与参考 · 已存本地\n\nPDF\nofficial-task2a-opinion.pdf\n\n原题与参考 · 已存本地\n\nPDF\n5bfdf909-writing_task_2_developing_paragraphs.pdf\n\n原题与参考 · 已存本地\n\nPDF\nofficial-task2b-outweigh.pdf\n\n原题与参考 · 已存本地\n\nPDF\nCambridge IELTS 21 - Academic.pdf\n\n原题与参考 · 已存本地\n\nPDF\nielts-academic-reading-access-arrangement-modified-large-print-text-booklet.pdf\n\n原题与参考 · 已存本地\n\n想按题目或技巧学习？打开学习资源索引 →"
+        }
+      ],
+      "controls": [
+        {
+          "tag": "A",
+          "id": "",
+          "text": "i.\nIELTS\n我的备考工作区",
+          "type": "",
+          "href": "#study"
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "自测",
+          "type": "button",
+          "href": null,
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "资料与记录",
+          "type": "button",
+          "href": null,
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "mobile-menu",
+          "text": "☰",
+          "type": "submit",
+          "href": null,
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "lookup-open",
+          "text": "查词",
+          "type": "button",
+          "href": null,
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "← 返回工作台",
+          "type": "",
+          "href": "#workspace"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "学习材料",
+          "type": "",
+          "href": "#library-materials"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "考试要求",
+          "type": "",
+          "href": "#library-rules"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "原始文件",
+          "type": "",
+          "href": "#library-files"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "01 / READ\n背景读本\n\n话题、常见词与用法",
+          "type": "",
+          "href": "背景读本-话题与常用表达.pdf"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "02 / PRACTISE\n打印学习册\n\n原题、作答页与练习",
+          "type": "",
+          "href": "学习册-打印版.pdf"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "03 / REVIEW\n参考与反馈\n\n完成首次作答后再看",
+          "type": "",
+          "href": "参考册-完成后再看.pdf"
+        },
+        {
+          "tag": "INPUT",
+          "id": "library-search",
+          "text": "",
+          "type": "search",
+          "href": null,
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "新增\n9月21日新内容 · 九分机经\n\n语言起源阅读14题＋3道Task 2 · 每项标注难度",
+          "type": "",
+          "href": "机经资料/jiufen-reviewed-20260921/index.html"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "机经\n近期机经 · 已清洗内容\n\n听力Part 1与独立阅读题组 · 含参考答案和材料精读",
+          "type": "",
+          "href": "机经资料/jijing-20260920/index.html"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "PDF\nanswer-key-01.pdf\n\n原题与参考 · 已存本地",
+          "type": "",
+          "href": "原始参考/7aa23867-answer-key-01.pdf"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "PDF\nielts-modified-academic-1-source-pages.pdf\n\n原题与参考 · 已存本地",
+          "type": "",
+          "href": "原始参考/b929185f-ielts-modified-academic-1-source-pages.pdf"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "PDF\nielts-modified-academic-1.pdf\n\n原题与参考 · 已存本地",
+          "type": "",
+          "href": "原始参考/77d2edb5-ielts-modified-academic-1.pdf"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "PDF\nC21-T1-Task1-question.pdf\n\n原题与参考 · 已存本地",
+          "type": "",
+          "href": "原始参考/a4eb2b3b-C21-T1-Task1-question.pdf"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "PDF\nC21-T1-Task1-response-and-comment.pdf\n\n原题与参考 · 已存本地",
+          "type": "",
+          "href": "原始参考/3cd100d3-C21-T1-Task1-response-and-comment.pdf"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "PDF\nC21-T2-Task1-question.pdf\n\n原题与参考 · 已存本地",
+          "type": "",
+          "href": "原始参考/8860177f-C21-T2-Task1-question.pdf"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "PDF\nC21-T2-Task1-response-and-comment.pdf\n\n原题与参考 · 已存本地",
+          "type": "",
+          "href": "原始参考/45fe3e97-C21-T2-Task1-response-and-comment.pdf"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "PDF\nC21-T2-Task2-question.pdf\n\n原题与参考 · 已存本地",
+          "type": "",
+          "href": "原始参考/c91877df-C21-T2-Task2-question.pdf"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "PDF\nC21-T2-Task2-response-and-comment.pdf\n\n原题与参考 · 已存本地",
+          "type": "",
+          "href": "原始参考/93022ace-C21-T2-Task2-response-and-comment.pdf"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "TXT\nlistening-115005.txt\n\n音频文字与答案 · 已存本地",
+          "type": "",
+          "href": "原始参考/86b51fb5-listening-115005.txt"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "TXT\nlistening-115005.txt\n\n音频文字与答案 · 已存本地",
+          "type": "",
+          "href": "原始参考/3d19fa7a-listening-115005.txt"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "MP3\nrecording-1.mp3\n\n原题与参考 · 已存本地",
+          "type": "",
+          "href": "原始参考/d88d54dd-recording-1.mp3"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "PNG\nlistening-115010.png\n\n原题与参考 · 已存本地",
+          "type": "",
+          "href": "原始参考/608874aa-listening-115010.png"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "MP3\nrecording-4.mp3\n\n原题与参考 · 已存本地",
+          "type": "",
+          "href": "原始参考/bb61bf2b-recording-4.mp3"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "TXT\nlistening-115010.txt\n\n音频文字与答案 · 已存本地",
+          "type": "",
+          "href": "原始参考/a30888bb-listening-115010.txt"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "TXT\nlistening-115010.txt\n\n音频文字与答案 · 已存本地",
+          "type": "",
+          "href": "原始参考/5a330b83-listening-115010.txt"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "MP3\ncambridge-zip-115049_IELTS_Speaking_Sample_Part_2_Recording.mp3\n\n原题与参考 · 已存本地",
+          "type": "",
+          "href": "原始参考/7b07467c-cambridge-zip-115049_IELTS_Speaking_Sample_Part_2_Recording.mp3"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "PDF\ncambridge-zip-115051_Speaking_sample_task_-_Part_2_transcript.pdf\n\n原题与参考 · 已存本地",
+          "type": "",
+          "href": "原始参考/6c68dcc0-cambridge-zip-115051_Speaking_sample_task_-_Part_2_transcript.pdf"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "PDF\nielts-speaking-key-assessment-criteria.pdf\n\n评分与规则 · 已存本地",
+          "type": "",
+          "href": "原始参考/d2810144-ielts-speaking-key-assessment-criteria.pdf"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "PDF\nielts-writing-band-descriptors.pdf\n\n评分与规则 · 已存本地",
+          "type": "",
+          "href": "原始参考/d8a488dc-ielts-writing-band-descriptors.pdf"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "PDF\nielts-writing-key-assessment-criteria.pdf\n\n评分与规则 · 已存本地",
+          "type": "",
+          "href": "原始参考/32f690b4-ielts-writing-key-assessment-criteria.pdf"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "PDF\nielts-speaking-band-descriptors.pdf\n\n评分与规则 · 已存本地",
+          "type": "",
+          "href": "原始参考/914c8d84-ielts-speaking-band-descriptors.pdf"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "TXT\ninspera-response-3.txt\n\n音频文字与答案 · 已存本地",
+          "type": "",
+          "href": "原始参考/ec598fcf-inspera-response-3.txt"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "PDF\nhwatai-cambridge7-sample-source-pages.pdf\n\n原题与参考 · 已存本地",
+          "type": "",
+          "href": "原始参考/f8184cf8-hwatai-cambridge7-sample-source-pages.pdf"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "PDF\nofficial-sample-idp-29-source-pages.pdf\n\n原题与参考 · 已存本地",
+          "type": "",
+          "href": "原始参考/7a2e8056-official-sample-idp-29-source-pages.pdf"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "PDF\ncambridge-classroom-reading-3.pdf\n\n原题与参考 · 已存本地",
+          "type": "",
+          "href": "原始参考/dfacdd41-cambridge-classroom-reading-3.pdf"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "PDF\ncambridge-research-notes68.pdf\n\n原题与参考 · 已存本地",
+          "type": "",
+          "href": "原始参考/04f17772-cambridge-research-notes68.pdf"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "PDF\nhwatai-cambridge7-sample.pdf\n\n原题与参考 · 已存本地",
+          "type": "",
+          "href": "原始参考/237b7194-hwatai-cambridge7-sample.pdf"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "PDF\nhwatai-cambridge8-sample.pdf\n\n原题与参考 · 已存本地",
+          "type": "",
+          "href": "原始参考/d04994b0-hwatai-cambridge8-sample.pdf"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "PDF\nidp-29.pdf\n\n原题与参考 · 已存本地",
+          "type": "",
+          "href": "原始参考/5856a161-idp-29.pdf"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "PDF\nidp-31.pdf\n\n原题与参考 · 已存本地",
+          "type": "",
+          "href": "原始参考/326008c2-idp-31.pdf"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "PDF\nhwatai-cambridge5-sample.pdf\n\n原题与参考 · 已存本地",
+          "type": "",
+          "href": "原始参考/e0428977-hwatai-cambridge5-sample.pdf"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "PDF\nhwatai-cambridge10-sample.pdf\n\n原题与参考 · 已存本地",
+          "type": "",
+          "href": "原始参考/99437c83-hwatai-cambridge10-sample.pdf"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "PDF\nhwatai-cambridge6-sample.pdf\n\n原题与参考 · 已存本地",
+          "type": "",
+          "href": "原始参考/ad0a33c0-hwatai-cambridge6-sample.pdf"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "PDF\n91349570-speaking_part_1_developing_fluency_and_coherence_.pdf\n\n原题与参考 · 已存本地",
+          "type": "",
+          "href": "原始参考/5441af04-91349570-speaking_part_1_developing_fluency_and_coherence_.pdf"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "PDF\n52ed5765-LearnEnglish-Listening-B1-Meeting-an-old-friend.pdf\n\n原题与参考 · 已存本地",
+          "type": "",
+          "href": "原始参考/62ae7f61-52ed5765-LearnEnglish-Listening-B1-Meeting-an-old-friend.pdf"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "PDF\n99acb260-LearnEnglish-Listening-B2-Office-party-planning.pdf\n\n原题与参考 · 已存本地",
+          "type": "",
+          "href": "原始参考/ef4571d3-99acb260-LearnEnglish-Listening-B2-Office-party-planning.pdf"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "PDF\n17836703-speaking_part_3_overview_and_practice_.pdf\n\n原题与参考 · 已存本地",
+          "type": "",
+          "href": "原始参考/2106ed93-17836703-speaking_part_3_overview_and_practice_.pdf"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "PDF\n2b576094-LearnEnglish-Speaking-B2-Discussing-advantages-and-disadvantages.pdf\n\n原题与参考 · 已存本地",
+          "type": "",
+          "href": "原始参考/0112c71b-2b576094-LearnEnglish-Speaking-B2-Discussing-advantages-and-disadvantages.pdf"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "PDF\nmiles-student.pdf\n\n原题与参考 · 已存本地",
+          "type": "",
+          "href": "原始参考/b09e5747-miles-student.pdf"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "PDF\nmiles-teacher-feedback.pdf\n\n原题与参考 · 已存本地",
+          "type": "",
+          "href": "原始参考/e885c438-miles-teacher-feedback.pdf"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "PDF\nolder-workers-student.pdf\n\n原题与参考 · 已存本地",
+          "type": "",
+          "href": "原始参考/2539b427-older-workers-student.pdf"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "PDF\nolder-workers-answer-key.pdf\n\n原题与参考 · 已存本地",
+          "type": "",
+          "href": "原始参考/beeea772-older-workers-answer-key.pdf"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "PDF\ncambridge-zip-115008_Listening_sample_task_-_Multiple_choice.pdf\n\n原题与参考 · 已存本地",
+          "type": "",
+          "href": "原始参考/7918ea4d-cambridge-zip-115008_Listening_sample_task_-_Multiple_choice.pdf"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "TXT\nlistening-115008.txt\n\n音频文字与答案 · 已存本地",
+          "type": "",
+          "href": "原始参考/153e493c-listening-115008.txt"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "TXT\nlistening-115008.txt\n\n音频文字与答案 · 已存本地",
+          "type": "",
+          "href": "原始参考/825804b6-listening-115008.txt"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "MP3\nrecording-2.mp3\n\n原题与参考 · 已存本地",
+          "type": "",
+          "href": "原始参考/c31e6351-recording-2.mp3"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "PDF\nbec3ddb1-LearnEnglish-Listening-B1-A-phone-call-from-a-customer.pdf\n\n原题与参考 · 已存本地",
+          "type": "",
+          "href": "原始参考/2c976e31-bec3ddb1-LearnEnglish-Listening-B1-A-phone-call-from-a-customer.pdf"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "MP3\n416268a0-LE_listening_B1_A_phone_call_from_a_customer.mp3\n\n原题与参考 · 已存本地",
+          "type": "",
+          "href": "原始参考/7e143401-416268a0-LE_listening_B1_A_phone_call_from_a_customer.mp3"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "PDF\nofficial-task1a-comparison.pdf\n\n原题与参考 · 已存本地",
+          "type": "",
+          "href": "原始参考/2d327ea9-official-task1a-comparison.pdf"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "PDF\n0bf3495a-academic_writing_task_1_writing_the_overview.pdf\n\n原题与参考 · 已存本地",
+          "type": "",
+          "href": "原始参考/a4540c18-0bf3495a-academic_writing_task_1_writing_the_overview.pdf"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "PDF\nofficial-task1c-bricks.pdf\n\n原题与参考 · 已存本地",
+          "type": "",
+          "href": "原始参考/d46f0518-official-task1c-bricks.pdf"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "PDF\nbf171ce7-academic_writing_task_1_grammatical_structures_for_describing_diagrams.pdf\n\n原题与参考 · 已存本地",
+          "type": "",
+          "href": "原始参考/967b0405-bf171ce7-academic_writing_task_1_grammatical_structures_for_describing_diagrams.pdf"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "PDF\nofficial-task2a-opinion.pdf\n\n原题与参考 · 已存本地",
+          "type": "",
+          "href": "原始参考/bc92ca24-official-task2a-opinion.pdf"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "PDF\n5bfdf909-writing_task_2_developing_paragraphs.pdf\n\n原题与参考 · 已存本地",
+          "type": "",
+          "href": "原始参考/9464a2d7-5bfdf909-writing_task_2_developing_paragraphs.pdf"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "PDF\nofficial-task2b-outweigh.pdf\n\n原题与参考 · 已存本地",
+          "type": "",
+          "href": "原始参考/82c03e0f-official-task2b-outweigh.pdf"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "PDF\nCambridge IELTS 21 - Academic.pdf\n\n原题与参考 · 已存本地",
+          "type": "",
+          "href": "原始参考/8ee8170c-Cambridge IELTS 21 - Academic.pdf"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "PDF\nielts-academic-reading-access-arrangement-modified-large-print-text-booklet.pdf\n\n原题与参考 · 已存本地",
+          "type": "",
+          "href": "原始参考/188a4619-ielts-academic-reading-access-arrangement-modified-large-print-text-booklet.pdf"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "打开学习资源索引 →",
+          "type": "",
+          "href": "#resource-update"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "学习",
+          "type": "",
+          "href": "#study"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "单词",
+          "type": "",
+          "href": "#vocabulary-review"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "练习",
+          "type": "",
+          "href": "#practice"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "写作",
+          "type": "",
+          "href": "#writing-workbench"
+        },
+        {
+          "tag": "BUTTON",
+          "id": "product-more",
+          "text": "更多",
+          "type": "button",
+          "href": null,
+          "value": "",
+          "disabled": false
+        }
+      ],
+      "overflow": false
+    },
+    {
+      "name": "before-390-writing-task",
+      "hash": "#ww-jobs",
+      "active": [
+        {
+          "id": "writing-workbench",
+          "text": "写作训练\n\n四行业就业 · 尚未开始\n\n四行业就业\n\n同题各处作答分别保存；工作台首稿与修订可从任一入口继续。\n\n回到原题入口\n查看题面与图表 · 来源\n提纲\n首稿\n检查与修订\n可选 · 再写\n题面\n换题\n首稿 · 美国四行业就业：峰值、交叉与最终排名\n以前写过这题 / 看过答案\n本次参考过提示、词典或范例\n20:00\n开始 20 分钟\n重置计时\n首稿 · 保留后锁定，在「检查与修订」中修改\n0 词（估算） · 距建议最低字数还差 150 词\n保留首稿，开始修订\n\n所有输入随本册「备份学习记录」保存；本题导出包含首稿、修订、检查证据与反馈请求。这里提供自检与修订工具，不自动评分。\n\n考试要求与本区用法"
+        }
+      ],
+      "controls": [
+        {
+          "tag": "A",
+          "id": "",
+          "text": "i.\nIELTS\n我的备考工作区",
+          "type": "",
+          "href": "#study"
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "自测",
+          "type": "button",
+          "href": null,
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "资料与记录",
+          "type": "button",
+          "href": null,
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "mobile-menu",
+          "text": "☰",
+          "type": "submit",
+          "href": null,
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "lookup-open",
+          "text": "查词",
+          "type": "button",
+          "href": null,
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "回到原题入口",
+          "type": "",
+          "href": "#writing1-case-wc-c21-t1-jobs"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "提纲",
+          "type": "",
+          "href": "#ww-jobs-plan"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "首稿",
+          "type": "",
+          "href": "#ww-jobs-draft"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "检查与修订",
+          "type": "",
+          "href": "#ww-jobs-review"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "可选 · 再写",
+          "type": "",
+          "href": "#ww-jobs-next"
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "题面",
+          "type": "button",
+          "href": null,
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "换题",
+          "type": "button",
+          "href": null,
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "INPUT",
+          "id": "",
+          "text": "",
+          "type": "checkbox",
+          "href": null,
+          "value": "on",
+          "disabled": false,
+          "save": "ww-jobs-seen-before"
+        },
+        {
+          "tag": "INPUT",
+          "id": "",
+          "text": "",
+          "type": "checkbox",
+          "href": null,
+          "value": "on",
+          "disabled": false,
+          "save": "ww-jobs-used-help"
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "开始 20 分钟",
+          "type": "button",
+          "href": null,
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "重置计时",
+          "type": "button",
+          "href": null,
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "TEXTAREA",
+          "id": "",
+          "text": "",
+          "type": "textarea",
+          "href": null,
+          "value": "",
+          "disabled": false,
+          "save": "ww-jobs-first"
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "保留首稿，开始修订",
+          "type": "button",
+          "href": null,
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "学习",
+          "type": "",
+          "href": "#study"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "单词",
+          "type": "",
+          "href": "#vocabulary-review"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "练习",
+          "type": "",
+          "href": "#practice"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "写作",
+          "type": "",
+          "href": "#writing-workbench"
+        },
+        {
+          "tag": "BUTTON",
+          "id": "product-more",
+          "text": "更多",
+          "type": "button",
+          "href": null,
+          "value": "",
+          "disabled": false
+        }
+      ],
+      "overflow": false
+    },
+    {
+      "name": "before-390-lookup",
+      "hash": "#tests",
+      "active": [
+        {
+          "id": "tests",
+          "text": "自测\n\n完整套题与单科测试单独作答；学习和练习记录不计入测试进度。\n\n听力\n\n4 Parts · 40 题 · 完整原音\n\n官方机考体验题 · 40题。选择题可填字母，提交后核对参考答案。\n\n选择听力测试 →\n阅读\n\n3 篇文章 · 40 题\n\nCambridge IELTS 21 Academic · Test 1。题目、图表和字数要求均保留原页。\n\n选择阅读测试 →\n写作\n\nTask 1 + Task 2\n\nCambridge IELTS 21 Academic · Test 1。建议分别用 20 / 40 分钟，至少 150 / 250 词。\n\n选择写作测试 →\n口语\n\nPart 1 + Part 2 + Part 3\n\nCambridge 官方公开样题组合。Part 2 准备 1 分钟、说 1–2 分钟；本地自练按 11–14 分钟安排。\n\n选择口语测试 →\n四科组合测试\n\n依次完成听力、阅读、写作和口语。使用公开样题与 Cambridge 21 材料组合，各科分别保存；口语可另行完成。\n\n0% · 0 / 4 科已提交\n开始四科组合测试"
+        }
+      ],
+      "controls": [
+        {
+          "tag": "A",
+          "id": "",
+          "text": "i.\nIELTS\n我的备考工作区",
+          "type": "",
+          "href": "#study"
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "自测",
+          "type": "button",
+          "href": null,
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "资料与记录",
+          "type": "button",
+          "href": null,
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "mobile-menu",
+          "text": "☰",
+          "type": "submit",
+          "href": null,
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "lookup-open",
+          "text": "查词",
+          "type": "button",
+          "href": null,
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "选择听力测试 →",
+          "type": "",
+          "href": "#test-listening"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "选择阅读测试 →",
+          "type": "",
+          "href": "#test-reading"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "选择写作测试 →",
+          "type": "",
+          "href": "#test-writing"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "选择口语测试 →",
+          "type": "",
+          "href": "#test-speaking"
+        },
+        {
+          "tag": "BUTTON",
+          "id": "la-start-mock",
+          "text": "开始四科组合测试",
+          "type": "button",
+          "href": null,
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "lookup-close",
+          "text": "×",
+          "type": "button",
+          "href": null,
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "INPUT",
+          "id": "lookup-input",
+          "text": "",
+          "type": "text",
+          "href": null,
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "查询",
+          "type": "submit",
+          "href": null,
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "打开查词与复习记录 →",
+          "type": "",
+          "href": "#records"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "学习",
+          "type": "",
+          "href": "#study"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "单词",
+          "type": "",
+          "href": "#vocabulary-review"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "练习",
+          "type": "",
+          "href": "#practice"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "写作",
+          "type": "",
+          "href": "#writing-workbench"
+        },
+        {
+          "tag": "BUTTON",
+          "id": "product-more",
+          "text": "更多",
+          "type": "button",
+          "href": null,
+          "value": "",
+          "disabled": false
+        }
+      ],
+      "overflow": false
+    },
+    {
+      "name": "before-390-sentence-popup",
+      "hash": "#sentence-learning",
+      "active": [
+        {
+          "id": "sentence-learning",
+          "text": "背单词\n复习\n句子\n查词与历史\n句子\n翻译一句话\n搜索句子\n\n0 个收藏句子 · 与学习记录一起备份\n\n选中一句有用的表达，翻译后收藏到这里。\n\n如何收藏句子"
+        }
+      ],
+      "controls": [
+        {
+          "tag": "A",
+          "id": "",
+          "text": "i.\nIELTS\n我的备考工作区",
+          "type": "",
+          "href": "#study"
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "自测",
+          "type": "button",
+          "href": null,
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "资料与记录",
+          "type": "button",
+          "href": null,
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "mobile-menu",
+          "text": "☰",
+          "type": "submit",
+          "href": null,
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "lookup-open",
+          "text": "查词",
+          "type": "button",
+          "href": null,
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "背单词",
+          "type": "",
+          "href": "#vocabulary-review"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "复习",
+          "type": "",
+          "href": "#word-review"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "句子",
+          "type": "",
+          "href": "#sentence-learning"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "查词与历史",
+          "type": "",
+          "href": "#lookup-learning"
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "翻译一句话",
+          "type": "button",
+          "href": null,
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "INPUT",
+          "id": "sentence-search",
+          "text": "",
+          "type": "search",
+          "href": null,
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "sentence-close",
+          "text": "×",
+          "type": "button",
+          "href": null,
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "TEXTAREA",
+          "id": "sentence-source",
+          "text": "",
+          "type": "textarea",
+          "href": null,
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "SELECT",
+          "id": "sentence-direction",
+          "text": "英文 → 中文\n中文 → 英文",
+          "type": "select-one",
+          "href": null,
+          "value": "en|zh-CN",
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "sentence-translate",
+          "text": "联网翻译",
+          "type": "button",
+          "href": null,
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "TEXTAREA",
+          "id": "sentence-result",
+          "text": "",
+          "type": "textarea",
+          "href": null,
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "sentence-save",
+          "text": "☆ 收藏句子",
+          "type": "button",
+          "href": null,
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "A",
+          "id": "sentence-notebook-link",
+          "text": "打开句子本 →",
+          "type": "",
+          "href": "#sentence-learning"
+        },
+        {
+          "tag": "A",
+          "id": "sentence-bing",
+          "text": "在必应翻译中打开 ↗",
+          "type": "",
+          "href": "https://www.bing.com/translator?from=en&to=zh-CN&text="
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "学习",
+          "type": "",
+          "href": "#study"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "单词",
+          "type": "",
+          "href": "#vocabulary-review"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "练习",
+          "type": "",
+          "href": "#practice"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "写作",
+          "type": "",
+          "href": "#writing-workbench"
+        },
+        {
+          "tag": "BUTTON",
+          "id": "product-more",
+          "text": "更多",
+          "type": "button",
+          "href": null,
+          "value": "",
+          "disabled": false
+        }
+      ],
+      "overflow": false
+    },
+    {
+      "name": "before-390-reading-started",
+      "hash": "#test-reading",
+      "active": [
+        {
+          "id": "test-reading",
+          "text": "← 全部测试\n阅读整科测试\n\n3 篇文章 · 40 题\n\nCambridge IELTS 21 Academic · Test 1。题目、图表和字数要求均保留原页。\n\n60:00\n继续本次\n提交本次作答\n0% · 0 / 40 已作答\nPassage 1 · Q1–13\n0% · 0 / 13 已作答\nQ1\nQ2\nQ3\nQ4\nQ5\nQ6\nQ7\nQ8\nQ9\nQ10\nQ11\nQ12\nQ13\nPassage 2 · Q14–26\n0% · 0 / 13 已作答\nQ14\nQ15\nQ16\nQ17\nQ18\nQ19\nQ20\nQ21\nQ22\nQ23\nQ24\nQ25\nQ26\nPassage 3 · Q27–40\n0% · 0 / 14 已作答\nQ27\nQ28\nQ29\nQ30\nQ31\nQ32\nQ33\nQ34\nQ35\nQ36\nQ37\nQ38\nQ39\nQ40\n以往作答 · 0 次"
+        }
+      ],
+      "controls": [
+        {
+          "tag": "A",
+          "id": "",
+          "text": "i.\nIELTS\n我的备考工作区",
+          "type": "",
+          "href": "#study"
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "自测",
+          "type": "button",
+          "href": null,
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "资料与记录",
+          "type": "button",
+          "href": null,
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "mobile-menu",
+          "text": "☰",
+          "type": "submit",
+          "href": null,
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "lookup-open",
+          "text": "查词",
+          "type": "button",
+          "href": null,
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "← 全部测试",
+          "type": "",
+          "href": "#tests"
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "继续本次",
+          "type": "button",
+          "href": null,
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "text": "提交本次作答",
+          "type": "button",
+          "href": null,
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "INPUT",
+          "id": "",
+          "text": "",
+          "type": "text",
+          "href": null,
+          "value": "",
+          "disabled": false,
+          "save": "full-test-reading-q1"
+        },
+        {
+          "tag": "INPUT",
+          "id": "",
+          "text": "",
+          "type": "text",
+          "href": null,
+          "value": "",
+          "disabled": false,
+          "save": "full-test-reading-q2"
+        },
+        {
+          "tag": "INPUT",
+          "id": "",
+          "text": "",
+          "type": "text",
+          "href": null,
+          "value": "",
+          "disabled": false,
+          "save": "full-test-reading-q3"
+        },
+        {
+          "tag": "INPUT",
+          "id": "",
+          "text": "",
+          "type": "text",
+          "href": null,
+          "value": "",
+          "disabled": false,
+          "save": "full-test-reading-q4"
+        },
+        {
+          "tag": "INPUT",
+          "id": "",
+          "text": "",
+          "type": "text",
+          "href": null,
+          "value": "",
+          "disabled": false,
+          "save": "full-test-reading-q5"
+        },
+        {
+          "tag": "INPUT",
+          "id": "",
+          "text": "",
+          "type": "text",
+          "href": null,
+          "value": "",
+          "disabled": false,
+          "save": "full-test-reading-q6"
+        },
+        {
+          "tag": "INPUT",
+          "id": "",
+          "text": "",
+          "type": "text",
+          "href": null,
+          "value": "",
+          "disabled": false,
+          "save": "full-test-reading-q7"
+        },
+        {
+          "tag": "INPUT",
+          "id": "",
+          "text": "",
+          "type": "text",
+          "href": null,
+          "value": "",
+          "disabled": false,
+          "save": "full-test-reading-q8"
+        },
+        {
+          "tag": "INPUT",
+          "id": "",
+          "text": "",
+          "type": "text",
+          "href": null,
+          "value": "",
+          "disabled": false,
+          "save": "full-test-reading-q9"
+        },
+        {
+          "tag": "INPUT",
+          "id": "",
+          "text": "",
+          "type": "text",
+          "href": null,
+          "value": "",
+          "disabled": false,
+          "save": "full-test-reading-q10"
+        },
+        {
+          "tag": "INPUT",
+          "id": "",
+          "text": "",
+          "type": "text",
+          "href": null,
+          "value": "",
+          "disabled": false,
+          "save": "full-test-reading-q11"
+        },
+        {
+          "tag": "INPUT",
+          "id": "",
+          "text": "",
+          "type": "text",
+          "href": null,
+          "value": "",
+          "disabled": false,
+          "save": "full-test-reading-q12"
+        },
+        {
+          "tag": "INPUT",
+          "id": "",
+          "text": "",
+          "type": "text",
+          "href": null,
+          "value": "",
+          "disabled": false,
+          "save": "full-test-reading-q13"
+        },
+        {
+          "tag": "INPUT",
+          "id": "",
+          "text": "",
+          "type": "text",
+          "href": null,
+          "value": "",
+          "disabled": false,
+          "save": "full-test-reading-q14"
+        },
+        {
+          "tag": "INPUT",
+          "id": "",
+          "text": "",
+          "type": "text",
+          "href": null,
+          "value": "",
+          "disabled": false,
+          "save": "full-test-reading-q15"
+        },
+        {
+          "tag": "INPUT",
+          "id": "",
+          "text": "",
+          "type": "text",
+          "href": null,
+          "value": "",
+          "disabled": false,
+          "save": "full-test-reading-q16"
+        },
+        {
+          "tag": "INPUT",
+          "id": "",
+          "text": "",
+          "type": "text",
+          "href": null,
+          "value": "",
+          "disabled": false,
+          "save": "full-test-reading-q17"
+        },
+        {
+          "tag": "INPUT",
+          "id": "",
+          "text": "",
+          "type": "text",
+          "href": null,
+          "value": "",
+          "disabled": false,
+          "save": "full-test-reading-q18"
+        },
+        {
+          "tag": "INPUT",
+          "id": "",
+          "text": "",
+          "type": "text",
+          "href": null,
+          "value": "",
+          "disabled": false,
+          "save": "full-test-reading-q19"
+        },
+        {
+          "tag": "INPUT",
+          "id": "",
+          "text": "",
+          "type": "text",
+          "href": null,
+          "value": "",
+          "disabled": false,
+          "save": "full-test-reading-q20"
+        },
+        {
+          "tag": "INPUT",
+          "id": "",
+          "text": "",
+          "type": "text",
+          "href": null,
+          "value": "",
+          "disabled": false,
+          "save": "full-test-reading-q21"
+        },
+        {
+          "tag": "INPUT",
+          "id": "",
+          "text": "",
+          "type": "text",
+          "href": null,
+          "value": "",
+          "disabled": false,
+          "save": "full-test-reading-q22"
+        },
+        {
+          "tag": "INPUT",
+          "id": "",
+          "text": "",
+          "type": "text",
+          "href": null,
+          "value": "",
+          "disabled": false,
+          "save": "full-test-reading-q23"
+        },
+        {
+          "tag": "INPUT",
+          "id": "",
+          "text": "",
+          "type": "text",
+          "href": null,
+          "value": "",
+          "disabled": false,
+          "save": "full-test-reading-q24"
+        },
+        {
+          "tag": "INPUT",
+          "id": "",
+          "text": "",
+          "type": "text",
+          "href": null,
+          "value": "",
+          "disabled": false,
+          "save": "full-test-reading-q25"
+        },
+        {
+          "tag": "INPUT",
+          "id": "",
+          "text": "",
+          "type": "text",
+          "href": null,
+          "value": "",
+          "disabled": false,
+          "save": "full-test-reading-q26"
+        },
+        {
+          "tag": "INPUT",
+          "id": "",
+          "text": "",
+          "type": "text",
+          "href": null,
+          "value": "",
+          "disabled": false,
+          "save": "full-test-reading-q27"
+        },
+        {
+          "tag": "INPUT",
+          "id": "",
+          "text": "",
+          "type": "text",
+          "href": null,
+          "value": "",
+          "disabled": false,
+          "save": "full-test-reading-q28"
+        },
+        {
+          "tag": "INPUT",
+          "id": "",
+          "text": "",
+          "type": "text",
+          "href": null,
+          "value": "",
+          "disabled": false,
+          "save": "full-test-reading-q29"
+        },
+        {
+          "tag": "INPUT",
+          "id": "",
+          "text": "",
+          "type": "text",
+          "href": null,
+          "value": "",
+          "disabled": false,
+          "save": "full-test-reading-q30"
+        },
+        {
+          "tag": "INPUT",
+          "id": "",
+          "text": "",
+          "type": "text",
+          "href": null,
+          "value": "",
+          "disabled": false,
+          "save": "full-test-reading-q31"
+        },
+        {
+          "tag": "INPUT",
+          "id": "",
+          "text": "",
+          "type": "text",
+          "href": null,
+          "value": "",
+          "disabled": false,
+          "save": "full-test-reading-q32"
+        },
+        {
+          "tag": "INPUT",
+          "id": "",
+          "text": "",
+          "type": "text",
+          "href": null,
+          "value": "",
+          "disabled": false,
+          "save": "full-test-reading-q33"
+        },
+        {
+          "tag": "INPUT",
+          "id": "",
+          "text": "",
+          "type": "text",
+          "href": null,
+          "value": "",
+          "disabled": false,
+          "save": "full-test-reading-q34"
+        },
+        {
+          "tag": "INPUT",
+          "id": "",
+          "text": "",
+          "type": "text",
+          "href": null,
+          "value": "",
+          "disabled": false,
+          "save": "full-test-reading-q35"
+        },
+        {
+          "tag": "INPUT",
+          "id": "",
+          "text": "",
+          "type": "text",
+          "href": null,
+          "value": "",
+          "disabled": false,
+          "save": "full-test-reading-q36"
+        },
+        {
+          "tag": "INPUT",
+          "id": "",
+          "text": "",
+          "type": "text",
+          "href": null,
+          "value": "",
+          "disabled": false,
+          "save": "full-test-reading-q37"
+        },
+        {
+          "tag": "INPUT",
+          "id": "",
+          "text": "",
+          "type": "text",
+          "href": null,
+          "value": "",
+          "disabled": false,
+          "save": "full-test-reading-q38"
+        },
+        {
+          "tag": "INPUT",
+          "id": "",
+          "text": "",
+          "type": "text",
+          "href": null,
+          "value": "",
+          "disabled": false,
+          "save": "full-test-reading-q39"
+        },
+        {
+          "tag": "INPUT",
+          "id": "",
+          "text": "",
+          "type": "text",
+          "href": null,
+          "value": "",
+          "disabled": false,
+          "save": "full-test-reading-q40"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "学习",
+          "type": "",
+          "href": "#study"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "单词",
+          "type": "",
+          "href": "#vocabulary-review"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "练习",
+          "type": "",
+          "href": "#practice"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "text": "写作",
+          "type": "",
+          "href": "#writing-workbench"
+        },
+        {
+          "tag": "BUTTON",
+          "id": "product-more",
+          "text": "更多",
+          "type": "button",
+          "href": null,
+          "value": "",
+          "disabled": false
+        }
+      ],
+      "overflow": false
+    }
+  ]
+}

@@ -19,10 +19,10 @@
     const query=search.value.trim().toLocaleLowerCase(),skill=taskFilter.value;
     let count=0;
     directory.querySelectorAll('[data-ww-pick]').forEach(row=>{
-      row.hidden=!!(skill&&row.dataset.wwSkill!==skill)||!row.dataset.wwSearch.toLocaleLowerCase().includes(query);
+      row.hidden=!!(skill&&row.dataset.wwSkill!==skill)||!row.dataset.wwSearch.toLocaleLowerCase().includes(query)||(document.getElementById('ux-writing-progress').value==='started'&&!hasDraft(map.get(row.dataset.wwPick)))||(document.getElementById('ux-writing-progress').value==='new'&&hasDraft(map.get(row.dataset.wwPick)));
       if(!row.hidden)count++;
     });
-    directory.querySelector('.ww-directory-count').textContent=count?'共 '+count+' 道 · 选择题目即可开始首稿或继续已有稿':'没有匹配的题目，试试其他关键词或Task。';
+    document.getElementById('ux-writing-empty').hidden=count>0;directory.querySelector('.ww-directory-count').textContent=count?'共 '+count+' 道 · 选择题目即可开始首稿或继续已有稿':'没有匹配的题目，试试其他关键词或Task。';
   }
   function routeCatalogue(){
     let hash='';try{hash=decodeURIComponent(location.hash.slice(1));}catch{return;}
@@ -35,13 +35,13 @@
   }
   function status(q) {
     if (value(q.id+'-first-at')) return '首稿已保留'+(meaningful(q.id+'-revision')?' · 有修订稿':'');
-    return meaningful(q.id+'-first')?'首稿写作中':'工作台尚未开始';
+    return meaningful(q.id+'-first')?'首稿写作中':'尚未开始';
   }
   function update() {
     for(const q of rows) {
       const labels=[...new Set(q.aliases.filter(a=>a.fields.some(meaningful)).map(a=>a.label))];
       const badge=root.querySelector('[data-ww-related="'+q.id+'"]');
-      badge.textContent=labels.length?'已在'+labels.join('、')+'留下作答 · 各处记录独立保留':'同题各处作答分别保存；工作台首稿与修订可从任一入口继续。';
+      badge.hidden=labels.length===0;badge.textContent=labels.length?'已在'+labels.join('、')+'留下作答 · 各处记录独立保留':'同题各处作答分别保存；工作台首稿与修订可从任一入口继续。';
       const returnId=sessionOrigins.get(q.id)||value(q.id+'-return-route');
       const valid=q.aliases.some(a=>a.route===returnId)?returnId:q.origin;
       root.querySelectorAll('[data-ww-return="'+q.id+'"]').forEach(a=>a.href='#'+valid);
@@ -83,7 +83,7 @@
   window.addEventListener('storage',()=>setTimeout(update,0));
   window.addEventListener('hashchange',update);
   window.addEventListener('hashchange',routeCatalogue);
-  search.addEventListener('input',filter);taskFilter.addEventListener('change',filter);
+  document.getElementById('ux-writing-progress').addEventListener('change',filter);document.getElementById('ux-writing-clear').addEventListener('click',()=>{search.value='';taskFilter.value='';document.getElementById('ux-writing-progress').value='all';filter();search.focus();});search.addEventListener('input',filter);taskFilter.addEventListener('change',filter);
   update();
   routeCatalogue();
 })();

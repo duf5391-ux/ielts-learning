@@ -1,0 +1,186 @@
+{
+  "target": "https://duf5391-ux.github.io/ielts-learning/",
+  "source_sha256": "a96477bc2cab9a26764a8b19af06f2ccb701ac4e0b986504432431628b318ae1",
+  "errors": [],
+  "pass": true,
+  "checks": [
+    "four subject cards expose real status and history",
+    "1440-tests no overflow and one active panel",
+    "self test card shows progress from actual saved answer",
+    "submitted answers lock",
+    "latest submitted result appears in history immediately",
+    "history link opens exact history and retains previous answer",
+    "1440-test-history no overflow and one active panel",
+    "1440-test-reading-active no overflow and one active panel",
+    "phone answer mode shows original fields and hides paper",
+    "switch back shows paper without clearing answer",
+    "paper answer draft survives reload",
+    "writing self test preserves essay between prompt and answer views",
+    "390-test-writing no overflow and one active panel",
+    "writing empty filter is clear and reversible",
+    "clear filter restores 32 actual writing tasks",
+    "writing filter and badge reflect existing draft",
+    "writing reopens same saved draft",
+    "390-writing-task no overflow and one active panel",
+    "backup buttons precede long records",
+    "backup includes original answer and writing fields",
+    "phone popup hides bottom nav while open",
+    "sentence save and popup close preserve controls",
+    "lookup wording no longer requires collecting",
+    "lookup history link reaches vocabulary history",
+    "keyboard grades a word and advances",
+    "typing numbers in lookup does not grade words",
+    "escape returns focus to opener",
+    "1440-study no overflow and one active panel",
+    "1440-tests no overflow and one active panel",
+    "1440-writing-workbench no overflow and one active panel",
+    "1440-workspace no overflow and one active panel",
+    "1440-records no overflow and one active panel",
+    "1440-word-review no overflow and one active panel",
+    "1440-test-reading no overflow and one active panel",
+    "390-study no overflow and one active panel",
+    "390-tests no overflow and one active panel",
+    "390-writing-workbench no overflow and one active panel",
+    "390-workspace no overflow and one active panel",
+    "390-records no overflow and one active panel",
+    "390-word-review no overflow and one active panel",
+    "390-test-reading no overflow and one active panel",
+    "health pause still disables daily advance",
+    "no uncaught page errors"
+  ],
+  "shots": [
+    {
+      "name": "1440-tests",
+      "overflow": false,
+      "active": [
+        "tests"
+      ]
+    },
+    {
+      "name": "1440-test-history",
+      "overflow": false,
+      "active": [
+        "test-reading"
+      ]
+    },
+    {
+      "name": "1440-test-reading-active",
+      "overflow": false,
+      "active": [
+        "test-reading"
+      ]
+    },
+    {
+      "name": "390-test-writing",
+      "overflow": false,
+      "active": [
+        "test-writing"
+      ]
+    },
+    {
+      "name": "390-writing-task",
+      "overflow": false,
+      "active": [
+        "writing-workbench"
+      ]
+    },
+    {
+      "name": "1440-study",
+      "overflow": false,
+      "active": [
+        "study"
+      ]
+    },
+    {
+      "name": "1440-tests",
+      "overflow": false,
+      "active": [
+        "tests"
+      ]
+    },
+    {
+      "name": "1440-writing-workbench",
+      "overflow": false,
+      "active": [
+        "writing-workbench"
+      ]
+    },
+    {
+      "name": "1440-workspace",
+      "overflow": false,
+      "active": [
+        "workspace"
+      ]
+    },
+    {
+      "name": "1440-records",
+      "overflow": false,
+      "active": [
+        "records"
+      ]
+    },
+    {
+      "name": "1440-word-review",
+      "overflow": false,
+      "active": [
+        "word-review"
+      ]
+    },
+    {
+      "name": "1440-test-reading",
+      "overflow": false,
+      "active": [
+        "test-reading"
+      ]
+    },
+    {
+      "name": "390-study",
+      "overflow": false,
+      "active": [
+        "study"
+      ]
+    },
+    {
+      "name": "390-tests",
+      "overflow": false,
+      "active": [
+        "tests"
+      ]
+    },
+    {
+      "name": "390-writing-workbench",
+      "overflow": false,
+      "active": [
+        "writing-workbench"
+      ]
+    },
+    {
+      "name": "390-workspace",
+      "overflow": false,
+      "active": [
+        "workspace"
+      ]
+    },
+    {
+      "name": "390-records",
+      "overflow": false,
+      "active": [
+        "records"
+      ]
+    },
+    {
+      "name": "390-word-review",
+      "overflow": false,
+      "active": [
+        "word-review"
+      ]
+    },
+    {
+      "name": "390-test-reading",
+      "overflow": false,
+      "active": [
+        "test-reading"
+      ]
+    }
+  ]
+}

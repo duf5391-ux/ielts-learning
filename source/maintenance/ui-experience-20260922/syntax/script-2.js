@@ -1,0 +1,8 @@
+(()=>{'use strict';
+const units=[...document.querySelectorAll('[data-enrichment]')];
+function recordCount(){const el=document.querySelector('#enrichment-record-count');if(!el)return;const tasks=units.filter(u=>u.dataset.optional!=='true'),saved=tasks.filter(u=>field(u,'frozen').checked).length;el.textContent=saved+' / '+tasks.length+' 个补充练习首稿已保留。另有 '+units.filter(u=>u.dataset.optional==='true').length+' 个可选背景单元。'}
+function field(el,name){return el.querySelector(`[data-save="enrich-${el.dataset.enrichment}-${name}"]`)}
+function refresh(el){const frozen=field(el,'frozen').checked,optional=el.dataset.optional==='true';field(el,'answer').readOnly=frozen ;el.querySelector('.enrichment-feedback').hidden=!frozen;const button=el.querySelector('[data-enrich-freeze]');button.disabled=frozen;button.textContent=frozen?(optional?'理解提示已打开':'首稿已保留'):(optional?'已想过，查看理解提示':'保留首稿，打开反馈');if(frozen)el.querySelector('[data-enrich-status]').textContent=optional?'可以继续阅读；如愿意，也可以留下自己的理解与表达。':'首稿已保留于 '+field(el,'saved-at').value+'。请在下方修订；可在“学习记录”备份全部文字。'}
+units.forEach(el=>{refresh(el);el.querySelector('[data-enrich-freeze]').addEventListener('click',()=>{if(!field(el,'answer').value.trim()){el.querySelector('[data-enrich-status]').textContent='先留下答案或录音文件简记，再打开反馈。';field(el,'answer').focus();return}const time=field(el,'saved-at'),frozen=field(el,'frozen');if(!window.IELTSRecordStore.commit({[time.dataset.save]:new Date().toLocaleString(),[frozen.dataset.save]:true})){el.querySelector('[data-enrich-status]').textContent='当前未能保存，首稿仍可编辑。请先导出文字，答案尚未解锁。';return;}refresh(el);recordCount();el.querySelector('.enrichment-feedback').scrollIntoView({block:'start',behavior:'smooth'})})});
+recordCount();
+})();
