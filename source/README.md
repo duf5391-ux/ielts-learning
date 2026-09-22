@@ -1,10 +1,12 @@
 # 源码与逐接口检查快照 · 2026-09-21
 
-本分支保存正式源码及维护、探针材料。2026-09-22源码已同步最新正式册 `e2b9e12e…`，对应已成功部署的主分支提交 `c84dab611f943c9e24b9a595321462392c96ef4a`。本源码分支的 `site/` 保留旧版；预览最新完整站点请使用 `main` 分支。
+本分支保存正式源码及维护、探针材料。2026-09-22源码已同步最新正式册 `3ba0baa5…`，对应已成功部署的主分支提交 `55d94a75eb3ad5174bf9234a2ed9a86b8db49097`。本源码分支的 `site/` 保留旧版；预览最新完整站点请使用 `main` 分支。
+
+最新版单词内统一背词、复习、句子和历史。进入直接背词，查过或学过自动接续复习。新实现与验证见 [UI增量](maintenance/ui-polish-20260922/README.md)，[最新分层关系图](maintenance/ui-polish-20260922/interface-tensor.html)。
 
 ## 从这里开始
 
-- [正式整页源码](production/开始学习.html)：SHA-256 `e2b9e12e58c8f03de4b43b8ec6bdb1b81a15130ddceb6b80ea5fff6a3d742075`，4091个保存字段、236个目录单元。
+- [正式整页源码](production/开始学习.html)：SHA-256 `3ba0baa50a6482d10b516112f0cfb2b8cb454b700ef11a141c30b4fbd65dabdc`，4092个保存字段、236个目录单元。
 - [当前正式页提取的控制器与片段](production/current-extracted/)：与本次正式整页绑定。`production/extracted/` 是上一版2f870基线，留作历史对照。
 - [42 个功能区总览](maintenance/research/interface-map-20260921/功能总览.md)、[429 个目标入口与 9 个独立页面](maintenance/research/interface-map-20260921/全量入口表.md)。入口数量不等于独立页面数量。
 - [改版前二维入口树](maintenance/research/interface-map-20260921/现状入口树.html)、[原审计问题](maintenance/research/ui-experience-audit-20260921.md)、[三维内容关系图](maintenance/research/content-tensor-20260921/内容分级张量图.html)。图中准备/候选状态不代表已完成教学加工或已经发布。

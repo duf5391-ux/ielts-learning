@@ -1,11 +1,11 @@
 {
-  "production_sha256": "e2b9e12e58c8f03de4b43b8ec6bdb1b81a15130ddceb6b80ea5fff6a3d742075",
+  "production_sha256": "3ba0baa50a6482d10b516112f0cfb2b8cb454b700ef11a141c30b4fbd65dabdc",
   "base_commit": "46bc80bc1d77638f019f58a2c39bfed65a99c19e",
   "files": [
     {
       "path": "production/开始学习.html",
-      "bytes": 4561393,
-      "sha256": "e2b9e12e58c8f03de4b43b8ec6bdb1b81a15130ddceb6b80ea5fff6a3d742075",
+      "bytes": 4598619,
+      "sha256": "3ba0baa50a6482d10b516112f0cfb2b8cb454b700ef11a141c30b4fbd65dabdc",
       "role": "current-production-source"
     },
     {
@@ -262,14 +262,14 @@
     },
     {
       "path": "production/current-extracted/lookup-controller.js",
-      "bytes": 20236,
-      "sha256": "2cfe59d04417e25539d3d82362bf52db541b3a45c7af32b7c6b5b957f0d6cd50",
+      "bytes": 20341,
+      "sha256": "417d5b7db9ae5621e8f9bf01b48d5e1043ae90750c45ac0076fe2ff1ed99c51c",
       "role": "current-production-extract"
     },
     {
       "path": "production/current-extracted/vocabulary-review-controller.js",
-      "bytes": 19267,
-      "sha256": "8de57b5d1f0cc61cc149700171088eea6ff1d9773b07f9ffb0cb3206cbb1cf81",
+      "bytes": 18481,
+      "sha256": "63c4d5c65bfd55c102fcc0e74ac62c9b95a926c47c0bf80d5b16fb2d7a3010da",
       "role": "current-production-extract"
     },
     {
@@ -346,8 +346,8 @@
     },
     {
       "path": "production/current-extracted/learning-adjust-script.js",
-      "bytes": 29018,
-      "sha256": "4bff9c69b3d6fb96ce8d90f3608eefe402ab35497e9688f6a8028238dfda0362",
+      "bytes": 29113,
+      "sha256": "ff1311b4c9c9156fa2b220caedec9cfa8aeea798be363b12179420a247243761",
       "role": "current-production-extract"
     },
     {
@@ -388,14 +388,32 @@
     },
     {
       "path": "production/current-extracted/product-entry-controller.js",
-      "bytes": 3716,
-      "sha256": "4abc219718866ca94b055b1426d8d9ff07ff8fe937e82c8f92d768fccf95943f",
+      "bytes": 3953,
+      "sha256": "dd05cd452abce6129dde20afba65236f2e2db9a480ab1a9152a1c480220dd534",
+      "role": "current-production-extract"
+    },
+    {
+      "path": "production/current-extracted/word-learning-controller.js",
+      "bytes": 9013,
+      "sha256": "f6e6ec5189206f2e09d86b77880dc158c52ccc69f3355f70d786fa2a30236bc7",
+      "role": "current-production-extract"
+    },
+    {
+      "path": "production/current-extracted/word-history-controller.js",
+      "bytes": 4036,
+      "sha256": "56ee9ac0649d660b5a455850d4712881ead29798018a698d450a46f0d4a593b0",
+      "role": "current-production-extract"
+    },
+    {
+      "path": "production/current-extracted/word-navigation-controller.js",
+      "bytes": 2490,
+      "sha256": "aaa44f98c79fed50cbe12b7691b23a6ed632dd189405e890f085a7b5ca3f3bc0",
       "role": "current-production-extract"
     },
     {
       "path": "production/current-extracted/study.html",
-      "bytes": 3965,
-      "sha256": "cde256555d5395e9c42bb965a5030f33ab483bc3a9f843008c90f32588c280a0",
+      "bytes": 3971,
+      "sha256": "d112c097e292ac0979acc6edf123157b09a8c3e789f4a94d03f1aedf68df14c8",
       "role": "current-production-extract"
     },
     {
@@ -418,20 +436,44 @@
     },
     {
       "path": "production/current-extracted/vocabulary-review.html",
-      "bytes": 212,
-      "sha256": "1ecb9678e7fa295e2ec939f1e08c451e2baf282ebe663b02d7b959d2a3a825d7",
+      "bytes": 347,
+      "sha256": "5e77a0cbd00450f5d63acb1df9df4e431171dfb72f0b53d5b1b865741d9bbbdb",
+      "role": "current-production-extract"
+    },
+    {
+      "path": "production/current-extracted/word-review.html",
+      "bytes": 216,
+      "sha256": "5e13cf76b7aa65b69e5a75cede245645483c00924a3f3ef10796bec1a622e0eb",
+      "role": "current-production-extract"
+    },
+    {
+      "path": "production/current-extracted/word-library.html",
+      "bytes": 163,
+      "sha256": "01c8f743fd1e7adce6b99724953640c8df1df32ef084540bc255cb43e6bd6a02",
+      "role": "current-production-extract"
+    },
+    {
+      "path": "production/current-extracted/review-history.html",
+      "bytes": 301,
+      "sha256": "db3953af0affb7d4fe729c0cfb0e65191334258caafb6437b46d186ca03c010b",
+      "role": "current-production-extract"
+    },
+    {
+      "path": "production/current-extracted/lookup-learning.html",
+      "bytes": 1225,
+      "sha256": "30e2e5d790534f8e6b49cd7f92bfb8b5b57547bc335b07ab5c73a7c425e704e3",
       "role": "current-production-extract"
     },
     {
       "path": "production/current-extracted/sentence-learning.html",
-      "bytes": 984,
-      "sha256": "8ececf418a7be1223f20565ae6ca9d203a0708f8a2820ef93782bc2e40401042",
+      "bytes": 971,
+      "sha256": "f8023553793ba69359985600680b341285f639e91bd9b5897cff5e802c9b6836",
       "role": "current-production-extract"
     },
     {
       "path": "production/current-extracted/writing-workbench.html",
-      "bytes": 399989,
-      "sha256": "3173b3da1a28c804821540e2a9c6416249aa63656027ffe1a5b27f3a21eab865",
+      "bytes": 399983,
+      "sha256": "dbb56d9b8463b4cdf75a672e221169d80739b97053c3fa26739821ea245f2878",
       "role": "current-production-extract"
     },
     {
@@ -454,8 +496,8 @@
     },
     {
       "path": "maintenance/AGENTS.md",
-      "bytes": 11488,
-      "sha256": "19e54ca6b49d00dd9e27484e49915f92997a7aabcc010bb44e18b1c10af062fc",
+      "bytes": 14004,
+      "sha256": "0b4b129ce0d21e1e97374b649e7ac5e19ae5d683cc5e38ba10bcd12316b73812",
       "role": "maintenance-history-not-all-current"
     },
     {
@@ -1252,8 +1294,8 @@
     },
     {
       "path": "maintenance/PUBLIC_DEPLOYMENT.md",
-      "bytes": 7811,
-      "sha256": "3edeb92d32992ccb58c578b47f89fd94204b98d51315a258ba05b6737483fba3",
+      "bytes": 8285,
+      "sha256": "aee0ee17c1ce66bf2b5ae2355e770a20ca328059cdf5bbd1e55c84b60d68371c",
       "role": "maintenance-history-not-all-current"
     },
     {
@@ -1540,8 +1582,8 @@
     },
     {
       "path": "maintenance/README.md",
-      "bytes": 29844,
-      "sha256": "6d7948f834f4afdd5a35edd99fcc075e6e223ffab852ccafb93190ad9ed08371",
+      "bytes": 33122,
+      "sha256": "8ec03ec46e346653529b63aaa52d696f8efdb37acac0cd4fbf96cedafb086592",
       "role": "maintenance-history-not-all-current"
     },
     {
@@ -2758,8 +2800,8 @@
     },
     {
       "path": "maintenance/architecture-repair-20260921/current-extracted/learning-adjust-script.js",
-      "bytes": 29018,
-      "sha256": "4bff9c69b3d6fb96ce8d90f3608eefe402ab35497e9688f6a8028238dfda0362",
+      "bytes": 29113,
+      "sha256": "ff1311b4c9c9156fa2b220caedec9cfa8aeea798be363b12179420a247243761",
       "role": "maintenance-history-not-all-current"
     },
     {
@@ -2770,8 +2812,14 @@
     },
     {
       "path": "maintenance/architecture-repair-20260921/current-extracted/lookup-controller.js",
-      "bytes": 20236,
-      "sha256": "2cfe59d04417e25539d3d82362bf52db541b3a45c7af32b7c6b5b957f0d6cd50",
+      "bytes": 20341,
+      "sha256": "417d5b7db9ae5621e8f9bf01b48d5e1043ae90750c45ac0076fe2ff1ed99c51c",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/architecture-repair-20260921/current-extracted/lookup-learning.html",
+      "bytes": 1225,
+      "sha256": "30e2e5d790534f8e6b49cd7f92bfb8b5b57547bc335b07ab5c73a7c425e704e3",
       "role": "maintenance-history-not-all-current"
     },
     {
@@ -2788,8 +2836,8 @@
     },
     {
       "path": "maintenance/architecture-repair-20260921/current-extracted/product-entry-controller.js",
-      "bytes": 3716,
-      "sha256": "4abc219718866ca94b055b1426d8d9ff07ff8fe937e82c8f92d768fccf95943f",
+      "bytes": 3953,
+      "sha256": "dd05cd452abce6129dde20afba65236f2e2db9a480ab1a9152a1c480220dd534",
       "role": "maintenance-history-not-all-current"
     },
     {
@@ -2808,6 +2856,12 @@
       "path": "maintenance/architecture-repair-20260921/current-extracted/records.html",
       "bytes": 6707,
       "sha256": "1905db3ea10687c9857a049287d298fc4c663e3acb8939643aff69713612226e",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/architecture-repair-20260921/current-extracted/review-history.html",
+      "bytes": 301,
+      "sha256": "db3953af0affb7d4fe729c0cfb0e65191334258caafb6437b46d186ca03c010b",
       "role": "maintenance-history-not-all-current"
     },
     {
@@ -2860,14 +2914,14 @@
     },
     {
       "path": "maintenance/architecture-repair-20260921/current-extracted/sentence-learning.html",
-      "bytes": 984,
-      "sha256": "8ececf418a7be1223f20565ae6ca9d203a0708f8a2820ef93782bc2e40401042",
+      "bytes": 971,
+      "sha256": "f8023553793ba69359985600680b341285f639e91bd9b5897cff5e802c9b6836",
       "role": "maintenance-history-not-all-current"
     },
     {
       "path": "maintenance/architecture-repair-20260921/current-extracted/study.html",
-      "bytes": 3965,
-      "sha256": "cde256555d5395e9c42bb965a5030f33ab483bc3a9f843008c90f32588c280a0",
+      "bytes": 3971,
+      "sha256": "d112c097e292ac0979acc6edf123157b09a8c3e789f4a94d03f1aedf68df14c8",
       "role": "maintenance-history-not-all-current"
     },
     {
@@ -2878,14 +2932,44 @@
     },
     {
       "path": "maintenance/architecture-repair-20260921/current-extracted/vocabulary-review-controller.js",
-      "bytes": 19267,
-      "sha256": "8de57b5d1f0cc61cc149700171088eea6ff1d9773b07f9ffb0cb3206cbb1cf81",
+      "bytes": 18481,
+      "sha256": "63c4d5c65bfd55c102fcc0e74ac62c9b95a926c47c0bf80d5b16fb2d7a3010da",
       "role": "maintenance-history-not-all-current"
     },
     {
       "path": "maintenance/architecture-repair-20260921/current-extracted/vocabulary-review.html",
-      "bytes": 212,
-      "sha256": "1ecb9678e7fa295e2ec939f1e08c451e2baf282ebe663b02d7b959d2a3a825d7",
+      "bytes": 347,
+      "sha256": "5e77a0cbd00450f5d63acb1df9df4e431171dfb72f0b53d5b1b865741d9bbbdb",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/architecture-repair-20260921/current-extracted/word-history-controller.js",
+      "bytes": 4036,
+      "sha256": "56ee9ac0649d660b5a455850d4712881ead29798018a698d450a46f0d4a593b0",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/architecture-repair-20260921/current-extracted/word-learning-controller.js",
+      "bytes": 9013,
+      "sha256": "f6e6ec5189206f2e09d86b77880dc158c52ccc69f3355f70d786fa2a30236bc7",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/architecture-repair-20260921/current-extracted/word-library.html",
+      "bytes": 163,
+      "sha256": "01c8f743fd1e7adce6b99724953640c8df1df32ef084540bc255cb43e6bd6a02",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/architecture-repair-20260921/current-extracted/word-navigation-controller.js",
+      "bytes": 2490,
+      "sha256": "aaa44f98c79fed50cbe12b7691b23a6ed632dd189405e890f085a7b5ca3f3bc0",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/architecture-repair-20260921/current-extracted/word-review.html",
+      "bytes": 216,
+      "sha256": "5e13cf76b7aa65b69e5a75cede245645483c00924a3f3ef10796bec1a622e0eb",
       "role": "maintenance-history-not-all-current"
     },
     {
@@ -2902,8 +2986,8 @@
     },
     {
       "path": "maintenance/architecture-repair-20260921/current-extracted/writing-workbench.html",
-      "bytes": 399989,
-      "sha256": "3173b3da1a28c804821540e2a9c6416249aa63656027ffe1a5b27f3a21eab865",
+      "bytes": 399983,
+      "sha256": "dbb56d9b8463b4cdf75a672e221169d80739b97053c3fa26739821ea245f2878",
       "role": "maintenance-history-not-all-current"
     },
     {
@@ -3142,8 +3226,8 @@
     },
     {
       "path": "maintenance/product-repair-20260922/complete-release.py",
-      "bytes": 7839,
-      "sha256": "596cca4ecbbe053e9666635a343049a7f4fda28e5abb086c1d442c276763439a",
+      "bytes": 8392,
+      "sha256": "f996afa4c01687d0ed717007ebf83f5ae59eac0c8cbd553cb8951c15a4407924",
       "role": "maintenance-history-not-all-current"
     },
     {
@@ -3189,6 +3273,12 @@
       "role": "maintenance-history-not-all-current"
     },
     {
+      "path": "maintenance/product-repair-20260922/recover-probes.py",
+      "bytes": 1655,
+      "sha256": "22d9ca8cd562179fa187d4d5165fe252932c65cadefc68d94fa1e5812b13d375",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
       "path": "maintenance/product-repair-20260922/release-acceptance.json",
       "bytes": 2293,
       "sha256": "e8bf8aa5b7cac113001ecc3d905872d73c76461cc66e1c515211f817c3951abf",
@@ -3208,8 +3298,8 @@
     },
     {
       "path": "maintenance/product-repair-20260922/task-state.json",
-      "bytes": 1085,
-      "sha256": "755089a90d7424576faa933ba12dae425f79b24acee0fc0cd480f80c29fcd902",
+      "bytes": 1753,
+      "sha256": "c4a79417c5b79d1834b35f2519e1e85355301539fb308e3012b3e793d5279bb2",
       "role": "maintenance-history-not-all-current"
     },
     {
@@ -3654,6 +3744,18 @@
       "path": "maintenance/product-repair-20260922/qa/tests-inspection.json",
       "bytes": 41454,
       "sha256": "c406d84023546d658adbd8d8f4d2af1708b58620b3a712dc72ac939b8d257d6b",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/product-repair-20260922/qa/ui-polish-20260922-routes-progress.json",
+      "bytes": 73943,
+      "sha256": "c68fbe7e5042b818aad058af926a7c538d33df36218def64a87bd236299c2e6f",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/product-repair-20260922/qa/ui-polish-20260922-routes.json",
+      "bytes": 75771,
+      "sha256": "3c9cbef5d3eccb6226ad00e442b27e9f31178fd01e1c18a2ae854ba69b1e0ab7",
       "role": "maintenance-history-not-all-current"
     },
     {
@@ -4110,6 +4212,372 @@
       "path": "maintenance/product-repair-20260922/frontend/syntax/vocabulary-review-controller.js",
       "bytes": 18577,
       "sha256": "b9918c94a53830d061fb7395b8401b93ed36dbadc7a4ecc23b8c65eff1e42f5b",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/ui-polish-20260922/action.json",
+      "bytes": 203,
+      "sha256": "794158d2f2a5573e8a9fc0821f9552277e51a53b283b56ccdb9d617313462b4c",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/ui-polish-20260922/bind-route-check.py",
+      "bytes": 1126,
+      "sha256": "686c70a5ea07b16cafb9fd6f2b19016ae436d9df452dbbb0d37b35de94b01270",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/ui-polish-20260922/build.json",
+      "bytes": 487,
+      "sha256": "23cb0805eae254929a6e86ce81f73422374841cbb2db781a4704dbf84d529f33",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/ui-polish-20260922/build.py",
+      "bytes": 11273,
+      "sha256": "1a4dc0c8cc12c6544b9212eacdbb7d1bedc22a036e65a17baa1791a5600a6de9",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/ui-polish-20260922/check-graph.cjs",
+      "bytes": 1004,
+      "sha256": "a8b67649b30f4a5b2df36f41967975b9c8d64c3b90ae934fa306a02abdd8f7e6",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/ui-polish-20260922/finalize.py",
+      "bytes": 9335,
+      "sha256": "5ca5ad6834da0f06a2e4ae65b36b8b617cd246635117f567f3f89e1b2045ad60",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/ui-polish-20260922/graph-verification.json",
+      "bytes": 104,
+      "sha256": "d8e3735d60e6b8a1a0f20bc9b17b5bf9f5d6e554901b92f3d8a2b949c2295e1a",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/ui-polish-20260922/graph.py",
+      "bytes": 7563,
+      "sha256": "cd1672d22a10d5fb921c556a394007437235b9aaea2da5c02d352c8425e58356",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/ui-polish-20260922/history.js",
+      "bytes": 4013,
+      "sha256": "452f644263043e8b24add65977c2c03137ae8e8f67f14bcbe35b64cd5b6b3969",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/ui-polish-20260922/install.py",
+      "bytes": 1266,
+      "sha256": "b302375b4e862e6b1bae40331f813b5ea9c0570c34e9db239f35494cac905e39",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/ui-polish-20260922/installation.json",
+      "bytes": 859,
+      "sha256": "44c74fd9354f589b4c32b601295038d1755d0b889acd1f42e49a168947bf0842",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/ui-polish-20260922/interface-tensor.html",
+      "bytes": 1215143,
+      "sha256": "81c96bdc837a3ef9f4a0450c657f675b5fbf64e8723f6412d90aea0b0791af4f",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/ui-polish-20260922/interface-tensor.json",
+      "bytes": 1531298,
+      "sha256": "f502e9c4f4c9eef007dc8585e2e55ff01214041232808f9563ddd157bdc7921e",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/ui-polish-20260922/kimi-design-review.md",
+      "bytes": 2722,
+      "sha256": "5b81fddd3b13a890ebb189949f1b9664f2c2f7aa0650f40e8f7b1b9753415d1c",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/ui-polish-20260922/legacy-routes.json",
+      "bytes": 79209,
+      "sha256": "b5573125c74b04cd755c78afc9217d66feaa6bb396c2df2f35ce6b3b1472e83c",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/ui-polish-20260922/live-index.html",
+      "bytes": 186062,
+      "sha256": "4e3d8f43dadf06515e0f1548f0dad471af3629623f703e8fddb1e6902b9c8569",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/ui-polish-20260922/live-verification.json",
+      "bytes": 7659,
+      "sha256": "e23af7badd0e364c66d98b15b7f8ca4cf5740cb3834d35718beea2ed00fccb89",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/ui-polish-20260922/mainland-summary.json",
+      "bytes": 50707,
+      "sha256": "669a282baa10f51ede82e4f922f4cfe5bad793018523e6d2868c3a57d5ba4729",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/ui-polish-20260922/packed-verification.json",
+      "bytes": 7649,
+      "sha256": "abe012b8b74d4303a9be24a59c274dc212ba42e3e5e8f602289827229af3815c",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/ui-polish-20260922/polish.css",
+      "bytes": 19119,
+      "sha256": "b2d1121a0f469b563a235c013505bccf55f1c7c7062103731c61683f5bc5acb8",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/ui-polish-20260922/prior-publication-status.json",
+      "bytes": 4127,
+      "sha256": "c1ef66ff90866730a975016b96a2a79264e8efe76ce1377f60e8d38bf9a70da6",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/ui-polish-20260922/probe.cjs",
+      "bytes": 3734,
+      "sha256": "f47496e173bae67a9a42889c098308dd00d07f351ad9e5be8eb74e0aec05b192",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/ui-polish-20260922/README.md",
+      "bytes": 2305,
+      "sha256": "c5be6348839c4cb32d8822c7d5a81111c1e6f77523cfa4f37f7743557a7aa7a7",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/ui-polish-20260922/release.json",
+      "bytes": 3611,
+      "sha256": "790df6e27089574ba5fa66e3f6982a339b973685d84c9bef19235b2f65bd5dd0",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/ui-polish-20260922/route-binding.json",
+      "bytes": 342,
+      "sha256": "544f231892fc99b48271e0a823a4b19b121d89fc558b3d4c262cd28afaec56b5",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/ui-polish-20260922/verification.json",
+      "bytes": 7695,
+      "sha256": "9674c01acf98a8ff1fc73f6620893667c822c09a1b0877a1c0364ee5072e5f84",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/ui-polish-20260922/verify.cjs",
+      "bytes": 11815,
+      "sha256": "20519e022676d17c057804abb02e00f1eabfdeb4e4c12b44c9f11d36d3dd8ae6",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/ui-polish-20260922/word-learning.css",
+      "bytes": 7843,
+      "sha256": "7cc3d158cef6e816fb58ae7c5727e2c5f86cd8eb5c2bd4d92ff4d4a2de346427",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/ui-polish-20260922/word-learning.js",
+      "bytes": 8961,
+      "sha256": "2050baae836634d6a727627ba380e54eb3630fc8f736a9ad3f8302d1de6c082b",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/ui-polish-20260922/word-navigation.js",
+      "bytes": 2469,
+      "sha256": "9514f2188152f3d938424dfa622b1166d2ec2e314cc5e149b13c539a09dab3aa",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/ui-polish-20260922/syntax/authentic-case-script.js",
+      "bytes": 4186,
+      "sha256": "8ad452476b21bde744c83d6bdd5e43bab1a38d8c94a21a22637d6d6f354d442b",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/ui-polish-20260922/syntax/course-window-nav.js",
+      "bytes": 234,
+      "sha256": "f73105b68c4850924809a989de7a115f695fcb728a1fe2f8bca57145d25f2e91",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/ui-polish-20260922/syntax/course-window-script.js",
+      "bytes": 58094,
+      "sha256": "d11d0a1935b2cbdc2526dbf718ac013ddf56195e43e9984dd38df5d124ad9e75",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/ui-polish-20260922/syntax/daily-study-model-script.js",
+      "bytes": 16934,
+      "sha256": "123f64deb0c4946d5797bb277b26ebf0c06107d967bddc781c494f3db8fbe2ef",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/ui-polish-20260922/syntax/daily-study-script.js",
+      "bytes": 17777,
+      "sha256": "e88b3a0f93871a4ef6266ba85f8ede6eaa7a379417e3ba6d9e93ce1f21c4c7ab",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/ui-polish-20260922/syntax/energy-control-model-script.js",
+      "bytes": 2750,
+      "sha256": "123c46508d7240f35b204860430ebaff1355aeda4ab975ec1ce116624e785a0f",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/ui-polish-20260922/syntax/energy-control-script.js",
+      "bytes": 7017,
+      "sha256": "a547c6b0b3a1983b1fdb09f00a6192d5cc8275891d54c864daf12ad7e12c25db",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/ui-polish-20260922/syntax/health-study-bridge-script.js",
+      "bytes": 3831,
+      "sha256": "d2b4a3fc88ee2e94dde45fc508cfd1232fbcbb887fa235b61bc9203bd6f80654",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/ui-polish-20260922/syntax/health-study-ui-script.js",
+      "bytes": 5551,
+      "sha256": "0aee625d4b0cdafc66929006ea516901839989d4d4253e9bfc2789e8a07bbfc8",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/ui-polish-20260922/syntax/learning-adjust-model-script.js",
+      "bytes": 4545,
+      "sha256": "c2e6e38d41c62bba9bc5ef28b533da3d53daa64416441bba0b949d312db00642",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/ui-polish-20260922/syntax/learning-adjust-script.js",
+      "bytes": 29372,
+      "sha256": "f0d455cd10fdfee1ebe90b4d0acd667b33eadd6db9ccd4416b65e42efbfba9af",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/ui-polish-20260922/syntax/lookup-controller.js",
+      "bytes": 20593,
+      "sha256": "e2b82c178e25994e437bc22616087c85d900b938f379ba6bce36528a2b0d4a5d",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/ui-polish-20260922/syntax/material-reading-script.js",
+      "bytes": 3115,
+      "sha256": "a2aabf42738b789b6a6a3614ccd51bf9c0e518c4b411ceff04430a7f6a7f4670",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/ui-polish-20260922/syntax/prerequisite-interactions-script.js",
+      "bytes": 714,
+      "sha256": "a23d0cdc79d9a8cb4b7674ceaba4df2e7a2e1ac18bc1043de3ea69984fffa7ec",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/ui-polish-20260922/syntax/product-entry-controller.js",
+      "bytes": 3998,
+      "sha256": "3f42433225c5ccc60aa3676f0cfc64d7cf16387ff213fde1afb7724599970e71",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/ui-polish-20260922/syntax/qt-script.js",
+      "bytes": 717,
+      "sha256": "d9e55d2d844ee7024285f49d61826ea3889f0285085f8e0e1be32d9665c93e50",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/ui-polish-20260922/syntax/record-concurrency-model-script.js",
+      "bytes": 4322,
+      "sha256": "bd9857b850477c3aa241a87ef2abb3b5c63e205567df1c2451de7bce66962fdd",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/ui-polish-20260922/syntax/script-1.js",
+      "bytes": 24608,
+      "sha256": "7fd360e88984f3c2243f6ae2f6632cf98f38f890bd2f723953603019228f10ea",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/ui-polish-20260922/syntax/script-18.js",
+      "bytes": 17382,
+      "sha256": "98ebd1d68b16f0237ab4064c0a0aba85ef1161537f7630a98347cee73fdec7c0",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/ui-polish-20260922/syntax/script-2.js",
+      "bytes": 2024,
+      "sha256": "c951833cf7fec47cddc87c6afc4b38e9cdeaac18d7072856d868a17a237567e3",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/ui-polish-20260922/syntax/script-3.js",
+      "bytes": 9959,
+      "sha256": "47187a422f101f8a0ee499d888a94aef0cac0bad1b7c25611df1ef4ae79397d3",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/ui-polish-20260922/syntax/script-4.js",
+      "bytes": 12490,
+      "sha256": "ef529ba43a3a0fb074a45b393a93281b8515738b6a48065078788fa84e37b824",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/ui-polish-20260922/syntax/script-5.js",
+      "bytes": 3869,
+      "sha256": "81c73836f96b0627a6ed6aa4542fdd7100c25e7a39207d78b7b67cd624cf0037",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/ui-polish-20260922/syntax/script-9.js",
+      "bytes": 13257,
+      "sha256": "82029d53fe6922834309a44c53e494b356f0d861c9581059d2ef6e67e71855c3",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/ui-polish-20260922/syntax/selection-tools-script.js",
+      "bytes": 15177,
+      "sha256": "30d3020a04e224eca0cc39a5be84b957b2bcdc61d33de5970aac4769792e24a9",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/ui-polish-20260922/syntax/vocabulary-quick-marks-script.js",
+      "bytes": 3072,
+      "sha256": "7227d76dbfa50ded53c45992a930bd220adb1e181eff1e84af780f45c8053f02",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/ui-polish-20260922/syntax/vocabulary-review-controller.js",
+      "bytes": 18651,
+      "sha256": "2838bdbb57925ef967928f5d5dcbf847623c8b62f3603c6e79ec5d9279f08ded",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/ui-polish-20260922/syntax/word-history-controller.js",
+      "bytes": 4036,
+      "sha256": "56ee9ac0649d660b5a455850d4712881ead29798018a698d450a46f0d4a593b0",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/ui-polish-20260922/syntax/word-learning-controller.js",
+      "bytes": 9013,
+      "sha256": "f6e6ec5189206f2e09d86b77880dc158c52ccc69f3355f70d786fa2a30236bc7",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/ui-polish-20260922/syntax/word-navigation-controller.js",
+      "bytes": 2490,
+      "sha256": "aaa44f98c79fed50cbe12b7691b23a6ed632dd189405e890f085a7b5ca3f3bc0",
+      "role": "maintenance-history-not-all-current"
+    },
+    {
+      "path": "maintenance/ui-polish-20260922/syntax/writing-entry-controller.js",
+      "bytes": 5732,
+      "sha256": "83191c02cbd2c06882fc3ffc57470ed5bc59bb4658f24aebac021e2f1fc25c91",
       "role": "maintenance-history-not-all-current"
     },
     {
@@ -7552,8 +8020,8 @@
     },
     {
       "path": "maintenance/research/github-pages-migration-status.json",
-      "bytes": 2730,
-      "sha256": "ba6b14e24403c812e3a750de02b9046221253a9a09ed3d0f00f4047eebba62b7",
+      "bytes": 3611,
+      "sha256": "790df6e27089574ba5fa66e3f6982a339b973685d84c9bef19235b2f65bd5dd0",
       "role": "audit-or-probe-tool"
     },
     {
@@ -7612,8 +8080,8 @@
     },
     {
       "path": "maintenance/research/package_source_snapshot_20260921.py",
-      "bytes": 5992,
-      "sha256": "89df452128ffd30083172371b1dc274fd596b23199eea931e0548f5ec657d601",
+      "bytes": 6077,
+      "sha256": "c691cd2283d2eaa154b351add34fab1880e30255f9782b90afa7756c538266f4",
       "role": "audit-or-probe-tool"
     },
     {
@@ -7852,8 +8320,14 @@
     },
     {
       "path": "maintenance/research/product-redesign-delivery-20260922.md",
-      "bytes": 3764,
-      "sha256": "b77d74acbd5d5fcde084b51333cb4d6814f235b94256e7e4dc5a450ae8addbc0",
+      "bytes": 5508,
+      "sha256": "b6dc27229715897ba47a04ffeeb53c7b350743493318613abc0611fc340ee17c",
+      "role": "product-review-and-delivery"
+    },
+    {
+      "path": "maintenance/research/product-word-workspace-delivery-20260922.md",
+      "bytes": 3363,
+      "sha256": "2a22492234de60e05ed2a08d4275b765e93e366d85863092e9330ad58137ce9f",
       "role": "product-review-and-delivery"
     },
     {

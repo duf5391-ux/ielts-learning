@@ -53,7 +53,7 @@
     const term = card.querySelector('[data-local-dictionary]')?.dataset.localDictionary;
     return {card,term,key:term?normalize(term):'',field:card.querySelector('input[data-save^="topic-vocab-star-"]')};
   }).filter(x=>x.term&&x.field);
-  function refreshTopicLabels(){for(const card of topicCards){let label=card.field.parentElement.querySelector('.product-star-label');if(!label){for(const n of [...card.field.parentElement.childNodes])if(n.nodeType===3)n.textContent='';label=node('span','','product-star-label');card.field.after(label);const link=node('a','去单词表');link.href='#vocabulary-review';link.className='product-word-list-link';card.field.parentElement.after(link);}label.textContent=card.field.checked?'已收藏 · 在单词表':'收藏';card.field.parentElement.nextElementSibling.hidden=!card.field.checked;}}
+  function refreshTopicLabels(){for(const card of topicCards){let label=card.field.parentElement.querySelector('.product-star-label');if(!label){for(const n of [...card.field.parentElement.childNodes])if(n.nodeType===3)n.textContent='';label=node('span','','product-star-label');card.field.after(label);const link=node('a','查看已收录词语');link.href='#word-library';link.className='product-word-list-link';card.field.parentElement.after(link);}label.textContent=card.field.checked?'已重点收藏':'收藏';card.field.parentElement.nextElementSibling.hidden=!card.field.checked;}}
   function collectTopic(card, favorite) {
     const rows=readRows(), old=rows.find(r=>keyOf(r)===card.key), now=new Date().toISOString();
     const row={...old,key:card.key,term:card.term,favorite:!!favorite,favoriteAt:old?.favoriteAt||now,firstAt:old?.firstAt||now,lastAt:old?.lastAt||now,lookupVersion:2,count:old?.count||0,
@@ -72,7 +72,7 @@
   function refreshFavorite() {
     const button = $('#lookup-favorite'); if (!button) return;
     const row = history().find(r => keyOf(r) === normalize(activeTerm));
-    button.disabled = !row; button.textContent = row?.favorite ? '★ 已收藏 · 取消收藏' : '☆ 收藏到单词表';
+    button.disabled = !row; button.textContent = row?.favorite ? '★ 已收藏 · 取消收藏' : '☆ 标为重点收藏';
     button.setAttribute('aria-pressed', String(!!row?.favorite));
   }
   function remember(term, context, data) {
@@ -82,7 +82,7 @@
       count:(Number(old?.count) || 0) + 1, status:old?.status || 'pending', context:context || old?.context || '',
       meaning:data.meaning || old?.meaning || '', chunk:data.chunk || old?.chunk || '',
       example:data.example || old?.example || '', source:data.source || old?.source || '', lookupState:data.meaning || old?.meaning ? 'found' : 'unresolved',
-      lookups:[...(Array.isArray(old?.lookups) ? old.lookups : (old ? [{at:old.lastAt || old.firstAt || now,context:old.context || '',legacy:true}] : [])),{at:now,context:context || ''}]};
+      lookups:[...(Array.isArray(old?.lookups) ? old.lookups : (old && old.count>0 && (old.lastAt||old.firstAt) ? [{at:old.lastAt || old.firstAt,context:old.context || '',legacy:true}] : [])),{at:now,context:context || ''}]};
     save([entry, ...rows.filter((_, i) => i !== index)]);
   }
   function supplement(term, data) {
@@ -96,7 +96,7 @@
     const q = normalize($('#lookup-history-search').value);
     const shown = rows.filter(r => (filter === 'all' || (filter === 'favorite' ? r.favorite : r.status === filter)) &&
       normalize([r.term,r.meaning,r.context].join(' ')).includes(q));
-    $('#lookup-history-count').textContent = `${rows.length} 个查询词或词组 · ${rows.filter(r => r.favorite).length} 个已收藏`;
+    $('#lookup-history-count').textContent = `${rows.length} 个查过或学过的词 · ${rows.filter(r => r.favorite).length} 个已收藏`;
     const list = $('#lookup-history-list'); list.replaceChildren();
     if (!shown.length) { list.append(node('p', rows.length ? '没有匹配的记录。' : '点击正文中的英文词，释义和原句会自动留在这里。', 'lookup-muted')); return; }
     for (const row of shown.slice(0, 60)) {
@@ -104,12 +104,12 @@
       const head = node('div', '', 'lookup-record-head');
       const reopen = node('button', row.term, 'lookup-term'); reopen.type = 'button';
       reopen.addEventListener('click', event => { event.stopPropagation(); lookup(row.term, row.context, reopen); });
-      head.append(reopen, node('span', row.favorite ? '已收藏' : '查询记录', 'lookup-tag'));
+      head.append(reopen, node('span', row.favorite ? '重点收藏' : row.learning ? '学过的词' : '查询记录', 'lookup-tag'));
       card.append(head, node('p', row.meaning || '暂未查到释义，可点击词语重试。'));
       if (row.chunk) card.append(node('p', row.chunk, 'lookup-chunk'));
       if (row.context) card.append(node('blockquote', row.context));
-      card.append(node('p', row.count===0?'从话题词卡收藏':`查询 ${row.count || 1} 次 · 最近 ${new Date(row.lastAt).toLocaleString('zh-CN')}`, 'lookup-muted'));
-      const favorite = node('button', row.favorite ? '取消收藏' : '☆ 收藏到单词表', 'lookup-review'); favorite.type = 'button';
+      card.append(node('p', row.count===0?(row.learning?'来自背词或已标记的词卡':'来自话题词卡'):`查询 ${row.count || 1} 次 · 最近 ${new Date(row.lastAt).toLocaleString('zh-CN')}`, 'lookup-muted'));
+      const favorite = node('button', row.favorite ? '取消收藏' : '☆ 标为重点收藏', 'lookup-review'); favorite.type = 'button';
       favorite.setAttribute('aria-pressed', String(!!row.favorite)); favorite.addEventListener('click', () => setFavorite(row.term, !row.favorite)); card.append(favorite);
       const action = node('button', row.status === 'reviewed' ? '旧标记：已复习 → 待复习' : '旧标记：待复习 → 已复习', 'lookup-review'); action.type = 'button';
       action.addEventListener('click', () => { const all = readRows(); const r = all.find(x => keyOf(x) === keyOf(row));
@@ -128,12 +128,12 @@
   }
   function title(term) {
     result.replaceChildren(node('h3', term));
-    const actions=node('div','','lookup-favorite-actions'), favorite=node('button','☆ 收藏到单词表','lookup-review');
+    const actions=node('div','','lookup-favorite-actions'), favorite=node('button','☆ 标为重点收藏','lookup-review');
     favorite.type='button'; favorite.id='lookup-favorite'; favorite.addEventListener('click',()=>{
       try { setFavorite(term, !history().find(r=>keyOf(r)===normalize(term))?.favorite); }
       catch(error) { result.append(node('p',error.message,'lookup-muted')); }
     });
-    const link=node('a','去单词表复习 →'); link.href='#vocabulary-review'; link.addEventListener('click',close);
+    const link=node('a','开始复习 →'); link.href='#word-review'; link.addEventListener('click',close);
     actions.append(favorite,link); result.append(actions); refreshFavorite();
   }
   function showCourse(match) {

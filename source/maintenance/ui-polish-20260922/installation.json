@@ -1,0 +1,20 @@
+{
+  "baseline": "e2b9e12e58c8f03de4b43b8ec6bdb1b81a15130ddceb6b80ea5fff6a3d742075",
+  "candidate": "3ba0baa50a6482d10b516112f0cfb2b8cb454b700ef11a141c30b4fbd65dabdc",
+  "oldFields": 4091,
+  "fields": 4092,
+  "idsRetained": 2460,
+  "mediaRetained": 111,
+  "primaryEntries": {
+    "study": "学习库",
+    "vocabulary-review": "单词",
+    "practice": "专项练习",
+    "tests": "自测",
+    "writing-workbench": "写作训练",
+    "workspace": "资料与记录"
+  },
+  "formalPath": "C:\\Users\\Admin1\\Documents\\Codex\\2026-09-12\\referenced-chatgpt-conversation-this-is-an\\outputs\\IELTS-四科学习册\\开始学习.html",
+  "backup": "C:\\Users\\Admin1\\Documents\\ChatGPT\\ielts\\ui-polish-20260922\\formal-backup\\开始学习.html",
+  "installedAt": "2026-09-22T02:34:07.495052+00:00",
+  "verification": "verification.json"
+}

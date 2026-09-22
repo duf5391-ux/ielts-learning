@@ -2,15 +2,34 @@
   "context_id": "ielts-product-repair-20260922",
   "baseline_sha256": "83346245cc01a3c48dcac31ce6c2b8a30744391cf6e4ae99f8db105103e6d166",
   "kimi_tasks": [
-    {"task_id":"msg-8d01e789-2470-4e7d-8da5-2566d27a0344","status":"completed","runtime_model":"k3-agent","result":"research/product-pm-kimi-20260922.md"},
-    {"task_id":"msg-c334752f-29ee-40e2-a2a1-6c5c4fc33c8d","status":"completed","runtime_model":"k3-agent","result":"research/product-entry-design-kimi-20260922.md"}
+    {
+      "task_id": "msg-8d01e789-2470-4e7d-8da5-2566d27a0344",
+      "status": "completed",
+      "runtime_model": "k3-agent",
+      "result": "research/product-pm-kimi-20260922.md"
+    },
+    {
+      "task_id": "msg-c334752f-29ee-40e2-a2a1-6c5c4fc33c8d",
+      "status": "completed",
+      "runtime_model": "k3-agent",
+      "result": "research/product-entry-design-kimi-20260922.md"
+    },
+    {
+      "task_id": "msg-66269e08-36d4-4f88-99b4-b718045c96ae",
+      "status": "completed",
+      "runtime_model": "k3-agent",
+      "result": "research/product-entry-visual-review-kimi-20260922.md"
+    }
   ],
   "ownership": {
-    "frontend":"02/03/14/15 reliability and recording",
-    "writing":"04/13 writing coverage and local workflow",
-    "root":"global navigation and content discoverability; JQ01/02/03; integration/release",
-    "journey_qa":"independent product navigation and journey regression"
+    "frontend": "02/03/14/15 reliability and recording",
+    "writing": "04/13 writing coverage and local workflow",
+    "root": "global navigation and content discoverability; JQ01/02/03; integration/release",
+    "journey_qa": "independent product navigation and journey regression"
   },
-  "latest_priority":"User explicitly wants common word/review/sentence tools independent and learning content easy to find, not nested containers. Verified neighboring-thread original quote; see research/product-entry-user-evidence-20260922.md.",
-  "publication":"Not installed or published yet"
+  "latest_priority": "User explicitly wants common word/review/sentence tools independent and learning content easy to find, not nested containers. Verified neighboring-thread original quote; see research/product-entry-user-evidence-20260922.md.",
+  "publication": "Installed, packed/browser verified, same-site Actions succeeded and HTTPS verified",
+  "source_html_sha256": "e2b9e12e58c8f03de4b43b8ec6bdb1b81a15130ddceb6b80ea5fff6a3d742075",
+  "workflow_url": "https://github.com/duf5391-ux/ielts-learning/actions/runs/35670336528",
+  "mainland_evidence": "research/github-publication-probes-20260922T001012.167979Z/summary-recovered.json"
 }

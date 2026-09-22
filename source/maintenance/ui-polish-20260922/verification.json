@@ -1,0 +1,283 @@
+{
+  "target": "C:\\Users\\Admin1\\Documents\\ChatGPT\\ielts\\ui-polish-20260922\\candidate.html",
+  "source_sha256": "3ba0baa50a6482d10b516112f0cfb2b8cb454b700ef11a141c30b4fbd65dabdc",
+  "at": "2026-09-22T02:30:27.380Z",
+  "checks": [
+    "fresh word entry opens curriculum without selection",
+    "only six primary entries",
+    "word section has learning review sentences and history",
+    "direct grade creates study event without favorite",
+    "study marks newly studied, never automatically mastered",
+    "grade advances to next word",
+    "hinted learning still does not earn independent streak after reload",
+    "reload resumes after saved words",
+    "topic changes immediately to its next word",
+    "topic preference survives refresh",
+    "failed storage does not advance or overwrite history",
+    "failed save has visible explanation",
+    "retry saves and advances",
+    "looked-up word enters review without collecting",
+    "review stats include every learned or queried word",
+    "review starts from automatic queue",
+    "review event is saved",
+    "wrong spelling cannot be graded independently known",
+    "real learning and spelling events are visible",
+    "history retains exact spelling input",
+    "sentence view highlights vocabulary owner",
+    "existing sentence tool is present",
+    "library contains query and learning without favorite gate",
+    "old marked words enter review without invented events",
+    "old mastery and sentence record remain unchanged",
+    "1440 study has one active panel and no overflow",
+    "1440 vocabulary-review has one active panel and no overflow",
+    "1440 word-review has one active panel and no overflow",
+    "1440 sentence-learning has one active panel and no overflow",
+    "1440 lookup-learning has one active panel and no overflow",
+    "1440 review-history has one active panel and no overflow",
+    "1440 word-library has one active panel and no overflow",
+    "1440 practice has one active panel and no overflow",
+    "1440 tests has one active panel and no overflow",
+    "1440 writing-workbench has one active panel and no overflow",
+    "1440 workspace has one active panel and no overflow",
+    "1440 topical-vocabulary has one active panel and no overflow",
+    "390 study has one active panel and no overflow",
+    "390 vocabulary-review has one active panel and no overflow",
+    "390 word-review has one active panel and no overflow",
+    "390 sentence-learning has one active panel and no overflow",
+    "390 lookup-learning has one active panel and no overflow",
+    "390 review-history has one active panel and no overflow",
+    "390 word-library has one active panel and no overflow",
+    "390 practice has one active panel and no overflow",
+    "390 tests has one active panel and no overflow",
+    "390 writing-workbench has one active panel and no overflow",
+    "390 workspace has one active panel and no overflow",
+    "390 topical-vocabulary has one active panel and no overflow",
+    "phone default grade buttons are fully above bottom navigation",
+    "phone more drawer exposes self tests and resources",
+    "drawer route works and closes",
+    "daily controls do not overlap new phone navigation",
+    "rest still pauses daily actions",
+    "word history survives daily rest finish and reload",
+    "no uncaught browser errors"
+  ],
+  "routes": [
+    {
+      "id": "study",
+      "width": 1440,
+      "overflow": false,
+      "active": [
+        "study"
+      ],
+      "title": "学习库 · IELTS"
+    },
+    {
+      "id": "vocabulary-review",
+      "width": 1440,
+      "overflow": false,
+      "active": [
+        "vocabulary-review"
+      ],
+      "title": "单词 · 背单词 · IELTS"
+    },
+    {
+      "id": "word-review",
+      "width": 1440,
+      "overflow": false,
+      "active": [
+        "word-review"
+      ],
+      "title": "单词 · 复习 · IELTS"
+    },
+    {
+      "id": "sentence-learning",
+      "width": 1440,
+      "overflow": false,
+      "active": [
+        "sentence-learning"
+      ],
+      "title": "单词 · 句子 · IELTS"
+    },
+    {
+      "id": "lookup-learning",
+      "width": 1440,
+      "overflow": false,
+      "active": [
+        "lookup-learning"
+      ],
+      "title": "单词 · 查词与历史 · IELTS"
+    },
+    {
+      "id": "review-history",
+      "width": 1440,
+      "overflow": false,
+      "active": [
+        "review-history"
+      ],
+      "title": "单词 · 学习记录 · IELTS"
+    },
+    {
+      "id": "word-library",
+      "width": 1440,
+      "overflow": false,
+      "active": [
+        "word-library"
+      ],
+      "title": "单词 · 已收录词语 · IELTS"
+    },
+    {
+      "id": "practice",
+      "width": 1440,
+      "overflow": false,
+      "active": [
+        "practice"
+      ],
+      "title": "专项练习 · IELTS"
+    },
+    {
+      "id": "tests",
+      "width": 1440,
+      "overflow": false,
+      "active": [
+        "tests"
+      ],
+      "title": "自测 · IELTS"
+    },
+    {
+      "id": "writing-workbench",
+      "width": 1440,
+      "overflow": false,
+      "active": [
+        "writing-workbench"
+      ],
+      "title": "写作训练 · IELTS"
+    },
+    {
+      "id": "workspace",
+      "width": 1440,
+      "overflow": false,
+      "active": [
+        "workspace"
+      ],
+      "title": "资料与记录 · IELTS"
+    },
+    {
+      "id": "topical-vocabulary",
+      "width": 1440,
+      "overflow": false,
+      "active": [
+        "vocabulary"
+      ],
+      "title": "单词 / 词汇 · IELTS"
+    },
+    {
+      "id": "study",
+      "width": 390,
+      "overflow": false,
+      "active": [
+        "study"
+      ],
+      "title": "学习库 · IELTS"
+    },
+    {
+      "id": "vocabulary-review",
+      "width": 390,
+      "overflow": false,
+      "active": [
+        "vocabulary-review"
+      ],
+      "title": "单词 · 背单词 · IELTS"
+    },
+    {
+      "id": "word-review",
+      "width": 390,
+      "overflow": false,
+      "active": [
+        "word-review"
+      ],
+      "title": "单词 · 复习 · IELTS"
+    },
+    {
+      "id": "sentence-learning",
+      "width": 390,
+      "overflow": false,
+      "active": [
+        "sentence-learning"
+      ],
+      "title": "单词 · 句子 · IELTS"
+    },
+    {
+      "id": "lookup-learning",
+      "width": 390,
+      "overflow": false,
+      "active": [
+        "lookup-learning"
+      ],
+      "title": "单词 · 查词与历史 · IELTS"
+    },
+    {
+      "id": "review-history",
+      "width": 390,
+      "overflow": false,
+      "active": [
+        "review-history"
+      ],
+      "title": "单词 · 学习记录 · IELTS"
+    },
+    {
+      "id": "word-library",
+      "width": 390,
+      "overflow": false,
+      "active": [
+        "word-library"
+      ],
+      "title": "单词 · 已收录词语 · IELTS"
+    },
+    {
+      "id": "practice",
+      "width": 390,
+      "overflow": false,
+      "active": [
+        "practice"
+      ],
+      "title": "专项练习 · IELTS"
+    },
+    {
+      "id": "tests",
+      "width": 390,
+      "overflow": false,
+      "active": [
+        "tests"
+      ],
+      "title": "自测 · IELTS"
+    },
+    {
+      "id": "writing-workbench",
+      "width": 390,
+      "overflow": false,
+      "active": [
+        "writing-workbench"
+      ],
+      "title": "写作训练 · IELTS"
+    },
+    {
+      "id": "workspace",
+      "width": 390,
+      "overflow": false,
+      "active": [
+        "workspace"
+      ],
+      "title": "资料与记录 · IELTS"
+    },
+    {
+      "id": "topical-vocabulary",
+      "width": 390,
+      "overflow": false,
+      "active": [
+        "vocabulary"
+      ],
+      "title": "单词 / 词汇 · IELTS"
+    }
+  ],
+  "errors": [],
+  "pass": true
+}

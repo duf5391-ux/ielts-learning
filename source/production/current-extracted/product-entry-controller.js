@@ -26,12 +26,13 @@
       const q=wordSearch.toLowerCase();wordSearch='';
       if([...document.querySelectorAll('.tv-card')].some(n=>n.textContent.toLowerCase().includes(q))){$('#tv-topic').value='all';$('#tv-status').value='all';$('#tv-search').value=q;$('#tv-search').dispatchEvent(new Event('input',{bubbles:true}));}
     }
-    const title={'vocabulary-review':'单词','word-review':'复习','sentence-learning':'句子','writing-workbench':'写作工作台'}[panel.id];
+    const wordRoutes=['vocabulary-review','word-review','sentence-learning','lookup-learning','review-history','word-library'];
+    const title={'vocabulary-review':'单词 · 背单词','word-review':'单词 · 复习','sentence-learning':'单词 · 句子','lookup-learning':'单词 · 查词与历史','review-history':'单词 · 学习记录','word-library':'单词 · 已收录词语','writing-workbench':'写作训练'}[panel.id];
     if(title){$('#current-page-label').textContent=title;document.title=title+' · IELTS';}
     let id=panel.id;
     const target=document.getElementById(decodeURIComponent(location.hash.slice(1)));
-    if(id==='lookup-learning'||target?.closest('#topical-vocabulary'))id='vocabulary-review';
-    if(['study','practice'].includes(id)){}else if(!['vocabulary-review','word-review','sentence-learning'].includes(id))id='product-more';
+    if(wordRoutes.includes(id)||target?.closest('#topical-vocabulary'))id='vocabulary-review';
+    else if(!['study','practice','writing-workbench'].includes(id))id='product-more';
     for(const a of nav.children){const active=a.id===id||a.getAttribute('href')==='#'+id;if(active)a.setAttribute('aria-current','page');else a.removeAttribute('aria-current');}
     try{
       const state=JSON.parse($('#learning-adjust-state').value||'{}');

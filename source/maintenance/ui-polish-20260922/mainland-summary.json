@@ -1,0 +1,1550 @@
+{
+  "base_url": "https://duf5391-ux.github.io/ielts-learning/",
+  "created_at": "2026-09-22T02:43:39.753459+00:00",
+  "scope": "HTTPS response and optional visible prefix only; not complete playback or nationwide reliability",
+  "resources": [
+    {
+      "key": "homepage",
+      "label": "首页",
+      "url": "https://duf5391-ux.github.io/ielts-learning/",
+      "measurement_id": "2vgOrVhWfl3UjPysH00021BCt",
+      "measurement_status": "finished",
+      "created_at": "2026-09-22T02:43:20.656Z",
+      "requested_probes": 14,
+      "actual_probes": 13,
+      "unallocated_probe_count": 1,
+      "returned_nodes": 13,
+      "client_error": null,
+      "nodes": [
+        {
+          "country": "CN",
+          "city": "Beijing",
+          "asn": 9808,
+          "network": "China Mobile Communications Group",
+          "network_tags": [
+            "eyeball-network"
+          ],
+          "probe_status": "failed",
+          "http_status": null,
+          "tls_authorized": null,
+          "tls_protocol": null,
+          "tls_error": null,
+          "resolved_address": "185.199.109.153",
+          "timings_ms": {
+            "total": 15000,
+            "dns": 16,
+            "tcp": null,
+            "tls": null,
+            "firstByte": null,
+            "download": null
+          },
+          "content_type": null,
+          "content_range": null,
+          "content_length": null,
+          "range_honored": null,
+          "api_body_truncated": false,
+          "prefix": {
+            "check": "unavailable",
+            "note": "API未返回正文，不能核验前缀"
+          },
+          "title": null,
+          "error": "Request timed out while establishing the TCP connection.",
+          "failure_source": "target",
+          "response_checks_passed": false,
+          "issues": [
+            "探针请求未完成",
+            "TLS未证实可信",
+            "HTTP状态不符合预期",
+            "返回正文未证实雅思首页标题"
+          ]
+        },
+        {
+          "country": "CN",
+          "city": "Shanghai",
+          "asn": 9808,
+          "network": "China Mobile Communications Group",
+          "network_tags": [
+            "eyeball-network"
+          ],
+          "probe_status": "failed",
+          "http_status": null,
+          "tls_authorized": null,
+          "tls_protocol": null,
+          "tls_error": null,
+          "resolved_address": "185.199.108.153",
+          "timings_ms": {
+            "total": 15001,
+            "dns": 92,
+            "tcp": null,
+            "tls": null,
+            "firstByte": null,
+            "download": null
+          },
+          "content_type": null,
+          "content_range": null,
+          "content_length": null,
+          "range_honored": null,
+          "api_body_truncated": false,
+          "prefix": {
+            "check": "unavailable",
+            "note": "API未返回正文，不能核验前缀"
+          },
+          "title": null,
+          "error": "Request timed out while establishing the TCP connection.",
+          "failure_source": "target",
+          "response_checks_passed": false,
+          "issues": [
+            "探针请求未完成",
+            "TLS未证实可信",
+            "HTTP状态不符合预期",
+            "返回正文未证实雅思首页标题"
+          ]
+        },
+        {
+          "country": "CN",
+          "city": "Guangzhou",
+          "asn": 4134,
+          "network": "Chinanet Backbone",
+          "network_tags": [
+            "eyeball-network"
+          ],
+          "probe_status": "finished",
+          "http_status": 200,
+          "tls_authorized": true,
+          "tls_protocol": "TLSv1.3",
+          "tls_error": null,
+          "resolved_address": "185.199.111.153",
+          "timings_ms": {
+            "total": 408,
+            "dns": 17,
+            "tcp": 113,
+            "tls": 135,
+            "firstByte": 142,
+            "download": 1
+          },
+          "content_type": "text/html; charset=utf-8",
+          "content_range": null,
+          "content_length": "40877",
+          "range_honored": null,
+          "api_body_truncated": true,
+          "prefix": {
+            "check": "html",
+            "text": "<!DOCTYPE html>\r\n\r\n<html lang=\"zh-CN\"><head><meta charset=\"utf-8\"/><meta content=\"width=device-width, initial-scale=1\" name=\"viewport\"/><title>IELTS 四科学习册 · 第一册",
+            "note": "正文是HTML页面"
+          },
+          "title": "IELTS 四科学习册 · 第一册",
+          "error": null,
+          "failure_source": null,
+          "response_checks_passed": true,
+          "issues": []
+        },
+        {
+          "country": "CN",
+          "city": "Shanghai",
+          "asn": 17621,
+          "network": "China Unicom Shanghai network",
+          "network_tags": [
+            "eyeball-network"
+          ],
+          "probe_status": "finished",
+          "http_status": 200,
+          "tls_authorized": true,
+          "tls_protocol": "TLSv1.3",
+          "tls_error": null,
+          "resolved_address": "185.199.110.153",
+          "timings_ms": {
+            "total": 857,
+            "dns": 693,
+            "tcp": 54,
+            "tls": 56,
+            "firstByte": 53,
+            "download": 1
+          },
+          "content_type": "text/html; charset=utf-8",
+          "content_range": null,
+          "content_length": "40877",
+          "range_honored": null,
+          "api_body_truncated": true,
+          "prefix": {
+            "check": "html",
+            "text": "<!DOCTYPE html>\r\n\r\n<html lang=\"zh-CN\"><head><meta charset=\"utf-8\"/><meta content=\"width=device-width, initial-scale=1\" name=\"viewport\"/><title>IELTS 四科学习册 · 第一册",
+            "note": "正文是HTML页面"
+          },
+          "title": "IELTS 四科学习册 · 第一册",
+          "error": null,
+          "failure_source": null,
+          "response_checks_passed": true,
+          "issues": []
+        },
+        {
+          "country": "CN",
+          "city": "Wuhan",
+          "asn": 151185,
+          "network": "China Telecom",
+          "network_tags": [
+            "eyeball-network"
+          ],
+          "probe_status": "finished",
+          "http_status": 200,
+          "tls_authorized": true,
+          "tls_protocol": "TLSv1.3",
+          "tls_error": null,
+          "resolved_address": "185.199.109.153",
+          "timings_ms": {
+            "total": 2158,
+            "dns": 88,
+            "tcp": 1384,
+            "tls": 340,
+            "firstByte": 344,
+            "download": 2
+          },
+          "content_type": "text/html; charset=utf-8",
+          "content_range": null,
+          "content_length": "40877",
+          "range_honored": null,
+          "api_body_truncated": true,
+          "prefix": {
+            "check": "html",
+            "text": "<!DOCTYPE html>\r\n\r\n<html lang=\"zh-CN\"><head><meta charset=\"utf-8\"/><meta content=\"width=device-width, initial-scale=1\" name=\"viewport\"/><title>IELTS 四科学习册 · 第一册",
+            "note": "正文是HTML页面"
+          },
+          "title": "IELTS 四科学习册 · 第一册",
+          "error": null,
+          "failure_source": null,
+          "response_checks_passed": true,
+          "issues": []
+        },
+        {
+          "country": "CN",
+          "city": "Guilin",
+          "asn": 4134,
+          "network": "China Telecom",
+          "network_tags": [
+            "eyeball-network"
+          ],
+          "probe_status": "finished",
+          "http_status": 200,
+          "tls_authorized": true,
+          "tls_protocol": "TLSv1.3",
+          "tls_error": null,
+          "resolved_address": "185.199.109.153",
+          "timings_ms": {
+            "total": 492,
+            "dns": 64,
+            "tcp": 79,
+            "tls": 81,
+            "firstByte": 268,
+            "download": 0
+          },
+          "content_type": "text/html; charset=utf-8",
+          "content_range": null,
+          "content_length": "40877",
+          "range_honored": null,
+          "api_body_truncated": true,
+          "prefix": {
+            "check": "html",
+            "text": "<!DOCTYPE html>\r\n\r\n<html lang=\"zh-CN\"><head><meta charset=\"utf-8\"/><meta content=\"width=device-width, initial-scale=1\" name=\"viewport\"/><title>IELTS 四科学习册 · 第一册",
+            "note": "正文是HTML页面"
+          },
+          "title": "IELTS 四科学习册 · 第一册",
+          "error": null,
+          "failure_source": null,
+          "response_checks_passed": true,
+          "issues": []
+        },
+        {
+          "country": "CN",
+          "city": "Nanning",
+          "asn": 4837,
+          "network": "CHINA UNICOM China169 Backbone",
+          "network_tags": [
+            "eyeball-network"
+          ],
+          "probe_status": "finished",
+          "http_status": 200,
+          "tls_authorized": true,
+          "tls_protocol": "TLSv1.3",
+          "tls_error": null,
+          "resolved_address": "185.199.108.153",
+          "timings_ms": {
+            "total": 663,
+            "dns": 65,
+            "tcp": 135,
+            "tls": 139,
+            "firstByte": 324,
+            "download": 0
+          },
+          "content_type": "text/html; charset=utf-8",
+          "content_range": null,
+          "content_length": "40877",
+          "range_honored": null,
+          "api_body_truncated": true,
+          "prefix": {
+            "check": "html",
+            "text": "<!DOCTYPE html>\r\n\r\n<html lang=\"zh-CN\"><head><meta charset=\"utf-8\"/><meta content=\"width=device-width, initial-scale=1\" name=\"viewport\"/><title>IELTS 四科学习册 · 第一册",
+            "note": "正文是HTML页面"
+          },
+          "title": "IELTS 四科学习册 · 第一册",
+          "error": null,
+          "failure_source": null,
+          "response_checks_passed": true,
+          "issues": []
+        },
+        {
+          "country": "CN",
+          "city": "Beijing",
+          "asn": 45090,
+          "network": "Shenzhen Tencent Computer Systems Company",
+          "network_tags": [
+            "datacenter-network"
+          ],
+          "probe_status": "finished",
+          "http_status": 200,
+          "tls_authorized": true,
+          "tls_protocol": "TLSv1.3",
+          "tls_error": null,
+          "resolved_address": "185.199.108.153",
+          "timings_ms": {
+            "total": 762,
+            "dns": 96,
+            "tcp": 222,
+            "tls": 223,
+            "firstByte": 221,
+            "download": 0
+          },
+          "content_type": "text/html; charset=utf-8",
+          "content_range": null,
+          "content_length": "40877",
+          "range_honored": null,
+          "api_body_truncated": true,
+          "prefix": {
+            "check": "html",
+            "text": "<!DOCTYPE html>\r\n\r\n<html lang=\"zh-CN\"><head><meta charset=\"utf-8\"/><meta content=\"width=device-width, initial-scale=1\" name=\"viewport\"/><title>IELTS 四科学习册 · 第一册",
+            "note": "正文是HTML页面"
+          },
+          "title": "IELTS 四科学习册 · 第一册",
+          "error": null,
+          "failure_source": null,
+          "response_checks_passed": true,
+          "issues": []
+        },
+        {
+          "country": "CN",
+          "city": "Shenzhen",
+          "asn": 37963,
+          "network": "Hangzhou Alibaba Advertising",
+          "network_tags": [
+            "datacenter-network"
+          ],
+          "probe_status": "finished",
+          "http_status": 200,
+          "tls_authorized": true,
+          "tls_protocol": "TLSv1.3",
+          "tls_error": null,
+          "resolved_address": "185.199.111.153",
+          "timings_ms": {
+            "total": 584,
+            "dns": 0,
+            "tcp": 180,
+            "tls": 210,
+            "firstByte": 193,
+            "download": 1
+          },
+          "content_type": "text/html; charset=utf-8",
+          "content_range": null,
+          "content_length": "40877",
+          "range_honored": null,
+          "api_body_truncated": true,
+          "prefix": {
+            "check": "html",
+            "text": "<!DOCTYPE html>\r\n\r\n<html lang=\"zh-CN\"><head><meta charset=\"utf-8\"/><meta content=\"width=device-width, initial-scale=1\" name=\"viewport\"/><title>IELTS 四科学习册 · 第一册",
+            "note": "正文是HTML页面"
+          },
+          "title": "IELTS 四科学习册 · 第一册",
+          "error": null,
+          "failure_source": null,
+          "response_checks_passed": true,
+          "issues": []
+        },
+        {
+          "country": "US",
+          "city": "Los Angeles",
+          "asn": 36352,
+          "network": "HostPapa",
+          "network_tags": [
+            "datacenter-network"
+          ],
+          "probe_status": "finished",
+          "http_status": 200,
+          "tls_authorized": true,
+          "tls_protocol": "TLSv1.3",
+          "tls_error": null,
+          "resolved_address": "185.199.109.153",
+          "timings_ms": {
+            "total": 104,
+            "dns": 5,
+            "tcp": 1,
+            "tls": 9,
+            "firstByte": 85,
+            "download": 4
+          },
+          "content_type": "text/html; charset=utf-8",
+          "content_range": null,
+          "content_length": "40877",
+          "range_honored": null,
+          "api_body_truncated": true,
+          "prefix": {
+            "check": "html",
+            "text": "<!DOCTYPE html>\r\n\r\n<html lang=\"zh-CN\"><head><meta charset=\"utf-8\"/><meta content=\"width=device-width, initial-scale=1\" name=\"viewport\"/><title>IELTS 四科学习册 · 第一册",
+            "note": "正文是HTML页面"
+          },
+          "title": "IELTS 四科学习册 · 第一册",
+          "error": null,
+          "failure_source": null,
+          "response_checks_passed": true,
+          "issues": []
+        },
+        {
+          "country": "US",
+          "city": "Buffalo",
+          "asn": 36352,
+          "network": "HostPapa",
+          "network_tags": [
+            "datacenter-network"
+          ],
+          "probe_status": "finished",
+          "http_status": 200,
+          "tls_authorized": true,
+          "tls_protocol": "TLSv1.3",
+          "tls_error": null,
+          "resolved_address": "185.199.109.153",
+          "timings_ms": {
+            "total": 149,
+            "dns": 44,
+            "tcp": 12,
+            "tls": 20,
+            "firstByte": 69,
+            "download": 4
+          },
+          "content_type": "text/html; charset=utf-8",
+          "content_range": null,
+          "content_length": "40877",
+          "range_honored": null,
+          "api_body_truncated": true,
+          "prefix": {
+            "check": "html",
+            "text": "<!DOCTYPE html>\r\n\r\n<html lang=\"zh-CN\"><head><meta charset=\"utf-8\"/><meta content=\"width=device-width, initial-scale=1\" name=\"viewport\"/><title>IELTS 四科学习册 · 第一册",
+            "note": "正文是HTML页面"
+          },
+          "title": "IELTS 四科学习册 · 第一册",
+          "error": null,
+          "failure_source": null,
+          "response_checks_passed": true,
+          "issues": []
+        },
+        {
+          "country": "SG",
+          "city": "Singapore",
+          "asn": 31898,
+          "network": "Oracle",
+          "network_tags": [
+            "datacenter-network"
+          ],
+          "probe_status": "finished",
+          "http_status": 200,
+          "tls_authorized": true,
+          "tls_protocol": "TLSv1.3",
+          "tls_error": null,
+          "resolved_address": "185.199.110.153",
+          "timings_ms": {
+            "total": 272,
+            "dns": 51,
+            "tcp": 1,
+            "tls": 4,
+            "firstByte": 215,
+            "download": 1
+          },
+          "content_type": "text/html; charset=utf-8",
+          "content_range": null,
+          "content_length": "40877",
+          "range_honored": null,
+          "api_body_truncated": true,
+          "prefix": {
+            "check": "html",
+            "text": "<!DOCTYPE html>\r\n\r\n<html lang=\"zh-CN\"><head><meta charset=\"utf-8\"/><meta content=\"width=device-width, initial-scale=1\" name=\"viewport\"/><title>IELTS 四科学习册 · 第一册",
+            "note": "正文是HTML页面"
+          },
+          "title": "IELTS 四科学习册 · 第一册",
+          "error": null,
+          "failure_source": null,
+          "response_checks_passed": true,
+          "issues": []
+        },
+        {
+          "country": "SG",
+          "city": "Singapore",
+          "asn": 59253,
+          "network": "LeaseWeb",
+          "network_tags": [
+            "datacenter-network"
+          ],
+          "probe_status": "finished",
+          "http_status": 200,
+          "tls_authorized": true,
+          "tls_protocol": "TLSv1.3",
+          "tls_error": null,
+          "resolved_address": "185.199.111.153",
+          "timings_ms": {
+            "total": 274,
+            "dns": 7,
+            "tcp": 1,
+            "tls": 5,
+            "firstByte": 260,
+            "download": 1
+          },
+          "content_type": "text/html; charset=utf-8",
+          "content_range": null,
+          "content_length": "40877",
+          "range_honored": null,
+          "api_body_truncated": true,
+          "prefix": {
+            "check": "html",
+            "text": "<!DOCTYPE html>\r\n\r\n<html lang=\"zh-CN\"><head><meta charset=\"utf-8\"/><meta content=\"width=device-width, initial-scale=1\" name=\"viewport\"/><title>IELTS 四科学习册 · 第一册",
+            "note": "正文是HTML页面"
+          },
+          "title": "IELTS 四科学习册 · 第一册",
+          "error": null,
+          "failure_source": null,
+          "response_checks_passed": true,
+          "issues": []
+        }
+      ]
+    },
+    {
+      "key": "official_audio",
+      "label": "完整听力音频",
+      "url": "https://duf5391-ux.github.io/ielts-learning/%E5%8E%9F%E5%A7%8B%E5%8F%82%E8%80%83/precise-official-listening-full.mp3",
+      "measurement_id": "2Qdb6l7UUU94rjQZH00021BCt",
+      "measurement_status": "finished",
+      "created_at": "2026-09-22T02:43:20.589Z",
+      "requested_probes": 14,
+      "actual_probes": 13,
+      "unallocated_probe_count": 1,
+      "returned_nodes": 13,
+      "client_error": null,
+      "nodes": [
+        {
+          "country": "CN",
+          "city": "Beijing",
+          "asn": 9808,
+          "network": "China Mobile Communications Group",
+          "network_tags": [
+            "eyeball-network"
+          ],
+          "probe_status": "finished",
+          "http_status": 206,
+          "tls_authorized": true,
+          "tls_protocol": "TLSv1.3",
+          "tls_error": null,
+          "resolved_address": "185.199.108.153",
+          "timings_ms": {
+            "total": 1978,
+            "dns": 4,
+            "tcp": 127,
+            "tls": 123,
+            "firstByte": 1723,
+            "download": 1
+          },
+          "content_type": "audio/mp3",
+          "content_range": "bytes 0-1023/24925666",
+          "content_length": "1024",
+          "range_honored": true,
+          "api_body_truncated": false,
+          "prefix": {
+            "check": "id3_signature",
+            "text": "ID3",
+            "note": "可见MP3常用ID3标签；未解码或完整播放"
+          },
+          "title": null,
+          "error": null,
+          "failure_source": null,
+          "response_checks_passed": true,
+          "issues": []
+        },
+        {
+          "country": "CN",
+          "city": "Shanghai",
+          "asn": 9808,
+          "network": "China Mobile Communications Group",
+          "network_tags": [
+            "eyeball-network"
+          ],
+          "probe_status": "failed",
+          "http_status": null,
+          "tls_authorized": null,
+          "tls_protocol": null,
+          "tls_error": null,
+          "resolved_address": "185.199.108.153",
+          "timings_ms": {
+            "total": 15000,
+            "dns": 111,
+            "tcp": null,
+            "tls": null,
+            "firstByte": null,
+            "download": null
+          },
+          "content_type": null,
+          "content_range": null,
+          "content_length": null,
+          "range_honored": false,
+          "api_body_truncated": false,
+          "prefix": {
+            "check": "unavailable",
+            "note": "API未返回正文，不能核验前缀"
+          },
+          "title": null,
+          "error": "Request timed out while establishing the TCP connection.",
+          "failure_source": "target",
+          "response_checks_passed": false,
+          "issues": [
+            "探针请求未完成",
+            "TLS未证实可信",
+            "HTTP状态不符合预期",
+            "未返回明确MP3 Content-Type"
+          ]
+        },
+        {
+          "country": "CN",
+          "city": "Guangzhou",
+          "asn": 4134,
+          "network": "Chinanet Backbone",
+          "network_tags": [
+            "eyeball-network"
+          ],
+          "probe_status": "finished",
+          "http_status": 206,
+          "tls_authorized": true,
+          "tls_protocol": "TLSv1.3",
+          "tls_error": null,
+          "resolved_address": "185.199.111.153",
+          "timings_ms": {
+            "total": 1905,
+            "dns": 19,
+            "tcp": 1164,
+            "tls": 560,
+            "firstByte": 162,
+            "download": 0
+          },
+          "content_type": "audio/mp3",
+          "content_range": "bytes 0-1023/24925666",
+          "content_length": "1024",
+          "range_honored": true,
+          "api_body_truncated": false,
+          "prefix": {
+            "check": "id3_signature",
+            "text": "ID3",
+            "note": "可见MP3常用ID3标签；未解码或完整播放"
+          },
+          "title": null,
+          "error": null,
+          "failure_source": null,
+          "response_checks_passed": true,
+          "issues": []
+        },
+        {
+          "country": "CN",
+          "city": "Shanghai",
+          "asn": 17621,
+          "network": "China Unicom Shanghai network",
+          "network_tags": [
+            "eyeball-network"
+          ],
+          "probe_status": "finished",
+          "http_status": 206,
+          "tls_authorized": true,
+          "tls_protocol": "TLSv1.3",
+          "tls_error": null,
+          "resolved_address": "185.199.109.153",
+          "timings_ms": {
+            "total": 1666,
+            "dns": 705,
+            "tcp": 49,
+            "tls": 53,
+            "firstByte": 858,
+            "download": 1
+          },
+          "content_type": "audio/mp3",
+          "content_range": "bytes 0-1023/24925666",
+          "content_length": "1024",
+          "range_honored": true,
+          "api_body_truncated": false,
+          "prefix": {
+            "check": "id3_signature",
+            "text": "ID3",
+            "note": "可见MP3常用ID3标签；未解码或完整播放"
+          },
+          "title": null,
+          "error": null,
+          "failure_source": null,
+          "response_checks_passed": true,
+          "issues": []
+        },
+        {
+          "country": "CN",
+          "city": "Wuhan",
+          "asn": 151185,
+          "network": "China Telecom",
+          "network_tags": [
+            "eyeball-network"
+          ],
+          "probe_status": "finished",
+          "http_status": 206,
+          "tls_authorized": true,
+          "tls_protocol": "TLSv1.3",
+          "tls_error": null,
+          "resolved_address": "185.199.109.153",
+          "timings_ms": {
+            "total": 1492,
+            "dns": 91,
+            "tcp": 255,
+            "tls": 260,
+            "firstByte": 885,
+            "download": 1
+          },
+          "content_type": "audio/mp3",
+          "content_range": "bytes 0-1023/24925666",
+          "content_length": "1024",
+          "range_honored": true,
+          "api_body_truncated": false,
+          "prefix": {
+            "check": "id3_signature",
+            "text": "ID3",
+            "note": "可见MP3常用ID3标签；未解码或完整播放"
+          },
+          "title": null,
+          "error": null,
+          "failure_source": null,
+          "response_checks_passed": true,
+          "issues": []
+        },
+        {
+          "country": "CN",
+          "city": "Guilin",
+          "asn": 4134,
+          "network": "China Telecom",
+          "network_tags": [
+            "eyeball-network"
+          ],
+          "probe_status": "finished",
+          "http_status": 206,
+          "tls_authorized": true,
+          "tls_protocol": "TLSv1.3",
+          "tls_error": null,
+          "resolved_address": "185.199.108.153",
+          "timings_ms": {
+            "total": 1887,
+            "dns": 43,
+            "tcp": 135,
+            "tls": 140,
+            "firstByte": 1569,
+            "download": 0
+          },
+          "content_type": "audio/mp3",
+          "content_range": "bytes 0-1023/24925666",
+          "content_length": "1024",
+          "range_honored": true,
+          "api_body_truncated": false,
+          "prefix": {
+            "check": "id3_signature",
+            "text": "ID3",
+            "note": "可见MP3常用ID3标签；未解码或完整播放"
+          },
+          "title": null,
+          "error": null,
+          "failure_source": null,
+          "response_checks_passed": true,
+          "issues": []
+        },
+        {
+          "country": "CN",
+          "city": "Nanning",
+          "asn": 4837,
+          "network": "CHINA UNICOM China169 Backbone",
+          "network_tags": [
+            "eyeball-network"
+          ],
+          "probe_status": "finished",
+          "http_status": 206,
+          "tls_authorized": true,
+          "tls_protocol": "TLSv1.3",
+          "tls_error": null,
+          "resolved_address": "185.199.111.153",
+          "timings_ms": {
+            "total": 1786,
+            "dns": 131,
+            "tcp": 124,
+            "tls": 128,
+            "firstByte": 1402,
+            "download": 1
+          },
+          "content_type": "audio/mp3",
+          "content_range": "bytes 0-1023/24925666",
+          "content_length": "1024",
+          "range_honored": true,
+          "api_body_truncated": false,
+          "prefix": {
+            "check": "id3_signature",
+            "text": "ID3",
+            "note": "可见MP3常用ID3标签；未解码或完整播放"
+          },
+          "title": null,
+          "error": null,
+          "failure_source": null,
+          "response_checks_passed": true,
+          "issues": []
+        },
+        {
+          "country": "CN",
+          "city": "Beijing",
+          "asn": 45090,
+          "network": "Shenzhen Tencent Computer Systems Company",
+          "network_tags": [
+            "datacenter-network"
+          ],
+          "probe_status": "finished",
+          "http_status": 206,
+          "tls_authorized": true,
+          "tls_protocol": "TLSv1.3",
+          "tls_error": null,
+          "resolved_address": "185.199.108.153",
+          "timings_ms": {
+            "total": 1887,
+            "dns": 89,
+            "tcp": 219,
+            "tls": 226,
+            "firstByte": 1353,
+            "download": 0
+          },
+          "content_type": "audio/mp3",
+          "content_range": "bytes 0-1023/24925666",
+          "content_length": "1024",
+          "range_honored": true,
+          "api_body_truncated": false,
+          "prefix": {
+            "check": "id3_signature",
+            "text": "ID3",
+            "note": "可见MP3常用ID3标签；未解码或完整播放"
+          },
+          "title": null,
+          "error": null,
+          "failure_source": null,
+          "response_checks_passed": true,
+          "issues": []
+        },
+        {
+          "country": "CN",
+          "city": "Shenzhen",
+          "asn": 37963,
+          "network": "Hangzhou Alibaba Advertising",
+          "network_tags": [
+            "datacenter-network"
+          ],
+          "probe_status": "finished",
+          "http_status": 206,
+          "tls_authorized": true,
+          "tls_protocol": "TLSv1.3",
+          "tls_error": null,
+          "resolved_address": "185.199.108.153",
+          "timings_ms": {
+            "total": 1711,
+            "dns": 73,
+            "tcp": 240,
+            "tls": 615,
+            "firstByte": 729,
+            "download": 54
+          },
+          "content_type": "audio/mp3",
+          "content_range": "bytes 0-1023/24925666",
+          "content_length": "1024",
+          "range_honored": true,
+          "api_body_truncated": false,
+          "prefix": {
+            "check": "id3_signature",
+            "text": "ID3",
+            "note": "可见MP3常用ID3标签；未解码或完整播放"
+          },
+          "title": null,
+          "error": null,
+          "failure_source": null,
+          "response_checks_passed": true,
+          "issues": []
+        },
+        {
+          "country": "US",
+          "city": "Buffalo",
+          "asn": 36352,
+          "network": "HostPapa",
+          "network_tags": [
+            "datacenter-network"
+          ],
+          "probe_status": "finished",
+          "http_status": 206,
+          "tls_authorized": true,
+          "tls_protocol": "TLSv1.3",
+          "tls_error": null,
+          "resolved_address": "185.199.108.153",
+          "timings_ms": {
+            "total": 379,
+            "dns": 57,
+            "tcp": 12,
+            "tls": 22,
+            "firstByte": 288,
+            "download": 0
+          },
+          "content_type": "audio/mp3",
+          "content_range": "bytes 0-1023/24925666",
+          "content_length": "1024",
+          "range_honored": true,
+          "api_body_truncated": false,
+          "prefix": {
+            "check": "id3_signature",
+            "text": "ID3",
+            "note": "可见MP3常用ID3标签；未解码或完整播放"
+          },
+          "title": null,
+          "error": null,
+          "failure_source": null,
+          "response_checks_passed": true,
+          "issues": []
+        },
+        {
+          "country": "US",
+          "city": "Los Angeles",
+          "asn": 36352,
+          "network": "HostPapa",
+          "network_tags": [
+            "datacenter-network"
+          ],
+          "probe_status": "finished",
+          "http_status": 206,
+          "tls_authorized": true,
+          "tls_protocol": "TLSv1.3",
+          "tls_error": null,
+          "resolved_address": "185.199.111.153",
+          "timings_ms": {
+            "total": 409,
+            "dns": 8,
+            "tcp": 2,
+            "tls": 7,
+            "firstByte": 391,
+            "download": 1
+          },
+          "content_type": "audio/mp3",
+          "content_range": "bytes 0-1023/24925666",
+          "content_length": "1024",
+          "range_honored": true,
+          "api_body_truncated": false,
+          "prefix": {
+            "check": "id3_signature",
+            "text": "ID3",
+            "note": "可见MP3常用ID3标签；未解码或完整播放"
+          },
+          "title": null,
+          "error": null,
+          "failure_source": null,
+          "response_checks_passed": true,
+          "issues": []
+        },
+        {
+          "country": "SG",
+          "city": "Singapore",
+          "asn": 8888,
+          "network": "xTom",
+          "network_tags": [
+            "datacenter-network"
+          ],
+          "probe_status": "finished",
+          "http_status": 206,
+          "tls_authorized": true,
+          "tls_protocol": "TLSv1.3",
+          "tls_error": null,
+          "resolved_address": "185.199.108.153",
+          "timings_ms": {
+            "total": 952,
+            "dns": 5,
+            "tcp": 1,
+            "tls": 5,
+            "firstByte": 941,
+            "download": 0
+          },
+          "content_type": "audio/mp3",
+          "content_range": "bytes 0-1023/24925666",
+          "content_length": "1024",
+          "range_honored": true,
+          "api_body_truncated": false,
+          "prefix": {
+            "check": "id3_signature",
+            "text": "ID3",
+            "note": "可见MP3常用ID3标签；未解码或完整播放"
+          },
+          "title": null,
+          "error": null,
+          "failure_source": null,
+          "response_checks_passed": true,
+          "issues": []
+        },
+        {
+          "country": "SG",
+          "city": "Singapore",
+          "asn": 16276,
+          "network": "OVH",
+          "network_tags": [
+            "datacenter-network"
+          ],
+          "probe_status": "finished",
+          "http_status": 206,
+          "tls_authorized": true,
+          "tls_protocol": "TLSv1.3",
+          "tls_error": null,
+          "resolved_address": "185.199.109.153",
+          "timings_ms": {
+            "total": 951,
+            "dns": 8,
+            "tcp": 1,
+            "tls": 5,
+            "firstByte": 937,
+            "download": 0
+          },
+          "content_type": "audio/mp3",
+          "content_range": "bytes 0-1023/24925666",
+          "content_length": "1024",
+          "range_honored": true,
+          "api_body_truncated": false,
+          "prefix": {
+            "check": "id3_signature",
+            "text": "ID3",
+            "note": "可见MP3常用ID3标签；未解码或完整播放"
+          },
+          "title": null,
+          "error": null,
+          "failure_source": null,
+          "response_checks_passed": true,
+          "issues": []
+        }
+      ]
+    },
+    {
+      "key": "jijing_audio",
+      "label": "最新机经音频",
+      "url": "https://duf5391-ux.github.io/ielts-learning/%E6%9C%BA%E7%BB%8F%E8%B5%84%E6%96%99/jijing-20260920/ieltsa/assets/494b5ff8b614-2026-sep-hf-1.mp3",
+      "measurement_id": "2Uw3tq09M7YwhCgbm00021BCt",
+      "measurement_status": "finished",
+      "created_at": "2026-09-22T02:43:20.593Z",
+      "requested_probes": 14,
+      "actual_probes": 13,
+      "unallocated_probe_count": 1,
+      "returned_nodes": 13,
+      "client_error": null,
+      "nodes": [
+        {
+          "country": "CN",
+          "city": "Beijing",
+          "asn": 9808,
+          "network": "China Mobile Communications Group",
+          "network_tags": [
+            "eyeball-network"
+          ],
+          "probe_status": "finished",
+          "http_status": 206,
+          "tls_authorized": true,
+          "tls_protocol": "TLSv1.3",
+          "tls_error": null,
+          "resolved_address": "185.199.108.153",
+          "timings_ms": {
+            "total": 1664,
+            "dns": 3,
+            "tcp": 106,
+            "tls": 105,
+            "firstByte": 1449,
+            "download": 1
+          },
+          "content_type": "audio/mp3",
+          "content_range": "bytes 0-1023/17713258",
+          "content_length": "1024",
+          "range_honored": true,
+          "api_body_truncated": false,
+          "prefix": {
+            "check": "id3_signature",
+            "text": "ID3",
+            "note": "可见MP3常用ID3标签；未解码或完整播放"
+          },
+          "title": null,
+          "error": null,
+          "failure_source": null,
+          "response_checks_passed": true,
+          "issues": []
+        },
+        {
+          "country": "CN",
+          "city": "Shanghai",
+          "asn": 9808,
+          "network": "China Mobile Communications Group",
+          "network_tags": [
+            "eyeball-network"
+          ],
+          "probe_status": "finished",
+          "http_status": 206,
+          "tls_authorized": true,
+          "tls_protocol": "TLSv1.3",
+          "tls_error": null,
+          "resolved_address": "185.199.111.153",
+          "timings_ms": {
+            "total": 1349,
+            "dns": 108,
+            "tcp": 78,
+            "tls": 103,
+            "firstByte": 1059,
+            "download": 1
+          },
+          "content_type": "audio/mp3",
+          "content_range": "bytes 0-1023/17713258",
+          "content_length": "1024",
+          "range_honored": true,
+          "api_body_truncated": false,
+          "prefix": {
+            "check": "id3_signature",
+            "text": "ID3",
+            "note": "可见MP3常用ID3标签；未解码或完整播放"
+          },
+          "title": null,
+          "error": null,
+          "failure_source": null,
+          "response_checks_passed": true,
+          "issues": []
+        },
+        {
+          "country": "CN",
+          "city": "Guangzhou",
+          "asn": 4134,
+          "network": "Chinanet Backbone",
+          "network_tags": [
+            "eyeball-network"
+          ],
+          "probe_status": "finished",
+          "http_status": 206,
+          "tls_authorized": true,
+          "tls_protocol": "TLSv1.3",
+          "tls_error": null,
+          "resolved_address": "185.199.111.153",
+          "timings_ms": {
+            "total": 1338,
+            "dns": 18,
+            "tcp": 1140,
+            "tls": 100,
+            "firstByte": 79,
+            "download": 1
+          },
+          "content_type": "audio/mp3",
+          "content_range": "bytes 0-1023/17713258",
+          "content_length": "1024",
+          "range_honored": true,
+          "api_body_truncated": false,
+          "prefix": {
+            "check": "id3_signature",
+            "text": "ID3",
+            "note": "可见MP3常用ID3标签；未解码或完整播放"
+          },
+          "title": null,
+          "error": null,
+          "failure_source": null,
+          "response_checks_passed": true,
+          "issues": []
+        },
+        {
+          "country": "CN",
+          "city": "Shanghai",
+          "asn": 17621,
+          "network": "China Unicom Shanghai network",
+          "network_tags": [
+            "eyeball-network"
+          ],
+          "probe_status": "finished",
+          "http_status": 206,
+          "tls_authorized": true,
+          "tls_protocol": "TLSv1.3",
+          "tls_error": null,
+          "resolved_address": "185.199.111.153",
+          "timings_ms": {
+            "total": 1350,
+            "dns": 704,
+            "tcp": 49,
+            "tls": 50,
+            "firstByte": 546,
+            "download": 1
+          },
+          "content_type": "audio/mp3",
+          "content_range": "bytes 0-1023/17713258",
+          "content_length": "1024",
+          "range_honored": true,
+          "api_body_truncated": false,
+          "prefix": {
+            "check": "id3_signature",
+            "text": "ID3",
+            "note": "可见MP3常用ID3标签；未解码或完整播放"
+          },
+          "title": null,
+          "error": null,
+          "failure_source": null,
+          "response_checks_passed": true,
+          "issues": []
+        },
+        {
+          "country": "CN",
+          "city": "Wuhan",
+          "asn": 151185,
+          "network": "China Telecom",
+          "network_tags": [
+            "eyeball-network"
+          ],
+          "probe_status": "failed",
+          "http_status": null,
+          "tls_authorized": null,
+          "tls_protocol": null,
+          "tls_error": null,
+          "resolved_address": "185.199.109.153",
+          "timings_ms": {
+            "total": 15000,
+            "dns": 83,
+            "tcp": null,
+            "tls": null,
+            "firstByte": null,
+            "download": null
+          },
+          "content_type": null,
+          "content_range": null,
+          "content_length": null,
+          "range_honored": false,
+          "api_body_truncated": false,
+          "prefix": {
+            "check": "unavailable",
+            "note": "API未返回正文，不能核验前缀"
+          },
+          "title": null,
+          "error": "Request timed out while establishing the TCP connection.",
+          "failure_source": "target",
+          "response_checks_passed": false,
+          "issues": [
+            "探针请求未完成",
+            "TLS未证实可信",
+            "HTTP状态不符合预期",
+            "未返回明确MP3 Content-Type"
+          ]
+        },
+        {
+          "country": "CN",
+          "city": "Guilin",
+          "asn": 4134,
+          "network": "China Telecom",
+          "network_tags": [
+            "eyeball-network"
+          ],
+          "probe_status": "finished",
+          "http_status": 206,
+          "tls_authorized": true,
+          "tls_protocol": "TLSv1.3",
+          "tls_error": null,
+          "resolved_address": "185.199.108.153",
+          "timings_ms": {
+            "total": 5274,
+            "dns": 33,
+            "tcp": 154,
+            "tls": 1118,
+            "firstByte": 3969,
+            "download": 0
+          },
+          "content_type": "audio/mp3",
+          "content_range": "bytes 0-1023/17713258",
+          "content_length": "1024",
+          "range_honored": true,
+          "api_body_truncated": false,
+          "prefix": {
+            "check": "id3_signature",
+            "text": "ID3",
+            "note": "可见MP3常用ID3标签；未解码或完整播放"
+          },
+          "title": null,
+          "error": null,
+          "failure_source": null,
+          "response_checks_passed": true,
+          "issues": []
+        },
+        {
+          "country": "CN",
+          "city": "Nanning",
+          "asn": 4837,
+          "network": "CHINA UNICOM China169 Backbone",
+          "network_tags": [
+            "eyeball-network"
+          ],
+          "probe_status": "finished",
+          "http_status": 206,
+          "tls_authorized": true,
+          "tls_protocol": "TLSv1.3",
+          "tls_error": null,
+          "resolved_address": "185.199.110.153",
+          "timings_ms": {
+            "total": 1488,
+            "dns": 103,
+            "tcp": 140,
+            "tls": 143,
+            "firstByte": 1102,
+            "download": 0
+          },
+          "content_type": "audio/mp3",
+          "content_range": "bytes 0-1023/17713258",
+          "content_length": "1024",
+          "range_honored": true,
+          "api_body_truncated": false,
+          "prefix": {
+            "check": "id3_signature",
+            "text": "ID3",
+            "note": "可见MP3常用ID3标签；未解码或完整播放"
+          },
+          "title": null,
+          "error": null,
+          "failure_source": null,
+          "response_checks_passed": true,
+          "issues": []
+        },
+        {
+          "country": "CN",
+          "city": "Beijing",
+          "asn": 45090,
+          "network": "Shenzhen Tencent Computer Systems Company",
+          "network_tags": [
+            "datacenter-network"
+          ],
+          "probe_status": "finished",
+          "http_status": 206,
+          "tls_authorized": true,
+          "tls_protocol": "TLSv1.3",
+          "tls_error": null,
+          "resolved_address": "185.199.108.153",
+          "timings_ms": {
+            "total": 1620,
+            "dns": 49,
+            "tcp": 202,
+            "tls": 206,
+            "firstByte": 1163,
+            "download": 0
+          },
+          "content_type": "audio/mp3",
+          "content_range": "bytes 0-1023/17713258",
+          "content_length": "1024",
+          "range_honored": true,
+          "api_body_truncated": false,
+          "prefix": {
+            "check": "id3_signature",
+            "text": "ID3",
+            "note": "可见MP3常用ID3标签；未解码或完整播放"
+          },
+          "title": null,
+          "error": null,
+          "failure_source": null,
+          "response_checks_passed": true,
+          "issues": []
+        },
+        {
+          "country": "CN",
+          "city": "Shenzhen",
+          "asn": 37963,
+          "network": "Hangzhou Alibaba Advertising",
+          "network_tags": [
+            "datacenter-network"
+          ],
+          "probe_status": "finished",
+          "http_status": 206,
+          "tls_authorized": true,
+          "tls_protocol": "TLSv1.3",
+          "tls_error": null,
+          "resolved_address": "185.199.108.153",
+          "timings_ms": {
+            "total": 3269,
+            "dns": 27,
+            "tcp": 1255,
+            "tls": 259,
+            "firstByte": 1728,
+            "download": 0
+          },
+          "content_type": "audio/mp3",
+          "content_range": "bytes 0-1023/17713258",
+          "content_length": "1024",
+          "range_honored": true,
+          "api_body_truncated": false,
+          "prefix": {
+            "check": "id3_signature",
+            "text": "ID3",
+            "note": "可见MP3常用ID3标签；未解码或完整播放"
+          },
+          "title": null,
+          "error": null,
+          "failure_source": null,
+          "response_checks_passed": true,
+          "issues": []
+        },
+        {
+          "country": "US",
+          "city": "Los Angeles",
+          "asn": 36352,
+          "network": "HostPapa",
+          "network_tags": [
+            "datacenter-network"
+          ],
+          "probe_status": "finished",
+          "http_status": 206,
+          "tls_authorized": true,
+          "tls_protocol": "TLSv1.3",
+          "tls_error": null,
+          "resolved_address": "185.199.109.153",
+          "timings_ms": {
+            "total": 306,
+            "dns": 4,
+            "tcp": 1,
+            "tls": 9,
+            "firstByte": 291,
+            "download": 1
+          },
+          "content_type": "audio/mp3",
+          "content_range": "bytes 0-1023/17713258",
+          "content_length": "1024",
+          "range_honored": true,
+          "api_body_truncated": false,
+          "prefix": {
+            "check": "id3_signature",
+            "text": "ID3",
+            "note": "可见MP3常用ID3标签；未解码或完整播放"
+          },
+          "title": null,
+          "error": null,
+          "failure_source": null,
+          "response_checks_passed": true,
+          "issues": []
+        },
+        {
+          "country": "US",
+          "city": "Buffalo",
+          "asn": 36352,
+          "network": "HostPapa",
+          "network_tags": [
+            "datacenter-network"
+          ],
+          "probe_status": "finished",
+          "http_status": 206,
+          "tls_authorized": true,
+          "tls_protocol": "TLSv1.3",
+          "tls_error": null,
+          "resolved_address": "185.199.110.153",
+          "timings_ms": {
+            "total": 258,
+            "dns": 4,
+            "tcp": 1,
+            "tls": 5,
+            "firstByte": 248,
+            "download": 0
+          },
+          "content_type": "audio/mp3",
+          "content_range": "bytes 0-1023/17713258",
+          "content_length": "1024",
+          "range_honored": true,
+          "api_body_truncated": false,
+          "prefix": {
+            "check": "id3_signature",
+            "text": "ID3",
+            "note": "可见MP3常用ID3标签；未解码或完整播放"
+          },
+          "title": null,
+          "error": null,
+          "failure_source": null,
+          "response_checks_passed": true,
+          "issues": []
+        },
+        {
+          "country": "SG",
+          "city": "Singapore",
+          "asn": 16276,
+          "network": "OVH",
+          "network_tags": [
+            "datacenter-network"
+          ],
+          "probe_status": "finished",
+          "http_status": 206,
+          "tls_authorized": true,
+          "tls_protocol": "TLSv1.3",
+          "tls_error": null,
+          "resolved_address": "185.199.111.153",
+          "timings_ms": {
+            "total": 1370,
+            "dns": 50,
+            "tcp": 1,
+            "tls": 5,
+            "firstByte": 1314,
+            "download": 0
+          },
+          "content_type": "audio/mp3",
+          "content_range": "bytes 0-1023/17713258",
+          "content_length": "1024",
+          "range_honored": true,
+          "api_body_truncated": false,
+          "prefix": {
+            "check": "id3_signature",
+            "text": "ID3",
+            "note": "可见MP3常用ID3标签；未解码或完整播放"
+          },
+          "title": null,
+          "error": null,
+          "failure_source": null,
+          "response_checks_passed": true,
+          "issues": []
+        },
+        {
+          "country": "SG",
+          "city": "Singapore",
+          "asn": 8888,
+          "network": "xTom",
+          "network_tags": [
+            "datacenter-network"
+          ],
+          "probe_status": "finished",
+          "http_status": 206,
+          "tls_authorized": true,
+          "tls_protocol": "TLSv1.3",
+          "tls_error": null,
+          "resolved_address": "185.199.110.153",
+          "timings_ms": {
+            "total": 1363,
+            "dns": 12,
+            "tcp": 1,
+            "tls": 5,
+            "firstByte": 1344,
+            "download": 1
+          },
+          "content_type": "audio/mp3",
+          "content_range": "bytes 0-1023/17713258",
+          "content_length": "1024",
+          "range_honored": true,
+          "api_body_truncated": false,
+          "prefix": {
+            "check": "id3_signature",
+            "text": "ID3",
+            "note": "可见MP3常用ID3标签；未解码或完整播放"
+          },
+          "title": null,
+          "error": null,
+          "failure_source": null,
+          "response_checks_passed": true,
+          "issues": []
+        }
+      ]
+    }
+  ]
+}

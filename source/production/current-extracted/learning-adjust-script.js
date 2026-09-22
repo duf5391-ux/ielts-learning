@@ -5,7 +5,7 @@
   const units = new Map(data.units.map(u => [u.id,u]));
   const groups = {listening:'听力',reading:'阅读',writing:'写作',speaking:'口语'};
   const scope = {study:'',practice:''};let lastCategory=null;
-  const learningTools = {'word-review':'单词复习','vocabulary-review':'我的单词表','sentence-learning':'我的句子本','writing-workbench':'写作工作台'};
+  const learningTools = {'word-review':'单词复习','vocabulary-review':'背单词','word-library':'已收录词语','review-history':'学习记录','lookup-learning':'查词与历史','sentence-learning':'句子','writing-workbench':'写作训练'};
   const groupOf = skill => /^writing/.test(skill) ? 'writing' : skill;
   const scopeMatches = (u, group) => !group || u.skill===group || groupOf(u.skill)===group || (u.relatedSkills||[]).includes(group);
   const labelOf = group => ({writing1:'Task 1',writing2:'Task 2'}[group]||groups[group]||data.skills[group]);
@@ -179,7 +179,7 @@
       renderCards();
     }
     const owner=u?.id==='topical-vocabulary'?'vocabulary-review':panel.dataset.laCollectionTitle?'practice':data.navigationVersion&&u?u.mode:panel.dataset.laOwner||panel.id;document.body.classList.toggle('ws-wide',owner==='workspace'||owner==='development');for(const b of $$('#workspace-navigation [data-go]')){if(b.dataset.go===owner)b.setAttribute('aria-current','page');else b.removeAttribute('aria-current');}
-    const sectionName={'word-review':'复习','vocabulary-review':'单词','sentence-learning':'句子','writing-workbench':'写作工作台',guide:'今天',study:'学习',practice:'练习',tests:'测试',workspace:'工作台',development:'开发工作台'}[owner]||'学习';
+    const sectionName={'word-review':'复习','vocabulary-review':'单词','sentence-learning':'句子','writing-workbench':'写作训练',guide:'今天',study:'学习库',practice:'专项练习',tests:'自测',workspace:'资料与记录',development:'开发工作台'}[owner]||'学习';
     $('#current-page-label').textContent=u?sectionName+' / '+u.skillLabel:((panel.id==='study'||panel.id==='practice')&&scope[panel.id]?sectionName+' / '+(groups[scope[panel.id]]||data.skills[scope[panel.id]]):panel.dataset.laCollectionTitle||panel.dataset.laTitle||sectionName);
     document.title=$('#current-page-label').textContent+' · IELTS';
     const resumeId=u?.id||(learningTools[panel.id]?panel.id:'');

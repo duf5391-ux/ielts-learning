@@ -32,7 +32,7 @@ for i,s in enumerate(doc.find_all('script')):
     if s.get('type','') in ['', 'text/javascript'] and s.string:
         f=extract/((s.get('id') or 'script-'+str(i))+'.js');f.write_text(str(s.string),encoding='utf8')
         copy(f,Path('production/current-extracted')/f.name,'current-production-extract')
-for id in ['study','workspace','library','records','vocabulary-review','sentence-learning','writing-workbench','course-window','course-design']:
+for id in ['study','workspace','library','records','vocabulary-review','word-review','word-library','review-history','lookup-learning','sentence-learning','writing-workbench','course-window','course-design']:
     f=extract/(id+'.html');f.write_text(str(doc.find(id=id)),encoding='utf8');copy(f,Path('production/current-extracted')/f.name,'current-production-extract')
 
 extensions = {'.py', '.js', '.cjs', '.css', '.json', '.ps1', '.md', '.html'}
@@ -42,7 +42,7 @@ for f in ROOT.iterdir():
 
 excluded_parts = {'stage', 'site', 'dist', 'backup', 'backups', 'formal-backup',
                   'baseline', 'source-snapshot', '__pycache__', 'node_modules', '.git'}
-for directory in ['content-pipeline', 'feature-fixes-20260921', 'architecture-repair-20260921','word-review-separation-20260921','product-repair-20260922']:
+for directory in ['content-pipeline', 'feature-fixes-20260921', 'architecture-repair-20260921','word-review-separation-20260921','product-repair-20260922','ui-polish-20260922']:
     for f in (ROOT / directory).rglob('*'):
         if (f.is_file() and f.suffix in extensions and f.stat().st_size < 3_000_000
                 and not excluded_parts.intersection(f.relative_to(ROOT).parts)):

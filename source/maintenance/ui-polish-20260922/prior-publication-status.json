@@ -1,0 +1,97 @@
+{
+  "provider": "github-pages",
+  "status": "succeeded",
+  "usability_status": "published_browser_verified_mainland_partial",
+  "url": "https://duf5391-ux.github.io/ielts-learning/",
+  "repository": "duf5391-ux/ielts-learning",
+  "source_commit": "c84dab611f943c9e24b9a595321462392c96ef4a",
+  "workflow_run_id": 35670336528,
+  "workflow_url": "https://github.com/duf5391-ux/ielts-learning/actions/runs/35670336528",
+  "updated_at": "2026-09-22T00:15:12.452472+00:00",
+  "access_mode": "public",
+  "https_enforced": true,
+  "source_html_sha256": "e2b9e12e58c8f03de4b43b8ec6bdb1b81a15130ddceb6b80ea5fff6a3d742075",
+  "published_html_sha256": "0bab2fa197699cb83087528a3769e4be81035420b70933eedcf56b1707a95336",
+  "published_files": 1093,
+  "expanded_bytes": 261890674,
+  "save_fields": 4091,
+  "local_sync_workflow": "publish_github.ps1 prepared and committed; initial push HTTP408, confirmed old remote, retried the same commit successfully; matching Actions success and HTTPS exact hashes verified",
+  "verification": {
+    "browser": {
+      "passed": true,
+      "evidence": [
+        "product-repair-20260922/frontend/qa-live.json",
+        "product-repair-20260922/release-live.json"
+      ],
+      "scope": "Phone navigation, word search/favorite restoration, cross-mode search return, 32 writing tasks and draft restoration, daily health and dock geometry; isolated records"
+    },
+    "mainland": {
+      "evidence": "research/github-publication-probes-20260922T001012.167979Z/summary-recovered.json",
+      "resources": [
+        {
+          "key": "homepage",
+          "nodes": 9,
+          "passed": 8,
+          "measurement_id": "22UbEnUFY8VLxozIb00021BAQ",
+          "client_error": null
+        },
+        {
+          "key": "official_audio",
+          "nodes": 9,
+          "passed": 8,
+          "measurement_id": "2BsL9CEN1IC0XjbgO00021BAQ",
+          "client_error": null
+        },
+        {
+          "key": "jijing_audio",
+          "nodes": 9,
+          "passed": 7,
+          "measurement_id": "2Vx6cTWddn0wsh9sj00021BAQ",
+          "client_error": null
+        }
+      ],
+      "failures": [
+        {
+          "resource": "homepage",
+          "city": "Shanghai",
+          "asn": 9808,
+          "network": "China Mobile Communications Group",
+          "error": "Request timed out while establishing the TCP connection."
+        },
+        {
+          "resource": "official_audio",
+          "city": "Beijing",
+          "asn": 9808,
+          "network": "China Mobile Communications Group",
+          "error": "Request timed out while establishing the TCP connection."
+        },
+        {
+          "resource": "jijing_audio",
+          "city": "Beijing",
+          "asn": 9808,
+          "network": "China Mobile Communications Group",
+          "error": "Request timed out while establishing the TCP connection."
+        },
+        {
+          "resource": "jijing_audio",
+          "city": "Shanghai",
+          "asn": 9808,
+          "network": "China Mobile Communications Group",
+          "error": "Request timed out while establishing the TCP connection."
+        }
+      ],
+      "limits": "本轮上海移动首页、北京移动两条音频、上海移动机经音频TCP连接超时，明确保留失败；天津联通未分配。结果只代表已分配节点当时情况，不代表全国、所有运营商或长期可用。音频仅检查前1024字节响应，不等于完整播放。"
+    }
+  },
+  "evidence": [
+    "research/product-redesign-delivery-20260922.md",
+    "product-repair-20260922/release-acceptance.json",
+    "product-repair-20260922/frontend/qa-packed.json",
+    "research/github-publication-probes-20260922T001012.167979Z/summary-recovered.json"
+  ],
+  "next": "Real device microphone/keyboard and four-platform installation checks remain separate. No personal cloud sync or nationwide access claim.",
+  "learning_units": 236,
+  "homepage_bytes": 159012,
+  "progressive_loading": true,
+  "previousVerification": "product-repair-20260922/prior-publication-status.json"
+}

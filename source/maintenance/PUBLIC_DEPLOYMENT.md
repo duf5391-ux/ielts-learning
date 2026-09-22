@@ -1,3 +1,7 @@
+最新已发布：3ba0baa5正式册，4092字段、236单元，Actions 35680317051；首页SHA4e3d8f43。本轮单词整合、双端UI和大陆探测见 research/product-word-workspace-delivery-20260922.md。下方旧数字为历史。
+
+当前最新已发布：e2b9e12e 正式册，4091字段、236单元，Actions 35670336528；首页SHA 0bab2fa1。发布包、HTTPS与本轮大陆证据见 research/product-redesign-delivery-20260922.md。下方旧数字为历史。
+
 当前最新已发布：83346245 正式册，3371字段、227单元，Actions 35611402372；首页SHA 8c77a35f。验证边界见 research/architecture-content-delivery-20260921.md。以下旧数字以此为准。
 
 # 公网版与本地内容同步（GitHub Pages 已上线）

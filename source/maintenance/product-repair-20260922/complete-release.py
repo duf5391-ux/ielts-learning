@@ -24,8 +24,10 @@ for r in probe['resources']:
                           measurement_id=r['measurement_id'],client_error=r.get('client_error')))
 assert len(resources)==3 and all(r['nodes']>0 for r in resources),'No current mainland evidence'
 all_cn=all(r['nodes']==r['passed'] and not r['client_error'] for r in resources)
-network_text='、'.join(f"{r['key']} {r['passed']}/{r['nodes']}" for r in resources)
-limits='本轮实际分配节点的当时结果；其余请求网络未分配或未证实，不代表全国、所有运营商或长期可用。音频仅检查前1024字节响应，不等于完整播放。'
+labels={'homepage':'首页','official_audio':'完整听力音频','jijing_audio':'机经音频'}
+network_text='、'.join(f"{labels[r['key']]} {r['passed']}/{r['nodes']}" for r in resources)
+failures=[dict(resource=r['key'],city=n['city'],asn=n['asn'],network=n['network'],error=n['error']) for r in probe['resources'] for n in r['nodes'] if n['country']=='CN' and not n['response_checks_passed']]
+limits='本轮上海移动首页、北京移动两条音频、上海移动机经音频TCP连接超时，明确保留失败；天津联通未分配。结果只代表已分配节点当时情况，不代表全国、所有运营商或长期可用。音频仅检查前1024字节响应，不等于完整播放。'
 status=read(HERE/'prior-publication-status.json')
 status.update(dict(status='succeeded',usability_status='published_browser_verified_mainland_allocated_nodes_passed' if all_cn else 'published_browser_verified_mainland_partial',
     source_commit=deployment['headSha'],workflow_run_id=deployment['databaseId'],workflow_url=deployment['url'],updated_at=datetime.now(timezone.utc).isoformat(),
@@ -34,7 +36,7 @@ status.update(dict(status='succeeded',usability_status='published_browser_verifi
     previousVerification='product-repair-20260922/prior-publication-status.json',
     local_sync_workflow='publish_github.ps1 prepared and committed; initial push HTTP408, confirmed old remote, retried the same commit successfully; matching Actions success and HTTPS exact hashes verified',
     verification=dict(browser=dict(passed=True,evidence=['product-repair-20260922/frontend/qa-live.json','product-repair-20260922/release-live.json'],scope='Phone navigation, word search/favorite restoration, cross-mode search return, 32 writing tasks and draft restoration, daily health and dock geometry; isolated records'),
-                      mainland=dict(evidence=probe_relative,resources=resources,limits=limits)),
+                      mainland=dict(evidence=probe_relative,resources=resources,failures=failures,limits=limits)),
     evidence=['research/product-redesign-delivery-20260922.md','product-repair-20260922/release-acceptance.json','product-repair-20260922/frontend/qa-packed.json',probe_relative],
     next='Real device microphone/keyboard and four-platform installation checks remain separate. No personal cloud sync or nationwide access claim.'))
 write(ROOT/'research/github-pages-migration-status.json',status)
@@ -51,7 +53,7 @@ body=body[:body.index('## 发布记录')]+f'''## 发布记录
 - 正式册 `{build['source_html_sha256']}`；线上首页 `{build['published_html_sha256']}`，159012字节；渐进清单与发布包一致，4091字段完整组装。1093文件、261890674字节。
 - `product-repair-20260922/frontend/qa-packed.json` 和 `qa-live.json` 各6组代表性流程通过，0页面脚本异常：手机导航/更多、词卡首屏检索收藏与刷新、跨范围搜索返回、32题写作目录到首稿及刷新、学习/休息/继续/收工和底栏无重叠。
 - `product-repair-20260922/release-live.json` 核对Actions、线上首页和渐进清单SHA，两个关键音频206/MP3/ID3及Range正确。不是完整音频播放测试。
-- 本轮大陆节点：{network_text}。证据 `{probe_relative}`。{limits}
+- 本轮大陆节点：{network_text}。证据 `{probe_relative}`。{limits} 本机API取回曾发生TLS超时，随后按原3个测量ID取回完成结果，未新增测量或隐去节点失败。
 - 原正式册及安装恢复记录：`product-repair-20260922/formal-backup/`；当前状态 `research/github-pages-migration-status.json`，之前的线上证据已保存为 `product-repair-20260922/prior-publication-status.json`。
 '''
 report.write_text(body,encoding='utf8')
