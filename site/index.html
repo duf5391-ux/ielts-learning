@@ -540,7 +540,203 @@ html:not(.exercise-fullscreen) #exercise-screen-toggle{min-height:44px;backgroun
 @media(min-width:1000px){.r538-header h1{font-size:30px;margin:6px 0}.r538-header p{margin:6px 0;font-size:14px}.r538-tabs{padding:10px 0;margin-bottom:8px}.r538-toolbar{padding:6px 0}#r538-count{margin:8px 0}.r538-card{padding:20px 30px;margin:8px 0}.r538-card h2{font-size:36px;margin:8px 0 12px}#r538-prompt{margin:10px 0}.r538-grades{margin-top:14px}}
 
 </style>
+<style id="legacy-reading-material-style">
+#sim-selection-reading .sim-legacy-reading-selectors[hidden]{display:none!important}
+#sim-selection-reading .sim-material-row{padding:12px 0;border-top:1px solid var(--line,#deded6)}
+#sim-selection-reading .sim-material-heading{display:flex;gap:12px;align-items:center}
+#sim-selection-reading .sim-material-choice{flex:1;text-align:left;padding:12px 16px;white-space:normal;border:1px solid var(--line,#deded6);border-radius:10px;background:#fff;color:inherit}
+#sim-selection-reading .sim-material-choice strong,#sim-selection-reading .sim-material-choice span{display:block}
+#sim-selection-reading .sim-material-choice span{font-size:13px;margin-top:5px;font-weight:400}
+#sim-selection-reading .sim-material-choice[aria-pressed="true"]{border:2px solid #397458;background:#edf5ef;padding:11px 15px}
+#sim-selection-reading .sim-material-whole{width:100%;margin-bottom:12px}
+#sim-selection-reading .sim-material-row details{margin-top:8px;font-size:13px}
+</style><style id="shared-exam-ui-style">body.jp-exam-open{overflow:hidden!important}
+#test-reading-bank.jp-exam{position:fixed!important;inset:0!important;z-index:10000!important;max-width:none!important;width:100%!important;height:100dvh!important;margin:0!important;padding:0!important;border:0!important;border-radius:0!important;background:#fff!important;overflow:hidden!important;color:#000;font:var(--jp-font,16px)/1.6 Arial,Helvetica,'PingFang SC','Microsoft YaHei',sans-serif}
+#test-reading-bank.jp-exam [hidden]{display:none!important}
+#test-reading-bank.jp-exam>.la-heading,#test-reading-bank.jp-exam>.rb-toolbar,#test-reading-bank.jp-exam>#rb-round,#test-reading-bank.jp-exam>#rb-save-status,#test-reading-bank.jp-exam>#rb-parts,#test-reading-bank.jp-exam>#rb-history{display:none!important}
+#test-reading-bank.jp-exam #rb-body{position:absolute;inset:0;margin:0;padding:0}
+#test-reading-bank.jp-exam .rb-part{height:100%;margin:0;padding:0;border:0;background:#fff;display:grid;grid-template-rows:60px 66px minmax(0,1fr) 40px 56px}
+#test-reading-bank.jp-exam button{font-family:inherit;box-shadow:none;cursor:pointer}
+#test-reading-bank.jp-exam .rb-mobile-switch{display:none!important}
+#test-reading-bank.jp-exam .jp-head{display:flex;align-items:center;justify-content:space-between;padding:12px 24px;height:60px;box-sizing:border-box;border-bottom:1px solid #e0e0e0;position:relative}
+#test-reading-bank.jp-exam .jp-time{display:flex;align-items:center;gap:8px;font:14px/1.4 Arial,sans-serif;color:#bf375c}
+#test-reading-bank.jp-exam .jp-time button{background:none;border:0;color:inherit;padding:4px;font-size:14px;min-height:0}
+#test-reading-bank.jp-exam .jp-time .jp-overtime{color:#d52d4c}
+#test-reading-bank.jp-exam .jp-tools{display:flex;gap:20px;align-items:center}
+#test-reading-bank.jp-exam .jp-tools button{background:none;border:0;font-size:16px;padding:4px 8px;min-height:0;color:#333}
+#test-reading-bank.jp-exam .jp-scale-menu{position:absolute;right:65px;top:48px;border:1px solid #ccc;background:white;z-index:20;padding:8px;box-shadow:0 4px 16px #0002}
+#test-reading-bank.jp-exam .jp-scale-menu button{display:block;background:white;border:0;padding:8px 20px;width:100%;text-align:left}
+#test-reading-bank.jp-exam .jp-scale-menu [aria-pressed=true]{background:#e3f2fd}
+#test-reading-bank.jp-exam .jp-instruction{margin:0 15px;background:#f2f2ed;border:1px solid #d8d8d4;padding:8px 24px;box-sizing:border-box;font:var(--jp-font)/1.45 Arial,sans-serif;overflow:auto}
+#test-reading-bank.jp-exam .rb-split{--jp-left:calc((100% - 8px)/2);height:100%!important;max-height:none!important;min-height:0!important;display:grid!important;grid-template-columns:var(--jp-left) 8px minmax(400px,1fr)!important;gap:0!important;margin:0!important;padding:0!important;border:0!important;border-radius:0!important;overflow:hidden}
+#test-reading-bank.jp-exam .rb-article,#test-reading-bank.jp-exam .rb-questions{height:100%!important;max-height:none!important;min-height:0!important;overflow-y:auto!important;overflow-x:hidden!important;box-sizing:border-box!important;background:white!important;border:0!important;border-radius:0!important;color:#000!important;font:var(--jp-font)/1.8 Arial,Helvetica,'PingFang SC','Microsoft YaHei',sans-serif!important;margin:0!important}
+#test-reading-bank.jp-exam .rb-article{padding:24px!important;user-select:text}
+#test-reading-bank.jp-exam .rb-article p{margin:0 0 16px;font:inherit!important;line-height:1.8!important}
+#test-reading-bank.jp-exam .jp-title{width:70%;margin:0 auto 20px;padding:16px 0;text-align:center}
+#test-reading-bank.jp-exam .jp-title h2{display:block;font:700 var(--jp-title-font)/1.6 Arial,sans-serif!important;margin:0;color:#000;border:0;padding:0}
+#test-reading-bank.jp-exam .jp-subtitle{margin-top:16px;font:400 var(--jp-font)/1.6 Arial,sans-serif;color:#666}
+#test-reading-bank.jp-exam .jp-separator{background:#00000017;cursor:col-resize;display:flex;align-items:center;justify-content:center;touch-action:none}
+#test-reading-bank.jp-exam .jp-separator span{width:4px;height:40px;background:#999;border-radius:2px}
+#test-reading-bank.jp-exam .jp-separator[aria-disabled=true]{cursor:default}
+#test-reading-bank.jp-exam .rb-questions{padding:24px max(10%,64px) 120px 24px!important;line-height:1.6!important}
+#test-reading-bank.jp-exam .rb-group{padding:0;margin:0 0 32px;border:0;background:white}
+#test-reading-bank.jp-exam .rb-instruction{padding:0;margin:0 0 4px;font:var(--jp-font)/1.6 Arial,sans-serif;border:0;background:none;color:#000}
+#test-reading-bank.jp-exam .rb-group>.rb-instruction:first-child{font-weight:700}
+#test-reading-bank.jp-exam .rb-question{padding:0;margin:24px 0 32px;border:0;background:none;position:relative}
+#test-reading-bank.jp-exam .rb-question>p{margin:0 0 16px;padding:0;display:flex;gap:8px;font:var(--jp-font)/1.6 Arial,sans-serif;align-items:flex-start}
+#test-reading-bank.jp-exam .jp-question-number{min-width:28px;height:28px;line-height:24px;box-sizing:border-box;text-align:center;border:2px solid transparent;border-radius:2px}
+#test-reading-bank.jp-exam .jp-question-number.jp-current{border-color:#418ec8}
+#test-reading-bank.jp-exam .jp-options{display:flex;flex-direction:column;gap:1px;padding:0}
+#test-reading-bank.jp-exam .jp-options label{display:flex;align-items:center;gap:10px;padding:calc(var(--jp-font)*.55);margin:0;border-radius:4px;box-sizing:border-box;font:400 var(--jp-font)/1.6 Arial,sans-serif;min-height:0;cursor:pointer}
+#test-reading-bank.jp-exam .jp-options label:has(:checked){background:#e3f2fd}
+#test-reading-bank.jp-exam .jp-options label:hover{background-color:#00000006}
+#test-reading-bank.jp-exam .jp-options input{appearance:auto;width:16px!important;height:16px!important;min-height:0!important;min-width:0!important;max-width:none;flex-shrink:0;margin:0!important;padding:0!important;accent-color:#418ec8;border-radius:50%}
+#test-reading-bank.jp-exam .jp-bookmark{position:absolute;top:0;right:-45px;background:none;border:0;padding:4px;min-height:0;color:#777}
+#test-reading-bank.jp-exam [aria-pressed=true] svg path{fill:#f92f60;stroke:#f92f60}
+#test-reading-bank.jp-exam .rb-table{border:0;background:none;overflow:visible;margin:16px 0;padding:0}
+#test-reading-bank.jp-exam .rb-table table{border-collapse:collapse;width:100%;font:var(--jp-font)/1.6 Arial,sans-serif}
+#test-reading-bank.jp-exam .rb-table td{background:transparent;color:#000;white-space:normal;font:inherit}
+#test-reading-bank.jp-exam .jp-source-content table{border:0;border-collapse:collapse;width:100%;font:inherit}
+#test-reading-bank.jp-exam .jp-source-content td{border:0;background:white;color:#000;padding:6px;vertical-align:middle;font:inherit}
+#test-reading-bank.jp-exam .jp-fill{display:inline-block!important;box-sizing:border-box;width:12ch!important;min-width:12ch;max-width:100%;min-height:0!important;height:auto!important;border:1px solid #000!important;border-radius:3px!important;padding:6px 10px!important;margin:0!important;background:#fff!important;font:var(--jp-font)/1.2 Arial,sans-serif!important;color:#000}
+#test-reading-bank.jp-exam .jp-fill:focus{outline:2px solid #418ec8!important;outline-offset:0!important;box-shadow:none!important}
+#test-reading-bank.jp-exam .rb-question-nav{display:flex;align-items:center;flex-wrap:nowrap;gap:2px;padding:0 24px;margin:0;border-top:1px solid #ddd;border-bottom:1px solid #ddd;background:white;overflow:auto;font:14px Arial,sans-serif}
+#test-reading-bank.jp-exam .rb-question-nav strong{margin-right:4px;white-space:nowrap;position:relative}
+#test-reading-bank.jp-exam .rb-question-nav strong.jp-part-done:before{content:'';position:absolute;top:-5px;left:0;right:0;height:3px;background:#00d26a}
+#test-reading-bank.jp-exam .rb-question-nav button{position:relative;min-width:28px;height:28px;min-height:28px;padding:0 8px;border:2px solid transparent;border-radius:3px;background:none;color:#000;font:13px Arial,sans-serif;overflow:visible;flex-shrink:0}
+#test-reading-bank.jp-exam .rb-question-nav [aria-current=true]{border-color:#418ec8;font-weight:600}
+#test-reading-bank.jp-exam .rb-question-nav .jp-answered:before{content:'';position:absolute;top:-6px;left:0;right:0;height:3px;background:#00d26a}
+#test-reading-bank.jp-exam .rb-question-nav .jp-flagged:after{content:'';position:absolute;top:-14px;left:calc(50% - 5px);width:10px;height:10px;background:#f92f60;clip-path:polygon(0 0,100% 0,100% 100%,50% 70%,0 100%)}
+#test-reading-bank.jp-exam .jp-footer{display:flex;align-items:center;justify-content:space-between;padding:8px 24px;gap:16px;font:13px Arial,sans-serif;background:#fff}
+#test-reading-bank.jp-exam .jp-footer>div{display:flex;gap:10px}
+#test-reading-bank.jp-exam .jp-footer button{border:1px solid #d0d0d0;border-radius:4px;background:#fff;color:#000;font:14px Arial,sans-serif;padding:8px 20px;min-height:32px}
+#test-reading-bank.jp-exam .jp-pause-cover{position:absolute;inset:0;background:#ffffffed;display:flex;align-items:center;justify-content:center;z-index:100;border:0;border-radius:0;font:18px/2 Arial,sans-serif;width:100%;height:100%;color:#000}
+#test-reading-bank.jp-exam .jp-pause-cover strong{font-size:28px}
+#test-reading-bank.jp-exam .jp-notes{position:absolute;right:0;top:60px;bottom:96px;width:320px;max-width:90vw;overflow:auto;background:#fff;border-left:1px solid #ccc;padding:16px;z-index:30;box-shadow:-4px 0 16px #0001;font:14px/1.6 Arial,sans-serif}
+#test-reading-bank.jp-exam .jp-notes header{display:flex;justify-content:space-between;align-items:center}
+#test-reading-bank.jp-exam .jp-notes section{padding:12px 0;border-top:1px solid #ddd}
+#test-reading-bank.jp-exam .jp-notes blockquote{margin:0 0 8px;padding:8px;background:#fff5d4;border:0;max-height:120px;overflow:auto}
+#test-reading-bank.jp-exam .jp-notes textarea{width:100%;height:95px;font:14px/1.6 Arial,sans-serif;margin:0 0 8px;padding:8px;background:#fff;border:1px solid #aaa}
+#test-reading-bank.jp-exam .jp-note-help{font-size:12px;color:#666}
+#test-reading-bank.jp-exam .jp-selection{position:fixed;z-index:40;padding:4px;background:#fff;border:1px solid #aaa;border-radius:6px;box-shadow:0 3px 10px #0002}
+#test-reading-bank.jp-exam .jp-selection button{border:0;background:#fff;font-size:14px;padding:6px 12px;min-height:0}
+#test-reading-bank.jp-exam .jp-highlight{background:#ffeb82;color:inherit;cursor:pointer}
+#test-reading-bank.jp-exam .jp-note-mark{background:#ffc98a;color:inherit;cursor:pointer}
+#test-reading-bank.jp-exam #rb-notice:not([hidden]){position:fixed;bottom:110px;left:25%;right:25%;z-index:110;background:#fff0d5;border:1px solid #b88329;padding:12px;font:14px/1.6 Arial,sans-serif;margin:0}
+#test-reading-bank.jp-exam #rb-retry-save:not([hidden]){position:fixed;bottom:65px;right:25%;z-index:111;background:#fff5dd}
+.jp-dialog{border:1px solid #ddd;border-radius:12px;padding:28px;max-width:480px;width:calc(100% - 48px);background:white;color:#111;font:16px/1.6 Arial,sans-serif;box-shadow:0 12px 60px #0003}
+.jp-dialog::backdrop{background:#0005}
+.jp-dialog h2{margin:0 0 14px;font:700 22px/1.4 Arial,sans-serif}
+.jp-dialog form>label{display:block;padding:8px 0}
+.jp-dialog input[type=number]{width:90px;padding:8px;border:1px solid #999;font:inherit;background:#fff}
+.jp-dialog-actions{display:flex;justify-content:flex-end;gap:12px;margin-top:24px}
+.jp-dialog button{padding:10px 18px;border:1px solid #ccc;border-radius:6px;background:white;font:16px Arial,sans-serif;color:#222}
+.jp-dialog button.jp-primary{background:#087baa;border-color:#087baa;color:white}
+.jp-head,.jp-footer,.jp-instruction,.jp-separator,.jp-pause-cover,.jp-notes,.jp-selection{display:none}
+#test-reading-bank.jp-exam .jp-instruction,#test-reading-bank.jp-exam .jp-notes,#test-reading-bank.jp-exam .jp-selection{display:block}
+#test-reading-bank:not(.jp-exam) .jp-options{display:flex;flex-direction:column;gap:4px}
+#test-reading-bank:not(.jp-exam) .jp-options label{display:flex;align-items:center;gap:8px}
+#test-reading-bank:not(.jp-exam) .jp-options input{width:16px;min-height:0}
+@media(max-width:720px){#test-reading-bank.jp-exam .rb-split{overflow-x:auto}#test-reading-bank.jp-exam .jp-footer{padding:8px}#test-reading-bank.jp-exam .jp-footer button{padding:8px}#test-reading-bank.jp-exam .jp-instruction{padding:8px 12px}}
 
+#cp-chrome{display:none}
+#test-reading-bank.cp-exam #cp-chrome{display:contents}
+#test-reading-bank.cp-exam #rb-body{inset:112px 0 98px!important}
+#test-reading-bank.cp-exam .rb-part{display:block!important}
+#test-reading-bank.cp-exam .rb-part[hidden]{display:none!important}
+#test-reading-bank.cp-exam .rb-part>.rb-question-nav{display:none!important}
+#test-reading-bank.cp-exam .rb-split{max-width:none!important;width:100%!important}
+#test-reading-bank.cp-exam #cp-chrome>.jp-head{position:absolute;inset:0 0 auto;height:60px}
+#test-reading-bank.cp-exam #cp-chrome>.jp-instruction{position:absolute;top:60px;left:0;right:0;height:48px;padding:10px 24px}
+#test-reading-bank.cp-exam #cp-part-title{max-width:60%;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;font-size:14px}
+#test-reading-bank.cp-exam #cp-nav{position:absolute;bottom:56px;left:0;right:0;height:42px;justify-content:space-between}
+#test-reading-bank.cp-exam .cp-nav-part{display:flex;gap:2px;align-items:center}
+#test-reading-bank.cp-exam #cp-nav button{min-width:24px;padding:0 4px}
+#test-reading-bank.cp-exam #cp-chrome>.jp-footer{position:absolute;bottom:0;left:0;right:0;height:56px;box-sizing:border-box}
+#test-reading-bank.cp-exam .rb-article h3{font-size:var(--jp-title-font);line-height:1.4;text-align:center;margin:12px 0 24px}
+#test-reading-bank.cp-exam .rb-questions h3{font-size:var(--jp-title-font);line-height:1.4;margin:0 0 16px}
+#test-reading-bank.cp-exam .rb-questions p{font:inherit;margin:0 0 16px}
+#test-reading-bank.cp-exam .rb-group{border:0!important;box-shadow:none!important;background:white!important}
+#test-reading-bank.cp-exam .cp-options p{margin:0!important;font:inherit!important}
+#test-reading-bank.cp-exam [data-rb-answer]:not([hidden]),#test-reading-bank.cp-exam select[data-cp-answer]{font:inherit;min-width:7ch;max-width:18ch;width:auto;padding:3px 8px;border:1px solid #777;border-radius:3px;background:white;color:#111}
+#test-reading-bank.cp-exam select[data-cp-answer]:focus{outline:2px solid #418ec8;outline-offset:1px}
+#test-reading-bank.cp-exam .cp-paragraph{margin:0 0 16px;line-height:1.8}
+#test-reading-bank.cp-exam .cp-source-title{font-size:var(--jp-title-font);font-weight:bold;text-align:center;margin:12px 0 24px}
+#test-reading-bank.cp-exam .cp-single-column-table,#test-reading-bank.cp-exam .cp-single-column-table td{border:0!important;background:white!important}
+#test-reading-bank.cp-exam .cp-flow-table td{text-align:center}
+#test-reading-bank.cp-exam.cp-writing .rb-questions{display:flex!important;flex-direction:column;padding:24px!important}
+#test-reading-bank.cp-exam.cp-writing .cb-long-answer{display:flex;flex:1;min-height:0;flex-direction:column;gap:12px;font:inherit}
+#test-reading-bank.cp-exam.cp-writing textarea[data-rb-answer]{display:block;width:100%;max-width:none;height:100%;flex:1;min-height:280px;resize:none;box-sizing:border-box;padding:16px;font:var(--jp-font)/1.8 Arial,sans-serif}
+#test-reading-bank.cp-exam.cp-writing #cp-nav{justify-content:flex-start;gap:24px}
+#test-reading-bank.cp-exam.cp-writing #cp-nav button{min-width:80px}
+#test-reading-bank.cp-exam.cp-writing [data-cb-wordcount]{padding:8px 0;text-align:right;font-size:14px}
+
+#test-reading-bank.cp-exam.cp-listening .rb-split{display:block!important}
+#test-reading-bank.cp-exam.cp-listening .rb-article{display:none!important}
+#test-reading-bank.cp-exam.cp-listening .rb-questions{width:100%!important;padding:24px max(10%,64px) 64px 32px!important}
+#test-reading-bank.cp-exam .cp-audio-tools{display:none}
+#test-reading-bank.cp-exam.cp-listening .cp-audio-tools{display:flex;align-items:center;gap:12px;min-width:0;margin-right:auto}
+#lp-audio-state{font-size:13px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;max-width:25vw}
+#test-reading-bank.cp-exam #cb-audio{display:none!important;position:absolute;left:24px;bottom:106px;width:420px;max-height:65vh;overflow:auto;z-index:25;background:white;border:1px solid #bbb;border-radius:8px;padding:16px;box-sizing:border-box;box-shadow:0 -4px 20px #0002}
+#test-reading-bank.cp-exam.lp-audio-open #cb-audio{display:block!important}
+#test-reading-bank.cp-exam #cb-audio label{display:block;padding:8px;border:1px solid #ddd;margin:0 0 8px;border-radius:5px;font-size:14px}
+#test-reading-bank.cp-exam #cb-audio label[hidden]{display:none!important}
+#test-reading-bank.cp-exam #cb-audio audio{display:block;width:100%;margin-top:6px}
+#test-reading-bank.cp-exam #lp-scope{font-size:13px;line-height:1.6;margin:0 0 12px;color:#555}
+.lp-track-state{display:block;font-size:12px;color:#666}.lp-playing{border-color:#16865f!important}.lp-visible-part{background:#f3f7f5}
+
+#test-reading-bank.cp-exam #cp-nav{gap:24px;justify-content:flex-start;overflow:visible}
+#test-reading-bank.cp-exam .cp-nav-part{gap:4px;flex-shrink:0}
+#test-reading-bank.cp-exam #cp-nav [data-cp-part-jump]{font-size:14px;font-weight:600;padding:0 10px;min-width:70px}
+#test-reading-bank.cp-exam .cp-part-range{font-size:13px;color:#555;padding-right:16px}
+#test-reading-bank.cp-exam .cp-current-part{flex:1}
+#test-reading-bank.cp-exam.cp-writing .cp-current-part{flex:0}
+#test-reading-bank.cp-exam:not(.cp-listening) .cp-audio-tools{display:none!important}
+#test-reading-bank.cp-exam .jp-save{margin-right:auto}
+#test-reading-bank.cp-exam.cp-writing .cb-original-figure{margin:16px 0;text-align:center}
+#test-reading-bank.cp-exam.cp-writing .cb-original-figure img{max-height:none;width:100%;max-width:100%;cursor:zoom-in}
+#test-reading-bank.cp-exam.cp-writing .cb-original-figure figcaption{font-size:12px;text-align:right;color:#666;margin-bottom:8px}
+#test-reading-bank.cp-exam .cp-writing-prompt{font-size:var(--jp-font);border:0;background:white;padding:0;margin:0 0 12px}
+#test-reading-bank.cp-exam .cp-writing-prompt summary{color:#46677d;cursor:pointer;font-size:14px}
+#test-reading-bank.cp-exam textarea[data-rb-answer]:focus{outline:2px solid #418ec8!important;outline-offset:2px!important;box-shadow:none!important}
+#test-reading-bank.cp-exam #cp-nav [data-cp-jump]{min-width:28px}
+#test-reading-bank.cp-exam .jp-footer>div{align-items:center}
+#test-reading-bank.cp-exam .jp-footer [data-jp-action=submit]{color:white;background:#267baa;border-color:#267baa}
+#test-reading-bank.cp-exam .jp-footer [data-jp-action=bookmark-current]{padding:7px 14px;line-height:1}
+#test-reading-bank.cp-exam button:focus-visible,#test-reading-bank.cp-exam .jp-separator:focus-visible{outline:2px solid #418ec8;outline-offset:2px}
+#test-reading-bank.cp-exam .rb-article h2{font-size:var(--jp-title-font)!important;line-height:1.4}
+#test-reading-bank.cp-exam.cp-writing .rb-article h2{font-weight:600}
+#test-reading-bank.cp-exam.cp-writing .rb-split{grid-template-columns:var(--jp-left) 8px minmax(420px,1fr)!important}
+#test-reading-bank.cp-exam select[data-cp-select]{font:inherit;padding:6px 10px;border:1px solid #777;border-radius:3px;background:white;min-width:8ch;color:#111}
+#test-reading-bank.cp-exam .cp-drag-option{cursor:grab;border-left:3px solid #c3d9e8;padding-left:12px!important}
+#test-reading-bank.cp-exam .cp-drag-option:hover{background:#f3f7fb}
+#test-reading-bank.cp-exam .cp-choice-hint{font-size:13px!important;color:#55616a;margin:8px 0!important}
+#test-reading-bank.cp-exam .cp-answer-echo{padding:3px 8px;color:#345d74;background:#edf5fb;border-radius:3px;margin-left:6px}
+#test-reading-bank.cp-exam [data-rb-answer]:not(textarea):not([hidden]){width:12ch;padding:6px 10px;line-height:1.25;min-height:0;box-sizing:border-box}
+@media(max-width:1150px){#test-reading-bank.cp-exam #cp-nav{gap:8px;padding:0 12px}#test-reading-bank.cp-exam #cp-nav [data-cp-jump]{min-width:25px;padding:0 2px}#test-reading-bank.cp-exam .cp-nav-part{gap:1px}#test-reading-bank.cp-exam .jp-footer{padding:8px 12px;gap:10px}#test-reading-bank.cp-exam .jp-footer button{padding:8px 12px}#lp-audio-state{max-width:18vw}}
+
+#test-reading-bank.cp-exam.cp-speaking .rb-questions{padding:24px!important;display:flex!important;flex-direction:column;gap:16px}
+#test-reading-bank.cp-exam.cp-speaking .rb-article{font-size:var(--jp-font)!important}
+#test-reading-bank.cp-exam.cp-speaking .rb-article h2{margin:0 0 20px;font-size:var(--jp-title-font)!important}
+#test-reading-bank.cp-exam.cp-speaking .rb-article li{margin:0 0 16px;padding-left:6px}
+#test-reading-bank.cp-exam.cp-speaking .cb-long-answer{display:flex;flex:1;min-height:220px;flex-direction:column;gap:12px;font-size:14px;color:#4a5660}
+#test-reading-bank.cp-exam.cp-speaking textarea[data-rb-answer]{display:block;flex:1;min-height:180px;width:100%;max-width:none;box-sizing:border-box;padding:16px;font:var(--jp-font)/1.8 Arial,sans-serif;resize:vertical}
+#test-reading-bank.cp-exam.cp-speaking [data-cb-wordcount]{display:none}
+#test-reading-bank.cp-exam.cp-speaking #cp-nav{justify-content:flex-start;gap:24px}
+#test-reading-bank.cp-exam.cp-speaking .cp-current-part{flex:0}
+#test-reading-bank.cp-exam.cp-speaking #cp-nav button{min-width:90px}
+#test-reading-bank.cp-exam.cp-speaking .recorder{background:#f8fafb;border:1px solid #dce4e9;border-radius:8px;padding:18px;margin:0;font:14px/1.6 Arial,'Microsoft YaHei',sans-serif;color:#24333d}
+#test-reading-bank.cp-exam.cp-speaking .recorder p{margin:0 0 12px}
+#test-reading-bank.cp-exam.cp-speaking .recorder button{background:white;border:1px solid #b7c6cf;border-radius:5px;padding:9px 14px;margin:0 6px 8px 0;font:14px Arial,sans-serif;color:#203d50;min-height:38px}
+#test-reading-bank.cp-exam.cp-speaking .recorder [data-record]{background:#267baa;color:white;border-color:#267baa}
+#test-reading-bank.cp-exam.cp-speaking .recorder button:disabled{opacity:.45;cursor:default}
+#test-reading-bank.cp-exam.cp-speaking .recorder [data-stop]:not(:disabled){border-color:#bd3b53;color:#a1283f;background:#fff2f5}
+#test-reading-bank.cp-exam.cp-speaking .recorder label{display:block;font:13px/1.6 Arial,'Microsoft YaHei',sans-serif;margin:8px 0}
+#test-reading-bank.cp-exam.cp-speaking .recorder input[type=file]{max-width:100%;box-sizing:border-box;font:13px Arial,sans-serif}
+#test-reading-bank.cp-exam.cp-speaking .recorder [data-rec-status]{display:block;font-size:13px;color:#52616b;margin:8px 0;line-height:1.6}
+#test-reading-bank.cp-exam.cp-speaking .recorder audio{width:100%;height:40px;margin:8px 0}
+#test-reading-bank.cp-exam.cp-speaking .recorder select{width:100%;max-width:100%;font:13px Arial,sans-serif;border:1px solid #aebfc9;background:white;padding:7px}
+</style>
 <link rel="manifest" href="site.webmanifest">
 <meta name="theme-color" content="#356c57">
 <meta name="apple-mobile-web-app-capable" content="yes">
@@ -573,4 +769,4 @@ body[data-progressive-state="loading"] > :not(#ielts-progressive-boot):not(scrip
 <p class="pb-eyebrow">按自己的节奏</p><h1>今天，学一小段。</h1><p class="pb-intro">先选好想去的地方，内容准备好后就会打开。</p>
 <nav aria-label="选择学习入口"><button data-pb-route="#guide">直接开始</button><button data-pb-route="#study">学习内容</button><button data-pb-route="#practice">练习</button></nav>
 <p id="ielts-progressive-status" role="status" aria-live="polite">正在准备学习内容…</p><progress id="ielts-progressive-progress" max="100" value="0" aria-label="内容准备进度"></progress>
-<button id="ielts-progressive-retry" type="button" hidden>重新打开</button><noscript><p>请在浏览器中开启 JavaScript，然后刷新此页。</p></noscript></div></div><!--ielts-progressive-anchor-0--><script id="ielts-progressive-config" type="application/json">{"manifest": {"path": "progressive/manifest.d9cf6e2acc0af321174d.json", "sha256": "d9cf6e2acc0af321174d0521a129b685d79b8b17c55e293a00b2f51761e67a56", "bytes": 13953}}</script><script id="ielts-progressive-loader" src="progressive/loader.df3d0987757563f6b6dd.js" defer></script></body></html>
+<button id="ielts-progressive-retry" type="button" hidden>重新打开</button><noscript><p>请在浏览器中开启 JavaScript，然后刷新此页。</p></noscript></div></div><!--ielts-progressive-anchor-0--><script id="ielts-progressive-config" type="application/json">{"manifest": {"path": "progressive/manifest.d403913670104cc92520.json", "sha256": "d403913670104cc925200853717d4cd1af4b9da10a2006a475b6008503fe91b2", "bytes": 13922}}</script><script id="ielts-progressive-loader" src="progressive/loader.df3d0987757563f6b6dd.js" defer></script></body></html>

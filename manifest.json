@@ -1,9 +1,9 @@
 {
-  "source_html_sha256": "e7eb49d7914d2f02b5d495652f08063badcf0a21180f48baa6a7d6e5f2ee0a6d",
-  "published_html_sha256": "09d5a821d121ccb028717d294cc85ef364b92a64bef89dc5c0251cbad6bef9c7",
+  "source_html_sha256": "1c3111e9259f3819460dc61ee9b3b9fadafebfd3c3866525b662d24c8209006a",
+  "published_html_sha256": "6422f86658c9745c20fc8e852e3cfa51ccfa93d588d2802f5450863b40a172c4",
   "save_fields": 4816,
-  "published_files": 2787,
-  "total_bytes": 888090142,
+  "published_files": 2788,
+  "total_bytes": 888560996,
   "html_pages_checked": 14,
   "scripts_syntax_checked": 11,
   "dictionary": {
@@ -725,8 +725,8 @@
     },
     {
       "path": "cambridge-bank-v1/c11-t1-reading-v1.json",
-      "bytes": 34253,
-      "sha256": "156329bb4a9450fad04fd2ef5f736946619f1ba28322b9600b3602874c688ee5"
+      "bytes": 34269,
+      "sha256": "eeb8b709f8b67c64810836f2b814050509afca0d5d9854e8abf383d5118131fb"
     },
     {
       "path": "cambridge-bank-v1/c11-t1-speaking-v1.json",
@@ -745,8 +745,8 @@
     },
     {
       "path": "cambridge-bank-v1/c11-t2-reading-v1.json",
-      "bytes": 37890,
-      "sha256": "b6ed4f05622eeb678a433ed307eb8414a338badabc6dd2f79f9195954ceeb59e"
+      "bytes": 37928,
+      "sha256": "17dfa26d22adde85dbf42d13a76bf08e18b039da1d10ef339b723a9c6a69eaad"
     },
     {
       "path": "cambridge-bank-v1/c11-t2-speaking-v1.json",
@@ -765,8 +765,8 @@
     },
     {
       "path": "cambridge-bank-v1/c11-t3-reading-v1.json",
-      "bytes": 34667,
-      "sha256": "95a10560c2e4f5e434e06fe0249178b80b66fb49d3596af0fe5b1de822884628"
+      "bytes": 34684,
+      "sha256": "083bb9833240dc9ddad36cf2201ef055f0c271d9861e24c6cedaa217eaa25719"
     },
     {
       "path": "cambridge-bank-v1/c11-t3-speaking-v1.json",
@@ -785,8 +785,8 @@
     },
     {
       "path": "cambridge-bank-v1/c11-t4-reading-v1.json",
-      "bytes": 36722,
-      "sha256": "7ebf6d1a8009d27f1084afe8acdb74c6eb4e8da0e0907f5dc3c857702f79e527"
+      "bytes": 36802,
+      "sha256": "213cd71fa4c5bdf74daf65b6e6917b258ffb74194daeda67e4c538543ff1fa6b"
     },
     {
       "path": "cambridge-bank-v1/c11-t4-speaking-v1.json",
@@ -1310,8 +1310,8 @@
     },
     {
       "path": "cambridge-bank-v1/c12-t5-reading-v1.json",
-      "bytes": 32229,
-      "sha256": "71f2f71b5f4d2959991e261ddff7be184be3ead8e07a6807645af26bfab21640"
+      "bytes": 32230,
+      "sha256": "82a570b86a34c4de867191acef628e8f305549c66dc261bea32002e3bea8d3d5"
     },
     {
       "path": "cambridge-bank-v1/c12-t5-speaking-v1.json",
@@ -1330,8 +1330,8 @@
     },
     {
       "path": "cambridge-bank-v1/c12-t6-reading-v1.json",
-      "bytes": 37742,
-      "sha256": "1deadbd21a78a5de8da3bdd0d18c5e2e5fc4b2159cf5774b7b7932af9bc2c13e"
+      "bytes": 37772,
+      "sha256": "dc83e06acbca7aff80b1cd99c1de6d942c81715d010cb9dde4b9b28ebfe0fe3b"
     },
     {
       "path": "cambridge-bank-v1/c12-t6-speaking-v1.json",
@@ -1350,8 +1350,8 @@
     },
     {
       "path": "cambridge-bank-v1/c12-t7-reading-v1.json",
-      "bytes": 35154,
-      "sha256": "6cb7c625c0c19774be06209852e99545caa83b244d9d752422e3a4df8f5e8811"
+      "bytes": 35199,
+      "sha256": "fae29d2cbea7e6de7775f9e16cae1e3a8afe31a8ccf4f6acae22ece374b9af45"
     },
     {
       "path": "cambridge-bank-v1/c12-t7-speaking-v1.json",
@@ -1370,8 +1370,8 @@
     },
     {
       "path": "cambridge-bank-v1/c12-t8-reading-v1.json",
-      "bytes": 36357,
-      "sha256": "60039036a78725c566ec6546123ff8936dfef8ed3be3034d2b898da80b998e34"
+      "bytes": 36412,
+      "sha256": "9dae09c268d80806bf6e657f67316d26248497f329c7806c44f3830fd88dc780"
     },
     {
       "path": "cambridge-bank-v1/c12-t8-speaking-v1.json",
@@ -1915,8 +1915,8 @@
     },
     {
       "path": "cambridge-bank-v1/c13-t1-reading-v1.json",
-      "bytes": 34931,
-      "sha256": "907d305e6dd80da4d838cbe57f2f88ca4310b570e600100c087dfb039b96a015"
+      "bytes": 37592,
+      "sha256": "5e08c3b66727cc3ca506cdb2ebc4f96a048ca2795913a5662c0ed66f211752f6"
     },
     {
       "path": "cambridge-bank-v1/c13-t1-speaking-v1.json",
@@ -1935,8 +1935,8 @@
     },
     {
       "path": "cambridge-bank-v1/c13-t2-reading-v1.json",
-      "bytes": 37488,
-      "sha256": "3c6c5822c3f405a6a3541e5f0b9fe7025d09bd8b43b72c596c457ef363451a0b"
+      "bytes": 37589,
+      "sha256": "128b76b682ae173d6dcb48a3492b2b53a13052adc9edca7aed0373f490314119"
     },
     {
       "path": "cambridge-bank-v1/c13-t2-speaking-v1.json",
@@ -1955,8 +1955,8 @@
     },
     {
       "path": "cambridge-bank-v1/c13-t3-reading-v1.json",
-      "bytes": 36610,
-      "sha256": "7c4c16c265bcff825d6584a33145b331c2e437fe1b5906194ab67d2fb59c3680"
+      "bytes": 36699,
+      "sha256": "418ed32a1a83ab097693c46c3d76e61b81a37b5cc5ba695cbd4f6e62cfcc5ee4"
     },
     {
       "path": "cambridge-bank-v1/c13-t3-speaking-v1.json",
@@ -1975,8 +1975,8 @@
     },
     {
       "path": "cambridge-bank-v1/c13-t4-reading-v1.json",
-      "bytes": 36722,
-      "sha256": "3d44666b7b824ce6217f660e4602f4710c900be546d8abc8f15c8cdaab79fb1e"
+      "bytes": 36834,
+      "sha256": "6deb4e8f7a81919c5e5264cb7dd713705877572a3bc0686653d9041ad928d1f2"
     },
     {
       "path": "cambridge-bank-v1/c13-t4-speaking-v1.json",
@@ -2520,8 +2520,8 @@
     },
     {
       "path": "cambridge-bank-v1/c14-t1-reading-v1.json",
-      "bytes": 37674,
-      "sha256": "ed608fe2cf94f47d57a238291cfb95977f7710b1524f7af5a4623e81bd4b5ce1"
+      "bytes": 37859,
+      "sha256": "a683b903c4036f2b4e5245be8629b0584a00310680831e6a05a232338d286808"
     },
     {
       "path": "cambridge-bank-v1/c14-t1-speaking-v1.json",
@@ -2540,8 +2540,8 @@
     },
     {
       "path": "cambridge-bank-v1/c14-t2-reading-v1.json",
-      "bytes": 36403,
-      "sha256": "dc63a09438289d6a4c0e628d914546f6e79454fa005bfbb84602f2f5fdfedb3b"
+      "bytes": 36334,
+      "sha256": "3e181d68d95cd384474c449dfeef71488b20db7e2a4ff06bbdc064d7ff5ed2c6"
     },
     {
       "path": "cambridge-bank-v1/c14-t2-speaking-v1.json",
@@ -2560,8 +2560,8 @@
     },
     {
       "path": "cambridge-bank-v1/c14-t3-reading-v1.json",
-      "bytes": 37353,
-      "sha256": "0a59985e25a0e284ef38d5d578f1fde6fbebff2ab9dadddbcb1ccd9b90f84e1c"
+      "bytes": 37468,
+      "sha256": "4428ddbb1a1191de363d97356be584d383c86a67391648d8c4ef592f77f7761d"
     },
     {
       "path": "cambridge-bank-v1/c14-t3-speaking-v1.json",
@@ -2580,8 +2580,8 @@
     },
     {
       "path": "cambridge-bank-v1/c14-t4-reading-v1.json",
-      "bytes": 35067,
-      "sha256": "d0fcff023de28d7c9776c8044ba8c270d13e390ca41c25bd9f9f6c0c54dd0f52"
+      "bytes": 35055,
+      "sha256": "d0f031a0e236cec5cdcb1b04f99d994dd2a6455f5c2a391535e18a515228600d"
     },
     {
       "path": "cambridge-bank-v1/c14-t4-speaking-v1.json",
@@ -3125,8 +3125,8 @@
     },
     {
       "path": "cambridge-bank-v1/c15-t1-reading-v1.json",
-      "bytes": 37432,
-      "sha256": "c5e17376fbcbf2b12b8a9f0fe1d7b701fc57494705c2fb50b7f6a3a78ac8a9b5"
+      "bytes": 37521,
+      "sha256": "a3d272e529f508cf4cfb67a6a417530a55328a58b6929a9ce846ef0056b66c88"
     },
     {
       "path": "cambridge-bank-v1/c15-t1-speaking-v1.json",
@@ -3145,8 +3145,8 @@
     },
     {
       "path": "cambridge-bank-v1/c15-t2-reading-v1.json",
-      "bytes": 38737,
-      "sha256": "e8d13411edece8b3b13c0cbb1ee8dd7947d94fa9a8b40c37f9b5843522a864c4"
+      "bytes": 38787,
+      "sha256": "fbf0c09260554d3efa93dc6c9050430eb355a5852d1bc1c743be00f0f9e71af9"
     },
     {
       "path": "cambridge-bank-v1/c15-t2-speaking-v1.json",
@@ -3165,8 +3165,8 @@
     },
     {
       "path": "cambridge-bank-v1/c15-t3-reading-v1.json",
-      "bytes": 36203,
-      "sha256": "d569d6384d210d81bc2ac57790d13aa9bae03f2a3c2b1327f4b43bc3148d816e"
+      "bytes": 36341,
+      "sha256": "b3da3ad8fed222e4d64a31a98fb97a3cf0ff64946903c0c6fd9124b51c44611a"
     },
     {
       "path": "cambridge-bank-v1/c15-t3-speaking-v1.json",
@@ -3185,8 +3185,8 @@
     },
     {
       "path": "cambridge-bank-v1/c15-t4-reading-v1.json",
-      "bytes": 35836,
-      "sha256": "5013adacae4f3a8e7ce7bcba0211edcf56d4b4f9a50d4e9e42c2d8c34db6708d"
+      "bytes": 35959,
+      "sha256": "6bc32d1a96bb86274b53bc87609aef938757079b15cdd43a724504f81c4e5cb6"
     },
     {
       "path": "cambridge-bank-v1/c15-t4-speaking-v1.json",
@@ -3735,8 +3735,8 @@
     },
     {
       "path": "cambridge-bank-v1/c16-t1-reading-v1.json",
-      "bytes": 37076,
-      "sha256": "48e60ac3a4e42cf1db6db370ce62115219bcdd3fa185d499a2825f1b9479cb28"
+      "bytes": 37082,
+      "sha256": "8044aa72ccb536e74fd7af3a752f50186179fc1f9478b4dc5de30827d0445f55"
     },
     {
       "path": "cambridge-bank-v1/c16-t1-speaking-v1.json",
@@ -3755,8 +3755,8 @@
     },
     {
       "path": "cambridge-bank-v1/c16-t2-reading-v1.json",
-      "bytes": 38563,
-      "sha256": "7880ffaa1a3cffbcd3098c42be8d1554cc92c0a5b02973add6a7d73c0732890e"
+      "bytes": 38792,
+      "sha256": "2dc45aacc6b2efd9cde4ad3d30b141dfe4ea97291965d01ad87c131f7349ad61"
     },
     {
       "path": "cambridge-bank-v1/c16-t2-speaking-v1.json",
@@ -3775,8 +3775,8 @@
     },
     {
       "path": "cambridge-bank-v1/c16-t3-reading-v1.json",
-      "bytes": 37447,
-      "sha256": "a11a0fe88d150a8be736d34ff62cc17a0698c4b0581116364ffa2ed075de1e4d"
+      "bytes": 37462,
+      "sha256": "c9ee507edd9480169403b6d76fc5a9e6beb11a55d72d9144a5e97150efc654f5"
     },
     {
       "path": "cambridge-bank-v1/c16-t3-speaking-v1.json",
@@ -3795,8 +3795,8 @@
     },
     {
       "path": "cambridge-bank-v1/c16-t4-reading-v1.json",
-      "bytes": 38403,
-      "sha256": "844b868a3016bf14686159ed2c8ce624bb1428f3ac8f5605c7f1e65a416e5bd3"
+      "bytes": 38399,
+      "sha256": "415e5ffb4000c63abe65719fca295dca3a0f6a649426362f6067f9f95ed4ddcc"
     },
     {
       "path": "cambridge-bank-v1/c16-t4-speaking-v1.json",
@@ -4345,8 +4345,8 @@
     },
     {
       "path": "cambridge-bank-v1/c17-t1-reading-v1.json",
-      "bytes": 38512,
-      "sha256": "055410b1bdce7504d1c9a4859013c610177594142970c3582e8c5def7888e524"
+      "bytes": 38676,
+      "sha256": "6e1371848f9fec428f5b399be037e689fea4295c73cbd3f9cb87341b6923636e"
     },
     {
       "path": "cambridge-bank-v1/c17-t1-speaking-v1.json",
@@ -4365,8 +4365,8 @@
     },
     {
       "path": "cambridge-bank-v1/c17-t2-reading-v1.json",
-      "bytes": 37171,
-      "sha256": "f7e6b70ee309d6e9d92f896ab12ed0dd9b0acc2c5ad759d6341e0a52c8985034"
+      "bytes": 37413,
+      "sha256": "5e889de5de684395f870cd3f2973e2678d3e171cc2463e645d0577a997be8392"
     },
     {
       "path": "cambridge-bank-v1/c17-t2-speaking-v1.json",
@@ -4385,8 +4385,8 @@
     },
     {
       "path": "cambridge-bank-v1/c17-t3-reading-v1.json",
-      "bytes": 38939,
-      "sha256": "528c3239672896040c4183212697cccab9d7adbe03dc7378d72d169d3323d8c7"
+      "bytes": 39122,
+      "sha256": "0058f952e763f19cc6149ebc606b4085a24f33714a79fde9abd7c7eb75853488"
     },
     {
       "path": "cambridge-bank-v1/c17-t3-speaking-v1.json",
@@ -4405,8 +4405,8 @@
     },
     {
       "path": "cambridge-bank-v1/c17-t4-reading-v1.json",
-      "bytes": 37183,
-      "sha256": "aaab2ddb832195a596c9e4fded9f809e90fb3a29976460298f97ff058f3caebe"
+      "bytes": 37314,
+      "sha256": "ba9b74da206faf5c10380de0ae99bf50cbf3a804cc74e7db2526178f47593c92"
     },
     {
       "path": "cambridge-bank-v1/c17-t4-speaking-v1.json",
@@ -4965,8 +4965,8 @@
     },
     {
       "path": "cambridge-bank-v1/c18-t1-reading-v1.json",
-      "bytes": 35576,
-      "sha256": "cba4bcbca532ca6624d427d449d19f17a47af6197f57b5ff5c36c1c6de3ad22e"
+      "bytes": 35688,
+      "sha256": "7eacc91da19ca9cfb776f9699522e69cd3067e4678547b80ed484071508fc396"
     },
     {
       "path": "cambridge-bank-v1/c18-t1-speaking-v1.json",
@@ -4985,8 +4985,8 @@
     },
     {
       "path": "cambridge-bank-v1/c18-t2-reading-v1.json",
-      "bytes": 38148,
-      "sha256": "f6c8a81ec2476e983ed8b34f03e6a45ce99bad05fd4f5ce062ab79c19c4eb30e"
+      "bytes": 38408,
+      "sha256": "987e6c90393b32e1d847fadfc63f36908099111852c84040ef6b76639b76b49f"
     },
     {
       "path": "cambridge-bank-v1/c18-t2-speaking-v1.json",
@@ -5650,8 +5650,8 @@
     },
     {
       "path": "cambridge-bank-v1/c19-t1-reading-v1.json",
-      "bytes": 40582,
-      "sha256": "496a220df5b1c3989f9c8aff844011de3b1e5a86c4133765452a3c1d099a7051"
+      "bytes": 40754,
+      "sha256": "fec1fbe338b98d60ffe439968497ff95d8601e759973363523f589af2f0f532e"
     },
     {
       "path": "cambridge-bank-v1/c19-t1-speaking-v1.json",
@@ -5670,8 +5670,8 @@
     },
     {
       "path": "cambridge-bank-v1/c19-t2-reading-v1.json",
-      "bytes": 38256,
-      "sha256": "ee00b356a66e001098706eb14e797b112d34a23b8fa0880d8a63e4e4fa19ef8b"
+      "bytes": 38304,
+      "sha256": "2f29cc6e94b9e3b59f08edaafbe7fe9998c7ab1cdcaf22e218d94fbbe6805df2"
     },
     {
       "path": "cambridge-bank-v1/c19-t2-speaking-v1.json",
@@ -5690,8 +5690,8 @@
     },
     {
       "path": "cambridge-bank-v1/c19-t3-reading-v1.json",
-      "bytes": 37420,
-      "sha256": "2a7047f9757a1c0d638eee9153d399e7abdfa422689ff9fc6aca96708d2bce8a"
+      "bytes": 37484,
+      "sha256": "c03972f02d674b9859f94bad12e13a61f34950d8b886367935df1ba009cd2bd6"
     },
     {
       "path": "cambridge-bank-v1/c19-t3-speaking-v1.json",
@@ -6330,8 +6330,8 @@
     },
     {
       "path": "cambridge-bank-v1/c20-t1-reading-v1.json",
-      "bytes": 37959,
-      "sha256": "17785d5d3b38d6f03e4b9b2d9e52770c3226c920ca7523a3e3b509377f8dedd4"
+      "bytes": 38144,
+      "sha256": "ca5887ad417f54210799a36d694f4831a6282ee3a1351776f0880010483e5507"
     },
     {
       "path": "cambridge-bank-v1/c20-t1-speaking-v1.json",
@@ -6350,8 +6350,8 @@
     },
     {
       "path": "cambridge-bank-v1/c20-t2-reading-v1.json",
-      "bytes": 37059,
-      "sha256": "8e763aaa472202a2c2e5d0c6e782cbf32638e925ca743659e3a67236c2dd3586"
+      "bytes": 37169,
+      "sha256": "3d2f8d9a1fb433942bc61c4f61ea96817988300bff9cb83fd37df83bc5d29c42"
     },
     {
       "path": "cambridge-bank-v1/c20-t2-speaking-v1.json",
@@ -6370,8 +6370,8 @@
     },
     {
       "path": "cambridge-bank-v1/c20-t3-reading-v1.json",
-      "bytes": 38062,
-      "sha256": "be675e9ab829bd406546c9ef67bd241a3708f208f303f22844ffd5323cf4638f"
+      "bytes": 38293,
+      "sha256": "34720a3332da91b8f670b939f303c3427b5cce351fdc9604f322ecca50b89437"
     },
     {
       "path": "cambridge-bank-v1/c20-t3-speaking-v1.json",
@@ -6390,8 +6390,8 @@
     },
     {
       "path": "cambridge-bank-v1/c20-t4-reading-v1.json",
-      "bytes": 37142,
-      "sha256": "bd67aedfc47e5770f46b3b31c2355aef30c6c1a10793449f5cb9284c61ef8ae4"
+      "bytes": 37224,
+      "sha256": "7e6b0fc4488f7e63e1b97314e5e561a08ea56e1fc8d6812f4e429cd99afc04bd"
     },
     {
       "path": "cambridge-bank-v1/c20-t4-speaking-v1.json",
@@ -6875,8 +6875,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 107678,
-      "sha256": "09d5a821d121ccb028717d294cc85ef364b92a64bef89dc5c0251cbad6bef9c7"
+      "bytes": 131557,
+      "sha256": "6422f86658c9745c20fc8e852e3cfa51ccfa93d588d2802f5450863b40a172c4"
     },
     {
       "path": "learning-assets/c21-page-17.png",
@@ -10515,8 +10515,8 @@
     },
     {
       "path": "progressive-build.json",
-      "bytes": 477622,
-      "sha256": "25c5e0c1ed47591ec19be7c3a568afbe8b7df1ae8f6989f6b7c2c1fd9b8cca74"
+      "bytes": 477709,
+      "sha256": "663e79dd5e5ed12c1726e9dee1d6a4a78076a640e4ae1c07fe2b9905370f7ed6"
     },
     {
       "path": "progressive/content.00831cb89837e6b1981c.json",
@@ -10524,14 +10524,9 @@
       "sha256": "00831cb89837e6b1981c5635641811bd0a64ad8d1ceab2f9199a2a9d52c7ca7f"
     },
     {
-      "path": "progressive/content.02769c7a24d7c498da39.json",
-      "sha256": "02769c7a24d7c498da39d5bd6a828f47e140ef78605d09547a69b9ac41b047a6",
-      "bytes": 130818
-    },
-    {
       "path": "progressive/content.02e1c32493478793a0db.json",
-      "bytes": 129623,
-      "sha256": "02e1c32493478793a0db3c57b79bdd7aa01544047d8d8dcce4b30f5942b47070"
+      "sha256": "02e1c32493478793a0db3c57b79bdd7aa01544047d8d8dcce4b30f5942b47070",
+      "bytes": 129623
     },
     {
       "path": "progressive/content.04750e111b6f802c7522.json",
@@ -10564,9 +10559,9 @@
       "bytes": 126091
     },
     {
-      "path": "progressive/content.13e26266c9ffc8510329.json",
-      "sha256": "13e26266c9ffc851032914fc33fff925f76fcc3901943e02c1a00d04188e37aa",
-      "bytes": 119660
+      "path": "progressive/content.170255481ec702c35c09.json",
+      "bytes": 125809,
+      "sha256": "170255481ec702c35c09b2ff9435e1889c0bf8e15721f0381a76b3f5835cb7f7"
     },
     {
       "path": "progressive/content.1b75cb6880d935d2c0a9.json",
@@ -10590,13 +10585,18 @@
     },
     {
       "path": "progressive/content.217f599f312f20d2bdc3.json",
-      "bytes": 120576,
-      "sha256": "217f599f312f20d2bdc30abbc65c7708552879f9377bc168cc867a1e96fd11f8"
+      "sha256": "217f599f312f20d2bdc30abbc65c7708552879f9377bc168cc867a1e96fd11f8",
+      "bytes": 120576
     },
     {
       "path": "progressive/content.251956f6f7f270ca5828.json",
       "bytes": 123753,
       "sha256": "251956f6f7f270ca582855996dbd4a4f6999d92d220bf512bc78fc5824efd0a0"
+    },
+    {
+      "path": "progressive/content.26572be438e77897ea53.json",
+      "bytes": 128612,
+      "sha256": "26572be438e77897ea53ace3c985cdf977b34ea72ccc4958b3afdbfd254dd766"
     },
     {
       "path": "progressive/content.2d2ca512431aec52fe04.json",
@@ -10617,11 +10617,6 @@
       "path": "progressive/content.3512c9fa0fc3589a4141.json",
       "bytes": 171424,
       "sha256": "3512c9fa0fc3589a41415782104abf3477971d92ae63fa56de984f37925b2e06"
-    },
-    {
-      "path": "progressive/content.3675f1565ec9132120a0.json",
-      "sha256": "3675f1565ec9132120a00bf87ee97e54b5da413a29cb9ded28777e57d4f4e467",
-      "bytes": 120176
     },
     {
       "path": "progressive/content.39243ef9cf84c2ddc97b.json",
@@ -10654,19 +10649,14 @@
       "sha256": "466b319798a38bbae63e8e9aebbede76625c33fb23d8b018fae39f230a01214d"
     },
     {
-      "path": "progressive/content.4ad8f81d7f413b2a8b2d.json",
-      "sha256": "4ad8f81d7f413b2a8b2d170bce8742e135ab5a5c1da5f4d785e8f0635c89c49c",
-      "bytes": 127405
+      "path": "progressive/content.4b4c2e1d2c8185c3ee70.json",
+      "bytes": 124779,
+      "sha256": "4b4c2e1d2c8185c3ee7080dd20698fe6a457bba0f7e8d40dc98ed8ea3792c1c2"
     },
     {
       "path": "progressive/content.4d7fdf05a1728e0218e9.json",
       "sha256": "4d7fdf05a1728e0218e9492b3456a8bf290815760ee377f02540f7bfbd521869",
       "bytes": 108574
-    },
-    {
-      "path": "progressive/content.4ebee2f0d4268bbf0082.json",
-      "sha256": "4ebee2f0d4268bbf00824cc67bcfe71a5177474228e8cbe828abf6c0090d01f4",
-      "bytes": 121740
     },
     {
       "path": "progressive/content.4f63d5dce0ddfb326461.json",
@@ -10690,13 +10680,8 @@
     },
     {
       "path": "progressive/content.561fdbaa1d469ef5aec6.json",
-      "bytes": 122170,
-      "sha256": "561fdbaa1d469ef5aec6a70411f8915cc57f0e3fcb6f7fc336265fc2eae4b59e"
-    },
-    {
-      "path": "progressive/content.56955ccb288f36b29b2b.json",
-      "sha256": "56955ccb288f36b29b2bc7712d06e2d69f249442ba033a3d70a6193b8645bc25",
-      "bytes": 124500
+      "sha256": "561fdbaa1d469ef5aec6a70411f8915cc57f0e3fcb6f7fc336265fc2eae4b59e",
+      "bytes": 122170
     },
     {
       "path": "progressive/content.576665caa1a610da8082.json",
@@ -10710,8 +10695,8 @@
     },
     {
       "path": "progressive/content.6b88b05bbcc938bd87f4.json",
-      "bytes": 124118,
-      "sha256": "6b88b05bbcc938bd87f4b7d7deb8ef6310b2da56cea0d7e5459b3e27725192cd"
+      "sha256": "6b88b05bbcc938bd87f4b7d7deb8ef6310b2da56cea0d7e5459b3e27725192cd",
+      "bytes": 124118
     },
     {
       "path": "progressive/content.6fcf3408cc7d73d460bc.json",
@@ -10739,9 +10724,14 @@
       "bytes": 130019
     },
     {
+      "path": "progressive/content.7b473f383816030e3b50.json",
+      "bytes": 123277,
+      "sha256": "7b473f383816030e3b50664628687c080f010173707abcb1751b838bcb0ca79e"
+    },
+    {
       "path": "progressive/content.7ce56f836f9613c743dc.json",
-      "bytes": 131076,
-      "sha256": "7ce56f836f9613c743dcd27735a276a15fe14ef6e0f2153379260c2bec67af2d"
+      "sha256": "7ce56f836f9613c743dcd27735a276a15fe14ef6e0f2153379260c2bec67af2d",
+      "bytes": 131076
     },
     {
       "path": "progressive/content.7f01174bc063baf1a60b.json",
@@ -10752,11 +10742,6 @@
       "path": "progressive/content.80a06673b4f3608cbd69.json",
       "sha256": "80a06673b4f3608cbd695b47d924fbaf6ce968c61c0c5328080354164ec33de8",
       "bytes": 123516
-    },
-    {
-      "path": "progressive/content.8150055fcc74b4394325.json",
-      "sha256": "8150055fcc74b4394325327f5a98f2f1df5569391d549555ce10690105c26ec0",
-      "bytes": 128917
     },
     {
       "path": "progressive/content.821593c4021f3ea32900.json",
@@ -10782,6 +10767,11 @@
       "path": "progressive/content.8f13d562a445a41214a7.json",
       "bytes": 128691,
       "sha256": "8f13d562a445a41214a7820cdfe65e35b60877a4f497e6f512e6f071a4f50178"
+    },
+    {
+      "path": "progressive/content.8f2bb21b5c94f38be177.json",
+      "bytes": 411179,
+      "sha256": "8f2bb21b5c94f38be177efa0b21cb3c0c8f3e6f42cb6aa9e91d49ea42514595d"
     },
     {
       "path": "progressive/content.9407e9754054037374c6.json",
@@ -10814,6 +10804,11 @@
       "sha256": "99391ae4bfdbb377ac66d992627d218774f9c94bcaa96076c77a5ea5d3b252d7"
     },
     {
+      "path": "progressive/content.9a8374cca433eb688cc2.json",
+      "bytes": 131076,
+      "sha256": "9a8374cca433eb688cc204b341fa5569b9db558292ae6a3015195ebaa1d5c4f0"
+    },
+    {
       "path": "progressive/content.9a9f2292dbcb320ff3bd.json",
       "bytes": 127814,
       "sha256": "9a9f2292dbcb320ff3bd89dc4f73dc9050759a8d011d1af343cd195887cf476d"
@@ -10824,14 +10819,19 @@
       "sha256": "9e49848b783d559d9c0b744a5dc236f45b39b425a9a61b4208aea15ba1b368e4"
     },
     {
+      "path": "progressive/content.a68df253919a675d7092.json",
+      "bytes": 120737,
+      "sha256": "a68df253919a675d70927e7e961831016e3d076493925f6f025140d8703cc2e3"
+    },
+    {
       "path": "progressive/content.a90ffe4c3377ff3962aa.json",
-      "bytes": 340208,
-      "sha256": "a90ffe4c3377ff3962aa1078a382749bcfd1ab6ccfb8626e3093c90d13cacffc"
+      "sha256": "a90ffe4c3377ff3962aa1078a382749bcfd1ab6ccfb8626e3093c90d13cacffc",
+      "bytes": 340208
     },
     {
       "path": "progressive/content.a967f513bc3b893347ea.json",
-      "bytes": 64018,
-      "sha256": "a967f513bc3b893347ea723bed54a66722407f70c79c01d7983e4c2e35fb068b"
+      "sha256": "a967f513bc3b893347ea723bed54a66722407f70c79c01d7983e4c2e35fb068b",
+      "bytes": 64018
     },
     {
       "path": "progressive/content.a9ffcffbe376699c53c2.json",
@@ -10840,13 +10840,18 @@
     },
     {
       "path": "progressive/content.ae6acc3b091ef3280a95.json",
-      "bytes": 128432,
-      "sha256": "ae6acc3b091ef3280a953e01f53a5ada49294dd5d533abd4dfdf09f273cd0b46"
+      "sha256": "ae6acc3b091ef3280a953e01f53a5ada49294dd5d533abd4dfdf09f273cd0b46",
+      "bytes": 128432
     },
     {
       "path": "progressive/content.af3fb7372518f7e1857b.json",
       "sha256": "af3fb7372518f7e1857b9b3495be2aa810a8ff58f31c512e8a381c23ef6c14a0",
       "bytes": 123572
+    },
+    {
+      "path": "progressive/content.b064acf939e0d32f7a3f.json",
+      "bytes": 122170,
+      "sha256": "b064acf939e0d32f7a3ffe599b23e20c8a3ff2121d47c812f1a98ec8b5d791e0"
     },
     {
       "path": "progressive/content.b13df5868c069ddb819b.json",
@@ -10864,11 +10869,6 @@
       "bytes": 128913
     },
     {
-      "path": "progressive/content.b80e7400df52527dea26.json",
-      "sha256": "b80e7400df52527dea262249d9175b8542cd8fe686ad3d3de5221f85407eb765",
-      "bytes": 129350
-    },
-    {
       "path": "progressive/content.bb2d2dad3bf949558229.json",
       "bytes": 125069,
       "sha256": "bb2d2dad3bf94955822996c63ad30d7ffdfb921809398c6a8c59920c46ce46d6"
@@ -10884,24 +10884,19 @@
       "bytes": 126727
     },
     {
-      "path": "progressive/content.c43ee679b5ba65b1ab41.json",
-      "sha256": "c43ee679b5ba65b1ab411137337f4c909f2edc86cd725e0da215d750ec7538fe",
-      "bytes": 125403
+      "path": "progressive/content.ca52b03ba79780d11a41.json",
+      "sha256": "ca52b03ba79780d11a41ee0f8b51ec5f715310e6faaf59b4920e39e2ea55f529",
+      "bytes": 118579
     },
     {
-      "path": "progressive/content.ca52b03ba79780d11a41.json",
-      "bytes": 118579,
-      "sha256": "ca52b03ba79780d11a41ee0f8b51ec5f715310e6faaf59b4920e39e2ea55f529"
+      "path": "progressive/content.ca6970b282d2c5361b12.json",
+      "bytes": 64100,
+      "sha256": "ca6970b282d2c5361b12ff69b632bd18c0a3992098ebad78ed6bf08fcc3d8acf"
     },
     {
       "path": "progressive/content.cc5e1d1cb6d082534ac5.json",
-      "bytes": 127405,
-      "sha256": "cc5e1d1cb6d082534ac519299849bb18caca6b25751f2d7b6bff6f13b735db00"
-    },
-    {
-      "path": "progressive/content.cc83490ba2990d5fbd41.json",
-      "sha256": "cc83490ba2990d5fbd410e7279f14b7a7b62418750a76580116c2f47aeec1538",
-      "bytes": 125896
+      "sha256": "cc5e1d1cb6d082534ac519299849bb18caca6b25751f2d7b6bff6f13b735db00",
+      "bytes": 127405
     },
     {
       "path": "progressive/content.cd2239840bce48a4ce24.json",
@@ -10929,6 +10924,11 @@
       "sha256": "d7e21cb52b339e46292700a5fbdc870d3ef3ec6e1111d4846829730e1772780e"
     },
     {
+      "path": "progressive/content.d95bc2fafa998fe6f1f2.json",
+      "bytes": 122682,
+      "sha256": "d95bc2fafa998fe6f1f2dbe0e2f77bc06b91ad8b7f9638e5e9762a7a1bf9c3c4"
+    },
+    {
       "path": "progressive/content.ddb9bce5e78e0f9188bc.json",
       "sha256": "ddb9bce5e78e0f9188bc97e5a0fa496be9fe595dbd2ea4ae39cde594b91f9141",
       "bytes": 130562
@@ -10950,8 +10950,8 @@
     },
     {
       "path": "progressive/content.deea850f2710b2a178e5.json",
-      "bytes": 122682,
-      "sha256": "deea850f2710b2a178e5c988e1fa58ac0fee6c4762ba296e9dce3e17f14f6bd6"
+      "sha256": "deea850f2710b2a178e5c988e1fa58ac0fee6c4762ba296e9dce3e17f14f6bd6",
+      "bytes": 122682
     },
     {
       "path": "progressive/content.e146f414f5dd52d28693.json",
@@ -11004,6 +11004,11 @@
       "sha256": "f050075413c6269bc3de710df8e4f7660fe25599ea10ccac6a18642a9e60a20b"
     },
     {
+      "path": "progressive/content.f777fa0f2e317be52182.json",
+      "bytes": 128048,
+      "sha256": "f777fa0f2e317be521825ed29cd29788fedc17400bf361e1bc12352a52c9d0ff"
+    },
+    {
       "path": "progressive/content.f7d18ba07f95433aef94.json",
       "bytes": 34607,
       "sha256": "f7d18ba07f95433aef947c57c3594100f9a2af02af084f5b8cd13f87567f3717"
@@ -11014,19 +11019,19 @@
       "bytes": 123481
     },
     {
-      "path": "progressive/controllers.6dd586cf2810ad424df7.json",
-      "sha256": "6dd586cf2810ad424df7ea2565c6de4ce6c5dddbd8df816903b2e7a8d24104c3",
-      "bytes": 1550445
-    },
-    {
       "path": "progressive/controllers.7f4e3475f68783eda684.json",
-      "bytes": 1569337,
-      "sha256": "7f4e3475f68783eda68445e87afc3231c89fdd561a230fc9ec57a180c67455de"
+      "sha256": "7f4e3475f68783eda68445e87afc3231c89fdd561a230fc9ec57a180c67455de",
+      "bytes": 1569337
     },
     {
       "path": "progressive/controllers.895aeee939a615c6d000.json",
       "sha256": "895aeee939a615c6d000e8ebf68d8ef5e7e9765cf1015952a06e31e9af9863a4",
       "bytes": 1564156
+    },
+    {
+      "path": "progressive/controllers.c0243add74bad4e1a84e.json",
+      "bytes": 1641974,
+      "sha256": "c0243add74bad4e1a84e8cc0f5387ce2fb88037a814ede10fab579439cda993d"
     },
     {
       "path": "progressive/loader.df3d0987757563f6b6dd.js",
@@ -11039,14 +11044,14 @@
       "bytes": 13564
     },
     {
-      "path": "progressive/manifest.b565701517fe5e4e2c1f.json",
-      "sha256": "b565701517fe5e4e2c1f2757e8ae7245cf323b9a3290eeaac1cc4b88e6dbfa71",
-      "bytes": 13252
+      "path": "progressive/manifest.d403913670104cc92520.json",
+      "bytes": 13922,
+      "sha256": "d403913670104cc925200853717d4cd1af4b9da10a2006a475b6008503fe91b2"
     },
     {
       "path": "progressive/manifest.d9cf6e2acc0af321174d.json",
-      "bytes": 13953,
-      "sha256": "d9cf6e2acc0af321174d0521a129b685d79b8b17c55e293a00b2f51761e67a56"
+      "sha256": "d9cf6e2acc0af321174d0521a129b685d79b8b17c55e293a00b2f51761e67a56",
+      "bytes": 13953
     },
     {
       "path": "reading-bank-v1/199bb01dc99800679cc4.png",
@@ -11175,18 +11180,18 @@
     },
     {
       "path": "reading-bank-v1/c21-t2.json",
-      "bytes": 42893,
-      "sha256": "e6d2016e4558d75199e5d8ebe1df77e5f3c682c053c96aad9edc56622c1f89e5"
+      "bytes": 42890,
+      "sha256": "d3c28998b886ae6bdc47ae81afb8779d251d4755007185bda216837a0af0de23"
     },
     {
       "path": "reading-bank-v1/c21-t3.json",
       "bytes": 45119,
-      "sha256": "a5340732d97c71509eeec8204f8c682bb81d814e6d1888925c805d052dad8475"
+      "sha256": "5eb0a50ad2293f89a388308801e5ecd4847ad95f93330f3db71901dcd94c2b50"
     },
     {
       "path": "reading-bank-v1/c21-t4.json",
-      "bytes": 49586,
-      "sha256": "da96766de5e8638deb63d4848498a1c997edb998f1c4a4b63db97921ff835397"
+      "bytes": 49580,
+      "sha256": "ff96e2bc680f3df34953d4de5197e8061d2458621568196eba47067ece8120a7"
     },
     {
       "path": "reading-bank-v1/f5e1730bcf237a70175f.png",
@@ -13951,15 +13956,15 @@
   ],
   "retained_progressive_releases": [
     {
+      "commit": "52b0a0555313fe67e59a4d2ea0767b481cd253f1",
+      "homepage_sha256": "09d5a821d121ccb028717d294cc85ef364b92a64bef89dc5c0251cbad6bef9c7",
+      "generated_assets": 54
+    },
+    {
       "commit": "cafca4f044b08896f900df6f4732f5c5d9177757",
       "homepage_sha256": "ff8468c4fbb462ad9f4763b8394e53b0c77330c05e2646ab34813004fb23254e",
       "generated_assets": 52
-    },
-    {
-      "commit": "b79d3e02b4a4908aabd36f6b5028c39736bd81fc",
-      "homepage_sha256": "96cbd2a73eef9bf2ca1b4883b0a231c9c2991d5a87a953f029511a4b86e27688",
-      "generated_assets": 50
     }
   ],
-  "retained_progressive_bytes": 9387540
+  "retained_progressive_bytes": 9682155
 }
