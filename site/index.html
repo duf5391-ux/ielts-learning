@@ -751,6 +751,21 @@ body.task-actions-active :is(.wx-question,.task-attempts,.case-feedback,[id$="-l
 #ds-history{margin:24px 0;padding:20px;border:1px solid #cbdacb;border-radius:12px;background:#fffef9}#ds-history article{padding:14px 0;border-bottom:1px solid #e0e7d9}#ds-history a{display:inline-block;margin:5px 14px 5px 0}#ds-history h3{font-size:16px;margin:0}#ds-history p{margin:6px 0}.ds-saved-links{display:flex;flex-wrap:wrap;gap:8px 16px;margin:12px 0}.ds-saved-links a{color:#285e49;text-decoration:underline}
 @media(max-width:720px){.task-actions{flex-wrap:wrap;gap:4px;padding:6px 8px}.task-action-info{font-size:12px;flex:1 1 100%}.task-action-buttons{flex-wrap:wrap;gap:5px}.task-actions button{font-size:12px;padding:7px 10px;min-height:38px}}
 @media print{.task-actions{display:none!important}}
+</style><style id="daily-flow-style">/* Clear choices and actions throughout the daily learning flow. */
+.ds-home .ds-button-link,.ds-saved-links a,#ds-history a{display:inline-flex;align-items:center;justify-content:center;min-height:44px;box-sizing:border-box;padding:10px 15px;margin:0;border:1px solid #8aaa93;border-radius:8px;background:#fffef9;color:#285745;text-decoration:none;font-size:14px;font-weight:600;line-height:1.5}
+.ds-home .ds-button-link:hover,.ds-saved-links a:hover,#ds-history a:hover{background:#eaf2e6;border-color:#285745}
+.ds-completion-actions{display:flex;gap:12px;flex-wrap:wrap;margin:20px 0 16px}.ds-completion-actions .ds-primary{justify-content:center;gap:8px}
+.ds-confirm-summary{padding:12px 14px;background:#eff5e9;border:1px solid #c7d9bf;border-radius:8px;font-size:14px;font-weight:600;line-height:1.6}
+.ds-home .ds-more{min-height:42px;padding:9px 14px;border:1px solid #adc3a5;border-radius:8px;background:#fffef9;font-size:13px}
+.ds-home .ds-feedback button{font-size:13px;min-height:44px}
+.ds-snapshot{margin:14px 0;border:1px solid #b9cdb0;border-radius:8px;background:#fffefa;padding:0 14px}.ds-snapshot summary{min-height:44px;padding:12px 0;cursor:pointer;font-weight:600;color:#285745}.ds-snapshot pre{white-space:pre-wrap;overflow-wrap:anywhere;font:inherit;line-height:1.7;background:#f3f6ef;padding:12px;border-radius:6px}.ds-snapshot h4{font-size:14px;margin:16px 0 8px}
+.ds-button-link:focus-visible,.ds-snapshot summary:focus-visible{outline:3px solid #bc8e3a;outline-offset:3px}
+.task-action-buttons{flex-wrap:wrap;justify-content:flex-end;flex-shrink:1}.task-action-info{flex:1;min-width:160px}.task-actions button{white-space:normal}
+body.task-actions-active main::before{height:var(--task-action-height,66px)}
+.ds-home .ds-layout,#ds-completed,#ds-history{scroll-margin-top:var(--task-action-bottom,150px)}
+@media(min-width:851px){.task-actions{align-items:center}.task-action-buttons{max-width:64%}}
+@media(max-width:850px){.task-action-buttons{max-width:none}.task-action-info{min-width:0}.ds-completion-actions>*{flex:1 1 180px}}
+@media print{.ds-completion-actions{display:none}}
 </style>
 <link rel="manifest" href="site.webmanifest">
 <meta name="theme-color" content="#356c57">
@@ -784,4 +799,4 @@ body[data-progressive-state="loading"] > :not(#ielts-progressive-boot):not(scrip
 <p class="pb-eyebrow">按自己的节奏</p><h1>今天，学一小段。</h1><p class="pb-intro">先选好想去的地方，内容准备好后就会打开。</p>
 <nav aria-label="选择学习入口"><button data-pb-route="#guide">直接开始</button><button data-pb-route="#study">学习内容</button><button data-pb-route="#practice">练习</button></nav>
 <p id="ielts-progressive-status" role="status" aria-live="polite">正在准备学习内容…</p><progress id="ielts-progressive-progress" max="100" value="0" aria-label="内容准备进度"></progress>
-<button id="ielts-progressive-retry" type="button" hidden>重新打开</button><noscript><p>请在浏览器中开启 JavaScript，然后刷新此页。</p></noscript></div></div><!--ielts-progressive-anchor-0--><script id="ielts-progressive-config" type="application/json">{"manifest": {"path": "progressive/manifest.ad5574bd028b5e0a72bd.json", "sha256": "ad5574bd028b5e0a72bdf1c1175781fcd891d02ce342d1bbaaa56855adb468df", "bytes": 13922}}</script><script id="ielts-progressive-loader" src="progressive/loader.df3d0987757563f6b6dd.js" defer></script></body></html>
+<button id="ielts-progressive-retry" type="button" hidden>重新打开</button><noscript><p>请在浏览器中开启 JavaScript，然后刷新此页。</p></noscript></div></div><!--ielts-progressive-anchor-0--><script id="ielts-progressive-config" type="application/json">{"manifest": {"path": "progressive/manifest.d71b9e5833d2905d36f2.json", "sha256": "d71b9e5833d2905d36f21023ccb25e778c3e48b6d7443a3e13af2b2863a1f5d9", "bytes": 13922}}</script><script id="ielts-progressive-loader" src="progressive/loader.df3d0987757563f6b6dd.js" defer></script></body></html>
