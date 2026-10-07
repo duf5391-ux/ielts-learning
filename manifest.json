@@ -1,9 +1,9 @@
 {
-  "source_html_sha256": "19828eeaca976808ccfd4f76ba34a2bb4a5343393b731fd4ac1b87bff94f09c6",
-  "published_html_sha256": "7d908262e95d90a2c475587e2cf85a99785a4773ebee6619e22e448bc80172cf",
+  "source_html_sha256": "de47ab1bfee90862776e81acab9868c6e5454c8992cf57d24d97e85f2a6aa6d8",
+  "published_html_sha256": "51060469f8504348fbb0086c8c463aa39f552ce069d2c2406ff3e77d8d700edb",
   "save_fields": 4840,
-  "published_files": 2739,
-  "total_bytes": 882552082,
+  "published_files": 2737,
+  "total_bytes": 882323200,
   "html_pages_checked": 14,
   "scripts_syntax_checked": 11,
   "dictionary": {
@@ -6876,7 +6876,7 @@
     {
       "path": "index.html",
       "bytes": 136498,
-      "sha256": "7d908262e95d90a2c475587e2cf85a99785a4773ebee6619e22e448bc80172cf"
+      "sha256": "51060469f8504348fbb0086c8c463aa39f552ce069d2c2406ff3e77d8d700edb"
     },
     {
       "path": "learning-assets/c21-page-17.png",
@@ -10516,7 +10516,7 @@
     {
       "path": "progressive-build.json",
       "bytes": 477762,
-      "sha256": "b8a9ebdb0d8af07ee40509ac81c8bc6a8aaf3547c40dd419529922b847732f1e"
+      "sha256": "ccc67eb4b0f8918783db5838d2d43a6b8b0d559fd356dc913605dc178f17afd2"
     },
     {
       "path": "progressive/content.00831cb89837e6b1981c.json",
@@ -10659,11 +10659,6 @@
       "sha256": "9407e9754054037374c65ed5047f27ac24086bf77f0a2cadd9a39934486ed1c1"
     },
     {
-      "path": "progressive/content.94a68a1fc3f1d4cc52b0.json",
-      "sha256": "94a68a1fc3f1d4cc52b0e21df6c8a182c9b616462982c926d159750a22f6e99e",
-      "bytes": 123277
-    },
-    {
       "path": "progressive/content.96e1436e25cc7c72fb45.json",
       "bytes": 130248,
       "sha256": "96e1436e25cc7c72fb4596c2703c71bb2723f5dbdef00dda65a78b2b7348d7db"
@@ -10764,24 +10759,14 @@
       "sha256": "f050075413c6269bc3de710df8e4f7660fe25599ea10ccac6a18642a9e60a20b"
     },
     {
-      "path": "progressive/content.f777fa0f2e317be52182.json",
-      "sha256": "f777fa0f2e317be521825ed29cd29788fedc17400bf361e1bc12352a52c9d0ff",
-      "bytes": 128048
-    },
-    {
       "path": "progressive/content.f7d18ba07f95433aef94.json",
       "bytes": 34607,
       "sha256": "f7d18ba07f95433aef947c57c3594100f9a2af02af084f5b8cd13f87567f3717"
     },
     {
-      "path": "progressive/controllers.0a104fd65d7804ab4ee2.json",
-      "sha256": "0a104fd65d7804ab4ee2bfb9a9a69ef577d3224a89ff50014c712699255bbee3",
-      "bytes": 1664119
-    },
-    {
       "path": "progressive/controllers.36f44161f1ba995ae9f9.json",
-      "bytes": 1686177,
-      "sha256": "36f44161f1ba995ae9f9590a94ba516a9adb0df257c46fad44188e7bbfd9f35a"
+      "sha256": "36f44161f1ba995ae9f9590a94ba516a9adb0df257c46fad44188e7bbfd9f35a",
+      "bytes": 1686177
     },
     {
       "path": "progressive/controllers.ad5d1d85f98c64dff8c5.json",
@@ -10789,14 +10774,14 @@
       "bytes": 1677952
     },
     {
+      "path": "progressive/controllers.f82f46862ef514c0e49e.json",
+      "bytes": 1686562,
+      "sha256": "f82f46862ef514c0e49e4902b88392d078dcc223981403d4786429dbfaa3f2db"
+    },
+    {
       "path": "progressive/loader.df3d0987757563f6b6dd.js",
       "bytes": 8972,
       "sha256": "df3d0987757563f6b6dd0333b1da1ea52768b4bd79900e5f9f3ac6b80040d801"
-    },
-    {
-      "path": "progressive/manifest.155fabc8b9f0399de67a.json",
-      "sha256": "155fabc8b9f0399de67a680856f08558a12a62da44c100f8bb6937c87ac97025",
-      "bytes": 13922
     },
     {
       "path": "progressive/manifest.ad5574bd028b5e0a72bd.json",
@@ -10804,9 +10789,14 @@
       "bytes": 13922
     },
     {
-      "path": "progressive/manifest.d71b9e5833d2905d36f2.json",
+      "path": "progressive/manifest.c19cc23fe94d3a944633.json",
       "bytes": 13922,
-      "sha256": "d71b9e5833d2905d36f21023ccb25e778c3e48b6d7443a3e13af2b2863a1f5d9"
+      "sha256": "c19cc23fe94d3a94463369c907ce4c98bd472fc29622996f41464dfe621bb304"
+    },
+    {
+      "path": "progressive/manifest.d71b9e5833d2905d36f2.json",
+      "sha256": "d71b9e5833d2905d36f21023ccb25e778c3e48b6d7443a3e13af2b2863a1f5d9",
+      "bytes": 13922
     },
     {
       "path": "reading-bank-v1/199bb01dc99800679cc4.png",
@@ -13711,15 +13701,15 @@
   ],
   "retained_progressive_releases": [
     {
-      "commit": "c693ef023887ba48900350014f991c0bfe827c34",
-      "homepage_sha256": "08e5f3ff0785b0deda5631a403da8d6686e7212922c59483077c8f3c9c36bbfe",
+      "commit": "5a3b5bceb38dcdab3965405c861ff461003346ed",
+      "homepage_sha256": "7d908262e95d90a2c475587e2cf85a99785a4773ebee6619e22e448bc80172cf",
       "generated_assets": 54
     },
     {
-      "commit": "7be5adbc533575fd38d50b90be98299c3b578b77",
-      "homepage_sha256": "0b9d3915ac73b3a4891210d5fcdd8bb6db5bc58ceb71bc0415f44d3becc4d991",
+      "commit": "c693ef023887ba48900350014f991c0bfe827c34",
+      "homepage_sha256": "08e5f3ff0785b0deda5631a403da8d6686e7212922c59483077c8f3c9c36bbfe",
       "generated_assets": 54
     }
   ],
-  "retained_progressive_bytes": 3621240
+  "retained_progressive_bytes": 3391973
 }
