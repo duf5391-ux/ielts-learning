@@ -1,9 +1,9 @@
 {
-  "source_html_sha256": "f12d835b9b489ff37e507809dc8668acc24941fe025a26d9a20408ccdc74171b",
-  "published_html_sha256": "eda9e2d4fc6186db875c98a3a33752ea33ae5ad9deaca757e93cc31f82aa403b",
+  "source_html_sha256": "dbb4aa333af987281e84f9d1544e77ce831f0e7c38f91a91ac62495538bd679a",
+  "published_html_sha256": "5da91b892d8d6c4980a409941603ebd04ad63aa6209f8e0aeb53dcfcbc4e57c4",
   "save_fields": 4893,
-  "published_files": 2771,
-  "total_bytes": 888603402,
+  "published_files": 2774,
+  "total_bytes": 888996359,
   "html_pages_checked": 14,
   "scripts_syntax_checked": 11,
   "dictionary": {
@@ -6881,7 +6881,7 @@
     {
       "path": "index.html",
       "bytes": 138291,
-      "sha256": "eda9e2d4fc6186db875c98a3a33752ea33ae5ad9deaca757e93cc31f82aa403b"
+      "sha256": "5da91b892d8d6c4980a409941603ebd04ad63aa6209f8e0aeb53dcfcbc4e57c4"
     },
     {
       "path": "learning-assets/c21-page-17.png",
@@ -10521,7 +10521,7 @@
     {
       "path": "progressive-build.json",
       "bytes": 482671,
-      "sha256": "d47718aa98959df675d6ba11d42df55d301b9ca38954c44188f9ee963b319c3c"
+      "sha256": "4e15f4a4306dd36bc5610f51f1c30c7ea3f930b0cfb926af63c5ec58f7b6f487"
     },
     {
       "path": "progressive/content.050352c4603ff4a7a280.json",
@@ -10562,6 +10562,11 @@
       "path": "progressive/content.1eecf9f769c523ec2e4c.json",
       "bytes": 126331,
       "sha256": "1eecf9f769c523ec2e4c55d5862e2d44be82ff6132f7add81656459e0b6bed62"
+    },
+    {
+      "path": "progressive/content.2197fda8f891cc1b877f.json",
+      "bytes": 119252,
+      "sha256": "2197fda8f891cc1b877f704d78ac5cfb935afb95d0f33164449468f18b1dfbae"
     },
     {
       "path": "progressive/content.22af8bcdae552d1c6d2a.json",
@@ -10685,8 +10690,8 @@
     },
     {
       "path": "progressive/content.70ca231dd99ab599f181.json",
-      "bytes": 122443,
-      "sha256": "70ca231dd99ab599f1810a46238649b24a4e45aa711f535484168562cf4564ab"
+      "sha256": "70ca231dd99ab599f1810a46238649b24a4e45aa711f535484168562cf4564ab",
+      "bytes": 122443
     },
     {
       "path": "progressive/content.7428021067cb0d96378e.json",
@@ -10720,8 +10725,8 @@
     },
     {
       "path": "progressive/content.8e8530bf3f4b06b8b49f.json",
-      "bytes": 118602,
-      "sha256": "8e8530bf3f4b06b8b49fc57352a840c650725340e5a460f8af20aa5b999f93d7"
+      "sha256": "8e8530bf3f4b06b8b49fc57352a840c650725340e5a460f8af20aa5b999f93d7",
+      "bytes": 118602
     },
     {
       "path": "progressive/content.8f88ff19f4a2c00170a5.json",
@@ -10779,6 +10784,11 @@
       "bytes": 127126
     },
     {
+      "path": "progressive/content.b09829277d97a63c699c.json",
+      "bytes": 127313,
+      "sha256": "b09829277d97a63c699c8d54ecfcae50d3f4ff12206d75c0c2e14723bf1f6c26"
+    },
+    {
       "path": "progressive/content.bdc82dec2fa719197956.json",
       "bytes": 113633,
       "sha256": "bdc82dec2fa719197956f3a66a4e460c128b3663e8f3c598e372d2b9c3057d40"
@@ -10812,6 +10822,11 @@
       "path": "progressive/content.cc33466d6b8e7765b378.json",
       "bytes": 85,
       "sha256": "cc33466d6b8e7765b378e68b83c73c3315d91baf656400953081882bc252ca25"
+    },
+    {
+      "path": "progressive/content.d019c048d42b6795b2fc.json",
+      "bytes": 107421,
+      "sha256": "d019c048d42b6795b2fc1530da23ea05751d32a6cf7bbd167696038069d70a6f"
     },
     {
       "path": "progressive/content.d01c9e00f2d0a10717c2.json",
@@ -10860,8 +10875,8 @@
     },
     {
       "path": "progressive/content.e7d8f7ee52042481c8f4.json",
-      "bytes": 107351,
-      "sha256": "e7d8f7ee52042481c8f4b69efee6b18acf2fc389488ef71c86fa7941b18088b8"
+      "sha256": "e7d8f7ee52042481c8f4b69efee6b18acf2fc389488ef71c86fa7941b18088b8",
+      "bytes": 107351
     },
     {
       "path": "progressive/content.eb5c04b0c01b70983edb.json",
@@ -10940,13 +10955,13 @@
     },
     {
       "path": "progressive/controllers.7265140e1ede82e471c7.json",
-      "bytes": 2021500,
-      "sha256": "7265140e1ede82e471c7ded4863e7e3cbc3eec496c8df077a1795fe07f6e6e1b"
+      "sha256": "7265140e1ede82e471c7ded4863e7e3cbc3eec496c8df077a1795fe07f6e6e1b",
+      "bytes": 2021500
     },
     {
-      "path": "progressive/controllers.d5676533480845aa1b66.json",
-      "sha256": "d5676533480845aa1b66bdbf905013326ee8b2da0f3a46785b4ebd30de68b645",
-      "bytes": 1986853
+      "path": "progressive/controllers.93a038e60b2e54d00e03.json",
+      "bytes": 2025680,
+      "sha256": "93a038e60b2e54d00e03dc3768ff2b4aa9b9a1e90681fcadd851013281ca011c"
     },
     {
       "path": "progressive/loader.df3d0987757563f6b6dd.js",
@@ -10954,14 +10969,14 @@
       "sha256": "df3d0987757563f6b6dd0333b1da1ea52768b4bd79900e5f9f3ac6b80040d801"
     },
     {
-      "path": "progressive/manifest.1095e98d592f0f2ad6bc.json",
-      "sha256": "1095e98d592f0f2ad6bc94e266c81cfc4dd675be97b04557eb7703e59b538a2c",
-      "bytes": 14183
+      "path": "progressive/manifest.1850ad983d82b65588d6.json",
+      "bytes": 14327,
+      "sha256": "1850ad983d82b65588d6a076ab52c17b01f3f274a06e69869de0c4d180d6e79a"
     },
     {
       "path": "progressive/manifest.5ba78b43199408f79725.json",
-      "bytes": 14327,
-      "sha256": "5ba78b43199408f79725af133b7943ad2fb6d202425af0b901fa5b6965b4aebc"
+      "sha256": "5ba78b43199408f79725af133b7943ad2fb6d202425af0b901fa5b6965b4aebc",
+      "bytes": 14327
     },
     {
       "path": "progressive/manifest.ee56bb4e815d15e8fc10.json",
@@ -13871,15 +13886,15 @@
   ],
   "retained_progressive_releases": [
     {
+      "commit": "9af27d94d96842f0b963defe3e1016218d1d9380",
+      "homepage_sha256": "eda9e2d4fc6186db875c98a3a33752ea33ae5ad9deaca757e93cc31f82aa403b",
+      "generated_assets": 57
+    },
+    {
       "commit": "2b2b6887ca7e6e819a6beeb23240ccbd473be295",
       "homepage_sha256": "d84c4a8fa7ce226dcbcba9b06fc36976587cc0076d803648261222d314c0d8c8",
       "generated_assets": 56
-    },
-    {
-      "commit": "478668610f8154a06123b22f8ffc07e672cbbba5",
-      "homepage_sha256": "a4c25089a3807013902ec9f52b36b60a1699858440bf115428ab771d473eb48d",
-      "generated_assets": 56
     }
   ],
-  "retained_progressive_bytes": 7998828
+  "retained_progressive_bytes": 8382015
 }
