@@ -1,0 +1,16 @@
+.mixed-stage{width:min(720px,100%);margin:24px auto;padding:18px 32px 24px;overflow:auto;flex:1;min-height:0;text-align:center}
+.mixed-prompt{font-size:clamp(25px,4vw,38px);line-height:1.5;margin:20px 0 28px;overflow-wrap:anywhere;white-space:pre-wrap}
+.mixed-options{display:grid;grid-template-columns:1fr 1fr;gap:12px;margin:24px 0}
+.mixed-option{display:flex;gap:12px;align-items:center;text-align:left;padding:18px 20px;min-height:76px;background:var(--surface);border:1px solid var(--line);border-radius:12px;font-size:17px;line-height:1.5;color:var(--text)}
+.mixed-option>span{font-size:12px;opacity:.55;flex-shrink:0}
+.mixed-option:hover:enabled{border-color:var(--accent);background:var(--accent-soft)}
+.mixed-option:focus-visible{outline:3px solid var(--accent);outline-offset:3px}
+.mixed-option.is-correct{border-color:var(--accent);background:var(--accent-soft);opacity:1}
+.mixed-option.is-wrong{border-color:#b26345;background:#b2634512;opacity:1}
+.mixed-answer{font-size:23px;line-height:1.6;margin:26px 0;white-space:pre-wrap}
+.mixed-feedback{padding:18px;border-radius:12px;background:var(--accent-soft);margin-top:20px;line-height:1.7}
+.mixed-feedback.retry{background:#b2634512}.mixed-feedback p{margin-top:6px;white-space:pre-wrap}
+.mixed-status{font-size:13px;margin-top:26px}.mixed-stage .inline-actions{justify-content:center;margin-top:24px}
+.mixed-stage .spell-input{max-width:100%;margin-bottom:12px}
+@media(max-width:600px){.mixed-stage{padding:12px 20px;margin:12px auto}.mixed-options{grid-template-columns:1fr;gap:10px}.mixed-option{min-height:58px;padding:12px 16px;font-size:16px}.mixed-prompt{margin:14px 0 20px}.mixed-status{margin-top:18px}}
+@media(max-width:600px){.mixed-learning .learning-top{height:auto;min-height:90px;flex-wrap:wrap;padding:12px 18px;gap:10px}.mixed-learning .session-progress{order:1;flex:1;min-width:0;font-size:12px}.mixed-learning .learning-tools{order:2;width:100%;justify-content:flex-end;margin-left:0}.mixed-learning .session-progress .thin-line{min-width:15px}}

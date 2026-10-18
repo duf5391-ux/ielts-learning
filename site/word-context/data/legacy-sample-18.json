@@ -1,0 +1,1572 @@
+{
+  "schemaVersion": 1,
+  "collection": {
+    "id": "cambridge-sample",
+    "title": "剑雅语料试学",
+    "description": "18词试学 · 每词2段剑雅正文。用于体验多段语料记忆；原300词清单待确认，试学集不替代原词表。",
+    "isTarget300": false,
+    "targetWordCount": 300,
+    "sourceType": "local_cambridge_reading",
+    "translationCredit": "本站译文"
+  },
+  "words": [
+    {
+      "id": "cw-evidence",
+      "term": "evidence",
+      "meaning": "证据；依据",
+      "pos": "n.",
+      "phonetic": "",
+      "topic": "研究与发现",
+      "forms": [],
+      "collocations": [
+        {
+          "text": "archaeological evidence",
+          "meaning": "考古证据"
+        },
+        {
+          "text": "base policies on evidence",
+          "meaning": "以证据作为政策依据"
+        }
+      ],
+      "passages": [
+        {
+          "id": "cw-evidence-1",
+          "text": "Hunt and Lipo contend that moai-building was an activity that helped keep the peace between islanders. They also believe that moving the moai required few people and no wood, because they were walked upright. On that issue, Hunt and Lipo say, archaeological evidence backs up Rapanui folklore. Recent experiments indicate that as few as 18 people could, with three strong ropes and a bit of practice, easily manoeuvre a 1,000 kg moai replica a few hundred metres. The figures’ fat bellies tilted them forward, and a D-shaped base allowed handlers to roll and rock them side to side.",
+          "translation": "亨特和利波认为，建造摩艾石像有助于维持岛民之间的和平。他们还相信，搬运石像只需少量人力，无需木材，因为石像是直立着“走”过去的。他们说，考古证据支持拉帕努伊人的民间传说。近期实验表明，只要三根结实的绳索和少量练习，最少18个人就能轻松地将一座重1,000公斤的石像复制品移动数百米。石像鼓起的腹部使它向前倾，而D形底座使搬运者能将它左右滚动、摇摆。",
+          "translationCredit": "本站译文",
+          "sourceLabel": "剑桥雅思 11 · Test 2 · Passage 2",
+          "source": {
+            "book": 11,
+            "test": 2,
+            "passage": 2,
+            "title": "What destroyed the civilisation of Easter Island?",
+            "paragraph": "第5段（E段）",
+            "paragraphIndex": 5,
+            "materialId": "c11-t2-reading-v1",
+            "sourceFile": "D:/IELTS-Work/decoupling-20261008/maintenance-candidate/source/resources/cambridge-bank-v1/c11-t2-reading-v1.json",
+            "sourceHash": "17dfa26d22adde85dbf42d13a76bf08e18b039da1d10ef339b723a9c6a69eaad",
+            "verification": "extracted_text_checked",
+            "originalPdf": "D:/IELTS-Work/原始剑雅11-21/剑雅11/剑雅11-Academic-题本与答案.pdf",
+            "excerptOffset": 2,
+            "excerptLength": 582,
+            "originalPdfHash": "75a58db8583af03179754a5630428d957c9fadc1deb1873ebe7a9cdb58d59c97",
+            "originalPageCheck": "model_visually_checked",
+            "originalPdfTextCheck": {
+              "status": "normalized_full_excerpt_match",
+              "pdfPage": 48
+            },
+            "pdfPage": 48,
+            "printedPage": 47,
+            "pageImage": "data/sources/c11-pdfpage-48.png"
+          },
+          "highlight": [
+            {
+              "start": 258,
+              "end": 266
+            }
+          ]
+        },
+        {
+          "id": "cw-evidence-2",
+          "text": "International bodies like the United Nations and the European Union have begun to develop policies concerned with children’s right to play, and to consider implications for leisure facilities and educational programmes. But what they often lack is the evidence to base policies on.",
+          "translation": "联合国、欧盟等国际机构已经开始制定与儿童游戏权利有关的政策，并考虑这些政策对休闲设施和教育项目的影响。但它们常常缺乏可用作政策依据的证据。",
+          "translationCredit": "本站译文",
+          "sourceLabel": "剑桥雅思 14 · Test 1 · Passage 1",
+          "source": {
+            "book": 14,
+            "test": 1,
+            "passage": 1,
+            "title": "THE IMPORTANCE OF CHILDREN’S PLAY",
+            "paragraph": "第6段",
+            "paragraphIndex": 6,
+            "materialId": "c14-t1-reading-v1",
+            "sourceFile": "D:/IELTS-Work/decoupling-20261008/maintenance-candidate/source/resources/cambridge-bank-v1/c14-t1-reading-v1.json",
+            "sourceHash": "a683b903c4036f2b4e5245be8629b0584a00310680831e6a05a232338d286808",
+            "verification": "extracted_text_checked",
+            "originalPdf": "D:/IELTS-Work/原始剑雅11-21/剑雅14/剑雅14-Academic-题本与答案.pdf",
+            "excerptOffset": 0,
+            "excerptLength": 281,
+            "originalPdfHash": "f0f0d86e7cf93b37154696851b2e61be4f1194b05bd1651c1711e221720018ba",
+            "originalPageCheck": "model_visually_checked",
+            "originalPdfTextCheck": {
+              "status": "normalized_full_excerpt_match",
+              "pdfPage": 16
+            },
+            "pdfPage": 16,
+            "printedPage": 16,
+            "pageImage": "data/sources/c14-pdfpage-16.png"
+          },
+          "highlight": [
+            {
+              "start": 252,
+              "end": 260
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cw-significant",
+      "term": "significant",
+      "meaning": "显著的；重要的",
+      "pos": "adj.",
+      "phonetic": "",
+      "topic": "技术与变化",
+      "forms": [],
+      "collocations": [
+        {
+          "text": "significant cost savings",
+          "meaning": "显著的成本节省"
+        },
+        {
+          "text": "significant hurdles",
+          "meaning": "重大障碍"
+        }
+      ],
+      "passages": [
+        {
+          "id": "cw-significant-1",
+          "text": "The automotive sector is well used to adapting to automation in manufacturing. The implementation of robotic car manufacture from the 1970s onwards led to significant cost savings and improvements in the reliability and flexibility of vehicle mass production. A new challenge to vehicle production is now on the horizon and, again, it comes from automation. However, this time it is not to do with the manufacturing process, but with the vehicles themselves.",
+          "translation": "汽车行业早已习惯适应制造过程中的自动化。自20世纪70年代起，机器人被用于汽车制造，带来了显著的成本节省，并提高了汽车大规模生产的可靠性和灵活性。如今，汽车生产又面临一项新的挑战，这次同样来自自动化。然而，这次涉及的不是制造过程，而是车辆本身。",
+          "translationCredit": "本站译文",
+          "sourceLabel": "剑桥雅思 15 · Test 1 · Passage 2",
+          "source": {
+            "book": 15,
+            "test": 1,
+            "passage": 2,
+            "title": "Driverless cars",
+            "paragraph": "第1段（A段）",
+            "paragraphIndex": 1,
+            "materialId": "c15-t1-reading-v1",
+            "sourceFile": "D:/IELTS-Work/decoupling-20261008/maintenance-candidate/source/resources/cambridge-bank-v1/c15-t1-reading-v1.json",
+            "sourceHash": "a3d272e529f508cf4cfb67a6a417530a55328a58b6929a9ce846ef0056b66c88",
+            "verification": "extracted_text_checked",
+            "originalPdf": "D:/IELTS-Work/原始剑雅11-21/剑雅15/剑雅15-Academic-题本与答案.pdf",
+            "excerptOffset": 2,
+            "excerptLength": 458,
+            "originalPdfHash": "a24469a4319bdff90088859b82850e2f986a88e2e3b13e6547db117a20783298",
+            "originalPageCheck": "not_checked_this_batch"
+          },
+          "highlight": [
+            {
+              "start": 155,
+              "end": 166
+            }
+          ]
+        },
+        {
+          "id": "cw-significant-2",
+          "text": "Pharmaceutical science and chemistry built on these ancient foundations and perfected the extraction, characterisation, modification and testing of these natural products. Then, for a while, modern pharmaceutical science moved its focus away from nature and into the laboratory, designing chemical compounds from scratch. The main cause of this shift is that although there are plenty of promising chemical compounds in nature, finding them is far from easy. Securing sufficient numbers of the organism in question, isolating and characterising the compounds of interest, and producing large quantities of these compounds are all significant hurdles.",
+          "translation": "制药科学和化学以这些古老的基础为起点，完善了对天然产物的提取、特性分析、改造和测试。后来有一段时间，现代制药科学将注意力从自然界转向实验室，从零开始设计化合物。这一转变的主要原因是：尽管自然界有大量前景可观的化合物，找到它们却绝非易事。获取足够数量的相关生物，分离和分析感兴趣的化合物，以及大量生产这些化合物，都是重大障碍。",
+          "translationCredit": "本站译文",
+          "sourceLabel": "剑桥雅思 14 · Test 3 · Passage 2",
+          "source": {
+            "book": 14,
+            "test": 3,
+            "passage": 2,
+            "title": "Saving bugs to find new drugs",
+            "paragraph": "第3段（B段）",
+            "paragraphIndex": 3,
+            "materialId": "c14-t3-reading-v1",
+            "sourceFile": "D:/IELTS-Work/decoupling-20261008/maintenance-candidate/source/resources/cambridge-bank-v1/c14-t3-reading-v1.json",
+            "sourceHash": "4428ddbb1a1191de363d97356be584d383c86a67391648d8c4ef592f77f7761d",
+            "verification": "extracted_text_checked",
+            "originalPdf": "D:/IELTS-Work/原始剑雅11-21/剑雅14/剑雅14-Academic-题本与答案.pdf",
+            "excerptOffset": 2,
+            "excerptLength": 650,
+            "originalPdfHash": "f0f0d86e7cf93b37154696851b2e61be4f1194b05bd1651c1711e221720018ba",
+            "originalPageCheck": "not_checked_this_batch"
+          },
+          "highlight": [
+            {
+              "start": 630,
+              "end": 641
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cw-potential",
+      "term": "potential",
+      "meaning": "潜力；潜在的",
+      "pos": "n. / adj.",
+      "phonetic": "",
+      "topic": "机会与发展",
+      "forms": [],
+      "collocations": [
+        {
+          "text": "potential reason",
+          "meaning": "潜在的原因"
+        },
+        {
+          "text": "the potential is even greater",
+          "meaning": "潜力更大"
+        }
+      ],
+      "passages": [
+        {
+          "id": "cw-potential-1",
+          "text": "If you think about collecting postage stamps, another potential reason for it — or, perhaps, a result of collecting — is its educational value. Stamp collecting opens a window to other countries, and to the plants, animals, or famous people shown on their stamps. Similarly, in the 19th century, many collectors amassed fossils, animals and plants from around the globe, and their collections provided a vast amount of information about the natural world. Without those collections, our understanding would be greatly inferior to what it is.",
+          "translation": "以集邮为例，另一个可能的动机——或者说集邮带来的结果——是它的教育价值。集邮为人们了解其他国家，以及邮票上的植物、动物和名人打开了一扇窗。类似地，19世纪的许多收藏家从世界各地收集化石、动植物，他们的收藏为人类提供了大量关于自然界的信息。没有这些收藏，我们的认识就会远不如今天。",
+          "translationCredit": "本站译文",
+          "sourceLabel": "剑桥雅思 12 · Test 5 · Passage 2",
+          "source": {
+            "book": 12,
+            "test": 5,
+            "passage": 2,
+            "title": "COLLECTING",
+            "paragraph": "第5段",
+            "paragraphIndex": 5,
+            "materialId": "c12-t5-reading-v1",
+            "sourceFile": "D:/IELTS-Work/decoupling-20261008/maintenance-candidate/source/resources/cambridge-bank-v1/c12-t5-reading-v1.json",
+            "sourceHash": "82a570b86a34c4de867191acef628e8f305549c66dc261bea32002e3bea8d3d5",
+            "verification": "extracted_text_checked",
+            "originalPdf": "D:/IELTS-Work/原始剑雅11-21/剑雅12/剑雅12-Academic-题本与答案.pdf",
+            "excerptOffset": 0,
+            "excerptLength": 541,
+            "originalPdfHash": "c9b61939ce31049dd9552020dbaf3deb979cbb6244b4cac0ac64f13b3ce049c6",
+            "originalPageCheck": "not_checked_this_batch"
+          },
+          "highlight": [
+            {
+              "start": 54,
+              "end": 63
+            }
+          ]
+        },
+        {
+          "id": "cw-potential-2",
+          "text": "At sea the potential is even greater: by protecting large areas from commercial fishing, we could once more see what 18th-century literature describes: vast shoals of fish being chased by fin and sperm whales, within sight of the English shore. This policy would also greatly boost catches in the surrounding seas; the fishing industry’s insistence on scouring every inch of seabed, leaving no breeding reserves, could not be more damaging to its own interests.",
+          "translation": "海洋中的潜力甚至更大：通过保护大片海域，使其免遭商业捕捞，我们就可能再次看到18世纪文献描述的景象——在能够望见英国海岸的地方，庞大的鱼群被长须鲸和抹香鲸追逐。这项政策还将大幅增加周边海域的渔获量；渔业坚持扫过海床的每一寸地方，不留下繁殖保护区，这对其自身利益的损害再大不过。",
+          "translationCredit": "本站译文",
+          "sourceLabel": "剑桥雅思 12 · Test 8 · Passage 2",
+          "source": {
+            "book": 12,
+            "test": 8,
+            "passage": 2,
+            "title": "Bring back the big cats",
+            "paragraph": "第6段",
+            "paragraphIndex": 6,
+            "materialId": "c12-t8-reading-v1",
+            "sourceFile": "D:/IELTS-Work/decoupling-20261008/maintenance-candidate/source/resources/cambridge-bank-v1/c12-t8-reading-v1.json",
+            "sourceHash": "9dae09c268d80806bf6e657f67316d26248497f329c7806c44f3830fd88dc780",
+            "verification": "extracted_text_checked",
+            "originalPdf": "D:/IELTS-Work/原始剑雅11-21/剑雅12/剑雅12-Academic-题本与答案.pdf",
+            "excerptOffset": 0,
+            "excerptLength": 461,
+            "originalPdfHash": "c9b61939ce31049dd9552020dbaf3deb979cbb6244b4cac0ac64f13b3ce049c6",
+            "originalPageCheck": "not_checked_this_batch"
+          },
+          "highlight": [
+            {
+              "start": 11,
+              "end": 20
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cw-decline",
+      "term": "decline",
+      "meaning": "下降；衰退",
+      "pos": "n. / v.",
+      "phonetic": "",
+      "topic": "环境与生命",
+      "forms": [
+        "declines",
+        "declined",
+        "declining"
+      ],
+      "collocations": [
+        {
+          "text": "slow the decline",
+          "meaning": "减缓衰退"
+        },
+        {
+          "text": "do not decline",
+          "meaning": "不衰退"
+        }
+      ],
+      "passages": [
+        {
+          "id": "cw-decline-1",
+          "text": "More than a third of the world’s soil is endangered, according to a recent UN report. If we don’t slow the decline, all farmable soil could be gone in 60 years. Since soil grows 95% of our food, and sustains human life in other more surprising ways, that is a huge problem.",
+          "translation": "联合国最近的一份报告指出，全球超过三分之一的土壤正受到威胁。如果我们不减缓这种恶化，所有可耕作土壤可能在60年内消失。我们95%的食物生长于土壤，土壤还以其他一些令人意想不到的方式维系人类生命，因此这是一个巨大的问题。",
+          "translationCredit": "本站译文",
+          "sourceLabel": "剑桥雅思 13 · Test 4 · Passage 2",
+          "source": {
+            "book": 13,
+            "test": 4,
+            "passage": 2,
+            "title": "SAVING THE SOIL",
+            "paragraph": "第2段（A段）",
+            "paragraphIndex": 2,
+            "materialId": "c13-t4-reading-v1",
+            "sourceFile": "D:/IELTS-Work/decoupling-20261008/maintenance-candidate/source/resources/cambridge-bank-v1/c13-t4-reading-v1.json",
+            "sourceHash": "6deb4e8f7a81919c5e5264cb7dd713705877572a3bc0686653d9041ad928d1f2",
+            "verification": "extracted_text_checked",
+            "originalPdf": "D:/IELTS-Work/原始剑雅11-21/剑雅13/剑雅13-Academic-题本与答案.pdf",
+            "excerptOffset": 2,
+            "excerptLength": 273,
+            "originalPdfHash": "12660a3b638c2576894894fa82edfb14e8aa042726fadcbda8847ba261bffd9f",
+            "originalPageCheck": "not_checked_this_batch"
+          },
+          "highlight": [
+            {
+              "start": 107,
+              "end": 114
+            }
+          ]
+        },
+        {
+          "id": "cw-decline-2",
+          "text": "Pheidole dentata, a native ant of the south-eastern U.S., isn’t immortal. But scientists have found that it doesn’t seem to show any signs of aging. Old worker ants can do everything just as well as the youngsters, and their brains appear just as sharp. ‘We get a picture that these ants really don’t decline,’ says Ysabel Giraldo, who studied the ants for her doctoral thesis at Boston University.",
+          "translation": "美国东南部的本土蚂蚁Pheidole dentata并非长生不老，但科学家发现，它们似乎没有表现出任何衰老迹象。老工蚁做任何事情都与年轻工蚁一样出色，头脑也似乎同样敏锐。在波士顿大学攻读博士期间研究这些蚂蚁的伊莎贝尔·吉拉尔多说：“我们观察到的情况是，这些蚂蚁确实没有衰退。”",
+          "translationCredit": "本站译文",
+          "sourceLabel": "剑桥雅思 14 · Test 4 · Passage 1",
+          "source": {
+            "book": 14,
+            "test": 4,
+            "passage": 1,
+            "title": "The secret of staying young",
+            "paragraph": "第1段",
+            "paragraphIndex": 1,
+            "materialId": "c14-t4-reading-v1",
+            "sourceFile": "D:/IELTS-Work/decoupling-20261008/maintenance-candidate/source/resources/cambridge-bank-v1/c14-t4-reading-v1.json",
+            "sourceHash": "d0f031a0e236cec5cdcb1b04f99d994dd2a6455f5c2a391535e18a515228600d",
+            "verification": "extracted_text_checked",
+            "originalPdf": "D:/IELTS-Work/原始剑雅11-21/剑雅14/剑雅14-Academic-题本与答案.pdf",
+            "excerptOffset": 0,
+            "excerptLength": 398,
+            "originalPdfHash": "f0f0d86e7cf93b37154696851b2e61be4f1194b05bd1651c1711e221720018ba",
+            "originalPageCheck": "not_checked_this_batch"
+          },
+          "highlight": [
+            {
+              "start": 301,
+              "end": 308
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cw-complex",
+      "term": "complex",
+      "meaning": "复杂的",
+      "pos": "adj.",
+      "phonetic": "",
+      "topic": "自然与学习",
+      "forms": [],
+      "collocations": [
+        {
+          "text": "a complex issue",
+          "meaning": "复杂的问题"
+        },
+        {
+          "text": "complex negotiations",
+          "meaning": "复杂的协商"
+        }
+      ],
+      "passages": [
+        {
+          "id": "cw-complex-1",
+          "text": "But migration is a complex issue, and biologists define it differently, depending in part on what sorts of animals they study. Joel Berger, of the University of Montana, who works on the American pronghorn and other large terrestrial mammals, prefers what he calls a simple, practical definition suited to his beasts: ‘movements from a seasonal home area away to another home area and back again’. Generally the reason for such seasonal back-and-forth movement is to seek resources that aren't available within a single area year-round.",
+          "translation": "不过，迁徙是一个复杂的问题，生物学家对它的定义各不相同，部分原因在于他们研究的动物种类不同。蒙大拿大学的乔尔·伯格研究美洲叉角羚及其他大型陆生哺乳动物，他偏好一个适合这些动物的简单、实用定义：“从一个季节性栖息地迁往另一个栖息地，再返回。”这种季节性的往返通常是为了寻找单一区域无法全年提供的资源。",
+          "translationCredit": "本站译文",
+          "sourceLabel": "剑桥雅思 11 · Test 3 · Passage 2",
+          "source": {
+            "book": 11,
+            "test": 3,
+            "passage": 2,
+            "title": "Great Migrations",
+            "paragraph": "第3段",
+            "paragraphIndex": 3,
+            "materialId": "c11-t3-reading-v1",
+            "sourceFile": "D:/IELTS-Work/decoupling-20261008/maintenance-candidate/source/resources/cambridge-bank-v1/c11-t3-reading-v1.json",
+            "sourceHash": "083bb9833240dc9ddad36cf2201ef055f0c271d9861e24c6cedaa217eaa25719",
+            "verification": "extracted_text_checked",
+            "originalPdf": "D:/IELTS-Work/原始剑雅11-21/剑雅11/剑雅11-Academic-题本与答案.pdf",
+            "excerptOffset": 0,
+            "excerptLength": 536,
+            "originalPdfHash": "75a58db8583af03179754a5630428d957c9fadc1deb1873ebe7a9cdb58d59c97",
+            "originalPageCheck": "not_checked_this_batch",
+            "originalPdfTextCheck": {
+              "status": "normalized_full_excerpt_match",
+              "pdfPage": 70
+            }
+          },
+          "highlight": [
+            {
+              "start": 19,
+              "end": 26
+            }
+          ]
+        },
+        {
+          "id": "cw-complex-2",
+          "text": "Through play, children learn to regulate their behavior, lay the foundations for later learning in science and mathematics, figure out the complex negotiations of social relationships, build a repertoire of creative problem-solving skills, and so much more. There is also an important role for adults in guiding children through playful learning opportunities.",
+          "translation": "通过游戏，儿童学会调节自身行为，为今后的科学与数学学习打下基础，理解社会关系中的复杂协商，积累创造性解决问题的技能，还有更多收获。成年人也发挥着重要作用：引导儿童参与寓学于玩的活动。",
+          "translationCredit": "本站译文",
+          "sourceLabel": "剑桥雅思 14 · Test 3 · Passage 3",
+          "source": {
+            "book": 14,
+            "test": 3,
+            "passage": 3,
+            "title": "The power of play",
+            "paragraph": "第3段",
+            "paragraphIndex": 3,
+            "materialId": "c14-t3-reading-v1",
+            "sourceFile": "D:/IELTS-Work/decoupling-20261008/maintenance-candidate/source/resources/cambridge-bank-v1/c14-t3-reading-v1.json",
+            "sourceHash": "4428ddbb1a1191de363d97356be584d383c86a67391648d8c4ef592f77f7761d",
+            "verification": "extracted_text_checked",
+            "originalPdf": "D:/IELTS-Work/原始剑雅11-21/剑雅14/剑雅14-Academic-题本与答案.pdf",
+            "excerptOffset": 0,
+            "excerptLength": 360,
+            "originalPdfHash": "f0f0d86e7cf93b37154696851b2e61be4f1194b05bd1651c1711e221720018ba",
+            "originalPageCheck": "model_visually_checked",
+            "originalPdfTextCheck": {
+              "status": "normalized_full_excerpt_match",
+              "pdfPage": 67
+            },
+            "pdfPage": 67,
+            "printedPage": 67,
+            "pageImage": "data/sources/c14-pdfpage-67.png"
+          },
+          "highlight": [
+            {
+              "start": 139,
+              "end": 146
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cw-benefit",
+      "term": "benefit",
+      "meaning": "好处；益处",
+      "pos": "n.",
+      "phonetic": "",
+      "topic": "生活与学习",
+      "forms": [
+        "benefits"
+      ],
+      "collocations": [
+        {
+          "text": "the benefit of natural overhead light",
+          "meaning": "天然顶部采光的优势"
+        },
+        {
+          "text": "benefits of being bilingual",
+          "meaning": "掌握两种语言的好处"
+        }
+      ],
+      "passages": [
+        {
+          "id": "cw-benefit-1",
+          "text": "major drawback of vertical farming, however, is that the plants would require artificial light. Without it, those plants nearest the windows would be exposed to more sunlight and grow more quickly, reducing the efficiency of the system. Single-storey greenhouses have the benefit of natural overhead light: even so, many still need artificial lighting. A multi-storey facility with no natural overhead light would require far more. Generating enough light could be prohibitively expensive, unless cheap, renewable energy is available, and this appears to be rather a future aspiration than a likelihood for the near future.",
+          "translation": "然而，垂直农业的一大缺点是植物需要人工照明。如果没有人工照明，最靠近窗户的植物会接收到更多阳光，长得更快，从而降低整个系统的效率。单层温室具有天然顶部采光的优势；即便如此，许多温室仍需要人工照明。没有天然顶部采光的多层设施需要的照明会更多。除非有廉价的可再生能源，否则提供足够光照的费用可能高得难以承受，而这看起来更像长远愿景，不像近期能够实现的事情。",
+          "translationCredit": "本站译文",
+          "sourceLabel": "剑桥雅思 11 · Test 1 · Passage 1",
+          "source": {
+            "book": 11,
+            "test": 1,
+            "passage": 1,
+            "title": "Crop-growing skyscrapers",
+            "paragraph": "第5段（A段）",
+            "paragraphIndex": 5,
+            "materialId": "c11-t1-reading-v1",
+            "sourceFile": "D:/IELTS-Work/decoupling-20261008/maintenance-candidate/source/resources/cambridge-bank-v1/c11-t1-reading-v1.json",
+            "sourceHash": "eeb8b709f8b67c64810836f2b814050509afca0d5d9854e8abf383d5118131fb",
+            "verification": "extracted_text_checked",
+            "originalPdf": "D:/IELTS-Work/原始剑雅11-21/剑雅11/剑雅11-Academic-题本与答案.pdf",
+            "excerptOffset": 2,
+            "excerptLength": 623,
+            "originalPdfHash": "75a58db8583af03179754a5630428d957c9fadc1deb1873ebe7a9cdb58d59c97",
+            "originalPageCheck": "not_checked_this_batch"
+          },
+          "highlight": [
+            {
+              "start": 272,
+              "end": 279
+            }
+          ]
+        },
+        {
+          "id": "cw-benefit-2",
+          "text": "According to the latest figures, the majority of the world's population is now bilingual or multilingual, having grown up speaking two or more languages. In the past, such children were considered to be at a disadvantage compared with their monolingual peers. Over the past few decades, however, technological advances have allowed researchers to look more deeply at how bilingualism interacts with and changes the cognitive and neurological systems, thereby identifying several clear benefits of being bilingual.",
+          "translation": "根据最新数据，如今世界上大多数人会两种或多种语言，从小就使用两种或更多语言。过去，人们认为这些儿童比只会一种语言的同龄人处于劣势。然而，过去几十年的技术进步使研究人员能够更深入地观察双语能力如何与认知和神经系统相互作用并改变它们，从而发现了掌握两种语言的若干明显好处。",
+          "translationCredit": "本站译文",
+          "sourceLabel": "剑桥雅思 12 · Test 6 · Passage 3",
+          "source": {
+            "book": 12,
+            "test": 6,
+            "passage": 3,
+            "title": "The Benefits of Being Bilingual",
+            "paragraph": "第1段（A段）",
+            "paragraphIndex": 1,
+            "materialId": "c12-t6-reading-v1",
+            "sourceFile": "D:/IELTS-Work/decoupling-20261008/maintenance-candidate/source/resources/cambridge-bank-v1/c12-t6-reading-v1.json",
+            "sourceHash": "dc83e06acbca7aff80b1cd99c1de6d942c81715d010cb9dde4b9b28ebfe0fe3b",
+            "verification": "extracted_text_checked",
+            "originalPdf": "D:/IELTS-Work/原始剑雅11-21/剑雅12/剑雅12-Academic-题本与答案.pdf",
+            "excerptOffset": 2,
+            "excerptLength": 513,
+            "originalPdfHash": "c9b61939ce31049dd9552020dbaf3deb979cbb6244b4cac0ac64f13b3ce049c6",
+            "originalPageCheck": "not_checked_this_batch"
+          },
+          "highlight": [
+            {
+              "start": 485,
+              "end": 493
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cw-vulnerable",
+      "term": "vulnerable",
+      "meaning": "易受伤害的；脆弱的",
+      "pos": "adj.",
+      "phonetic": "",
+      "topic": "健康与生存",
+      "forms": [],
+      "collocations": [
+        {
+          "text": "highly vulnerable",
+          "meaning": "非常脆弱"
+        },
+        {
+          "text": "vulnerable populations",
+          "meaning": "易受影响的人群"
+        }
+      ],
+      "passages": [
+        {
+          "id": "cw-vulnerable-1",
+          "text": "Two things distinguish food production from all other productive activities: first, every single person needs food each day and has a right to it; and second, it is hugely dependent on nature. These two unique aspects, one political, the other natural, make food production highly vulnerable and different from any other business. At the same time, cultural values are highly entrenched in food and agricultural systems worldwide.",
+          "translation": "食品生产有两点不同于其他所有生产活动：第一，每个人每天都需要食物，也都有获得食物的权利；第二，食品生产高度依赖自然。这两种独特属性，一种属于政治层面，另一种属于自然层面，使食品生产非常脆弱，也使它不同于其他行业。与此同时，文化价值观在世界各地的食品与农业体系中都根深蒂固。",
+          "translationCredit": "本站译文",
+          "sourceLabel": "剑桥雅思 12 · Test 6 · Passage 1",
+          "source": {
+            "book": 12,
+            "test": 6,
+            "passage": 1,
+            "title": "The risks agriculture faces in developing countries",
+            "paragraph": "第2段（A段）",
+            "paragraphIndex": 2,
+            "materialId": "c12-t6-reading-v1",
+            "sourceFile": "D:/IELTS-Work/decoupling-20261008/maintenance-candidate/source/resources/cambridge-bank-v1/c12-t6-reading-v1.json",
+            "sourceHash": "dc83e06acbca7aff80b1cd99c1de6d942c81715d010cb9dde4b9b28ebfe0fe3b",
+            "verification": "extracted_text_checked",
+            "originalPdf": "D:/IELTS-Work/原始剑雅11-21/剑雅12/剑雅12-Academic-题本与答案.pdf",
+            "excerptOffset": 2,
+            "excerptLength": 430,
+            "originalPdfHash": "c9b61939ce31049dd9552020dbaf3deb979cbb6244b4cac0ac64f13b3ce049c6",
+            "originalPageCheck": "not_checked_this_batch"
+          },
+          "highlight": [
+            {
+              "start": 281,
+              "end": 291
+            }
+          ]
+        },
+        {
+          "id": "cw-vulnerable-2",
+          "text": "Researchers study the interactions between humans and their environment that could lead to illness (such as asthma in places with high levels of pollution) and work to create a clear way of categorising illnesses, diseases and epidemics into local and global scales. Health geographers can map the spread of illnesses and attempt to identify the reasons behind an increase or decrease in illnesses, as they work to find a way to halt the further spread or re-emergence of diseases in vulnerable populations.",
+          "translation": "研究人员考察人类与环境之间可能导致疾病的相互作用，例如高污染地区的哮喘，并尝试建立清晰的方法，在地方和全球尺度上对疾病与流行病进行分类。健康地理学家可以绘制疾病传播图，尝试找出疾病增多或减少的原因，同时寻找方法，阻止疾病在易受影响的人群中继续传播或再次出现。",
+          "translationCredit": "本站译文",
+          "sourceLabel": "剑桥雅思 12 · Test 7 · Passage 2",
+          "source": {
+            "book": 12,
+            "test": 7,
+            "passage": 2,
+            "title": "The Intersection of Health Sciences and Geography",
+            "paragraph": "第6段（F段）",
+            "paragraphIndex": 6,
+            "materialId": "c12-t7-reading-v1",
+            "sourceFile": "D:/IELTS-Work/decoupling-20261008/maintenance-candidate/source/resources/cambridge-bank-v1/c12-t7-reading-v1.json",
+            "sourceHash": "fae29d2cbea7e6de7775f9e16cae1e3a8afe31a8ccf4f6acae22ece374b9af45",
+            "verification": "extracted_text_checked",
+            "originalPdf": "D:/IELTS-Work/原始剑雅11-21/剑雅12/剑雅12-Academic-题本与答案.pdf",
+            "excerptOffset": 2,
+            "excerptLength": 507,
+            "originalPdfHash": "c9b61939ce31049dd9552020dbaf3deb979cbb6244b4cac0ac64f13b3ce049c6",
+            "originalPageCheck": "not_checked_this_batch"
+          },
+          "highlight": [
+            {
+              "start": 484,
+              "end": 494
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cw-sustainable",
+      "term": "sustainable",
+      "meaning": "可持续的",
+      "pos": "adj.",
+      "phonetic": "",
+      "topic": "环境与资源",
+      "forms": [],
+      "collocations": [
+        {
+          "text": "sustainable farming",
+          "meaning": "可持续农业"
+        },
+        {
+          "text": "a sustainable way",
+          "meaning": "可持续的方法"
+        }
+      ],
+      "passages": [
+        {
+          "id": "cw-sustainable-1",
+          "text": "Archaeologists Terry Hunt of the University of Hawaii and Carl Lipo of California State University agree that Easter Island lost its lush forests and that it was an ‘ecological catastrophe’ — but they believe the islanders themselves weren't to blame. And the moai certainly weren't. Archaeological excavations indicate that the Rapanui went to heroic efforts to protect the resources of their wind-lashed, infertile fields. They built thousands of circular stone windbreaks and gardened inside them, and used broken volcanic rocks to keep the soil moist. In short, Hunt and Lipo argue, the prehistoric Rapanui were pioneers of sustainable farming.",
+          "translation": "夏威夷大学的考古学家特里·亨特和加利福尼亚州立大学的卡尔·利波同意，复活节岛失去了茂密的森林，这是一场“生态灾难”，但他们认为责任不在岛民，更不在摩艾石像。考古发掘表明，拉帕努伊人为保护饱受强风侵袭、贫瘠的农田资源付出了巨大努力。他们建造了数千个圆形石制防风围墙，在其中耕作，并用碎火山岩保持土壤湿润。亨特和利波认为，史前拉帕努伊人是可持续农业的先驱。",
+          "translationCredit": "本站译文",
+          "sourceLabel": "剑桥雅思 11 · Test 2 · Passage 2",
+          "source": {
+            "book": 11,
+            "test": 2,
+            "passage": 2,
+            "title": "What destroyed the civilisation of Easter Island?",
+            "paragraph": "第4段（D段）",
+            "paragraphIndex": 4,
+            "materialId": "c11-t2-reading-v1",
+            "sourceFile": "D:/IELTS-Work/decoupling-20261008/maintenance-candidate/source/resources/cambridge-bank-v1/c11-t2-reading-v1.json",
+            "sourceHash": "17dfa26d22adde85dbf42d13a76bf08e18b039da1d10ef339b723a9c6a69eaad",
+            "verification": "extracted_text_checked",
+            "originalPdf": "D:/IELTS-Work/原始剑雅11-21/剑雅11/剑雅11-Academic-题本与答案.pdf",
+            "excerptOffset": 2,
+            "excerptLength": 648,
+            "originalPdfHash": "75a58db8583af03179754a5630428d957c9fadc1deb1873ebe7a9cdb58d59c97",
+            "originalPageCheck": "model_visually_checked",
+            "originalPdfTextCheck": {
+              "status": "normalized_full_excerpt_match",
+              "pdfPage": 48
+            },
+            "pdfPage": 48,
+            "printedPage": 47,
+            "pageImage": "data/sources/c11-pdfpage-48.png"
+          },
+          "highlight": [
+            {
+              "start": 628,
+              "end": 639
+            }
+          ]
+        },
+        {
+          "id": "cw-sustainable-2",
+          "text": "Janssen saw that there was a need for a sustainable way to clean water in both the developing and the developed countries when he moved to the United Arab Emirates and saw large-scale water processing. ‘I was confronted with the enormous carbon footprint that the Gulf nations have because of all of the desalination that they do,’ he says.",
+          "translation": "扬森搬到阿拉伯联合酋长国，看到大规模的水处理活动后，意识到发展中国家和发达国家都需要一种可持续的净水方式。他说：“我直面了海湾国家因大量海水淡化而产生的巨大碳足迹。”",
+          "translationCredit": "本站译文",
+          "sourceLabel": "剑桥雅思 15 · Test 3 · Passage 2",
+          "source": {
+            "book": 15,
+            "test": 3,
+            "passage": 2,
+            "title": "The Desolenator: producing clean water",
+            "paragraph": "第3段",
+            "paragraphIndex": 3,
+            "materialId": "c15-t3-reading-v1",
+            "sourceFile": "D:/IELTS-Work/decoupling-20261008/maintenance-candidate/source/resources/cambridge-bank-v1/c15-t3-reading-v1.json",
+            "sourceHash": "b3da3ad8fed222e4d64a31a98fb97a3cf0ff64946903c0c6fd9124b51c44611a",
+            "verification": "extracted_text_checked",
+            "originalPdf": "D:/IELTS-Work/原始剑雅11-21/剑雅15/剑雅15-Academic-题本与答案.pdf",
+            "excerptOffset": 0,
+            "excerptLength": 340,
+            "originalPdfHash": "a24469a4319bdff90088859b82850e2f986a88e2e3b13e6547db117a20783298",
+            "originalPageCheck": "not_checked_this_batch"
+          },
+          "highlight": [
+            {
+              "start": 40,
+              "end": 51
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cw-considerable",
+      "term": "considerable",
+      "meaning": "相当大的；相当多的",
+      "pos": "adj.",
+      "phonetic": "",
+      "topic": "研究与自然",
+      "forms": [],
+      "collocations": [
+        {
+          "text": "considerable temperature sensitivity",
+          "meaning": "相当高的温度敏感性"
+        },
+        {
+          "text": "a considerable amount of research",
+          "meaning": "大量研究"
+        }
+      ],
+      "passages": [
+        {
+          "id": "cw-considerable-1",
+          "text": "Some plants mainly use day length as an indicator of the season. Other species, such as daffodils, have considerable temperature sensitivity, and can flower months in advance during a warm winter. In fact, the discovery of the dual role of phytochromes provides the science behind a well-known rhyme long used to predict the coming season: oak before ash we’ll have a splash, ash before oak we’re in for a soak.",
+          "translation": "有些植物主要通过白昼长度判断季节。其他物种，如水仙，对温度相当敏感，在温暖的冬天可能提前数月开花。事实上，对光敏色素双重作用的发现，为一首长期用来预测季节的熟知歌谣提供了科学依据：橡树先于梣树发叶，雨水就少；梣树先于橡树发叶，就会下个透。",
+          "translationCredit": "本站译文",
+          "sourceLabel": "剑桥雅思 16 · Test 3 · Passage 3",
+          "source": {
+            "book": 16,
+            "test": 3,
+            "passage": 3,
+            "title": "Plant ‘thermometer’ triggers springtime growth by measuring night-time heat",
+            "paragraph": "第10段（G段）",
+            "paragraphIndex": 10,
+            "materialId": "c16-t3-reading-v1",
+            "sourceFile": "D:/IELTS-Work/decoupling-20261008/maintenance-candidate/source/resources/cambridge-bank-v1/c16-t3-reading-v1.json",
+            "sourceHash": "c9ee507edd9480169403b6d76fc5a9e6beb11a55d72d9144a5e97150efc654f5",
+            "verification": "extracted_text_checked",
+            "originalPdf": "D:/IELTS-Work/原始剑雅11-21/剑雅16/剑雅16-Academic-题本与答案.pdf",
+            "excerptOffset": 3,
+            "excerptLength": 411,
+            "originalPdfHash": "eec53b5ae692681285fdac8cbee8ea5dc8c720ba20f832e1d064482a0eaf1437",
+            "originalPageCheck": "not_checked_this_batch"
+          },
+          "highlight": [
+            {
+              "start": 104,
+              "end": 116
+            }
+          ]
+        },
+        {
+          "id": "cw-considerable-2",
+          "text": "There has been a considerable amount of research on high performance over the last century that suggests it goes way beyond tested intelligence. On top of that, research is clear that brains are flexible, new neural pathways can be created, and IQ isn’t fixed. For example, just because you can read stories with hundreds of pages at the age of five doesn’t mean you will still be ahead of your contemporaries in your teens.",
+          "translation": "过去一个世纪对优异表现的大量研究表明，它远远不只是智力测试得分的问题。此外，研究已经明确，大脑具有可塑性，能够形成新的神经通路，智商也不是固定不变的。例如，你在五岁时就能读几百页的故事，并不意味着到了十几岁仍然会领先于同龄人。",
+          "translationCredit": "本站译文",
+          "sourceLabel": "剑桥雅思 19 · Test 2 · Passage 3",
+          "source": {
+            "book": 19,
+            "test": 2,
+            "passage": 3,
+            "title": "An inquiry into the existence of the gifted child",
+            "paragraph": "第4段",
+            "paragraphIndex": 4,
+            "materialId": "c19-t2-reading-v1",
+            "sourceFile": "D:/IELTS-Work/decoupling-20261008/maintenance-candidate/source/resources/cambridge-bank-v1/c19-t2-reading-v1.json",
+            "sourceHash": "2f29cc6e94b9e3b59f08edaafbe7fe9998c7ab1cdcaf22e218d94fbbe6805df2",
+            "verification": "extracted_text_checked",
+            "originalPdf": "D:/IELTS-Work/原始剑雅11-21/剑雅19/剑雅19-Academic-题本与答案.pdf",
+            "excerptOffset": 0,
+            "excerptLength": 424,
+            "originalPdfHash": "c1f159b735b744be05a271201db11b68e93b93d0f55b51bd5b06e0d60b5b6339",
+            "originalPageCheck": "not_checked_this_batch"
+          },
+          "highlight": [
+            {
+              "start": 17,
+              "end": 29
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cw-crucial",
+      "term": "crucial",
+      "meaning": "至关重要的",
+      "pos": "adj.",
+      "phonetic": "",
+      "topic": "艺术与成长",
+      "forms": [],
+      "collocations": [
+        {
+          "text": "play a crucial role",
+          "meaning": "发挥关键作用"
+        },
+        {
+          "text": "crucial to our success",
+          "meaning": "对我们的成功至关重要"
+        }
+      ],
+      "passages": [
+        {
+          "id": "cw-crucial-1",
+          "text": "An emerging discipline called neuroaesthetics is seeking to bring scientific objectivity to the study of art, and has already given us a better understanding of many masterpieces. The blurred imagery of Impressionist paintings seems to stimulate the brain’s amygdala, for instance. Since the amygdala plays a crucial role in our feelings, that finding might explain why many people find these pieces so moving.",
+          "translation": "一门名为神经美学的新兴学科正在努力将科学的客观性引入艺术研究，并已让我们更好地理解了许多杰作。例如，印象派画作中朦胧的形象似乎会刺激大脑的杏仁核。由于杏仁核在情感中发挥关键作用，这一发现或许能够解释为什么许多人觉得这些作品如此动人。",
+          "translationCredit": "本站译文",
+          "sourceLabel": "剑桥雅思 11 · Test 2 · Passage 3",
+          "source": {
+            "book": 11,
+            "test": 2,
+            "passage": 3,
+            "title": "Neuroaesthetics",
+            "paragraph": "第1段",
+            "paragraphIndex": 1,
+            "materialId": "c11-t2-reading-v1",
+            "sourceFile": "D:/IELTS-Work/decoupling-20261008/maintenance-candidate/source/resources/cambridge-bank-v1/c11-t2-reading-v1.json",
+            "sourceHash": "17dfa26d22adde85dbf42d13a76bf08e18b039da1d10ef339b723a9c6a69eaad",
+            "verification": "extracted_text_checked",
+            "originalPdf": "D:/IELTS-Work/原始剑雅11-21/剑雅11/剑雅11-Academic-题本与答案.pdf",
+            "excerptOffset": 0,
+            "excerptLength": 410,
+            "originalPdfHash": "75a58db8583af03179754a5630428d957c9fadc1deb1873ebe7a9cdb58d59c97",
+            "originalPageCheck": "not_checked_this_batch",
+            "originalPdfTextCheck": {
+              "status": "normalized_full_excerpt_match",
+              "pdfPage": 50
+            }
+          },
+          "highlight": [
+            {
+              "start": 309,
+              "end": 316
+            }
+          ]
+        },
+        {
+          "id": "cw-crucial-2",
+          "text": "‘Play in all its rich variety is one of the highest achievements of the human species,’ says Dr David Whitebread from the Faculty of Education at the University of Cambridge, UK. ‘It underpins how we develop as intellectual, problem-solving adults and is crucial to our success as a highly adaptable species.’",
+          "translation": "英国剑桥大学教育学院的大卫·怀特布雷德博士说：“形式丰富多样的游戏是人类最伟大的成就之一。它支撑着我们成长为有思考力、能解决问题的成年人；对于我们作为高度适应性物种的成功，它至关重要。”",
+          "translationCredit": "本站译文",
+          "sourceLabel": "剑桥雅思 14 · Test 1 · Passage 1",
+          "source": {
+            "book": 14,
+            "test": 1,
+            "passage": 1,
+            "title": "THE IMPORTANCE OF CHILDREN’S PLAY",
+            "paragraph": "第3段",
+            "paragraphIndex": 3,
+            "materialId": "c14-t1-reading-v1",
+            "sourceFile": "D:/IELTS-Work/decoupling-20261008/maintenance-candidate/source/resources/cambridge-bank-v1/c14-t1-reading-v1.json",
+            "sourceHash": "a683b903c4036f2b4e5245be8629b0584a00310680831e6a05a232338d286808",
+            "verification": "extracted_text_checked",
+            "originalPdf": "D:/IELTS-Work/原始剑雅11-21/剑雅14/剑雅14-Academic-题本与答案.pdf",
+            "excerptOffset": 0,
+            "excerptLength": 309,
+            "originalPdfHash": "f0f0d86e7cf93b37154696851b2e61be4f1194b05bd1651c1711e221720018ba",
+            "originalPageCheck": "model_visually_checked",
+            "pdfPage": 16,
+            "printedPage": 16,
+            "pageImage": "data/sources/c14-pdfpage-16.png"
+          },
+          "highlight": [
+            {
+              "start": 255,
+              "end": 262
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cw-maintain",
+      "term": "maintain",
+      "meaning": "保持；维持",
+      "pos": "v.",
+      "phonetic": "",
+      "topic": "教育与生物",
+      "forms": [
+        "maintains",
+        "maintained",
+        "maintaining"
+      ],
+      "collocations": [
+        {
+          "text": "maintaining a playful approach",
+          "meaning": "保持游戏式的方法"
+        },
+        {
+          "text": "maintaining desirable traits",
+          "meaning": "保留理想的性状"
+        }
+      ],
+      "passages": [
+        {
+          "id": "cw-maintain-1",
+          "text": "Critically, recent research supports the idea that adults can facilitate children’s learning while maintaining a playful approach in interactions known as ‘guided play’ (Fisher et al. 2011). The adult’s role in play varies as a function of their educational goals and the child’s developmental level (Hirsch-Pasek et al. 2009).",
+          "translation": "关键的是，近期研究支持这样一种观点：成年人可以在被称为“引导式游戏”的互动中，既促进儿童学习，又保持游戏的方式（Fisher等，2011）。成年人在游戏中承担什么角色，取决于其教育目标与儿童的发展水平（Hirsch-Pasek等，2009）。",
+          "translationCredit": "本站译文",
+          "sourceLabel": "剑桥雅思 14 · Test 3 · Passage 3",
+          "source": {
+            "book": 14,
+            "test": 3,
+            "passage": 3,
+            "title": "The power of play",
+            "paragraph": "第9段",
+            "paragraphIndex": 9,
+            "materialId": "c14-t3-reading-v1",
+            "sourceFile": "D:/IELTS-Work/decoupling-20261008/maintenance-candidate/source/resources/cambridge-bank-v1/c14-t3-reading-v1.json",
+            "sourceHash": "4428ddbb1a1191de363d97356be584d383c86a67391648d8c4ef592f77f7761d",
+            "verification": "extracted_text_checked",
+            "originalPdf": "D:/IELTS-Work/原始剑雅11-21/剑雅14/剑雅14-Academic-题本与答案.pdf",
+            "excerptOffset": 0,
+            "excerptLength": 327,
+            "originalPdfHash": "f0f0d86e7cf93b37154696851b2e61be4f1194b05bd1651c1711e221720018ba",
+            "originalPageCheck": "not_checked_this_batch"
+          },
+          "highlight": [
+            {
+              "start": 99,
+              "end": 110
+            }
+          ]
+        },
+        {
+          "id": "cw-maintain-2",
+          "text": "By comparing the genomes of modern plants to those of their wild relatives, biologists have been working out what genetic changes occurred as plants were domesticated. The teams in Brazil and China have now used this knowledge to reintroduce these changes from scratch while maintaining or even enhancing the desirable traits of wild strains.",
+          "translation": "通过比较现代植物及其野生近亲的基因组，生物学家一直在研究植物被驯化时发生了哪些遗传变化。巴西和中国的团队现在利用这些知识，从头重新引入这些变化，同时保留甚至增强野生品系的理想性状。",
+          "translationCredit": "本站译文",
+          "sourceLabel": "剑桥雅思 17 · Test 2 · Passage 2",
+          "source": {
+            "book": 17,
+            "test": 2,
+            "passage": 2,
+            "title": "A second attempt at domesticating the tomato",
+            "paragraph": "第8段",
+            "paragraphIndex": 8,
+            "materialId": "c17-t2-reading-v1",
+            "sourceFile": "D:/IELTS-Work/decoupling-20261008/maintenance-candidate/source/resources/cambridge-bank-v1/c17-t2-reading-v1.json",
+            "sourceHash": "5e889de5de684395f870cd3f2973e2678d3e171cc2463e645d0577a997be8392",
+            "verification": "extracted_text_checked",
+            "originalPdf": "D:/IELTS-Work/原始剑雅11-21/剑雅17/剑雅17-Academic-题本与答案.pdf",
+            "excerptOffset": 0,
+            "excerptLength": 342,
+            "originalPdfHash": "eac60360a7d082c61a0f7de4fb89f4ea2f14a1bbde185c10d23629dce1b254ac",
+            "originalPageCheck": "not_checked_this_batch",
+            "originalPdfTextCheck": {
+              "status": "normalized_full_excerpt_match",
+              "pdfPage": 35
+            }
+          },
+          "highlight": [
+            {
+              "start": 275,
+              "end": 286
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cw-adapt",
+      "term": "adapt",
+      "meaning": "适应；使适合",
+      "pos": "v.",
+      "phonetic": "",
+      "topic": "技术与语言",
+      "forms": [
+        "adapts",
+        "adapted",
+        "adapting"
+      ],
+      "collocations": [
+        {
+          "text": "adapting to automation",
+          "meaning": "适应自动化"
+        },
+        {
+          "text": "adapted to the terrain",
+          "meaning": "适合地形"
+        }
+      ],
+      "passages": [
+        {
+          "id": "cw-adapt-1",
+          "text": "The automotive sector is well used to adapting to automation in manufacturing. The implementation of robotic car manufacture from the 1970s onwards led to significant cost savings and improvements in the reliability and flexibility of vehicle mass production. A new challenge to vehicle production is now on the horizon and, again, it comes from automation. However, this time it is not to do with the manufacturing process, but with the vehicles themselves.",
+          "translation": "汽车行业早已习惯适应制造过程中的自动化。自20世纪70年代起，机器人被用于汽车制造，带来了显著的成本节省，并提高了汽车大规模生产的可靠性和灵活性。如今，汽车生产又面临一项新的挑战，这次同样来自自动化。然而，这次涉及的不是制造过程，而是车辆本身。",
+          "translationCredit": "本站译文",
+          "sourceLabel": "剑桥雅思 15 · Test 1 · Passage 2",
+          "source": {
+            "book": 15,
+            "test": 1,
+            "passage": 2,
+            "title": "Driverless cars",
+            "paragraph": "第1段（A段）",
+            "paragraphIndex": 1,
+            "materialId": "c15-t1-reading-v1",
+            "sourceFile": "D:/IELTS-Work/decoupling-20261008/maintenance-candidate/source/resources/cambridge-bank-v1/c15-t1-reading-v1.json",
+            "sourceHash": "a3d272e529f508cf4cfb67a6a417530a55328a58b6929a9ce846ef0056b66c88",
+            "verification": "extracted_text_checked",
+            "originalPdf": "D:/IELTS-Work/原始剑雅11-21/剑雅15/剑雅15-Academic-题本与答案.pdf",
+            "excerptOffset": 2,
+            "excerptLength": 458,
+            "originalPdfHash": "a24469a4319bdff90088859b82850e2f986a88e2e3b13e6547db117a20783298",
+            "originalPageCheck": "not_checked_this_batch"
+          },
+          "highlight": [
+            {
+              "start": 38,
+              "end": 46
+            }
+          ]
+        },
+        {
+          "id": "cw-adapt-2",
+          "text": "La Gomera is one of the Canary Islands situated in the Atlantic Ocean off the northwest coast of Africa. This small volcanic island is mountainous, with steep rocky slopes and deep, wooded ravines, rising to 1,487 metres at its highest peak. It is also home to the best known of the world’s whistle ‘languages’, a means of transmitting information over long distances which is perfectly adapted to the extreme terrain of the island.",
+          "translation": "拉戈梅拉岛是加那利群岛的一座岛屿，位于非洲西北海岸外的大西洋中。这座小火山岛地势多山，遍布陡峭的岩石山坡和林木茂密的深谷，最高峰海拔1,487米。这里也是世界上最著名的口哨“语言”的发源地。这种远距离传递信息的方式，非常适合岛上险峻的地形。",
+          "translationCredit": "本站译文",
+          "sourceLabel": "剑桥雅思 15 · Test 4 · Passage 2",
+          "source": {
+            "book": 15,
+            "test": 4,
+            "passage": 2,
+            "title": "Silbo Gomero — the whistle ‘language’ of the Canary Islands",
+            "paragraph": "第1段",
+            "paragraphIndex": 1,
+            "materialId": "c15-t4-reading-v1",
+            "sourceFile": "D:/IELTS-Work/decoupling-20261008/maintenance-candidate/source/resources/cambridge-bank-v1/c15-t4-reading-v1.json",
+            "sourceHash": "6bc32d1a96bb86274b53bc87609aef938757079b15cdd43a724504f81c4e5cb6",
+            "verification": "extracted_text_checked",
+            "originalPdf": "D:/IELTS-Work/原始剑雅11-21/剑雅15/剑雅15-Academic-题本与答案.pdf",
+            "excerptOffset": 0,
+            "excerptLength": 432,
+            "originalPdfHash": "a24469a4319bdff90088859b82850e2f986a88e2e3b13e6547db117a20783298",
+            "originalPageCheck": "not_checked_this_batch"
+          },
+          "highlight": [
+            {
+              "start": 387,
+              "end": 394
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cw-acquire",
+      "term": "acquire",
+      "meaning": "获得；习得",
+      "pos": "v.",
+      "phonetic": "",
+      "topic": "语言与人才",
+      "forms": [
+        "acquires",
+        "acquired",
+        "acquiring"
+      ],
+      "collocations": [
+        {
+          "text": "acquire a third language",
+          "meaning": "习得第三种语言"
+        },
+        {
+          "text": "acquire employees",
+          "meaning": "招揽员工"
+        }
+      ],
+      "passages": [
+        {
+          "id": "cw-acquire-1",
+          "text": "Such improvements in cognitive and sensory processing may help a bilingual person to process information in the environment, and help explain why bilingual adults acquire a third language better than monolingual adults master a second language. This advantage may be rooted in the skill of focussing on information about the new language while reducing interference from the languages they already know.",
+          "translation": "认知和感官处理能力的这种提升，可能有助于双语者处理环境中的信息，也有助于解释为什么双语成年人习得第三种语言的效果，比单语成年人掌握第二种语言更好。这种优势可能源于一种能力：专注于新语言的信息，同时减少已掌握语言带来的干扰。",
+          "translationCredit": "本站译文",
+          "sourceLabel": "剑桥雅思 12 · Test 6 · Passage 3",
+          "source": {
+            "book": 12,
+            "test": 6,
+            "passage": 3,
+            "title": "The Benefits of Being Bilingual",
+            "paragraph": "第5段（E段）",
+            "paragraphIndex": 5,
+            "materialId": "c12-t6-reading-v1",
+            "sourceFile": "D:/IELTS-Work/decoupling-20261008/maintenance-candidate/source/resources/cambridge-bank-v1/c12-t6-reading-v1.json",
+            "sourceHash": "dc83e06acbca7aff80b1cd99c1de6d942c81715d010cb9dde4b9b28ebfe0fe3b",
+            "verification": "extracted_text_checked",
+            "originalPdf": "D:/IELTS-Work/原始剑雅11-21/剑雅12/剑雅12-Academic-题本与答案.pdf",
+            "excerptOffset": 2,
+            "excerptLength": 403,
+            "originalPdfHash": "c9b61939ce31049dd9552020dbaf3deb979cbb6244b4cac0ac64f13b3ce049c6",
+            "originalPageCheck": "not_checked_this_batch"
+          },
+          "highlight": [
+            {
+              "start": 163,
+              "end": 170
+            }
+          ]
+        },
+        {
+          "id": "cw-acquire-2",
+          "text": "Pfeffer (1994) emphasizes that in order to succeed in a global business environment, organizations must make investment in Human Resource Management (HRM) to allow them to acquire employees who possess better skills and capabilities than their competitors. This investment will be to their competitive advantage. Despite this recognition of the importance of employee development, the hospitality industry has historically been dominated by underdeveloped HR practices (Lucas, 2002).",
+          "translation": "普费弗（1994）强调，组织要在全球商业环境中取得成功，就必须投资人力资源管理，从而获得比竞争对手的员工拥有更强技能和能力的人才。这项投资会形成竞争优势。尽管人们认识到了员工发展的重要性，酒店服务业在历史上仍一直以不够完善的人力资源管理实践为主（Lucas，2002）。",
+          "translationCredit": "本站译文",
+          "sourceLabel": "剑桥雅思 14 · Test 1 · Passage 3",
+          "source": {
+            "book": 14,
+            "test": 1,
+            "passage": 3,
+            "title": "Motivational factors and the hospitality industry",
+            "paragraph": "第3段",
+            "paragraphIndex": 3,
+            "materialId": "c14-t1-reading-v1",
+            "sourceFile": "D:/IELTS-Work/decoupling-20261008/maintenance-candidate/source/resources/cambridge-bank-v1/c14-t1-reading-v1.json",
+            "sourceHash": "a683b903c4036f2b4e5245be8629b0584a00310680831e6a05a232338d286808",
+            "verification": "extracted_text_checked",
+            "originalPdf": "D:/IELTS-Work/原始剑雅11-21/剑雅14/剑雅14-Academic-题本与答案.pdf",
+            "excerptOffset": 0,
+            "excerptLength": 483,
+            "originalPdfHash": "f0f0d86e7cf93b37154696851b2e61be4f1194b05bd1651c1711e221720018ba",
+            "originalPageCheck": "not_checked_this_batch",
+            "originalPdfTextCheck": {
+              "status": "normalized_full_excerpt_match",
+              "pdfPage": 25
+            }
+          },
+          "highlight": [
+            {
+              "start": 172,
+              "end": 179
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cw-generate",
+      "term": "generate",
+      "meaning": "产生；生成",
+      "pos": "v.",
+      "phonetic": "",
+      "topic": "能源与科技",
+      "forms": [
+        "generates",
+        "generated",
+        "generating"
+      ],
+      "collocations": [
+        {
+          "text": "generating carbon emissions",
+          "meaning": "产生碳排放"
+        },
+        {
+          "text": "generate enough debris",
+          "meaning": "产生足够多的碎片"
+        }
+      ],
+      "passages": [
+        {
+          "id": "cw-generate-1",
+          "text": "Short points out that to make most contemporary buildings habitable, they have to be sealed and air conditioned. The energy use and carbon emissions this generates is spectacular and largely unnecessary. Buildings in the West account for 40-50% of electricity usage, generating substantial carbon emissions, and the rest of the world is catching up at a frightening rate. Short regards glass, steel and air-conditioned skyscrapers as symbols of status, rather than practical ways of meeting our requirements.",
+          "translation": "肖特指出，为了使多数现代建筑适宜居住，必须将其密封并安装空调。由此产生的能源消耗和碳排放惊人，而且大部分并无必要。西方国家的建筑耗电占总用电量的40%至50%，产生了大量碳排放，而世界其他地区正以惊人的速度赶上。肖特认为，玻璃、钢材和空调摩天楼是地位的象征，而不是满足人们需要的实用方式。",
+          "translationCredit": "本站译文",
+          "sourceLabel": "剑桥雅思 14 · Test 2 · Passage 2",
+          "source": {
+            "book": 14,
+            "test": 2,
+            "passage": 2,
+            "title": "Back to the future of skyscraper design",
+            "paragraph": "第6段（C段）",
+            "paragraphIndex": 6,
+            "materialId": "c14-t2-reading-v1",
+            "sourceFile": "D:/IELTS-Work/decoupling-20261008/maintenance-candidate/source/resources/cambridge-bank-v1/c14-t2-reading-v1.json",
+            "sourceHash": "3e181d68d95cd384474c449dfeef71488b20db7e2a4ff06bbdc064d7ff5ed2c6",
+            "verification": "extracted_text_checked",
+            "originalPdf": "D:/IELTS-Work/原始剑雅11-21/剑雅14/剑雅14-Academic-题本与答案.pdf",
+            "excerptOffset": 2,
+            "excerptLength": 508,
+            "originalPdfHash": "f0f0d86e7cf93b37154696851b2e61be4f1194b05bd1651c1711e221720018ba",
+            "originalPageCheck": "model_visually_checked",
+            "originalPdfTextCheck": {
+              "status": "normalized_full_excerpt_match",
+              "pdfPage": 42
+            },
+            "pdfPage": 42,
+            "printedPage": 42,
+            "pageImage": "data/sources/c14-pdfpage-42.png"
+          },
+          "highlight": [
+            {
+              "start": 154,
+              "end": 163
+            },
+            {
+              "start": 267,
+              "end": 277
+            }
+          ]
+        },
+        {
+          "id": "cw-generate-2",
+          "text": "The alternative, many say, is unthinkable. Just a few uncontrolled space crashes could generate enough debris to set off a runaway cascade of fragments, rendering near-Earth space unusable. ‘If we go on like this, we will reach a point of no return,’ says Carolin Frueh, an astrodynamical researcher at Purdue University in West Lafayette, Indiana.",
+          "translation": "许多人说，另一种结局是不可想象的。只需几次失控的太空碰撞，就可能产生足够多的碎片，引发失控的连锁碎裂，使近地空间无法使用。美国印第安纳州西拉法叶市普渡大学的天体动力学研究员卡罗琳·弗吕说：“如果继续这样下去，我们就会到达无法挽回的地步。”",
+          "translationCredit": "本站译文",
+          "sourceLabel": "剑桥雅思 18 · Test 1 · Passage 3",
+          "source": {
+            "book": 18,
+            "test": 1,
+            "passage": 3,
+            "title": "Conquering Earth’s space junk problem",
+            "paragraph": "第5段",
+            "paragraphIndex": 5,
+            "materialId": "c18-t1-reading-v1",
+            "sourceFile": "D:/IELTS-Work/decoupling-20261008/maintenance-candidate/source/resources/cambridge-bank-v1/c18-t1-reading-v1.json",
+            "sourceHash": "7eacc91da19ca9cfb776f9699522e69cd3067e4678547b80ed484071508fc396",
+            "verification": "extracted_text_checked",
+            "originalPdf": "D:/IELTS-Work/原始剑雅11-21/剑雅18/剑雅18-Academic-题本与答案.pdf",
+            "excerptOffset": 0,
+            "excerptLength": 348,
+            "originalPdfHash": "03d25578e46e5ccf27f3fb5d728c057f5e5819b22d6c346f45d45f9f9bdbb3e9",
+            "originalPageCheck": "not_checked_this_batch"
+          },
+          "highlight": [
+            {
+              "start": 87,
+              "end": 95
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cw-resource",
+      "term": "resource",
+      "meaning": "资源",
+      "pos": "n.",
+      "phonetic": "",
+      "topic": "材料与环境",
+      "forms": [
+        "resources"
+      ],
+      "collocations": [
+        {
+          "text": "a resource which supports biodiversity",
+          "meaning": "支持生物多样性的资源"
+        },
+        {
+          "text": "precious resources",
+          "meaning": "宝贵的资源"
+        }
+      ],
+      "passages": [
+        {
+          "id": "cw-resource-1",
+          "text": "The classic cork stopper does have several advantages, however. Firstly, its traditional image is more in keeping with that of the type of high quality goods with which it has long been associated. Secondly — and very importantly — cork is a sustainable product that can be recycled without difficulty. Moreover, cork forests are a resource which support local biodiversity, and prevent desertification in the regions where they are planted. So, given the current concerns about environmental issues, the future of this ancient material once again looks promising.",
+          "translation": "不过，传统软木瓶塞确实有若干优点。首先，它的传统形象更符合它长期关联的高品质商品。其次，而且十分重要的是，软木是一种可持续产品，很容易回收利用。此外，软木林是一种资源，能够支持当地生物多样性，并防止种植地区的荒漠化。因此，考虑到当前人们对环境问题的关注，这种古老材料的未来再次显得很有前景。",
+          "translationCredit": "本站译文",
+          "sourceLabel": "剑桥雅思 12 · Test 5 · Passage 1",
+          "source": {
+            "book": 12,
+            "test": 5,
+            "passage": 1,
+            "title": "Cork",
+            "paragraph": "第7段",
+            "paragraphIndex": 7,
+            "materialId": "c12-t5-reading-v1",
+            "sourceFile": "D:/IELTS-Work/decoupling-20261008/maintenance-candidate/source/resources/cambridge-bank-v1/c12-t5-reading-v1.json",
+            "sourceHash": "82a570b86a34c4de867191acef628e8f305549c66dc261bea32002e3bea8d3d5",
+            "verification": "extracted_text_checked",
+            "originalPdf": "D:/IELTS-Work/原始剑雅11-21/剑雅12/剑雅12-Academic-题本与答案.pdf",
+            "excerptOffset": 0,
+            "excerptLength": 564,
+            "originalPdfHash": "c9b61939ce31049dd9552020dbaf3deb979cbb6244b4cac0ac64f13b3ce049c6",
+            "originalPageCheck": "not_checked_this_batch"
+          },
+          "highlight": [
+            {
+              "start": 332,
+              "end": 340
+            }
+          ]
+        },
+        {
+          "id": "cw-resource-2",
+          "text": "Glass is an ideal material for recycling, and with growing consumer concern for green issues, glass bottles and jars are becoming ever more popular. Glass recycling is good news for the environment. It saves used glass containers being sent to landfill. As less energy is needed to melt recycled glass than to melt down raw materials, this also saves fuel and production costs. Recycling also reduces the need for raw materials to be quarried, thus saving precious resources.",
+          "translation": "玻璃是理想的回收材料。随着消费者日益关注环保问题，玻璃瓶和玻璃罐越来越受欢迎。玻璃回收对环境来说是个好消息：它使使用过的玻璃容器免于被送入填埋场。熔化再生玻璃所需的能源比熔化原材料少，因此还能节省燃料和生产成本。回收也减少了开采原材料的需求，从而节约宝贵的资源。",
+          "translationCredit": "本站译文",
+          "sourceLabel": "剑桥雅思 12 · Test 8 · Passage 1",
+          "source": {
+            "book": 12,
+            "test": 8,
+            "passage": 1,
+            "title": "The History of Glass",
+            "paragraph": "第7段",
+            "paragraphIndex": 7,
+            "materialId": "c12-t8-reading-v1",
+            "sourceFile": "D:/IELTS-Work/decoupling-20261008/maintenance-candidate/source/resources/cambridge-bank-v1/c12-t8-reading-v1.json",
+            "sourceHash": "9dae09c268d80806bf6e657f67316d26248497f329c7806c44f3830fd88dc780",
+            "verification": "extracted_text_checked",
+            "originalPdf": "D:/IELTS-Work/原始剑雅11-21/剑雅12/剑雅12-Academic-题本与答案.pdf",
+            "excerptOffset": 0,
+            "excerptLength": 475,
+            "originalPdfHash": "c9b61939ce31049dd9552020dbaf3deb979cbb6244b4cac0ac64f13b3ce049c6",
+            "originalPageCheck": "not_checked_this_batch"
+          },
+          "highlight": [
+            {
+              "start": 465,
+              "end": 474
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cw-approach",
+      "term": "approach",
+      "meaning": "方法；方式",
+      "pos": "n.",
+      "phonetic": "",
+      "topic": "研究与教育",
+      "forms": [
+        "approaches"
+      ],
+      "collocations": [
+        {
+          "text": "the key to their approach",
+          "meaning": "他们所用方法的关键"
+        },
+        {
+          "text": "a playful approach",
+          "meaning": "游戏式的方法"
+        }
+      ],
+      "passages": [
+        {
+          "id": "cw-approach-1",
+          "text": "Bouchard and his colleagues used this mountain of data to identify how far twins were affected by their genetic makeup. The key to their approach was a statistical concept called heritability. In broad terms, the heritability of a trait measures the extent to which differences among members of a population can be explained by differences in their genetics. And wherever Bouchard and other scientists looked, it seemed, they found the invisible hand of genetic influence helping to shape our lives.",
+          "translation": "布沙尔及其同事利用这海量的数据，确定双胞胎在多大程度上受到遗传构成的影响。他们所用方法的关键，是一个叫作遗传度的统计概念。概括地说，某种特征的遗传度，衡量的是群体成员之间的差异有多大程度可以由遗传差异解释。看来，无论布沙尔和其他科学家研究哪里，都发现遗传影响这只无形之手在参与塑造我们的生活。",
+          "translationCredit": "本站译文",
+          "sourceLabel": "剑桥雅思 11 · Test 4 · Passage 1",
+          "source": {
+            "book": 11,
+            "test": 4,
+            "passage": 1,
+            "title": "Research using twins",
+            "paragraph": "第5段",
+            "paragraphIndex": 5,
+            "materialId": "c11-t4-reading-v1",
+            "sourceFile": "D:/IELTS-Work/decoupling-20261008/maintenance-candidate/source/resources/cambridge-bank-v1/c11-t4-reading-v1.json",
+            "sourceHash": "213cd71fa4c5bdf74daf65b6e6917b258ffb74194daeda67e4c538543ff1fa6b",
+            "verification": "extracted_text_checked",
+            "originalPdf": "D:/IELTS-Work/原始剑雅11-21/剑雅11/剑雅11-Academic-题本与答案.pdf",
+            "excerptOffset": 0,
+            "excerptLength": 499,
+            "originalPdfHash": "75a58db8583af03179754a5630428d957c9fadc1deb1873ebe7a9cdb58d59c97",
+            "originalPageCheck": "not_checked_this_batch",
+            "originalPdfTextCheck": {
+              "status": "normalized_full_excerpt_match",
+              "pdfPage": 88
+            }
+          },
+          "highlight": [
+            {
+              "start": 137,
+              "end": 145
+            }
+          ]
+        },
+        {
+          "id": "cw-approach-2",
+          "text": "Critically, recent research supports the idea that adults can facilitate children’s learning while maintaining a playful approach in interactions known as ‘guided play’ (Fisher et al. 2011). The adult’s role in play varies as a function of their educational goals and the child’s developmental level (Hirsch-Pasek et al. 2009).",
+          "translation": "关键的是，近期研究支持这样一种观点：成年人可以在被称为“引导式游戏”的互动中，既促进儿童学习，又保持游戏的方式（Fisher等，2011）。成年人在游戏中承担什么角色，取决于其教育目标与儿童的发展水平（Hirsch-Pasek等，2009）。",
+          "translationCredit": "本站译文",
+          "sourceLabel": "剑桥雅思 14 · Test 3 · Passage 3",
+          "source": {
+            "book": 14,
+            "test": 3,
+            "passage": 3,
+            "title": "The power of play",
+            "paragraph": "第9段",
+            "paragraphIndex": 9,
+            "materialId": "c14-t3-reading-v1",
+            "sourceFile": "D:/IELTS-Work/decoupling-20261008/maintenance-candidate/source/resources/cambridge-bank-v1/c14-t3-reading-v1.json",
+            "sourceHash": "4428ddbb1a1191de363d97356be584d383c86a67391648d8c4ef592f77f7761d",
+            "verification": "extracted_text_checked",
+            "originalPdf": "D:/IELTS-Work/原始剑雅11-21/剑雅14/剑雅14-Academic-题本与答案.pdf",
+            "excerptOffset": 0,
+            "excerptLength": 327,
+            "originalPdfHash": "f0f0d86e7cf93b37154696851b2e61be4f1194b05bd1651c1711e221720018ba",
+            "originalPageCheck": "not_checked_this_batch"
+          },
+          "highlight": [
+            {
+              "start": 121,
+              "end": 129
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cw-establish",
+      "term": "establish",
+      "meaning": "建立；确定",
+      "pos": "v.",
+      "phonetic": "",
+      "topic": "研究与环境",
+      "forms": [
+        "establishes",
+        "established",
+        "establishing"
+      ],
+      "collocations": [
+        {
+          "text": "establish that they were related",
+          "meaning": "确定它们有关联"
+        },
+        {
+          "text": "establish monoculture",
+          "meaning": "建立单一种植模式"
+        }
+      ],
+      "passages": [
+        {
+          "id": "cw-establish-1",
+          "text": "Tehrani’s analysis focused on Little Red Riding Hood in its many forms, which include another Western fairy tale known as The Wolf and the Kids. Checking for variants of these two tales and similar stories from Africa, East Asia and other regions, he ended up with 58 stories recorded from oral traditions. Once his phylogenetic analysis had established that they were indeed related, he used the same methods to explore how they have developed and altered over time.",
+          "translation": "德黑兰尼的分析关注《小红帽》的多种版本，其中还包括另一篇西方童话《狼和小山羊》。他搜寻这两个故事的不同版本，以及非洲、东亚等地区的相似故事，最终得到了58篇由口述传统记录下来的故事。在系统发生分析确定这些故事确实存在关联之后，他用相同的方法探索它们如何随时间发展和变化。",
+          "translationCredit": "本站译文",
+          "sourceLabel": "剑桥雅思 15 · Test 3 · Passage 3",
+          "source": {
+            "book": 15,
+            "test": 3,
+            "passage": 3,
+            "title": "Why fairy tales are really scary tales",
+            "paragraph": "第5段",
+            "paragraphIndex": 5,
+            "materialId": "c15-t3-reading-v1",
+            "sourceFile": "D:/IELTS-Work/decoupling-20261008/maintenance-candidate/source/resources/cambridge-bank-v1/c15-t3-reading-v1.json",
+            "sourceHash": "b3da3ad8fed222e4d64a31a98fb97a3cf0ff64946903c0c6fd9124b51c44611a",
+            "verification": "extracted_text_checked",
+            "originalPdf": "D:/IELTS-Work/原始剑雅11-21/剑雅15/剑雅15-Academic-题本与答案.pdf",
+            "excerptOffset": 0,
+            "excerptLength": 467,
+            "originalPdfHash": "a24469a4319bdff90088859b82850e2f986a88e2e3b13e6547db117a20783298",
+            "originalPageCheck": "not_checked_this_batch"
+          },
+          "highlight": [
+            {
+              "start": 342,
+              "end": 353
+            }
+          ]
+        },
+        {
+          "id": "cw-establish-2",
+          "text": "However, there are multiple reasons why conservationists cite the rapid spread of oil palm plantations as a major concern. There are countless news stories of deforestation, habitat destruction and dwindling species populations, all as a direct result of land clearing to establish oil palm tree monoculture on an industrial scale, particularly in Malaysia and Indonesia. Endangered species — most famously the Sumatran orangutan, but also rhinos, elephants, tigers, and numerous other fauna — have suffered from the unstoppable spread of oil palm plantations.",
+          "translation": "然而，自然保护人士对油棕种植园迅速扩张深感担忧，有多方面的原因。关于森林砍伐、栖息地破坏和物种种群减少的新闻数不胜数，这些都是清理土地、以工业规模建立油棕单一种植模式的直接结果，马来西亚和印度尼西亚尤其如此。濒危物种中，最著名的是苏门答腊猩猩，此外还有犀牛、大象、老虎及许多其他动物，它们都受到了油棕种植园持续扩张的伤害。",
+          "translationCredit": "本站译文",
+          "sourceLabel": "剑桥雅思 17 · Test 3 · Passage 2",
+          "source": {
+            "book": 17,
+            "test": 3,
+            "passage": 2,
+            "title": "Palm oil",
+            "paragraph": "第3段（C段）",
+            "paragraphIndex": 3,
+            "materialId": "c17-t3-reading-v1",
+            "sourceFile": "D:/IELTS-Work/decoupling-20261008/maintenance-candidate/source/resources/cambridge-bank-v1/c17-t3-reading-v1.json",
+            "sourceHash": "0058f952e763f19cc6149ebc606b4085a24f33714a79fde9abd7c7eb75853488",
+            "verification": "extracted_text_checked",
+            "originalPdf": "D:/IELTS-Work/原始剑雅11-21/剑雅17/剑雅17-Academic-题本与答案.pdf",
+            "excerptOffset": 2,
+            "excerptLength": 560,
+            "originalPdfHash": "eac60360a7d082c61a0f7de4fb89f4ea2f14a1bbde185c10d23629dce1b254ac",
+            "originalPageCheck": "not_checked_this_batch",
+            "originalPdfTextCheck": {
+              "status": "normalized_full_excerpt_match",
+              "pdfPage": 57
+            }
+          },
+          "highlight": [
+            {
+              "start": 272,
+              "end": 281
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cw-affect",
+      "term": "affect",
+      "meaning": "影响",
+      "pos": "v.",
+      "phonetic": "",
+      "topic": "环境与健康",
+      "forms": [
+        "affects",
+        "affected",
+        "affecting"
+      ],
+      "collocations": [
+        {
+          "text": "affect rainfall patterns",
+          "meaning": "影响降雨模式"
+        },
+        {
+          "text": "diseases that affect humans",
+          "meaning": "影响人类的疾病"
+        }
+      ],
+      "passages": [
+        {
+          "id": "cw-affect-1",
+          "text": "The US National Center for Atmospheric Research has already suggested that the proposal to inject sulphur into the atmosphere might affect rainfall patterns across the tropics and the Southern Ocean. ‘Geo-engineering plans to inject stratospheric aerosols or to seed clouds would act to cool the planet, and act to increase the extent of sea ice,’ says Rasch. ‘But all the models suggest some impact on the distribution of precipitation.’",
+          "translation": "美国国家大气研究中心已经指出，向大气中注入硫的提议可能影响热带和南大洋地区的降雨模式。拉施说：“向平流层注入气溶胶或进行云播撒的地球工程方案，可以使地球降温，并扩大海冰范围。但所有模型都表明，它们会对降水的分布产生一些影响。”",
+          "translationCredit": "本站译文",
+          "sourceLabel": "剑桥雅思 11 · Test 1 · Passage 3",
+          "source": {
+            "book": 11,
+            "test": 1,
+            "passage": 3,
+            "title": "Reducing the Effects of Climate Change",
+            "paragraph": "第7段（F段）",
+            "paragraphIndex": 7,
+            "materialId": "c11-t1-reading-v1",
+            "sourceFile": "D:/IELTS-Work/decoupling-20261008/maintenance-candidate/source/resources/cambridge-bank-v1/c11-t1-reading-v1.json",
+            "sourceHash": "eeb8b709f8b67c64810836f2b814050509afca0d5d9854e8abf383d5118131fb",
+            "verification": "extracted_text_checked",
+            "originalPdf": "D:/IELTS-Work/原始剑雅11-21/剑雅11/剑雅11-Academic-题本与答案.pdf",
+            "excerptOffset": 2,
+            "excerptLength": 438,
+            "originalPdfHash": "75a58db8583af03179754a5630428d957c9fadc1deb1873ebe7a9cdb58d59c97",
+            "originalPageCheck": "not_checked_this_batch"
+          },
+          "highlight": [
+            {
+              "start": 132,
+              "end": 138
+            }
+          ]
+        },
+        {
+          "id": "cw-affect-2",
+          "text": "While many diseases that affect humans have been eradicated due to improvements in vaccinations and the availability of healthcare, there are still areas around the world where certain health issues are more prevalent. In a world that is far more globalised than ever before, people come into contact with one another through travel and living closer and closer to each other. As a result, super-viruses and other infections resistant to antibiotics are becoming more and more common.",
+          "translation": "尽管疫苗接种的改善和医疗服务的普及已经消除了许多影响人类的疾病，世界上某些地区仍然存在较为普遍的健康问题。在这个比以往更加全球化的世界里，人们通过旅行以及日益密集的居住方式相互接触。因此，超级病毒和其他具有抗生素耐药性的感染变得越来越常见。",
+          "translationCredit": "本站译文",
+          "sourceLabel": "剑桥雅思 12 · Test 7 · Passage 2",
+          "source": {
+            "book": 12,
+            "test": 7,
+            "passage": 2,
+            "title": "The Intersection of Health Sciences and Geography",
+            "paragraph": "第1段（A段）",
+            "paragraphIndex": 1,
+            "materialId": "c12-t7-reading-v1",
+            "sourceFile": "D:/IELTS-Work/decoupling-20261008/maintenance-candidate/source/resources/cambridge-bank-v1/c12-t7-reading-v1.json",
+            "sourceHash": "fae29d2cbea7e6de7775f9e16cae1e3a8afe31a8ccf4f6acae22ece374b9af45",
+            "verification": "extracted_text_checked",
+            "originalPdf": "D:/IELTS-Work/原始剑雅11-21/剑雅12/剑雅12-Academic-题本与答案.pdf",
+            "excerptOffset": 2,
+            "excerptLength": 484,
+            "originalPdfHash": "c9b61939ce31049dd9552020dbaf3deb979cbb6244b4cac0ac64f13b3ce049c6",
+            "originalPageCheck": "not_checked_this_batch"
+          },
+          "highlight": [
+            {
+              "start": 25,
+              "end": 31
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
