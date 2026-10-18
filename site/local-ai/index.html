@@ -1,0 +1,11 @@
+<!doctype html>
+<html lang="zh-CN"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>连接本机 AI · IELTS 学习册</title><style>body{max-width:760px;margin:40px auto;padding:0 22px;font:17px/1.85 system-ui,sans-serif;color:#203b2c;background:#fafbf7}h1{font-size:30px}h2{font-size:22px;margin-top:30px}a{color:#285f48}code{font-size:.9em;background:#e9efe5;padding:2px 5px;overflow-wrap:anywhere}.download{display:inline-block;padding:10px 18px;background:#285f48;color:white;border-radius:7px;text-decoration:none}li{margin:10px 0}p{margin:12px 0}</style></head><body>
+<a href="../开始学习.html#writing-workbench">← 返回写作</a><h1>在网站使用这台设备的 AI</h1>
+<p>网站连接本机的 Codex、Ollama 或 LM Studio。每台设备保存自己的接口和模型选择；对话保存在该设备的连接器目录。</p>
+<p><a class="download" href="ielts-local-ai.zip" download>下载本机连接器</a></p>
+<h2>第一次使用</h2><ol><li>解压下载包。Windows 用户运行包内的“启动连接器.ps1”。启动器会查找已安装的 Node.js，以及 Codex 自带的 Node.js 运行时。其他系统可在解压目录运行 <code>node server.cjs</code>。</li><li>打开写作题，展开“问本地 AI”，点击“连接本机 AI”。选择你要使用的服务。</li><li>Codex 使用本机已有登录；Ollama、LM Studio 使用各自已启动的本地服务，在窗口里读取并选择模型。</li><li>点击“保存并连接”。浏览器出现本机网络访问提示时，允许本站访问本机。连接确认后即可发送。</li></ol>
+<h2>已有本机陪练</h2><p>已在本机运行 IELTS 陪练的用户可直接连接现有 <code>http://127.0.0.1:8831</code>。这台电脑当前的常驻启动会继续维护该地址。</p>
+<h2>服务与模型</h2><ul><li>Codex：短任务与中文写英文使用 GPT-6.1 Sol · medium；完整讲解使用 Astra · high，深入任务按请求提高至 xhigh。</li><li>Ollama：默认模型服务地址为 <code>http://127.0.0.1:11434/v1</code>。</li><li>LM Studio：默认模型服务地址为 <code>http://127.0.0.1:1234/v1</code>。</li><li>其他 OpenAI 兼容服务：填写本机接口地址和模型名称，支持无 API 密钥的本机服务。带题图的问题需要所选模型具备看图能力。</li></ul>
+<h2>连接与记录</h2><p>连接器仅监听本机回环地址，接受本站正式域名与已有本地预览。选择 Codex 时，题目和稿件交给本机 Codex 登录所使用的模型服务处理；选择本地模型时交给相应本机服务。学习进度继续由网站账号保存，对话和中文原稿由本机连接器保存。</p>
+<p>连接失败时，先确认连接器与所选模型服务正在运行，再到浏览器的本站权限设置中允许“本机网络”或“Loopback network”访问，然后重新连接。</p>
+</body></html>

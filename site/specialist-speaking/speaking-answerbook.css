@@ -1,0 +1,60 @@
+*{box-sizing:border-box}body{margin:0;background:#f3f4ee;font-family:"Segoe UI","Microsoft YaHei",sans-serif;font-size:16px}button,input,textarea,select{font-family:inherit}summary{cursor:pointer;line-height:1.8;font-weight:600}.sp-private{min-width:195px;background:#e4ecdf;border-radius:14px;padding:18px;font-size:14px}.sp-private p{margin:7px 0 12px}.sp-private strong{color:#244f45}#sp-load-error{padding:20px;background:#fff1e9;color:#7f3623;border-radius:10px}#sp-practice-keywords{font-size:22px;line-height:1.8;white-space:pre-wrap}button[aria-busy=true]{opacity:.6}
+#speaking-answerbook {--sp-green:#244f45;--sp-paper:#f7f7f2;--sp-border:#d8e1d9;max-width:1480px;margin:auto;padding:28px clamp(16px,3vw,44px) 60px;color:#21352d}
+#speaking-answerbook [hidden]{display:none!important}
+.sp-heading{display:flex;align-items:flex-start;justify-content:space-between;gap:20px;margin-bottom:24px}
+.sp-heading h1{margin:10px 0;font-size:clamp(26px,3vw,38px);line-height:1.3}
+.sp-heading p{max-width:760px;line-height:1.8;color:#52625a}
+.sp-heading a,.sp-back{color:var(--sp-green)}
+.sp-layout{display:grid;grid-template-columns:minmax(240px,300px) minmax(0,1fr);gap:28px;align-items:start}
+.sp-catalog{border:1px solid var(--sp-border);border-radius:16px;background:var(--sp-paper);padding:16px;position:sticky;top:20px}
+#speaking-answerbook label{display:block;font-weight:600;margin:0 0 12px;line-height:1.65}
+#speaking-answerbook input[type=search],#speaking-answerbook select,#speaking-answerbook textarea{box-sizing:border-box;width:100%;padding:10px 12px;border:1px solid #bccbc1;border-radius:8px;background:#fff;font:inherit;color:#20382c;line-height:1.7}
+#speaking-answerbook textarea{font-weight:400;resize:vertical}
+#speaking-answerbook textarea:read-only{background:#f2f5f0;color:#506052}
+#speaking-answerbook :focus-visible{outline:3px solid #9dbdb0;outline-offset:3px}
+.sp-filter-row{display:grid;grid-template-columns:1fr 1fr;gap:8px}
+.sp-question-list{max-height:48vh;overflow-y:auto;display:grid;gap:6px;margin:10px 0;padding:0;list-style:none}
+.sp-question-list button{display:block!important;width:100%;text-align:left;padding:11px!important;background:#fff!important;color:#354d40!important;border:1px solid transparent!important;border-radius:8px!important;line-height:1.5!important;white-space:normal!important;font-weight:400!important}
+.sp-question-list button[aria-current=true]{border-color:var(--sp-green)!important;background:#e5eee7!important}
+.sp-question-list small{display:block;color:#66796c;margin-bottom:3px}
+.sp-stage{background:#fff;border:1px solid var(--sp-border);border-radius:16px;padding:clamp(16px,2.5vw,30px);margin-bottom:16px}
+.sp-stage h2{font-size:24px;line-height:1.55;margin:8px 0 12px}
+.sp-stage h3{font-size:18px;margin:0 0 12px}
+.sp-tag{font-size:12px;font-weight:700;letter-spacing:1px;color:#61766a;text-transform:uppercase}
+.sp-prompt{font-size:22px;line-height:1.55;font-weight:600;margin:12px 0}
+.sp-cues{line-height:1.9;padding-left:24px}
+.sp-help{font-size:14px;color:#5b6b61;line-height:1.8}
+.sp-note{padding:10px 14px;border-left:3px solid #bd9b52;background:#fbf8ee;font-size:14px;line-height:1.8}
+.sp-actions{display:flex;flex-wrap:wrap;gap:8px;align-items:center;margin:12px 0}
+#speaking-answerbook button{border:1px solid #b6c7bc;border-radius:8px;padding:9px 15px;background:#fff;color:#234d3d;cursor:pointer;font:inherit;line-height:1.5}
+#speaking-answerbook button.sp-primary{background:var(--sp-green);color:#fff;border-color:var(--sp-green)}
+#speaking-answerbook button:disabled{opacity:.55;cursor:not-allowed}
+#sp-save-status{min-height:24px;font-size:14px;line-height:1.7;color:#41694f}
+#sp-save-status[data-error=true]{color:#963f20;background:#fff4e9;padding:10px;border-radius:7px}
+.sp-counter{font-size:13px;font-weight:400;color:#708177}
+#sp-final-text,#sp-practice-answer{white-space:pre-wrap;font:inherit;line-height:1.9;background:#f1f6ee;border-radius:10px;padding:18px;margin:12px 0}
+.sp-history-row{border-bottom:1px solid #dfe7df;padding:12px 0}
+.sp-history-row pre{white-space:pre-wrap;font:inherit;line-height:1.8}
+.sp-history-row summary{cursor:pointer;line-height:1.6}
+.sp-empty{padding:22px 8px;color:#6a776e;line-height:1.8}
+.sp-timer{font-size:34px;font-variant-numeric:tabular-nums;font-weight:600;margin-right:12px}
+#speaking-answerbook .learning-assist-panel{padding:12px;margin:12px 0;background:#fff;border:1px solid var(--sp-border);border-radius:8px}
+.sp-source-links{display:flex;flex-wrap:wrap;gap:12px;font-size:14px;margin:12px 0}
+.sp-source-links a{color:var(--sp-green)}
+.sp-mini-entry{display:block;margin:14px 0;padding:16px 20px;border:1px solid #bfcebf;border-radius:12px;background:#f3f7ee;color:#244f45!important;font-weight:600}
+@media(max-width:1000px){.sp-layout{grid-template-columns:240px minmax(0,1fr)}.sp-catalog{top:20px}}
+@media(max-width:760px){.sp-layout{grid-template-columns:1fr}.sp-catalog{position:static}.sp-question-list{max-height:230px}.sp-heading{display:block}.sp-stage h2,.sp-prompt{font-size:20px}}
+
+#sp-notes{margin-bottom:18px}#sp-notes[open] summary{margin-bottom:12px}
+.sp-question-card>h3{font-size:20px;line-height:1.65;font-weight:600;margin-bottom:18px}
+.sp-question-card>label{font-size:14px;color:#52685d}.sp-question-card>label>textarea{font-size:16px!important;margin-top:8px}
+.sp-question-card .sp-actions{margin-bottom:0}.sp-row-status[data-error=true]{color:#963f20}
+.sp-part-heading{font-size:19px;margin:28px 0 16px;color:#244f45}
+.sp-question-tools{margin-top:20px;padding:18px 0 0;border-top:1px solid #c5d4c8}
+.sp-question-tools .sp-stage{background:#f7f8f3;padding:18px;border-radius:10px}
+#sp-save-status{margin:10px 0 16px}.sp-topic-heading{margin-bottom:12px}
+#speaking-answerbook .sp-question-card.is-practicing>label,#speaking-answerbook .sp-question-card.is-practicing>.sp-actions{display:none}
+/* Companion entry: original answer controls and storage stay with this app. */
+.sp-main-nav{display:flex;flex-wrap:wrap;justify-content:space-between;gap:10px 24px;margin:0 0 14px;font-size:14px;line-height:1.6}
+.sp-main-nav a{display:inline-flex;align-items:center;min-height:40px;color:inherit}
+.sp-origin-note{font-size:13px;line-height:1.7;color:#58695f;max-width:70em;margin:0 0 18px}

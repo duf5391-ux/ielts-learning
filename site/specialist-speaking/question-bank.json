@@ -1,0 +1,7413 @@
+{
+  "version": 1,
+  "title": "我的口语答案本",
+  "authority": "用户提供的练习资料；未核实为官方当季题库。个人答案可随学习修改。",
+  "sources": [
+    {
+      "id": "questions",
+      "sha256": "fb4b3bb1d0a8346590587986229d6826d9e3c5e1a57b4aa4f976eb39e887a308",
+      "pages": 36,
+      "bytes": 1110606,
+      "authority": "user-provided reference; not verified official exam bank",
+      "name": "雅思口语题库20269-12.pdf",
+      "url": "speaking-personal-reference/questions.pdf"
+    },
+    {
+      "id": "method",
+      "sha256": "af4e77e63e052cd1fc4096ac5f595eb7e4cedb40e11f5b2ccb332176a273006e",
+      "pages": 58,
+      "bytes": 2347089,
+      "authority": "user-provided reference; not verified official exam bank",
+      "name": "雅思口语part1（student）.pdf",
+      "url": "speaking-personal-reference/method.pdf"
+    },
+    {
+      "id": "samples",
+      "sha256": "cf224d8016b7eb335a559b0ea74d0429080575fced0f4f65d9fc20e900895885",
+      "pages": 47,
+      "bytes": 2071431,
+      "authority": "user-provided reference; not verified official exam bank",
+      "name": "雅思口语题库带答案-2026年9-12月.pdf",
+      "url": "speaking-personal-reference/samples.pdf"
+    }
+  ],
+  "questions": [
+    {
+      "id": "sp-personal-ba1ed8cc568bf217",
+      "part": 1,
+      "topic": "工作 · Work",
+      "prompt": "Where do you work?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          6
+        ]
+      },
+      "referencePage": null,
+      "methodPage": 49
+    },
+    {
+      "id": "sp-personal-5946d5f7686bc632",
+      "part": 1,
+      "topic": "工作 · Work",
+      "prompt": "How do you usually spend your day at work?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          6
+        ]
+      },
+      "referencePage": null,
+      "methodPage": 49
+    },
+    {
+      "id": "sp-personal-c161c65500a98e38",
+      "part": 1,
+      "topic": "工作 · Work",
+      "prompt": "Do you think you will continue to do this job in the future?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          6
+        ]
+      },
+      "referencePage": null,
+      "methodPage": 49
+    },
+    {
+      "id": "sp-personal-d93c67ad274ab305",
+      "part": 1,
+      "topic": "工作 · Work",
+      "prompt": "What is the best thing about your job?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          6
+        ]
+      },
+      "referencePage": null,
+      "methodPage": 49
+    },
+    {
+      "id": "sp-personal-6e1936f4d15b8152",
+      "part": 1,
+      "topic": "工作 · Work",
+      "prompt": "Is there anything you don't like about your job?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          6
+        ]
+      },
+      "referencePage": null,
+      "methodPage": 49
+    },
+    {
+      "id": "sp-personal-6a7bdc66c46b2f69",
+      "part": 1,
+      "topic": "工作 · Work",
+      "prompt": "Have you found anything interesting at work recently?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          6
+        ]
+      },
+      "referencePage": null,
+      "methodPage": 49
+    },
+    {
+      "id": "sp-personal-49b368090bcaddc2",
+      "part": 1,
+      "topic": "学习 · Study",
+      "prompt": "What subject are you studying?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          6
+        ]
+      },
+      "referencePage": null,
+      "methodPage": 13
+    },
+    {
+      "id": "sp-personal-40c190af5dc0bb3a",
+      "part": 1,
+      "topic": "学习 · Study",
+      "prompt": "Where do you study?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          6
+        ]
+      },
+      "referencePage": null,
+      "methodPage": 13
+    },
+    {
+      "id": "sp-personal-52974dc5038f1b8d",
+      "part": 1,
+      "topic": "学习 · Study",
+      "prompt": "How do you usually spend your day when you're studying?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          6
+        ]
+      },
+      "referencePage": null,
+      "methodPage": 13
+    },
+    {
+      "id": "sp-personal-ae795b36396700bf",
+      "part": 1,
+      "topic": "学习 · Study",
+      "prompt": "Have you learned anything interesting in your studies recently?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          6
+        ]
+      },
+      "referencePage": null,
+      "methodPage": 13
+    },
+    {
+      "id": "sp-personal-a2c77b1b2a695f01",
+      "part": 1,
+      "topic": "学习 · Study",
+      "prompt": "What kinds of things you don't like about your study?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          6
+        ]
+      },
+      "referencePage": null,
+      "methodPage": 13
+    },
+    {
+      "id": "sp-personal-7469de6ab1adc5f4",
+      "part": 1,
+      "topic": "学习 · Study",
+      "prompt": "What is the most interesting part of your major?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          6
+        ]
+      },
+      "referencePage": null,
+      "methodPage": 13
+    },
+    {
+      "id": "sp-personal-93ccb0520fa0fdaf",
+      "part": 1,
+      "topic": "学习 · Study",
+      "prompt": "How do you think you will use this subject in the future?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          6
+        ]
+      },
+      "referencePage": null,
+      "methodPage": 13
+    },
+    {
+      "id": "sp-personal-128a000cb091627f",
+      "part": 1,
+      "topic": "住处 · Accommodation",
+      "prompt": "Where do you live now?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          6
+        ]
+      },
+      "referencePage": null,
+      "methodPage": 49
+    },
+    {
+      "id": "sp-personal-3f25f9118d99552a",
+      "part": 1,
+      "topic": "住处 · Accommodation",
+      "prompt": "Do you live in an apartment or somewhere else?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          6
+        ]
+      },
+      "referencePage": null,
+      "methodPage": 49
+    },
+    {
+      "id": "sp-personal-1a3cc86226c7c952",
+      "part": 1,
+      "topic": "住处 · Accommodation",
+      "prompt": "If you could change one part of your house or apartment, what would it be?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          6
+        ]
+      },
+      "referencePage": null,
+      "methodPage": 49
+    },
+    {
+      "id": "sp-personal-1c7aa183733607a2",
+      "part": 1,
+      "topic": "住处 · Accommodation",
+      "prompt": "What do you like about this house or apartment?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          6
+        ]
+      },
+      "referencePage": null,
+      "methodPage": 49
+    },
+    {
+      "id": "sp-personal-606a85473a19bdeb",
+      "part": 1,
+      "topic": "住处 · Accommodation",
+      "prompt": "Do you know many people in the area where you live?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          6
+        ]
+      },
+      "referencePage": null,
+      "methodPage": 49
+    },
+    {
+      "id": "sp-personal-496cb2f6e57e3173",
+      "part": 1,
+      "topic": "居住地区 · Area you live",
+      "prompt": "Have you lived in this area for a long time?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          6
+        ]
+      },
+      "referencePage": null,
+      "methodPage": 34
+    },
+    {
+      "id": "sp-personal-f66f628a9cebff60",
+      "part": 1,
+      "topic": "居住地区 · Area you live",
+      "prompt": "Is your area now busy or quiet?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          6
+        ]
+      },
+      "referencePage": null,
+      "methodPage": 34
+    },
+    {
+      "id": "sp-personal-9e0201db57d44c3d",
+      "part": 1,
+      "topic": "居住地区 · Area you live",
+      "prompt": "What do you like about your city?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          6
+        ]
+      },
+      "referencePage": null,
+      "methodPage": 34
+    },
+    {
+      "id": "sp-personal-309edda7abee6179",
+      "part": 1,
+      "topic": "居住地区 · Area you live",
+      "prompt": "Is that a big city or a small place?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          6
+        ]
+      },
+      "referencePage": null,
+      "methodPage": 34
+    },
+    {
+      "id": "sp-personal-40b02731baa0f80a",
+      "part": 1,
+      "topic": "居住地区 · Area you live",
+      "prompt": "Where is your city?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          6
+        ]
+      },
+      "referencePage": null,
+      "methodPage": 34
+    },
+    {
+      "id": "sp-personal-11305911512b65b4",
+      "part": 1,
+      "topic": "广告 · Advertisements",
+      "prompt": "Do you usually see advertisements on television?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          7
+        ]
+      },
+      "referencePage": null,
+      "methodPage": 49
+    },
+    {
+      "id": "sp-personal-3ee82e3f37ccd98d",
+      "part": 1,
+      "topic": "广告 · Advertisements",
+      "prompt": "Do you have any favourite adverts that you really like?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          7
+        ]
+      },
+      "referencePage": null,
+      "methodPage": 49
+    },
+    {
+      "id": "sp-personal-5c9a2e5b521a612e",
+      "part": 1,
+      "topic": "广告 · Advertisements",
+      "prompt": "Are there any adverts that you don't like?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          7
+        ]
+      },
+      "referencePage": null,
+      "methodPage": 49
+    },
+    {
+      "id": "sp-personal-36875d62fef13df5",
+      "part": 1,
+      "topic": "广告 · Advertisements",
+      "prompt": "Have you ever bought something because you saw an advertisement for it?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          7
+        ]
+      },
+      "referencePage": null,
+      "methodPage": 49
+    },
+    {
+      "id": "sp-personal-4545faa972339aa7",
+      "part": 1,
+      "topic": "名字 · Names",
+      "prompt": "Do you find it easy to remember people's names?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          7
+        ]
+      },
+      "referencePage": null,
+      "methodPage": 49
+    },
+    {
+      "id": "sp-personal-08229a167552ddf0",
+      "part": 1,
+      "topic": "名字 · Names",
+      "prompt": "How do you usually remember people's names?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          7
+        ]
+      },
+      "referencePage": null,
+      "methodPage": 49
+    },
+    {
+      "id": "sp-personal-cb82acfa827aca5e",
+      "part": 1,
+      "topic": "名字 · Names",
+      "prompt": "Have you ever got into any trouble because you couldn't remember someone's name?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          7
+        ]
+      },
+      "referencePage": null,
+      "methodPage": 49
+    },
+    {
+      "id": "sp-personal-9e3288ae6117da48",
+      "part": 1,
+      "topic": "名字 · Names",
+      "prompt": "How do you feel when people can't remember your name?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          7
+        ]
+      },
+      "referencePage": null,
+      "methodPage": 49
+    },
+    {
+      "id": "sp-personal-5b1308cb4bae473a",
+      "part": 1,
+      "topic": "名字 · Names",
+      "prompt": "Is it important to remember people's names?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          7
+        ]
+      },
+      "referencePage": null,
+      "methodPage": 49
+    },
+    {
+      "id": "sp-personal-6cc80285717f4c2c",
+      "part": 1,
+      "topic": "机会 · Opportunities",
+      "prompt": "What would you do if you had more opportunities?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          7
+        ]
+      },
+      "referencePage": null,
+      "methodPage": 49
+    },
+    {
+      "id": "sp-personal-7ecac8e00fe68a56",
+      "part": 1,
+      "topic": "机会 · Opportunities",
+      "prompt": "How can you get more opportunities?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          7
+        ]
+      },
+      "referencePage": null,
+      "methodPage": 49
+    },
+    {
+      "id": "sp-personal-e63c6725ab8244cd",
+      "part": 1,
+      "topic": "机会 · Opportunities",
+      "prompt": "Is it important to seize opportunities when they come?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          7
+        ]
+      },
+      "referencePage": null,
+      "methodPage": 49
+    },
+    {
+      "id": "sp-personal-a4e69ffdd7950c4b",
+      "part": 1,
+      "topic": "机会 · Opportunities",
+      "prompt": "Would you like to have more opportunities in the future? Why?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          7
+        ]
+      },
+      "referencePage": null,
+      "methodPage": 49
+    },
+    {
+      "id": "sp-personal-6c3c8d5eace7621c",
+      "part": 1,
+      "topic": "机会 · Opportunities",
+      "prompt": "Do you have many opportunities in life?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          7
+        ]
+      },
+      "referencePage": null,
+      "methodPage": 49
+    },
+    {
+      "id": "sp-personal-fc7b9601e803f4d1",
+      "part": 1,
+      "topic": "纸张 · Paper",
+      "prompt": "Did you make things out of paper when you were a child?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          7
+        ]
+      },
+      "referencePage": null,
+      "methodPage": 49
+    },
+    {
+      "id": "sp-personal-e579c17ef116ca0b",
+      "part": 1,
+      "topic": "纸张 · Paper",
+      "prompt": "Do you carry paper and pens with you when you go out?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          7
+        ]
+      },
+      "referencePage": null,
+      "methodPage": 49
+    },
+    {
+      "id": "sp-personal-33e6fdb2ea21bdfe",
+      "part": 1,
+      "topic": "纸张 · Paper",
+      "prompt": "Have you written paper letters to others?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          7
+        ]
+      },
+      "referencePage": null,
+      "methodPage": 49
+    },
+    {
+      "id": "sp-personal-356bf10fefb771d6",
+      "part": 1,
+      "topic": "纸张 · Paper",
+      "prompt": "Do you still write paper letters?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          7
+        ]
+      },
+      "referencePage": null,
+      "methodPage": 49
+    },
+    {
+      "id": "sp-personal-216649d0ac576a51",
+      "part": 1,
+      "topic": "礼貌 · Politeness",
+      "prompt": "Did you learn to be polite when you were a child?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          7
+        ]
+      },
+      "referencePage": null,
+      "methodPage": 49
+    },
+    {
+      "id": "sp-personal-c724fdcdcdd4b163",
+      "part": 1,
+      "topic": "礼貌 · Politeness",
+      "prompt": "When do you think people need to be polite?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          7
+        ]
+      },
+      "referencePage": null,
+      "methodPage": 49
+    },
+    {
+      "id": "sp-personal-01860b1ec414b87e",
+      "part": 1,
+      "topic": "礼貌 · Politeness",
+      "prompt": "Have you met anyone who was very polite recently?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          7
+        ]
+      },
+      "referencePage": null,
+      "methodPage": 49
+    },
+    {
+      "id": "sp-personal-706ab4e1c3d5582e",
+      "part": 1,
+      "topic": "礼貌 · Politeness",
+      "prompt": "Is it important to be polite?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          7
+        ]
+      },
+      "referencePage": null,
+      "methodPage": 49
+    },
+    {
+      "id": "sp-personal-f9117b070abef7e8",
+      "part": 1,
+      "topic": "礼貌 · Politeness",
+      "prompt": "Do you have any friends who are not very polite?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          7
+        ]
+      },
+      "referencePage": null,
+      "methodPage": 49
+    },
+    {
+      "id": "sp-personal-a9058191103203da",
+      "part": 1,
+      "topic": "中学 · Secondary school",
+      "prompt": "Do you remember the first day in secondary school?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          8
+        ]
+      },
+      "referencePage": null,
+      "methodPage": 49
+    },
+    {
+      "id": "sp-personal-9b351cd75e148eba",
+      "part": 1,
+      "topic": "中学 · Secondary school",
+      "prompt": "What was the happiest thing for you in secondary school?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          8
+        ]
+      },
+      "referencePage": null,
+      "methodPage": 49
+    },
+    {
+      "id": "sp-personal-ec47fd0dbbafb15a",
+      "part": 1,
+      "topic": "中学 · Secondary school",
+      "prompt": "What's your favourite subject at secondary school?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          8
+        ]
+      },
+      "referencePage": null,
+      "methodPage": 49
+    },
+    {
+      "id": "sp-personal-9a849341b00d9f41",
+      "part": 1,
+      "topic": "中学 · Secondary school",
+      "prompt": "What subject do you dislike most in secondary school?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          8
+        ]
+      },
+      "referencePage": null,
+      "methodPage": 49
+    },
+    {
+      "id": "sp-personal-7f4ac4d6baa8cc96",
+      "part": 1,
+      "topic": "中学 · Secondary school",
+      "prompt": "Is there anything you miss about your secondary school?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          8
+        ]
+      },
+      "referencePage": null,
+      "methodPage": 49
+    },
+    {
+      "id": "sp-personal-cf9da29e75ddb32a",
+      "part": 1,
+      "topic": "鞋子 · Shoes",
+      "prompt": "Do you like to buy shoes?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          8
+        ]
+      },
+      "referencePage": null,
+      "methodPage": 49
+    },
+    {
+      "id": "sp-personal-0d0a55129d59e1a4",
+      "part": 1,
+      "topic": "鞋子 · Shoes",
+      "prompt": "Have you ever bought shoes online?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          8
+        ]
+      },
+      "referencePage": null,
+      "methodPage": 49
+    },
+    {
+      "id": "sp-personal-9ccf544325596188",
+      "part": 1,
+      "topic": "鞋子 · Shoes",
+      "prompt": "Do you spend a lot of money on shoes?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          8
+        ]
+      },
+      "referencePage": null,
+      "methodPage": 49
+    },
+    {
+      "id": "sp-personal-1f417f6b81e8bb99",
+      "part": 1,
+      "topic": "鞋子 · Shoes",
+      "prompt": "Do you prefer comfortable shoes or fashionable shoes?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          8
+        ]
+      },
+      "referencePage": null,
+      "methodPage": 49
+    },
+    {
+      "id": "sp-personal-084c14703d5a8388",
+      "part": 1,
+      "topic": "鞋子 · Shoes",
+      "prompt": "Would you choose to wear sneakers when you are not exercising?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          8
+        ]
+      },
+      "referencePage": null,
+      "methodPage": 49
+    },
+    {
+      "id": "sp-personal-9fd06013f9147ed8",
+      "part": 1,
+      "topic": "疲倦 · Tiredness",
+      "prompt": "Do you hang out with your friends when you are tired?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          8
+        ]
+      },
+      "referencePage": null,
+      "methodPage": 49
+    },
+    {
+      "id": "sp-personal-537837c1b6b910f0",
+      "part": 1,
+      "topic": "疲倦 · Tiredness",
+      "prompt": "What do you do to stop yourself feeling tired?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          8
+        ]
+      },
+      "referencePage": null,
+      "methodPage": 49
+    },
+    {
+      "id": "sp-personal-0d71fc2a05e4435b",
+      "part": 1,
+      "topic": "疲倦 · Tiredness",
+      "prompt": "When do you usually feel tired?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          8
+        ]
+      },
+      "referencePage": null,
+      "methodPage": 49
+    },
+    {
+      "id": "sp-personal-2b61eec11bdac138",
+      "part": 1,
+      "topic": "垃圾与回收 · Rubbish and recycling",
+      "prompt": "Do you recycle rubbish, like paper and plastic?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          8
+        ]
+      },
+      "referencePage": null,
+      "methodPage": 49
+    },
+    {
+      "id": "sp-personal-207ba4ee3a4cb33d",
+      "part": 1,
+      "topic": "垃圾与回收 · Rubbish and recycling",
+      "prompt": "Do people in your city recycle rubbish?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          8
+        ]
+      },
+      "referencePage": null,
+      "methodPage": 49
+    },
+    {
+      "id": "sp-personal-fbc52ded7ac12e5f",
+      "part": 1,
+      "topic": "垃圾与回收 · Rubbish and recycling",
+      "prompt": "How is rubbish recycled in your city?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          8
+        ]
+      },
+      "referencePage": null,
+      "methodPage": 49
+    },
+    {
+      "id": "sp-personal-a4380afd0e1bbc7e",
+      "part": 1,
+      "topic": "垃圾与回收 · Rubbish and recycling",
+      "prompt": "Do you often see rubbish on the road?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          8
+        ]
+      },
+      "referencePage": null,
+      "methodPage": 49
+    },
+    {
+      "id": "sp-personal-855c978822e87b58",
+      "part": 1,
+      "topic": "垃圾与回收 · Rubbish and recycling",
+      "prompt": "What do you do when you see rubbish on the street?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          8
+        ]
+      },
+      "referencePage": null,
+      "methodPage": 49
+    },
+    {
+      "id": "sp-personal-65081cf3f09ab067",
+      "part": 1,
+      "topic": "垃圾与回收 · Rubbish and recycling",
+      "prompt": "Did you recycle when you were a child?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          8
+        ]
+      },
+      "referencePage": null,
+      "methodPage": 49
+    },
+    {
+      "id": "sp-personal-a1f2c69658efdbe1",
+      "part": 1,
+      "topic": "蔬菜 · Vegetables",
+      "prompt": "Do you like eating fruit and vegetables? How often?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          8
+        ]
+      },
+      "referencePage": null,
+      "methodPage": 49
+    },
+    {
+      "id": "sp-personal-e80d74c6015b6fd3",
+      "part": 1,
+      "topic": "蔬菜 · Vegetables",
+      "prompt": "Were there any vegetables you disliked when you were young?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          8
+        ]
+      },
+      "referencePage": null,
+      "methodPage": 49
+    },
+    {
+      "id": "sp-personal-c69c1f27e4be9d20",
+      "part": 1,
+      "topic": "蔬菜 · Vegetables",
+      "prompt": "Where do you usually buy vegetables?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          8
+        ]
+      },
+      "referencePage": null,
+      "methodPage": 49
+    },
+    {
+      "id": "sp-personal-34a1205e32649031",
+      "part": 1,
+      "topic": "蔬菜 · Vegetables",
+      "prompt": "Do people around you grow their own vegetables?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          8
+        ]
+      },
+      "referencePage": null,
+      "methodPage": 49
+    },
+    {
+      "id": "sp-personal-f1d31382cd23486d",
+      "part": 1,
+      "topic": "蔬菜 · Vegetables",
+      "prompt": "Where do people usually buy vegetables?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          8
+        ]
+      },
+      "referencePage": null,
+      "methodPage": 49
+    },
+    {
+      "id": "sp-personal-9193a94798b56e3d",
+      "part": 1,
+      "topic": "汽车 · Cars",
+      "prompt": "Do you prefer to drive a car or to be a passenger?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          8
+        ]
+      },
+      "referencePage": 21,
+      "methodPage": 49
+    },
+    {
+      "id": "sp-personal-3d6cb0fc087d1bf6",
+      "part": 1,
+      "topic": "汽车 · Cars",
+      "prompt": "Did you go on any long car journeys when you were a child?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          9
+        ]
+      },
+      "referencePage": 21,
+      "methodPage": 49
+    },
+    {
+      "id": "sp-personal-af469e210bd29fa4",
+      "part": 1,
+      "topic": "汽车 · Cars",
+      "prompt": "Do you think there are too many cars in the area you live in?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          9
+        ]
+      },
+      "referencePage": 21,
+      "methodPage": 49
+    },
+    {
+      "id": "sp-personal-2f1f1a266ed8c13e",
+      "part": 1,
+      "topic": "汽车 · Cars",
+      "prompt": "Do you want to own a very expensive car in the future?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          9
+        ]
+      },
+      "referencePage": 21,
+      "methodPage": 49
+    },
+    {
+      "id": "sp-personal-ebb791edd3c99e36",
+      "part": 1,
+      "topic": "衣服 · Clothes",
+      "prompt": "What kind of clothes do you often like to wear?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          9
+        ]
+      },
+      "referencePage": 23,
+      "methodPage": 49
+    },
+    {
+      "id": "sp-personal-19a9736f06283dd7",
+      "part": 1,
+      "topic": "衣服 · Clothes",
+      "prompt": "Do you wear different clothes at the weekend than on weekdays?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          9
+        ]
+      },
+      "referencePage": 23,
+      "methodPage": 49
+    },
+    {
+      "id": "sp-personal-e8ee6463f42f39e4",
+      "part": 1,
+      "topic": "衣服 · Clothes",
+      "prompt": "Are there any colours you don't like to wear?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          9
+        ]
+      },
+      "referencePage": 23,
+      "methodPage": 49
+    },
+    {
+      "id": "sp-personal-e50bf6d2f9c19dd2",
+      "part": 1,
+      "topic": "衣服 · Clothes",
+      "prompt": "Would you ever buy clothes just because of the brand name?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          9
+        ]
+      },
+      "referencePage": 23,
+      "methodPage": 49
+    },
+    {
+      "id": "sp-personal-4d8c5959e4ad825c",
+      "part": 1,
+      "topic": "耳机 · Headphone",
+      "prompt": "How often do you wear headphones?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          9
+        ]
+      },
+      "referencePage": 18,
+      "methodPage": 49
+    },
+    {
+      "id": "sp-personal-3f6dc2207518d96c",
+      "part": 1,
+      "topic": "耳机 · Headphone",
+      "prompt": "Do you think headphones are useful?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          9
+        ]
+      },
+      "referencePage": 18,
+      "methodPage": 49
+    },
+    {
+      "id": "sp-personal-64e7f909cf7ac2b7",
+      "part": 1,
+      "topic": "耳机 · Headphone",
+      "prompt": "Do you find headphones comfortable to wear?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          9
+        ]
+      },
+      "referencePage": 18,
+      "methodPage": 49
+    },
+    {
+      "id": "sp-personal-0f76012a68aaf034",
+      "part": 1,
+      "topic": "耳机 · Headphone",
+      "prompt": "How popular is it to wear headphones in your country?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          9
+        ]
+      },
+      "referencePage": 18,
+      "methodPage": 49
+    },
+    {
+      "id": "sp-personal-e00a9bf0ea22ad08",
+      "part": 1,
+      "topic": "耳机 · Headphone",
+      "prompt": "In what situations should people not wear headphones?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          9
+        ]
+      },
+      "referencePage": 18,
+      "methodPage": 49
+    },
+    {
+      "id": "sp-personal-6baa37e6c6fcaa70",
+      "part": 1,
+      "topic": "音乐 · Music",
+      "prompt": "Do you like listening to music?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          9
+        ]
+      },
+      "referencePage": 14,
+      "methodPage": 49
+    },
+    {
+      "id": "sp-personal-c6d3b966f62503c3",
+      "part": 1,
+      "topic": "音乐 · Music",
+      "prompt": "What kinds of music do you listen to?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          9
+        ]
+      },
+      "referencePage": 14,
+      "methodPage": 49
+    },
+    {
+      "id": "sp-personal-40cec8de582242ab",
+      "part": 1,
+      "topic": "音乐 · Music",
+      "prompt": "Where do you usually listen to music?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          9
+        ]
+      },
+      "referencePage": 14,
+      "methodPage": 49
+    },
+    {
+      "id": "sp-personal-a71713a8af289b2f",
+      "part": 1,
+      "topic": "音乐 · Music",
+      "prompt": "When don't you like to listen to music?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          9
+        ]
+      },
+      "referencePage": 14,
+      "methodPage": 49
+    },
+    {
+      "id": "sp-personal-1111bcdc910cf107",
+      "part": 1,
+      "topic": "音乐 · Music",
+      "prompt": "Can listening to music change people's emotions?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          9
+        ]
+      },
+      "referencePage": 14,
+      "methodPage": 49
+    },
+    {
+      "id": "sp-personal-779cdf951cca8d51",
+      "part": 1,
+      "topic": "音乐 · Music",
+      "prompt": "What do you usually use to listen to music?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          9
+        ]
+      },
+      "referencePage": 14,
+      "methodPage": 49
+    },
+    {
+      "id": "sp-personal-f07e48ea065bef5e",
+      "part": 1,
+      "topic": "早晨习惯 · Morning Routine",
+      "prompt": "Do you get up early in the morning?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          9
+        ]
+      },
+      "referencePage": null,
+      "methodPage": 49
+    },
+    {
+      "id": "sp-personal-4d15e647a36b8aa8",
+      "part": 1,
+      "topic": "早晨习惯 · Morning Routine",
+      "prompt": "Did you get up early in the morning when you were younger?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          9
+        ]
+      },
+      "referencePage": null,
+      "methodPage": 49
+    },
+    {
+      "id": "sp-personal-363ad8beea1cac4b",
+      "part": 1,
+      "topic": "早晨习惯 · Morning Routine",
+      "prompt": "What do you do every morning?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          9
+        ]
+      },
+      "referencePage": null,
+      "methodPage": 49
+    },
+    {
+      "id": "sp-personal-c36c6737bbaa158f",
+      "part": 1,
+      "topic": "早晨习惯 · Morning Routine",
+      "prompt": "What's your favourite morning of the week?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          9
+        ]
+      },
+      "referencePage": null,
+      "methodPage": 49
+    },
+    {
+      "id": "sp-personal-e81a7b0a304e78a9",
+      "part": 1,
+      "topic": "早晨习惯 · Morning Routine",
+      "prompt": "Do you get up early if you feel tired?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          9
+        ]
+      },
+      "referencePage": null,
+      "methodPage": 49
+    },
+    {
+      "id": "sp-personal-6de185904bacd8e4",
+      "part": 1,
+      "topic": "公园与花园 · Parks and Gardens",
+      "prompt": "Is there a famous park or garden that you want to visit in the future?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          9
+        ]
+      },
+      "referencePage": 10,
+      "methodPage": 49
+    },
+    {
+      "id": "sp-personal-1d088582860685af",
+      "part": 1,
+      "topic": "公园与花园 · Parks and Gardens",
+      "prompt": "Do you think there should be more parks and gardens in the area where you live?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          9
+        ]
+      },
+      "referencePage": 10,
+      "methodPage": 49
+    },
+    {
+      "id": "sp-personal-9afd226428d82ada",
+      "part": 1,
+      "topic": "公园与花园 · Parks and Gardens",
+      "prompt": "Do you enjoy visiting parks and gardens now?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          9
+        ]
+      },
+      "referencePage": 10,
+      "methodPage": 49
+    },
+    {
+      "id": "sp-personal-6030316c455617a0",
+      "part": 1,
+      "topic": "公园与花园 · Parks and Gardens",
+      "prompt": "Was there a park or garden you liked to play in when you were a child?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          10
+        ]
+      },
+      "referencePage": 10,
+      "methodPage": 49
+    },
+    {
+      "id": "sp-personal-1d11faec85929cd8",
+      "part": 1,
+      "topic": "社交媒体 · Social media",
+      "prompt": "When did you start using social media?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          10
+        ]
+      },
+      "referencePage": 17,
+      "methodPage": 49
+    },
+    {
+      "id": "sp-personal-8d41b663fc4ca34e",
+      "part": 1,
+      "topic": "社交媒体 · Social media",
+      "prompt": "Have your friends ever recommended an app to you?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          10
+        ]
+      },
+      "referencePage": 17,
+      "methodPage": 49
+    },
+    {
+      "id": "sp-personal-ad0d2a2aa67c9029",
+      "part": 1,
+      "topic": "社交媒体 · Social media",
+      "prompt": "If you had more free time, would you spend it on social media?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          10
+        ]
+      },
+      "referencePage": 17,
+      "methodPage": 49
+    },
+    {
+      "id": "sp-personal-8b74f067d1beedca",
+      "part": 1,
+      "topic": "社交媒体 · Social media",
+      "prompt": "What kind of content do you dislike seeing on social media?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          10
+        ]
+      },
+      "referencePage": 17,
+      "methodPage": 49
+    },
+    {
+      "id": "sp-personal-aabc2e01a017db0d",
+      "part": 1,
+      "topic": "唱歌 · Singing",
+      "prompt": "Did you like singing when you were a child?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          10
+        ]
+      },
+      "referencePage": 5,
+      "methodPage": 49
+    },
+    {
+      "id": "sp-personal-c0da27c93e37d52c",
+      "part": 1,
+      "topic": "唱歌 · Singing",
+      "prompt": "Do you like singing now?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          10
+        ]
+      },
+      "referencePage": 5,
+      "methodPage": 49
+    },
+    {
+      "id": "sp-personal-47de763092faaffe",
+      "part": 1,
+      "topic": "唱歌 · Singing",
+      "prompt": "Do you ever sing while you're doing other things, for example driving in a car?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          10
+        ]
+      },
+      "referencePage": 5,
+      "methodPage": 49
+    },
+    {
+      "id": "sp-personal-655d2f2a4df31e5e",
+      "part": 1,
+      "topic": "唱歌 · Singing",
+      "prompt": "Do you enjoy listening to other people singing?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          10
+        ]
+      },
+      "referencePage": 5,
+      "methodPage": 49
+    },
+    {
+      "id": "sp-personal-ece265fd45874b9a",
+      "part": 1,
+      "topic": "唱歌 · Singing",
+      "prompt": "Did you learn to sing when you were at school?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          10
+        ]
+      },
+      "referencePage": 5,
+      "methodPage": 49
+    },
+    {
+      "id": "sp-personal-2cd73893b0253b2f",
+      "part": 1,
+      "topic": "唱歌 · Singing",
+      "prompt": "Would you like to have singing lessons?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          10
+        ]
+      },
+      "referencePage": 5,
+      "methodPage": 49
+    },
+    {
+      "id": "sp-personal-14454ec6248e7d02",
+      "part": 1,
+      "topic": "科学 · Science",
+      "prompt": "Do you like science?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          10
+        ]
+      },
+      "referencePage": 8,
+      "methodPage": 49
+    },
+    {
+      "id": "sp-personal-0e582c2ad2ae69ed",
+      "part": 1,
+      "topic": "科学 · Science",
+      "prompt": "Do you ever watch TV programs about science?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          10
+        ]
+      },
+      "referencePage": 8,
+      "methodPage": 49
+    },
+    {
+      "id": "sp-personal-e4999ef044441bb0",
+      "part": 1,
+      "topic": "科学 · Science",
+      "prompt": "Did you learn a lot about science at school?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          10
+        ]
+      },
+      "referencePage": 8,
+      "methodPage": 49
+    },
+    {
+      "id": "sp-personal-3dee0018ac1859f6",
+      "part": 1,
+      "topic": "科学 · Science",
+      "prompt": "Are you usually interested in new scientific developments?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          10
+        ]
+      },
+      "referencePage": 8,
+      "methodPage": 49
+    },
+    {
+      "id": "sp-personal-a631eb58d169e2ac",
+      "part": 1,
+      "topic": "科学 · Science",
+      "prompt": "What area of science do you know about?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          10
+        ]
+      },
+      "referencePage": 8,
+      "methodPage": 49
+    },
+    {
+      "id": "sp-personal-7c6197580b29964a",
+      "part": 1,
+      "topic": "科学 · Science",
+      "prompt": "Do you think you could enjoy working as a scientist?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          10
+        ]
+      },
+      "referencePage": 8,
+      "methodPage": 49
+    },
+    {
+      "id": "sp-personal-6fd23b3ff678a198",
+      "part": 1,
+      "topic": "购物 · Shopping",
+      "prompt": "How often do you go shopping?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          10
+        ]
+      },
+      "referencePage": 24,
+      "methodPage": 49
+    },
+    {
+      "id": "sp-personal-69399c745b9c5866",
+      "part": 1,
+      "topic": "购物 · Shopping",
+      "prompt": "Do you prefer shopping online or going to a shop?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          10
+        ]
+      },
+      "referencePage": 24,
+      "methodPage": 49
+    },
+    {
+      "id": "sp-personal-c6af97af8fadcabe",
+      "part": 1,
+      "topic": "购物 · Shopping",
+      "prompt": "Do you like to compare the prices in different shops?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          10
+        ]
+      },
+      "referencePage": 24,
+      "methodPage": 49
+    },
+    {
+      "id": "sp-personal-91aa365ea4af4c5b",
+      "part": 1,
+      "topic": "购物 · Shopping",
+      "prompt": "Have you ever returned something you bought which you weren't satisfied with?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          10
+        ]
+      },
+      "referencePage": 24,
+      "methodPage": 49
+    },
+    {
+      "id": "sp-personal-887ab5684f073cbd",
+      "part": 1,
+      "topic": "太空旅行 · Space travel",
+      "prompt": "Are you interested in space or space travel?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          10
+        ]
+      },
+      "referencePage": 13,
+      "methodPage": 49
+    },
+    {
+      "id": "sp-personal-34b58c0ec38d7614",
+      "part": 1,
+      "topic": "太空旅行 · Space travel",
+      "prompt": "Would you ever think about having a holiday in space in the future?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          10
+        ]
+      },
+      "referencePage": 13,
+      "methodPage": 49
+    },
+    {
+      "id": "sp-personal-538f6e0a4a201ab7",
+      "part": 1,
+      "topic": "太空旅行 · Space travel",
+      "prompt": "Do you enjoy watching movies that are about people travelling in space?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          10
+        ]
+      },
+      "referencePage": 13,
+      "methodPage": 49
+    },
+    {
+      "id": "sp-personal-025eff7ab7dad24d",
+      "part": 1,
+      "topic": "太空旅行 · Space travel",
+      "prompt": "Are you interested in learning about travelling in space?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          10
+        ]
+      },
+      "referencePage": 13,
+      "methodPage": 49
+    },
+    {
+      "id": "sp-personal-0bf4ad90d79a41d1",
+      "part": 1,
+      "topic": "太空旅行 · Space travel",
+      "prompt": "Did you learn about space and the stars at school?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          10
+        ]
+      },
+      "referencePage": 13,
+      "methodPage": 49
+    },
+    {
+      "id": "sp-personal-e7ad14950a2ed4b7",
+      "part": 1,
+      "topic": "老师 · Teachers",
+      "prompt": "Do you have a favourite teacher at school?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          11
+        ]
+      },
+      "referencePage": 16,
+      "methodPage": 49
+    },
+    {
+      "id": "sp-personal-ae784827e656dc62",
+      "part": 1,
+      "topic": "老师 · Teachers",
+      "prompt": "Which teacher do you prefer, your teachers from primary school or from high school?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          11
+        ]
+      },
+      "referencePage": 16,
+      "methodPage": 49
+    },
+    {
+      "id": "sp-personal-6a8a0bae2d72d2ff",
+      "part": 1,
+      "topic": "老师 · Teachers",
+      "prompt": "Are you still in contact with your former teachers?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          11
+        ]
+      },
+      "referencePage": 16,
+      "methodPage": 49
+    },
+    {
+      "id": "sp-personal-13546ab9f4b26d0a",
+      "part": 1,
+      "topic": "老师 · Teachers",
+      "prompt": "Do you think being a teacher is a good job?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          11
+        ]
+      },
+      "referencePage": 16,
+      "methodPage": 49
+    },
+    {
+      "id": "sp-personal-29a6a6f1cd8448da",
+      "part": 1,
+      "topic": "笑话 · Telling Jokes",
+      "prompt": "Are you good at telling jokes?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          11
+        ]
+      },
+      "referencePage": 20,
+      "methodPage": 49
+    },
+    {
+      "id": "sp-personal-50dfedfe42d92f66",
+      "part": 1,
+      "topic": "笑话 · Telling Jokes",
+      "prompt": "Do you like your friends tell you jokes?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          11
+        ]
+      },
+      "referencePage": 20,
+      "methodPage": 49
+    },
+    {
+      "id": "sp-personal-d6b7955f7df2cc88",
+      "part": 1,
+      "topic": "笑话 · Telling Jokes",
+      "prompt": "Do you like being joked about?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          11
+        ]
+      },
+      "referencePage": 20,
+      "methodPage": 49
+    },
+    {
+      "id": "sp-personal-c652f428329ae9de",
+      "part": 1,
+      "topic": "笑话 · Telling Jokes",
+      "prompt": "How popular are comedy shows in your country?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          11
+        ]
+      },
+      "referencePage": 20,
+      "methodPage": 49
+    },
+    {
+      "id": "sp-personal-d73c101d879a73ce",
+      "part": 1,
+      "topic": "笑话 · Telling Jokes",
+      "prompt": "Would you ever go to see a live comedy show?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          11
+        ]
+      },
+      "referencePage": 20,
+      "methodPage": 49
+    },
+    {
+      "id": "sp-personal-8e4e30ef9314ade5",
+      "part": 1,
+      "topic": "整洁 · Tidiness",
+      "prompt": "Did you keep your room tidy when you were a child?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          11
+        ]
+      },
+      "referencePage": 6,
+      "methodPage": 49
+    },
+    {
+      "id": "sp-personal-961efe20cba58071",
+      "part": 1,
+      "topic": "整洁 · Tidiness",
+      "prompt": "Are you a tidy person now?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          11
+        ]
+      },
+      "referencePage": 6,
+      "methodPage": 49
+    },
+    {
+      "id": "sp-personal-72dbf26f9549769b",
+      "part": 1,
+      "topic": "整洁 · Tidiness",
+      "prompt": "Do you keep your workspace tidy when you're working or studying?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          11
+        ]
+      },
+      "referencePage": 6,
+      "methodPage": 49
+    },
+    {
+      "id": "sp-personal-8d0888986f830f9c",
+      "part": 1,
+      "topic": "整洁 · Tidiness",
+      "prompt": "How do you feel if other people are not tidy?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          11
+        ]
+      },
+      "referencePage": 6,
+      "methodPage": 49
+    },
+    {
+      "id": "sp-personal-61eeaea5cc3fda5d",
+      "part": 1,
+      "topic": "整洁 · Tidiness",
+      "prompt": "What do you think of those who are overly concerned about tidiness?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          11
+        ]
+      },
+      "referencePage": 6,
+      "methodPage": 49
+    },
+    {
+      "id": "sp-personal-50c2961173ecc5e1",
+      "part": 1,
+      "topic": "整洁 · Tidiness",
+      "prompt": "Do you think it's possible for people to be too tidy?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          11
+        ]
+      },
+      "referencePage": 6,
+      "methodPage": 49
+    },
+    {
+      "id": "sp-personal-bbc2ca6e74b0e17c",
+      "part": 1,
+      "topic": "网站 · Website",
+      "prompt": "Do you usually use websites?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          11
+        ]
+      },
+      "referencePage": 11,
+      "methodPage": 49
+    },
+    {
+      "id": "sp-personal-df2f66f500439374",
+      "part": 1,
+      "topic": "网站 · Website",
+      "prompt": "Is there a website that you use a lot in your free time?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          11
+        ]
+      },
+      "referencePage": 11,
+      "methodPage": 49
+    },
+    {
+      "id": "sp-personal-00635fa57e291fcb",
+      "part": 1,
+      "topic": "网站 · Website",
+      "prompt": "Do you prefer to search for information through websites or books?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          11
+        ]
+      },
+      "referencePage": 11,
+      "methodPage": 49
+    },
+    {
+      "id": "sp-personal-8ebc53778744361f",
+      "part": 1,
+      "topic": "网站 · Website",
+      "prompt": "How have websites helped you in your work or studies?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          11
+        ]
+      },
+      "referencePage": 11,
+      "methodPage": 49
+    },
+    {
+      "id": "sp-personal-ea7ca51c8cf9a914",
+      "part": 1,
+      "topic": "网站 · Website",
+      "prompt": "Would you like to have your own website?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          11
+        ]
+      },
+      "referencePage": 11,
+      "methodPage": 49
+    },
+    {
+      "id": "sp-personal-aaee0ece198c4402",
+      "part": 1,
+      "topic": "手表 · Watch",
+      "prompt": "Do you often wear a watch?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          11
+        ]
+      },
+      "referencePage": 9,
+      "methodPage": 49
+    },
+    {
+      "id": "sp-personal-f0bb0af677436670",
+      "part": 1,
+      "topic": "手表 · Watch",
+      "prompt": "What kind of watch do you have?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          11
+        ]
+      },
+      "referencePage": 9,
+      "methodPage": 49
+    },
+    {
+      "id": "sp-personal-87cb195e505cc8cb",
+      "part": 1,
+      "topic": "手表 · Watch",
+      "prompt": "Has anyone ever given you a watch as a gift?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          11
+        ]
+      },
+      "referencePage": 9,
+      "methodPage": 49
+    },
+    {
+      "id": "sp-personal-a2bbe634ec61e99c",
+      "part": 1,
+      "topic": "手表 · Watch",
+      "prompt": "What kind of watch do the people around you like to wear?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          11
+        ]
+      },
+      "referencePage": 9,
+      "methodPage": 49
+    },
+    {
+      "id": "sp-personal-427eddb2731a6709",
+      "part": 1,
+      "topic": "手表 · Watch",
+      "prompt": "Would you spend a lot of money on a watch?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          11
+        ]
+      },
+      "referencePage": 9,
+      "methodPage": 49
+    },
+    {
+      "id": "sp-personal-548136c4871d406f",
+      "part": 2,
+      "topic": "儿时教你技能的人",
+      "prompt": "Describe a person who taught you a skill when you were young",
+      "source": {
+        "id": "questions",
+        "pages": [
+          13
+        ]
+      },
+      "cuePoints": [
+        "Who the person was",
+        "What have you learned",
+        "Why you learned it",
+        "And explain whether it is easy to learn it"
+      ],
+      "category": "人物题",
+      "referencePage": null
+    },
+    {
+      "id": "sp-personal-655e587dc896aa42",
+      "part": 3,
+      "topic": "儿时教你技能的人",
+      "prompt": "What kinds of skills do you think children should learn before they start school?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          13
+        ]
+      },
+      "related": "sp-personal-548136c4871d406f",
+      "referencePage": null
+    },
+    {
+      "id": "sp-personal-bc027bd739244a7f",
+      "part": 3,
+      "topic": "儿时教你技能的人",
+      "prompt": "What's the best age for children to begin school?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          13
+        ]
+      },
+      "related": "sp-personal-548136c4871d406f",
+      "referencePage": null
+    },
+    {
+      "id": "sp-personal-72ad26c87cb5fd71",
+      "part": 3,
+      "topic": "儿时教你技能的人",
+      "prompt": "Is it better for a child to learn a skill on their own, or with a teacher?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          13
+        ]
+      },
+      "related": "sp-personal-548136c4871d406f",
+      "referencePage": null
+    },
+    {
+      "id": "sp-personal-ba4efec49f39ec43",
+      "part": 3,
+      "topic": "儿时教你技能的人",
+      "prompt": "Do you think the internet is a good way to learn a new skill?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          13
+        ]
+      },
+      "related": "sp-personal-548136c4871d406f",
+      "referencePage": null
+    },
+    {
+      "id": "sp-personal-fc6b9160c8049cf7",
+      "part": 3,
+      "topic": "儿时教你技能的人",
+      "prompt": "What are the advantages and disadvantages of learning a skill from other people?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          13
+        ]
+      },
+      "related": "sp-personal-548136c4871d406f",
+      "referencePage": null
+    },
+    {
+      "id": "sp-personal-4084268c614a9cbf",
+      "part": 3,
+      "topic": "儿时教你技能的人",
+      "prompt": "Do young people learn things faster than older people?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          13
+        ]
+      },
+      "related": "sp-personal-548136c4871d406f",
+      "referencePage": null
+    },
+    {
+      "id": "sp-personal-3f423eb716f13d9e",
+      "part": 2,
+      "topic": "亲手制作特殊物件的人",
+      "prompt": "Describe a person who makes special objects (by hands or a technology)",
+      "source": {
+        "id": "questions",
+        "pages": [
+          13
+        ]
+      },
+      "cuePoints": [
+        "Who this person is",
+        "How you knew this person",
+        "What does this person make",
+        "And explain how you felt about this person"
+      ],
+      "category": "人物题",
+      "referencePage": null
+    },
+    {
+      "id": "sp-personal-df99da995360882b",
+      "part": 3,
+      "topic": "亲手制作特殊物件的人",
+      "prompt": "What kinds of handicrafts do young children usually enjoy making?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          13
+        ]
+      },
+      "related": "sp-personal-3f423eb716f13d9e",
+      "referencePage": null
+    },
+    {
+      "id": "sp-personal-cf3798a34c5b2bf7",
+      "part": 3,
+      "topic": "亲手制作特殊物件的人",
+      "prompt": "Do you think all children should learn about art at school?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          13
+        ]
+      },
+      "related": "sp-personal-3f423eb716f13d9e",
+      "referencePage": null
+    },
+    {
+      "id": "sp-personal-ee7db894543a82cc",
+      "part": 3,
+      "topic": "亲手制作特殊物件的人",
+      "prompt": "Why do some people prefer to stay quiet while making things?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          13
+        ]
+      },
+      "related": "sp-personal-3f423eb716f13d9e",
+      "referencePage": null
+    },
+    {
+      "id": "sp-personal-043b24f9e95c89b5",
+      "part": 3,
+      "topic": "亲手制作特殊物件的人",
+      "prompt": "How does the development of arts and culture affect society? Why?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          13
+        ]
+      },
+      "related": "sp-personal-3f423eb716f13d9e",
+      "referencePage": null
+    },
+    {
+      "id": "sp-personal-0b7abb9f0dadba3c",
+      "part": 2,
+      "topic": "受欢迎的人",
+      "prompt": "Describe a popular person you know.",
+      "source": {
+        "id": "questions",
+        "pages": [
+          13,
+          14
+        ]
+      },
+      "cuePoints": [
+        "How you knew this person",
+        "Where and when you usually see this person",
+        "What type of person he/she is",
+        "And explain why you think this person is very popular."
+      ],
+      "category": "人物题",
+      "referencePage": null
+    },
+    {
+      "id": "sp-personal-3c5e45a7ad302ccb",
+      "part": 3,
+      "topic": "受欢迎的人",
+      "prompt": "What kind of children tend to be popular at school?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          14
+        ]
+      },
+      "related": "sp-personal-0b7abb9f0dadba3c",
+      "referencePage": null
+    },
+    {
+      "id": "sp-personal-686396c326aabaef",
+      "part": 3,
+      "topic": "受欢迎的人",
+      "prompt": "Is it important for children to be popular at school?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          14
+        ]
+      },
+      "related": "sp-personal-0b7abb9f0dadba3c",
+      "referencePage": null
+    },
+    {
+      "id": "sp-personal-f0da89a634eb2d7e",
+      "part": 3,
+      "topic": "受欢迎的人",
+      "prompt": "Should popular children help others who are less popular?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          14
+        ]
+      },
+      "related": "sp-personal-0b7abb9f0dadba3c",
+      "referencePage": null
+    },
+    {
+      "id": "sp-personal-348038157c71b7a9",
+      "part": 3,
+      "topic": "受欢迎的人",
+      "prompt": "Do you agree that unpopular children are more likely to succeed later in life?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          14
+        ]
+      },
+      "related": "sp-personal-0b7abb9f0dadba3c",
+      "referencePage": null
+    },
+    {
+      "id": "sp-personal-ae93de92cf8f6d61",
+      "part": 3,
+      "topic": "受欢迎的人",
+      "prompt": "Is being popular important in the workplace? What are the advantages and disadvantages?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          14
+        ]
+      },
+      "related": "sp-personal-0b7abb9f0dadba3c",
+      "referencePage": null
+    },
+    {
+      "id": "sp-personal-d10073d4d866e2c7",
+      "part": 3,
+      "topic": "受欢迎的人",
+      "prompt": "Is it a good thing if your boss is popular?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          14
+        ]
+      },
+      "related": "sp-personal-0b7abb9f0dadba3c",
+      "referencePage": null
+    },
+    {
+      "id": "sp-personal-90c3df64666bbc6f",
+      "part": 2,
+      "topic": "开心的人",
+      "prompt": "Describe a person who you think is very happy",
+      "source": {
+        "id": "questions",
+        "pages": [
+          14
+        ]
+      },
+      "cuePoints": [
+        "Who this person is",
+        "What qualities this person has",
+        "Why you think this person is happy",
+        "And explain how you feel about this person."
+      ],
+      "category": "人物题",
+      "referencePage": null
+    },
+    {
+      "id": "sp-personal-aa9b7ac6eecbaf15",
+      "part": 3,
+      "topic": "开心的人",
+      "prompt": "What do people enjoy most about their secondary school years?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          14
+        ]
+      },
+      "related": "sp-personal-90c3df64666bbc6f",
+      "referencePage": null
+    },
+    {
+      "id": "sp-personal-05fb13056bb22dfb",
+      "part": 3,
+      "topic": "开心的人",
+      "prompt": "Can teachers tell when a child is unhappy?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          14
+        ]
+      },
+      "related": "sp-personal-90c3df64666bbc6f",
+      "referencePage": null
+    },
+    {
+      "id": "sp-personal-908e1072d6e1d09e",
+      "part": 3,
+      "topic": "开心的人",
+      "prompt": "Should teachers always know what their students are doing?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          14
+        ]
+      },
+      "related": "sp-personal-90c3df64666bbc6f",
+      "referencePage": null
+    },
+    {
+      "id": "sp-personal-9890a7a429066fa2",
+      "part": 3,
+      "topic": "开心的人",
+      "prompt": "How can the arts help spread positive emotions in society?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          14
+        ]
+      },
+      "related": "sp-personal-90c3df64666bbc6f",
+      "referencePage": null
+    },
+    {
+      "id": "sp-personal-e2a988c2af8fb79d",
+      "part": 2,
+      "topic": "尊敬的年长的人",
+      "prompt": "Describe someone who is older than you that you admire.",
+      "source": {
+        "id": "questions",
+        "pages": [
+          14
+        ]
+      },
+      "cuePoints": [
+        "Who this person is",
+        "How you knew this person",
+        "Why you admire this person",
+        "and explain how you feel about this person"
+      ],
+      "category": "人物题",
+      "referencePage": null
+    },
+    {
+      "id": "sp-personal-17346c0086b60c7e",
+      "part": 3,
+      "topic": "尊敬的年长的人",
+      "prompt": "What can young and old people learn from each other?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          14
+        ]
+      },
+      "related": "sp-personal-e2a988c2af8fb79d",
+      "referencePage": null
+    },
+    {
+      "id": "sp-personal-5edccace98c8bda7",
+      "part": 3,
+      "topic": "尊敬的年长的人",
+      "prompt": "Has old people's quality of life improved compared to the past?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          15
+        ]
+      },
+      "related": "sp-personal-e2a988c2af8fb79d",
+      "referencePage": null
+    },
+    {
+      "id": "sp-personal-e37b66448ca5f9b1",
+      "part": 3,
+      "topic": "尊敬的年长的人",
+      "prompt": "Why is there a generation gap between the young and the old?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          15
+        ]
+      },
+      "related": "sp-personal-e2a988c2af8fb79d",
+      "referencePage": null
+    },
+    {
+      "id": "sp-personal-2512811e2b06f363",
+      "part": 3,
+      "topic": "尊敬的年长的人",
+      "prompt": "What do old people usually do in their daily life?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          15
+        ]
+      },
+      "related": "sp-personal-e2a988c2af8fb79d",
+      "referencePage": null
+    },
+    {
+      "id": "sp-personal-0dc96e926ab48526",
+      "part": 2,
+      "topic": "喜欢拍照的人",
+      "prompt": "Describe a person in your life who really likes taking photos.",
+      "source": {
+        "id": "questions",
+        "pages": [
+          15
+        ]
+      },
+      "cuePoints": [
+        "Who he/she is",
+        "When and where does he/she take photos",
+        "Why you think he/she likes taking photos",
+        "And explain how you felt about him/she"
+      ],
+      "category": "人物题",
+      "referencePage": null
+    },
+    {
+      "id": "sp-personal-b4fdd94a1e49277a",
+      "part": 3,
+      "topic": "喜欢拍照的人",
+      "prompt": "Why are some people keen on taking photos?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          15
+        ]
+      },
+      "related": "sp-personal-0dc96e926ab48526",
+      "referencePage": null
+    },
+    {
+      "id": "sp-personal-5aeb153c0295cbe7",
+      "part": 3,
+      "topic": "喜欢拍照的人",
+      "prompt": "What kind of photos do people often take?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          15
+        ]
+      },
+      "related": "sp-personal-0dc96e926ab48526",
+      "referencePage": null
+    },
+    {
+      "id": "sp-personal-3b07b07f3ce5813f",
+      "part": 3,
+      "topic": "喜欢拍照的人",
+      "prompt": "Do you think it's OK to take photos everywhere?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          15
+        ]
+      },
+      "related": "sp-personal-0dc96e926ab48526",
+      "referencePage": null
+    },
+    {
+      "id": "sp-personal-76fc6acbd2e59411",
+      "part": 3,
+      "topic": "喜欢拍照的人",
+      "prompt": "Why do tourists like taking photos while they are travelling?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          15
+        ]
+      },
+      "related": "sp-personal-0dc96e926ab48526",
+      "referencePage": null
+    },
+    {
+      "id": "sp-personal-60e93931328705eb",
+      "part": 3,
+      "topic": "喜欢拍照的人",
+      "prompt": "Some people don't mind others walking into their shot when they're taking photos. What do you think?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          15
+        ]
+      },
+      "related": "sp-personal-0dc96e926ab48526",
+      "referencePage": null
+    },
+    {
+      "id": "sp-personal-bd1c4f742d754640",
+      "part": 2,
+      "topic": "有条理的人",
+      "prompt": "Describe a person who is well-organized.",
+      "source": {
+        "id": "questions",
+        "pages": [
+          15
+        ]
+      },
+      "cuePoints": [
+        "Who he/she is",
+        "How you knew him/she",
+        "Why you think he/she is well-organized",
+        "And explain how you felt about him"
+      ],
+      "category": "人物题",
+      "referencePage": null
+    },
+    {
+      "id": "sp-personal-a89c8c3c76e3bee3",
+      "part": 3,
+      "topic": "有条理的人",
+      "prompt": "Why is it important for people to be organized?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          15
+        ]
+      },
+      "related": "sp-personal-bd1c4f742d754640",
+      "referencePage": null
+    },
+    {
+      "id": "sp-personal-6ab79fe2673f9b52",
+      "part": 3,
+      "topic": "有条理的人",
+      "prompt": "Do you think children should learn to be organized from a young age?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          15
+        ]
+      },
+      "related": "sp-personal-bd1c4f742d754640",
+      "referencePage": null
+    },
+    {
+      "id": "sp-personal-2e554c77dc8fdf73",
+      "part": 3,
+      "topic": "有条理的人",
+      "prompt": "Are organized people more likely to be successful at work or in their studies?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          15
+        ]
+      },
+      "related": "sp-personal-bd1c4f742d754640",
+      "referencePage": null
+    },
+    {
+      "id": "sp-personal-796fe674450953e6",
+      "part": 3,
+      "topic": "有条理的人",
+      "prompt": "What can people do to become more organized?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          15
+        ]
+      },
+      "related": "sp-personal-bd1c4f742d754640",
+      "referencePage": null
+    },
+    {
+      "id": "sp-personal-08b8ce9d316942f5",
+      "part": 3,
+      "topic": "有条理的人",
+      "prompt": "Should parents teach their children to be organized?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          15
+        ]
+      },
+      "related": "sp-personal-bd1c4f742d754640",
+      "referencePage": null
+    },
+    {
+      "id": "sp-personal-6105e7668665dbe8",
+      "part": 3,
+      "topic": "有条理的人",
+      "prompt": "Do you think it is important for managers to be well organized?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          15
+        ]
+      },
+      "related": "sp-personal-bd1c4f742d754640",
+      "referencePage": null
+    },
+    {
+      "id": "sp-personal-7606a46f3a6066de",
+      "part": 2,
+      "topic": "助人改善健康",
+      "prompt": "Describe a person who you helped to improve their health and fitness.",
+      "source": {
+        "id": "questions",
+        "pages": [
+          16
+        ]
+      },
+      "cuePoints": [
+        "Who it is",
+        "Why you helped him/her",
+        "What you did",
+        "And explain how you felt about him/her"
+      ],
+      "category": "人物题",
+      "referencePage": null
+    },
+    {
+      "id": "sp-personal-4faf8c5b56e3d26a",
+      "part": 3,
+      "topic": "助人改善健康",
+      "prompt": "Is it important to have a healthy community?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          16
+        ]
+      },
+      "related": "sp-personal-7606a46f3a6066de",
+      "referencePage": null
+    },
+    {
+      "id": "sp-personal-c91af3c44899df52",
+      "part": 3,
+      "topic": "助人改善健康",
+      "prompt": "Does living in a healthy community give people a sense of belonging?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          16
+        ]
+      },
+      "related": "sp-personal-7606a46f3a6066de",
+      "referencePage": null
+    },
+    {
+      "id": "sp-personal-d31cd88bf28e301c",
+      "part": 3,
+      "topic": "助人改善健康",
+      "prompt": "Does the government have a responsibility or role to play in building healthy communities?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          16
+        ]
+      },
+      "related": "sp-personal-7606a46f3a6066de",
+      "referencePage": null
+    },
+    {
+      "id": "sp-personal-d333e9a0b6a35ac3",
+      "part": 2,
+      "topic": "喜欢学习历史的人",
+      "prompt": "Describe a person you know who likes to learn about history.",
+      "source": {
+        "id": "questions",
+        "pages": [
+          16
+        ]
+      },
+      "cuePoints": [
+        "Who he/she is",
+        "Why you think he/she likes to learn about history",
+        "What kinds of history he/she learns",
+        "And explain how you felt about him/her"
+      ],
+      "category": "人物题",
+      "referencePage": null
+    },
+    {
+      "id": "sp-personal-0c08ff138328df62",
+      "part": 3,
+      "topic": "喜欢学习历史的人",
+      "prompt": "Should people start learning history from a young age?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          16
+        ]
+      },
+      "related": "sp-personal-d333e9a0b6a35ac3",
+      "referencePage": null
+    },
+    {
+      "id": "sp-personal-e40dd704765f1d36",
+      "part": 3,
+      "topic": "喜欢学习历史的人",
+      "prompt": "At what age is it best for people to start learning history?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          16
+        ]
+      },
+      "related": "sp-personal-d333e9a0b6a35ac3",
+      "referencePage": null
+    },
+    {
+      "id": "sp-personal-6038ad8bf226075f",
+      "part": 3,
+      "topic": "喜欢学习历史的人",
+      "prompt": "When people travel to a place, are they mainly interested in its local history?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          16
+        ]
+      },
+      "related": "sp-personal-d333e9a0b6a35ac3",
+      "referencePage": null
+    },
+    {
+      "id": "sp-personal-ea84a551f31ebd29",
+      "part": 3,
+      "topic": "喜欢学习历史的人",
+      "prompt": "Is it important to learn about how people lived in the past?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          16
+        ]
+      },
+      "related": "sp-personal-d333e9a0b6a35ac3",
+      "referencePage": null
+    },
+    {
+      "id": "sp-personal-47d76781d603f3a4",
+      "part": 3,
+      "topic": "喜欢学习历史的人",
+      "prompt": "Should people learn about ancient history before they study modern history?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          16
+        ]
+      },
+      "related": "sp-personal-d333e9a0b6a35ac3",
+      "referencePage": null
+    },
+    {
+      "id": "sp-personal-f20ed1066c8b17e0",
+      "part": 2,
+      "topic": "体育健将",
+      "prompt": "Describe a sportsperson you know who did well in an event.",
+      "source": {
+        "id": "questions",
+        "pages": [
+          16
+        ]
+      },
+      "cuePoints": [
+        "Who it is",
+        "What sport he/she plays",
+        "How well he/she plays this sport",
+        "And explain how you feel about him/her"
+      ],
+      "category": "人物题",
+      "referencePage": null
+    },
+    {
+      "id": "sp-personal-9ac2859e86738b8a",
+      "part": 3,
+      "topic": "体育健将",
+      "prompt": "What are the most popular sports in your country?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          17
+        ]
+      },
+      "related": "sp-personal-f20ed1066c8b17e0",
+      "referencePage": null
+    },
+    {
+      "id": "sp-personal-c8b003f19f8d1e0a",
+      "part": 3,
+      "topic": "体育健将",
+      "prompt": "Do you agree that all students are willing to play sports?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          17
+        ]
+      },
+      "related": "sp-personal-f20ed1066c8b17e0",
+      "referencePage": null
+    },
+    {
+      "id": "sp-personal-1915968fb55ec2d9",
+      "part": 3,
+      "topic": "体育健将",
+      "prompt": "What qualities make a top athlete?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          17
+        ]
+      },
+      "related": "sp-personal-f20ed1066c8b17e0",
+      "referencePage": null
+    },
+    {
+      "id": "sp-personal-dfc4e7c284699ab0",
+      "part": 2,
+      "topic": "想从事医疗行业的人",
+      "prompt": "Describe someone you know who has always wanted to work in medicine.",
+      "source": {
+        "id": "questions",
+        "pages": [
+          17
+        ]
+      },
+      "cuePoints": [
+        "How you know him/her",
+        "When him/her first had this idea",
+        "What this person is doing now",
+        "And explain why this person has always wanted to work in medicine."
+      ],
+      "category": "人物题",
+      "referencePage": 34
+    },
+    {
+      "id": "sp-personal-274b4875fc7f803e",
+      "part": 3,
+      "topic": "想从事医疗行业的人",
+      "prompt": "Why do some people want to become doctors?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          17
+        ]
+      },
+      "related": "sp-personal-dfc4e7c284699ab0",
+      "referencePage": 34
+    },
+    {
+      "id": "sp-personal-4b309e9c0a06e5f8",
+      "part": 3,
+      "topic": "想从事医疗行业的人",
+      "prompt": "Is it difficult to become a doctor?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          17
+        ]
+      },
+      "related": "sp-personal-dfc4e7c284699ab0",
+      "referencePage": 34
+    },
+    {
+      "id": "sp-personal-a582af7d03f599e3",
+      "part": 3,
+      "topic": "想从事医疗行业的人",
+      "prompt": "Why do some children want to be doctors?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          17
+        ]
+      },
+      "related": "sp-personal-dfc4e7c284699ab0",
+      "referencePage": 34
+    },
+    {
+      "id": "sp-personal-7016efa4b3d8bd81",
+      "part": 3,
+      "topic": "想从事医疗行业的人",
+      "prompt": "Do children find learning biology interesting?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          17
+        ]
+      },
+      "related": "sp-personal-dfc4e7c284699ab0",
+      "referencePage": 34
+    },
+    {
+      "id": "sp-personal-3b871c25bf8dc25c",
+      "part": 3,
+      "topic": "想从事医疗行业的人",
+      "prompt": "Do you think studying biology at school can make students healthier?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          17
+        ]
+      },
+      "related": "sp-personal-dfc4e7c284699ab0",
+      "referencePage": 34
+    },
+    {
+      "id": "sp-personal-0034ef8bbf41e19d",
+      "part": 2,
+      "topic": "事业成功的人",
+      "prompt": "Describe a person you know about who runs a successful business.",
+      "source": {
+        "id": "questions",
+        "pages": [
+          17
+        ]
+      },
+      "cuePoints": [
+        "How you knew him/her",
+        "What business does he/she do",
+        "Whether you have used his/her business",
+        "And explain why you think his/her business is successful."
+      ],
+      "category": "人物题",
+      "referencePage": 36
+    },
+    {
+      "id": "sp-personal-60f57fa208b14a3e",
+      "part": 3,
+      "topic": "事业成功的人",
+      "prompt": "What kinds of businesses have recently emerged in your city?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          17
+        ]
+      },
+      "related": "sp-personal-0034ef8bbf41e19d",
+      "referencePage": 36
+    },
+    {
+      "id": "sp-personal-750491b590213ed1",
+      "part": 3,
+      "topic": "事业成功的人",
+      "prompt": "Why do some people prefer to shop at small supermarkets rather than large ones?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          17
+        ]
+      },
+      "related": "sp-personal-0034ef8bbf41e19d",
+      "referencePage": 36
+    },
+    {
+      "id": "sp-personal-1d4a8b449e5d20f9",
+      "part": 3,
+      "topic": "事业成功的人",
+      "prompt": "Is the quality of products in small shops the same as that in large supermarkets?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          17
+        ]
+      },
+      "related": "sp-personal-0034ef8bbf41e19d",
+      "referencePage": 36
+    },
+    {
+      "id": "sp-personal-3d25a0802db65a1c",
+      "part": 3,
+      "topic": "事业成功的人",
+      "prompt": "In your country, is it easy or difficult to achieve success in business?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          17
+        ]
+      },
+      "related": "sp-personal-0034ef8bbf41e19d",
+      "referencePage": 36
+    },
+    {
+      "id": "sp-personal-695aaba0e2efab68",
+      "part": 3,
+      "topic": "事业成功的人",
+      "prompt": "Why do some people fail to start their own business?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          17
+        ]
+      },
+      "related": "sp-personal-0034ef8bbf41e19d",
+      "referencePage": 36
+    },
+    {
+      "id": "sp-personal-3d26c624e8a8fec7",
+      "part": 3,
+      "topic": "事业成功的人",
+      "prompt": "What are the key factors for achieving success in business?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          17
+        ]
+      },
+      "related": "sp-personal-0034ef8bbf41e19d",
+      "referencePage": 36
+    },
+    {
+      "id": "sp-personal-7eb2c59d7a0f685e",
+      "part": 2,
+      "topic": "喜欢种植物的人",
+      "prompt": "Describe a person you know who enjoys growing plants in his/her home or garden.",
+      "source": {
+        "id": "questions",
+        "pages": [
+          18
+        ]
+      },
+      "cuePoints": [
+        "How you know this person",
+        "What plants this person enjoys growing",
+        "Where this person grows plants",
+        "And explain why you think this person enjoys growing these plants."
+      ],
+      "category": "人物题",
+      "referencePage": null
+    },
+    {
+      "id": "sp-personal-d6089050844c7088",
+      "part": 3,
+      "topic": "喜欢种植物的人",
+      "prompt": "Do people in your country like growing plants?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          18
+        ]
+      },
+      "related": "sp-personal-7eb2c59d7a0f685e",
+      "referencePage": null
+    },
+    {
+      "id": "sp-personal-736fdc248f88f2be",
+      "part": 3,
+      "topic": "喜欢种植物的人",
+      "prompt": "Why do people grow fruits and vegetables by themselves?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          18
+        ]
+      },
+      "related": "sp-personal-7eb2c59d7a0f685e",
+      "referencePage": null
+    },
+    {
+      "id": "sp-personal-7e0d7f2099d334ca",
+      "part": 3,
+      "topic": "喜欢种植物的人",
+      "prompt": "Will people grow more food by themselves in the future?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          18
+        ]
+      },
+      "related": "sp-personal-7eb2c59d7a0f685e",
+      "referencePage": null
+    },
+    {
+      "id": "sp-personal-1a973f6996f6f13a",
+      "part": 3,
+      "topic": "喜欢种植物的人",
+      "prompt": "Why do some people like to keep plants at home?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          18
+        ]
+      },
+      "related": "sp-personal-7eb2c59d7a0f685e",
+      "referencePage": null
+    },
+    {
+      "id": "sp-personal-977a9c9fec7e7ec6",
+      "part": 3,
+      "topic": "喜欢种植物的人",
+      "prompt": "Should schools teach children how to grow plants?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          18
+        ]
+      },
+      "related": "sp-personal-7eb2c59d7a0f685e",
+      "referencePage": null
+    },
+    {
+      "id": "sp-personal-b209f2d29edc4258",
+      "part": 2,
+      "topic": "童年好友",
+      "prompt": "Describe a friend from childhood who you remember very well.",
+      "source": {
+        "id": "questions",
+        "pages": [
+          18
+        ]
+      },
+      "cuePoints": [
+        "Who the friend is",
+        "How you met him/her",
+        "What you used to do together",
+        "And explain why you remember this childhood friend so well."
+      ],
+      "category": "人物题",
+      "referencePage": null
+    },
+    {
+      "id": "sp-personal-323330f0813d504e",
+      "part": 3,
+      "topic": "童年好友",
+      "prompt": "Where can young children make new friends?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          18
+        ]
+      },
+      "related": "sp-personal-b209f2d29edc4258",
+      "referencePage": null
+    },
+    {
+      "id": "sp-personal-9a0a0324aed96e49",
+      "part": 3,
+      "topic": "童年好友",
+      "prompt": "Is it easy for children to make friends?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          18
+        ]
+      },
+      "related": "sp-personal-b209f2d29edc4258",
+      "referencePage": null
+    },
+    {
+      "id": "sp-personal-6b6889f1a4316fc3",
+      "part": 3,
+      "topic": "童年好友",
+      "prompt": "Is it important for children to have a best friend?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          18
+        ]
+      },
+      "related": "sp-personal-b209f2d29edc4258",
+      "referencePage": null
+    },
+    {
+      "id": "sp-personal-5a10443bf4306670",
+      "part": 3,
+      "topic": "童年好友",
+      "prompt": "Do adults need older friends?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          18
+        ]
+      },
+      "related": "sp-personal-b209f2d29edc4258",
+      "referencePage": null
+    },
+    {
+      "id": "sp-personal-5d15d04596a93cb3",
+      "part": 3,
+      "topic": "童年好友",
+      "prompt": "What are the benefits of having an older friend?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          18
+        ]
+      },
+      "related": "sp-personal-b209f2d29edc4258",
+      "referencePage": null
+    },
+    {
+      "id": "sp-personal-0fd3a30e74f37bca",
+      "part": 3,
+      "topic": "童年好友",
+      "prompt": "As people get older, do they argue less with their friends?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          18
+        ]
+      },
+      "related": "sp-personal-b209f2d29edc4258",
+      "referencePage": null
+    },
+    {
+      "id": "sp-personal-0738797618f0d01b",
+      "part": 3,
+      "topic": "童年好友",
+      "prompt": "Should people value friendship above other types of relationships?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          18
+        ]
+      },
+      "related": "sp-personal-b209f2d29edc4258",
+      "referencePage": null
+    },
+    {
+      "id": "sp-personal-63740fc7fdd2bfbe",
+      "part": 3,
+      "topic": "童年好友",
+      "prompt": "How might society change in the future if friendship and other social bonds were stronger?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          18
+        ]
+      },
+      "related": "sp-personal-b209f2d29edc4258",
+      "referencePage": null
+    },
+    {
+      "id": "sp-personal-2d45e9d4af28446d",
+      "part": 3,
+      "topic": "童年好友",
+      "prompt": "Can friendships last a lifetime?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          18
+        ]
+      },
+      "related": "sp-personal-b209f2d29edc4258",
+      "referencePage": null
+    },
+    {
+      "id": "sp-personal-c84a871a346d3ac6",
+      "part": 2,
+      "topic": "完成困难挑战的人",
+      "prompt": "Describe a person you know who successfully achieved something difficult",
+      "source": {
+        "id": "questions",
+        "pages": [
+          19
+        ]
+      },
+      "cuePoints": [
+        "Who is it",
+        "What he/she had achieved",
+        "How difficult it was",
+        "And explain how you felt about it"
+      ],
+      "category": "人物题",
+      "referencePage": null
+    },
+    {
+      "id": "sp-personal-f380b630f0aef427",
+      "part": 3,
+      "topic": "完成困难挑战的人",
+      "prompt": "What types of businesses are successful in your country?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          19
+        ]
+      },
+      "related": "sp-personal-c84a871a346d3ac6",
+      "referencePage": null
+    },
+    {
+      "id": "sp-personal-1522750ea5e21995",
+      "part": 3,
+      "topic": "完成困难挑战的人",
+      "prompt": "Who are some successful people in your country?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          19
+        ]
+      },
+      "related": "sp-personal-c84a871a346d3ac6",
+      "referencePage": null
+    },
+    {
+      "id": "sp-personal-59a3c3e6fd077595",
+      "part": 3,
+      "topic": "完成困难挑战的人",
+      "prompt": "How easy is it to start a successful business?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          19
+        ]
+      },
+      "related": "sp-personal-c84a871a346d3ac6",
+      "referencePage": null
+    },
+    {
+      "id": "sp-personal-f5fc836745200375",
+      "part": 3,
+      "topic": "完成困难挑战的人",
+      "prompt": "Is making money the most important thing for a business?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          19
+        ]
+      },
+      "related": "sp-personal-c84a871a346d3ac6",
+      "referencePage": null
+    },
+    {
+      "id": "sp-personal-775b3891590e4c58",
+      "part": 3,
+      "topic": "完成困难挑战的人",
+      "prompt": "Does earning a lot of money mean someone is successful?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          19
+        ]
+      },
+      "related": "sp-personal-c84a871a346d3ac6",
+      "referencePage": null
+    },
+    {
+      "id": "sp-personal-b7d4c99b5fd28840",
+      "part": 3,
+      "topic": "完成困难挑战的人",
+      "prompt": "Why are some people more successful than others?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          19
+        ]
+      },
+      "related": "sp-personal-c84a871a346d3ac6",
+      "referencePage": null
+    },
+    {
+      "id": "sp-personal-1a48834451b9b314",
+      "part": 3,
+      "topic": "完成困难挑战的人",
+      "prompt": "Is being successful at work necessary for a successful life?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          19
+        ]
+      },
+      "related": "sp-personal-c84a871a346d3ac6",
+      "referencePage": null
+    },
+    {
+      "id": "sp-personal-b819b9615fd30031",
+      "part": 3,
+      "topic": "完成困难挑战的人",
+      "prompt": "How do you define success?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          19
+        ]
+      },
+      "related": "sp-personal-c84a871a346d3ac6",
+      "referencePage": null
+    },
+    {
+      "id": "sp-personal-51f10c5842e1ff3a",
+      "part": 3,
+      "topic": "完成困难挑战的人",
+      "prompt": "Are successful people lonely?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          19
+        ]
+      },
+      "related": "sp-personal-c84a871a346d3ac6",
+      "referencePage": null
+    },
+    {
+      "id": "sp-personal-6bf2ecefead6005d",
+      "part": 2,
+      "topic": "擅长学习语言的人",
+      "prompt": "Describe a person who is good at learning languages",
+      "source": {
+        "id": "questions",
+        "pages": [
+          19
+        ]
+      },
+      "cuePoints": [
+        "Who it is",
+        "How you knew him/her",
+        "What languages he/she has learnt",
+        "How this person learned to speak these languages",
+        "And explain why you think he/she is good at learning languages"
+      ],
+      "category": "人物题",
+      "referencePage": 46
+    },
+    {
+      "id": "sp-personal-b60df68fe8f202b0",
+      "part": 3,
+      "topic": "擅长学习语言的人",
+      "prompt": "Do people in your country learn other languages?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          19
+        ]
+      },
+      "related": "sp-personal-6bf2ecefead6005d",
+      "referencePage": 46
+    },
+    {
+      "id": "sp-personal-bc8fa547987e767a",
+      "part": 3,
+      "topic": "擅长学习语言的人",
+      "prompt": "What are the best ways for adults to learn a new language?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          19
+        ]
+      },
+      "related": "sp-personal-6bf2ecefead6005d",
+      "referencePage": 46
+    },
+    {
+      "id": "sp-personal-c8322d4a5daee31c",
+      "part": 3,
+      "topic": "擅长学习语言的人",
+      "prompt": "Do you think it is necessary for study or work to learn new languages?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          19
+        ]
+      },
+      "related": "sp-personal-6bf2ecefead6005d",
+      "referencePage": 46
+    },
+    {
+      "id": "sp-personal-60ac7f1cb1ce261d",
+      "part": 3,
+      "topic": "擅长学习语言的人",
+      "prompt": "What are the differences between how adults and children learn languages?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          19
+        ]
+      },
+      "related": "sp-personal-6bf2ecefead6005d",
+      "referencePage": 46
+    },
+    {
+      "id": "sp-personal-1ef8edb3f46b268d",
+      "part": 3,
+      "topic": "擅长学习语言的人",
+      "prompt": "How important is it for people to know other languages when they travel?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          19
+        ]
+      },
+      "related": "sp-personal-6bf2ecefead6005d",
+      "referencePage": 46
+    },
+    {
+      "id": "sp-personal-3c87e99a843aa452",
+      "part": 3,
+      "topic": "擅长学习语言的人",
+      "prompt": "Is knowing the vocabulary of another language more useful than knowing the grammar?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          19
+        ]
+      },
+      "related": "sp-personal-6bf2ecefead6005d",
+      "referencePage": 46
+    },
+    {
+      "id": "sp-personal-44b3527321f74efd",
+      "part": 3,
+      "topic": "擅长学习语言的人",
+      "prompt": "Do people need to understand a language in order to understand its culture?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          19
+        ]
+      },
+      "related": "sp-personal-6bf2ecefead6005d",
+      "referencePage": 46
+    },
+    {
+      "id": "sp-personal-90844fca2eea2537",
+      "part": 3,
+      "topic": "擅长学习语言的人",
+      "prompt": "How might the number of languages a person speaks affect their sense of identity?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          20
+        ]
+      },
+      "related": "sp-personal-6bf2ecefead6005d",
+      "referencePage": 46
+    },
+    {
+      "id": "sp-personal-9b65499710a3de25",
+      "part": 2,
+      "topic": "吵闹的地方",
+      "prompt": "Describe a place you went to that was very noisy.",
+      "source": {
+        "id": "questions",
+        "pages": [
+          20
+        ]
+      },
+      "cuePoints": [
+        "Where this place was",
+        "What you did there",
+        "Why it was very noisy",
+        "And explain how you felt about this place being so noisy."
+      ],
+      "category": "地点题",
+      "referencePage": null
+    },
+    {
+      "id": "sp-personal-75954a02a7738ba0",
+      "part": 3,
+      "topic": "吵闹的地方",
+      "prompt": "What kinds of places are usually noisy in your country?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          20
+        ]
+      },
+      "related": "sp-personal-9b65499710a3de25",
+      "referencePage": null
+    },
+    {
+      "id": "sp-personal-2c22db16b5b87ef3",
+      "part": 3,
+      "topic": "吵闹的地方",
+      "prompt": "In which places is noise generally not allowed or discouraged?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          20
+        ]
+      },
+      "related": "sp-personal-9b65499710a3de25",
+      "referencePage": null
+    },
+    {
+      "id": "sp-personal-1bcb0752d79bbd6e",
+      "part": 3,
+      "topic": "吵闹的地方",
+      "prompt": "How do people usually respond when they encounter noisy behaviour in public?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          20
+        ]
+      },
+      "related": "sp-personal-9b65499710a3de25",
+      "referencePage": null
+    },
+    {
+      "id": "sp-personal-1e6ee521176cad4e",
+      "part": 3,
+      "topic": "吵闹的地方",
+      "prompt": "Why do some people dislike noise, while others seem to enjoy it?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          20
+        ]
+      },
+      "related": "sp-personal-9b65499710a3de25",
+      "referencePage": null
+    },
+    {
+      "id": "sp-personal-6200b08605acab35",
+      "part": 3,
+      "topic": "吵闹的地方",
+      "prompt": "Does a quiet environment help people concentrate more effectively? Why?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          20
+        ]
+      },
+      "related": "sp-personal-9b65499710a3de25",
+      "referencePage": null
+    },
+    {
+      "id": "sp-personal-f2ba7bb6aaf8bec7",
+      "part": 2,
+      "topic": "自然之地",
+      "prompt": "Describe a place where you enjoy nature.",
+      "source": {
+        "id": "questions",
+        "pages": [
+          20
+        ]
+      },
+      "cuePoints": [
+        "Where this place is",
+        "How you found out about this place",
+        "What you can see there",
+        "And explain why you enjoy going to this natural place."
+      ],
+      "category": "地点题",
+      "referencePage": null
+    },
+    {
+      "id": "sp-personal-ac4c426e122d5470",
+      "part": 3,
+      "topic": "自然之地",
+      "prompt": "Where do people in your country usually go to get close to nature?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          20
+        ]
+      },
+      "related": "sp-personal-f2ba7bb6aaf8bec7",
+      "referencePage": null
+    },
+    {
+      "id": "sp-personal-32f1db68d4a9d95a",
+      "part": 3,
+      "topic": "自然之地",
+      "prompt": "Are there any natural places within cities in your country?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          20
+        ]
+      },
+      "related": "sp-personal-f2ba7bb6aaf8bec7",
+      "referencePage": null
+    },
+    {
+      "id": "sp-personal-ac834e0d34d16c37",
+      "part": 3,
+      "topic": "自然之地",
+      "prompt": "Do people in your country have time to spend in nature?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          20
+        ]
+      },
+      "related": "sp-personal-f2ba7bb6aaf8bec7",
+      "referencePage": null
+    },
+    {
+      "id": "sp-personal-fc8833b0205d3cc8",
+      "part": 3,
+      "topic": "自然之地",
+      "prompt": "Does spending time in nature make people more interested in plants or animals?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          20
+        ]
+      },
+      "related": "sp-personal-f2ba7bb6aaf8bec7",
+      "referencePage": null
+    },
+    {
+      "id": "sp-personal-4609bf2129dc1b9b",
+      "part": 3,
+      "topic": "自然之地",
+      "prompt": "What kind of people like to visit natural places?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          20
+        ]
+      },
+      "related": "sp-personal-f2ba7bb6aaf8bec7",
+      "referencePage": null
+    },
+    {
+      "id": "sp-personal-e321d99058c5b08a",
+      "part": 2,
+      "topic": "喜欢去的公共建筑",
+      "prompt": "Describe a public building you enjoy spending time in (e.g. a library or sports hall).",
+      "source": {
+        "id": "questions",
+        "pages": [
+          20,
+          21
+        ]
+      },
+      "cuePoints": [
+        "What and where it is",
+        "What it is used for",
+        "What it is like",
+        "And explain why you enjoy spending time in it"
+      ],
+      "category": "地点题",
+      "referencePage": null
+    },
+    {
+      "id": "sp-personal-82b7b047acbf6c21",
+      "part": 3,
+      "topic": "喜欢去的公共建筑",
+      "prompt": "Do people generally prefer to live in apartments rather than houses?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          21
+        ]
+      },
+      "related": "sp-personal-e321d99058c5b08a",
+      "referencePage": null
+    },
+    {
+      "id": "sp-personal-eb59bd23c2f9345f",
+      "part": 3,
+      "topic": "喜欢去的公共建筑",
+      "prompt": "Is it important to protect historical buildings? What are the benefits?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          21
+        ]
+      },
+      "related": "sp-personal-e321d99058c5b08a",
+      "referencePage": null
+    },
+    {
+      "id": "sp-personal-d26a1ba7a5be139c",
+      "part": 3,
+      "topic": "喜欢去的公共建筑",
+      "prompt": "Which is more important, preserving historical buildings or building new ones?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          21
+        ]
+      },
+      "related": "sp-personal-e321d99058c5b08a",
+      "referencePage": null
+    },
+    {
+      "id": "sp-personal-9512ac55761a1cea",
+      "part": 2,
+      "topic": "拥挤的地方",
+      "prompt": "Describe a crowded place you have been to.",
+      "source": {
+        "id": "questions",
+        "pages": [
+          21
+        ]
+      },
+      "cuePoints": [
+        "Where you have been that was crowded",
+        "How often you go to this place",
+        "Who did you go there with",
+        "And explain how you feel about going to this place"
+      ],
+      "category": "地点题",
+      "referencePage": null
+    },
+    {
+      "id": "sp-personal-38be59945a01db87",
+      "part": 3,
+      "topic": "拥挤的地方",
+      "prompt": "Why do people go to crowded places?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          21
+        ]
+      },
+      "related": "sp-personal-9512ac55761a1cea",
+      "referencePage": null
+    },
+    {
+      "id": "sp-personal-d95559f46b822c72",
+      "part": 3,
+      "topic": "拥挤的地方",
+      "prompt": "Do people enjoy going to crowded places?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          21
+        ]
+      },
+      "related": "sp-personal-9512ac55761a1cea",
+      "referencePage": null
+    },
+    {
+      "id": "sp-personal-26199c0b01cd072d",
+      "part": 3,
+      "topic": "拥挤的地方",
+      "prompt": "Which parts of a city tend to be the most crowded?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          21
+        ]
+      },
+      "related": "sp-personal-9512ac55761a1cea",
+      "referencePage": null
+    },
+    {
+      "id": "sp-personal-a4810f35dc6ed25f",
+      "part": 3,
+      "topic": "拥挤的地方",
+      "prompt": "Does a city need to have quiet places?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          21
+        ]
+      },
+      "related": "sp-personal-9512ac55761a1cea",
+      "referencePage": null
+    },
+    {
+      "id": "sp-personal-0b240400f2fc85cd",
+      "part": 3,
+      "topic": "拥挤的地方",
+      "prompt": "If a city is very crowded, what kind of facilities should it have?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          21
+        ]
+      },
+      "related": "sp-personal-9512ac55761a1cea",
+      "referencePage": null
+    },
+    {
+      "id": "sp-personal-426992c2b26b7abd",
+      "part": 2,
+      "topic": "宜居之地",
+      "prompt": "Describe a place you have visited that you think it is a good place to live.",
+      "source": {
+        "id": "questions",
+        "pages": [
+          21
+        ]
+      },
+      "cuePoints": [
+        "Where it is",
+        "What you know about this place",
+        "What people can do there",
+        "And explain why you would recommend this place as a good place to live."
+      ],
+      "category": "地点题",
+      "referencePage": null
+    },
+    {
+      "id": "sp-personal-fcd1f62d629f768c",
+      "part": 3,
+      "topic": "宜居之地",
+      "prompt": "What are the types of places where people like to live?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          21
+        ]
+      },
+      "related": "sp-personal-426992c2b26b7abd",
+      "referencePage": null
+    },
+    {
+      "id": "sp-personal-3db1d07fa7f983e7",
+      "part": 3,
+      "topic": "宜居之地",
+      "prompt": "What are some advantages for people living near their workplace?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          21
+        ]
+      },
+      "related": "sp-personal-426992c2b26b7abd",
+      "referencePage": null
+    },
+    {
+      "id": "sp-personal-1884989cd79693a7",
+      "part": 3,
+      "topic": "宜居之地",
+      "prompt": "What are the differences between places older and younger people like to live?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          22
+        ]
+      },
+      "related": "sp-personal-426992c2b26b7abd",
+      "referencePage": null
+    },
+    {
+      "id": "sp-personal-d68281af8d097a94",
+      "part": 3,
+      "topic": "宜居之地",
+      "prompt": "Why do some people move to a different area to live?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          22
+        ]
+      },
+      "related": "sp-personal-426992c2b26b7abd",
+      "referencePage": null
+    },
+    {
+      "id": "sp-personal-376c3aeddfee9bdc",
+      "part": 3,
+      "topic": "宜居之地",
+      "prompt": "What preparations should people make before moving to a new area?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          22
+        ]
+      },
+      "related": "sp-personal-426992c2b26b7abd",
+      "referencePage": null
+    },
+    {
+      "id": "sp-personal-d03d2021d774def0",
+      "part": 3,
+      "topic": "宜居之地",
+      "prompt": "Is choosing where to live the most important decision people make in their lives?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          22
+        ]
+      },
+      "related": "sp-personal-426992c2b26b7abd",
+      "referencePage": null
+    },
+    {
+      "id": "sp-personal-50c45ce5d3b0d477",
+      "part": 2,
+      "topic": "喜欢/不喜欢的高建筑",
+      "prompt": "Describe a tall building you like or dislike",
+      "source": {
+        "id": "questions",
+        "pages": [
+          22
+        ]
+      },
+      "cuePoints": [
+        "Where it is",
+        "What you know about it",
+        "What it looks like",
+        "And explain why you like or dislike it"
+      ],
+      "category": "地点题",
+      "referencePage": 29
+    },
+    {
+      "id": "sp-personal-83d83818dec92e57",
+      "part": 3,
+      "topic": "喜欢/不喜欢的高建筑",
+      "prompt": "Is it common for people to live in tall buildings in your country?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          22
+        ]
+      },
+      "related": "sp-personal-50c45ce5d3b0d477",
+      "referencePage": 29
+    },
+    {
+      "id": "sp-personal-dcc7970e1dcb51c3",
+      "part": 3,
+      "topic": "喜欢/不喜欢的高建筑",
+      "prompt": "What are the advantages of living in a tall building?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          22
+        ]
+      },
+      "related": "sp-personal-50c45ce5d3b0d477",
+      "referencePage": 29
+    },
+    {
+      "id": "sp-personal-bad8196f1a8d0566",
+      "part": 3,
+      "topic": "喜欢/不喜欢的高建筑",
+      "prompt": "What are the disadvantages of living in tall buildings?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          22
+        ]
+      },
+      "related": "sp-personal-50c45ce5d3b0d477",
+      "referencePage": 29
+    },
+    {
+      "id": "sp-personal-d5394e7096c14856",
+      "part": 3,
+      "topic": "喜欢/不喜欢的高建筑",
+      "prompt": "Do you think there will be more tall buildings in the future?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          22
+        ]
+      },
+      "related": "sp-personal-50c45ce5d3b0d477",
+      "referencePage": 29
+    },
+    {
+      "id": "sp-personal-732fddb1ff16b786",
+      "part": 3,
+      "topic": "喜欢/不喜欢的高建筑",
+      "prompt": "Will more people live in high-rise buildings in the future?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          22
+        ]
+      },
+      "related": "sp-personal-50c45ce5d3b0d477",
+      "referencePage": 29
+    },
+    {
+      "id": "sp-personal-ac5b154d948f9fe4",
+      "part": 3,
+      "topic": "喜欢/不喜欢的高建筑",
+      "prompt": "Why do some people choose to design their own homes?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          22
+        ]
+      },
+      "related": "sp-personal-50c45ce5d3b0d477",
+      "referencePage": 29
+    },
+    {
+      "id": "sp-personal-5390c181685ccd36",
+      "part": 3,
+      "topic": "喜欢/不喜欢的高建筑",
+      "prompt": "How does climate affect building design?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          22
+        ]
+      },
+      "related": "sp-personal-50c45ce5d3b0d477",
+      "referencePage": 29
+    },
+    {
+      "id": "sp-personal-406f8c05df5b4c2e",
+      "part": 2,
+      "topic": "喜欢但不想住的家",
+      "prompt": "Describe a home you visited that you liked but don't want to live in.",
+      "source": {
+        "id": "questions",
+        "pages": [
+          22
+        ]
+      },
+      "cuePoints": [
+        "When you visited this home",
+        "Who lives in it",
+        "Why you liked it",
+        "And explain why you would not want to live in his/her home."
+      ],
+      "category": "地点题",
+      "referencePage": 43
+    },
+    {
+      "id": "sp-personal-9072b652347ad4cb",
+      "part": 3,
+      "topic": "喜欢但不想住的家",
+      "prompt": "In your country, do people often visit each other's homes, and how frequently?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          22
+        ]
+      },
+      "related": "sp-personal-406f8c05df5b4c2e",
+      "referencePage": 43
+    },
+    {
+      "id": "sp-personal-8cf5d85fc0b82f63",
+      "part": 3,
+      "topic": "喜欢但不想住的家",
+      "prompt": "What kinds of presents or gifts might visitors take when going to someone's home?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          22
+        ]
+      },
+      "related": "sp-personal-406f8c05df5b4c2e",
+      "referencePage": 43
+    },
+    {
+      "id": "sp-personal-d209f53e76a7175f",
+      "part": 3,
+      "topic": "喜欢但不想住的家",
+      "prompt": "What differences do you think there are between houses in the countryside and those in the city?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          22
+        ]
+      },
+      "related": "sp-personal-406f8c05df5b4c2e",
+      "referencePage": 43
+    },
+    {
+      "id": "sp-personal-4229a068e9a4757a",
+      "part": 3,
+      "topic": "喜欢但不想住的家",
+      "prompt": "Should a friend be welcomed into a person's home at any time?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          22
+        ]
+      },
+      "related": "sp-personal-406f8c05df5b4c2e",
+      "referencePage": 43
+    },
+    {
+      "id": "sp-personal-501c122f08e60303",
+      "part": 3,
+      "topic": "喜欢但不想住的家",
+      "prompt": "How difficult is it to find a good home in your country nowadays?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          23
+        ]
+      },
+      "related": "sp-personal-406f8c05df5b4c2e",
+      "referencePage": 43
+    },
+    {
+      "id": "sp-personal-040a0c73388c6025",
+      "part": 3,
+      "topic": "喜欢但不想住的家",
+      "prompt": "What do people usually consider most when choosing a place to live?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          23
+        ]
+      },
+      "related": "sp-personal-406f8c05df5b4c2e",
+      "referencePage": 43
+    },
+    {
+      "id": "sp-personal-e739e481932e5642",
+      "part": 3,
+      "topic": "喜欢但不想住的家",
+      "prompt": "Is it the government's responsibility to ensure that everyone has somewhere to live?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          23
+        ]
+      },
+      "related": "sp-personal-406f8c05df5b4c2e",
+      "referencePage": 43
+    },
+    {
+      "id": "sp-personal-a510f75bfdc7f5c0",
+      "part": 2,
+      "topic": "推荐的度假胜地",
+      "prompt": "Describe a place you went to on holiday that you would recommend.",
+      "source": {
+        "id": "questions",
+        "pages": [
+          23
+        ]
+      },
+      "cuePoints": [
+        "Where you went",
+        "Why you went to this place",
+        "What you did",
+        "And explain why you would recommend this place for a holiday"
+      ],
+      "category": "地点题",
+      "referencePage": null
+    },
+    {
+      "id": "sp-personal-284a20c3e66eac33",
+      "part": 3,
+      "topic": "推荐的度假胜地",
+      "prompt": "What are some popular attractions that people like to visit in your country?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          23
+        ]
+      },
+      "related": "sp-personal-a510f75bfdc7f5c0",
+      "referencePage": null
+    },
+    {
+      "id": "sp-personal-c53646d7e3c87a75",
+      "part": 3,
+      "topic": "推荐的度假胜地",
+      "prompt": "Do old people and young people choose different places to go on vacation? Why?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          23
+        ]
+      },
+      "related": "sp-personal-a510f75bfdc7f5c0",
+      "referencePage": null
+    },
+    {
+      "id": "sp-personal-2129c508c6146e53",
+      "part": 3,
+      "topic": "推荐的度假胜地",
+      "prompt": "What do young people and old people think about when making travel plans?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          23
+        ]
+      },
+      "related": "sp-personal-a510f75bfdc7f5c0",
+      "referencePage": null
+    },
+    {
+      "id": "sp-personal-7ca037a50629292c",
+      "part": 3,
+      "topic": "推荐的度假胜地",
+      "prompt": "How do people get to know a new place?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          23
+        ]
+      },
+      "related": "sp-personal-a510f75bfdc7f5c0",
+      "referencePage": null
+    },
+    {
+      "id": "sp-personal-4614f190bf8ed0aa",
+      "part": 3,
+      "topic": "推荐的度假胜地",
+      "prompt": "How do people make decisions about when to take their holidays?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          23
+        ]
+      },
+      "related": "sp-personal-a510f75bfdc7f5c0",
+      "referencePage": null
+    },
+    {
+      "id": "sp-personal-b2878eba4aa04ecb",
+      "part": 3,
+      "topic": "推荐的度假胜地",
+      "prompt": "What are the advantages and disadvantages of planning every detail of a holiday/vacation in advance?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          23
+        ]
+      },
+      "related": "sp-personal-a510f75bfdc7f5c0",
+      "referencePage": null
+    },
+    {
+      "id": "sp-personal-25f8cf68d8e71ca0",
+      "part": 2,
+      "topic": "无聊的地方",
+      "prompt": "Describe a place you went to where you think is boring.",
+      "source": {
+        "id": "questions",
+        "pages": [
+          23
+        ]
+      },
+      "cuePoints": [
+        "Where and when you went",
+        "Who you were with",
+        "What you remember about this place",
+        "And explain why you felt bored in this place."
+      ],
+      "category": "地点题",
+      "originalCuePoints": [
+        "Where and where you went",
+        "Who you were with",
+        "What you remember about this place",
+        "And explain why you felt bored in this place."
+      ],
+      "editorNote": "原参考写为 Where and where，练习中按明显重复字修订为地点与时间。",
+      "referencePage": 27
+    },
+    {
+      "id": "sp-personal-4e923313e370c1f2",
+      "part": 3,
+      "topic": "无聊的地方",
+      "prompt": "When do people feel bored?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          23
+        ]
+      },
+      "related": "sp-personal-25f8cf68d8e71ca0",
+      "referencePage": 27
+    },
+    {
+      "id": "sp-personal-d2d7fed80ac891bc",
+      "part": 3,
+      "topic": "无聊的地方",
+      "prompt": "What are some ways that people can avoid feeling bored?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          23
+        ]
+      },
+      "related": "sp-personal-25f8cf68d8e71ca0",
+      "referencePage": 27
+    },
+    {
+      "id": "sp-personal-7e6da2cd5424a765",
+      "part": 3,
+      "topic": "无聊的地方",
+      "prompt": "Why do young people find chatting with elderly people boring?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          23
+        ]
+      },
+      "related": "sp-personal-25f8cf68d8e71ca0",
+      "referencePage": 27
+    },
+    {
+      "id": "sp-personal-6b09a17b85db157d",
+      "part": 3,
+      "topic": "无聊的地方",
+      "prompt": "Why do students find their teachers' lessons boring?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          23
+        ]
+      },
+      "related": "sp-personal-25f8cf68d8e71ca0",
+      "referencePage": 27
+    },
+    {
+      "id": "sp-personal-3f7887a81d50479a",
+      "part": 3,
+      "topic": "无聊的地方",
+      "prompt": "What should teachers do to make lessons less boring for students?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          23
+        ]
+      },
+      "related": "sp-personal-25f8cf68d8e71ca0",
+      "referencePage": 27
+    },
+    {
+      "id": "sp-personal-67c3a5ee1b69c27d",
+      "part": 3,
+      "topic": "无聊的地方",
+      "prompt": "Why do most children find education boring?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          23
+        ]
+      },
+      "related": "sp-personal-25f8cf68d8e71ca0",
+      "referencePage": 27
+    },
+    {
+      "id": "sp-personal-b72f3b0583514bd4",
+      "part": 3,
+      "topic": "无聊的地方",
+      "prompt": "Do most people think that news about famous people is boring?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          23
+        ]
+      },
+      "related": "sp-personal-25f8cf68d8e71ca0",
+      "referencePage": 27
+    },
+    {
+      "id": "sp-personal-6cce4ced20a133a7",
+      "part": 3,
+      "topic": "无聊的地方",
+      "prompt": "Do most people use their phones too much when they are bored?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          24
+        ]
+      },
+      "related": "sp-personal-25f8cf68d8e71ca0",
+      "referencePage": 27
+    },
+    {
+      "id": "sp-personal-a5d04555a2731ab0",
+      "part": 2,
+      "topic": "浪费时间的日常",
+      "prompt": "Describe an activity you usually do that wastes your time",
+      "source": {
+        "id": "questions",
+        "pages": [
+          24
+        ]
+      },
+      "cuePoints": [
+        "What it is",
+        "How long you have been doing it",
+        "When do you usually do it",
+        "And explain why you are still doing it knowing it is a waste of time"
+      ],
+      "category": "物品题",
+      "referencePage": null
+    },
+    {
+      "id": "sp-personal-a078ea3f5d5ecf0a",
+      "part": 3,
+      "topic": "浪费时间的日常",
+      "prompt": "What kinds of activities do people have to do every day?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          24
+        ]
+      },
+      "related": "sp-personal-a5d04555a2731ab0",
+      "referencePage": null
+    },
+    {
+      "id": "sp-personal-c30e4b089a713c27",
+      "part": 3,
+      "topic": "浪费时间的日常",
+      "prompt": "Is it important to have a daily routine?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          24
+        ]
+      },
+      "related": "sp-personal-a5d04555a2731ab0",
+      "referencePage": null
+    },
+    {
+      "id": "sp-personal-c61d39521bbe5064",
+      "part": 3,
+      "topic": "浪费时间的日常",
+      "prompt": "How can people make routine activities less boring?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          24
+        ]
+      },
+      "related": "sp-personal-a5d04555a2731ab0",
+      "referencePage": null
+    },
+    {
+      "id": "sp-personal-90257e505acc316d",
+      "part": 3,
+      "topic": "浪费时间的日常",
+      "prompt": "What kinds of things make people feel pressured?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          24
+        ]
+      },
+      "related": "sp-personal-a5d04555a2731ab0",
+      "referencePage": null
+    },
+    {
+      "id": "sp-personal-df09da3552368a19",
+      "part": 3,
+      "topic": "浪费时间的日常",
+      "prompt": "Is it beneficial to have a certain amount of stress?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          24
+        ]
+      },
+      "related": "sp-personal-a5d04555a2731ab0",
+      "referencePage": null
+    },
+    {
+      "id": "sp-personal-431f4107fd16a4ad",
+      "part": 3,
+      "topic": "浪费时间的日常",
+      "prompt": "What would make people feel less stressed - having more time or more money?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          24
+        ]
+      },
+      "related": "sp-personal-a5d04555a2731ab0",
+      "referencePage": null
+    },
+    {
+      "id": "sp-personal-dd1228c391572c2e",
+      "part": 2,
+      "topic": "不喜欢的短途旅行",
+      "prompt": "Describe a short trip you often take but do not like.",
+      "source": {
+        "id": "questions",
+        "pages": [
+          24
+        ]
+      },
+      "cuePoints": [
+        "Where you go",
+        "When you go there",
+        "Why you go there",
+        "And explain why you do not like the trip"
+      ],
+      "category": "物品题",
+      "referencePage": null
+    },
+    {
+      "id": "sp-personal-98b6531c6bfa370c",
+      "part": 3,
+      "topic": "不喜欢的短途旅行",
+      "prompt": "What forms of transport do people in your country use more often?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          24
+        ]
+      },
+      "related": "sp-personal-dd1228c391572c2e",
+      "referencePage": null
+    },
+    {
+      "id": "sp-personal-ed1f08ad892df578",
+      "part": 3,
+      "topic": "不喜欢的短途旅行",
+      "prompt": "Why do people choose to travel abroad during their holidays?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          24
+        ]
+      },
+      "related": "sp-personal-dd1228c391572c2e",
+      "referencePage": null
+    },
+    {
+      "id": "sp-personal-bfe19acb44bdeb61",
+      "part": 3,
+      "topic": "不喜欢的短途旅行",
+      "prompt": "What are the benefits of travelling abroad?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          24
+        ]
+      },
+      "related": "sp-personal-dd1228c391572c2e",
+      "referencePage": null
+    },
+    {
+      "id": "sp-personal-92e1685275afd091",
+      "part": 3,
+      "topic": "不喜欢的短途旅行",
+      "prompt": "How does travelling with large crowds affect people's experience?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          24
+        ]
+      },
+      "related": "sp-personal-dd1228c391572c2e",
+      "referencePage": null
+    },
+    {
+      "id": "sp-personal-a7c9176e06921828",
+      "part": 3,
+      "topic": "不喜欢的短途旅行",
+      "prompt": "What are the main purposes people have for travelling?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          24
+        ]
+      },
+      "related": "sp-personal-dd1228c391572c2e",
+      "referencePage": null
+    },
+    {
+      "id": "sp-personal-227667d2d477ddb9",
+      "part": 2,
+      "topic": "不喜欢的电影",
+      "prompt": "Describe a movie you dislike.",
+      "source": {
+        "id": "questions",
+        "pages": [
+          25
+        ]
+      },
+      "cuePoints": [
+        "What it is",
+        "When and where you watched it",
+        "What it was about",
+        "And explain why you dislike it"
+      ],
+      "category": "物品题",
+      "referencePage": null
+    },
+    {
+      "id": "sp-personal-99655af711e05459",
+      "part": 3,
+      "topic": "不喜欢的电影",
+      "prompt": "What kinds of films are popular in your country?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          25
+        ]
+      },
+      "related": "sp-personal-227667d2d477ddb9",
+      "referencePage": null
+    },
+    {
+      "id": "sp-personal-109a0d774abc82ae",
+      "part": 3,
+      "topic": "不喜欢的电影",
+      "prompt": "What are the differences between watching a film at home and watching it in a cinema?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          25
+        ]
+      },
+      "related": "sp-personal-227667d2d477ddb9",
+      "referencePage": null
+    },
+    {
+      "id": "sp-personal-59a60719489cc8e3",
+      "part": 3,
+      "topic": "不喜欢的电影",
+      "prompt": "Do you think films are more effective than books in helping people become more creative?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          25
+        ]
+      },
+      "related": "sp-personal-227667d2d477ddb9",
+      "referencePage": null
+    },
+    {
+      "id": "sp-personal-383144e81256c69c",
+      "part": 3,
+      "topic": "不喜欢的电影",
+      "prompt": "Can films help people understand the culture of other countries?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          25
+        ]
+      },
+      "related": "sp-personal-227667d2d477ddb9",
+      "referencePage": null
+    },
+    {
+      "id": "sp-personal-dad9badb3f654b1e",
+      "part": 2,
+      "topic": "看过的名人采访",
+      "prompt": "Describe an interview with a famous person that you have seen.",
+      "source": {
+        "id": "questions",
+        "pages": [
+          25
+        ]
+      },
+      "cuePoints": [
+        "When and where you saw the interview",
+        "Who was being interviewed",
+        "What they talked about",
+        "And explain what you thought about the interview."
+      ],
+      "category": "物品题",
+      "originalCuePoints": [
+        "When it happened",
+        "Who you interviewed",
+        "What questions you asked",
+        "And explain how you felt about the experience."
+      ],
+      "editorNote": "原题说“看过的采访”，提示点却说“你采访了谁”。本练习按观看采访统一提示点；属教学修订，不称原题。",
+      "referencePage": null
+    },
+    {
+      "id": "sp-personal-7ce05238beba8901",
+      "part": 3,
+      "topic": "看过的名人采访",
+      "prompt": "What kinds of people are usually interviewed?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          25
+        ]
+      },
+      "related": "sp-personal-dad9badb3f654b1e",
+      "referencePage": null
+    },
+    {
+      "id": "sp-personal-82d9a40309e98506",
+      "part": 3,
+      "topic": "看过的名人采访",
+      "prompt": "Why do some people dislike being interviewed?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          25
+        ]
+      },
+      "related": "sp-personal-dad9badb3f654b1e",
+      "referencePage": null
+    },
+    {
+      "id": "sp-personal-4ff84a923a8393fe",
+      "part": 3,
+      "topic": "看过的名人采访",
+      "prompt": "Why do some people think interviews are a waste of time?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          25
+        ]
+      },
+      "related": "sp-personal-dad9badb3f654b1e",
+      "referencePage": null
+    },
+    {
+      "id": "sp-personal-81ccda6eb977089e",
+      "part": 3,
+      "topic": "看过的名人采访",
+      "prompt": "What should people do to prepare for a job interview?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          25
+        ]
+      },
+      "related": "sp-personal-dad9badb3f654b1e",
+      "referencePage": null
+    },
+    {
+      "id": "sp-personal-1fa7c3783079e3ff",
+      "part": 3,
+      "topic": "看过的名人采访",
+      "prompt": "Why is confidence important in a job interview?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          25
+        ]
+      },
+      "related": "sp-personal-dad9badb3f654b1e",
+      "referencePage": null
+    },
+    {
+      "id": "sp-personal-95020818208ac08c",
+      "part": 3,
+      "topic": "看过的名人采访",
+      "prompt": "Why is it important to dress formally for a job interview?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          25
+        ]
+      },
+      "related": "sp-personal-dad9badb3f654b1e",
+      "referencePage": null
+    },
+    {
+      "id": "sp-personal-e007f50cef54ab88",
+      "part": 2,
+      "topic": "令人兴奋的书",
+      "prompt": "Describe an exciting book that you enjoy reading.",
+      "source": {
+        "id": "questions",
+        "pages": [
+          25,
+          26
+        ]
+      },
+      "cuePoints": [
+        "What type of book it was",
+        "Why you read the book",
+        "What the book was about",
+        "And explain why the book was so exciting"
+      ],
+      "category": "物品题",
+      "referencePage": null
+    },
+    {
+      "id": "sp-personal-13d4b9f9a6abb104",
+      "part": 3,
+      "topic": "令人兴奋的书",
+      "prompt": "What kinds of books do people in your country like reading?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          26
+        ]
+      },
+      "related": "sp-personal-e007f50cef54ab88",
+      "referencePage": null
+    },
+    {
+      "id": "sp-personal-ae3f875fb5d130f3",
+      "part": 3,
+      "topic": "令人兴奋的书",
+      "prompt": "What kinds of books do young people and old people enjoy?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          26
+        ]
+      },
+      "related": "sp-personal-e007f50cef54ab88",
+      "referencePage": null
+    },
+    {
+      "id": "sp-personal-484a8d90560ff1a0",
+      "part": 3,
+      "topic": "令人兴奋的书",
+      "prompt": "Do boys and girls like the same kinds of books?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          26
+        ]
+      },
+      "related": "sp-personal-e007f50cef54ab88",
+      "referencePage": null
+    },
+    {
+      "id": "sp-personal-d5371468d2a6b909",
+      "part": 3,
+      "topic": "令人兴奋的书",
+      "prompt": "Do you think it is very important to read the book before watching the movie version of it?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          26
+        ]
+      },
+      "related": "sp-personal-e007f50cef54ab88",
+      "referencePage": null
+    },
+    {
+      "id": "sp-personal-47ba81e2053991bd",
+      "part": 3,
+      "topic": "令人兴奋的书",
+      "prompt": "Are movies usually not as good as the books they are based on?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          26
+        ]
+      },
+      "related": "sp-personal-e007f50cef54ab88",
+      "referencePage": null
+    },
+    {
+      "id": "sp-personal-6e9446e0e74d5c88",
+      "part": 3,
+      "topic": "令人兴奋的书",
+      "prompt": "Can movies based on novels encourage people to read more?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          26
+        ]
+      },
+      "related": "sp-personal-e007f50cef54ab88",
+      "referencePage": null
+    },
+    {
+      "id": "sp-personal-7f3ee82627001019",
+      "part": 2,
+      "topic": "为某事举办的派对",
+      "prompt": "Describe a party which was held for a special event.",
+      "source": {
+        "id": "questions",
+        "pages": [
+          26
+        ]
+      },
+      "cuePoints": [
+        "When it was held",
+        "Who joined in",
+        "What people were doing at the party",
+        "And explain how you felt about it"
+      ],
+      "category": "物品题",
+      "referencePage": null
+    },
+    {
+      "id": "sp-personal-af92da94320ab316",
+      "part": 3,
+      "topic": "为某事举办的派对",
+      "prompt": "When do people usually hold parties in your country?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          26
+        ]
+      },
+      "related": "sp-personal-7f3ee82627001019",
+      "referencePage": null
+    },
+    {
+      "id": "sp-personal-1fbb2589ff5fbcb1",
+      "part": 3,
+      "topic": "为某事举办的派对",
+      "prompt": "Do people prefer to hold parties in public places or in their own homes?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          26
+        ]
+      },
+      "related": "sp-personal-7f3ee82627001019",
+      "referencePage": null
+    },
+    {
+      "id": "sp-personal-07c8a705fb685709",
+      "part": 3,
+      "topic": "为某事举办的派对",
+      "prompt": "Is it important to provide food at a party?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          26
+        ]
+      },
+      "related": "sp-personal-7f3ee82627001019",
+      "referencePage": null
+    },
+    {
+      "id": "sp-personal-1c6ed52e5a64f747",
+      "part": 2,
+      "topic": "特别节日的食物",
+      "prompt": "Describe a kind of food that you like to eat on special occasions.",
+      "source": {
+        "id": "questions",
+        "pages": [
+          26
+        ]
+      },
+      "cuePoints": [
+        "What it is",
+        "What occasion it was",
+        "How this food is prepared",
+        "And explain why you like to eat this food on special occasions."
+      ],
+      "category": "物品题",
+      "referencePage": 37
+    },
+    {
+      "id": "sp-personal-fd8ca42f07c5f98f",
+      "part": 3,
+      "topic": "特别节日的食物",
+      "prompt": "What kinds of food are popular in your country?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          26
+        ]
+      },
+      "related": "sp-personal-1c6ed52e5a64f747",
+      "referencePage": 37
+    },
+    {
+      "id": "sp-personal-f190f53c41e9c860",
+      "part": 3,
+      "topic": "特别节日的食物",
+      "prompt": "What are the differences between what people eat now and in the past?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          26
+        ]
+      },
+      "related": "sp-personal-1c6ed52e5a64f747",
+      "referencePage": 37
+    },
+    {
+      "id": "sp-personal-383e0b9e8b6807f2",
+      "part": 3,
+      "topic": "特别节日的食物",
+      "prompt": "Why do people eat special foods on certain festivals or special occasions?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          26
+        ]
+      },
+      "related": "sp-personal-1c6ed52e5a64f747",
+      "referencePage": 37
+    },
+    {
+      "id": "sp-personal-f885b2d0d2282280",
+      "part": 3,
+      "topic": "特别节日的食物",
+      "prompt": "What is the difference between the food people eat on special festivals and the food they eat every day?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          27
+        ]
+      },
+      "related": "sp-personal-1c6ed52e5a64f747",
+      "referencePage": 37
+    },
+    {
+      "id": "sp-personal-9b6850f2847b7d3e",
+      "part": 3,
+      "topic": "特别节日的食物",
+      "prompt": "Do people prefer to eat out or eat at home?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          27
+        ]
+      },
+      "related": "sp-personal-1c6ed52e5a64f747",
+      "referencePage": 37
+    },
+    {
+      "id": "sp-personal-4380f24d1711dbe8",
+      "part": 3,
+      "topic": "特别节日的食物",
+      "prompt": "On what occasions do people eat special food in your country?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          27
+        ]
+      },
+      "related": "sp-personal-1c6ed52e5a64f747",
+      "referencePage": 37
+    },
+    {
+      "id": "sp-personal-26373d279bb0f0dd",
+      "part": 3,
+      "topic": "特别节日的食物",
+      "prompt": "Why do people usually celebrate important occasions with food?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          27
+        ]
+      },
+      "related": "sp-personal-1c6ed52e5a64f747",
+      "referencePage": 37
+    },
+    {
+      "id": "sp-personal-327b8bfaab56cf92",
+      "part": 3,
+      "topic": "特别节日的食物",
+      "prompt": "Do people in your country grow plants at home?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          27
+        ]
+      },
+      "related": "sp-personal-1c6ed52e5a64f747",
+      "editorNote": "原参考把种植物追问列在食物题后，关联较弱；可作为独立追问练习。",
+      "referencePage": 37
+    },
+    {
+      "id": "sp-personal-0087c837425e0c44",
+      "part": 2,
+      "topic": "看过的体育比赛",
+      "prompt": "Describe a live sport match you have ever watched",
+      "source": {
+        "id": "questions",
+        "pages": [
+          27
+        ]
+      },
+      "cuePoints": [
+        "What it was",
+        "When and where you watched",
+        "Why you watched it live",
+        "And explain how you felt about watching it live."
+      ],
+      "category": "物品题",
+      "referencePage": 38
+    },
+    {
+      "id": "sp-personal-89fdfc97a61fba5a",
+      "part": 3,
+      "topic": "看过的体育比赛",
+      "prompt": "What kinds of sports are popular in your country?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          27
+        ]
+      },
+      "related": "sp-personal-0087c837425e0c44",
+      "referencePage": 38
+    },
+    {
+      "id": "sp-personal-7c0017d618b42303",
+      "part": 3,
+      "topic": "看过的体育比赛",
+      "prompt": "What kinds of sports events do people in your country enjoy watching?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          27
+        ]
+      },
+      "related": "sp-personal-0087c837425e0c44",
+      "referencePage": 38
+    },
+    {
+      "id": "sp-personal-1ead5066644646da",
+      "part": 3,
+      "topic": "看过的体育比赛",
+      "prompt": "Is being at a sports match always better than watching it on TV or online?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          27
+        ]
+      },
+      "related": "sp-personal-0087c837425e0c44",
+      "referencePage": 38
+    },
+    {
+      "id": "sp-personal-d938e146630f6edc",
+      "part": 3,
+      "topic": "看过的体育比赛",
+      "prompt": "In your country, what kinds of sports competitions do children usually take part in?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          27
+        ]
+      },
+      "related": "sp-personal-0087c837425e0c44",
+      "referencePage": 38
+    },
+    {
+      "id": "sp-personal-33456ca36360ea5f",
+      "part": 3,
+      "topic": "看过的体育比赛",
+      "prompt": "Do you think people prefer to watch live sports or watch it on TV?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          27
+        ]
+      },
+      "related": "sp-personal-0087c837425e0c44",
+      "referencePage": 38
+    },
+    {
+      "id": "sp-personal-1097f65265cd44d3",
+      "part": 3,
+      "topic": "看过的体育比赛",
+      "prompt": "What are the differences between watching live sports and watching it on TV?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          27
+        ]
+      },
+      "related": "sp-personal-0087c837425e0c44",
+      "referencePage": 38
+    },
+    {
+      "id": "sp-personal-8c79ea2d12de6e3f",
+      "part": 3,
+      "topic": "看过的体育比赛",
+      "prompt": "Can watching sports events on TV or online inspire people to do more sport?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          27
+        ]
+      },
+      "related": "sp-personal-0087c837425e0c44",
+      "referencePage": 38
+    },
+    {
+      "id": "sp-personal-ac54c44f6d245127",
+      "part": 2,
+      "topic": "感兴趣的当地新闻",
+      "prompt": "Describe a piece of local news in your area that people are interested in",
+      "source": {
+        "id": "questions",
+        "pages": [
+          27
+        ]
+      },
+      "cuePoints": [
+        "What it was about",
+        "Where you saw/heard it",
+        "Who was involved",
+        "And explain why people were interested in it"
+      ],
+      "category": "物品题",
+      "referencePage": 32
+    },
+    {
+      "id": "sp-personal-796d3d9454da5f96",
+      "part": 3,
+      "topic": "感兴趣的当地新闻",
+      "prompt": "Do people read the newspaper where you live?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          27
+        ]
+      },
+      "related": "sp-personal-ac54c44f6d245127",
+      "referencePage": 32
+    },
+    {
+      "id": "sp-personal-6f70f91d2240b883",
+      "part": 3,
+      "topic": "感兴趣的当地新闻",
+      "prompt": "Are people more interested in local news than national news?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          27
+        ]
+      },
+      "related": "sp-personal-ac54c44f6d245127",
+      "referencePage": 32
+    },
+    {
+      "id": "sp-personal-996b9c2812464341",
+      "part": 3,
+      "topic": "感兴趣的当地新闻",
+      "prompt": "Why do some people want to be very involved in their community?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          27
+        ]
+      },
+      "related": "sp-personal-ac54c44f6d245127",
+      "referencePage": 32
+    },
+    {
+      "id": "sp-personal-ff77cab42b40f435",
+      "part": 3,
+      "topic": "感兴趣的当地新闻",
+      "prompt": "Do you think local communities were stronger in the past than they are today?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          28
+        ]
+      },
+      "related": "sp-personal-ac54c44f6d245127",
+      "referencePage": 32
+    },
+    {
+      "id": "sp-personal-4bafa1875ee213b1",
+      "part": 3,
+      "topic": "感兴趣的当地新闻",
+      "prompt": "Do you think it is important to have a national identity?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          28
+        ]
+      },
+      "related": "sp-personal-ac54c44f6d245127",
+      "referencePage": 32
+    },
+    {
+      "id": "sp-personal-ba239044e21acd64",
+      "part": 3,
+      "topic": "感兴趣的当地新闻",
+      "prompt": "How can people develop their national identity?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          28
+        ]
+      },
+      "related": "sp-personal-ac54c44f6d245127",
+      "referencePage": 32
+    },
+    {
+      "id": "sp-personal-d7096467d13ee5a8",
+      "part": 2,
+      "topic": "遇到的科技问题",
+      "prompt": "Describe a problem you had with a technology product, like a computer or a phone.",
+      "source": {
+        "id": "questions",
+        "pages": [
+          28
+        ]
+      },
+      "cuePoints": [
+        "What the technology product was",
+        "What was the problem",
+        "Whether you fixed the problem in the end",
+        "And explain how you felt about this experience."
+      ],
+      "category": "物品题",
+      "referencePage": 41
+    },
+    {
+      "id": "sp-personal-e72c04428b1501dc",
+      "part": 3,
+      "topic": "遇到的科技问题",
+      "prompt": "What kinds of modern technology do people use at home?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          28
+        ]
+      },
+      "related": "sp-personal-d7096467d13ee5a8",
+      "referencePage": 41
+    },
+    {
+      "id": "sp-personal-c434b020f1d20eba",
+      "part": 3,
+      "topic": "遇到的科技问题",
+      "prompt": "Why do people often want to buy the latest technology for their homes?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          28
+        ]
+      },
+      "related": "sp-personal-d7096467d13ee5a8",
+      "referencePage": 41
+    },
+    {
+      "id": "sp-personal-59f53f46b4474407",
+      "part": 3,
+      "topic": "遇到的科技问题",
+      "prompt": "What are the advantages and disadvantages for students of using technology in education?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          28
+        ]
+      },
+      "related": "sp-personal-d7096467d13ee5a8",
+      "referencePage": 41
+    },
+    {
+      "id": "sp-personal-620c3fe11e720d4c",
+      "part": 3,
+      "topic": "遇到的科技问题",
+      "prompt": "Do you think young children today are over-reliant on technology products?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          28
+        ]
+      },
+      "related": "sp-personal-d7096467d13ee5a8",
+      "referencePage": 41
+    },
+    {
+      "id": "sp-personal-f110effb3f1997a9",
+      "part": 3,
+      "topic": "遇到的科技问题",
+      "prompt": "Is it possible to live without a computer at home?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          28
+        ]
+      },
+      "related": "sp-personal-d7096467d13ee5a8",
+      "referencePage": 41
+    },
+    {
+      "id": "sp-personal-e5ae4965a995f056",
+      "part": 3,
+      "topic": "遇到的科技问题",
+      "prompt": "Can technology have a bad influence on communication between students?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          28
+        ]
+      },
+      "related": "sp-personal-d7096467d13ee5a8",
+      "referencePage": 41
+    },
+    {
+      "id": "sp-personal-f8c2b99cc04bb47a",
+      "part": 3,
+      "topic": "遇到的科技问题",
+      "prompt": "Will online learning replace face-to-face classroom teaching?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          28
+        ]
+      },
+      "related": "sp-personal-d7096467d13ee5a8",
+      "referencePage": 41
+    },
+    {
+      "id": "sp-personal-58b92081d42824ed",
+      "part": 2,
+      "topic": "雄心壮志",
+      "prompt": "Describe an ambition you have had for a long time",
+      "source": {
+        "id": "questions",
+        "pages": [
+          28
+        ]
+      },
+      "cuePoints": [
+        "What it was",
+        "Why you want to achieve it",
+        "When you think you will achieve it",
+        "And explain why you have had this ambition for such a long time."
+      ],
+      "category": "物品题",
+      "referencePage": 40
+    },
+    {
+      "id": "sp-personal-136463f6d31254d8",
+      "part": 3,
+      "topic": "雄心壮志",
+      "prompt": "What kinds of ambitions do young people have? Why?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          28
+        ]
+      },
+      "related": "sp-personal-58b92081d42824ed",
+      "referencePage": 40
+    },
+    {
+      "id": "sp-personal-843bc2cf6b85bec0",
+      "part": 3,
+      "topic": "雄心壮志",
+      "prompt": "What kinds of ambitions do children have?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          28
+        ]
+      },
+      "related": "sp-personal-58b92081d42824ed",
+      "referencePage": 40
+    },
+    {
+      "id": "sp-personal-ffa0dd5b0b64a21d",
+      "part": 3,
+      "topic": "雄心壮志",
+      "prompt": "Should parents help their children decide what ambitions to follow?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          28
+        ]
+      },
+      "related": "sp-personal-58b92081d42824ed",
+      "referencePage": 40
+    },
+    {
+      "id": "sp-personal-868562779f1ead66",
+      "part": 3,
+      "topic": "雄心壮志",
+      "prompt": "Do you think ambition is necessary within a company team?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          28
+        ]
+      },
+      "related": "sp-personal-58b92081d42824ed",
+      "referencePage": 40
+    },
+    {
+      "id": "sp-personal-3e43b3a6a255c0f4",
+      "part": 3,
+      "topic": "雄心壮志",
+      "prompt": "Why are some people ambitious to take on higher positions at work?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          28
+        ]
+      },
+      "related": "sp-personal-58b92081d42824ed",
+      "referencePage": 40
+    },
+    {
+      "id": "sp-personal-27b128036eb7e15e",
+      "part": 3,
+      "topic": "雄心壮志",
+      "prompt": "Are ambitious people always successful at work?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          28
+        ]
+      },
+      "related": "sp-personal-58b92081d42824ed",
+      "referencePage": 40
+    },
+    {
+      "id": "sp-personal-1735c09eb373ff46",
+      "part": 3,
+      "topic": "雄心壮志",
+      "prompt": "Is it a bad thing if someone isn't ambitious?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          29
+        ]
+      },
+      "related": "sp-personal-58b92081d42824ed",
+      "referencePage": 40
+    },
+    {
+      "id": "sp-personal-2e3daf0988581308",
+      "part": 3,
+      "topic": "雄心壮志",
+      "prompt": "Does society value ambition more than other personalities?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          29
+        ]
+      },
+      "related": "sp-personal-58b92081d42824ed",
+      "referencePage": 40
+    },
+    {
+      "id": "sp-personal-d30c57eee439fd68",
+      "part": 2,
+      "topic": "社媒上的有趣视频",
+      "prompt": "Describe an interesting video that you watched on the internet.",
+      "source": {
+        "id": "questions",
+        "pages": [
+          29
+        ]
+      },
+      "cuePoints": [
+        "What it was about",
+        "When and where you watched it",
+        "How you found out about this it",
+        "And explain why you thought this video was interesting."
+      ],
+      "category": "物品题",
+      "referencePage": null
+    },
+    {
+      "id": "sp-personal-e99ab44e3f740237",
+      "part": 3,
+      "topic": "社媒上的有趣视频",
+      "prompt": "What kinds of videos are popular in your country?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          29
+        ]
+      },
+      "related": "sp-personal-d30c57eee439fd68",
+      "referencePage": null
+    },
+    {
+      "id": "sp-personal-bf42d3fe7ea96876",
+      "part": 3,
+      "topic": "社媒上的有趣视频",
+      "prompt": "What types of videos do young people and elderly people prefer?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          29
+        ]
+      },
+      "related": "sp-personal-d30c57eee439fd68",
+      "referencePage": null
+    },
+    {
+      "id": "sp-personal-060f43b8e79b290a",
+      "part": 3,
+      "topic": "社媒上的有趣视频",
+      "prompt": "Why do some videos become very popular around the world?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          29
+        ]
+      },
+      "related": "sp-personal-d30c57eee439fd68",
+      "referencePage": null
+    },
+    {
+      "id": "sp-personal-380cc5b0707e8869",
+      "part": 3,
+      "topic": "社媒上的有趣视频",
+      "prompt": "What are the differences between learning through videos and learning through books?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          29
+        ]
+      },
+      "related": "sp-personal-d30c57eee439fd68",
+      "referencePage": null
+    },
+    {
+      "id": "sp-personal-7eccbefa4784b0f4",
+      "part": 3,
+      "topic": "社媒上的有趣视频",
+      "prompt": "What skills or things can people learn from videos?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          29
+        ]
+      },
+      "related": "sp-personal-d30c57eee439fd68",
+      "referencePage": null
+    },
+    {
+      "id": "sp-personal-04dd64d72346b3b9",
+      "part": 3,
+      "topic": "社媒上的有趣视频",
+      "prompt": "What are the advantages of online learning?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          29
+        ]
+      },
+      "related": "sp-personal-d30c57eee439fd68",
+      "referencePage": null
+    },
+    {
+      "id": "sp-personal-5c4817b6caa61377",
+      "part": 3,
+      "topic": "社媒上的有趣视频",
+      "prompt": "Is watching a video a more effective way to learn than reading instructions?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          29
+        ]
+      },
+      "related": "sp-personal-d30c57eee439fd68",
+      "referencePage": null
+    },
+    {
+      "id": "sp-personal-a26dc4d58f9e3897",
+      "part": 3,
+      "topic": "社媒上的有趣视频",
+      "prompt": "How do videos recorded by ordinary people affect the news?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          29
+        ]
+      },
+      "related": "sp-personal-d30c57eee439fd68",
+      "referencePage": null
+    },
+    {
+      "id": "sp-personal-970e4f03dcefd250",
+      "part": 2,
+      "topic": "环保法律",
+      "prompt": "Describe a law to help the environment which you think your country should have.",
+      "source": {
+        "id": "questions",
+        "pages": [
+          29
+        ]
+      },
+      "cuePoints": [
+        "What it is",
+        "Why your country needs this law",
+        "Whether this law would be popular",
+        "And explain why this law would help the environment."
+      ],
+      "category": "物品题",
+      "referencePage": null
+    },
+    {
+      "id": "sp-personal-04c463ee4a42c8a7",
+      "part": 3,
+      "topic": "环保法律",
+      "prompt": "What kinds of rules do most schools have?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          29
+        ]
+      },
+      "related": "sp-personal-970e4f03dcefd250",
+      "referencePage": null
+    },
+    {
+      "id": "sp-personal-ef4314caa26cbd12",
+      "part": 3,
+      "topic": "环保法律",
+      "prompt": "Should schools increase or reduce rules?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          29
+        ]
+      },
+      "related": "sp-personal-970e4f03dcefd250",
+      "referencePage": null
+    },
+    {
+      "id": "sp-personal-5c2615eaeb077c26",
+      "part": 3,
+      "topic": "环保法律",
+      "prompt": "Why are rules important for schoolchildren?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          29
+        ]
+      },
+      "related": "sp-personal-970e4f03dcefd250",
+      "referencePage": null
+    },
+    {
+      "id": "sp-personal-e6440bc5c3163e89",
+      "part": 3,
+      "topic": "环保法律",
+      "prompt": "How can teachers and parents help their children follow rules?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          29
+        ]
+      },
+      "related": "sp-personal-970e4f03dcefd250",
+      "referencePage": null
+    },
+    {
+      "id": "sp-personal-d75fb0116f173a80",
+      "part": 3,
+      "topic": "环保法律",
+      "prompt": "What kinds of jobs require people to follow strict rules?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          29
+        ]
+      },
+      "related": "sp-personal-970e4f03dcefd250",
+      "referencePage": null
+    },
+    {
+      "id": "sp-personal-03d995818513caa2",
+      "part": 3,
+      "topic": "环保法律",
+      "prompt": "Should there be rules about what people can wear at work?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          29
+        ]
+      },
+      "related": "sp-personal-970e4f03dcefd250",
+      "referencePage": null
+    },
+    {
+      "id": "sp-personal-b21939e4f865163d",
+      "part": 3,
+      "topic": "环保法律",
+      "prompt": "Should employees be involved in making company rules?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          30
+        ]
+      },
+      "related": "sp-personal-970e4f03dcefd250",
+      "referencePage": null
+    },
+    {
+      "id": "sp-personal-cb2805194a826acc",
+      "part": 3,
+      "topic": "环保法律",
+      "prompt": "Do you think it is necessary to create laws for society?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          30
+        ]
+      },
+      "related": "sp-personal-970e4f03dcefd250",
+      "referencePage": null
+    },
+    {
+      "id": "sp-personal-b89ddc021e3908d1",
+      "part": 3,
+      "topic": "环保法律",
+      "prompt": "Do you agree that people who break the law must be punished?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          30
+        ]
+      },
+      "related": "sp-personal-970e4f03dcefd250",
+      "referencePage": null
+    },
+    {
+      "id": "sp-personal-9e31a407a832b879",
+      "part": 2,
+      "topic": "关于动物故事",
+      "prompt": "Describe a story you like that involves animals, like a book or a movie.",
+      "source": {
+        "id": "questions",
+        "pages": [
+          30
+        ]
+      },
+      "cuePoints": [
+        "How you know about this story",
+        "What the story is about",
+        "What animals are in it",
+        "And explain why you like this story."
+      ],
+      "category": "物品题",
+      "referencePage": null
+    },
+    {
+      "id": "sp-personal-f614a8a0156f8483",
+      "part": 3,
+      "topic": "关于动物故事",
+      "prompt": "What kinds of animals are often in children's stories?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          30
+        ]
+      },
+      "related": "sp-personal-9e31a407a832b879",
+      "referencePage": null
+    },
+    {
+      "id": "sp-personal-5da8436ef441a6e2",
+      "part": 3,
+      "topic": "关于动物故事",
+      "prompt": "Do many people in your country keep pets?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          30
+        ]
+      },
+      "related": "sp-personal-9e31a407a832b879",
+      "referencePage": null
+    },
+    {
+      "id": "sp-personal-a21ae3468632c31e",
+      "part": 3,
+      "topic": "关于动物故事",
+      "prompt": "What kinds of animals do people in your country like to keep as pets?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          30
+        ]
+      },
+      "related": "sp-personal-9e31a407a832b879",
+      "referencePage": null
+    },
+    {
+      "id": "sp-personal-756a99cb1f65a7f9",
+      "part": 3,
+      "topic": "关于动物故事",
+      "prompt": "Some people think that keeping pets should be banned in cities. What is your opinion?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          30
+        ]
+      },
+      "related": "sp-personal-9e31a407a832b879",
+      "referencePage": null
+    },
+    {
+      "id": "sp-personal-15f8e2332aa08b23",
+      "part": 3,
+      "topic": "关于动物故事",
+      "prompt": "Should children learn about animals at school?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          30
+        ]
+      },
+      "related": "sp-personal-9e31a407a832b879",
+      "referencePage": null
+    },
+    {
+      "id": "sp-personal-ed02f61e78c7b748",
+      "part": 3,
+      "topic": "关于动物故事",
+      "prompt": "Is it a good idea to take children to see animals in zoos?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          30
+        ]
+      },
+      "related": "sp-personal-9e31a407a832b879",
+      "referencePage": null
+    },
+    {
+      "id": "sp-personal-ca24fb3d53029f73",
+      "part": 2,
+      "topic": "看过的名人广告",
+      "prompt": "Describe a piece of advertisement you saw with a famous person in it",
+      "source": {
+        "id": "questions",
+        "pages": [
+          30
+        ]
+      },
+      "cuePoints": [
+        "What the advertisement is about",
+        "When and where you saw it",
+        "What the famous person does in the advertisement",
+        "And explain how you felt about it"
+      ],
+      "category": "物品题",
+      "referencePage": 44
+    },
+    {
+      "id": "sp-personal-764fd7b8614c6ab2",
+      "part": 3,
+      "topic": "看过的名人广告",
+      "prompt": "Where do people often see advertisements?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          30
+        ]
+      },
+      "related": "sp-personal-ca24fb3d53029f73",
+      "referencePage": 44
+    },
+    {
+      "id": "sp-personal-51fee9c6dea0bafc",
+      "part": 3,
+      "topic": "看过的名人广告",
+      "prompt": "Why do companies sometimes use famous people to advertise things?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          30
+        ]
+      },
+      "related": "sp-personal-ca24fb3d53029f73",
+      "referencePage": 44
+    },
+    {
+      "id": "sp-personal-114f6fb9bc0402c9",
+      "part": 3,
+      "topic": "看过的名人广告",
+      "prompt": "Which is better for companies to spend money on, advertising online or advertising in public places?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          30
+        ]
+      },
+      "related": "sp-personal-ca24fb3d53029f73",
+      "referencePage": 44
+    },
+    {
+      "id": "sp-personal-70571995065908d1",
+      "part": 3,
+      "topic": "看过的名人广告",
+      "prompt": "What are the advantages and disadvantages of advertisements?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          30
+        ]
+      },
+      "related": "sp-personal-ca24fb3d53029f73",
+      "referencePage": 44
+    },
+    {
+      "id": "sp-personal-1ce4cfebd853cc0c",
+      "part": 3,
+      "topic": "看过的名人广告",
+      "prompt": "Is it effective to use celebrities in advertisements? Why or why not?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          30
+        ]
+      },
+      "related": "sp-personal-ca24fb3d53029f73",
+      "referencePage": 44
+    },
+    {
+      "id": "sp-personal-a70fa04c0b247e17",
+      "part": 3,
+      "topic": "看过的名人广告",
+      "prompt": "How important is advertising for increasing sales?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          30
+        ]
+      },
+      "related": "sp-personal-ca24fb3d53029f73",
+      "referencePage": 44
+    },
+    {
+      "id": "sp-personal-73b7323624fa6885",
+      "part": 3,
+      "topic": "看过的名人广告",
+      "prompt": "What qualities might an effective advertisement have?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          31
+        ]
+      },
+      "related": "sp-personal-ca24fb3d53029f73",
+      "referencePage": 44
+    },
+    {
+      "id": "sp-personal-63ee8ce6de588432",
+      "part": 3,
+      "topic": "看过的名人广告",
+      "prompt": "How truthful are advertisements about the things they advertise?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          31
+        ]
+      },
+      "related": "sp-personal-ca24fb3d53029f73",
+      "referencePage": 44
+    },
+    {
+      "id": "sp-personal-d7b74406be96843f",
+      "part": 2,
+      "topic": "不感兴趣的谈话",
+      "prompt": "Describe a time when someone talked about something you were not interested in but you kept listening.",
+      "source": {
+        "id": "questions",
+        "pages": [
+          31
+        ]
+      },
+      "cuePoints": [
+        "Who the person was",
+        "What he/she talked about",
+        "Why you kept listening",
+        "And explain how you felt about the experience"
+      ],
+      "category": "事件题",
+      "referencePage": null
+    },
+    {
+      "id": "sp-personal-4dcdcf2c0398e950",
+      "part": 3,
+      "topic": "不感兴趣的谈话",
+      "prompt": "What kind of topics do young people like to talk about today?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          31
+        ]
+      },
+      "related": "sp-personal-d7b74406be96843f",
+      "referencePage": null
+    },
+    {
+      "id": "sp-personal-71bb3b49efc3a3bf",
+      "part": 3,
+      "topic": "不感兴趣的谈话",
+      "prompt": "What would happen if the listener didn't listen carefully?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          31
+        ]
+      },
+      "related": "sp-personal-d7b74406be96843f",
+      "referencePage": null
+    },
+    {
+      "id": "sp-personal-25b868e501630008",
+      "part": 3,
+      "topic": "不感兴趣的谈话",
+      "prompt": "How can we tell if a listener is listening carefully?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          31
+        ]
+      },
+      "related": "sp-personal-d7b74406be96843f",
+      "referencePage": null
+    },
+    {
+      "id": "sp-personal-f9381bf9b9ebb3a5",
+      "part": 2,
+      "topic": "跟朋友度过的美好夜晚",
+      "prompt": "Describe an enjoyable evening with your friends.",
+      "source": {
+        "id": "questions",
+        "pages": [
+          31
+        ]
+      },
+      "cuePoints": [
+        "When and where it was",
+        "Who you spend the evening with",
+        "What you did",
+        "And explain why you think it was an enjoyable evening"
+      ],
+      "category": "事件题",
+      "referencePage": null
+    },
+    {
+      "id": "sp-personal-52fe16e283344b65",
+      "part": 3,
+      "topic": "跟朋友度过的美好夜晚",
+      "prompt": "What kinds of activities do people usually do with their friends?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          31
+        ]
+      },
+      "related": "sp-personal-f9381bf9b9ebb3a5",
+      "referencePage": null
+    },
+    {
+      "id": "sp-personal-cf82a1fa959cb8b0",
+      "part": 3,
+      "topic": "跟朋友度过的美好夜晚",
+      "prompt": "What are the differences between the evening activities of young people and older people?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          31
+        ]
+      },
+      "related": "sp-personal-f9381bf9b9ebb3a5",
+      "referencePage": null
+    },
+    {
+      "id": "sp-personal-01dcbbdd74c97175",
+      "part": 3,
+      "topic": "跟朋友度过的美好夜晚",
+      "prompt": "Do people enjoy spending time with their cousins? Why?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          31
+        ]
+      },
+      "related": "sp-personal-f9381bf9b9ebb3a5",
+      "referencePage": null
+    },
+    {
+      "id": "sp-personal-56b80608f13f04d1",
+      "part": 3,
+      "topic": "跟朋友度过的美好夜晚",
+      "prompt": "Is it important to maintain relationships with extended family members?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          31
+        ]
+      },
+      "related": "sp-personal-f9381bf9b9ebb3a5",
+      "referencePage": null
+    },
+    {
+      "id": "sp-personal-51115e4d59656dfc",
+      "part": 3,
+      "topic": "跟朋友度过的美好夜晚",
+      "prompt": "How can families strengthen their relationships and become closer?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          31
+        ]
+      },
+      "related": "sp-personal-f9381bf9b9ebb3a5",
+      "referencePage": null
+    },
+    {
+      "id": "sp-personal-0f5308746ea7fb0c",
+      "part": 2,
+      "topic": "攒钱买东西",
+      "prompt": "Describe a time when you saved money to buy something you wanted.",
+      "source": {
+        "id": "questions",
+        "pages": [
+          31,
+          32
+        ]
+      },
+      "cuePoints": [
+        "What you wanted to buy",
+        "How you saved money for it",
+        "How long it took you to save enough money",
+        "And explain how you felt after you bought it."
+      ],
+      "category": "事件题",
+      "referencePage": null
+    },
+    {
+      "id": "sp-personal-43d719dc8d80d7fc",
+      "part": 3,
+      "topic": "攒钱买东西",
+      "prompt": "Should schools teach children how to manage money?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          32
+        ]
+      },
+      "related": "sp-personal-0f5308746ea7fb0c",
+      "referencePage": null
+    },
+    {
+      "id": "sp-personal-890cc0bd83650c71",
+      "part": 3,
+      "topic": "攒钱买东西",
+      "prompt": "Should parents encourage their children to spend money freely or to be careful with it?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          32
+        ]
+      },
+      "related": "sp-personal-0f5308746ea7fb0c",
+      "referencePage": null
+    },
+    {
+      "id": "sp-personal-59989d39c2966529",
+      "part": 3,
+      "topic": "攒钱买东西",
+      "prompt": "Is it easier to teach teenagers how to manage money when they are 16 or 17 years old?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          32
+        ]
+      },
+      "related": "sp-personal-0f5308746ea7fb0c",
+      "referencePage": null
+    },
+    {
+      "id": "sp-personal-eab49eb5b0e1cf8c",
+      "part": 3,
+      "topic": "攒钱买东西",
+      "prompt": "Which do you think is easier, saving money or spending money?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          32
+        ]
+      },
+      "related": "sp-personal-0f5308746ea7fb0c",
+      "referencePage": null
+    },
+    {
+      "id": "sp-personal-eb560a051c836a1a",
+      "part": 2,
+      "topic": "等待特殊事情发生",
+      "prompt": "Describe a time when you had to wait for something special to happen.",
+      "source": {
+        "id": "questions",
+        "pages": [
+          32
+        ]
+      },
+      "cuePoints": [
+        "What this special thing was",
+        "Why you had to wait for it",
+        "What you did while you were waiting",
+        "And explain how you felt about waiting for this special thing to happen"
+      ],
+      "category": "事件题",
+      "referencePage": null
+    },
+    {
+      "id": "sp-personal-a4e87ac32206a900",
+      "part": 3,
+      "topic": "等待特殊事情发生",
+      "prompt": "On what occasions do people usually need to wait?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          32
+        ]
+      },
+      "related": "sp-personal-eb560a051c836a1a",
+      "referencePage": null
+    },
+    {
+      "id": "sp-personal-42c9e209c61db3b6",
+      "part": 3,
+      "topic": "等待特殊事情发生",
+      "prompt": "Why do many people really not like waiting?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          32
+        ]
+      },
+      "related": "sp-personal-eb560a051c836a1a",
+      "referencePage": null
+    },
+    {
+      "id": "sp-personal-90a6e1faf7cf003f",
+      "part": 3,
+      "topic": "等待特殊事情发生",
+      "prompt": "Who behaves better when waiting, children or adults?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          32
+        ]
+      },
+      "related": "sp-personal-eb560a051c836a1a",
+      "referencePage": null
+    },
+    {
+      "id": "sp-personal-4b6dd8f9c77ee5e9",
+      "part": 3,
+      "topic": "等待特殊事情发生",
+      "prompt": "Compared to the past, are people less patient now, why?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          32
+        ]
+      },
+      "related": "sp-personal-eb560a051c836a1a",
+      "referencePage": null
+    },
+    {
+      "id": "sp-personal-f7cf41a74414433b",
+      "part": 3,
+      "topic": "等待特殊事情发生",
+      "prompt": "Is it always a good thing to be a patient person?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          32
+        ]
+      },
+      "related": "sp-personal-eb560a051c836a1a",
+      "referencePage": null
+    },
+    {
+      "id": "sp-personal-874b0cf281075cfd",
+      "part": 3,
+      "topic": "等待特殊事情发生",
+      "prompt": "Can people train themselves to be patient?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          32
+        ]
+      },
+      "related": "sp-personal-eb560a051c836a1a",
+      "referencePage": null
+    },
+    {
+      "id": "sp-personal-da7f9b7751d9cf08",
+      "part": 2,
+      "topic": "优质服务",
+      "prompt": "Describe a time when you received very good service from a shop/store or a company.",
+      "source": {
+        "id": "questions",
+        "pages": [
+          32
+        ]
+      },
+      "cuePoints": [
+        "Which shop/store or company it was",
+        "What service you received",
+        "Why you thought this service was so good",
+        "And explain how you felt after receiving such good service."
+      ],
+      "category": "事件题",
+      "referencePage": null
+    },
+    {
+      "id": "sp-personal-0ea1f9e53a077bd5",
+      "part": 3,
+      "topic": "优质服务",
+      "prompt": "Do you think the most expensive shops or stores usually provide the best service?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          33
+        ]
+      },
+      "related": "sp-personal-da7f9b7751d9cf08",
+      "referencePage": null
+    },
+    {
+      "id": "sp-personal-bebddae2989d5122",
+      "part": 3,
+      "topic": "优质服务",
+      "prompt": "Why is it that service in shops or stores is sometimes not very good?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          33
+        ]
+      },
+      "related": "sp-personal-da7f9b7751d9cf08",
+      "referencePage": null
+    },
+    {
+      "id": "sp-personal-b8e13806dbe82458",
+      "part": 3,
+      "topic": "优质服务",
+      "prompt": "How important do you think good service is to most customers?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          33
+        ]
+      },
+      "related": "sp-personal-da7f9b7751d9cf08",
+      "referencePage": null
+    },
+    {
+      "id": "sp-personal-bbe92f040ffd93b3",
+      "part": 3,
+      "topic": "优质服务",
+      "prompt": "How is dealing with customers face-to-face different from dealing with them on the phone?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          33
+        ]
+      },
+      "related": "sp-personal-da7f9b7751d9cf08",
+      "referencePage": null
+    },
+    {
+      "id": "sp-personal-02c26227cbbc89a7",
+      "part": 3,
+      "topic": "优质服务",
+      "prompt": "What personal qualities do customer service staff need in order to handle complaints well?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          33
+        ]
+      },
+      "related": "sp-personal-da7f9b7751d9cf08",
+      "referencePage": null
+    },
+    {
+      "id": "sp-personal-d5450e00d1cc8cf2",
+      "part": 3,
+      "topic": "优质服务",
+      "prompt": "Do you think working in customer service would be an enjoyable job?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          33
+        ]
+      },
+      "related": "sp-personal-da7f9b7751d9cf08",
+      "referencePage": null
+    },
+    {
+      "id": "sp-personal-1f33154a4a6ef29d",
+      "part": 2,
+      "topic": "帮助他人解决问题",
+      "prompt": "Describe a time you helped someone solve a problem.",
+      "source": {
+        "id": "questions",
+        "pages": [
+          33
+        ]
+      },
+      "cuePoints": [
+        "When it was",
+        "Who you helped",
+        "What problem you solved",
+        "And explain how you felt about this experience"
+      ],
+      "category": "事件题",
+      "referencePage": null
+    },
+    {
+      "id": "sp-personal-4bb8a4cd9ffd1c66",
+      "part": 3,
+      "topic": "帮助他人解决问题",
+      "prompt": "When do people usually ask others for help?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          33
+        ]
+      },
+      "related": "sp-personal-1f33154a4a6ef29d",
+      "referencePage": null
+    },
+    {
+      "id": "sp-personal-3068263ad450d1ac",
+      "part": 3,
+      "topic": "帮助他人解决问题",
+      "prompt": "Is it important for parents to teach their children to help others?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          33
+        ]
+      },
+      "related": "sp-personal-1f33154a4a6ef29d",
+      "referencePage": null
+    },
+    {
+      "id": "sp-personal-c82cd87dd6d56bc5",
+      "part": 3,
+      "topic": "帮助他人解决问题",
+      "prompt": "Is it enough for children to learn about helping others only from their parents? What kinds of skills are needed when people want to help others?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          33
+        ]
+      },
+      "related": "sp-personal-1f33154a4a6ef29d",
+      "referencePage": null
+    },
+    {
+      "id": "sp-personal-3a52cb8c959cf6ab",
+      "part": 3,
+      "topic": "帮助他人解决问题",
+      "prompt": "Should people solve their own problems before helping others?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          33
+        ]
+      },
+      "related": "sp-personal-1f33154a4a6ef29d",
+      "referencePage": null
+    },
+    {
+      "id": "sp-personal-f4371daa19f6d588",
+      "part": 2,
+      "topic": "明智的重要决定",
+      "prompt": "Describe a time you made an important decision and were happy with the result.",
+      "source": {
+        "id": "questions",
+        "pages": [
+          33
+        ]
+      },
+      "cuePoints": [
+        "What the decision was",
+        "Why you chose to make this decision",
+        "Is it easy or difficult to make this decision",
+        "And explain why you were happy with the result."
+      ],
+      "category": "事件题",
+      "referencePage": null
+    },
+    {
+      "id": "sp-personal-daaf88487803b80e",
+      "part": 3,
+      "topic": "明智的重要决定",
+      "prompt": "What small choices do people have to make in their daily lives?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          33
+        ]
+      },
+      "related": "sp-personal-f4371daa19f6d588",
+      "referencePage": null
+    },
+    {
+      "id": "sp-personal-d6bdb2c62ac30072",
+      "part": 3,
+      "topic": "明智的重要决定",
+      "prompt": "What important decisions do people need to make slowly?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          33
+        ]
+      },
+      "related": "sp-personal-f4371daa19f6d588",
+      "referencePage": null
+    },
+    {
+      "id": "sp-personal-a95ac24a3607fdc5",
+      "part": 3,
+      "topic": "明智的重要决定",
+      "prompt": "Why do some people make decisions very quickly while others take a long time?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          33
+        ]
+      },
+      "related": "sp-personal-f4371daa19f6d588",
+      "referencePage": null
+    },
+    {
+      "id": "sp-personal-8ff4d00d75686638",
+      "part": 3,
+      "topic": "明智的重要决定",
+      "prompt": "Do you think people should make decisions quickly or carefully?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          33
+        ]
+      },
+      "related": "sp-personal-f4371daa19f6d588",
+      "referencePage": null
+    },
+    {
+      "id": "sp-personal-040c4636f00a82f8",
+      "part": 3,
+      "topic": "明智的重要决定",
+      "prompt": "What important choices do people face in their whole lives?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          34
+        ]
+      },
+      "related": "sp-personal-f4371daa19f6d588",
+      "referencePage": null
+    },
+    {
+      "id": "sp-personal-94cefb5bc6eb43cd",
+      "part": 3,
+      "topic": "明智的重要决定",
+      "prompt": "Why do people often seek advice before making important decisions?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          34
+        ]
+      },
+      "related": "sp-personal-f4371daa19f6d588",
+      "referencePage": null
+    },
+    {
+      "id": "sp-personal-cbb23b90d71f1e4c",
+      "part": 2,
+      "topic": "早起的经历",
+      "prompt": "Describe a time when you had to get up very early.",
+      "source": {
+        "id": "questions",
+        "pages": [
+          34
+        ]
+      },
+      "cuePoints": [
+        "What time you had to get up",
+        "Where you were",
+        "Why you had to get up so early",
+        "And explain how you felt about getting up very early."
+      ],
+      "category": "事件题",
+      "referencePage": 42
+    },
+    {
+      "id": "sp-personal-54602dfae850708c",
+      "part": 3,
+      "topic": "早起的经历",
+      "prompt": "Why do people get up early?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          34
+        ]
+      },
+      "related": "sp-personal-cbb23b90d71f1e4c",
+      "referencePage": 42
+    },
+    {
+      "id": "sp-personal-b56be9040b325c55",
+      "part": 3,
+      "topic": "早起的经历",
+      "prompt": "Why do many people dislike getting up early?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          34
+        ]
+      },
+      "related": "sp-personal-cbb23b90d71f1e4c",
+      "referencePage": 42
+    },
+    {
+      "id": "sp-personal-6c005cae1eff135b",
+      "part": 3,
+      "topic": "早起的经历",
+      "prompt": "Is the early morning the best part of the day?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          34
+        ]
+      },
+      "related": "sp-personal-cbb23b90d71f1e4c",
+      "referencePage": 42
+    },
+    {
+      "id": "sp-personal-856b7e22ed9848eb",
+      "part": 3,
+      "topic": "早起的经历",
+      "prompt": "What's the advantages of arriving early for an appointment?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          34
+        ]
+      },
+      "related": "sp-personal-cbb23b90d71f1e4c",
+      "referencePage": 42
+    },
+    {
+      "id": "sp-personal-c419a6eeb8cc3a35",
+      "part": 3,
+      "topic": "早起的经历",
+      "prompt": "When it is not good for people to arrive very early",
+      "source": {
+        "id": "questions",
+        "pages": [
+          34
+        ]
+      },
+      "related": "sp-personal-cbb23b90d71f1e4c",
+      "referencePage": 42
+    },
+    {
+      "id": "sp-personal-e3e79d7e8844736e",
+      "part": 3,
+      "topic": "早起的经历",
+      "prompt": "Why do some people think it's important to be on time and others don't",
+      "source": {
+        "id": "questions",
+        "pages": [
+          34
+        ]
+      },
+      "related": "sp-personal-cbb23b90d71f1e4c",
+      "referencePage": 42
+    },
+    {
+      "id": "sp-personal-0aaab0d6e0f936c3",
+      "part": 2,
+      "topic": "改变计划",
+      "prompt": "Describe a time you had to change a plan you had made.",
+      "source": {
+        "id": "questions",
+        "pages": [
+          34
+        ]
+      },
+      "cuePoints": [
+        "What your plan was",
+        "Why you had to change it",
+        "Is it difficult to change",
+        "And explain how you felt about it."
+      ],
+      "category": "事件题",
+      "referencePage": null
+    },
+    {
+      "id": "sp-personal-909ad25e5b327669",
+      "part": 3,
+      "topic": "改变计划",
+      "prompt": "What kinds of plans do people make regularly?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          34
+        ]
+      },
+      "related": "sp-personal-0aaab0d6e0f936c3",
+      "referencePage": null
+    },
+    {
+      "id": "sp-personal-f7b45c79ae144dbe",
+      "part": 3,
+      "topic": "改变计划",
+      "prompt": "Why do some people enjoy making plans?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          34
+        ]
+      },
+      "related": "sp-personal-0aaab0d6e0f936c3",
+      "referencePage": null
+    },
+    {
+      "id": "sp-personal-6c1f97c2a62507c6",
+      "part": 3,
+      "topic": "改变计划",
+      "prompt": "Is it important for everyone to plan their everyday lives?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          34
+        ]
+      },
+      "related": "sp-personal-0aaab0d6e0f936c3",
+      "referencePage": null
+    },
+    {
+      "id": "sp-personal-c0ea8a5d3a9b446b",
+      "part": 3,
+      "topic": "改变计划",
+      "prompt": "Do employees find it easy when things change at work?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          34
+        ]
+      },
+      "related": "sp-personal-0aaab0d6e0f936c3",
+      "referencePage": null
+    },
+    {
+      "id": "sp-personal-b874ad05ed5dc56b",
+      "part": 2,
+      "topic": "改变重要观点的时刻",
+      "prompt": "Describe a time when you changed your opinion about something important.",
+      "source": {
+        "id": "questions",
+        "pages": [
+          34,
+          35
+        ]
+      },
+      "cuePoints": [
+        "When it was",
+        "What was your original opinion",
+        "Why you changed this opinion",
+        "And explain what the result was."
+      ],
+      "category": "事件题",
+      "referencePage": 39
+    },
+    {
+      "id": "sp-personal-ecbee925c92d747a",
+      "part": 3,
+      "topic": "改变重要观点的时刻",
+      "prompt": "Do children like to change opinions?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          35
+        ]
+      },
+      "related": "sp-personal-b874ad05ed5dc56b",
+      "referencePage": 39
+    },
+    {
+      "id": "sp-personal-a110928dfde520ed",
+      "part": 3,
+      "topic": "改变重要观点的时刻",
+      "prompt": "At what age do children start to have their own opinions?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          35
+        ]
+      },
+      "related": "sp-personal-b874ad05ed5dc56b",
+      "referencePage": 39
+    },
+    {
+      "id": "sp-personal-075aa4452efb11a6",
+      "part": 3,
+      "topic": "改变重要观点的时刻",
+      "prompt": "Who has a greater influence on children's opinions, parents or teachers?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          35
+        ]
+      },
+      "related": "sp-personal-b874ad05ed5dc56b",
+      "referencePage": 39
+    },
+    {
+      "id": "sp-personal-3ebe4086d0e2e383",
+      "part": 3,
+      "topic": "改变重要观点的时刻",
+      "prompt": "Should teachers ask children's opinions in lessons or classes?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          35
+        ]
+      },
+      "related": "sp-personal-b874ad05ed5dc56b",
+      "referencePage": 39
+    },
+    {
+      "id": "sp-personal-45ca32e0e5803bdb",
+      "part": 3,
+      "topic": "改变重要观点的时刻",
+      "prompt": "When do people change opinions?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          35
+        ]
+      },
+      "related": "sp-personal-b874ad05ed5dc56b",
+      "referencePage": 39
+    },
+    {
+      "id": "sp-personal-6f7a782db0969fd6",
+      "part": 3,
+      "topic": "改变重要观点的时刻",
+      "prompt": "Who do most young people discuss their opinions with?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          35
+        ]
+      },
+      "related": "sp-personal-b874ad05ed5dc56b",
+      "referencePage": 39
+    },
+    {
+      "id": "sp-personal-16d00f712e61eb47",
+      "part": 3,
+      "topic": "改变重要观点的时刻",
+      "prompt": "Do people like giving opinions about politics?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          35
+        ]
+      },
+      "related": "sp-personal-b874ad05ed5dc56b",
+      "referencePage": 39
+    },
+    {
+      "id": "sp-personal-2c751d06d50da305",
+      "part": 2,
+      "topic": "团队合作",
+      "prompt": "Describe a time when you worked with other people in a group.",
+      "source": {
+        "id": "questions",
+        "pages": [
+          35
+        ]
+      },
+      "cuePoints": [
+        "When and where you did it",
+        "What you were doing",
+        "How successful the group work was",
+        "And explain how you felt about working with the group."
+      ],
+      "category": "事件题",
+      "referencePage": null
+    },
+    {
+      "id": "sp-personal-b8e150738a6431d7",
+      "part": 3,
+      "topic": "团队合作",
+      "prompt": "Is it important for children to learn to work in teams?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          35
+        ]
+      },
+      "related": "sp-personal-2c751d06d50da305",
+      "referencePage": null
+    },
+    {
+      "id": "sp-personal-77296cfc6d6eb7a8",
+      "part": 3,
+      "topic": "团队合作",
+      "prompt": "What kind of group activities do children do at school?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          35
+        ]
+      },
+      "related": "sp-personal-2c751d06d50da305",
+      "referencePage": null
+    },
+    {
+      "id": "sp-personal-3f4cc2bdf5642768",
+      "part": 3,
+      "topic": "团队合作",
+      "prompt": "Why do many people prefer to solve problems on their own rather than work in a team?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          35
+        ]
+      },
+      "related": "sp-personal-2c751d06d50da305",
+      "referencePage": null
+    },
+    {
+      "id": "sp-personal-874f0e5b6ace7371",
+      "part": 3,
+      "topic": "团队合作",
+      "prompt": "What can be difficult about leading a group?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          35
+        ]
+      },
+      "related": "sp-personal-2c751d06d50da305",
+      "referencePage": null
+    },
+    {
+      "id": "sp-personal-8782e1ea9ba50f53",
+      "part": 3,
+      "topic": "团队合作",
+      "prompt": "What are some personal qualities of a good group leader?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          35
+        ]
+      },
+      "related": "sp-personal-2c751d06d50da305",
+      "referencePage": null
+    },
+    {
+      "id": "sp-personal-82b8b04beae65b13",
+      "part": 3,
+      "topic": "团队合作",
+      "prompt": "Does the success of a group depend entirely on the ability of its leader?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          35
+        ]
+      },
+      "related": "sp-personal-2c751d06d50da305",
+      "referencePage": null
+    },
+    {
+      "id": "sp-personal-1081e480274305f6",
+      "part": 3,
+      "topic": "团队合作",
+      "prompt": "What are the advantages of countries working together on joint projects?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          35
+        ]
+      },
+      "related": "sp-personal-2c751d06d50da305",
+      "referencePage": null
+    },
+    {
+      "id": "sp-personal-87169b54eccd34ae",
+      "part": 3,
+      "topic": "团队合作",
+      "prompt": "Will translators and interpreters continue to be needed for international projects?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          35
+        ]
+      },
+      "related": "sp-personal-2c751d06d50da305",
+      "referencePage": null
+    },
+    {
+      "id": "sp-personal-a84afa1c273833ab",
+      "part": 2,
+      "topic": "久等回复的时刻",
+      "prompt": "Describe a time when you wrote a message or email to someone, but you waited a long time for the person to reply.",
+      "source": {
+        "id": "questions",
+        "pages": [
+          35,
+          36
+        ]
+      },
+      "cuePoints": [
+        "When this happened",
+        "Who you sent the message to",
+        "Why you wrote to this person",
+        "And explain how you felt about waiting a long time for this person to reply."
+      ],
+      "category": "事件题",
+      "referencePage": null
+    },
+    {
+      "id": "sp-personal-159d1a73e3bd2cd1",
+      "part": 3,
+      "topic": "久等回复的时刻",
+      "prompt": "Why do people sometimes not reply to messages?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          36
+        ]
+      },
+      "related": "sp-personal-a84afa1c273833ab",
+      "referencePage": null
+    },
+    {
+      "id": "sp-personal-8f33a54abf146a47",
+      "part": 3,
+      "topic": "久等回复的时刻",
+      "prompt": "Why do people sometimes take a long time to reply to messages?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          36
+        ]
+      },
+      "related": "sp-personal-a84afa1c273833ab",
+      "referencePage": null
+    },
+    {
+      "id": "sp-personal-ec9c5b272cd9425b",
+      "part": 3,
+      "topic": "久等回复的时刻",
+      "prompt": "What can people do when they don't receive a response to a message?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          36
+        ]
+      },
+      "related": "sp-personal-a84afa1c273833ab",
+      "referencePage": null
+    },
+    {
+      "id": "sp-personal-d55afa19727e3e75",
+      "part": 3,
+      "topic": "久等回复的时刻",
+      "prompt": "How can people show respect when communicating online?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          36
+        ]
+      },
+      "related": "sp-personal-a84afa1c273833ab",
+      "referencePage": null
+    },
+    {
+      "id": "sp-personal-d48161631b6c2b62",
+      "part": 3,
+      "topic": "久等回复的时刻",
+      "prompt": "Do you think eye contact and body language are more important than words?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          36
+        ]
+      },
+      "related": "sp-personal-a84afa1c273833ab",
+      "referencePage": null
+    },
+    {
+      "id": "sp-personal-ecadbe5a0f49fb31",
+      "part": 3,
+      "topic": "久等回复的时刻",
+      "prompt": "Should people expect others to reply to messages immediately?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          36
+        ]
+      },
+      "related": "sp-personal-a84afa1c273833ab",
+      "referencePage": null
+    },
+    {
+      "id": "sp-personal-8b6e340288218ca3",
+      "part": 3,
+      "topic": "久等回复的时刻",
+      "prompt": "Do people show more respect when communicating with strangers than with their friends?",
+      "source": {
+        "id": "questions",
+        "pages": [
+          36
+        ]
+      },
+      "related": "sp-personal-a84afa1c273833ab",
+      "referencePage": null
+    }
+  ],
+  "coachingPrinciple": "以题目实际问的内容为边界。用户按题意作答；指导只检查回应题意与表达，不强制补充题目未要求的理由、经历、细节或结构。"
+}
